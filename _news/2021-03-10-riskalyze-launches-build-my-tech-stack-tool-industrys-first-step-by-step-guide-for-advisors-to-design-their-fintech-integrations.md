@@ -101,6 +101,22 @@ related:
         width: 2415
         height: 1557
         isCached: true
+  - title: "The Financial Technology Association Launches Backed By Big Names, Seeks to Advocate on Behalf of Fintech"
+    excerpt: "A new trade group has been launched to advocate on behalf of the Fintech industry. Today, the Financial Technology Association (FTA), is hoping to educate stakeholders and support the modernization of financial regulation."
+    publishedDateTime: 2021-03-11T03:14:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/03/173079-the-financial-technology-association-launches-backed-by-big-names-seeks-to-advocate-on-behalf-of-fintech/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/173079-the-financial-technology-association-launches-backed-by-big-names-seeks-to-advocate-on-behalf-of-fintech/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/173079-the-financial-technology-association-launches-backed-by-big-names-seeks-to-advocate-on-behalf-of-fintech/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 27
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/Fintech-US-Department-of-Treasury-600x516.jpg"
+        width: 600
+        height: 516
+        isCached: true
   - title: "Chinese Fintech Giant JD Technology Is Reconsidering Potential $3B IPO due to Nationwide Regulatory Crackdown"
     excerpt: "Chinese Fintech giant JD Technology is reconsidering potential $3B IPO due to nationwide regulatory crackdown."
     publishedDateTime: 2021-03-09T03:55:00Z
@@ -146,14 +162,19 @@ related:
         height: 270
         isCached: true
   - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
-    excerpt: "Welcome! The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
-    publishedDateTime: 2021-03-10T19:01:00Z
-    webUrl: "https://www.oaoa.com/news/business/launch-financial-technology-association-to-advocate-for-consumer-centric-fintech-development/article_b6897dc7-1088-5e28-9871-398474ae5a4d.html"
+    excerpt: "Shaping the Future of Technology-Driven Financial Markets and Services. WASHINGTON--(BUSINESS WIRE)--The Financial Technology Association (FTA), a new trade group formed by leader"
+    publishedDateTime: 2021-03-10T19:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=435377"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 13
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "yk0OMKkRSrbjbLEUS6zP271xmLxlSaSB9o85/N5JA4YjQRsWnuhPIjICWt9gjUGllwbcQTwrW02m91xnf9hPW3jD8R80KDiKI5485sFr85rF/mxEba6iJUTHVxvzRv7zwLsCOrJ6A/c6qbZgI2LDn1xjgIoW3fIy4SYt+8RGduSaJkxElq04SJDTqtG+uXonfuTeqQJT6IPtly5Gvc+IiwBj6QWSZDZqjhXNi/vwE6B3na+yYJHmZMgFeMzDMMMvGpNeDYgyjptDBb5uL9GWL8aumfFbO/J5d0IkZAy6pAOuKkLdgw+VxZVkY8jjdRxiVHlBQPYfp1NGha/ry/beaXbb982Hcua98gRr3y8z4H4=;FhaPV5oj5fC6kkbzO7tPeA=="
 ---

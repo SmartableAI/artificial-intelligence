@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-23-saic-taps-chinese-chip-startup-for-self-driving-cars.md",
+      "title": "SAIC taps Chinese chip startup for self-driving cars",
+      "excerpt": "SAIC is among a list of state-backed automotive majors shifting towards startup chipmaker Horizon Robotics as a domestic substitute for global suppliers.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "originalUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/srchttp___n.sinaimg.cn_sinakd20210222ac_481_w820h461_20210222_df59-kkmphps0200711.jpgreferhttp___n.sinaimg.jpg?fit=820%2C461&ssl=1",
+          "width": 820,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "publishedDateTime": "2021-02-23T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-gab-mewe-telegram-discord-trump-fans-extremists-find-new-outlets-after-facebook-twitter-bans.md",
       "title": "Gab, MeWe, Telegram, Discord: Trump fans, extremists find new outlets after Facebook, Twitter bans",
       "excerpt": "While exclusion from major platforms has limited US conspiracy and extremist movements’ large-scale recruitment capacity, embers smoulder under the ashes.",
@@ -1138,48 +1182,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-motional-is-now-testing-fully-autonomous-vehicles-in-las-vegas.md",
-      "title": "Motional is now testing fully autonomous vehicles in Las Vegas",
-      "excerpt": "Add Motional to the very short list of companies that have tested fully autonomous vehicles on public roads. The Hyundai-Aptiv joint venture announced that it has tested its vehicles without safety drivers behind the steering wheel on public streets in Las Vegas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
-      "originalUrl": "https://www.msn.com/en-us/autos/news/motional-is-now-testing-fully-autonomous-vehicles-in-las-vegas/ar-BB1dTYx1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/wMyEN4GjNku-j3tevvKBInkwsEA=/0x0:1877x1252/1400x933/filters:focal(789x476:1089x776):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68854024/Motional1.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
-      "publishedDateTime": "2021-02-22T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
-        "domain": "theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-24-whats-going-on-at-google-ai.md",
+      "title": "What's going on at Google AI?",
+      "excerpt": "AI and ML systems have advanced in both sophistication and capability at a staggering rate in recent years. They can now model protein structures based only on the molecule’s amino-acid sequence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/whats-going-on-at-google-ai-150001422.html",
+      "originalUrl": "https://www.engadget.com/whats-going-on-at-google-ai-150001422.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/2DY1POimGIsnJeFVbIU9Uw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI0/https://s.yimg.com/os/creatr-uploaded-images/2021-02/be352a20-7618-11eb-b5ef-a6957d03dbd2",
+          "width": 1999,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/whats-going-on-at-google-ai-150001422.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/whats-going-on-at-google-ai-150001422.html",
+      "publishedDateTime": "2021-02-24T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-mit-technology-review-presents-10-breakthrough-technologies-of-2021.md",
       "title": "MIT Technology Review Presents 10 Breakthrough Technologies of 2021",
       "excerpt": "MIT Technology Review announced its 10 Breakthrough Technologies list for 2021, featuring 10 advances predicted to have a big impact",
@@ -1098,58 +1149,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
-      "title": "Why driverless cars are paradise on wheels for some",
-      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415",
-      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-301724/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T20:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

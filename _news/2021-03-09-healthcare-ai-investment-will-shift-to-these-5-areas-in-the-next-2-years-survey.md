@@ -65,20 +65,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Meet the innovators using AI to ease one of the world’s biggest healthcare burdens"
-    excerpt: "Elena Bonfiglioli, Regional Business Leader, Health and Life Sciences EMEA, Microsoft Elena Bonfiglioli, Microsoft's regional business leader of health and life sciences at EMEA, believes the ethos underpinning projects such as these is simply “to empower healthcare workers and their patients."
-    publishedDateTime: 2021-03-06T12:50:00Z
-    webUrl: "https://www.ft.com/partnercontent/microsoft/meet-the-innovators-using-ai-to-ease-one-of-the-worlds-biggest-healthcare-burdens.html"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 48
-    images:
-      - url: "https://ft.com/partnercontent/images/microsoft/01/3.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "The Other Side Of AI System Reliability"
     excerpt: "The problem is made worse when that interference comes from inside a system — or worse still, inside another system connected to that system. The more intelligence added piecemeal into devices, the greater the possibility something will go wrong."
     publishedDateTime: 2021-03-09T16:07:00Z

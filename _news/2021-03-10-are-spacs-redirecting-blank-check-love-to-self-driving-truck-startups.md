@@ -26,6 +26,24 @@ images:
     height: 666
     isCached: true
 
+related:
+  - title: "Are SPACs Redirecting Blank Check Love To Self-driving Truck Startups?"
+    excerpt: "As the special purpose acquisition companies' (SPACs) love affair with electric vehicle startups cools, infatuation backed by blank check-writing investors may blossom for"
+    publishedDateTime: 2021-03-10T17:35:00Z
+    webUrl: "https://www.benzinga.com/startups/21/03/20103109/are-spacs-redirecting-blank-check-love-to-self-driving-truck-startups"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20103109"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20103109"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/030821-plus-truck.jpg"
+        width: 1084
+        height: 666
+        isCached: true
+
 secured: "Iuvju/EWHqHyK9ofZraMIYhUW1hCFBA670cDtgu9r1NEjPo1NHyFip1ZMSF29i49nbduHCycu2k0tcvYYal0VhOWFy1dKNT67/SO4fCal5RF6c7cx2cs20v7wTeFY1rEb00tlPFBPM97+ivlUH2xHb3NKMpZB6v0YpJkflKGo16+hHawQlCNVNR5iX4jU9/jY55qq5P/bIKyIz2+rYeS/cdp7ieOw/UDNoONMpRKFs2tFaM3SWED87Ming2ogGc65JJhppUDV8s4sV3JnwiO3mAFOvAbNBJ5CoLBSyJH8yx6GLsosNdaRq8VSbKzwZDRqGyyRHUIuZOWjIZLg+Oz8eMWb8RcFsE3XQQFI+0zF1BrCI1tdxxzr73GfSStC2R2fUu1X+q/6mDKEPXiLLLTsfhX0DmNAl1OBEHLIuI98zosyzzTXxTuykvCGnPUwQsQo2ZvB9NmMtlKHQC+tqD5H/BTODTXICjxxDHbm0mLPExETicZ+KnG11TUmzAeYDDxvYCspiHgLPgKb6ScaoYq9Q==;ph+oPvVHlOXBJ63d6KGvvA=="
 ---
 

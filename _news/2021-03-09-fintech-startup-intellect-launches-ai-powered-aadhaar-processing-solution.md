@@ -87,6 +87,22 @@ related:
         width: 2415
         height: 1557
         isCached: true
+  - title: "The Financial Technology Association Launches Backed By Big Names, Seeks to Advocate on Behalf of Fintech"
+    excerpt: "A new trade group has been launched to advocate on behalf of the Fintech industry. Today, the Financial Technology Association (FTA), is hoping to educate stakeholders and support the modernization of financial regulation."
+    publishedDateTime: 2021-03-11T03:14:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/03/173079-the-financial-technology-association-launches-backed-by-big-names-seeks-to-advocate-on-behalf-of-fintech/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/173079-the-financial-technology-association-launches-backed-by-big-names-seeks-to-advocate-on-behalf-of-fintech/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/173079-the-financial-technology-association-launches-backed-by-big-names-seeks-to-advocate-on-behalf-of-fintech/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 27
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/Fintech-US-Department-of-Treasury-600x516.jpg"
+        width: 600
+        height: 516
+        isCached: true
   - title: "Chinese Fintech Giant JD Technology Is Reconsidering Potential $3B IPO due to Nationwide Regulatory Crackdown"
     excerpt: "Chinese Fintech giant JD Technology is reconsidering potential $3B IPO due to nationwide regulatory crackdown."
     publishedDateTime: 2021-03-09T03:55:00Z
@@ -131,6 +147,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
+    excerpt: "Shaping the Future of Technology-Driven Financial Markets and Services. WASHINGTON--(BUSINESS WIRE)--The Financial Technology Association (FTA), a new trade group formed by leader"
+    publishedDateTime: 2021-03-10T19:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=435377"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 13
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Riskalyze Launches \"Build My Tech Stack\" Tool: Industry’s First Step-by-Step Guide for Advisors to Design Their FinTech Integrations"
     excerpt: "Using Riskalyze's new proprietary tool, advisors can quickly assemble their ideal tech solutions, saving countless hours of frustration AUBURN, Calif.-- (BUSINESS WIRE)-- #FinTech -- Riskalyze, the company that serves tens of thousands of financial advisors with risk alignment and portfolio analytics,"
     publishedDateTime: 2021-03-09T17:08:00Z
@@ -145,15 +175,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
-    excerpt: "Welcome! The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
-    publishedDateTime: 2021-03-10T19:01:00Z
-    webUrl: "https://www.oaoa.com/news/business/launch-financial-technology-association-to-advocate-for-consumer-centric-fintech-development/article_b6897dc7-1088-5e28-9871-398474ae5a4d.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
 
 secured: "asayEAwUj7RImi/lh5Fj20+/ewaNe2HxjcP6yFsLcXvSmHtj9NG721tzowmMwLAFJgIclKzvP8jDcMKy3LbPHRZPKTLSOaMBdG7/gvDhRmApy0AAzfj0PipfmCman0NnTPtBfUoCC73dzV7/4ES+T5+UUWJrzb3ppSWQXlCnA5xlRDE7/0vk6Xq3SfBbt6tE6Qpj0u4++O3i4W0nev8WGZx7B4906CdDReimqffdIQPGuvZUmzzdw67+yKhX32kTFi5UGrSfx/1VT1krK5jSnb/oDpd6u2NSuzsofy3evCuw4lDS7bCb9dE0/dwvZcU9/iYetO485el12ZNfe+bTEdrg1o4/WbXnop4QBBEPWcQEb8uFnqi39ucWxhaOkwPhpRL0NcNuysZqH0RcA80kkfyWoRAfmPYUS8lWy2VB//3cHkDfQnCD2BCynZ8Z6eKtdvC6Jxthii4/lz1N494GfbeNtM1craIeggbc9luYbOrnGYmBtU172pn1hYgCFm/jzOIzn0VIJVDY3FF/0B6SmA==;XItRwyGh67Spot6ksVZMiQ=="
 ---

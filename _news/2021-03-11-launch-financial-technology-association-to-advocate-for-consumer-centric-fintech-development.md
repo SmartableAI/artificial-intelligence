@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
-excerpt: "Welcome! The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
-publishedDateTime: 2021-03-10T19:01:00Z
-originalUrl: "https://www.oaoa.com/news/business/launch-financial-technology-association-to-advocate-for-consumer-centric-fintech-development/article_b6897dc7-1088-5e28-9871-398474ae5a4d.html"
-webUrl: "https://www.oaoa.com/news/business/launch-financial-technology-association-to-advocate-for-consumer-centric-fintech-development/article_b6897dc7-1088-5e28-9871-398474ae5a4d.html"
+excerpt: "Shaping the Future of Technology-Driven Financial Markets and Services. WASHINGTON--(BUSINESS WIRE)--The Financial Technology Association (FTA), a new trade group formed by leader"
+publishedDateTime: 2021-03-10T19:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=435377"
+webUrl: "https://us.acrofan.com/detail.php?number=435377"
 type: article
-quality: 0
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
 
 related:
   - title: "How Fintech Is Evolving In 2021"
@@ -95,6 +101,22 @@ related:
         width: 2415
         height: 1557
         isCached: true
+  - title: "The Financial Technology Association Launches Backed By Big Names, Seeks to Advocate on Behalf of Fintech"
+    excerpt: "A new trade group has been launched to advocate on behalf of the Fintech industry. Today, the Financial Technology Association (FTA), is hoping to educate stakeholders and support the modernization of financial regulation."
+    publishedDateTime: 2021-03-11T03:14:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/03/173079-the-financial-technology-association-launches-backed-by-big-names-seeks-to-advocate-on-behalf-of-fintech/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/173079-the-financial-technology-association-launches-backed-by-big-names-seeks-to-advocate-on-behalf-of-fintech/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/173079-the-financial-technology-association-launches-backed-by-big-names-seeks-to-advocate-on-behalf-of-fintech/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 27
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/Fintech-US-Department-of-Treasury-600x516.jpg"
+        width: 600
+        height: 516
+        isCached: true
   - title: "Chinese Fintech Giant JD Technology Is Reconsidering Potential $3B IPO due to Nationwide Regulatory Crackdown"
     excerpt: "Chinese Fintech giant JD Technology is reconsidering potential $3B IPO due to nationwide regulatory crackdown."
     publishedDateTime: 2021-03-09T03:55:00Z
@@ -154,6 +176,6 @@ related:
         height: 339
         isCached: true
 
-secured: "DRgX6s26M54DwY2LQ76pMbjs6CWaxExriUtoo5Ivlz2ocsmcQcN6VgZ/5X+airf86PdAJq0ehnVlgHf9JRQssiU5xlYK9HIluktY7aeYzz/M8dzxF/iFhSRNTziyrAf6YNWCaG1KY99VH61ptq8G1kMoXusqljIy7BxR4Faf82RC0RrjL6a51LIxud2aGrXp2Cg9lGNfRfVApYF1md0pE4JV0rXLXzLClZbfF9jGid0ISm1AhMLbTTfDfs8RUCXvcIGiEt7iNYWVdnNsISHtsxu30yGGNVwSAYRMNmd/wQy55ZBx2OfqgHnHmGHlLNpEspaWIZpd2FckKLuDE2yX0b7i91V/0cuwzbOWeha3Vco=;0hNHsiBxvbanKWajixEmmg=="
+secured: "fzWCf2OGFEu61u4PDRyV3QvtkCXTUE26tBHM2B+wIPbaq+XfhHg7LjLyytSUueJSqs44qAe5quYHnjKxyap7c0F2PueES7zvG0MaLhcaoFQd4QMtjLK6qVU4tQ0lR5wRgaHavkAHXDVtFwidGK6JHyZ9PSAyxbNJwQeHgV9JKuJjXZz0EUWp+hDALsHFKNLbQP9gFjQtbXZKlmxt8XM1l6lWUKigqRCQUtyztdlmg0B7GqQlLxMWdnmty0fpWU/4bhplc79+vKzCfABNtlzRjF0sb1/2T6FvMFwj+pnnu3XYNG21jSbWymd/KAg6V0ggIPpYBAB0eSfsnCZL86xdwoWot2/on/rzvp3WW9HoIKo=;SehpcqRMh7ASCnVzgyZbNQ=="
 ---
 

@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Sources: TikTok owner makes automotive bet with investment in QCraft"
-    excerpt: "The development follows other tech giants making their own bets in the self-driving space, such as Baidu and Tencent. China, the world’s biggest vehicle market, is looking to have smart cars ..."
-    publishedDateTime: 2021-03-06T12:46:00Z
-    webUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft?_escaped_fragment_=&ref=todayheadlines.live"
+  - title: "ING invests in credit scoring startup Flowcast"
+    excerpt: "ING Ventures is investing an additional $3 million into Flowcast, a fintech startup that applies AI to the credit and collection process for non-performing loans."
+    publishedDateTime: 2021-03-08T11:09:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37621/ing-invests-in-credit-scoring-startup-flowcast"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 34
+      name: Finextra
+      domain: finextra.com
+    quality: 22
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/ing.jpeg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "mBIz+P6AvN4GGD1nGFBX9GaYiwQfSdB+YpRK+aamcIrMx11BiLBuwpQrzKubiMcd0LPDfB3PC3Erm9JVk3bN4h2CE9PcgVQC2IF3v9yXDqtw//31ch681lvNQIfxCdAS2h07z2YXs3UAWlJPt59U4/q5thmVW0F2oYCxYVhzBG0BD9dGfCnvI03Gr2FVAEx5GOVtLgbm13MRRRjN9PzlCw5CRvG37LKtkjZdyoz7F55eqpkWTgMpt5WNMJJBmAPiYqvUFvkP7UeW3N/lbUEpiS6//J/fv1T3vBSOYNrOmQVtWe2VEpEzDPPpgLZdFq4SCQ+TEzTFsPrvM653BEn/+5e70RiEZI6fmCPr2cu6tryhC1TQK6PyFyvfMWz4ViqBXvnjuQsuMKbwhrpMjCpJ32Ib10xn4tAfl515yTJ11LLjHkAOFyWCHamPHhmICxrPdhNsrqM+K/V1071DNsMUs9nxMcLRZpiM9+ERTOGZlyEbfCbqlB/r4DKIEOIC3RPhd0t+GDAJo6i67hb2bMaOpA==;WUBp2TRVNmSr4u4GuzUwRg=="
 ---
