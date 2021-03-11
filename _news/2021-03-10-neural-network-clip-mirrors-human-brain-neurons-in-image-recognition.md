@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-neural-network-mirrors-human-bra
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp"
 type: article
 quality: 74
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
-  - title: "Elon Musk-founded Startup Discovers Artificial Neurons Only Been Seen In Human Brain"
-    excerpt: "Researchers at Open AI, a startup founded by Elon Musk, have discovered neurons within an AI system that have only previously been seen in the human brain."
-    publishedDateTime: 2021-03-06T07:39:00Z
-    webUrl: "https://www.republicworld.com/world-news/us-news/elon-musk-founded-startup-discovers-artificial-neurons-only-been-seen-in-human-brain.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 32
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/8qdxohp7yqcyelal_1615010547.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
 
 secured: "zRFtQ9AbGE6e8NStaQU7H3hT+TAp2yAEHbqAcxopm/HM6svpMXO0uLQWddhRJBPJysccCJPMFDop+bxP8YNYIpbznV1Y7GpTBw2qIf+xkdZIrp3181n5iMTP71UCVk9e2aWe1T2ZYzG3YLwVnDrjd5cZk/MoJ+loUkh43StD2r93E4+rjI9OnedsuDk8dQuOOJikDjaO6O4JEmagc1cs78woB5eu3xHkI7KIElqi0v9kJYM4zhJbzxAWiv/e4FDt9Sq/94p71wVWESljTpv9B0GSAQS62iJDa+06CWwOO2Hf+oNODWU7SdKDGjy/tjawaKP9+xfb7l1yBH1PDb9SmlxTpDOUG0fNdyWIiPjiNnvHP3z7AYijV1RYgpkwkgGBjF6XReGn0vn0WQ/fNiV8OV2jEXD/BW2hOZg8CbYFA72bHz7k7Lc3A8EaFr2mbHVekE6k4UMyYCaGP0Uw309FrClADmR2Yn1Wpt9Om3QcEs/cA5TPoMkw8/aTt9l0DQJGdx0MM2yI43HoOaCZPQQm1A==;vNvhMc6KGx3Aih275Zyl1Q=="
 ---

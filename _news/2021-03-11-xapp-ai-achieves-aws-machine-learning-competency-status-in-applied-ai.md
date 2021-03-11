@@ -41,19 +41,42 @@ related:
         height: 480
         isCached: true
   - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the"
-    publishedDateTime: 2021-03-10T21:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-19693389.html"
+    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+    publishedDateTime: 2021-03-10T21:16:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 72
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 70
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
+  - title: "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI"
+    excerpt: "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
+    publishedDateTime: 2021-03-10T21:31:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-19e7126ed40e44e4b14572b402c260d7"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
+    excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
+    publishedDateTime: 2021-03-11T00:09:00Z
+    webUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 36
 
 secured: "/QiyVaNHJfI86z9hQJdfqUQrY1ZLuLcDmRKvm3co5hyCALljPH2NEq0u/g8AEwy+mGLb0iBKCkiy/ftQnhlDcggl7Mi1vupeNu0dqUb6PvMIY7718kwwL+BzBKagLLYdf4iY2Qv7cUqeDxX9FGQV/Z5WeDDVcL/uGoHsIE81y79nDVUqN/sldyq/wxSkiG9m/1FwweaNwHOGTphna4UdUfPfDVGPKP85iD8tySB0fQTtmcxBd/Z8gSDBBUAjZDxrmpGABN0TZbR1zqSuhSHQVLIF4wLB94GtH0AIZXPh/0SWB+jbxHXN2YsCoQRQDr1019/SlR/klakLhG4FknzBnh6Mwql6iajfuYaOXNkJTQY=;96iyBLCKGn57T62hC3eHpQ=="
 ---

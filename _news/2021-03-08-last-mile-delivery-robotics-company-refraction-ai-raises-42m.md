@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-compan
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/03/refraction-delivery-robot.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Refraction AI Raises $4.2M in Seed Funding"
+    excerpt: "Refraction AI, an Ann Arbor, MI and Austin, TX-based robotics startup, raised $4.2m in seed funding. The round was led by Pillar VC with participation from eLab Ventures, Osage Venture Partners, Trucks Venture Capital,"
+    publishedDateTime: 2021-03-10T22:48:00Z
+    webUrl: "https://www.finsmes.com/2021/03/refraction-ai-raises-4-2m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/03/refraction-ai.png"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "7VEcamkNyFlFFsgQoWBEdJPXGTH1RQwUeVRONmm8sySgqb0VsmYqsedkQbx/XiKXNaMS5rBPLBa6JaAZbMuoInD31j+KLiDr1xO/lXcmlRXqwie01zOTrRHA4llpCbl/CzNQvP29s+LD6nnxwsAkGyTbeBxlmx3/OjYWEBoSv0x+ZQWg/zfidJzuMdMrOlp0WVtkI33MOoCRyxGE+o5JCeSFSWsXf7bcCjhAbRYV1Zeoj0sw8O79RXR+1nY9fCMvTFM/LHwpMrxTxrHavCH1dpeWbenVsTcCq70zlHYG6BbYJTNm8Vih/xsXm2CUqJR9lafrC6YZFEUZ3OJaHUPXbD0NHUZ4CM3oQ71psjUBMgQmeHUkKGMe8JDU5gt+tvcVdSzrOUhaq7/3ldqhvw7wrkRJNulbrrMg/uSat4QJquLKSqYuSkkHVTJVVLkUQJ6igSCP5RmPs7m/Faq2KH7BQPNljCircO2IltXmqyzaZ1rNUq5qVV1SOtCYSbVcyce44X1my9qgXVebx3sf+A3VhQ==;+HhR3qWW9/rUbZPznxbfvg=="

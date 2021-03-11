@@ -46,14 +46,14 @@ related:
   - title: "After denials, Va. police department admits detectives used controversial facial recognition tech"
     excerpt: "VIRGINIA BEACH, Va. (AP) — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a ..."
     publishedDateTime: 2021-03-10T15:40:00Z
-    webUrl: "https://fredericksburg.com/news/article_70a3fcbf-15f7-59eb-bfd8-8a96c58708e4.html"
+    webUrl: "https://roanoke.com/news/state-and-regional/after-denials-va-police-department-admits-detectives-used-controversial-facial-recognition-tech/article_04fab717-a970-54a3-bfe8-51d1c3e2ba89.html"
     type: article
     provider:
-      name: Fredericksburg.com
-      domain: fredericksburg.com
+      name: The Roanoke Times
+      domain: roanoke.com
     quality: 26
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/0a/70a3fcbf-15f7-59eb-bfd8-8a96c58708e4/6048e71679608.preview.jpg?crop=898%2C505%2C11%2C0&resize=898%2C505&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/0/4f/04fab717-a970-54a3-bfe8-51d1c3e2ba89/6048e71693e60.preview.jpg?crop=898%2C505%2C11%2C0&resize=898%2C505&order=crop%2Cresize"
         width: 898
         height: 505
         isCached: true

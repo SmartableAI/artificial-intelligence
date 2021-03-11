@@ -3,23 +3,23 @@ category: news
 title: "After denials, Va. police department admits detectives used controversial facial recognition tech"
 excerpt: "VIRGINIA BEACH, Va. (AP) — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a ..."
 publishedDateTime: 2021-03-10T15:40:00Z
-originalUrl: "https://fredericksburg.com/news/article_70a3fcbf-15f7-59eb-bfd8-8a96c58708e4.html"
-webUrl: "https://fredericksburg.com/news/article_70a3fcbf-15f7-59eb-bfd8-8a96c58708e4.html"
+originalUrl: "https://roanoke.com/news/state-and-regional/after-denials-va-police-department-admits-detectives-used-controversial-facial-recognition-tech/article_04fab717-a970-54a3-bfe8-51d1c3e2ba89.html"
+webUrl: "https://roanoke.com/news/state-and-regional/after-denials-va-police-department-admits-detectives-used-controversial-facial-recognition-tech/article_04fab717-a970-54a3-bfe8-51d1c3e2ba89.html"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: Fredericksburg.com
-  domain: fredericksburg.com
+  name: The Roanoke Times
+  domain: roanoke.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/0a/70a3fcbf-15f7-59eb-bfd8-8a96c58708e4/6048e71679608.preview.jpg?crop=898%2C505%2C11%2C0&resize=898%2C505&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/0/4f/04fab717-a970-54a3-bfe8-51d1c3e2ba89/6048e71693e60.preview.jpg?crop=898%2C505%2C11%2C0&resize=898%2C505&order=crop%2Cresize"
     width: 898
     height: 505
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 800
         isCached: true
 
-secured: "6XwuR1fgyBL4UoZDQZQYUlZw1iLE0NumGTB43jS0lF2G5cwXRUUwEa5VW6gpMNJIIHcXJNVKBX9SJJyVm2YdcAO2W4EreauOtSq2SrV/i+g3m8PK79qer3Bx3d/CrJ7234Job9ij3zi/fe6XD/nl2b2CYfU5oMLm8nsbabXgep54tHsKiVD82dslGRlD1UYz9jUenjx3O1cfPBbtzN4eWA1UNZ4IU/XeZCrPVYNPOGN6ELSMO6sMKxpVEPXvLamDzzTwldxgOvko+80lOxzO7q6PfIziiXpcumPA1Cecqj3FtFtPJzmMfB9McvcVnAnc0ZZmQBppuPFCfPD7NDCEZVw8shgd+YEDGHEUEH5v8r8=;sEyEqKefZ0dOKff5lSyrnA=="
+secured: "ScXFEYh1gHWF4sI6ag7l4NQqAhzN1FWK0pTPdGvJZakrNppqnqFZkFiEBLm+Rq6Org8/jhYumYfqw5UqNckVuXFq7ZufROfY4qqvTNuOJir/hxbeIeB03bwMpkF0U28YXvH2N0CG2sJFLG2gqHMhOBPTdPTHYGjkY68R+aQwPECvduFXGlLQ6reBwDUsk2R8OK6QhdkiFBjJFfp2KBXuJu9vrhRL+1efTjq07a8+T8dluHYtXr9F+lM/V8eBVpqWTr/1jk2K8ZUrmefUQYmcg2x2HDirVbqxHo3Sk9e2xTw5vU2/PyD1KaAF5i6KsU3SGAnyuYqUOUBlJdfPozi9QF0PHUNICBw/1tsr0uxkVgE=;fhqpT9IVuCtYyew+Suc3ng=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Refraction AI Raises $4.2M in Seed Funding"
+    excerpt: "Refraction AI, an Ann Arbor, MI and Austin, TX-based robotics startup, raised $4.2m in seed funding. The round was led by Pillar VC with participation from eLab Ventures, Osage Venture Partners, Trucks Venture Capital,"
+    publishedDateTime: 2021-03-10T22:48:00Z
+    webUrl: "https://www.finsmes.com/2021/03/refraction-ai-raises-4-2m-in-seed-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/03/refraction-ai.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "siOwQNKkjGSZU1EikfDZrVQGGWGGfXBA41pB1iKJsWMFIAfRX3w+42Xsb4Vue+fX51GURSLoNljS486rHuElUUeIU8H5DQYtTn/w1hPncBl40VBA8XC3FXTkOpUcicYOiNdGxS4BM40bWaXj3NUfX2fWvo8IabyJyL9z7KGWF3yoUtOEk1e3hd0RtBgQyyvG41PNZEIbVlYpFSKuKBjpoymMLMuZg845gg2RCER2M03gQDsewfs/gZNTS78xk/iNmIZBaIz70RfWx5MjP52Gr7jsUSC//0R5/gwS33jkdJdmv9xNCJ3E8Ld9CTuPqva9qfSqyPBU/DQHEA3SaTCISnldNvn3yusaSbapTDmF9dyK/vq9IzeQs92xwCHxPl1ASxHO1pMUuVK3AEWuIiLfx+r18H8fDuqcadjIHocgMS3Mk0IQ6Fp+EJYF3b79E4+QbnUVP2Y25HWAb4D88+z3fPRUVEfaFzoL88L76dFY2YxoUHdkRsif+aGa5Z6kDFImM4vpzmQPtC5H30CYb7lYzw==;uFKAkSI/T/9AGepj9g+bMw=="
 ---

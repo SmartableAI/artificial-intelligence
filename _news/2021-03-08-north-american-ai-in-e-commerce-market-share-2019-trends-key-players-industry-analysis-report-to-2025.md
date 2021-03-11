@@ -84,6 +84,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "Artificial Intelligence in Transportation Market Top Key Players, Global Trend, Opportunities & Forecast 2020 - 2027"
+    excerpt: "Significant driving forces shaping the future of the Artificial Intelligence in Transportation market for the forecast period 2020 - 2027 find a special mention in the study and are backed by a real-time statistics."
+    publishedDateTime: 2021-03-10T15:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-top-key-players-global-trend-opportunities-forecast-2020---2027-2021-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Software Market 2020 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
     excerpt: "Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2026"
     publishedDateTime: 2021-03-08T21:29:00Z

@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Activists Sue Clearview AI, Alleging Facial Recognition Surveillance"
+    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
+    publishedDateTime: 2021-03-10T22:59:00Z
+    webUrl: "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/"
+    ampWebUrl: "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/"
+    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/"
+    type: article
+    provider:
+      name: Law Street Media
+      domain: lawstreetmedia.com
+    quality: 76
+    images:
+      - url: "https://lawstreetmedia.com/wp-content/uploads/2019/12/iStock-1180187740-1024x697.jpg"
+        width: 1024
+        height: 697
+        isCached: true
   - title: "Lawsuit claims facial recognition company stockpiled personal data"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world."
     publishedDateTime: 2021-03-10T05:09:00Z

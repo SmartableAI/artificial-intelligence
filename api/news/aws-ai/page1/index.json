@@ -10,7 +10,7 @@
       "originalUrl": "https://www.lelezard.com/en/news-19693395.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -560,33 +560,24 @@
     {
       "path": "_news/2021-03-03-pga-tour-selects-aws-as-its-official-cloud-provider.md",
       "title": "PGA TOUR Selects AWS as Its Official Cloud Provider",
-      "excerpt": "PGA TOUR uses AWS machine learning and analytics to bring fans closer to the course and transform how they experience the world’s greatest golf tournaments AWS, First Tee, and the TOUR will partner to empower children and teenagers to build inner-strength,",
+      "excerpt": "The TOUR will then use Amazon Rekognition (AWS&CloseCurlyQuote;s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata like player names and sponsor logos. This will ...",
       "sourceUrl": null,
-      "webUrl": "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/",
-      "originalUrl": "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/",
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/03/02/pga-tour-selects-aws-as-its-official-cloud-provider",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/03/02/pga-tour-selects-aws-as-its-official-cloud-provider",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/",
-      "cdnAmpWebUrl": "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/",
-      "publishedDateTime": "2021-03-02T19:05:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T02:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "digitalproducer.com",
-        "domain": "digitalproducer.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

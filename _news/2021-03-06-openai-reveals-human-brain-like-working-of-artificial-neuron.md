@@ -37,20 +37,6 @@ related:
         width: 846
         height: 620
         isCached: true
-  - title: "Elon Musk-founded Startup Discovers Artificial Neurons Only Been Seen In Human Brain"
-    excerpt: "Researchers at Open AI, a startup founded by Elon Musk, have discovered neurons within an AI system that have only previously been seen in the human brain."
-    publishedDateTime: 2021-03-06T07:39:00Z
-    webUrl: "https://www.republicworld.com/world-news/us-news/elon-musk-founded-startup-discovers-artificial-neurons-only-been-seen-in-human-brain.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 32
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/8qdxohp7yqcyelal_1615010547.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
-        isCached: true
 
 secured: "c9V9xBHHes4PsYth2YVt0LUUxzrU1hyq73FoZsVLFX1EVi1WXKcg3uLzFVtgGjng1SHeC+0wjQL27Ke/OgME8wCVWkNi2iWIOYDF08rvsBA3QJKXV3S5IO6VJ/R1h8sawUTo5VW7s1QCZLe0OFZb/Ar5Pgj0SdbF6a9RaFAYNquYrIAGGyicODPwNscNdoJcri8shmHOMwnnzA9fPOpCFHOECg4gKk6Ey2OlRSx2C/KTlsrE0rrjvbGJ9KaH29MzLt8lwrikxrJb8XlWyLexN1RxsCQn26gr5DapLamNnutMmHvgH5nmw2gECFrToAaogaBClmd25RGMvZy1ErE0ozl7yobDNUFhGLMM3l7dxIs=;ZgBdZ2vA/xi04pXQkUzRHw=="
 ---

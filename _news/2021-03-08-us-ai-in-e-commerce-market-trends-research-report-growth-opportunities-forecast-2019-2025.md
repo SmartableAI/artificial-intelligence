@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Transportation Market Top Key Players, Global Trend, Opportunities & Forecast 2020 - 2027"
+    excerpt: "Significant driving forces shaping the future of the Artificial Intelligence in Transportation market for the forecast period 2020 - 2027 find a special mention in the study and are backed by a real-time statistics."
+    publishedDateTime: 2021-03-10T15:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-top-key-players-global-trend-opportunities-forecast-2020---2027-2021-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "North American AI in E-commerce Market Share 2019: Trends, Key Players, Industry Analysis, Report to 2025"
     excerpt: "North American AI in e commerce market is projected to grow at a CAGR of 26 1 during the forecast period 2019 2025 E commerce players have thousands of parcels to deliver at various locations globally There is a high"
     publishedDateTime: 2021-03-08T11:42:00Z

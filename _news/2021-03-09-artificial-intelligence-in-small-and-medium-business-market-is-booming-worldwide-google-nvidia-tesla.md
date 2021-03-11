@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How NVIDIA AI Enterprise Suite Simplifies AI Deployment"
+    excerpt: "GPU market leader and AI thought leader NVIDIA revealed its NVIDIA AI Enterprise, a comprehensive suite of enterprise-grade AI tools and frameworks. The software brings together everything a business would need to deploy an AI system and is optimized,"
+    publishedDateTime: 2021-03-11T00:23:00Z
+    webUrl: "https://www.eweek.com/networking/how-nvidia-ai-enterprise-suite-simplifies-ai-deployment/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/01/NVIDIA.logo_.black_.green_.jpg"
+        width: 1901
+        height: 1353
+        isCached: true
   - title: "NVIDIA AI Enterprise Software Suite introduced"
     excerpt: "NVIDIA has introduced a new software suite of enterprise-grade AI tools and frameworks in the form of the AI Enterprise Software Suite. NVIDIA"
     publishedDateTime: 2021-03-10T14:15:00Z
