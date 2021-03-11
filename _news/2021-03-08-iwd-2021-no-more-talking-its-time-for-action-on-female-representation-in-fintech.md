@@ -148,18 +148,18 @@ related:
         height: 314
         isCached: true
   - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
-    excerpt: "Shaping the Future of Technology-Driven Financial Markets and Services. WASHINGTON--(BUSINESS WIRE)--The Financial Technology Association (FTA), a new trade group formed by leader"
-    publishedDateTime: 2021-03-10T19:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=435377"
+    excerpt: "The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
+    publishedDateTime: 2021-03-10T19:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-government-business-and-finance-products-and-services-government-regulations-0e7900f327ee4406a0581a8842ff8ffa"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: Associated Press
+      domain: apnews.com
     quality: 13
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Riskalyze Launches \"Build My Tech Stack\" Tool: Industry’s First Step-by-Step Guide for Advisors to Design Their FinTech Integrations"
     excerpt: "Using Riskalyze's new proprietary tool, advisors can quickly assemble their ideal tech solutions, saving countless hours of frustration AUBURN, Calif.-- (BUSINESS WIRE)-- #FinTech -- Riskalyze, the company that serves tens of thousands of financial advisors with risk alignment and portfolio analytics,"

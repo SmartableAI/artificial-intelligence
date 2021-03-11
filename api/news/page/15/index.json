@@ -108,6 +108,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-25-aaa-survey-shows-less-interest-in-self-driving-cars-than-in-fine-tuning-todays-safety-systems.md",
+      "title": "AAA Survey Shows Less Interest in Self-Driving Cars Than in Fine-Tuning Today's Safety Systems",
+      "excerpt": "100% of the fees we collect are used to support our nonprofit mission. Learn more. The road to self-driving cars is paved by the active driver assist systems that are available on most cars today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.consumerreports.org/autonomous-driving/aaa-survey-self-driving-cars-todays-active-safety-systems/",
+      "originalUrl": "https://www.consumerreports.org/autonomous-driving/aaa-survey-self-driving-cars-todays-active-safety-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f1.media.brightcove.com/8/1078702682/1078702682_6186323527001_6185173516001-vs.jpg?pubId=1078702682&videoId=6185173516001",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T21:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Consumer Reports",
+        "domain": "consumerreports.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-aws-announces-general-availability-of-amazon-lookout-for-vision.md",
       "title": "AWS Announces General Availability of Amazon Lookout for Vision",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Vision, a",
@@ -1163,58 +1206,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-aquarium-scores-26m-seed-to-refine-machine-learning-model-data.md",
-      "title": "Aquarium scores $2.6M seed to refine machine learning model data",
-      "excerpt": "Aquarium, a startup from two former Cruise employees, wants to help companies refine their machine learning model data more easily and move the models into production faster. Today the company announced a $2.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/",
-      "originalUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/60301667d6a4b05d1ccbdcde_team-copy.png?w=680",
-          "width": 680,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/amp/",
-      "publishedDateTime": "2021-02-24T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

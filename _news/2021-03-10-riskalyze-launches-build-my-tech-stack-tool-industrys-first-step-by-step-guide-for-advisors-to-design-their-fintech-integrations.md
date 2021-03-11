@@ -162,18 +162,18 @@ related:
         height: 270
         isCached: true
   - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
-    excerpt: "Shaping the Future of Technology-Driven Financial Markets and Services. WASHINGTON--(BUSINESS WIRE)--The Financial Technology Association (FTA), a new trade group formed by leader"
-    publishedDateTime: 2021-03-10T19:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=435377"
+    excerpt: "The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
+    publishedDateTime: 2021-03-10T19:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-government-business-and-finance-products-and-services-government-regulations-0e7900f327ee4406a0581a8842ff8ffa"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: Associated Press
+      domain: apnews.com
     quality: 13
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "yk0OMKkRSrbjbLEUS6zP271xmLxlSaSB9o85/N5JA4YjQRsWnuhPIjICWt9gjUGllwbcQTwrW02m91xnf9hPW3jD8R80KDiKI5485sFr85rF/mxEba6iJUTHVxvzRv7zwLsCOrJ6A/c6qbZgI2LDn1xjgIoW3fIy4SYt+8RGduSaJkxElq04SJDTqtG+uXonfuTeqQJT6IPtly5Gvc+IiwBj6QWSZDZqjhXNi/vwE6B3na+yYJHmZMgFeMzDMMMvGpNeDYgyjptDBb5uL9GWL8aumfFbO/J5d0IkZAy6pAOuKkLdgw+VxZVkY8jjdRxiVHlBQPYfp1NGha/ry/beaXbb982Hcua98gRr3y8z4H4=;FhaPV5oj5fC6kkbzO7tPeA=="

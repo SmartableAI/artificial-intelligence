@@ -40,14 +40,21 @@ related:
         height: 750
         isCached: true
   - title: "Assessing regulatory fairness through machine learning"
-    excerpt: "Applying machine learning to a U.S. Environmental Protection Agency initiative, researchers reveal how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators."
-    publishedDateTime: 2021-03-08T20:04:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210308134043.htm"
+    excerpt: "The perils of machine learning – using computers to identify and analyze data patterns, such as in facial recognition software – have made headlines"
+    publishedDateTime: 2021-03-09T15:22:00Z
+    webUrl: "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/"
+    ampWebUrl: "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 74
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2021/03/AI_policymaking.jpg"
+        width: 1500
+        height: 750
+        isCached: true
 
 secured: "M7YeyD2DmLRd4EucDMYhLx5E6cAar5l6ikHlx5WfZrv7n4tkA47NADxO8dITNQlch9vS6u261DdIx2w/ZQYLvH7JVAY65HzlWDsWiS2aIlrcPPw95dzzkmIoH3q/Q6zwPdTU4tYQL7CwYsaQwbl1Fa73RGd4AAfDa+kzO/6BsVmAfoKrkjVmM4eNQ9NMZE6a4dnURn2Okkn/x61XPTjdoUGmBD/X4+gEgV6dMWPI/DZ2tb3XGSz+Yd+uKXb5FziFk72rJ8wUPT6O2+y/XmSQ7SWCqRdWCepWME2PUUYZECb8n+9GRc4/cADQ72nBxSvoM4D7vQMY+8/90Z8DRVFknXJVfuzoL/YmBEQxsLyFBjFfZDT2fO4XEoiB2/r9ItcrEchRCl5kSqkj2C/ursWwHujtPSh0r1Z1q5DJZqdOC/x5IGkQeEDDicEwWFbCzivVnXwEfQZ42xXCcXGkSPnM0atU43d7F2+Pl3eau5g3+WIe17Ae3leePV5cYaLGGDZ/ALjwaoGW3jWzz62uuDGNfA==;K71TB5I925zLKf+hMdUpaQ=="
 ---

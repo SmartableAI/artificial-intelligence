@@ -148,18 +148,18 @@ related:
         height: 270
         isCached: true
   - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
-    excerpt: "Shaping the Future of Technology-Driven Financial Markets and Services. WASHINGTON--(BUSINESS WIRE)--The Financial Technology Association (FTA), a new trade group formed by leader"
-    publishedDateTime: 2021-03-10T19:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=435377"
+    excerpt: "The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
+    publishedDateTime: 2021-03-10T19:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-government-business-and-finance-products-and-services-government-regulations-0e7900f327ee4406a0581a8842ff8ffa"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: Associated Press
+      domain: apnews.com
     quality: 13
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Riskalyze Launches \"Build My Tech Stack\" Tool: Industry’s First Step-by-Step Guide for Advisors to Design Their FinTech Integrations"
     excerpt: "Using Riskalyze's new proprietary tool, advisors can quickly assemble their ideal tech solutions, saving countless hours of frustration AUBURN, Calif.-- (BUSINESS WIRE)-- #FinTech -- Riskalyze, the company that serves tens of thousands of financial advisors with risk alignment and portfolio analytics,"
@@ -176,6 +176,6 @@ related:
         height: 339
         isCached: true
 
-secured: "GH9PhIcXVLPh1hFlG5vniWz61ySn0vU3U4k9jMftBXBm7Tvu9C4bfJZ0IICSi0h4Mw91f9d2NI37LpcsD3m40hcH0Zsk4vOqz4Pg0z312aFHUsSRHGFiwVwWIHYLeIPDx+1JpVt7vCWatLIeQ83ERWx8OaZnFFQLZWtPd3+KiusDHz/ABz6D4n9m5Gpo5H6OIUdmWDbCwFA9MjPSejuUWHjkV6qcgqZgpSrkCAb2H1VWZzHc851n5r/nfeWF8NCG9L6l7RZdslNOU/d0vgnFrbZBRmeaDak3EhXmJ0fSZbRyBqDe572fd3HUZZgd6mcrS3Oa1InkymhMDNjYuk3yaXnveQkwXgMXnQsYRzfm8H8=;NjnrDAPhCJ5BBE9jxrLoqg=="
+secured: "MjdKHgPQudP987p/xT8ktk71zX53LYpUdTWkXZeDGsLCAcKvfGDOWejzZ/h5dyu5dMt9VJrezo6WQg8QOeXLg0SAO3s5dF1Z94XtUztTKBvf2rsw6AbPl7coPh6Qjx//+qoFMXwAU39/SGj1f6R2G/+F5wOXwU3H1VZS6dAVEI4egZGZEcfFICbglzHuR40eU4p/JV8Nbum8gYZ9qe0NJzCx3IsTLVlAewkEpqLaB8eCNc7xpoLSho5HoUL5fqTE8atEr4Fdmg05zzv64wGBbYLqteCoyqL6CQfLDEKnI/LTS3c5Wuqydb6DGs0Gi2/jPRKqcSyVC+h+kxWSi+BaK/2E4gzQW4Pz3ZtMARaFnPyvF2n7cphPM0awcOCMrK7ZjgV66bxpAvRdcegFOA3VeXDFaggKXU2pY8ToIO/3x/MRfqLkMW8bXo2FEA83WsThhABD1T5B13QABK2JYRCGzPEpfLbXxnBhdz2hnfKc44txQ1OdlbqJN8QVJr7ru0m+F3tV5cWn2hjjku3Yg9QnUA==;tImrjPlNgQklOyD1W/Vfbw=="
 ---
 

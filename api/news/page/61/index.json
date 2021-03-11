@@ -2,6 +2,58 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-01-26-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
+      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
+      "excerpt": "Backed by Intel and Microsoft Azure, the OpenCV AI Competition consists of two phases: Phase 1 requires a team to identify a real-world AI problem that can be solved over a three-month period with ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/opencvai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
+      "publishedDateTime": "2021-01-26T00:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-why-most-ai-projects-fail.md",
       "title": "Why most AI projects fail",
       "excerpt": "This is the case especially in AI, a relatively new field fueling business worldwide and shifting the attention of investors to more technologically powered, sustainable and cost-effective solutions.",
@@ -1174,50 +1226,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-computer-vision-technology-and-education-sector.md",
-      "title": "Computer Vision Technology and Education Sector",
-      "excerpt": "Computer vision technology could help with this problem as it allows educators to customize how students learn. It gives them a way to observe students and measure their engagement so as to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eteknix.com/computer-vision-technology-and-education-sector/",
-      "originalUrl": "https://www.eteknix.com/computer-vision-technology-and-education-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.eteknix.com/wp-content/uploads/2021/01/Screenshot_3.jpg",
-          "width": 928,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTeknix",
-        "domain": "eteknix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

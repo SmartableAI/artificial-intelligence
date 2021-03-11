@@ -30,14 +30,21 @@ images:
 
 related:
   - title: "Assessing regulatory fairness through machine learning"
-    excerpt: "Applying machine learning to a U.S. Environmental Protection Agency initiative, researchers reveal how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators."
-    publishedDateTime: 2021-03-08T20:04:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210308134043.htm"
+    excerpt: "The perils of machine learning – using computers to identify and analyze data patterns, such as in facial recognition software – have made headlines"
+    publishedDateTime: 2021-03-09T15:22:00Z
+    webUrl: "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/"
+    ampWebUrl: "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 74
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2021/03/AI_policymaking.jpg"
+        width: 1500
+        height: 750
+        isCached: true
   - title: "Deciphering cis-regulatory grammar with deep learning"
     excerpt: "A new study builds a novel deep-learning approach to unravel the syntax of transcription-factor binding from high-resolution ChIP–nexus data. In silico simulations lead to experimental validation of complex sequence-based predictions: helical periodicity and directional cooperativity between transcription factors."
     publishedDateTime: 2021-03-08T16:19:00Z

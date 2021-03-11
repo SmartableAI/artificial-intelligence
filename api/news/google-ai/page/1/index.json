@@ -112,17 +112,17 @@
       "title": "Google's AI lab DeepMind held secret discussions to launch a futuristic food division and one idea involved 'nutricube' vitamin supplements",
       "excerpt": "Insider spoke to multiple sources about how DeepMind, the London-based AI company acquired by Google in 2014, considered launching a food division with vegan food startup Hampton Creek ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
-      "originalUrl": "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
+      "webUrl": "https://www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3",
+      "originalUrl": "https://www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/6040bf392dc90100183554fc?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
+          "url": "https://i.insider.com/6040ba6a2dc90100183554f6?format=jpeg",
+          "width": 926,
+          "height": 694,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -130,23 +130,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3/amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3/amp",
+      "publishedDateTime": "2021-03-04T04:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Business Insider Australia",
+        "domain": "businessinsider.com.au",
+        "images": null,
         "publishers": null,
         "authors": null
       },

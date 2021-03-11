@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
-excerpt: "Shaping the Future of Technology-Driven Financial Markets and Services. WASHINGTON--(BUSINESS WIRE)--The Financial Technology Association (FTA), a new trade group formed by leader"
-publishedDateTime: 2021-03-10T19:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=435377"
-webUrl: "https://us.acrofan.com/detail.php?number=435377"
+excerpt: "The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
+publishedDateTime: 2021-03-10T19:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-government-business-and-finance-products-and-services-government-regulations-0e7900f327ee4406a0581a8842ff8ffa"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-government-business-and-finance-products-and-services-government-regulations-0e7900f327ee4406a0581a8842ff8ffa"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -176,6 +176,6 @@ related:
         height: 339
         isCached: true
 
-secured: "fzWCf2OGFEu61u4PDRyV3QvtkCXTUE26tBHM2B+wIPbaq+XfhHg7LjLyytSUueJSqs44qAe5quYHnjKxyap7c0F2PueES7zvG0MaLhcaoFQd4QMtjLK6qVU4tQ0lR5wRgaHavkAHXDVtFwidGK6JHyZ9PSAyxbNJwQeHgV9JKuJjXZz0EUWp+hDALsHFKNLbQP9gFjQtbXZKlmxt8XM1l6lWUKigqRCQUtyztdlmg0B7GqQlLxMWdnmty0fpWU/4bhplc79+vKzCfABNtlzRjF0sb1/2T6FvMFwj+pnnu3XYNG21jSbWymd/KAg6V0ggIPpYBAB0eSfsnCZL86xdwoWot2/on/rzvp3WW9HoIKo=;SehpcqRMh7ASCnVzgyZbNQ=="
+secured: "6wEuE8irw6vG6MDzmLlkia4JzIob323Sy1swp72G0P/VWe9vEorpLjZYx6KTKoPvYHbIg9cljCVZf+ocwSXoYIwFCZMyTiHeipHvlHVloK+RfXnNSWoHmaF7+DmcnNicuGFdXEZUMPlYgmrlgOsr8RaZthwKiO0MVQWVkAdlPPochDa8WYixK22boh4B2j+2zD9UPw+dklEIEDw2q61emhUHjcujrFOWSO/U/7xbJ1pVYHKm7vZfN1+BqLTWF7bJouEa8VcBqQS6aGD0DpWSliv72MmXoz1joPRggn5VZruoW8d7m+0QDFWH4sMc3PmyLXH2c/0WYetk4P0oA28wZ1qpa5inSiWWE/gAInPkdEk=;rSAiO6HPjJKbOxdL7DPJqg=="
 ---
 
