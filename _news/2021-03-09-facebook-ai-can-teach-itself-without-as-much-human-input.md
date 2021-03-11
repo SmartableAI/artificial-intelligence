@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook enhances AI computer vision with SEER"
-    excerpt: "At a time when many versions of AI rely on pre-established data sets for image recognition, Facebook has developed SEER (Self-supERvised) – a deep learning solution able to register images on the Internet independent of curated and labeled data sets."
-    publishedDateTime: 2021-03-06T09:48:00Z
-    webUrl: "https://techxplore.com/news/2021-03-facebook-ai-vision-seer.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-facebook-ai-vision-seer.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-facebook-ai-vision-seer.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 76
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/facebookenha.jpg"
-        width: 2048
-        height: 1075
-        isCached: true
   - title: "Facebook’s new AI teaches itself to see with less human help"
     excerpt: "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels."
     publishedDateTime: 2021-03-07T12:04:00Z
@@ -86,20 +70,6 @@ related:
       - url: "https://www.vrfocus.com/wp-content/uploads/2021/03/Facebook_AR-Glasses.jpg"
         width: 711
         height: 400
-        isCached: true
-  - title: "Facebook self-supervised computer vision model promises object recognition breakthrough"
-    excerpt: "A range of issues related to dataset collection and annotation have also plagued biometrics development, particularly in facial recognition."
-    publishedDateTime: 2021-03-08T16:51:00Z
-    webUrl: "https://www.biometricupdate.com/202103/facebook-self-supervised-computer-vision-model-promises-object-recognition-breakthrough"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 48
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Facebook: New AI Teaches Itself to See with less Help"
     excerpt: "Seer (for SElf-supERvised), a Facebook algorithm, choosing for itself which items resemble the other the most from a bunch of Instagram photos."

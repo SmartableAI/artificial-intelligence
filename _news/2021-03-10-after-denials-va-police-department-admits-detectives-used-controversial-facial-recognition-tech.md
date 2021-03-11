@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 422
         isCached: true
+  - title: "Virginia Beach Police Department admits detectives used facial recognition program"
+    excerpt: "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.html"
+    ampWebUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
+    cdnAmpWebUrl: "https://richmond-com.cdn.ampproject.org/c/s/richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/f4/9f436ad0-5dab-5c5c-a1a4-904d60fa0b88/6048daf645b0e.image.jpg?resize=1024%2C422"
+        width: 1024
+        height: 422
+        isCached: true
   - title: "Virginia Beach police admit officers tried a controversial facial recognition program the force had denied using"
     excerpt: "Detectives used an app by Clearview, which offers free trials in an effort to hook departments. Because of the controversy, a supervisor rejected the detectives' request to sign up for the paid version."
     publishedDateTime: 2021-03-09T13:16:00Z
@@ -58,6 +74,6 @@ related:
         height: 800
         isCached: true
 
-secured: "ScXFEYh1gHWF4sI6ag7l4NQqAhzN1FWK0pTPdGvJZakrNppqnqFZkFiEBLm+Rq6Org8/jhYumYfqw5UqNckVuXFq7ZufROfY4qqvTNuOJir/hxbeIeB03bwMpkF0U28YXvH2N0CG2sJFLG2gqHMhOBPTdPTHYGjkY68R+aQwPECvduFXGlLQ6reBwDUsk2R8OK6QhdkiFBjJFfp2KBXuJu9vrhRL+1efTjq07a8+T8dluHYtXr9F+lM/V8eBVpqWTr/1jk2K8ZUrmefUQYmcg2x2HDirVbqxHo3Sk9e2xTw5vU2/PyD1KaAF5i6KsU3SGAnyuYqUOUBlJdfPozi9QF0PHUNICBw/1tsr0uxkVgE=;fhqpT9IVuCtYyew+Suc3ng=="
+secured: "yDiuvhqmSXKRbiLVfqLwxdM4p6sRrF9La5kCj+BdtVuLj1O4s+2jId1OyPxUZ/6Im4C3LRgayZA2E5vM7QO0ntAh3R9r+EB5xrqWehiT0YSDHJ0XCi13LzxN1wINIhuE3dl6pcscHl9zVf0iI/yZzBa3rjjqPHBGNU0cRz4k/uImrJug8S19AVl+GvKONApFm2krolVgVDL9+I6jW2lWmnVYyIPqlxYn0q+ISVHen9LpeBoRF8Le0pF5z11AoSv9JxzJij5VJQveqJfv2yf/YRyORTX66iLSoL9it3VbBIUZkQJDzTQKv6nw3ATUlCwwy7eAUelt0318wJWpa+Kj7FEJTmATaUeGmzhSpKIyk3ke2/T3G4QTJwQPBkiYAIlkh5LeAdTzT8udFK4wuofUb8G2KpLPjjVvDCVqTQfirsjRl44SEkhaLfzHC5zts7/1TF8nVh9Oq3g4GGCxVoFDE0Nu3iQAAH9puOkUVnBE7gW1Iv9CIcWGZ/K476G0X7mzu/+bxygDUdMrs/twZ837CQ==;j+tWnx6oJLpohuDbbOQjSw=="
 ---
 

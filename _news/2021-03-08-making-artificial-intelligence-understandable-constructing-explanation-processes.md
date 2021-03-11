@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
-    excerpt: "Parsons Corporation (NYSE: PSN) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
-    publishedDateTime: 2021-03-10T04:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems-2021-03-09"
+  - title: "Lenovo Puts AI to Work on Production Planning"
+    excerpt: "Overseeing extraordinarily complex manufacturing processes operating in 24/7 deployments is no job for companies without the right IT chops."
+    publishedDateTime: 2021-03-11T02:18:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/lenovo-puts-ai-to-work-on-production-planning/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: eWeek
+      domain: eweek.com
+    quality: 67
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.eweek.com/wp-content/uploads/2021/03/Lenovo.Smart_.Planning.jpg"
+        width: 1438
+        height: 945
         isCached: true
 
 secured: "++U7H7iSkh4S1ywvA1RAMzElM73VTAMSakLP3sngxh7syBUwA3Emxi5txUqRy/kUfJSab+gGvhFBhAj0Q1QE/Bz0kZwcsoZdL31ow+jB1H1beccwnlFkzhXvOKYgwmXUEiJZQWr5mHaGUGUDgq9I6hVT9UTvrevm0SLmGJykkUKAdBKK3NmOITP51p1qBtPko2gPwhIm0c34mNvtHYu8RG1Ri/JDn3pcGx08h6oGM9DeA1wASyoochDciQ2lE07fNlSv9Po41rOyFOC/o5IJZ9myIhqS/4sRXu5Bvsz/HUGikOT4o0syPLSAIV4bjJ6K2b94R44t3qpg/IqkFUvb83imKogSwRAW/S97eqNDiHc=;Jt5JNA/EbHQy4pOZ2iq1qQ=="

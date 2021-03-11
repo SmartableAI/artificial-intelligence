@@ -3,8 +3,8 @@ category: news
 title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
 excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
 publishedDateTime: 2021-03-10T21:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html"
 type: article
 quality: 71
 heat: -1
@@ -41,18 +41,18 @@ related:
         height: 480
         isCached: true
   - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-    publishedDateTime: 2021-03-10T21:16:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
+    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the"
+    publishedDateTime: 2021-03-10T21:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-19693389.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 70
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 72
     images:
-      - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI"
     excerpt: "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
@@ -78,6 +78,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "/QiyVaNHJfI86z9hQJdfqUQrY1ZLuLcDmRKvm3co5hyCALljPH2NEq0u/g8AEwy+mGLb0iBKCkiy/ftQnhlDcggl7Mi1vupeNu0dqUb6PvMIY7718kwwL+BzBKagLLYdf4iY2Qv7cUqeDxX9FGQV/Z5WeDDVcL/uGoHsIE81y79nDVUqN/sldyq/wxSkiG9m/1FwweaNwHOGTphna4UdUfPfDVGPKP85iD8tySB0fQTtmcxBd/Z8gSDBBUAjZDxrmpGABN0TZbR1zqSuhSHQVLIF4wLB94GtH0AIZXPh/0SWB+jbxHXN2YsCoQRQDr1019/SlR/klakLhG4FknzBnh6Mwql6iajfuYaOXNkJTQY=;96iyBLCKGn57T62hC3eHpQ=="
+secured: "UTo7Xn7mW12bi5qdAZxu6agrt7Vh1qCUR9DXGGm+1e32kt1EM1i8TbFDKiPno6FUEEdT0jdbWV331Dnqwpa/4NCib1o6XaflhVM2ArDliqB+ZhfITV6YjiNXeqowRNol9amldFowdShdViZT0JVRYGIIkJm5qMLF62c9tZzKQQcdAFRSlURsc6KcbF/MDORbmop/a203pb5zs4OmPyfPQukWRYRIkTEEiRWiArTBfyh//subPobn0ujfrO84MiMxoRUhNnACL9pUZrn0RXo3P58P8IqZZuxfXnziK1t4S4oAzzb99pe2ymVEUAyaMDQ5MiRKcCjmq2LLbNU8VDQevpUHCiaz6WYbkI4t0QOYOlc=;5tnWjYBLXOxfySEZq5/UyA=="
 ---
 

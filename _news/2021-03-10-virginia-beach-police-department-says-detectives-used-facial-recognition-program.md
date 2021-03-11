@@ -9,7 +9,7 @@ ampWebUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-d
 cdnAmpWebUrl: "https://richmond-com.cdn.ampproject.org/c/s/richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Virginia Beach Police Department admits detectives used facial recognition program"
+    excerpt: "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.html"
+    ampWebUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
+    cdnAmpWebUrl: "https://richmond-com.cdn.ampproject.org/c/s/richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/f4/9f436ad0-5dab-5c5c-a1a4-904d60fa0b88/6048daf645b0e.image.jpg?resize=1024%2C422"
+        width: 1024
+        height: 422
+        isCached: true
   - title: "Virginia Beach police admit officers tried a controversial facial recognition program the force had denied using"
     excerpt: "Detectives used an app by Clearview, which offers free trials in an effort to hook departments. Because of the controversy, a supervisor rejected the detectives' request to sign up for the paid version."
     publishedDateTime: 2021-03-09T13:16:00Z

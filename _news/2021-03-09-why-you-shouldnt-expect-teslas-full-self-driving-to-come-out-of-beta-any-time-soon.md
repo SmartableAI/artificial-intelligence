@@ -225,6 +225,17 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "Tesla touts self-driving to consumers. To the DMV, it tells a different tale"
+    excerpt: "For years, Tesla CEO Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off. The company has been telling regulators a very different story."
+    publishedDateTime: 2021-03-11T00:55:00Z
+    webUrl: "https://www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/"
+    ampWebUrl: "https://www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 36
 
 secured: "o4/AtnU2NvFQC13OcGdDquTVIWsFYnkq2pdzejEi18LKr/zdyaNqUmLle1KADh04312H3h29olcW9fgdJmV9uHoZ2LlM63qRg50ELynqbQ7zwuR9EsrIY8ZznZBWzw0bTvNqIKT7xbbsLOMdilhmZScnPjLF4iIklomx1fLPo/uh5KcNRz/UmVXWnpzmrsuFW2P7a99bqik2maeuzRoNi7F0/s+VRkVZJTsjCV7dgdScKfXHiTMy8P2HPz6UZJM/44uaDuaAVpxUWbngAt05Fse3S1+FfwaxhT6cWCSJ5UGNHsSuPzysGMrzGY0ivVBg9X7CbWx+Ua/Uxa2bJOEuk5BBhbT8kE3VUlzaeVJf8f3weaVgFEYAE6RDxGHmAuEXusOSAW6XLo0mXJ1rAvXqAKmMwoazmGqhkjOq3YHYyAHCPf4oFCceK8d+HR+n0dTqlblBOKux+lJv7kY3Cq0wG4O6uuubSGCV/HJXbtw47rXVDoNiZGR6expA67yNhW8/dqo/fcCrdnc3qhCsLMvIAQ==;X8hPb2Se1jlVakVHaLnnWw=="
 ---

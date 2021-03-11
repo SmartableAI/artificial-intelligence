@@ -66,6 +66,20 @@ related:
         width: 610
         height: 457
         isCached: true
+  - title: "Nvidia Launches AI Enterprise Suite for VMware vSphere"
+    excerpt: "Nvidia said it would also support vSphere customers that acquire licenses for its new AI software suite. The new Nvidia VMware collaboration gives vSphere hypervisor support for migrating to multiple GPU instances, allowing partitioning of A100 GPUs to as ..."
+    publishedDateTime: 2021-03-11T00:30:00Z
+    webUrl: "https://www.hpcwire.com/2021/03/10/nvidia-launches-ai-enterprise-suite-for-vmware-vsphere/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Nvidia_vSphere-768x426-1.png"
+        width: 768
+        height: 426
+        isCached: true
 
 secured: "RPZ9IBW5tOXqwvU3PpmHOdA0Ge3T5MrWr6DqdjPXFtxK5lyPCMZ09ci6teTqj4G1clqBl04cJB0gqgn8WTAh6Ve9t4+OtT78TwiX9hqtICH1hV6DOvuYB3tzzNyfe2pYTSZQSpNGwpq5ptbl9ypHCh4SXkO4LT062yQS0haBEgsGDECb3rM/c+vZsFLRbxyYKaE4tNOJBeoedRRi942PypPOAM0qQf5lrPzPYMWU4DG2jw7RPVvNqbLTJiXAdYe7J/C69VulchutOaaIH2TzUDFhuu7aqsO6ROBhVnYIywLwdUcraEmdbC9HmuuF+jQUdUmV0lOUJ3UTQbiUiYFDco8GqsgwFD6rXsn7zARX1FY=;b4Sq+KJosZjQYGHLvlfCpA=="
 ---

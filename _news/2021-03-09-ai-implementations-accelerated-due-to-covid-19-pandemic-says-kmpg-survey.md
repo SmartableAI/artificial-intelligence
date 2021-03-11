@@ -106,6 +106,20 @@ related:
         width: 444
         height: 333
         isCached: true
+  - title: "AI Adoption Moving Too Fast for Comfort, New Report Says"
+    excerpt: "The COVID-19 pandemic has caused the adoption of AI technologies to accelerate, but a recent report shows industry leaders and government decision-makers say it may be moving too fast for comfort, especially when considering security risks."
+    publishedDateTime: 2021-03-11T01:34:00Z
+    webUrl: "https://www.meritalk.com/articles/ai-adoption-moving-too-fast-for-comfort-new-report-says/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 39
+    images:
+      - url: "https://www.meritalk.com/wp-content/uploads/2021/01/Grace-Dille.jpg"
+        width: 486
+        height: 486
+        isCached: true
 
 secured: "R/nAx2x+oZbfrpZOqerGpuqDyuDm6Ova0YX2qSWrQce6YVNxQ2VsXm2LJYi/V+bME/krZY+xoqzpL7G1Ksp3NNTbUlmNOA7kOJkEkUG8wUU2GI+LFLczricMAhHYHaVx+15+NSGYVTNqLaUV7FzM/zEiWj6utcUhx1MedLf4rvx0WXtrWT9DvbqrAmHyuZ9sSx/+ERcvEoniR0ABnx9fgcxk10kRfqerpREY7VNyE5QNZlmxucqpWKfmxpc8vshx13TqJk/WykZQgpgJYRtJlXNnlG+fhiw7+oYWU4TAtH3hB3Bk9cnzhkJVbE7aRwshurfWforG7ZJXQAARq9qDf1+idJMAa9ONOOtMKXxKXh0=;M4ORySoD9dD2dnet2VhMyA=="
 ---

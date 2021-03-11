@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virt
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/"
 type: article
 quality: 89
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://i.nextmedia.com.au/News/20210310121806_CRN_690_server_data_centre2.jpg"
         width: 690
         height: 428
+        isCached: true
+  - title: "Nvidia Launches AI Enterprise Suite for VMware vSphere"
+    excerpt: "Nvidia said it would also support vSphere customers that acquire licenses for its new AI software suite. The new Nvidia VMware collaboration gives vSphere hypervisor support for migrating to multiple GPU instances, allowing partitioning of A100 GPUs to as ..."
+    publishedDateTime: 2021-03-11T00:30:00Z
+    webUrl: "https://www.hpcwire.com/2021/03/10/nvidia-launches-ai-enterprise-suite-for-vmware-vsphere/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Nvidia_vSphere-768x426-1.png"
+        width: 768
+        height: 426
         isCached: true
 
 secured: "2a3nAaXGSnJhgPmp2JG5HM8uajxa5QrvEF+BCFLiz+jeGJSmgav/ez0bmp6ZMCXvx/3vbMy5xhgsiwfoIN7yB6/MPLGiXZ1F4ehEmhOp76InKSX4CIwNaHzFjyNSU1+2/Wp7MM1b+h3Uh3UWzuMyzP2cU/alR7AtbetUJznAD6VNx5ctRcXWr3yyTV8cvqyJTCcqKUoI6XjJT7/dyHn149ojUODREd0xJyabqYvelIvB5hZP/AzKWZB6gY/JwpaWHZuVv2+IB5aMxLTi8/1X1yKPygBuSsipRJUc/37PyV9tD11wQNrszGe41WVj6ZyptGbi+auFuQfR11U4U+aE4xhfwQwIqJ1uJmDJV/5s3cDUKptwoRbxGIgyDCRd+rxRiOgJ+UXj01e7aXqVIIR6KvElNG/nLcZPnATL7G6GbqtYbrGafaiBiOMZasCHAvqXwpYKNGlhikdvSvU7TV2tEj6sM1X1CYAWXiGA5sZmNWttdWtCpBrsshaqnymWTzzTxDafCtHA+fO+hSTeyCgvkA==;SOLqr7bDYuxj6GJXWwiwCA=="

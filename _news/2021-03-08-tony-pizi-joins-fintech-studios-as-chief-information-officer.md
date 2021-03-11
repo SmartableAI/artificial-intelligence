@@ -145,6 +145,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
+    excerpt: "Welcome! The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
+    publishedDateTime: 2021-03-10T19:01:00Z
+    webUrl: "https://www.oaoa.com/news/business/launch-financial-technology-association-to-advocate-for-consumer-centric-fintech-development/article_b6897dc7-1088-5e28-9871-398474ae5a4d.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
 
 secured: "Fc3XBambq7ykbNSS63ZAVdA1lGGOVzrB4trdKDAnAXFWX1yjZud4C1tGUk6Mljgey6+LmO8c0YxdLeI0oxIk+xGARHTXIx4ah6ZEfa11ip/GJIlFtRYQF+6XHWWOQ12YKXh5EqtTafMiFaxYuumwAAriZD6Z5xAmKc2fGiN1JrPeb1LvzMAATH7bvEMg/jeaS5SrtZzDb/7btyg3TdqqRRGO7kiCOcCBB/1oq3Ieg5lUTCLapjeE2R6GX3yrrXNHXlYUeYlamWkNVIQGvYEslI3x6dPQUtoBu5+bK45GB0Evd+52NAKsI+0VOkthndmjjeAtGUfVz2MoOm/E0AAYXlyn/6tESxg4fkS3JphpsPEYo4AtcoxvzyrDt5591wn/RXSUCpSCHAK0UaUGlXhve+U9RqDznEKVT64ivWViZhfUqlwdJdlk5RIOVCmoJTS9aOOqOZF4E5U7MwLYjj6LJzBQIXEe0K06mQ80oxgX//f8GalrMx6lNKcJhDvIBqFUzZbtLwPcsr1+99BvChaZjA==;5oxPIsZ8dulsHfd/5PFfhA=="
 ---

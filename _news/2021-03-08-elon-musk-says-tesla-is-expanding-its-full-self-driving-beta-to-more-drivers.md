@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-te
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
 type: article
 quality: 171
-heat: 301
+heat: 311
 published: true
 
 provider:
@@ -221,6 +221,17 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "Tesla touts self-driving to consumers. To the DMV, it tells a different tale"
+    excerpt: "For years, Tesla CEO Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off. The company has been telling regulators a very different story."
+    publishedDateTime: 2021-03-11T00:55:00Z
+    webUrl: "https://www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/"
+    ampWebUrl: "https://www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 36
 
 secured: "Iq9R591wppN0ZL1KCenAWP0IALQyD9QVgX0WpQ/D10CEm3EwfgfPdcCWoxeIcX88gCX4ZaAPVKrNebOBFVVlAMB81tELto8AqBTjUVY9ywsCTBJFM+1GVNj36OFlEpVUSOm25C0ZcJAruRz/7vf1Z3qteCCNJNSpHJqb69riff1VVfjmhGogN/UXiA2tUM9Ep7b7SxrydVh96d34fnDeVdeGE99uVeXKeZYnEvKln7ObVuEmWAqR4bOgUZgce63ompRjapzw4buARwMXXCc4SSwboIUrK4jZJwzey657dQt6ced4AsQPILUE5D5VAyJe5JhxSoOQobp2KEZWyC5wHPdr/UxiJBjuBGWSPBc1Y4a2ClHa3ne7O3MXXfU25EVmOSzVWhfux8O2GxL0ugpyAvGODKA3O0S5BDnoqXBwqdRbjCD9ITJMHme7WUNJKW7Fir0fcrr4KsNXoiJMQQdN0s/3wFANKiqCgUgco4GQHW3e6deVCSqRxKXNehI51RIrJxsYZpaf/sDA0SuJLcy6RhpEHrLOj2ENklZMgUopsHg=;UOkTAezg65xNqunYUUsCAQ=="
 ---

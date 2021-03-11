@@ -173,6 +173,20 @@ related:
         width: 343
         height: 510
         isCached: true
+  - title: "California Activists Sue Facial Recognition Firm for Illegal Data Collection"
+    excerpt: "The lawsuit contends that Clearview AI has built 'the most dangerous' facial recognition database in the nation, illegally stockpiling information on 3 billion people without their knowledge or permission."
+    publishedDateTime: 2021-03-11T02:21:00Z
+    webUrl: "https://www.kqed.org/news/11864122/california-activists-sue-facial-recognition-firm-for-illegal-data-collection"
+    type: article
+    provider:
+      name: KQED
+      domain: kqed.org
+    quality: 38
+    images:
+      - url: "https://ww2.kqed.org/app/uploads/sites/10/2021/03/GettyImages-1149113711-1-1020x715.jpg"
+        width: 1020
+        height: 715
+        isCached: true
   - title: "Facial recognition company sued by California activists | Raleigh News & Observer"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
     publishedDateTime: 2021-03-10T01:31:00Z

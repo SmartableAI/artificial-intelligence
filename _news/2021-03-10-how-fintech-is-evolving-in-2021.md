@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -149,6 +149,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
+    excerpt: "Welcome! The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
+    publishedDateTime: 2021-03-10T19:01:00Z
+    webUrl: "https://www.oaoa.com/news/business/launch-financial-technology-association-to-advocate-for-consumer-centric-fintech-development/article_b6897dc7-1088-5e28-9871-398474ae5a4d.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
 
 secured: "AZWIaXDYOEBbFADgoGnUZ2SDU75YsGV2d1+0mGNB7uEvSIdLmgoz1MWrXrXwy7VVvL34mstdeoMvPvqeOpkfQQxx5VJzRs9DbuzxNBvNZ3OtJeujUvVbqGO/Nhiy+7F694vZzrXW++sUZKhjekJFqeym/NJFJecNKwzsvAkLZMa2QCWQW/JSLwGwJBEiTic/gcTpKk/t0yTr5xNOj1QvDsHGP49BfoSN75hfQWvPXmo1FPH9fgMFT+nHiFnnNVraFtBp/78Cet1PhZVK1haGPybum8B38CW6oTWqsInuHq1dnDrYYFUEdTfsqDaoSg0+fu92++pssfBCpegv46UcR1yC5/XEWXxdAHIQIRy5CII/9Xn6BWWpJI3EaHiYjd+qz7YN4rO7u+/rkfM6I71FQNp0VJzzgbSqbyrPHykVhTnEbYydBAHH+uKk+FE/847M4o43KUkGmQQ3os6A9xBCgxa2hRdy+LZbKu860ZRwvalAE6n7OnNNUEeHaYOUVsPLkk8059xxwiWkp+hyYiGipQ==;2X0f5wdtmegHtaSBrDN3Ng=="
 ---

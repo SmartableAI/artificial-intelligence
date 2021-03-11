@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/facial-recognition-company-cle
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732"
 type: article
 quality: 104
-heat: 244
+heat: 254
 published: true
 
 provider:
@@ -165,6 +165,20 @@ related:
       - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
         width: 343
         height: 510
+        isCached: true
+  - title: "California Activists Sue Facial Recognition Firm for Illegal Data Collection"
+    excerpt: "The lawsuit contends that Clearview AI has built 'the most dangerous' facial recognition database in the nation, illegally stockpiling information on 3 billion people without their knowledge or permission."
+    publishedDateTime: 2021-03-11T02:21:00Z
+    webUrl: "https://www.kqed.org/news/11864122/california-activists-sue-facial-recognition-firm-for-illegal-data-collection"
+    type: article
+    provider:
+      name: KQED
+      domain: kqed.org
+    quality: 38
+    images:
+      - url: "https://ww2.kqed.org/app/uploads/sites/10/2021/03/GettyImages-1149113711-1-1020x715.jpg"
+        width: 1020
+        height: 715
         isCached: true
   - title: "Facial recognition company sued by California activists | Charlotte Observer"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."

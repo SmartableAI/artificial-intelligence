@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-p
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-public-health-corporate-news-israel-1532de79f7166d31ede7572f9f43be45"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Automation and Artificial Intelligence Careers for Innovators and Creatives"
+    excerpt: "There are a number of automation jobs and artificial intelligence careers in the healthcare industry; health systems engineering is a prime example. The overall goal of this position is to improve how medical treatment is delivered, specifically by ..."
+    publishedDateTime: 2021-03-09T20:58:00Z
+    webUrl: "https://www.ucf.edu/online/engineering/news/automation-and-artificial-intelligence-careers/"
+    ampWebUrl: "https://www.ucf.edu/online/engineering/news/automation-and-artificial-intelligence-careers?amp"
+    cdnAmpWebUrl: "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/online/engineering/news/automation-and-artificial-intelligence-careers?amp"
+    type: article
+    provider:
+      name: UCF Today
+      domain: ucf.edu
+    quality: 57
+    images:
+      - url: "https://www.ucf.edu/online/files/2021/03/Automation-and-Artificial-Intelligence-Careers-for-Innovators-and-Creatives.jpg"
+        width: 750
+        height: 497
+        isCached: true
 
 secured: "kTQzmB2GxDUt3TFSYMfcKVNR1WuccxGPCP6MaxBk7VYMj95C2+qc1NSznGmyTEA2FRnC/ngS4kxkIwIrSn7kvPdICJUEVxiZPS09/nBct/flkMnA8V5pu/vKvKBBcl4Ijpm6uxcIw2MNjmBNsLQvO831gqb82m5Vggt9e++3QyKZM7z0bKMyi0WzwaMsfIQXjpNiT2oieWTKyeIw6NXJWUC9NP/MSluJVbsRaPYviyK/dC7gwnCrXd/xudIRhlN7mbDnckaos5RyRn/MdILSEKAQgDpd184uWv65iDrd+k/+onjmhLxcWVDsU3x8Jl3Goph9OCkpJCsAq7gH2fBrcisNX1mzLRD0mPVQpugXXG4=;eyLgg8o/s5oI2AoumTvxCA=="
 ---

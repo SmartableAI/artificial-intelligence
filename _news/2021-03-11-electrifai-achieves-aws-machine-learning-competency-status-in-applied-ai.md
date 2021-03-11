@@ -1,28 +1,29 @@
 ---
 category: news
 title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-publishedDateTime: 2021-03-10T21:16:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
+excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the"
+publishedDateTime: 2021-03-10T21:37:00Z
+originalUrl: "https://www.lelezard.com/en/news-19693389.html"
+webUrl: "https://www.lelezard.com/en/news-19693389.html"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -43,7 +44,7 @@ related:
   - title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
     excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
     publishedDateTime: 2021-03-10T21:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html"
     type: article
     provider:
       name: WFMZ-TV
@@ -78,6 +79,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "SJYBA31f2Nf5tkgv5v0NOm32127RhIlTNzkZ/NuBrUlRh3jVINgTOQYXk5f6iypjmEeN9K7d0WBhrqcwqrq7v5LNKGNm1Q/NcSbGsMvjmLPbLb/Qs6RMUd7p0wg1U7AIMtcVhKvjXcZg2noY+xOyjii+FLyQqvicQ61vt3utrO/gXTzpZUmkLZQfBQ9Y+6Gz6CqXPj6FwNESXhsCuT6nPIhMy2zibyztO3uXW/PEuIfX9JxaPbNmzjr0JOPNWM8IPhIuq03cSgYiWeQnVOj4FWCH5ceudKoLn7Bfs0qpCdJL0/DC5YaSJtoOuVvZM43+bSUfzf66oYEZFnP34pJ46JddcpPqng1Msdh/nt5DAJw=;bRvHTTibLMQQh+dVBtpCEQ=="
+secured: "6suXzfooOvYBXdG05qbOMcGA8Fr2XqmlrKM+wBy/RGm+Q4ycpc0i0lFsDKhEKeqbq5jOhGBdLMw9MnwccN21nHD4tQ3uUsQ843nN4N8ebIzen0SH1JlmMbSlfhdBTcfZxSB4i8BZXo27hnJJqb4MGtISRkWvCwXAPEd+ia83kH9WhBi4g8K2978qJMDjHw8KiRxRrn4yCoZSWgnbAVhZyTWzZ4P+GakJ+SO8jAxemCfTqvHXKEwg3i1VMBrfULa4KdZai/gI04/qpYI8pNN9/d0DDuypFYfmHiaFwi1dIDGpqADYXpwk9b1WSFe9mCblxjWUke36BBN8+BpuNCZDvSPBAu4MBpCnBPiJ/d5lwAY=;WDw1D+ts6KirhQp8BJhTjQ=="
 ---
 

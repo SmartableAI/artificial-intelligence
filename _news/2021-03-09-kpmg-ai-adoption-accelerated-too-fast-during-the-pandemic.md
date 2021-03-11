@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-acc
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
         width: 444
         height: 333
+        isCached: true
+  - title: "AI Adoption Moving Too Fast for Comfort, New Report Says"
+    excerpt: "The COVID-19 pandemic has caused the adoption of AI technologies to accelerate, but a recent report shows industry leaders and government decision-makers say it may be moving too fast for comfort, especially when considering security risks."
+    publishedDateTime: 2021-03-11T01:34:00Z
+    webUrl: "https://www.meritalk.com/articles/ai-adoption-moving-too-fast-for-comfort-new-report-says/"
+    type: article
+    provider:
+      name: MeriTalk
+      domain: meritalk.com
+    quality: 39
+    images:
+      - url: "https://www.meritalk.com/wp-content/uploads/2021/01/Grace-Dille.jpg"
+        width: 486
+        height: 486
         isCached: true
 
 secured: "eH0xbfRNF+vFehuTITffWBLS6vsAaEM/Y+vASJuC+DVyWlAuI6jOf6i9yDUO+BZjcIakxro5lkD9bMSPk5ryODcqhHYVLbNm6pHkgv5OIc6Buephsx5ne7V5008iGX4drkpbHamqgPAKqecDIMly2N9svrnumZr88sC8WT3yp3vowMbYE99+AcKFlAJ6gzRvGVqfmJZVK4KrAtEYmkJLUROv0vVr4EJt9NYtbkdN7buEfQmhLG5z22ezmbRXUueFmBKpN/HpbQXIFUnXfYBG1XpHo/IZVC4LBAa1LBKUVqNDJKayECuhDVzJtNuVqgej4QVREFlthQMaIM8kEJi45bjrwFaoaRNGPr0gbVS9mw8=;x5ZM5YgOkBMLHnvIFqpC3g=="

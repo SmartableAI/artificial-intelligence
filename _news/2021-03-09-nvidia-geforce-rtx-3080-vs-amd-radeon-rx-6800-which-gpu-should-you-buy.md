@@ -9,7 +9,7 @@ ampWebUrl: "https://www.windowscentral.com/rtx-3080-vs-rx-6800?amp"
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/rtx-3080-vs-rx-6800?amp"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Nvidia GeForce RTX 3090 vs 3080 vs 3070 vs 3060: Which GPU should you buy?"
-    excerpt: "The Nvidia GeForce RTX 30-series of GPUs can power the mightiest gaming PCs on the market today. Whether you build your own system or buy one from a manufacturer, you’re going to want a gaming PC with an RTX 30-series card."
-    publishedDateTime: 2021-03-06T10:03:00Z
-    webUrl: "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/nvidia-geforce-rtx-comparison"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/nvidia-geforce-rtx-comparison"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/AnqrCABaVYriMJBAtyYQrU-480-80.jpg"
-        width: 480
-        height: 302
-        isCached: true
 
 secured: "+1mE5nrIkyWh4/578DnvITdd1tDQ40VIg71T91Y274Vmfgc54y6qoCX0cM6LhDIg9WkZMgDEg60PSIpg6OMg+buLcKE9luVSGlCvm7Dye8Oj2lmKDZG8g+z3QJEu9qW3F2qcF0/zmI8Z1jhJtWQXgffkL2NsNpFiVpX+H8+vEh72pnzJCQibKGbnEWjS6NNxk09TnKXLZISNwIQGtL9JCAjmYg33idxeNO6+7RmnErspUdJeY7nD3WDUKY/r9JN49WQWDM1m2bLxtwZcf5koUWdNmqxbxMAme3EHahDFPhqUBd86MOVKCPfok4waT/xiFpZIN3onhmNKGW6Gn16kMTHABBtkj7KAsflOUWlkT4MdyFRmW/jDbG5c4ngDigMcALfs+RVLY8IKKD/oDzaYjhhAa4z2LwwJprnl63N1SU24NYVe2jkwrq5TXD6L9yc/Ug09Fp222ekclNME2C928LUwes/ZDhXwkeicUwzMSg8YZaFDfZHfMjFr6tL0+bw54qbX+8WDHcPBCC6LxuwrnQ==;Zf4L1BLAzkwiOpMETLUwEg=="
 ---
