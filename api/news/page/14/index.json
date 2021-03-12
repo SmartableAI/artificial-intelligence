@@ -2,6 +2,311 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-27-artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020-2025.md",
+      "title": "Artificial Intelligence Robots Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025",
+      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-26T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-the-deep-south-has-a-rich-history-of-resistance-as-amazon-is-learning.md",
+      "title": "The Deep South Has a Rich History of Resistance, as Amazon Is Learning",
+      "excerpt": "The Deep South is not generally known for its labor agitation, which is why it might come as a surprise for some to learn that it is in Alabama where workers have mounted one of the largest and most aggressive efforts to unionize Amazon in recent memory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/01/opinion/26bouie-lead-print/26bouie-lead-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.amp.html",
+      "publishedDateTime": "2021-02-26T21:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-gchq-outlines-how-its-going-to-ensure-its-secretive-use-of-ai-is-ethical.md",
+      "title": "GCHQ outlines how it’s going to ensure its (secretive) use of AI is ethical",
+      "excerpt": "This week the UK's security and intelligence agency GCHQ shared an in-depth document outlining how it is thinking about AI ethics, specifically ho",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical",
+      "originalUrl": "https://diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-02/D9827B6A-9F14-4640-AE24-D7E0890FF6CA.png",
+          "width": 703,
+          "height": 543,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical?amp",
+      "publishedDateTime": "2021-02-26T20:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-how-googles-grand-plan-to-make-its-own-games-fell-apart.md",
+      "title": "How Google's Grand Plan to Make Its Own Games Fell Apart",
+      "excerpt": "The tech giant hired 150 game developers for Stadia Games and Entertainment, only to lay them all off. Sources say it never gave the studios a chance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/",
+      "originalUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60394cbfcb267f5208ca89bb/master/pass/games_stadia_1131586303.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-stadia-games-entertainment-collapse/amp",
+      "publishedDateTime": "2021-02-26T16:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-edge-ai-market-size-share-trends-analysis-report-with-growth-forecast-2020-2027.md",
+      "title": "Edge AI Market Size, Share & Trends Analysis Report With Growth Forecast 2020-2027",
+      "excerpt": "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-share-trends-analysis-report-with-growth-forecast-2020-2027-2021-02-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-share-trends-analysis-report-with-growth-forecast-2020-2027-2021-02-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-26T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-ibm-watson-why-is-healthcare-ai-so-tough.md",
+      "title": "IBM Watson: Why Is Healthcare AI So Tough?",
+      "excerpt": "A pivotal event for AI happened when IBM’s Watson beat two all-time champions of Jeopardy! in 2011. This showed that the technology was far from being experimental. IBM would soon go on to make Watson the centerpiece of its AI strategy. And a big part of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603af91362e4efd26de6913e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1713%26cropY1%3D87%26cropY2%3D1050",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/amp/",
+      "publishedDateTime": "2021-02-26T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey.md",
       "title": "Hundreds of Amazon Drivers Agree That They Deserve a Union in an Informal Driver-Led Survey",
       "excerpt": "In just a few short years, Amazon’s warehouse workers have gone from suffering in silence to jobsite walkouts in Minnesota and more recently a full-blown union vote in Alabama. Now it seems another segment of Amazon’s workforce is taking its first steps towards advocating for better conditions.",
@@ -915,302 +1220,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028.md",
-      "title": "Artificial Intelligence in Security Market Statistics and Research Analysis Detailed in Latest Research Report 2021-2028",
-      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban.md",
-      "title": "Facebook Mulls 2021 Launch Of Facial Recognition Glasses With Ray-Ban",
-      "excerpt": "A Facebook executive confirmed that the social media giant could release facial recognition glasses this year in partnership with Luxottica, the maker of Ray-Ban.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/",
-      "originalUrl": "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/ray-bans-facebook-facial-recognition-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/",
-      "publishedDateTime": "2021-02-26T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-why-machine-learning-strategies-fail.md",
-      "title": "Why machine learning strategies fail",
-      "excerpt": "Most companies are still trying to figure out how to make AI work. A recent survey looks at some of the barriers to machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/cloud-machine-learning-strategy.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
-      "publishedDateTime": "2021-02-26T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-review-hachi-infinite-m1-pro-interactive-ultra-short-throw-projector.md",
-      "title": "Review: Hachi Infinite M1 Pro interactive ultra-short-throw projector",
-      "excerpt": "China's Puppy Robot launched the puppy cube interactive projector on Indiegogo, and we got to review a unit. The company's next generation smart projector was showcased at CES 2020, and a higher spec version released toward the end of last year called the Hachi Infinite M1 Pro –",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/home-entertainment/review-hachi-infinite-m1-pro/",
-      "originalUrl": "https://newatlas.com/home-entertainment/review-hachi-infinite-m1-pro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5be3318/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F27%2Fe2%2F9be1a05c4d109394a5899f0d7af5%2Fdsc-6901.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/home-entertainment/review-hachi-infinite-m1-pro/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/home-entertainment/review-hachi-infinite-m1-pro/?amp=true",
-      "publishedDateTime": "2021-02-26T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-what-do-ai-equity-funds-actually-invest-in-lets-take-a-closer-look.md",
-      "title": "What do AI equity funds actually invest in? Let’s take a closer look",
-      "excerpt": "The term has become ubiquitous in recent years, but where is the smart money in Artificial Intelligence funds putting its money?",
-      "sourceUrl": null,
-      "webUrl": "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570?assetClassID=1",
-      "originalUrl": "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570?assetClassID=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1qq9lwf5ow8iz.cloudfront.net/live-images-1/ImageDetail_fb75c62a-16bd-403e-9c33-20bfe11da7bc_Large",
-          "width": 1040,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Citywire",
-        "domain": "citywireselector.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-bollywood-movies-still-associate-beauty-with-fair-skin-ai-study-finds.md",
-      "title": "Bollywood Movies Still Associate Beauty With Fair Skin, AI Study Finds",
-      "excerpt": "By analysing subtitles over the last 70 years, researchers also found that while Bollywood films have improved at representing religious diversity, the plot continues to be helmed by upper-caste heroes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "originalUrl": "https://www.vice.com/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/6038c700a13bb1009c61968a/lede/1614333882060-fotojet-55.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp8bk/bollywood-movies-films-fairness-religion-gender-caste-study-india",
-      "publishedDateTime": "2021-02-26T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

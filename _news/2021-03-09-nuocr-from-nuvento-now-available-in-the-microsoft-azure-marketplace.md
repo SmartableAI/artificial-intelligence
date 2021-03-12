@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft 'Seeing AI': Imagining a New Use for Computer Vision"
+    excerpt: "A Microsoft Research project is expanding the capabilities of computer vision systems to help visually impaired users navigate everyday tasks."
+    publishedDateTime: 2021-03-12T14:09:00Z
+    webUrl: "https://redmondmag.com/articles/2021/03/12/microsoft-seeing-ai.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 71
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MSSeeingAIbig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "Guardian Zone Now Available in the Microsoft Azure Marketplace"
     excerpt: "The Azure Marketplace is an online market for buying and selling ... WekaIOtm (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance ..."
     publishedDateTime: 2021-03-10T13:50:00Z

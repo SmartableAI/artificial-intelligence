@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-im
 webUrl: "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Future Of Work Now: AI-Assisted Clothing Stylists At Stitch Fix"
+    excerpt: "The goal of the two sources of intelligence is to provide clients with a “Fix”—a mailed box of five personalized clothes choices—that are a close fit to their style, size, and price preferences."
+    publishedDateTime: 2021-03-12T14:14:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2021/03/12/the-future-of-work-now-ai-assisted-clothing-stylists-at-stitch-fix/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604b769ead1bacf4e0ff7a1f%2F0x0.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "A sneak peek of the current state and future use of artificial intelligence in pathology"
     excerpt: "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and find evidence of strokes on brain CT scans."
     publishedDateTime: 2021-03-08T06:35:00Z

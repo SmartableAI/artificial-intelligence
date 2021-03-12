@@ -75,6 +75,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "From Wedding Planning To Cannabis, B2B FinTech Funders Go Niche"
+    excerpt: "From wedding planning to cannabis to the entertainment industry, this week's B2B FinTech investors targeted financial solution providers in niche markets."
+    publishedDateTime: 2021-03-12T13:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/b2b-fintech-funders-go-niche-wedding-planning-cannabis/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/b2b-fintech-funders-go-niche-wedding-planning-cannabis/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/b2b-fintech-funders-go-niche-wedding-planning-cannabis/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/fintech-venture-capital-niche-market-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "Fintech MONVA Announces Second Fundraising Campaign"
     excerpt: "Deeside smart comparison Fintech MONVA has launched its latest round of fundraising, returning to Crowdcube one year after smashing its last fundraising"
     publishedDateTime: 2021-03-08T05:40:00Z

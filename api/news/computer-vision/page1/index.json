@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-12-redstone-arsenal-testing-facial-recognition-system-at-gates.md",
-      "title": "Redstone Arsenal testing facial recognition system at gates",
-      "excerpt": "Workers entering Redstone Arsenal will have a new option for gaining access to the installation as of Monday: Facial recognition.",
+      "path": "_news/2021-03-12-the-army-is-teaching-facial-recognition-to-see-in-the-dark.md",
+      "title": "The Army Is Teaching Facial Recognition to See In The Dark",
+      "excerpt": "Researchers have built the first facial recognition database for thermal night vision images. But the technology itself is already prone to misuse.",
       "sourceUrl": null,
-      "webUrl": "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/",
-      "originalUrl": "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/",
+      "webUrl": "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
+      "originalUrl": "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://whnt.com/wp-content/uploads/sites/20/2021/03/Redstone-facial-sensor.png?w=1280",
-          "width": 1280,
-          "height": 824,
+          "url": "https://video-images.vice.com/articles/604a5d55a2d74200936f48a9/lede/1615486785400-screen-shot-2021-03-11-at-11928-pm.png?crop=1xw:0.9455909943714822xh;center,center",
+          "width": 1792,
+          "height": 1008,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/amp/",
-      "cdnAmpWebUrl": "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/amp/",
-      "publishedDateTime": "2021-03-11T10:34:00-08:00",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
+      "publishedDateTime": "2021-03-12T06:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WHNT",
-        "domain": "whnt.com",
-        "images": null,
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -202,7 +211,7 @@
       "originalUrl": "https://www.chron.com/news/article/Department-says-detectives-used-facial-16014445.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {

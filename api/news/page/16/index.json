@@ -2,6 +2,293 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-25-amazon-rekognition-custom-labels-community-showcase.md",
+      "title": "Amazon Rekognition Custom Labels Community Showcase",
+      "excerpt": "In our Community Showcase, Amazon Web Services (AWS) highlights projects created by AWS Heroes and AWS Community Builders.&nbsp; We worked with AWS Machine Learning (ML) Heroes and AWS ML Community Builders to bring to life projects and use cases that detect custom objects with Amazon Rekognition Custom",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-custom-labels-community-showcase/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-custom-labels-community-showcase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/25/Banana-and-Apples.jpg",
+          "width": 600,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you.md",
+      "title": "HelloWoofy uses AI to keep your social media channels stocked with great content for you",
+      "excerpt": "And that AI brain is often working overtime. HelloWoofy can import content via RSS feeds, optimize hashtags and emojis, search out copyright-free images, or even find the most trending and up-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/sale_31494_article_image.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/amp/",
+      "publishedDateTime": "2021-02-25T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-featurespace-touts-breakthrough-in-machine-learning-for-anti-fraud-systems.md",
+      "title": "Featurespace Touts Breakthrough In Machine Learning For Anti-Fraud Systems",
+      "excerpt": "Featurespace said its new product for the payments industry provides a “deeper layer of defense to protect consumers from scams, account takeover\" and fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/",
+      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/anti-fraud-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/",
+      "publishedDateTime": "2021-02-25T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-ataccama-acquires-data-visualization-startup-tellstory.md",
+      "title": "Ataccama acquires data visualization startup Tellstory",
+      "excerpt": "Ataccama acquired TellStory to add data vizualization tools to an expert systems platform for managing large amounts of data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Ataccama-Editor-story.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/amp/",
+      "publishedDateTime": "2021-02-25T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-measuring-hemoglobin-levels-with-ai-microscope-microfluidic-chips.md",
+      "title": "Measuring hemoglobin levels with AI microscope, microfluidic chips",
+      "excerpt": "Researchers describe a AI-powered imaging-based tool to estimate hemoglobin levels. The setup was developed in conjunction with a microfluidic chip and an AI-powered automated microscope that was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/02/210223110710.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/02/210223110710.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-changes-go-far-beyond-just-ai-machine-learning.md",
+      "title": "Changes Go Far Beyond Just AI, Machine Learning",
+      "excerpt": "SambaNova Systems is a technology startup founded in 2017 by a group of far-sighted engineers and data scientists who saw that the current approaches to",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/",
+      "originalUrl": "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Untitled-design-5.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/amp/",
+      "publishedDateTime": "2021-02-25T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-berlins-morphais-hopes-its-ai-algorithms-will-put-its-early-stage-vc-fund-ahead-of-the-pack.md",
       "title": "Berlin’s MorphAIs hopes its AI algorithms will put its early-stage VC fund ahead of the pack",
       "excerpt": "MorphAIs is a new VC out of Berlin, aiming to leverage AI algorithms to boost its investment decisions in early-stage startups. But there’s a catch: it hasn’t raised a fund yet. The firm was founded by Eva-Valérie Gfrerer who was previously head of Growth Marketing at FinTech startup",
@@ -935,285 +1222,6 @@
         "AWS AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-aaa-survey-shows-less-interest-in-self-driving-cars-than-in-fine-tuning-todays-safety-systems.md",
-      "title": "AAA Survey Shows Less Interest in Self-Driving Cars Than in Fine-Tuning Today's Safety Systems",
-      "excerpt": "100% of the fees we collect are used to support our nonprofit mission. Learn more. The road to self-driving cars is paved by the active driver assist systems that are available on most cars today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.consumerreports.org/autonomous-driving/aaa-survey-self-driving-cars-todays-active-safety-systems/",
-      "originalUrl": "https://www.consumerreports.org/autonomous-driving/aaa-survey-self-driving-cars-todays-active-safety-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f1.media.brightcove.com/8/1078702682/1078702682_6186323527001_6185173516001-vs.jpg?pubId=1078702682&videoId=6185173516001",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T21:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Consumer Reports",
-        "domain": "consumerreports.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-aws-announces-general-availability-of-amazon-lookout-for-vision.md",
-      "title": "AWS Announces General Availability of Amazon Lookout for Vision",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Vision, a",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision",
-      "originalUrl": "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T18:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-using-container-images-to-run-tensorflow-models-in-aws-lambda.md",
-      "title": "Using container images to run TensorFlow models in AWS Lambda",
-      "excerpt": "TensorFlow is an open-source machine learning (ML) library widely used to develop neural networks and ML models. Those models are usually trained on multiple GPU instances to speed up training, resulting in expensive training time and model sizes up to a few gigabytes. After they’re trained, these models",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-tensorflow-models-in-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-tensorflow-models-in-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/24/2181Architecture.jpg",
-          "width": 611,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T16:01:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-conscious-ai-the-role-and-impact-of-digital-ethics-in-2021.md",
-      "title": "Conscious AI: The Role and Impact of Digital Ethics in 2021",
-      "excerpt": "For some time, we have been in an era of unprecedented technological advancement. It has been clear to many that our ethics have not had time to keep up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/conscious-ai-role-impact-digital-ethics-2021-heather-o-halloran",
-      "originalUrl": "https://www.linkedin.com/pulse/conscious-ai-role-impact-digital-ethics-2021-heather-o-halloran",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQH4gmEpnGn3Ag/article-cover_image-shrink_720_1280/0/1614263003950?e=1620259200&v=beta&t=cj1pFEBcFlEWh3OIUSMrKQhwcEOsJnIRD5Dc9sWNqpQ",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard.md",
-      "title": "Self-Driving RC Cars With TensorFlow; Raspberry Pi Or MacBook Onboard",
-      "excerpt": "These two sources are fed into a neural network using TensorFlow. You train the system by driving the vehicle manually through the course a few times and then let it drive itself. In the video ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/",
-      "originalUrl": "https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/06/self-driving-rc-cars.jpg",
-          "width": 3872,
-          "height": 2408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-the-6-myths-of-machine-learning-ai.md",
-      "title": "The 6 Myths of Machine Learning & AI",
-      "excerpt": "I recently came across a pretty interesting report, “The 5 Big Myths of AI and Machine Learning Debunked.” The report ends with the statement “AI is here to stay.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/6-myths-machine-learning-ai-steven-pogrebivsky",
-      "originalUrl": "https://www.linkedin.com/pulse/6-myths-machine-learning-ai-steven-pogrebivsky",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEblFArk4uOKg/article-cover_image-shrink_720_1280/0/1614272850315?e=1620259200&v=beta&t=06MH2zYSAeBG2aFJiiLK5tdA3BmAGmP_-Ff-Kc2Vans",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

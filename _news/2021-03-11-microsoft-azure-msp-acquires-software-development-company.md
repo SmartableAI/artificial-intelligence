@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft 'Seeing AI': Imagining a New Use for Computer Vision"
+    excerpt: "A Microsoft Research project is expanding the capabilities of computer vision systems to help visually impaired users navigate everyday tasks."
+    publishedDateTime: 2021-03-12T14:09:00Z
+    webUrl: "https://redmondmag.com/articles/2021/03/12/microsoft-seeing-ai.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 71
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MSSeeingAIbig.jpg"
+        width: 1665
+        height: 1158
+        isCached: true
   - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
     excerpt: "CRANBURY, N.J., March 9, 2021 /PRNewswire/ -- Nuvento, a leading provider of digitization services, launched its AI-driven OCR (optical content recognition) digitization platform today in the Microsoft Azure Marketplace, an online store providing ..."
     publishedDateTime: 2021-03-09T15:00:00Z

@@ -2,6 +2,309 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-03-robotics-division-of-ubers-postmates-spins-out-into-new-company.md",
+      "title": "Robotics division of Uber's Postmates spins out into new company",
+      "excerpt": "The robotics unit of Postmates, a delivery startup that ride-hailing firm Uber Technologies acquired last year, has spun off into a new company called Serve Robotics, the company said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3",
+      "originalUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3?amp",
+      "publishedDateTime": "2021-03-02T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025.md",
+      "title": "Global Natural Language Processing (NLP) in Healthcare Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2025",
+      "excerpt": "Global Natural Language Processing (NLP) in Healthcare Market Growth (Status and Outlook) 2020-2025 aims to fill the need of organizations of settling on the best choices, deal with the marketing of goods or services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T17:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger.md",
+      "title": "Analyzing open-source ML pipeline models in real time using Amazon SageMaker Debugger",
+      "excerpt": "Open-source workflow managers are popular because they make it easy to orchestrate machine learning (ML) jobs for productions. Taking models into productions following a GitOps pattern is best managed by a container-friendly workflow manager, also known as MLOps. Kubeflow Pipelines (KFP) is one of the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T16:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization-innovation.md",
+      "title": "Looking Ahead: Thriving In An Increasingly Digitalized World With AI, Hyper-Personalization & Innovation",
+      "excerpt": "As information technology continues to advance at an exponential rate, it gets harder and harder for companies to keep up and know what to focus their efforts on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e96607f4ba4ed58a14155%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D0%26cropY2%3D675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/amp/",
+      "publishedDateTime": "2021-03-02T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-an-ai-was-taught-to-play-the-worlds-hardest-video-game-and-still-couldnt-set-a-new-record.md",
+      "title": "An AI Was Taught to Play the World's Hardest Video Game and Still Couldn't Set a New Record",
+      "excerpt": "What’s the hardest video game you’ve ever played? If it wasn’t QWOP then let me tell you right know that you don’t know how truly difficult a game can be. The deceptively simple running game is so challenging to master that even an AI trained using machine learning still only mustered a top 10 score instead of shattering the record.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/an-ai-was-taught-to-play-the-worlds-hardest-video-game-1846388137",
+      "originalUrl": "https://gizmodo.com/an-ai-was-taught-to-play-the-worlds-hardest-video-game-1846388137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nb864sizqsp27pyivtp4.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/an-ai-was-taught-to-play-the-worlds-hardest-video-game-1846388137/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/an-ai-was-taught-to-play-the-worlds-hardest-video-game-1846388137/amp",
+      "publishedDateTime": "2021-03-02T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-venture-capitalist-kai-fu-lee-says-cios-should-prepare-for-ai-related-disruption.md",
+      "title": "Venture Capitalist Kai-Fu Lee Says CIOs Should Prepare for AI-Related Disruption",
+      "excerpt": "Chief information officers can take a number of steps to help their companies get ready for the job disruption that artificial intelligence will cause over the next several years, according to venture capitalist Kai-Fu Lee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/venture-capitalist-kai-fu-lee-says-cios-should-prepare-for-ai-related-disruption-11614723790",
+      "originalUrl": "https://www.wsj.com/articles/venture-capitalist-kai-fu-lee-says-cios-should-prepare-for-ai-related-disruption-11614723790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-306391?width=620&size=1.5",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/venture-capitalist-kai-fu-lee-says-cios-should-prepare-for-ai-related-disruption-11614723790",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/venture-capitalist-kai-fu-lee-says-cios-should-prepare-for-ai-related-disruption-11614723790",
+      "publishedDateTime": "2021-03-02T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-voice-assistants-enable-enterprise-automation-crm-and-data-intelligence.md",
       "title": "Voice assistants enable enterprise automation, CRM, and data intelligence",
       "excerpt": "During the pandemic, enterprise users are increasingly adopting voice assistant technologies to accelerate workloads.",
@@ -940,300 +1243,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-the-mindblowing-amazon-work-from-home-policy-that-rivals-all-other-companies.md",
-      "title": "The mindblowing Amazon work from home policy that rivals all other companies",
-      "excerpt": "The online retail giant Amazon announced last year that it would allow its employees to work from home. It is now extended to the 30th of June 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theladders.com/career-advice/the-mindblowing-amazon-work-from-home-policy-that-rivals-all-other-companies",
-      "originalUrl": "https://www.theladders.com/career-advice/the-mindblowing-amazon-work-from-home-policy-that-rivals-all-other-companies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheLadders.com",
-        "domain": "theladders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-aws-selected-as-official-cloud-provider-of-pga-tour.md",
-      "title": "AWS selected as official cloud provider of PGA Tour",
-      "excerpt": "The partnership will offer new fan experiences and engagement opportunities with features like Every Shot Live and access to historical events dating back nearly 100 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/da666ada-2faf-43c5-8748-55eb8091a6af/resize/1200x/14101bbdb7a1b143a5c43729a9d78fd3/aws-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
-      "publishedDateTime": "2021-03-02T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-a-new-program-can-animate-old-photos-but-theres-nothing-human-about-artificial-intelligence.md",
-      "title": "A new program can animate old photos. But there's nothing human about artificial intelligence",
-      "excerpt": "Deep Nostalgia is a likely predecessor of technology that could change our reality. And our emotions make it hard to resist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
-      "originalUrl": "https://www.cnn.com/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210302153937-myheritage-deep-nostalgia-photo-2-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
-      "publishedDateTime": "2021-03-02T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts.md",
-      "title": "Massive Boon In Computer Chip Shortages Will Slam Future Self-Driving Car Rollouts",
-      "excerpt": "Computer chip shortages are hurting automakers, which is exactly what will happen even in the future when self-driving cars start becoming viable, here's why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603adfe801dd346437e69140%2F0x0.jpg%3FcropX1%3D296%26cropX2%3D1368%26cropY1%3D112%26cropY2%3D715",
-          "width": 1072,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/amp/",
-      "publishedDateTime": "2021-03-02T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-ai-ethics-research-conference-suspends-google-sponsorship.md",
-      "title": "AI ethics research conference suspends Google sponsorship",
-      "excerpt": "The ACM Conference for Fairness, Accountability, and Transparency (FAccT) decided to pause its sponsorship relationship with Google.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/",
-      "originalUrl": "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/amp/",
-      "publishedDateTime": "2021-03-02T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-eric-schmidt-led-council-americas-dominance-in-ai-is-under-threat.md",
-      "title": "Eric Schmidt-led council: America's dominance in AI is 'under threat'",
-      "excerpt": "When it comes to holding a dominant position in the battle for artificial intelligence, the US is in danger according to a new report from The group, led by former Google CEO Eric Schmidt, filed a 756-page report this week warning that the US is at risk of falling behind other countries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/eric-schmidt-led-council-americas-dominance-in-ai-is-under-threat/",
-      "originalUrl": "https://www.cnet.com/news/eric-schmidt-led-council-americas-dominance-in-ai-is-under-threat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/WgSjkYPRKBTJmx-1ihIpkAvJuxQ=/1200x630/2017/03/08/9c6ee9ba-447c-47ae-add0-31250aa872a4/eric-schmidt-google-cloud-next-2017-7922.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/eric-schmidt-led-council-americas-dominance-in-ai-is-under-threat/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/eric-schmidt-led-council-americas-dominance-in-ai-is-under-threat/",
-      "publishedDateTime": "2021-03-02T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

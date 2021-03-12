@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Car Market To Witness Increase in Revenues by 2021-2023,Industry Research and End User Analysis|By Kenneth Research"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 12, 2021 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self ..."
+    publishedDateTime: 2021-03-12T14:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-to-witness-increase-in-revenues-by-2021-2023industry-research-and-end-user-analysisby-kenneth-research-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HOukY4KsHwXQi+nSCqVEqEjEQSS4RRX2trzriNRuH2KAqXXd/WAukhWT6mUjSHDG8P6BcB8FVtqwhh72MhOg3LZIELA0Fs9EbOCeDqSVn8AeOzEO+4wbPu8msJjHqG5ouYh1ZinL1WE4YsdBNq0O21huZAVFQl0H7HXOklNGGaccKvaYTcxJMiAy7Lx7YJvIBS2GwMBgCQ+9UFIMwej94j1Pel1W5Eiubg5XYEThFFBRrFK3fjn2Va3QTGiIYF1KfjCW7kqTn4s64v9wEM3LACCxNuUpA+BjcQQZEmRFCN5DeUZb8AAQ42rVxlQVIEYYp45QUVuyJRUB42WK/92F0cqAqdO9yxVG3hXcz0CjX0I=;+o2nDqpo0q6MNP8qU7mGFQ=="
 ---

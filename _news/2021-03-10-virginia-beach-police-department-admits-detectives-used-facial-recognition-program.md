@@ -43,22 +43,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Gambling, rural vaccinations and facial recognition: Down in Alabama"
-    excerpt: "Also: The Alabama National Guard joins the vaccination effort, and Redstone Arsenal is employing facial-recognition technology. The “Down in Alabama” podcast is short and free. Listen to it by clicking on the player above or subscribe by looking for “Down in Alabama” on the device of your choosing."
-    publishedDateTime: 2021-03-11T05:33:00Z
-    webUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html"
-    ampWebUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EQIGEHXK2VFFFP5R6S3ODBTY4A.jpg"
-        width: 3723
-        height: 2094
-        isCached: true
   - title: "Virginia Beach police department says detectives used facial recognition program"
     excerpt: "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report."
     publishedDateTime: 2021-03-10T14:31:00Z

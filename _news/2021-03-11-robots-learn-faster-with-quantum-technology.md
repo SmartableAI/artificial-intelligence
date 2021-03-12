@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-03-robots-faster-quantum-technology.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-robots-faster-quantum-technology.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Robots learn faster with quantum technology"
+    excerpt: "The physicists have achieved this result by using a quantum processor for single photons as a robot. Artificial intelligence is part of our modern life. A crucial question for practical applications is how fast such intelligent machines can learn."
+    publishedDateTime: 2021-03-12T14:35:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210311123432.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Researchers Prove that Robots Learn Faster with Quantum Technology"
     excerpt: "Robots solving computer games, recognizing human voices, or helping in finding optimal medical treatments: those are only a few"
     publishedDateTime: 2021-03-11T23:28:00Z

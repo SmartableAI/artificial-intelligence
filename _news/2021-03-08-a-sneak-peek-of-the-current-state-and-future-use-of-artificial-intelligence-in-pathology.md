@@ -41,6 +41,20 @@ related:
         width: 1199
         height: 652
         isCached: true
+  - title: "The Future Of Work Now: AI-Assisted Clothing Stylists At Stitch Fix"
+    excerpt: "The goal of the two sources of intelligence is to provide clients with a “Fix”—a mailed box of five personalized clothes choices—that are a close fit to their style, size, and price preferences."
+    publishedDateTime: 2021-03-12T14:14:00Z
+    webUrl: "https://www.forbes.com/sites/tomdavenport/2021/03/12/the-future-of-work-now-ai-assisted-clothing-stylists-at-stitch-fix/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604b769ead1bacf4e0ff7a1f%2F0x0.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Prior authorization, AI and the future of clinical documentation — 2 experts weigh in"
     excerpt: "Here two leaders from MCG Health answer questions about emerging healthcare technologies, prior authorization, and the future of clinical documentation. Interviewees include: Question: CMS recently proposed a new rule for prior authorization that sparked a lot of discussion in the healthcare community."
     publishedDateTime: 2021-03-09T23:16:00Z

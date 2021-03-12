@@ -73,6 +73,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "From Wedding Planning To Cannabis, B2B FinTech Funders Go Niche"
+    excerpt: "From wedding planning to cannabis to the entertainment industry, this week's B2B FinTech investors targeted financial solution providers in niche markets."
+    publishedDateTime: 2021-03-12T13:00:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/b2b-fintech-funders-go-niche-wedding-planning-cannabis/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/b2b-fintech-funders-go-niche-wedding-planning-cannabis/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/b2b-fintech-funders-go-niche-wedding-planning-cannabis/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/fintech-venture-capital-niche-market-457x305.jpg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "We need to strap a rocket to the government's FinTech thinking"
     excerpt: "AI, DLT, Digital ID and open finance) are transformed into a reality. Since at least 2015 I have been arguing for a centre, a task-force, a rocket at the centre of government to blast forward everything 4IR and fintech. It needs to be at the centre and ..."
     publishedDateTime: 2021-03-12T09:54:00Z

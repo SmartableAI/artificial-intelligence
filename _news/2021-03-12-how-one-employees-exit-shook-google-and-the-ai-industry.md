@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "How one employee’s exit shook Google and the AI industry"
-    excerpt: "Timnit Gebru, then co-leader of the ethical AI team at Google, sent a private message on Twitter to Emily Bender, a computational linguistics professor at the University of Washington. “Hi Emily, I’m wondering if you’ve written something regarding ethical considerations of large language models or something you could recommend from others?"
+    excerpt: "such as Microsoft Research and Facebook AI Research, and they tend to project them publicly as somewhat separate from the company itself. But until Google provides some transparency about its ..."
     publishedDateTime: 2021-03-11T15:38:00Z
-    webUrl: "https://kvia.com/news/business-technology/2021/03/11/how-one-employees-exit-shook-google-and-the-ai-industry/"
+    webUrl: "https://ktvz.com/lifestyle/technology/2021/03/11/how-one-employees-exit-shook-google-and-the-ai-industry/"
     type: article
     provider:
-      name: KVIA
-      domain: kvia.com
+      name: KTVZ
+      domain: ktvz.com
     quality: 39
     images:
-      - url: "https://kvia.b-cdn.net/2019/10/featured-biz-tech.jpeg"
+      - url: "https://ktvz.com/wp-content/uploads/2019/10/ktvz-biz-tech.png"
         width: 1024
         height: 576
         isCached: true

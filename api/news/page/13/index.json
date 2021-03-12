@@ -2,6 +2,310 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-02-ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge.md",
+      "title": "IBM Cloud Satellite Enables Clients to Deliver Cloud Securely in Any Environment Including at the Edge",
+      "excerpt": "Lumen Technologies is a key edge compute partner to integrate IBM Cloud Satellite for 180,000 enterprise locationsMore than 65 ecosystem",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030136646",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030136646",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-documents-show-agreements-between-cbp-and-jetblue-for-facial-recognition-boarding.md",
+      "title": "Documents Show Agreements Between CBP and JetBlue for Facial Recognition Boarding",
+      "excerpt": "The documents provide more insight into the dynamics between DHS and airlines, which are increasingly deploying biometric boarding at their gates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
+      "originalUrl": "https://www.vice.com/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/603d1b6f47fbc10094d95023/lede/1614617981504-jetblue.jpeg?crop=1xw:0.8257xh;0xw,0xh",
+          "width": 1500,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
+      "publishedDateTime": "2021-03-01T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-how-to-drive-brand-awareness-and-marketing-with-natural-language-processing.md",
+      "title": "How to drive brand awareness and marketing with natural language processing",
+      "excerpt": "To grow brand awareness, a successful marketing campaign must be data-driven, using market research into customer sentiment, the buyer’s journey, social segments, social prospecting, competitive analysis and content strategy. For sophisticated results, this research needs to dig into unstructured data",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/brand-awareness-natural-language-processing/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/brand-awareness-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/2020_10_16blog_imagery_NLP_1980x996_v3-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T09:00:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising.md",
+      "title": "How Online Privacy Issues Will Shape Future Use Of Artificial Intelligence In Advertising",
+      "excerpt": "The article discusses the use of artificial intellignece in advertising as a response to stricter privacy regulations in order to effectively target consumers while protecting sensitive information. Sheri Bachstein of IBM Watson is interviewed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/",
+      "originalUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603d16a47be12e5f55c56714%2F0x0.jpg",
+          "width": 828,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/amp/",
+      "publishedDateTime": "2021-03-01T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course.md",
+      "title": "Codeacademy partners with Black and Brilliant for 10-week AI course",
+      "excerpt": "The two organizations are hoping to increase diversity within the artificial intelligence field and prevent AI bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
+      "originalUrl": "https://www.techrepublic.com/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/09/18/aa3cd281-ebbc-40b1-bce2-302abb8f1a1d/resize/1200x/bd38c37fbdae4a13baac8d1b612198fb/istock-1090216744.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
+      "publishedDateTime": "2021-03-01T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-volkswagen-and-argo-ai-plan-to-launch-a-self-driving-electric-taxi-in-2025.md",
+      "title": "Volkswagen and Argo AI Plan to Launch a Self-Driving Electric Taxi in 2025",
+      "excerpt": "Volkswagen ( OTC:VWAGY) said that it plans to launch a self-driving electric van for urban ride-hailing service in 2025. Volkswagen said on Monday that a commercial version of its ID. Buzz, an electric minivan inspired by the iconic 1960s VW Microbus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F615901%2Flarge-13019-volkswagencommercialvehiclesmovesaheadwithautonomousdrivingrdformobilityasaservice.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "publishedDateTime": "2021-03-01T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience.md",
       "title": "Only 50% Of Hires Are Successful: How AI Is Optimizing The Experience",
       "excerpt": "Organizations need to have processes to handle the increased number of applicants the best way possible, especially for industries that had to let go of many employees, to recruit the best candidates.",
@@ -927,311 +1231,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020-2025.md",
-      "title": "Artificial Intelligence Robots Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025",
-      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-the-deep-south-has-a-rich-history-of-resistance-as-amazon-is-learning.md",
-      "title": "The Deep South Has a Rich History of Resistance, as Amazon Is Learning",
-      "excerpt": "The Deep South is not generally known for its labor agitation, which is why it might come as a surprise for some to learn that it is in Alabama where workers have mounted one of the largest and most aggressive efforts to unionize Amazon in recent memory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/01/opinion/26bouie-lead-print/26bouie-lead-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.amp.html",
-      "publishedDateTime": "2021-02-26T21:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-gchq-outlines-how-its-going-to-ensure-its-secretive-use-of-ai-is-ethical.md",
-      "title": "GCHQ outlines how it’s going to ensure its (secretive) use of AI is ethical",
-      "excerpt": "This week the UK's security and intelligence agency GCHQ shared an in-depth document outlining how it is thinking about AI ethics, specifically ho",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical",
-      "originalUrl": "https://diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-02/D9827B6A-9F14-4640-AE24-D7E0890FF6CA.png",
-          "width": 703,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/gchq-outlines-how-its-going-ensure-its-secretive-use-ai-ethical?amp",
-      "publishedDateTime": "2021-02-26T20:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-how-googles-grand-plan-to-make-its-own-games-fell-apart.md",
-      "title": "How Google's Grand Plan to Make Its Own Games Fell Apart",
-      "excerpt": "The tech giant hired 150 game developers for Stadia Games and Entertainment, only to lay them all off. Sources say it never gave the studios a chance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/",
-      "originalUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60394cbfcb267f5208ca89bb/master/pass/games_stadia_1131586303.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-stadia-games-entertainment-collapse/amp",
-      "publishedDateTime": "2021-02-26T16:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-edge-ai-market-size-share-trends-analysis-report-with-growth-forecast-2020-2027.md",
-      "title": "Edge AI Market Size, Share & Trends Analysis Report With Growth Forecast 2020-2027",
-      "excerpt": "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-share-trends-analysis-report-with-growth-forecast-2020-2027-2021-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-share-trends-analysis-report-with-growth-forecast-2020-2027-2021-02-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T16:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-ibm-watson-why-is-healthcare-ai-so-tough.md",
-      "title": "IBM Watson: Why Is Healthcare AI So Tough?",
-      "excerpt": "A pivotal event for AI happened when IBM’s Watson beat two all-time champions of Jeopardy! in 2011. This showed that the technology was far from being experimental. IBM would soon go on to make Watson the centerpiece of its AI strategy. And a big part of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603af91362e4efd26de6913e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1713%26cropY1%3D87%26cropY2%3D1050",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/amp/",
-      "publishedDateTime": "2021-02-26T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

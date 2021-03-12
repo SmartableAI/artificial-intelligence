@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to ..."
-    publishedDateTime: 2021-03-10T21:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-1030170554"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
     excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
     publishedDateTime: 2021-03-10T21:39:00Z
@@ -62,6 +53,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
+    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+    publishedDateTime: 2021-03-11T07:35:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 70
+    images:
+      - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
   - title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
     excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
