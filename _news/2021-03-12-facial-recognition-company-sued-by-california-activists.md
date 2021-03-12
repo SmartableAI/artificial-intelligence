@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Facial Recognition Company Sued by California Activists"
-excerpt: "(AP) — Civil liberties activists are suing a company that provides facial recognition services to law enforcement ... monitor their associations, and track their speech,” the lawsuit contends. The lawsuit said Clearview AI scrapes dozens of internet ..."
-publishedDateTime: 2021-03-11T17:20:00Z
-originalUrl: "https://www.claimsjournal.com/news/national/2021/03/11/302524.htm"
-webUrl: "https://www.claimsjournal.com/news/national/2021/03/11/302524.htm"
+title: "Facial recognition company sued by California activists"
+excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
+publishedDateTime: 2021-03-12T00:40:00Z
+originalUrl: "https://www.sacbee.com/news/business/article249820553.html"
+webUrl: "https://www.sacbee.com/news/business/article249820553.html"
+ampWebUrl: "https://amp.sacbee.com/news/business/article249820553.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article249820553.html"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Claims Journal
-  domain: claimsjournal.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +22,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://www.claimsjournal.com/img/claims-journal-logo-640.png"
-    width: 640
-    height: 300
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/00f30775-8558-4ebb-8ad3-3d396887f1e7/9e7332ae-e878-43bc-a77a-6ef0024dba7f/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -179,6 +181,20 @@ related:
       name: Vallejo Times Herald
       domain: timesheraldonline.com
     quality: 49
+  - title: "Facial recognition company sued by activists"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
+    publishedDateTime: 2021-03-11T12:00:00Z
+    webUrl: "https://www.avpress.com/news/facial-recognition-company-sued-by-activists/article_4247d75c-8214-11eb-9b58-237ce7efe86d.html"
+    type: article
+    provider:
+      name: Antelope Valley Press
+      domain: avpress.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/custom/image/3a7ebec4-3719-11ea-aa97-fb17a0ed482f.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Activists sue facial recognition company in California"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally"
     publishedDateTime: 2021-03-10T18:15:00Z
@@ -290,6 +306,6 @@ related:
       domain: legal500.com
     quality: 0
 
-secured: "s4xNmoEhYQPyY3rDU47yUo5V+frrCW4sC2lQp5U+UyWNBs3RV1nldaVtgLIXa/+pxJnPXzudwzw/L8qcTdUNxV1792z/Df2pPO0inDfy3H0YaS8ijlkDoVcuqu4ZL4rTdrxWFPEBHx8G27WxrejfYU+eCqYlb2xjvnsr47BlkgkNARBbmVlFR5re1PTktbXroVSX/VMgieEU7URXmzp0pAuMDqob4ULAWJzDlMczJv/IsdDbZc3SSBmaD370Mps50HgYcCL7f4Rxq5Jqu/2D2UwutE6pE0IdQDmVPSpkIIlFPaV1/pUHkCLww1EFVQkTGYlFpRF+bTK/6oDYi5+HJvPBrH/gYY9ZjgXLIBGMfvg=;dPahNsjhPFqc5VM7aHC0UQ=="
+secured: "JSonzP9zRF1dXTS1SEhLR0466DZ2RlZ5hpYceLBsQsKI9Fy3Fs/ZtFLL84Ddt3Zl81Hw8rRh2aVQmPDd/ktR9Tf7Tp5X1UU9lO2G5VikwGlBB1fC82tzqH1GXZo1akwtsRfOiWtyKXLUIjVKuUn9lmSC4MiQw32z1/vtST+w8dAUhGlNip1RXI/b1NEJsKWPNrJ/lf1tvM9VdR5nOb+RQxpR7VXoPABkZZhAikNs6vYCKcLCoxj9A3EOIaaW2/XfVAuRzI4WqiaLFA11ypB159mSdrhI3oJZpWDFOqq2JI+C0hSi9BVxIl7q+2h/1MtshRdXzIyytLhXrCFaMiuHTkvUQcSaxV1UQce17J/1fNg=;mxkRmdj2iES5cRRB1gl5Vg=="
 ---
 

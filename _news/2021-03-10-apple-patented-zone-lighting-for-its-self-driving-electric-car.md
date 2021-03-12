@@ -39,20 +39,6 @@ related:
         width: 2342
         height: 1318
         isCached: true
-  - title: "An HR director at Amazon's self-driving outfit Zoox reveals 2 résumé tips to boost your odds of landing an interview"
-    excerpt: "If you want to work at Zoox, the autonomous-vehicle company owned by Amazon, pay close attention to detail when writing your résumé."
-    publishedDateTime: 2021-03-07T11:37:00Z
-    webUrl: "https://www.businessinsider.com/zoox-amazon-resume-cv-tips-tricks-mistakes-self-driving-jobs-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-    images:
-      - url: "https://i.insider.com/60426ec0d5e6870019a2c159?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Why self-driving cars should be all-electric cars"
     excerpt: "In recent weeks, the self-driving car company Cruise, a subsidiary of General Motors, filed a project application to build the huge fast-charging hub in the city's Bayview district. Cruise's planned robotaxi service,"
     publishedDateTime: 2021-03-10T21:14:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-reach-usd-24-billion-by-2027-2021-03-08"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "USD To Host First AI Symposium In March"
+    excerpt: "The University of South Dakota College of Arts & Sciences is hosting its first Artificial Intelligence (AI) Symposium March 16-18 via Zoom."
+    publishedDateTime: 2021-03-10T04:00:00Z
+    webUrl: "https://www.yankton.net/community/article_96ce7664-8151-11eb-ad7a-c72b553cd0ec.html"
+    type: article
+    provider:
+      name: Yankton Press & Dakotan
+      domain: yankton.net
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/yankton.net/content/tncms/custom/image/4c91c334-88e5-11e7-b820-e722d3f7a1ed.jpg?resize=600%2C600"
+        width: 600
+        height: 600
         isCached: true
   - title: "GPU Market Size Will Reach USD 200.85 Billion By 2027 at a CAGR of 33.6% - Valuates Reports"
     excerpt: "Graphic Processing Unit Market is Segmented by Type (Dedicated, Integrated, and Hybrid), Device (Computer, Tablet, Smartphone, Gaming"

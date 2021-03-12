@@ -1,23 +1,29 @@
 ---
 category: news
-title: "NCFA Announces 7th Annual FFCON21 Digital ‘Breaking Barriers’ FinTech Conference"
-excerpt: "FFCON21 to connect HR talent and explore accelerated Fintech trends and innovations paving the way to mass adoption and scaleTORONTO, ON / ACCESSWIRE / March 11, 2021 / The National Crowdfunding & Fintech Association (NCFA),"
-publishedDateTime: 2021-03-11T19:01:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb"
-webUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb"
+title: "NCFA Announces 7th Annual FFCON21 Digital 'Breaking Barriers' FinTech Conference"
+excerpt: "FFCON21 to connect HR talent and explore accelerated Fintech trends and innovations paving the way to mass adoption and scale & nbsp;    TORONTO, ON / ACCESSWIRE / March 11, 2021 /  The National Crowdfunding & amp;"
+publishedDateTime: 2021-03-12T04:48:00Z
+originalUrl: "https://menafn.com/1101739128/NCFA-Announces-7th-Annual-FFCON21-Digital-Breaking-Barriers-FinTech-Conference"
+webUrl: "https://menafn.com/1101739128/NCFA-Announces-7th-Annual-FFCON21-Digital-Breaking-Barriers-FinTech-Conference"
 type: article
-quality: 0
-heat: 0
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "JD0AQDX42wg7e9WyFcItOVH6zxvmbexbeqWFfVfj8R9VwAda74Ac6oGd7kzJLvLiB5t31AOBelmCALQgmvsE2wy7U6jSs1j/BjKAwIc04PQcFlUoJAZNfY/u3acvOyt6H55awOxOsWnqN97Ik+TBm4Yq0gwIAojLXB87FPmghYBfUInRL10ulcYYV1V5tAr/JjJScwPLOsZSzmKrGMWBaoqNzMkKh2r8mMhYL8REIPHXCIDJ09Vf1Vi3Gi6jyOy7sTSt2CRcaae5PfBdpcaPfgqkZPB8YevBCSIPrpauM9zroBOnPpjD5K44+0A3jFIAuyjERXNsIm2bSbmKaogZfXXSOSRm/fM+Jv90D5Zj2/k=;0vl8Xf0DLvIkweQE1zY8cA=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?801267"
+    width: 437
+    height: 250
+    isCached: true
+
+secured: "/MUdFYHxk1+hhZX9EbCX671+eO988zvEd/I94CJ6CG5mCbhl4R5ppGJ6z2q0PinMNubL6n37QtKI+yolZCVOUKnbmsu9TntQgQ/wAKlsIr4Tr4fgLlsHLJe8wKsLtFNM5Ws+eNHRSwFeCr06dhlk8T6CjnPGSQFj2Do/Cg8qayEwJt+7aCfqgT3V/l5z+FadJumzJnbyiv+SCGZfhILRFgYpVFSf6garOeXpsWdULxBQ0KOORhTW9PResrNGUDBIIlDGMB81DfqJAhwSAeoA5J7G+fdXNkJ4LD1XSIFVobL4W2iMmC+1bjEtnEIXLbyS4QBQKOcFs6rlq6jpJQtQyifqSGxNzyrxfMCeIU2hRwY=;dK2I4+Jt27/fFE/QtcPJ7w=="
 ---
 

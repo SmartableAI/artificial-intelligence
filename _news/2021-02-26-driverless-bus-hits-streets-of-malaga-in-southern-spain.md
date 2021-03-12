@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Driverless bus hits streets of Malaga in southern Spain"
-excerpt: "The bus uses artificial intelligence to improve its \"decisions ... 60 passengers and was developed by Spanish firm Irizar. Other driverless pilot projects already exist in Europe, but none ..."
-publishedDateTime: 2021-02-25T17:58:00Z
-originalUrl: "https://www.straitstimes.com/world/europe/driverless-bus-hits-streets-of-malaga-in-southern-spain"
-webUrl: "https://www.straitstimes.com/world/europe/driverless-bus-hits-streets-of-malaga-in-southern-spain"
+title: "Driverless Bus Hits Streets Of Malaga In Southern Spain"
+excerpt: "A new driverless electric bus has begun operating ... he told AFP. The bus uses artificial intelligence to improve its \"decisions\" based on data recorded along the route. The 12-metre (39-foot ..."
+publishedDateTime: 2021-02-25T17:27:00Z
+originalUrl: "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166"
+webUrl: "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166"
 type: article
 
 provider:
-  name: The Straits Times
-  domain: straitstimes.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/26/2021-02-24t162613z_1541090307_rc24zl9hcwl2_rtrmadp_3_spain-bus.jpg?itok=8rQNXPH0"
-    width: 763
-    height: 509
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/25/the-electric-powered-vehicle-operates-autonomously-but-a.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
-secured: "FYcq663pGwqjHbHRlIW6Dz3Eaj6moWuwvQWbNi4TXrM4QyQS5mSEy7cRZ+5NNCMCYFZcbavuVpnwp6hHoposeGE8AWwWQyaDOLYOC4nNTar4CjRbG0XrFbYZoodIr0pWbElo69eUoPZUhDRWpGCymiXy1ZMyXuBp6Hgu/NJBmQZqhXj+ZmbTh3axX9Ea2lXH9sU7RtBxXmr3MAykMyKc3xyTxG0q9sZVmVndJVcuSfn6ua7a2eYPrBTLkJXv9SmfvACxthG+V03xtSOBbi3TLLzjJUi/ysZF+UTL9pb5bz1CfAXhpDuBwUj+tWfhKiPpMB2StoY1xvYJZrWOdWPTqNr7DrAExmV0AdGQkdmKwcw=;d1Og7VRqDAaWZwMr/Si5kw=="
+secured: "8+WeHU0wQM2LlxTEQz0Vp9z+jcg0ipPfvSO9Ti01wkEroBp0ZRHeK88EK6CtV8mqpYkiGV0Wjza5lHcm0wQrKp1sc2TdsAvo4ft1xAgNTFK72QkmLN/giOhaDxkvUrryujF13KG2u9Q5TT2CXjhU9CsDX5bMv5IvCcFTJUHvFbDdC7g1F1OssWWtEizAKErb7NL2LsW9QDNvag6nR9P/nT1wYdpfXhOar3IbF+OZpqMVH+Swx6bdHiCiIws9Xlb/XkqzRiBpeKSSSgzMyBDMYUlLJFlv/Kq1WgD9XnRN5aOBYhgGYzC5MZqczWlFZuMgyWV5poVER4ztcBK0jdbSW582RkdVQ9qnLA5YdEJslFY=;NdO0nyYl4iZR1oFUWp3aCA=="
 ---
 

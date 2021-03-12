@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-h
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
 type: article
 quality: 68
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: CNET
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s new AI teaches itself to see with less human help"
-    excerpt: "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels."
-    publishedDateTime: 2021-03-07T12:04:00Z
-    webUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/03/brainzzz-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Facebook’s AR Vision is a Contextual AI-Powered Interface"
     excerpt: "Virtual reality (VR) might be Facebook’s main commercial focus when it comes to immersive technology at the moment but the company is heavily investing in an augmented reality (AR) future. Today, Facebook Reality Labs (FRL) has given another teasing look into its vision,"
     publishedDateTime: 2021-03-09T17:04:00Z

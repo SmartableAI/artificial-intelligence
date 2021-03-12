@@ -2,6 +2,205 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-24-nvoqmobile-voice-hipaa-compliant-speech-recognition-innovating-to-enable-mobile-clinicians.md",
+      "title": "nVoq.Mobile Voice: HIPAA Compliant Speech Recognition - Innovating to Enable Mobile Clinicians",
+      "excerpt": "In the case of nVoq.Mobile Voice, we knew many of our clinicians wanted to use speech recognition with PointCare on the Android tablet, but a lot of them had never used this kind of technology before,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-boulder-north-america-colorado-voice-recognition-7c208673813d039018acc85d68bfe4c4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-boulder-north-america-colorado-voice-recognition-7c208673813d039018acc85d68bfe4c4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers.md",
+      "title": "Enterprises customize Clinc’s conversational AI to connect with their customers",
+      "excerpt": "Clinc's conversational AI platform uses NLP to streamline customer queries and collect related data for financial enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
+      "originalUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1150039017-e1614002657936.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
+      "publishedDateTime": "2021-02-23T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-t-cell-screening-launched-to-detect-prior-covid-infections.md",
+      "title": "T-Cell Screening Launched to Detect Prior Covid Infections",
+      "excerpt": "The post T-Cell Screening Launched to Detect Prior Covid Infections appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOwpSZf8xkWI/v0/1200x788.jpg",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T12:56:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-facebook-expands-ai-phd-research-program-to-university-college-london.md",
+      "title": "Facebook expands AI PhD research program to University College London",
+      "excerpt": "Facebook is expanding its AI PhD program to the UK as part of a four-year research partnership with University College London, the company announced Tuesday. Students of the program will spend time at both UCL and Facebook as they pursue projects that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "originalUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/rIE0fLvhq4w1IEaAl1vDrmoedCI=/1200x630/2021/02/23/8582a1c9-43b3-412b-9cca-588a22ee3675/gettyimages-1194054229.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "publishedDateTime": "2021-02-23T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-proposed-framework-could-reduce-energy-consumption-of-federated-learning.md",
       "title": "Proposed framework could reduce energy consumption of federated learning",
       "excerpt": "In a new paper, AI and machine learning researchers propose a federated learning framework desgined to minimize environmental impact.",
@@ -991,197 +1190,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages.md",
-      "title": "Dynamic Yield Improves eCommerce Sales with Deep Learning-Based Personalized Listing Pages",
-      "excerpt": "Solution uses a self-training ranking engine to dynamically transform static, one-size-fits-all listing pages into fully individualized",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
-      "publishedDateTime": "2021-02-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-autel-robotics-evo-drone-review_.md",
-      "title": "Autel Robotics EVO Drone Review_",
-      "excerpt": "The Autel Robotics EVO Drone gives you a high quality ... Like the DJI Mavic Pro Quadcopter, you’re getting a pretty impressive range of control distance with this “follow me” drone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetreview.com/autel-robotics-evo-drone-review",
-      "originalUrl": "https://www.gadgetreview.com/autel-robotics-evo-drone-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gadgetreview.com/wp-content/uploads/2021/02/Autel-Robotics-EVO-Drone-Review.jpg",
-          "width": 2112,
-          "height": 1188,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadget Review",
-        "domain": "gadgetreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-fundguard-raises-12-million-to-help-manage-assets-with-ai.md",
-      "title": "FundGuard raises $12 million to help manage assets with AI",
-      "excerpt": "FundGuard, a startup developing an AI-powered asset management platform, has raised $12 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/23/fundguard-raises-12-million-to-help-manage-assets-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/02/23/fundguard-raises-12-million-to-help-manage-assets-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/support-lvl-3-img.png?w=1200&strip=all",
-          "width": 657,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/23/fundguard-raises-12-million-to-help-manage-assets-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/fundguard-raises-12-million-to-help-manage-assets-with-ai/amp/",
-      "publishedDateTime": "2021-02-23T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-this-translation-device-streamlines-international-communication.md",
-      "title": "This Translation Device Streamlines International Communication",
-      "excerpt": "It's powered by 24 world-leading translation engines, providing quick, highly-accurate translations in 104 languages. It even translates against different accents and dialects. This device is equipped with four omnidirectional microphones and an AGC algorithm that can record up to four hours of a single speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/365661",
-      "originalUrl": "https://www.entrepreneur.com/article/365661",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613626452-Ent-Langogo.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365661",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365661",
-      "publishedDateTime": "2021-02-23T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

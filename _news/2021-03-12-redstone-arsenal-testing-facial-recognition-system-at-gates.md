@@ -9,7 +9,7 @@ ampWebUrl: "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-faci
 cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Redstone Arsenal to use facial recognition software for entry; What it means for drivers"
+    excerpt: "Redstone Arsenal is opening “facial recognition identification” for faster vehicle access to the federal mega-base in Huntsville. Special facial recognition (FR) lanes open Monday to people registered in Redstone’s automatic installation entry program."
+    publishedDateTime: 2021-03-10T17:02:00Z
+    webUrl: "https://www.al.com/news/2021/03/redstone-arsenal-to-use-facial-recognition-software-for-entry-what-it-means-for-drivers.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/redstone-arsenal-to-use-facial-recognition-software-for-entry-what-it-means-for-drivers.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/redstone-arsenal-to-use-facial-recognition-software-for-entry-what-it-means-for-drivers.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 50
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZANCKFR6KVHH3ICGV77ZILDW4M.PNG"
+        width: 315
+        height: 239
+        isCached: true
   - title: "Myanmar: Facial Recognition System Threatens Rights"
     excerpt: "The Myanmar military junta’s access to a new public camera system equipped with facial recognition and license plate recognition technology poses a serious threat to basic rights in the country, Human Rights Watch said today."
     publishedDateTime: 2021-03-12T01:20:00Z

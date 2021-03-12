@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook’s new AI teaches itself to see with less human help"
-    excerpt: "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels."
-    publishedDateTime: 2021-03-07T12:04:00Z
-    webUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/03/brainzzz-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Facebook's ready to talk about how its AR glasses will work with neural wristbands"
     excerpt: "Facebook's working on a neural wristband for AR glasses, with haptic gloves in the works Facebook's first pair of smart glasses is arriving this year. But for the next pair down the road, they may be connecting with your wrist."
     publishedDateTime: 2021-03-09T20:01:00Z

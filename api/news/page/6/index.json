@@ -2,6 +2,207 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-05-10-women-changing-the-landscape-of-leadership.md",
+      "title": "10 Women Changing the Landscape of Leadership",
+      "excerpt": "In critical fields like agriculture, science, finance and technology, they have staked a claim with their pioneering work and are building a path for the next generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership",
+      "originalUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/04/multimedia/womenpromo2/womenpromo2-videoSixteenByNineJumbo1600.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/05/world/women-leadership.amp.html",
+      "publishedDateTime": "2021-03-05T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19.md",
+      "title": "Apps, drone deliveries and AI: How technology stepped up its game to fight COVID-19",
+      "excerpt": "A new report highlights the benefits, but also the shortcomings, of data-informed technologies and AI in the response to the COVID-19 crisis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
+      "originalUrl": "https://www.zdnet.com/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/04/10af9e08-4564-4dc6-bd8c-6cd04a69a9d3/cdei-repository-breakdown-by-sector.png",
+          "width": 1032,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
+      "publishedDateTime": "2021-03-05T02:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-meet-the-ai-algorithms-that-judge-how-beautiful-you-are.md",
+      "title": "Meet the AI algorithms that judge how beautiful you are",
+      "excerpt": "Companies working on such technologies are a darling of venture capital, and such algorithms are used in everything from online cosmetic sales to dating apps. These beauty scoring tools, readily available for purchase online,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/",
+      "originalUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-04-at-7.49.31-PM.png?w=505",
+          "width": 505,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/amp/",
+      "publishedDateTime": "2021-03-05T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design.md",
+      "title": "How AI trained to beat Atari games could impact robotics and drug design",
+      "excerpt": "Uber and OpenAI researchers say an advance in Go-Explore AI in beating Atari games could have applications for robotics and drug design.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/",
+      "originalUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/atari.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/",
+      "publishedDateTime": "2021-03-05T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-pinterest-details-the-ai-that-powers-its-content-moderation.md",
       "title": "Pinterest details the AI that powers its content moderation",
       "excerpt": "Pinterest pulled back the curtains on the AI and machine learning technologies powering its content moderation engine.",
@@ -1031,169 +1232,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-fintech-tools-to-help-you-master-money-mindfulness-in-2021.md",
-      "title": "Fintech Tools To Help You Master Money Mindfulness In 2021",
-      "excerpt": "Mindfulness” is one of those zeitgeisty words that has invaded everything from beauty routines to breakfast cereal. Myriad brands promise mindful solutions to eating, exercising and using technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/",
-      "originalUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2021/03/getty_bounced-check_030321-568x322.jpg",
-          "width": 660,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp",
-      "publishedDateTime": "2021-03-04T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-amazons-amzn-aws-selected-by-tour-strengthens-clientele.md",
-      "title": "Amazon's (AMZN) AWS Selected by TOUR, Strengthens Clientele",
-      "excerpt": "Amazon's AMZN robust cloud services portfolio is helping it gain customers. PGA TOUR— commonly known as TOUR — recently selected Amazon Web Services (“AWS”) as its official cloud provider. This highlights the efficiency and reliability of AWS’s innovative cloud products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04",
-      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04?amp",
-      "publishedDateTime": "2021-03-04T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-moscow-metro-to-introduce-facial-recognition-system-for-fare-payment.md",
-      "title": "Moscow Metro to introduce facial recognition system for fare payment",
-      "excerpt": "Passengers using the Moscow Metro system in Russia will be able to pay their fares at all metro stations using face biometrics by the end of this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202103/moscow-metro-to-introduce-facial-recognition-system-for-fare-payment",
-      "originalUrl": "https://www.biometricupdate.com/202103/moscow-metro-to-introduce-facial-recognition-system-for-fare-payment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg",
-          "width": 730,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-aible-positioned-furthest-in-the-visionary-quadrant-in-the-2021-gartner-magic-quadrant-for-cloud-ai-developer-services-report.md",
-      "title": "Aible Positioned Furthest in the Visionary Quadrant in the 2021 Gartner Magic Quadrant for Cloud AI Developer Services Report",
-      "excerpt": "Visionaries are most commonly, but not exclusively, focused on autoML, as this segment is viewed as the most important for application leaders and development organizations. Their autoML services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210304005195/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210304005195/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
