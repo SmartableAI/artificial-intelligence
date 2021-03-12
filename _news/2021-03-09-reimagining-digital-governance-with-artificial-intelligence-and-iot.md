@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimaginin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 649
     isCached: true
-
-related:
-  - title: "Recruiting talent by leveraging AI and computer vision"
-    excerpt: "AI and computer vision technology are being harnessed to automate time-consuming tasks like candidate screening and interview scheduling."
-    publishedDateTime: 2021-03-08T00:50:00Z
-    webUrl: "https://techwireasia.com/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
-    ampWebUrl: "https://techwireasia.com/amp/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
-    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 74
-    images:
-      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/03/000_93R6KY-450x300.jpg"
-        width: 450
-        height: 300
-        isCached: true
 
 secured: "A+kbZ/nhmmuTrSoaEVELxoGpnANoKD60tWi0q6nAoRcpbjj8fFh/0Jbyk2pSvaK9FJB/OY8w4h+PGSbOANdQsZwLEp+j8zC4nshmL2LYbT+OFDn30q76XTsWSU5Zm40Ta9HqVjWCG3vqhnVR8z4D3IC9HUsF34wDojqUnFBOVxOQn8pmKg+elM10ElpEIDSiFsw/lVmQc0J2OTElKVq1xWgNJoCr/8yM36tgZ4RPoyKqW+YYSkwlqM/ZzEc2BSZTWCiNdoklvdDiLc9Mxxq+uRf9kxF7Yi25GmUwyBtyzL+u/UqqnDFdmc76HKuEGLS6B16WYMKhA9StQj7WT2wd5ZJyuNi6Js0RMjUTRgFNefpAyOS2xDS6YRgjGoNXjaHJL6CCIN5reCtU5UERdIpRL5E4PcnORm6Cv+v//cMvcKglMeKvTZRx3pOb4FI3qOUhbiky7CjGWQmXdhEIRblZWKiB6ncJcqhAlTPrFNLS82ZaSrAbvUbfwTEWcDznbl1YzSSSRX0Pme8E4TH5Uy9uPw==;xk8m+4eZcXahA+7+aqMm4g=="
 ---

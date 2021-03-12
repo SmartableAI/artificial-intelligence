@@ -67,6 +67,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 3
+  - title: "Blue Yonder Named a Leader in the 2021 Gartner Magic Quadrant for Supply Chain Planning Solutions Report, Positioned Highest in Ability to Execute"
+    excerpt: "Blue Yonder attributes this position to its Luminatetm Planning solutions portfolio, which offers advanced artificial intelligence (AI ... at 11:30 Global Shockwave Therapy Markets 2021-2025 - Shockwave Therapy Function / Conditions Effectively Treated ..."
+    publishedDateTime: 2021-03-12T16:48:00Z
+    webUrl: "https://www.lelezard.com/en/news-19697337.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 1
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "l0p1U2zKREqbFM6u5rc0jA62lnpZf8etiGakvy02IBpwCWWwrBgBaCuNwETJgKuKh3PRVcdjFucnF7aMG2IP23Vy4547SawmwWsHyjsfwxAZ5DWfzG8umIlSGBeW4b5RBQtl+NKvJyBhKEKvUVya+dwaXHLyU2iHufiUO31H5/SgXr9dqyWNzBiBxq04cOapgw+OrJ4kCyrrvgd5byWfN74IfR2OeL8e9InR7JOzsrvo5UUOPOmSjXXsVxZYzKtUsvIzaYONjVOhVjzYoqXm8cgstzafVU4ypoKWD76pRSF+ABNtkEmSAvcabEksCgzHYp3dUeVI1/d/n+KPPwWM9LHEQZQ2SddN7DYGkPhyvjY=;O9GhgvtaeG3La4Dl3XkvaA=="
 ---

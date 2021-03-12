@@ -7,7 +7,7 @@ originalUrl: "https://roboticsandautomationnews.com/2021/03/12/canadian-tire-and
 webUrl: "https://roboticsandautomationnews.com/2021/03/12/canadian-tire-and-nuport-robotics-to-commercialize-canadas-first-automated-heavy-duty-trucks/41379/"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Canadian Tire, NuPort Robotics to commercialize automated HD trucking technology in Canada"
+    excerpt: "Canadian national retailer Canadian Tire Corp. and Toronto-based start-up NuPort Robotics Inc ... from both Canadian Tire and NuPort Robotics, the two-year project is applying proprietary, artificial intelligence (AI) technology from NuPort Robotics ..."
+    publishedDateTime: 2021-03-12T15:14:00Z
+    webUrl: "https://www.fleetequipmentmag.com/canadian-tire-nuport-robotics-automated-hd-trucking-canada/"
+    type: article
+    provider:
+      name: Fleet Equipment Magazine
+      domain: fleetequipmentmag.com
+    quality: 44
+    images:
+      - url: "https://s18391.pcdn.co/wp-content/uploads/2018/02/truck-data-generic.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Canadian Tire and NuPort Robotics to Commercialize Canada’s First Automated Heavy Duty Trucking Technology"
     excerpt: "First-of-its-kind technology to enable safer, greener and more efficient transport of goods by semi-tractor trailers TORONTO, ON / ACCESSWIRE / March 11, 2021 / Canadian National retailer Canadian Tire Corporation (TSX:CTC."
     publishedDateTime: 2021-03-11T12:16:00Z
@@ -39,6 +53,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "NuPort Robotics to conduct self-driving middle-mile truck project"
+    excerpt: "During the two-year project, artificial intelligence technology from NuPort will be used in two retrofitted conventional semi-tractor trailers with sensors and controls. Source: NuPort Canadian autonomous trucking startup NuPort Robotics Inc."
+    publishedDateTime: 2021-03-12T13:33:00Z
+    webUrl: "https://insights.globalspec.com/article/16158/nuport-robotics-to-conduct-self-driving-middle-mile-truck-project"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 36
 
 secured: "1CCbpolW2xhqXZbjhE9Q3gjwYAPkwi8DbEo+pA8OU9laxGRZB2Y19bJsAkGoXdeTvg5LsKlTmjQRYBUw9IlO7A7TISRtkFoskifJkB3VxSCMxM3b+euayaNFsmm92/2FUx2OcJ1o25FTNngyI/X2qOvflEiQ4kwX+zrGegGrJg4RkryFIsKOIfGMnQGllf8wjynjIBtLsqc2gUlhRDSdZVxEyUrsiKcWKnJfzsx/8DCHkSPmsUBbaYcj+GJQNuB8FcVvFDWl29e7gz8Mb7ghq21La0ELFd4eMlSvAzmwxgDTjVv/ZTMbrPmnpEL8NJCEpAXtS3hjbf3/w5U6Ypj5aaZu5kGjDS9ROO1OorBO0sa8okT1AQOx3wlri0PHsRzfNuzrbsVSzw4fvpakgUtespK2puOXarqVtRQAXCBQJj+NQXqLV8UwVqMVzgk/194F2ireLaEtCDGtBUwNltQkMxm2Pwm0YQM2T8ZtU5Z1G5SQNI8v7mso/eH3ja56JHvQ2H3A90iVNZUV658EFOkvcA==;Naxr1wp1D7frhnXsGrWyVw=="
 ---

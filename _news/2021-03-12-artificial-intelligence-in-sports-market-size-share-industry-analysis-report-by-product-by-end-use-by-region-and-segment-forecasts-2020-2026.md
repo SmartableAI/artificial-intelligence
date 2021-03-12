@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Spending Systems Market 2020 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2025"
-    excerpt: "Global Cognitive Spending Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2026 aims"
-    publishedDateTime: 2021-03-08T00:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-spending-systems-market-2020-size-revenue-growth-rate-restraints-forecast-analysis-by-2025-2021-03-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Enterprise AI Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to 2025 Forecast"
     excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
     publishedDateTime: 2021-03-08T12:18:00Z

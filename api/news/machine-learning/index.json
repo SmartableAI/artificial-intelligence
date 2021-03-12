@@ -492,49 +492,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-09-army-collaborates-with-spelman-college-on-ai-machine-learning.md",
-      "title": "Army collaborates with Spelman College on AI, machine learning",
-      "excerpt": "An Army researcher recently briefed students and faculty at Spelman College on artificial reasoning as a part of an Office of the Secretary of Defense artificial intelligence and machine learning initiative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.army.mil/article/244024/army_collaborates_with_spelman_college_on_ai_machine_learning",
-      "originalUrl": "https://www.army.mil/article/244024/army_collaborates_with_spelman_college_on_ai_machine_learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.army.mil/e2/c/images/2021/03/08/2c1d0c78/max1200.jpg",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T14:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "United States Army",
-        "domain": "army.mil",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-08-algorithm-helps-artificial-intelligence-systems-dodge-adversarial-inputs.md",
       "title": "Algorithm helps artificial intelligence systems dodge “adversarial” inputs",
       "excerpt": "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or “adversarial” inputs may cause uncertainty.",
@@ -648,7 +605,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1435,6 +1392,60 @@
         "TensorFlow",
         "Google AI",
         "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
+      "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
+      "excerpt": "Kubeflow Components, a toolkit supporting the company’s AWS RoboMaker service for orchestrating robotics workflows. Amazon says that the goal is to make it faster to experiment and manage robotics workloads from perception to controls and optimization,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
+      "originalUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
+      "publishedDateTime": "2021-03-03T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics",
         "Machine Learning"
       ]
     }

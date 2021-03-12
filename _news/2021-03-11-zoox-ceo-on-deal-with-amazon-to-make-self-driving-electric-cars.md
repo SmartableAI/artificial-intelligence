@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-
 webUrl: "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why self-driving cars are designed to look like overgrown toys"
-    excerpt: "Electric driverless cars are not just coming, folks. They’re here. Lyft passengers in Las Vegas can already hail a self-driving taxi. It’s one of the first times vehicles with no human behind the wheel are being tested on city streets."
-    publishedDateTime: 2021-03-09T18:58:00Z
-    webUrl: "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/"
-    ampWebUrl: "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/nuro-r2-07-original-1-e1614906015779.jpg?fit=740%2C494"
-        width: 740
-        height: 416
-        isCached: true
   - title: "Apple patented zone lighting for its self-driving electric car"
     excerpt: "Apple has patented a zone-lighting system for cars that uses sensors to automatically turn on lights based on occupants' needs."
     publishedDateTime: 2021-03-09T18:00:00Z

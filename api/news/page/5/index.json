@@ -2,6 +2,160 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-08-cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research.md",
+      "title": "Cloud Natural Language Processing (NLP) Market Analysis, Segmentation And Forecast | By Kenneth Research",
+      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-synthetic-data-could-be-the-key-to-unlocking-ai-what-is-it.md",
+      "title": "Synthetic Data Could Be The Key To Unlocking AI — What Is It?",
+      "excerpt": "The truth is that despite the big data boom, most businesses still lack the quantity of high-quality data they need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6042363121cbb7d95b1f446f%2F0x0.jpg",
+          "width": 820,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/amp/",
+      "publishedDateTime": "2021-03-08T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna.md",
+      "title": "Nvidia, Harvard researchers use AI to find active areas in cell DNA",
+      "excerpt": "Using a new deep learning toolkit called AtacWorks, researchers are studying how diseases and genomic variation influence specific types of cells in the human body.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/08/0e0d1f1c-d00c-4ad2-a2d0-7dd775d328e3/embargo-atacworks-image.png",
+          "width": 1190,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "publishedDateTime": "2021-03-08T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-as-ai-tech-speeds-up-so-should-designed-in-gender-diversity.md",
       "title": "As AI Tech Speeds Up, So Should Designed-In Gender Diversity",
       "excerpt": "These are the steps we need to take right now to make sure bias-free AI is developed by people representative of the whole of society and any given company.",
@@ -209,7 +363,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1073,144 +1227,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-the-robots-are-coming-for-phil-in-accounting.md",
-      "title": "The Robots Are Coming for Phil in Accounting",
-      "excerpt": "The robots are coming. Not to kill you with lasers, or beat you in chess, or even to ferry you around town in a driverless Uber. These robots are here to merge purchase orders into columns J and K of next quarter’s revenue forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/07/business/06whitecollar-bots-cover/06whitecollar-bots-cover-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html",
-      "publishedDateTime": "2021-03-05T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-microsoft-adds-ways-for-customers-on-ai-with-azure.md",
-      "title": "Microsoft Adds Ways for Customers on AI with Azure",
-      "excerpt": "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/09/f73fc3da-microsoft.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/",
-      "publishedDateTime": "2021-03-05T17:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency.md",
-      "title": "Open machine learning and AI data can increase ship energy efficiency",
-      "excerpt": "The Swedish ship operator Ventrafiken and the research project “Data-driven energy efficiency for ships” (D2E2F) have established a collaboration to collect open data for research purposes. One of the double ended ferries (Uraniborg) have been equipped with a Blueflow Energy Management System to collect data on energy consumers and vessel data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/",
-      "originalUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hellenicshippingnews.com/wp-content/uploads/2021/03/MS_Uraniborg.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/amp/",
-      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/amp/",
-      "publishedDateTime": "2021-03-05T15:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hellenic Shipping News Worldwide",
-        "domain": "hellenicshippingnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

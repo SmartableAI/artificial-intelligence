@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parle
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists: Pedestrians Could Wear Devices to Protect Themselves From Self-Driving Cars"
-    excerpt: "Should pedestrians wear radar-reflecting devices that make them ultra-visible to self-driving vehicles' sensors -- or is that too much to ask?"
-    publishedDateTime: 2021-03-08T13:02:00Z
-    webUrl: "https://futurism.com/the-byte/devices-protect-self-driving-cars"
-    ampWebUrl: "https://futurism.com/devices-protect-self-driving-cars/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/devices-protect-self-driving-cars/amp"
+  - title: "Self-Driving Cars To Be Especially Welcomed In “Zoom Towns”"
+    excerpt: "I’m referring to the advent of AI-based true self-driving cars. These are cars that encompass an AI driving system that does all the driving. Humans aren’t at the wheel. That brings us to today’s intriguing question: Will the emergence of AI-based ..."
+    publishedDateTime: 2021-03-12T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/amp/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 36
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://wp-assets.futurism.com/2021/03/crossingroad-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604aa7375fa4111122f8eb76%2F0x0.jpg%3FcropX1%3D24%26cropX2%3D728%26cropY1%3D19%26cropY2%3D349"
+        width: 704
+        height: 330
+        isCached: true
+  - title: "Why self-driving cars are designed to look like overgrown toys"
+    excerpt: "Electric driverless cars are not just coming, folks. They’re here. Lyft passengers in Las Vegas can already hail a self-driving taxi. It’s one of the first times vehicles with no human behind the wheel are being tested on city streets."
+    publishedDateTime: 2021-03-09T18:58:00Z
+    webUrl: "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/"
+    ampWebUrl: "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 44
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/nuro-r2-07-original-1-e1614906015779.jpg?fit=740%2C494"
+        width: 740
+        height: 416
         isCached: true
 
 secured: "zy/js902xZkawHf9u4W6Sr8XzHA0E2we+u1USC0Wn9DSlPKWPcxJght4s4l58DDfdh1zbg2+jQW2e4mh4G0cXV9cu/eJGlKn/hhk/VYgagLz/PLDVLkC+mrwO/Rqx8OOu6m+bsYeouV9R4J8mbPgJ4G9juwjnX6w72smzV1A9zzhwYtQHKkZQK7By9PUGWvBucqabn3x56CxRiI/gNM4gikBFPlklAlRLWk5KaoG0Q0dPryouwaLJMDDHdZf1zrkqWbcl6sk0yYcc5giEzN6ffhTsBEfTHoGmDoqWxz64YV1xABV639hEVHFRu9D0bankxesXdiAHtsImlQhkJ9mxzOJBxtf2BLMyYZexe0sMT1N9J53j+Lc2U7R3qbV1m8UCMfRjZYbyTFCtzrhlu/VuRwZ8tVXKLJo0TDJS5Z583oqVAfAxlRmZ4l0SXYYI+UGKFz7/or34bFzUgsJZE7zW6ZPhHiJ9r0a/F3iV6zc6QR4vpS8Pfn7PiYu6TKMf2rGQynZ1YRxsrFW8UmHQRC3Zg==;FHGPL0LdwaEPf5PwGetOUQ=="

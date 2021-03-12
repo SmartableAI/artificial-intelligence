@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-12T13:28:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo"
 webUrl: "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia640Sm27PHY/v0/1200x800.jpg"
@@ -27,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "6+raaulq4C/sYG3g3DnfhqpYZkaZ9h73ZlBGBIbLP5kBfO24TzW7qm9JSXTh+o13G7AfPsUbiPHNtGHh/8EGft4n6XCnPv6y7SMDWvNU0WmH3OqumASyC4mzYxKp6OatwQTLnhlu+IxahiHvFJ73OuzJ9hA6AEL8l0iWXB9tBaJzgH45Mm9eHQ2S9IOBykLv+f5jxOZxImSuVo2/QVSaDLibEeTfAs0xUDe317cP2Cfv06yTEraj8PPelw3x94r1Ux/nyDhF9hieGodmYJ1BQViWbfWpQAFI6AGAC8slmCJGjjBuwvfEgEeW3GgZq8U0D00vh+AHoJMAS0h1FOHmfDWr2WtKZ3P/iXiSGSYUzDo=;B3bkNoOPVvzPxen1DcEXcA=="
+secured: "UfwABRvysaKUz30rT9aa3XtIeWrZ3HGZVRczXlQDvSM6joZXpNNnwGcoPzKXSDTW83/DfdChi+Zhbldl1iQqbYc3x3Hu8R9gqv9t0S1ePxAltYuURc0t3dqQfedA5n3/w7M+Elp6QxBxOOeFPOFJoQAYntSYrEYlgHtAD23NTHWHK79xdoyaKV+YwecDMJQwqZbPBKajeuPTt+hCOgKkXVNKKzxNuG/b53e+KcVEFXih+dCCwcWjrcbP2tNasqExRE6QU1iku7v5maEeuT5zTCLxYisULSBw3aVItR0P8JfUOKRYOFChZUvK59FZAFZBwgOzJXSgSh4k9TwNd6hoUTRAw1RtoClwCaFiBtZTtJqCkJ0dGu7njPaACGRQDBfRCs3gAt6sSBq1ibcGG8hxh/T7WiJvKpZYNaiFHkkw76l1c6GoHktPsFHEOUQhKp2TCVdaETDg3eotml3Agftiytsc+6zEBZKEvdfefsI8YbaaVLLIjlWgnAtDNZJxUgMdpHK/sN/vpc8nMpPvcD6K7A==;OcQb3tRRnff1P9DZcgNDUg=="
 ---
 

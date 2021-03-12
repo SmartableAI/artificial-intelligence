@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-13-self-driving-cars-to-be-especially-welcomed-in-zoom-towns.md",
+      "title": "Self-Driving Cars To Be Especially Welcomed In “Zoom Towns”",
+      "excerpt": "I’m referring to the advent of AI-based true self-driving cars. These are cars that encompass an AI driving system that does all the driving. Humans aren’t at the wheel. That brings us to today’s intriguing question: Will the emergence of AI-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604aa7375fa4111122f8eb76%2F0x0.jpg%3FcropX1%3D24%26cropX2%3D728%26cropY1%3D19%26cropY2%3D349",
+          "width": 704,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/amp/",
+      "publishedDateTime": "2021-03-12T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-artificial-intelligence-company-plans-headquarters-in-loudoun.md",
+      "title": "Artificial Intelligence Company Plans Headquarters In Loudoun",
+      "excerpt": "Zasti, an artificial intelligence company that offers healthcare solutions, will establish a new headquarters in Loudoun County.",
+      "sourceUrl": null,
+      "webUrl": "https://patch.com/virginia/ashburn/artificial-intelligence-company-plans-headquarters-loudoun",
+      "originalUrl": "https://patch.com/virginia/ashburn/artificial-intelligence-company-plans-headquarters-loudoun",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/shutterstock/24771377/20210312/104743/styles/patch_image/public/shutterstock-1788333164___12104649632.jpg?width=984",
+          "width": 710,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://patch.com/virginia/ashburn/amp/29339370/artificial-intelligence-company-plans-headquarters-in-loudoun",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/ashburn/amp/29339370/artificial-intelligence-company-plans-headquarters-in-loudoun",
+      "publishedDateTime": "2021-03-12T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons.md",
+      "title": "Luum’s AI-based Lash Robot can delicately extend eyelashes for customers in beauty salons",
+      "excerpt": "Luum has created an AI-based Lash Robot that can delicately extend eyelashes for customers in beauty salons. I’ll let you absorb that for a minute. Luum CEO Philippe Sanchez said in an interview with VentureBeat that the lash extension procedure is ideal for robotics because it’s a tedious job for humans,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/",
+      "originalUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/lash-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/luums-ai-based-lash-robot-can-delicately-extend-eyelashes-for-customers-in-beauty-salons/amp/",
+      "publishedDateTime": "2021-03-12T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-the-army-is-teaching-facial-recognition-to-see-in-the-dark.md",
       "title": "The Army Is Teaching Facial Recognition to See In The Dark",
       "excerpt": "Researchers have built the first facial recognition database for thermal night vision images. But the technology itself is already prone to misuse.",
@@ -114,7 +261,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/366465",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -300,6 +447,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-singapore-sends-robot-couriers-out-for-delivery.md",
+      "title": "Singapore sends 'robot couriers' out for delivery",
+      "excerpt": "Two autonomous robots have be rolled out in a pilot to facilitate on-demand food and grocery deliveries within a trial area comprising 700 residential households, though, the Singapore government hopes it can lead to a wider deployment to offer more flexible delivery service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/",
+      "publishedDateTime": "2021-03-11T17:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1058,205 +1248,6 @@
         "name": "Phys.org",
         "domain": "phys.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-egyptair-to-benefit-from-ibm-cloud-capabilities.md",
-      "title": "EgyptAir to benefit from IBM Cloud capabilities",
-      "excerpt": "ArabFinance: EgyptAir Tourism and Duty Free signed an agreement with IBM to leverage the capabilities of IBM Cloud as well as other services, according to a March 10 th emailed press release. This will help in modernizing EgyptAir Duty Free back-end operations while hosting its SAP Travel Retail System.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/life/story/EgyptAir_to_benefit_from_IBM_Cloud_capabilities-SNG_203792534/",
-      "originalUrl": "https://www.zawya.com/mena/en/life/story/EgyptAir_to_benefit_from_IBM_Cloud_capabilities-SNG_203792534/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/201025122704QZLC.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_203792534/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_203792534/",
-      "publishedDateTime": "2021-03-11T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-how-to-optimize-content-for-voice-search-13-critical-factors.md",
-      "title": "How To Optimize Content For Voice Search: 13 Critical Factors",
-      "excerpt": "Tom Treanor, Treasure Data 7. Keep Your Keywords Simple When optimizing for voice recognition searching, it’s important to keep the keywords simple. When people ask their smartphone or Alexa a question, they aren’t going into detail. The software won ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049395129a5e7b7b537ae0c%2F0x0.jpg",
-          "width": 1200,
-          "height": 1213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/amp/",
-      "publishedDateTime": "2021-03-11T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-nimble-robotics-scores-50m-for-its-fulfillment-automation-tech.md",
-      "title": "Nimble Robotics scores $50M for its fulfillment automation tech",
-      "excerpt": "Warehouse automation company Nimble Robotics today announced that it has raised a $50 million Series A. Led by DNS Capital and GSR Ventures and featuring Accel and Reinvent Capital, the round will go toward helping the company essentially double its headcount this year.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/",
-      "originalUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/unnamed-8.png?w=1024",
-          "width": 1024,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/amp/",
-      "publishedDateTime": "2021-03-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-robots-and-bees-high-tech-vertical-strawberry-farm-in-nj-raises-50-million-in-series-a-round.md",
-      "title": "Robots And Bees: High-Tech, Vertical Strawberry Farm In N.J. Raises $50 Million In Series A Round",
-      "excerpt": "When Oishii, a high-tech, vertical farm in New Jersey, introduced its $50-a-box Omakase strawberry in 2018, the fruit quickly became the darling of New York's Michelin star chefs. Today, March 11, the company is announcing it has raised $50 million in a Series A round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/",
-      "originalUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049476501afb1330c558c46%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/amp/",
-      "publishedDateTime": "2021-03-11T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

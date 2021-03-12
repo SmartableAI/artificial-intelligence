@@ -1,29 +1,23 @@
 ---
 category: news
 title: "OurCrowd Appoints Hasanat Dewan as Chief Innovation Officer, Plans Global AI Innovation Center"
-excerpt: "OurCrowd, the leading venture investing platform and Israel’s most active venture investor, today announced the appointment of Dr. Hasanat Dewan as Chief Innovation Officer. Dr. Dewan will oversee the development and deployment of OurCrowd’s strategic next-generation platform,"
-publishedDateTime: 2021-03-10T06:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-executive-changes-israel-jerusalem-investment-management-77badbf7d93e49b2bc129b2792644ffd"
-webUrl: "https://apnews.com/press-release/business-wire/business-executive-changes-israel-jerusalem-investment-management-77badbf7d93e49b2bc129b2792644ffd"
+excerpt: "OurCrowd, the leading venture investing platform and Israel’s most active venture investor, today announced the appointment of Dr. Hasanat Dewan as Ch"
+publishedDateTime: 2021-03-10T11:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210309005870/en/OurCrowd-Appoints-Hasanat-Dewan-as-Chief-Innovation-Officer-Plans-Global-AI-Innovation-Center"
+webUrl: "https://www.businesswire.com/news/home/20210309005870/en/OurCrowd-Appoints-Hasanat-Dewan-as-Chief-Innovation-Officer-Plans-Global-AI-Innovation-Center"
 type: article
-quality: 27
-heat: 27
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "ldoefh9OGP4cH64z/Ch0xYMbHu0A5mP4VKSCpVZnNPytBCTaOW5UQuOxVojttj9PXvD0rDJxqsLwvNXJeG9DrLMf+EBVovh0lff0MFUz6G5tL9OLYRu3vwto8m0J3AN8mX/cF+DmbGPNl+L1e0fWoIft+2niul1/ll/U9PgX4Bo9qLfHeaUZXj2wE2HE4l2jMteLheAgcpyccXKjIDXUQDpSUFU4RYwjAE639YJwaQ4QNOQZdBTs6YAsSnEPcKx2k/1Cv/Ev0S+8GH+Kjc1JAApSrdNifA6ubIjTn7Sfg1Vy+XVrTLiGGSmlzFZSvvcNxTQOtA2XRGd3QiJONZOcOg9D0l+OEZTrsziyEv8jNjA=;fS6lQQrvNAxVKYvUn0HlzA=="
+secured: "Rr3gYZcMWBwjNlRiJ2dyWoBMoOR6kIzr7UHrOPe+oqtgEt1kSN5dQiYx+lD4qUN/H5uaU5E602pLGlF2G9tiQRXYUtLMTvzqjn1LJuyWgS+9lhS8XfqXsMM360k7FCqJ+4E1ozaWYbPtnXCfk1mrWHDhFXiU+lHHUHnpP7yUDzKzMS/oeG2f74kQkqcywVBsC6f953T/bGdF+l0pclzmg/3dD2RtHFS6ZlOA+J34Am14Ak/fQwhaytRRXqnSuyGfRU8cEtthL9X8S3DPBoCXdikYzY3gal87ubvWNVdvVFuanqxIslxcl4NODh77amS6ykFz/Ri00SaAb8niHstPX1KRBee8Eg4v8eNWPbMMHnI=;EoyLF0o3NaMRrPXwOvMDPA=="
 ---
 

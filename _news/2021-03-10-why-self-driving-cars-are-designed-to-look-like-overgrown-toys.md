@@ -27,47 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Zoox CEO on Deal With Amazon to Make Self-Driving, Electric Cars"
-    excerpt: "Aicha Evans, CEO of Zoox Inc, discusses working under Amazon.com Inc. and the progress of their self-driving, electric shuttles. She also shares her experience working in a predominately white male industry."
-    publishedDateTime: 2021-03-10T16:21:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video"
+  - title: "Self-Driving Cars To Be Especially Welcomed In “Zoom Towns”"
+    excerpt: "I’m referring to the advent of AI-based true self-driving cars. These are cars that encompass an AI driving system that does all the driving. Humans aren’t at the wheel. That brings us to today’s intriguing question: Will the emergence of AI-based ..."
+    publishedDateTime: 2021-03-12T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i98wzZk3KFYk/v5/-1x-1.jpg"
-        width: 2342
-        height: 1318
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604aa7375fa4111122f8eb76%2F0x0.jpg%3FcropX1%3D24%26cropX2%3D728%26cropY1%3D19%26cropY2%3D349"
+        width: 704
+        height: 330
         isCached: true
-  - title: "Apple patented zone lighting for its self-driving electric car"
-    excerpt: "Apple has patented a zone-lighting system for cars that uses sensors to automatically turn on lights based on occupants' needs."
-    publishedDateTime: 2021-03-09T18:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131516_apple-patented-zone-lighting-for-its-self-driving-electric-car"
+  - title: "Apple plans to build its own self-driving car"
+    excerpt: "Apple’s talks with car manufacturers have fizzled out, reportedly leaving the company to take on the task of building its planned self-driving car itself ... Chinese technology giant Baidu is planning to hold a secondary listing in Hong Kong later ..."
+    publishedDateTime: 2021-03-11T18:19:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/amp/"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 44
     images:
-      - url: "https://images.hgmsites.net/hug/2020-bmw-7-series_100738842_h.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
-  - title: "Luminar strikes deal with Volvo to offer self-driving system to automakers"
-    excerpt: "Luminar Technologies Inc. said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers. Palo Alto,"
-    publishedDateTime: 2021-03-11T14:55:00Z
-    webUrl: "https://www.autonews.com/technology/luminar-strikes-deal-volvo-offer-self-driving-system-automakers"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 22
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Luminar_Nasdaq_0.png?h=2475ff28"
-        width: 800
-        height: 600
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2016/03/02/80668936_File_phot_3491313b_trans_NvBQzQNjv4BqpJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg"
+        width: 619
+        height: 387
         isCached: true
 
 secured: "8FwfIPV2I8ya19X58pqMoQ901pm/7QBJDyOyZmB6axBK9HjHj8sTTWjx53al5BSdU2byjQ2rQqWpS9xCvlT90BXeDe5hKQ4FncIlHzF7PIRSq1pc+IA7i3gFpVJSbnDd4OdOu0iOVj5uQ3uNDzHZSuwOhpmiSbLsZiZoN6WdD7yLU8RKCPCM34kJPsDCcHxHAcNZJae7891woHznK9YT6r0bJOxqJcquzYaVU/LZvDkaPOnsC0Vi0KWYzknYm5BNeMC8zCExkhjQ/HzpPV0eD4zHl/2brtUW5lNRevYuj/wJzKH4i198Up4b1SJFPqSQt2BHL3SxIjwywNvRsNkoE/WmvUxCiqxiI/f7A8+cp/pcZYuDUtiSdA/MC9oIuIKTQHUshDHdp7AMcNYR8f735IX3K05BLk0lZLRGPNZIQdrMX+7qYgI4eW0gvREBh0k2P361Aq+sLY6HGK0/8I5B9S8vMb7CKxHADEywtnjwQ0FMPIjI7/33SBcCz3g3NRYw1cCEBN3TzWUKPM3WSXQXFg==;Vovz1aEYxACQMeq2oGlx+g=="

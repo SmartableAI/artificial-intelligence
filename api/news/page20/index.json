@@ -2,6 +2,250 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-02-24-ai-researchers-detail-obstacles-to-data-sharing-in-africa.md",
+      "title": "AI researchers detail obstacles to data sharing in Africa",
+      "excerpt": "Coauthors argue that failure to consider ethical concerns associated with obstacles to data sharing in Africa could cause irreparable harm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/",
+      "originalUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/25926847601_141ca6c021_k.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/amp/",
+      "publishedDateTime": "2021-02-23T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-artificial-intelligence-in-platform-as-a-service.md",
+      "title": "Artificial Intelligence in Platform as a Service",
+      "excerpt": "Artificial Intelligence in PaaS refers to the application ... utm_medium=15 Key Players Profiles in This Research Report are- AWS, TensorFlow, Rainbird AI, Bluemix, Infosys, Azure, Wipro, Meya.ai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "originalUrl": "https://www.openpr.com/news/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U223813383_g.jpg",
+          "width": 650,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "publishedDateTime": "2021-02-23T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-the-5-things-everyone-should-know-about-cloud-ai-according-to-a-sequoia-capital-partner.md",
+      "title": "The 5 things everyone should know about cloud AI, according to a Sequoia Capital partner",
+      "excerpt": "Sequoia Capital investor Konstantine Buhler discusses how the impact of artificial intelligence will unfold over the next decade in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2",
+      "originalUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/603465e9d920880018591685?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2?amp",
+      "publishedDateTime": "2021-02-23T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-finesse-says-fashiontech-will-disrupt-apparel-industry-the-way-fintech-roiled-banks.md",
+      "title": "Finesse Says ‘FashionTech’ Will Disrupt Apparel Industry The Way FinTech Roiled Banks",
+      "excerpt": "Finesse, a Los Angeles fashion platform, is using tech and data to produce trendy clothes that people want at a fraction of the cost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/finesse-457x274.jpeg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/",
+      "publishedDateTime": "2021-02-23T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience.md",
+      "title": "Talkdesk and AWS: What AI and speech-to-text mean for the future of contact centers and a better customer experience",
+      "excerpt": "This is a guest post authored by Ben Rigby, the VP, Global Head of Product &amp; Engineering, Artificial Intelligence and Machine Learning at Talkdesk. Talkdesk broadens contact center machine learning capabilities with AWS Contact Center Intelligence. At Talkdesk, we’re driven to reduce friction in",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T09:13:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-qualcomm-and-sophos-strike-cybersecurity-deal-that-highlights-benefits-of-5g-and-ai-in-pcs.md",
       "title": "Qualcomm and Sophos strike cybersecurity deal that highlights benefits of 5G and AI in PCs",
       "excerpt": "The two companies announced that an Arm-compatible version of the Sophos Intercept X cybersecurity software application will be available on Snapdragon-powered PCs in the second half of 2021.",
@@ -942,229 +1186,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-robot-making-a-mechanical-mind.md",
-      "title": "Robot: Making A Mechanical Mind",
-      "excerpt": "Robot came from an old Czech word for drudgery and servitude. Though in his play – like so very many robo-dystopias to come – the writer showed that a mind we create to serve us isn’t necessarily a mind we can control. Read a transcript of this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefriday.com/articles/robot-making-a-mechanical-mind/",
-      "originalUrl": "https://www.sciencefriday.com/articles/robot-making-a-mechanical-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sciencefriday.com/wp-content/uploads/2021/02/ScienceDiction_Horiz_robot-min.png",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Friday",
-        "domain": "sciencefriday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-hey-siriwhy-dont-you-understand-more-people-like-me.md",
-      "title": "Hey Siri—Why Don’t You Understand More People Like Me?",
-      "excerpt": "Lawrence’s own experiences being misinterpreted because of her Trinidadian accent inspired her to study how voice recognition systems embed “accent bias.” Linguistic studies have found that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.motherjones.com/media/2021/02/digital-assistants-accents-english-race-google-siri-alexa/",
-      "originalUrl": "https://www.motherjones.com/media/2021/02/digital-assistants-accents-english-race-google-siri-alexa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motherjones.com/wp-content/uploads/2021/01/462_Accents_2000.jpg?w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mother Jones",
-        "domain": "motherjones.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-verse-innovation-acquires-ai-startup-cognirel-technologies.md",
-      "title": "VerSe Innovation acquires AI startup Cognirel Technologies",
-      "excerpt": "With this acquisition, VerSe brings on board Cognirel Founder Ram Prakash to head its newly instituted AI Lab. Local language tech platform VerSe Innovation, the parent company of news aggregator ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies",
-      "originalUrl": "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/shutterstock414162808-1587643214924.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies/amp",
-      "publishedDateTime": "2021-02-23T02:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-continental-picks-up-stake-in-ai-chip-start-up-recogni-bets-on-future-of-autonomous-vehicles.md",
-      "title": "Continental picks up stake in AI chip start-up Recogni, bets on future of autonomous vehicles",
-      "excerpt": "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554",
-      "originalUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/a9d2fa35-bc9c-4813-a4dd-ec9310316fd6.jpg",
-          "width": 735,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554?amp=1",
-      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554?amp=1",
-      "publishedDateTime": "2021-02-23T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autocar Pro",
-        "domain": "autocarpro.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry.md",
-      "title": "Future Acres launches with the arrival of crop-transporting robot, Carry",
-      "excerpt": "When people ask me which robotics categories are poised for the biggest growth, I often point to agriculture. The technology already has a strong foothold in places like warehouse and logistics, but it’s impossible to look at the American – and global – farming community and not see a lot of",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/",
-      "originalUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/02-Carry-front-view.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/amp/",
-      "publishedDateTime": "2021-02-23T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

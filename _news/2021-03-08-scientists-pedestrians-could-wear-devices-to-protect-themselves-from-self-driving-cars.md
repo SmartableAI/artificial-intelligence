@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Apple plans to build its own self-driving car"
-    excerpt: "Apple’s talks with car manufacturers have fizzled out, reportedly leaving the company to take on the task of building its planned self-driving car itself ... Chinese technology giant Baidu is planning to hold a secondary listing in Hong Kong later ..."
-    publishedDateTime: 2021-03-11T18:19:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/amp/"
+  - title: "Should Pedestrians Wear Radar Reflectors So Self-Driving Cars Can See Them?"
+    excerpt: "Treehugger emeritus Matthew Sparkes, now writing for New Scientist, points to a study out of Princeton University which proposes REITS (Reflective Surface for Intelligent Transportation Systems) to make pedestrians visible to self-driving cars or autonomous vehicles (AVs)."
+    publishedDateTime: 2021-03-08T15:54:00Z
+    webUrl: "https://www.treehugger.com/pedestrians-radar-reflectors-self-driving-cars-5115464"
+    ampWebUrl: "https://www.treehugger.com/amp/pedestrians-radar-reflectors-self-driving-cars-5115464"
+    cdnAmpWebUrl: "https://www-treehugger-com.cdn.ampproject.org/c/s/www.treehugger.com/amp/pedestrians-radar-reflectors-self-driving-cars-5115464"
     type: article
     provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 44
+      name: TreeHugger
+      domain: treehugger.com
+    quality: 42
     images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2016/03/02/80668936_File_phot_3491313b_trans_NvBQzQNjv4BqpJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg"
-        width: 619
-        height: 387
+      - url: "https://www.treehugger.com/thmb/teirgdOih_Ay0fE2vlbsimNZiI8=/2971x1901/filters:fill(auto,1)/GettyImages-6871031-bea5f85c02844a99bd6ec4909e83659e.jpg"
+        width: 2971
+        height: 1901
         isCached: true
 
 secured: "cn5c1lcJwR1YEsr8UyHWgPRaV1iq9Fv8eyK+CekBYiVzgKGPrShpp2yfu+wK618BSltd7bXB95COUKJwXAv7BtY1/+vyH0OvSnmlw1yD2lw0hK4jQRwO5HakRoB3cgvOGv082nKvofbvOyN493ooaTijWgTubKAn0WCU7B/QlIeQK3FSInZKCSR1dx6MO/FZ9qSO2QKAP26qE0XYkWtp2AXGO4QA2YPyz+XjTwZEtP64sJ9ysK6l5UJeg2Qf9TnQGZ34M4O9IxDbUqLnPCaO7kIlH05Wew+62qV9fsyP7+286pq0TC1OBMOgrk7//Cbal66RpRfiZQGRJki7bJ/t9lJ1oJ11LUXkdvlg7aZgnDo=;wLpGZepsaNSXK9tM57Vf8w=="

@@ -60,6 +60,20 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 3
+  - title: "Blue Yonder Named a Leader in the 2021 Gartner Magic Quadrant for Supply Chain Planning Solutions Report, Positioned Highest in Ability to Execute"
+    excerpt: "Blue Yonder attributes this position to its Luminatetm Planning solutions portfolio, which offers advanced artificial intelligence (AI ... at 11:30 Global Shockwave Therapy Markets 2021-2025 - Shockwave Therapy Function / Conditions Effectively Treated ..."
+    publishedDateTime: 2021-03-12T16:48:00Z
+    webUrl: "https://www.lelezard.com/en/news-19697337.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 1
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
     excerpt: "\"Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,"
     publishedDateTime: 2021-03-08T01:05:00Z

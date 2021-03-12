@@ -2,6 +2,196 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-05-ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss.md",
+      "title": "Ford Boosts Investment Plan for EVs and Self Driving Vehicles, Reports Loss",
+      "excerpt": "Ford Motor Co on Thursday boosted the amount of money it plans to invest on electric and autonomous vehicles to $29 billion even as it posted a fourth-quarter net loss of $2.8 billion. The No. 2 U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss",
+      "originalUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-04/ford-boosts-investment-plan-for-evs-and-self-driving-vehicles-reports-loss?context=amp",
+      "publishedDateTime": "2021-02-04T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
+      "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
+      "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg",
+          "width": 603,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "publishedDateTime": "2021-02-04T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-the-role-of-bias-in-artificial-intelligence.md",
+      "title": "The Role Of Bias In Artificial Intelligence",
+      "excerpt": "Artificial intelligence (AI) has evolved exponentially, from driverless vehicles to voice automation in households, and is no longer just a term from sci-fi books and movies. The future of artificial intelligence comes sooner than the projections that were seen in the futuristic Minority Report film.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/04/the-role-of-bias-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-02-04T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-trump-left-a-massive-traffic-safety-mess-for-biden-item-one-teslas-self-driving-claims.md",
+      "title": "Trump left a ‘massive’ traffic-safety mess for Biden. Item one: Tesla’s self-driving claims",
+      "excerpt": "The Trump-era National Highway Safety Administration will be remembered for what it didn't do: offer clear rules for deploying autonomous driving technology. Tesla has been the beneficiary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden",
+      "originalUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/d5a6fb2/2147483647/strip/true/crop/1615x1055+130+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F38%2Fe9%2F3e30121d8a40765a7286512e564a%2Fla-1538770648-xotslzaqb8-snap-image",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-02-04/news-analysis-federal-auto-safety-agency-left-a-massive-pile-for-biden?_amp=true",
+      "publishedDateTime": "2021-02-04T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-this-is-crazy-tesla-recalls-100k-cars-stock-goes-up.md",
       "title": "This Is Crazy: Tesla Recalls 100K+ Cars, Stock Goes Up!",
       "excerpt": "Tesla will recall about 135k Model S and Model Y luxury vehicles due to some touch-screen related issues, making it one of the electric vehicle bellwether’s largest recalls to date. However, despite the news Tesla stock actually jumped by about 4% in Tuesday’s trading.",
@@ -1268,187 +1458,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-baidu-gets-california-nod-for-testing-driverless-vehicles-on-sunnyvale-streets.md",
-      "title": "Baidu gets California nod for testing driverless vehicles on Sunnyvale streets",
-      "excerpt": "Baidu is the sixth company to have a permit to test without a driver behind the wheel. The permit allows it to test three autonomous vehicles on specified streets within Sunnyvale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
-      "originalUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/Baidu.jpg?w=1024&h=640",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/28/baidu-gets-california-nod-for-testing-driverless-vehicles/amp/",
-      "publishedDateTime": "2021-01-28T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-elon-musk-says-self-driving-tesla-robotaxis-can-help-justify-the-companys-800-billion-valuation.md",
-      "title": "Elon Musk says self-driving Tesla robotaxis can help justify the company's $800 billion valuation",
-      "excerpt": "Musk has envisaged a robotaxi network with vehicles that can park and plug in themselves using Tesla's self-driving technology. Tesla plans to develop its own ride-hailing app where customers can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-valuation-elon-musk-robotaxis-self-driving-value-fsd-2021-1",
-      "originalUrl": "https://www.businessinsider.com/tesla-valuation-elon-musk-robotaxis-self-driving-value-fsd-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60128a296dfbe10018e00673?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-valuation-elon-musk-robotaxis-self-driving-value-fsd-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-valuation-elon-musk-robotaxis-self-driving-value-fsd-2021-1?amp",
-      "publishedDateTime": "2021-01-28T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-starship-raises-17-million-to-develop-driverless-delivery-robots.md",
-      "title": "Starship Raises $17 Million To Develop Driverless Delivery Robots",
-      "excerpt": "Starship has raised $17 million to keep working on autonomous deliveries, a post on Medium from the company says. The company has also added two new service campuses, UCLA and Bridgewater State ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/",
-      "originalUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/01/starship-delivery-robots-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/amp/",
-      "publishedDateTime": "2021-01-28T04:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
-      "title": "Baidu gets California nod for testing empty self-driving cars",
-      "excerpt": "Click here to subscribe for free.) Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/6dgq1r/article33526855.ece/ALTERNATES/LANDSCAPE_615/baidu-reutersjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/",
-      "publishedDateTime": "2021-01-28T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

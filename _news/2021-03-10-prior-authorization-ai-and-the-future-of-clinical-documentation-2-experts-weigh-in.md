@@ -69,6 +69,20 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "How AI is Changing the Future of Supply Chain Costs"
+    excerpt: "Artificial intelligence is one of the technologies driving business ... AI is powering the emergence of autonomous vehicles, smart and driverless freight transportation methods that can react with speed and awareness that no human could match."
+    publishedDateTime: 2021-03-12T13:22:00Z
+    webUrl: "https://www.roboticstomorrow.com/story/2021/03/how-ai-is-changing-the-future-of-supply-chain-costs/16414/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 39
+    images:
+      - url: "https://www.roboticstomorrow.com/images/upload/images/DeliveryRobots(2).jpg"
+        width: 680
+        height: 583
+        isCached: true
 
 secured: "oleINfJfH7J/8CwylbCkr+Gc+BAZwZJcPW66bUOGWbcTI5IOyrW5htBg4mnR8dyMFqhf+t4h00oYAqAtiYQmmXDyT8ZnlrAWm0pzm/yvsZaGB6Sd4ABnaUUUIDDN+B61U3lb2QdqPRR6ztwFJa4/uB2vXLDnEcddypzunF6VD5AyNQtc5HzUj1vJVfWjUQxlV0RLSow+uyNtnOvGiwY+sRrhvpQlfIrF8kEOK6Xygtths1j8TQn770oT0/QfM69O/EomwgXhF21OrrwAoRuvM9hgVFMvIVJo5tmiT0cOc0VB4+qI0pvxbTKq6nL2pXoUuwALdaY8NC4D4AGOs5eL8/WF0ZAkVYTpKhXwxR9jszo=;lmiraJHdPLj1UMRCZal6sQ=="
 ---

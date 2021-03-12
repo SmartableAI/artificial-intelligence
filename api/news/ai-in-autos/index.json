@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-13-self-driving-cars-to-be-especially-welcomed-in-zoom-towns.md",
+      "title": "Self-Driving Cars To Be Especially Welcomed In “Zoom Towns”",
+      "excerpt": "I’m referring to the advent of AI-based true self-driving cars. These are cars that encompass an AI driving system that does all the driving. Humans aren’t at the wheel. That brings us to today’s intriguing question: Will the emergence of AI-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604aa7375fa4111122f8eb76%2F0x0.jpg%3FcropX1%3D24%26cropX2%3D728%26cropY1%3D19%26cropY2%3D349",
+          "width": 704,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/amp/",
+      "publishedDateTime": "2021-03-12T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars.md",
       "title": "Zoox CEO on Deal With Amazon to Make Self-Driving, Electric Cars",
       "excerpt": "Aicha Evans, CEO of Zoox Inc, discusses working under Amazon.com Inc. and the progress of their self-driving, electric shuttles. She also shares her experience working in a predominately white male industry.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -444,6 +496,40 @@
       ]
     },
     {
+      "path": "_news/2021-03-05-ai-projects-yield-little-business-value-so-far.md",
+      "title": "AI projects yield little business value so far",
+      "excerpt": "Although growing numbers of organisations are working with artificial intelligence (AI ... would lead to fleets of thousands of small, driverless vehicles “coordinated in an orchestra of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far",
+      "originalUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far?amp=1",
+      "publishedDateTime": "2021-03-04T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-tiktok-owner-bytedance-said-to-make-foray-into-smart-cars-with-investment-in-self-driving-start-up-qcraft.md",
       "title": "TikTok owner ByteDance said to make foray into smart cars with investment in self-driving start-up QCraft",
       "excerpt": "A ByteDance spokesman had no immediate comment. A representative for QCraft declined to comment. The deal, which may be announced as early as next week, follows a spate of similar investments and tie-ups between technology firms and car manufacturers,",
@@ -639,6 +725,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-will-robots-and-artificial-intelligence-take-your-job.md",
+      "title": "Will robots and artificial intelligence take your job?",
+      "excerpt": "with the emergence of driverless cars for example. If you have to make sizeable investments, you want to reduce the most expensive type of labour you can, which is why artificial intelligence is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/business/business-news/2017/08/19/will-robots-and-artificial-intelligence-take-your-job/",
+      "originalUrl": "https://www.thestar.com.my/business/business-news/2017/08/19/will-robots-and-artificial-intelligence-take-your-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1339,144 +1468,6 @@
         "AI",
         "AI Hardware",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-what-do-ai-equity-funds-actually-invest-in-lets-take-a-closer-look.md",
-      "title": "What do AI equity funds actually invest in? Let’s take a closer look",
-      "excerpt": "The term has become ubiquitous in recent years, but where is the smart money in Artificial Intelligence funds putting its money?",
-      "sourceUrl": null,
-      "webUrl": "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570?assetClassID=1",
-      "originalUrl": "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570?assetClassID=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1qq9lwf5ow8iz.cloudfront.net/live-images-1/ImageDetail_fb75c62a-16bd-403e-9c33-20bfe11da7bc_Large",
-          "width": 1040,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Citywire",
-        "domain": "citywireselector.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-volvo-and-geely-call-off-merger.md",
-      "title": "Volvo and Geely call off merger",
-      "excerpt": "Both firms agree to more collaboration on electric and self-driving vehicles The Volvo 360c ... pacts with search-engine heavyweight Baidu Inc., Apple Inc.'s Taiwanese manufacturing partner ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
-      "originalUrl": "https://gulfnews.com/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/02/25/auto-volvo_177d9e2e491_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
-      "publishedDateTime": "2021-02-25T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga.md",
-      "title": "Driverless electric bus hits the road in Spanish city of Málaga",
-      "excerpt": "The bus uses artificial intelligence to improve its “decisions ... and was developed by the Spanish company Irizar. Other driverless pilot projects already exist in Europe, but none of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "originalUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "publishedDateTime": "2021-02-25T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

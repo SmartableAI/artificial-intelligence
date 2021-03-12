@@ -58,6 +58,20 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "How AI is Changing the Future of Supply Chain Costs"
+    excerpt: "Artificial intelligence is one of the technologies driving business ... AI is powering the emergence of autonomous vehicles, smart and driverless freight transportation methods that can react with speed and awareness that no human could match."
+    publishedDateTime: 2021-03-12T13:22:00Z
+    webUrl: "https://www.roboticstomorrow.com/story/2021/03/how-ai-is-changing-the-future-of-supply-chain-costs/16414/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 39
+    images:
+      - url: "https://www.roboticstomorrow.com/images/upload/images/DeliveryRobots(2).jpg"
+        width: 680
+        height: 583
+        isCached: true
   - title: "Prior authorization, AI and the future of clinical documentation — 2 experts weigh in"
     excerpt: "Here two leaders from MCG Health answer questions about emerging healthcare technologies, prior authorization, and the future of clinical documentation. Interviewees include: Question: CMS recently proposed a new rule for prior authorization that sparked a lot of discussion in the healthcare community."
     publishedDateTime: 2021-03-09T23:16:00Z
@@ -73,6 +87,6 @@ related:
         height: 600
         isCached: true
 
-secured: "WMaeU3+cLbhrWMTbb+L2U7+ImlUK6D+zaOp4PR2RUowkQJsIiHdgiFQBlqkMA+BGT2NKU0yglq9a21t+iQnCSD2t1VPXkGfdIBMCp4PW6cr1oGUCWtj6tPD38fW+PGuOdYdS6TotbBnK4exBzW1gF03MDWSz+lKQ3L2EtEACJOBikDmHVUpf6HwtZqG2zrSNJwngfqIA+pxTsvsUk9RZ7wvXcox5/Okvt975oj+lML8Wd9Ez6jg/YFXR8JwrSN2JDBtjQNdp6B5ToTqoUaGTBgiM+1+tkhi0nDG75+eSqzt1mU8wNSsAfZXVCX5r3rBOKzz+oquEv9GBipUR5ajb3lTwQdoCyT5xw03Tmp4JqBo=;8djxG/4UCd6sDzoF/zxF1g=="
+secured: "Ve9UjKUmxIb33oreTbDJOX1aYW9sEpuShSrqjXqHXrrjmKRTPNFm84w2O6YUJogTfmLZyl7AGc7NZ+3Mx+qwDNrqO34jcDdDXH/7frv8/wScabnZ0nyq0v2bxGh/ZdAD4SErzU9mu9mhY2XOL1a5e1Q8Sl3X0pLdzdbC8RtctoyHScORJPBlnrPpFz6Twglla+oDejAAzk9lM+3iSh/X8H7mK2AcovSUO5g+tr5WYPW0Y3RjyXLDuAG/HgklFU6moFtxnkHmf2Fpbsy9EAUM1OgMQN4JlF2HSWxQ2wL/uNXhoJETMMTxKNZlRss4W7L/fVu2zwmqbQ76XBPawgW/+LOTZxQH7tIqzhzB7CKWucV5jrYDb4friuXcGw5wK+4bvk6A4QABw4G5RUdGKFVhjSUxpX496UqUYdSZaQx94Xn5zJBe/vgxTMoPFijQl0MjMI+PmcYQzYbZ0E9NTtX4F3RNHuJ/bJnwJp4ivN+Se8nvigA1ITkLwYkzMnd5PsaqeYWGfUeaAT1EcqZTbrRksw==;vm/lo5QtI5QnLpoS0W33sg=="
 ---
 

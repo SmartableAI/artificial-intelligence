@@ -5,6 +5,8 @@ excerpt: "And that’s pretty much what we need to focus on when we’re trying 
 publishedDateTime: 2021-02-26T00:00:00Z
 originalUrl: "https://thenextweb.com/neural/2021/02/26/a-beginners-guide-to-ai-ethics-in-artificial-intelligence/"
 webUrl: "https://thenextweb.com/neural/2021/02/26/a-beginners-guide-to-ai-ethics-in-artificial-intelligence/"
+ampWebUrl: "https://thenextweb.com/neural/2021/02/26/a-beginners-guide-to-ai-ethics-in-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/26/a-beginners-guide-to-ai-ethics-in-artificial-intelligence/amp/"
 type: article
 
 provider:
@@ -18,6 +20,13 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/01/killer_robot-1200x600.jpg"
+    width: 1200
+    height: 600
+    isCached: true
 
 secured: "MDqFjLMJLcGNxDACVrWCKzU3AmG2hMlCt4J/X1uY5cLaa8sfZIfC1jfrhFmld1+LhEBNJVTAtzS95Plb4LQGIEBVkzrcuNSp4sW1M4NGxeekQE/2PHTcgykQiNvvDl538TIDjmDWbBZiELLNmN5+M3uZktlhLoJkwkPhx0KIrWkkKtJAuEE4+uBdaKGrXjj7EPbK7/W6/gLqD0yV9dqRL56cMrYkrPUiD6L+Hkkh8FtqljYmGhlOFjtxTLqUGNYq9+Rt25zS6h/EJARcVPgD4QhSDvPhblqrQU4ytyNeHom7AGvKdodkzOKwyAnYE3Ia/0XCoJUMk9OzDrCAzCAJO6TTm2cPZK0fHxheaJ2VeR0=;A/y8lwKCeyA/ocT0K58fag=="
 ---

@@ -2,6 +2,268 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-03-integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format.md",
+      "title": "Integrating Amazon Polly with legacy IVR systems by converting output to WAV format",
+      "excerpt": "Amazon Web Services (AWS) offers a rich stack of artificial intelligence (AI) and machine learning (ML) services that help automate several components of the customer service industry. Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T09:54:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-cables-could-help-soft-robots-transform-into-harder-structures.md",
+      "title": "Cables could help soft robots transform into harder structures",
+      "excerpt": "The sub-category of soft robotics has transformed the way many think about the field. Oft-influenced by natural phenomenon, the technology offers a dramatically different approach than the sort of rigid structures we traditionally think of when we discuss robots.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
+      "originalUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/MIT-Adjustable-Robots-01-PRESS_0.jpg?w=900",
+          "width": 900,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
+      "publishedDateTime": "2021-03-03T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-brainchips-success-in-2020-advances-fields-of-on-chip-learning-and-ultra-low-power-edge-ai.md",
+      "title": "BrainChip’s Success in 2020 Advances Fields of On-Chip Learning and Ultra-Low Power Edge AI",
+      "excerpt": "BrainChip Holdings Ltd. (ASX: BRN), a leading provider of ultra-low power, high-performance AI technology, ended the 2020 calendar year having",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/brainchips-success-in-2020-advances-fields-of-on-chip-learning-and-ultra-low-power-edge-ai-2021-03-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/brainchips-success-in-2020-advances-fields-of-on-chip-learning-and-ultra-low-power-edge-ai-2021-03-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center.md",
+      "title": "Deloitte partnering with NVIDIA to launch artificial intelligence computing center",
+      "excerpt": "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "originalUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "publishedDateTime": "2021-03-03T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings.md",
+      "title": "Microsoft launches ‘Group Transcribe,’ a transcription and translation app for in-person meetings",
+      "excerpt": "A new project from Microsoft’s in-house incubator, Microsoft Garage, introduces a different take on meeting transcriptions. While today there are a number of real-time transcription apps to use on your phone — like Otter.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/",
+      "originalUrl": "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Group-Transcribe-Blog-Image-_-Date-updated-2.png?w=1024",
+          "width": 1024,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/amp/",
+      "publishedDateTime": "2021-03-03T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-inside-talon-the-nationwide-network-of-ai-enabled-surveillance-cameras.md",
       "title": "Inside 'TALON,' the Nationwide Network of AI-Enabled Surveillance Cameras",
       "excerpt": "Hundreds of pages of emails obtained by Motherboard show how little-known company Flock has expanded from surveilling individual neighborhoods into a network of smart cameras that spans the United States.",
@@ -942,247 +1204,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-ibm-and-the-recording-academy-debut-new-fan-experience-powered-by-watson-and-ibm-cloud-ahead-of-the-63rd-annual-grammy-awards.md",
-      "title": "IBM and the Recording Academy® Debut New Fan Experience powered by Watson and IBM Cloud, Ahead of the 63rd Annual GRAMMY Awards®",
-      "excerpt": "\"These are the same core technologies – hybrid cloud and AI – that we're using to drive digital transformation for clients around the world.\" In addition to GRAMMY Debates with Watson ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-and-the-recording-academy-debut-new-fan-experience-powered-by-watson-and-ibm-cloud-ahead-of-the-63rd-annual-grammy-awards-301237995.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-and-the-recording-academy-debut-new-fan-experience-powered-by-watson-and-ibm-cloud-ahead-of-the-63rd-annual-grammy-awards-301237995.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1447324/GRAMMY_Debates_with_Watson_interface.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-ai-commission-immigrants-key-to-americas-tech-competitiveness.md",
-      "title": "AI Commission: Immigrants Key To America’s Tech Competitiveness",
-      "excerpt": "A bipartisan commission on artificial intelligence recommends new immigration laws to allow America to attract and retain talent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/",
-      "originalUrl": "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603ef7879dd35452a831675b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3374%26cropY1%3D74%26cropY2%3D1972",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/amp/",
-      "publishedDateTime": "2021-03-02T21:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-elon-musk-tesla-aims-to-release-new-version-of-full-self-driving-beta-next-month-with-wider-access.md",
-      "title": "Elon Musk: Tesla aims to release new version of Full Self-Driving Beta next month with wider access",
-      "excerpt": "Elon Musk says that Tesla aims to release new version of its Full Self-Driving Beta software with “Autosteer on city streets” next month, and it should come with a wider release to more customers. Back in October 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/",
-      "originalUrl": "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/",
-      "publishedDateTime": "2021-03-02T19:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-pga-tour-selects-aws-as-its-official-cloud-provider.md",
-      "title": "PGA TOUR Selects AWS as Its Official Cloud Provider",
-      "excerpt": "PGA TOUR uses AWS machine learning and analytics to bring fans closer to the course and transform how they experience the world’s greatest golf tournaments AWS, First Tee, and the TOUR will partner to empower children and teenagers to build inner-strength,",
-      "sourceUrl": null,
-      "webUrl": "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/",
-      "originalUrl": "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/",
-      "cdnAmpWebUrl": "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/",
-      "publishedDateTime": "2021-03-02T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitalproducer.com",
-        "domain": "digitalproducer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-dooly-raises-20-million-to-organize-sales-information-with-ai.md",
-      "title": "Dooly raises $20 million to organize sales information with AI",
-      "excerpt": "Dooly, a startup developing an AI-powered sales enablement plugin for customer relationship management software, raised $20 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/og-image-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/amp/",
-      "publishedDateTime": "2021-03-02T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/366465"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366465"
 type: article
 quality: 87
-heat: 127
+heat: 128
 published: true
 
 provider:
@@ -86,6 +86,6 @@ related:
       domain: telecompaper.com
     quality: 24
 
-secured: "stCv8qmtS3khiLpW4+bNDnDRCkhMNrsn39IFxWxJcjRWM05hBVbPXBVJwBv2eY4bIk0Q3rUFFkx5XtL3eMSrRj+Lg7OfZC6zTOUsepzZ/ftPHD8PC+CK/kkGzkZ/38JYfO/TNZsJeiA1IIamQ8DttFusFQyGaIa1QKY5tjhT8Ofo0EyKaOoiIHfYPyfyl3bSfWBRpSFNkoc7w8QfRa+3InaRsGDKY2o3q26pyLLMKaO72XvWpJGWLiYGwvThmR0ZeKOkITMdv15o1C72AWmWBjl/ps/uT0O6HqhyzwOzl0dNDlj+pocclqcs/FM9QY6/aWlDjgAge3+/rKSs1DxmSbgx4824ZluNP1jwGTHUshE=;jlOCphwpBiCl5GxuONopsw=="
+secured: "JUfyCwFVVgGZTgAAu5hINCR1tHml4uBND2/jc9LwW/Q3q4ecx5wK+etGnCT37qsc9/HeyZB7sCkAlVyCyW5KJSI122ZicMIlAMR/y4Z6eHvJutc6DZ30s+M8ZUygzVFVXDg2tfcJlGcEx0rqjAwWFky4/mzlwMmpc4aJ5w5YkDrF8ttDGl3U/H4wLlylJx9JOg0mwNghi/t9fv1UXxKvmv2k7SkVxQqehZ/yrJn7v4zMidOejqYmEqRGthhfKB7W+M5WYjfSxg7BMTo+ugj1dqBAaJAE7xEaYpwjdxDKDX2bJdeAWAIaWj0aNpNalDlUC5zjTXvj2FqPVtT9+P4F4Tjl65vW9km216+ECfYgXeK53z+9d7axftvF6Rc4QiD6rryP9i2kT+sHe0FNhNwJm0gWE3j73O0BvylNgIwOXrqy4Wh9jBkxGJMyIoDcmtGF1hvrk+XMQ49smgDmk32nkPdiWT5QdNtsl+Umbw15ViP0KDXyyONjq7aJ1c5TBin54Mr5SyGPHtt+2s1+Gnow2g==;lez05rENvN0rxSnvEqQFmg=="
 ---
 
