@@ -31,55 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud cybersecurity startup Lumu raises a $7.5 million Series A"
-    excerpt: "Miami-based cybersecurity startup Lumu today announced the closing ... firewalls and spam box filters, then applies AI to correlate threat intelligence from these disparate data sources to isolate ..."
-    publishedDateTime: 2021-03-10T11:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/"
-    ampWebUrl: "https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/amp/"
+  - title: "The Ethics of AI to ensure food security and development"
+    excerpt: "He... ROME: One year after the call for a group of international and religious organizations and important multinational companies to incorporate ethics into the design of artificial intelligence (AI), Pope Francis said in a tweet: “I hope that more and ..."
+    publishedDateTime: 2021-03-12T17:02:00Z
+    webUrl: "https://www.manilatimes.net/2021/03/13/opinion/analysis/the-ethics-of-ai-to-ensure-food-security-and-development/850606/"
+    ampWebUrl: "https://www.manilatimes.net/2021/03/13/opinion/analysis/the-ethics-of-ai-to-ensure-food-security-and-development/850606/amp/"
+    cdnAmpWebUrl: "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2021/03/13/opinion/analysis/the-ethics-of-ai-to-ensure-food-security-and-development/850606/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: The Manila Times
+      domain: manilatimes.net
+    quality: 91
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1179506263.jpg?w=1024"
-        width: 1024
-        height: 557
+      - url: "https://www.manilatimes.net/wp-content/uploads/2021/03/artificial-intelligence20210313.jpg"
+        width: 800
+        height: 534
         isCached: true
-  - title: "Cybersecurity startup ActZero announces its public launch with $40 million investment led by Point72 Hyperscale"
-    excerpt: "ActZero, a cybersecurity startup whose mission is to make cybersecurity accessible and scalable to small and mid-sized businesses by complementing managed detection and response services with artificial intelligence,"
-    publishedDateTime: 2021-03-09T12:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cybersecurity-startup-actzero-announces-its-public-launch-with-40-million-investment-led-by-point72-hyperscale-1030163145"
+  - title: "Africa: The Ethics of AI to Ensure Food Security and Development"
+    excerpt: "Opinion - One year after the call for a group of international and religious organizations and important multinational companies to incorporate ethics into the design of artificial intelligence (AI),"
+    publishedDateTime: 2021-03-10T07:48:00Z
+    webUrl: "https://allafrica.com/stories/202103100180.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
-  - title: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit"
-    excerpt: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit SAN FRANCISCO (PRWEB)"
-    publishedDateTime: 2021-03-11T13:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20118549/tortora-brayda-announces-new-task-forces-following-its-artificial-intelligence-and-cybersecurity-t"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20118549"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20118549"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
-  - title: "Cybersecurity Industry’s Most Comprehensive Guarantee and Warranty Announced by Deep Instinct and Backed by the Munich Re Group"
-    excerpt: "Deep Instinct, the leader in deep learning-based cybersecurity, is the first company to back its product with a performance guarantee that ensures an incredibly low false positive rate, plus a ransomware warranty that is three times higher than any other ..."
-    publishedDateTime: 2021-03-12T07:44:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-malware-insurance-industry-5bc61440fa30445ba044ad7cf6abadd4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 71
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+  - title: "The easiest way to fool artificial intelligence"
+    excerpt: "How to fool an AI, plus why you may have been fed false training data for giggles and the hydrogen water facial, in Feedback’s weekly weird round-up"
+    publishedDateTime: 2021-03-10T19:04:00Z
+    webUrl: "https://www.newscientist.com/article/mg24933253-600-the-easiest-way-to-fool-artificial-intelligence/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/03/10122524/untitled-artwork4.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "FuPx9NpJNHGWmGFFaXxN50QLPnyyfk/QFHX6FEKOTb2/IgcAloL4XKEHeDO0w+jHXmkPoX1HFkj7GHej17F+e6jBJidwb+ghhfwEFXiqNRbVW7CWB0bQpTcLUNo/n386pUdwYBsZ9SQjr6raKgQfaCHc94VISnZlolH0GWc5SEFpDfxbg8LJIAw2arwQ/S+oY2HHcbc4YTb8OOH57RPC0H4nxMVt1UrdDv+Q/u1Fky8tpqM5NfyJMJYcibFcSI18pVl/jx5rqDGNNQ/fpyy9522gTzL3qO1Wohku5licEg9KMKahGDMOr6e2YuWpJFW45gQUBh9d5Li6J2KehJgs0dKBwCdCto3Hz9gbWPJtP8Y990ntB7+YItvyPK2sS1jIlslQQyc0UON3hquo3oB3ylUcRHKX0a6KAYIqOGWkRxZdB0BLODs1nNiauSVlx5IXQ829dmtEJVxRe80dS+m6ktpBexMGbu6/PL+ZLY62Hp48Qq+kPkUKTS8URBQGroPLJVGDSaPYHe674NvLYEDuQA==;fqs0YyF6a5gTyXaOt/iYww=="

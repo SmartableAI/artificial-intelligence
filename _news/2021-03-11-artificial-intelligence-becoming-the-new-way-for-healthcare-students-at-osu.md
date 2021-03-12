@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbc4i.com/news/local-news/artificial-intelligence-becomi
 cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Is AI washing helpful for digital healthcare?"
+    excerpt: "Even in the UK – probably not so different to other European countries or North America – conventional data analytics seems to be of more use than much-vaunted AI systems. This is borne out by a recent report from the Centre for Data Ethics and Innovation."
+    publishedDateTime: 2021-03-12T17:31:00Z
+    webUrl: "https://www.computerweekly.com/blog/Data-Matters/Is-AI-washing-helpful-for-digital-healthcare"
+    ampWebUrl: "https://www.computerweekly.com/blog/Data-Matters/Is-AI-washing-helpful-for-digital-healthcare?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Data-Matters/Is-AI-washing-helpful-for-digital-healthcare?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 56
 
 secured: "n6J6ETNc8w6OuLHsG79jI6gFmMO2+NrzJqpQ/UJm7iS8tQUH0svpSzxtb8K+Gkkefao8UY2MLdMvmuMpGsGs4Sj65isb3PUzfVDFp8f+yx+daFZMPFA65zElQD41SqyndJ5zfk1eV1ClCTGpAWbttwpjB9SKwhoZGrhT2VCqtG6mViOwpJ0HPEoB0RqqtkkLnaYbXo/2FETRRWuysrEMOUf1iwHfShDTLr4ynR4bFvVqp2+ZFIR87zJyt5+GJVgzDOXT7k6wvmlMV3bWlnZb8w8z0xOJJWQ58u6yMtKMlwd9lwm/Qyas/L1HZXqj8mJAG0BJjLwMQzZ254ZCnXNgkyRD6+yQaD5O9gOjN1eIsc0RpWMSpgc2Ac+N1hHZnAHzG5P7GGZNndm1IpxBxAlMV9Xczjy0lyCFo5DbUFcijIQ3nPbF525P2A6XTyZ1ES/UKvyf/RHERC045ivqYkvkQ/G8OSNh6mVpszZVcjqzgu0ef0AkOyk84t3N1IttJsFd6c7OVs0Z3jOIqlBEILSK5Q==;jQwA/zRQFfwFBgYo67ofgw=="
 ---

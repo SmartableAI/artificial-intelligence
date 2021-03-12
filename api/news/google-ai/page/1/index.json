@@ -567,6 +567,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-25-huawei-uganda-offers-free-ai-training.md",
+      "title": "Huawei Uganda offers free AI training",
+      "excerpt": "The HCNA-AI course uses a mainstream TensorFlow framework and supports Keras, a neural network API and deep learning framework written in Python. Learning material from the course involves basic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompaper.com/news/huawei-uganda-offers-free-ai-training--1373669",
+      "originalUrl": "https://www.telecompaper.com/news/huawei-uganda-offers-free-ai-training--1373669",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-changes-go-far-beyond-just-ai-machine-learning.md",
       "title": "Changes Go Far Beyond Just AI, Machine Learning",
       "excerpt": "SambaNova Systems is a technology startup founded in 2017 by a group of far-sighted engineers and data scientists who saw that the current approaches to",
@@ -1420,49 +1454,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-boosting-webassembly-performance-with-simd-and-multi-threading.md",
-      "title": "Boosting WebAssembly Performance with SIMD and Multi-Threading",
-      "excerpt": "TensorFlow.js is an open-source machine-learning JavaScript library for training and deploying models in the browser and on Node.js. MobileNet V2 is a family of neural network architectures for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/webassembly-simd-multithreading-performance-gains/",
-      "originalUrl": "https://www.infoq.com/articles/webassembly-simd-multithreading-performance-gains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/webassembly-simd-multithreading-performance-gains/en/headerimage/header-1613402888452-1613514652452.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

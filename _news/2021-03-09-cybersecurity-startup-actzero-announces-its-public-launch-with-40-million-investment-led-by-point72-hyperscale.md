@@ -38,22 +38,6 @@ related:
         width: 1024
         height: 557
         isCached: true
-  - title: "Hackers attempt to poison the well, but AI cybersecurity solutions bolster water treatment facility security"
-    excerpt: "To identify and mitigate threats, the water treatment facility has tapped Darktrace's AI monitoring system. Black said the autonomous capabilities have provided the team with enhanced clarity about its network and how its staff operates. In fact ..."
-    publishedDateTime: 2021-03-11T17:16:00Z
-    webUrl: "https://www.techrepublic.com/article/hackers-attempt-to-poison-the-well-but-ai-cybersecurity-solutions-bolster-water-treatment-facility-security/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/hackers-attempt-to-poison-the-well-but-ai-cybersecurity-solutions-bolster-water-treatment-facility-security/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/hackers-attempt-to-poison-the-well-but-ai-cybersecurity-solutions-bolster-water-treatment-facility-security/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 85
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/11/2a8c75b9-6ac7-4293-a813-c4f7cc57a583/resize/1200x/fd4fbe3d7e049e08465e59d5d4f517b5/tuachanwatthana-1.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit"
     excerpt: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit SAN FRANCISCO (PRWEB)"
     publishedDateTime: 2021-03-11T13:05:00Z

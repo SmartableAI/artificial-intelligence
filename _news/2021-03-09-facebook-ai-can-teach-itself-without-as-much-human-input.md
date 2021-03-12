@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook's ready to talk about how its AR glasses will work with neural wristbands"
-    excerpt: "Facebook's working on a neural wristband for AR glasses, with haptic gloves in the works Facebook's first pair of smart glasses is arriving this year. But for the next pair down the road, they may be connecting with your wrist."
-    publishedDateTime: 2021-03-09T20:01:00Z
-    webUrl: "https://www.cnet.com/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
+  - title: "Facebook details AI that can understand videos"
+    excerpt: "Through its Learning from Videos project, Facebook says it's investing in AI that can understand social media videos on a granular level."
+    publishedDateTime: 2021-03-12T17:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/"
+    ampWebUrl: "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 68
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://cnet4.cbsistatic.com/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 600
+        isCached: true
+  - title: "Facebook’s next big AI project is training its machines on users’ public videos"
+    excerpt: "Teaching AI systems to understand what’s happening in videos as completely as a human can is one of the hardest challenges — and biggest potential breakthroughs — in the world of machine learning. Today, Facebook announced a new initiative that it ..."
+    publishedDateTime: 2021-03-12T17:01:00Z
+    webUrl: "https://www.theverge.com/2021/3/12/22326975/facebook-training-ai-public-videos-digital-memories"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/12/22326975/facebook-training-ai-public-videos-digital-memories"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/12/22326975/facebook-training-ai-public-videos-digital-memories"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 83
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/EJvq42JTaVideWqcdVWZ8FEVuI0=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68956134/acastro_171002_1777_0004_v1.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
   - title: "Facebook’s AR Vision is a Contextual AI-Powered Interface"
     excerpt: "Virtual reality (VR) might be Facebook’s main commercial focus when it comes to immersive technology at the moment but the company is heavily investing in an augmented reality (AR) future. Today, Facebook Reality Labs (FRL) has given another teasing look into its vision,"
@@ -56,6 +72,20 @@ related:
       - url: "https://www.vrfocus.com/wp-content/uploads/2021/03/Facebook_AR-Glasses.jpg"
         width: 711
         height: 400
+        isCached: true
+  - title: "Facebook aims to advance machine learning with two new video AI projects"
+    excerpt: "Facebook Inc. today shared details about two internal artificial intelligence projects, Learning from Videos and TimeSformer, that are aimed at facilitating the development of more powerful machine learning models."
+    publishedDateTime: 2021-03-12T17:00:00Z
+    webUrl: "https://siliconangle.com/2021/03/12/facebook-aims-advance-machine-learning-two-new-video-ai-projects/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 55
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/skatefb.png"
+        width: 1200
+        height: 661
         isCached: true
 
 secured: "/DFjRiQ4VyZ0moDn+Kk9mTLJjR0bi3TmhKKv3lpH0ZWgG7KmxhRlgTd6qMmRtoaHH7YtztYHdo1NyoPhnLMNI7QlZIT4p0kby2Kyp6QSljlQfaqiGCOXnX9fara3EUKuXaJOpJ1mxMx8pTHBDJ1heDn7v5WwHIC6+1WbII292cHBzc7k2gn2OsxA0+RTfWhLIz/PHFOyoH4q1eoP2UsG1XtdRIfRvWdjynkn724oK7c1C7BTy9s5aIc9SMQQ5wKNiQloYEeTKs7PNQGgvwDwE/BCfM4cHtDkFJN7ufgZmN2KEKKX3qbXM2ncwWLs6uItzRO2mEDbbmtn63KewyJie0H+YmGY08iiopP9VaOSgao=;f7rsIooYYfc2dXXadP+ZXQ=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/1
 webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/10/five-ai-myths-and-misconceptions-and-the-role-of-communications/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Forbes
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Applications of artificial intelligence in cardiovascular imaging"
+    excerpt: "In this Review, Sermesant and colleagues discuss the applications of artificial intelligence (AI) in cardiovascular imaging and explain how pre-existing clinical knowledge can be included in AI methods to increase robustness."
+    publishedDateTime: 2021-03-12T18:33:00Z
+    webUrl: "https://www.nature.com/articles/s41569-021-00527-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41569-021-00527-2/MediaObjects/41569_2021_527_Fig1_HTML.png"
+        width: 685
+        height: 260
+        isCached: true
 
 secured: "Kja2vgw639AfGNCWsO2qh6R/ZFQ6E+/GqQqglnQBes3ox+EBCb8L3PhzHIqYs0V+BwktSU8aMgaNZd1L48tpMgYAkYypakE9Lxrbnd0IyHu87rErus2VeOQQCQaQ1oW7BvrgE6ioFKsOXUvPG5ngpYk49gOdI2Ybi2angVkQBorl4cbPjJTKbwiQ9FUugMRn/vrb0D8Ux5B5nw1l8QAJba3HLq0yBlPcRnPxZVBD2Vp3QE8TMh9o05P37Zn9EtHnW0UstGqtlwHT9vnIaAGW0J3pObY6mbwEd69XGkkZynBZOlf+cktaxaQOZZEnLnkdv7BsmLnubHZMkzBPMfCNXKsfs8ASYnedUAuNqb3UCti5+Q1QM82SLEh8L2gs6jmN5GMdQT04XC8nCI1p3yakMgl3xrCdV14oWYMgIPsgVEvLMLuzVu1Oi4eUe/6m/2JQtPj/Zw6Rei4qk0CfxNyjO6DUtnvIgBZ0i31ezwXDr0jd09oHZtc+97gbMYku93z3CSUbKB4JQK1z950YyQ6RhQ==;Y1IuZuGxma4M1sOaKFNy/w=="
 ---

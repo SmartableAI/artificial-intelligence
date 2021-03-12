@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-h
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
 type: article
 quality: 68
-heat: 88
-published: true
+heat: 68
+published: false
 
 provider:
   name: CNET
@@ -29,38 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Facebook’s AR Vision is a Contextual AI-Powered Interface"
-    excerpt: "Virtual reality (VR) might be Facebook’s main commercial focus when it comes to immersive technology at the moment but the company is heavily investing in an augmented reality (AR) future. Today, Facebook Reality Labs (FRL) has given another teasing look into its vision,"
-    publishedDateTime: 2021-03-09T17:04:00Z
-    webUrl: "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/"
-    ampWebUrl: "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/"
-    cdnAmpWebUrl: "https://www-vrfocus-com.cdn.ampproject.org/c/s/www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/"
-    type: article
-    provider:
-      name: VRFocus
-      domain: vrfocus.com
-    quality: 59
-    images:
-      - url: "https://www.vrfocus.com/wp-content/uploads/2021/03/Facebook_AR-Glasses.jpg"
-        width: 711
-        height: 400
-        isCached: true
-  - title: "Facebook AI Can Teach Itself Without as Much Human Input"
-    excerpt: "Image recognition and AI may be more easily integrated into commercial settings if it can learn more without expensive human input."
-    publishedDateTime: 2021-03-08T21:38:00Z
-    webUrl: "https://www.commercialintegrator.com/blogs/facebook-ai/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 39
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2019/12/AdobeStock_211485579.jpeg"
-        width: 500
-        height: 300
-        isCached: true
 
 secured: "NFiuvj8eX52DveLE3igFnATDi8nv6aKrh456YYUaLDMPQmwauKP7Jtbhq4uiVIFpy0/r5hEIaq5DUJmBYpspJNLy+mAiMcc/J0PHjW0NuIy0bYJtHP4CktNJ/ZesMM2ilZ4qeiFljZf5KLkGJ89SLSS5/3t6hIrGwfbKrcEp6c72+aWjFKKGVAU0X5C2ysrBE4JLd3/7hUXrkND6Rh6mVPUWl9TNnUSBj8krt5EWn6pOgFPWKRKDKjLeip56SAkcO+Vs8KlYo+xFHsUnqzmE2Do9nuQXdt3/MBQF113QOxSyz0GmzbHAS9/ScGBsJGMDhD5E+cDg1hx+H5Bo9T3fjCMIP35cMF+qRaEUfoU2RE2uSJzd0TwZ4TVuLasj04UJs233ryrA8I2FfNCYPdQKNaotH0sD062uihr3wAok+eRz3LX8LG2HrNwX8hVmUw3rpBWdN0NoV+O8gjzu7BZvpfk5WKVUHkxsRNOUTovgUESl9Yksdsnmm5whRx+fQf5uq8au8suj4pNqZKhGKoHc+g==;5YBgl4HWvPqQVbWNoaRJ0g=="
 ---

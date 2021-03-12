@@ -23,22 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Advanced AI drones coming to local police"
-    excerpt: "Watch \"Advanced AI drones coming to local police departments\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-03-10T17:36:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210310173228-advanced-ai-drones-coming-to-local-police-departments/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/10/story_09369172_1615397704.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "We8GqL3r9/8/3LSCF44NdQDZ0NYbORUwXlAfKM882ayG7OlNHKG+zgjO3eI/L37WsFKqQ1dDWBJp9mPiR/sGU9UCh8TKbDlGsX0RcCCYGng0klJCLnkUFESH5JRRB7Krhpe+NlrSL5xApAmJ/zSIRI0Ni/x6DLT2/nJSfXH/b2k62Itcjq+kmSxQiFgSYQFUZYgAjmRF4Oq602RTKRGBedI/mpOGlwGz/zKhDTK0zgw9TmvoiHjRiDU8VFPaFXNEHnr+BuiGno1xux6X9G6LgY/YfabqT1iVnXYYp0pAgfpfeXYQeoqynWC9x3e+FIvYQbwykPX3dWzTXfURJVmHsRZ+URQAuTXd8Gu8VOrDgbk=;j6XKXT1eq422PHWLs+Ff4g=="
 ---
 

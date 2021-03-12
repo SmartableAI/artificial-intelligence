@@ -72,15 +72,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
-    excerpt: "\"Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,"
-    publishedDateTime: 2021-03-08T01:05:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/138320/tibco-software-named-leader-in-2021-gartner-magic/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
 
 secured: "EFgUp6DD/nl9huV/R2gnfr7ijj8P5MitLb6csh5U6TIPrCwRrn31Sj6Ohg52Wv6ZleKR/bBaeVJJqBYLztwGEpDYq0YQmPEBEnybnyfe0TiadZCYutHsbxEeM7h0z0KM56GK/e3RJn+kWtVkZO9S5wkBrg/NLj/o/XM3kppRnwAnklPjGISuiNhEsNVOG/fmQm4nxeKEEQO3nJtscfCZmcFEXc66IQNXHU6iamFM0C4VZxGAscpnvOoJ1ZukjZ2dlOHyESWDBWj3lIU+rP88XWg34hrO2iegdHHBH+yt2FNmBYnpXii4vilGYz6s8eHDoQ1QGmdf3wnpAudIsz3OFpHXASGgRv/G66L6P55gzHY=;MZhhPt4Tx9xXIf+0P2cJRA=="
 ---

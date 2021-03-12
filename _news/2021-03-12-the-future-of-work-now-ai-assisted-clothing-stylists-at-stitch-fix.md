@@ -58,20 +58,6 @@ related:
         width: 760
         height: 507
         isCached: true
-  - title: "How AI is Changing the Future of Supply Chain Costs"
-    excerpt: "Artificial intelligence is one of the technologies driving business ... AI is powering the emergence of autonomous vehicles, smart and driverless freight transportation methods that can react with speed and awareness that no human could match."
-    publishedDateTime: 2021-03-12T13:22:00Z
-    webUrl: "https://www.roboticstomorrow.com/story/2021/03/how-ai-is-changing-the-future-of-supply-chain-costs/16414/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 39
-    images:
-      - url: "https://www.roboticstomorrow.com/images/upload/images/DeliveryRobots(2).jpg"
-        width: 680
-        height: 583
-        isCached: true
   - title: "Prior authorization, AI and the future of clinical documentation — 2 experts weigh in"
     excerpt: "Here two leaders from MCG Health answer questions about emerging healthcare technologies, prior authorization, and the future of clinical documentation. Interviewees include: Question: CMS recently proposed a new rule for prior authorization that sparked a lot of discussion in the healthcare community."
     publishedDateTime: 2021-03-09T23:16:00Z

@@ -25,63 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Will Impact The Future Of Work And Life"
-    excerpt: "How will AI change the future of work? Here's a look at what the future might hold as AI evolves and humans adapt."
-    publishedDateTime: 2021-03-10T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/"
+  - title: "3 Game-Changing AI Trends to Expect in 2021"
+    excerpt: "AI’s proliferation is moving faster at both the software and chip level, with chipmakers like Intel, NVIDIA and Qualcomm adapting AI technology into their systems. Enterprise and software developers are applying it to data and applications as well ..."
+    publishedDateTime: 2021-03-12T17:01:00Z
+    webUrl: "https://www.entrepreneur.com/article/365807"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/365807"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365807"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603c0d52695f2a07f37ff642%2F0x0.jpg"
-        width: 1199
-        height: 652
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1615307268-GettyImages-1183002137.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
         isCached: true
-  - title: "The Future Of Work Now: AI-Assisted Clothing Stylists At Stitch Fix"
-    excerpt: "The goal of the two sources of intelligence is to provide clients with a “Fix”—a mailed box of five personalized clothes choices—that are a close fit to their style, size, and price preferences."
-    publishedDateTime: 2021-03-12T14:14:00Z
-    webUrl: "https://www.forbes.com/sites/tomdavenport/2021/03/12/the-future-of-work-now-ai-assisted-clothing-stylists-at-stitch-fix/"
+  - title: "2021 Emerging Trends: How Artificial Intelligence Will Affect Creative Decisions"
+    excerpt: "Data is quickly turning the entire creative decision-making process into a cold, hard science. As artificial intelligence (AI) continues to transform more and more industries, this is an especially interesting area of innovation. Here are four ways data ..."
+    publishedDateTime: 2021-03-10T13:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/10/2021-emerging-trends-how-artificial-intelligence-will-affect-creative-decisions/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/10/2021-emerging-trends-how-artificial-intelligence-will-affect-creative-decisions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/10/2021-emerging-trends-how-artificial-intelligence-will-affect-creative-decisions/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
+    quality: 82
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604b769ead1bacf4e0ff7a1f%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f33fae78e26add3d640245e%2F0x0.jpg"
         width: 1200
-        height: 1200
+        height: 836
         isCached: true
-  - title: "A sneak peek of the current state and future use of artificial intelligence in pathology"
-    excerpt: "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and find evidence of strokes on brain CT scans."
-    publishedDateTime: 2021-03-08T06:35:00Z
-    webUrl: "https://www.news-medical.net/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
+  - title: "Using the power of artificial intelligence to detect disease"
+    excerpt: "A large international collaboration, led by A/Prof Xiu Ying Wang and Prof Manuel Graeber of the University of Sydney, has developed an innovative, advanced artificial intelligence (AI) application, PathoFusion,"
+    publishedDateTime: 2021-03-11T14:01:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/3/GettyFuturePathologyWEB.jpg"
-        width: 760
-        height: 507
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
+        width: 1920
+        height: 1897
         isCached: true
-  - title: "Prior authorization, AI and the future of clinical documentation — 2 experts weigh in"
-    excerpt: "Here two leaders from MCG Health answer questions about emerging healthcare technologies, prior authorization, and the future of clinical documentation. Interviewees include: Question: CMS recently proposed a new rule for prior authorization that sparked a lot of discussion in the healthcare community."
-    publishedDateTime: 2021-03-09T23:16:00Z
-    webUrl: "https://www.beckershospitalreview.com/prior-authorization-ai-and-the-future-of-clinical-documentation-2-experts-weigh-in.html"
+  - title: "Making artificial intelligence understandable -- Constructing explanation processes"
+    excerpt: "Sifting through job applications, analysing x-ray images, suggesting a new track list - interaction between humans and machines has become an integral part of modern life. The basis for these artificial intelligence (AI) processes is algorithmic decision-making."
+    publishedDateTime: 2021-03-08T15:09:00Z
+    webUrl: "https://eurekalert.org/pub_releases/2021-03/up-mai030821.php"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 32
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
     images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "P08fnUsboA9ZD6Z2NvDSAC9/48GOXnYwL7iYlVes/3jfACTZjT4brbJPcrZ3OSYhhkcw8LWLQnzEkB/a18HHev+ydPTbRCXjGv1EMtwEHPb4vYWFvYQekQlT8i/R8+pxeKlabnYhC/MlEasKK46B60dbe/vyo4AVckSnIFzQtYVz2F6gobSSUyUBUUbR6KkgzRqCMwycNKH5j8NeaocjPCMQXhsFb0n/eFDIh+26WtUeVnWZ6KtWN/ogbbs/o2sDLJhVAjVE7t/Fbu+paTxvzDDaIqgFtBl9kCI54UCET2lpnaFCCXSvZa7E2iNrS9AzMixhWaoW4ATJCviWuG4YEJua/iX7oIhoEHTWjuMI+gk=;QfKjvhShPAcPifodC7wWwg=="

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "FUJI and Motus Ventures Collaborating on Robotics and AI"
-excerpt: "Motus Ventures, an early stage venture capital firm and business accelerator investing in deep technology businesses, announced today that FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation,"
-publishedDateTime: 2021-03-02T05:28:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5"
+excerpt: "Motus Ventures, an early stage venture capital firm and business accelerator investing in deep technology businesses, announced today that FUJI Corpor"
+publishedDateTime: 2021-03-02T05:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210301005906/en/FUJI-and-Motus-Ventures-Collaborating-on-Robotics-and-AI"
+webUrl: "https://www.businesswire.com/news/home/20210301005906/en/FUJI-and-Motus-Ventures-Collaborating-on-Robotics-and-AI"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "fHfF5JW4hF3srm5HYAvUeX4Nq4oukSpUhe3Fngnsn3SUzvY1M7tSMleFRSWkhl3LQtw2RDSA3JW6rrLk+l0FHXQNeONk6cvcekjpYonbeAxz5sPpOpjUk6rRJGibS1n9ErIiWS6loYDexZVv+UIVFvZ+IY+k+oM9Y069GMQvTunMSc0Wo8J+dQxNwXdZHRrKbRcTwhuW6ETZ6+EzwyD0KRkdOEu+mMvvsdVRY0nXxTcCdYv+TqzvS5GfHqwobXv8d7KvNaZS+ekMqA+UUNLcx0noUv9g3JBHS/BaTL18dYWXEmdlahPG+HsudEIrDkmRHwZz/Kxfn6vhi03F7Tq46GZyT3MaaEkc1P9UW4RRj9Q=;a29ET15z/TeKUVnwA8dXIw=="
+secured: "dWX/monPkfWm0IZc+FXAx/IE/oV4fQNogLmGanpsooFw9DDdT++r1BeENLG5WgAJT6XY8PKOY0f7KcxYKG+mkHO7ViZ319iLz5bPGFUicmL8atONlDVXLvLBd1/JYWVfPGOJOifUzN3qRo5YK5QCyFvUNE74SMGIKHmtL6Lm1wbw5U4GAQWWLMSo0O6KcG4qtd54wiAs2b+tcLX8BeKXUI7PhMQ5XYaw44PcQe0ytHNNS5TpnhWNmENiTrI2hdVMKc8I/IMmqVXJf4kci8ZulY+dV/sPRM+tBtkkAxVFBKtNDeJjw4CJzb3mYZDRPDmDu4XPV2MCd9iXRAYmx26wnyoS8udyx6Ld5otd8BYSPyk=;z0PW95QhH8W9KAxW59qpgQ=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2021-03-super-recognizers-people-excel-v
 ampWebUrl: "https://medicalxpress.com/news/2021-03-super-recognizers-people-excel-voice-recognition.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-super-recognizers-people-excel-voice-recognition.amp"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/superrecogni.jpg"
@@ -26,6 +27,6 @@ images:
     height: 624
     isCached: true
 
-secured: "fAkMvAbBSjYVTQbOlD5CqfLQpd3UkjJGVe/rVe8/PDriVQghRPBTlMWqdrr4LLYcMX87AxirZxY12HFMquffVk7lWDmJqd9lYjM9DcK2Trmg2oMjBTQl83KDQ6ENRyF6gZeQqMe8Ec8Dod2CQAvAFChynY8P55Q54FOBjPYIrZJOSyMgq7/ggb9MoTY5QZcmQfyi6wGIv0MzEubqhD0xuiqQIpeJaNe+u0Lfp7QiqGItcoB9mU20Z6UJprpSupNcNqa1lWGHG9MkACtZfWfgnpRxpwRkkTHvGlqHLkQBTHg4qYUHknxWsypQBRfo+68MOG/TZ2CuMdrg0rUJWFT1bLIZuNX0NcZ+N+2sTTT8WeE=;YQzegBHjEazGjPkDSES42w=="
+secured: "sv0fv8l+S7QIn+Erqg64tUEtiKykTZP7bYEjoRijfk32ASIhp4srG+v0W8DrO22AIZRelp+WVWg2GRA0I7pQBgwum8qqHgmAykz0/G8WNQLyXGNUwt8bhgPF3IRHARRWWA7kVxFvwL/Uc7ylOga8lKj3Nqx/wAnlMMe91kN9t1ufNg4CEojzvkX19TwcFba2ewKbRNzscwYzPDuRskOMQsOJENMXtrKAFM6133Gv9yaSTKouk3hmWbevyxhZmyjnHT5IIfap5zjq7d7HffzTc5+Ye06c3HhUQTwuePVKBUkm0+t72QowcG//zhNWhMOxHPbut/lQ1pKZ2Tz72JlaxumUTpLKL/SYJzpGshUEaPowUb2bvCkEXfoEimm1Il2ZYKXjlWb7I5+NjgbPqdA7go48vZetEJJsaooUe+LAJ2cXdLfugMWZ+U7f1s0EeNXxS31Kv+bAytVEnSrgdh1kG0Bdrbvo8xtLKLesdMf6A7mXndIfFI39w8SH62a2nru7N6/ux5C+0Nv/gJMV27gCOA==;/z00yKEZeM0Gv3uWO4Tc8w=="
 ---
 

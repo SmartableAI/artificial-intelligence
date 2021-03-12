@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ibm-watson-services-mark
 webUrl: "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "IBM Considered Selling Watson Health"
-    excerpt: "What is the Watson Health division of IBM, why is IBM considering its sale, and why is the medical field showing signs of hesitation with medical AI systems?"
-    publishedDateTime: 2021-03-09T16:59:00Z
-    webUrl: "https://www.electropages.com/blog/2021/03/ibm-considered-selling-watson-health"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 39
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2021/Mar/medical-science.jpg"
-        width: 360
-        height: 240
         isCached: true
 
 secured: "CqI+gJs63J8Q2lq5f/Z7Wh5bJVq04d19RD1VK3QrFSQg62SdiMUJ7vLUCp2f+kpp75UCyI5ImMDswIxYCRVAhHdvRaLSF9Bc1MnWUTgx2esjXx8PbrHS98ti1u0LDbSNccIYnbp6vJ8/1aWQaTo739xFcqMB6BAYRbCptOzO+57oRrJqS+NzqCUotaFVHPmdUgx307okaXJjaVazKXzIKu0yQVbk5IXDFm9Y9vEffOVKClOOY+z/RMRgaSIUk6D4J/THpgKs2MVM9lNXziIrkqg4DmVXzm3fYyRFz7vz7ma1V9BTuAviJI6nmA1QeYwCLhsoRo7SXlFyx4QDwKIOFqbW1DS6b6N7utm5PysXXl4=;csT6k38dmF3k0vr2BgRo3w=="

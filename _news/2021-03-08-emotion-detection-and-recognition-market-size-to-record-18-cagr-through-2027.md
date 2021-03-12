@@ -72,20 +72,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "IBM Considered Selling Watson Health"
-    excerpt: "What is the Watson Health division of IBM, why is IBM considering its sale, and why is the medical field showing signs of hesitation with medical AI systems?"
-    publishedDateTime: 2021-03-09T16:59:00Z
-    webUrl: "https://www.electropages.com/blog/2021/03/ibm-considered-selling-watson-health"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 39
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2021/Mar/medical-science.jpg"
-        width: 360
-        height: 240
-        isCached: true
 
 secured: "XI3180zMTHEHy8z+o7FjwGPqOyXWtFPSwxf7nUynU/vUxG/OV0MMSgmntCxyTrYTzauv6yB+gQzh2Jac9T0WH9dGEEDyMysWfP1gueSiu5QuwTsanKyOIGl/2BMEkbd5DjCuifDAhu19ZOAkVo9IYPA0FbUy5aoAhPnU70aE1gvx3TYWj7i+z4NYHvGFZsZc2KvDreaTUKsa3UzH0kBld/RCvc4gGCFvQ4zJFsHIdR6UHd+0obhACurIIgnD+edfZbLNvsO4nt/kKvPnbZoummECF1t/m3feEWU8QQ5mPXQH8kB3A+9z4eQrcTS8wDVhU2f9nJae6bKlXOO9S7pX9DcSN4Rlh+xw+/DZ8DUKSoI=;oj2B3OsGSsXwE73welRIpQ=="
 ---

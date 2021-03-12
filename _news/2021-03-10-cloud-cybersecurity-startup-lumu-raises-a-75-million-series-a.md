@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-r
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hackers attempt to poison the well, but AI cybersecurity solutions bolster water treatment facility security"
-    excerpt: "To identify and mitigate threats, the water treatment facility has tapped Darktrace's AI monitoring system. Black said the autonomous capabilities have provided the team with enhanced clarity about its network and how its staff operates. In fact ..."
-    publishedDateTime: 2021-03-11T17:16:00Z
-    webUrl: "https://www.techrepublic.com/article/hackers-attempt-to-poison-the-well-but-ai-cybersecurity-solutions-bolster-water-treatment-facility-security/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/hackers-attempt-to-poison-the-well-but-ai-cybersecurity-solutions-bolster-water-treatment-facility-security/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/hackers-attempt-to-poison-the-well-but-ai-cybersecurity-solutions-bolster-water-treatment-facility-security/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 85
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/11/2a8c75b9-6ac7-4293-a813-c4f7cc57a583/resize/1200x/fd4fbe3d7e049e08465e59d5d4f517b5/tuachanwatthana-1.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Cybersecurity startup ActZero announces its public launch with $40 million investment led by Point72 Hyperscale"
     excerpt: "ActZero, a cybersecurity startup whose mission is to make cybersecurity accessible and scalable to small and mid-sized businesses by complementing managed detection and response services with artificial intelligence,"
     publishedDateTime: 2021-03-09T12:50:00Z
