@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 58
+heat: 72
 
 website: http://www.biofourmis.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "biofourmis"
   url: "https://twitter.com/biofourmis"
-  followers: 612
+  followers: 614
 
 size: 51-200 employees
 yearFounded: 2015
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "rlc3876QU5UCL1ZHrkV+0JTcAItRr50tI6qUSzKJdH7PVDlaayNut+SY3yHzU/Ht8AjbI20u4rK56WlZ17i6oM7fmL8Zxvlay7SVLq+taJCuey9QhSs61iy057rymNUWcB5iq02yK3TKNeSAMwn17JoDIpgnnp2j7fnjoMQDWu25lnvQr9WVoMuCv8cVyPSGX+LJwZwuEVADgT1KExmT6/NXelEbEUuv4l7+lh5E+AK899hDL1cMY27jKyCNx57ba0NrCuXlbyGpBdNq4cWPhgMcM5U0WqyWy8arGEXp8DDSmWCzXFpkeQAPOa0qEqST1Yaxba/zh7u9b28ML/BzwL1v/aYPCqwXmEd2sWleV7LZipq8yt/SPoe1qud5mT8bEiwyXYpOKrBhdEUI1Zu1Hg==;7coa1VDv0fWkee5xnWtDOw=="
+secured: "ycEmleQvKNX/PhGVF5J78unHTn8dOsHn22aZay4gSv5yEWxiVDkxXCQDATJi2oRlmfDDaq4OqE+Pp3ESZRbtHYUqVzok75DhCEgbsSTZzQk7Zb3Gxw5mbcFudycDhAZu9JWJGFP00s+AO8jhvq4tZe1L+pGCgo5EFLrnHT0nLZywwWgMwZYNbi4HlOIMsAUgB5+rgc4qFpQLusGb/GNTY4u0g54Bnm/wxcy8I44U0nsA4aEYej+knbWVabl1jPx7uAqQmjt86xEJw7tfmo/kD3epBn/emQ5j5btR11pNblPidz84UBCGJXXUo0Af1J1tByqTvL8px7ZbaRejAyAnAJk7bG7LMi5rhn+5YEQgUqGdlgsCjm6UaYKe8KskFvXmE5IonfEqzyyv5IAgE3l0XQ==;cJAeTgN3nHjpj3AQCSq0bA=="
 ---
 

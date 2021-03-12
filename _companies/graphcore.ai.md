@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "graphcoreai"
   url: "https://twitter.com/graphcoreai"
-  followers: 6921
+  followers: 6922
 
 size: 51-200 employees
 yearFounded: 2016
@@ -48,6 +48,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Gh-Tff7DdzU"
 
-secured: "GaVszy4gDoo1QOlDHdCgbnClzrzebfDyCCbA/iJy+GKS8Ob7iJEPOvNEZxCR+ttVbbz0cS53/zllBg4TjiMjCg7ybsJvVYFjcDJy63tuzLU/4nAbx9BdTThAZmiLAgLtwQ1CS5UzuqABV4+XKSnX9vPQN4Szn/ezZXKTG4nlaR/4jK/Gf73cdCAveTSaUKRZkk0QUik0tL2TOK4uHAh8RoOrp0tcaUGa32xZ/e9SZyA6Uyh8a0kvlF4QkYnDhHpjkF3TAEC5e6eiP/2CBA6lSIoV3mN6+8ALqZZtfKBQ+TF+o+Ewl/aX/kzhTXmpu/mAqTWqqLwSDeWejhUQ4TQfzPtbJQiD/3WLlN3B9RL3C5QoO/lrV216XoI3xBu9/k2nAg4CNSJ8wImpNwwmFA3wbq+hbe6NFEuor/F/+A3Qg7o=;1GeAqLz5qF+VIC5Wz9kKRg=="
+secured: "MIgoYjAa/cB9KnmU3GZRs0LPClIBZE6Z9cc+xqthcqBWcuTYZLAQ+mU0cl3s/P2qRUMbwGZ4Cu66jEoErEEHehOUPHHtxkx8xUlh4EKe9xFTvYt040eUBQgEG/0eG8wxTYFmDPqq2XKQ1P69JlE2lYUIhax04clIDIS3cA4JZV2ie4Yg23IkuG+Mbhtkt+7oMVmeR1ps8Bvv685HHYc7JJttH6uddMqpStgCj2auqjdlDbVpEDh9zm/jbRu6kMxcuIt0L3Dl0nrwXYU7siyl1VnbXNSc+SZa8i7C+LZamiaFqkoChW0bWtdGuFCotnmTXuEohvvTdxASkoHmQ2GSviqia1A8XY/MVPEjszrzFpeOwxYvrV4VSbSbDPuIw09OQFgWtq51l7oVBf2QC5/6tewlEQiAnBGQSmPSxtyH1gc=;CTeFg5E1V4RIRKi5g5oG2w=="
 ---
 

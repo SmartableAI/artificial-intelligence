@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "fraugster"
   url: "https://twitter.com/fraugster"
-  followers: 768
+  followers: 767
 
 size: 11-50 employees
 yearFounded: 2014
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Py7WPeTPqdw+btqUeIVfBPO9o3usVZhEJ5x1KPrTHKTh1AxdSTlwE5P4wxFZuVKgM8LOzBIT37ZEddcoqAexz2/9ZkvB5t510hpfaE64LGwQ0YMqmPlqRCZoNwbZu4geqs2At3LrerfncZnUa7Lz8DQ0MyLDjMHM3nOWosVqmOpqyYelL1O8KNj+EGYJ2IAUinua+egk0GaK0tMtvhj9w1GaoLfmVVavPRi0YAC/DczQw7dICSVXOtZhdhtupX8KXXdYYj/ZWaQF3Csmlc59sB5ehFpVrwU26rmQoESBE7y46P5ZBaadjxCvIad8H2Pt7TxTWa+m4gw/fYJi1mlxZp/iwqbrHjpcDa7zpxq2I0bfkdvFcFXvyJmoNt6SrnSmwsNEfu8ByPBwltNZGkJ8Pg==;PZzVp2YAPG5RF4LS7X/jaA=="
+secured: "NbmESZJgFihJw+1UGEbbEibB8i8IAZawrsl230yeNNNN8UeaAIAKO3SNvVGYptjWwdvw/0LKLyoaTqCVJaS46uftqoIGIrU3BzRBEKSjBCQGQfjXuBxSo1UGC3QniZ5rEZRuDCbZTletuRkpMSPeGUAsuZnL69lkZ91nG/d7QwxKM6kYIl+KvKPgoYoUxO3yhOA1JN/2rBPF9GyB8LMrvF5cPaMvgq9k3ZBeSsi3mmP6m4imQ4ihea4qVITfJakfrL+2GUglx2W2iUpC2NlLosZqW/nhNtSocfAeVcChBocODUqn8t+1kHiYNy0hSLVfKK0rH5R1eLBDwlVW9kdq9Hh/BlvMOZxDT9JznwfEC3DZdX8m6aBmQ3U33E6mvA41YtfWAcyVo1RZbDVoTkRDeQ==;ptHg2Gm211nLw+0MsMDI8A=="
 ---
 

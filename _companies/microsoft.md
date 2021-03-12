@@ -4,7 +4,7 @@ otherNames:
   - "Microsoft Corporation"
 overview: "We’re on a mission to empower every person and every organization on the planet to achieve more."
 type: "profile"
-heat: 474
+heat: 476
 
 website: https://www.microsoft.com
 
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "Microsoft"
 
-secured: "DmVQfIQ32D38ICPNF7CXq/mvPS4c57ish0UpkQBra+H+fwMbBeZlPz9bxfW2x6IUs+eb8d60NjcJ1fseIoF0miqv25dOVu04EdNO9E4L4w2gmmdCpfD8JcR5V8Bz5Lq6RuWX2WUNyKIAE5NIbyPWd036XAlr1s/iKhjpVx2T5xmYJFueNSSglmXAmgKB/l23xCPzYtj6bZZQ/KhZerjpM2PD8cX0MOpPh/xwOPtbQ/zL7qqXPA0zfehlFSPB5qU0kYs8XRW/8Ox0Byv+f0g177y9aSGSVfkOFj1AIv+OXZtQx3Kj1xcJbADV0hd1sP7XZWiBZjasuCw+tqc9PBO87VAm9KGFPohLNcqW1iaq/t8eJnsAdFiRVArwaY+3mBqFipVxN394zQg3gHexDur6YBX5LHzXiym05HjVqRVkSsA=;3iuhuy9RPB1LinR2jg28fQ=="
+secured: "vYiMIjrAnwj3IRS7FyNc63QBOiNDceRVdvgG/FIYq6MpJuyOILHDQzY1VzCBBzlgR3SISHsyORhvMfRSD+j9ssTXRpUG7gLCN1xROKoeRUQvttytuaWJfRngf5W2Lghk16u4FRbwTB8/tK1XTkv8x9o/fbtUhBTyPWCxxgZnY96TksZupL25kANzjKGdic3qkoRuaYDrY4ic9DkghJca+tq0nQh8tRRGd7vl4asiCaQL6Wsefp2aMXXGu9AmBM8grg9/7EKFArRnst11ICFL8PzX0PYUWB4XUBFYCegfpq5ltYrrqmqiCX/x1mqP4RHdasAbLHRnWlvM5Ao+XWgoxQy6fsio6DYM9GwVTPrerrZsFMtwOIB+9N0H0VxqF0X2ZHFnI8Zd4IglJCTWErmfXwMM0O7MUcwVeMyIeNTyNnM=;CExzSX2IX02FcF6jAsOHZA=="
 ---
 
