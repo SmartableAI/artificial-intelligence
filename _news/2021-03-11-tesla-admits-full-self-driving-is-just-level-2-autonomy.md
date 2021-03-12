@@ -89,20 +89,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Tesla expanding full self driving beta to more drivers: Musk"
-    excerpt: "Tesla CEO Elon Musk has said that the company is expanding its Full Self-Driving (FSD) beta to more drivers and will eventually increase the number of participants tenfold. The electric car-maker firs"
-    publishedDateTime: 2021-03-08T06:44:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/tesla-expanding-full-self-driving-beta-to-more-drivers--musk.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/tesla-expanding-full-self-driving-beta-to-more-drivers--musk-2021-03-08.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Tesla Tells California DMV That Full Self-Driving Beta Is Not An Autonomous System"
     excerpt: "Tesla introduced its Full Self-Driving beta last October to around 1,000 vehicles. An unearthed letter sent from Tesla’s general counsel and the head of California’s autonomous vehicle branch claims that the system is more limited than its name might ..."
     publishedDateTime: 2021-03-10T19:59:00Z

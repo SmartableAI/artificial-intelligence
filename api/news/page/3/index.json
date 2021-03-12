@@ -54,7 +54,7 @@
       "originalUrl": "https://www.forbes.com/sites/paultassi/2021/03/10/elon-musk-disappointed-with-cyberpunk-2077s-lack-of-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -466,7 +466,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 224,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -518,7 +518,7 @@
       "originalUrl": "https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -609,6 +609,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-africa-the-ethics-of-ai-to-ensure-food-security-and-development.md",
+      "title": "Africa: The Ethics of AI to Ensure Food Security and Development",
+      "excerpt": "Opinion - One year after the call for a group of international and religious organizations and important multinational companies to incorporate ethics into the design of artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://allafrica.com/stories/202103100180.html",
+      "originalUrl": "https://allafrica.com/stories/202103100180.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+          "width": 664,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T23:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AllAfrica.com",
+        "domain": "allafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1119,7 +1163,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-a-new-api-to-stop-in-progress-workflows-in-amazon-forecast/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1212,60 +1256,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-splice-machine-31-enhances-support-for-real-time-ai-deployments.md",
-      "title": "Splice Machine 3.1 enhances support for real-time AI deployments",
-      "excerpt": "Splice Machine introduced a new version of its platform -- 3.1 -- that introduces tools to support real-time AI system deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/",
-      "publishedDateTime": "2021-03-09T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

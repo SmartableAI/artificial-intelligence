@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "A sneak peek of the current state and future use of artificial intelligence in pathology"
-    excerpt: "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and find evidence of strokes on brain CT scans."
-    publishedDateTime: 2021-03-08T06:35:00Z
-    webUrl: "https://www.news-medical.net/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/3/GettyFuturePathologyWEB.jpg"
-        width: 760
-        height: 507
-        isCached: true
 
 secured: "oleINfJfH7J/8CwylbCkr+Gc+BAZwZJcPW66bUOGWbcTI5IOyrW5htBg4mnR8dyMFqhf+t4h00oYAqAtiYQmmXDyT8ZnlrAWm0pzm/yvsZaGB6Sd4ABnaUUUIDDN+B61U3lb2QdqPRR6ztwFJa4/uB2vXLDnEcddypzunF6VD5AyNQtc5HzUj1vJVfWjUQxlV0RLSow+uyNtnOvGiwY+sRrhvpQlfIrF8kEOK6Xygtths1j8TQn770oT0/QfM69O/EomwgXhF21OrrwAoRuvM9hgVFMvIVJo5tmiT0cOc0VB4+qI0pvxbTKq6nL2pXoUuwALdaY8NC4D4AGOs5eL8/WF0ZAkVYTpKhXwxR9jszo=;lmiraJHdPLj1UMRCZal6sQ=="
 ---

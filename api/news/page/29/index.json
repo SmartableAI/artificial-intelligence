@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-02-17-when-should-you-use-ai-to-solve-problems.md",
+      "title": "When Should You Use AI to Solve Problems?",
+      "excerpt": "AI won’t supplant intuitive decision-making any time soon. But executives will need to disrupt their own decision-making styles to fully exploit AI’s capabilities. They will have to temper their convictions with data,",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems?ab=hero-subleft-1",
+      "originalUrl": "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems?ab=hero-subleft-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/02/Feb21_17_1255056887-3.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems",
+      "publishedDateTime": "2021-02-17T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-samsung-develops-industrys-first-high-bandwidth-memory-with-ai-processing-power.md",
       "title": "Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power",
       "excerpt": "PIM’ will deliver over twice the system performance and reduce energy consumption",
@@ -1180,40 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025.md",
-      "title": "Voice Recognition Market 2020 By Growth, Size, Share, Demand, Trends and Analysis Research Report 2025",
-      "excerpt": "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The Voice Recognition Market was valued at USD 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/19697414/voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/19697414/voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19697414",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19697414",
-      "publishedDateTime": "2021-02-16T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

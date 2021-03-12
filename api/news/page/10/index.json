@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-03-apply-ai-to-your-most-critical-business-needs-with-new-azure-ai-capabilities.md",
+      "title": "Apply AI to your most critical business needs with new Azure AI capabilities",
+      "excerpt": "Tens of thousands of customers, such as Pepsi, Amway, Airbus, BBC, and Progressive Insurance are using Azure AI to deliver immersive customer experiences, identify new business opportunities, and drive impact.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/apply-ai-to-your-most-critical-business-needs-with-new-azure-ai-capabilities/",
+      "originalUrl": "https://azure.microsoft.com/blog/apply-ai-to-your-most-critical-business-needs-with-new-azure-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4dd7bc4a-3d76-4af3-9816-0f0b51fd01e1.png",
+          "width": 1024,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T00:30:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-a-look-at-top-robotics-funding-companies-raised-in-februarymarch-2021.md",
       "title": "A look at top robotics funding companies raised in February/March 2021",
       "excerpt": "Robots play a significant role in today's digital world. As its application is snowballing, it garners huge investors' interests. Here are the top robotics funding in February/March 2021.",
@@ -1169,49 +1221,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-deloitte-teams-with-nvidia-to-launch-the-deloitte-center-for-ai-computing.md",
-      "title": "Deloitte Teams with NVIDIA to Launch the Deloitte Center for AI Computing",
-      "excerpt": "Deloitte today announced the launch of the Deloitte Center for AI Computing, a first-of-its-kind center designed to accelerate",
-      "sourceUrl": null,
-      "webUrl": "https://www.hpcwire.com/off-the-wire/deloitte-teams-with-nvidia-to-launch-the-deloitte-center-for-ai-computing/",
-      "originalUrl": "https://www.hpcwire.com/off-the-wire/deloitte-teams-with-nvidia-to-launch-the-deloitte-center-for-ai-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/covid-coronavirus-mosaic-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-13-the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box.md",
+      "title": "The Chronicles Of AI Ethics: The Man, The Machine, And The Black Box",
+      "excerpt": "Today, machine learning and artificial intelligence systems, trained by data, have become so effective that many of the largest and most well-respected companies in the world use them almost exclusively to make mission-critical business decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604bd86443a3827a0c59de0c%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2021/03/12/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/amp/",
+      "publishedDateTime": "2021-03-12T13:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-adobes-super-resolution-tool-uses-machine-learning-to-give-users-clear-4x-image-supersampling.md",
       "title": "Adobe's Super Resolution tool uses machine learning to give users clear 4x image supersampling",
       "excerpt": "Adobe is taking photo upscaling to a whole new level with an AI-powered tool called Super Resolution. The feature is currently available in Camera Raw 13.2,",
@@ -105,50 +157,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-13-the-ethics-of-ai-to-ensure-food-security-and-development.md",
-      "title": "The Ethics of AI to ensure food security and development",
-      "excerpt": "He... ROME: One year after the call for a group of international and religious organizations and important multinational companies to incorporate ethics into the design of artificial intelligence (AI), Pope Francis said in a tweet: “I hope that more and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.manilatimes.net/2021/03/13/opinion/analysis/the-ethics-of-ai-to-ensure-food-security-and-development/850606/",
-      "originalUrl": "https://www.manilatimes.net/2021/03/13/opinion/analysis/the-ethics-of-ai-to-ensure-food-security-and-development/850606/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manilatimes.net/wp-content/uploads/2021/03/artificial-intelligence20210313.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.manilatimes.net/2021/03/13/opinion/analysis/the-ethics-of-ai-to-ensure-food-security-and-development/850606/amp/",
-      "cdnAmpWebUrl": "https://www-manilatimes-net.cdn.ampproject.org/c/s/www.manilatimes.net/2021/03/13/opinion/analysis/the-ethics-of-ai-to-ensure-food-security-and-development/850606/amp/",
-      "publishedDateTime": "2021-03-12T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Manila Times",
-        "domain": "manilatimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2021-03-13-3-game-changing-ai-trends-to-expect-in-2021.md",
       "title": "3 Game-Changing AI Trends to Expect in 2021",
       "excerpt": "AI’s proliferation is moving faster at both the software and chip level, with chipmakers like Intel, NVIDIA and Qualcomm adapting AI technology into their systems. Enterprise and software developers are applying it to data and applications as well ...",
@@ -209,7 +217,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {

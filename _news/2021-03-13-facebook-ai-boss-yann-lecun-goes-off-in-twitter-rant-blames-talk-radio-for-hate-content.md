@@ -8,7 +8,7 @@ webUrl: "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-go
 ampWebUrl: "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/amp/"
 type: article
-quality: 80
+quality: 82
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/facebook-796x398.jpg"
@@ -57,11 +58,27 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 88
+    quality: 90
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Facebook will train its AI by using public videos"
+    excerpt: "The social network says the project, called Learning from Videos, will \"help us continuously improve our core AI systems for applications like content recommendation and policy enforcement.\" It'll also enable new applications, the company added. \""
+    publishedDateTime: 2021-03-12T21:41:00Z
+    webUrl: "https://www.cnet.com/news/facebook-will-train-its-ai-by-using-public-videos/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-will-train-its-ai-by-using-public-videos/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-will-train-its-ai-by-using-public-videos/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/qQr3vJP8lfNUUjdSYnsCkPjpyRo=/1200x630/2021/02/09/3b350071-97a3-4d7b-ab0c-accf39ebbd3c/facebook-app-logo-social-media-2589.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facebook’s next big AI project is training its machines on users’ public videos"
     excerpt: "Teaching AI systems to understand what’s happening in videos as completely as a human can is one of the hardest challenges — and biggest potential breakthroughs — in the world of machine learning. Today, Facebook announced a new initiative that it ..."
@@ -124,6 +141,6 @@ related:
         height: 300
         isCached: true
 
-secured: "dpQvN5q2RfijG48wI1d1QomeP63DY84xX4JdtJmk3YRCjwghVHiNJe2Y+hDsSMI/+PywXrtQ8fZVpHIa/VkXssmdCEhVJ/c7O5jgMkVQ2Wrhf9t/YD4oe2yvRNqIj9FvGvfe4RfRAMLMeI4hIU9f+zkuBeYpf0VRZqEbEOK3WiM0ayMMYPzwHyx+1tzWnfUnayZKrAjlZ/x1GP+4R1SJCLvgbPKm0KjEpdVV9bwlmXytUpOfSsGbsQZ/gWgZfkgkjMuTT4USeGDAIy9myzwpC0e+NTvS3/AI4pPRejwFurYhaA0W9MpvGlIRK1yi95eFACaqpuUcP0h2kP//wGbqZGQMUJDVSK5b0ZY8Zn2iAqc=;n3rP669hKKxkBRGZbXh6Kw=="
+secured: "v0z4efbcvd7DW8nNe6WBjKXs5VVLfwmf6FBOM/NneCUzS2Is566A4ClpZ6E/xDXqkbXkM2bIQXFEBZIvT3LmdynKD2pFUymyfavIkS0DEaMu3OlCu085D0F+7mLMJcFEiKcVF9nPswra844yPc3ifEs6FjtpFTpogJYrL68MvBHwxxpcwfLNQLYtwpYJYbw5PxqDUcXyVdc/WwSdI7Sipwa6IVAHPSxwNb8MJ3ij5tTuY4sxY6Llr2aJKyJhWKFR1JGtVhqPl0r3+af93jqDKO61GbCLlZgEU59Bh0tr2PoMksfdN5UflaX3uH70mLiCd2cM0IebmfGfvl9xj9sXdknWKEZ4Sm2gmkieb5A1gs77WKswA3RxlAoxTO20jCPC1fQ1X7dYKPv+TL8ecJAOr8Vs2yIU51pFWATVeqnAorATfrsc8ca0R8pRY8ubnM6IBp9Z0H5B8mkJWr1PdZ2Us4+cNoLdYCVYzZeoqwM1CtD4yMben702fES/cBJsOZTCps69wNnElYY7TwfUdm6UZg==;PNusQEgXALzr4t9TAZr7Sw=="
 ---
 

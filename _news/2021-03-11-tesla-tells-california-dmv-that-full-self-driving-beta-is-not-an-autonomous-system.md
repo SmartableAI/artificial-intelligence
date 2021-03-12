@@ -105,20 +105,6 @@ related:
         width: 1627
         height: 1017
         isCached: true
-  - title: "Tesla expanding full self driving beta to more drivers: Musk"
-    excerpt: "Tesla CEO Elon Musk has said that the company is expanding its Full Self-Driving (FSD) beta to more drivers and will eventually increase the number of participants tenfold. The electric car-maker firs"
-    publishedDateTime: 2021-03-08T06:44:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/tesla-expanding-full-self-driving-beta-to-more-drivers--musk.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/tesla-expanding-full-self-driving-beta-to-more-drivers--musk-2021-03-08.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Tesla’s $10,000 ‘Full Self-Driving’ Add-On Will Never Actually Be Fully Self-Driving"
     excerpt: "Tesla rolled out a beta version of its new Autopilot Full Self-Driving (FSD) software (version 8.2) to a small group of Tesla owners in the United States. Driven by high-than-expected demand, this past weekend Elon Musk said his company would make the driver-assistance system available to more customers."
     publishedDateTime: 2021-03-09T21:19:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-excerpt: "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to-value with pre-built (including pre-trained, pre-structured ..."
-publishedDateTime: 2021-03-11T07:35:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
+excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
+publishedDateTime: 2021-03-11T06:43:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -78,6 +78,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "6mKTaRa4Ed77uyIhBpvxIh1ImmYqia1aULYOf7r1/d2Iq0Gr79F7csrHbegmUuxbyAx306LW1BVMxjFGzHEXZRsVyTK1j/efXtZEgHdRd3bnTMCNQH/YdVP36B/XPjq5ctzs0AbOG7nhDSUMtcZdtGejXWlSCeGfInQSeLHtJ0v7MRWTsFuC57uDKRQJlnvGWWAuCkPYmW4yNhG6N03gA6mXIY3OaaBjRZzR232VN/eEumL1ZuQM0Ro+hhmtfOXgtZPvd6V8vDowjFZn6NlkYSYdZGbhKaipMObz2pMqlQZ1MUy+5pnU3qLKTGfj9zQG/hCgSoih3ZYuGa6lxHUoOwmDqjUjBb4tYuvnwpHYKfs=;BhlAQkUU1lJV4OUSt8zceA=="
+secured: "TshypdNL3wldatlBSlZnVFpe/5BDhoPdDmVzkRbPHG0fmWeL7xdMal9ucepDfvBPHuLgfTfzseibhhIb2iFguXmR6YkGVQPXzBaeCC+iw+BctzB76rqTavLzWRY+CM+4fwACUwqPVHm0noI8acC3ZcTnIv9ts6q43idOccO06LmOEvhRhstBYO8u5gUUEAAThLg/aGRftq/O7NGT7mfpBTiSKjCR0JMkrlt4lOmIHNMDEqSXMHtsy0/DX0B2s2dJ8dm6JmsyDsOXamyMK0OWp9V66YBgCxYwaESHaKqYaQ24a2Go8jMh9HkMMQm1sF228JfNKKK7sndcb+OlVX5NhXcU00CWPpDObZJV6YEPLsg=;JR6vLTGjiWkaUAbyeFyigQ=="
 ---
 

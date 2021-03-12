@@ -105,20 +105,6 @@ related:
         width: 904
         height: 565
         isCached: true
-  - title: "Fintech MONVA Announces Second Fundraising Campaign"
-    excerpt: "Deeside smart comparison Fintech MONVA has launched its latest round of fundraising, returning to Crowdcube one year after smashing its last fundraising"
-    publishedDateTime: 2021-03-08T05:40:00Z
-    webUrl: "https://businessnewswales.com/fintech-monva-announces-second-fundraising-campaign/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 39
-    images:
-      - url: "https://businessnewswales.com/wp-content/uploads/MONVA-1.jpg"
-        width: 580
-        height: 380
-        isCached: true
   - title: "Fintech Acorns just nabbed Harvest, a startup helping customers reduce debt, as consolidation among personal finance apps heats up"
     excerpt: "As fintech booms, Acorns took the opportunity to buy debt-reduction startup Harvest to add to its existing micro-investing and savings offerings."
     publishedDateTime: 2021-03-11T14:29:00Z

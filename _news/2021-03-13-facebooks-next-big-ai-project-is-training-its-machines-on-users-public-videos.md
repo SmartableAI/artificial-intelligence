@@ -57,11 +57,27 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 88
+    quality: 90
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Facebook will train its AI by using public videos"
+    excerpt: "The social network says the project, called Learning from Videos, will \"help us continuously improve our core AI systems for applications like content recommendation and policy enforcement.\" It'll also enable new applications, the company added. \""
+    publishedDateTime: 2021-03-12T21:41:00Z
+    webUrl: "https://www.cnet.com/news/facebook-will-train-its-ai-by-using-public-videos/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-will-train-its-ai-by-using-public-videos/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-will-train-its-ai-by-using-public-videos/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/qQr3vJP8lfNUUjdSYnsCkPjpyRo=/1200x630/2021/02/09/3b350071-97a3-4d7b-ab0c-accf39ebbd3c/facebook-app-logo-social-media-2589.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content"
     excerpt: "Yann LeCun, Facebook’s world-renowned AI guru, had some problems with an article written about his company yesterday. So he did what any of us would do, he went on social media to air his grievances."
@@ -73,7 +89,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 80
+    quality: 82
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/facebook-796x398.jpg"
         width: 796

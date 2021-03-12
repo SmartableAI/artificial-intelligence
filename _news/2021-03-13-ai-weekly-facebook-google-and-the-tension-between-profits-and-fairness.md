@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-te
 ampWebUrl: "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/"
 type: article
-quality: 88
+quality: 90
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all"
@@ -46,6 +47,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Facebook will train its AI by using public videos"
+    excerpt: "The social network says the project, called Learning from Videos, will \"help us continuously improve our core AI systems for applications like content recommendation and policy enforcement.\" It'll also enable new applications, the company added. \""
+    publishedDateTime: 2021-03-12T21:41:00Z
+    webUrl: "https://www.cnet.com/news/facebook-will-train-its-ai-by-using-public-videos/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-will-train-its-ai-by-using-public-videos/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-will-train-its-ai-by-using-public-videos/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/qQr3vJP8lfNUUjdSYnsCkPjpyRo=/1200x630/2021/02/09/3b350071-97a3-4d7b-ab0c-accf39ebbd3c/facebook-app-logo-social-media-2589.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facebook’s next big AI project is training its machines on users’ public videos"
     excerpt: "Teaching AI systems to understand what’s happening in videos as completely as a human can is one of the hardest challenges — and biggest potential breakthroughs — in the world of machine learning. Today, Facebook announced a new initiative that it ..."
@@ -73,7 +90,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 80
+    quality: 82
     images:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/facebook-796x398.jpg"
         width: 796
@@ -124,6 +141,6 @@ related:
         height: 300
         isCached: true
 
-secured: "EMTbLELnoQ2zl6nCLSI8ZS3varhWtUfjeDVwx+2kPjDEWkhPgzs7cBvou8Wb+If7U8rxNHOuDAFoz4voG8HSLp4Wk6OGJvRaRYAZPPCb6Nqgc18lstLME7r3BpyO9DeT6oeKstchKzmlxI8sC4bTYk9/WBtpmIBSuVjzS4i75lqGj7+vZv3rC8s64qK99dHOukM8/uImBDy5seOpfnXkVlLKDXjxV5793ZEQKsbevy6gs8MKCCguah8BRJAPgSpIrYsQr7ADmlL0xndrUOJfYp/7OHhpXxjZt9zIERLjz7WfXiI7vefVUp+OIOukelGtY1bAGx3L88hm988/PJGYvE5jfHlE/nzdS7X/gNVBgJg=;YuG/riUIn+jrPzpHDEmZnQ=="
+secured: "Dhi9OFpnP058vYzEbdXGS/QHMHCpV8MECUsUaq5oi6z7hwn9HQpGDevymiQCoCri7YxrCHfJc/AimSWcSipJyDPNCdqmj53UvuthFfpnr4f/B2razdt0yRKGAdvYO/NfrILRiJE5bUYSYtwtokfIxjCUyd5RktugJX5tkR1n9VHbzRvCkLM3tRlYdwqzk5jwJiuenlJHZr3NQ39PI6eDURQLFTGZDslgD8T3B+TaYHIFsoPwBODZ+wMBnUop4jRziH8NIlVSZNCblMXjj8RzWFcFQ7ygZ6Ej2UrdXtpOaoabC8Cdld9r/l/daCt39cyEQcueNXIbD+v9niqfANrqimMvqRT8Zz0PzuV8nNulnMJ4Nt4rRJf8EaR4GKI9vUZ7kNFbOYFQISfUOkOo0EhABttZ9DBiDSjIFV6b10jZZ/S7JsdNVnTvgYg2/hlBQMghbOcrcBkn2t/VQvq63x9BoJQZKxEFJqYZCW60w+ebvbmpESz8YdbZH19ed5xA3UM0496Z6jaVmHS2nWjLAXjlVg==;/kdB4OafuiDOxpNv9hgqSA=="
 ---
 

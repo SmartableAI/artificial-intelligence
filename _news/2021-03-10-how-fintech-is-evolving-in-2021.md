@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/"
 type: article
 quality: 74
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2021/03/Lord-Holmes-header.jpg"
         width: 904
         height: 565
-        isCached: true
-  - title: "Fintech MONVA Announces Second Fundraising Campaign"
-    excerpt: "Deeside smart comparison Fintech MONVA has launched its latest round of fundraising, returning to Crowdcube one year after smashing its last fundraising"
-    publishedDateTime: 2021-03-08T05:40:00Z
-    webUrl: "https://businessnewswales.com/fintech-monva-announces-second-fundraising-campaign/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 39
-    images:
-      - url: "https://businessnewswales.com/wp-content/uploads/MONVA-1.jpg"
-        width: 580
-        height: 380
         isCached: true
   - title: "Fintech Start-Up Fintern Takes On The Banks With Data-Driven Loans"
     excerpt: "Fintern promises the combination of the UK's open banking reforms and its data tools enable it to lend to more people at cheaper rates"

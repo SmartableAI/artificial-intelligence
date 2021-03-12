@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-02-24-enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers.md",
+      "title": "Enterprises customize Clinc’s conversational AI to connect with their customers",
+      "excerpt": "Clinc's conversational AI platform uses NLP to streamline customer queries and collect related data for financial enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
+      "originalUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1150039017-e1614002657936.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
+      "publishedDateTime": "2021-02-23T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-t-cell-screening-launched-to-detect-prior-covid-infections.md",
       "title": "T-Cell Screening Launched to Detect Prior Covid Infections",
       "excerpt": "The post T-Cell Screening Launched to Detect Prior Covid Infections appeared first on The AI Blog.\n",
@@ -1140,49 +1192,6 @@
         "Machine Learning",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-autel-robotics-evo-drone-review_.md",
-      "title": "Autel Robotics EVO Drone Review_",
-      "excerpt": "The Autel Robotics EVO Drone gives you a high quality ... Like the DJI Mavic Pro Quadcopter, you’re getting a pretty impressive range of control distance with this “follow me” drone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetreview.com/autel-robotics-evo-drone-review",
-      "originalUrl": "https://www.gadgetreview.com/autel-robotics-evo-drone-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gadgetreview.com/wp-content/uploads/2021/02/Autel-Robotics-EVO-Drone-Review.jpg",
-          "width": 2112,
-          "height": 1188,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadget Review",
-        "domain": "gadgetreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
