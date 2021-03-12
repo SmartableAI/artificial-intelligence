@@ -92,6 +92,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "What you need to know to implement a foolproof AI and automation strategy"
+    excerpt: "GM of Einstein, @Salesforce Automation is all the rage lately. Thirty five years ago, my father, Joseph Casalaina, developed some of the first automation systems for the insurance company MetLife, in the form of “expert systems."
+    publishedDateTime: 2021-03-12T19:17:00Z
+    webUrl: "https://techcrunch.com/sponsor/salesforce/what-you-need-to-know-to-implement-a-foolproof-ai-and-automation-strategy/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-982535840_cropped.png?w=600"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "QNS13pl/ehxVmRBJSlYOelHW5pcVhnyLsfL+iQn2XIEg0OImVwnsZ2sFlOUjzdRN3pTMcEBP2oxc3ZwU7ep9sbpwtbac+jiI+6Dnqy1qISRzgnWuiQ2rANcfIAfcpGaqHtQSOY1ROHgyFL+vdXaFC4nfYYCOKTBf5YG6bLJvOJHljOA3Y2qXsS3hnvlcHkPCKWyB9s1i/a7QnJE0DPK8XJVCZ12D3YDJdZcoL5PBjAxm9xoXMP0yXQziNkXWmFg7AgreRRwv/XPpNP7EH4BUTFBgAjVQzYqwqeiU1ffE68wQJ5XVA0pNdaPp2a1EW/bfVWzDMYgKIDciBG4Dx1YM94cBjN4DjgNsv7vUdkou6Cw=;npyiucy0oaVbd/eMmXUr6w=="
 ---

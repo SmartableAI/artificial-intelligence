@@ -7,7 +7,7 @@ originalUrl: "https://www.nyoooz.com/features/technology/toyotas-first-vc-fund-i
 webUrl: "https://www.nyoooz.com/features/technology/toyotas-first-vc-fund-investing-in-ai-startups-to-refine-everyday-processes.html/5614/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota VC invests in AI start-ups, firms that refine everyday processes"
-    excerpt: "TOKYO: Toyota Motor's first venture capital fund is investing in start-ups that help the Japanese automaker refine everyday processes by bringing"
-    publishedDateTime: 2021-03-08T04:02:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/toyota-vc-invests-in-ai-start-ups-firms-that-refine-everyday-14359130"
+  - title: "ING invests in credit scoring startup Flowcast"
+    excerpt: "ING Ventures is investing an additional $3 million into Flowcast, a fintech startup that applies AI to the credit and collection process for non-performing loans."
+    publishedDateTime: 2021-03-08T11:09:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37621/ing-invests-in-credit-scoring-startup-flowcast"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
+      name: Finextra
+      domain: finextra.com
+    quality: 22
     images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14229508/16x9/991/557/36168cb4a67625e4119971584d29734c/TE/file-photo--a-man-walks-past-a-toyota-logo-at-the-tokyo-motor-show-3.jpg"
-        width: 991
-        height: 557
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/ing.jpeg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "7OIZZmB93nbhXVKnauhVC3fzOGDsOzr+vWAFiyZgiYsNWQGDn1FBhBWHTI0Uw/GwTufK0wMVRMT0CLCijfAnYmUfb82Fdyel9l+7YRsdSFgty1gGiWSoj+OIduKKz1Kmo54yI0oNE/cGNP0FtVBUWaaKPslZitiODCrG7LWWLlzBRDJF5y7RzN3WuF8COnQAbB5AU+Gf7L8CynnVZOOCG3Y8YFmtsQUxAK9gatD0xy8CN3YiI6e5bBCs8PBJti0qxvOECAK5E+coSOuGkAInhB4FtxcKSDVR2kO8uJ7HJhaw8w/QF40SCQy+jh1mZFpaTWU6c6XfsbNOXhX8EwS+w18g0ynGdIp+pHRMvAPWwOE=;KSaU5QmqLPPTLIDezo/sbg=="

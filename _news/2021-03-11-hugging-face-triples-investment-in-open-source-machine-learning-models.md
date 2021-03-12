@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/11/hugging-face-triples-investment-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

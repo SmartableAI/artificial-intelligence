@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Canadian Tire and NuPort Robotics to Commercialize Canada’s First Automated Heavy Duty Trucking Technology"
-excerpt: "First-of-its-kind technology to enable safer, greener and more efficient transport of goods by semi-tractor trailers TORONTO, ON / ACCESSWIRE / March 11, 2021 / Canadian National retailer Canadian Tire Corporation (TSX:CTC."
-publishedDateTime: 2021-03-11T12:16:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/business-technology-sports-driverless-cars-ontario-72816e4bae4ebf6a8045eeeca255b8a5"
-webUrl: "https://apnews.com/press-release/accesswire/business-technology-sports-driverless-cars-ontario-72816e4bae4ebf6a8045eeeca255b8a5"
+excerpt: "TORONTO, ON / ACCESSWIRE / March / Canadian National retailer Canadian Tire Corporation (TSX:CTC.A) (TSX:CTC) and Toronto-based startup NuPort Robotics Inc., Canada's first autonomous trucking company,"
+publishedDateTime: 2021-03-11T06:00:00Z
+originalUrl: "https://www.morningstar.com/news/accesswire/634872msn/canadian-tire-and-nuport-robotics-to-commercialize-canadas-first-automated-heavy-duty-trucking-technology"
+webUrl: "https://www.morningstar.com/news/accesswire/634872msn/canadian-tire-and-nuport-robotics-to-commercialize-canadas-first-automated-heavy-duty-trucking-technology"
 type: article
-quality: 38
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Robotics
   - AI
-  - AI in Autos
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://img.jangomail.com/clients/460230/Images/NuPort_CanadianTire_650.png"
+    width: 650
+    height: 421
     isCached: true
 
 related:
@@ -64,6 +63,6 @@ related:
       domain: globalspec.com
     quality: 36
 
-secured: "yPXYPl1B27zv5KrzRWkkhJQi3MOgSiw6Rx14y/p+KXItSII5cUzERG+y/ADy7p7FmdtBU2E2/rRYYzV0HQ1OvuMCcqNemlInGAoEM6FV3kpRc8Gc0aofyCDsDUyafFvrntAPFDe1bY1jbv10FZQls0SAw8cCIBVgSA4dxZnq1WtXC7PgY88DL0Rr6Pe2Jq1ZRBsY4oG/K1d2pkl7Jzndy5bdR4nEeoNp8ZD25w74Cp5RzdW2pCB/cyPQ6hqWRblwdJupneuYXDFG422XwWMyE3OY2D6pgdfoMV1jRJ7t9tN9p5xbJV8pAdN+kMUzF9aqid9hfmG1ftDC74oQBBXHGL2IOEzan+bO3JgcMEukTVs=;XOr2BGZQ0kSpkEB/naOrEA=="
+secured: "lAt4193HiAwX8RgUBBzDc2q/wIxeQ48LSwM4xATY2pY8VGgMcycsZOTG46f5zznQS9ezksrYBBhrmuYQSs/5P5kB2w0X2IUZFRMspFjSnYqljgXg3uWoI33eC/9pukX3OaDgL9af+VipEwNzh3PuZFhDj8Ms7gwdgSdbwMRKlTSFuG1hqgo5t/aCyjS6ZoqPoHM+cWzxro1A08zjH2vAuHSmOHk3kSCttmMgOmoBXLX+XKl2lC6Qgx+A2RtwDzG/lgJr4oydBxmzS7NXc6C7WCtrT0n+x8t42GRn0uvePKeIGAB11UUlIJrYIEuWTMMhtrZzVBOUTX4tBHFQ81uhF7TKPbtzvzx4vhC0h++Cl8g=;pdQTpo48zQ57CRd+ptQlVg=="
 ---
 

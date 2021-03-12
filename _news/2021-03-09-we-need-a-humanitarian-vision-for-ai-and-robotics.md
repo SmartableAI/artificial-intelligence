@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robo
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/r/2021/03/08/1e080d33-ac3e-4540-8ae8-45d85f849167/thumbnail/770x578/ecff9a4ea23c74e3a62f269a0c725155/20210308-tiernan-karen-interview.jpg"
         width: 770
         height: 578
+        isCached: true
+  - title: "What you need to know to implement a foolproof AI and automation strategy"
+    excerpt: "GM of Einstein, @Salesforce Automation is all the rage lately. Thirty five years ago, my father, Joseph Casalaina, developed some of the first automation systems for the insurance company MetLife, in the form of “expert systems."
+    publishedDateTime: 2021-03-12T19:17:00Z
+    webUrl: "https://techcrunch.com/sponsor/salesforce/what-you-need-to-know-to-implement-a-foolproof-ai-and-automation-strategy/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-982535840_cropped.png?w=600"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "1PETsLbJfzWe9nRPdT/T9LMb2rW5a5WHO2BnLHegqqzRltieI8L4kC29a0XGURwTCdPJ85dbWghP4CwuKTwtpjW4+jFTNdmWc84TpxBu6tgYlkM0N2rT6IkcpL8dNdh9v1h/dFU+ovM4MiWYK0PNKMmwHWLRdtruM0i8dNrgRwKdwPo6WUwVItAB/QzWmrcMHMEuIipO8U3yzF3NRc2RZYUflXIVIloA3l7bChnI/oxZEq29oFl69bEsr8aKREIgK01XeMj1cDBt61+GpcZQJQ7Rt+5xG9znZRQ3eC5gvSax3Ui5pNObNITAW+on25P81hlymTEPHVYyw5jhg+HB2sUBlpabrC0IMh9AzuRCsSxf3ZbIH7+YZ7euoYIgNSkX19FGT2D/YAQtUcRhZPYDX8tC6/C9LGOUL+wCJbt80fj8vuDr3bJVvjRtkENBxTKd8D6n6nfPIEDJAQBXkgRmHJjzZ+14rOucGUX6uExlj8UoU3mPgLVZcmirLOggHAWD6Ui573bvimN1o5XhjpmuiA==;rSlz4GEXAulA8uPARxEs6Q=="

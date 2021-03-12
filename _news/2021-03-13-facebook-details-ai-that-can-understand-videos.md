@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-underst
 ampWebUrl: "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/"
 type: article
-quality: 89
-heat: 129
+quality: 91
+heat: 151
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/08/facebook-dark-background.jpg?w=1200&strip=all"
@@ -31,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Weekly: Facebook, Google, and the tension between profits and fairness"
+    excerpt: "Learn more. This week, we learned a lot more about the inner workings of AI fairness and ethics operations at Facebook and Google and how things have gone wrong. On Monday, a Google employee group ..."
+    publishedDateTime: 2021-03-12T20:17:00Z
+    webUrl: "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/"
+    ampWebUrl: "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Facebook’s next big AI project is training its machines on users’ public videos"
     excerpt: "Teaching AI systems to understand what’s happening in videos as completely as a human can is one of the hardest challenges — and biggest potential breakthroughs — in the world of machine learning. Today, Facebook announced a new initiative that it ..."
     publishedDateTime: 2021-03-12T17:01:00Z
@@ -41,11 +58,27 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/EJvq42JTaVideWqcdVWZ8FEVuI0=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68956134/acastro_171002_1777_0004_v1.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content"
+    excerpt: "Yann LeCun, Facebook’s world-renowned AI guru, had some problems with an article written about his company yesterday. So he did what any of us would do, he went on social media to air his grievances."
+    publishedDateTime: 2021-03-12T19:38:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 80
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/facebook-796x398.jpg"
+        width: 796
+        height: 398
         isCached: true
   - title: "Facebook’s AR Vision is a Contextual AI-Powered Interface"
     excerpt: "Virtual reality (VR) might be Facebook’s main commercial focus when it comes to immersive technology at the moment but the company is heavily investing in an augmented reality (AR) future. Today, Facebook Reality Labs (FRL) has given another teasing look into its vision,"
@@ -92,6 +125,6 @@ related:
         height: 300
         isCached: true
 
-secured: "DInbg0YNmItIGdWOFcQkmJgkUct01KE8nckAZrJ3kxl2pXlQFoUGAaHiDDEdir/u4GkLOp2oL+MjaVELuth7rwCP+vYyOOTplJr2LogDrLsk5LALXIAoYmnD+3kwJxmyr3uA/SOh37vPFZdQWeieRcczBtbI5af7gcfcSBEYC4mo+awhiM/CFYqjz/P6+IN0CusY8cDqkSi717QZrhqb9hmN1LhvrEIubA8vxqi7FHhHo7VJcA/k0XidvUJLOkcKiSgIqX0zEpdVoiNpDK6Bu1XO0y2CQhlQFrJ1rbmGInjgk8t6Dbz9xb56tRTTCJU6kKRXZ1nVsFzh2OYjIQ15bh4mhyM5SVEPs2zQvDhbj3E=;wj18kDCTJr8HvuQkMcQHaQ=="
+secured: "JZSNiQjTX/eigRK+D3n2XTLaJ9xEwfXcAEGARPJHwagijXfftGBnkTxSuwoih9n7qKyOXuYt4Y3uHxbZDqD/Nz1U5/by/uSFeg0BSgGVJTyUY6D5bLjkcq+bDLpYI4tEWD806ptF8cKW6LEapG+BHDEvn6fL3DSdt4GPie5iiEXhQHtqHDh/xz1BWCnULZN1Hkgeq9VZQPEYQkvN/psVHZ+NTPQupT9mWkncb7eg99BnciKd0jOGkqA4KgDoo2qBUwAbosIAmsKb3kUbUJlaJOk3vy09PT4ZdT95Gaz8uCwekHvF3xAgAwAxZ1Sh4BSPPIfZnDBWKxYxisyW8HSi4kvW0VFEcr8amYS0SB6SdjF5dfsoyJ+PCqOV72Vzr6r43C/pOc39CTEWacDTchVK1/xEHWmnotw3zM/HDzkPTqQD+vZCfswXAb4Ykdt0ET2rPi4M/1A0ZEx1fF9I4k1lgTHx8qRara+79eI3FVkEx9YH5PgKaE0SqU1XuP3tti/j4TaUpyE1Chhb6Ml5g15XyA==;aY71zejQ88JYfK2/ltHICA=="
 ---
 
