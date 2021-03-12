@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.cmswire.com/-/media/474c7431a7734c14a0a206307b919050.ashx?mw=1024"

@@ -1,16 +1,11 @@
 ---
 category: news
 title: "Former Pentagon chief blames Trump's speech for inciting Capitol attack – live"
-excerpt: "She said there would be “news” during Biden’s primetime speech on Thursday night ... The promotional push around the legislation is part of a recognition by Democrats that they didn’t do enough to sell their economic recovery plan in 2009, when ..."
-publishedDateTime: 2021-03-11T22:20:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a773a8f0849a7378fd13c"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a773a8f0849a7378fd13c"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
+excerpt: "And while the recognition he is receiving is overwhelming ... the civil rights and the civil liberties of our people,” Garland said earlier today in a speech at the Justice Department. “The only way we can succeed and retain the trust of the American ..."
+publishedDateTime: 2021-03-11T22:52:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a68a18f0849a7378fd04e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a68a18f0849a7378fd04e"
 type: article
-quality: 40
-heat: 40
-published: false
 
 provider:
   name: The Guardian
@@ -24,12 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/8b5dcaa3b92d55402971cb623e14c3f5cc5b2909/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f196b8e175ba7b8b3d244dfd60742b19"
-    width: 600
-    height: 360
-    isCached: true
-
-secured: "TG7viirGdm6LmqaPLNtF2DSg/ilt5TyfAFG0Ymw/0SM0Av5CBby+v/yLofjOZH/Ii2TX5KbRgfxvlKR70VQCB9bywT7jTdV41lLKI3xJsWZKQFuU91QOTMzifMponvPyemG4sypfRlHnD8XWDqKoj4UhIqH20wQeGTr4HoRGC7bC2bwoK+Y+vbZU84APU0Nncb4QQ0ro9zFrZmVBH91yUvesBApSZAEQXUbZnVLixCg0Wb1tMh8lcDeCZbE4GOzM/SfKEZL+buppjDMSAXOGCo/IDmaeMQHqS4dknfZgx7cPbyOzo6SmbPDg8r1q9OyhcDmQYfhy4zQ4X4IuhAyrVCPoZfUEqvc6s8Zg/7d04Jg=;AGYZ0MrbSjamsKd9qSVMHg=="
+secured: "spcmt/5Dmhy1lRDDDU+9X+silKZunk6Cu4z7L9CJFfS2qIjmj5gIHu45V+py0Qpmqp3cTxusq8ZgHRg//EuBz8K1QBw6XI2E/F7G7l9XCCWC+PqHPwdBytxjsHGhhSBpZp9Yx/KDC4wT7iWoYKigMKrLBh4sa2i20hk66cwFB66E56vu9bomSYfKKRBa81Wl99lCKlVlxWf4DwdNguE67CWmZP1Lg3JpEdiyFzxBsUSfbLdwAFuvy3N7achVtpzx5c6Xmr87KTWIBYJB8F8PRA3aKRZDXiuwkkWoLkspa6ruJMsQGFe5yMro5K/bOAUKOlY3/K9Rp/bC1ASifnEh2Hf2IdrzBmBs8zccoczh9li1DXjSm8q1/70rQoVcaAXs2jyYbXv9kMNEuA4/AEYvGgjfbN4VmEpf5B+KM0o7IWoyi6UZnxqwn4dau2/99IatA5Eo9aHIYkTuafSKaR5byHGrOgayOjKZ7kYT7twoVniKth5a66i9itvG9FPISIOq1GS6OO5tj+DkiJd2szYj8w==;mFhY5Kf51Q8R4ZpaMkz4Hw=="
 ---
 

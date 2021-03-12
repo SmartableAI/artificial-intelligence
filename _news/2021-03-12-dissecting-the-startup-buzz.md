@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.mmh.com/images/2021_article/MMH2103_BP_KencoPicMain800.jpg"
