@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Chinese Fintech Giant JD Technology Is Reconsidering Potential $3B IPO due to Nationwide Regulatory Crackdown"
-excerpt: "Chinese Fintech giant JD Technology is reconsidering potential $3B IPO due to nationwide regulatory crackdown."
-publishedDateTime: 2021-03-09T03:55:00Z
-originalUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/"
-webUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/"
-ampWebUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
-cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
+title: "FinTech Buddy Loan offers 2x higher disbursal rate on personal loan app"
+excerpt: "Bangalore-based FinTech start-up, Buddy Loan, a personal loan aggregator cofounded by entrepreneur duo Srikanth Bureddy and Satish Saraf, offers 2x higher disbursal rate than the industry standards through an Artificial Intelligence (AI) powered platform."
+publishedDateTime: 2021-03-12T07:54:00Z
+originalUrl: "https://ibsintelligence.com/ibsi-news/fintech-buddy-loan-offers-2x-higher-disbursal-rate-on-personal-loan-app/"
+webUrl: "https://ibsintelligence.com/ibsi-news/fintech-buddy-loan-offers-2x-higher-disbursal-rate-on-personal-loan-app/"
 type: article
-quality: 25
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Crowdfund Insider
-  domain: crowdfundinsider.com
+  name: IBS
+  domain: ibsintelligence.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/12/JD-shirt-China.jpg"
-    width: 505
-    height: 325
+  - url: "https://ibsintelligence.com/wp-content/uploads/2021/02/tZERO-.jpg"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -133,6 +131,22 @@ related:
         width: 600
         height: 516
         isCached: true
+  - title: "Chinese Fintech Giant JD Technology Is Reconsidering Potential $3B IPO due to Nationwide Regulatory Crackdown"
+    excerpt: "Chinese Fintech giant JD Technology is reconsidering potential $3B IPO due to nationwide regulatory crackdown."
+    publishedDateTime: 2021-03-09T03:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/12/JD-shirt-China.jpg"
+        width: 505
+        height: 325
+        isCached: true
   - title: "Tony Pizi Joins FinTech Studios as Chief Information Officer"
     excerpt: "Tony is a superb addition to FinTech Studios and brings a depth of talent and experience to FinTech Studios and proven track record of developing and deploying new innovative technologies at scale.” — Andy Brown,"
     publishedDateTime: 2021-03-08T13:06:00Z
@@ -160,20 +174,6 @@ related:
       - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "FinTech Buddy Loan offers 2x higher disbursal rate on personal loan app"
-    excerpt: "Bangalore-based FinTech start-up, Buddy Loan, a personal loan aggregator cofounded by entrepreneur duo Srikanth Bureddy and Satish Saraf, offers 2x higher disbursal rate than the industry standards through an Artificial Intelligence (AI) powered platform."
-    publishedDateTime: 2021-03-12T07:54:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-buddy-loan-offers-2x-higher-disbursal-rate-on-personal-loan-app/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/02/tZERO-.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "IWD 2021: No more talking, it's time for action on female representation in fintech"
     excerpt: "2020 may have been a year of challenge, but it proved that above all else, digital resilience will remain foundational, not only to female financial inclusion, but to female representation across the fintech sector."
@@ -218,6 +218,6 @@ related:
         height: 339
         isCached: true
 
-secured: "SgUdIQsfX1+YLb3FzaaR/DoKYFw0+xLiS6sKLqnIZiDGdn0uoL91xXtbWFZooz5GUxBnxWblp3gTZ5211uRDfQs+G/yHqD2heRc0D7pSoabjV+AByRZQq4Ra320zSp0NNi0v09eSkxfiUE+ss9ZHYAv86yIVT4TSFKshsndAxx9or/6HkFifOAywSN5nszPncmYeNFO250/q2GVNfdveqzsd3pAicNArD73KTk7xovMSsUkIDDxYA+maRHBJh8prBt+PulwAWW+DrZ4t/xjlJ8FA5JHZKkVKjzGse/UX1dlxW+i5h0+zxg5QpdaN5ULDvVCD7xqOh4UPrvVQD77OPU1JT6h4EQLW21sMey0gX71s3bn4SOrQRt2MreSQmO5Y0qz3EBIeApEP2tpY9vK9VNbjLaB6FTgKf3sVHkPPcbIxdxmPP7PTG8/VO5J0QZVJt8FnD5AVgF2vHygZrYTGLZb02Ilgb9xgaGG2GElMhtZhAOHxNrZFm1faK3oZ2FK9WH0IFCTfdwjbU75rlpiCMQ==;3dU2yb5Pk/zGB07rEHihhw=="
+secured: "kTqDpZagBXXw9X9rGbkzqqSYZffUvCQWKRV7pyPLOQoDpeoB3eor163muQQWQvv5SQ4lCitFCl7VafGWqm8XQcWAUhmdKdiEHzJZSHQa7gcgPHm4SjWa/iRmJsH48mBz4OygZBkp+LgvcxlpGa43Vtrz8eX0O2zolppofqTbmWdD8k6dd8yA2oVpu92tpg+ryCK5MRNx2opgnM0OEVFowEVpZSpNO7RLRRwzN5mQ/iNZJqY8pCmwZK97SEaTLFSuVhkSoEjgToqkWP8IOjdV9ZA88KKUExssZshBBPfr0B0mDTxpAYxbaWvasCuIMwz7M7LrHn2Vcm2dWuTf1OMUfeQgYdRnuk6NR0dEI10U2vM=;gGfOwww/TTIkiDmmLgz2/Q=="
 ---
 

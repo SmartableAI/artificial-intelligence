@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/news/singapore/autonomous-robot-de
 webUrl: "https://www.channelnewsasia.com/news/singapore/autonomous-robot-delivery-punggol-imda-otsaw-camello-14382374"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 991
     height: 557
     isCached: true
+
+related:
+  - title: "Robots to provide on-demand delivery services in Punggol"
+    excerpt: "The trial is expected to pave the way for wider use of autonomous robot “couriers” in making on-demand deliveries for food, medicine, and everyday needs."
+    publishedDateTime: 2021-03-12T07:56:00Z
+    webUrl: "https://www.techinasia.com/robots-provide-ondemand-delivery-services-punggol"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
 
 secured: "//E/YPWUoLFe9FX6nWgKrEs6Pp+BxH4JVxIK9IZbtxx086ozenX0A3zq5xakZENRdSrHp+pg0ZpzyLAtV4VrFTV3DkMV9Ec+byzvEo8WotT+VQ8+awbk4qYTDwCnQgBiIh+fzGSO4qI0svKqS6t2E5vnuXF4rxIKb70cJbi+Kz6Pqm3xS1FbsE+btTwkF7zOkExmiqyUbBLi5gbYyCfvGScGlxw/v5G6QDbm9eUjZaXWyV/Nur0T0dZsI8plxzD0hgAz4HI7SFCKe1yjx/JrkEnppN4JXWbfn8O3VNHLgBGbU21iIUV7wuLznIgI/Fu/JYugH/M4377zhY2U4d2JEJU9eueT1mxBLBqRov2SPX4=;THRsfGNaxhpRkW5HvsiQVQ=="
 ---

@@ -26,11 +26,11 @@ images:
 
 related:
   - title: "Lexalytics® Announces New Partnerships to Improve Insights, Efficiencies and Patient Outcomes in AI for Medical Affairs Programs"
-    excerpt: "March 10, 2021 /PRNewswire-PRWeb/ -- Lexalytics®, the leader in \"words-first\" machine learning and artificial intelligence, announced today ... and has led teams in multiple therapy areas, developing scientific and clinical information, and communicating ..."
+    excerpt: "Lexalytics®, the leader in \"words-first\" machine learning and artificial intelligence, announced today it is partnering ... and has led teams in multiple therapy areas, developing scientific and clinical information, and communicating it to the medical ..."
     publishedDateTime: 2021-03-10T14:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/n20098766/lexalytics-announces-new-partnerships-to-improve-insights-efficiencies-and-patient-outcomes-in-ai-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20098766"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20098766"
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20098785/lexalytics-announces-new-partnerships-to-improve-insights-efficiencies-and-patient-outcomes-in-ai-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20098785"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20098785"
     type: article
     provider:
       name: Benzinga.com

@@ -66,14 +66,19 @@ related:
       domain: benzinga.com
     quality: 6
   - title: "Cybersecurity Industry’s Most Comprehensive Guarantee and Warranty Announced by Deep Instinct and Backed by the Munich Re Group"
-    excerpt: "The first cybersecurity company to back its product with a performance guarantee, plus a ransomware warranty – up to $3 million per company."
-    publishedDateTime: 2021-03-11T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210311005335/en/Cybersecurity-Industry’s-Most-Comprehensive-Guarantee-and-Warranty-Announced-by-Deep-Instinct-and-Backed-by-the-Munich-Re-Group"
+    excerpt: "Deep Instinct, the leader in deep learning-based cybersecurity, is the first company to back its product with a performance guarantee that ensures an incredibly low false positive rate, plus a ransomware warranty that is three times higher than any other ..."
+    publishedDateTime: 2021-03-12T07:44:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-malware-insurance-industry-5bc61440fa30445ba044ad7cf6abadd4"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "zv1gntViwcDM2iVN8fDn8INwzTH6p7Avrw5Z4fqo70yXBRPFfiVXxDovh5TJZjJlLm8JE3oeZRVIvRa27qNqZfkla5xP+YhZtAsME2SGRwCozis7LnzGMT3qxVyNT2sPzI//qnX5VCoNd4NCk8gP/eY/m524K4hxBXOGbNXRCooPuYdYi0gFoMRIXfYntm/vTbm60FnjMJhMjTKwNXu/kQ69GnX7+1hYQYf/Rjdo3kUr/xP5QqcnYZlzoQnCfs2ONHf3OhdAbeiK3aaBRaVQzrHHsX/wGgvOEF87Zv9W0M0IAWDMWRiHTVxlxt7Q3G5afmNt/Dq61gYOQeeoqIH1XcsJK+RJDEkT8pMm+q33H1s=;e032lrpel9dWxxfMn4PHDQ=="
 ---

@@ -109,22 +109,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Tesla's Update FSD Beta V8.2: Just How Good Is This Self-Driving Tech?"
-    excerpt: "Tesla launched its FSD Beta system a few months ago. Since then, it has been updating it regularly. Let's take a look at the latest update."
-    publishedDateTime: 2021-03-07T15:05:00Z
-    webUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/"
-    ampWebUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/Xx2gE/s1/tesla-fsd-beta-night.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla Admits Full Self-Driving is Just Level-2 Autonomy"
     excerpt: "Tesla has often been criticized for misleading customers with its so-called Autopilot system, but now with the “Full-Self Driving Capability” option, things are even worse. In a letter sent to California's Department Of Motor Vehicles (DMV) and later published on Twitter,"
     publishedDateTime: 2021-03-10T18:45:00Z

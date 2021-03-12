@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -164,6 +164,20 @@ related:
       - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "FinTech Buddy Loan offers 2x higher disbursal rate on personal loan app"
+    excerpt: "Bangalore-based FinTech start-up, Buddy Loan, a personal loan aggregator cofounded by entrepreneur duo Srikanth Bureddy and Satish Saraf, offers 2x higher disbursal rate than the industry standards through an Artificial Intelligence (AI) powered platform."
+    publishedDateTime: 2021-03-12T07:54:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-buddy-loan-offers-2x-higher-disbursal-rate-on-personal-loan-app/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/02/tZERO-.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "IWD 2021: No more talking, it's time for action on female representation in fintech"
     excerpt: "2020 may have been a year of challenge, but it proved that above all else, digital resilience will remain foundational, not only to female financial inclusion, but to female representation across the fintech sector."

@@ -175,6 +175,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "FinTech Buddy Loan offers 2x higher disbursal rate on personal loan app"
+    excerpt: "Bangalore-based FinTech start-up, Buddy Loan, a personal loan aggregator cofounded by entrepreneur duo Srikanth Bureddy and Satish Saraf, offers 2x higher disbursal rate than the industry standards through an Artificial Intelligence (AI) powered platform."
+    publishedDateTime: 2021-03-12T07:54:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-buddy-loan-offers-2x-higher-disbursal-rate-on-personal-loan-app/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/02/tZERO-.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
     excerpt: "The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
     publishedDateTime: 2021-03-10T19:01:00Z

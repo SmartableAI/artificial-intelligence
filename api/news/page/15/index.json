@@ -649,6 +649,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-26-driverless-bus-hits-streets-of-malaga-in-southern-spain.md",
+      "title": "Driverless bus hits streets of Malaga in southern Spain",
+      "excerpt": "The bus uses artificial intelligence to improve its \"decisions ... 60 passengers and was developed by Spanish firm Irizar. Other driverless pilot projects already exist in Europe, but none ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/world/europe/driverless-bus-hits-streets-of-malaga-in-southern-spain",
+      "originalUrl": "https://www.straitstimes.com/world/europe/driverless-bus-hits-streets-of-malaga-in-southern-spain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/26/2021-02-24t162613z_1541090307_rc24zl9hcwl2_rtrmadp_3_spain-bus.jpg?itok=8rQNXPH0",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T09:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-nano-coatings-robots-need-protection-too.md",
       "title": "Nano Coatings: Robots Need Protection, Too",
       "excerpt": "Robots rely on electrical circuits of varying complexity to control their parts ... The engineering team at Sarcos kept that requirement in mind when considering printed circuit board assemblies ...",
@@ -688,49 +731,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-driverless-bus-hits-streets-of-malaga-in-southern-spain.md",
-      "title": "Driverless Bus Hits Streets Of Malaga In Southern Spain",
-      "excerpt": "A new driverless electric bus has begun operating ... he told AFP. The bus uses artificial intelligence to improve its \"decisions\" based on data recorded along the route. The 12-metre (39-foot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166",
-      "originalUrl": "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/25/the-electric-powered-vehicle-operates-autonomously-but-a.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },

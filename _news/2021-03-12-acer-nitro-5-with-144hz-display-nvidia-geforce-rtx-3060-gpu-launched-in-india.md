@@ -1,27 +1,33 @@
 ---
 category: news
-title: "VMware-Nvidia alliance expands with new vSphere GPU support"
-excerpt: "The virtualisation giant announced the expanded alliance with Nvidia Tuesday, saying that the GPU maker has exclusively certified VMware’s vSphere 7 Update 2 to support the new Nvidia AI Enterprise offering,"
-publishedDateTime: 2021-03-10T01:18:00Z
-originalUrl: "https://www.crn.com.au/news/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support-561955"
-webUrl: "https://www.crn.com.au/news/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support-561955"
+title: "Acer Nitro 5 with 144Hz display, NVIDIA GeForce RTX 3060 GPU launched in India"
+excerpt: "Acer Nitro 5 is the latest gaming laptop from the band in the affordable Nitro series. Priced under Rs 90,000, the Acer Nitro 5 comes with NVIDIA GeForce RTX 3060 GPU, runs on Windows 10 OS out of the box and comes with a high refresh rate display,"
+publishedDateTime: 2021-03-12T07:07:00Z
+originalUrl: "https://www.techradar.com/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
+webUrl: "https://www.techradar.com/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
+ampWebUrl: "https://www.techradar.com/amp/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
 type: article
-quality: 39
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: CRN Australia
-  domain: crn.com.au
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://i.nextmedia.com.au/News/20210310121806_CRN_690_server_data_centre2.jpg"
-    width: 690
-    height: 428
+  - url: "https://cdn.mos.cms.futurecdn.net/QKVQ47MGvwAfBnw7XZK8oP-480-80.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -40,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/NVIDIA-VMwareAI-ReadyPlatform.png?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Acer Nitro 5 with 144Hz display, NVIDIA GeForce RTX 3060 GPU launched in India"
-    excerpt: "Acer Nitro 5 is the latest gaming laptop from the band in the affordable Nitro series. Priced under Rs 90,000, the Acer Nitro 5 comes with NVIDIA GeForce RTX 3060 GPU, runs on Windows 10 OS out of the box and comes with a high refresh rate display,"
-    publishedDateTime: 2021-03-12T07:07:00Z
-    webUrl: "https://www.techradar.com/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
-    ampWebUrl: "https://www.techradar.com/amp/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 85
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/QKVQ47MGvwAfBnw7XZK8oP-480-80.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "VMware's vSphere software now certified to run Nvidia AI workloads"
     excerpt: "The new Nvidia software suite, officially named Nvidia AI Enterprise, aims to give enterprises the ability to develop AI software for a range of applications."
@@ -81,6 +71,20 @@ related:
       - url: "https://www.crn.com/resources/0267-11c165ea7765-370b2300876b-1000/nvidia-vmwareai-readyplatform.jpg"
         width: 610
         height: 457
+        isCached: true
+  - title: "VMware-Nvidia alliance expands with new vSphere GPU support"
+    excerpt: "The virtualisation giant announced the expanded alliance with Nvidia Tuesday, saying that the GPU maker has exclusively certified VMware’s vSphere 7 Update 2 to support the new Nvidia AI Enterprise offering,"
+    publishedDateTime: 2021-03-10T01:18:00Z
+    webUrl: "https://www.crn.com.au/news/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support-561955"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210310121806_CRN_690_server_data_centre2.jpg"
+        width: 690
+        height: 428
         isCached: true
   - title: "Nvidia Launches AI Enterprise Suite for VMware vSphere"
     excerpt: "Nvidia said it would also support vSphere customers that acquire licenses for its new AI software suite. The new Nvidia VMware collaboration gives vSphere hypervisor support for migrating to multiple GPU instances, allowing partitioning of A100 GPUs to as ..."
@@ -111,6 +115,6 @@ related:
         height: 414
         isCached: true
 
-secured: "RPZ9IBW5tOXqwvU3PpmHOdA0Ge3T5MrWr6DqdjPXFtxK5lyPCMZ09ci6teTqj4G1clqBl04cJB0gqgn8WTAh6Ve9t4+OtT78TwiX9hqtICH1hV6DOvuYB3tzzNyfe2pYTSZQSpNGwpq5ptbl9ypHCh4SXkO4LT062yQS0haBEgsGDECb3rM/c+vZsFLRbxyYKaE4tNOJBeoedRRi942PypPOAM0qQf5lrPzPYMWU4DG2jw7RPVvNqbLTJiXAdYe7J/C69VulchutOaaIH2TzUDFhuu7aqsO6ROBhVnYIywLwdUcraEmdbC9HmuuF+jQUdUmV0lOUJ3UTQbiUiYFDco8GqsgwFD6rXsn7zARX1FY=;b4Sq+KJosZjQYGHLvlfCpA=="
+secured: "uXyFfmzazfZUXB58Zle4IpLWYvGvfmZUVZKiiRIYoqfIO4efxQMMwIcoCsmFgxs24SPkn6GWs5i+1k+r3zBR+CkO9tmkdWfcg91wErmILG0Hd4VCLSMfZAx+b4hutEF2BWvXXJonGnWtEOHpM0TLo/YA6YfDGs3B2zeScSrF5fEwojDBCPrWdARPmpv22T8M4ena9mZxRGtynOJ9NKQ4Yo6dYG+fK2LlV9OWKs2t84btB85HVcmqIBrmJdLprgxSAljFQqOv2rOd919y27FXEvbB0LNrfG47wtD1dJQAvsWRUUO56W2ADyQHoTSABqNO8xNw8MelxqHvo1SIMN7SfW+I/h6hv9rptA1uucMu+xI=;4x5EVefl1yeA3BLYbiVcBA=="
 ---
 

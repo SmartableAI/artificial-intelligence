@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Acer Nitro 5 with 144Hz display, NVIDIA GeForce RTX 3060 GPU launched in India"
+    excerpt: "Acer Nitro 5 is the latest gaming laptop from the band in the affordable Nitro series. Priced under Rs 90,000, the Acer Nitro 5 comes with NVIDIA GeForce RTX 3060 GPU, runs on Windows 10 OS out of the box and comes with a high refresh rate display,"
+    publishedDateTime: 2021-03-12T07:07:00Z
+    webUrl: "https://www.techradar.com/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
+    ampWebUrl: "https://www.techradar.com/amp/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 85
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/QKVQ47MGvwAfBnw7XZK8oP-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "VMware's vSphere software now certified to run Nvidia AI workloads"
     excerpt: "The new Nvidia software suite, officially named Nvidia AI Enterprise, aims to give enterprises the ability to develop AI software for a range of applications."
     publishedDateTime: 2021-03-10T02:05:00Z

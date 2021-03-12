@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Cybersecurity Industry’s Most Comprehensive Guarantee and Warranty Announced by Deep Instinct and Backed by the Munich Re Group"
-excerpt: "The first cybersecurity company to back its product with a performance guarantee, plus a ransomware warranty – up to $3 million per company."
-publishedDateTime: 2021-03-11T19:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210311005335/en/Cybersecurity-Industry’s-Most-Comprehensive-Guarantee-and-Warranty-Announced-by-Deep-Instinct-and-Backed-by-the-Munich-Re-Group"
-webUrl: "https://www.businesswire.com/news/home/20210311005335/en/Cybersecurity-Industry’s-Most-Comprehensive-Guarantee-and-Warranty-Announced-by-Deep-Instinct-and-Backed-by-the-Munich-Re-Group"
+excerpt: "Deep Instinct, the leader in deep learning-based cybersecurity, is the first company to back its product with a performance guarantee that ensures an incredibly low false positive rate, plus a ransomware warranty that is three times higher than any other ..."
+publishedDateTime: 2021-03-12T07:44:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-malware-insurance-industry-5bc61440fa30445ba044ad7cf6abadd4"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-malware-insurance-industry-5bc61440fa30445ba044ad7cf6abadd4"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Cloud cybersecurity startup Lumu raises a $7.5 million Series A"
@@ -72,6 +78,6 @@ related:
       domain: benzinga.com
     quality: 6
 
-secured: "tE13G25HJtx/9Onwv6munK8fwAADkjsb4HNNKwcCRynwBMdKoDWRPQROhaHsV4iFdWqMbaEY730p1zL5eyBu5JIK+xkwTOg8JXBaoRVTbRIgxBIcZzpPAhTqv8wgumAMuph89h/RGhuzK9xs6T6phlqzdf7KJUuWi6d4jSmtD8hz+FRVo+JBj07UAkAa+6mPjiMrMUj6eUn8Zqz1JZgwr4xrDW6qGppQ6uaCkXaKCIYdERHXkZgPOjKB5iRlmTLUvX3Smn8rRaBHz7HMIXfAXRKh14fMrvx/yqaP1MfWqz4hEumrwvTwdaz3SvK6hZWPqXqmf40dTWSwsMHfY/w0ZZ13azhxWYCeqPeDnfYUvPY=;MAB53hiNcerzB8fSqUxYUQ=="
+secured: "MNYjbC3C5iwfm9Ns3JuxQYNGv98+hzDOy5tvhnUMMwECRzytrjbC5R/GP3sGBz8/SPiAaLLxz6N8xP85+gFKkYRCdrPZp9GVeV0Fw8zNFbVPhYl358hJzCsg0AZY4ffdjcXO93r5enTzZ3OmK6mV1R+IHHfQj3F9qy/7vq9fz1ywvryz5FSSH0b1pFOINMhzyjmaDrGDsyYz1IIIXurIl2hzwiO9OJ+M1fZNlt3Yi+goXq691qUi6XsfgEtNhwZFV7ysdJOV/o/HJVHoeDhUqkdrQxPylB9W39UG/o0MSfNihTXdhCC0mhfoAq2Fa11wcbiMEFVFAuOtI9QmouHD49tJw+t7J568EKlxgcvA18U=;mf93Nr2nTkZDPavejG777A=="
 ---
 
