@@ -81,6 +81,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 38
+  - title: "Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security"
+    excerpt: "Mavenir, the industry’s only end-to-end cloud-native Network Software Provider and a leader in accelerating software network transformation for communications service providers (CSPs), announced today its extended Artificial Intelligence (AI) and Analytics portfolio to enable closed-loop automation and drive digital transformation."
+    publishedDateTime: 2021-03-12T06:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-communication-technology-software-industry-250871eff3b2455482960cc3052e0395"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Strategy Analytics: 71% of Smartphones Sold Globally in 2021 will be AI Powered"
     excerpt: "Global Smartphone Virtual Assistant Penetration in 2021 (Graphic: Business Wire) “Strategy Analytics estimates that 71% of all smartphones sold worldwide in 2021 will have on-device AI,” says Associate Director Ville-Petteri Ukonaho."
     publishedDateTime: 2021-03-10T05:51:00Z

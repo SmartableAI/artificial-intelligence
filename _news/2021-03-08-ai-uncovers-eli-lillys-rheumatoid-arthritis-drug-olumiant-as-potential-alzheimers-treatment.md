@@ -40,35 +40,19 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Artificial Intelligence reveals current drugs may help combat Alzheimer's"
-    excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.  The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
-    publishedDateTime: 2021-03-07T13:39:00Z
-    webUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663"
-    ampWebUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
+  - title: "HMS Researchers Use Machine Learning to Recommend Drugs for Alzheimer’s Disease Clinical Trials"
+    excerpt: "Harvard Medical School researchers developed a strategy that uses machine learning to recommend drugs as candidates for clinical trials for Alzheimer’s disease, according to an article published in the journal Nature Communications last month. A team of ..."
+    publishedDateTime: 2021-03-12T06:18:00Z
+    webUrl: "https://www.thecrimson.com/article/2021/3/12/machine-learning-alzheimers/"
     type: article
     provider:
-      name: WION
-      domain: wionews.com
-    quality: 58
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 27
     images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg?itok=cVucXcjV"
-        width: 918
-        height: 506
-        isCached: true
-  - title: "AI reveals current drugs that may help combat Alzheimer's"
-    excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
-    publishedDateTime: 2021-03-07T14:35:00Z
-    webUrl: "https://menafn.com/1101712021/AI-reveals-current-drugs-that-may-help-combat-Alzheimers"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?870845"
-        width: 552
-        height: 250
+      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2020/03/27/182039_1343628.jpg.2000x1333_q95_crop-smart_upscale.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "rH+UPBQPYoTGOElY95HXWZTwC3ohVdNX5AEv2TLNNQLg7rcoxBC3uFFlFH9y+vaevRmH1GEb5XhjecjHFARfzn7CWR5D8w6Gd3HEH/jcyxCYb+kABW+SpldyUncMPTBZXNTTyEDHHMQAOQIGBFEUKYQQdgKZETFAhMn3XZ9n6DIj3xOZiWfcSS07IKyzArGkSaBazDYvk0ViKk2Q0l+7j1wycu1Rkz8dXKTpVof3SIYp6YsGHhsOIueYQPN+i2P4aE0gU7f8laD1SsXF32jyV57mq4Cw9VRN4JJytXnukYsuD5NW4qGxZQJlCkRntkknYBXFxMz2zuB2mZTZeRbkVExs9ZRaeEvAyK1hzXD6+Sc=;rjQHMqz5L382dcYHCVCBcw=="

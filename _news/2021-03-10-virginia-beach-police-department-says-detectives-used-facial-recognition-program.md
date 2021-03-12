@@ -9,8 +9,8 @@ ampWebUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-d
 cdnAmpWebUrl: "https://richmond-com.cdn.ampproject.org/c/s/richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Richmond
@@ -27,6 +27,52 @@ images:
     isCached: true
 
 related:
+  - title: "Department says detectives used facial recognition program"
+    excerpt: "Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report. In February 2020 and again in September,"
+    publishedDateTime: 2021-03-10T07:02:00Z
+    webUrl: "https://www.chron.com/news/article/Department-says-detectives-used-facial-16014445.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Department-says-detectives-used-facial-16014445.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Department-says-detectives-used-facial-16014445.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Gambling, rural vaccinations and facial recognition: Down in Alabama"
+    excerpt: "Also: The Alabama National Guard joins the vaccination effort, and Redstone Arsenal is employing facial-recognition technology. The “Down in Alabama” podcast is short and free. Listen to it by clicking on the player above or subscribe by looking for “Down in Alabama” on the device of your choosing."
+    publishedDateTime: 2021-03-11T05:33:00Z
+    webUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EQIGEHXK2VFFFP5R6S3ODBTY4A.jpg"
+        width: 3723
+        height: 2094
+        isCached: true
+  - title: "Russian retailer launches facial recognition payment system"
+    excerpt: "Russia’s X5 group, the country's leading food retailer, announced Wednesday the launch of a facial recognition payment system, the latest expansion of a technology that has sparked privacy and security concerns."
+    publishedDateTime: 2021-03-11T00:14:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/11/russian-retailer-launches-facial-recognition-payment-system"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/11/1072735.jpg"
+        width: 1240
+        height: 827
+        isCached: true
   - title: "Virginia Beach Police Department admits detectives used facial recognition program"
     excerpt: "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report."
     publishedDateTime: 2021-03-10T14:31:00Z

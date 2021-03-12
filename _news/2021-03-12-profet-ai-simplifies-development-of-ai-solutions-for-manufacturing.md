@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-12T02:56:00Z
 originalUrl: "https://www.digitimes.com/news/a20210310PD206.html"
 webUrl: "https://www.digitimes.com/news/a20210310PD206.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.digitimes.com/newsshow/20210310PD206_files/2_b.jpg"
@@ -23,6 +24,6 @@ images:
     height: 427
     isCached: true
 
-secured: "WagkkPer3WurPyo0TXcxH8dPPaw5shxqs0ukqjhPTPmAekgOAQT/1XQDd+KF1n/yhpcAY43eEBLihnw7a9LBjWVXWcM2RkOEEyuy8/njuDRcycP7xKg07WNbdrL3fcZYxEjK2iNX2XAwONAM8HWU3Lz3fTUhf1+pbBmqw82hDhxVK0tomIjY++wqM/8qk+ZyBE4MkYKDx3k1obiBHHeGIUHNOVktBE03ufhzLDcYukuqAq33uH2r2a/PTpqCG+DdsYC1Gf4zqwXME7sA218fOt6C7mMdwVPcsffJiY2QS02BvNpGmiCdSR7Q9/xmv308jtApfRd0mioqNeQHe/bLpCxnZ9K+AAA5rO7QnPeVvd8=;pQdBOdxUiuxy9vJ1tZoheg=="
+secured: "sBTlkg/TiPv0t6RTxhpvG/j9Yz/atVBUHa8CIP9kRV6GSc3OoSdL1S/H7AB3xo1JWSXSI4pqaPsvd/hjZkMStmYiP70f0t62zpIqRpGEhvE3Fk/eOCZW7PX7S06mpJn6Gx9R+iKenSwXOqQMk/8xGiF0t0s5vXFBec/rDvzfe8+DY7Yh045a4ACDOppvLp7i+QpkXJfiCPL8Sp95/SAxfoFqy8uO1VqgvLT4jBS1rAoPaW5weiMmQ4kJm6wUKcu7HobCex7vYwo6R2kv8b41covODhgn3Z+5F6YScsL59aFWIDbbSwUuycoCtSLkVauI67d9R+kGNSjN8WGyuPOX/aB/klPWShyn1PV9KB9iqmj/NWyvrkEtuTuxIyHZLlfrPz9OjxIpqkcaTufrICFbaA4kzZbuJ0FPvpFmRveYUO7UYEjjoNbnedYSgNujvuQMMYrE+J2N2jweXU2c5Run6nx7AbgAigpNtVGC1P6IiohsmnTtYZdRLSZTs7oO4SXa682MNucCvZdin5PCfQBwrQ==;/18xvsz6ZyaCnTMHaHuCTQ=="
 ---
 

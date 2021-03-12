@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-12-artificial-intelligence-that-more-closely-mimics-the-mind.md",
+      "title": "Artificial intelligence that more closely mimics the mind",
+      "excerpt": "Nara Logics, co-founded by MIT alumnus Nathan Wilson PhD ’05, is attempting to mimic the brain with an AI platform powered by an engine it calls Nara Logics Synaptic Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/nara-logics-ai-0312",
+      "originalUrl": "https://news.mit.edu/2021/nara-logics-ai-0312",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202103/MIT-Nara-Logics-01-press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-hepion-pharmaceuticals-to-present-on-crv431-and-ai-powtm-at-nash-tag-2021.md",
       "title": "Hepion Pharmaceuticals to Present on CRV431 and AI-POW(TM) at NASH-TAG 2021",
       "excerpt": "EDISON, NJ / ACCESSWIRE / / Hepion Pharmaceuticals, Inc. (NASDAQ:HEPA) (\"Hepion\"), a clinical stage biopharmaceutical company focused on Artificial Intelligence (\"AI\")-driven therapeutic drug development for the treatment of non-alcoholic steatohepatitis (\"NASH\") and liver disease,",
@@ -200,7 +252,7 @@
       "originalUrl": "https://www.thestatesman.com/lifestyle/health/ai-reveals-current-drugs-may-help-combat-alzheimers-1502956149.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1393,49 +1445,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-role-of-artificial-intelligence-chatbots-in-ensuring-access-to-mental-healthcare.md",
-      "title": "Role of artificial intelligence chatbots in ensuring access to mental healthcare",
-      "excerpt": "Mental well-being is fundamental to living an optimal life. Everyone should have access to quality mental healthcare and technology has to be used",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/role-artificial-intelligence-chatbots-ensuring-access-mental-healthcare/",
-      "originalUrl": "https://www.dqindia.com/role-artificial-intelligence-chatbots-ensuring-access-mental-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/chatbot-3936760_640.jpg",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/role-artificial-intelligence-chatbots-ensuring-access-mental-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/role-artificial-intelligence-chatbots-ensuring-access-mental-healthcare/amp/",
-      "publishedDateTime": "2021-02-20T00:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
         "images": null,
         "publishers": null,
         "authors": null

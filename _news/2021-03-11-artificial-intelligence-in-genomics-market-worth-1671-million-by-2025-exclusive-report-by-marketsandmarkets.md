@@ -34,6 +34,15 @@ related:
         width: 650
         height: 477
         isCached: true
+  - title: "Artificial Intelligence In Healthcare Market to Hit $31.20 Bn By 2028"
+    excerpt: "The global Artificial Intelligence In Healthcare market size is expected to be worth around US$ 31.10 billion by 2028, according to a new report by Vision Research Reports. The global Artificial Intelligence In Healthcare market size was valued at US$ 2."
+    publishedDateTime: 2021-03-12T06:05:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/138491/artificial-intelligence-in-healthcare-market-to/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 34
   - title: "Artificial Intelligence in Genomics Market worth $1,671 million by 2025 - Exclusive Report by MarketsandMarketstm"
     excerpt: "According to the new market research report \"Artificial Intelligence In Genomics Market by Offering (Software, Services),Technology (Machine Learning, Computer Vision), Functionality (Genome Sequencing,"
     publishedDateTime: 2021-03-11T14:42:00Z

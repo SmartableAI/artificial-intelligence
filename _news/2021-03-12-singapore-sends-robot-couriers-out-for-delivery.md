@@ -2,11 +2,11 @@
 category: news
 title: "Singapore sends 'robot couriers' out for delivery"
 excerpt: "Two autonomous robots have be rolled out in a pilot to facilitate on-demand food and grocery deliveries within a trial area comprising 700 residential households, though, the Singapore government hopes it can lead to a wider deployment to offer more flexible delivery service."
-publishedDateTime: 2021-03-11T18:53:00Z
-originalUrl: "https://www.zdnet.com/article/singapore-sends-robot-couriers-out-for-delivery/"
-webUrl: "https://www.zdnet.com/article/singapore-sends-robot-couriers-out-for-delivery/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/"
+publishedDateTime: 2021-03-12T01:53:00Z
+originalUrl: "https://www.zdnet.com/index.php/article/singapore-sends-robot-couriers-out-for-delivery/"
+webUrl: "https://www.zdnet.com/index.php/article/singapore-sends-robot-couriers-out-for-delivery/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/"
 type: article
 quality: 69
 heat: 69
@@ -24,6 +24,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "2dKSz/0wPQqU70mUQKT2zUVFhaXp2HJWT4rjUfyw4m+JUTG1UXQzK8q6oPASDfE9Wtz3ZgWIw1deAwtq8k2tDEwFDTr/h6/Er9BeROsXNHH+rV5w3y+u61dpnpa1xKQeD10RAfpdf7GJw2je6wnyC+7U0GYFXFs3Qdxp5fLIIpvzzOEIy686yS8aR6lKO7Q809/cNMXwVgvAD4qnWRhMgbVT+hJ0jFvMaGPnS2Xlu77wst646lWh5RBSbKqkd0+e0biRv+SqZDidxjqQXTADnOtqyAvznzraJXjsu//D7FhK5LchnHEQpoBKkCyjhac+HfmVKakikzDHhRumAShm1bMp4zs686gbrSakhvTDbNo=;fOFjdNYyviiMOU0qaXIT/A=="
+secured: "O9HtgbDDwHqVqhhX9XCAco3rq0sgegCupi5qj2Mvy59HBuPCKjk3oDn4povkNZhxRb+uS2KPB2cFABTplio+UibAAmTJebihEjtpce+WH2Kyk1Mg5jlXGokHxVBGjRcsLutszoVgCZ3UbdBYtPcSR2TWV1h8MHgl3cNY6uYS2qNq+XpvqejVmMKNvMUKZ5xEH9/TO9GQ5pJzDJ52XWP9EpITKHXbMbOOTzDtq6pirhnYdyhMQXxHsiBORfhUZzko4NDv8XhJYuOtCFbgRzQl4ALDpXYg3wH8fwTGtvC3NEDBVvA2d/cPgQuU9wxlj12sq8akk7Xk4SNhRLZRQ97awArEM8Z6GlYWWjrbhr11lwvoCNNhH8qci+T+qQdl654Krk0E4c/aGPzgTUMpxdGiSsc5G2ztIuwIsWWcRIBBxusXr5CkP5berJKyI3DWNK30ulpLkCafPPOGdL+irmDEMaVlql1IdD018f6Kn8yIqzZpR3cwjFr0kesferB6foTzqxNgeT2RhsgnAZUNUxS4pQ==;xmHMRUk6JnbdkNZUXuwupQ=="
 ---
 

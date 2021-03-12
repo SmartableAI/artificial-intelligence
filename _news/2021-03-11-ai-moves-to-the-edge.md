@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Using the power of artificial intelligence to detect disease"
-    excerpt: "A large international collaboration, led by A/Prof Xiu Ying Wang and Prof Manuel Graeber of the University of Sydney, has developed an innovative, advanced artificial intelligence (AI) application, PathoFusion,"
-    publishedDateTime: 2021-03-11T14:01:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp"
+  - title: "Artificial intelligence that more closely mimics the mind"
+    excerpt: "Nara Logics, co-founded by MIT alumnus Nathan Wilson PhD ’05, is attempting to mimic the brain with an AI platform powered by an engine it calls Nara Logics Synaptic Intelligence."
+    publishedDateTime: 2021-03-12T05:13:00Z
+    webUrl: "https://news.mit.edu/2021/nara-logics-ai-0312"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 69
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
-        width: 1920
-        height: 1897
+      - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Nara-Logics-01-press.jpg"
+        width: 1500
+        height: 1000
         isCached: true
 
 secured: "2TZQwk5PCak1sY5STzrGNl4vEd5nJZygyrJgfZEmHFZZMZItKuv/hUIUm6Y4yAJ6Fkwlsa8XcA89yPYoXfq0+tBXk8ENmCMyF0ScNqkuhP1p+R5ylN9YO+TOumIYJ1WtyuPxuWqQtPOrY7J8yB3I55IcbWwq6WLR/T/LqY21rEcdtFL+98H3hc23EmxpdKE3weXaVhZtthHY4Q85AUIbP8KmnuRRDt7SVXCRocScoxvIwT45ltfWXfDbgbA3t17PdCOVAaL3TGgiAJEajOFkLi2G/lIlaZehAP51evfXEN4Vs7EWfqKNS5KRPUL6dsjBBEy59fG2V1yJ8RDtT3gxHuKvEQXmON58SZrz0O7I8bQ=;9GLqSoiGwtM41CDDltnZbQ=="

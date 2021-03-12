@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/"
 type: article
 quality: 82
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 38
+  - title: "Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security"
+    excerpt: "Mavenir, the industry’s only end-to-end cloud-native Network Software Provider and a leader in accelerating software network transformation for communications service providers (CSPs), announced today its extended Artificial Intelligence (AI) and Analytics portfolio to enable closed-loop automation and drive digital transformation."
+    publishedDateTime: 2021-03-12T06:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-communication-technology-software-industry-250871eff3b2455482960cc3052e0395"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI Diagnostics Firm Ibex Medical Closes $38M Funding Round"
     excerpt: "Ibex Medical develops clinical-grade, AI-based solutions that help pathologists detect and grade cancer in biopsies."
     publishedDateTime: 2021-03-10T08:12:00Z

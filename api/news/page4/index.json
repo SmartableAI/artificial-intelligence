@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-09-ais-impact-on-businessesand-jobs.md",
+      "title": "AI’s Impact on Businesses—and Jobs",
+      "excerpt": "And start the retraining ... What kinds of AI innovation are you seeing? DR. LEE: Well, I’m based in China, and as you know, China’s the world’s factory. So I would say in the past year, the most exciting things I’ve seen are robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ais-impact-on-businessesand-jobs-11615234143",
+      "originalUrl": "https://www.wsj.com/articles/ais-impact-on-businessesand-jobs-11615234143",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-307944/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ais-impact-on-businessesand-jobs-11615234143",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ais-impact-on-businessesand-jobs-11615234143",
+      "publishedDateTime": "2021-03-08T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-army-collaborates-with-spelman-college-on-ai-machine-learning.md",
       "title": "Army collaborates with Spelman College on AI, machine learning",
       "excerpt": "An Army researcher recently briefed students and faculty at Spelman College on artificial reasoning as a part of an Office of the Secretary of Defense artificial intelligence and machine learning initiative.",
@@ -951,7 +1003,7 @@
       "originalUrl": "https://www.thestatesman.com/lifestyle/health/ai-reveals-current-drugs-may-help-combat-alzheimers-1502956149.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1194,49 +1246,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-seminar-on-artificial-intelligence-in-education.md",
-      "title": "Seminar on artificial intelligence in education",
-      "excerpt": "A three-day online international seminar on ‘Artificial intelligence in education’ will begin on Monday. Being organised by the State Institute of Educational Technology, in association with the Depar",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece/amp/",
-      "publishedDateTime": "2021-03-07T11:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],
