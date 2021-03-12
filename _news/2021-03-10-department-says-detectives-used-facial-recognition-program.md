@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/news/amp/Department-says-detectives-used-facia
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Department-says-detectives-used-facial-16014445.php"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/f4/9f436ad0-5dab-5c5c-a1a4-904d60fa0b88/6048daf645b0e.image.jpg?resize=1024%2C422"
         width: 1024
         height: 422
+        isCached: true
+  - title: "Department says detectives used facial recognition program"
+    excerpt: "Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to"
+    publishedDateTime: 2021-03-10T18:59:00Z
+    webUrl: "https://apnews.com/a055525f5ffd6ad63ce115961b96180c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Virginia Beach police admit officers tried a controversial facial recognition program the force had denied using"
     excerpt: "Detectives used an app by Clearview, which offers free trials in an effort to hook departments. Because of the controversy, a supervisor rejected the detectives' request to sign up for the paid version."

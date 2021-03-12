@@ -9,8 +9,8 @@ ampWebUrl: "https://www.physiciansweekly.com/enhancing-machine-learning-predicti
 cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/enhancing-machine-learning-prediction-to-improve-asthma-care-management/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Too Old to Operate
@@ -39,6 +39,20 @@ related:
     images:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-85150-4/MediaObjects/41598_2021_85150_Fig1_HTML.png"
         width: 662
+        height: 685
+        isCached: true
+  - title: "Predicting gastric cancer outcome from resected lymph node histopathology images using deep learning"
+    excerpt: "The ratio of tumour area to metastatic lymph node area (T/MLN) is a clinical indicator that can improve prognosis prediction of gastric cancer. Here, the authors use machine learning on whole slide images to generate a method that can predict metastatic ..."
+    publishedDateTime: 2021-03-12T10:23:00Z
+    webUrl: "https://www.nature.com/articles/s41467-021-21674-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-21674-7/MediaObjects/41467_2021_21674_Fig1_HTML.png"
+        width: 637
         height: 685
         isCached: true
 

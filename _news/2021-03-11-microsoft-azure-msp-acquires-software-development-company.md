@@ -119,6 +119,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market Next Big Thing | Major Giants- John Deere, Resson, Precision Hawk"
+    excerpt: "The research emphasizes elaboration of the Global Artificial Intelligence (AI) in Agriculture market strategy of"
+    publishedDateTime: 2021-03-12T10:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-next-big-thing-major-giants--john-deere-resson-precision-hawk-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "275PUaYTIbzbEesLMkezxKuRySIcLNnzJarcXOc3xZSDXFY9S7O9ZB5QdXxN2fAqMEaxczSAVXKjlm7zkV1DtXBrsT03MaHR8HSIS7aYM05yqjUew2jLcxvYwWOuw2xkzpn4bdNerbsr/3Oz+Ed9qTC9Yr4v5XtIQZX9PalfgKuXpeKHRKnALE2KN0c8cRtG+MPYx62NAZuZh5Nck5FTewI//KFZ+ZFNuy+PDkeUy5EEMlwcBPSk6WIOTIqivOio0VTV0XwJDHOCmR6Yoq769ucL3l+HVaZ06angvrQ7mm0pWLKHbsVNtkEk4sSoB4ij8cdSChjV7zn1FNsjONSGe04X+QTBvvtT4plrGayDRYdaNl8XxfUti99pYRUooveaoCpjhohrLsrR24+u0R5Fj9trz6s1qJ0RXSqMx4g+jJYvqPyRdkNCoOSYH36NuCFcpVaLU/6llofnSQxQzd6SkEVzpO5wJKppZe2x1Q8q9XbzyyBZxs92bbawj59nWp/U89Fj30G6NxVtqKrZtGnAYQ==;F5d737bkTyvegw0BCxg/Bw=="
 ---

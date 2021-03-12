@@ -2,6 +2,139 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-03-tensorflow-3d-deep-learning-for-autonomous-cars-3d-perception.md",
+      "title": "TensorFlow 3D: Deep Learning for Autonomous Cars’ 3D Perception",
+      "excerpt": "Google has released TensorFlow 3D, a library that adds 3D deep-learning capabilities to the TensorFlow machine-learning framework. The new library brings tools and resources that allow researchers to develop and deploy 3D scene understanding models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/03/tensorflow-3d-autonomous-cars/",
+      "originalUrl": "https://www.infoq.com/news/2021/03/tensorflow-3d-autonomous-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/03/tensorflow-3d-autonomous-cars/en/headerimage/TensorFlow3D-h-1614679548030.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
+      "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
+      "excerpt": "Kubeflow Components, a toolkit supporting the company’s AWS RoboMaker service for orchestrating robotics workflows. Amazon says that the goal is to make it faster to experiment and manage robotics workloads from perception to controls and optimization,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
+      "originalUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
+      "publishedDateTime": "2021-03-03T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript.md",
+      "title": "Ambarella, Inc. (AMBA) CEO Fermi Wang on Q4 2021 Results - Earnings Call Transcript",
+      "excerpt": "At the beginning of the year, we introduced our CV5 and artificial intelligence ... a global leader in driverless technology, has selected Ambarella’s CVflow family of AI processors.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "publishedDateTime": "2021-03-03T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-voice-and-speech-recognition-market-2019-global-industry-analysis-report-to-2025.md",
       "title": "Voice and Speech Recognition Market 2019: Global Industry Analysis Report to 2025",
       "excerpt": "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe. Integration of AI ...",
@@ -1066,155 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-voice-assistants-enable-enterprise-automation-crm-and-data-intelligence.md",
-      "title": "Voice assistants enable enterprise automation, CRM, and data intelligence",
-      "excerpt": "During the pandemic, enterprise users are increasingly adopting voice assistant technologies to accelerate workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/02/voice-assistants-enable-enterprise-automation-crm-and-data-intelligence/",
-      "originalUrl": "https://venturebeat.com/2021/03/02/voice-assistants-enable-enterprise-automation-crm-and-data-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/google-assistant-e1576024709186.jpg?w=1200&strip=all",
-          "width": 1197,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/02/voice-assistants-enable-enterprise-automation-crm-and-data-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/voice-assistants-enable-enterprise-automation-crm-and-data-intelligence/amp/",
-      "publishedDateTime": "2021-03-02T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-hunting-sexual-predators-a-political-fight-in-facial-recognition-legislation.md",
-      "title": "Hunting Sexual Predators A Political Fight in Facial Recognition Legislation",
-      "excerpt": "Political polarization over government use of facial recognition technology continues to mount, as Massachusetts became one of the first states to pass comprehensive regulations curbing law enforcement's use of the software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303",
-      "originalUrl": "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1715323/china-ai-security-cameras.jpg",
-          "width": 2500,
-          "height": 1569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1",
-      "publishedDateTime": "2021-03-02T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-qsrs-optimize-with-machine-learning-as-yum-brands-acquires-ai-company.md",
-      "title": "QSRs Optimize With Machine Learning As Yum! Brands Acquires AI Company",
-      "excerpt": "Yum! Brands, which owns KFC, Taco Bell, Pizza Hut and other multinational restaurant chains, will acquire AI analytics company Kvantum, Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/yum-brands-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
-      "publishedDateTime": "2021-03-02T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -3,11 +3,11 @@ category: news
 title: "Profet AI simplifies development of AI solutions for manufacturing"
 excerpt: "Profet AI has introduced AutoML, an automated machine learning platform to enable makers to develop AI-based solutions for manufacturing processes and management, according to company founder and president Jerry Huang."
 publishedDateTime: 2021-03-12T02:56:00Z
-originalUrl: "https://www.digitimes.com/news/a20210310PD206.html?chid=9"
-webUrl: "https://www.digitimes.com/news/a20210310PD206.html?chid=9"
+originalUrl: "https://www.digitimes.com/news/a20210310PD206.html"
+webUrl: "https://www.digitimes.com/news/a20210310PD206.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
   domain: digitimes.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -23,6 +24,6 @@ images:
     height: 427
     isCached: true
 
-secured: "K3N6Gkb7IfBdHC1uRdMqKNoFoWCOngncT1JdRXe9Y/MUrnBV6QTP24M6BgHeahvEW3a+vPCCotwQTkBNnHb1Fvmw2c6qDIaahcuIna0aj31P982HSCGVGCH+XvBqMjfjwxkKrn9GSCv5VbJ30mvR34BHenjAMhw3HrGt1QMxYmyXEUF+gxDaLpo+W1uHV7npIQu3zkVGOP3CwYA9UM/09ddXilxGo8CMNsa+DZsMRb+z2GtreWgwU7Sj8xC4QRlXFtbLa0HajtispwzlScJZ/U57rPIjQcU0vNzzaNMCkJ/qwoeQGxzzjA4TnpSL71CHUaPSKSEn6JrZ7JOK3bXkq5DjbLRaeTjpF14PwSPr+60=;wA9Ao1PgdRPCi/e4+x/nZw=="
+secured: "SYBNBx6scdb7sbL/LQmFeULg4SbzQiMM65uxHNiYSvqFmTEbnYK+Gr/ztLvIDQrBGV/R3NjUlLr5CejXjHV8GkbLdoME6oN6eKc1zh4U7yaobSEuzo6alkzdfNWXmCeFdUjBQZj3iCU0kusMInrXXoDDbWkTWAiB69EnayHDt9WkGVTcytogQDD5oWxIfQ77Obci8V2mlNR+fhBY6URzXRdMO/88q35rN+PQ0Rz7FF2f3AnsQ336sAL2eUMu3s+yBERQoP57QMBJcMAykXga2fVlx0FVzNObzD1XIxhbfs8btlBpadzoPqTUqrMtToO7Fi44Dhrh6wlmOSrEE8mvvMBGAnY7dNileMdpvfHOwPU=;TwodgAOuhpO38plS3Nxb8A=="
 ---
 

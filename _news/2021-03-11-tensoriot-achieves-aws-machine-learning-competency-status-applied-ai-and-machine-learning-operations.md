@@ -20,6 +20,15 @@ topics:
   - Machine Learning
 
 related:
+  - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
+    excerpt: "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to ..."
+    publishedDateTime: 2021-03-10T21:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-1030170554"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
     excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
     publishedDateTime: 2021-03-10T21:39:00Z
@@ -48,20 +57,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-    publishedDateTime: 2021-03-11T07:35:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 70
-    images:
-      - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "ClearScale Achieves AWS Machine Learning Competency Status"
     excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has"
     publishedDateTime: 2021-03-11T14:05:00Z
@@ -75,20 +70,6 @@ related:
       - url: "https://mma.prnewswire.com/media/233324/clearscale_logo.jpg?p=facebook"
         width: 1847
         height: 967
-        isCached: true
-  - title: "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI"
-    excerpt: "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
-    publishedDateTime: 2021-03-10T21:31:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-19e7126ed40e44e4b14572b402c260d7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "0G8r+T36/bATkC0Yy3XNXGW1ykxbVKxP03h2/X530GqdGNTQIKuwmS72buXyk6ufqK4EWJSP1BPpdxnaMONK86LU3qgSwu9u9DSDs56b9oJUTWj49ZXFKi6RD9tzHfXNALNiyu1C8qgEr496HaQHwDe2tdVIBofInHlKh//f1tkoktWm/OxCWRFkv4vuG8H4/XKmhib0VqvxPDAa7UAfXrmsLilyjokeDiKsM8TcjS6OFRL+9SPInN8fR7ZMlxtJLiSKmx8flYyOO0IH6m/h0zPddpliyLpbhMJtOQXPINQuKOKT2Z0LD2bRMHDQycF+IHb2IUrmYyfTBRg3Lfvetsa7x+C62qtDZduXNOB6lw4=;wPzipy39+E/vwKWpQ/dgLg=="

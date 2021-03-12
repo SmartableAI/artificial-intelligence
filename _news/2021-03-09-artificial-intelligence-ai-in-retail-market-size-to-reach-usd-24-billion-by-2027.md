@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-reach-usd-24-billion-by-2027-2021-03-08"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
         width: 920
         height: 482
+        isCached: true
+  - title: "AI & Robotics in the Global Defense Industry to Reach $61 Billion by 2027 - Robotics Anticipated to Account for the Largest Share of Expenditure - Res"
+    excerpt: "Robotics in the Defense market, which is valued at US$39.22 billion in 2018, is projected to grow at a CAGR of 5.04%, to value US$61 billion by 2027. The cumulative market for global expenditure on AI & Robotics Defense Systems is valued at US$ 487 billion over the forecast period."
+    publishedDateTime: 2021-03-12T09:47:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=436430"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Artificial Intelligence (AI) Market Report 2021 | Size, Share, Latest Development, Trends, Top Key Players and Outlook 2026"
     excerpt: "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020.According to IMARC Group's latest report, titled 'Artificial Intelligence (AI) Market : Industry Trends, Share, Size,"

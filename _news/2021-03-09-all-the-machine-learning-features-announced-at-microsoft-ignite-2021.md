@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 652
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market Next Big Thing | Major Giants- John Deere, Resson, Precision Hawk"
+    excerpt: "The research emphasizes elaboration of the Global Artificial Intelligence (AI) in Agriculture market strategy of"
+    publishedDateTime: 2021-03-12T10:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-next-big-thing-major-giants--john-deere-resson-precision-hawk-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Azure MSP Acquires Software Development Company"
     excerpt: "Microsoft partner Atmosera has acquired Wintellect, an Atlanta, Georgia-based software development, Azure and IT training company."
     publishedDateTime: 2021-03-10T20:05:00Z

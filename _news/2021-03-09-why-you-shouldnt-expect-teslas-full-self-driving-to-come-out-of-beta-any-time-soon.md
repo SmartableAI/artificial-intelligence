@@ -9,8 +9,8 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-tes
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/"
 type: article
 quality: 96
-heat: -1
-published: false
+heat: 216
+published: true
 
 provider:
   name: The Next Web
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk says Tesla is expanding its Full Self Driving beta to more drivers"
-    excerpt: "Tesla first introduced the FSD beta in October to vehicle owners in its Early Access Program. At the time, Musk said the company was handling the software update “very cautiousl"
-    publishedDateTime: 2021-03-07T17:10:28Z
-    webUrl: "https://www.theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
-    type: article
-    provider:
-      name: theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta
-      domain: theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta
-    quality: 171
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/-WR3wnR8gKXZNakvetGBZC7uzKA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68925715/acastro_180524_1777_tesla_0001.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
   - title: "Tesla's Full Self-Driving Beta rolls out to more drivers as Musk reports high demand"
     excerpt: "CEO Elon Musk said the last beta doubles the number of people who have access to FSD, but a future update will open the tech to 10 times as many drivers."
     publishedDateTime: 2021-03-08T14:07:00Z
@@ -78,22 +62,6 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Elon Musk Disappointed With Cyberpunk 2077’s Lack Of Self-Driving Cars"
-    excerpt: "If I were a multi-billionaire I too would like to think I wouldn’t give up my current hobby of complaining about missing features in video games, so in that sense, Elon Musk is a real role model to me."
-    publishedDateTime: 2021-03-10T15:08:00Z
-    webUrl: "https://www.forbes.com/sites/paultassi/2021/03/10/elon-musk-disappointed-with-cyberpunk-2077s-lack-of-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/paultassi/2021/03/10/elon-musk-disappointed-with-cyberpunk-2077s-lack-of-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/03/10/elon-musk-disappointed-with-cyberpunk-2077s-lack-of-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048cbcc06dbe7c57fe7f05a%2F0x0.jpg"
-        width: 1200
-        height: 742
         isCached: true
   - title: "Tesla: “Full self-driving beta” isn’t designed for full self-driving"
     excerpt: "In October, Tesla released what it called its \"full self-driving beta\" software to a few dozen Tesla owners. A few days ago, Musk announced plans to expand the program to more customers. Given that the product is called \"full self-driving,"
@@ -171,38 +139,6 @@ related:
         width: 1616
         height: 1260
         isCached: true
-  - title: "Why self-driving cars are designed to look like overgrown toys"
-    excerpt: "Electric driverless cars are not just coming, folks. They’re here. Lyft passengers in Las Vegas can already hail a self-driving taxi. It’s one of the first times vehicles with no human behind the wheel are being tested on city streets."
-    publishedDateTime: 2021-03-09T18:58:00Z
-    webUrl: "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/"
-    ampWebUrl: "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/nuro-r2-07-original-1-e1614906015779.jpg?fit=740%2C494"
-        width: 740
-        height: 416
-        isCached: true
-  - title: "Elon Musk Criticizes Cyberpunk 2077's Lack Of Self-Driving Cars"
-    excerpt: "While self-driving cars exist within the lore of CD Projekt Red's Cyberpunk 2077, they're functionally absent from the player's experience. Elon Musk tweeted his criticism of the game's vehicles, responding to an older tweet about the delayed Patch 1.2 ..."
-    publishedDateTime: 2021-03-11T12:06:00Z
-    webUrl: "https://www.gamespot.com/articles/elon-musk-criticizes-cyberpunk-2077s-lack-of-self-driving-cars/1100-6488677/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/elon-musk-criticizes-cyberpunk-2077s-lack-of-self-driving-cars/1100-6488677/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/elon-musk-criticizes-cyberpunk-2077s-lack-of-self-driving-cars/1100-6488677/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 44
-    images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3773875-main.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Tesla Expands Full Self-Driving Beta Software Doubling Its Size"
     excerpt: "Tesla is expanding its Full Self-Driving beta as it looks to ramp up the development of the advanced driver-assistance system. The electric car manufacturer introduced the Full Self-Driving beta in October to select owners participating in its Early Access Program."
     publishedDateTime: 2021-03-08T10:55:00Z
@@ -236,6 +172,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "Why self-driving cars should be all-electric cars"
+    excerpt: "In recent weeks, the self-driving car company Cruise, a subsidiary of General Motors, filed a project application to build the huge fast-charging hub in the city's Bayview district. Cruise's planned robotaxi service,"
+    publishedDateTime: 2021-03-10T21:14:00Z
+    webUrl: "https://www.greenbiz.com/article/why-self-driving-cars-should-be-all-electric-cars"
+    type: article
+    provider:
+      name: GreenBiz
+      domain: greenbiz.com
+    quality: 24
+    images:
+      - url: "https://www.greenbiz.com/sites/default/files/2021-03/Cruise%20at%20Cesar%20Chavez%20St%20Rendering.2.jpg"
+        width: 3551
+        height: 2279
+        isCached: true
   - title: "In self-driving touts, Tesla peddles tall tale of two technologies"
     excerpt: "In official correspondence with California's Department of Motor Vehicles, Tesla lawyers recently admitted full self-driving mode is no such thing."
     publishedDateTime: 2021-03-11T03:20:00Z

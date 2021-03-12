@@ -81,6 +81,20 @@ related:
         width: 920
         height: 482
         isCached: true
+  - title: "AI & Robotics in the Global Defense Industry to Reach $61 Billion by 2027 - Robotics Anticipated to Account for the Largest Share of Expenditure - Res"
+    excerpt: "Robotics in the Defense market, which is valued at US$39.22 billion in 2018, is projected to grow at a CAGR of 5.04%, to value US$61 billion by 2027. The cumulative market for global expenditure on AI & Robotics Defense Systems is valued at US$ 487 billion over the forecast period."
+    publishedDateTime: 2021-03-12T09:47:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=436430"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "Rg5wJCYzqe8A1N81F3/o7Y37j6hPuYDfWPLRJZfPRQEYMf5oTeW45eGNF7B+6elfflNqVMQ45sRKTf6saEkzHtL42iMx40kA/NzKpK2bbCovqDPPiR0Za+SD9kTSDBThUMaB4TBoqM4sPWU161Sg2rlS+3rtcKnWfSvcZ45U28P752KX8zJyOtIlqjaPlHSvg/biJm9EcGNQN+vz8tJ5pKXaoMqwgiNiXP7A2TI4/ePnHr2jdjXnFnklczqikoyOSL03dxFpdRMxliu9yocIPNMiTZuSF6s8IP1N4C9KCJFH3v7GhWZWE2+ZVIv4pcxFGFRarTPLRf+Zqfr/x0ziSviiMHBRHhJtrGljR0d525I=;OnKs3o5JQe+y1KBPTPkjfg=="
 ---

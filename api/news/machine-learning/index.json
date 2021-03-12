@@ -159,21 +159,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-11-vonage-receives-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "Vonage Receives AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied",
+      "path": "_news/2021-03-11-enhancing-machine-learning-prediction-to-improve-asthma-care-management.md",
+      "title": "Enhancing Machine Learning Prediction to Improve Asthma Care Management",
+      "excerpt": "Some healthcare centers are now using machine learning predictive models to determine which patients with asthma are highly likely to experience poor outcomes. “Machine learning is a state-of-the-art method for gaining high prediction accuracy,",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19693395.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19693395.html",
+      "webUrl": "https://www.physiciansweekly.com/enhancing-machine-learning-prediction-to-improve-asthma-care-management/",
+      "originalUrl": "https://www.physiciansweekly.com/enhancing-machine-learning-prediction-to-improve-asthma-care-management/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2020/06/iStock-512898876.jpg",
+          "width": 661,
+          "height": 529,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,13 +181,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T13:39:00-08:00",
+      "ampWebUrl": "https://www.physiciansweekly.com/enhancing-machine-learning-prediction-to-improve-asthma-care-management/amp/",
+      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/enhancing-machine-learning-prediction-to-improve-asthma-care-management/amp/",
+      "publishedDateTime": "2021-03-11T04:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -197,10 +197,52 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
         "Machine Learning",
-        "AWS AI"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
+      "title": "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI",
+      "excerpt": "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-1030170554",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-1030170554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1392,60 +1434,6 @@
         "TensorFlow",
         "Google AI",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
-      "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
-      "excerpt": "Kubeflow Components, a toolkit supporting the company’s AWS RoboMaker service for orchestrating robotics workflows. Amazon says that the goal is to make it faster to experiment and manage robotics workloads from perception to controls and optimization,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
-      "originalUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
-      "publishedDateTime": "2021-03-03T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics",
         "Machine Learning"
       ]
     }

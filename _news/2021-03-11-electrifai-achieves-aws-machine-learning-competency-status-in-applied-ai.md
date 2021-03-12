@@ -1,29 +1,27 @@
 ---
 category: news
 title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-publishedDateTime: 2021-03-11T07:35:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
+excerpt: "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to ..."
+publishedDateTime: 2021-03-10T21:18:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-1030170554"
+webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-1030170554"
 type: article
-quality: 70
-heat: -1
-published: false
+quality: 80
+heat: 120
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
@@ -68,20 +66,6 @@ related:
         width: 1847
         height: 967
         isCached: true
-  - title: "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI"
-    excerpt: "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
-    publishedDateTime: 2021-03-10T21:31:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-19e7126ed40e44e4b14572b402c260d7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
     excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
     publishedDateTime: 2021-03-11T00:09:00Z
@@ -92,6 +76,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "7mte57cg4WQwicdGvcgmFhrQRze4caY0w6Rm555CmOLuakm6dmS2OdzjcTet+ib4NShCXiJIsoJX26Mopoifroo0cBBz9UjNRDhVFAulnVRs0j6/5dBiGToukR4jcgksz0V130w+pkuO4PoVu47nUNPKZ/gpEbz9Z5KVIj8yOpftJPuqz4+bppCx3Wj0VmWSwErbnDQVrK7y+1rxcw4/Ay3uH10nFmwvYvuJZhMBbkX8VfLnVDciZ2/kaAk9paHrkK8P8J6c4gBbCIxutrl9BJ6EulU0CCO0u/CFeqj7wrc78hNNg38PTKg0yLad/FnaH1Yd5wCEoLcupCoWShqS7YAKHNNfwVTSKxDHFyLL888=;w0/8wHZzMESs9CC0ZxvSwA=="
+secured: "WOaxEbOpVt+aYr0ljTyamw50OPqrhtQmpuVE9IF+aJiLFD4L3sHUmOLErlxPepDN7Yo4XSOmMXa18JNJNScmTFfkPo5G1/NUuzeVQOXUIu+4m2zo2/3QmaeKWuYYs6E0sujIyW+VVDUpHF4sgPzlHc3+Kr8IofQVvsOmzw52ZEgIBHgfBVz6XLUerExHdXz2/gU/xGBkgcatkn9p/fXuHxLTHH0Ygrd4779O978VLXWkOvUjzbjFpDpg7Sh/xdN52GneA7eriXePXYyvERbgI67cDDdye9+nMAVWrt6sH2gZdmRdYjPPvVgCav0uX5iHjqWIFA0NhNfktJaxZCRdSN1oFfcCncjpNWYKNiU9g84=;qsLgN9cXg/XTmkPQs27vQg=="
 ---
 

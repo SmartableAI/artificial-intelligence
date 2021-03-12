@@ -105,6 +105,20 @@ related:
         width: 1024
         height: 422
         isCached: true
+  - title: "Department says detectives used facial recognition program"
+    excerpt: "Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to"
+    publishedDateTime: 2021-03-10T18:59:00Z
+    webUrl: "https://apnews.com/a055525f5ffd6ad63ce115961b96180c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "After denials, Va. police department admits detectives used controversial facial recognition tech"
     excerpt: "VIRGINIA BEACH, Va. (AP) — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a ..."
     publishedDateTime: 2021-03-10T15:40:00Z

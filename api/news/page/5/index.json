@@ -2,6 +2,162 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-08-ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind.md",
+      "title": "AI ethics: How Salesforce is helping developers build products with ethical use and privacy in mind",
+      "excerpt": "Salesforce's Ethics by Design program is designed to put ethics and privacy at the center how technology, specifically AI, is developed and used.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
+      "originalUrl": "https://www.zdnet.com/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/06/f61cca19-4238-495b-b284-c0ffc577482d/ehu-pgoldman-square-385.jpg",
+          "width": 385,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
+      "publishedDateTime": "2021-03-07T15:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-china-five-year-plan-aims-for-supremacy-in-ai-quantum-computing.md",
+      "title": "China five-year plan aims for supremacy in AI, quantum computing",
+      "excerpt": "China has unveiled a five-year plan that will boost tech research in hopes of leading the world in fields like AI and quantum computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/china-five-year-plan-for-technology-225618577.html",
+      "originalUrl": "https://www.engadget.com/china-five-year-plan-for-technology-225618577.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/OPIFTltEG3k7FZh8Xfh0LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjY0/https://s.yimg.com/os/creatr-uploaded-images/2021-03/72abf6b0-7f91-11eb-9a27-fd00ec45aa19",
+          "width": 2000,
+          "height": 1263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/china-five-year-plan-for-technology-225618577.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/china-five-year-plan-for-technology-225618577.html",
+      "publishedDateTime": "2021-03-07T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech.md",
+      "title": "Google Billionaire Eric Schmidt Warns Of 'National Emergency' If China Overtakes U.S. In AI Tech",
+      "excerpt": "Former Google CEO Eric Schmidt on Sunday urged lawmakers to ramp up funding for research and development in the artificial intelligence space in order to prevent China from becoming the biggest player in the global AI market–a development Schmidt warned would spark national security and privacy concerns that could ultimately constitute a national emergency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/",
+      "originalUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6045450b8882a468d26dd8cc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3448%26cropY1%3D124%26cropY2%3D2064",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/amp/",
+      "publishedDateTime": "2021-03-07T13:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-seminar-on-artificial-intelligence-in-education.md",
       "title": "Seminar on artificial intelligence in education",
       "excerpt": "A three-day online international seminar on ‘Artificial intelligence in education’ will begin on Monday. Being organised by the State Institute of Educational Technology, in association with the Depar",
@@ -1063,142 +1219,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-tom-cruise-deepfake-creator-says-public-shouldnt-be-worried-about-one-click-fakes.md",
-      "title": "Tom Cruise deepfake creator says public shouldn’t be worried about ‘one-click fakes’",
-      "excerpt": "When a series of spookily convincing Tom Cruise deepfakes went viral on TikTok, some suggested it was a chilling sign of things to come — harbinger of an era where AI will let anyone make fake videos of anyone else.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/3/5/22314980/tom-cruise-deepfake-tiktok-videos-ai-impersonator-chris-ume-miles-fisher",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/tom-cruise-deepfake-creator-says-public-shouldn-e2-80-99t-be-worried-about-e2-80-98one-click-fakes-e2-80-99/ar-BB1ehoEo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/o-H4QWOThMmduMkvjHcNKNDkVz4=/0x0:1440x755/1400x933/filters:focal(605x263:835x493):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68916814/tom_cruise_deepfake_before_after.0.jpg",
-          "width": 1400,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/5/22314980/tom-cruise-deepfake-tiktok-videos-ai-impersonator-chris-ume-miles-fisher",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/5/22314980/tom-cruise-deepfake-tiktok-videos-ai-impersonator-chris-ume-miles-fisher",
-      "publishedDateTime": "2021-03-05T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/3/5/22314980/tom-cruise-deepfake-tiktok-videos-ai-impersonator-chris-ume-miles-fisher",
-        "domain": "theverge.com/2021/3/5/22314980/tom-cruise-deepfake-tiktok-videos-ai-impersonator-chris-ume-miles-fisher",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring.md",
-      "title": "NHAI introduces AI-based face recognition system for attendance monitoring",
-      "excerpt": "In line with its commitment to adopt technology to enhance transparency and accountability, the National Highways Authority of India (NHAI) has deployed artificial intelligence (AI)-based face recogni",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/dd046b/article33220251.ece/ALTERNATES/LANDSCAPE_615/BL02AI",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/",
-      "publishedDateTime": "2021-03-05T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive.md",
-      "title": "Scientists made an AI that reads your mind so it can generate portraits you’ll find attractive",
-      "excerpt": "A team of researchers recently developed a mind-reading AI that uses an individual’s personal preferences to generate portraits of attractive people who don’t exist. Computer-generated beauty truly is in the AI of the beholder.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/amp/",
-      "publishedDateTime": "2021-03-05T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

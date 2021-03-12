@@ -41,6 +41,20 @@ related:
         width: 661
         height: 529
         isCached: true
+  - title: "Predicting gastric cancer outcome from resected lymph node histopathology images using deep learning"
+    excerpt: "The ratio of tumour area to metastatic lymph node area (T/MLN) is a clinical indicator that can improve prognosis prediction of gastric cancer. Here, the authors use machine learning on whole slide images to generate a method that can predict metastatic ..."
+    publishedDateTime: 2021-03-12T10:23:00Z
+    webUrl: "https://www.nature.com/articles/s41467-021-21674-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 24
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-21674-7/MediaObjects/41467_2021_21674_Fig1_HTML.png"
+        width: 637
+        height: 685
+        isCached: true
 
 secured: "MT/nA1U1PatWCo/gzTHM3usIfXF76bnox4+CbBpO3a25bOf4uJ3w8LFhOtgRBUoDiwPxOPkLxr2lFDMlPxqTvB5uaZMoWhfR8mYpoPszIst4RoHeZjIX3etS4na7Lrlu5yfj6wMdNHbKZkZoY0fWdMIt1H0SaM+zq9DswcjMMvuAWq9Q/r5USDM2lF3M/h92gRIv09RmKU23/glBhrV0N0hxzhsLNVxmXJ+VAwHKYslNNPjnILkanS457shLlLlvDePEEpl+8xspWQIWjrwmXSQitgwvR4sKVVk299kdSfFvrythD11mS6bvcFKAHDkN+PwZevBlqL1Ce2xcw9PNNAWL+sKFolIyP7GtJWY36NeluYpXzg09ZTgvgphZQ9QcUF3oX4zQZcHsp7aTpbW8lyWThpZ2COQ/Yl7aAMrVsh7N0uWA2cK7MrWVQN1faggL3b7iFPWPHRLZggqNzOFD7KktBo+tEva3fft2F83zWyEeCVv9S0Ron2SAq/9sp27pLehA/vjlN1yiCRAVrLWn7g==;fwqoHWkMIrgG/Qnz/03ErA=="
 ---

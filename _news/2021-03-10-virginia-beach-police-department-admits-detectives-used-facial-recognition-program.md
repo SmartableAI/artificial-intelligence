@@ -89,6 +89,20 @@ related:
         width: 1240
         height: 827
         isCached: true
+  - title: "Department says detectives used facial recognition program"
+    excerpt: "Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to"
+    publishedDateTime: 2021-03-10T18:59:00Z
+    webUrl: "https://apnews.com/a055525f5ffd6ad63ce115961b96180c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Virginia Beach police admit officers tried a controversial facial recognition program the force had denied using"
     excerpt: "Detectives used an app by Clearview, which offers free trials in an effort to hook departments. Because of the controversy, a supervisor rejected the detectives' request to sign up for the paid version."
     publishedDateTime: 2021-03-09T13:16:00Z

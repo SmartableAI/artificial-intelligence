@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/"
 type: article
 quality: 74
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.goodreturns.in/img/2021/03/upasana-taku-1615188477.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "We need to strap a rocket to the government's FinTech thinking"
+    excerpt: "AI, DLT, Digital ID and open finance) are transformed into a reality. Since at least 2015 I have been arguing for a centre, a task-force, a rocket at the centre of government to blast forward everything 4IR and fintech. It needs to be at the centre and ..."
+    publishedDateTime: 2021-03-12T09:54:00Z
+    webUrl: "https://www.cityam.com/we-need-to-strap-a-rocket-to-the-governments-fintech-thinking/"
+    ampWebUrl: "https://www.cityam.com/we-need-to-strap-a-rocket-to-the-governments-fintech-thinking/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-to-strap-a-rocket-to-the-governments-fintech-thinking/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 44
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/03/Lord-Holmes-header.jpg"
+        width: 904
+        height: 565
         isCached: true
   - title: "Fintech MONVA Announces Second Fundraising Campaign"
     excerpt: "Deeside smart comparison Fintech MONVA has launched its latest round of fundraising, returning to Crowdcube one year after smashing its last fundraising"

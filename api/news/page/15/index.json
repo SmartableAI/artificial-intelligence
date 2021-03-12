@@ -2,6 +2,163 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-26-does-ai-driven-cloud-computing-need-ethics-guidelines.md",
+      "title": "Does AI-driven cloud computing need ethics guidelines?",
+      "excerpt": "It’s clear that artificial intelligence is powerful and cost-effective in the public cloud. However, it can be weaponized for unethical tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.html",
+      "originalUrl": "https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/10/cso_nw_trust_reliability_security_transparency_ethics_handshake_collaboration_by_peopleimages_gettyimages-926653234_icons_by_enis_aksoy_gettyimages-1054994010_interface_by_jamielawton_gettyimages-485370758-100813780-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.amp.html",
+      "publishedDateTime": "2021-02-26T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-facebook-is-looking-at-facial-recognition-technology-for-upcoming-smart-glasses-executive-confirms.md",
+      "title": "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms",
+      "excerpt": "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "originalUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106325051-1578425852424gettyimages-1038332444.jpeg?v=1578425926",
+          "width": 3105,
+          "height": 2070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "publishedDateTime": "2021-02-25T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast.md",
+      "title": "AI In Computer Vision Market 2021-2024:Size, Definition, Development, News and significant Growth with Regional Trends by Forecast",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Feb (AmericaNewsHour) -- Market Synopsis. The AI In Computer Vision Market is estimated",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T18:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-a-beginners-guide-to-ai-ethics-in-artificial-intelligence.md",
       "title": "A beginner’s guide to AI: Ethics in artificial intelligence",
       "excerpt": "And that’s pretty much what we need to focus on when we’re trying to understand ethics in the field of artificial intelligence. For the purposes of this article, when we discuss the ethics of ...",
@@ -649,49 +806,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-26-driverless-bus-hits-streets-of-malaga-in-southern-spain.md",
-      "title": "Driverless bus hits streets of Malaga in southern Spain",
-      "excerpt": "The bus uses artificial intelligence to improve its \"decisions ... 60 passengers and was developed by Spanish firm Irizar. Other driverless pilot projects already exist in Europe, but none ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/world/europe/driverless-bus-hits-streets-of-malaga-in-southern-spain",
-      "originalUrl": "https://www.straitstimes.com/world/europe/driverless-bus-hits-streets-of-malaga-in-southern-spain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/26/2021-02-24t162613z_1541090307_rc24zl9hcwl2_rtrmadp_3_spain-bus.jpg?itok=8rQNXPH0",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-26-nano-coatings-robots-need-protection-too.md",
       "title": "Nano Coatings: Robots Need Protection, Too",
       "excerpt": "Robots rely on electrical circuits of varying complexity to control their parts ... The engineering team at Sarcos kept that requirement in mind when considering printed circuit board assemblies ...",
@@ -731,6 +845,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-driverless-bus-hits-streets-of-malaga-in-southern-spain.md",
+      "title": "Driverless Bus Hits Streets Of Malaga In Southern Spain",
+      "excerpt": "A new driverless electric bus has begun operating ... he told AFP. The bus uses artificial intelligence to improve its \"decisions\" based on data recorded along the route. The 12-metre (39-foot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166",
+      "originalUrl": "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/25/the-electric-powered-vehicle-operates-autonomously-but-a.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1019,162 +1176,6 @@
         "Machine Learning",
         "Google AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-berlins-morphais-hopes-its-ai-algorithms-will-put-its-early-stage-vc-fund-ahead-of-the-pack.md",
-      "title": "Berlin’s MorphAIs hopes its AI algorithms will put its early-stage VC fund ahead of the pack",
-      "excerpt": "MorphAIs is a new VC out of Berlin, aiming to leverage AI algorithms to boost its investment decisions in early-stage startups. But there’s a catch: it hasn’t raised a fund yet. The firm was founded by Eva-Valérie Gfrerer who was previously head of Growth Marketing at FinTech startup",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/25/berlins-morphais-hopes-its-ai-algorithms-will-put-its-early-stage-vc-fund-ahead-of-the-pack/",
-      "originalUrl": "https://techcrunch.com/2021/02/25/berlins-morphais-hopes-its-ai-algorithms-will-put-its-early-stage-vc-fund-ahead-of-the-pack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/eva.jpg?w=624",
-          "width": 624,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/25/berlins-morphais-hopes-its-ai-algorithms-will-put-its-early-stage-vc-fund-ahead-of-the-pack/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/25/berlins-morphais-hopes-its-ai-algorithms-will-put-its-early-stage-vc-fund-ahead-of-the-pack/amp/",
-      "publishedDateTime": "2021-02-25T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes.md",
-      "title": "Cloudera aims to fast track enterprise machine learning use cases with Applied ML Prototypes",
-      "excerpt": "Cloudera's AMPs don't replace what data scientists do but give them a starting-off point so they can focus on the code, nuances, and iterating for the business use case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
-      "originalUrl": "https://www.zdnet.com/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/24/94ba4cfc-3950-4830-a2e6-368e11058911/cloudera-ml-4.png",
-          "width": 706,
-          "height": 523,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
-      "publishedDateTime": "2021-02-25T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations.md",
-      "title": "Google and MongoDB double down on cloud alliance with deeper Atlas integrations",
-      "excerpt": "Google and MongoDB expand alliance to make it simpler for developers to consume a wider range of backend cloud services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/consortium-2x1-1.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/amp/",
-      "publishedDateTime": "2021-02-25T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

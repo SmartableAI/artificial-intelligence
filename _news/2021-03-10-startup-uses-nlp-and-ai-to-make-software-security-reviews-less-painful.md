@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/videos/startup-uses-nlp-and-ai-to-mak
 webUrl: "https://www.techrepublic.com/videos/startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful/"
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://lcolumbus.files.wordpress.com/2021/03/startup-finds-the-market-research-you-need-image.jpg"
         width: 4500
         height: 3000
-        isCached: true
-  - title: "How A Startup Uses AI To Help You Find The Market Research You Need"
-    excerpt: "Stravito is an AI startup that’s combining machine learning, Natural Language Processing (NLP) and Search to help organizations find and get more value out of the many market research reports, competitive,"
-    publishedDateTime: 2021-03-07T17:50:00Z
-    webUrl: "https://www.enterpriseirregulars.com/173143/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need/"
-    type: article
-    provider:
-      name: Enterprise Irregulars
-      domain: enterpriseirregulars.com
-    quality: 37
-    images:
-      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/03/startup-finds-the-market-research-you-need-image-1-600x400.jpg"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "b8BFiGQuKljQUEEKGuVa3upfeIqZV4X5TNxYJ78OEXLuYGF5Y7mjjwJIPAfXz9VBfpsT9R1bD/txG69+qZWtUOD6wUlC3v5rPdC5Tm98UlAR09xaIfZbSBkimEKEIRe6laSmugWPHzjGnA4tULbofgSN/+UvQaHE3LBChFoyVk39rdD3+oWpVxFuuCqgx7iOPDwajV1bxkwFB0t7Vevt8EKnwOg4IDG9Y80ERj72gWfn7tdDqRABnz+q279kSCd3tWniLGHfUO9mFtphpRTSZ1VgsyFMVp7uFiupe+zqWjZ1MyJl0pUbRbkeXwnaQ9SWSgeCcGjhAwcktuhSYragHpFoimR6RTuyx15vCRuQRCyPhTmpa5B+8TithfEXImhcV9ia3MYTPnT5O4oqot7/VgWij+vR5Xvc3XiLrUSb2705K8B/WEwNF4JJlUpqEGGySxeP/68DU9v4fc1Ib7BWzpidBZbz9Sn4JDrXMTQTPryQonaOTHRNnITLhRCQwHSD3GEuyktXQnrBFbrNVQE7Ng==;QI5cP2R1FcW4ghaKueBGbg=="
