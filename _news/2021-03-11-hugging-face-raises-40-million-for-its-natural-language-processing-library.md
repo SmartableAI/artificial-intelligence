@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cowbell Cyber raises $20 million, aims to build out its AI-drive cyber insurance platform"
+    excerpt: "Cowbell Cyber, an AI-driven cyber insurance provider for small and medium enterprises, said it raised $20 million in Series A funding to expand its underwriting ability. The best cyber insurance The cyber insurance industry is likely to go mainstream and ..."
+    publishedDateTime: 2021-03-11T21:01:00Z
+    webUrl: "https://www.zdnet.com/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/05/dc4e10e2-190d-44e9-88c4-9020a682ccc0/cowbell-cyber-customizedforbrokers-1.jpg"
+        width: 2187
+        height: 1228
+        isCached: true
   - title: "Esme Learning Raises $7.5 Million In Series A Funding For Its AI-Enabled Digital Learning Platform"
     excerpt: "Founded by edX and Pearson alum Beth Porter, and AI futurist David Shrier, Esme Learning is creating online learning experiences that are truly transformational in educating people, in industries such as cybersecurity,"
     publishedDateTime: 2021-03-11T09:47:00Z

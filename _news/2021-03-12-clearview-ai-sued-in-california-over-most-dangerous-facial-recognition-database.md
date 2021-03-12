@@ -279,7 +279,7 @@ related:
     provider:
       name: The Fresno Bee
       domain: fresnobee.com
-    quality: 19
+    quality: 21
   - title: "Russian Case Law in 2020 on Recognition and Enforcement of Foreign Judgments Made by Courts of Count"
     excerpt: "Recognition and enforcement of foreign judgments (‘R&E’) is a persistent problem of Russian case law. Different obstacles still arise even when judgments, filed for R&E in the Russian Federation, are made by courts of countries which are contracting parties to multilateral conventions (e."
     publishedDateTime: 2021-03-09T18:04:00Z
@@ -290,6 +290,6 @@ related:
       domain: legal500.com
     quality: 0
 
-secured: "e3BTSXckCCOuzkxMRvv/61a8Zv7fBKsbAa/5PIfAc0DsunztgeHGIvCgyVi/DpAWPFTECiQ55pqXwwHFaKz4VL0ukDuakggrrVttFtnpiALPuDHcBRSTkWPV6i8Wf4t71I4udnTdpCyazGE1oLl39Mw0TTzfLE0+EOmzitwyubtVOjSTBEB3FWD0nyVom1TwvkbMRmJ9xWA7RGdRl4n4i4EE0LPX9SXtntlLt7rZqgU2sfy+bmYD32LuB3gJIjqsS9oR0Hke1zcB6bYOEHp/Cc04THXg9JEztxuQ/ilzeVvZSi8bmuH8/J4z9xVnad5Em4MDDKMR2uX9KGZ/Qf484G++2cUG/xH+kVz2T0ETUuI=;GU6idCiGaoc5agDgG8K5qA=="
+secured: "4CszKJFFGdLlwTsxNWyMpW5/+iZHW/3nhNBOQnGRGndzJkvkXLTZzF1l1/ihhW7bmoNeaVoXqv1tpVUU6THELBJa5dq5vUfdfpkYR4XL32KgqSuL+n0CWuYDD1Qo86G3cSRn988Tct1FRfxyRKH6s3fuv2fHG0j/YY7t1wMlZaOXAylmv6u73142HA2rOb8qPC0d9niFuHWCD0ukFaZo6bsL0DfczqymrDekEiMP8d5WzfZg9TOooToPme4UIVM7EYkbeIxCXUK8knC66YdC96VtkXrNg6kIlp/E4+aaf7w5xPTtITTvM3YJD/1fJ+VMYjzP2peKQ1kF8ye9IP4OWHAw2lS/bNcvM+eoVId7a9IJ+j1thyZoUah6nvuss+keUl7WhmdMdmIgc8K/N8v0Omsa2fvsyoP9ubqb1KD3tipkMTO4ZpXa0ZvKCIBl9/WMgtkX5ELTlCTCtVlO3CQXyph2HDUByT8q4UkcIF80TjzZKFsOf+zZedWKrgmLmtLe33UYDj8mJ12tLt8kS8lyww==;kd7acfQshElHmr02OVNz5A=="
 ---
 

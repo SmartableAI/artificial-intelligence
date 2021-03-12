@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-11T22:52:00Z
 originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a68a18f0849a7378fd04e"
 webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a68a18f0849a7378fd04e"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Guardian

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-suppo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/"
 type: article
 quality: 93
-heat: 114
+heat: 113
 published: true
 
 provider:

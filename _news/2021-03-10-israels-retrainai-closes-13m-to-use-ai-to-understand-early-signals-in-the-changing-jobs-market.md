@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-u
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 535
     height: 299
     isCached: true
+
+related:
+  - title: "Retrain.ai raises $13M to help workers reskill and upskill for better jobs"
+    excerpt: "retrain.ai’s CEO is Dr. Shay David, the serial entrepreneur known for previously co-founding the video enterprise leader Kaltura; Isabelle Bichler-Eliasaf serves as the company’s COO, after previously co-founding an HR startup, leading it to a ..."
+    publishedDateTime: 2021-03-11T23:59:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/03/12/retrain-ai-funding/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 15
 
 secured: "fAhE9ugsABM7uKGFvAJZKs/Ouk8UzULAarcrb8VRByCbHUlJoTvkXTJr5i52g9ZMN4zI0G9SgmtesoPO7Clb6L0ibtaP+zGgyUvQVctJWendwXXrGY9cUPPPAXcZWt0ALiAxWqaKQcp9nD0arNoS3JP8Frl1kecZOP+g5GOa66ELw6tzEFqq9iRPq2yl/ipPhzM5HmuPFtAbXL14TDouCjcRRwEf70TrlO92hsKEX4ZhEnnp5HRgSlIninSw+DZJ4yxYGQ+7+RPnn/BLn0HVr0yVCGKe9h8tiGWQx0+F2/ySt9ygqVXFOQUFwLbrURVRDwngKPIY9qCQ600385lQTkRM6bu9oF0kwr2dRg2YAjvi2NCm7gfet3BilCUOk6Xwx+qpgay7D8z7BVaKtIAGsng4CxjOvL8hno0MWKy58SFiGNnEMtJLuh9xZgNvU9wtpZ81fRgq+z1mRdBiOmgTyqnfxd+oNJey+/Lb1Ds2maCVVGcPr0IIqQw9nZIPkpdVU5MB3v4keYSWQuhADa+2TA==;fw++LkmaPPtnMhDQk6ognA=="
 ---

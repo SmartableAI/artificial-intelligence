@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-12-hepion-pharmaceuticals-to-present-on-crv431-and-ai-powtm-at-nash-tag-2021.md",
+      "title": "Hepion Pharmaceuticals to Present on CRV431 and AI-POW(TM) at NASH-TAG 2021",
+      "excerpt": "EDISON, NJ / ACCESSWIRE / / Hepion Pharmaceuticals, Inc. (NASDAQ:HEPA) (\"Hepion\"), a clinical stage biopharmaceutical company focused on Artificial Intelligence (\"AI\")-driven therapeutic drug development for the treatment of non-alcoholic steatohepatitis (\"NASH\") and liver disease,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/hepion-pharmaceuticals-to-present-on-crv431-and-ai-powtm-at-nash-tag-2021-2021-03-11-142645816",
+      "originalUrl": "https://www.marketwatch.com/press-release/hepion-pharmaceuticals-to-present-on-crv431-and-ai-powtm-at-nash-tag-2021-2021-03-11-142645816",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T18:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-servicenow-adds-new-ai-and-low-code-development-features.md",
       "title": "ServiceNow adds new AI and low-code development features",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Enterprise cloud-based solutions provider ServiceNow today launched its Now Platform Quebec release ...",
@@ -218,7 +270,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevenbertoni/2021/03/11/exclusive-imax-ceo-and-ai-founder-launch-company-to-make-your-tv-obsolete/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -258,6 +310,50 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-redstone-arsenal-testing-facial-recognition-system-at-gates.md",
+      "title": "Redstone Arsenal testing facial recognition system at gates",
+      "excerpt": "Workers entering Redstone Arsenal will have a new option for gaining access to the installation as of Monday: Facial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/",
+      "originalUrl": "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://whnt.com/wp-content/uploads/sites/20/2021/03/Redstone-facial-sensor.png?w=1280",
+          "width": 1280,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/amp/",
+      "cdnAmpWebUrl": "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/amp/",
+      "publishedDateTime": "2021-03-11T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHNT",
+        "domain": "whnt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -373,7 +469,7 @@
       "originalUrl": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1156,110 +1252,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-batch-image-processing-with-amazon-rekognition-custom-labels.md",
-      "title": "Batch image processing with Amazon Rekognition Custom Labels ",
-      "excerpt": "Amazon Rekognition is a computer vision service that makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning (ML) expertise to use. With Amazon Rekognition, you can identify objects, people, text, scenes,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/batch-image-processing-with-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/batch-image-processing-with-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/09/1-Architecture-1.jpg",
-          "width": 800,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T13:30:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-if-you-love-ai-do-not-miss-nvidia-gtc-this-year.md",
-      "title": "If You Love AI, Do Not Miss NVIDIA GTC This Year!",
-      "excerpt": "I just got an email from NVIDIA touting this year’s GTC event (April 12-16) and have to share this with you, in case you haven’t already heard. The virtual graphics, AI, and HPC event will headline AI pioneers Yoshua Bengio (University of Montreal),",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/trim/290x0:2204x713/fit-in/711x264/smart/https://specials-images.forbesimg.com/imageserve/604929829ed0424aeb7e9fb6/0x0.jpg",
-          "width": 709,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/amp/",
-      "publishedDateTime": "2021-03-10T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

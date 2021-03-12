@@ -5,6 +5,8 @@ excerpt: "Three years ago, the company created AWS DeepRacer, a racing competiti
 publishedDateTime: 2021-03-02T12:12:00Z
 originalUrl: "https://www.techradar.com/uk/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
 webUrl: "https://www.techradar.com/uk/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
 type: article
 
 provider:
@@ -20,6 +22,12 @@ topics:
   - AI
   - Machine Learning
 
-secured: "aIz0SMv1uLULd+OfSnLHj8/UCKpZ6ix614/5A1dZp3bC0+LHNxHPYXS8hE/zWt1Tp8shiJBKrBuS7Nz1EnplYS6ALe07d2Fg9F3hIKnV3mELrtHWVAFtGrkZw8v5T8dBydhiv2nwLoUXcqxtjHHoIikPiaUT7UFWC+uqWUT0/rRqYFxjMoKK4I/rkeJsDQx4TrnAqluS5ewKwdgVgWxs/o44P8G4a2U3k73VsDpzM4Kr3eBJwf1Lat7LmLLYUYC1IXTwcdmz3jv26NbLGQZhUUdQ8onM0crWhD1SDKzMQG61RgjwPUfTH6MVG3CVy7WQbJYmkICvql36HNwm5pJL/chqOhQeyAspVnBDP4LZQFc=;xSd8PQSqtdUTgtmiXKMO5w=="
+images:
+  - url: "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-480-80.jpg"
+    width: 480
+    height: 270
+    isCached: true
+
+secured: "5qmepkjivvtjJblyamcLYlmM+mmQ1k68RnMgvcSdsFXWHrIRNaR1mnWJ66cSkIvFakIAy75s7cyC18HuEgVESnh3wye4I93MGtUrj8IxBr4osxbqSSW1xAYj2PrMCfo9UuzE4isQvgBGhDj/+ir4ixX3X5OQ8cAQVQsm/Exgq+QzJ6u1ftLhrOlU2xyRH8I1pzcwar3cv6zBJH6DJCU/HYAdYYlEDYw03VFUBfWgTmPR3JtMpeYR5/XgEYNIhjU2x9myiHzDF14Xh5YW58HmSH2wCQlHHPAXvp7RYwrtlcSM3lkVEZ54FSUOYYZ2CPqik25yuI/HxoiWGsnnqq4F7tyu9HGT6QlvQ/1mJaYLeiw=;aooaIAaewZadpDuZnLgOwg=="
 ---
 

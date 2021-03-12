@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virt
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/"
 type: article
 quality: 89
-heat: 140
+heat: 139
 published: true
 
 provider:

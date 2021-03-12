@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/active-learning-work
 webUrl: "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-part-1/"
 type: article
 quality: 99
-heat: 110
+heat: 109
 published: true
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-11T21:17:00Z
 originalUrl: "https://www.scmr.com/article/dissecting_the_startup_buzz"
 webUrl: "https://www.scmr.com/article/dissecting_the_startup_buzz"
 type: article
-quality: 22
+quality: 24
 heat: -1
 published: false
 

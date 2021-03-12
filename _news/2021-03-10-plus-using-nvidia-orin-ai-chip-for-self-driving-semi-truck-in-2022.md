@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp"
 type: article
 quality: 91
-heat: 142
+heat: 141
 published: true
 
 provider:

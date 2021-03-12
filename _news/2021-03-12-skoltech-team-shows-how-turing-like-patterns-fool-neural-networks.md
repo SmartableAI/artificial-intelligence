@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-11T19:21:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/sios-sts031121.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-03/sios-sts031121.php"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: EurekAlert!

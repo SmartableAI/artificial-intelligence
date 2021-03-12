@@ -51,7 +51,7 @@ related:
     provider:
       name: Supply Chain Management Review
       domain: scmr.com
-    quality: 22
+    quality: 24
     images:
       - url: "https://www.mmh.com/images/2021_article/MMH2103_BP_KencoPicMain800.jpg"
         width: 800

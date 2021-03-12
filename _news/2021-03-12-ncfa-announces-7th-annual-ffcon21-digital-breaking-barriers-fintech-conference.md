@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-11T19:01:00Z
 originalUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb"
 webUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

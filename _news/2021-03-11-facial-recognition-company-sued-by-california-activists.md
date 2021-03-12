@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-11T15:38:00Z
 originalUrl: "https://www.fresnobee.com/news/business/article249820553.html"
 webUrl: "https://www.fresnobee.com/news/business/article249820553.html"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Facial recognition company Clearview AI sued by California activists"

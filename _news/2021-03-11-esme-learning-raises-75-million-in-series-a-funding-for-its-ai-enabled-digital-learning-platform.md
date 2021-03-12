@@ -46,6 +46,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Cowbell Cyber raises $20 million, aims to build out its AI-drive cyber insurance platform"
+    excerpt: "Cowbell Cyber, an AI-driven cyber insurance provider for small and medium enterprises, said it raised $20 million in Series A funding to expand its underwriting ability. The best cyber insurance The cyber insurance industry is likely to go mainstream and ..."
+    publishedDateTime: 2021-03-11T21:01:00Z
+    webUrl: "https://www.zdnet.com/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/05/dc4e10e2-190d-44e9-88c4-9020a682ccc0/cowbell-cyber-customizedforbrokers-1.jpg"
+        width: 2187
+        height: 1228
+        isCached: true
 
 secured: "xXPg25PdzJYqNWvfmYIGyjuSCIQePi+19swqU9GumY+NWJBsPmwqPsbmv1Sc7Q3DHmjQ+k2Kq8UjG1lUc6B7SmK/YKIlOA27Jp3QtedH3lzY2xITqGF6WUJ57GLAbOl2ejA6LKm0FNlI/jMOBZw9ngILRcxbw3Zuty95ekUJ2ceWmdGxC52ZtKVs29jIfBFzHuZKE5I6G7C+w7xdgdAWSCp7n+JkFzfyJLxGxJJ+IjdZL1QCaaDI/jGvFlCFQSOUVwK2+ZfHfgQiQp6y5EjyA4AFRnScvZgqKI7RMQhfLhygnO9p4bo2QSE5LTfrPsT7/7ZVHK96nISSbnaTx6lmlN8dNFaFoJdxK5+g8b4l8m8=;5Ac0s0oVpj+fPcYuzdb8Ew=="
 ---

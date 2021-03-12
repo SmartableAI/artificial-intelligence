@@ -47,19 +47,14 @@ related:
         height: 478
         isCached: true
   - title: "ServiceNow debuts new low-code app studio and AI features"
-    excerpt: "ServiceNow Inc. today introduced new tools that will enable users to write custom apps without coding and find information they need for their work faster using artificial intelligence. The features are rolling out as part of the latest release of ServiceNow’s namesake cloud platform."
-    publishedDateTime: 2021-03-11T19:00:00Z
-    webUrl: "https://siliconangle.com/2021/03/11/servicenow-debuts-new-low-code-app-studio-ai-features/?via=indexdotco"
+    excerpt: "Both are based on technologies that the company obtained through startup acquisitions. The first new feature is an AI-powered search engine that allows ServiceNow users to look for information ..."
+    publishedDateTime: 2021-03-11T20:00:00Z
+    webUrl: "https://siliconangle.com/2021/03/11/servicenow-debuts-new-low-code-app-studio-ai-features/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/servicenow.jpg"
-        width: 900
-        height: 506
-        isCached: true
+    quality: 17
 
 secured: "kcD9Nsp9Ne0MVcJVimRtYIZqKfzxqHyt8Ps+E4543+FUdkpWmmTvrrnkpeyehYmdNIy4arqZ5iVcHvd6ls6s335nNxT57/l4WnXJkfK64EhoYayyKofgiz3wk26bt5bh4CaL0tmW7NkF2cxeUCoRUWtSM7n8xE5Ver/nrKjzmznU+MiIGnV7vTxEagGx/ja+LOW18QUb/uLyxd7iqLPUcpcJTMTB2mKELtQGM9ioTpZj6tsasIJo/k9C7paaMHZw7oKoK6C7E9Z2t7hJiWGru955UbSDLUcy+4ZVHhSthUBrxIW4sdV7Jgf0CQF3e5UBAvn1lgULH2doDFoBfv7aTvlAbGJh8eKRpprGgZNd2ilazKh/46eEnDzdi/EtatSxxyVrrS8rJQCfAmaMxMxNDFMVpDtf1o2f/hFzoMSzUPk2lDAIWroqDeAYTT7TXMhMCnhuuP1g2EiJRCUzf24Azn2862xHISiZ/XtArYJoSjR12xGbXSxFykLccE9PISt40onxVIkP0V1/cMxXASfmqg==;xuDMthxzywyxBBBFhGtSYQ=="
 ---

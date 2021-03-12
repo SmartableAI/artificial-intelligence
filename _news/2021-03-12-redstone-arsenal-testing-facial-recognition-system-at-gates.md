@@ -9,8 +9,8 @@ ampWebUrl: "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-faci
 cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: WHNT
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Myanmar: Facial Recognition System Threatens Rights"
+    excerpt: "The Myanmar military junta’s access to a new public camera system equipped with facial recognition and license plate recognition technology poses a serious threat to basic rights in the country, Human Rights Watch said today."
+    publishedDateTime: 2021-03-12T01:20:00Z
+    webUrl: "https://www.hrw.org/news/2021/03/12/myanmar-facial-recognition-system-threatens-rights"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/media_2021/03/202103asia_burma_cctv.jpg"
+        width: 1500
+        height: 1014
+        isCached: true
   - title: "NPC deputy urges for facial recognition system to restrict minors’ playing games"
     excerpt: "VCG. A Chinese lawmaker called the government to develop facial recognition-based supervision system to restrict the game-playing time of the minors to 60"
     publishedDateTime: 2021-03-11T10:40:00Z

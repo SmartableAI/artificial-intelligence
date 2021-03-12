@@ -63,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevenbertoni/2021/03/11/exclusive-imax-ceo-and-ai-founder-launch-company-to-make-your-tv-obsolete/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -103,7 +103,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -167,7 +168,7 @@
       "originalUrl": "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -263,7 +264,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -317,7 +318,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -369,7 +370,7 @@
       "originalUrl": "https://www.vice.com/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 105,
       "tags": null,
       "images": [
         {

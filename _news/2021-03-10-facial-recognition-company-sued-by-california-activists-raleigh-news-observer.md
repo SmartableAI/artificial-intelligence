@@ -278,7 +278,7 @@ related:
     provider:
       name: The Fresno Bee
       domain: fresnobee.com
-    quality: 19
+    quality: 21
   - title: "Russian Case Law in 2020 on Recognition and Enforcement of Foreign Judgments Made by Courts of Count"
     excerpt: "Recognition and enforcement of foreign judgments (‘R&E’) is a persistent problem of Russian case law. Different obstacles still arise even when judgments, filed for R&E in the Russian Federation, are made by courts of countries which are contracting parties to multilateral conventions (e."
     publishedDateTime: 2021-03-09T18:04:00Z

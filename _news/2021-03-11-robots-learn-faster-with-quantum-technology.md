@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-03-robots-faster-quantum-technology.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-robots-faster-quantum-technology.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 817
     height: 467
     isCached: true
+
+related:
+  - title: "Researchers Prove that Robots Learn Faster with Quantum Technology"
+    excerpt: "Robots solving computer games, recognizing human voices, or helping in finding optimal medical treatments: those are only a few"
+    publishedDateTime: 2021-03-11T23:28:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/researchers-prove-that-robots-learn-faster-with-quantum-technology/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 19
 
 secured: "IQsTG0dhEedVyV5orfpsUmDDhwK4EsMIzxNtkQG8Uc5Pw0O/s8Lsyv9McOwtZN2dmLTioR9KIaeoQYQFY61y5KY1METyUDwnaKWdzCt6aWbFykVllXS33uZjwASWBQTuxcCZTyaGj9JIHqB8QnFIVxVl8lrYTUjeto+tQnM/fPw6CNFmiXA8LeGB/acJcJFwBBywFyrjaidUb5sK/x8iRHCFpkRT2fQlBwvU2zYsFvO6RU0saqc15E1t9VLSBQDT1qQSv3mR6fLR0kfJ3/S3rIz2U3vNcq5FP4twULLpEXh0g+zsXUDdyTKVliZKekW7Ux3dyn51aM7Ec9E83xpb4ziv690A4zv81xGxpkLKt2ZmQKFpuKVsiWfKlMlacEy6HPnwcd7Wdniz+rQ5XWLjNOPiX7LzFHui6o2KsCnrW49f7cic9mIU8+hgG5tOeFCCw0cvxyFsiXBMOBR9JzCF/z+q/2qhD1CcnyLoy7zSisGMA6W9uKw+J6PbArO/M2F9hqHuK2noY/uaK8R01Uknng==;UvuubNhoBgqkhvBs5zJWbw=="
 ---
