@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
+    excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
+    publishedDateTime: 2021-03-12T11:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "t4dwUAI19+KSpvIsZ6ob6KNrSvn7OYw+eKB72vanB/RyLvEQMnRFizKBK1+vJbFls7Qym79jyeoANrUghUxrAooozq3OnvGFN+4jpCrOOYbo9RShwf9HOqjDLB8DH+lO/Z+wz8kJnyFJ2kLBWoxaOtae/oTpDVpu39uvm9DYrXLf1n/+EKz41V+wLpuxpK3S5KqRXPpybw6SJ0870I/JLMMp3NvviRodjD5zNffHHGr4QCrY9k2laSwSXhvwi0FJCZxto5FGoA4U8W468aOm7/HjJgFSk9OfBoCcWCuAsvgLkLLMZJP3aX9ltWBYVQIyDn2hnukdv0PqDfyNAprx2lovtAEept/7UMgRIyJp+DM=;R4XN5rtnc84FvdBPH9v74Q=="
 ---

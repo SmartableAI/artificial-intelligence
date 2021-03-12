@@ -73,6 +73,22 @@ related:
         width: 1901
         height: 1353
         isCached: true
+  - title: "Tuning Up Nvidia’s AI Stack To Run On Virtual Infrastructure"
+    excerpt: "Having to install a new kind of systems software stack and create applications is hard enough. Having to master a new kind of hardware, and the management"
+    publishedDateTime: 2021-03-12T12:31:00Z
+    webUrl: "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/"
+    ampWebUrl: "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 61
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg"
+        width: 1199
+        height: 877
+        isCached: true
   - title: "NVIDIA AI Enterprise Software Suite introduced"
     excerpt: "NVIDIA has introduced a new software suite of enterprise-grade AI tools and frameworks in the form of the AI Enterprise Software Suite. NVIDIA"
     publishedDateTime: 2021-03-10T14:15:00Z

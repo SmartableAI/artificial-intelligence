@@ -83,6 +83,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tuning Up Nvidia’s AI Stack To Run On Virtual Infrastructure"
+    excerpt: "Having to install a new kind of systems software stack and create applications is hard enough. Having to master a new kind of hardware, and the management"
+    publishedDateTime: 2021-03-12T12:31:00Z
+    webUrl: "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/"
+    ampWebUrl: "https://www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/12/tuning-up-nvidias-ai-stack-to-run-on-virtual-infrastructure/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 61
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg"
+        width: 1199
+        height: 877
+        isCached: true
   - title: "Self-Driving Truck Company Plus to Use NVIDIA DRIVE Orin in Next-Generation Autonomous Driving System for Heavy Trucks"
     excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that it will equip the next generation of its autonomous truck driving system with the NVIDIA DRIVE Orin™ system-on-a-chip (SoC). The company plans to roll out ..."
     publishedDateTime: 2021-03-09T14:01:00Z

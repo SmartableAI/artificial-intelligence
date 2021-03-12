@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Enterprise AI Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to 2025 Forecast"
-excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
-publishedDateTime: 2021-03-08T12:18:00Z
-originalUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-2025-forecast-2021-03-08"
-webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-2025-forecast-2021-03-08"
+title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
+excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
+publishedDateTime: 2021-03-12T11:08:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
 type: article
-quality: 41
+quality: 29
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -71,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Enterprise AI Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to 2025 Forecast"
+    excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
+    publishedDateTime: 2021-03-08T12:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-2025-forecast-2021-03-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning Chipset Market 2020 Future Trend, Business Strategies, Revenue Value, Comprehensive Analysis and Forecast by 2025"
     excerpt: "This study document namely Global Deep Learning Chipset Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 begins with an overview of the market and presents it throughout its development."
     publishedDateTime: 2021-03-09T00:17:00Z
@@ -85,21 +98,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
-    excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
-    publishedDateTime: 2021-03-12T11:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "7sKMexpmFxa+Kl0+n2VHqvxt/UPapNdewwzS6aEbVclhA0QQZtPm/ekUY52KrEy2jRt0h5WZiXkreeQHHrJa/oR3awl1jKfyro663dZLFq38K0VAh/Xk9ftbhwnZZ9d+QlJXChoHrK5gxhcZ1WAG3ckZefgNaD0vKVDUKXW9Kc1LmzO22cN0Krl0o213dXwVqv8nefF88EtUUz8RHo2XwvVfH1gu30XTfQ70XtxDFCE+OyUAHBQyK8zkMPSoRbzj7frfwUBH+cmOWxpAF7DcKPyUed5l2DtLqRASQyQASJldbzNKCRsny8SED+RdWquPF/jPsZEEzSYxVZJmAFC5NkeKkzSBDC1QoDZSunJ86lY=;Nlqkg7Oi2PU1j9T5OveHZw=="
+secured: "ofaTJV0DcH6lEbTCrWzfhpJzx8E8D/IJs+D489x4/CEkuA5SodgwEOPZ6vI0AqZmXXIkozqViKdB0vkraqraDdQc0Q/9n+80cXoIcMUys6WK8iWso6SbjE02xrYiuMu73s9Aa7VPosalMgyuezLIbeIu2ATta6ze+FX5qAkpsOOE5RA0OPdQo0vhTLljgtBFK8VXJYhmTkzs4QNaZCzAtjhjnmTSp8HEgEaCw2ZJIn7xOISr4UyROhpOzdbpcm58ZHrJzIpQp+OiyLn3RHn4sFlmTUqMemhOkUTEeYlMz5qimDGKYLPAml+Ih3mnZIPXTKtD6qHUm+qrM7eq88c+X6c2NwiuJyn9HWhOPPhKSO8=;1gRjKjOP1n3J+V4DHo91cw=="
 ---
 

@@ -25,46 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Seminar on artificial intelligence in education"
-    excerpt: "A three-day online international seminar on ‘Artificial intelligence in education’ will begin on Monday. Being organised by the State Institute of Educational Technology, in association with the Depar"
-    publishedDateTime: 2021-03-07T19:20:00Z
-    webUrl: "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece/amp/"
+  - title: "How AI Will Impact The Future Of Work And Life"
+    excerpt: "How will AI change the future of work? Here's a look at what the future might hold as AI evolves and humans adapt."
+    publishedDateTime: 2021-03-10T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 69
     images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603c0d52695f2a07f37ff642%2F0x0.jpg"
+        width: 1199
+        height: 652
         isCached: true
-  - title: "Line of Credit.AI announces SWIFT MT 799 Educational Content"
-    excerpt: "Line of Credit.AI has announced an educational video and blog post describing what is a MT 799 is and how various institutions"
-    publishedDateTime: 2021-03-12T05:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/n20136096/line-of-credit-ai-announces-swift-mt-799-educational-content"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20136096"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20136096"
+  - title: "A sneak peek of the current state and future use of artificial intelligence in pathology"
+    excerpt: "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and find evidence of strokes on brain CT scans."
+    publishedDateTime: 2021-03-08T06:35:00Z
+    webUrl: "https://www.news-medical.net/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-  - title: "R3 Score’s CEO Laurin Leonard to Speak at Virtual Seminar on Mass Incarceration and the Human Rights Implications of AI"
-    excerpt: "Seminar Sponsored by the Carr Center for Human Rights Policy BALTIMORE, MD - ( NewMediaWire) - March 11, 2021 - Global Boatworks Holdings, Inc.(OTC: GBBT), (“Global” or “the Company”), the developer of an AI-enabled financial software platform through its subsidiary,"
-    publishedDateTime: 2021-03-12T06:44:00Z
-    webUrl: "https://apnews.com/press-release/newmediawire/technology-technology-issues-north-america-human-rights-and-civil-liberties-baltimore-2fa998af496efd7e9e73a47ae53dbec3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
+      name: News Medical
+      domain: news-medical.net
+    quality: 50
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/3/GettyFuturePathologyWEB.jpg"
+        width: 760
+        height: 507
         isCached: true
 
 secured: "oleINfJfH7J/8CwylbCkr+Gc+BAZwZJcPW66bUOGWbcTI5IOyrW5htBg4mnR8dyMFqhf+t4h00oYAqAtiYQmmXDyT8ZnlrAWm0pzm/yvsZaGB6Sd4ABnaUUUIDDN+B61U3lb2QdqPRR6ztwFJa4/uB2vXLDnEcddypzunF6VD5AyNQtc5HzUj1vJVfWjUQxlV0RLSow+uyNtnOvGiwY+sRrhvpQlfIrF8kEOK6Xygtths1j8TQn770oT0/QfM69O/EomwgXhF21OrrwAoRuvM9hgVFMvIVJo5tmiT0cOc0VB4+qI0pvxbTKq6nL2pXoUuwALdaY8NC4D4AGOs5eL8/WF0ZAkVYTpKhXwxR9jszo=;lmiraJHdPLj1UMRCZal6sQ=="
