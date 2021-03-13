@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/366465"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366465"
 type: article
 quality: 87
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://www.smartdatacollective.com/wp-content/uploads/2021/03/shutterstock_1548966761.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Here's how artificial intelligence and IoT can improve travel experience"
-    excerpt: "Artificial intelligence and IoT to give more personalised ticket booking experience and help users find the best deals and recommendations to fulfill their travel plans with ease."
-    publishedDateTime: 2021-03-08T11:35:00Z
-    webUrl: "https://www.hindustantimes.com/lifestyle/travel/heres-how-artificial-intelligence-and-iot-can-improve-travel-experience-101615202780653.html"
-    ampWebUrl: "https://www.hindustantimes.com/lifestyle/travel/heres-how-artificial-intelligence-and-iot-can-improve-travel-experience-101615202780653-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/travel/heres-how-artificial-intelligence-and-iot-can-improve-travel-experience-101615202780653-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/03/08/1600x900/pjimage_-_2021-03-08T170252.358_1615203195986_1615203203230.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI"
     excerpt: "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."

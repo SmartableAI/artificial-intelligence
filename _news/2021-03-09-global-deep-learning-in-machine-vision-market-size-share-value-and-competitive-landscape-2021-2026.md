@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) for Telecommunication Market Evolving Technology, Segmentation and Industry Analysis by 2025"
+    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025."
+    publishedDateTime: 2021-03-12T20:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market-evolving-technology-segmentation-and-industry-analysis-by-2025-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in energy Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
     excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Artificial Intelligence in energy market is expected to reach a market size of USD 20."
     publishedDateTime: 2021-03-10T21:03:00Z

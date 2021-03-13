@@ -57,22 +57,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Here's how artificial intelligence and IoT can improve travel experience"
-    excerpt: "Artificial intelligence and IoT to give more personalised ticket booking experience and help users find the best deals and recommendations to fulfill their travel plans with ease."
-    publishedDateTime: 2021-03-08T11:35:00Z
-    webUrl: "https://www.hindustantimes.com/lifestyle/travel/heres-how-artificial-intelligence-and-iot-can-improve-travel-experience-101615202780653.html"
-    ampWebUrl: "https://www.hindustantimes.com/lifestyle/travel/heres-how-artificial-intelligence-and-iot-can-improve-travel-experience-101615202780653-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/travel/heres-how-artificial-intelligence-and-iot-can-improve-travel-experience-101615202780653-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/03/08/1600x900/pjimage_-_2021-03-08T170252.358_1615203195986_1615203203230.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Rackspace Technology, Sentrics enhance senior digital experience with AI, machine learning"
     excerpt: "Sentrics provides data-driven products that deliver a complete view of residents in assisted living care facilities. To provide mobility impaired seniors with a voice-controlled, all-in-one digital platform,"
     publishedDateTime: 2021-03-08T16:00:00Z

@@ -24,22 +24,6 @@ images:
     height: 360
     isCached: true
 
-related:
-  - title: "ING invests in credit scoring startup Flowcast"
-    excerpt: "ING Ventures is investing an additional $3 million into Flowcast, a fintech startup that applies AI to the credit and collection process for non-performing loans."
-    publishedDateTime: 2021-03-08T11:09:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37621/ing-invests-in-credit-scoring-startup-flowcast"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 22
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/ing.jpeg"
-        width: 480
-        height: 270
-        isCached: true
-
 secured: "7OIZZmB93nbhXVKnauhVC3fzOGDsOzr+vWAFiyZgiYsNWQGDn1FBhBWHTI0Uw/GwTufK0wMVRMT0CLCijfAnYmUfb82Fdyel9l+7YRsdSFgty1gGiWSoj+OIduKKz1Kmo54yI0oNE/cGNP0FtVBUWaaKPslZitiODCrG7LWWLlzBRDJF5y7RzN3WuF8COnQAbB5AU+Gf7L8CynnVZOOCG3Y8YFmtsQUxAK9gatD0xy8CN3YiI6e5bBCs8PBJti0qxvOECAK5E+coSOuGkAInhB4FtxcKSDVR2kO8uJ7HJhaw8w/QF40SCQy+jh1mZFpaTWU6c6XfsbNOXhX8EwS+w18g0ynGdIp+pHRMvAPWwOE=;KSaU5QmqLPPTLIDezo/sbg=="
 ---
 

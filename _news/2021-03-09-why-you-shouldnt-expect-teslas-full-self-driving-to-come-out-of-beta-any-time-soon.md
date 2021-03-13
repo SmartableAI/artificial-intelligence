@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-tes
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/"
 type: article
 quality: 96
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -60,22 +60,6 @@ related:
     quality: 78
     images:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla’s communications with DMV over Full Self-Driving are released and they bring some confusion"
-    excerpt: "Tesla’s communications with DMV over the release of its Full Self-Driving Beta have been released through a freedom of information request. Some of the comments made by Tesla to the DMV are bringing some confusion to people as they could be interpreted as contradicting what Tesla and Elon Musk are saying publicly."
-    publishedDateTime: 2021-03-08T11:42:00Z
-    webUrl: "https://electrek.co/2021/03/08/teslas-communications-with-dmv-over-full-self-driving-are-released-and-they-bring-some-confusion/"
-    ampWebUrl: "https://electrek.co/2021/03/08/teslas-communications-with-dmv-over-full-self-driving-are-released-and-they-bring-some-confusion/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/08/teslas-communications-with-dmv-over-full-self-driving-are-released-and-they-bring-some-confusion/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 76
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
         isCached: true

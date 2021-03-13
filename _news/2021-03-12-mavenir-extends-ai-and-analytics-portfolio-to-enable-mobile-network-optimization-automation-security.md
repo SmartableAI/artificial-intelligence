@@ -71,17 +71,6 @@ related:
         width: 1400
         height: 732
         isCached: true
-  - title: "QCRI to hold seventh annual machine learning and data analytics symposium"
-    excerpt: "Doha: The Qatar Center for Artificial Intelligence (QCAI), part of the Qatar Computing Research Institute (QCRI) at Hamad Bin Khalifa University (HBKU), will host the seventh annual Machine Learning and Data Analytics Symposium (MLDAS) in collaboration with The Boeing Company."
-    publishedDateTime: 2021-03-08T12:48:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/QCRI_to_hold_seventh_annual_machine_learning_and_data_analytics_symposium-ZAWYA20210308124843/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210308124843/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210308124843/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 38
   - title: "AI Diagnostics Firm Ibex Medical Closes $38M Funding Round"
     excerpt: "Ibex Medical develops clinical-grade, AI-based solutions that help pathologists detect and grade cancer in biopsies."
     publishedDateTime: 2021-03-10T08:12:00Z

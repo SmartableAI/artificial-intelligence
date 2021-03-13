@@ -58,17 +58,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "QCRI to hold seventh annual machine learning and data analytics symposium"
-    excerpt: "Doha: The Qatar Center for Artificial Intelligence (QCAI), part of the Qatar Computing Research Institute (QCRI) at Hamad Bin Khalifa University (HBKU), will host the seventh annual Machine Learning and Data Analytics Symposium (MLDAS) in collaboration with The Boeing Company."
-    publishedDateTime: 2021-03-08T12:48:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/QCRI_to_hold_seventh_annual_machine_learning_and_data_analytics_symposium-ZAWYA20210308124843/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210308124843/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210308124843/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 38
   - title: "Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security"
     excerpt: "Mavenir, the industry’s only end-to-end cloud-native Network Software Provider and a leader in accelerating software network transformation for communications service providers (CSPs), announced today its extended Artificial Intelligence (AI) and Analytics portfolio to enable closed-loop automation and drive digital transformation."
     publishedDateTime: 2021-03-12T06:43:00Z

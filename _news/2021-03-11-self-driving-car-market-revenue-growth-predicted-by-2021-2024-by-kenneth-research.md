@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-revenue-growth-predicted-by-2021-2024-by-kenneth-research-2021-03-11"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,64 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Cloud Natural Language Processing (NLP) Market Analysis, Segmentation And Forecast | By Kenneth Research"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and"
-    publishedDateTime: 2021-03-08T12:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits and Regional Analysis"
-    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10."
-    publishedDateTime: 2021-03-09T08:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) for Telecommunication Market Evolving Technology, Segmentation and Industry Analysis by 2025"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025."
-    publishedDateTime: 2021-03-12T20:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market-evolving-technology-segmentation-and-industry-analysis-by-2025-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Car Market To Witness Increase in Revenues by 2021-2023,Industry Research and End User Analysis|By Kenneth Research"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 12, 2021 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self ..."
-    publishedDateTime: 2021-03-12T14:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-to-witness-increase-in-revenues-by-2021-2023industry-research-and-end-user-analysisby-kenneth-research-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/4mt3X5Vs6iQwCm2ZJzxAiN/7RdjZiwH7/vQujnGNb7ycVggcwtjkkz2X7wPzJyTrKmNYReM0CcEIi2EW2YpDRXF/vubR5XVJqSmsCIQF7scqrrCznts8/AA3JtPofLFfQEcbLUP9Bvp3/3jxQW/Heji06zqjRWFvcmgiK8KldWsuZb1BcONBqJkEVJfk4dxU5mbxCMA+RTrnCK+QPUGlj3tm43k3P39ZTYquRbEZTnSw37Xw9iFHWNSawczTkSqzNmK5eki/pbI0yAU4nCQ0CQ98Jqs8cgk7S56NdC4HfGATuGzaM+JcnD5qMlCXmzS16Ix+OKzHQCUojS71b+APk8Gx806HYGM2id0X8u3HDQ=;tFf1j9fOfbs+mVhvPvvDIA=="
 ---

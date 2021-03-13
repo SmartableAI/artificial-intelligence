@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla’s communications with DMV over Full Self-Driving are released and they bring some confusion"
-    excerpt: "Tesla’s communications with DMV over the release of its Full Self-Driving Beta have been released through a freedom of information request. Some of the comments made by Tesla to the DMV are bringing some confusion to people as they could be interpreted as contradicting what Tesla and Elon Musk are saying publicly."
-    publishedDateTime: 2021-03-08T11:42:00Z
-    webUrl: "https://electrek.co/2021/03/08/teslas-communications-with-dmv-over-full-self-driving-are-released-and-they-bring-some-confusion/"
-    ampWebUrl: "https://electrek.co/2021/03/08/teslas-communications-with-dmv-over-full-self-driving-are-released-and-they-bring-some-confusion/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/08/teslas-communications-with-dmv-over-full-self-driving-are-released-and-they-bring-some-confusion/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 76
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla: “Full self-driving beta” isn’t designed for full self-driving"
     excerpt: "In October, Tesla released what it called its \"full self-driving beta\" software to a few dozen Tesla owners. A few days ago, Musk announced plans to expand the program to more customers. Given that the product is called \"full self-driving,"
     publishedDateTime: 2021-03-09T23:15:00Z
@@ -187,6 +171,6 @@ related:
       domain: detroitnews.com
     quality: 19
 
-secured: "neiI5+DDYrZa9ZZI3tfoBv92nYzMqaB1r6BOp+LUCxtzrL3wbYGny4FTlwyAS3RP+aJNaxw8CbWpqjMvSni7POE6I1YerRclCCygkHMuU82EKrUkE6NSjOLej1POjnzaOy8nnmHXRRqTCnNA/V49v3ficYXBdecKX7zOarokIpILCVGmRdUg/yyOkicigBkIsLkKpPMTepAIT0rWoVWR2tKB8cP1y5AmPE6egqwnjuiGg4EInNOm8kN7vEG1EXa8C5jSrWNgf/afyN5fVqlhSZqATm+urEnBN7W69nJ2TB6AdbVsdY48/VOAO74sbSiUoFIGALX5eKfXtpQ/vwySq3V1CNH66BBGZ3rET4X7PSM=;aIQg5do99vsjkmegn122Eg=="
+secured: "jiBrp79JNwejT/sgXqGRvY8c/2zMsP6JvXASyF2izEthoyuMDx0bz4dLvFJgkSdHb4F9Bwp+SxLWviNNa0wWj2GSiqsjivW1ErAwkp1TdaD0raDm05EaPKMfTrGx3OAHreS6snlpH22ZV8ji4RN60YtFPtwPBtherHh/95MtEWDu5zHomDn0ZiuiytuLiiEyZ1s1pXGqhMbTDQx+53EwUCWxpF/ZqBQhfi2zyEybJtLdhW3ydbkhWWLTjCbAz9EJywlVSbCZ1OJ3L4/GXj2jmt+4OUDY+KUiN1WTcIDM04Iq7G/WRD9Nk55jpHumJHmEzf7lKE1b4XOvHxXhIb5vfsHz/ehxv85rQE7wyAUiQZcta2GNpOD8mJXDZrB2a8q/MD2wkmdI77HECHYXxwPkDLQgLvPlI8ZQJz432WRKYAfX/NSNYnRTA8jCAL+k9Qd5bzgsArU6qAnLlvixB6ek0ISWP7Rqt0xGiGTsonqCAmjq5L6OppyLNtgoVZJSXExxzoAIo0kEx3kFhIUWRXCt8Q==;hJPvXYjtl5qRjjuGLanhzQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-industry-trends-revenue-key-players-growth-share-and-forecast-till-2027-2021-03-11"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,45 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Wearable Robots and Exoskeletons Market Overview By Share, Size, Industry Players, Revenue and Product Demand Till 2025"
-    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. Market Overview The wearable robots and exoskeletons are expected to record a CAGR of 22."
-    publishedDateTime: 2021-03-08T12:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-robots-and-exoskeletons-market-overview-by-share-size-industry-players-revenue-and-product-demand-till-2025-2021-03-08"
+  - title: "Natural Language Processing Market Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits and Regional Analysis"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10."
+    publishedDateTime: 2021-03-09T08:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis-2021-03-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Chipset Market 2020 Future Trend, Business Strategies, Revenue Value, Comprehensive Analysis and Forecast by 2025"
-    excerpt: "This study document namely Global Deep Learning Chipset Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 begins with an overview of the market and presents it throughout its development."
-    publishedDateTime: 2021-03-09T00:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-future-trend-business-strategies-revenue-value-comprehensive-analysis-and-forecast-by-2025-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Time to restyle the fashion industry that is AI in Fashion Market Industry by 2021- 2026| Adobe, Oracle"
-    excerpt: "The AI in the Fashion Industry is expected to grow at a CAGR of 39 17 during the forecast period 2020 2026 The AI in Fashion Market information introduced inside this report is acquired dependent on a few strategies for"
-    publishedDateTime: 2021-03-08T13:53:00Z
-    webUrl: "https://www.openpr.com/news/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
-    ampWebUrl: "https://www.openpr.com/amp/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 23
 
 secured: "FhHQf08HxjFG3pvK+hK0zeFMnW/sSsteLJrQB6GUD+zJe27JMG5cgActkBo+auHpXzTHoTENNwur5+t8+7V2Ibbfh14Y08fhGMN5a7IMzFslztixolVBPsCwaH3yQA/dGbdOQXOEEmCLTBUlfaHNI23JhZagFo9jPxMpHZARxbxywi8iyDsCHsgbf+dMEn2tQ8zq0W1r4ZSheL9KvW6Ayn0/3x1A+sLgcoFiKqu2/TK+KvcTTH1CQJYGJjEqyIpTz7O9AaUif5IcSzZ6rDKA7y27rWR2POMR4HH50zDkcVrq7Mp7qfc4hqNYqqfvM2ZEpRu8RJVEYNeZl1LDXklAilwPO/HEMhecLzFLb/ouTDE=;VRZyhiryGYBhsGAeqVHByg=="
 ---

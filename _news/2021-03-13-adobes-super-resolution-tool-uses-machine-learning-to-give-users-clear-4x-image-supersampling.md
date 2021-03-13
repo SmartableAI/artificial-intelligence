@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/88909-adobe-super-resolution-tool-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html"
 type: article
 quality: 77
-heat: 87
+heat: 89
 published: true
 
 provider:
