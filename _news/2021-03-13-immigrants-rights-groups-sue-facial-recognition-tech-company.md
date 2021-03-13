@@ -89,20 +89,6 @@ related:
         width: 1280
         height: 824
         isCached: true
-  - title: "Chinese lawmakers consider more facial recognition restrictions"
-    excerpt: "Though the group acknowledges that face biometrics play an important role in society, privacy threats and security vulnerabilities are being highlighted."
-    publishedDateTime: 2021-03-08T17:25:00Z
-    webUrl: "https://www.biometricupdate.com/202103/chinese-lawmakers-consider-more-facial-recognition-restrictions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
 
 secured: "Yb3FvKLTWjqOo1V1aQHjkpTtp+oPVz7pqRffqb1Y1/y7+tk06kueYRU/lie/lc0PyEHgHWjjWTYRCrw74VJ8SL0aV4JxKfSRGVWfJ9MKq7THB4qWOfGu6Ync6ItkWW5ksd0J0sCbTAw6Edx+NwnKOvJPCFvjdRvKoMs+BMeza/Bm/cBuQJ3GEu4hDABgqGmb/El7vaK97oDPaHShM/v0ELB7N0kh+m8bgT76m/jkHy872u9vDwjH2ESHAtlPtSuq8KfUrZz+ldyMXW3VVMFLAVz5/CtaPaQAyNPsKnUCOnQBwnp8wo6J1RYNERY2kOafNTbbJQWyHnxwCj3aDh577A8bANn7mZb4LvVWKVgB+Ng=;IQme89usxpff/dX1iUDeZw=="
 ---

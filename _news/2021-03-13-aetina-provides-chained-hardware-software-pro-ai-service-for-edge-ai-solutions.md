@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Embedded Hardware for Processing AI at the Edge: GPU, VPU, FPGA and ASIC Explained"
-    excerpt: "To meet the new demands of today, hardware must evolve from control and rules-based systems to data-centric environments to accommodate edge AI."
-    publishedDateTime: 2021-03-08T17:07:00Z
-    webUrl: "https://www.automation.com/en-us/articles/march-2021/embedded-hardware-processing-ai-edge-gpu-vpu-fpga"
+  - title: "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions"
+    excerpt: "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions"
+    publishedDateTime: 2021-03-11T13:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497"
     type: article
     provider:
-      name: Automation
-      domain: automation.com
-    quality: 48
-    images:
-      - url: "https://www.automation.com/getmedia/2f317356-d8ab-4f39-8c94-f6006f757c52/adlink-headshot-March-8-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
 
 secured: "T8V7VyQzP12/PnvJvlSuwZTX7C2n7kmjVrTFIXSkE7kZsxPulLGphJIPMf3gW8Xi77/HtqtDAcOLk43Exzq6GRJf2ontd1PRZmiV+mmfcmc5ESEsoyJXyozMLOCv3iiex31WxtUIlKdksiX/1Q/vS0/iHZuXUgdR/17QQ6blc/hqqyy+TPqrBvhb0XClSc8O/3ODlA7IXqvVgt9JmWae1BPkf87MRz84mSALvJ2gGEsjF5j4+FQin18uYlDLwKqhNSb7XwM6BT+4TjBcOdV0DqSA+V2fRRGBitrFchZ5ZlwItqdf93a7pBpNfFM0hcnVJCXnFI6is77G2ShW7Z1JA1IQU8oFw8NnB5vCpcnQTXTLRZz5amUpeHp+K/xIjUCYmzEmqQyMDblgNKzap/GoqWrt+1bFSBzvlox6b/+PYwYna/81Qq//r+iekiOl8ZySIbfWdgy67OaGD3iLpEUFbjgTaTseB8XmxZWVkbAkMGlgQh6UsNNMRoTaVS6jh1f7vzzQ82MLd7kSJ9gIWns/yA==;H9HXo2lIyGozah7ygQTNNw=="
 ---

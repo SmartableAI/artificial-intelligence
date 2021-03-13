@@ -75,20 +75,6 @@ related:
         width: 3723
         height: 2094
         isCached: true
-  - title: "Chinese lawmakers consider more facial recognition restrictions"
-    excerpt: "Though the group acknowledges that face biometrics play an important role in society, privacy threats and security vulnerabilities are being highlighted."
-    publishedDateTime: 2021-03-08T17:25:00Z
-    webUrl: "https://www.biometricupdate.com/202103/chinese-lawmakers-consider-more-facial-recognition-restrictions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
-        width: 1600
-        height: 1035
-        isCached: true
   - title: "Immigrants’ rights groups sue facial recognition tech company"
     excerpt: "Two immigrants’ rights groups have sued Clearview AI, arguing the facial recognition tech company violates their privacy rights. The company is building one of the largest databases of human faces in the US,"
     publishedDateTime: 2021-03-12T21:15:00Z

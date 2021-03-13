@@ -9,7 +9,7 @@ ampWebUrl: "https://patch.com/virginia/ashburn/amp/29339370/artificial-intellige
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/ashburn/amp/29339370/artificial-intelligence-company-plans-headquarters-in-loudoun"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
     quality: 50
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/custom/image/d67912d4-211a-11e6-ad8b-8f0a9483ff88.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Health care AI company bringing U.S. HQ to Loudoun"
+    excerpt: "Zasti Inc., a health care-related artificial intelligence technology company, is investing $5.9 million to establish its U.S. headquarters in Loudoun County, creating 60 jobs, Virginia Gov. Ralph Northam announced Thursday."
+    publishedDateTime: 2021-03-11T22:14:00Z
+    webUrl: "https://www.virginiabusiness.com/article/health-care-ai-company-bringing-u-s-hq-to-loudoun/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 39
+    images:
+      - url: "https://www.virginiabusiness.com/wp-content/uploads/2019/10/share.png"
         width: 1200
         height: 630
         isCached: true

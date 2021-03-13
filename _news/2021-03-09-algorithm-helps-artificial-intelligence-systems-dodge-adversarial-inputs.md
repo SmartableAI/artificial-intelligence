@@ -40,6 +40,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "UK military planners deploy AI to gain edge over adversaries"
+    excerpt: "The UK armed forces will use artificial intelligence to predict adversaries’ behaviour, perform reconnaissance and relay real-time intelligence from the battlefield, according to technology companies that work for the government."
+    publishedDateTime: 2021-03-12T23:10:00Z
+    webUrl: "https://www.ft.com/content/94d59a36-099a-4add-80d3-475127b231c7"
+    ampWebUrl: "https://amp.ft.com/content/94d59a36-099a-4add-80d3-475127b231c7"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/94d59a36-099a-4add-80d3-475127b231c7"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdcd3df79-d9a2-4955-a46e-9e46c27ae2dc.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
 
 secured: "Owlu1zxyD7Q4lxgAjb62M2UOQiDedd/ohjx+AmV/fEAiydOxY0oKQi198QXT53MTgcfpOdiH84dykjY0I1JCmXh7iEZS4TCuHbVjUuMy3dQXDDOsKzF8yCc2LzkWxWs+qW5ftqhrOhb7FnEJIOz7Dcuj5EeOmaQm+6fkiaBJQPXTrhAnzu+PvRWuh5tL8XCBrwjG0gNjFDV65PpNI/yZj1jtyVj7sVTYaaotNLH4kTjg/08DzhaPGcuv3yuf8dETZMeOiYGkjKQfg7/8OtqLBwYAYaz97oVJfUE+YtYQmZPaezLJvgBu+M8Ls3eRnsTLFLDLb/uTwPNm1SxwgBjFfAiU0lL94ho57UuBttefFpA=;qNanP9a8g4dEWztuhgfA9g=="
 ---

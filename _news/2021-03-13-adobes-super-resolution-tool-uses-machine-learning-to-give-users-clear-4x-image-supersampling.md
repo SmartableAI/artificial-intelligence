@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/88909-adobe-super-resolution-tool-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html"
 type: article
 quality: 77
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 2560
     height: 1707
     isCached: true
-
-related:
-  - title: "Deep learning-based point-scanning super-resolution imaging"
-    excerpt: "Point-scanning super-resolution imaging uses deep learning to supersample undersampled images and enable time-lapse imaging of subcellular events. An accompanying ‘crappifier’ rapidly generates quality training data for robust performance."
-    publishedDateTime: 2021-03-08T17:28:00Z
-    webUrl: "https://www.nature.com/articles/s41592-021-01080-z"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41592-021-01080-z/MediaObjects/41592_2021_1080_Fig1_HTML.png"
-        width: 555
-        height: 685
-        isCached: true
 
 secured: "bEu+qY44Kceu1A77fNTDw0KKermQVIzSxmN7hbXZ8XwMlGdJTV3WV6BL4uy2AHI0cA4oxKERBcDmXJ0ChD6gaRFS8CbwY3yToW79oSxaj4I3ORoBbWIUpdsSsf6SFie/lXIi5FoD5jldTbxU2Ru2wQSZaQJjXA1pN/FcsF2gWO9vdVTXzhHf4Tw7Yi0NHLiMwbYfxZ1YzeqHfYS9qqjayDiodCbvQm7F0ox03AVoaCRPqLKQF8R9d6UKpMsv8ADX3Mhf3EuECkTFgNdsRqbIpo3AMIxAXXCwbGc2wYN57tz+QN3p0QIlgfW/o2iSZ/nV5GrP7m3oP3zCWxqn7hhaoxgjAhO16z9FbLOQ6T4xSXpAWLVCKzOE/od2YcGGCOhPmB7IN0tWFsSY7TujjN8Od+WTEVrO7XuHkysPlyKAuUxAqPsQZcE7TE2Wouy9bydhqDNqWHv8tvKj+zDNljRq8WV5RnA+LbZD54S4Q3/CPuJppU6u5cEqrcjF0LC2UH/j12ROoZyF2KhucA6yuSYZFg==;WIu3q8sEMzuQG3VT7LO/9w=="
 ---
