@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI reveals current drugs that may help combat Alzheimer’s"
-    excerpt: "The drugs work by blocking the action of inflammation-fueling Janus kinase proteins, suspected to play a role in Alzheimer's disease and known for their role in autoimmune conditions."
-    publishedDateTime: 2021-03-08T08:08:00Z
-    webUrl: "https://www.thestatesman.com/lifestyle/health/ai-reveals-current-drugs-may-help-combat-alzheimers-1502956149.html"
-    ampWebUrl: "https://www.thestatesman.com/lifestyle/health/ai-reveals-current-drugs-may-help-combat-alzheimers-1502956149.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/lifestyle/health/ai-reveals-current-drugs-may-help-combat-alzheimers-1502956149.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2019/05/AI-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "HMS Researchers Use Machine Learning to Recommend Drugs for Alzheimer’s Disease Clinical Trials"
     excerpt: "Harvard Medical School researchers developed a strategy that uses machine learning to recommend drugs as candidates for clinical trials for Alzheimer’s disease, according to an article published in the journal Nature Communications last month. A team of ..."
     publishedDateTime: 2021-03-12T06:18:00Z

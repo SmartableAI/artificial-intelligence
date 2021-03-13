@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/"
 type: article
 quality: 74
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/aadhaar15627408699411575965021660png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
-        isCached: true
-  - title: "Top 8 Wonder Women Leading Fintech Industry in India"
-    excerpt: "With the steady growth of the Indian startup ecosystem, an increasing number of women are pursuing the entrepreneurial dream and succeeding in their businesses"
-    publishedDateTime: 2021-03-08T07:36:00Z
-    webUrl: "https://www.goodreturns.in/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
-    ampWebUrl: "https://www.goodreturns.in/amphtml/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
-    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
-    type: article
-    provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 44
-    images:
-      - url: "https://www.goodreturns.in/img/2021/03/upasana-taku-1615188477.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "From Wedding Planning To Cannabis, B2B FinTech Funders Go Niche"
     excerpt: "From wedding planning to cannabis to the entertainment industry, this week's B2B FinTech investors targeted financial solution providers in niche markets."

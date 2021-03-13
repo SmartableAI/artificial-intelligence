@@ -29,62 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) Chipsets Market (2020 to 2027) - Size & Forecasts with Impact Analysis of COVID-19"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-03-08T07:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08"
+  - title: "Artificial Intelligence in the Education Sector Market Industry Trends, Revenue, Key Players, Growth, Share and Forecast Till 2027"
+    excerpt: "Mar 11, 2021 (Market Insight Reports) -- Increasing demand for real-time learner's progress monitoring and analysis solutions, and growing demand for AI technology to simplify administrative processes at institutions is driving artificial intelligence ..."
+    publishedDateTime: 2021-03-11T21:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-industry-trends-revenue-key-players-growth-share-and-forecast-till-2027-2021-03-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 81
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
-    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Drug Discovery Market Size, which is a detailed analysis of this business space inclusive of the trends,"
-    publishedDateTime: 2021-03-10T06:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2021-03-10"
+  - title: "Wearable Robots and Exoskeletons Market Overview By Share, Size, Industry Players, Revenue and Product Demand Till 2025"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. Market Overview The wearable robots and exoskeletons are expected to record a CAGR of 22."
+    publishedDateTime: 2021-03-08T12:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-robots-and-exoskeletons-market-overview-by-share-size-industry-players-revenue-and-product-demand-till-2025-2021-03-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Enterprise AI Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to 2025 Forecast"
-    excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
-    publishedDateTime: 2021-03-08T12:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-2025-forecast-2021-03-08"
+  - title: "Time to restyle the fashion industry that is AI in Fashion Market Industry by 2021- 2026| Adobe, Oracle"
+    excerpt: "The AI in the Fashion Industry is expected to grow at a CAGR of 39 17 during the forecast period 2020 2026 The AI in Fashion Market information introduced inside this report is acquired dependent on a few strategies for"
+    publishedDateTime: 2021-03-08T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
+    ampWebUrl: "https://www.openpr.com/amp/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
-    excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
-    publishedDateTime: 2021-03-12T11:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
 
 secured: "t4dwUAI19+KSpvIsZ6ob6KNrSvn7OYw+eKB72vanB/RyLvEQMnRFizKBK1+vJbFls7Qym79jyeoANrUghUxrAooozq3OnvGFN+4jpCrOOYbo9RShwf9HOqjDLB8DH+lO/Z+wz8kJnyFJ2kLBWoxaOtae/oTpDVpu39uvm9DYrXLf1n/+EKz41V+wLpuxpK3S5KqRXPpybw6SJ0870I/JLMMp3NvviRodjD5zNffHHGr4QCrY9k2laSwSXhvwi0FJCZxto5FGoA4U8W468aOm7/HjJgFSk9OfBoCcWCuAsvgLkLLMZJP3aX9ltWBYVQIyDn2hnukdv0PqDfyNAprx2lovtAEept/7UMgRIyJp+DM=;R4XN5rtnc84FvdBPH9v74Q=="
 ---

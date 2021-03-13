@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diag
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/"
 type: article
 quality: 85
-heat: 106
+heat: 105
 published: true
 
 provider:

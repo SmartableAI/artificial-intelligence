@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-13-greenpro-ai-accounting-enters-into-strategic-collaboration-agreement-with-ibizzcloud-ai-robotax.md",
+      "title": "GreenPro AI Accounting Enters into Strategic Collaboration Agreement with iBizzCloud AI-Robotax",
+      "excerpt": "GreenPro AI Accounting is targeting 15,000 users of iBizzCloud AI-Robotax ... We also operate venture capital businesses, including business development for start-ups and high growth companies, covering finance, technology, FinTech, and health and wellness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/greenpro-ai-accounting-enters-into-strategic-collaboration-agreement-with-ibizzcloud-ai-robotax-2021-03-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/greenpro-ai-accounting-enters-into-strategic-collaboration-agreement-with-ibizzcloud-ai-robotax-2021-03-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box.md",
       "title": "The Chronicles Of AI Ethics: The Man, The Machine, And The Black Box",
       "excerpt": "Today, machine learning and artificial intelligence systems, trained by data, have become so effective that many of the largest and most well-respected companies in the world use them almost exclusively to make mission-critical business decisions.",
@@ -469,7 +521,7 @@
       "originalUrl": "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -918,7 +970,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-industry-trends-revenue-key-players-growth-share-and-forecast-till-2027-2021-03-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1218,57 +1270,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-go-big-or-go-home-asset-wealth-managers-need-to-seize-the-day-on-ai.md",
-      "title": "Go Big Or Go Home: Asset & Wealth Managers Need To Seize The Day On AI",
-      "excerpt": "Everyone in asset and wealth management is using AI, but there are significant differences between the leaders and the laggards in how they are applying it within their organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048d0304680ea5d0de7f05a%2F0x0.jpg",
-          "width": 513,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/amp/",
-      "publishedDateTime": "2021-03-11T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-23-dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages.md",
+      "title": "Dynamic Yield Improves eCommerce Sales with Deep Learning-Based Personalized Listing Pages",
+      "excerpt": "Solution uses a self-training ranking engine to dynamically transform static, one-size-fits-all listing pages into fully individualized",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
+      "publishedDateTime": "2021-02-23T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-autel-robotics-evo-drone-review_.md",
       "title": "Autel Robotics EVO Drone Review_",
       "excerpt": "The Autel Robotics EVO Drone gives you a high quality ... Like the DJI Mavic Pro Quadcopter, you’re getting a pretty impressive range of control distance with this “follow me” drone.",
@@ -1105,58 +1149,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-mschf-mounted-a-remote-control-paintball-gun-to-spot.md",
-      "title": "MSCHF mounted a remote-control paintball gun to Spot",
-      "excerpt": "I had the chance to control the robot for the first time at one of our ... Anyone in their right mind knows these little cuties will kill people sooner or later.” While early Boston Dynamics ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/",
-      "originalUrl": "https://techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/G84A2121.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/amp/",
-      "publishedDateTime": "2021-02-22T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

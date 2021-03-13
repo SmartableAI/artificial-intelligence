@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/88apzb/the-army-is-teaching-faci
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg"
         width: 1600
         height: 1035
+        isCached: true
+  - title: "Immigrants’ rights groups sue facial recognition tech company"
+    excerpt: "Two immigrants’ rights groups have sued Clearview AI, arguing the facial recognition tech company violates their privacy rights. The company is building one of the largest databases of human faces in the US,"
+    publishedDateTime: 2021-03-12T21:15:00Z
+    webUrl: "https://www.pri.org/file/2021-03-12/immigrants-rights-groups-sue-facial-recognition-tech-company"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 39
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
         isCached: true
 
 secured: "9TcNw46dRKsZmg4kudnPfYBtaSgcVAAMviKz8moTNt7SVwRm08pcjbkHfoVs1t1E5OaGmVGRqvecmRE3YH6EvygH92PKoSXMC9x7/4lcY4x9jb4L9kv1WH2QteJU9lEtvGnx1I2bOZqWHMhvcPep0qv9k7m98AtplrVF5lkDmVrRkMMTsYMolk5Kw/qB+EtCMa0sjF5WFWAJVobIQu8ElsSm8hpKGOL2lm2gFHU7zEtMwxSgyzog/phiErDvlYwIcqx7GG6dWQiJfhcLRFf9hZy8Sv26DUXDnDqZ3pVoSn0siqYthu0n80f59hIv6RUQAMjuPeR2Z4VrzHduGh/EPtfYc4eFD7/FZd0H64r+LQBZiiwBwljWfQxpZLKp/rm/my3jYXhmC0a5Msphc3ZRBx4e65wlAH/av7AMaDZfPlSEY3GDzqesxmNur1l9AYGUxGzZyZUTnHgW4a5/wFdbU17ybapAaU60iu1tI3ZTFlLwAWi9fjSBi8KQ7xwQIgvtM8mlXe9lnHX0V8v3OKuYgA==;24OkdW8fNV3KwgguaazioA=="

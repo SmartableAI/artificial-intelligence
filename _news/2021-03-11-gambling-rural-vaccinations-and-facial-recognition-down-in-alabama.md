@@ -89,6 +89,20 @@ related:
         width: 1600
         height: 1035
         isCached: true
+  - title: "Immigrants’ rights groups sue facial recognition tech company"
+    excerpt: "Two immigrants’ rights groups have sued Clearview AI, arguing the facial recognition tech company violates their privacy rights. The company is building one of the largest databases of human faces in the US,"
+    publishedDateTime: 2021-03-12T21:15:00Z
+    webUrl: "https://www.pri.org/file/2021-03-12/immigrants-rights-groups-sue-facial-recognition-tech-company"
+    type: article
+    provider:
+      name: PRI
+      domain: pri.org
+    quality: 39
+    images:
+      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
+        width: 1200
+        height: 707
+        isCached: true
 
 secured: "m74+pgsqksfK7FoKOT3bEn57s7HzwruYxQOehRkSQjQrLtk/xJz+XXUpcS7lVbb3uSLEJDJHgITP058hurtwZ1B9MK9PsOxo5WubYbjaH2jf7dNWe+1AdFRAS/DKOHDTEq1a/tPGRzSsMIgZXmjd9LfbSMt4avQN3Az4et1VRs5cRDy4p/E2QWL0Q4UlPX1U2yFXWwtAZ4ZX9hEKNv0bKKC3Fs3CZ7FUFMVGMNlEAe6QfP/WRBZ6Y+VDz/ba+g/6fy59uCyjDAYg9AWV9iVy0B+spnKBYbJ0SfS2si8UzaNv7g1irpw4lvgYEG5lf4YMKBlKTwKwV/kiNuMVlO9bG3/62rkB00w9KrM0HWhw7KA=;d+1EoFeRbkdIeuHVV3R5xA=="
 ---

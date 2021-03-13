@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-11-employee-engagement-startup-centrical-raises-32m.md",
+      "title": "Employee engagement startup Centrical raises $32M",
+      "excerpt": "Employee monitoring startup Centrical raised $32 million to expand its geographic reach and acquire new customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/10/employee-engagement-startup-centrical-raises-32m/",
+      "originalUrl": "https://venturebeat.com/2021/03/10/employee-engagement-startup-centrical-raises-32m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/shutterstock_291603116.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/10/employee-engagement-startup-centrical-raises-32m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/10/employee-engagement-startup-centrical-raises-32m/amp/",
+      "publishedDateTime": "2021-03-10T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.md",
       "title": "Suit: Company built 'most dangerous' facial recognition AI database in nation",
       "excerpt": "The lawsuit said Clearview AI scrapes dozens of internet sites, such as Facebook, Twitter, Google and Venmo, to gather facial photos. Scraping involves the use of computer programs to automatically scan and copy data,",
@@ -312,7 +363,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -466,7 +517,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -664,7 +715,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 269,
       "tags": null,
       "images": [
         {
@@ -1204,58 +1255,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-artificial-intelligence-chip-market-size-outlook-2026-top-companies-trends-growth-factors-details-by-regions-types-and-applications.md",
-      "title": "Artificial Intelligence Chip Market Size Outlook 2026: Top Companies, Trends, Growth Factors Details by Regions, Types and Applications",
-      "excerpt": "Selbyville, Delaware. Artificial Intelligence Chip market aims to decode lucrative investment opportunities in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-outlook-2026-top-companies-trends-growth-factors-details-by-regions-types-and-applications-2021-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-outlook-2026-top-companies-trends-growth-factors-details-by-regions-types-and-applications-2021-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
