@@ -155,20 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Software Market 2020 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
-    excerpt: "Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2026"
-    publishedDateTime: 2021-03-08T21:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2020-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2025-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast to 2025"
     excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The Voice Recognition Market was valued at USD 10."
     publishedDateTime: 2021-03-09T08:36:00Z

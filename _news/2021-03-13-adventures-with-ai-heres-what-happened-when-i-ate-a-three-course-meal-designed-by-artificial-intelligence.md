@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/amp/"
 type: article
 quality: 84
-heat: 94
+heat: 96
 published: true
 
 provider:

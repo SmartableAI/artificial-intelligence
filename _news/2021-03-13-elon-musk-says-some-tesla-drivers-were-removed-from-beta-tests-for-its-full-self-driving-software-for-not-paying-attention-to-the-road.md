@@ -1,22 +1,34 @@
 ---
 category: news
-title: "In self-driving touts, Tesla peddles tall tale of two technologies"
-excerpt: "In official correspondence with California's Department of Motor Vehicles, Tesla lawyers recently admitted full self-driving mode is no such thing."
-publishedDateTime: 2021-03-11T03:20:00Z
-originalUrl: "https://www.detroitnews.com/story/business/autos/2021/03/10/self-driving-touts-tesla-peddles-tall-tale-two-technologies/6937545002/"
-webUrl: "https://www.detroitnews.com/story/business/autos/2021/03/10/self-driving-touts-tesla-peddles-tall-tale-two-technologies/6937545002/"
+title: "Elon Musk says some Tesla drivers were removed from beta tests for its Full Self-Driving software for not paying attention to the road"
+excerpt: "DOW S&P 500 NASDAQ 100 Tesla CEO Elon Musk on Friday said the carmaker had expanded the public testing pool for its Full Self-Driving software to about 2,000 vehicle owners but also revoked access for drivers who didn't pay close attention to the road."
+publishedDateTime: 2021-03-13T12:28:00Z
+originalUrl: "https://www.businessinsider.com/elon-musk-says-tesla-revoked-access-some-drivers-testing-fsd-2021-3"
+webUrl: "https://www.businessinsider.com/elon-musk-says-tesla-revoked-access-some-drivers-testing-fsd-2021-3"
+ampWebUrl: "https://www.businessinsider.com/elon-musk-says-tesla-revoked-access-some-drivers-testing-fsd-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-says-tesla-revoked-access-some-drivers-testing-fsd-2021-3?amp"
 type: article
-quality: 19
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://i.insider.com/604ca859fea127001886aa26?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Why Is Tesla’s Full Self-Driving Only Level 2 Autonomous?"
@@ -81,22 +93,6 @@ related:
         width: 1627
         height: 1017
         isCached: true
-  - title: "Elon Musk says some Tesla drivers were removed from beta tests for its Full Self-Driving software for not paying attention to the road"
-    excerpt: "DOW S&P 500 NASDAQ 100 Tesla CEO Elon Musk on Friday said the carmaker had expanded the public testing pool for its Full Self-Driving software to about 2,000 vehicle owners but also revoked access for drivers who didn't pay close attention to the road."
-    publishedDateTime: 2021-03-13T12:28:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-says-tesla-revoked-access-some-drivers-testing-fsd-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/elon-musk-says-tesla-revoked-access-some-drivers-testing-fsd-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-says-tesla-revoked-access-some-drivers-testing-fsd-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/604ca859fea127001886aa26?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Tesla Tells California DMV That Full Self-Driving Beta Is Not An Autonomous System"
     excerpt: "Tesla introduced its Full Self-Driving beta last October to around 1,000 vehicles. An unearthed letter sent from Tesla’s general counsel and the head of California’s autonomous vehicle branch claims that the system is more limited than its name might ..."
     publishedDateTime: 2021-03-10T19:59:00Z
@@ -151,7 +147,16 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "In self-driving touts, Tesla peddles tall tale of two technologies"
+    excerpt: "In official correspondence with California's Department of Motor Vehicles, Tesla lawyers recently admitted full self-driving mode is no such thing."
+    publishedDateTime: 2021-03-11T03:20:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/03/10/self-driving-touts-tesla-peddles-tall-tale-two-technologies/6937545002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
 
-secured: "MTokDpeE9RTXjUKPy+ml9nT9pWIV+RZWLSwiklewnJ16EaLWP6o4zDsp3QgyZrpVVVpkeYSXjE816zh37V62NyXSlRp72xlx4KXXVgPs2eiuWtrRYoOGQ6qzSi+va9hLlQRZWSAfWjavoWTBYRa035yOgyoJTYmI5ihfKT8RzAx73qHSxW9zFromDtUdMhwOkOLS7ZqA8sidVf9s7Pdfh3yTD/Tysv5nLYVD3sn2sLHr0bhG9DYBXXaz+A1paYxC5730u6ekgDV7injci/H8RM/EiBfcR+MO0TuVhpNNB+u1NYTF6sXxLviOR1KBbOo6UGdQdUF32HekXtkMk81aZRFLmARf2T+06iUetemsV6+qPdH8AdvskAYTI2Qwjc3053XUbichcK2Bq1LlKojsbxPd1YGKm7OjorPWou/VNfAgU1kQ+8mr01nqCie0UwtvzKHBaTWy95QyCBaM8kJF9xGWvm/t7T6XieHhdzl0ElwU5nXzn/rjQdouzc30fFTT5WUZxXbZir4ZH68Ht3N4Jg==;mUxHkxYv8p6WpjfZzpW/lQ=="
+secured: "khYtHlN4rictJ8CVYfm3SFzcw5gG782ZVHAkkEXz6RN8Ydqy95fZrCm7y0AeCeeHWv/qvbrqjeHESOf1XoBZxowd77698jahkuWXVRtsuOvcS6Pz58GJtl2z52eU9rezLO5YWLHQMq/qPJwHtSWUsWqmgvhOKLBh8plIp/wh7k4Slgq7wJTnWFM/sXSDiTdrC4+iyiJ645c1LEVuDY/yhsqER4td55dKPRbsQ+MS4aiiDMYpg1kSMNtCOPOy5v8YSZtx0TskveIeo+zzX3lgBbFA0IO8toebPf5S7JOW9dKsSrJIwmqjRF3UtYTPnmdBCi7rDHgwxz3jrD9FdCDp+hd35NMc713yx/4qWK7+7Ws=;1buViFy4p2RlBlR66B9ltg=="
 ---
 

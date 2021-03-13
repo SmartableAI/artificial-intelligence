@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-03-03-venture-capitalist-kai-fu-lee-says-cios-should-prepare-for-ai-related-disruption.md",
+      "title": "Venture Capitalist Kai-Fu Lee Says CIOs Should Prepare for AI-Related Disruption",
+      "excerpt": "Chief information officers can take a number of steps to help their companies get ready for the job disruption that artificial intelligence will cause over the next several years, according to venture capitalist Kai-Fu Lee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/venture-capitalist-kai-fu-lee-says-cios-should-prepare-for-ai-related-disruption-11614723790",
+      "originalUrl": "https://www.wsj.com/articles/venture-capitalist-kai-fu-lee-says-cios-should-prepare-for-ai-related-disruption-11614723790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-306391?width=620&size=1.5",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/venture-capitalist-kai-fu-lee-says-cios-should-prepare-for-ai-related-disruption-11614723790",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/venture-capitalist-kai-fu-lee-says-cios-should-prepare-for-ai-related-disruption-11614723790",
+      "publishedDateTime": "2021-03-02T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-voice-assistants-enable-enterprise-automation-crm-and-data-intelligence.md",
       "title": "Voice assistants enable enterprise automation, CRM, and data intelligence",
       "excerpt": "During the pandemic, enterprise users are increasingly adopting voice assistant technologies to accelerate workloads.",
@@ -1173,59 +1224,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-ai-ethics-research-conference-suspends-google-sponsorship.md",
-      "title": "AI ethics research conference suspends Google sponsorship",
-      "excerpt": "The ACM Conference for Fairness, Accountability, and Transparency (FAccT) decided to pause its sponsorship relationship with Google.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/",
-      "originalUrl": "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/amp/",
-      "publishedDateTime": "2021-03-02T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
       ]
     }
   ],

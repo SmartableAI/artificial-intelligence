@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-unde
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -125,20 +125,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/skatefb.png"
         width: 1200
         height: 661
-        isCached: true
-  - title: "Facebook AI Can Teach Itself Without as Much Human Input"
-    excerpt: "Image recognition and AI may be more easily integrated into commercial settings if it can learn more without expensive human input."
-    publishedDateTime: 2021-03-08T21:38:00Z
-    webUrl: "https://www.commercialintegrator.com/blogs/facebook-ai/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 39
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2019/12/AdobeStock_211485579.jpeg"
-        width: 500
-        height: 300
         isCached: true
 
 secured: "1yghsDJudGybvbzQL+3N3eKDVpfARR0kxwEbaBX76LvZj/6MltThGBiRCGZyPj22M5zKhUjQ1/k1qtUqrBywNP7gtc5ux82V+uGdbJnzQoa7dASf30XGALrS1kn0I3yByN7lvEyGOKP3QFUjPSMUJAOUtT9LcjZdq06gYCVefQHnekVIapbvmdRmrZ6l411sDCGsMdph3kyb18mbBYzkAgMa5SiEL5zogglGRv65Zo9L76Y1E35CZW9h2dbJRJkXNkQ4QN8b0xCGdEuJ+KwJnOQTGMoxn4HTXWgzJf9bcxx5qmKFj+m3H+Q/WU9cvJnHbDbMV8UClvAUjUm0vlUQWm9dDDbmMBi0hFfDyJ0w1ftUKjVPjSx/62tW4iIgRk2vVems6Qc9WnJ9VhH1Vuqg87QKZau3E3v2MgQYdGLDP2ayWp+nzvD+KzJD1/28H83jgEqdN9Gfw+sctN6OAlrtqgmNXnGaqpbxSJsY4nZSbl3ZO+U3CjDTynPk2t6ALsWtt0vxAb1w9SR1mxE1yWHjWQ==;UhtYH2otQv7JdFjbKRUMlw=="

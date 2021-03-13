@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-
 webUrl: "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.hgmsites.net/hug/2020-bmw-7-series_100738842_h.jpg"
         width: 4032
         height: 3024
+        isCached: true
+  - title: "Why self-driving cars should be all-electric cars"
+    excerpt: "In recent weeks, the self-driving car company Cruise, a subsidiary of General Motors, filed a project application to build the huge fast-charging hub in the city's Bayview district. Cruise's planned robotaxi service,"
+    publishedDateTime: 2021-03-10T21:14:00Z
+    webUrl: "https://www.greenbiz.com/article/why-self-driving-cars-should-be-all-electric-cars"
+    type: article
+    provider:
+      name: GreenBiz
+      domain: greenbiz.com
+    quality: 24
+    images:
+      - url: "https://www.greenbiz.com/sites/default/files/2021-03/Cruise%20at%20Cesar%20Chavez%20St%20Rendering.2.jpg"
+        width: 3551
+        height: 2279
         isCached: true
   - title: "Luminar strikes deal with Volvo to offer self-driving system to automakers"
     excerpt: "Luminar Technologies Inc. said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers. Palo Alto,"

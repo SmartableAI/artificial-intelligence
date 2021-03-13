@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/robotics-process-automat
 webUrl: "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10"
 type: article
 quality: 79
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -151,20 +151,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Software Market 2020 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
-    excerpt: "Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2026"
-    publishedDateTime: 2021-03-08T21:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2020-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2025-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

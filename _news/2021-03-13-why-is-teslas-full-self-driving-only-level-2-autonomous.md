@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 179
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why you shouldn’t expect Tesla’s ‘Full Self Driving’ to come out of beta any time soon"
-    excerpt: "Tesla’s recent decision to open its Full Self Driving (FSD) beta to new owners has created quite a splash in both the automobile and consumer tech markets. This is an exciting time to be a Tesla owner,"
-    publishedDateTime: 2021-03-08T21:33:00Z
-    webUrl: "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 96
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/01/Tesla-Autopilot-crash-report--796x408.jpg"
-        width: 796
-        height: 408
-        isCached: true
   - title: "Tesla removed drivers who weren’t paying attention from Full Self-Driving beta as it expands"
     excerpt: "Elon Musk says that has Tesla removed from the Full Self-Driving Beta drivers who they determined weren’t paying enough attention. The automaker also expanded the beta to now a total of roughly ..."
     publishedDateTime: 2021-03-13T01:11:00Z
@@ -92,6 +76,22 @@ related:
       - url: "https://i.gaw.to/content/photos/46/40/464053-tesla-admet-que-sa-conduite-entierement-automatique-n-est-rien-de-tel.jpg"
         width: 1627
         height: 1017
+        isCached: true
+  - title: "Elon Musk says some Tesla drivers were removed from beta tests for its Full Self-Driving software for not paying attention to the road"
+    excerpt: "DOW S&P 500 NASDAQ 100 Tesla CEO Elon Musk on Friday said the carmaker had expanded the public testing pool for its Full Self-Driving software to about 2,000 vehicle owners but also revoked access for drivers who didn't pay close attention to the road."
+    publishedDateTime: 2021-03-13T12:28:00Z
+    webUrl: "https://www.businessinsider.com/elon-musk-says-tesla-revoked-access-some-drivers-testing-fsd-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/elon-musk-says-tesla-revoked-access-some-drivers-testing-fsd-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-says-tesla-revoked-access-some-drivers-testing-fsd-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/604ca859fea127001886aa26?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Tesla Tells California DMV That Full Self-Driving Beta Is Not An Autonomous System"
     excerpt: "Tesla introduced its Full Self-Driving beta last October to around 1,000 vehicles. An unearthed letter sent from Tesla’s general counsel and the head of California’s autonomous vehicle branch claims that the system is more limited than its name might ..."
@@ -147,20 +147,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
-  - title: "Why self-driving cars should be all-electric cars"
-    excerpt: "In recent weeks, the self-driving car company Cruise, a subsidiary of General Motors, filed a project application to build the huge fast-charging hub in the city's Bayview district. Cruise's planned robotaxi service,"
-    publishedDateTime: 2021-03-10T21:14:00Z
-    webUrl: "https://www.greenbiz.com/article/why-self-driving-cars-should-be-all-electric-cars"
-    type: article
-    provider:
-      name: GreenBiz
-      domain: greenbiz.com
-    quality: 24
-    images:
-      - url: "https://www.greenbiz.com/sites/default/files/2021-03/Cruise%20at%20Cesar%20Chavez%20St%20Rendering.2.jpg"
-        width: 3551
-        height: 2279
-        isCached: true
   - title: "In self-driving touts, Tesla peddles tall tale of two technologies"
     excerpt: "In official correspondence with California's Department of Motor Vehicles, Tesla lawyers recently admitted full self-driving mode is no such thing."
     publishedDateTime: 2021-03-11T03:20:00Z
@@ -171,6 +157,6 @@ related:
       domain: detroitnews.com
     quality: 19
 
-secured: "OK+07Pcl6ULFavJVCNDGArbBi5AGas9Gu5OWXgFpBvY10lhT7LUzifsi7MxCN+BDWKzr02zQVkL4Xlyg5ZVcTEfwvbebrcGA9I1COQpitvth4rznUhQW60Mk39GCKdT6vp054c4MMAK2yVWte7PS2xbTouXHeJ44dAoIeMyqi5VK6DnYhdGOfIt2fpzSC0qWrCY/TdQFKY4jW9RYYAQEE0xXFWcw6WyZORjZ2OyYdkiSvohxT5Um7rbqKRJh4K5dslOLAFStVCJLc8C2zGtOuaA+y8eBksM2NtRnuDsj9REeFw0a5bR86vGBEB0ty4R+A3LnGdXZg7bLxPV28HdC8S+6Y/FkzKefbxORLuo35pg=;YGe2zjfvNoGZj/RJCM3kUg=="
+secured: "GgGxXCe/7JR/6ceYNmMyDW8cQMcKrVf9uMUs0RbCKBOn/fNSto3pFKgT0zf+aTc/05oO7hSrCo1V2SgEEqReb+rE7SNV2Qi9K0akAPBWJ749KbDDHyEg/uUOkXpVnnu3y7sLwZrGCtHaBOIaIsQTWmoziE65VU0rKnXU4nY7ZJqJdJVu2uUcVUMemxA5zFy/pKcc+ik3a67CWK+xpqEEqrKJsz5uIeApYpWs309QkuRt9UfSfZWWc82vDC5BRh8QcKDcnGh0wDpTyTBL43prFuBSTIpn5/enokeA6iaa5fosGQMpb/yTYIpP3gzZnukYd5NO2Wcwf+byTSoAyh9HtAnz2O9mERiqs/Oe519cj7sA1a5PHcp6Na7pWyAwK0e+7v+DfpWVqj9F4ElDylZJtZEx/ZsSDuxgnSVMOitluY2+GnkbCgTtkj3Vip1V7yWwK3E/aGa9NRuvxa4eUx/qAnv0bJ6qlsGIIFpWhzHt+QucJGiPXvSJQlrEN7Eun27tiWmHlqEDz6pWZotnnqNnCA==;Jy62gdA54+jjFMTHU6nsHw=="
 ---
 

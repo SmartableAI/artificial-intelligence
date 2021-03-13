@@ -125,20 +125,6 @@ related:
         width: 1200
         height: 661
         isCached: true
-  - title: "Facebook AI Can Teach Itself Without as Much Human Input"
-    excerpt: "Image recognition and AI may be more easily integrated into commercial settings if it can learn more without expensive human input."
-    publishedDateTime: 2021-03-08T21:38:00Z
-    webUrl: "https://www.commercialintegrator.com/blogs/facebook-ai/"
-    type: article
-    provider:
-      name: Commercial Integrator
-      domain: commercialintegrator.com
-    quality: 39
-    images:
-      - url: "https://www.commercialintegrator.com/wp-content/uploads/2019/12/AdobeStock_211485579.jpeg"
-        width: 500
-        height: 300
-        isCached: true
 
 secured: "rkKzN/2rDVU1em+TY5mZRmCZzfsNPUEqVWR0/0Mp1Mwf78+vlPkryiB1Ev6I8ekjtkKG62hbCK8U9RWXDqTmHdQPAZXUebLvVSjNskzGm6JGJUof3qlmarSHO9+HRlDFwMY5gnpqpweXuLABpm2AKFVI5ntZih/6JnjfhMs4ofuMBC7YxTY/E2Jv1wazV5tS3V+2Ufj6UhQyMnB2CPP7hLSY92O+kHYAzYW+e7OIxC7kA/jaoKw2b0rIAZHmD0q/i7RSb6bkQmaAZMUKX7RK/A+Fx3uDy3aUlIl7PLFYAm1fvP2wHYq4jjX547HLz8dSkHCwr2LVZ2N7uinTAH42wgJBI81Mq+SpFt7gMXUFuaVjncelSbCV1Jd09GUFOGlRk9zjb+Sfo5r/YCGQDKEk3Nm7aAFST3musDWV6aQ+EGijJzkW8/fRryJ7liN1g/iulIqFICu0v9RcRh0YLTH8XfjEdnB+4JReYIhYsQW3hCuncKvQEd8diU2YJJojbuyHHWZOGHwC78gtlzu7Mutk9Q==;7gghrDr08G/R5LimakfUaw=="
 ---
