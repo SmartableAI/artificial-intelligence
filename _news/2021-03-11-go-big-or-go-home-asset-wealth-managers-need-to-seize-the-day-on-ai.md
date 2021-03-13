@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -26,22 +26,6 @@ images:
     height: 584
     isCached: true
 
-related:
-  - title: "Quantum Computer Start-up IonQ Plans IPO via SPAC"
-    excerpt: "IonQ, a Maryland-based quantum computing start-up working with ion trap technology, plans to go public via a Special Purpose Acquisition Company (SPAC)"
-    publishedDateTime: 2021-03-08T15:16:00Z
-    webUrl: "https://www.hpcwire.com/2021/03/08/quantum-computer-start-up-ionq-plans-ipo-via-spac/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 22
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/IonQ-chip.jpg"
-        width: 906
-        height: 600
-        isCached: true
-
 secured: "tNuJn1lBQWhJzysbgSIYoO5ZGFfF9598ljXLmApMM+P3atMfEoa9WeP1c8JIIwhNDOM9Z74zcdX78nQ5tHRy5yOfB9aR2uvJJHteUy7J27KTejz/OIwoFCNKlhZaNDoqkUtst4kCJyxrtdthOTX2HWqJpxUGkt3AFEcircgB2r1tUGvdMJAzatinLFUu5Adi1jKpkDrSxXC913db0zMZdj4ItW0jI2CGXqmdN57Pth2fQLkwy2ecq4PNx6fcQ+JNDrZ4L8F8R5NYm/4+XbuUY7LCTR+CrdMUmiSjMNv++CL3/2GKme3DTaepQ/egiZG6AHSWcMHAnvV4qWAmT/U5PLKMJfGcQ2H80OuvFjjO833vA0BPgu/kCn/OqM7VDcW0j1Ys/iDrEBIdCvI8UwwvWJIEHjq850VkJ0H8NHauQLveV4KApR/iIErn8QFDKNZepLsNJhUbpkcFMLd8ljfO4awgKwQ5AHryIQ5uuDRIp8x1k2VtO6GfOx1rTwC66nv/WWpWZNgl1/eXpkX9kORQDA==;0RF82po+lljypBoU1cqoyA=="
 ---
 

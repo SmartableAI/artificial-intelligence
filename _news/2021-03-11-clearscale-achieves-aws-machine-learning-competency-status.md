@@ -1,44 +1,42 @@
 ---
 category: news
 title: "ClearScale Achieves AWS Machine Learning Competency Status"
-excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has"
-publishedDateTime: 2021-03-11T14:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/clearscale-achieves-aws-machine-learning-competency-status-301244635.html"
-webUrl: "https://www.prnewswire.com/news-releases/clearscale-achieves-aws-machine-learning-competency-status-301244635.html"
+excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has achieved AWS Machine Learning Competency status in the new Machine Learning Operations (ML Ops) category."
+publishedDateTime: 2021-03-11T15:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/clearscale-achieves-aws-machine-learning-competency-status-1030173849"
+webUrl: "https://markets.businessinsider.com/news/stocks/clearscale-achieves-aws-machine-learning-competency-status-1030173849"
 type: article
-quality: 56
+quality: 66
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-images:
-  - url: "https://mma.prnewswire.com/media/233324/clearscale_logo.jpg?p=facebook"
-    width: 1847
-    height: 967
-    isCached: true
-
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
-    publishedDateTime: 2021-03-10T21:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
+    excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
+    publishedDateTime: 2021-03-10T21:39:00Z
+    webUrl: "https://www.lelezard.com/en/news-19693395.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 71
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 73
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
     excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
@@ -78,6 +76,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "WzzgE7gjUE+AmZ3P1DnBP1VDRStOpG8CMLO9ybq7f7uTcuE0OuDzvjFxiLqI+6GVamTsyRgEXhJPWmJHdl1z2EfhKn4Jr/SkR7k0W150ZGq7ydou6NlRcw8NigL8wyxL2USTmlXASCwSElrHzIT0j/hS9sPSf9PH7tJeDVrmdlb3VdNYL6s8Oi5grM9samtbRQWFGX/kpyfiQICHkzMu2viR/WXpjJXF5u2vOfjjwROR71J+Lq0LAZwd58rmXS8dSK4z2OUH/wCn2XPIIKzrRF4hwbep+SGEvLqIiLwHo//pM3wiVFvLGxz+HDM9jbwiRWKx0FEC6qBShtOnYjRZiz0lqLfo7xqLCHExGrMQVsc=;tEs9E3+k+e1prUGgtGGjUA=="
+secured: "ImHsor9994E9shAm7KHfaSgJSRKyovTCgj11jI5HbDHNGNb0BneBbgvZCTMiq6feEdg7T1P3KNLTDB+rZ9L9L4BLAqfywNfLwUTamr2EvAj3Pv9YXZn7lal3jIqjY1diXxC/Trsy82BwhoxYdLOK98TuZd+k/PQhw1rteLhRp3J4DcYVrLoWQQuNx3hJfEGyYw6EHzioTwXAQIpDd3eexAyG5L71ikaYzLCVfnphnDX2WljLY9oy92VwxCYJ5vdFOqjj14FfvfV9704znptEclYV/Llo12ybJD+Px4Fs3eDfxmDlnAZYUXsIXeAyC1e7l0cM1/YaB9KRyn0OjDafYqOzevJnIdAWTNX5ll50p0Q=;mfbjAy43V1E3yTkVaqgC1w=="
 ---
 

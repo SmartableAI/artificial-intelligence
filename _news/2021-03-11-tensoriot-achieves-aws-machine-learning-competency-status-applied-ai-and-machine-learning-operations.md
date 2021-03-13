@@ -21,18 +21,18 @@ topics:
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
-    publishedDateTime: 2021-03-10T21:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
+    excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
+    publishedDateTime: 2021-03-10T21:39:00Z
+    webUrl: "https://www.lelezard.com/en/news-19693395.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 71
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 73
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
     excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
@@ -63,19 +63,14 @@ related:
         height: 1414
         isCached: true
   - title: "ClearScale Achieves AWS Machine Learning Competency Status"
-    excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has"
-    publishedDateTime: 2021-03-11T14:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/clearscale-achieves-aws-machine-learning-competency-status-301244635.html"
+    excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has achieved AWS Machine Learning Competency status in the new Machine Learning Operations (ML Ops) category."
+    publishedDateTime: 2021-03-11T15:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clearscale-achieves-aws-machine-learning-competency-status-1030173849"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/233324/clearscale_logo.jpg?p=facebook"
-        width: 1847
-        height: 967
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
 
 secured: "0G8r+T36/bATkC0Yy3XNXGW1ykxbVKxP03h2/X530GqdGNTQIKuwmS72buXyk6ufqK4EWJSP1BPpdxnaMONK86LU3qgSwu9u9DSDs56b9oJUTWj49ZXFKi6RD9tzHfXNALNiyu1C8qgEr496HaQHwDe2tdVIBofInHlKh//f1tkoktWm/OxCWRFkv4vuG8H4/XKmhib0VqvxPDAa7UAfXrmsLilyjokeDiKsM8TcjS6OFRL+9SPInN8fR7ZMlxtJLiSKmx8flYyOO0IH6m/h0zPddpliyLpbhMJtOQXPINQuKOKT2Z0LD2bRMHDQycF+IHb2IUrmYyfTBRg3Lfvetsa7x+C62qtDZduXNOB6lw4=;wPzipy39+E/vwKWpQ/dgLg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365807"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365807"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.roboticstomorrow.com/images/upload/images/DeliveryRobots(2).jpg"
         width: 680
         height: 583
-        isCached: true
-  - title: "Making artificial intelligence understandable -- Constructing explanation processes"
-    excerpt: "Sifting through job applications, analysing x-ray images, suggesting a new track list - interaction between humans and machines has become an integral part of modern life. The basis for these artificial intelligence (AI) processes is algorithmic decision-making."
-    publishedDateTime: 2021-03-08T15:09:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2021-03/up-mai030821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "Cenf75IzptFb9Fgt2CVC70sOQ06r5YB961GzY2xERyh72SNsKHp1mxGahGLz9jDz5IF8Tn54o9fkKGDvqKqviJ6SIFKQEH/z4kLCIFBdIT401ALu6b89xqfHLlD4F5i9P4A1mhBa6+gFut86iD6v/AntLLOpthLa8zXRW+U3wO0XEEzC1zGgTQAws3Pn9uwZTsBuG2of4G5QCwVGzJ0niYxamM6m+pQ9I9UAyr7HtD5jHw2Jqj5LPuoPbGf22xlLZP9kiOpTzRNknh9TCpXmb439jBDwWJTRRsvlwDRW6dS2qJKwpH6H0Lp9PL7VEyc3SpDkPDPbRo/8XkmgjilO2PTUiCjjGqE9dUOyaceHNqo=;hpz3CKGKeYpMpAPkEUF0gw=="

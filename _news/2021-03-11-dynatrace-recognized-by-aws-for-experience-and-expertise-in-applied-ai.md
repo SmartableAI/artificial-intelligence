@@ -57,15 +57,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Rackspace Technology, Sentrics enhance senior digital experience with AI, machine learning"
-    excerpt: "Sentrics provides data-driven products that deliver a complete view of residents in assisted living care facilities. To provide mobility impaired seniors with a voice-controlled, all-in-one digital platform,"
-    publishedDateTime: 2021-03-08T16:00:00Z
-    webUrl: "https://www.telecompaper.com/news/rackspace-technology-sentrics-enhance-senior-digital-experience-with-ai-machine-learning--1375058"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 24
 
 secured: "0tSOO1DghvEVl/KpTzlkGtrX4YL4NvornnH4xxu2as9mmVP2IyWN/XmUpF3uPx6raPoppdXzGwdrFLlSTEt/mGsZzVT9mG3jeNvyub0qnMm8fnf80eGUJr+DOSqIKWJZ7wl1Q0UOyVkYq7qjoBSgTM9l0KOoWKbfWN+hkibfg/YtEa3vZxasWESP9flpRE0+SjDax7CfDU5/k4q7aNPxgEvvaoXIlKrvP2GsvJBvrdMEpKnqlRhDm3A6ztLQJWUc03osuKqiKHhydtb9Z0PmHUjfhzVlElQQkrvgafDn1Gtl8RBxcnI0fjvIL6XG5noSMuinm8ZsAi2nBjkcEDvyxO4Y5HyV0TBn/cpPGsYyBFE=;MjDiV57reyRIvU8mplB2ow=="
 ---

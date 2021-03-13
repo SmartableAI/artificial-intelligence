@@ -102,20 +102,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "xyzt.ai, the big location data analytics platform, leverages start.io mobile data to boost retail recovery."
-    excerpt: "Leuven 08 March 2021 – xyzt.ai ( a Leuven-based technology start-up offering an innovative visual analytics SaaS platform for big location data, announces today that it is a data visualization partner of Start."
-    publishedDateTime: 2021-03-08T15:07:00Z
-    webUrl: "https://www.directionsmag.com/pressrelease/10583"
-    type: article
-    provider:
-      name: Directions Magazine
-      domain: directionsmag.com
-    quality: 19
-    images:
-      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2021/March/8/7/ff03adfd-c24c-4220-8ded-5f82fe02bb5e-sized"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "X8S8MFb94Xiu9loiNOetrFu0fhfcMlBNRB0YW9FQz6Sl2k0ytTr1NJIQC1PZu4V4O1cdrjrZcjWg1Z4t8WUUPs3D1ciTp5WSHBFOnc/mwK0wfILR5C/bOyrlGAAQqeNgx+3RlP3xn3RPVok+AhcvcgIftTUwSSRK+eb++JtQ7zLX6iucDC1FwaYCXoGt6TKSliQk93PPZxdAMANCCAHWrdHvcAeKadFmEa6gUohIHMv2MOR2/G3IV+REHb7Q0rD+uN3NAp8RzhglR14M3g6pa2fV8jM7mIMZvLZ79WqbWISfW6PHoUqUOkEVDi2XVvJ0DS4/2BlPh+eXTp7pL7rSsitN+njWan3ouv5/yXePR4VaLmdhkIod+WvNVlyuUHs8W6WOEvzYVU9V/Jl5fTaEt30KSxLSzffgxVjpoFNr5O/zdE9xlUCTbH6L9IZGoWV9k5vh9ULt6bmUD8KqFkW4Bg5gNnBsTWoPDo5eXr1Y3Wua2wX0cA6IWgfe5n4GRJXlY5aKqziN2BMgFqYwY9lQ+A==;1BtQvD4+KblzW6BgsJuRGQ=="
 ---

@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
-publishedDateTime: 2021-03-10T21:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
+excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
+publishedDateTime: 2021-03-10T21:39:00Z
+originalUrl: "https://www.lelezard.com/en/news-19693395.html"
+webUrl: "https://www.lelezard.com/en/news-19693395.html"
 type: article
-quality: 71
-heat: 111
+quality: 73
+heat: 113
 published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
   - AWS AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -55,19 +56,14 @@ related:
         height: 1414
         isCached: true
   - title: "ClearScale Achieves AWS Machine Learning Competency Status"
-    excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has"
-    publishedDateTime: 2021-03-11T14:05:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/clearscale-achieves-aws-machine-learning-competency-status-301244635.html"
+    excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has achieved AWS Machine Learning Competency status in the new Machine Learning Operations (ML Ops) category."
+    publishedDateTime: 2021-03-11T15:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/clearscale-achieves-aws-machine-learning-competency-status-1030173849"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 56
-    images:
-      - url: "https://mma.prnewswire.com/media/233324/clearscale_logo.jpg?p=facebook"
-        width: 1847
-        height: 967
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
   - title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
     excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
     publishedDateTime: 2021-03-11T00:09:00Z
@@ -78,6 +74,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "iiOvW8l14zCK/Kh/XmM/Vk5MFoQAgVqh/aV6PGithB8otUaakj3D5PFE1NCiAK+YidjnwiSNa2Rql4e3CVrhk8/pZt5lbzW8rBRu4wzA6IkHODCqfPwZ8vLlFjhbjXcZ+B+/E9wSlM/hUOqvjDmGTsuvU1CXp/KPagFsfgf9Mt9LII+0MS4rnqASoQJci6I2uCGv6pg1+0nr+Mw7feBdwjFgIqMSbOzotuLNQra0Fkyevnmdho9+lbJYo2gftf0kBaHaGzvsBP+6V7E+IbI9raqpQlKPfP5zEhii+IH8eDiXVNLSc2WRUnOc7nZfB9GowMN4BnNw6R7qH1+49HGLCFDvkU99JVcItufz0vV6Obo=;fhE7Qhy+QDZNQOYbvHCulw=="
+secured: "yUtA0kYU49rEVoNYU1bHNGM5ZTSnrVf3nudbbeyu3ldsciHQQqLaH4o2wTxzR4IoXIxEhzYZ4I17GGjbKCbZC6h6JH6yP9tzSbip1eXtX92AqUN8c7csssJnPQDdQmiJ/jkhI30t2K/EvxNeOCkUbONxduEaWpdpcorWByHaHd6KETywiJf+qjMOS4jHuDoPro845qrLMlo9LTyyidIMdVm3AwOMPfWBv/o3WlOPEVctuL7MRISckZE4ObHmFfUTmFeUGPppjbqcjVpyBCG6lpEmIpwTdfKfiwRgVuvckGLHoOd3xkgch7lBJm3qQYppfHo8OUCRZsJCpdDbvnpkdaaxp+pxUe8sst8CgOaHpok=;ZppyMNEpofIgws5appDUJA=="
 ---
 

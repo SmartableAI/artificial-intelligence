@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/digital-transformatio
 webUrl: "https://www.eweek.com/big-data-and-analytics/digital-transformation-success-common-pitfalls-to-avoid/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1088
     height: 725
     isCached: true
-
-related:
-  - title: "Employee recognition is essential to company success"
-    excerpt: "For more than a quarter of a century, I have espoused our motto: “The secret to our success is in our people.” This is not the result of an individual epiphany more than it is a workable acknowledgment of a constant truth that all of us in the business world should come to realize if we are to approach even a modicum of success."
-    publishedDateTime: 2021-03-08T16:35:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2021/03/08/employee-recognition-is-essential-to-company-success.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 6
 
 secured: "W1pqMuNln8BjD6fxVYG59T1ZkqJ59WLovRhzSmNh29gYrzRdDmaFhWlK6mL2vzxeRBYpGNoGg4QFahHPlwBcLDJQWY6UWv/DYnfJsoQlGcDEqStNr4b3QznYkqzLoDKa2fdqWsyQBcuHlDFiYDy4o2FjfTXI1eb4NM3XCrD8L+iQ4YVdqliDm8HHMd8zsojZkIqlqsBNADJJskXFDDiZCE5OyNSJBPdUC/Gvy6AJplRSTKt3+B4ZZfztRsILNWPlVLJIvgAE1S3Lqv5iEwrYlUTbsdLOq0BgvEsy6dyCUyJDRiegAYi8pmMd+eINkT8tgmuMq9qwfTGbybqcnz86ZPYOAg0F+Vy9YbANVyz1slTuSxYHhzgkeLFVprYjJunBVvw400FBwcE6rAIjonx/V4uc0E++CHACqTjTzmaAJ459R90r5ZEl0OYQTXTI6Ntt1QCf8XIalZ3neG1pvoFJmDezj8iijouH4blzi9or22LY7AqT7hO0vHpugDrfICMR/DBgcYfF1TtPDXdQJ5h98g==;eDko2mET+Bng8TBGZknH3g=="
 ---

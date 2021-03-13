@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/366465"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366465"
 type: article
 quality: 87
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Rackspace Technology, Sentrics enhance senior digital experience with AI, machine learning"
-    excerpt: "Sentrics provides data-driven products that deliver a complete view of residents in assisted living care facilities. To provide mobility impaired seniors with a voice-controlled, all-in-one digital platform,"
-    publishedDateTime: 2021-03-08T16:00:00Z
-    webUrl: "https://www.telecompaper.com/news/rackspace-technology-sentrics-enhance-senior-digital-experience-with-ai-machine-learning--1375058"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 24
 
 secured: "fM0PjlfkVGQgXusjshZ4oslHKKghEz/FpznneI3NuRwLWklEK1RA4aWWOc0trE6F+KeqwMI2xKViRnbiusVytm/EvbxlY+GLcItcH4q5AsF4tT2/eKBk6Xx8AVgUeraUTEcI5vmvogkAw4r7+iKIiczkEpZnxIaDG2/OUd3oKicbFkscHRo0phdPQ5c/8ruKcqliTymewov/Sj4HuNcY5DC+mSEx9BHs6pFps5p2NsNjLelVse5TwWon2MLi/8VhSw79hEjOplZnCCUvXxHpbM2KJJRWaAhhU9f7RbPI7EWjycz7mCzeqVj1UTzFdfvrqRN2QiXxikMjoW7PZphE94YmPHCz46ttgUWBPjvDx1gqHS4ZrMZNJfqmFmn2PgdGQDV8F0XqApclPPAAoIYOE0jsjt5NMElqAt+vSSj4028I/UeGMoRI4JZHCzaemongzkgBRPrx53q2i4R2V8wAtNwRPTHJH89lozYxte39MUjJAMqObM79XPv5282uXrK1iWvEcl/CkoRWf8w6f27qWA==;kKf5lPmFMa3lUJcaD4WasQ=="
 ---

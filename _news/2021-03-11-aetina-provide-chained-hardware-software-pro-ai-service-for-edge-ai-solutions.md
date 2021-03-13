@@ -22,22 +22,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Arizona schools using artificial intelligence software to track student progress, emotions"
-    excerpt: "Imagine being able to predict how your child will do in school, say, in the next week, month, or even three months down the road. Also, imagine knowing how your child is feeling every day by clicking on their school dashboard."
-    publishedDateTime: 2021-03-08T15:40:00Z
-    webUrl: "https://www.10news.com/news/national/arizona-schools-using-artificial-intelligence-software-to-track-student-progress-emotions"
-    type: article
-    provider:
-      name: ABC 10 News
-      domain: 10news.com
-    quality: 27
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/2838ef2/2147483647/strip/true/crop/1000x525+0+19/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F75%2Fa7%2F3a6f0b004c99bd4bc98139d2463d%2Fap-19337811077072.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "HGsW7hemcXoYDNoiZrEmdyxnIUJzVaXUWvEYepy0DCOlkXXzbK5hvgVQgxmwvQucHVNN72We0igl9IVLpiJsdzy2azsUwEq9ycvI/A35km6LmOXu3/a3pu5whtbgHAvKVCe2jlNQPrB0FKym5brvMjUphkoLlNm2jsEl8KB/XyrJdJZdO/+p5HJUCxwFeZgeUmklc0qVEwGXM28/sBmoloFAyo7jE19hZmN4mthec+PXoFskd/GVO5NQbRlbavQoRtiS3GSvdarJpuTYcgAOUMCoSQ9mu6jaa34EP0qDGkWr/mmsdOIOnRyJ58NdJGaluANp4VeKfnhuCdYKl5RQFgQMhIB2oSHgYpY6IOQyn9g=;zMWaqwKi0nn71/7rrYE8ug=="
 ---
 
