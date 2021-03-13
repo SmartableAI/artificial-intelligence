@@ -41,20 +41,6 @@ related:
         width: 6192
         height: 4128
         isCached: true
-  - title: "Delivery robot company Refraction AI raises $4.2 million"
-    excerpt: "Refraction AI, the robotics startup and creator of the REV-1 autonomous delivery robot, has raised $4.2 million in new seed funding led by Pillar VC. The company says the capital will be used for"
-    publishedDateTime: 2021-03-08T20:55:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/03/08/delivery-robot-company-refraction-ai-raises-4-2-million/41250/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/03/refraction-delivery-robot.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "uP7g4QN4BZDQFGEv1xoWMY/41W5LaMlP/iT0ECNvzp32AvZAKK9/oeW/IANKwpKmPFHiEGkeITO8BI2YJNqRJJ0rg+6NHFA0wiUg2b8eYK56v72kCDVhatyINJRwdQA1GJQi5M6VREimNmh5g2kZSYMoAADdRgtIOWAXf8IcfQ+U1rUQ7IGC9VnUg7En+Ybr7Iv5nOh6BIi4YDDRskG4QEVkXlzDbLe3qt59x4IhDgRj+LZzlvC23HX+9gJ5R5nFSf6htCt2FjWYNGrix/HwiPIDzk9gDP1yW/P3hPTHgpQJE5RiWEwIafTJWYkyjZuGghxZewcj0lCt1pNHUzdN26QJ6WwxNdY23o23lltD3JY=;6TboW4BkXz/HnyU1cBvQ/Q=="
 ---

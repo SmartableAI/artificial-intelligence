@@ -25,76 +25,45 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market Size to reach USD 24 billion by 2027"
-    excerpt: "Global Artificial Intelligence (AI) in Retail Market Size to reach USD 24 billion by 2027. Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
-    publishedDateTime: 2021-03-08T20:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-reach-usd-24-billion-by-2027-2021-03-08"
+  - title: "Artificial Intelligence Chip Market Size Outlook 2026: Top Companies, Trends, Growth Factors Details by Regions, Types and Applications"
+    excerpt: "Selbyville, Delaware. Artificial Intelligence Chip market aims to decode lucrative investment opportunities in"
+    publishedDateTime: 2021-03-09T17:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-outlook-2026-top-companies-trends-growth-factors-details-by-regions-types-and-applications-2021-03-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 76
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) In Retail Market Value Expected To Reach US$ 6,762.3 Million By 2027: Acumen Research And Consulting"
-    excerpt: "The Global Artificial Intelligence (AI) In Retail Market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 and reach the market value of over US$ 6,762.3 Mn by 2027. Based on regional landscape,"
-    publishedDateTime: 2021-03-10T19:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-value-expected-to-reach-us-67623-million-by-2027-acumen-research-and-consulting-2021-03-10"
+  - title: "Global Automotive Artificial Intelligence Market Share, Growth, Size, Trends, Revenue, Regional Segmentation, Key Competitors & 2021-2027"
+    excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
+    publishedDateTime: 2021-03-12T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-share-growth-size-trends-revenue-regional-segmentation-key-competitors-2021-2027-2021-03-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "USD To Host First AI Symposium In March"
-    excerpt: "The University of South Dakota College of Arts & Sciences is hosting its first Artificial Intelligence (AI) Symposium March 16-18 via Zoom."
-    publishedDateTime: 2021-03-10T04:00:00Z
-    webUrl: "https://www.yankton.net/community/article_96ce7664-8151-11eb-ad7a-c72b553cd0ec.html"
+  - title: "Rising at 20.2% CAGR, Edge AI Hardware Market Size to Exceed 2160 Million Units by 2026: Facts & Factors"
+    excerpt: "Facts and Factors have published a new research report titled \"Edge AI Hardware Market by Device (Smartphones, Cameras,"
+    publishedDateTime: 2021-03-11T12:43:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20117987/rising-at-20-2-cagr-edge-ai-hardware-market-size-to-exceed-2160-million-units-by-2026-facts-factor"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20117987"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20117987"
     type: article
     provider:
-      name: Yankton Press & Dakotan
-      domain: yankton.net
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/yankton.net/content/tncms/custom/image/4c91c334-88e5-11e7-b820-e722d3f7a1ed.jpg?resize=600%2C600"
-        width: 600
-        height: 600
-        isCached: true
-  - title: "GPU Market Size Will Reach USD 200.85 Billion By 2027 at a CAGR of 33.6% - Valuates Reports"
-    excerpt: "Graphic Processing Unit Market is Segmented by Type (Dedicated, Integrated, and Hybrid), Device (Computer, Tablet, Smartphone, Gaming"
-    publishedDateTime: 2021-03-10T02:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/gpu-market-size-will-reach-usd-200-85-billion-by-2027-at-a-cagr-of-33-6-valuates-reports-861850700.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
-  - title: "AI & Robotics in the Global Defense Industry to Reach $61 Billion by 2027 - Robotics Anticipated to Account for the Largest Share of Expenditure - Res"
-    excerpt: "Robotics in the Defense market, which is valued at US$39.22 billion in 2018, is projected to grow at a CAGR of 5.04%, to value US$61 billion by 2027. The cumulative market for global expenditure on AI & Robotics Defense Systems is valued at US$ 487 billion over the forecast period."
-    publishedDateTime: 2021-03-12T09:47:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=436430"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 29
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
 
 secured: "Rg5wJCYzqe8A1N81F3/o7Y37j6hPuYDfWPLRJZfPRQEYMf5oTeW45eGNF7B+6elfflNqVMQ45sRKTf6saEkzHtL42iMx40kA/NzKpK2bbCovqDPPiR0Za+SD9kTSDBThUMaB4TBoqM4sPWU161Sg2rlS+3rtcKnWfSvcZ45U28P752KX8zJyOtIlqjaPlHSvg/biJm9EcGNQN+vz8tJ5pKXaoMqwgiNiXP7A2TI4/ePnHr2jdjXnFnklczqikoyOSL03dxFpdRMxliu9yocIPNMiTZuSF6s8IP1N4C9KCJFH3v7GhWZWE2+ZVIv4pcxFGFRarTPLRf+Zqfr/x0ziSviiMHBRHhJtrGljR0d525I=;OnKs3o5JQe+y1KBPTPkjfg=="
 ---

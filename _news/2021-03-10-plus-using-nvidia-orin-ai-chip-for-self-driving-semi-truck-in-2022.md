@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp"
 type: article
 quality: 91
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://www.eweek.com/wp-content/uploads/2021/01/NVIDIA.logo_.black_.green_.jpg"
         width: 1901
         height: 1353
-        isCached: true
-  - title: "Artificial Intelligence In Small And Medium Business Market is Booming Worldwide | Google, Nvidia, Tesla"
-    excerpt: "The Global Artificial Intelligence In Small And Medium Business Market to witnessed good recovery in growth post first half of 2020 and is projected coverup market sizing during the forecast period (2021-2026)."
-    publishedDateTime: 2021-03-08T20:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-is-booming-worldwide-google-nvidia-tesla-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tuning Up Nvidia’s AI Stack To Run On Virtual Infrastructure"
     excerpt: "Having to install a new kind of systems software stack and create applications is hard enough. Having to master a new kind of hardware, and the management"

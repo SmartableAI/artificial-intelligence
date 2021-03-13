@@ -43,20 +43,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "US AI in E-commerce Market to 2025, Future Outlook, COVID-19 Impact Analysis, Forecast 2019-2025"
-    excerpt: "US AI in e-commerce market is projected to grow at a CAGR of 26.0% during the forecast period (2019-2025). The"
-    publishedDateTime: 2021-03-08T19:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/us-ai-in-e-commerce-market-to-2025-future-outlook-covid-19-impact-analysis-forecast-2019-2025-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "TxLlNtj2UW2g7viMVdCHfPItFDYuJfj1GdmegI9NHYstPwVv4vjwdGT99A9yZ3WCtIf2UbLFQYJl9CZCDwtFFbBjh5BeFgPtORfSnvLOhTLjNRKkYRCoxlKxlECQEA3uWGj8PJBUzkNBNxyY2fahrvezGuOz7PR2bwSPebxn+457paoPEOrCv6odAnxofRMCaRGPm/QNI2V1zrW5yj8oIhXnn2x5wB3kRou34prGL3HRJ6rviAZbnCi9rJw3nsPSfA7CwRqWxpSrxXGZDD80iyRMiVh36sKa9V3jnbW6ilpuvaaQeGOKGBwhFU1Bs4Oo5yDrYFuNMMjXwEKgmki26wKj3sGssHQQBad3fneVfF1XiqSyZiVLiqsbHzGugyWwv4WAIRfj/9+lXuYVQXKA5z0cRCUdKxlNg4VpTsyz2QSamDc4viGTvL4/1dfyiKHnccc6KPC6Mw89Q6O99q7bqiEzYqPGr40WY0uyceXH6LMGh+I51kutXNgCi8y4GTO43uasiJ4eCVMOmvt35nRdNw==;OYmrETilsyUWHuc1OI7HYQ=="
 ---

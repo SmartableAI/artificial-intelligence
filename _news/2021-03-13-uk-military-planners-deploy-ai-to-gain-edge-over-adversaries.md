@@ -42,15 +42,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Algorithm helps artificial intelligence systems dodge 'adversarial' inputs"
-    excerpt: "A deep-learning algorithm developed by researchers is designed to help machines navigate in the real world, where imperfect or 'adversarial' inputs may cause uncertainty."
-    publishedDateTime: 2021-03-08T19:22:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210308111937.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "y/qmPjjeU+wFaNmelWRh9q/yWw+yeqZldE6ziaX0uAk8mN93ED6O7DBZ0J3gFj18Yujfb/MVQH3XMCeiBw+JY1REcBFU/7/ALll0iRQsPic09Jdcng6GJNsepfJ96FSMV9JZeEKevfyqrobvzLJoOcBZZo/klzYa+wuAguZQi1GS3K3tbPs2Z8hWyg/cm3SxS8zgFXuWy3NWibNlaFDjuAYcmkMyFu25TnJOCrC8W336It3+woRfoJTyrznSSZ8mLN2ZXCjW5v7ghb5tnwMf01TQNdbEl5cjE+GHfxGHUTCrU8hkj8QGXuk+dmILrPDI1NdFIqQ9Lo6KBP7+w+RFS3Qgl8aSD0gAmypGESTnj6Q=;aA89A01UbYMlT3hHF/j+mA=="
 ---

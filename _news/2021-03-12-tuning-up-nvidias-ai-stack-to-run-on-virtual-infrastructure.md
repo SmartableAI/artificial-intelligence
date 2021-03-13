@@ -72,20 +72,6 @@ related:
         width: 1901
         height: 1353
         isCached: true
-  - title: "Artificial Intelligence In Small And Medium Business Market is Booming Worldwide | Google, Nvidia, Tesla"
-    excerpt: "The Global Artificial Intelligence In Small And Medium Business Market to witnessed good recovery in growth post first half of 2020 and is projected coverup market sizing during the forecast period (2021-2026)."
-    publishedDateTime: 2021-03-08T20:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-small-and-medium-business-market-is-booming-worldwide-google-nvidia-tesla-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NVIDIA AI Enterprise Software Suite introduced"
     excerpt: "NVIDIA has introduced a new software suite of enterprise-grade AI tools and frameworks in the form of the AI Enterprise Software Suite. NVIDIA"
     publishedDateTime: 2021-03-10T14:15:00Z

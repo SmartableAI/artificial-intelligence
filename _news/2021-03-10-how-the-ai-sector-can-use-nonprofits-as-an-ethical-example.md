@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "The Sad Implosion of Google’s Ethical AI"
-    excerpt: "The surveillance-capitalist giant fired some of its most popular researchers—and revealed its true colors in the process."
-    publishedDateTime: 2021-03-08T19:19:00Z
-    webUrl: "https://newrepublic.com/article/161629/sad-implosion-googles-ethical-ai"
-    type: article
-    provider:
-      name: New Republic
-      domain: newrepublic.com
-    quality: 54
-    images:
-      - url: "https://images.newrepublic.com/eeac19d69bfec73c59dc19c96b0579b40641a657.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
-        width: 1109
-        height: 577
-        isCached: true
 
 secured: "kUeLQb+GekWa1/7UjPwrMgTtRnLB3pgAoVmPhUvnKwMH3U5llPOjAQ99mcYyLPx7n6HYmtnP3zBaSF9aAT6ebFEduig2pjtOjP2bhTfVQrs655sAD4J1cLVVGngdc4O3m86iyOLvfSh8osbrIP0g/8fulasn9GC6n9dAvcK9HFI8JpoakCg3HrxFQOfjYpnlAD4Is3vgMlmjo1of1izENRGHXWsUZVnlaZ5Y6QJtTCrjHA5UnItUlgK77+PYM722WGIrpqdaz6eRDkcrErvtBLz2WpCtfGUaleE0QUz57yP4ClAXQtnOStSw27B2SinH9AIb3iCljFtasJm4EDrSWk8WL6m6de6BgSsnmnl2Daja2EGN1jxrFuEkAN8mHRDjoSDX6oC7IjhwzRyUFFYFfw9O+btCg14/KOPC1HZ1luqyMMcqu9pyav9FEMev1NSUeLCTgTw6AXAcFC4KaThuzoSy4jUSis8NPBlFx8Cvtv3BiNwzSykXOhGmr4zuQopbhw9dtGb+9lt6KNmJ/wa80Q==;8nevY8B2EFtrHYPSIX7hZg=="
 ---

@@ -177,6 +177,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Is India on the cusp of a new fintech revolution?"
+    excerpt: "But I don’t think anyone has realised that the Prime Minister has unknowingly unleashed a trillion dollar fintech opportunity for the world ... rural India can be significantly brought down. At SK.AI. GEO (Skymet’s new geospatial avatar) we have ..."
+    publishedDateTime: 2021-03-13T12:37:00Z
+    webUrl: "https://www.fortuneindia.com/opinion/is-india-on-the-cusp-of-a-new-fintech-revolution/105285"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 24
+    images:
+      - url: "https://images.assettype.com/fortuneindia/2021-03/0a22954c-337a-4d67-b706-37f3bf49ba15/RH4XRB.jpg?w=700"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Riskalyze Launches \"Build My Tech Stack\" Tool: Industry’s First Step-by-Step Guide for Advisors to Design Their FinTech Integrations"
     excerpt: "Using Riskalyze's new proprietary tool, advisors can quickly assemble their ideal tech solutions, saving countless hours of frustration AUBURN, Calif.-- (BUSINESS WIRE)-- #FinTech -- Riskalyze, the company that serves tens of thousands of financial advisors with risk alignment and portfolio analytics,"
     publishedDateTime: 2021-03-09T17:08:00Z

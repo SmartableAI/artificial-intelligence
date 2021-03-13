@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diag
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "US AI in E-commerce Market to 2025, Future Outlook, COVID-19 Impact Analysis, Forecast 2019-2025"
-    excerpt: "US AI in e-commerce market is projected to grow at a CAGR of 26.0% during the forecast period (2019-2025). The"
-    publishedDateTime: 2021-03-08T19:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/us-ai-in-e-commerce-market-to-2025-future-outlook-covid-19-impact-analysis-forecast-2019-2025-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Innovative artificial intelligence tool analyses cough sounds to diagnose COVID-19"
     excerpt: "If you hear AI (artificial intelligence) brought up in conversation ... While AI is already used to assist in a number of healthcare settings, it seems clear that there is still a lot of opportunities to leverage AI to find real-world solutions that ..."
     publishedDateTime: 2021-03-10T22:34:00Z

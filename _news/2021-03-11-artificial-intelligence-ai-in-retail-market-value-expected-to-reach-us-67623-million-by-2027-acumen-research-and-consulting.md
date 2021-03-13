@@ -29,75 +29,61 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market Size to reach USD 24 billion by 2027"
-    excerpt: "Global Artificial Intelligence (AI) in Retail Market Size to reach USD 24 billion by 2027. Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
-    publishedDateTime: 2021-03-08T20:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-reach-usd-24-billion-by-2027-2021-03-08"
+  - title: "Global Artificial Intelligence (AI) Accelerator market Size, Share, Value, and Competitive Landscape 2026"
+    excerpt: "Mar 11, 2021 (Heraldkeepers) -- According to this study, over the next five years the Artificial Intelligence (AI) Accelerator market will register a xx% CAGR in terms of revenue, the global market size will reach $ xx million by 2026, from $ xx million in ..."
+    publishedDateTime: 2021-03-11T13:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 76
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "USD To Host First AI Symposium In March"
-    excerpt: "The University of South Dakota College of Arts & Sciences is hosting its first Artificial Intelligence (AI) Symposium March 16-18 via Zoom."
-    publishedDateTime: 2021-03-10T04:00:00Z
-    webUrl: "https://www.yankton.net/community/article_96ce7664-8151-11eb-ad7a-c72b553cd0ec.html"
+  - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
+    excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
+    publishedDateTime: 2021-03-09T10:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-in-machine-vision-market-size-share-value-and-competitive-landscape-2021-2026-2021-03-09"
     type: article
     provider:
-      name: Yankton Press & Dakotan
-      domain: yankton.net
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/yankton.net/content/tncms/custom/image/4c91c334-88e5-11e7-b820-e722d3f7a1ed.jpg?resize=600%2C600"
-        width: 600
-        height: 600
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "GPU Market Size Will Reach USD 200.85 Billion By 2027 at a CAGR of 33.6% - Valuates Reports"
-    excerpt: "Graphic Processing Unit Market is Segmented by Type (Dedicated, Integrated, and Hybrid), Device (Computer, Tablet, Smartphone, Gaming"
-    publishedDateTime: 2021-03-10T02:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/gpu-market-size-will-reach-usd-200-85-billion-by-2027-at-a-cagr-of-33-6-valuates-reports-861850700.html"
+  - title: "Global Artificial Intelligence (AI) for Telecommunication Market Evolving Technology, Segmentation and Industry Analysis by 2025"
+    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025."
+    publishedDateTime: 2021-03-12T20:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market-evolving-technology-segmentation-and-industry-analysis-by-2025-2021-03-12"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI & Robotics in the Global Defense Industry to Reach $61 Billion by 2027 - Robotics Anticipated to Account for the Largest Share of Expenditure - Res"
-    excerpt: "Robotics in the Defense market, which is valued at US$39.22 billion in 2018, is projected to grow at a CAGR of 5.04%, to value US$61 billion by 2027. The cumulative market for global expenditure on AI & Robotics Defense Systems is valued at US$ 487 billion over the forecast period."
-    publishedDateTime: 2021-03-12T09:47:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=436430"
+  - title: "Artificial Intelligence in energy Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
+    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Artificial Intelligence in energy market is expected to reach a market size of USD 20."
+    publishedDateTime: 2021-03-10T21:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-2021-03-10"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market Report 2021 | Size, Share, Latest Development, Trends, Top Key Players and Outlook 2026"
-    excerpt: "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020.According to IMARC Group's latest report, titled 'Artificial Intelligence (AI) Market : Industry Trends, Share, Size,"
-    publishedDateTime: 2021-03-12T06:53:00Z
-    webUrl: "https://menafn.com/1101739821/Artificial-Intelligence-AI-Market-Report-2021-Size-Share-Latest-Development-Trends-Top-Key-Players-and-Outlook-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?394745"
-        width: 338
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "2DuaIRB/D440nuKQYV/DoFakYD/9KjJol/sIFZEC2o8DrkrSTxFhyUe9A7JPx3pt2AOyeC1Nvt6nTEwaEywHVQ5R3qwc87HhmaPqjmgAqhCQSS5e5dNEREgk5RT0OeDimBr0i1OKWShBU6kd1yvUrY3BUWBjG9NY+GwlIwYbRae3dRESwN688IaPdf4wK443tfmhVYDYhLjlR/qq/12nXIcTZMcO9Tou6fb99skcm+iZYGwWj1ta5tno51CVvKbwwWNk42l+tgA6YnSaxr3WFa2qUvc3DnrA88dikNmUMfeAmnJ8FPagJc6okD2FmltLtmoIAiCzRoAN8TKAJbqQS6/+mlk+YE6vHe7K2FgR4MA=;3mllBv6E4Y0k/euik7G/DA=="

@@ -1,45 +1,38 @@
 ---
 category: news
 title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the"
-publishedDateTime: 2021-03-10T21:37:00Z
-originalUrl: "https://www.lelezard.com/en/news-19693389.html"
-webUrl: "https://www.lelezard.com/en/news-19693389.html"
+excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+publishedDateTime: 2021-03-10T21:15:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
 type: article
-quality: 72
-heat: 112
-published: true
+quality: 50
+heat: -1
+published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
-    publishedDateTime: 2021-03-10T21:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
+    excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
+    publishedDateTime: 2021-03-10T21:39:00Z
+    webUrl: "https://www.lelezard.com/en/news-19693395.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 71
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 73
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
     excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
@@ -79,6 +72,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "DVyhZGQ+2sVHIAATIhYKWHE++P649VsQ5iwhXOHDkmXSfdg9zKqZe+mfMNF5VM0HFq3K4FcLRkZy++y4SDrL6XAAHXOBXn/cyC1PfXtKIOZcKzJzmnZR7BT0lgIB6CUTnhuKz2dl1F4jQz0HY9kTtTmORfQGkdgiVzaYCxfFKWESM4ZTs3JsPkc4hY3+ho3G8/d3uyj3caWMM+Bpxx9gvUI1yhzH6yHKAzZlqstr/rjfz6Kyzpi/7bCzP+pLGZ1DUJP7xNwhye+Vfvt0oiH3O0fffIjuHG4XNxbiWQEgLwGTMRn6S3OXnw4joUorlzUHOXtjYiNWsKZnZwdQI/t0JRVpSAOVkB1B69wnTqRQY7Q=;yumk9MuF26vTf4idkS+h1w=="
+secured: "DpiJtPI+hhvjrS0JwQWKmnFt1INA7KxngE3uWqKTKVMGUi/VLI0FMjvT9Kd3btWGIiKuvHOQei72FH5y9aax1jkGD5BMsLu2uCIdLxrqR78RWI6uN9ETZI2qpkSVtgqqwfgo67uPQb4wfsZmxJtek5irJNQh68568Jpw55+qq1JuU0iqorOIKmbHy4Zg132E9dqr6h2IABmtWC+OMgXqOKzOWPyoiY59mgK6dX/0suXdmzotW3mtDGliHpUuUX8JGzhQSMNd+ixU2TIaJK0BV1JV2E70kdtO8zY5dDJuS+tPaq4BBIIUqeIF8qHaIAKBym65uQjKaeLrjQ1WVCWv0yUaxLwHuwVxVGZ3baTlYC8=;YajnMXaf0voPTFq8E/NWaA=="
 ---
 

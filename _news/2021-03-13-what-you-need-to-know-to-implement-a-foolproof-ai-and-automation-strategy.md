@@ -76,20 +76,6 @@ related:
         width: 796
         height: 448
         isCached: true
-  - title: "The brain, AI, and human destiny"
-    excerpt: "Regarding his book that chronicles 34 years of studying the brain, inventor Jeff Hawkins talks to Tiernan Ray and Karen Roby about how the newest part of the brain, the neocortex, is escaping from millions of years of enslavement to genetics and biological drives,"
-    publishedDateTime: 2021-03-08T19:54:00Z
-    webUrl: "https://www.zdnet.com/video/the-brain-ai-and-human-destiny/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/08/1e080d33-ac3e-4540-8ae8-45d85f849167/thumbnail/770x578/ecff9a4ea23c74e3a62f269a0c725155/20210308-tiernan-karen-interview.jpg"
-        width: 770
-        height: 578
-        isCached: true
 
 secured: "L7a8t6HsYVS763R2NGEHX16KYgx+KbCkYosRQql+66S35WRDo6pHk2ne5nsrLoMi7uOIOdBYQo4UAo0krSPDohPa9WB5pXayx1uUejztNQH0cPfm//KC6tTLYw57Ecz45QCh9+bQ73bFHHUMh9hqqqzqzGTNq0FmM06O9z6skPHUhG4lu5uzJ242hrdQB8/MJvVR1o89ev0ouBjTI/IU2yp2H0HZc22A8CxvIWQEATv19FoQm2cYyPR6m9yqjH0LkdIrWAE0lJ6FSEDc/NMCPt0uIcY2B9njEEDizgrTatp2849u7bEpybGuFWfx+GFoaT1vYv2nB7p+PW0W/9nNqQSzggMglJp/gv5aDAoUkZYwpVcN55+HbvXNq9aviM6kLVyUzx/aNpEMFmjLLaJ62YyCCE95+tU+EHbxzNWGTr71Kl55elDyfMi2bc8lZZFOA8QosThRejcwA2yGfobe8kVOoCS8MjUuzHrEBCtsT5TQSHdfWpPcEtvJdncYxQZwKNa6f9ZudOOXvJtRcAxeGA==;/pA16HiAIDPTT4QZeIZArQ=="
 ---

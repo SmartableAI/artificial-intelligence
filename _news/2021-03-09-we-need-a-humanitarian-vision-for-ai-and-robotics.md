@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robo
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/neural-796x448.png"
         width: 796
         height: 448
-        isCached: true
-  - title: "The brain, AI, and human destiny"
-    excerpt: "Regarding his book that chronicles 34 years of studying the brain, inventor Jeff Hawkins talks to Tiernan Ray and Karen Roby about how the newest part of the brain, the neocortex, is escaping from millions of years of enslavement to genetics and biological drives,"
-    publishedDateTime: 2021-03-08T19:54:00Z
-    webUrl: "https://www.zdnet.com/video/the-brain-ai-and-human-destiny/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/08/1e080d33-ac3e-4540-8ae8-45d85f849167/thumbnail/770x578/ecff9a4ea23c74e3a62f269a0c725155/20210308-tiernan-karen-interview.jpg"
-        width: 770
-        height: 578
         isCached: true
   - title: "What you need to know to implement a foolproof AI and automation strategy"
     excerpt: "GM of Einstein, @Salesforce Automation is all the rage lately. Thirty five years ago, my father, Joseph Casalaina, developed some of the first automation systems for the insurance company MetLife, in the form of “expert systems."

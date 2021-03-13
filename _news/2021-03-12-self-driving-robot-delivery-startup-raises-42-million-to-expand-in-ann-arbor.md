@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-deli
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Delivery robot company Refraction AI raises $4.2 million"
-    excerpt: "Refraction AI, the robotics startup and creator of the REV-1 autonomous delivery robot, has raised $4.2 million in new seed funding led by Pillar VC. The company says the capital will be used for"
-    publishedDateTime: 2021-03-08T20:55:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/03/08/delivery-robot-company-refraction-ai-raises-4-2-million/41250/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 54
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/03/refraction-delivery-robot.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Refraction AI Raises $4.2M in Seed Funding"
     excerpt: "Refraction AI, an Ann Arbor, MI and Austin, TX-based robotics startup, raised $4.2m in seed funding. The round was led by Pillar VC with participation from eLab Ventures, Osage Venture Partners, Trucks Venture Capital,"
     publishedDateTime: 2021-03-10T22:48:00Z
