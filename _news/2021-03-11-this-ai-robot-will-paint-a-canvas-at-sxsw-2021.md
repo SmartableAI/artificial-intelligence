@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robo
 webUrl: "https://www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robot-will-paint-a-canvas-at-sxsw-2021/"
 type: article
 quality: 84
-heat: 95
+heat: 94
 published: true
 
 provider:

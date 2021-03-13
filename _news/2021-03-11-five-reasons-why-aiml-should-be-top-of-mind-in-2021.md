@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/11/five-reaso
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/11/five-reasons-why-aiml-should-be-top-of-mind-in-2021/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

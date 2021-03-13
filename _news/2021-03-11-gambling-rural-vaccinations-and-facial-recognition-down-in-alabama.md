@@ -89,6 +89,15 @@ related:
         width: 1200
         height: 707
         isCached: true
+  - title: "New Facial Recognition Software"
+    excerpt: "Redstone Arsenal announced a new feature at the entrance of Gate 9. New facial recognition software will be reading those who are already registered in the AIE system with a 14 point algorithm, allowing them entry."
+    publishedDateTime: 2021-03-13T00:20:00Z
+    webUrl: "https://whnt.com/video/new-facial-recognition-software/6433352/"
+    type: article
+    provider:
+      name: WHNT
+      domain: whnt.com
+    quality: 19
 
 secured: "m74+pgsqksfK7FoKOT3bEn57s7HzwruYxQOehRkSQjQrLtk/xJz+XXUpcS7lVbb3uSLEJDJHgITP058hurtwZ1B9MK9PsOxo5WubYbjaH2jf7dNWe+1AdFRAS/DKOHDTEq1a/tPGRzSsMIgZXmjd9LfbSMt4avQN3Az4et1VRs5cRDy4p/E2QWL0Q4UlPX1U2yFXWwtAZ4ZX9hEKNv0bKKC3Fs3CZ7FUFMVGMNlEAe6QfP/WRBZ6Y+VDz/ba+g/6fy59uCyjDAYg9AWV9iVy0B+spnKBYbJ0SfS2si8UzaNv7g1irpw4lvgYEG5lf4YMKBlKTwKwV/kiNuMVlO9bG3/62rkB00w9KrM0HWhw7KA=;d+1EoFeRbkdIeuHVV3R5xA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/88apzb/the-army-is-teaching-faci
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -93,6 +93,15 @@ related:
         width: 1200
         height: 707
         isCached: true
+  - title: "New Facial Recognition Software"
+    excerpt: "Redstone Arsenal announced a new feature at the entrance of Gate 9. New facial recognition software will be reading those who are already registered in the AIE system with a 14 point algorithm, allowing them entry."
+    publishedDateTime: 2021-03-13T00:20:00Z
+    webUrl: "https://whnt.com/video/new-facial-recognition-software/6433352/"
+    type: article
+    provider:
+      name: WHNT
+      domain: whnt.com
+    quality: 19
 
 secured: "9TcNw46dRKsZmg4kudnPfYBtaSgcVAAMviKz8moTNt7SVwRm08pcjbkHfoVs1t1E5OaGmVGRqvecmRE3YH6EvygH92PKoSXMC9x7/4lcY4x9jb4L9kv1WH2QteJU9lEtvGnx1I2bOZqWHMhvcPep0qv9k7m98AtplrVF5lkDmVrRkMMTsYMolk5Kw/qB+EtCMa0sjF5WFWAJVobIQu8ElsSm8hpKGOL2lm2gFHU7zEtMwxSgyzog/phiErDvlYwIcqx7GG6dWQiJfhcLRFf9hZy8Sv26DUXDnDqZ3pVoSn0siqYthu0n80f59hIv6RUQAMjuPeR2Z4VrzHduGh/EPtfYc4eFD7/FZd0H64r+LQBZiiwBwljWfQxpZLKp/rm/my3jYXhmC0a5Msphc3ZRBx4e65wlAH/av7AMaDZfPlSEY3GDzqesxmNur1l9AYGUxGzZyZUTnHgW4a5/wFdbU17ybapAaU60iu1tI3ZTFlLwAWi9fjSBi8KQ7xwQIgvtM8mlXe9lnHX0V8v3OKuYgA==;24OkdW8fNV3KwgguaazioA=="
 ---

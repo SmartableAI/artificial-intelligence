@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/batch-image-processi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/batch-image-processing-with-amazon-rekognition-custom-labels/"
 type: article
 quality: 106
-heat: 128
+heat: 126
 published: true
 
 provider:

@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Down in Alabama: Gambling; rural vaccinations; facial recognition"
-excerpt: "From today’s Down in Alabama podcast: Bad news about your early-retirement plan: Alabama’s latest lottery-and-gambling bill has met its demise. The “Down in Alabama” podcast is short and free. Listen to it by clicking on the player above or subscri ..."
-publishedDateTime: 2021-03-10T09:30:00Z
-originalUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html"
-webUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html"
-ampWebUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
+title: "New Facial Recognition Software"
+excerpt: "Redstone Arsenal announced a new feature at the entrance of Gate 9. New facial recognition software will be reading those who are already registered in the AIE system with a 14 point algorithm, allowing them entry."
+publishedDateTime: 2021-03-13T00:20:00Z
+originalUrl: "https://whnt.com/video/new-facial-recognition-software/6433352/"
+webUrl: "https://whnt.com/video/new-facial-recognition-software/6433352/"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: WHNT
+  domain: whnt.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EQIGEHXK2VFFFP5R6S3ODBTY4A.jpg"
-    width: 3723
-    height: 2094
-    isCached: true
 
 related:
   - title: "The Army Is Teaching Facial Recognition to See In The Dark"
@@ -42,6 +34,22 @@ related:
       - url: "https://video-images.vice.com/articles/604a5d55a2d74200936f48a9/lede/1615486785400-screen-shot-2021-03-11-at-11928-pm.png?crop=1xw:0.9455909943714822xh;center,center"
         width: 1792
         height: 1008
+        isCached: true
+  - title: "Down in Alabama: Gambling; rural vaccinations; facial recognition"
+    excerpt: "From today’s Down in Alabama podcast: Bad news about your early-retirement plan: Alabama’s latest lottery-and-gambling bill has met its demise. The “Down in Alabama” podcast is short and free. Listen to it by clicking on the player above or subscri ..."
+    publishedDateTime: 2021-03-10T09:30:00Z
+    webUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EQIGEHXK2VFFFP5R6S3ODBTY4A.jpg"
+        width: 3723
+        height: 2094
         isCached: true
   - title: "Gambling, rural vaccinations and facial recognition: Down in Alabama"
     excerpt: "Also: The Alabama National Guard joins the vaccination effort, and Redstone Arsenal is employing facial-recognition technology. The “Down in Alabama” podcast is short and free. Listen to it by clicking on the player above or subscribe by looking for “Down in Alabama” on the device of your choosing."
@@ -89,16 +97,7 @@ related:
         width: 1200
         height: 707
         isCached: true
-  - title: "New Facial Recognition Software"
-    excerpt: "Redstone Arsenal announced a new feature at the entrance of Gate 9. New facial recognition software will be reading those who are already registered in the AIE system with a 14 point algorithm, allowing them entry."
-    publishedDateTime: 2021-03-13T00:20:00Z
-    webUrl: "https://whnt.com/video/new-facial-recognition-software/6433352/"
-    type: article
-    provider:
-      name: WHNT
-      domain: whnt.com
-    quality: 19
 
-secured: "+AVRNpPwrNaEW9B+xEHLx31N4JGyLFPcn20Aj1K8DzhsGdOIGZvYHS8J4apnEIKvTSNJdVBLAQpEXYh1cLomzZilFgBvg8wppUzQjLlgUWwb0EIPG1GDzt08jpoor59/Hua82f4BhypxiyGbpoUWu7tXbJ7xTxnbVbfDZ4Lhg2CWT2xoGzHcXXVVi521Mz0ihlAKBqKf0IC5SarkP/gUyatWqdIebbkPve6QszO//F12jnODv53K4uxAxOE7LU9ONaLg5DiUsEzG29pL3FobgMqc6S+y2iD25ljfaa2BNaWZ8dBrje14IrXFrRbdDKCURAhAr1X/mI17UKrLKmQGxs+s8cCbVfgXsJCJzLFv5Sj8BgFPUd2twHL13UxeWQrR9pWIISX4XVvhl8HxIFJNELHlJF46beCqUXDJ3Wgf9w1qDlyPpkKZE7AGhDdxtZH4dJoe2p9PEMbgPL3uQQSwyRHlIzBivH26aynLQmvvEOIEOzduRebhHMwECd6Y5I1BUf2luBRR0V0y8HNR2aTNWA==;lcmBBJU5ra17p7d1Ri3eoA=="
+secured: "W2N7BtfMCOrbMq3Z8Fs05TpgAa4ZtlI3qsjYLdi6DbGjjv+UwUW1sCTYfcLn5qyItnZ5w/+k2DmC8fbV89kUs/l2lD+q7uXeBO/XU4CfQJE6KrRDZuNAQrPz0cHmNmcsGHh7wd0t2deCoU7tvNI36Sy2vbjngiERpWkhpu0Y3pb0f847I9uWUCkdLBqyzW1BXLoOrYF3ttAanoa1rz+m3RHBjdqGZ7aiqHaIZXVLrt9pkt1Rcg0r6lsVIGSR3wuCeYHH33qprAEpM0DLfA41dcHRA52l0UCkAYWxNHQ50BdBf5Pp8wnISfEHBecpPO4nNFTVVMKdEprR2hmgK9jGoQf7bClMDwm/ZKe41hv10zKuqy3Qze3lj7rxAiSS3zDnXIVXmUGFvGpRiGxMSezqg6uDj7ySAZ7qUa3NViFf2YEXPmdtevl8W/qRvFLpyfbVZp7rvsBOUBgCs52s4R6qvfWiBvBSfQMKlZlIdB1Uh1A+oJ2nAOm6bpWxNnB6as9si2T1OKXQCeYegWqRLl2kSw==;NdeNlTqbgYf30w6I1MHPrg=="
 ---
 

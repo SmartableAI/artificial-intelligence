@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-13-companies-are-adopting-ai-for-supplier-negotiations-but-which-ones-should-the-machines-handle.md",
+      "title": "Companies Are Adopting AI For Supplier Negotiations, But Which Ones Should The Machines Handle?",
+      "excerpt": "Enterprise AI is moving to new domains such as negotiating. There are some distinct advantages in machines being able to negotiate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martinrand/2021/03/13/companies-are-adopting-ai-for-supplier-negotiations-but-which-ones-should-the-machines-handle/",
+      "originalUrl": "https://www.forbes.com/sites/martinrand/2021/03/13/companies-are-adopting-ai-for-supplier-negotiations-but-which-ones-should-the-machines-handle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604b71fed0914c1b39ff7a1f%2F0x0.jpg%3FcropX1%3D577%26cropX2%3D3136%26cropY1%3D0%26cropY2%3D1705",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martinrand/2021/03/13/companies-are-adopting-ai-for-supplier-negotiations-but-which-ones-should-the-machines-handle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martinrand/2021/03/13/companies-are-adopting-ai-for-supplier-negotiations-but-which-ones-should-the-machines-handle/amp/",
+      "publishedDateTime": "2021-03-13T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-google-might-ask-questions-about-ai-ethics-but-it-doesnt-want-answers.md",
+      "title": "Google might ask questions about AI ethics, but it doesn't want answers",
+      "excerpt": "Gebru and Mitchell were both leading members of Google’s Ethical AI team. In other words ... highlighted the extent to which the tech industry’s recent obsession with “ethics” is such a manipulative fraud. As the industry’s feeding frenzy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
+      "publishedDateTime": "2021-03-13T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-why-is-teslas-full-self-driving-only-level-2-autonomous.md",
       "title": "Why Is Tesla’s Full Self-Driving Only Level 2 Autonomous?",
       "excerpt": "A trial of Tesla’s Full Self Driving ability has been making its way round a few US cities carrying selected beta-testing Tesla owners since October 2020. But recently a series of emails between Tesla and the California Department of Motor Vehicles have ...",
@@ -218,7 +321,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -573,7 +676,7 @@
       "originalUrl": "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -716,49 +819,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.md",
-      "title": "AIICT with AWS offers new Certified Artificial Intelligence Professional course",
-      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new Certified Artificial Intelligence Professional course, jointly developed with Amazon Web Services (AWS). The new course is aimed at aspiring Artificial Intelligence (AI) developers and Machine Learning (ML) professionals and enables",
-      "sourceUrl": null,
-      "webUrl": "https://www.itwire.com/development/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course-202103120717.html",
-      "originalUrl": "https://www.itwire.com/development/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course-202103120717.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itwire.com/media/k2/items/cache/d2a0a95200aec1db45cf44255d076619_M.jpg",
-          "width": 375,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1210,58 +1270,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-deepmind-is-building-a-team-of-ai-researchers-in-new-york.md",
-      "title": "DeepMind is building a team of A.I. researchers in New York",
-      "excerpt": "DeepMind has already hired several intellectual heavyweights in New York. Rob Fergus, the co-founder of Facebook AI Research, is now helping rival DeepMind to build a team in New York. DeepMind declined to say how many people it has in New York but ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "originalUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "publishedDateTime": "2021-03-11T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -26,33 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the"
-    publishedDateTime: 2021-03-10T21:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-19693389.html"
+  - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
+    excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
+    publishedDateTime: 2021-03-10T21:39:00Z
+    webUrl: "https://www.lelezard.com/en/news-19693395.html"
     type: article
     provider:
       name: Le Lézard
       domain: lelezard.com
-    quality: 72
+    quality: 73
     images:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
-    publishedDateTime: 2021-03-10T21:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 71
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "ClearScale Achieves AWS Machine Learning Competency Status"
     excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has"
@@ -68,6 +54,15 @@ related:
         width: 1847
         height: 967
         isCached: true
+  - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2021-03-10T21:15:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 50
   - title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
     excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
     publishedDateTime: 2021-03-11T00:09:00Z

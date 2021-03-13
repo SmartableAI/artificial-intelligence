@@ -2,6 +2,101 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-02-23-future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry.md",
+      "title": "Future Acres launches with the arrival of crop-transporting robot, Carry",
+      "excerpt": "When people ask me which robotics categories are poised for the biggest growth, I often point to agriculture. The technology already has a strong foothold in places like warehouse and logistics, but it’s impossible to look at the American – and global – farming community and not see a lot of",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/",
+      "originalUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/02-Carry-front-view.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/amp/",
+      "publishedDateTime": "2021-02-23T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-continental-invests-in-object-recognition-startup.md",
+      "title": "Continental invests in object recognition startup",
+      "excerpt": "The startup is working on a new chip architecture for object recognition in real time based on artificial intelligence, Continental said on Tuesday in a statement. The supplier said it expects the ...",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/suppliers/continental-invests-object-recognition-startup",
+      "originalUrl": "https://europe.autonews.com/suppliers/continental-invests-object-recognition-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Continental%20grille%20web_2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-path-forward-baker-hughes-c3-ai-discuss-ecosystem-of-ai-solutions.md",
       "title": "PATH FORWARD: Baker Hughes, C3 AI Discuss ‘Ecosystem’ of AI Solutions",
       "excerpt": "Executives at Baker Hughes and C3 AI explain the recently launched Open AI Energy Initiative and why they believe this ecosystem will transform the energy industry.",
@@ -1079,101 +1174,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-how-marketers-can-start-using-ai-for-stronger-results.md",
-      "title": "How marketers can start using AI for stronger results",
-      "excerpt": "AI is no longer the “future of marketing”. It is very much the here and now, and outlined below are a few ways how you can start using AI for stronger marketing results in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/",
-      "originalUrl": "https://www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginewatch.com/wp-content/uploads/2021/02/How-marketers-can-start-using-AI-for-stronger-results.png",
-          "width": 728,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/amp/",
-      "publishedDateTime": "2021-02-22T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Watch",
-        "domain": "searchenginewatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-bank-of-america-earns-most-patents-in-its-history-in-2020-with-a-focus-on-ai-and-security.md",
-      "title": "Bank of America earns most patents in its history in 2020 with a focus on AI and security",
-      "excerpt": "Bank of America was granted 444 patents in 2020—the concentration of its patent applications indicates a focus on use and protection of customer data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
-      "originalUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f16471cf34d050dad0c5172?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI in Security"
       ]
     }
   ],

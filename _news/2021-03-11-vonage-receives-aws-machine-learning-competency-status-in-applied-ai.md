@@ -1,45 +1,32 @@
 ---
 category: news
 title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
-publishedDateTime: 2021-03-10T21:10:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
+excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
+publishedDateTime: 2021-03-10T21:39:00Z
+originalUrl: "https://www.lelezard.com/en/news-19693395.html"
+webUrl: "https://www.lelezard.com/en/news-19693395.html"
 type: article
-quality: 71
-heat: -1
-published: false
+quality: 73
+heat: 113
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
   - AWS AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
-  - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the"
-    publishedDateTime: 2021-03-10T21:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-19693389.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 72
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
     excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
     publishedDateTime: 2021-03-10T21:00:00Z
@@ -68,6 +55,15 @@ related:
         width: 1847
         height: 967
         isCached: true
+  - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2021-03-10T21:15:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 50
   - title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
     excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
     publishedDateTime: 2021-03-11T00:09:00Z
@@ -78,6 +74,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "yJWmJB16OZ9+9yud/yPkU4rtXWwph6Vfn3IPsBnQIBvoJO33JUtS6ypzlaGER9hVTAy9QKvP0z8WqoTk6jEYPmYUhkceTZYuqZMQrGWBk3nUXNztnoZM/cEcKSMNnmqiVACIG0spQXkanGSaGzKvFGhXyp29JwZuRYavriFtQVGKnJD0bhfFJ8xWZF8BIHMMzu0aQ7XhqoxsfYE2IIJIFhZ1Njvde1jcEIz9SkrTlmjqfwDSso+btx89Gf0tgLgv486yxEOFLPuRnAiPUBOUmOmabNLHjZNYIkqigAd0GAfFBADK4sN66n8OMB8VlucZrZWw5Ae1HsRfFXI7boZBe6+T782oaeSjGtHANOaiwOY=;N1SRMkuy5JeH/j/GhxQB/Q=="
+secured: "ZNkW4FpkFfIs3Qb+uJyYniq9MvB2fBXTQOpP3tpVbPWBrqHChaaHJxKFJhszo3zI1dqHQhF/+flsbe1vu1u5/BA/qrC7O2pGZS5UQ8GDMTyVNReQ/EPYnEuiFVex6quTTRiL8hYiSnZ6rUEJ0S+vSe0chYC9wB4MkUQUM8VTmdY1LQFrDduFyG/cN/ZBWBVvugBagF7QWC4wtUkkGBtaxWafcPAie5gdtszRAW2i9qNPnbux6QkOdlhviLezUjpnzaUJ+ADCzTAL5TstjIus/8FYT5N8QwXXwX4DiRAvJxke2PjErnaBIxwDKXVK8Cgq7z0TTq3M72B+7FxqwGkxUGN0K3yIX1WU/XZdBqwLFt4=;wBqugphfkbJkUVErSJnckw=="
 ---
 

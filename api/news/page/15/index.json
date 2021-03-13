@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-27-how-googles-grand-plan-to-make-its-own-games-fell-apart.md",
+      "title": "How Google's Grand Plan to Make Its Own Games Fell Apart",
+      "excerpt": "The tech giant hired 150 game developers for Stadia Games and Entertainment, only to lay them all off. Sources say it never gave the studios a chance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/",
+      "originalUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60394cbfcb267f5208ca89bb/master/pass/games_stadia_1131586303.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-stadia-games-entertainment-collapse/amp",
+      "publishedDateTime": "2021-02-26T16:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-edge-ai-market-size-share-trends-analysis-report-with-growth-forecast-2020-2027.md",
       "title": "Edge AI Market Size, Share & Trends Analysis Report With Growth Forecast 2020-2027",
       "excerpt": "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry",
@@ -154,8 +206,8 @@
       "title": "TensorFlow: A cheat sheet",
       "excerpt": "TensorFlow is an open source software library developed by Google for numerical computation with data flow graphs. This TensorFlow guide covers why the library matters, how to use it, and more.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -172,8 +224,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
       "publishedDateTime": "2021-02-26T15:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1157,60 +1209,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-why-machine-learning-strategies-fail.md",
-      "title": "Why machine learning strategies fail",
-      "excerpt": "Most companies are still trying to figure out how to make AI work. A recent survey looks at some of the barriers to machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/cloud-machine-learning-strategy.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
-      "publishedDateTime": "2021-02-26T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
       ]
     }
   ],

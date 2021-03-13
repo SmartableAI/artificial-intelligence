@@ -2,58 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-12-aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.md",
-      "title": "AIICT with AWS offers new Certified Artificial Intelligence Professional course",
-      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new Certified Artificial Intelligence Professional course, jointly developed with Amazon Web Services (AWS). The new course is aimed at aspiring Artificial Intelligence (AI) developers and Machine Learning (ML) professionals and enables",
+      "path": "_news/2021-03-11-vonage-receives-aws-machine-learning-competency-status-in-applied-ai.md",
+      "title": "Vonage Receives AWS Machine Learning Competency Status in Applied AI",
+      "excerpt": "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied",
       "sourceUrl": null,
-      "webUrl": "https://www.itwire.com/development/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course-202103120717.html",
-      "originalUrl": "https://www.itwire.com/development/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course-202103120717.html",
+      "webUrl": "https://www.lelezard.com/en/news-19693395.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19693395.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itwire.com/media/k2/items/cache/d2a0a95200aec1db45cf44255d076619_M.jpg",
-          "width": 375,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19693389.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19693389.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -69,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T13:37:00-08:00",
+      "publishedDateTime": "2021-03-10T13:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Le Lézard",
@@ -98,7 +55,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/batch-image-processing-with-amazon-rekognition-custom-labels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1409,6 +1366,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-students-from-52-law-schools-boycott-seward-kissels-recruitment-over-alleged-conflict-in-donziger-prosecution.md",
+      "title": "Students From 52 Law Schools Boycott Seward & Kissel's Recruitment Over Alleged Conflict in Donziger Prosecution",
+      "excerpt": "The unethical behavior of Seward & Kissel’s Chevron-linked prosecutors opens the door to future cases in which judges give private law firms the authority to prosecute the critics of multinational corporations—without disclosing their ties to those same industries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/newyorklawjournal/2021/02/26/students-from-52-law-schools-boycott-seward-kissels-recruitment-over-alleged-conflict-in-donziger-prosecution/",
+      "originalUrl": "https://www.law.com/newyorklawjournal/2021/02/26/students-from-52-law-schools-boycott-seward-kissels-recruitment-over-alleged-conflict-in-donziger-prosecution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-26T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

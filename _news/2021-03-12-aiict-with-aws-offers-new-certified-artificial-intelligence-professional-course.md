@@ -7,8 +7,8 @@ originalUrl: "https://www.itwire.com/development/aiict-with-aws-offers-new-certi
 webUrl: "https://www.itwire.com/development/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course-202103120717.html"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: ITWire
@@ -23,17 +23,6 @@ images:
     width: 375
     height: 281
     isCached: true
-
-related:
-  - title: "AIICT introduces new Certified Artificial Intelligence Professional course developed with AWS"
-    excerpt: "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML) professionals."
-    publishedDateTime: 2021-03-09T00:49:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 38
 
 secured: "DvVj3dmA4ljAOTa7VgMNO1mdJjSpODgJa9Y7bUxsi8tlJ5nP8xdN0HZEmo7s3L9kmEBQfnbaRhfMKL1g/O3HGGslsbVNTDvC5uPzFvhmoC1MPlU4eVLQqnR5x60ok5QygeBy3SBwgkxWXrqPmrMoEq4+JoDad8Znn2ygg6T6GLGpuI9zvmD9/cRXCHaPU3weaDbsHlvA9Vgb9emI3NMpPa433CMKmw8cgN9RBYMEuH2DbgsARmekafTR+hlyloj9ZSPs7sgu7IR66/qWIYomEq3JEZq/yeF6c3tpIIybkZpvvfFgDu4nmxrXK1nnY0UCh1ibLdyGmc55FcMH4PHxqGV9iexDh6zxGs7ye7HFbBQ=;rMMmeP+8Jd3KOTZw1fa7DA=="
 ---
