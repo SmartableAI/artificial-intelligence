@@ -1,38 +1,44 @@
 ---
 category: news
 title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2021-03-10T21:15:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
+excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
+publishedDateTime: 2021-03-11T06:43:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
 type: article
-quality: 50
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
-    publishedDateTime: 2021-03-10T21:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
+    excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
+    publishedDateTime: 2021-03-10T21:39:00Z
+    webUrl: "https://www.lelezard.com/en/news-19693395.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 71
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 73
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
     excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
@@ -72,6 +78,6 @@ related:
       domain: wicz.com
     quality: 36
 
-secured: "wLtUagCgP3S8h90/TBEmRBRev89kVt/IFn32wjAmedHYijBsKdxTT8PBDC//nCB6RvOFUO/AEeqL53UbXpMm31CJoowOnF63aoHPl1E9hwDovrgt9Bha3pwow/Jvk9zAzQN8PLsqLibTJWKNAkZxrHXp3+413Jp7dZFhxjNYoF9n+KgOnw8xPp7Is4F5lqf3Mj6k/S2Je+e3NGITgIaoiy4cneg9MutjF6ep88/vTuoo0PbQZm9wUDLYzgsAtM03IQuUMNLqoBRy8y0RwGOWebmUzgN5s7RMOolZz6lLOgcCN1l3hgSgX0dhw3iLIY731VO1iBxdEY+J76kZE9IfF+EC2HdkCJdQkvcqMuOK8DY=;UIg02ZHgiuUcDVXGfu3ODQ=="
+secured: "eTyGA8sm11Lw2vwkdPjrPZSIasmhber0zhdO5b7F3Ea8rijo163rGVAq5ylOcWDuGaPxybY9Lw0ohAfRwwh3oxIlLo/G8Jg8z4iGoMxy5d84pXpwqbC0SYS9EmQKU0u5tHG4JaAJWdNEXdEVkhrpGMkkB37+vyVkVFnOkbg6P2QnE0WvlvhdELnEAW3mlWZSO6NiYcR4an+IgEAnmYkTzzdfRJk99BxmgIABZTEhGW4mdn7/7XNnyK3IoaNZCQNiXqN97sAMZO1gCzXphXiOMAw9VfAwsPUJoZGG3rClxDMEx2Adlyvv/2pFfFE5IffAIEz5ys1387NAUy7dESMYaA+hkPTHY440DTeXD1mDGfM=;nqV137TfKQqRRJcJk9FTiA=="
 ---
 
