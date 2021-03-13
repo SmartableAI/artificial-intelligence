@@ -3,7 +3,7 @@ name: "Chelsea Finn"
 bio: "CS Faculty @Stanford. Research scientist @GoogleAI. PhD from @Berkeley_EECS, EECS BS from @MIT"
 location: Palo Alto, CA
 type: "profile"
-heat: 195
+heat: 230
 
 affiliation:
   name: stanford.edu - Homepage
@@ -14,7 +14,7 @@ website: https://t.co/R71YZ0CUzE
 twitter:
   username: chelseabfinn
   url: https://twitter.com/chelseabfinn
-  followers: 35093
+  followers: 35096
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1xw2vTsAAAAJ
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Chelsea Finn"
 
-secured: "Djl2ruxXTTiIp64N+ualnVWMiXjlsaTp2HNPdz3DpUydPKHW8WmVwbEuNjLpxr5Uz0hV1iNGRziuhOdSFcFJM3GzStE2kwtKPGNwn/LjAhePSvGIfiyP6u8v9EYed8l5BcRLoUiKXL8A2tBIhtKgY4BsdpXFet8lZfR/NqP0Xkrj4HEA4Wf5I+2ppYPHtOTrl7Bxdi7R9c2ERZvGhmhvk8qqJ5bfHQZYF+5At+aK7sZ/M/1YHosEPDC+Mw5rxHnpBIPFfXJIfllTLt9AqRQuwtTB81PQENfQOZ6v7XR0Q5p4VgeCmd2NfwbPbE24eQuDyYSc0JzdcBhgg2yJVFic5fBmAi5isnDCS2J2HR88li4qJNMze4R+vidrCGugv+aFGDmjuHM0j7TIq0mItxpLsKe6IzHFmeA0fxu/nu5P8/w=;PXqPYTjJGRS4HfueasWc4A=="
+secured: "zTK9E87+fRzjQcej0tRGhfMBGXLAAQVTOdlXl/id6UgnhToYjL8GHxhxPYCJpseX9V67ow8YMrioOS5Kv3b3fqD5TDj8+C5LM59nFxaxtwoGq564A2JhdeY4h4H+gBpcqMpAp1tDiPe3hfkSU6M9IdIdElf2EAD8JQPtHPkZ5CHJ8ruFGvWSaXNqJyd1eyMZfvPJzLlbfC53AdBIdME0l94zxNGPiCnszXUdLH5wZFkaI0hLZDfcRbotghesqLfv4FGxaFXIK/5Yc+9T7R7NGkV/73zjl1fcTUY2xuz8J/+KAKnlPYuxlm1CSM272A+LqMnZRumEFbfffgyArq6NjeOedYnwDdExhDoReq+mz4ACWKfAP+qICCNNPQfphZcW4Fqr3wetEdFVCyr3Q7Aa4oXGEhJCKlxRy0Q9oC1iNbQ=;tPiAOwe0CkmolKZ+gskMGQ=="
 ---
 
