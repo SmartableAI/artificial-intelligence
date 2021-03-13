@@ -59,6 +59,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Peak Fintech Offers Compelling Value At These Levels"
+    excerpt: "We entered Peak Fintech ( OTCQX:PKKFF ), soon to be renamed Tenet Fintech Group Inc., as an entry for a marketplace competition, and bought the shares at $1.12 for our marketplace SHU Growth Portfolio (up 62."
+    publishedDateTime: 2021-03-12T01:13:00Z
+    webUrl: "https://seekingalpha.com/article/4413315-peak-fintech-offers-compelling-value"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4413315-peak-fintech-offers-compelling-value"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4413315-peak-fintech-offers-compelling-value"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 44
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2021/3/8/191022-1615228267013274.png"
+        width: 640
+        height: 489
+        isCached: true
   - title: "We need to strap a rocket to the government's FinTech thinking"
     excerpt: "AI, DLT, Digital ID and open finance) are transformed into a reality. Since at least 2015 I have been arguing for a centre, a task-force, a rocket at the centre of government to blast forward everything 4IR and fintech. It needs to be at the centre and ..."
     publishedDateTime: 2021-03-12T09:54:00Z

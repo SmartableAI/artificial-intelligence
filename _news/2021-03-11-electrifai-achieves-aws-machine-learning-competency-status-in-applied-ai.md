@@ -21,18 +21,18 @@ topics:
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
-    publishedDateTime: 2021-03-10T21:39:00Z
-    webUrl: "https://www.lelezard.com/en/news-19693395.html"
+    excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
+    publishedDateTime: 2021-03-10T21:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 73
+      name: Associated Press
+      domain: apnews.com
+    quality: 71
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
     excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
@@ -72,6 +72,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "d1LBiKuVVaOO5jmMefqjWJYVDEZEo88uvl104zL3vwVmOOomqqC9vEkJQq9wh3BMVfMEtc6+IZDrwRnPN84Nf9FU+pKMma+9yOD/G6svCPALhz1nmsr6AWYLlFJlcm0/mfZcQEwKqTI7heNvr26R9/ToQWzAR57a7nui56YQjxmuceKgT51aj634MeDTLJuDnpQf4IrvSIaJiR8j3zn2FXn21ptdRNsfHU/glfj1wvQLFW2IsdWnAdV5E4VGaLXUS1r1NCmTUKXZQNOOaQXaLa8mct7tK13qADI9efjjWwoispA8mcEzsX4s4jN7V27/WnMY/y53aNQJV+bnvJ3eDIw/Bahad9XSeYwbXI7QNVM=;pXmlWVaBjeH2jLfHtwhKuw=="
+secured: "o+xHj6DZxJjOr7GBJ6MMcSK96q9dqw2FvByGkaXicKdHwrnSytNKUfwDES5/5H8unWMgruFSH8LxPYeNIYmAQM73jcFUDIEGMV4nHRDnOjqo1hu+lvqP6a/YrH17MI9KJeIatof5dIMMDEYktV579V9f5At2ZS3QYc/O6/a2vKSbRHzrn06AYLwoYBDuk0ALKncqbLZExlo7Eze6kZrxiZjRkq7FffAHTxP//n547XjIvexS8xa6AvEYqXgk957keoLDOaYc49hjcbJrf3waFIKizCjBSt1YDZI7PZ0PWoEZFRQM80X/LiRktsy4GPvx9okXq8IclHOU9Wkze0KHStpmUaAXkRNE9sOCN8vu1gE=;8mxs57QzEWry6oW5RkN8Ww=="
 ---
 

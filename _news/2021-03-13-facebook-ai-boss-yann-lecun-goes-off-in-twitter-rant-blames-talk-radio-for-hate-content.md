@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 661
         isCached: true
+  - title: "Facebook’s computer vision system supervises its own learning process"
+    excerpt: "Facebook AI researchers wrote in a blog that they have developed SEER (SElf-supERvised). This is one-of-a-kind billion-parameter self-supervised computer vision model. This model has all the potential to learn from any random group of images on the internet."
+    publishedDateTime: 2021-03-13T17:53:00Z
+    webUrl: "https://www.analyticsinsight.net/facebooks-computer-vision-system-supervises-its-own-learning-process/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/1280-facebook.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "v0z4efbcvd7DW8nNe6WBjKXs5VVLfwmf6FBOM/NneCUzS2Is566A4ClpZ6E/xDXqkbXkM2bIQXFEBZIvT3LmdynKD2pFUymyfavIkS0DEaMu3OlCu085D0F+7mLMJcFEiKcVF9nPswra844yPc3ifEs6FjtpFTpogJYrL68MvBHwxxpcwfLNQLYtwpYJYbw5PxqDUcXyVdc/WwSdI7Sipwa6IVAHPSxwNb8MJ3ij5tTuY4sxY6Llr2aJKyJhWKFR1JGtVhqPl0r3+af93jqDKO61GbCLlZgEU59Bh0tr2PoMksfdN5UflaX3uH70mLiCd2cM0IebmfGfvl9xj9sXdknWKEZ4Sm2gmkieb5A1gs77WKswA3RxlAoxTO20jCPC1fQ1X7dYKPv+TL8ecJAOr8Vs2yIU51pFWATVeqnAorATfrsc8ca0R8pRY8ubnM6IBp9Z0H5B8mkJWr1PdZ2Us4+cNoLdYCVYzZeoqwM1CtD4yMben702fES/cBJsOZTCps69wNnElYY7TwfUdm6UZg==;PNusQEgXALzr4t9TAZr7Sw=="
 ---

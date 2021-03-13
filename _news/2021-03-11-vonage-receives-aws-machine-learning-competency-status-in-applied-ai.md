@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
-publishedDateTime: 2021-03-10T21:39:00Z
-originalUrl: "https://www.lelezard.com/en/news-19693395.html"
-webUrl: "https://www.lelezard.com/en/news-19693395.html"
+excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
+publishedDateTime: 2021-03-10T21:10:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
 type: article
-quality: 73
-heat: 113
+quality: 71
+heat: 111
 published: true
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AWS AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -74,6 +73,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "ZNkW4FpkFfIs3Qb+uJyYniq9MvB2fBXTQOpP3tpVbPWBrqHChaaHJxKFJhszo3zI1dqHQhF/+flsbe1vu1u5/BA/qrC7O2pGZS5UQ8GDMTyVNReQ/EPYnEuiFVex6quTTRiL8hYiSnZ6rUEJ0S+vSe0chYC9wB4MkUQUM8VTmdY1LQFrDduFyG/cN/ZBWBVvugBagF7QWC4wtUkkGBtaxWafcPAie5gdtszRAW2i9qNPnbux6QkOdlhviLezUjpnzaUJ+ADCzTAL5TstjIus/8FYT5N8QwXXwX4DiRAvJxke2PjErnaBIxwDKXVK8Cgq7z0TTq3M72B+7FxqwGkxUGN0K3yIX1WU/XZdBqwLFt4=;wBqugphfkbJkUVErSJnckw=="
+secured: "a8B8YyQ6xQNVrPsoAmA88wBZ0wbieQJwQkIobYNpx5+o8fz0ACrB8Whwvi5wVeljywPylzcso53KBzjtiWXH2oztdDVhR4KS0a3UOSFcfx+aYWNH2nZ4zUWZHV3+75x6UO+5c8lm5KrBmHhkSfsZO5GcbqCCUjEzKur2sJ4EztMnGfBS5quoHvq/kyBdinm7ED43g36HW40KGa2OaX6+iXY0szsiAFc6LfiDlSuLBEhMG1QdVhXGWA2oACJzZHVuy3AIHdKV+5wB5y8BPpySMop3rW7WPPzMffpCwe7C2Iv5BI7Itntkjo/u9bpkKyfG5ygHX2nPrQVyg4yKJwxO0pXqvGkdsofT0/nmdEUElts=;ends8CyNdXFZmwMyahwdnQ=="
 ---
 

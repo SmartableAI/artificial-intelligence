@@ -43,6 +43,22 @@ related:
         width: 1792
         height: 1008
         isCached: true
+  - title: "What facial recognition and the racist pseudoscience of phrenology have in common"
+    excerpt: "Technology commentators have panned these facial-recognition technologies as ‘literal phrenology’; they’ve also linked it to eugenics, the pseudoscience of improving the human race by ..."
+    publishedDateTime: 2021-03-13T14:00:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/1-copy-24-796x417.jpg"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Gambling, rural vaccinations and facial recognition: Down in Alabama"
     excerpt: "Also: The Alabama National Guard joins the vaccination effort, and Redstone Arsenal is employing facial-recognition technology. The “Down in Alabama” podcast is short and free. Listen to it by clicking on the player above or subscribe by looking for “Down in Alabama” on the device of your choosing."
     publishedDateTime: 2021-03-11T05:33:00Z

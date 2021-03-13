@@ -75,6 +75,22 @@ related:
         width: 457
         height: 305
         isCached: true
+  - title: "Peak Fintech Offers Compelling Value At These Levels"
+    excerpt: "We entered Peak Fintech ( OTCQX:PKKFF ), soon to be renamed Tenet Fintech Group Inc., as an entry for a marketplace competition, and bought the shares at $1.12 for our marketplace SHU Growth Portfolio (up 62."
+    publishedDateTime: 2021-03-12T01:13:00Z
+    webUrl: "https://seekingalpha.com/article/4413315-peak-fintech-offers-compelling-value"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4413315-peak-fintech-offers-compelling-value"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4413315-peak-fintech-offers-compelling-value"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 44
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2021/3/8/191022-1615228267013274.png"
+        width: 640
+        height: 489
+        isCached: true
   - title: "Fintech Acorns just nabbed Harvest, a startup helping customers reduce debt, as consolidation among personal finance apps heats up"
     excerpt: "As fintech booms, Acorns took the opportunity to buy debt-reduction startup Harvest to add to its existing micro-investing and savings offerings."
     publishedDateTime: 2021-03-11T14:29:00Z

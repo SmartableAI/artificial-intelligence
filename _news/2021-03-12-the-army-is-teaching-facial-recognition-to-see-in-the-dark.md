@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/88apzb/the-army-is-teaching-faci
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "What facial recognition and the racist pseudoscience of phrenology have in common"
+    excerpt: "Technology commentators have panned these facial-recognition technologies as ‘literal phrenology’; they’ve also linked it to eugenics, the pseudoscience of improving the human race by ..."
+    publishedDateTime: 2021-03-13T14:00:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/1-copy-24-796x417.jpg"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Down in Alabama: Gambling; rural vaccinations; facial recognition"
     excerpt: "From today’s Down in Alabama podcast: Bad news about your early-retirement plan: Alabama’s latest lottery-and-gambling bill has met its demise. The “Down in Alabama” podcast is short and free. Listen to it by clicking on the player above or subscri ..."
     publishedDateTime: 2021-03-10T09:30:00Z

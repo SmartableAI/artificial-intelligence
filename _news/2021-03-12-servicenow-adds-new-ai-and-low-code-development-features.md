@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/11/servicenow-adds-new-ai-and-low-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/servicenow-adds-new-ai-and-low-code-development-features/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/03/09/735a7e38-eb5f-4ae4-b95e-f1aee21cf85c/app-engine-studio-and-app-engine-templates-prod-name.jpg"
         width: 2400
         height: 1256
+        isCached: true
+  - title: "The chief innovation officer of $96 billion ServiceNow explains how new low-code and AI tools will help people be more productive"
+    excerpt: "The firm — which makes automation software — launched new AI updates and low-code capabilities on its platform earlier this week that greatly expand its range of services. While ServiceNow initially focused on customer, IT, and employee processes with ..."
+    publishedDateTime: 2021-03-13T16:55:00Z
+    webUrl: "https://www.businessinsider.com/servicenow-dave-wright-new-low-code-tools-artificial-intelligence-investments-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5e724f4bc4854007d2093b97?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "ServiceNow debuts new low-code app studio and AI features"
     excerpt: "Both are based on technologies that the company obtained through startup acquisitions. The first new feature is an AI-powered search engine that allows ServiceNow users to look for information ..."
