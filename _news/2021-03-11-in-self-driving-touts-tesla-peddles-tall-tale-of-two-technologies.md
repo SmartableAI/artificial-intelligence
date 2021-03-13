@@ -35,22 +35,6 @@ related:
         width: 796
         height: 408
         isCached: true
-  - title: "Tesla's Full Self-Driving Beta rolls out to more drivers as Musk reports high demand"
-    excerpt: "CEO Elon Musk said the last beta doubles the number of people who have access to FSD, but a future update will open the tech to 10 times as many drivers."
-    publishedDateTime: 2021-03-08T14:07:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-elon-musk-demand/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-elon-musk-demand/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-elon-musk-demand/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 82
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla removed drivers who weren’t paying attention from Full Self-Driving beta as it expands"
     excerpt: "Elon Musk says that has Tesla removed from the Full Self-Driving Beta drivers who they determined weren’t paying enough attention. The automaker also expanded the beta to now a total of roughly ..."
     publishedDateTime: 2021-03-13T01:11:00Z

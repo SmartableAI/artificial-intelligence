@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Assessing regulatory fairness through machine learning"
-    excerpt: "Applying machine learning to a U.S. Environmental Protection Agency initiative reveals how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators."
-    publishedDateTime: 2021-03-08T14:00:00Z
-    webUrl: "https://news.stanford.edu/2021/03/08/assessing-regulatory-fairness-machine-learning/"
-    type: article
-    provider:
-      name: Stanford News
-      domain: stanford.edu
-    quality: 84
-    images:
-      - url: "https://news-media.stanford.edu/wp-content/uploads/2021/03/05181621/AI_policymaking.jpg"
-        width: 1500
-        height: 750
-        isCached: true
-  - title: "Assessing regulatory fairness through machine learning"
     excerpt: "The perils of machine learning – using computers to identify and analyze data patterns, such as in facial recognition software – have made headlines"
     publishedDateTime: 2021-03-09T15:22:00Z
     webUrl: "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/"

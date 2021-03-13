@@ -26,6 +26,22 @@ images:
     height: 423
     isCached: true
 
+related:
+  - title: "New Research Supporting ProFound AI Presented at European Congress of Radiology Online Meeting"
+    excerpt: "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced new research supporting ProFound AI® was presented at the European Congress of Radiology ( ECR ) 2021 Online meeting,"
+    publishedDateTime: 2021-03-08T17:37:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-products-and-services-artificial-intelligence-diagnostic-imaging-7b3d651b1f761c507f3928baa0a682ff"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "gLI4Qa2/ujucCTCt4Df/Y4mk6nNFcVboLwbTin4BDFBnasHVsV8O+t8hsPbbYPpzQLGgnekNoaHGDl7sg0NAuMQ8SWzjym/j4kTaQGLz1LsICm9aQj9+pPxoqzpzKMDKzFJMttmYNFJMFLeDkElnZLQPf7BLjtFFNvJg1h+PASUj3yJKh60Sq+vWdvJxLkkJhA2dwoHKBwVlNdVVieGsWfMDsbW6bIZEq/oa36aMhxE9ubW9LhZYndnlwgbcB/ekmh0tBhSiorsvTOdC3qey9pfJadBn1+rc7UlUOg6JO/3NvU5ZEDl6Jh2VIOMN0oJW+OpHMQxIeOekh+STABjxprhY1847UjnrafqGukZukEM=;v1FfNNfgGMJdMjk20B8fZQ=="
 ---
 

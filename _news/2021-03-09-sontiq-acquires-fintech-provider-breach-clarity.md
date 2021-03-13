@@ -1,27 +1,27 @@
 ---
 category: news
-title: "FinTech Buddy Loan offers 2x higher disbursal rate on personal loan app"
-excerpt: "Bangalore-based FinTech start-up, Buddy Loan, a personal loan aggregator cofounded by entrepreneur duo Srikanth Bureddy and Satish Saraf, offers 2x higher disbursal rate than the industry standards through an Artificial Intelligence (AI) powered platform."
-publishedDateTime: 2021-03-12T07:54:00Z
-originalUrl: "https://ibsintelligence.com/ibsi-news/fintech-buddy-loan-offers-2x-higher-disbursal-rate-on-personal-loan-app/"
-webUrl: "https://ibsintelligence.com/ibsi-news/fintech-buddy-loan-offers-2x-higher-disbursal-rate-on-personal-loan-app/"
+title: "Sontiq® Acquires Fintech Provider Breach Clarity"
+excerpt: "Sontiq, the leader in Intelligent Identity Security(IIS), today announced it has acquired award-winning data breach intelligence fintech Breach Clarity. As a result of the acquisition, Sontiq’s products – IdentityForce,"
+publishedDateTime: 2021-03-09T12:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-technology-computer-and-data-security-artificial-intelligence-331d85971c1a45389f1ee331f50d3610"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-technology-computer-and-data-security-artificial-intelligence-331d85971c1a45389f1ee331f50d3610"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: IBS
-  domain: ibsintelligence.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://ibsintelligence.com/wp-content/uploads/2021/02/tZERO-.jpg"
-    width: 300
-    height: 300
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -135,20 +135,6 @@ related:
         width: 505
         height: 325
         isCached: true
-  - title: "Sontiq® Acquires Fintech Provider Breach Clarity"
-    excerpt: "Sontiq, the leader in Intelligent Identity Security(IIS), today announced it has acquired award-winning data breach intelligence fintech Breach Clarity. As a result of the acquisition, Sontiq’s products – IdentityForce,"
-    publishedDateTime: 2021-03-09T12:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-technology-computer-and-data-security-artificial-intelligence-331d85971c1a45389f1ee331f50d3610"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Compliance Fintech Smarsh Adds To Execs To Support Growth"
     excerpt: "Portland, Ore.-based compliance fintech Smarsh has announced the addition of two new executives to support its accelerating growth. Goutam Nadella has been named chief product officer, according to a company announcement."
     publishedDateTime: 2021-03-11T18:13:00Z
@@ -162,6 +148,20 @@ related:
       - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "FinTech Buddy Loan offers 2x higher disbursal rate on personal loan app"
+    excerpt: "Bangalore-based FinTech start-up, Buddy Loan, a personal loan aggregator cofounded by entrepreneur duo Srikanth Bureddy and Satish Saraf, offers 2x higher disbursal rate than the industry standards through an Artificial Intelligence (AI) powered platform."
+    publishedDateTime: 2021-03-12T07:54:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-buddy-loan-offers-2x-higher-disbursal-rate-on-personal-loan-app/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/02/tZERO-.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
     excerpt: "The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
@@ -192,6 +192,6 @@ related:
         height: 339
         isCached: true
 
-secured: "kTqDpZagBXXw9X9rGbkzqqSYZffUvCQWKRV7pyPLOQoDpeoB3eor163muQQWQvv5SQ4lCitFCl7VafGWqm8XQcWAUhmdKdiEHzJZSHQa7gcgPHm4SjWa/iRmJsH48mBz4OygZBkp+LgvcxlpGa43Vtrz8eX0O2zolppofqTbmWdD8k6dd8yA2oVpu92tpg+ryCK5MRNx2opgnM0OEVFowEVpZSpNO7RLRRwzN5mQ/iNZJqY8pCmwZK97SEaTLFSuVhkSoEjgToqkWP8IOjdV9ZA88KKUExssZshBBPfr0B0mDTxpAYxbaWvasCuIMwz7M7LrHn2Vcm2dWuTf1OMUfeQgYdRnuk6NR0dEI10U2vM=;gGfOwww/TTIkiDmmLgz2/Q=="
+secured: "pyM+YQr6ylTK+zxf5eObQAFszXN1sFBmCd/9FLgCwbgINGftuqRZH6wrSmRXseBm7DzAYDXbPxfaUF1LRYWt+x8ChQzuq5pEhbwFvsFA8BPuF+CdTjlSs8/OaQ3ij6LSLzojwXwGuUVtGVgkqFe8y1IkducUynogfIEAcuQkZSL1bcFkQ55gW4/tgUE1IqiR2U2mQs6TaJljP1GFxh/hGA+wC2mCw2yhfY7dpVw6V1WzwUgBhUEWYk2gjR7cxfmyKq6XDSl//HDG+BO1r+jeY4QrA079FiKd3WVnX7yItiOzrhnlHe+w4x1rulho2T+5cxpW7f7k7hEpx7we/2ckIRCvZ+vzx7mGWILEmuhGwPg=;6o55Y/jbfU0qNndrKh8I2g=="
 ---
 

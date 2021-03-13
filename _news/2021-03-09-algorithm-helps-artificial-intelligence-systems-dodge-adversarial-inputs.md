@@ -24,20 +24,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Algorithm helps artificial intelligence systems dodge “adversarial” inputs"
-    excerpt: "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or “adversarial” inputs may cause uncertainty."
-    publishedDateTime: 2021-03-08T14:00:00Z
-    webUrl: "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Adversarial-Learning-01-press.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Military planners deploy AI to gain edge over adversaries"
     excerpt: "Military chiefs hope that applying AI technology to warfare — a key feature of the government’s new defence and security strategy, due out next week — will provide commanders with better information during critical operations."
     publishedDateTime: 2021-03-12T23:10:00Z

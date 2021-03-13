@@ -62,22 +62,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "A neuron only found in the human brain has appeared in artificial intelligence"
-    excerpt: "The multinodal neuron, which is able to recognise a consistent theme through abstract concepts, has (to date) only been found in the human brain. It was discovered by engineers at the startup, which was founded by billionaire Elon Musk,"
-    publishedDateTime: 2021-03-08T14:36:00Z
-    webUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/?ico=related-posts"
-    ampWebUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 72
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2019/08/PRI_80313160.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
   - title: "The brain, AI, and human destiny"
     excerpt: "Regarding his book that chronicles 34 years of studying the brain, inventor Jeff Hawkins talks to Tiernan Ray and Karen Roby about how the newest part of the brain, the neocortex, is escaping from millions of years of enslavement to genetics and biological drives,"
     publishedDateTime: 2021-03-08T19:54:00Z
@@ -107,6 +91,6 @@ related:
         height: 400
         isCached: true
 
-secured: "QNS13pl/ehxVmRBJSlYOelHW5pcVhnyLsfL+iQn2XIEg0OImVwnsZ2sFlOUjzdRN3pTMcEBP2oxc3ZwU7ep9sbpwtbac+jiI+6Dnqy1qISRzgnWuiQ2rANcfIAfcpGaqHtQSOY1ROHgyFL+vdXaFC4nfYYCOKTBf5YG6bLJvOJHljOA3Y2qXsS3hnvlcHkPCKWyB9s1i/a7QnJE0DPK8XJVCZ12D3YDJdZcoL5PBjAxm9xoXMP0yXQziNkXWmFg7AgreRRwv/XPpNP7EH4BUTFBgAjVQzYqwqeiU1ffE68wQJ5XVA0pNdaPp2a1EW/bfVWzDMYgKIDciBG4Dx1YM94cBjN4DjgNsv7vUdkou6Cw=;npyiucy0oaVbd/eMmXUr6w=="
+secured: "STZh92Nh9veufIuFFqsEFXkqOgoaWyrrO6uviEnpOYD5ntVqSbr0/OtykMZpBjtS+ZGcvFs++SNPXrhA/wWXRL85O6HNtVJJmPCgtOQF+7y3LAnc9OTj+CNh5FpHI8xxTcxpAEXI6isuDzzYhjgoXXcZZuyZ9LS+Jo6mrDfeq5cqX7dmLfB43amJg8ZRSoBY6TQ6qu3gf0Hy7+gsmNPV9zBHvR5FO4HI1Hrhq9GqcN79ERmup1aiU0dUOkTc+FCQwzMw9ii6doJ9cLgNt0rPi8Nl4NBV7Iq7fYhkoE6Tdrm98aJtC6l0mOT+0//Hf+0CoWfvP0p5WQ6InZaept3nfXHsdmtiYgnU8ux+fyv0XV7wCKH/q0GnewUqNXiZHFy+qwp6wVKQBaT0K4s0W5UHmE01Z9wovYkO6SIAervUQWSubt3YK6rnJtcaPbMxZwF0Vzkjjc/LiklVWM5eIdD+mdEfWF8OB/XGrCiQs4jWW5VsQGBSa5kycVp4/LZazAN6fm9B1vk2zJaQkEz8R6L80w==;NQ1+MDgMKhiawHO4guwC0w=="
 ---
 

@@ -2,6 +2,112 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-03-01-healthcare-revolution-in-the-platform-economy.md",
+      "title": "Healthcare Revolution In The Platform Economy",
+      "excerpt": "If there is any industry worthy of platform innovation and disruption, it’s the healthcare industry. Advancements in inpatient care, unit productivity and service accessibility can be the difference between life and death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6037cdd68396ed5f43faa400%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/amp/",
+      "publishedDateTime": "2021-03-01T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-way-beyond-alphazero-berkeley-and-google-work-shows-robotics-may-be-the-deepest-machine-learning-of-all.md",
+      "title": "Way beyond AlphaZero: Berkeley and Google work shows robotics may be the deepest machine learning of all",
+      "excerpt": "With no well-specified rewards and state transitions that take place in a myriad of ways, training a robot via reinforcement learning represents perhaps the most complex arena for machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/way-beyond-alphazero-berkeley-and-google-work-shows-robotics-may-be-the-deepest-machine-learning-of-all/",
+      "originalUrl": "https://www.zdnet.com/article/way-beyond-alphazero-berkeley-and-google-work-shows-robotics-may-be-the-deepest-machine-learning-of-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/01/26135994-0bce-49f3-b230-159d559ab89b/levine-et-al-2021-robot-grasping.png",
+          "width": 1602,
+          "height": 1450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/way-beyond-alphazero-berkeley-and-google-work-shows-robotics-may-be-the-deepest-machine-learning-of-all/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/way-beyond-alphazero-berkeley-and-google-work-shows-robotics-may-be-the-deepest-machine-learning-of-all/",
+      "publishedDateTime": "2021-03-01T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-a-wave-of-billion-dollar-computer-vision-startups-is-coming.md",
       "title": "A Wave Of Billion-Dollar Computer Vision Startups Is Coming",
       "excerpt": "Computer vision is the most technologically mature field in modern artificial intelligence. This is about to translate into enormous commercial value creation. The deep learning revolution has its roots in computer vision.",
@@ -1128,83 +1234,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-driverless-bus-hits-streets-in-southern-spain.md",
-      "title": "Driverless bus hits streets in southern Spain",
-      "excerpt": "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
-      "originalUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/02/27/bus.jpg?itok=DnMiwaar",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
-      "publishedDateTime": "2021-02-26T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-students-from-52-law-schools-boycott-seward-kissels-recruitment-over-alleged-conflict-in-donziger-prosecution.md",
-      "title": "Students From 52 Law Schools Boycott Seward & Kissel's Recruitment Over Alleged Conflict in Donziger Prosecution",
-      "excerpt": "The unethical behavior of Seward & Kissel’s Chevron-linked prosecutors opens the door to future cases in which judges give private law firms the authority to prosecute the critics of multinational corporations—without disclosing their ties to those same industries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/newyorklawjournal/2021/02/26/students-from-52-law-schools-boycott-seward-kissels-recruitment-over-alleged-conflict-in-donziger-prosecution/",
-      "originalUrl": "https://www.law.com/newyorklawjournal/2021/02/26/students-from-52-law-schools-boycott-seward-kissels-recruitment-over-alleged-conflict-in-donziger-prosecution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Last-mile delivery robotics company Refraction AI raises $4.2M"
-    excerpt: "Ann Arbor-based Refraction AI announced today that it has raised a $4.2 million seed round. The startup, which debuted on the TechCrunch Sessions: Mobility stage back in 2019, was founded by a pair of University of Michigan professors (Matthew Johnson-Roberson — now CTO — and Ram"
-    publishedDateTime: 2021-03-08T14:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/"
-    ampWebUrl: "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/154024079_102529051892044_9043079890713007716_o.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Self-driving robot delivery startup raises $4.2 million to expand in Ann Arbor"
     excerpt: "Ann Arbor-based delivery robot developer Refraction AI has raised $4.2 million in seed funding. The company in 2019 created the REV-1 robot, a lightweight, self-driving robot that delivers food and groceries to Ann Arbor residents."
     publishedDateTime: 2021-03-11T20:21:00Z

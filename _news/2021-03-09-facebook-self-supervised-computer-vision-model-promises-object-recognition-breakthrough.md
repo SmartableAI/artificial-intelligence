@@ -25,22 +25,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Facebook’s New Billion-Parameter Model Might Just Change Computer Vision Forever"
-    excerpt: "SEER is a billion-parameter self-supervision computer vision model that can learn from any group of images on the internet. Just like the human brain, deep learning uses a neural network for object detection, speech recognition, translation, decision ..."
-    publishedDateTime: 2021-03-08T14:07:00Z
-    webUrl: "https://analyticsindiamag.com/facebooks-new-billion-parameter-model-might-just-change-computer-vision-forever/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Copy-of-Whats-Kubernetes-Got-To-Do-With-GPT-3s-Success-3-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
-
 secured: "UlFwQkJwd7y5ofTGZam/SvPt0kS6a10SpXHqbFgrS9jlpA8M4IOOavUFa2DrBS3kkwNkj6VspxB50xxWOwtPbvW/tZScO/1vLFHDh+S+yW75ZvkJVSorZoS7Cjwe9xCmZHPUD4/22cW7WUPCcnOMp4PJEo+sg/TDlVbcdyqKXFdOGvd57uySLeQZqtM0d8RDQVGhdd/IwczRc6fiOCr6iMeURehdaGi6gyj8xScdnK14IvSFPy3EdL8/MQLmpohofR0bhgWxtQ08lnuPDUMNd9vfhwwwcMs5Zwc86Y678LH+qf74d/fhG1//trjRvT+K4VgrbFxooMa+R17OM2n3EB6eH3z946yHez2LSUWOn02AAvKWWGdPwoRN6v0PP85AFj//LTnu+fZzSx5tBvPYGs5+lVowN/rF+WecVmPJjTEM8vS0L2HWVC1maCxO9oJYc1FWEYAQptmoAcRYLOXUhud42jswS28DDlDSORYCDzqDqM5hQVhZ2+qq0kIOO1OK93hBuL7QKumw9q1lkqmfKg==;LAiEhYx6RVbBDJCX1+dTsg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ibm-watson-services-mark
 webUrl: "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://clf1.medpagetoday.net/media/images/91xxx/91568.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Emotion Detection and Recognition Market Size to Record 18% CAGR Through 2027"
-    excerpt: "Selbyville, Delaware, Global Emotion Detection and Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Emotion Detection and Recognition Market Report also covers top key players,"
-    publishedDateTime: 2021-03-08T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-size-to-record-18-cagr-through-2027-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "CqI+gJs63J8Q2lq5f/Z7Wh5bJVq04d19RD1VK3QrFSQg62SdiMUJ7vLUCp2f+kpp75UCyI5ImMDswIxYCRVAhHdvRaLSF9Bc1MnWUTgx2esjXx8PbrHS98ti1u0LDbSNccIYnbp6vJ8/1aWQaTo739xFcqMB6BAYRbCptOzO+57oRrJqS+NzqCUotaFVHPmdUgx307okaXJjaVazKXzIKu0yQVbk5IXDFm9Y9vEffOVKClOOY+z/RMRgaSIUk6D4J/THpgKs2MVM9lNXziIrkqg4DmVXzm3fYyRFz7vz7ma1V9BTuAviJI6nmA1QeYwCLhsoRo7SXlFyx4QDwKIOFqbW1DS6b6N7utm5PysXXl4=;csT6k38dmF3k0vr2BgRo3w=="

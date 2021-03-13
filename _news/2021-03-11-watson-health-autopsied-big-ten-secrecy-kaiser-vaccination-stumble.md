@@ -53,20 +53,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Emotion Detection and Recognition Market Size to Record 18% CAGR Through 2027"
-    excerpt: "Selbyville, Delaware, Global Emotion Detection and Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Emotion Detection and Recognition Market Report also covers top key players,"
-    publishedDateTime: 2021-03-08T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-size-to-record-18-cagr-through-2027-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ZYh/C1zCe7tSNSpZ+0ETbEg8lhRfIloHvNkIR6iVZAjusLcbI9wnMD2bryEse9tG67KIRHlKyE+IWtNTjvEV/agl1IgPr4PMJoaV4QQaNgQMYJ4/tClK2uAFQSF3HwSjdVUE9zjEAeeIBBI8NMd35z+5zo3/EZfcYMidzbzBS0xX2huZz8KBMhrPv98oypfCq2UXczLf2XkRNvBsLHrdywTKFDEhl4FaR9vqGUSPa4pM7s6e5TGhICkxWNnB/My3fiAmhcD7TsHObYdAgU3SdTAfvwpOeerWsgRj2trPEinnLiQx34+ug7Qtcyvp2STIkx+bfC6NZ47uvdo+FhtGRAuPZgMFvr2YP6u80QTNZppqR3AyQV61IKeeOiW/Fh4GMdqJeJx63HWrZhl+fFLddbeLSEaCpzDC28evg+fNXG5XpbBGQfUD8SBQ5n3Ij0LFGREglOWSHdwqay3FIGTKt7gpnomNmYdDVx4LQtlY2RitmH4kEm1AUDkRIBIxvIFTzpDsCWhZck7zUioNEhD8Ew==;JThL+ASYt7CThGPSOiddnQ=="
 ---

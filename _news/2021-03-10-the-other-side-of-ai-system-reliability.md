@@ -106,20 +106,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Inside the fall of Watson Health: How IBM’s audacious plan to ‘change the face of health care’ with AI fell apart"
-    excerpt: "Internal documents and interviews with former IBM Watson Health employees point to a leadership team that prioritized publicity over science."
-    publishedDateTime: 2021-03-08T14:59:00Z
-    webUrl: "https://www.statnews.com/2021/03/08/ibm-watson-health-sale/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 35
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/03/Casey-Fall-of-Watson-2-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "RPELhVzHGnbUgCAE0ymPSP7QjxufzmMZQ0dlHnG6bJdwt83kXYnffCiW6aJr5YN6Tm928SzQ/UqZ35lf+fq+DjCD9XR7LtMYEGnT9zIeZL5F6l1K3P4iOrGHZBOI6Y8NEgzfSsIOV5KfM+E+jJslQcRKUgGC4LXJrxiupXGGyX4Xv2YHVPpA1hRebn/UayEfF0JyjXYHjKBk8cVsl3y6aWIvCc0ZyGv/oSAWS/BUvy+FyhyqTzp9Owhg3IZBgS4nIt/8g7ztPkmVnROykanPmNV/jj+MNtMb7Bj3h6DtHnFEiyyK1BMjBgAHJZr49ogZOiajwc9d9oNDK78/8TfOsQCJJnlwUXmpZ6Q3VBW16PA=;54Tm7Y4NypnxPLZj7cz7iA=="
 ---

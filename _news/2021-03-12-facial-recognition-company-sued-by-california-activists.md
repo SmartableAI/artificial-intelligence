@@ -1,31 +1,25 @@
 ---
 category: news
 title: "Facial recognition company sued by California activists"
-excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
-publishedDateTime: 2021-03-12T00:40:00Z
-originalUrl: "https://www.sacbee.com/news/business/article249820553.html"
-webUrl: "https://www.sacbee.com/news/business/article249820553.html"
-ampWebUrl: "https://amp.sacbee.com/news/business/article249820553.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article249820553.html"
+excerpt: "(AP) — Civil liberties activists are suing a company that provides facial recognition services to law enforcement ... monitor their associations, and track their speech,” the lawsuit contends. The lawsuit said Clearview AI scrapes dozens of internet ..."
+publishedDateTime: 2021-03-11T16:15:00Z
+originalUrl: "https://www.seattletimes.com/business/facial-recognition-company-sued-by-california-activists/"
+webUrl: "https://www.seattletimes.com/business/facial-recognition-company-sued-by-california-activists/"
+ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-company-sued-by-california-activists/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-company-sued-by-california-activists/?amp=1"
 type: article
-quality: 61
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Natural Language Processing
   - AI
   - Computer Vision
-
-images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/00f30775-8558-4ebb-8ad3-3d396887f1e7/9e7332ae-e878-43bc-a77a-6ef0024dba7f/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Facial recognition company Clearview AI sued by California activists"
@@ -306,6 +300,6 @@ related:
       domain: legal500.com
     quality: 0
 
-secured: "JSonzP9zRF1dXTS1SEhLR0466DZ2RlZ5hpYceLBsQsKI9Fy3Fs/ZtFLL84Ddt3Zl81Hw8rRh2aVQmPDd/ktR9Tf7Tp5X1UU9lO2G5VikwGlBB1fC82tzqH1GXZo1akwtsRfOiWtyKXLUIjVKuUn9lmSC4MiQw32z1/vtST+w8dAUhGlNip1RXI/b1NEJsKWPNrJ/lf1tvM9VdR5nOb+RQxpR7VXoPABkZZhAikNs6vYCKcLCoxj9A3EOIaaW2/XfVAuRzI4WqiaLFA11ypB159mSdrhI3oJZpWDFOqq2JI+C0hSi9BVxIl7q+2h/1MtshRdXzIyytLhXrCFaMiuHTkvUQcSaxV1UQce17J/1fNg=;mxkRmdj2iES5cRRB1gl5Vg=="
+secured: "s+xS3CZKxKsbES1ysP6VxrQEorr6FcID8qFOwAMj3IActsiy7kdk88g81y1qwzGsBZ62vWZwBpraKkkvmjE4asj3SMBjelFbK7MhodLBNQBWIi3ZMrtXTp5+TYw65eQVLxvhqkhwlPIyDpNkGNtHLE0RtokYFeCjX+SyPMx5wqG7b9hbSO6LKwDpiFCEjCaXc6quRdsSZL+2BOFZmLwHIWINhijbIMAVUZ0f1H1rnqNMc6IFIPCQBoth6efWb0Q4tLZIav7kSz/6tIrmanrYsio7v+61nh4JBI0VsxNe01/2hlnxaxxxSdMtHJd6tDvdpg73TrfQnroCCACnqZ221Ibg+yOdClU4QZ/cBXzxRQM=;nNBgs0pNVr0dAH75XU+LvA=="
 ---
 

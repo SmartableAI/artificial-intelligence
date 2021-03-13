@@ -121,19 +121,19 @@ related:
         width: 600
         height: 516
         isCached: true
-  - title: "Tony Pizi Joins FinTech Studios as Chief Information Officer"
-    excerpt: "Tony is a superb addition to FinTech Studios and brings a depth of talent and experience to FinTech Studios and proven track record of developing and deploying new innovative technologies at scale.” — Andy Brown,"
-    publishedDateTime: 2021-03-08T13:06:00Z
-    webUrl: "https://www.wboc.com/story/43460577/tony-pizi-joins-fintech-studios-as-chief-information-officer"
+  - title: "Sontiq® Acquires Fintech Provider Breach Clarity"
+    excerpt: "Sontiq, the leader in Intelligent Identity Security(IIS), today announced it has acquired award-winning data breach intelligence fintech Breach Clarity. As a result of the acquisition, Sontiq’s products – IdentityForce,"
+    publishedDateTime: 2021-03-09T12:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-technology-computer-and-data-security-artificial-intelligence-331d85971c1a45389f1ee331f50d3610"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20462887_G.jpg?lastEditedDate=1615183267000"
-        width: 314
-        height: 314
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Compliance Fintech Smarsh Adds To Execs To Support Growth"
     excerpt: "Portland, Ore.-based compliance fintech Smarsh has announced the addition of two new executives to support its accelerating growth. Goutam Nadella has been named chief product officer, according to a company announcement."
@@ -162,20 +162,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2021/02/tZERO-.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "IWD 2021: No more talking, it's time for action on female representation in fintech"
-    excerpt: "2020 may have been a year of challenge, but it proved that above all else, digital resilience will remain foundational, not only to female financial inclusion, but to female representation across the fintech sector."
-    publishedDateTime: 2021-03-08T14:25:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37624/iwd-2021-no-more-talking-its-time-for-action-on-female-representation-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 18
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fofp81.jpg"
-        width: 480
-        height: 270
         isCached: true
   - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
     excerpt: "The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"

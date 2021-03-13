@@ -9,8 +9,8 @@ ampWebUrl: "https://scienceblog.com/521537/assessing-regulatory-fairness-through
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: ScienceBlog
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Assessing regulatory fairness through machine learning"
-    excerpt: "Applying machine learning to a U.S. Environmental Protection Agency initiative reveals how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators."
-    publishedDateTime: 2021-03-08T14:00:00Z
-    webUrl: "https://news.stanford.edu/2021/03/08/assessing-regulatory-fairness-machine-learning/"
-    type: article
-    provider:
-      name: Stanford News
-      domain: stanford.edu
-    quality: 84
-    images:
-      - url: "https://news-media.stanford.edu/wp-content/uploads/2021/03/05181621/AI_policymaking.jpg"
-        width: 1500
-        height: 750
-        isCached: true
   - title: "Deciphering cis-regulatory grammar with deep learning"
     excerpt: "A new study builds a novel deep-learning approach to unravel the syntax of transcription-factor binding from high-resolution ChIP–nexus data. In silico simulations lead to experimental validation of complex sequence-based predictions: helical periodicity and directional cooperativity between transcription factors."
     publishedDateTime: 2021-03-08T16:19:00Z

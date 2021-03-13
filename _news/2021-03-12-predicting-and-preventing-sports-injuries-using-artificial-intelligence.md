@@ -7,7 +7,7 @@ originalUrl: "https://www.postandcourier.com/sports/predicting-and-preventing-sp
 webUrl: "https://www.postandcourier.com/sports/predicting-and-preventing-sports-injuries-using-artificial-intelligence/article_7aeade1c-80eb-11eb-9492-4bcbb05bb448.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1187
     height: 630
     isCached: true
-
-related:
-  - title: "8 inspiring women in AI leading advancements in the field"
-    excerpt: "We celebrate and focus on eight leading women in AI whose work in the field is inspiring and moving the entire sector forward."
-    publishedDateTime: 2021-03-08T13:35:00Z
-    webUrl: "https://dataconomy.com/2021/03/8-inspiring-women-in-ai/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 41
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/03/8-inspiring-women-leading-advancements-in-ai.jpg"
-        width: 1500
-        height: 500
-        isCached: true
 
 secured: "ZaNHGurv85f8vL2S2wnAtl3SCRcUhvfYSDaiWe90hFwNxIkOZpImqKyNYE3ueEAX2Mf54BXNe4dN+U1KI2K5bvvnd9C8QqLvgiZqZ2eSVg/O6KwM+jecGaoeju31cbfZB50n4zCDW7/H0aDERFBV0RFAaAtb1N4eLZDj7M5GTZ7El2J+gUxiXHt9+77kKGm46Yc0scM4NIJdo+F+5OYWyTOuHhRUuBBoNLs8vSNZmD+PDP1m5+oSOu1skUNVojIVsAmJSvhboq0xHNKihGLiIkp0Oyhmo/bO5mjSSUp8SPRJWRLJjhCUPQfZogU+cIPjuNuIZN13RZqzbrXY0On8crqciOYBdtqpeLnEbAOC9Mw=;bO3tL+4e3d5ZUqnHbqmBYw=="
 ---

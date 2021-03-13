@@ -137,22 +137,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facial recognition company sued by California activists"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
-    publishedDateTime: 2021-03-12T00:40:00Z
-    webUrl: "https://www.sacbee.com/news/business/article249820553.html"
-    ampWebUrl: "https://amp.sacbee.com/news/business/article249820553.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/business/article249820553.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 61
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/00f30775-8558-4ebb-8ad3-3d396887f1e7/9e7332ae-e878-43bc-a77a-6ef0024dba7f/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)"
     excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."
     publishedDateTime: 2021-03-10T12:03:00Z
@@ -208,6 +192,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facial recognition company sued by California activists"
+    excerpt: "(AP) — Civil liberties activists are suing a company that provides facial recognition services to law enforcement ... monitor their associations, and track their speech,” the lawsuit contends. The lawsuit said Clearview AI scrapes dozens of internet ..."
+    publishedDateTime: 2021-03-11T16:15:00Z
+    webUrl: "https://www.seattletimes.com/business/facial-recognition-company-sued-by-california-activists/"
+    ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-company-sued-by-california-activists/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-company-sued-by-california-activists/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 41
   - title: "California Activists Sue Facial Recognition Company"
     excerpt: "Civil liberties advocates are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally ..."
     publishedDateTime: 2021-03-10T16:03:00Z

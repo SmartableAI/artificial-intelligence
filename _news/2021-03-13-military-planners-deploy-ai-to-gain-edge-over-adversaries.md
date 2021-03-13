@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/94d59a36-099a-4add-80d3-475127b231c7"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/94d59a36-099a-4add-80d3-475127b231c7"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Algorithm helps artificial intelligence systems dodge “adversarial” inputs"
-    excerpt: "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or “adversarial” inputs may cause uncertainty."
-    publishedDateTime: 2021-03-08T14:00:00Z
-    webUrl: "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Adversarial-Learning-01-press.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Algorithm helps artificial intelligence systems dodge 'adversarial' inputs"
     excerpt: "A deep-learning algorithm developed by researchers is designed to help machines navigate in the real world, where imperfect or 'adversarial' inputs may cause uncertainty."
     publishedDateTime: 2021-03-08T19:22:00Z

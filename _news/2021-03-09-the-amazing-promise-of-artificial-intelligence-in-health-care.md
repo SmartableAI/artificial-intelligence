@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligen
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/03/p-1-ai-bias-healthcare.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Inside the fall of Watson Health: How IBM’s audacious plan to ‘change the face of health care’ with AI fell apart"
-    excerpt: "Internal documents and interviews with former IBM Watson Health employees point to a leadership team that prioritized publicity over science."
-    publishedDateTime: 2021-03-08T14:59:00Z
-    webUrl: "https://www.statnews.com/2021/03/08/ibm-watson-health-sale/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 35
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/03/Casey-Fall-of-Watson-2-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "ak7JcnnZBfRgl7SyCCMVAjigtDmMObt6IqFhRv4KbU6HNnFwTQQ3xtns+4kC+psPIY7MDnfXRLN3ONlSjea0bAFv+7rpAg/oknAbQQ1/EeYMvXreYUEDKxIlTxoRyT/Gv9AjyNF3hUmOZGF0SEdwQlTzmyfzuMOd9vVJ34ohWzqjj19RvsXIxXt97lcMDZuVd1ZgJtrmkHXaqLoyO/rZB21H44MEIsUKhuHWDXYkTWqM0eqAfus9B5/sUNilTIklvyCkiA1C/dT98yx9X7EZ7soyVf/LsJjZS7ytT2xGGSpCB3ky3XusAnxn6853pw2jSdP494u/XF74uOqasYNrrYOpRgF0B5pQqi2x+TFj3hvBKdgqzYrJJLkkrz3Lf6P4PEVkSjAch8eZQkGI5eCGbCp16qJBh8uOsGQ/e9lobquIYqYrzIeHj/xl5j9xRv3ChAumqDgvdQ9dUYynuHF/49E7jHHGq1PcVRAf8tC1r141yKucOt5Z1YrErDF9SWGmgdHEhAvbeUT31lmuRzQ45Q==;TzzO7Wr4warvbizmPUGsMQ=="
