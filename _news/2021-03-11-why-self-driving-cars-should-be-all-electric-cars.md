@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla removed drivers who weren’t paying attention from Full Self-Driving beta as it expands"
+    excerpt: "Elon Musk says that has Tesla removed from the Full Self-Driving Beta drivers who they determined weren’t paying enough attention. The automaker also expanded the beta to now a total of roughly ..."
+    publishedDateTime: 2021-03-13T01:11:00Z
+    webUrl: "https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/"
+    ampWebUrl: "https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 78
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla’s communications with DMV over Full Self-Driving are released and they bring some confusion"
     excerpt: "Tesla’s communications with DMV over the release of its Full Self-Driving Beta have been released through a freedom of information request. Some of the comments made by Tesla to the DMV are bringing some confusion to people as they could be interpreted as contradicting what Tesla and Elon Musk are saying publicly."
     publishedDateTime: 2021-03-08T11:42:00Z
@@ -135,17 +151,6 @@ related:
         width: 1616
         height: 1260
         isCached: true
-  - title: "Tesla Expands Full Self-Driving Beta Software Doubling Its Size"
-    excerpt: "Tesla is expanding its Full Self-Driving beta as it looks to ramp up the development of the advanced driver-assistance system. The electric car manufacturer introduced the Full Self-Driving beta in October to select owners participating in its Early Access Program."
-    publishedDateTime: 2021-03-08T10:55:00Z
-    webUrl: "https://www.carscoops.com/2021/03/tesla-expands-full-self-driving-beta-software-doubling-its-size/"
-    ampWebUrl: "https://www.carscoops.com/2021/03/tesla-expands-full-self-driving-beta-software-doubling-its-size/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/tesla-expands-full-self-driving-beta-software-doubling-its-size/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 39
   - title: "Tesla Tells Two Stories About Self-Driving Vehicle Timeline"
     excerpt: "An email exchange reveals that Tesla has been marketing two different stories regarding self-driving vehicles: one that promises the technology’s much-touted autonomy and another that assures the DMV the tech is far off."
     publishedDateTime: 2021-03-09T22:03:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-next-big-thing-major-giants-google-ibm-microsoft-2021-03-11"
 type: article
 quality: 73
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -98,22 +98,6 @@ related:
       - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "10 key Microsoft Ignite takeaways for CIOs"
-    excerpt: "It’s barely five months since the last Ignite conference, but Microsoft still had a lot to share about innovations in AI, IoT, and communication."
-    publishedDateTime: 2021-03-08T10:02:00Z
-    webUrl: "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.html"
-    ampWebUrl: "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/03/satya-nadella-2-100879791-large.jpg"
-        width: 1200
-        height: 652
         isCached: true
   - title: "All The Machine Learning Features Announced At Microsoft Ignite 2021"
     excerpt: "Microsoft held its annual global IT conference, Microsoft Ignite 2021, virtually. The event announced a number of AI-based features and updates across the cloud platform Azure and other business applications."

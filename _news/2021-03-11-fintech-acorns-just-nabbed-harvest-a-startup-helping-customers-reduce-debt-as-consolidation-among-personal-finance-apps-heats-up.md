@@ -93,20 +93,6 @@ related:
         width: 904
         height: 565
         isCached: true
-  - title: "Fintech Start-Up Fintern Takes On The Banks With Data-Driven Loans"
-    excerpt: "Fintern promises the combination of the UK's open banking reforms and its data tools enable it to lend to more people at cheaper rates"
-    publishedDateTime: 2021-03-08T09:05:00Z
-    webUrl: "https://www.newsoneplace.com/9485282012/fintech-fintern-takes-banks-loans-data-driven"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 39
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/6045e6224897c09d751e204b/0x0.jpg?cropX1=0&cropX2=2415&cropY1=40&cropY2=1399"
-        width: 2415
-        height: 1557
-        isCached: true
   - title: "The Financial Technology Association Launches Backed By Big Names, Seeks to Advocate on Behalf of Fintech"
     excerpt: "A new trade group has been launched to advocate on behalf of the Fintech industry. Today, the Financial Technology Association (FTA), is hoping to educate stakeholders and support the modernization of financial regulation."
     publishedDateTime: 2021-03-11T03:14:00Z

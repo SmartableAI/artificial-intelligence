@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
-publishedDateTime: 2021-03-10T21:39:00Z
-originalUrl: "https://www.lelezard.com/en/news-19693395.html"
-webUrl: "https://www.lelezard.com/en/news-19693395.html"
+excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
+publishedDateTime: 2021-03-10T21:10:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
 type: article
-quality: 73
-heat: 113
+quality: 71
+heat: 111
 published: true
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AWS AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -42,18 +41,18 @@ related:
         height: 720
         isCached: true
   - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to-value with pre-built (including pre-trained, pre-structured ..."
-    publishedDateTime: 2021-03-11T07:35:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
+    excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
+    publishedDateTime: 2021-03-11T06:43:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 70
     images:
-      - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "ClearScale Achieves AWS Machine Learning Competency Status"
     excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has"
@@ -79,6 +78,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "sNjlkMnmulvoJdTabLuFl/bTszEdr/XKPxVOGZ631Mnd8LFmNW5sidu8Wrxiku3Rj9IW1XK2mNhzaMwvKFBaVFYEf+VfPNtkIlGLiqIosPEPWSXaBnhYpK1AivCnaQiZFTtleOLLZ4DsRLhn8pv/s7L7PM2Qk3mKsDjvlVirn99LIhXVlt8sSpIFDOodHNJKu4fymBtNZAkrTyOSBBzEw8GXzUOkOrhiAY4BlYY4+5IrFjGVft1RtnGgKEDZicLRNjnuRoBu7eTVdnMHJTzKC5XEu7p/wouJsXUThHLc72sQbwEjsmzwWQOlGv0xWeAfRkDZvOtrC4Pd1qsAXcYCzXHMI8/0unNtIwugKQQpdck=;Y7L+M/HiPq5F0omJbuFA/Q=="
+secured: "lZfNUkmltTJIEzOlbKaaRm5zD6DcVnfLENjeQeYj44I5CRcpcQHFV++GuL3czSiTZyDlSO+O1trDsY2UDPJ2Tpbcm6MUNzqTYTJzcYDAnpcOVuJ3lUgs8LY1T4q3ptm8WZt6PoIDiV2ZwEZDEeMkBL6YzrZ93Deo7e46VkD6oI0Mejem3bl1PKApUQJ3S/dmy0auTe8h+CJ6ykH7YiC/ui7d4GP3Y77HLWt/dpPMdz/qoHul/lUUA6Mj+sxF1pgn2Wp3M/5Ip+pYbvpCcFmG+auZD0waadq6btSqo+BK9QrpbcRGOb775dhJN9IqdlHQg1yUZ/Q650yOKJKABGTmMMCGIfwPEPwLxExQ8hsqBDo=;WMjGOyVqAL/9mLSbTAXHAA=="
 ---
 

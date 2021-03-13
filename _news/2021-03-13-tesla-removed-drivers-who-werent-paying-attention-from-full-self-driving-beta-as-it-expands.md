@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Tesla's Full Self-Driving Beta rolls out to more drivers as Musk reports high demand"
-excerpt: "CEO Elon Musk said the last beta doubles the number of people who have access to FSD, but a future update will open the tech to 10 times as many drivers."
-publishedDateTime: 2021-03-08T14:07:00Z
-originalUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-elon-musk-demand/"
-webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-elon-musk-demand/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-elon-musk-demand/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-elon-musk-demand/"
+title: "Tesla removed drivers who weren’t paying attention from Full Self-Driving beta as it expands"
+excerpt: "Elon Musk says that has Tesla removed from the Full Self-Driving Beta drivers who they determined weren’t paying enough attention. The automaker also expanded the beta to now a total of roughly ..."
+publishedDateTime: 2021-03-13T01:11:00Z
+originalUrl: "https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/"
+webUrl: "https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/"
+ampWebUrl: "https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/amp/"
+cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/amp/"
 type: article
-quality: 82
+quality: 78
 heat: -1
 published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
+  name: Electrek
+  domain: electrek.co
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
+  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
     width: 1200
-    height: 630
+    height: 628
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 796
         height: 408
         isCached: true
-  - title: "Tesla removed drivers who weren’t paying attention from Full Self-Driving beta as it expands"
-    excerpt: "Elon Musk says that has Tesla removed from the Full Self-Driving Beta drivers who they determined weren’t paying enough attention. The automaker also expanded the beta to now a total of roughly ..."
-    publishedDateTime: 2021-03-13T01:11:00Z
-    webUrl: "https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/"
-    ampWebUrl: "https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/amp/"
+  - title: "Tesla's Full Self-Driving Beta rolls out to more drivers as Musk reports high demand"
+    excerpt: "CEO Elon Musk said the last beta doubles the number of people who have access to FSD, but a future update will open the tech to 10 times as many drivers."
+    publishedDateTime: 2021-03-08T14:07:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-elon-musk-demand/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-elon-musk-demand/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-elon-musk-demand/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
+      name: CNET
+      domain: cnet.com
+    quality: 82
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
   - title: "Tesla’s communications with DMV over Full Self-Driving are released and they bring some confusion"
     excerpt: "Tesla’s communications with DMV over the release of its Full Self-Driving Beta have been released through a freedom of information request. Some of the comments made by Tesla to the DMV are bringing some confusion to people as they could be interpreted as contradicting what Tesla and Elon Musk are saying publicly."
@@ -187,6 +187,6 @@ related:
       domain: detroitnews.com
     quality: 19
 
-secured: "7X7oYgu53oUmKR/Q4AT1peX7SLkc3+MNaP4Qx0Tfm73FHD0EAPKz3y+nkuotJECa/PYvSVZc0rvHK5RzOcgEt29WZaLqj7HvoA+EJUAvvWMbCnhzm+CxlRQY+LZOo00VQ8mROMlfVjHtsurbeyDm+emvnVjoDHrVitOlLVCLySh8f6ugQ8zEITOV60u1fcuVOnRuFrDMVtN1N7hm8s1sWCrGx8XSnbzkdbzey0LqZmF+oyFRGtBJ4JYXHrp1S+kE/VK+tW8tpbdnsEbttJP/h0G49thNMEBQ3D7rCUQVOAN9DdJhtVAJAfOlJmB0F/H9b9kCmS3jFk6Y7AcofGiVD8m71rDxwkSUtY6p5/oLNiU=;RTgcmzykVxG1JHbkSMHXCg=="
+secured: "neiI5+DDYrZa9ZZI3tfoBv92nYzMqaB1r6BOp+LUCxtzrL3wbYGny4FTlwyAS3RP+aJNaxw8CbWpqjMvSni7POE6I1YerRclCCygkHMuU82EKrUkE6NSjOLej1POjnzaOy8nnmHXRRqTCnNA/V49v3ficYXBdecKX7zOarokIpILCVGmRdUg/yyOkicigBkIsLkKpPMTepAIT0rWoVWR2tKB8cP1y5AmPE6egqwnjuiGg4EInNOm8kN7vEG1EXa8C5jSrWNgf/afyN5fVqlhSZqATm+urEnBN7W69nJ2TB6AdbVsdY48/VOAO74sbSiUoFIGALX5eKfXtpQ/vwySq3V1CNH66BBGZ3rET4X7PSM=;aIQg5do99vsjkmegn122Eg=="
 ---
 

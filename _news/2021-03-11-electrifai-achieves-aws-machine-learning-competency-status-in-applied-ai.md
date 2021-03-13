@@ -1,18 +1,18 @@
 ---
 category: news
 title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-excerpt: "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to-value with pre-built (including pre-trained, pre-structured ..."
-publishedDateTime: 2021-03-11T07:35:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
+excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
+publishedDateTime: 2021-03-11T06:43:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
 type: article
 quality: 70
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
@@ -20,25 +20,25 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
-    publishedDateTime: 2021-03-10T21:39:00Z
-    webUrl: "https://www.lelezard.com/en/news-19693395.html"
+    excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
+    publishedDateTime: 2021-03-10T21:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 73
+      name: Associated Press
+      domain: apnews.com
+    quality: 71
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
     excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
@@ -78,6 +78,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "KWv35oBdNY+v6SUFmwUGA4rRfRGFsMG+MSSUnkz4S8u7MS41/ghChUeNUKc4UCnIPI/8SDSPsIA1J0yNCXHSeAbRZNalp0gNpU9YqaXfwOzwhfeSPcfUYvbnHC9OvlndHKOmGCFSqnSwEyBsBU4N4x0vMo3S8WuoQUyWR/c+NsV+7YRcvDIxveAz5P6V2BcKsRAkDAsmMFXPGY/2o/WVEy1rLVpLzX/6hLw+GccOvbcoPb2OTtgzqajWTDSNgJkgNH7GwllbFtzHX54g4fr1Y2E1jPHGdDF3LvYi8fQ9yy1bpS/lVYFAvDqdPU6T10zntoKgc8XCwRNlYnLbUVOElmlWXrjvx0mh9/xo9E4BKtI=;GvF1MzHQkXtau+dHAFNCrA=="
+secured: "KKfqffi+RVq3qySIgfiaLdRd/jjWirdk7SVfXBLBfSN92YdbsJGfw1RhxcUfPZIgiEzc4MqSeFG25/6XUGS+bCb1wv4RQ2p/95x4A9RFyiLVzzRMDbIyt3mF4IJ9BnHZusg7UjAY5xlm9Zn6nvhFBDLuYfWGs4oTjBDQ9cFpB/TMap6tX/sraYIoZerKVPK3SFrdloPIbIKiWFJyxVmQq5gT1b4X0H1TxnPkZfiGrNG+fsOqe7PwgkAra+ZMlrVWchuN/am6Kj0QNljAg5tsFrt6NVBD6K53Rm5bBXW4PuJkufC9UG1RkTY3vddFYGEbEIkrmxhoiTtjIY+DUxoqlrBDgDWWeJo25qd3zR/FdV0=;cavovssU/3c35lg130IuRA=="
 ---
 

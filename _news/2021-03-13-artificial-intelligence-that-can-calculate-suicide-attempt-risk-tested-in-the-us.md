@@ -1,0 +1,48 @@
+---
+category: news
+title: "Artificial intelligence that can calculate suicide attempt risk tested in the US"
+excerpt: "Not long ago, an algorithm that predicts suicide attempt was created in the USA. As the next step, it underwent a prospective trial recently."
+publishedDateTime: 2021-03-13T01:54:00Z
+originalUrl: "https://www.hindustantimes.com/lifestyle/health/artificial-intelligence-that-can-calculate-suicide-attempt-risk-tested-in-the-us-101615599547924.html"
+webUrl: "https://www.hindustantimes.com/lifestyle/health/artificial-intelligence-that-can-calculate-suicide-attempt-risk-tested-in-the-us-101615599547924.html"
+ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/artificial-intelligence-that-can-calculate-suicide-attempt-risk-tested-in-the-us-101615599547924-amp.html"
+cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/artificial-intelligence-that-can-calculate-suicide-attempt-risk-tested-in-the-us-101615599547924-amp.html"
+type: article
+quality: 52
+heat: -1
+published: false
+
+provider:
+  name: Hindustan Times
+  domain: hindustantimes.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://images.hindustantimes.com/img/2021/03/13/1600x900/suicide_1615599728816_1615599733185.jpg"
+    width: 1600
+    height: 900
+    isCached: true
+
+related:
+  - title: "Artificial intelligence calculates suicide attempt risk"
+    excerpt: "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center."
+    publishedDateTime: 2021-03-12T16:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-suicide.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-suicide.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-suicide.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-suicide.jpg"
+        width: 2880
+        height: 1919
+        isCached: true
+
+secured: "FAdNI8C7a/sCFsgzXZhjcHOtV9vllZqNPHhqWm5J/9OyExadLwsfyIMExMs+qsBT7i7W5dEITswHItCTAwbRi89VeJuYEqfvaVWsiU+qkqgy5j1HritcE1lCMbsy7/VH7kfznWdMuLW4MTrRxSE90vNHKGYtC2WW1bKL9yvQR5ww9gfY3ynA/ZQ8ZkTVeSPhxiupA5Sx+yVsKgb4oL93CqTUKaVOy8nkzEdG9LQxLI2Kc9ds8lTv6MKYiemRU2gc9FJVHpuJQ4wTW15FYkgq1bXMVtXlJaao87mMiZuRLNpp3TvJHNmYbHBeJ35c38xMJpf73CblJHDACs4kXa5OQZ/GpD+/9qnkslMBKltAksE=;/YRX9X6bCsenB71gU0A+JA=="
+---
+

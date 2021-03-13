@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://s.yimg.com/ny/api/res/1.2/2DY1POimGIsnJeFVbIU9Uw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI0/https://s.yimg.com/os/creatr-uploaded-images/2021-02/be352a20-7618-11eb-b5ef-a6957d03dbd2"
