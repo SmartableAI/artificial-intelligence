@@ -135,22 +135,6 @@ related:
         width: 600
         height: 516
         isCached: true
-  - title: "Chinese Fintech Giant JD Technology Is Reconsidering Potential $3B IPO due to Nationwide Regulatory Crackdown"
-    excerpt: "Chinese Fintech giant JD Technology is reconsidering potential $3B IPO due to nationwide regulatory crackdown."
-    publishedDateTime: 2021-03-09T03:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/12/JD-shirt-China.jpg"
-        width: 505
-        height: 325
-        isCached: true
   - title: "Compliance Fintech Smarsh Adds To Execs To Support Growth"
     excerpt: "Portland, Ore.-based compliance fintech Smarsh has announced the addition of two new executives to support its accelerating growth. Goutam Nadella has been named chief product officer, according to a company announcement."
     publishedDateTime: 2021-03-11T18:13:00Z

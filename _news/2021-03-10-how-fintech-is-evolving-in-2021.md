@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/"
 type: article
 quality: 74
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -124,22 +124,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/Fintech-US-Department-of-Treasury-600x516.jpg"
         width: 600
         height: 516
-        isCached: true
-  - title: "Chinese Fintech Giant JD Technology Is Reconsidering Potential $3B IPO due to Nationwide Regulatory Crackdown"
-    excerpt: "Chinese Fintech giant JD Technology is reconsidering potential $3B IPO due to nationwide regulatory crackdown."
-    publishedDateTime: 2021-03-09T03:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/12/JD-shirt-China.jpg"
-        width: 505
-        height: 325
         isCached: true
   - title: "Sontiq® Acquires Fintech Provider Breach Clarity"
     excerpt: "Sontiq, the leader in Intelligent Identity Security(IIS), today announced it has acquired award-winning data breach intelligence fintech Breach Clarity. As a result of the acquisition, Sontiq’s products – IdentityForce,"
