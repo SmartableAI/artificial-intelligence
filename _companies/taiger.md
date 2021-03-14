@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Taiger_CO"
   url: "https://twitter.com/Taiger_CO"
-  followers: 553
+  followers: 552
 
 size: 51-200 employees
 yearFounded: 2009
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=X9wiSLxokXA"
 
-secured: "K5J28ibCLEk9DQszWZA3NCvqwSmQUmwEIlXmpFHSn0qPg+CIhA1vDvbCzGf3nLRj4zlfUss2fj5V+twd/8fG2sc96bMpcX7lEgA2ZLaCQ3KOD5KoUTMO2iNQildwH3lA6xB3D3yvTCCqMV0Trk6WwHKKSCV/6LWKsGLI9j8+mQWx5vblsZEXZujbr8c/1mY63vts1+LK2MSB40ZATTWHxofYTT5T7acMU0hpLKxUUrz8P02lCrSZMmm2GjgqBOoMo9KCiDkBxbXr9mY5e10JSZs3WcJy5wxofR1oleAn/hQNO4dSTvKr/TwwA5VYhBkLDX1bnOhv1ube+eQXgTnzQuYaRSbucRhF7WlFXyz7BV23xc4yr2zsFSi3MXu45ULfo7Nf2jCSsEu+b0RzYWwDKIqUGd3i/WQTZjLGE8mEsCU=;/7Xb+VGmjS5EMthFzv64zw=="
+secured: "vF4BGzXXT/onDE20p/IGOOk1pWNb1WGL+6CHfA+ESKyKL3j4fG6YnbCcmDz+CQmfNo0xtv3Bw6YAmZrT7pzUAlmDfmozU4IZz6yNGm1PsvAmUSXpm3RSSfFmtnlMcdorTm7TZUn8zBQuNId/Pvzwz9vIYJPNJovpzGoIu4zzPHomiyJy20PxWPkaP5GGagUKwQaUoPQRT/c5YTO8dq80a+8qFAlFcK/jc1XhWA2DPoDzz12NdGbYAopVrmHyvK1BrXFFDPEKidUTTx5aTfGi54xRhDrNgleP4Aav9oBHcG+wHn+10PMOBVD+uZOdoe5l//Rx6uuxOe0Xw+KbIhcmUGJMVGLL9jXsBhoZSguaUhsAUR2tvTb8fFyZI/ZnNrFLJJaffSd9MP2rPo4ugjgxxwW/NQxEHbKqxn8Ts0qxSVY=;Onk9cC/Gfu1fYN5gKy9Mtg=="
 ---
 

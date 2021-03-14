@@ -2,7 +2,7 @@
 name: "Cortica"
 overview: "Cortica is an Israeli company founded in 2007 with leading AI technology for autonomous platforms. The company’s Autonomous AI is based upon proprietary brain research and utilizes unsupervised-learning methodologies backed by more than 200 patents. The Cortica AI understands the visual world on a human level – thereby significantly exceeding the capabilities of the industry."
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://cortica.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Cortica"
   url: "https://twitter.com/Cortica"
-  followers: 464
+  followers: 463
 
 size: 51-200 employees
 yearFounded: 2007
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=a3qsoevtDiU"
 
-secured: "h6d9EzZf7SeqV2xwe9O0DPph8O2Jgyf5/LIEJ7U4i7TLuuz9PHlLDKrBlZSP2cdz1enFlOYlAX+4MeYcd94/BHe5PzvdOkxui+22FRJqAp8j0Plu1m0GRKDIwkoKL/6jbL6HOiRKNdmlKeurT84NY5Pxgzwpq5cCizkO5Euc8Nva0zln0au/PBrF+65xyTbOoEhZf74DRdyUMylVHgEYS6Y1gKkSqyytVERzE5Sklk0iW7eImXJHkL+NTEr+PFTVTxxPe6+411hejMjteDTYUD8DorzHWHT1D2bChhfx2iUBPTLY8cZP6Waju24WL14pVANPZB/yAY7YyxUATIwCIaeyX2em/e6Qd6PAYuivIJ9+InZ6hf4/LRUNIKbiK4IyAlYp0QtBb3VPPhawR0Q5Xw==;Q/fUDsi2UBbbMKXjOUZxcA=="
+secured: "Z2PWJ69MWMrOrpHc4QyB7zq5/JPQOHU6spMeSOozxEx4ZlleKKC+xntuHfhQQScIIeCuNyFVKCwq8vfD31mU8Fyeln9VTCsi4hWVMw7/LJh3AaqJMxIP3TLbqivoxkwxtvxhbeXm/2WXzu71afsFuxS0ryahVQx+Kge0udjzlW9urBvX8sn6FXZXDSXvli9Km3LzCQCrNWmNIaxTd66ETF0hgaVAkNbu6f0iZFGzd7hUtuQRba5sWQQ5AKtuWpTBXEtWFfQQb4DaBpLPN3RX1Y+wLH4kPtTUGG2iLnZTIlNMVN8V5l1jXwzG441IB3uR0JE58z8Sj/DQtRcg+SFYrEtobdtxn7cooKk3hlLBGoUoGWybS4e4Eq6ebZZMjmGsmeGxWrLlBTwVLrbryR4Xtw==;EKCU1p3HnJq4TzF6WI+qnA=="
 ---
 

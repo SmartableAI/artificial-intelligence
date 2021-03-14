@@ -2,7 +2,7 @@
 name: "Tact.ai"
 overview: "A New System of Workflow for Sellers. Founded by @chuckganapathi and backed by @Accel @redpointvc @UpfrontVC @ComcastVentures @salesforce @Amazon @microsoft"
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://tact.ai/
 
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=HntmBF0px3A"
 
-secured: "O0ADtcUxEm2D4QmEXjoG1Lvos3QaSRBTOobojR2PzYwJ+4C5inCnhQKM6qcLAx4rp1zn9KIPrtEh1c9pBIGsHieK7quMCZ5W8r1B+PpRIaAY/JUSwZqllxwv7zckfVE+fCcRQevdisiax8rk+/Vaed0QRngkFGC80ZBOpsPzIMKoV71ytzMAI/yC7SOQzRop9e8aWeJGyH2TCD3cLG+/H+SVuEACTCPVlqRYCQXV/hiMm1rB0TZ88RVo4TGFB2X8QJ4clc9DDMKUU3Bk5BM48/jG1ILtfgFCkLKRgpvT54L/pcD1ctaE5Gdg9Vl+y4rgnP4QYYlbU839+vFrstAdS/6OdNkelRGC7HlI9u3dawPF/6/iRl4otn2YDJaU6BZWaR+I983X1gdGo4Fu5IoVklPAhx6PDQA4KJJJNIY4UB8=;6BdoDosP1oTQZoAATuFwog=="
+secured: "QwKvMw+6eWknCzJen4w1+NVPcYYcF5nI1jQIOap++G9471fYZitRYH/RtERFZY1VIhFkrEFV9CIoakRQrtL9bi0x5OhSNVFY2EF09ceDawSOZA4sjlC42zAdeGVD4s4u8Z3Tmi0zc5b5CY6AaC5MgtViErvmYYiucXfD9tGsOqg+hf7wX+qkUsKgBtTA9+wn7FoLCZrLEK2oOy90zpcpqWo1U1N/RZJCkuTwLKGJ0c7ThtaaUQeHUrVfCn+pnpvmJKZU04VSkNLkZQMJKKQ0W+PP6/xr1ijs4/wma3JVKaoZpokPy+mX4GaKtVBSQGA0wmcxVGKDveVYmvj5e+lUqnDOfG2Hwjd7xENp4hP3ZWy91hbX6obJJiUrasKof4aFySKAeK8SU/TzJEDdsLCYTz+oUsP2Gv+6kuX75rY2RoA=;fZ20i09BRrEIAPvP0miLFA=="
 ---
 

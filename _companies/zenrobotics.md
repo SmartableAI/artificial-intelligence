@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zenrobotics"
   url: "https://twitter.com/zenrobotics"
-  followers: 1499
+  followers: 1500
 
 size: 11-50 employees
 yearFounded: 2007
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=9I-Th926Ly0"
 
-secured: "w5CoVI3AhUp3cM6wNTCijnjzAvgNe8kxIc+zURZk+MkcHZM0+4iIcHZn4sGKsts8Apl0Rf5wzPz+XLr5Fs71gETHi6SoxaF7cjexlrVwRE53BXLpZKlN8Mc5w3Kyjb6ISqiuyRDBqKgILTe5/ECT0NOXQQz2hYB+WKHd6wFKcHS+XcbaOwqLWsNoFnipx3wtDghR/wDmKDtNk0+fg5hiIAQdrXhN5cJQC019sXDX2rEzIIhRihVUgkVwz5/rIFF+QBr07zblmaz/k+6rIMg5HcWSUvLbAl1Dbk5RIvtEYWi44rAtbiEXIAYoJoKrYcXpRZzNC7/eTY2FiiaH4cSjmk5ZZee92cZYeJCzW1lBJsMZ0RkvET38FF8yk2eQaG51B8MiDUWx3WC4hGdE2EKs3e+LlrIrRWoELcmbB/F6vaA=;Ad44Ue1xelaiIiWpmLxOlA=="
+secured: "DIoU+Hx3/s9Hgr3N2iPPu04Wj5v3wfgG1vM4s+W93rwmOS9tQmPMWLZY+6KDmdUOyGnczsBXDccDjwXd3x+5uiPkMUkQyzYeXBNcIAOz2fv/DSvrWL8BKSOJPXr32PjangNNFdgH7QcyyVLxSUajiJbJMhfI1AHB+XbdKFe4e5EZQAAwh+cXsbcdlDJs1PgSnKRkpftXKJoAeOuMvF4iu8I4eVhhJmlGUVW0DXRt/FVymy9NqtWO9p1b4dlOw3ikzF8jpUYUMPwroJ5kRZqmj4afbMEw09iqQFpzpRielyrc0B2lYeaPDqoWxkVVkhBVSYAmwjC9hWYtJcNZ7LcsRYMEhnhR5WCWsQQYOxW/di0eGz+UUtx8m2JpegStlavjsKXCAHq+3u+iGb1iHaRUtasEjJDsv+KUaHj1A6beD/A=;ZQBb5GMmF8xX7Oyh1YCFrQ=="
 ---
 
