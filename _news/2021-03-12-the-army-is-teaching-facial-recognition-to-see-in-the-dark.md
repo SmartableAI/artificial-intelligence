@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/88apzb/the-army-is-teaching-faci
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark"
 type: article
 quality: 89
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
         width: 1280
         height: 824
         isCached: true
+  - title: "Facial recognition company sued by activists"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
+    publishedDateTime: 2021-03-11T12:00:00Z
+    webUrl: "https://www.avpress.com/news/facial-recognition-company-sued-by-activists/article_4247d75c-8214-11eb-9b58-237ce7efe86d.html"
+    type: article
+    provider:
+      name: Antelope Valley Press
+      domain: avpress.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/custom/image/3a7ebec4-3719-11ea-aa97-fb17a0ed482f.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Immigrants’ rights groups sue facial recognition tech company"
     excerpt: "Two immigrants’ rights groups have sued Clearview AI, arguing the facial recognition tech company violates their privacy rights. The company is building one of the largest databases of human faces in the US,"
     publishedDateTime: 2021-03-12T21:15:00Z
@@ -108,6 +122,20 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
         width: 1200
         height: 707
+        isCached: true
+  - title: "Activists sue facial recognition company for stockpiling data on billions of people using Facebook"
+    excerpt: "The company Clearview AI is accused of illegally harvesting photos and info on people around the world using social media — a claim they deny"
+    publishedDateTime: 2021-03-10T14:58:00Z
+    webUrl: "https://www.khou.com/video/news/nation-world/activists-sue-facial-recognition-company-for-stockpiling-data-on-billions-of-people-using-facebook/285-802e8d12-2f5d-4ebb-bd9d-f415db768204"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 25
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "New Facial Recognition Software"
     excerpt: "Redstone Arsenal announced a new feature at the entrance of Gate 9. New facial recognition software will be reading those who are already registered in the AIE system with a 14 point algorithm, allowing them entry."

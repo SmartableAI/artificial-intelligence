@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition company Clearview AI sued by California activists"
-    excerpt: "ALAMEDA, Calif. — Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people ..."
-    publishedDateTime: 2021-03-10T02:52:00Z
-    webUrl: "https://www.marketwatch.com/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 104
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Tool Used by Police Faces Civil Lawsuit in California"
     excerpt: "A group of immigrant-rights organizations and activists on Tuesday filed a civil lawsuit in California against Clearview AI Inc., alleging the facial-recognition software provider violated their privacy rights and those of California citizens. Mijente ..."
     publishedDateTime: 2021-03-10T16:54:00Z
@@ -122,6 +106,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Department says detectives used facial recognition program"
+    excerpt: "Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report. In February 2020 and again in September,"
+    publishedDateTime: 2021-03-10T07:02:00Z
+    webUrl: "https://www.chron.com/news/article/Department-says-detectives-used-facial-16014445.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Department-says-detectives-used-facial-16014445.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Department-says-detectives-used-facial-16014445.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)"
     excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."
     publishedDateTime: 2021-03-10T20:03:00Z
@@ -138,19 +138,53 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Legal fight against Clearview AI’s facial recognition service grows"
-    excerpt: "Demographic groups are joining states and nations in demanding that Clearview AI end its massive face-scraping biometric service."
-    publishedDateTime: 2021-03-11T17:13:00Z
-    webUrl: "https://www.biometricupdate.com/202103/legal-fight-against-clearview-ais-facial-recognition-service-grows"
+  - title: "Virginia Beach police department says detectives used facial recognition program"
+    excerpt: "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.html"
+    ampWebUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
+    cdnAmpWebUrl: "https://richmond-com.cdn.ampproject.org/c/s/richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: Richmond
+      domain: richmond.com
     quality: 54
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/f4/9f436ad0-5dab-5c5c-a1a4-904d60fa0b88/6048daf645b0e.image.jpg?resize=1024%2C422"
+        width: 1024
+        height: 422
+        isCached: true
+  - title: "Virginia Beach Police Department admits detectives used facial recognition program"
+    excerpt: "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.html"
+    ampWebUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
+    cdnAmpWebUrl: "https://richmond-com.cdn.ampproject.org/c/s/richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 53
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/f4/9f436ad0-5dab-5c5c-a1a4-904d60fa0b88/6048daf645b0e.image.jpg?resize=1024%2C422"
+        width: 1024
+        height: 422
+        isCached: true
+  - title: "Redstone Arsenal to use facial recognition software for entry; What it means for drivers"
+    excerpt: "Redstone Arsenal is opening “facial recognition identification” for faster vehicle access to the federal mega-base in Huntsville. Special facial recognition (FR) lanes open Monday to people registered in Redstone’s automatic installation entry program."
+    publishedDateTime: 2021-03-10T17:02:00Z
+    webUrl: "https://www.al.com/news/2021/03/redstone-arsenal-to-use-facial-recognition-software-for-entry-what-it-means-for-drivers.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/redstone-arsenal-to-use-facial-recognition-software-for-entry-what-it-means-for-drivers.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/redstone-arsenal-to-use-facial-recognition-software-for-entry-what-it-means-for-drivers.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 50
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZANCKFR6KVHH3ICGV77ZILDW4M.PNG"
+        width: 315
+        height: 239
         isCached: true
   - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities"
     excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."
@@ -163,20 +197,6 @@ related:
       name: Vallejo Times Herald
       domain: timesheraldonline.com
     quality: 49
-  - title: "Facial recognition company sued by activists"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
-    publishedDateTime: 2021-03-11T12:00:00Z
-    webUrl: "https://www.avpress.com/news/facial-recognition-company-sued-by-activists/article_4247d75c-8214-11eb-9b58-237ce7efe86d.html"
-    type: article
-    provider:
-      name: Antelope Valley Press
-      domain: avpress.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/custom/image/3a7ebec4-3719-11ea-aa97-fb17a0ed482f.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Facial recognition company sued by California activists"
     excerpt: "(AP) — Civil liberties activists are suing a company that provides facial recognition services to law enforcement ... monitor their associations, and track their speech,” the lawsuit contends. The lawsuit said Clearview AI scrapes dozens of internet ..."
     publishedDateTime: 2021-03-11T16:15:00Z
@@ -216,6 +236,20 @@ related:
         width: 343
         height: 510
         isCached: true
+  - title: "Department says detectives used facial recognition program"
+    excerpt: "Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to"
+    publishedDateTime: 2021-03-10T18:59:00Z
+    webUrl: "https://apnews.com/a055525f5ffd6ad63ce115961b96180c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Facial recognition company sued by California activists | Charlotte Observer"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
     publishedDateTime: 2021-03-10T18:26:00Z
@@ -227,33 +261,19 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 38
-  - title: "Have you been ‘scraped’? Facial recognition company sued over data base of 3B people"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
-    publishedDateTime: 2021-03-10T11:19:00Z
-    webUrl: "https://www.wraltechwire.com/2021/03/10/have-you-been-scraped-facial-recognition-company-sued-over-data-base-of-3b-people/"
+  - title: "After denials, Va. police department admits detectives used controversial facial recognition tech"
+    excerpt: "VIRGINIA BEACH, Va. (AP) — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a ..."
+    publishedDateTime: 2021-03-10T15:40:00Z
+    webUrl: "https://fredericksburg.com/news/article_70a3fcbf-15f7-59eb-bfd8-8a96c58708e4.html"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 34
+      name: Fredericksburg.com
+      domain: fredericksburg.com
+    quality: 26
     images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363-1024x575.jpg"
-        width: 1024
-        height: 575
-        isCached: true
-  - title: "Activists sue facial recognition company for stockpiling data on billions of people using Facebook"
-    excerpt: "The company Clearview AI is accused of illegally harvesting photos and info on people around the world using social media — a claim they deny"
-    publishedDateTime: 2021-03-10T14:58:00Z
-    webUrl: "https://www.khou.com/video/news/nation-world/activists-sue-facial-recognition-company-for-stockpiling-data-on-billions-of-people-using-facebook/285-802e8d12-2f5d-4ebb-bd9d-f415db768204"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 25
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/0a/70a3fcbf-15f7-59eb-bfd8-8a96c58708e4/6048e71679608.preview.jpg?crop=898%2C505%2C11%2C0&resize=898%2C505&order=crop%2Cresize"
+        width: 898
+        height: 505
         isCached: true
   - title: "Facial recognition company sued by California activists"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."

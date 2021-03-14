@@ -21,18 +21,18 @@ topics:
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
-    publishedDateTime: 2021-03-10T21:39:00Z
-    webUrl: "https://www.lelezard.com/en/news-19693395.html"
+    excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
+    publishedDateTime: 2021-03-10T21:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 73
+      name: Associated Press
+      domain: apnews.com
+    quality: 71
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
     excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
@@ -64,14 +64,14 @@ related:
         isCached: true
   - title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
     excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
-    publishedDateTime: 2021-03-10T22:02:00Z
-    webUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+    publishedDateTime: 2021-03-11T00:09:00Z
+    webUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
     type: article
     provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
+      name: WBOC
+      domain: wboc.com
     quality: 36
 
-secured: "bqP1dS00C2+dTVcjq/9sieUcHqSbWevWQfYQxg30DMrlyCtMhrXWiN7fQN2I3RtTkbJejMLcE3ynDUgRu0L36r7FLEeZpbzDIOIref2Tf7phLt6Tj/RB53eeM1FT4Xvb7Go5FmYl/aOoHDb+BaGK4z/G2XG808VltajPpjKzvf0oeEgXNJl7XntjRxkl1YHiDXXRArb0rR1Nm+yGDyVlZ4Ka2A3aGzu4zVYTwd+Noxt8XBVlIfBU28h1NWM+Vc+0a/QTZ/1Qjl96gL4GalhPXtJnhPjv6mFYMXyss+uw6VAg9J33d9DKOcC5oq+uewMWvfxgVwtYLp8wjK5gUv3OsxcNeRMPKAEgirhtH+M7BVc=;Sl8dTk3s3Jt9IVuxkl2w3A=="
+secured: "0GMxBs8IJiXtnWTArOb7QOdhhQjs2X6Ecwq6WAhGlDlLSgcHsETBVCWknLthYEhX6FQ4q2UmJAMKZVn2KwSiMOAmMw7i52MuX4d/V1klcLuazztqlMxhqldAUMEPmuONlXtvYVkllbZkngAVjUrG+/4Sgi41T5bwTUiMoZ9BsLyf7oYs8A4OC+y8S16nCqqfT+IWKKorbQpKIXLlDx3U2xBE7eQmNz03Mh8bm7HAAVgPRwSMD0105jvw4cqgLB4sBZmNvsRmdcBU1VLNzo7u6wOyDqC9zs8czZiuc2+9U3C4CB6m7ssgV4pbp8i44ET9Y8QS7/plfIT4ar6a7aAmgCGA3unVcwPucY1NWIV+kiU=;ymlmzzy/BZFxHUp/EJ4uvg=="
 ---
 

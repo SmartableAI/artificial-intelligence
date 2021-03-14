@@ -99,6 +99,20 @@ related:
         width: 1280
         height: 824
         isCached: true
+  - title: "Facial recognition company sued by activists"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
+    publishedDateTime: 2021-03-11T12:00:00Z
+    webUrl: "https://www.avpress.com/news/facial-recognition-company-sued-by-activists/article_4247d75c-8214-11eb-9b58-237ce7efe86d.html"
+    type: article
+    provider:
+      name: Antelope Valley Press
+      domain: avpress.com
+    quality: 41
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/custom/image/3a7ebec4-3719-11ea-aa97-fb17a0ed482f.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Immigrants’ rights groups sue facial recognition tech company"
     excerpt: "Two immigrants’ rights groups have sued Clearview AI, arguing the facial recognition tech company violates their privacy rights. The company is building one of the largest databases of human faces in the US,"
     publishedDateTime: 2021-03-12T21:15:00Z
@@ -112,6 +126,20 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
         width: 1200
         height: 707
+        isCached: true
+  - title: "Activists sue facial recognition company for stockpiling data on billions of people using Facebook"
+    excerpt: "The company Clearview AI is accused of illegally harvesting photos and info on people around the world using social media — a claim they deny"
+    publishedDateTime: 2021-03-10T14:58:00Z
+    webUrl: "https://www.khou.com/video/news/nation-world/activists-sue-facial-recognition-company-for-stockpiling-data-on-billions-of-people-using-facebook/285-802e8d12-2f5d-4ebb-bd9d-f415db768204"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 25
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "W2N7BtfMCOrbMq3Z8Fs05TpgAa4ZtlI3qsjYLdi6DbGjjv+UwUW1sCTYfcLn5qyItnZ5w/+k2DmC8fbV89kUs/l2lD+q7uXeBO/XU4CfQJE6KrRDZuNAQrPz0cHmNmcsGHh7wd0t2deCoU7tvNI36Sy2vbjngiERpWkhpu0Y3pb0f847I9uWUCkdLBqyzW1BXLoOrYF3ttAanoa1rz+m3RHBjdqGZ7aiqHaIZXVLrt9pkt1Rcg0r6lsVIGSR3wuCeYHH33qprAEpM0DLfA41dcHRA52l0UCkAYWxNHQ50BdBf5Pp8wnISfEHBecpPO4nNFTVVMKdEprR2hmgK9jGoQf7bClMDwm/ZKe41hv10zKuqy3Qze3lj7rxAiSS3zDnXIVXmUGFvGpRiGxMSezqg6uDj7ySAZ7qUa3NViFf2YEXPmdtevl8W/qRvFLpyfbVZp7rvsBOUBgCs52s4R6qvfWiBvBSfQMKlZlIdB1Uh1A+oJ2nAOm6bpWxNnB6as9si2T1OKXQCeYegWqRLl2kSw==;NdeNlTqbgYf30w6I1MHPrg=="

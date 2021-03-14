@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/2021/03/10/nvidia-launches-ai-enterprise-s
 webUrl: "https://www.hpcwire.com/2021/03/10/nvidia-launches-ai-enterprise-suite-for-vmware-vsphere/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "VMware's vSphere software now certified to run Nvidia AI workloads"
-    excerpt: "The new Nvidia software suite, officially named Nvidia AI Enterprise, aims to give enterprises the ability to develop AI software for a range of applications."
-    publishedDateTime: 2021-03-10T02:05:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/vmwares-vsphere-software-now-certified-to-run-nvidia-ai-workloads/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/vmwares-vsphere-software-now-certified-to-run-nvidia-ai-workloads/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/vmwares-vsphere-software-now-certified-to-run-nvidia-ai-workloads/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Nvidia Launches AI Enterprise Suite for VMware vSphere"
     excerpt: "Nvidia and VMware are bringing together the new Nvidia AI Enterprise software tool suite with VMware’s latest vSphere 7 Update 2 virtualization platform"
     publishedDateTime: 2021-03-11T18:10:00Z
