@@ -43,22 +43,6 @@ related:
         width: 704
         height: 330
         isCached: true
-  - title: "Why self-driving cars are designed to look like overgrown toys"
-    excerpt: "Electric driverless cars are not just coming, folks. They’re here. Lyft passengers in Las Vegas can already hail a self-driving taxi. It’s one of the first times vehicles with no human behind the wheel are being tested on city streets."
-    publishedDateTime: 2021-03-09T18:58:00Z
-    webUrl: "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/"
-    ampWebUrl: "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 44
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/nuro-r2-07-original-1-e1614906015779.jpg?fit=740%2C494"
-        width: 740
-        height: 416
-        isCached: true
 
 secured: "zy/js902xZkawHf9u4W6Sr8XzHA0E2we+u1USC0Wn9DSlPKWPcxJght4s4l58DDfdh1zbg2+jQW2e4mh4G0cXV9cu/eJGlKn/hhk/VYgagLz/PLDVLkC+mrwO/Rqx8OOu6m+bsYeouV9R4J8mbPgJ4G9juwjnX6w72smzV1A9zzhwYtQHKkZQK7By9PUGWvBucqabn3x56CxRiI/gNM4gikBFPlklAlRLWk5KaoG0Q0dPryouwaLJMDDHdZf1zrkqWbcl6sk0yYcc5giEzN6ffhTsBEfTHoGmDoqWxz64YV1xABV639hEVHFRu9D0bankxesXdiAHtsImlQhkJ9mxzOJBxtf2BLMyYZexe0sMT1N9J53j+Lc2U7R3qbV1m8UCMfRjZYbyTFCtzrhlu/VuRwZ8tVXKLJo0TDJS5Z583oqVAfAxlRmZ4l0SXYYI+UGKFz7/or34bFzUgsJZE7zW6ZPhHiJ9r0a/F3iV6zc6QR4vpS8Pfn7PiYu6TKMf2rGQynZ1YRxsrFW8UmHQRC3Zg==;FHGPL0LdwaEPf5PwGetOUQ=="
 ---

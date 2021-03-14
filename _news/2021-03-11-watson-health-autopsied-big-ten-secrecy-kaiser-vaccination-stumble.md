@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Watson Services Market Size to accrue $ 16.5 billion by 2027"
-    excerpt: "Selbyville, Delaware According to the latest research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use; By Regions; Segment Forecast,"
-    publishedDateTime: 2021-03-09T18:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "4 lessons from IBM’s failure to transform medicine with Watson Health"
     excerpt: "The demise of IBM’s Watson Health would be easy to file away as another ill-fated attempt to tackle health care without understanding its complexities. But its downfall offers specific lessons on the implementation of artificial intelligence in an ..."
     publishedDateTime: 2021-03-10T15:55:00Z

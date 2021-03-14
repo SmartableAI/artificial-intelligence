@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-03-11-robots-and-bees-high-tech-vertical-strawberry-farm-in-nj-raises-50-million-in-series-a-round.md",
-      "title": "Robots And Bees: High-Tech, Vertical Strawberry Farm In N.J. Raises $50 Million In Series A Round",
-      "excerpt": "When Oishii, a high-tech, vertical farm in New Jersey, introduced its $50-a-box Omakase strawberry in 2018, the fruit quickly became the darling of New York's Michelin star chefs. Today, March 11, the company is announcing it has raised $50 million in a Series A round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/",
-      "originalUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049476501afb1330c558c46%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/amp/",
-      "publishedDateTime": "2021-03-11T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-11-enhancing-machine-learning-prediction-to-improve-asthma-care-management.md",
       "title": "Enhancing Machine Learning Prediction to Improve Asthma Care Management",
       "excerpt": "Some healthcare centers are now using machine learning predictive models to determine which patients with asthma are highly likely to experience poor outcomes. “Machine learning is a state-of-the-art method for gaining high prediction accuracy,",
@@ -1011,6 +959,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs.md",
+      "title": "New AI tool accurately diagnoses COVID-19 just by the sound of your coughs",
+      "excerpt": "Scientists from Essex University have created a COVID-19 screening tool that can accurately diagnose the virus by analyzing audio samples of coughs.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-10T134550.529-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/",
+      "publishedDateTime": "2021-03-10T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

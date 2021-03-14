@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-positioned-as-
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-1030173124"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Business Insider
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute."
-    publishedDateTime: 2021-03-09T18:37:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210309005641/en/MathWorks-Named-a-Leader-in-the-2021-Gartner-Magic-Quadrant-for-Data-Science-and-Machine-Learning-Platforms"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
   - title: "Blue Yonder Named a Leader in the 2021 Gartner Magic Quadrant for Supply Chain Planning Solutions Report, Positioned Highest in Ability to Execute"
     excerpt: "Blue Yonder attributes this position to its Luminatetm Planning solutions portfolio, which offers advanced artificial intelligence (AI ... at 11:30 Global Shockwave Therapy Markets 2021-2025 - Shockwave Therapy Function / Conditions Effectively Treated ..."
     publishedDateTime: 2021-03-12T16:48:00Z

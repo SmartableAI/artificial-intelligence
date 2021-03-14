@@ -39,15 +39,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute."
-    publishedDateTime: 2021-03-09T18:37:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210309005641/en/MathWorks-Named-a-Leader-in-the-2021-Gartner-Magic-Quadrant-for-Data-Science-and-Machine-Learning-Platforms"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
 
 secured: "+7ZnAKUodRukV9vqLd628Z2Z87N68mOuyIhKSYQX4KpnzGdd4GR+6muqjhFv4rgG/Folr6tz5nBjAzCPSfYQTituurySNkAk6XvAo8iw3cyEObwmla+d5x2l7RLfrouNqE/4Rr0axQTWLUDwQsxaKkDJHWZyoAtuzM5Ux2GjKvjiDjUEjJy+IpTG3vV5Dtg7EFSlSGv4diGSWk7DpMa0ZoI0v1j+RZetzIzpalZ4SvgbNGyq00vXB8LFrU2KsRQKv1lz+eJrGoPBLhoIh41suK8Pge6TfiLhW9JLRYRTp64lOveLPtQfPbbHLYnYMTXPdmnFIL8HG81J+jOFRwZzuuPXwYGoNAZgoWXndXGOs9A=;+zCzpKOxf9qaOf7yamlMKA=="
 ---

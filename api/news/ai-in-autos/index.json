@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -528,6 +528,49 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-new-toyota-tech-unit-promises-worlds-safest-drive.md",
+      "title": "New Toyota tech unit promises world's safest drive",
+      "excerpt": "The company also said it would be ready to unveil a fully self-driving prototype \"in the near ... while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/29/new-toyota-tech-unit-promises-world039s-safest-drive",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/29/new-toyota-tech-unit-promises-world039s-safest-drive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/29/1026162.JPG",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1368,59 +1411,6 @@
         "Google AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts.md",
-      "title": "Massive Boon In Computer Chip Shortages Will Slam Future Self-Driving Car Rollouts",
-      "excerpt": "Computer chip shortages are hurting automakers, which is exactly what will happen even in the future when self-driving cars start becoming viable, here's why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603adfe801dd346437e69140%2F0x0.jpg%3FcropX1%3D296%26cropX2%3D1368%26cropY1%3D112%26cropY2%3D715",
-          "width": 1072,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/amp/",
-      "publishedDateTime": "2021-03-02T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

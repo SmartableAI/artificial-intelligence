@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://i.insider.com/604ca859fea127001886aa26?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Tesla’s stories said to diverge over fully self-driving vehicles"
+    excerpt: "For years, Tesla Chief Executive Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off."
+    publishedDateTime: 2021-03-14T01:00:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/mar/14/teslas-stories-said-diverge-over-fully-self-drivin/?business"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
         isCached: true
   - title: "Tesla Tells California DMV That Full Self-Driving Beta Is Not An Autonomous System"
     excerpt: "Tesla introduced its Full Self-Driving beta last October to around 1,000 vehicles. An unearthed letter sent from Tesla’s general counsel and the head of California’s autonomous vehicle branch claims that the system is more limited than its name might ..."

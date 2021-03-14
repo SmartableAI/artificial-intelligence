@@ -2,6 +2,40 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-02-25-huawei-uganda-offers-free-ai-training.md",
+      "title": "Huawei Uganda offers free AI training",
+      "excerpt": "The HCNA-AI course uses a mainstream TensorFlow framework and supports Keras, a neural network API and deep learning framework written in Python. Learning material from the course involves basic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompaper.com/news/huawei-uganda-offers-free-ai-training--1373669",
+      "originalUrl": "https://www.telecompaper.com/news/huawei-uganda-offers-free-ai-training--1373669",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-changes-go-far-beyond-just-ai-machine-learning.md",
       "title": "Changes Go Far Beyond Just AI, Machine Learning",
       "excerpt": "SambaNova Systems is a technology startup founded in 2017 by a group of far-sighted engineers and data scientists who saw that the current approaches to",
@@ -1164,50 +1198,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard.md",
-      "title": "Self-Driving RC Cars With TensorFlow; Raspberry Pi Or MacBook Onboard",
-      "excerpt": "These two sources are fed into a neural network using TensorFlow. You train the system by driving the vehicle manually through the course a few times and then let it drive itself. In the video ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/",
-      "originalUrl": "https://hackaday.com/2017/06/06/self-driving-rc-cars-with-tensorflow-raspberry-pi-or-macbook-onboard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2017/06/self-driving-rc-cars.jpg",
-          "width": 3872,
-          "height": 2408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

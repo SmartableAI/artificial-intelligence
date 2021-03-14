@@ -2,27 +2,31 @@
 category: news
 title: "Google's AI lab DeepMind held secret discussions to launch a futuristic food division and one idea involved 'nutricube' vitamin supplements"
 excerpt: "Insider spoke to multiple sources about how DeepMind, the London-based AI company acquired by Google in 2014, considered launching a food division with vegan food startup Hampton Creek ..."
-publishedDateTime: 2021-03-04T12:47:00Z
-originalUrl: "https://www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3"
-webUrl: "https://www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3"
-ampWebUrl: "https://www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3/amp"
-cdnAmpWebUrl: "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3/amp"
+publishedDateTime: 2021-03-04T00:00:00Z
+originalUrl: "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3"
+webUrl: "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3"
+ampWebUrl: "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3"
 type: article
 
 provider:
-  name: Business Insider Australia
-  domain: businessinsider.com.au
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://i.insider.com/6040ba6a2dc90100183554f6?format=jpeg"
-    width: 926
-    height: 694
+  - url: "https://i.insider.com/6040bf392dc90100183554fc?width=1200&format=jpeg"
+    width: 1024
+    height: 512
     isCached: true
 
-secured: "doLeGmi4Cym+RTeKhBIUuF3Pg5GSzQtufW/Kx/FLN6JUBc81i3P8jTY49LYwQ5DjNNq3g3sVm7aVrI1wwOvubsTKKD+zb13DRnrlLCkkahBWNrL9LWQJhs59AzXvKpGviFZIs0qV7tJtWvO7SJl3/gTPvxp/1CtiXrcN7xbcJDAKE49IKqj/XhTw++r+moyHLUvsGBvYR8xPtJAJeab6aRLIcXRZR+o/bA/FMyj43173xi31cuZ8Gobnj3R5EXFlQ9967sT5kSf9oV3Cq6N2qky1+sTpp/3KDNCBSinIJLhXoY83N5XLUqI9X6MRENiHg3jokZiddDu3SMRVQVCoc6qseDriCB/O12UmGWhUgXs=;wn6XiHe5fgbanE5WBQbyrA=="
+secured: "0/PzRdTib7dIpOS/Baqn/8E4IqsdJAz2DfiHXn25RPD6rxbfQD/zZ2KkkHJnODaKGASryY0kJJrDa4DPABQ4V8I+2EqBITqTNIAXguKXNaoJ7coTtb23yOKTtyEkDzp3pBiT/PG+Pc6RnhKe+2UyezZYsgBMx/rrj6o4bIry6CC5y2gSWhCoYUjiGTsAZ9Pk2NO3y/iuaQyfKwjcfAHL7/++Pb4r5EivoQylZvGSecbPTArA684jU39qC0P0Mdz0EJygwuexFd30xvTltvGmEfN66SNdr4SYko0PLmNrfayV53qdEfZZTO5jwK/VRktM/jiixf7KXSpfgHbOyb6drwiLYiRn9wvHJLCv8d46E6w=;UkJjY0b1PcxNYLVew45iSQ=="
 ---
 

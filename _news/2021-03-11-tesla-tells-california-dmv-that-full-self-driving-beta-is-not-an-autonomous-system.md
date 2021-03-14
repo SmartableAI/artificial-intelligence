@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tesla’s stories said to diverge over fully self-driving vehicles"
+    excerpt: "For years, Tesla Chief Executive Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off."
+    publishedDateTime: 2021-03-14T01:00:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/mar/14/teslas-stories-said-diverge-over-fully-self-drivin/?business"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Tesla’s $10,000 ‘Full Self-Driving’ Add-On Will Never Actually Be Fully Self-Driving"
     excerpt: "Tesla rolled out a beta version of its new Autopilot Full Self-Driving (FSD) software (version 8.2) to a small group of Tesla owners in the United States. Driven by high-than-expected demand, this past weekend Elon Musk said his company would make the driver-assistance system available to more customers."
     publishedDateTime: 2021-03-09T21:19:00Z
