@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "VMware-Nvidia alliance expands with new vSphere GPU support"
-    excerpt: "The virtualisation giant announced the expanded alliance with Nvidia Tuesday, saying that the GPU maker has exclusively certified VMware’s vSphere 7 Update 2 to support the new Nvidia AI Enterprise offering,"
-    publishedDateTime: 2021-03-10T01:18:00Z
-    webUrl: "https://www.crn.com.au/news/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support-561955"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/20210310121806_CRN_690_server_data_centre2.jpg"
-        width: 690
-        height: 428
-        isCached: true
   - title: "Nvidia Launches AI Enterprise Suite for VMware vSphere"
     excerpt: "Nvidia and VMware are bringing together the new Nvidia AI Enterprise software tool suite with VMware’s latest vSphere 7 Update 2 virtualization platform"
     publishedDateTime: 2021-03-11T18:10:00Z

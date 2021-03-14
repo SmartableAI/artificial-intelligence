@@ -2,6 +2,58 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-02-17-study-shows-that-federated-learning-can-lead-to-reduced-carbon-emissions.md",
+      "title": "Study shows that federated learning can lead to reduced carbon emissions",
+      "excerpt": "A new study shows that federated learning might lesson the carbon impact of AI and machine learning model training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/16/study-shows-that-federated-learning-can-lead-to-reduced-carbon-emissions/",
+      "originalUrl": "https://venturebeat.com/2021/02/16/study-shows-that-federated-learning-can-lead-to-reduced-carbon-emissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/12/co2-carbon-emissions-novelo-shutterstock-e1587673753658.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/16/study-shows-that-federated-learning-can-lead-to-reduced-carbon-emissions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/study-shows-that-federated-learning-can-lead-to-reduced-carbon-emissions/amp/",
+      "publishedDateTime": "2021-02-16T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-uae-approves-facial-recognition-in-some-key-sectors-how-the-technology-is-changing-our-world.md",
       "title": "UAE approves facial recognition in some key sectors: How the technology is changing our world",
       "excerpt": "UAE Cabinet has announced a decision to allow use of facial recognition in certain sectors With today's facial recognition kits, lightning-speed computations based on a spaghetti of codes and ...",
@@ -1098,49 +1150,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-how-can-fintech-offer-our-smes-a-fighting-chance.md",
-      "title": "How can fintech offer our SMEs a fighting chance?",
-      "excerpt": "Current fintech offerings can help SME survive. In normal circumstances, life as a small and medium-sized enterprise (SME) is far from straight forward. Throw in a year-long global pandemic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
-      "originalUrl": "https://www.itproportal.com/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/HeCsiY6yjxpnUybtYHdeu9-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
-      "publishedDateTime": "2021-02-16T02:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

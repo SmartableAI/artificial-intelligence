@@ -226,17 +226,6 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 38
-  - title: "Facial recognition company sued by California activists | Raleigh News & Observer"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
-    publishedDateTime: 2021-03-10T01:31:00Z
-    webUrl: "https://www.newsobserver.com/news/business/article249820553.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/business/article249820553.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/business/article249820553.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 36
   - title: "Have you been ‘scraped’? Facial recognition company sued over data base of 3B people"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
     publishedDateTime: 2021-03-10T11:19:00Z

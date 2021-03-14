@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/2025-healthcare-natural-
 webUrl: "https://www.marketwatch.com/press-release/2025-healthcare-natural-language-processing-nlp-market-size-report-will-reach-to-21294-million-usd-at-cagr-of-102-2021-03-11?tesla=y"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "GPU Market Size Will Reach USD 200.85 Billion By 2027 at a CAGR of 33.6% - Valuates Reports"
-    excerpt: "Graphic Processing Unit Market is Segmented by Type (Dedicated, Integrated, and Hybrid), Device (Computer, Tablet, Smartphone, Gaming"
-    publishedDateTime: 2021-03-10T02:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/gpu-market-size-will-reach-usd-200-85-billion-by-2027-at-a-cagr-of-33-6-valuates-reports-861850700.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 29
-    images:
-      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
-        width: 920
-        height: 482
-        isCached: true
   - title: "Rising at 20.2% CAGR, Edge AI Hardware Market Size to Exceed 2160 Million Units by 2026: Facts & Factors"
     excerpt: "Facts and Factors have published a new research report titled \"Edge AI Hardware Market by Device (Smartphones, Cameras,"
     publishedDateTime: 2021-03-11T12:43:00Z
