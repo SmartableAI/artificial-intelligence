@@ -3,8 +3,8 @@ category: news
 title: "Tesla’s stories said to diverge over fully self-driving vehicles"
 excerpt: "For years, Tesla Chief Executive Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off."
 publishedDateTime: 2021-03-14T01:00:00Z
-originalUrl: "https://www.arkansasonline.com/news/2021/mar/14/teslas-stories-said-diverge-over-fully-self-drivin/?business"
-webUrl: "https://www.arkansasonline.com/news/2021/mar/14/teslas-stories-said-diverge-over-fully-self-drivin/?business"
+originalUrl: "https://www.arkansasonline.com/news/2021/mar/14/teslas-stories-said-diverge-over-fully-self-drivin/"
+webUrl: "https://www.arkansasonline.com/news/2021/mar/14/teslas-stories-said-diverge-over-fully-self-drivin/"
 type: article
 quality: 54
 heat: -1
@@ -126,6 +126,6 @@ related:
       domain: detroitnews.com
     quality: 19
 
-secured: "AkyID60khDmwseWdc9ijbvap81lhHduOv+8pv7Oq9nvvus/YOwC12vtfOxqDRYYAyy79rXJnwGKeyHV0CeFb/zt3u4B4LKoo2/D1ar7lBQlQLRVtzeTKM04ulY/LztJanz9Sv9QtA3r/GkWeN8poDzm40k7fQ4xwma78+zXf+AwiRbbMmUg6p71KDu4kdt50w0pG3TYPs2j3gwq/JzIyKNbUx1Sx9icX7flbQa+aDztZydxh3/qZcPVVQWsIc8kph3zarvxeWCek84QFNm6Tn1Zk5n5SEnLBJW5SV8SxgUCT9SbEO8Kltr5VkOkv8nS+EQr/Hu2iBfAKys25MYvDPDkM7W7trLB3Ytm8ymL8/kw=;mN3gfjuE3ZHm5s1Xjaz6XA=="
+secured: "r6vcVQrhaRrWNFAoMlbJUI0cSLaSIoXEw048uVqgxmnXKUfNZ7+umkOnmN/Rn3f3ZqfYK1+RpSF+JYfDK6FkbMtuKCA9AVUrSa3Jr5KjvGe5XdaaDq1lWyFxg8ZdhNv3qosUUqN2X7q6B7uSwXGOmHDcTOKPu9fXbC/XYIotlrwY86Hb7mRQmA4/f85TYLvGQBzEbdX3+U9kXT/xxxeYjSzZlYxrw/qTGrGmNhZN+CU3v4EyiyvYc3qhitZDI2b8xPDyxkRy5P5c7ADBQIXmUrimb+dabBZF9SCMl13oom5VRbcT7d1vnwjxP1Uc/6aNM6tys2liWVeCT32dRodmOa27RCvzC2KTb6Pt6VAbqRw=;qihjkmdOgTNjhkC8UIFHUQ=="
 ---
 

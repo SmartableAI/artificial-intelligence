@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gartner’s 2021 Magic Quadrant cites ‘glut of innovation’ in data science and ML"
+    excerpt: "The report evaluates DSML platforms' scope, revenue, and growth, customer counts, market traction, and product capability scoring."
+    publishedDateTime: 2021-03-14T21:20:00Z
+    webUrl: "https://venturebeat.com/2021/03/14/gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml/"
+    ampWebUrl: "https://venturebeat.com/2021/03/14/gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/14/gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/MQDataScience.png?w=570&resize=570%2C592&strip=all"
+        width: 570
+        height: 592
+        isCached: true
   - title: "IBM Positioned as a Leader in Two Newly Released Gartner Magic Quadrant Reports"
     excerpt: "IBM designed IBM Watson Studio on IBM Cloud Pak for Data to provide end-to-end AI lifecycle management for both experts and citizen data scientists and developers, and it provides strong support ..."
     publishedDateTime: 2021-03-11T13:29:00Z

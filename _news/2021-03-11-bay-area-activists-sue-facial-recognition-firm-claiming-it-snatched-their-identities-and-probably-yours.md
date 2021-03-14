@@ -60,22 +60,6 @@ related:
         width: 1024
         height: 697
         isCached: true
-  - title: "Lawsuit claims facial recognition company stockpiled personal data"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world."
-    publishedDateTime: 2021-03-10T05:09:00Z
-    webUrl: "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/"
-    ampWebUrl: "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/amp/"
-    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/amp/"
-    type: article
-    provider:
-      name: WLNS.com
-      domain: wlns.com
-    quality: 74
-    images:
-      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2021/03/KEYBOARD-COMPUTER-INTERNET-HACKING-CYBERSECURITY-ONLINE-ELECTRONICS-FULL.png?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Clearview AI sued in California over ‘most dangerous’ facial recognition database"
     excerpt: "Separately, the Chicago Police Department stopped using the New York company’s software last year after Clearview AI was sued in Cook County by the ACLU."
     publishedDateTime: 2021-03-11T18:20:00Z

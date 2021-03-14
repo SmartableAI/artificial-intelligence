@@ -2,6 +2,108 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-03-03-ai-can-do-that-what-marketers-need-to-know-about-predictive-features.md",
+      "title": "AI Can Do That? What Marketers Need To Know About Predictive Features",
+      "excerpt": "Data scientists can use AI techniques to analyze past behavior and find patterns that are predictive of the outcomes they want to drive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/03/ai-can-do-that-what-marketers-need-to-know-about-predictive-features/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/03/ai-can-do-that-what-marketers-need-to-know-about-predictive-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e786d0bca97dcd24fb25a%2F0x0.jpg%3FcropX1%3D209%26cropX2%3D1404%26cropY1%3D0%26cropY2%3D672",
+          "width": 1195,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/03/ai-can-do-that-what-marketers-need-to-know-about-predictive-features/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/03/03/ai-can-do-that-what-marketers-need-to-know-about-predictive-features/amp/",
+      "publishedDateTime": "2021-03-03T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-with-drones-and-ai-this-startup-is-enhancing-the-solar-sector.md",
+      "title": "With Drones and AI, This Startup Is Enhancing the Solar Sector",
+      "excerpt": "Thriving on the pandemic—as it enabled solar companies to go digital—the startup raised $5.1 million in Series A round led by Alpha Wave Incubation (AWI) and Falcon Edge Capital during the same time",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/366459",
+      "originalUrl": "https://www.entrepreneur.com/article/366459",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1614775435-MyPost54.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/366459",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366459",
+      "publishedDateTime": "2021-03-03T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-lets-talk-interactive-and-voice-products-inc-partner-to-offer-voice-commanded-hipaa-compliant-telehealth-and-video-conferencing-solution.md",
       "title": "Let's Talk Interactive and Voice Products Inc. Partner to Offer Voice-Commanded HIPAA-Compliant Telehealth and Video Conferencing Solution",
       "excerpt": "Let's Talk Interactive, Inc. (LTI), a leader in customizable telehealth solutions, today announces a partnership with Voice Products Inc., a voice, transcription and",
@@ -1114,92 +1216,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-microsoft-announces-dynamics-365-capabilities-at-ignite-event.md",
-      "title": "Microsoft Announces Dynamics 365 Capabilities at Ignite Event",
-      "excerpt": "This morning at its Microsoft Ignite virtual users conference, Microsoft introduced a number of capabilities for Microsoft Dynamics 365, its CRM platform. Among them is real-time customer journey orchestration capabilities in Dynamics 365 Marketing as part of the April release wave 1 updates.",
-      "sourceUrl": null,
-      "webUrl": "https://register.ignite.microsoft.com/auth/login",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145542",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 239,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon.md",
-      "title": "Artificial Intelligence in Retail Market May See a Big Move | Major Giants IBM, Nvidia, Amazon",
-      "excerpt": "The report brings clarity about the market key players and also about the significant contributors associated. The study elaborates factors of Global Artificial Intelligence in Retail market such as market opportunities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

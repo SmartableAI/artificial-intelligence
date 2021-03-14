@@ -2,6 +2,100 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-02-how-ai-is-transforming-cybersecurity-in-2021.md",
+      "title": "How AI is Transforming Cybersecurity in 2021?",
+      "excerpt": "This post will let you know about the role of Artificial Intelligence (AI) in improving cybersecurity in 2021 and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/",
+      "originalUrl": "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2021/03/AI-and-cybersecurity-challenges.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/amp/",
+      "publishedDateTime": "2021-03-02T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing.md",
+      "title": "Brazil’s Biggest Metro Could Get Facial Recognition Cameras That Reinforce Racist Policing",
+      "excerpt": "Facial recognition cameras commit minimal errors in recognizing the faces of white men, but they misidentified black women up to nearly 35 percent of the time, according to a recent study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "originalUrl": "https://www.vice.com/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/603d34e458f56d0096504362/lede/1614628311772-gettyimages-1218336354.jpeg?crop=1xw:0.8419xh;0xw,0.1065xh",
+          "width": 3897,
+          "height": 2188,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "publishedDateTime": "2021-03-02T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise.md",
       "title": "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise",
       "excerpt": "Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday. Percept is a platform of hardware and services intended to simplify how customers use Azure artificial intelligence technologies on the edge,",
@@ -1007,8 +1101,8 @@
       "title": "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021",
       "excerpt": "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1066,83 +1160,6 @@
       "provider": {
         "name": "Mother Jones",
         "domain": "motherjones.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-fuji-and-motus-ventures-collaborating-on-robotics-and-ai.md",
-      "title": "FUJI and Motus Ventures Collaborating on Robotics and AI",
-      "excerpt": "Motus Ventures, an early stage venture capital firm and business accelerator investing in deep technology businesses, announced today that FUJI Corpor",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210301005906/en/FUJI-and-Motus-Ventures-Collaborating-on-Robotics-and-AI",
-      "originalUrl": "https://www.businesswire.com/news/home/20210301005906/en/FUJI-and-Motus-Ventures-Collaborating-on-Robotics-and-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-aws-launches-second-region-in-japan.md",
-      "title": "AWS Launches Second Region in Japan",
-      "excerpt": "(AWS), an Amazon.com company (NASDAQ:AMZN), today announced the launch of a second full region in Japan, the AWS Asia Pacific (Osaka) Region. The region is an expansion of the existing AWS Osaka Local Region,",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/aws-launches-second-region-in-japan/article_ec4969af-0c68-5430-8a82-20770229a5a5.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/aws-launches-second-region-in-japan/article_ec4969af-0c68-5430-8a82-20770229a5a5.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg",
-          "width": 640,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T19:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-08-assessing-regulatory-fairness-through-machine-learning.md",
+      "title": "Assessing regulatory fairness through machine learning",
+      "excerpt": "Applying machine learning to a U.S. Environmental Protection Agency initiative reveals how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators.",
+      "sourceUrl": null,
+      "webUrl": "https://news.stanford.edu/2021/03/08/assessing-regulatory-fairness-machine-learning/",
+      "originalUrl": "https://news.stanford.edu/2021/03/08/assessing-regulatory-fairness-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news-media.stanford.edu/wp-content/uploads/2021/03/05181621/AI_policymaking.jpg",
+          "width": 1500,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stanford News",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-last-mile-delivery-robotics-company-refraction-ai-raises-42m.md",
       "title": "Last-mile delivery robotics company Refraction AI raises $4.2M",
       "excerpt": "Ann Arbor-based Refraction AI announced today that it has raised a $4.2 million seed round. The startup, which debuted on the TechCrunch Sessions: Mobility stage back in 2019, was founded by a pair of University of Michigan professors (Matthew Johnson-Roberson — now CTO — and Ram",
@@ -1187,57 +1239,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-3-top-artificial-intelligence-stocks-to-buy-in-march.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in March",
-      "excerpt": "The technology sector has been hit hard as of late, as the impending economic reopening has gotten more attention, and rising long-term bond rates have hit growth stocks particularly hard. As rates go up,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F616516%2Fgettyimages-1163715561.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "publishedDateTime": "2021-03-07T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

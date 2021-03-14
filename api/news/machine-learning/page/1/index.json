@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-15-gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml.md",
+      "title": "Gartner’s 2021 Magic Quadrant cites ‘glut of innovation’ in data science and ML",
+      "excerpt": "The report evaluates DSML platforms' scope, revenue, and growth, customer counts, market traction, and product capability scoring.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/14/gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml/",
+      "originalUrl": "https://venturebeat.com/2021/03/14/gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/MQDataScience.png?w=570&resize=570%2C592&strip=all",
+          "width": 570,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/14/gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/14/gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml/amp/",
+      "publishedDateTime": "2021-03-14T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-machine-learning-algorithm-predicts-risk-for-suicide-attempt.md",
       "title": "Machine learning algorithm predicts risk for suicide attempt",
       "excerpt": "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center.",
@@ -1388,60 +1440,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-deno-18-preps-for-gpu-accelerated-machine-learning.md",
-      "title": "Deno 1.8 preps for GPU-accelerated machine learning",
-      "excerpt": "WebGPU API for GPU rendering and computation is supported in the latest upgrade to the JavaScript/TypeScript runtime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/neural_network_by_ktsimage_gettyimages-891769302_2400x1600-100788348-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.amp.html",
-      "publishedDateTime": "2021-03-03T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],
