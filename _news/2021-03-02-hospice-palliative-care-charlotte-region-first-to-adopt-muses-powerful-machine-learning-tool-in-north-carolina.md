@@ -17,6 +17,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 secured: "dly7WswjXk23dOcMSm0LZ8pWVmCUf1ZJYrlCkkRmTQkML2RHyYwNQvW8xn2MjR8/D4qhC+ZaT9UHNStbrWXlKk6W/Q6U3mKBzwqCxePQXLUnIUMiXmuMqbUhXCz8xY6NA3AqTlul+Jkm3XcyGuvOXDr9CiIOUyNSIIt4Js0FyZ2vCUnxOJYr43q2e5QXtK45c8SX5S7sukvddsgIVU0omilLhP8UASkNyyRZMqJ85XpzS3TedpDx0p+RXHB3VTFkFjcNvOpGISsX+oLE1o2+pY5X7cClA0m63UQ8D65O2xYZ+vxnAT3IkrZ264MXSI98P/iOhjeCduNffs2SEZZq3DE45a+jjXAgWIJbsB7hsa8=;y46Crv2K8ZoC3WHJW8+SiQ=="
 ---

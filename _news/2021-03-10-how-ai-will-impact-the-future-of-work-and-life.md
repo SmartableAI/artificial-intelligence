@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-im
 webUrl: "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604b769ead1bacf4e0ff7a1f%2F0x0.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "Prior authorization, AI and the future of clinical documentation — 2 experts weigh in"
-    excerpt: "Here two leaders from MCG Health answer questions about emerging healthcare technologies, prior authorization, and the future of clinical documentation. Interviewees include: Question: CMS recently proposed a new rule for prior authorization that sparked a lot of discussion in the healthcare community."
-    publishedDateTime: 2021-03-09T23:16:00Z
-    webUrl: "https://www.beckershospitalreview.com/prior-authorization-ai-and-the-future-of-clinical-documentation-2-experts-weigh-in.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 32
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "GZ2HdsQRsMXdZMcExaRxvEfFB+Art6jxOGc86zasgvGPnK0n0ik/cEmWhuuFPY6jcemUeK/6aKjJaxwFoVSjUVJqkIs3BK9dmDwA1JagYabXF6c81OlLNcGoDIhaWdBluv7aceE2DM0ISq8HUe5K7sgmuOEvwvfWqbRRPyu7vrdQG0NRPhSbDT6x2T8M/qlClqVW0eGEFayqQ7IFG9WNsVEG8Q6N/cmCbIhnNihnm8j+SDQ8LgafbuA7qI89Jl+ahKTUJzwJ2FxccV63cCBQ8EbZPTeORYmDldtsWMEFtv4hUc+UysPx/1BTdZLwtQJBMcEc4qZ28jmV1Z9zpP1icAeLocR2Xm2luyNH/jBnwmdddOJU9HIhhHUsf6ypiKTBFUj7q4Ym+fPPVKLp/U50r9/D/y+nQteh4ctaOMwZy3tpMWdnCXLvG6WuK/emd7jOgC9ZTwnrOBqtfpeP+/r8Gi9kl3hvq53ofNyE1qhW1DzktEAq2kvmA6K6q6lerQSfyU0Q+xcLMNvSl8RKIAo5ug==;rZqGZRWpLhKvQK7wDoxJWw=="

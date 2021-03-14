@@ -26,9 +26,9 @@ related:
   - title: "Singapore sends 'robot couriers' out for delivery"
     excerpt: "Two autonomous robots have be rolled out in a pilot to facilitate on-demand food and grocery deliveries within a trial area comprising 700 residential households, though, the Singapore government hopes it can lead to a wider deployment to offer more flexible delivery service."
     publishedDateTime: 2021-03-12T01:53:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-sends-robot-couriers-out-for-delivery/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/"
+    webUrl: "https://www.zdnet.com/index.php/article/singapore-sends-robot-couriers-out-for-delivery/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/singapore-sends-robot-couriers-out-for-delivery/"
     type: article
     provider:
       name: ZDNet

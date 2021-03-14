@@ -6,9 +6,6 @@ publishedDateTime: 2021-03-09T23:12:00Z
 originalUrl: "https://www.morningstar.com/news/pr-newswire/20210309cn00338/visionnav-at-ltt-2021-driverless-industrial-vehicles-with-latest-vision-technology-renovating-factory-intralogistics"
 webUrl: "https://www.morningstar.com/news/pr-newswire/20210309cn00338/visionnav-at-ltt-2021-driverless-industrial-vehicles-with-latest-vision-technology-renovating-factory-intralogistics"
 type: article
-quality: 16
-heat: 16
-published: false
 
 provider:
   name: Morningstar%2c Inc.
@@ -24,6 +21,6 @@ images:
     height: 227
     isCached: true
 
-secured: "HXRnuK7JVdI2lekj43UDFn5ihqz/05RamsJ8snX3/6H0N7zjzcslVLGBg/A6omo/2ljZf0jXgbuB/o1ugwpXz582/d0sDH0zhq3f5b926AOxzUVCrGj9Tjt/h/h7J2NZFPGg6iV43jzDc6+dtD2rNaGEJwMv2zwWpQ74P2ntooFq8Re/csy+P13IhsRtpN0Yobj+LsN9OWOUstQMCYXx+G2IVxLS+VN5xIBUp3THt7PzwKkJoio0C47NpeFNYensDKqsRo4pwgvslyVf0WhlXZ9S3zA/bSocjmp9/NKLZt9bMMTIe86zFnYlA4zk40ejkcJaUps0L839WTHgz4KDZkPYXtGq6pCLzU8ti5ZAIQ8=;xOY0kj7lEUcCM8ew75+UPg=="
+secured: "vBCaOTWXldmfh8PS2wYFZTaLPJHGAVmd1jqdM1B3b5uEfEGLNbA6RpH2Fzlgvjqqa29i6r/5bgh9/RJlXl7NtFkYrFjUcoUrqI8c/Dw6/wXIhTY124bGBTbZJfKNSyXewLIdgd5cxLrciMSMDDMYa6vd7f+4Jgv2/JagaDeML5hzyMqWv4FhUZB6mUJi68ZuKSNhIxjqWHNRM9KEoIxfK7vDlbZGXyvkkwVpljXaGtqOnZNd4Vn5EkLfblZt7YAJA0NbzBRv2OEnNwHeJ/PlAidupn9MzNuT5JueCH8M7VuzLuGawS5FIup5gTNw66r4TKxrLs2dQmAkR1EyVa+yO/Mt5SthbvSswYWxz84Nfn8=;WrK5uKH4vY+2T/p1kUneQg=="
 ---
 

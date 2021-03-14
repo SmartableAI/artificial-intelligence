@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla: “Full self-driving beta” isn’t designed for full self-driving"
-    excerpt: "In October, Tesla released what it called its \"full self-driving beta\" software to a few dozen Tesla owners. A few days ago, Musk announced plans to expand the program to more customers. Given that the product is called \"full self-driving,"
-    publishedDateTime: 2021-03-09T23:15:00Z
-    webUrl: "https://arstechnica.com/cars/2021/03/tesla-full-self-driving-beta-isnt-designed-for-full-self-driving/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/10/tesla_jeeesus-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Tesla Admits Full Self-Driving is Just Level-2 Autonomy"
     excerpt: "Tesla has often been criticized for misleading customers with its so-called Autopilot system, but now with the “Full-Self Driving Capability” option, things are even worse. In a letter sent to California's Department Of Motor Vehicles (DMV) and later published on Twitter,"
     publishedDateTime: 2021-03-10T18:45:00Z
@@ -119,17 +105,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Tesla Tells Two Stories About Self-Driving Vehicle Timeline"
-    excerpt: "An email exchange reveals that Tesla has been marketing two different stories regarding self-driving vehicles: one that promises the technology’s much-touted autonomy and another that assures the DMV the tech is far off."
-    publishedDateTime: 2021-03-09T22:03:00Z
-    webUrl: "https://www.governing.com/next/Tesla-Tells-Two-Stories-About-Self-Driving-Vehicle-Timeline.html"
-    ampWebUrl: "https://www.governing.com/next/Tesla-Tells-Two-Stories-About-Self-Driving-Vehicle-Timeline.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Tesla-Tells-Two-Stories-About-Self-Driving-Vehicle-Timeline.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
   - title: "Tesla touts self-driving to consumers. To the DMV, it tells a different tale"
     excerpt: "For years, Tesla CEO Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off. The company has been telling regulators a very different story."
     publishedDateTime: 2021-03-11T00:55:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.meritalk.com/articles/ai-adoption-moving-too-fast-for-
 webUrl: "https://www.meritalk.com/articles/ai-adoption-moving-too-fast-for-comfort-new-report-says/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Supply Chain AI Adoption May be Hastened Due to Pandemic, says KPMG"
-    excerpt: "The COVID-19 pandemic has accelerated the pace of artificial intelligence (AI) adoption, but many say it’s moving too fast, according to a new KPMG survey."
-    publishedDateTime: 2021-03-09T22:42:00Z
-    webUrl: "https://www.scmr.com/article/supply_chain_ai_adaption_may_be_hastened_due_to_pandemic_says_kpmg"
-    type: article
-    provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 39
-    images:
-      - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
-        width: 444
-        height: 333
-        isCached: true
   - title: "AI Adoption Accelerated During the Pandemic, but Many Say it's Moving too Fast"
     excerpt: "But many say it’s moving too fast. That’s probably because of current debate surrounding the ethics, governance and regulation of AI. Many business leaders do not have a view into what their organizations are doing to control and govern AI and may fear ..."
     publishedDateTime: 2021-03-11T17:20:00Z

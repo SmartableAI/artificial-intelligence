@@ -43,6 +43,22 @@ related:
         width: 704
         height: 330
         isCached: true
+  - title: "Self-Driving Cars And Those Brazen Dogs That Love To Chase After Passing Cars"
+    excerpt: "Dogs love to chase cars, which will undoubtedly happen to self-driving cars, and AI driving systems need to be prepared to watch for and save those daring pooches."
+    publishedDateTime: 2021-03-14T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603d63aa27b9b02ad1c60215%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D165%26cropY2%3D2853"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "zy/js902xZkawHf9u4W6Sr8XzHA0E2we+u1USC0Wn9DSlPKWPcxJght4s4l58DDfdh1zbg2+jQW2e4mh4G0cXV9cu/eJGlKn/hhk/VYgagLz/PLDVLkC+mrwO/Rqx8OOu6m+bsYeouV9R4J8mbPgJ4G9juwjnX6w72smzV1A9zzhwYtQHKkZQK7By9PUGWvBucqabn3x56CxRiI/gNM4gikBFPlklAlRLWk5KaoG0Q0dPryouwaLJMDDHdZf1zrkqWbcl6sk0yYcc5giEzN6ffhTsBEfTHoGmDoqWxz64YV1xABV639hEVHFRu9D0bankxesXdiAHtsImlQhkJ9mxzOJBxtf2BLMyYZexe0sMT1N9J53j+Lc2U7R3qbV1m8UCMfRjZYbyTFCtzrhlu/VuRwZ8tVXKLJo0TDJS5Z583oqVAfAxlRmZ4l0SXYYI+UGKFz7/or34bFzUgsJZE7zW6ZPhHiJ9r0a/F3iV6zc6QR4vpS8Pfn7PiYu6TKMf2rGQynZ1YRxsrFW8UmHQRC3Zg==;FHGPL0LdwaEPf5PwGetOUQ=="
 ---

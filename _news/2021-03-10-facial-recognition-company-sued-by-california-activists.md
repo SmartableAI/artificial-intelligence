@@ -108,22 +108,6 @@ related:
         width: 768
         height: 465
         isCached: true
-  - title: "Immigrant rights groups sue facial-recognition company Clearview AI"
-    excerpt: "Two immigrant-rights groups in California are suing Clearview AI, claiming the face-recognition company violates privacy laws by building the largest database of human faces in the nation and providing law enforcement with the database even in cities that have banned facial recognition."
-    publishedDateTime: 2021-03-09T22:47:00Z
-    webUrl: "https://www.cbsnews.com/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 63
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/05/6b363956-423a-4cc9-a04e-47d365d2fb9f/thumbnail/1200x630/4c6d01fc0d9aec5e1a7a02195a916386/clearview-ai-app-tryout-01.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)"
     excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."
     publishedDateTime: 2021-03-10T20:03:00Z

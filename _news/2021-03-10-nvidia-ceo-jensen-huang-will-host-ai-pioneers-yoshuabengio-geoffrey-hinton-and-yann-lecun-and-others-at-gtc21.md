@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/nvidia-ceo-jensen-huang-wil
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/nvidia-ceo-jensen-huang-will-host-ai-pioneers-yoshuabengio-geoffrey-hinton-and-yann-lecun-and-others-at-gtc21/amp/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 960
     height: 675
     isCached: true
-
-related:
-  - title: "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio"
-    excerpt: "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,"
-    publishedDateTime: 2021-03-09T22:52:00Z
-    webUrl: "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
-    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
 
 secured: "IpJvG5D/kxJUvXyc3uWdN+i4LQqNmeQYajlyfSAHPDFkB9JkVV0nhwjgOEKoXE0RgPvzn0FMgswQmiL19Ll++0xYys3XRTY+KW88dWQql6AqIkpcvElt88AiJ7ACQJWyr5sKnsZmZdkWDlWrGEIfAhSE4XEgfhN6ElDTDLnOVvP8xuMHY4Y9IPUg/1gsf8M1yCcCXAm6sqWHTzyGJkswthJ8TlOVqq7dLQKErsNG0X7WK6ydG6u/HyR9xgj8DwybP/Mc7DdRvsqEvjkXbVOy8xaxhPl8pKTCU042wnhi5/DLlgNIap7Lssw5FkU8y4vBxbn8mQcOlVxLVnhOAigB6aQShu8Z90dJU299zebv5vA=;Ytu8/w9iHiJaC39nnhMnlQ=="
 ---

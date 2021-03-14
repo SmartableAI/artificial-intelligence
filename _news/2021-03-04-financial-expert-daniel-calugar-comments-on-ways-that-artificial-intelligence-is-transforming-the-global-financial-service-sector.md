@@ -2,9 +2,9 @@
 category: news
 title: "Financial Expert Daniel Calugar Comments on Ways That Artificial Intelligence is Transforming the Global Financial Service Sector"
 excerpt: "Daniel Calugar, an experienced investor says that artificial intelligence will soon be an essential driver of business in the financial services industry. With an academic and professional career in computer science,"
-publishedDateTime: 2021-03-04T03:16:00Z
-originalUrl: "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
-webUrl: "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
+publishedDateTime: 2021-03-04T11:16:00Z
+originalUrl: "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
+webUrl: "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "VvSfMpYxgUQMBAyu3576Tj2sVpk6bIKukQ45KjfuN5eexcBgxuh3l6vkvyhvoKREKttbzUQXA6XgazHROqUu8JJhyY4twSd06s+ttSdy0FUYjDAg9MazR2KPDjT0LFgnG6htKwRQSsVInqKzPC5m7LhcXrxMV5HnBfnzpgn68+FDBwIp8rww7/Yxou88RvA6Jjme1KzXBZH85EeARdcrR5+RpRqCyoGjeDhRbTj4UOEFNM7XffufPFoYPhEccl5X1HsB0W85Drq80rqB2FGmrG/KEsriI8KuUdzmnezTqZanBb4Gq9MfIT9yta5PDzfhCwMv0OK6QD/3rzTaOPBMelYPdvz60LGy4EzAlS6ajbI=;kf/m7dMKISqytTVtj9bfjw=="
+secured: "eFGVlKFWfqc5v83/1/gmhyGgXCEt9zkC5Jexxj/Gull/bMITWIt0HIPGj6lnVdQrjH+M3NFdA70pR6+V63gjBKV9jRJtAqlc6+uVuTHj4hPU8RZ7EU14YFTJs7NRbylOlC248rRVb7z7v7rC7GgnGqVLfPEkfobJHYq/07gvXEzf5UvMPTyPnkBSYgFuBRn5blbOjN0Q/swtOZ3+XT6j1w8UBoS2Acejp/tNeoxx2JxUD/uS5VBwJZpzdiU5wTOLspROEC1Ar8PrX8TeF6JOSA0b1nqa0JmburEQe71coFLDAIHDkeKtAwKh5mhxdAolwzc2tDqr2eQ1u6PRHMj9+FXdAhkhAEs6nWUS8wEIWsA=;r7iOoAD00vAsxbltbPvMbA=="
 ---
 

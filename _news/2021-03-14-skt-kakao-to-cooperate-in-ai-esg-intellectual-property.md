@@ -1,10 +1,10 @@
 ---
 category: news
 title: "SKT, Kakao to cooperate in AI, ESG, intellectual property"
-excerpt: "By Kim Bo-eun SK Telecom and Kakao unveiled a partnership Sunday to co-develop technology in artificial intelligence (AI) and create a fund for ESG (environmental, social and gove"
-publishedDateTime: 2021-03-14T04:37:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html"
+excerpt: "By Kim Bo-eun SK Telecom and Kakao unveiled a partnership Sunday to co-develop technology in artificial intelligence (AI) and create a fund for environmental, social and governanc"
+publishedDateTime: 2021-03-14T10:01:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html?na"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html?na"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 753
     isCached: true
 
-secured: "0LEkFathXugiV1jM5W4eQoYUnZx8EqeiGzuQMHDN8mKwinN0yXE7UDbshUdL6vIiQnyClKKD0QT2N2Sf+fcAzyWvHLPN4yzV4PhBxpWAtUyv83cs4MlWTiJ6hBEv7/VFDZZ3ennBkRNST48cI6+sFi91kBNbPbFWJuQIRgvNIxLCa4MLXVjCXcgEh7Dk2IB/6YAioenkURbfC2fTykc8cCIb7xuQ6GKrJfiI12KYCTvDezfM3nwCzENXN99j+QdKBAa3nyN95Gq1oD4gMpNxy1wmlmSh01tXen0f0oi7qzX8cDePVCMT93jq75SGGhI0ViiWbHTaI7QGmB7FXYyjXuL4RHvvFcjkIzgGu7QHzfo=;XTQjrG9igDFhUwMRJa+brQ=="
+secured: "ad2mSb6lur4upzwRxRXe6kpmAT49ALJuytX3TN7cGGzcJmXk4IoL/dGs1nf9/A6ToALJuaN6DYP/jWhqfWekhxytLbaN6DDArb6hV9BHp1NNsjRFDL0cclelhAiDPpWRgh/HwU1SwpjE+kMRKuSBf7aIJATkUjP+nW6O+yDppMGecn8ysXZza/vu2uEWZhHvWCb7XPDxxmSz1bTk9nwaK0gce3qGUH2enax7SV7+81xSr6zuvpIRl5ANiIrz74ljbL+UzexmUvgy7SXhxMx4O2PcsIxTrSaZS//JiLyjfaNHdyKPM5fDjhdgZeIfYs89/5KsY3LhhNDnpXRTUd6yh9C3OF/waGB4a7njOz+AtaE=;QojJUQVUAxJFxWvUgvvVAA=="
 ---
 

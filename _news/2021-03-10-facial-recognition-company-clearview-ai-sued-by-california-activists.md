@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/facial-recognition-company-cle
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732"
 type: article
 quality: 104
-heat: 294
+heat: 284
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/92JhUnKXq9qB0Ohx-q6NMtIoH8c=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68949763/large.0.jpg"
         width: 768
         height: 465
-        isCached: true
-  - title: "Immigrant rights groups sue facial-recognition company Clearview AI"
-    excerpt: "Two immigrant-rights groups in California are suing Clearview AI, claiming the face-recognition company violates privacy laws by building the largest database of human faces in the nation and providing law enforcement with the database even in cities that have banned facial recognition."
-    publishedDateTime: 2021-03-09T22:47:00Z
-    webUrl: "https://www.cbsnews.com/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 63
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/05/6b363956-423a-4cc9-a04e-47d365d2fb9f/thumbnail/1200x630/4c6d01fc0d9aec5e1a7a02195a916386/clearview-ai-app-tryout-01.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Facial recognition company sued by California activists"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that"
