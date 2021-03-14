@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/robotics-process-automat
 webUrl: "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10"
 type: article
 quality: 79
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -151,20 +151,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast to 2025"
-    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The Voice Recognition Market was valued at USD 10."
-    publishedDateTime: 2021-03-09T08:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-by-industry-size-share-revenue-growth-development-and-demand-forecast-to-2025-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

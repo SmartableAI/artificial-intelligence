@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/sponsor/salesforce/what-you-need-to-know-to
 webUrl: "https://techcrunch.com/sponsor/salesforce/what-you-need-to-know-to-implement-a-foolproof-ai-and-automation-strategy/"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: TechCrunch
@@ -28,53 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "We need a humanitarian vision for AI and robotics"
-    excerpt: "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given"
-    publishedDateTime: 2021-03-09T09:00:00Z
-    webUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/"
-    ampWebUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
+  - title: "Automation and Artificial Intelligence Careers for Innovators and Creatives"
+    excerpt: "There are a number of automation jobs and artificial intelligence careers in the healthcare industry; health systems engineering is a prime example. The overall goal of this position is to improve how medical treatment is delivered, specifically by ..."
+    publishedDateTime: 2021-03-09T20:58:00Z
+    webUrl: "https://www.ucf.edu/online/engineering/news/automation-and-artificial-intelligence-careers/"
+    ampWebUrl: "https://www.ucf.edu/online/engineering/news/automation-and-artificial-intelligence-careers?amp"
+    cdnAmpWebUrl: "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/online/engineering/news/automation-and-artificial-intelligence-careers?amp"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 89
+      name: UCF Today
+      domain: ucf.edu
+    quality: 57
     images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/03/GettyImages-1183002137-scaled.jpg"
-        width: 1600
-        height: 1060
-        isCached: true
-  - title: "BOTZ vs. ROBO: The Best Robotics & Artificial Intelligence ETF For 2021"
-    excerpt: "Robotics and artificial intelligence ETFs, however, have received only modest interest from investors. This group has delivered fantastic returns over the past year, but their performance during that time has trailed hotter and more attention-grabbing sectors,"
-    publishedDateTime: 2021-03-09T22:17:00Z
-    webUrl: "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
-    ampWebUrl: "https://www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 89
-    images:
-      - url: "https://content.jwplatform.com/thumbs/uQuPaZSc-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
-  - title: "Announcing Neural’s weekly AI newsletter for cyborgs and humans"
-    excerpt: "Greetings humanoids! I could not be more excited to introduce Neural’s new weekly newsletter. Every seventh day, the cyborgs who write for Neural will send you an email full of news, analysis, opinion,"
-    publishedDateTime: 2021-03-11T20:42:00Z
-    webUrl: "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/neural-796x448.png"
-        width: 796
-        height: 448
+      - url: "https://www.ucf.edu/online/files/2021/03/Automation-and-Artificial-Intelligence-Careers-for-Innovators-and-Creatives.jpg"
+        width: 750
+        height: 497
         isCached: true
 
 secured: "L7a8t6HsYVS763R2NGEHX16KYgx+KbCkYosRQql+66S35WRDo6pHk2ne5nsrLoMi7uOIOdBYQo4UAo0krSPDohPa9WB5pXayx1uUejztNQH0cPfm//KC6tTLYw57Ecz45QCh9+bQ73bFHHUMh9hqqqzqzGTNq0FmM06O9z6skPHUhG4lu5uzJ242hrdQB8/MJvVR1o89ev0ouBjTI/IU2yp2H0HZc22A8CxvIWQEATv19FoQm2cYyPR6m9yqjH0LkdIrWAE0lJ6FSEDc/NMCPt0uIcY2B9njEEDizgrTatp2849u7bEpybGuFWfx+GFoaT1vYv2nB7p+PW0W/9nNqQSzggMglJp/gv5aDAoUkZYwpVcN55+HbvXNq9aviM6kLVyUzx/aNpEMFmjLLaJ62YyCCE95+tU+EHbxzNWGTr71Kl55elDyfMi2bc8lZZFOA8QosThRejcwA2yGfobe8kVOoCS8MjUuzHrEBCtsT5TQSHdfWpPcEtvJdncYxQZwKNa6f9ZudOOXvJtRcAxeGA==;/pA16HiAIDPTT4QZeIZArQ=="

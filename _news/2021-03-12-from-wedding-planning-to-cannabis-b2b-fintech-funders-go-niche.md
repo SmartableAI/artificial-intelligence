@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Fintech startup Intellect launches AI-powered Aadhaar processing solution"
-    excerpt: "Intellect Design Arena says the AI solution used to identify, extract, validate, and mask Aadhaar details hyper-digitises the end-to-end processes using Aadhaar-based processing."
-    publishedDateTime: 2021-03-09T07:42:00Z
-    webUrl: "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution"
-    ampWebUrl: "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 58
-    images:
-      - url: "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/aadhaar15627408699411575965021660png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Peak Fintech Offers Compelling Value At These Levels"
     excerpt: "We entered Peak Fintech ( OTCQX:PKKFF ), soon to be renamed Tenet Fintech Group Inc., as an entry for a marketplace competition, and bought the shares at $1.12 for our marketplace SHU Growth Portfolio (up 62."
     publishedDateTime: 2021-03-12T01:13:00Z

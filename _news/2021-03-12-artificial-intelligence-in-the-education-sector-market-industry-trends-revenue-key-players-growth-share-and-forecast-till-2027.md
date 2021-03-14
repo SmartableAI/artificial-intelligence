@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-industry-trends-revenue-key-players-growth-share-and-forecast-till-2027-2021-03-11"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Natural Language Processing Market Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits and Regional Analysis"
-    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10."
-    publishedDateTime: 2021-03-09T08:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "FhHQf08HxjFG3pvK+hK0zeFMnW/sSsteLJrQB6GUD+zJe27JMG5cgActkBo+auHpXzTHoTENNwur5+t8+7V2Ibbfh14Y08fhGMN5a7IMzFslztixolVBPsCwaH3yQA/dGbdOQXOEEmCLTBUlfaHNI23JhZagFo9jPxMpHZARxbxywi8iyDsCHsgbf+dMEn2tQ8zq0W1r4ZSheL9KvW6Ayn0/3x1A+sLgcoFiKqu2/TK+KvcTTH1CQJYGJjEqyIpTz7O9AaUif5IcSzZ6rDKA7y27rWR2POMR4HH50zDkcVrq7Mp7qfc4hqNYqqfvM2ZEpRu8RJVEYNeZl1LDXklAilwPO/HEMhecLzFLb/ouTDE=;VRZyhiryGYBhsGAeqVHByg=="
 ---

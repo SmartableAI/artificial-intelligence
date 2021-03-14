@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech startup Intellect launches AI-powered Aadhaar processing solution"
-    excerpt: "Intellect Design Arena says the AI solution used to identify, extract, validate, and mask Aadhaar details hyper-digitises the end-to-end processes using Aadhaar-based processing."
-    publishedDateTime: 2021-03-09T07:42:00Z
-    webUrl: "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution"
-    ampWebUrl: "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 58
-    images:
-      - url: "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/aadhaar15627408699411575965021660png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "From Wedding Planning To Cannabis, B2B FinTech Funders Go Niche"
     excerpt: "From wedding planning to cannabis to the entertainment industry, this week's B2B FinTech investors targeted financial solution providers in niche markets."
     publishedDateTime: 2021-03-12T13:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-launches-one-zone-storag
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-launches-one-zone-storage-expands-aws-portfolio-2021-03-10?amp"
 type: article
 quality: 69
-heat: 81
+heat: 79
 published: true
 
 provider:
