@@ -626,49 +626,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-pga-tour-selects-aws-as-its-official-cloud-provider.md",
-      "title": "PGA TOUR Selects AWS as Its Official Cloud Provider",
-      "excerpt": "PGA TOUR uses AWS machine learning and analytics to bring fans closer to the course and transform how they experience the world’s greatest golf tournaments AWS, First Tee, and the TOUR will partner to empower children and teenagers to build inner-strength,",
-      "sourceUrl": null,
-      "webUrl": "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/",
-      "originalUrl": "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/",
-      "cdnAmpWebUrl": "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/",
-      "publishedDateTime": "2021-03-02T19:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitalproducer.com",
-        "domain": "digitalproducer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger.md",
       "title": "Analyzing open-source ML pipeline models in real time using Amazon SageMaker Debugger",
       "excerpt": "Open-source workflow managers are popular because they make it easy to orchestrate machine learning (ML) jobs for productions. Taking models into productions following a GitOps pattern is best managed by a container-friendly workflow manager, also known as MLOps. Kubeflow Pipelines (KFP) is one of the",
@@ -877,6 +834,40 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-pga-tour-selects-aws-as-its-official-cloud-provider.md",
+      "title": "PGA TOUR Selects AWS as Its Official Cloud Provider",
+      "excerpt": "The TOUR will then use Amazon Rekognition (AWS’s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata like player names and sponsor logos. This will help the TOUR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210302005466/en/PGA-TOUR-Selects-AWS-as-Its-Official-Cloud-Provider",
+      "originalUrl": "https://www.businesswire.com/news/home/20210302005466/en/PGA-TOUR-Selects-AWS-as-Its-Official-Cloud-Provider",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {

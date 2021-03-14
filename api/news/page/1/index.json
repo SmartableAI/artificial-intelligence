@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-14-tiktok-a-chinese-entrepreneurs-unfinished-search-for-global-recognition.md",
+      "title": "TikTok: A Chinese entrepreneur’s unfinished search for global recognition",
+      "excerpt": "Biden himself has described China as the “most serious competitor” to the US and has vowed to confront Beijing on various fronts, including human rights, intellectual property and economic speech. “The Biden administration has been clear that it will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/12/b0429a1c-f64c-4c8a-b4cb-0a1125339db3_ead8f5b4.jpg?itok=kVlaTEII&v=1615549481",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3125252/tiktok-chinese-entrepreneurs-unfinished-search-global-recognition",
+      "publishedDateTime": "2021-03-13T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-machine-learning-algorithm-predicts-risk-for-suicide-attempt.md",
+      "title": "Machine learning algorithm predicts risk for suicide attempt",
+      "excerpt": "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
+      "publishedDateTime": "2021-03-13T17:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-companies-are-adopting-ai-for-supplier-negotiations-but-which-ones-should-the-machines-handle.md",
       "title": "Companies Are Adopting AI For Supplier Negotiations, But Which Ones Should The Machines Handle?",
       "excerpt": "Enterprise AI is moving to new domains such as negotiating. There are some distinct advantages in machines being able to negotiate.",
@@ -403,6 +498,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-using-ai-to-assess-surgical-performance.md",
+      "title": "Using AI to assess surgical performance",
+      "excerpt": "A research team at Inselspital, Bern University Hospital and Caresyntax has succeeded in proving that artificial intelligence can reliably assess surgeons' skills. A method involving a three-stage procedure has been presented that correctly designates good and mediocre performance with a high accuracy rate.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-ai-surgical.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-ai-surgical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/4-surgery.jpg",
+          "width": 1920,
+          "height": 1371,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-ai-surgical.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-surgical.amp",
+      "publishedDateTime": "2021-03-12T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1122,153 +1259,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans.md",
-      "title": "Announcing Neural’s weekly AI newsletter for cyborgs and humans",
-      "excerpt": "Greetings humanoids! I could not be more excited to introduce Neural’s new weekly newsletter. Every seventh day, the cyborgs who write for Neural will send you an email full of news, analysis, opinion,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/neural-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/",
-      "publishedDateTime": "2021-03-11T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-artificial-intelligence-software-market-next-big-thing-major-giants-google-ibm-microsoft.md",
-      "title": "Artificial Intelligence Software Market Next Big Thing | Major Giants Google, IBM, Microsoft",
-      "excerpt": "The Latest Released Artificial Intelligence Software market study has evaluated the future growth potential of Global Artificial Intelligence Software market and provides information and useful stats on market structure and size.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-next-big-thing-major-giants-google-ibm-microsoft-2021-03-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-next-big-thing-major-giants-google-ibm-microsoft-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.md",
-      "title": "Self-driving robot delivery startup raises $4.2 million to expand in Ann Arbor",
-      "excerpt": "Ann Arbor-based delivery robot developer Refraction AI has raised $4.2 million in seed funding. The company in 2019 created the REV-1 robot, a lightweight, self-driving robot that delivers food and groceries to Ann Arbor residents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html",
-      "originalUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZNWLS3BI7ZEDVFLTNKGYKWCJLQ.JPG",
-          "width": 6192,
-          "height": 4128,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp",
-      "publishedDateTime": "2021-03-11T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

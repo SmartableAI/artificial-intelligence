@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11"
 type: article
 quality: 65
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
-    publishedDateTime: 2021-03-09T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-in-machine-vision-market-size-share-value-and-competitive-landscape-2021-2026-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

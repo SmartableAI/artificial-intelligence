@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
-    excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
-    publishedDateTime: 2021-03-09T10:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-in-machine-vision-market-size-share-value-and-competitive-landscape-2021-2026-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in energy Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
     excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Artificial Intelligence in energy market is expected to reach a market size of USD 20."
     publishedDateTime: 2021-03-10T21:03:00Z

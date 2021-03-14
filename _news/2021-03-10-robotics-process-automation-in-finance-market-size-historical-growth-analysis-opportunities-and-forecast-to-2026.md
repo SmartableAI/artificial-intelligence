@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/robotics-process-automat
 webUrl: "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10"
 type: article
 quality: 79
-heat: 219
+heat: 199
 published: true
 
 provider:
@@ -156,20 +156,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028, Fortune Business Insights"
-    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
-    publishedDateTime: 2021-03-09T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-drivers-restraints-industry-size-share-opportunities-trends-and-forecasts-up-to-2028-fortune-business-insights-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
     excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
     publishedDateTime: 2021-03-12T11:08:00Z
@@ -193,20 +179,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Digital Signage Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2028, Fortune Business Insights"
-    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
-    publishedDateTime: 2021-03-09T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/digital-signage-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2028-fortune-business-insights-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

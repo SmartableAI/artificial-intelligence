@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-14-machine-learning-algorithm-predicts-risk-for-suicide-attempt.md",
+      "title": "Machine learning algorithm predicts risk for suicide attempt",
+      "excerpt": "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
+      "publishedDateTime": "2021-03-13T17:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-adobes-super-resolution-tool-uses-machine-learning-to-give-users-clear-4x-image-supersampling.md",
       "title": "Adobe's Super Resolution tool uses machine learning to give users clear 4x image supersampling",
       "excerpt": "Adobe is taking photo upscaling to a whole new level with an AI-powered tool called Super Resolution. The feature is currently available in Camera Raw 13.2,",
@@ -1392,58 +1435,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning.md",
-      "title": "Streamlining data science with open source: Data version control and continuous machine learning",
-      "excerpt": "Can an open source-based workflow leveraging version control and continuous integration and deployment help streamline machine learning, like it did for software development?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/03/2266fd80-0a28-4f17-8528-cedc55aea178/iterative-ai.png",
-          "width": 800,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
-      "publishedDateTime": "2021-03-03T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

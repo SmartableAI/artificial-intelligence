@@ -2,22 +2,22 @@
 category: news
 title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
 excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
-publishedDateTime: 2021-03-10T22:02:00Z
-originalUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
-webUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+publishedDateTime: 2021-03-11T00:09:00Z
+originalUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+webUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
+  - AI
+  - Machine Learning
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
@@ -29,20 +29,6 @@ related:
       name: Le Lézard
       domain: lelezard.com
     quality: 73
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the"
-    publishedDateTime: 2021-03-10T21:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-19693389.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 72
     images:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
@@ -76,7 +62,16 @@ related:
         width: 1847
         height: 967
         isCached: true
+  - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2021-03-10T21:15:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 50
 
-secured: "Kdnw8L6yPyiesefXgSWE2juFuRRJ7o6mKqjYRZgkrMEt4I6+inQjs4JQnwgm6YW91nO+bJsE69y2mPmKPz9ueYJEAxuW+2MFIzxItnTiQQmjPCDpbuJvjUJpdn7gQsIpIA/SI28U0pbfcoHBMmQPNSWBWYi8x2DY3t0fVAjeADTg3N2cc4Sb0biZ+A8/ZnnEiEcy+AnYxWeYjI1QwsDzF6hChOPXSqMDX2gtbondqPDvNeYDGfq+E6VdaaXWBDz6YzfIV0k3WEuER6iRFu8Pme7fhv2cmxYEJrVyB/eQeFutuSKygdeOsSbyu/kNfBbCEDHU9ohnV0EKQq7yvYJTqqWcg2XEwofhPVcWrGN4B+8=;rvgMyS5vy1Agc81UOv56Hw=="
+secured: "nHQnV72mtytz7HIyLXDcR6zEbzv4El4SyGYNvWdmFvCJfRHZEKUVjro+z3yUoeUCNaRk1Aul89bAwWYkShbuOj6SM9qxuDaTyWhO0tGORFYAJz9ISgeXTl8SbbbjKhO2QJHzcLVo1hcyz+cPbyGfOe1HC/hbA88k/yEEOOrQFDz/JQxkY9y7w3ACXxIOF0a3jiUPm5H45Y4hwZZrYVv7bZd7WZ93sTKZXGlNJzjRZITCQWO+vIYJ3596gRVYBChsJba84LSh38QJlA8AOearC9yoTSXko22u/99mlKkSyL7GC6HrNCDlZRHBCEasZvpvrgpvq4XmTnDWw+y04mtNczolIzbLFFuq2ZfwyaJM/ho=;DBmORH7DfoogZVM21pyhww=="
 ---
 
