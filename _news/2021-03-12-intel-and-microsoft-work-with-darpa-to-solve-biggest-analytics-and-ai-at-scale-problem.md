@@ -82,20 +82,6 @@ related:
         width: 521
         height: 313
         isCached: true
-  - title: "Claim Genius AI Claims Solutions Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Claim Genius AI Claims technology to automate and accelerate the processing of auto claims"
-    publishedDateTime: 2021-03-09T15:02:00Z
-    webUrl: "https://www.wboc.com/story/43468926/claim-genius-ai-claims-solutions-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 64
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Artificial Intelligence in Agriculture Market Next Big Thing | Major Giants- John Deere, Resson, Precision Hawk"
     excerpt: "The research emphasizes elaboration of the Global Artificial Intelligence (AI) in Agriculture market strategy of"
     publishedDateTime: 2021-03-12T10:04:00Z

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-03-companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to-dogs.md",
+      "title": "Companion Raises $8M Seed Round to Use Machine Learning and Computer Vision to Talk to Dogs",
+      "excerpt": "Today, Companion announces $8M in Seed funding to transform how we train, engage and communicate with our dogs. The funding comes from leading",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/59/6590a814-f273-5efc-ac0c-f8f20347b6b5/60414bd16920b.image.jpg?resize=1120%2C630",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning.md",
       "title": "Streamlining data science with open source: Data version control and continuous machine learning",
       "excerpt": "Can an open source-based workflow leveraging version control and continuous integration and deployment help streamline machine learning, like it did for software development?",
@@ -1426,49 +1470,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-researchers-use-machine-learning-to-identify-autism-blood-biomarkers.md",
-      "title": "Researchers use machine learning to identify autism blood biomarkers",
-      "excerpt": "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/bloodtest.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
-      "publishedDateTime": "2021-02-24T13:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

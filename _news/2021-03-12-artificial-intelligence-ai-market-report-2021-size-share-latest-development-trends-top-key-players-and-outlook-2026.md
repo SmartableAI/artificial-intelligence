@@ -25,29 +25,57 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market Size Outlook 2026: Top Companies, Trends, Growth Factors Details by Regions, Types and Applications"
-    excerpt: "Selbyville, Delaware. Artificial Intelligence Chip market aims to decode lucrative investment opportunities in"
-    publishedDateTime: 2021-03-09T17:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-outlook-2026-top-companies-trends-growth-factors-details-by-regions-types-and-applications-2021-03-09"
+  - title: "Global Artificial Intelligence (AI) Accelerator market Size, Share, Value, and Competitive Landscape 2026"
+    excerpt: "Mar 11, 2021 (Heraldkeepers) -- According to this study, over the next five years the Artificial Intelligence (AI) Accelerator market will register a xx% CAGR in terms of revenue, the global market size will reach $ xx million by 2026, from $ xx million in ..."
+    publishedDateTime: 2021-03-11T13:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 67
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market Share Growing Rapidly with Recent Trends and Outlook 2020 – 2027"
-    excerpt: "Strong emphasis on product pricing, production capability and the inclusion of state-of-the-art technology to boost"
-    publishedDateTime: 2021-03-13T17:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-share-growing-rapidly-with-recent-trends-and-outlook-2020-2027-2021-03-13"
+  - title: "Artificial Intelligence (AI) In Retail Market Value Expected To Reach US$ 6,762.3 Million By 2027: Acumen Research And Consulting"
+    excerpt: "The Global Artificial Intelligence (AI) In Retail Market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 and reach the market value of over US$ 6,762.3 Mn by 2027. Based on regional landscape,"
+    publishedDateTime: 2021-03-10T19:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-value-expected-to-reach-us-67623-million-by-2027-acumen-research-and-consulting-2021-03-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) for Telecommunication Market Evolving Technology, Segmentation and Industry Analysis by 2025"
+    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025."
+    publishedDateTime: 2021-03-12T20:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market-evolving-technology-segmentation-and-industry-analysis-by-2025-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in energy Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
+    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Artificial Intelligence in energy market is expected to reach a market size of USD 20."
+    publishedDateTime: 2021-03-10T21:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-2021-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -67,17 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Rising at 20.2% CAGR, Edge AI Hardware Market Size to Exceed 2160 Million Units by 2026: Facts & Factors"
-    excerpt: "Facts and Factors have published a new research report titled \"Edge AI Hardware Market by Device (Smartphones, Cameras,"
-    publishedDateTime: 2021-03-11T12:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20117987/rising-at-20-2-cagr-edge-ai-hardware-market-size-to-exceed-2160-million-units-by-2026-facts-factor"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20117987"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20117987"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
 
 secured: "Rg5wJCYzqe8A1N81F3/o7Y37j6hPuYDfWPLRJZfPRQEYMf5oTeW45eGNF7B+6elfflNqVMQ45sRKTf6saEkzHtL42iMx40kA/NzKpK2bbCovqDPPiR0Za+SD9kTSDBThUMaB4TBoqM4sPWU161Sg2rlS+3rtcKnWfSvcZ45U28P752KX8zJyOtIlqjaPlHSvg/biJm9EcGNQN+vz8tJ5pKXaoMqwgiNiXP7A2TI4/ePnHr2jdjXnFnklczqikoyOSL03dxFpdRMxliu9yocIPNMiTZuSF6s8IP1N4C9KCJFH3v7GhWZWE2+ZVIv4pcxFGFRarTPLRf+Zqfr/x0ziSviiMHBRHhJtrGljR0d525I=;OnKs3o5JQe+y1KBPTPkjfg=="
 ---

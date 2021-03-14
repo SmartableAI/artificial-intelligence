@@ -2,6 +2,196 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-11-enhancing-machine-learning-prediction-to-improve-asthma-care-management.md",
+      "title": "Enhancing Machine Learning Prediction to Improve Asthma Care Management",
+      "excerpt": "Some healthcare centers are now using machine learning predictive models to determine which patients with asthma are highly likely to experience poor outcomes. “Machine learning is a state-of-the-art method for gaining high prediction accuracy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/enhancing-machine-learning-prediction-to-improve-asthma-care-management/",
+      "originalUrl": "https://www.physiciansweekly.com/enhancing-machine-learning-prediction-to-improve-asthma-care-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/uploads/2020/06/iStock-512898876.jpg",
+          "width": 661,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.physiciansweekly.com/enhancing-machine-learning-prediction-to-improve-asthma-care-management/amp/",
+      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/enhancing-machine-learning-prediction-to-improve-asthma-care-management/amp/",
+      "publishedDateTime": "2021-03-11T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure.md",
+      "title": "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure",
+      "excerpt": "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/",
+      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg",
+          "width": 450,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/",
+      "publishedDateTime": "2021-03-11T00:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people.md",
+      "title": "Fujitsu develops facial detection AI to quantify concentration levels of people",
+      "excerpt": "Fujitsu has developed a new AI model that it claims can capture and quantify how much a person is concentrating when performing tasks. Conventionally, AI models that are designed to quantify concentration have been created by training algorithms to recognise the expressions and behaviours of people performing specific tasks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/",
+      "originalUrl": "https://www.zdnet.com/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/11/b337ae1c-ce88-445d-bf1d-968f76b35dfd/fujtisu.jpg",
+          "width": 444,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/",
+      "publishedDateTime": "2021-03-10T20:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-this-chip-for-ai-works-using-light-not-electrons.md",
+      "title": "This Chip for AI Works Using Light, Not Electrons",
+      "excerpt": "Lightmatter says the computing and power demands of complex neural networks need new technologies like these to keep up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chip-ai-works-using-light-not-electrons/",
+      "originalUrl": "https://www.wired.com/story/chip-ai-works-using-light-not-electrons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6047be0fa517f1eadd3116b5/master/pass/Business-Chip-LightMatter-20200417_094913.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chip-ai-works-using-light-not-electrons/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chip-ai-works-using-light-not-electrons/amp",
+      "publishedDateTime": "2021-03-10T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu.md",
       "title": "Artificial Intelligence becoming the new way for healthcare students at OSU",
       "excerpt": "In this pandemic, we’re learning remote learning has been a challenge for many students throughout the country. Ohio State University is working to tackle this issue",
@@ -1041,197 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade.md",
-      "title": "Gartner: AI and data science to drive investment decisions rather than \"gut feel\" by mid-decade",
-      "excerpt": "A new Gartner report predicts that AI and data science to drive investment decisions rather than \"gut feel\" by mid-decade. \"Successful investors are purported to have a good 'gut feel'—the ability to make sound financial decisions from mostly qualitative ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
-      "originalUrl": "https://www.techrepublic.com/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/10/4f53375a-fe41-4d68-b005-f5f573203e57/resize/1200x/1bbf0c5a3a320b63f4a64ba225d240a5/metamorworks-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
-      "publishedDateTime": "2021-03-10T00:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-africa-the-ethics-of-ai-to-ensure-food-security-and-development.md",
-      "title": "Africa: The Ethics of AI to Ensure Food Security and Development",
-      "excerpt": "Opinion - One year after the call for a group of international and religious organizations and important multinational companies to incorporate ethics into the design of artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://allafrica.com/stories/202103100180.html",
-      "originalUrl": "https://allafrica.com/stories/202103100180.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-          "width": 664,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AllAfrica.com",
-        "domain": "allafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026.md",
-      "title": "Robotics Process Automation in Finance Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
-      "excerpt": "Global Robotics Process Automation in Finance Market is valued approximately USD 1.10 Billion in 2019 and is anticipated to grow with a healthy growth rate of more than 33.60% over the forecast period 2019-2026.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T23:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-department-says-detectives-used-facial-recognition-program.md",
-      "title": "Department says detectives used facial recognition program",
-      "excerpt": "Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report. In February 2020 and again in September,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/Department-says-detectives-used-facial-16014445.php",
-      "originalUrl": "https://www.chron.com/news/article/Department-says-detectives-used-facial-16014445.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/Department-says-detectives-used-facial-16014445.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Department-says-detectives-used-facial-16014445.php",
-      "publishedDateTime": "2021-03-09T23:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

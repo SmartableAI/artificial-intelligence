@@ -1,27 +1,31 @@
 ---
 category: news
 title: "IBM Positioned as a Leader in Two Newly Released Gartner Magic Quadrant Reports"
-excerpt: "IBM (NYSE: IBM) today announced that global research firm Gartner has positioned IBM as a Leader in two newly published Gartner Magic"
-publishedDateTime: 2021-03-11T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-301245197.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-301245197.html"
+excerpt: "IBM designed IBM Watson Studio on IBM Cloud Pak for Data to provide end-to-end AI lifecycle management for both experts and citizen data scientists and developers, and it provides strong support ..."
+publishedDateTime: 2021-03-11T13:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-1030173124"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-1030173124"
 type: article
-quality: 20
-heat: -1
-published: false
+quality: 50
+heat: 80
+published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
@@ -60,6 +64,6 @@ related:
         height: 480
         isCached: true
 
-secured: "QLA6wslnOjblhAX6pTnIaZ4Ek9NXcqpMaGahsd7LYszRbFJXRHPvcPb/R4WtkMNZZnr34JggQ3lZ6EIxkBr2oPpVL0WBXmTkcFeI2KynM6EQcsYXLB9r77M0yjEwzOcwhM68XXNvZUhGhd0QmkDiZd5YRvTpQQuCGrIO8HwUOvfYt+ucvu1j5vkY0q8XeR2Xzd9LhMnCvuI0YjKVobrgbGTKxKUcz5Jaotd84DeHNW1rX0ndIy9xDAjNOiAm1+DeKjLTEZjkhViioSK7vB9bTSt4cjcbwofQ7YGKoUepkigz39BZd2UpFM7atDpWqTcIuXq5SdwT0GuoJ0k9sZoUZxRBNC/lK/45IF5BnWrZA4M=;QnQqB/V7M2bx6iAH4F+IXw=="
+secured: "bQ/DE/LlLJHdqGR+IGHnQCm7Cn2y7wHIYZoTWQO9yBbZk+IRPyl6H/8G2xQ2mJpO6Z4pyHjWmw9hn8+plkJ86awkOXfnZSZxpxDjvtqWz36CBAtANfs7Yl1YoYEXbpvULOJ8IfEGJvJJBzPMtrLN16ENHCKo1No+AGIh9ZEHr3jlsMrePCoQ7RhM76hrg/HBonYgIdcWxgVEtfgkNvFp8bHEDXXDFotzQgDptp9mJvcbZYWWwJUlSwgo+MtXirByYprGxb1mlmS4A7Jlw9LuV+wmFzm4V/d8thX1bgeGlvzbtuY5G5kaVhorPvSdWItap0xAGYGCcP285G1kCZ5cJisNlZN3frQ9Yiro8aR0MwI=;YxJcKqQS1ieWC8lpI6BYag=="
 ---
 

@@ -2,6 +2,205 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-02-24-healthcare-natural-language-processing-nlp-market-size-growth-share-2021-global-trends-global-industry-key-players-regional-forecast-to.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Size, Growth, Share 2021 Global, Trends, Global Industry Key Players, Regional Forecast To 2024",
+      "excerpt": "\"The report elaborates the Healthcare Natural Language Processing (NLP) Market overview. Various definitions and classification of the industry, applications of the industry and chain structure ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101650422/Healthcare-Natural-Language-Processing-NLP-Market-Size-Growth-Share-2021-Global-Trends-Global-Industry-Key-Players-Regional-Forecast-To-2024",
+      "originalUrl": "https://menafn.com/1101650422/Healthcare-Natural-Language-Processing-NLP-Market-Size-Growth-Share-2021-Global-Trends-Global-Industry-Key-Players-Regional-Forecast-To-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-ai-can-write-a-passing-college-paper-in-20-minutes.md",
+      "title": "AI can write a passing college paper in 20 minutes",
+      "excerpt": "AI can do a lot of things extremely well. One thing that it can do just okay -- which, frankly, is still quite extraordinary -- is write college term papers. That's the finding from EduRef, a resource for students and educators,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "originalUrl": "https://www.zdnet.com/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/24/ee4bf386-5431-4696-8897-c9f962b8826d/term-paper.jpg",
+          "width": 1024,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "publishedDateTime": "2021-02-24T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-deep-learning-with-tensorflow-certification-training-course.md",
+      "title": "Deep Learning with TensorFlow Certification Training Course",
+      "excerpt": "IgmGuru takes great pride in introducing the well-curated deep learning with tensorflow course in which industry leaders and academia has been consulted while preparing this course. IgmGuru is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777546",
+      "originalUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777546",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777546/m-lite",
+      "cdnAmpWebUrl": "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777546/m-lite",
+      "publishedDateTime": "2021-02-24T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Speaking Tree",
+        "domain": "speakingtree.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-how-ucls-groundbreaking-ai-research-became-entangled-in-facebooks-net.md",
+      "title": "How UCL's groundbreaking AI research became entangled in Facebook's net",
+      "excerpt": "Through a series of acquisitions, professorships and industry partnerships, the university's computer science department has been drawn closer to the",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsoneplace.com/8976762012/ucl-ai-facebook-groundbreaking-entangled",
+      "originalUrl": "https://www.newsoneplace.com/8976762012/ucl-ai-facebook-groundbreaking-entangled",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2021/03/gettyimages-512015586.jpg?itok=8De0ffRv",
+          "width": 4500,
+          "height": 3014,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsoneplace.com",
+        "domain": "newsoneplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-2021-artificial-intelligence-ai-chips-market-opportunities-analysis-future-and-forecast-by-key-players-products-types-and-applications.md",
+      "title": "2021 Artificial Intelligence (AI) Chips Market Opportunities, Analysis, Future and Forecast| by Key Players, Products, Types and Applications",
+      "excerpt": "Artificial Intelligence (AI) Chips are special silicon chips, programmed for machine learning. AI Chips can process vast amount of data, identify the underlying patterns, interpret the trends and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
+      "originalUrl": "https://www.openpr.com/news/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
+      "publishedDateTime": "2021-02-24T03:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.md",
       "title": "3 kinds of bias in AI models — and how we can address them",
       "excerpt": "When both humans and AI models have basic information like gender ... For instance, ML models trained to perform language translation tasks tended to associate female names with attributes like “parents” and “weddings,” while male names had ...",
@@ -927,239 +1126,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-why-its-time-to-hone-your-emotional-intelligence.md",
-      "title": "Why It's Time to Hone Your Emotional Intelligence",
-      "excerpt": "To succeed in the future, advisors won't need to compete with AI; they'll collaborate with it to enhance their client relationships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cutimes.com/2021/02/24/why-its-time-to-hone-your-emotional-intelligence-413-175592/",
-      "originalUrl": "https://www.cutimes.com/2021/02/24/why-its-time-to-hone-your-emotional-intelligence-413-175592/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cutimes.com/contrib/content/uploads/sites/413/2020/02/Robot_Human_Handshake_MI600.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cutimes.com/2021/02/24/why-its-time-to-hone-your-emotional-intelligence-413-175592/?amp=1",
-      "cdnAmpWebUrl": "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/02/24/why-its-time-to-hone-your-emotional-intelligence-413-175592/?amp=1",
-      "publishedDateTime": "2021-02-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Credit Union Times",
-        "domain": "cutimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon.md",
-      "title": "SoundCommerce raises $15 million for big data insights that help retailers compete with Amazon",
-      "excerpt": "SoundCommerce, a platform that unifies retailers' data from across multiple systems to deliver insights, has raised $15 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/23/soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon/",
-      "originalUrl": "https://venturebeat.com/2021/02/23/soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/SoundCommerce-Delivery-KPI.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/23/soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon/amp/",
-      "publishedDateTime": "2021-02-23T15:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-facebook-announces-1m-for-ai-research-programme-in-uk.md",
-      "title": "Facebook announces £1m for AI research programme in UK",
-      "excerpt": "Facebook has announced a £1 million investment for its first PhD programme in the UK, which will fund research into artificial intelligence (AI) as part of a scheme with University College London ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.irishnews.com/magazine/technology/2021/02/23/news/facebook-announces-1m-for-ai-research-programme-in-uk-2233852/",
-      "originalUrl": "https://www.irishnews.com/magazine/technology/2021/02/23/news/facebook-announces-1m-for-ai-research-programme-in-uk-2233852/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.irishnews.com/picturesarchive/irishnews/irishnews/2021/02/23/211045105-196119ca-f11d-4000-a7a9-b82d08210d4b.jpg",
-          "width": 900,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Irish News",
-        "domain": "irishnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world.md",
-      "title": "Thomson Reuters to stress AI, machine learning in a post-pandemic world",
-      "excerpt": "Thomson Reuters Corp will streamline technology, close offices and rely more on machines to prepare for a post-pandemic world, the news and information group said on Tuesday, as it reported higher sales and operating profit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world-idUSKBN2AN12M?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world-idUSKBN2AN12M?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552588578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M0MG",
-          "width": 848,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AN12M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AN12M",
-      "publishedDateTime": "2021-02-23T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-measuring-hemoglobin-levels-with-ai-microscope-microfluidic-chips.md",
-      "title": "Measuring hemoglobin levels with AI microscope, microfluidic chips",
-      "excerpt": "The hemoglobin testing solution is possible thanks to the design behind the microfluidic chip, a customized biochemical reagent, optimized imaging, and an image analysis procedure specifically ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-02-hemoglobin-ai-microscope-microfluidic-chips.html",
-      "originalUrl": "https://phys.org/news/2021-02-hemoglobin-ai-microscope-microfluidic-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/measuringhem.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-02-hemoglobin-ai-microscope-microfluidic-chips.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-hemoglobin-ai-microscope-microfluidic-chips.amp",
-      "publishedDateTime": "2021-02-23T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

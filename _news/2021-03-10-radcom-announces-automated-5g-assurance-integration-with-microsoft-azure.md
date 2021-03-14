@@ -41,20 +41,6 @@ related:
         width: 450
         height: 601
         isCached: true
-  - title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
-    excerpt: "said Sahir Anand, Principal, Industry Lead – Microsoft Azure Cloud+AI for Retail & CPG at Microsoft. Bringoz is a SaaS-based delivery logistics platform that provides shippers & carriers an end-to-end, scalable delivery infrastructure. Bringoz is a ..."
-    publishedDateTime: 2021-03-09T16:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "Zuzp2LqDAoWgvJST1xes3Bv4f8tjPTAx88WR24/6gQbr6u9bFMZiWbux9M+cUStQ31/SaiEf/n/LcvRUWI9QMSYcxgnbIDuLYLaEL7SmCscUjn1x+iHXDb2LnLtJIxlk8fN7mKtR+k9SgnRC3+ob0t0ObLHX60y0DMwpEg1KMEv6HPgz+Db9s+1bIzkw6/Lwork4bCFoSHIozfqIzGf7w5nzMX7BOUiLhEwrhZhL5dDLiI1viY8aluCTlli0G5aEN8QZePCg0REYsmx7bX5iBObvKv92TCTFbso8U9THY4IfQFIGNg2F64RMQDYvNy2wzWSz5ZMY1N4vPLmuo4sj9SoOouX5hExbTddEkjco5KE=;edTXNC1eEnHc2wWBMlNoIw=="
 ---

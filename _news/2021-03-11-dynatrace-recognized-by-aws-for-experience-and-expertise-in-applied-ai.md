@@ -41,6 +41,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "CBSE launches Artificial Intelligence community for students to enhance AI skills"
+    excerpt: "The Central Board of Secondary Education (CBSE) has recently announced that it will be launching an artificial intelligence platform for students across the country called ‘AI Student Community’, in collaboration with the technology company Intel."
+    publishedDateTime: 2021-03-14T08:29:00Z
+    webUrl: "https://www.indiatoday.in/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14"
+    ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 67
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/laptop-work-1148958_1280-647x363.jpeg?vB5lrJ2V0I9bDSCDYDyIVhlAhvoO.B8G"
+        width: 647
+        height: 363
+        isCached: true
   - title: "10 Powerful Ways To Use Artificial Intelligence In eCommerce"
     excerpt: "There are a number of great benefits of using artificial intelligence in eCommerce for data-driven online stores."
     publishedDateTime: 2021-03-10T11:24:00Z

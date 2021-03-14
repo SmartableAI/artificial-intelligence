@@ -2,6 +2,197 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-10-gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade.md",
+      "title": "Gartner: AI and data science to drive investment decisions rather than \"gut feel\" by mid-decade",
+      "excerpt": "A new Gartner report predicts that AI and data science to drive investment decisions rather than \"gut feel\" by mid-decade. \"Successful investors are purported to have a good 'gut feel'—the ability to make sound financial decisions from mostly qualitative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
+      "originalUrl": "https://www.techrepublic.com/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/10/4f53375a-fe41-4d68-b005-f5f573203e57/resize/1200x/1bbf0c5a3a320b63f4a64ba225d240a5/metamorworks-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
+      "publishedDateTime": "2021-03-10T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-africa-the-ethics-of-ai-to-ensure-food-security-and-development.md",
+      "title": "Africa: The Ethics of AI to Ensure Food Security and Development",
+      "excerpt": "Opinion - One year after the call for a group of international and religious organizations and important multinational companies to incorporate ethics into the design of artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://allafrica.com/stories/202103100180.html",
+      "originalUrl": "https://allafrica.com/stories/202103100180.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+          "width": 664,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T23:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AllAfrica.com",
+        "domain": "allafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026.md",
+      "title": "Robotics Process Automation in Finance Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
+      "excerpt": "Global Robotics Process Automation in Finance Market is valued approximately USD 1.10 Billion in 2019 and is anticipated to grow with a healthy growth rate of more than 33.60% over the forecast period 2019-2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-department-says-detectives-used-facial-recognition-program.md",
+      "title": "Department says detectives used facial recognition program",
+      "excerpt": "Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report. In February 2020 and again in September,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/news/article/Department-says-detectives-used-facial-16014445.php",
+      "originalUrl": "https://www.chron.com/news/article/Department-says-detectives-used-facial-16014445.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/news/amp/Department-says-detectives-used-facial-16014445.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Department-says-detectives-used-facial-16014445.php",
+      "publishedDateTime": "2021-03-09T23:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful.md",
       "title": "Startup uses NLP and AI to make software security reviews less painful",
       "excerpt": "Apiiro creates user profiles and analyzes a company's code base to spot high-risk changes and replace manual risk assessments with on-the-fly analysis. Drupal at 20: Creator Dries Buytaert shares lessons from two decades as an open-source leader 40:19 ...",
@@ -63,7 +254,7 @@
       "originalUrl": "https://www.marketwatch.com/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -243,6 +434,49 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-and-bengio.md",
+      "title": "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio",
+      "excerpt": "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
+      "publishedDateTime": "2021-03-09T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -986,262 +1220,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-zeni-raises-135m-to-automate-bookkeeping-with-ai.md",
-      "title": "Zeni raises $13.5M to automate bookkeeping with AI",
-      "excerpt": "Zeni, a startup providing AI-powered financial services management to startups, has raised $13.5 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/big-fat-document.jpg?w=1200&strip=all",
-          "width": 999,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/amp/",
-      "publishedDateTime": "2021-03-09T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises.md",
-      "title": "VMware and Nvidia launch GPU virtualization platform for enterprises",
-      "excerpt": "VMware and Nvidia deliver on promise to enable GPUs to run multiple workloads using VMware vSphere virtual machine software.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/NVIDIA-VMwareAI-ReadyPlatform.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
-      "publishedDateTime": "2021-03-09T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform.md",
-      "title": "Ibex Medical Analytics raises $38M for its AI-powered cancer diagnostic platform",
-      "excerpt": "Israel-based Ibex Medical Analytics, which has an AI-driven imaging technology to detect cancer cells in biopsies more efficiently, has raised a $38 million Series B financing round led by Octopus Ventures and 83North.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/",
-      "originalUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Ibex-Co-Founders-Joseph-Mossel-CEO-L-and-Chaim-Linhart-CTO-R.jpg?w=757",
-          "width": 757,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/",
-      "publishedDateTime": "2021-03-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-reimagining-digital-governance-with-artificial-intelligence-and-iot.md",
-      "title": "Reimagining Digital Governance With Artificial Intelligence And IoT",
-      "excerpt": "When choosing workers, look for those who possess the ability to perform critical cross-platform developments and manage multiple release cycles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd921f231029bc6eaa81aa1%2F0x0.jpg%3FcropX1%3D1017%26cropX2%3D9853%26cropY1%3D0%26cropY2%3D4968",
-          "width": 1200,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/amp/",
-      "publishedDateTime": "2021-03-09T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-kpmg-ai-adoption-is-accelerating-in-the-pandemic.md",
-      "title": "KPMG: AI adoption is accelerating in the pandemic",
-      "excerpt": "KPMG survey finds increased reliance on AI across a wide range of sectors in the wake of the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/kpmg-ai-adoption-is-accelerating-in-the-pandemic/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/kpmg-ai-adoption-is-accelerating-in-the-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/KPMG-Thriving_Chart-1564x880_Rate.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/kpmg-ai-adoption-is-accelerating-in-the-pandemic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/kpmg-ai-adoption-is-accelerating-in-the-pandemic/amp/",
-      "publishedDateTime": "2021-03-09T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

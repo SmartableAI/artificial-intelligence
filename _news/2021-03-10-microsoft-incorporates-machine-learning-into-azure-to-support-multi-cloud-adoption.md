@@ -68,20 +68,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Claim Genius AI Claims Solutions Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Claim Genius AI Claims technology to automate and accelerate the processing of auto claims"
-    publishedDateTime: 2021-03-09T15:02:00Z
-    webUrl: "https://www.wboc.com/story/43468926/claim-genius-ai-claims-solutions-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 64
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Intel And Microsoft Work With DARPA To Solve Biggest Analytics and AI At Scale Problem"
     excerpt: "Getting secure global data access to data is a key problem. This problem came up early on as the industry spun up advanced Supercomputers and AI systems Intel and Microsoft, working with DARPA, are beginning a process that will create an ASIC-based solution that can work across borders to enable the secure analysis of data wherever it resides in the world."
     publishedDateTime: 2021-03-11T22:51:00Z

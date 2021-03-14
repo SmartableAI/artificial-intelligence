@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: ZDNet
@@ -25,17 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio"
-    excerpt: "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,"
-    publishedDateTime: 2021-03-09T15:52:00Z
-    webUrl: "https://www.zdnet.com/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "NVIDIA CEO Jensen Huang will host AI pioneers YoshuaBengio, Geoffrey Hinton and Yann LeCun and others at GTC21"
     excerpt: "Research Engineer, Facebook • Rene Haas, President, IP Products Group, Arm • Ganesh Harinath, VP Engineering, 5G MEC, AI Platforms, Verizon • Daphne Koller, Founder and CEO, Insitro; Co-Founder, Coursera • Jesse Levinson, Co-Founder and CTO ..."
     publishedDateTime: 2021-03-10T09:29:00Z

@@ -2,6 +2,247 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-25-amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products.md",
+      "title": "Amazon launches computer vision service to detect defects in manufactured products",
+      "excerpt": "Amazon today announced the general availability of Amazon Lookout for Vision, a cloud service that analyzes images using computer vision and AI to spot product or process defects and anomalies in manufactured products.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/",
+      "originalUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/amp/",
+      "publishedDateTime": "2021-02-24T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.md",
+      "title": "Using machine learning to identify blood biomarkers for early diagnosis of autism",
+      "excerpt": "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Autism-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx",
+      "publishedDateTime": "2021-02-24T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-britains-gchq-cyber-spies-embrace-the-ai-revolution.md",
+      "title": "Britain's GCHQ Cyber Spies Embrace the AI Revolution",
+      "excerpt": "Britain's cyber spies at the GCHQ eavesdropping agency say they have fully embraced artificial intelligence (AI) to uncover patterns in vast amounts of global data to counter hostile disinformation and snare child abusers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution",
+      "originalUrl": "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution?context=amp",
+      "publishedDateTime": "2021-02-24T14:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-why-driverless-cars-are-paradise-on-wheels-for-some.md",
+      "title": "Why driverless cars are paradise on wheels for some",
+      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=retirement",
+      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=retirement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-301724/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027.md",
+      "title": "Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027",
+      "excerpt": "Selbyville, Delaware The report for Artificial Intelligence (AI) in Retail Market offers an assiduous analysis",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027-2021-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027-2021-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-researchers-use-machine-learning-to-identify-autism-blood-biomarkers.md",
       "title": "Researchers use machine learning to identify autism blood biomarkers",
       "excerpt": "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,",
@@ -995,205 +1236,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-healthcare-natural-language-processing-nlp-market-size-growth-share-2021-global-trends-global-industry-key-players-regional-forecast-to.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market Size, Growth, Share 2021 Global, Trends, Global Industry Key Players, Regional Forecast To 2024",
-      "excerpt": "\"The report elaborates the Healthcare Natural Language Processing (NLP) Market overview. Various definitions and classification of the industry, applications of the industry and chain structure ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101650422/Healthcare-Natural-Language-Processing-NLP-Market-Size-Growth-Share-2021-Global-Trends-Global-Industry-Key-Players-Regional-Forecast-To-2024",
-      "originalUrl": "https://menafn.com/1101650422/Healthcare-Natural-Language-Processing-NLP-Market-Size-Growth-Share-2021-Global-Trends-Global-Industry-Key-Players-Regional-Forecast-To-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-ai-can-write-a-passing-college-paper-in-20-minutes.md",
-      "title": "AI can write a passing college paper in 20 minutes",
-      "excerpt": "AI can do a lot of things extremely well. One thing that it can do just okay -- which, frankly, is still quite extraordinary -- is write college term papers. That's the finding from EduRef, a resource for students and educators,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
-      "originalUrl": "https://www.zdnet.com/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/24/ee4bf386-5431-4696-8897-c9f962b8826d/term-paper.jpg",
-          "width": 1024,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
-      "publishedDateTime": "2021-02-24T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-deep-learning-with-tensorflow-certification-training-course.md",
-      "title": "Deep Learning with TensorFlow Certification Training Course",
-      "excerpt": "IgmGuru takes great pride in introducing the well-curated deep learning with tensorflow course in which industry leaders and academia has been consulted while preparing this course. IgmGuru is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777546",
-      "originalUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777546",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777546/m-lite",
-      "cdnAmpWebUrl": "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777546/m-lite",
-      "publishedDateTime": "2021-02-24T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Speaking Tree",
-        "domain": "speakingtree.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-how-ucls-groundbreaking-ai-research-became-entangled-in-facebooks-net.md",
-      "title": "How UCL's groundbreaking AI research became entangled in Facebook's net",
-      "excerpt": "Through a series of acquisitions, professorships and industry partnerships, the university's computer science department has been drawn closer to the",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsoneplace.com/8976762012/ucl-ai-facebook-groundbreaking-entangled",
-      "originalUrl": "https://www.newsoneplace.com/8976762012/ucl-ai-facebook-groundbreaking-entangled",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2021/03/gettyimages-512015586.jpg?itok=8De0ffRv",
-          "width": 4500,
-          "height": 3014,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsoneplace.com",
-        "domain": "newsoneplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-2021-artificial-intelligence-ai-chips-market-opportunities-analysis-future-and-forecast-by-key-players-products-types-and-applications.md",
-      "title": "2021 Artificial Intelligence (AI) Chips Market Opportunities, Analysis, Future and Forecast| by Key Players, Products, Types and Applications",
-      "excerpt": "Artificial Intelligence (AI) Chips are special silicon chips, programmed for machine learning. AI Chips can process vast amount of data, identify the underlying patterns, interpret the trends and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
-      "originalUrl": "https://www.openpr.com/news/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2247889/2021-artificial-intelligence-ai-chips-market-opportunities",
-      "publishedDateTime": "2021-02-24T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -21,61 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Chip Market Size Outlook 2026: Top Companies, Trends, Growth Factors Details by Regions, Types and Applications"
-    excerpt: "Selbyville, Delaware. Artificial Intelligence Chip market aims to decode lucrative investment opportunities in"
-    publishedDateTime: 2021-03-09T17:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-outlook-2026-top-companies-trends-growth-factors-details-by-regions-types-and-applications-2021-03-09"
+  - title: "GPU Market Size Will Reach USD 200.85 Billion By 2027 at a CAGR of 33.6% - Valuates Reports"
+    excerpt: "Graphic Processing Unit Market is Segmented by Type (Dedicated, Integrated, and Hybrid), Device (Computer, Tablet, Smartphone, Gaming"
+    publishedDateTime: 2021-03-10T02:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/gpu-market-size-will-reach-usd-200-85-billion-by-2027-at-a-cagr-of-33-6-valuates-reports-861850700.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 29
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market Share Growing Rapidly with Recent Trends and Outlook 2020 – 2027"
-    excerpt: "Strong emphasis on product pricing, production capability and the inclusion of state-of-the-art technology to boost"
-    publishedDateTime: 2021-03-13T17:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-share-growing-rapidly-with-recent-trends-and-outlook-2020-2027-2021-03-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Automotive Artificial Intelligence Market Share, Growth, Size, Trends, Revenue, Regional Segmentation, Key Competitors & 2021-2027"
-    excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
-    publishedDateTime: 2021-03-12T19:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-share-growth-size-trends-revenue-regional-segmentation-key-competitors-2021-2027-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market Report 2021 | Size, Share, Latest Development, Trends, Top Key Players and Outlook 2026"
-    excerpt: "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020.According to IMARC Group's latest report, titled 'Artificial Intelligence (AI) Market : Industry Trends, Share, Size,"
-    publishedDateTime: 2021-03-12T06:53:00Z
-    webUrl: "https://menafn.com/1101739821/Artificial-Intelligence-AI-Market-Report-2021-Size-Share-Latest-Development-Trends-Top-Key-Players-and-Outlook-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?394745"
-        width: 338
-        height: 250
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
         isCached: true
 
 secured: "4doyq5r4KO8lL0GKMjgRXH3ThzzbJD9+twrracAvBPwoEfPWxK93uRiCidgLD851qVJPf7/PWJvOipTmyRPPd+pKDN9zamiUI1BUMtAfuy5RFeyNSOkFXt/xaJrRehoEwFmYvB2rPqD8r2AsNlG08Foh1Mw8FAqcRRrEhnN9skVXf1u1ai4GZnqA6M1IdG6F+Bny4FlccqudKBH6w3m5C9jM+jyqNq9HZdXeIIMI8hGMr0MdS1YBCDr+USEZfaY5pyNNZAXBL7O4Ak3KbzBX84GQS0u8XZd0FI4+3pWJnMayIpBIQ1PctQ5DzxgycGSxXa3HE6l6MhemrhwJfwOXIU4246rW14Eyn3ZXVykcso4=;YzS7vbr2Yn1zl247rdB9CQ=="

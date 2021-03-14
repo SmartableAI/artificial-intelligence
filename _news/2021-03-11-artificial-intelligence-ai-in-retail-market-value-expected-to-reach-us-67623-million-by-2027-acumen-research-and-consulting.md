@@ -71,6 +71,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Automotive Artificial Intelligence Market Share, Growth, Size, Trends, Revenue, Regional Segmentation, Key Competitors & 2021-2027"
+    excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
+    publishedDateTime: 2021-03-12T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-share-growth-size-trends-revenue-regional-segmentation-key-competitors-2021-2027-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Market Report 2021 | Size, Share, Latest Development, Trends, Top Key Players and Outlook 2026"
+    excerpt: "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020.According to IMARC Group's latest report, titled 'Artificial Intelligence (AI) Market : Industry Trends, Share, Size,"
+    publishedDateTime: 2021-03-12T06:53:00Z
+    webUrl: "https://menafn.com/1101739821/Artificial-Intelligence-AI-Market-Report-2021-Size-Share-Latest-Development-Trends-Top-Key-Players-and-Outlook-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 28
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?394745"
+        width: 338
+        height: 250
+        isCached: true
 
 secured: "2DuaIRB/D440nuKQYV/DoFakYD/9KjJol/sIFZEC2o8DrkrSTxFhyUe9A7JPx3pt2AOyeC1Nvt6nTEwaEywHVQ5R3qwc87HhmaPqjmgAqhCQSS5e5dNEREgk5RT0OeDimBr0i1OKWShBU6kd1yvUrY3BUWBjG9NY+GwlIwYbRae3dRESwN688IaPdf4wK443tfmhVYDYhLjlR/qq/12nXIcTZMcO9Tou6fb99skcm+iZYGwWj1ta5tno51CVvKbwwWNk42l+tgA6YnSaxr3WFa2qUvc3DnrA88dikNmUMfeAmnJ8FPagJc6okD2FmltLtmoIAiCzRoAN8TKAJbqQS6/+mlk+YE6vHe7K2FgR4MA=;3mllBv6E4Y0k/euik7G/DA=="
 ---

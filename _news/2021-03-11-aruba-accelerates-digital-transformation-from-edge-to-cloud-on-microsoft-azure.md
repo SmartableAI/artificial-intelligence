@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
-    excerpt: "said Sahir Anand, Principal, Industry Lead – Microsoft Azure Cloud+AI for Retail & CPG at Microsoft. Bringoz is a SaaS-based delivery logistics platform that provides shippers & carriers an end-to-end, scalable delivery infrastructure. Bringoz is a ..."
-    publishedDateTime: 2021-03-09T16:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "WalWwITkk9QNeVwvDJLaKW8LGhRkF+Fs2NCHr5rkBblHH1BHCej9InQhNGvATz9HoKlJMPKkKz8Nmv15Zk9hGBeMaH1vGb4kEWU8ai4m9Ykw4Iyg23EcAEX4NRHJGi5Wij4GZwsN0uraMs60s9vD4ceIw8Vt+/K5fUPPcYaz6PLwYPqx3v/SznXYh0kKGCUwX5VRqyoWYPvGpa+aycWwHQcBffB546YEuPVTYHa5zLLuyKZjvb2WmeSlaAx9wc+E77dD+di1t/1CbwG8nmOMcyBkVzs/iMp7b6SaW4GmrY98raOrpemt4UqFtGMA6B9ZUWHSUT5Bw5bg2JFlndaDj1QC7caxg+UCjWR115wubSU=;LfCBBxElllFL+g//cU+fcg=="

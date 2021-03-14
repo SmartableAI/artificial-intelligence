@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-25-researchers-use-machine-learning-to-identify-autism-blood-biomarkers.md",
+      "title": "Researchers use machine learning to identify autism blood biomarkers",
+      "excerpt": "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/bloodtest.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
+      "publishedDateTime": "2021-02-24T13:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-interested-in-ai-master-deep-learning-get-nlp-certified.md",
       "title": "Interested In AI? Master Deep Learning & Get NLP Certified",
       "excerpt": "The world of artificial intelligence (AI) is revolutionizing the way we live, though it has become something of an acronym soup. From DL to ML, SSD to CN",
@@ -1393,50 +1436,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-deep-learning-and-future-of-healthcare.md",
-      "title": "Deep Learning and Future of Healthcare",
-      "excerpt": "Deep Learning and Future of Healthcare By Sanjib Basak, Former Director of Data Science & Artificial Intelligence, Carlson Wagonlit Travel - As Artificial Intelligence (AI) gains popularity in the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-healthcare-nid-27230-cid-212.html",
-      "originalUrl": "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-healthcare-nid-27230-cid-212.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/newsimages/special/BYa6ufyT.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T18:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
