@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-suppo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Splice Machine Releases Real-Time AI Enhancements to its Database Platform"
-    excerpt: "Splice Machine, provider of the real-time AI platform built on a scale-out SQL database with built-in machine learning, is releasing version 3.1 of its database, introducing new features and functionality to support enterprises with real-time AI projects."
-    publishedDateTime: 2021-03-09T14:51:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Splice-Machine-Releases-Real-Time-AI -Enhancements-to-its-Database-Platform-145649.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Splice Machine Announces New Capabilities to Support Real-Time AI with Version 3.1 of its Scale-Out SQL Database"
     excerpt: "Splice Machine, provider of the real-time AI platform built on the only scale-out SQL database with built-in machine learning, today announced version 3.1 of its database, which introduces new features and functionality to support enterprises with real-time AI projects."
     publishedDateTime: 2021-03-09T15:41:00Z

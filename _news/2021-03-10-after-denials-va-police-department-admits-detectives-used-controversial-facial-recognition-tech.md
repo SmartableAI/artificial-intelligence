@@ -101,22 +101,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Virginia Beach police admit officers tried a controversial facial recognition program the force had denied using"
-    excerpt: "Detectives used an app by Clearview, which offers free trials in an effort to hook departments. Because of the controversy, a supervisor rejected the detectives' request to sign up for the paid version."
-    publishedDateTime: 2021-03-09T13:16:00Z
-    webUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-beach-police-clearview-20210309-7lps2uk3ovgexlaxim7zik6lw4-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-beach-police-clearview-20210309-7lps2uk3ovgexlaxim7zik6lw4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-virginia-beach-police-clearview-20210309-7lps2uk3ovgexlaxim7zik6lw4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 38
-    images:
-      - url: "https://www.pilotonline.com/resizer/8fTiWpGgWOSG1BhHs4s6ujwgejI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5WLRVSAOHRA3ZOZLVOTB76XMZQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "BJsoQWAWKXdtfp5lJCr2eGBiQu9oYAoXCj+6l0Vxk5e0AezqD34WN7PqzPvqLHoQCL74BSaQD8zX9O6rDgFOY0kGFOsMHtKv71+M0X+TD/diYK7hqJV6RgfUKqsXvQ1cQ3ChaxihljDMyS8Pfbl467hxqh/xkZ+u0rGlxX3eHMO4GNWuxhncyVrDLUScxSMGIZE9uqadw5M2usKCW+Z5KC2OZvcl1QfY4GuaY4qDZk6CbL9/9fVnnFzNDNg1+ld16bzBa/qpj9+deUBBslZVO6ni/VaqeeHTiAGzbn+oI0dAe1SxRrKaiZg+nIjDq4wM9zCXaxtmh+qM7wkoDxm0b087ZBpok6R2T6hfNEIkWV4WfmtvKw+qEwGwAtDJY1eOiGkZ09OQ8Hw/6fkH9y6FzzayRmDV+gjlNWV68nyB8gtUNkKEu4BXhatxkZHdNFTwP3fW5Ql4oErhdcz4vfGzmOvef9D+Dafc4IfZFsZLEqTOozYe9anlAltTfBAcv8+DPAFnQ0V9u/GhwRCX3Sa6Iw==;9PutujmfZTTz8p+HPPc+cA=="
 ---

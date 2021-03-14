@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "VMware and Nvidia launch GPU virtualization platform for enterprises"
-    excerpt: "VMware and Nvidia deliver on promise to enable GPUs to run multiple workloads using VMware vSphere virtual machine software."
-    publishedDateTime: 2021-03-09T13:57:00Z
-    webUrl: "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/"
-    ampWebUrl: "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/NVIDIA-VMwareAI-ReadyPlatform.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Acer Nitro 5 with 144Hz display, NVIDIA GeForce RTX 3060 GPU launched in India"
-    excerpt: "Acer Nitro 5 is the latest gaming laptop from the band in the affordable Nitro series. Priced under Rs 90,000, the Acer Nitro 5 comes with NVIDIA GeForce RTX 3060 GPU, runs on Windows 10 OS out of the box and comes with a high refresh rate display,"
-    publishedDateTime: 2021-03-12T07:07:00Z
-    webUrl: "https://www.techradar.com/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
-    ampWebUrl: "https://www.techradar.com/amp/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 85
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/QKVQ47MGvwAfBnw7XZK8oP-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "VMware's vSphere software now certified to run Nvidia AI workloads"
     excerpt: "The new Nvidia software suite, officially named Nvidia AI Enterprise, aims to give enterprises the ability to develop AI software for a range of applications."
     publishedDateTime: 2021-03-10T02:05:00Z
@@ -95,6 +63,20 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/blue-green-abstract-tech_shutterstock-1471991357_700x.jpg"
         width: 700
         height: 414
+        isCached: true
+  - title: "NVIDIA Unveils AI Enterprise Software Suite to Help Every Industry Unlock the Power of AI"
+    excerpt: "Runs on VMware vSphere; Optimized, Certified and Supported by NVIDIA; Hundreds of Thousands of Customers in World’s Largest Industries Can Now Adopt NVIDIA AI"
+    publishedDateTime: 2021-03-10T06:46:00Z
+    webUrl: "https://www.cxotoday.com/press-release/nvidia-unveils-ai-enterprise-software-suite-to-help-every-industry-unlock-the-power-of-ai/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 30
+    images:
+      - url: "https://www.cxotoday.com/ashojoac/2021/03/image001.jpg"
+        width: 448
+        height: 333
         isCached: true
 
 secured: "r19eIBtACpqfX+mIf5te+ffWb8mWcBwZ2PEOP32q+9dOzngtsGflnpPbFvHw+n1srcJk0pwG+Xm7Ln2DuHWBgNAkcTTdgfnOhspZNGzvR4/WC3FOTICh+zvk8KkkcYhAWm6kqxU+i8A3yUUpASO2U59S0+HAJDpad7CuepvCmjr44VOh4O4Job6lzYNybtTT7tGHoPLeCt78Z+VPmmJQbtWtvylEk/sUGUOzqCPv/YMHh8hJPC+Xyz2ycDBkK5OXDP9s6NiIUWtKyXWSmxKm3mf+BNKoNKCYMW89O/0Yy3llhCT6XnG769VoFSwuSxrsiXMoxnJ+3yFSc0oKrypNwOE1rcE+iEf23OdRTglY7ROeuVL8Gn8ISDpkh43MQGPX9alhX9MxZyF5zOY3TQThBFFOcR7L0ANgOtQyG8oUxveUDyKWuISiSIEtUqvfl8472VCLFYfNGVubWCT+yuS6mD1iWOCXv2yjlcNaa+8rkTyKpY5UHskTqi0lfgf2Nl/jNxCC/A0J4+BuFHmAe70SuA==;Qg5a5Z8I+AFp6A6ERBj6Iw=="

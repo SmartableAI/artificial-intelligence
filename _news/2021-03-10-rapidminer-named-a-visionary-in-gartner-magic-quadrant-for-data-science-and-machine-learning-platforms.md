@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20082699"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20082699"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute."
-    publishedDateTime: 2021-03-09T13:37:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/science-technology-north-america-engineering-massachusetts-d175b277088b403aa7add2d32b6d91a2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "IBM Positioned as a Leader in Two Newly Released Gartner Magic Quadrant Reports"
     excerpt: "IBM (NYSE: IBM) today announced that global research firm Gartner has positioned IBM as a Leader in two newly published Gartner Magic"
     publishedDateTime: 2021-03-11T13:00:00Z

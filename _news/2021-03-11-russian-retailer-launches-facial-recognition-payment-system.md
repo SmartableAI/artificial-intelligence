@@ -87,22 +87,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Virginia Beach police admit officers tried a controversial facial recognition program the force had denied using"
-    excerpt: "Detectives used an app by Clearview, which offers free trials in an effort to hook departments. Because of the controversy, a supervisor rejected the detectives' request to sign up for the paid version."
-    publishedDateTime: 2021-03-09T13:16:00Z
-    webUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-beach-police-clearview-20210309-7lps2uk3ovgexlaxim7zik6lw4-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-beach-police-clearview-20210309-7lps2uk3ovgexlaxim7zik6lw4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-virginia-beach-police-clearview-20210309-7lps2uk3ovgexlaxim7zik6lw4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
-    quality: 38
-    images:
-      - url: "https://www.pilotonline.com/resizer/8fTiWpGgWOSG1BhHs4s6ujwgejI=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5WLRVSAOHRA3ZOZLVOTB76XMZQ.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "After denials, Va. police department admits detectives used controversial facial recognition tech"
     excerpt: "VIRGINIA BEACH, Va. (AP) — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a ..."
     publishedDateTime: 2021-03-10T15:40:00Z
