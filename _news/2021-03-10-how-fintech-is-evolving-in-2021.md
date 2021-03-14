@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -108,20 +108,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/08/Fintech-US-Department-of-Treasury-600x516.jpg"
         width: 600
         height: 516
-        isCached: true
-  - title: "Sontiq® Acquires Fintech Provider Breach Clarity"
-    excerpt: "Sontiq, the leader in Intelligent Identity Security(IIS), today announced it has acquired award-winning data breach intelligence fintech Breach Clarity. As a result of the acquisition, Sontiq’s products – IdentityForce,"
-    publishedDateTime: 2021-03-09T12:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-technology-computer-and-data-security-artificial-intelligence-331d85971c1a45389f1ee331f50d3610"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Compliance Fintech Smarsh Adds To Execs To Support Growth"
     excerpt: "Portland, Ore.-based compliance fintech Smarsh has announced the addition of two new executives to support its accelerating growth. Goutam Nadella has been named chief product officer, according to a company announcement."

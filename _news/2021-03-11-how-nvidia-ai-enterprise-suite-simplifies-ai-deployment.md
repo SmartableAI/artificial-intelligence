@@ -45,20 +45,6 @@ related:
         width: 903
         height: 564
         isCached: true
-  - title: "Artificial Intelligence Chips Market is in huge demand | Google, Intel, NVIDIA, Baidu"
-    excerpt: "The Global Artificial Intelligence Chips Market to witnessed good recovery in growth post first half of 2020 and"
-    publishedDateTime: 2021-03-09T12:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-is-in-huge-demand-google-intel-nvidia-baidu-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tuning Up Nvidia’s AI Stack To Run On Virtual Infrastructure"
     excerpt: "Having to install a new kind of systems software stack and create applications is hard enough. Having to master a new kind of hardware, and the management"
     publishedDateTime: 2021-03-12T12:31:00Z

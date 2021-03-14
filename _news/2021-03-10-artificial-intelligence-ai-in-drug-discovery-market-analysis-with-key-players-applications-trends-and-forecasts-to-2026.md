@@ -182,20 +182,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Far-Field Speech and Voice Recognition Market Size, Share, Future Challenges, Revenue, Demand, Opportunity, Analysis and Industry, Forecast 2025"
-    excerpt: "Far-field speech recognition is a crucial technology for speech communications and intends to allow smart devices to spot distant human speech. This revolution is related to numerous situations like smart home appliances,"
-    publishedDateTime: 2021-03-09T12:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-size-share-future-challenges-revenue-demand-opportunity-analysis-and-industry-forecast-2025-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HUqqBJp8AMxGkJhHPJytU1+hsgEPe0heT7eJusO+Mh/g5/s13i2E0VocZk4I1e5uVVyk8kx3gloExM06bHF5OZ/8qcg5wB/y8p328IF+K/wAxMyXoFEZ2nxJW0kAmURLbqKPSGpb2p+4OQJ6j7COpB9B5iC8LFuUiCWDTdmpW/VnS2bYV6lMHcDTSwetmGZezDno5FBMfZNo0oQyH6v0XCstktpJ+nRcJA+G9NZ5UQ470wA/6FwlmptlQCBR+zPf1hOMrCuuDv6D1kPL43+wyvXdQYkVK56zdqOxE4Uxfb0+z6RH/WkDeZHTjWSYXBh4p2iqMb1vYGnp4qjd36sB0FShV2HFJ1X+eBuexRdBo0Y=;YlLovmMmb2XrFlVEGlyLqA=="
 ---

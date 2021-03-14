@@ -119,20 +119,6 @@ related:
         width: 600
         height: 516
         isCached: true
-  - title: "Sontiq® Acquires Fintech Provider Breach Clarity"
-    excerpt: "Sontiq, the leader in Intelligent Identity Security(IIS), today announced it has acquired award-winning data breach intelligence fintech Breach Clarity. As a result of the acquisition, Sontiq’s products – IdentityForce,"
-    publishedDateTime: 2021-03-09T12:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-technology-computer-and-data-security-artificial-intelligence-331d85971c1a45389f1ee331f50d3610"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "FinTech Buddy Loan offers 2x higher disbursal rate on personal loan app"
     excerpt: "Bangalore-based FinTech start-up, Buddy Loan, a personal loan aggregator cofounded by entrepreneur duo Srikanth Bureddy and Satish Saraf, offers 2x higher disbursal rate than the industry standards through an Artificial Intelligence (AI) powered platform."
     publishedDateTime: 2021-03-12T07:54:00Z

@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-04-conocophillips-sparks-tooling-for-seismic-hpc-cloud-aiml.md",
+      "title": "ConocoPhillips Sparks Tooling For Seismic HPC, Cloud, AI/ML",
+      "excerpt": "Seismic processing and analysis at scale take scalable HPC resources but also need an analytics backend that can scale with massive datasets. And as if",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/",
+      "originalUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/shutterstock_571864537.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/amp/",
+      "publishedDateTime": "2021-03-03T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-nice-actimize-xceed-financial-crime-platform-gets-finastra-push.md",
       "title": "Nice Actimize Xceed financial crime platform gets Finastra push",
       "excerpt": "NICE Actimize, a NICE (Nasdaq: NICE) business, and the industry leader in financial crime and compliance solutions, today announced a partnership with Finastra, one of the world’s largest providers of financial technology solutions.",
@@ -1131,58 +1175,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center.md",
-      "title": "Deloitte partnering with NVIDIA to launch artificial intelligence computing center",
-      "excerpt": "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "originalUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "publishedDateTime": "2021-03-03T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

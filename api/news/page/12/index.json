@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-03-cisco-webex-aims-to-help-you-break-through-the-language-barrier.md",
+      "title": "Cisco Webex aims to help you break through the language barrier",
+      "excerpt": "Before a truly global, hybrid workforce can become a reality, language barriers first need to be eliminated which is why Cisco Webex is adding AI -powered, real-time translation to its video conferencing software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
+      "originalUrl": "https://www.techradar.com/in/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YxvvNThwqyZZZAbYACwvgB-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
+      "publishedDateTime": "2021-03-02T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise.md",
       "title": "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise",
       "excerpt": "The overall goal of the new platform is to give customers an end-to-end system from hardware to AI. Microsoft unveiled Azure Percept and a dev kit at Ignite. Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday.",
@@ -676,49 +728,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-microsofts-10-biggest-azure-announcements-at-ignite-2021.md",
-      "title": "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021",
-      "excerpt": "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/3",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg",
-          "width": 501,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -126,6 +126,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Intel And Microsoft Work With DARPA To Solve Biggest Analytics and AI At Scale Problem"
+    excerpt: "Getting secure global data access to data is a key problem. This problem came up early on as the industry spun up advanced Supercomputers and AI systems Intel and Microsoft, working with DARPA, are beginning a process that will create an ASIC-based solution that can work across borders to enable the secure analysis of data wherever it resides in the world."
+    publishedDateTime: 2021-03-11T22:51:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/intel-and-microsoft-work-with-darpa-to-solve-biggest-analytics-and-ai-at-scale-problem/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 48
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/02/storage.png"
+        width: 1400
+        height: 732
+        isCached: true
   - title: "Microsoft Azure MSP Acquires Software Development Company"
     excerpt: "Microsoft partner Atmosera has acquired Wintellect, an Atlanta, Georgia-based software development, Azure and IT training company."
     publishedDateTime: 2021-03-10T20:05:00Z

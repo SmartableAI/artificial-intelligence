@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-04-deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center.md",
+      "title": "Deloitte partnering with NVIDIA to launch artificial intelligence computing center",
+      "excerpt": "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "originalUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "publishedDateTime": "2021-03-03T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings.md",
       "title": "Microsoft launches ‘Group Transcribe,’ a transcription and translation app for in-person meetings",
       "excerpt": "A new project from Microsoft’s in-house incubator, Microsoft Garage, introduces a different take on meeting transcriptions. While today there are a number of real-time transcription apps to use on your phone — like Otter.",
@@ -1131,58 +1183,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-elon-musk-tesla-aims-to-release-new-version-of-full-self-driving-beta-next-month-with-wider-access.md",
-      "title": "Elon Musk: Tesla aims to release new version of Full Self-Driving Beta next month with wider access",
-      "excerpt": "Elon Musk says that Tesla aims to release new version of its Full Self-Driving Beta software with “Autosteer on city streets” next month, and it should come with a wider release to more customers. Back in October 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/",
-      "originalUrl": "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/",
-      "publishedDateTime": "2021-03-02T19:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

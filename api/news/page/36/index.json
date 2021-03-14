@@ -2,6 +2,57 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-02-12-what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money.md",
+      "title": "What if Artificial Intelligence Decided How to Allocate Stimulus Money?",
+      "excerpt": "New Treasury Department software points the way. But research suggests that it’s impossible to show that an artificial “superintelligence” can be contained.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-02-12/what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-02-12/what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idPjnJhMfI0M/v1/1200x772.jpg",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-photo-hoarding.md",
       "title": "Canon's New iOS App Uses AI To Marie Kondo Your Digital Photo Hoarding",
       "excerpt": "Even without the limits of a 36-shot roll of film or memory cards that quickly max out, it doesn’t take long to fill an iPhone and cloud storage with photos. So Canon has released an iOS app that can make the hard decisions for you when it’s time to clear out some memories using AI to objectively decide which shots aren’t worth keeping.",
@@ -1059,50 +1110,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-penn-state-covid-19-research-uses-artificial-intelligence.md",
-      "title": "Penn State COVID-19 research uses artificial intelligence",
-      "excerpt": "CENTRE COUNTY, Pa. (WTAJ) — 11 months ago today, the World Health Organization officially declared COVID-19 a global pandemic. Now, research out of Penn State University is shaping how",
-      "sourceUrl": null,
-      "webUrl": "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/",
-      "originalUrl": "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2021/01/b3b2ef8865ae4d82a998e7a873c4b268.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-02-11T15:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WEARECENTRALPA",
-        "domain": "wearecentralpa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

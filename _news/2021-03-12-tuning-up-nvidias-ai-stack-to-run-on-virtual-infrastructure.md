@@ -44,20 +44,6 @@ related:
         width: 903
         height: 564
         isCached: true
-  - title: "Artificial Intelligence Chips Market is in huge demand | Google, Intel, NVIDIA, Baidu"
-    excerpt: "The Global Artificial Intelligence Chips Market to witnessed good recovery in growth post first half of 2020 and"
-    publishedDateTime: 2021-03-09T12:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-is-in-huge-demand-google-intel-nvidia-baidu-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How NVIDIA AI Enterprise Suite Simplifies AI Deployment"
     excerpt: "GPU market leader and AI thought leader NVIDIA revealed its NVIDIA AI Enterprise, a comprehensive suite of enterprise-grade AI tools and frameworks. The software brings together everything a business would need to deploy an AI system and is optimized,"
     publishedDateTime: 2021-03-11T00:23:00Z

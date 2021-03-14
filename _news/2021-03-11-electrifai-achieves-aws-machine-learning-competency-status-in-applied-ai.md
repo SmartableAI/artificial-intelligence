@@ -1,23 +1,29 @@
 ---
 category: news
 title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2021-03-10T21:15:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
+excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
+publishedDateTime: 2021-03-11T06:43:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
 type: article
-quality: 50
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
@@ -64,14 +70,14 @@ related:
         isCached: true
   - title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
     excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
-    publishedDateTime: 2021-03-11T00:09:00Z
-    webUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+    publishedDateTime: 2021-03-10T22:02:00Z
+    webUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
+      name: FOX 40 WICZ TV
+      domain: wicz.com
     quality: 36
 
-secured: "zO/jX2KkG/99gzA125tNLt5LhhrmmkL03Sfq64S7RgEFJ8iohYuYb0pvzC8SST5PFB1J4T+goHNXSmorcK+J8eK4bXopoiwpCl+KljDZU637H8X6ClK87lZLabsknMrUnXKWioMpH2H2ln9EL22afqARTiQE1KDzPabvcHDIkRhAZagsB8xO3I5kg31GpPfV6S2ho+grQqvd9yCJcwwA00EaQSocPb6dF3+e8ec0NJ8aA8GZXNnZPPQPxXRKSmuxBq11UFGZUgyiTrRAl1Gvs33kWzMKIP11eNfe6yu6P/DsJX3LLPSK+xwkwVG2XbEDdzLxhH0gTP9Tdxxz5IVGRSjzqB4ThfggJBQKq9hqzsc=;6QtEkkTYO2zH/8ZAPzOD/g=="
+secured: "l+4ut1RaYiI6pr4nGBTEaOPW9A2T6fevgY0PnrjXR/J1iufMM00eydnLFI/gA8+mpjCM7wf+k3nmbTQvYNyLgSV+WZRH7zsqLktB7gu7kYs2dj7RMKxqNPkjmeb+QCqQBgRzOKg+Ibt7RmNkrNUxFLRldDi7NEKVsT8XF08gAbfQ6FtptC4/D38AMAmdJ8Cm9ee8S2IkZcUrWEbhIo0BLLdQ7jvEyetO9klypvtebc0/9sJ4vZsyqX3kRaq4c1vPPdai78EwOWxUAgne5bgtuQFf58tjtIm2edlX6fdLyGSSzMrzB5a+LjJ7TO3holTTW+6Ot2ESAdHHV9EHL29OEdA6bHTvclkzO7c3/gB20ig=;XGXVlg/4jEn2lPuf95QkVg=="
 ---
 

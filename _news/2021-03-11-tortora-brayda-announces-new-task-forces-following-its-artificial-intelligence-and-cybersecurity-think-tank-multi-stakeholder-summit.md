@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Cybersecurity startup ActZero announces its public launch with $40 million investment led by Point72 Hyperscale"
-    excerpt: "ActZero, a cybersecurity startup whose mission is to make cybersecurity accessible and scalable to small and mid-sized businesses by complementing managed detection and response services with artificial intelligence,"
-    publishedDateTime: 2021-03-09T12:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cybersecurity-startup-actzero-announces-its-public-launch-with-40-million-investment-led-by-point72-hyperscale-1030163145"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
   - title: "Cybersecurity Industry’s Most Comprehensive Guarantee and Warranty Announced by Deep Instinct and Backed by the Munich Re Group"
     excerpt: "Deep Instinct, the leader in deep learning-based cybersecurity, is the first company to back its product with a performance guarantee that ensures an incredibly low false positive rate, plus a ransomware warranty that is three times higher than any other ..."
     publishedDateTime: 2021-03-12T07:44:00Z

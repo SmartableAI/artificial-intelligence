@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Cybersecurity startup ActZero announces its public launch with $40 million investment led by Point72 Hyperscale"
-    excerpt: "ActZero, a cybersecurity startup whose mission is to make cybersecurity accessible and scalable to small and mid-sized businesses by complementing managed detection and response services with artificial intelligence,"
-    publishedDateTime: 2021-03-09T12:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/cybersecurity-startup-actzero-announces-its-public-launch-with-40-million-investment-led-by-point72-hyperscale-1030163145"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
   - title: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit"
     excerpt: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit SAN FRANCISCO (PRWEB)"
     publishedDateTime: 2021-03-11T13:05:00Z

@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-02-20-facebook-has-tentatively-friended-us-again-australia-says.md",
+      "title": "Facebook has 'tentatively friended' us again, Australia says",
+      "excerpt": "Facebook Inc is back at the negotiating table, Australian Prime Minister Scott Morrison said on Saturday after the tech giant this week blocked news o",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/articleshow/81121770.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/articleshow/81121770.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-81121800/81121800.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms",
+      "publishedDateTime": "2021-02-19T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-ex-google-engineer-anthony-levandowski-has-closed-his-artificial-intelligence-church.md",
       "title": "Ex-Google engineer Anthony Levandowski has closed his artificial intelligence church",
       "excerpt": "Anthony Levandowski, a former Google engineer convicted of stealing self-driving car secrets, is closing his artificial intelligence-focused church Way of the Future (WOTF), TechCrunch reports.",
@@ -1139,50 +1182,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-we-need-ethical-artificial-intelligence.md",
-      "title": "We Need Ethical Artificial Intelligence",
-      "excerpt": "leaving a trail of misadventures and tricky questions around the ethics of using synthetic intelligence. Sometimes, spotting and understanding the dilemmas AI presents is easy, but often it is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/information-management/we-need-ethical-artificial-intelligence/",
-      "originalUrl": "https://www.cmswire.com/information-management/we-need-ethical-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/474c7431a7734c14a0a206307b919050.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/information-management/we-need-ethical-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/we-need-ethical-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-02-19T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],
