@@ -106,6 +106,22 @@ related:
         width: 796
         height: 398
         isCached: true
+  - title: "Facebook will use your uploaded videos to improve its AI algorithms"
+    excerpt: "The company said it would help improve both its moderation efforts and recommendation engines for video.In its blog post, Facebook said the algorithms will learn 'themes' from the videos users watch a"
+    publishedDateTime: 2021-03-14T13:26:00Z
+    webUrl: "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms-11615727765901.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/03/14/600x338/4ee21dd9f024465c9886ff7b88ee0679-4ee21dd9f024465c9886ff7b88ee0679-0_1615727938422_1615728025114.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Facebook’s computer vision system supervises its own learning process"
     excerpt: "Facebook AI researchers wrote in a blog that they have developed SEER (SElf-supERvised). This is one-of-a-kind billion-parameter self-supervised computer vision model. This model has all the potential to learn from any random group of images on the internet."
     publishedDateTime: 2021-03-13T17:53:00Z

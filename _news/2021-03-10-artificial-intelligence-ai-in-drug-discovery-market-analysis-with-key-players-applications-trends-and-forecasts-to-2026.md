@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Report 2020-2025: Global Industry Size, Growth, Share, Trends, Key Players and Forecast"
-    excerpt: "Mar 09, 2021 (SUPER MARKET RESEARCH via COMTEX) -- As per new industry analysis report by IMARC Group, titled \"Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global deep learning market size is ..."
-    publishedDateTime: 2021-03-09T21:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-2025-global-industry-size-growth-share-trends-key-players-and-forecast-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Transportation Market Top Key Players, Global Trend, Opportunities & Forecast 2020 - 2027"
     excerpt: "Significant driving forces shaping the future of the Artificial Intelligence in Transportation market for the forecast period 2020 - 2027 find a special mention in the study and are backed by a real-time statistics."
     publishedDateTime: 2021-03-10T15:28:00Z

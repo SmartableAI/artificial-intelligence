@@ -7,8 +7,8 @@ originalUrl: "https://techcrunch.com/sponsor/salesforce/what-you-need-to-know-to
 webUrl: "https://techcrunch.com/sponsor/salesforce/what-you-need-to-know-to-implement-a-foolproof-ai-and-automation-strategy/"
 type: article
 quality: 66
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: TechCrunch
@@ -26,24 +26,6 @@ images:
     width: 600
     height: 400
     isCached: true
-
-related:
-  - title: "Automation and Artificial Intelligence Careers for Innovators and Creatives"
-    excerpt: "There are a number of automation jobs and artificial intelligence careers in the healthcare industry; health systems engineering is a prime example. The overall goal of this position is to improve how medical treatment is delivered, specifically by ..."
-    publishedDateTime: 2021-03-09T20:58:00Z
-    webUrl: "https://www.ucf.edu/online/engineering/news/automation-and-artificial-intelligence-careers/"
-    ampWebUrl: "https://www.ucf.edu/online/engineering/news/automation-and-artificial-intelligence-careers?amp"
-    cdnAmpWebUrl: "https://www-ucf-edu.cdn.ampproject.org/c/s/www.ucf.edu/online/engineering/news/automation-and-artificial-intelligence-careers?amp"
-    type: article
-    provider:
-      name: UCF Today
-      domain: ucf.edu
-    quality: 57
-    images:
-      - url: "https://www.ucf.edu/online/files/2021/03/Automation-and-Artificial-Intelligence-Careers-for-Innovators-and-Creatives.jpg"
-        width: 750
-        height: 497
-        isCached: true
 
 secured: "L7a8t6HsYVS763R2NGEHX16KYgx+KbCkYosRQql+66S35WRDo6pHk2ne5nsrLoMi7uOIOdBYQo4UAo0krSPDohPa9WB5pXayx1uUejztNQH0cPfm//KC6tTLYw57Ecz45QCh9+bQ73bFHHUMh9hqqqzqzGTNq0FmM06O9z6skPHUhG4lu5uzJ242hrdQB8/MJvVR1o89ev0ouBjTI/IU2yp2H0HZc22A8CxvIWQEATv19FoQm2cYyPR6m9yqjH0LkdIrWAE0lJ6FSEDc/NMCPt0uIcY2B9njEEDizgrTatp2849u7bEpybGuFWfx+GFoaT1vYv2nB7p+PW0W/9nNqQSzggMglJp/gv5aDAoUkZYwpVcN55+HbvXNq9aviM6kLVyUzx/aNpEMFmjLLaJ62YyCCE95+tU+EHbxzNWGTr71Kl55elDyfMi2bc8lZZFOA8QosThRejcwA2yGfobe8kVOoCS8MjUuzHrEBCtsT5TQSHdfWpPcEtvJdncYxQZwKNa6f9ZudOOXvJtRcAxeGA==;/pA16HiAIDPTT4QZeIZArQ=="
 ---

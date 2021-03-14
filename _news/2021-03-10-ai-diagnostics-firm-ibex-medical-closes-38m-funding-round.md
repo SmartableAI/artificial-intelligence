@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2021/03/ai-diagnostics-ibex-medical-38m-fundi
 webUrl: "https://nocamels.com/2021/03/ai-diagnostics-ibex-medical-38m-funding/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Ibex raises $38M for AI that diagnoses diseases"
-    excerpt: "Ibex, a startup developing AI technologies to help diagnose diseases, has raised $38 million in venture funding."
-    publishedDateTime: 2021-03-09T22:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/"
-    ampWebUrl: "https://venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/ibex-raises-38m-for-ai-that-diagnoses-diseases/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "fznvyN0yizbbSvKXvjO+Jo1qS4EdkIsSkgzDdWV/jcH53utr1As36pIGbqTJfiSWctIOP2Giagn1wEc5YKaewYXuu12vqqfSnsI+FJTkhiKY8p3V/+pqX9AhRm/RQ8e+5XYditD/5EfuRukbQn1ec+ATkiirhivyWiFqOrxc1QCU9cxSQO4RB68/BoCGAQ11y/3IlJFPKR+rJ/n80/UguL8Iaadv3o2PbVw7zE0qZXwAp7DTnCa+E8TIOdTsVVqse3HDKELZ33aO4gdBToVfl4LIyajx9qUv4LM7gDxC3dalA3tnTcT5bYOVevDguO/2ZDBssSWaI9iUyyL4p9R4RahgppMbgflWCHKwSsJWP4xr5E0jSyH/Gs34B/rhdAAGYLJAZHkCpTz63fZaOliF2SSnJz+Sj4F0q9DyoJTcLDUwNg5ynK2hh4tjxv8CKHGNtqogBth4TRSYksEqOxp2a0D+PcbgR/pQxysf25WZRU6i2Q2eTXopBgO6+kPLZuLUZbkWecrwn/yajI562I7zVg==;1wEPU4s2JnKtSJHBtIN4/w=="
 ---

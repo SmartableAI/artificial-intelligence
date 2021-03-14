@@ -2,14 +2,14 @@
 category: news
 title: "Tony Pizi Joins FinTech Studios as Chief Information Officer"
 excerpt: "Tony is a superb addition to FinTech Studios and brings a depth of talent and experience to FinTech Studios and proven track record of developing and deploying new innovative technologies at scale.” — Andy Brown,"
-publishedDateTime: 2021-03-08T11:01:00Z
-originalUrl: "https://www.wicz.com/story/43460577/tony-pizi-joins-fintech-studios-as-chief-information-officer"
-webUrl: "https://www.wicz.com/story/43460577/tony-pizi-joins-fintech-studios-as-chief-information-officer"
+publishedDateTime: 2021-03-08T13:06:00Z
+originalUrl: "https://www.wboc.com/story/43460577/tony-pizi-joins-fintech-studios-as-chief-information-officer"
+webUrl: "https://www.wboc.com/story/43460577/tony-pizi-joins-fintech-studios-as-chief-information-officer"
 type: article
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - AI in Finance
@@ -21,6 +21,6 @@ images:
     height: 314
     isCached: true
 
-secured: "De9oRpj7PXgQOtes2qgAEKFf8nMkgosvBczKVSQv8HkustPbQlQcrj2gEM/bF17628VT0DC/rg0DKJ0ean0a9bGE+jTzoYaTkSPPrJBQ37yPCl4VmSQGGFBbbvYmJfW1Nub+7YwB5MAI8qhoTQEJlAJ7k6d3c4H0VywbOg7oyZbZCvhX3uzEu12IPeadiQU4HRiRJEaTmrkyiPPMvxxH3L16V0w4VdPWYXzmADc4+8bQWisGxZfSvAZDaeJ+Ua3O0m1ZnS29hmJwu4zBXDN+32Gwydl7nItr0yYUbJ0EznZNb7fZtkJLuOMjTGii6bVlpN/sG9s3eKTqQdOPoWU8yqnBz9colKk9t9i/3w/vquiDFlBPcOoP0KmxON4vLk9d/Ih5GJUQCD39nOKxxHGmV62JirhzGAsQwfoJYZmtYKDWk+Rp75siwlkfpkR9uQ7850hsYLSyBUY4d6QO0kb86TsZDafFzHJzNHNngC34hGyIO70fyEQJgIEPFcKCgYQN0CnAarazXUdLst5UYlrVhg==;COXHuc9bkgyIgmkjcrhV8A=="
+secured: "yn8qB29iamO3lYt5y25Vn8zHn11Mx6bkmZiU4qv/O+VmlTsYOcBhUWCDQV2W8yNNhxutABdO6VLag8P6QodPCX6dGS14NNJ5ILiHeY+2wV6p6HiPRQ2CtsKLHmV1ljNVtW/c8AaLQFh/rI3r61yWUWu00Q115X5C4+CfVv5mU0ko74Rn+pYDRqpyjTM/V+dLn7YSq4U9EaasbHgduH2CFt4ae0nVUzSFYNRFz7/ySiV6UYukIkE3lUq0d/WcXRnnR2I+7yswv6kq9ZA+Tvf+Dfo22ZabBGcDEPaAFwinckcc0vZE+0g/rc131vefCWvE4crdS8Fx6CSDH6o5luwzD05Wshoec7uXwqGzdtnj60E=;R5dMO/VCb61o+Cqj+4Dfxw=="
 ---
 

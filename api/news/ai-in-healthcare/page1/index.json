@@ -149,6 +149,59 @@
       ]
     },
     {
+      "path": "_news/2021-03-11-2025-healthcare-natural-language-processing-nlp-market-size-report-will-reach-to-21294-million-usd-at-cagr-of-102.md",
+      "title": "2025: Healthcare Natural Language Processing (NLP) Market Size report will reach to 2129.4 Million USD at CAGR of 10.2%",
+      "excerpt": "Mar 11, 2021 (Market Insight Reports) -- Selbyville, Delaware. The Healthcare Natural Language Processing (NLP) market share stands tall together of the foremost proactive industry verticals, as claimed by a auxiliary report. This research study forecasts ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2025-healthcare-natural-language-processing-nlp-market-size-report-will-reach-to-21294-million-usd-at-cagr-of-102-2021-03-11?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/2025-healthcare-natural-language-processing-nlp-market-size-report-will-reach-to-21294-million-usd-at-cagr-of-102-2021-03-11?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T19:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu.md",
       "title": "Artificial Intelligence becoming the new way for healthcare students at OSU",
       "excerpt": "In this pandemic, we’re learning remote learning has been a challenge for many students throughout the country. Ohio State University is working to tackle this issue",
@@ -1403,59 +1456,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health.md",
-      "title": "Take A Look At How Artificial Intelligence Can Improve Your Pet’s Health",
-      "excerpt": "Could artificial intelligence give us better insight into our pet's health? How can a data-driven approach help animals live healther, happier lives?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603437d924ef803c1c8288c4%2F0x0.jpg",
-          "width": 1123,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/",
-      "publishedDateTime": "2021-02-22T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

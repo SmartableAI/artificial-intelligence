@@ -129,22 +129,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Tesla’s $10,000 ‘Full Self-Driving’ Add-On Will Never Actually Be Fully Self-Driving"
-    excerpt: "Tesla rolled out a beta version of its new Autopilot Full Self-Driving (FSD) software (version 8.2) to a small group of Tesla owners in the United States. Driven by high-than-expected demand, this past weekend Elon Musk said his company would make the driver-assistance system available to more customers."
-    publishedDateTime: 2021-03-09T21:19:00Z
-    webUrl: "https://observer.com/2021/03/tesla-full-self-driving-beta-level-2-not-self-driving/"
-    ampWebUrl: "https://observer.com/2021/03/tesla-full-self-driving-beta-level-2-not-self-driving/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/03/tesla-full-self-driving-beta-level-2-not-self-driving/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 52
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/11/GettyImages-1228323148.jpg?quality=80&strip"
-        width: 1616
-        height: 1260
-        isCached: true
   - title: "Tesla touts self-driving to consumers. To the DMV, it tells a different tale"
     excerpt: "For years, Tesla CEO Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off. The company has been telling regulators a very different story."
     publishedDateTime: 2021-03-11T00:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-unde
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -95,6 +95,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/facebook-796x398.jpg"
         width: 796
         height: 398
+        isCached: true
+  - title: "Facebook will use your uploaded videos to improve its AI algorithms"
+    excerpt: "The company said it would help improve both its moderation efforts and recommendation engines for video.In its blog post, Facebook said the algorithms will learn 'themes' from the videos users watch a"
+    publishedDateTime: 2021-03-14T13:26:00Z
+    webUrl: "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms-11615727765901.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/03/14/600x338/4ee21dd9f024465c9886ff7b88ee0679-4ee21dd9f024465c9886ff7b88ee0679-0_1615727938422_1615728025114.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Facebook aims to advance machine learning with two new video AI projects"
     excerpt: "Facebook Inc. today shared details about two internal artificial intelligence projects, Learning from Videos and TimeSformer, that are aimed at facilitating the development of more powerful machine learning models."

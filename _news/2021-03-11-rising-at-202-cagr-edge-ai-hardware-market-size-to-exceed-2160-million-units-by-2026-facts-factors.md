@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "2025: Healthcare Natural Language Processing (NLP) Market Size report will reach to 2129.4 Million USD at CAGR of 10.2%"
+    excerpt: "Mar 11, 2021 (Market Insight Reports) -- Selbyville, Delaware. The Healthcare Natural Language Processing (NLP) market share stands tall together of the foremost proactive industry verticals, as claimed by a auxiliary report. This research study forecasts ..."
+    publishedDateTime: 2021-03-11T03:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2025-healthcare-natural-language-processing-nlp-market-size-report-will-reach-to-21294-million-usd-at-cagr-of-102-2021-03-11?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GPU Market Size Will Reach USD 200.85 Billion By 2027 at a CAGR of 33.6% - Valuates Reports"
     excerpt: "Graphic Processing Unit Market is Segmented by Type (Dedicated, Integrated, and Hybrid), Device (Computer, Tablet, Smartphone, Gaming"
     publishedDateTime: 2021-03-10T02:00:00Z
