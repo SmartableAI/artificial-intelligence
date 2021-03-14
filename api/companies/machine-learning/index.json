@@ -31,7 +31,7 @@
         "Machine Learning",
         "Deep Learning"
       ],
-      "heat": 301,
+      "heat": 302,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1044656645584773121/8vZCwo0F_400x400.jpg",
@@ -70,7 +70,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 79044
+        "followers": 79033
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -186,7 +186,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 20159
+        "followers": 20158
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -249,7 +249,7 @@
       "twitter": {
         "username": "zymergen",
         "url": "https://twitter.com/zymergen",
-        "followers": 6254
+        "followers": 6258
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -311,7 +311,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 8177
+        "followers": 8178
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -327,7 +327,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 138,
+      "heat": 139,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg",
@@ -373,7 +373,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 11282
+        "followers": 11283
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1001,7 +1001,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/834024692893773826/oJX5Bb_e_400x400.jpg",
@@ -1203,7 +1203,7 @@
       "twitter": {
         "username": "CognitiveScale",
         "url": "https://twitter.com/CognitiveScale",
-        "followers": 4187
+        "followers": 4189
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
