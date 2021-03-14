@@ -39,20 +39,6 @@ related:
         width: 2342
         height: 1318
         isCached: true
-  - title: "Apple patented zone lighting for its self-driving electric car"
-    excerpt: "Apple has patented a zone-lighting system for cars that uses sensors to automatically turn on lights based on occupants' needs."
-    publishedDateTime: 2021-03-09T18:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131516_apple-patented-zone-lighting-for-its-self-driving-electric-car"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/2020-bmw-7-series_100738842_h.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
   - title: "Luminar strikes deal with Volvo to offer self-driving system to automakers"
     excerpt: "Luminar Technologies Inc. said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers. Palo Alto,"
     publishedDateTime: 2021-03-11T14:55:00Z

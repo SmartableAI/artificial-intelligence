@@ -132,6 +132,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)"
+    excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."
+    publishedDateTime: 2021-03-10T20:03:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 59
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/03/ice_agent_generic-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Legal fight against Clearview AI’s facial recognition service grows"
     excerpt: "Demographic groups are joining states and nations in demanding that Clearview AI end its massive face-scraping biometric service."
     publishedDateTime: 2021-03-11T17:13:00Z

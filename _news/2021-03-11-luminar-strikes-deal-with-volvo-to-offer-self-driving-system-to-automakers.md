@@ -39,20 +39,6 @@ related:
         width: 2342
         height: 1318
         isCached: true
-  - title: "Apple patented zone lighting for its self-driving electric car"
-    excerpt: "Apple has patented a zone-lighting system for cars that uses sensors to automatically turn on lights based on occupants' needs."
-    publishedDateTime: 2021-03-09T18:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131516_apple-patented-zone-lighting-for-its-self-driving-electric-car"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/2020-bmw-7-series_100738842_h.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
   - title: "Why self-driving cars should be all-electric cars"
     excerpt: "In recent weeks, the self-driving car company Cruise, a subsidiary of General Motors, filed a project application to build the huge fast-charging hub in the city's Bayview district. Cruise's planned robotaxi service,"
     publishedDateTime: 2021-03-10T21:14:00Z

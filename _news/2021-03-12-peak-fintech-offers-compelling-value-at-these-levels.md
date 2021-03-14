@@ -161,20 +161,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Riskalyze Launches \"Build My Tech Stack\" Tool: Industry’s First Step-by-Step Guide for Advisors to Design Their FinTech Integrations"
-    excerpt: "Using Riskalyze's new proprietary tool, advisors can quickly assemble their ideal tech solutions, saving countless hours of frustration AUBURN, Calif.-- (BUSINESS WIRE)-- #FinTech -- Riskalyze, the company that serves tens of thousands of financial advisors with risk alignment and portfolio analytics,"
-    publishedDateTime: 2021-03-09T17:08:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=434581"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "uuh3xMmf8gmL1mg2BOtOhHdyRzWHPik7yFbHEOtlY4GBXCfMvSXGVVcG0ymNFDLgHbZBJjS+LSkcu4HW5Iu/uLt8InUBF8s6DYW20HFh48IXfTocDt9LZdw2m6hVyB3mfKJeJ2lrih1hjaiVNELIfIpheWFHFV7VaqVnv7dSs2Tod0+Tk7ONK9v+vHbwwafyLmplLVQ3OnTRZ/LlzrL4Ap0rZKaI/BJnVP31gzcgDWgtb4ii30yAhFKEoxiSuktDf1d0wzKkSpKYmVaDVGaJXibgrv3vGrrhNCfVC+62GRy1TLRV7t/W4x/hec6YNb3P+6RbG+UAhEiEvX/ke5Eymh7KtKm3eI7gOAc0D/GfRsE=;EHCUlpfYJLPduhsX5OTsMw=="
 ---

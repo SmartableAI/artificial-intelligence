@@ -57,20 +57,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "AI Adoption Surges During COVID-19, KPMG Finds. So Do Ethical Concerns"
-    excerpt: "Real-world AI deployments surged over the past year as companies sought to remain competitive during the coronavirus pandemic, according to a new study"
-    publishedDateTime: 2021-03-09T17:30:00Z
-    webUrl: "https://www.datanami.com/2021/03/09/ai-adoption-surges-during-covid-19-kpmg-finds-so-do-ethical-concerns/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/covid_biz_shutterstock_wan-wei.jpg"
-        width: 997
-        height: 499
-        isCached: true
   - title: "Innovative artificial intelligence tool analyses cough sounds to diagnose COVID-19"
     excerpt: "If you hear AI (artificial intelligence) brought up in conversation ... While AI is already used to assist in a number of healthcare settings, it seems clear that there is still a lot of opportunities to leverage AI to find real-world solutions that ..."
     publishedDateTime: 2021-03-10T22:34:00Z

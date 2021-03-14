@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-positioned-as-
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-1030173124"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "RapidMiner Named a Visionary in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "Company evaluated based on its completeness of vision and ability to execute BOSTON (PRWEB) March 09, 2021 RapidMiner, a leading enterprise AI platform for people of all"
-    publishedDateTime: 2021-03-09T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20082699/rapidminer-named-a-visionary-in-gartner-magic-quadrant-for-data-science-and-machine-learning-platf"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20082699"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20082699"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
   - title: "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
     excerpt: "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute."
     publishedDateTime: 2021-03-09T18:37:00Z

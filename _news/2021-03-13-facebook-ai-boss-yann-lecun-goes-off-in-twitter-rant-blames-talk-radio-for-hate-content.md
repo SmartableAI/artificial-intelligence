@@ -96,22 +96,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Facebook’s AR Vision is a Contextual AI-Powered Interface"
-    excerpt: "Virtual reality (VR) might be Facebook’s main commercial focus when it comes to immersive technology at the moment but the company is heavily investing in an augmented reality (AR) future. Today, Facebook Reality Labs (FRL) has given another teasing look into its vision,"
-    publishedDateTime: 2021-03-09T17:04:00Z
-    webUrl: "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/"
-    ampWebUrl: "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/"
-    cdnAmpWebUrl: "https://www-vrfocus-com.cdn.ampproject.org/c/s/www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/"
-    type: article
-    provider:
-      name: VRFocus
-      domain: vrfocus.com
-    quality: 59
-    images:
-      - url: "https://www.vrfocus.com/wp-content/uploads/2021/03/Facebook_AR-Glasses.jpg"
-        width: 711
-        height: 400
-        isCached: true
   - title: "Facebook aims to advance machine learning with two new video AI projects"
     excerpt: "Facebook Inc. today shared details about two internal artificial intelligence projects, Learning from Videos and TimeSformer, that are aimed at facilitating the development of more powerful machine learning models."
     publishedDateTime: 2021-03-12T17:00:00Z

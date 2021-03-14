@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -164,20 +164,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Riskalyze Launches \"Build My Tech Stack\" Tool: Industry’s First Step-by-Step Guide for Advisors to Design Their FinTech Integrations"
-    excerpt: "Using Riskalyze's new proprietary tool, advisors can quickly assemble their ideal tech solutions, saving countless hours of frustration AUBURN, Calif.-- (BUSINESS WIRE)-- #FinTech -- Riskalyze, the company that serves tens of thousands of financial advisors with risk alignment and portfolio analytics,"
-    publishedDateTime: 2021-03-09T17:08:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=434581"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "AZWIaXDYOEBbFADgoGnUZ2SDU75YsGV2d1+0mGNB7uEvSIdLmgoz1MWrXrXwy7VVvL34mstdeoMvPvqeOpkfQQxx5VJzRs9DbuzxNBvNZ3OtJeujUvVbqGO/Nhiy+7F694vZzrXW++sUZKhjekJFqeym/NJFJecNKwzsvAkLZMa2QCWQW/JSLwGwJBEiTic/gcTpKk/t0yTr5xNOj1QvDsHGP49BfoSN75hfQWvPXmo1FPH9fgMFT+nHiFnnNVraFtBp/78Cet1PhZVK1haGPybum8B38CW6oTWqsInuHq1dnDrYYFUEdTfsqDaoSg0+fu92++pssfBCpegv46UcR1yC5/XEWXxdAHIQIRy5CII/9Xn6BWWpJI3EaHiYjd+qz7YN4rO7u+/rkfM6I71FQNp0VJzzgbSqbyrPHykVhTnEbYydBAHH+uKk+FE/847M4o43KUkGmQQ3os6A9xBCgxa2hRdy+LZbKu860ZRwvalAE6n7OnNNUEeHaYOUVsPLkk8059xxwiWkp+hyYiGipQ==;2X0f5wdtmegHtaSBrDN3Ng=="

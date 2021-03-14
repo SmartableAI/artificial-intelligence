@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-unde
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -95,22 +95,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/facebook-796x398.jpg"
         width: 796
         height: 398
-        isCached: true
-  - title: "Facebook’s AR Vision is a Contextual AI-Powered Interface"
-    excerpt: "Virtual reality (VR) might be Facebook’s main commercial focus when it comes to immersive technology at the moment but the company is heavily investing in an augmented reality (AR) future. Today, Facebook Reality Labs (FRL) has given another teasing look into its vision,"
-    publishedDateTime: 2021-03-09T17:04:00Z
-    webUrl: "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/"
-    ampWebUrl: "https://www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/"
-    cdnAmpWebUrl: "https://www-vrfocus-com.cdn.ampproject.org/c/s/www.vrfocus.com/2021/03/facebooks-ar-vision-is-a-contextual-ai-powered-interface/amp/"
-    type: article
-    provider:
-      name: VRFocus
-      domain: vrfocus.com
-    quality: 59
-    images:
-      - url: "https://www.vrfocus.com/wp-content/uploads/2021/03/Facebook_AR-Glasses.jpg"
-        width: 711
-        height: 400
         isCached: true
   - title: "Facebook aims to advance machine learning with two new video AI projects"
     excerpt: "Facebook Inc. today shared details about two internal artificial intelligence projects, Learning from Videos and TimeSformer, that are aimed at facilitating the development of more powerful machine learning models."

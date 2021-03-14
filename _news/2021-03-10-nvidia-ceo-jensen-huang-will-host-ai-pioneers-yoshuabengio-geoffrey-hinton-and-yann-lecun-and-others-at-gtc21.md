@@ -38,20 +38,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "NVIDIA CEO Jensen Huang to Host AI Pioneers Yoshua Bengio, Geoffrey Hinton, Yann LeCun at GTC21"
-    excerpt: "NVIDIA today announced that its CEO and founder Jensen Huang will host renowned AI pioneers Yoshua Bengio, Geoffrey Hinton and Yann LeCun"
-    publishedDateTime: 2021-03-09T17:29:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/nvidia-ceo-jensen-huang-to-host-ai-pioneers-yoshua-bengio-geoffrey-hinton-yann-lecun-at-gtc21/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 27
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/mosaic-4-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "IpJvG5D/kxJUvXyc3uWdN+i4LQqNmeQYajlyfSAHPDFkB9JkVV0nhwjgOEKoXE0RgPvzn0FMgswQmiL19Ll++0xYys3XRTY+KW88dWQql6AqIkpcvElt88AiJ7ACQJWyr5sKnsZmZdkWDlWrGEIfAhSE4XEgfhN6ElDTDLnOVvP8xuMHY4Y9IPUg/1gsf8M1yCcCXAm6sqWHTzyGJkswthJ8TlOVqq7dLQKErsNG0X7WK6ydG6u/HyR9xgj8DwybP/Mc7DdRvsqEvjkXbVOy8xaxhPl8pKTCU042wnhi5/DLlgNIap7Lssw5FkU8y4vBxbn8mQcOlVxLVnhOAigB6aQShu8Z90dJU299zebv5vA=;Ytu8/w9iHiJaC39nnhMnlQ=="
 ---

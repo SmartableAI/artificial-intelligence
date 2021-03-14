@@ -34,17 +34,6 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "RapidMiner Named a Visionary in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "Company evaluated based on its completeness of vision and ability to execute BOSTON (PRWEB) March 09, 2021 RapidMiner, a leading enterprise AI platform for people of all"
-    publishedDateTime: 2021-03-09T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20082699/rapidminer-named-a-visionary-in-gartner-magic-quadrant-for-data-science-and-machine-learning-platf"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20082699"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20082699"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
   - title: "Blue Yonder Named a Leader in the 2021 Gartner Magic Quadrant for Supply Chain Planning Solutions Report, Positioned Highest in Ability to Execute"
     excerpt: "Blue Yonder attributes this position to its Luminatetm Planning solutions portfolio, which offers advanced artificial intelligence (AI ... at 11:30 Global Shockwave Therapy Markets 2021-2025 - Shockwave Therapy Function / Conditions Effectively Treated ..."
     publishedDateTime: 2021-03-12T16:48:00Z
