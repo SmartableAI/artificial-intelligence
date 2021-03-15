@@ -91,6 +91,17 @@ related:
         width: 1020
         height: 715
         isCached: true
+  - title: "Lawsuit Challenges Clearview's Use of Scraped Social Media Images for Facial Recognition"
+    excerpt: "Facial recognition technology is getting more sophisticated, more reliable, and more pervasive as the world eases its way toward becoming an all-encompassing surveillance state. That surveillance state doesn't even have to be built;"
+    publishedDateTime: 2021-03-15T13:38:00Z
+    webUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/"
+    ampWebUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reason%2FArticles+%28Reason+Online+-+All+Articles+%28except+Hit+%26+Run+blog%29%29&utm_content=Google+UK&amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reason%2FArticles+%28Reason+Online+-+All+Articles+%28except+Hit+%26+Run+blog%29%29&utm_content=Google+UK&amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 30
 
 secured: "ImyBy7743T5p5+cG7cNv3m43HmFTR57roJSxSPnPondEOwd+SqisGm95qrIpo4H35MERs9mI8TBb0dAeyLNil/N2au5G8tRCMOj9C6sYe07BKM5h7J+W90kypqt4GpgmotHQrvnx4HgFSgN5ahrnF7WneCHf1HfXJg4wntfr5u/lZG5nIcxgduR5Aob0PAwnZdBwpvhzw/ch44nCfNnDMBAl2RXeHSNXYg1toXFK1gxdULYr6/VZWpNpZIZB85mpMr8ICIwSgdbDbSN8meKVHhQNlrJhOE8hxSF9t41UR5AsEvGmc7MHfS+U9+/p06eOlynTEZwAQ4sOs6NwdNnMWwUfripV6aYKkE7UAKiUdyo=;mlstB16xBkj22vU36NERZg=="
 ---

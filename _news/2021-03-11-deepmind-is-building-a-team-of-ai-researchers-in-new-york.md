@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 678
     isCached: true
+
+related:
+  - title: "DeepMind Is On A Hiring Spree For Its New York AI Team: What’s Cooking?"
+    excerpt: "The hiring spree started last June when Facebook AI Research (FAIR) co-founder Rob Fergus was roped in to lead DeepMind’s New York team. The reports suggest DeepMind has hired between 10-15 people. DeepMind has a strong crew of AI researchers in London."
+    publishedDateTime: 2021-03-15T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-is-on-a-hiring-spree-for-its-new-york-ai-team-whats-cooking/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/1-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "0XRviSfnuH+wEjED5+5kZKCCnc0ZO4HSx/AF+JwgDFX6YXeCuwSfD/RnwEu8hLlnQuWeY+ZGbzlcSgrcFQ2zmNmGBEIMH0LPUibOc6H4ibx9nSIf4iWIriCAkZnXlSgDW274TbrDokh3NHkM8zBb1wOKyggn6dgFpvR4LJNDjYizkRmFtE+LKj3qqoKcYmpp/fuXVYofOFS5TrlsL5qBWZuKeILs34NGICjsMiwwQL4xNpLfpDb1DZJ+K8i3LxfAB/Ys8x4gT1GRaMkcKNCfsKmn2eR7xbmFC2fQZ78plTW6IaC7yLmPu1HJJWwUQysy+0YYSOouCcCXC8/cppQ++RBeXheWYdy+IdqVwTwLMSHSAScUVMB19I7lROldtUV0BrtyacqZk3U+BeTI5dWnjIWvaKM9wPztq9nYS8WOHiZ4v76zVqrOObbBQ9XczmoGpMsc91NCB/4KI/0JaqrZrYgnyqJMSx2ImCKJV59kzmL66MnHc0FHNDZ4xtqLxsEQx/W7C2BCDgbCyhAU/+dmmw==;ZRupntH9pBrWDQp9UEMbng=="
 ---

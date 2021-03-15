@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
 type: article
 quality: 99
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 450
         height: 601
         isCached: true
-  - title: "Microsoft Azure MSP Acquires Software Development Company"
-    excerpt: "Microsoft partner Atmosera has acquired Wintellect, an Atlanta, Georgia-based software development, Azure and IT training company."
-    publishedDateTime: 2021-03-10T20:05:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-development-company/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 34
 
 secured: "A0rbOR2cBmU+sRfQx+ki/WgOO25BMSmKttg7EkNCY1jpxWG6tIL5mODu2kL9ze9zv+TwwtqD/ug9l8QypLPjuRjDSgSozTqVMOrp+wD30ZKwjzZF01Va7CU4GC4yP0cjzM2Ty53074gH1AfGcwrYzLFvwepOZ0YCW6jv+iZSdf61kAmJNf2d5PXF1jgQsBoRdii1pUtCZ+FwoaC1Kvv41MyZb4AdvPhs5LCSuaS+6iaBraZ13wDvLkIJAqaUXhcUGEkMCZ9m4xRk2pJd3iRBqr/vx51U5hT+L7j12bxZwV0gL9mUIaFvYpk1Qs9/3mPr5XLdX8wvlc1+VIhGbNXAnIlv53IjnA0YSHcZG1jkC/w=;VVrB1YIVfDgBHT0l9e1Afw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Watch Tesla Full Self-Driving Beta Work Wonders In A Slew Of Edge Cases"
+    excerpt: "As we've reported in the past, Tesla's FSD Beta is capable of drives with zero interventions. However, it's not consistent enough to do it every time."
+    publishedDateTime: 2021-03-15T13:50:00Z
+    webUrl: "https://insideevs.com/news/494438/video-tesla-fsd-beta-tackles-extreme-torture-test/"
+    ampWebUrl: "https://insideevs.com/news/494438/video-tesla-fsd-beta-tackles-extreme-torture-test/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/494438/video-tesla-fsd-beta-tackles-extreme-torture-test/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/Xx2gE/s1/tesla-fsd-beta-night.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Elon Musk says some Tesla drivers were removed from beta tests for its Full Self-Driving software for not paying attention to the road"
     excerpt: "DOW S&P 500 NASDAQ 100 Tesla CEO Elon Musk on Friday said the carmaker had expanded the public testing pool for its Full Self-Driving software to about 2,000 vehicle owners but also revoked access for drivers who didn't pay close attention to the road."

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
-excerpt: "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021. The programme will allow participants to build ML models for autonomous driving applications,"
-publishedDateTime: 2021-03-15T10:09:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=812365"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=812365"
+excerpt: "Participants will have the opportunity to leverage the AWS machine learning and AWS DeepRacer course ... to foster community learning and help with the early adoption of artificial intelligence and machine learning technology for a more diverse workforce ..."
+publishedDateTime: 2021-03-15T09:47:00Z
+originalUrl: "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html"
+webUrl: "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html"
+ampWebUrl: "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html"
 type: article
 quality: 103
 heat: 113
 published: true
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
   - AI in Autos
-
-images:
-  - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
-    width: 280
-    height: 250
-    isCached: true
 
 related:
   - title: "Retrain.ai raises $13M to help workers reskill and upskill for better jobs"
@@ -37,6 +33,6 @@ related:
       domain: helpnetsecurity.com
     quality: 15
 
-secured: "6HZ6XI2kXB6pTia9DgLmDo2IfUC3sL0JIfMmhs8L6JF+KMW28pAsc3lvuLpT+0MO14AGfxfnOh0HMPYmxiurZ8TgQya0KAG9uQTCGKrr5gu+9rpvL7UE6uVRsZwOlv2j5JFrRU0rLXkRkxFj4M7Guwuu6CrIbhCgwsmYv9FMv3irsrMJP3yHcL5KOBNlVA4NTth28NVyIYcKrXp0slsXVlQxNIWFo9/uHPXUFaXCSttJvy/IXZoKrzLxdFxtvQlJPeSKlSTRdMq08XeewyBH9BL0RUjkd4WIPC80BHCKW28Wi9ztatxv8mEMi2KM9nr9H1zwyXuLsbCZcvAuGJFHKwQWNFtY2oonV9nMUunpyNI=;zHSpXcihLiOQbc8qLIJpUg=="
+secured: "j6XxlbPfkCURoCyJUu3OeMe2uiYamoBNmvM+DegId8igKHb2pK4+27JRkwPxy3xzOAaBXSXOB1gs5/PfD8L/5ZWaZyoVBBjl/m1fRgrJB/RaEr7f2gKB6Yl4II/BaZGkWadS+Z07O/agDYqf69otW5UGBeES/VJyvX4WsuvI3xrmbQQ7m4Zn6z6dU6WF3CQieFZWxNEM4PW07jRQ/EfyVx464yMXX++svpFjO/PlBROxCSYdxrsb+I1/0NIrh/DoGvHJHD7J41PPzsWxa/P5vB6nImBdqy/Q3Q5y52il4GbFJDIf2g6/S6pSXe6E9WdVCO+BNnwkVxba/R9IEwYn8b1v2de9IP9sSEetUG73ok8=;QAFKZPcmXBvZ+F0FXrhLHA=="
 ---
 

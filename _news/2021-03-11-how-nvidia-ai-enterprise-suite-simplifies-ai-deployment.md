@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/networking/how-nvidia-ai-enterprise-suite-si
 webUrl: "https://www.eweek.com/networking/how-nvidia-ai-enterprise-suite-simplifies-ai-deployment/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: eWeek
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "If You Love AI, Do Not Miss NVIDIA GTC This Year!"
-    excerpt: "I just got an email from NVIDIA touting this year’s GTC event (April 12-16) and have to share this with you, in case you haven’t already heard. The virtual graphics, AI, and HPC event will headline AI pioneers Yoshua Bengio (University of Montreal),"
-    publishedDateTime: 2021-03-10T20:25:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/trim/290x0:2204x713/fit-in/711x264/smart/https://specials-images.forbesimg.com/imageserve/604929829ed0424aeb7e9fb6/0x0.jpg"
-        width: 709
-        height: 264
-        isCached: true
   - title: "Tuning Up Nvidia’s AI Stack To Run On Virtual Infrastructure"
     excerpt: "Having to install a new kind of systems software stack and create applications is hard enough. Having to master a new kind of hardware, and the management"
     publishedDateTime: 2021-03-12T12:31:00Z
@@ -60,6 +44,34 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/nvidia-ampere-logo.jpg"
         width: 1199
         height: 877
+        isCached: true
+  - title: "Nvidia Launches AI Enterprise Suite for VMware vSphere"
+    excerpt: "Nvidia said it would also support vSphere customers that acquire licenses for its new AI software suite. The new Nvidia VMware collaboration gives vSphere hypervisor support for migrating to multiple GPU instances, allowing partitioning of A100 GPUs to as ..."
+    publishedDateTime: 2021-03-11T00:30:00Z
+    webUrl: "https://www.hpcwire.com/2021/03/10/nvidia-launches-ai-enterprise-suite-for-vmware-vsphere/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Nvidia_vSphere-768x426-1.png"
+        width: 768
+        height: 426
+        isCached: true
+  - title: "Nvidia Launches AI Enterprise Suite for VMware vSphere"
+    excerpt: "Nvidia and VMware are bringing together the new Nvidia AI Enterprise software tool suite with VMware’s latest vSphere 7 Update 2 virtualization platform"
+    publishedDateTime: 2021-03-11T18:10:00Z
+    webUrl: "https://www.hpcwire.com/2021/03/09/nvidia-launches-ai-enterprise-suite-for-vmware-vsphere/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/blue-green-abstract-tech_shutterstock-1471991357_700x.jpg"
+        width: 700
+        height: 414
         isCached: true
 
 secured: "JmRD/tfCvVNucQaVOrDQYdC0WxP7ZiCA1s+wXJ8CMK4BnUYzocEcX65AqjagIzMp3XsvY7xMjQFFZvxSEulZpJSawNg6gQz4AdUGG7VEkVS4SPANS1mD7SriOSPYXqIBFfjb7dBjYTlcB5lqoIJL5mlp4OFTJr+5OaP7DZ37uqmNKg3MJ2om16WB/VDqii/Lf5wkBbaWIHEnVz3PnSNIXenUJ5/BYQgZESYaUYv/aPtuClU7GmgMN0mBBWG+NBrr/ujzJjAoNpXyFnxD/OajcYoYURW7o6eJ47BPBENg3lnLmcIQiLv4jRSR7xLKcRHoWSBMSFG0tP8ax06xOO3ABNV7VBIbcb4CrG26W1opIlg=;9xK1kjgieEnj7aZtZWCqXQ=="

@@ -1,53 +1,31 @@
 ---
 category: news
 title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2021-03-10T21:15:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
+excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
+publishedDateTime: 2021-03-11T06:43:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
 type: article
-quality: 50
-heat: -1
-published: false
+quality: 70
+heat: 90
+published: true
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
-  - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
-    publishedDateTime: 2021-03-10T21:39:00Z
-    webUrl: "https://www.lelezard.com/en/news-19693395.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 73
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
-    publishedDateTime: 2021-03-10T21:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 71
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "ClearScale Achieves AWS Machine Learning Competency Status"
     excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has"
     publishedDateTime: 2021-03-11T14:05:00Z
@@ -72,6 +50,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "W59xH+mTqk5a4Mz0OgT1fyhVWpXDOk/Wlj9W4cRSzihHwf7zdJ6Ca0dBLw9jZchh4U+USwUctbsGP1oZJnoG0uEuXk47abDxPnVuWhFNOfJQxLZLX1/znyNQGOr2ilwClqoTnbxfVuQQkWjZrt0y4Rr6Mew6p+zeFsVuZp3EjsMyO0E6Ic+gNuxiEmhzVu1XfwxaTy8YNXhHYkVBQoUSxSRqcKZ5Xr0Ifk+EBIqFkAgUE0DYZzACan1INvUwEQ+nQ00DDKr4bNGuuVpqj0c+lqkwDDK87PeEq82SCU8T6A6eGR5cgiGvfZC8o/3aZOcuChcN9vbqUJMGzL7oMKDMwr8kMtQDG/zFdDW1fNAZfak=;dYf7etHrfdJLYQvmNjbK3A=="
+secured: "fhgNsUtpIQpxs1KNOh2o77p0G65ApSuxcl+9bKb9u+Shim9ApmcHnS2WRDuf/zlmI6y1Q7fcAeBgLiwSRg7u42fF6+TUKtIccZAuzH+ScMmwJBk4GdTPxm/EZr+fqX6IM9SSx5mnhTsOwrAhQOAuWPdyorp4AHhrpYxVE49l0/87L28w4sl37TBsez25TwTYe1Ua6rt0rpkLTHOYIqoTu74QyQFjul2EZps/fSIcSU6YFGFOFlBAnnGXRgpuA13XsZCdMn3TjvnhRMgoT3+5xEy1qOYgi/b161FkBZhcqsRRnYfahWl8XRcT0WJerW5fFw31uMN129HCuheKwwdRksN3E9RFAkg3FkahhCjBHjU=;UpIDVMKhXkUovmLCRt6pxg=="
 ---
 

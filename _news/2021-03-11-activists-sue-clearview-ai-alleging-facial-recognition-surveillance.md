@@ -9,7 +9,7 @@ ampWebUrl: "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-
 cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/"
 type: article
 quality: 76
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -83,6 +83,17 @@ related:
         width: 1020
         height: 715
         isCached: true
+  - title: "Lawsuit Challenges Clearview's Use of Scraped Social Media Images for Facial Recognition"
+    excerpt: "Facial recognition technology is getting more sophisticated, more reliable, and more pervasive as the world eases its way toward becoming an all-encompassing surveillance state. That surveillance state doesn't even have to be built;"
+    publishedDateTime: 2021-03-15T13:38:00Z
+    webUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/"
+    ampWebUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reason%2FArticles+%28Reason+Online+-+All+Articles+%28except+Hit+%26+Run+blog%29%29&utm_content=Google+UK&amp"
+    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reason%2FArticles+%28Reason+Online+-+All+Articles+%28except+Hit+%26+Run+blog%29%29&utm_content=Google+UK&amp"
+    type: article
+    provider:
+      name: Reason
+      domain: reason.com
+    quality: 30
   - title: "Facial recognition company sued by California activists"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
     publishedDateTime: 2021-03-11T15:38:00Z

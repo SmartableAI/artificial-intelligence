@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Watch Tesla Full Self-Driving Beta Work Wonders In A Slew Of Edge Cases"
+    excerpt: "As we've reported in the past, Tesla's FSD Beta is capable of drives with zero interventions. However, it's not consistent enough to do it every time."
+    publishedDateTime: 2021-03-15T13:50:00Z
+    webUrl: "https://insideevs.com/news/494438/video-tesla-fsd-beta-tackles-extreme-torture-test/"
+    ampWebUrl: "https://insideevs.com/news/494438/video-tesla-fsd-beta-tackles-extreme-torture-test/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/494438/video-tesla-fsd-beta-tackles-extreme-torture-test/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/Xx2gE/s1/tesla-fsd-beta-night.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Elon Musk says some Tesla drivers were removed from beta tests for its Full Self-Driving software for not paying attention to the road"
     excerpt: "DOW S&P 500 NASDAQ 100 Tesla CEO Elon Musk on Friday said the carmaker had expanded the public testing pool for its Full Self-Driving software to about 2,000 vehicle owners but also revoked access for drivers who didn't pay close attention to the road."
     publishedDateTime: 2021-03-13T12:28:00Z
@@ -122,6 +138,6 @@ related:
       domain: detroitnews.com
     quality: 19
 
-secured: "amtqgBvC6pgkYHF9wh06QcR4TPHOinNMwTnQ6Ki5Gh+JlEtZpLE8hCc1ezPD5wUyxiasUlUJWqyHiwCLyEBysPzTu6NAcINPAFqOjkxxPHTrxdxY/JXirWv1Uv6NctiigIUB1iU5sRMKt2vvN0ZETt5/AVQzg+5j5xuF1FOJpu9tsO8dQulg9wYgPE2kB8MgxjlTlQF3wM3BmbVDEONQbZT9uCLAVg2XWzIVH9JdhiOCC5W6zgTew1VbjnWj+ttCqrWjRQgXLgRbrk9wfvuRI5LrNFVDcp3h8NvKBW/3RUHWywV1EhKi3kIhvPF3k4bujjJx6kEgh5FUCGKJTq/f0+8BWuoSbUHOSnqU6lBpYug=;A7WqTWOsmwhxjYfaMrNBhg=="
+secured: "C47VT/saHe836MhjejvY7uLYr8Qms/gey/fhyJ6tumcAp2n9Occ2D+Kpl8wZPbVtZKIFotpyLRNJ5jAwrKKWstgt3dbxkPyY5PTRNvHneIKHvo4bQbCMQTEsXZ/dDvxzhfX3CaTVXpLoZDYfTi6PQotNgk32nsH28NgZUvAlQR/YE8GMzopq0uMPJGkZKOLTcFTXCVotmZv3aEnKAw3PNocdyEWCmPAXfmOgr/3p8Z5eHo7CmcawiUC6QgsaGQosh59qlFE9ju4ScIiEwjItmq1YIQJ2ggOnPP6YzaYqbLnPoT8UFVIhP5umOJcJV1JNAnFH9aBNmTfTbUkhdXxNr8wh+3oDnj8CU2uICRjA01k9dyN88D9daB0tPS6yBrgvWzukVXS6kju0taJ0XLcpTkUHrVNHEVOkELXQZikw1v7cbOEFdSAUsuTzpZ12H1no7xdDQop1iNJoyJJ26Di90kVfcHkTtNS7jdEGCpaL2A3eLPfYokjHYFbM/JfyCtANvYhuy6NciePlOcqDJymdxQ==;ZGZQ94W8LfUmTt3xYR/h3g=="
 ---
 

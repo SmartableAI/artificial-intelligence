@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/366465"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366465"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/laptop-work-1148958_1280-647x363.jpeg?vB5lrJ2V0I9bDSCDYDyIVhlAhvoO.B8G"
         width: 647
         height: 363
-        isCached: true
-  - title: "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI"
-    excerpt: "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
-    publishedDateTime: 2021-03-10T21:31:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-19e7126ed40e44e4b14572b402c260d7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "fM0PjlfkVGQgXusjshZ4oslHKKghEz/FpznneI3NuRwLWklEK1RA4aWWOc0trE6F+KeqwMI2xKViRnbiusVytm/EvbxlY+GLcItcH4q5AsF4tT2/eKBk6Xx8AVgUeraUTEcI5vmvogkAw4r7+iKIiczkEpZnxIaDG2/OUd3oKicbFkscHRo0phdPQ5c/8ruKcqliTymewov/Sj4HuNcY5DC+mSEx9BHs6pFps5p2NsNjLelVse5TwWon2MLi/8VhSw79hEjOplZnCCUvXxHpbM2KJJRWaAhhU9f7RbPI7EWjycz7mCzeqVj1UTzFdfvrqRN2QiXxikMjoW7PZphE94YmPHCz46ttgUWBPjvDx1gqHS4ZrMZNJfqmFmn2PgdGQDV8F0XqApclPPAAoIYOE0jsjt5NMElqAt+vSSj4028I/UeGMoRI4JZHCzaemongzkgBRPrx53q2i4R2V8wAtNwRPTHJH89lozYxte39MUjJAMqObM79XPv5282uXrK1iWvEcl/CkoRWf8w6f27qWA==;kKf5lPmFMa3lUJcaD4WasQ=="

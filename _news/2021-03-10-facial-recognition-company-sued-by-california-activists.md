@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Facial recognition company sued by California activists"
-excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending"
-publishedDateTime: 2021-03-10T06:29:00Z
-originalUrl: "https://apnews.com/0f7642d1f9222d8a3047f7062c91c0e7"
-webUrl: "https://apnews.com/0f7642d1f9222d8a3047f7062c91c0e7"
+excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that"
+publishedDateTime: 2021-03-10T15:35:00Z
+originalUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/"
+webUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/"
+ampWebUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://apnews.com/images/ShareLogo2.png"
-    width: 700
-    height: 450
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/facial-recognition-technology-sued-1.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
-secured: "cfuvlIUM/Mv25D0+mJDhKeU7xMYvDWgOMOoxpNqsZvXAJ8J+FGxx43F9tK6Vy9Wl5wAy+PknhIq6SxJQ7M9b42W3nbkfiMaOWCrVBWt1Fi9V4Fimr53qQch7vLi9C3ucThyJflX6ek89CnagdOql0NX42JdgZ/nBux82lhSxd10v2oi+zUxVBN3i0bwM+RKm4NUl3poLfTEQBBQ4ZJAydDI+vawJW8wjbpMVT+atqinDOMCJ5BL++IKxXqwb/ahN/PiVYSXkt2kLettWlk5Wc64Ri/eDK2otwrqKONshY8wayD3Ljp3wp2rJF8r+uCjIofDguH9jCDdBBEabqeGism6rDsG+OQSUMigwgdbMh48=;77ANOVOUnzxgj5IIV3QptA=="
+secured: "z/yyFnhs3pMYoLZSQee+wfPEGi6P3F0TgnO+6rX6S4mLX+TdJOOe1kAP9W1o3+kdNzB9WQnsJjhD1NxstKSuV1I0Xsqz70DxIjIiE7rcwXl3ogxNTJSC71CErPbgqhfIPQqDIB0L5qtc5W2DE7xS/QUiw+N67wKG6tRK9awlG0DKrFu3M4XIJRGadrqrv3zHffPg6Cg2Rct26b5q2MRoRek3MVB8jAFvykQCAkfFdxvSe5egWrBtdUm+OiqyxoE7RQNqxtD8M4S/SsgJJz3aaxuPOEinI9vSVd498X/Uk5UIO82Kea2GlIyWuEDTsPGwAV+hVJ9C8iE+26tKm7VmpPFjlpteP7EraVYNBb530sE=;A54DEvekg2kS5KEDrJBRPA=="
 ---
 

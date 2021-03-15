@@ -42,20 +42,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI"
-    excerpt: "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
-    publishedDateTime: 2021-03-10T21:31:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-19e7126ed40e44e4b14572b402c260d7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "FFMQ2Wug3y4yZc6WMK3BQ3x8jKng2mhqtTzgLaipRFRZBnNyjFtWAcgU1RwhtTr7Yt4EwUrh0VuKzadWuV8pAKs6fQWLgkg4BPceqX3S3ffsS5YD04xk9qvMv9lE/mCccauQQUy3T2baZnWsSqZRHQ64jakzFCczuTs2lK1KWXnC9KE9XIKh0JrEpLVsDvLwQJFKaVnnnHlwOQ4z3yMSKNP7ShwTgvzo5E77TrSogQaOmsjnuDq+6zMKza31MFv5YAK4rOKokUIjT3VAMcO7hP8WeUR8YvgDQsWcxmDaMfKbHF24Vw4kzQpSKiqi6N7dfuokAtNAlNN/KaQP9VQHJaN5OY3p1Pveb4NHzd97uNvbdo/AWqGDAIdmNTiUFm+/S5SdDUBmkg1mQtKhPzPijnjQW79/YJRpUGGPGhdV68n7S8xpK4xXyKp2/yEaqhi2TNgi95hwUyRrO/tJjrbn7l4QJtbs5oBb9ATm04pMQjVmewFrqVjKUASvMn0YjYSLwEMyKobWMhDKpCB6UHWEQw==;/gnK/kTuXZi2kMMOWqQ/zw=="
 ---

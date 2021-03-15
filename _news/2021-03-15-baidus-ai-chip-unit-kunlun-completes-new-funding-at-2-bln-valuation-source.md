@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0?amp"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Baidu’s AI chip unit Kunlun raises $2bn"
+    excerpt: "Baidu Inc said its artificial intelligence chip unit Kunlun raised around $2 billion, according to a source with direct knowledge of the matter, Reuters reported."
+    publishedDateTime: 2021-03-15T12:32:00Z
+    webUrl: "https://www.capacitymedia.com/articles/3828015/baidus-ai-chip-unit-kunlun-raises-2bn"
+    type: article
+    provider:
+      name: Capacity Media
+      domain: capacitymedia.com
+    quality: 54
+    images:
+      - url: "https://capacityliveblobstorage.blob.core.windows.net/files/Samsung-Baidu-Chip-3.jpg"
+        width: 900
+        height: 618
+        isCached: true
   - title: "Baidu's AI chip unit Kunlun completes new funding, at US$2 billion valuation- source"
     excerpt: "BEIJING: Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of"
     publishedDateTime: 2021-03-15T04:45:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-surgical.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-surgical.amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -26,35 +26,85 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based assessment of of surgical skills"
-    excerpt: "we can start planning assistance systems that will support surgeons during operations. For example, they will be alerted when fatigue is detected, thereby helping to prevent complications.\" The promotion of AI at the Bern medical center will contribute to ..."
-    publishedDateTime: 2021-03-14T01:32:00Z
-    webUrl: "https://www.news-medical.net/news/20210313/AI-based-assessment-of-of-surgical-skills.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210313/AI-based-assessment-of-of-surgical-skills.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210313/AI-based-assessment-of-of-surgical-skills.aspx"
+  - title: "Using Artificial Intelligence to Improve Healthcare for All"
+    excerpt: "He is also a pioneering figure in artificial intelligence (AI) research. Sapiro wields his expertise in AI to solve societal problems, particularly those related to health and health care. In the Parkinson’s project, Sapiro uses a technique called ..."
+    publishedDateTime: 2021-03-15T13:29:00Z
+    webUrl: "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/"
+    ampWebUrl: "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 74
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://i0.wp.com/scienceblog.com/wp-content/uploads/2021/03/DST_Computing_AIHealth_Electrodes.png?fit=270%2C293&#038;ssl=1"
+        width: 270
+        height: 293
         isCached: true
-  - title: "Anyword Introduces New Marketing Language Platform, Merging Performance Data with Cutting Edge AI to Drive Results"
-    excerpt: "introduces a new technology that leverages AI and natural language processing to generate and optimize performance-driven marketing text that delivers business results across websites, social channels, email, and ads. Recently, Keywee changed its company ..."
-    publishedDateTime: 2021-03-15T11:26:00Z
-    webUrl: "https://www.lelezard.com/en/news-19698316.html"
+  - title: "Artificial Intelligence becoming the new way for healthcare students at OSU"
+    excerpt: "In this pandemic, we’re learning remote learning has been a challenge for many students throughout the country. Ohio State University is working to tackle this issue"
+    publishedDateTime: 2021-03-10T23:02:00Z
+    webUrl: "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/"
+    ampWebUrl: "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/"
+    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 72
+    images:
+      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2021/03/vlcsnap-2021-03-10-18h02m11s651.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Is AI washing helpful for digital healthcare?"
+    excerpt: "Even in the UK – probably not so different to other European countries or North America – conventional data analytics seems to be of more use than much-vaunted AI systems. This is borne out by a recent report from the Centre for Data Ethics and Innovation."
+    publishedDateTime: 2021-03-12T17:31:00Z
+    webUrl: "https://www.computerweekly.com/blog/Data-Matters/Is-AI-washing-helpful-for-digital-healthcare"
+    ampWebUrl: "https://www.computerweekly.com/blog/Data-Matters/Is-AI-washing-helpful-for-digital-healthcare?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Data-Matters/Is-AI-washing-helpful-for-digital-healthcare?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 56
+  - title: "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions"
+    excerpt: "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions"
+    publishedDateTime: 2021-03-11T13:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "Irish start-up Outmin looks to improve admin using AI and humans"
+    excerpt: "Outmin, a start-up set up by Irish tech veterans Ross Hunt and David Kelleher, has emerged from stealth and is already snapping up clients both locally and outside of Ireland. Founded and quietly launched during the coronavirus pandemic, Outmin claims to ..."
+    publishedDateTime: 2021-03-14T16:00:00Z
+    webUrl: "https://www.irishtimes.com/business/technology/irish-start-up-outmin-looks-to-improve-admin-using-ai-and-humans-1.4509950"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 37
+    images:
+      - url: "https://www.irishtimes.com/image-creator/?id=1.4509948&origw=1440"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Aetina Provides Chained Hardware & Software Pro-AI Service for Edge AI Solutions"
+    excerpt: "Taipei - Aetina Corporation dedicated to AI solutions with the ambition to deliver a professional AI service. Today Aetina proudly introduces their full product series of hardware and software service at the edge AI environments."
+    publishedDateTime: 2021-03-12T19:26:00Z
+    webUrl: "https://www.automation.com/en-us/products/march-2021/aetina-chained-hardware-software-pro-ai-service"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
     quality: 34
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.automation.com/getmedia/1683d951-d23c-4bfa-934c-01eb5455014d/Aetina-prod-March-12-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
 
 secured: "OtAOZMrkhjYNr7qUtUwL3p61/KIAJH5SuLaikBz2YhOwcfq49VyLnsX+njqnpIliIGGPBBakh33CMUw2tmkroXo91hotu/uZrA0rbkbRNLw0wnfh0qc3zdgG5pwgKNOtVWxX0BG++t4Oj1DyZNw70D+9uxZ14C7qsI1tRIEpoAzDBQVd2vY/S86N96prz8wk53nTBMWEzRxGcwmdVvcl184AiY09ebuPBPzveFOw3nJdaux5rVH4wcIJg0WRzPurZoI77Fv26BR36Sn6lJDr0FDAt4dvhsrz0dF426+K8oLjBegekgMLryKI7ivluFHuNuOgGKw26oi0wiOW/UbvTnxSrouOhaBhFJpeV3YAi92lT3GM/40Cu+byruRaBEQs4e59r/UoUwjmAC268uDZf7G8wS0w1epP6+1lHPuTP/TlX4vNeu5/g1jX79qIzpj/XZpTPq9KROAJHBctPUrRUR6wl3m58XSCOVPzIQ+jAYHE7yE0O+Ig5ul2HNArc328u++oeBjQJSLXbIXNkOOBvw==;GqTdy3vEHekCB2r2Dy8gxQ=="
