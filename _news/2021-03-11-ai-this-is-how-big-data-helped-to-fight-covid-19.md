@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/ai-this-is-how-big-data-helped-to-figh
 webUrl: "https://www.zdnet.com/video/ai-this-is-how-big-data-helped-to-fight-covid-19/"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: ZDNet
@@ -26,6 +26,22 @@ images:
     width: 770
     height: 578
     isCached: true
+
+related:
+  - title: "Machine learning system predicts severe COVID-19"
+    excerpt: "An advanced machine learning system can accurately predict the risk of a patient's COVID-19 advancing to severe disease or death, say researchers."
+    publishedDateTime: 2021-03-15T17:36:00Z
+    webUrl: "https://www.futurity.org/covid-19-macine-learning-diagnostics-2531992-2/"
+    type: article
+    provider:
+      name: Futurity News
+      domain: futurity.org
+    quality: 39
+    images:
+      - url: "https://www.futurity.org/wp/wp-content/uploads/2021/03/severe-COVID-19_1600.jpg"
+        width: 1600
+        height: 915
+        isCached: true
 
 secured: "4UOHrHzi1yHnrv5tSHuEv0aSYIT2H9XhYVq5klP1U6WIxUDLy7O74C12yS4iEJ/KIIFpCnrfxiKSAHu1P1eLhfWNcphmoxLOXgBfJnB61a22jqePXGIIeF4ZuWmXssV0C0Nr6gBGNS2rIuGhBasx+g4VzsoqkKVXq6pTFsqpok/WDiesStoGmdQomrTVZxyqu2RlffYtV6M5xN9zu2crucgHbPh/w5QzezXgKdOJ0Y1HYDwUZ9UYPahidFhV2S0bb2cG2mn1QC4HQeZ9p8YxkcCWo1Ys8lCpoBBUi/DRQb5y5KcOgSvTc5fmxwtEQX4fVrMojVZW9JDIqBnObQFfsja24YxVaDun7/HaWyfhDsq5QqHO03K/pNXNIOjFsmX7f+oAGbyr8czixCBEtRaLrmPQ+rK50TcTeTRznfNOTRFppVuAY5ebn/fHHnqRQ6M+1C/HUvgIEt5imlYoHJ1xKme89KEpZi4gAC/iH78JdrSV2eOZ5LDoWkvV/2ca9zV8Y45DTqIp0D9nazISoRE3cg==;0zQLEkq/KyJTXPcpElIfwA=="
 ---

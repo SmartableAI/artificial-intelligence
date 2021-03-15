@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
+    excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
+    publishedDateTime: 2021-03-15T17:42:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 29
   - title: "HMS Researchers Use Machine Learning to Recommend Drugs for Alzheimer’s Disease Clinical Trials"
     excerpt: "Harvard Medical School researchers developed a strategy that uses machine learning to recommend drugs as candidates for clinical trials for Alzheimer’s disease, according to an article published in the journal Nature Communications last month. A team of ..."
     publishedDateTime: 2021-03-12T06:18:00Z

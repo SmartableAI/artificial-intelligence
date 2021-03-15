@@ -2,6 +2,153 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-25-researchers-use-machine-learning-to-identify-autism-blood-biomarkers.md",
+      "title": "Researchers use machine learning to identify autism blood biomarkers",
+      "excerpt": "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/bloodtest.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
+      "publishedDateTime": "2021-02-24T13:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-is-there-a-more-environmentally-friendly-way-to-train-ai.md",
+      "title": "Is there a more environmentally friendly way to train AI?",
+      "excerpt": "Machine learning is changing the world, and it’s changing it fast. In just the last few years, it’s brought us virtual assistants that understand language, autonomous vehicles, new drug discoveries, AI-based triage for medical scans,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/robothand_flowerandbees-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
+      "publishedDateTime": "2021-02-24T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-the-cambrian-ai-landscape-cerebras-systems.md",
+      "title": "The Cambrian AI Landscape: Cerebras Systems",
+      "excerpt": "The unique approach has gained the US DOE supercomputing centers' attention, first at Argonne National Labs, which has purchased at least one of the ~$2M systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6036a6e6253479e213a47cad%2F0x0.png",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/amp/",
+      "publishedDateTime": "2021-02-24T11:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-5-data-issues-limiting-ais-potential-in-healthcare.md",
       "title": "5 data issues limiting AI's potential in healthcare",
       "excerpt": "Technology is increasingly interloping with efforts to make healthcare more efficient. Still, experts are finding it difficult to apply artificial intelligence to medical treatment, according to a Feb.",
@@ -1047,156 +1194,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.md",
-      "title": "3 kinds of bias in AI models — and how we can address them",
-      "excerpt": "When both humans and AI models have basic information like gender ... For instance, ML models trained to perform language translation tasks tended to associate female names with attributes like “parents” and “weddings,” while male names had ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.html",
-      "originalUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/10/artificial_intelligence_brain_circuit_thinkstock-100528006-large.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.amp.html",
-      "publishedDateTime": "2021-02-24T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-review-aws-ai-and-machine-learning-stacks-up.md",
-      "title": "Review: AWS AI and Machine Learning stacks up",
-      "excerpt": "Amazon Web Services provides an impressively broad and deep set of machine learning and AI services, rivaling Google Cloud and Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.html",
-      "originalUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/artificial_intelligence_ai_blockchain_digital_learning_chip-100745932-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.amp.html",
-      "publishedDateTime": "2021-02-24T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-ai-the-ai-times-who-should-stop-unethical-ai.md",
-      "title": "A|I: The AI Times – Who should stop unethical AI?",
-      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe. If you want to read A|I before anyone else, make sure to subscribe using the form at the bottom of this page. The project ...",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/ai-the-ai-times-who-should-stop-unethical-ai/",
-      "originalUrl": "https://betakit.com/ai-the-ai-times-who-should-stop-unethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2019/04/franck-v-740564-unsplash-1-e1555351354855-1024x684.jpg",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

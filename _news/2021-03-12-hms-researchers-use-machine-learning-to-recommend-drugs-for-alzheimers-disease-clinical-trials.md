@@ -39,6 +39,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
+    excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
+    publishedDateTime: 2021-03-15T17:42:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 29
 
 secured: "yfTHtCL75oqpD236znVA0WJ7SOyyDXpp/6Q97gK5XWQO+5WZ4jpWQ2TJO+usYVOA/6fnq1Wrb6ukskC4vCbtE1grCMM0oNSN8FDf4zNjuu/MNTCy7011i0r6xvAHu8k397MiJdp/1cEc3YwWxDqjYFH+qQKos4f9cJUGnsKD7LY4ULvbnbE8Pnxd7RjmIWjC/OrMOaloW/8FqiOSgNsasNbOCTGtNd8DQzZrpVeM2hLJ6SjYAUUsfCQa2o8FfnRcdJ6Ic8HOFpNOAbaTflkk8kgTY7hv7V/DRpI9cDFPkzLYN8xgXMefRpZrRdvgE2BgMst4YE4sBecRPQ2Cy+GBxBOWZ7B3MOTuG0Ir5CLVZtOuT/oAHHjbCmCisCyJVBK3oVHlkNC3nJF8JJG8tfNkWie0qbjo7TMfE6+votfx7ifBIT9pG/C4qJtEjENtAOaCHbapzQ3pMPhgyNQWxPrFc6/n74oE+5GKGDQyQTcao0891PIK+InlsHR4mdHyNE88aMO+YLCH3lqwPJsPub9/zA==;iB+K8s+NeOJc8NGh8KUQqQ=="
 ---

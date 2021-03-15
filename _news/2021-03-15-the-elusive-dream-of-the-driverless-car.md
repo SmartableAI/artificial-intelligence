@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 789
         isCached: true
+  - title: "Cruise acquires self-driving startup Voyage"
+    excerpt: "“Now at Cruise, we are thrilled to have the substantial resources to eventually serve not just senior citizens, but every possible demographic who stands to benefit from self-driving services."
+    publishedDateTime: 2021-03-15T16:37:00Z
+    webUrl: "https://techcrunch.com/2021/03/15/cruise-acquires-self-driving-startup-voyage/"
+    ampWebUrl: "https://techcrunch.com/2021/03/15/cruise-acquires-self-driving-startup-voyage/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/15/cruise-acquires-self-driving-startup-voyage/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/09/Voyage-engineers-Alan-Mond-and-Trung-Dung-Vu.png?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "305CqdXPqYcjThELzj5yZ/mTn6siBNPFB+EjR+aaocIEbRp625HWrrUN48nUvQf2hDJQa+m0Mkg0TNhF3uyytcrv+3NKhN38q+rRHBY98U4tnBtlw8V0TN5kxj2/fQkAW30xoZe2136qw8r751OdBCFYf4CERGWWCQ9MPwhS4Iwx5ZzUwdqe1X2WLwJFrVEOC9ZeOHx00ApbrfYXTI/xnZoxERRFmm8oAsvst/mFG6rRuB17mtGvc2ep5qh5HE2+uCQqPfxuqStWutzlveoEg0GIdKDF+hRQ0YYUu0+1yE2M0H3RVrxexYh8UJOrLDy/Pxv/qbV0CQ0FlnXJmfLQaldsWdKkvrt1loTARTdeIqqOXpNOor03jsb6zPwqIdii4TAo0FC7obSqIrnKjAbsN7gC1iwKUmfn07jfrKaB4yPaOvq50flHylKCIUgYPQLu+zNO/hlFw1uJXckhBDz29RDVlVARFeMgwPMfMByYsm8hkkWtBpg05mPf0imxt+Fp1eWI2fLw/vgH/9sv3pKcRw==;EYVRpGe0wXR/pyxjPEN1Wg=="
 ---

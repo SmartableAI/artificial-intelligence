@@ -89,17 +89,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Tesla touts self-driving to consumers. To the DMV, it tells a different tale"
-    excerpt: "For years, Tesla CEO Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off. The company has been telling regulators a very different story."
-    publishedDateTime: 2021-03-11T00:55:00Z
-    webUrl: "https://www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/"
-    ampWebUrl: "https://www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 36
   - title: "Tesla removed some drivers from its self-driving test for not paying attention"
     excerpt: "Tesla has expanded its \"full self-driving\" software to roughly 2,000 Tesla owners, but some drivers were revoked access for not paying close enough attention to the road, according to Tesla CEO Elon Musk."
     publishedDateTime: 2021-03-15T02:37:00Z

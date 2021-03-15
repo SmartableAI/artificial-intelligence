@@ -2,6 +2,162 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-04-ps5-and-xbox-series-x-out-of-stock-how-a-global-chip-shortage-is-impacting-everything.md",
+      "title": "PS5 and Xbox Series X out of stock? How a global chip shortage is 'impacting everything'",
+      "excerpt": "Cristiano Amon, incoming CEO of chipmaker Qualcomm, warns in an interview with CNET that the shortage may not end until late 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ps5-and-xbox-series-x-out-of-stock-how-a-global-chip-shortage-is-impacting-everything/",
+      "originalUrl": "https://www.cnet.com/news/ps5-and-xbox-series-x-out-of-stock-how-a-global-chip-shortage-is-impacting-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/dt5fQ0CXBRZ6uzNv7F5r480pqrE=/0x52:953x585/1200x630/2021/03/04/ea11d43d-dfa1-4b98-b35e-1ba2a2a20179/cristiano-amon.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ps5-and-xbox-series-x-out-of-stock-how-a-global-chip-shortage-is-impacting-everything/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ps5-and-xbox-series-x-out-of-stock-how-a-global-chip-shortage-is-impacting-everything/",
+      "publishedDateTime": "2021-03-04T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-fintech-tools-to-help-you-master-money-mindfulness-in-2021.md",
+      "title": "Fintech Tools To Help You Master Money Mindfulness In 2021",
+      "excerpt": "Mindfulness” is one of those zeitgeisty words that has invaded everything from beauty routines to breakfast cereal. Myriad brands promise mindful solutions to eating, exercising and using technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/",
+      "originalUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2021/03/getty_bounced-check_030321-568x322.jpg",
+          "width": 660,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp",
+      "publishedDateTime": "2021-03-04T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-baidu-said-to-win-hong-kong-bourse-nod-for-second-listing.md",
+      "title": "Baidu Said to Win Hong Kong Bourse Nod for Second Listing",
+      "excerpt": "The tie-up is intended to help Baidu deploy its Apollo self-driving tech in more vehicles, a person familiar with the matter has said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYiS4foB8OXk/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-amazons-amzn-aws-selected-by-tour-strengthens-clientele.md",
       "title": "Amazon's (AMZN) AWS Selected by TOUR, Strengthens Clientele",
       "excerpt": "Amazon's AMZN robust cloud services portfolio is helping it gain customers. PGA TOUR— commonly known as TOUR — recently selected Amazon Web Services (“AWS”) as its official cloud provider. This highlights the efficiency and reliability of AWS’s innovative cloud products and services.",
@@ -409,49 +565,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-04-financial-expert-daniel-calugar-comments-on-ways-that-artificial-intelligence-is-transforming-the-global-financial-service-sector.md",
-      "title": "Financial Expert Daniel Calugar Comments on Ways That Artificial Intelligence is Transforming the Global Financial Service Sector",
-      "excerpt": "Daniel Calugar, an experienced investor says that artificial intelligence will soon be an essential driver of business in the financial services industry. With an academic and professional career in computer science,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7",
-      "originalUrl": "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-04-microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know.md",
       "title": "Microsoft Power BI Premium: New platform and pricing, what you need to know",
       "excerpt": "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance.",
@@ -728,6 +841,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-04-record-group-meet-transcriptions-with-new-microsoft-app.md",
+      "title": "Record group meet transcriptions with new Microsoft app",
+      "excerpt": "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi. A product of Microsoft's experimental division Garage,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html",
+      "originalUrl": "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg",
+          "width": 1000,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-this-microsoft-app-transcribes-translates-group-conversations-in-real-time.md",
       "title": "This Microsoft app transcribes, translates group conversations in real-time",
       "excerpt": "Named the Group Transcribe, the app lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi",
@@ -857,40 +1013,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-04-record-group-meet-transcriptions-with-new-microsoft-app.md",
-      "title": "Record group meet transcriptions with new Microsoft app",
-      "excerpt": "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html",
-      "originalUrl": "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html",
-      "publishedDateTime": "2021-03-03T20:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-04-how-this-ai-ethics-researcher-combines-anthropology-and-technology-to-build-human-first-solutions.md",
       "title": "How This AI Ethics Researcher Combines Anthropology And Technology To Build Human-First Solutions",
       "excerpt": "My work as a tech anthropologist revolves around the study of the interaction between people and digital solutions, the changing nature of technology and its impacts on society",
@@ -985,21 +1107,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-04-mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops.md",
-      "title": "MediaTek MT9638 smart TV chip promises to bring 4K, AI chops",
-      "excerpt": "There are dozens of smart or Internet-connected TVs around that bring smartphone-like conveniences to living rooms. Unlike smartphones, most smart TV manufacturers focus on talking about software",
+      "path": "_news/2021-03-04-financial-expert-daniel-calugar-comments-on-ways-that-artificial-intelligence-is-transforming-the-global-financial-service-sector.md",
+      "title": "Financial Expert Daniel Calugar Comments on Ways That Artificial Intelligence is Transforming the Global Financial Service Sector",
+      "excerpt": "Daniel Calugar, an experienced investor says that artificial intelligence will soon be an essential driver of business in the financial services industry. With an academic and professional career in computer science,",
       "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/",
-      "originalUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/",
+      "webUrl": "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7",
+      "originalUrl": "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/mediatek-tv.jpg",
-          "width": 1280,
-          "height": 800,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1007,65 +1129,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/",
-      "publishedDateTime": "2021-03-03T17:47:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T19:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-microsoft-group-transcribe-provides-real-time-transcription-and-translation.md",
-      "title": "Microsoft Group Transcribe provides real-time transcription and translation",
-      "excerpt": "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7",
-      "originalUrl": "https://www.iol.co.za/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4af662c9-9e9c-523d-a589-77b6bd55c576",
-          "width": 410,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7",
-      "publishedDateTime": "2021-03-03T16:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1075,60 +1145,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-googles-ai-lab-deepmind-held-secret-discussions-to-launch-a-futuristic-food-division-and-one-idea-involved-nutricube-vitamin-supplements.md",
-      "title": "Google's AI lab DeepMind held secret discussions to launch a futuristic food division and one idea involved 'nutricube' vitamin supplements",
-      "excerpt": "Insider spoke to multiple sources about how DeepMind, the London-based AI company acquired by Google in 2014, considered launching a food division with vegan food startup Hampton Creek ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
-      "originalUrl": "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6040bf392dc90100183554fc?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-food-supplements-ai-deepmind-technology-2021-3",
-      "publishedDateTime": "2021-03-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
+        "AI in Finance",
         "AI"
       ]
     }

@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-10-five-ai-myths-and-misconceptions-and-the-role-of-communications.md",
+      "title": "Five AI Myths And Misconceptions And The Role Of Communications",
+      "excerpt": "It's imperative that those of us in the AI industry are honest and forthright about AI's capabilities, limitations, benefits and dangers, as well as the current state of the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/10/five-ai-myths-and-misconceptions-and-the-role-of-communications/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/10/five-ai-myths-and-misconceptions-and-the-role-of-communications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-how-fintech-is-evolving-in-2021.md",
+      "title": "How Fintech Is Evolving In 2021",
+      "excerpt": "This year is paving the way to a brighter future, and fintech is at the forefront. Here are some of the key areas in which fintech is evolving right now. For 14.2 million U.S. citizens, digital banking is their only form of money management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f52482e3813fbe2dd6ff492%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/",
+      "publishedDateTime": "2021-03-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-cloud-cybersecurity-startup-lumu-raises-a-75-million-series-a.md",
       "title": "Cloud cybersecurity startup Lumu raises a $7.5 million Series A",
       "excerpt": "Miami-based cybersecurity startup Lumu today announced the closing ... firewalls and spam box filters, then applies AI to correlate threat intelligence from these disparate data sources to isolate ...",
@@ -251,6 +354,50 @@
         "AI",
         "Natural Language Processing",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-facial-recognition-company-sued-by-california-activists.md",
+      "title": "Facial recognition company sued by California activists",
+      "excerpt": "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/0f7642d1f9222d8a3047f7062c91c0e7",
+      "originalUrl": "https://apnews.com/0f7642d1f9222d8a3047f7062c91c0e7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/ShareLogo2.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T22:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1082,143 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-meet-seekout-a-profitable-diverse-hiring-startup-that-just-raised-65m.md",
-      "title": "Meet SeekOut, a profitable diverse hiring startup that just raised $65M",
-      "excerpt": "Most companies claim they want a diverse staff but at the same time, complain they don’t know how to go about recruiting more diverse candidates. Enter SeekOut — a startup that is out to give companies no excuses with its AI-powered platform.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/",
-      "originalUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2014/02/money.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/seekout-raises-65m/amp/",
-      "publishedDateTime": "2021-03-09T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-and-bengio.md",
-      "title": "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio",
-      "excerpt": "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "originalUrl": "https://www.zdnet.com/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "publishedDateTime": "2021-03-09T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-assessing-regulatory-fairness-through-machine-learning.md",
-      "title": "Assessing regulatory fairness through machine learning",
-      "excerpt": "The perils of machine learning – using computers to identify and analyze data patterns, such as in facial recognition software – have made headlines",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/",
-      "originalUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2021/03/AI_policymaking.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/",
-      "publishedDateTime": "2021-03-09T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

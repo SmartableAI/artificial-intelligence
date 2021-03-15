@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-15-the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter.md",
+      "title": "The Future Of Robots: Making Distribution Centers Safer, Speedier And Smarter",
+      "excerpt": "The fact that you can buy what you want and receive it quickly is thanks entirely to logistics — including distribution centers (DCs), which are the beating hearts of modern-day retail and ecommerce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/",
+      "originalUrl": "https://www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f98b5f5960ed930ec6e9f%2F0x0.jpg",
+          "width": 874,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/amp/",
+      "publishedDateTime": "2021-03-15T09:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-why-your-ai-must-be-humble.md",
+      "title": "Why Your AI Must Be Humble",
+      "excerpt": "Every manufacturer needs to increase its velocity of information. Currently, manufacturers are experiencing extremely fast changes in consumer demand because trends now change in the blink of an eye.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/",
+      "originalUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f7d1fbcdabc13eac1f9f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/",
+      "publishedDateTime": "2021-03-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new-funding-said-to-be-at-us2-billion-valuation.md",
       "title": "Chinese online search giant Baidu’s AI chip unit Kunlun completes new funding, said to be at US$2 billion valuation",
       "excerpt": "recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about US$2 billion. The fundraising, which comes as Baidu pushes forward its AI chip design plans, was led by Chinese ...",
@@ -96,7 +199,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -199,7 +302,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation-2021-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -995,7 +1098,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-share-growing-rapidly-with-recent-trends-and-outlook-2020-2027-2021-03-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1086,110 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-google-might-ask-questions-about-ai-ethics-but-it-doesnt-want-answers.md",
-      "title": "Google might ask questions about AI ethics, but it doesn't want answers",
-      "excerpt": "Gebru and Mitchell were both leading members of Google’s Ethical AI team. In other words ... highlighted the extent to which the tech industry’s recent obsession with “ethics” is such a manipulative fraud. As the industry’s feeding frenzy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language?via=indexdotco",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e66281338e4e2ff1f94da89602c58600fb121707/0_0_5760_3456/master/5760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e50f04620ae0716750e717d62f5cf26a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language",
-      "publishedDateTime": "2021-03-13T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-why-is-teslas-full-self-driving-only-level-2-autonomous.md",
-      "title": "Why Is Tesla’s Full Self-Driving Only Level 2 Autonomous?",
-      "excerpt": "A trial of Tesla’s Full Self Driving ability has been making its way round a few US cities carrying selected beta-testing Tesla owners since October 2020. But recently a series of emails between Tesla and the California Department of Motor Vehicles have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604cb18fd5d6f97db3738c30%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D167%26cropY2%3D2868",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/",
-      "publishedDateTime": "2021-03-13T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

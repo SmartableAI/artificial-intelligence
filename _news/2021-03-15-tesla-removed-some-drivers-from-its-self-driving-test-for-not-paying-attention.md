@@ -103,17 +103,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Tesla touts self-driving to consumers. To the DMV, it tells a different tale"
-    excerpt: "For years, Tesla CEO Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off. The company has been telling regulators a very different story."
-    publishedDateTime: 2021-03-11T00:55:00Z
-    webUrl: "https://www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/"
-    ampWebUrl: "https://www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 36
   - title: "Autonomous and Self-Driving Vehicle News"
     excerpt: "In autonomous and self-driving vehicle news are Luminar, Zenseact, NVIDIA, RoboSense, Outsight, GoFor Industries, Ollie and Feniex Industries. Luminar Partners with Zenseact. Lumi"
     publishedDateTime: 2021-03-15T00:55:00Z

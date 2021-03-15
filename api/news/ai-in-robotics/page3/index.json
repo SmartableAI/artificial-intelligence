@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-26-nano-coatings-robots-need-protection-too.md",
+      "title": "Nano Coatings: Robots Need Protection, Too",
+      "excerpt": "Robots rely on electrical circuits of varying complexity to control their parts ... The engineering team at Sarcos kept that requirement in mind when considering printed circuit board assemblies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.machinedesign.com/markets/robotics/article/21156269/nano-coatings-robots-need-protection-too",
+      "originalUrl": "https://www.machinedesign.com/markets/robotics/article/21156269/nano-coatings-robots-need-protection-too",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/machinedesign/image/2021/02/Promoo_nake_stairs.6037d647b1818.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-robot-vacuums-the-5-best-robot-vacuums-in-the-uk-2021-from-irobot-eufy-and-robotrock.md",
       "title": "Robot vacuums: the 5 best robot vacuums in the UK 2021, from iRobot, Eufy, and Robotrock",
       "excerpt": "If you don’t fancy the thought of having to use an app to control some facets of operation then this is the robot vac to go for ... be able to use the app. Mind, that’s not necessarily ...",
@@ -1287,49 +1330,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-ai-will-take-construction-robotics-from-hype-to-reality.md",
-      "title": "AI will take construction robotics from hype to reality",
-      "excerpt": "Buildots attaches 360 cameras onto project managers’ hardhats to collect footage inside the construction site, flagging problems to be solved and tracking construction progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-will-take-construction-robotics-from-hype-to-reality/",
-      "originalUrl": "https://www.zdnet.com/article/ai-will-take-construction-robotics-from-hype-to-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-take-construction-robotics-from-hype-to-reality/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-take-construction-robotics-from-hype-to-reality/",
-      "publishedDateTime": "2021-02-18T13:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

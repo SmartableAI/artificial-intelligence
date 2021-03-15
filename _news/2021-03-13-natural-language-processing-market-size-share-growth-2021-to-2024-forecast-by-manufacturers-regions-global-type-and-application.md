@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Organs Market Worldwide Share, Recent Trends, Business Overview, Application, Types, Future Growth and Forecasts 2020 - 2027"
+    excerpt: "The global artificial organs market is expected to reach USD 32.62 Billion by 2027, according to a new report by Emergen Research. The market is experiencing rapid growth attributed to growing incidences of organ failure,"
+    publishedDateTime: 2021-03-15T17:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-organs-market-worldwide-share-recent-trends-business-overview-application-types-future-growth-and-forecasts-2020---2027-2021-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "XJjsNqKx8dBTLKjPhq+HTmSLhXettOyf9yCZ6KeqU9uqy7Bp6qr3nYGeH33U/NhZQeTF9sceVqefG5sZSq0S6rIOfl/rI2ISFSw9M3OMoQKqZA+EPzjMOtRiWkjyjweo/IfvFUIEG1lKmBSqmE5Sn54KwOOjnOuzNQPzC1S0LxM0efyQTjBTqUichsCsDxZZXdl8tSz6mfts6TX5iN4zhJymO89ik/antD0IUBZrP2yrzmIbshoXq9CjO3E2hxSJIW9D2r4FDd6aX4GKPVc9d2xfcKNTf/OQj+sQQARlBDL7YfM970j9WDYg5XrBSa/LTaCT/ihLKV0D6jb/SWv2NjF/D743UPMYebMvHEPBMIU=;ArpZYZJ2F6GTkFRD9uGr8w=="
 ---

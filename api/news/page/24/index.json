@@ -2,6 +2,145 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-23-from-the-data-and-ai-expert-labs-its-not-whether-you-adopt-ai-its-when.md",
+      "title": "From the Data and AI Expert Labs: It’s not whether you adopt AI. It’s when.",
+      "excerpt": "You wouldn’t be reading this if you didn’t have the sense that AI is the future. But the breadth of solutions can be so paralyzing that it stops business leaders cold. Firms like PricewaterhouseCoopers and McKinsey predict that the global AI economy will grow to $13-15 trillion by 2030. But today only",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/data-and-ai-expert-labs-adopt-ai/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/data-and-ai-expert-labs-adopt-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/DataAI_Expert_Labs_Toby_Cappello_Blog_Leadspace_Small_1-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T06:00:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages.md",
+      "title": "Dynamic Yield Improves eCommerce Sales with Deep Learning-Based Personalized Listing Pages",
+      "excerpt": "Solution uses a self-training ranking engine to dynamically transform static, one-size-fits-all listing pages into fully individualized",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-1030113527",
+      "publishedDateTime": "2021-02-23T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-autel-robotics-evo-drone-review_.md",
+      "title": "Autel Robotics EVO Drone Review_",
+      "excerpt": "The Autel Robotics EVO Drone gives you a high quality ... Like the DJI Mavic Pro Quadcopter, you’re getting a pretty impressive range of control distance with this “follow me” drone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetreview.com/autel-robotics-evo-drone-review",
+      "originalUrl": "https://www.gadgetreview.com/autel-robotics-evo-drone-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gadgetreview.com/wp-content/uploads/2021/02/Autel-Robotics-EVO-Drone-Review.jpg",
+          "width": 2112,
+          "height": 1188,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadget Review",
+        "domain": "gadgetreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-fundguard-raises-12-million-to-help-manage-assets-with-ai.md",
       "title": "FundGuard raises $12 million to help manage assets with AI",
       "excerpt": "FundGuard, a startup developing an AI-powered asset management platform, has raised $12 million in venture capital.",
@@ -701,6 +840,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services.md",
+      "title": "BBVA and Google Cloud Form Strategic Partnership to Drive Security Innovation in Financial Services",
+      "excerpt": "BBVA and Google Cloud today announced a new strategic partnership to transform the bank's security strategy by optimizing and improving its",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services/article_75768ea4-4d21-5e9d-b5ca-589f0be8ccba.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services/article_75768ea4-4d21-5e9d-b5ca-589f0be8ccba.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-gab-mewe-telegram-discord-trump-fans-extremists-find-new-outlets-after-facebook-twitter-bans.md",
       "title": "Gab, MeWe, Telegram, Discord: Trump fans, extremists find new outlets after Facebook, Twitter bans",
       "excerpt": "While exclusion from major platforms has limited US conspiracy and extremist movements’ large-scale recruitment capacity, embers smoulder under the ashes.",
@@ -984,196 +1167,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health.md",
-      "title": "Take A Look At How Artificial Intelligence Can Improve Your Pet’s Health",
-      "excerpt": "Could artificial intelligence give us better insight into our pet's health? How can a data-driven approach help animals live healther, happier lives?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603437d924ef803c1c8288c4%2F0x0.jpg",
-          "width": 1123,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/",
-      "publishedDateTime": "2021-02-22T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-4-etfs-to-invest-in-robotics-artificial-intelligence.md",
-      "title": "4 ETFs to Invest in Robotics & Artificial Intelligence",
-      "excerpt": "Robots and artificial intelligence (AI) are increasingly becoming an integral part of our lives. There are so many AI enabled applications that impact our daily lives. The pandemic further accelerated automation and the trend is likely to continue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22",
-      "originalUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22?amp",
-      "publishedDateTime": "2021-02-22T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-mschf-mounted-a-remote-control-paintball-gun-to-spot.md",
-      "title": "MSCHF mounted a remote-control paintball gun to Spot",
-      "excerpt": "I had the chance to control the robot for the first time at one of our ... Anyone in their right mind knows these little cuties will kill people sooner or later.” While early Boston Dynamics ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/",
-      "originalUrl": "https://techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/G84A2121.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/amp/",
-      "publishedDateTime": "2021-02-22T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-use-ai-to-sort-through-market-moving-news.md",
-      "title": "Use AI to sort through market-moving news",
-      "excerpt": "Bloomberg helps you sort through this enormous amount of information in a manageable and comprehensive way with a tool called Key Themes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/use-ai-to-sort-through-market-moving-news/?tactic-page=467165",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/use-ai-to-sort-through-market-moving-news/?tactic-page=467165",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fusanews.png&width=800",
-          "width": 800,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T13:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

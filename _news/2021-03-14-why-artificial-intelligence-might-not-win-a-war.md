@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "This Chip for AI Works Using Light, Not Electrons"
-    excerpt: "Lightmatter says the computing and power demands of complex neural networks need new technologies like these to keep up."
-    publishedDateTime: 2021-03-11T01:28:00Z
-    webUrl: "https://www.wired.com/story/chip-ai-works-using-light-not-electrons/"
-    ampWebUrl: "https://www.wired.com/story/chip-ai-works-using-light-not-electrons/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chip-ai-works-using-light-not-electrons/amp"
+  - title: "Why Your AI Must Be Humble"
+    excerpt: "Every manufacturer needs to increase its velocity of information. Currently, manufacturers are experiencing extremely fast changes in consumer demand because trends now change in the blink of an eye."
+    publishedDateTime: 2021-03-15T16:04:00Z
+    webUrl: "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/"
+    ampWebUrl: "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.wired.com/photos/6047be0fa517f1eadd3116b5/master/pass/Business-Chip-LightMatter-20200417_094913.jpg"
-        width: 2400
-        height: 1800
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f7d1fbcdabc13eac1f9f0%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "4cCj/cyGaPDBLwFolEDkQQ3fbLYj6ug7f4pD3KdGArW8ivHc6Pf3x7Wg+xzXiOlv2MxNpQKEtuYtskAr4RIBQEs7UkdlM2kjyryOfaB2CpDaeZ288neOzKhGiqWqb74CqFCZrjNc8q1+t2pIJCzeM3EMtYpMf82KgEPklvLPQJvZN+w8hQvS9rOWxaa2GCtXR8kHzrJpwKXtyCEfWoPWzdN5tkB+nI+6AxGCwN/U1VWHnL9Zoch76WyqHjWbwazaHvJGnUyfosav/SS38GZ08bS/+rjTfu6cphYCEvQcFwsKiHGvHS+/rdzpf5z7MIsBpFimV7vZ9p0eo2UflDArUrJSYGGyhtbbFiIWultZTUs=;ZtH6s9RcTW2ZmZp98paaBg=="

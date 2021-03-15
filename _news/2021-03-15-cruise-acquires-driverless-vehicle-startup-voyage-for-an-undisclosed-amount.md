@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cruise acquires self-driving startup Voyage"
+    excerpt: "“Now at Cruise, we are thrilled to have the substantial resources to eventually serve not just senior citizens, but every possible demographic who stands to benefit from self-driving services."
+    publishedDateTime: 2021-03-15T16:37:00Z
+    webUrl: "https://techcrunch.com/2021/03/15/cruise-acquires-self-driving-startup-voyage/"
+    ampWebUrl: "https://techcrunch.com/2021/03/15/cruise-acquires-self-driving-startup-voyage/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/15/cruise-acquires-self-driving-startup-voyage/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/09/Voyage-engineers-Alan-Mond-and-Trung-Dung-Vu.png?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "The Elusive Dream of the Driverless Car"
     excerpt: "that once redesigned by the Stanford Artificial Intelligence Lab could travel autonomously at about a mile per hour by 1971. But getting from that cart to the mass adoption of driverless cars in our cities and streets is akin to the difference between ..."
     publishedDateTime: 2021-03-15T09:59:00Z
@@ -46,6 +62,6 @@ related:
         height: 338
         isCached: true
 
-secured: "wIS5n5tFgpryqyW9xuUsygugqUNSBFsqlgGtMOdCrFu5CDbMciysfANhGg4Web3fi4YMw2Om7mMChSbMQ5bWV+shHgNgUIavZu2GsrbvS6flBjLkXG7/iyiTbhdURuey0W/Uq4CtSDF/vOxKISXMED2/ixPmfzetcC2Q7YTWO/DCeQWdW2XyIEDDNds0nhR8IPAOWPQaAhrwCQCGiw6QVbYIJRyFiUxW0NH9S8b6GAdLc4T3GH5t0RIiNQjUTriUbsqb9lg9e0bWDgj09IFrO3+ShuBwW3cMMwxcNVs+x5og2E+OQPRoxttE7RUQ2Afc00HqPKg8J8nL2/Zif2QVEqMzqIU2zaRnuLddKVqAvas=;jZUZSZ3hwhzq/u/ZyycakA=="
+secured: "uRYyzGoETZi2dlOee8GP/FHzARLsbRoPtoBVGIsvPD35p0s9suaealZ95oTWeojOvyHHQfq4dImNEi5mqYXVNjQ0kCi4FLfLuafvvXDrXTqDzPjDZj7RiiWO4X3RwckYe7J9JFXQTHchZWQ24OOJgWRhd0zB0/APKWo9D1RXb62/X9D1vwDxsX80tJRe/2SZthk8FCkETZCdVRU6Ql3TdERziy+svgOs4GQJBO6Rh9Cr1EH9qtIHGFLKPkkCGFv+1RpZqvJUv0Yqvp0W8eB5RAlZsLLEw8xoOmpMT2Z550YguZLsiIHUaMMeXE9gwuINgWaMYBApe1nje9bFMJcjm//ZNav+qXa70a7sac+Y2DdUKww2teSbwD8alCxlmWutS4dgLu21BL+SgEgs7+gde4DUPiDIqxOceo1A8mOIIFrDDChWsAtTKbIIP8hUmBH6pASimcmwHa2ip5na2yvkor0N5Myzh7d1LwSmBGJkWP2pwVdiXArRcdaPWGzwtHY7B1aJvd0CUBmQG/N6L2qO1w==;3JKenBBaN3bi27oXM9pE/A=="
 ---
 
