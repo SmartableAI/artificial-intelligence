@@ -27,6 +27,15 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 34
+  - title: "Artificial Intelligence in Military Market worth $11.6 billion by 2025 - Exclusive Report by MarketsandMarkets"
+    excerpt: "CHICAGO, March 15, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type ..."
+    publishedDateTime: 2021-03-15T11:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-03/52292865-artificial-intelligence-in-military-market-worth-dollar-11-6-billion-by-2025-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "pP0aAO+GOAvONRl92mNveyHSDpmdkp/KcBTvXTI6oyjrz+DtnB2yGNef4WHjs4XZ6C0kvHYOVEiQ5unHp44Q/I+puT/PL/iPA7m/WY3MWbpRXJaOKQ0plsIcMOAkARl2bKWGNbnI/7D3bq/e8cfzBN5pPGHZawrCBuYdmmjaqXpaCo7462x3Kyo4h8/OvN5Kf4NF8ABZWXCNqRfRUW3JMnlPiUhG0HPTEf5Kyhz50pyDFzRKZiAejjuyoANXUoeuNQclPJdXt5+0gyEep+W6tUhf5/EhIIEoOIkezbTE+aS0UlgzWgt7zeApTcqXnY4GBYT1+649a0qAtQl6+5m4EreX+mJRhE27I0MEwa1h/tE=;Xf0Zn5yrP0mlxqgLGrBjLQ=="
 ---

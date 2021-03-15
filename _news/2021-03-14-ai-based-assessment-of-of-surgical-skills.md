@@ -42,6 +42,20 @@ related:
         width: 1920
         height: 1371
         isCached: true
+  - title: "Anyword Introduces New Marketing Language Platform, Merging Performance Data with Cutting Edge AI to Drive Results"
+    excerpt: "introduces a new technology that leverages AI and natural language processing to generate and optimize performance-driven marketing text that delivers business results across websites, social channels, email, and ads. Recently, Keywee changed its company ..."
+    publishedDateTime: 2021-03-15T11:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-19698316.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "YtirW/CHoW+6YCeRCipFUqmAZsuVVRV7199xrkBBw+G4zy9M4kBzDXG1pFqrv/jwieXJsh18xyKiS24Eg1XxpOre90GnOlHkrmUxn8NS8TkaC6sodE/XKp1cPNgjqMSAGI7ayhMPMZ6FZ8wcoGhVlk6pBVFlhtG+p67tOzgNIuttPDYeG6gHjenbcWxpxWieNPTX4XH68dSty365H5815WJS1Wb/Dwv0eQew7XjFjCmSzzHe/z7/Imw3jdOsDCJThvS2t1YlBYBUOWPeZ8/7r+lE1ucWy34YpSttaZ8CIz/L9MZH32aXe5XyuO8WQ6DogzRyF9Umy2O42mxrpWUX9TMbTdjYtAnS9xWe1px7oaw=;NXuILxCW++28aNjWQvB5kQ=="
 ---

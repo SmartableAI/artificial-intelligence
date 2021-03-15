@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Applications of artificial intelligence in cardiovascular imaging"
-    excerpt: "In this Review, Sermesant and colleagues discuss the applications of artificial intelligence (AI) in cardiovascular imaging and explain how pre-existing clinical knowledge can be included in AI methods to increase robustness."
-    publishedDateTime: 2021-03-12T18:33:00Z
-    webUrl: "https://www.nature.com/articles/s41569-021-00527-2"
+  - title: "Global Artificial Intelligence Market to be Driven by the Rising Digitalisation of Data in the Forecast Period of 2020-2025"
+    excerpt: "Artificial intelligence finds its application in a wide variety of industries such as healthcare, retail, automotive, finance, and manufacturing. The rising number of start-ups who are generally reliant on artificial intelligence are propelling the market ..."
+    publishedDateTime: 2021-03-15T10:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-to-be-driven-by-the-rising-digitalisation-of-data-in-the-forecast-period-of-2020-2025-2021-03-15"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41569-021-00527-2/MediaObjects/41569_2021_527_Fig1_HTML.png"
-        width: 685
-        height: 260
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "ajFDIOshDmhkLYEKsxhcwi/p53HThGOtdg9bQjfe/LqqbB2LiSMjZUz21tkHv+ag6A7/F7olGB0BNGCQXGSduE9xqHhFzHXod3LxQ4GDiYM98hdKfVtpfciXIRHkLHhpPA+Myv9o7kFKG+UjvLIjN7FJjIgjGcfD20jqgC7lStNYfSzCys1kfkyXCbaTqiufTV2RZ0lS5izkimnz9qLxGqDNsvSjrwR3zqKi5mh5obkmRyGnrbpJ0j66sCklxjbyVZ5lvtD+/Gy71BJlcJqJsrH18m9WHCuSRZP885UhqOX/Wo0kHMbdkSc7hW7QmQMoKjrzkypOhI7Q9IzoMEcPwcWn0mIIJ9xKs5x++tvj2jc=;YFwCX+zVZu8SfojvWYNc7g=="
+secured: "4FOyZxyIRFAPSXHtFH6LF6DFMWxjh0d0rD7IyACX4egPNmND2kMxdMX32qbE68Lrz/Snu3bzFkQLDE84hxsz790L+TMHBmT5WWpDjNHpcEyjn0+oyGV+W4Jxes8XW6f3kxalA5Ab7tSt4/DyqoL46NQujVVAmUj29lKViCi9ti2MUUOYgZLmW3TjLVmtM+3RBELTJniQLvviPdflqEcsSUxNQWauZLAmYHfD4I5wzQRP2eaG12PNg+KbxEuctSO+buA3jplRaVD7CZXSmyL54l07MC9NrNl9uTcOD5Lqjio9RXmiswAzX9Ykl9bCiXDJ4S6MEBKPudSrsshsQtwEVyncrUWEQuYirinFCpw15ZDWSSyIVGSNjtphpQ3Tb3KoBBQBwjo5xu4N589ersE8soCmAsm5cqDBzQIN9zjzlBfGLz8A6GDvbeOtDVCWsdReXIAVqFWFPWEswPKhqtdBUWYbzjmGCGSKfkE5Ppefg0pMg77Xm7yhGJ18t4vvgj+lYQSgmGTUEBHWcIPYhE/ecQ==;qv3XUWmXymnQYGVGc2K3Nw=="
 ---
 

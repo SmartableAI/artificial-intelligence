@@ -77,20 +77,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 41
-  - title: "Activists sue facial recognition company in California"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally"
-    publishedDateTime: 2021-03-10T18:15:00Z
-    webUrl: "https://journalrecord.com/2021/03/10/activists-sue-facial-recognition-company-in-california/"
-    type: article
-    provider:
-      name: Journal Record
-      domain: journalrecord.com
-    quality: 39
-    images:
-      - url: "https://journalrecord.com/files/2020/06/OKJR-Lettings_300x250-V3.png"
-        width: 300
-        height: 250
-        isCached: true
   - title: "California Activists Sue Facial Recognition Firm for Illegal Data Collection"
     excerpt: "The lawsuit contends that Clearview AI has built 'the most dangerous' facial recognition database in the nation, illegally stockpiling information on 3 billion people without their knowledge or permission."
     publishedDateTime: 2021-03-11T02:21:00Z
@@ -105,17 +91,6 @@ related:
         width: 1020
         height: 715
         isCached: true
-  - title: "Facial recognition company sued by California activists | Charlotte Observer"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
-    publishedDateTime: 2021-03-10T18:26:00Z
-    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249820553.html"
-    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article249820553.html"
-    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article249820553.html"
-    type: article
-    provider:
-      name: Charlotte Observer
-      domain: charlotteobserver.com
-    quality: 38
 
 secured: "ImyBy7743T5p5+cG7cNv3m43HmFTR57roJSxSPnPondEOwd+SqisGm95qrIpo4H35MERs9mI8TBb0dAeyLNil/N2au5G8tRCMOj9C6sYe07BKM5h7J+W90kypqt4GpgmotHQrvnx4HgFSgN5ahrnF7WneCHf1HfXJg4wntfr5u/lZG5nIcxgduR5Aob0PAwnZdBwpvhzw/ch44nCfNnDMBAl2RXeHSNXYg1toXFK1gxdULYr6/VZWpNpZIZB85mpMr8ICIwSgdbDbSN8meKVHhQNlrJhOE8hxSF9t41UR5AsEvGmc7MHfS+U9+/p06eOlynTEZwAQ4sOs6NwdNnMWwUfripV6aYKkE7UAKiUdyo=;mlstB16xBkj22vU36NERZg=="
 ---

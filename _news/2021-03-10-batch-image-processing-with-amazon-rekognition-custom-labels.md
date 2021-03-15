@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/batch-image-processi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/batch-image-processing-with-amazon-rekognition-custom-labels/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Translate video captions and subtitles using Amazon Translate"
-    excerpt: "Video is a highly effective a highly effective way to educate, entertain, and engage users. Your company might carry a large collection of videos that include captions or subtitles. To make these videos accessible to a larger audience, you can provide translated captions and subtitles in multiple languages."
-    publishedDateTime: 2021-03-10T19:57:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-video-captions-and-subtitles-using-amazon-translate/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/26/ML-2200-2.jpg"
-        width: 800
-        height: 368
-        isCached: true
   - title: "PDF document pre-processing with Amazon Textract: Visuals detection and removal"
     excerpt: "Amazon Textract is a fully managed machine learning (ML) service that automatically extracts printed text, handwriting, and other data from scanned documents that goes beyond simple optical character recognition (OCR) to identify, understand, and extract data from forms and tables. Amazon Textract can"
     publishedDateTime: 2021-03-11T21:30:53Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-mark
 webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-to-reap-over-usd-12999-billion-in-revenues-by-end-of-2026-2021-03-11"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel And Microsoft Work With DARPA To Solve Biggest Analytics and AI At Scale Problem"
+    excerpt: "Getting secure global data access to data is a key problem. This problem came up early on as the industry spun up advanced Supercomputers and AI systems Intel and Microsoft, working with DARPA, are beginning a process that will create an ASIC-based solution that can work across borders to enable the secure analysis of data wherever it resides in the world."
+    publishedDateTime: 2021-03-11T22:51:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/intel-and-microsoft-work-with-darpa-to-solve-biggest-analytics-and-ai-at-scale-problem/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 48
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/02/storage.png"
+        width: 1400
+        height: 732
+        isCached: true
   - title: "Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security"
     excerpt: "Mavenir, the industry’s only end-to-end cloud-native Network Software Provider and a leader in accelerating software network transformation for communications service providers (CSPs), announced today its extended Artificial Intelligence (AI) and Analytics portfolio to enable closed-loop automation and drive digital transformation."
     publishedDateTime: 2021-03-12T06:43:00Z
@@ -43,31 +57,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "What Accounts For The High-Decibel Growth Of Voice & Speech Analytics Market?"
-    excerpt: "Voice assistants such as Alexa, startups working in speech recognition and companies investing in voice technology have seen tremendous growth in the last few years. Several factors contribute to the increased traction in voice technology,"
-    publishedDateTime: 2021-03-13T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/what-accounts-for-the-high-decibel-growth-of-voice-speech-analytics-market/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 21
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/voice-analytics-market.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Automotive Voice Recognition Systems Market Research Report by Type, by Deployment - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "Reportlinker.com announces the release of the report \"Automotive Voice Recognition Systems Market Research Report by Type,"
-    publishedDateTime: 2021-03-11T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20115206/automotive-voice-recognition-systems-market-research-report-by-type-by-deployment-global-forecast-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20115206"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20115206"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "DCjYU+tnIWUEKlbDJ9eUIG2oBfu2xk9PXuvSMJUqtpKhUCMIpSPYdTyITeUjI+D9Og5VkOohWRi8//jx09Ku5l7l91rWNh0B0ySMEcoGZM3gI4dPriFAAlqCm7Apeco25OY8xrv26bLh1i6kVt3vlVoitwYq6kik0p6HV73NlrUOTLbPvn7F9c26SczlEKmpAsPW2LWZr6jRwrRBFops1LSf5xahLHT68uG9iqJrq3gJWgmu+zjHT0b/tr4vWoilA7C8TTIjL5FBupRAKu0hj98wcIs8uBtu3lJrMme3sYd1a7TYbsLGTiQ/FraO9ulq6yFEbsTD0vxbrqhCl0lFLK1InqMgmP5gSHfL7GCeZ4o=;rtoQDeOOn1ARj9elRX9H6w=="
 ---

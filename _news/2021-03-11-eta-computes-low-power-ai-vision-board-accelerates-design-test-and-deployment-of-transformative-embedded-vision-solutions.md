@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Eta Compute’s Low Power AI Vision Board Accelerates Design, Test, and Deployment of Transformative Embedded Vision Solutions"
-excerpt: "Subscribers will get access to all digital content on NorthWestGeorgiaNews.com Eta Compute’s Low Power AI Vision Board Accelerates Design, Test, and Deployment of Transformative Embedded Vision Solutions Eta Compute Inc ."
+excerpt: "Eta Compute Inc ., the leader in energy-efficient endpoint AI solutions for intelligent sensing anywhere, announced its integrated, ECM3532 AI Vision Board, the lowest power embedded vision board that helps developers accelerate time to market."
 publishedDateTime: 2021-03-10T17:01:00Z
-originalUrl: "https://www.northwestgeorgianews.com/associated_press/business/eta-compute-s-low-power-ai-vision-board-accelerates-design-test-and-deployment-of-transformative/article_463e1c8c-75d1-5281-b37f-20520fc32427.html"
-webUrl: "https://www.northwestgeorgianews.com/associated_press/business/eta-compute-s-low-power-ai-vision-board-accelerates-design-test-and-deployment-of-transformative/article_463e1c8c-75d1-5281-b37f-20520fc32427.html"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-25b8b8b0b99b48839013f83de0bf2e2b"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-25b8b8b0b99b48839013f83de0bf2e2b"
 type: article
-quality: 12
-heat: 12
-published: false
 
 provider:
-  name: Rome News-Tribune
-  domain: northwestgeorgianews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "PAmyIPIq+9r/EStFWcWA1nZs+OMO7xo1mQEsKIp5JademZsSjJubQ/2Sjt32MycqcTd5jleaXNY0Nrj9qh6fCATDi3owRc2YNiB6F42yJoLmRl4A9tpZ7Vd/O1dq0Fr3TyPOpa2KzIq1vF5xRtEtEKYldLr3AVzoyuQ72QMWyJS1nPOcm5HtJBRKoKf+CoTf7tN5Yir24cXaIh9OjFci/PX2sBJt9CpFmeaZRKMxuJ07VdfBFFyuyRnjwGDPYplbFi123n/8ZGbbkjn59CjCs1LcQb+9UXrmi6LEodvzguC4BlxsTC9ZGl0ihMOCmG2bqeWeAa5tLxsNUFsbiobDmwd9Jhvt1migG7QLbhQa9ao=;2xuGFWKkblJhf0KY/yCjyQ=="
+secured: "xEtTjkMv49yeHhSfHLfwLavYFqmAgefiC25yf6WSobB6vpF6R+z7ciwveyg0USddY614Tl176pu81tSKMSY20ExuyPtflqULf+zZq0FIo/pp3LjJzLd9mNFW04x7s0kVKMqIfgsMPd6Ak//H0qI3BAtfefMHOgNYewD5iHyEt+Q7SjU+fVU/HYLtPghcqp9CsovKG9zhewog7+vswsFs0C5dE3vgotPmxOflEuNMtioDvTcmC0pflXY4TMUNDGw1tZ2cENyv/gUD+mWhBc6N2Pkb/59gOkCm/m3qlLA0PhJuyF+T/G6b7N7MlXdnOmrNId6CqsycgRpYJQkaFY19+Jx7OBre9cp6jKGJKXi1rbc=;wd6oxICWCA8LxxeoYm4RKA=="
 ---
 

@@ -44,20 +44,6 @@ related:
         width: 800
         height: 383
         isCached: true
-  - title: "Translate video captions and subtitles using Amazon Translate"
-    excerpt: "Video is a highly effective a highly effective way to educate, entertain, and engage users. Your company might carry a large collection of videos that include captions or subtitles. To make these videos accessible to a larger audience, you can provide translated captions and subtitles in multiple languages."
-    publishedDateTime: 2021-03-10T19:57:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/translate-video-captions-and-subtitles-using-amazon-translate/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/26/ML-2200-2.jpg"
-        width: 800
-        height: 368
-        isCached: true
 
 secured: "3DaWcalndZ2zm4Srj0WbPDTYVSd1CirEgSRwkgGsiDHMq/KNqjb3gHD2TAZ6WUG0p4oqbJvQdMNJ2upTttYedcLD22u6VLKVkL/oCyz+Tj3TA0V9Yz19hp2hvQW+rm76fYehbaFYVinQ9D+Ss02GJVLsPvQkDzzfJ2kns2tSXcjwj2xPLua7w7XRKvjgHmv9vNoe8fpDUAkKBFf+Mc7c4J0+JKFwSXqXd9vxquYy0B+1z4jmYw5cB0a5IAVTTAdpeZkwEKzZeAJzyb5fIkANLHqCrTUhJLFhjzU4ssymEeexeqUb/6sgpXtYwj+cUh3P922m972kwvMY/TpICaT9yfm+qt0S270/4V5iCO8d6nw=;YKCtaKgF0fSZKOGSWkajSg=="
 ---

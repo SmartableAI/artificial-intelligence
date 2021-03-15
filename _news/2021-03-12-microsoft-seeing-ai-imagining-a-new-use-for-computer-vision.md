@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy"
+    excerpt: "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning."
+    publishedDateTime: 2021-03-15T06:56:00Z
+    webUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/"
+    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 99
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f04e8e714d1ce6072a237%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D1%26cropY2%3D563"
+        width: 1000
+        height: 562
+        isCached: true
   - title: "Artificial Intelligence Software Market Next Big Thing | Major Giants Google, IBM, Microsoft"
     excerpt: "The Latest Released Artificial Intelligence Software market study has evaluated the future growth potential of Global Artificial Intelligence Software market and provides information and useful stats on market structure and size."
     publishedDateTime: 2021-03-11T20:40:00Z
@@ -40,33 +56,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Intel And Microsoft Work With DARPA To Solve Biggest Analytics and AI At Scale Problem"
-    excerpt: "Getting secure global data access to data is a key problem. This problem came up early on as the industry spun up advanced Supercomputers and AI systems Intel and Microsoft, working with DARPA, are beginning a process that will create an ASIC-based solution that can work across borders to enable the secure analysis of data wherever it resides in the world."
-    publishedDateTime: 2021-03-11T22:51:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/intel-and-microsoft-work-with-darpa-to-solve-biggest-analytics-and-ai-at-scale-problem/"
+  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+    publishedDateTime: 2021-03-11T08:22:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 48
+      name: Zawya
+      domain: zawya.com
+    quality: 70
     images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/02/storage.png"
-        width: 1400
-        height: 732
-        isCached: true
-  - title: "Artificial Intelligence in Agriculture Market Next Big Thing | Major Giants- John Deere, Resson, Precision Hawk"
-    excerpt: "The research emphasizes elaboration of the Global Artificial Intelligence (AI) in Agriculture market strategy of"
-    publishedDateTime: 2021-03-12T10:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-next-big-thing-major-giants--john-deere-resson-precision-hawk-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
+        width: 450
+        height: 601
         isCached: true
   - title: "Microsoft Azure MSP Acquires Software Development Company"
     excerpt: "Microsoft partner Atmosera has acquired Wintellect, an Atlanta, Georgia-based software development, Azure and IT training company."

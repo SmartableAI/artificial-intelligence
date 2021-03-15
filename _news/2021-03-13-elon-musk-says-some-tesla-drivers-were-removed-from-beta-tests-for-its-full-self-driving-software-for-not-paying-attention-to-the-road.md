@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Admits Full Self-Driving is Just Level-2 Autonomy"
-    excerpt: "Tesla has often been criticized for misleading customers with its so-called Autopilot system, but now with the “Full-Self Driving Capability” option, things are even worse. In a letter sent to California's Department Of Motor Vehicles (DMV) and later published on Twitter,"
-    publishedDateTime: 2021-03-10T18:45:00Z
-    webUrl: "https://www.guideautoweb.com/en/articles/59057/"
-    ampWebUrl: "https://amp.guideautoweb.com/en/articles/59057/tesla-admits-full-self-driving-is-just-level-2-autonomy/"
-    cdnAmpWebUrl: "https://amp-guideautoweb-com.cdn.ampproject.org/c/s/amp.guideautoweb.com/en/articles/59057/tesla-admits-full-self-driving-is-just-level-2-autonomy/"
-    type: article
-    provider:
-      name: Guideautoweb.com
-      domain: guideautoweb.com
-    quality: 59
-    images:
-      - url: "https://i.gaw.to/content/photos/46/40/464053-tesla-admet-que-sa-conduite-entierement-automatique-n-est-rien-de-tel.jpg"
-        width: 1627
-        height: 1017
-        isCached: true
   - title: "Tesla’s stories said to diverge over fully self-driving vehicles"
     excerpt: "For years, Tesla Chief Executive Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off."
     publishedDateTime: 2021-03-14T01:00:00Z
@@ -93,22 +77,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Tesla Tells California DMV That Full Self-Driving Beta Is Not An Autonomous System"
-    excerpt: "Tesla introduced its Full Self-Driving beta last October to around 1,000 vehicles. An unearthed letter sent from Tesla’s general counsel and the head of California’s autonomous vehicle branch claims that the system is more limited than its name might ..."
-    publishedDateTime: 2021-03-10T19:59:00Z
-    webUrl: "https://www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/"
-    ampWebUrl: "https://www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 53
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/03/model_3_red-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "Tesla touts self-driving to consumers. To the DMV, it tells a different tale"
     excerpt: "For years, Tesla CEO Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off. The company has been telling regulators a very different story."
     publishedDateTime: 2021-03-11T00:55:00Z
@@ -120,6 +88,34 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "Tesla removed some drivers from its self-driving test for not paying attention"
+    excerpt: "Tesla has expanded its \"full self-driving\" software to roughly 2,000 Tesla owners, but some drivers were revoked access for not paying close enough attention to the road, according to Tesla CEO Elon Musk."
+    publishedDateTime: 2021-03-15T02:37:00Z
+    webUrl: "https://www.ksl.com/article/50125618/tesla-removed-some-drivers-from-its-self-driving-test-for-not-paying-attention"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 35
+    images:
+      - url: "https://img.ksl.com/slc/2814/281492/28149275.jpg?filter=ksl/responsive_story_lg"
+        width: 614
+        height: 345
+        isCached: true
+  - title: "Autonomous and Self-Driving Vehicle News"
+    excerpt: "In autonomous and self-driving vehicle news are Luminar, Zenseact, NVIDIA, RoboSense, Outsight, GoFor Industries, Ollie and Feniex Industries. Luminar Partners with Zenseact. Lumi"
+    publishedDateTime: 2021-03-15T00:55:00Z
+    webUrl: "https://www.autoconnectedcar.com/2021/03/autonomous-and-self-driving-vehicle-news-7/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews2.png"
+        width: 640
+        height: 300
+        isCached: true
   - title: "In self-driving touts, Tesla peddles tall tale of two technologies"
     excerpt: "In official correspondence with California's Department of Motor Vehicles, Tesla lawyers recently admitted full self-driving mode is no such thing."
     publishedDateTime: 2021-03-11T03:20:00Z

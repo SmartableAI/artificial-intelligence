@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-surgical.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-surgical.amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -40,6 +40,20 @@ related:
     images:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
+        height: 480
+        isCached: true
+  - title: "Anyword Introduces New Marketing Language Platform, Merging Performance Data with Cutting Edge AI to Drive Results"
+    excerpt: "introduces a new technology that leverages AI and natural language processing to generate and optimize performance-driven marketing text that delivers business results across websites, social channels, email, and ads. Recently, Keywee changed its company ..."
+    publishedDateTime: 2021-03-15T11:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-19698316.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
         height: 480
         isCached: true
 

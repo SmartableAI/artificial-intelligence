@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-15T09:00:00Z
 originalUrl: "https://www.analyticsinsight.net/toyota-is-using-artificial-intelligence-to-build-a-new-city/"
 webUrl: "https://www.analyticsinsight.net/toyota-is-using-artificial-intelligence-to-build-a-new-city/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-9.jpg"
@@ -24,6 +25,6 @@ images:
     height: 500
     isCached: true
 
-secured: "RhFBdjIkBrWwwtpmoh/z9Tg9SeamVS99QXIJ+L+U78cQN8Boul32E6zpBTJ5yqIH9zw5zz8d4uZkFqzaAr2QqT8Ci9F/5VimXpuxP3mOQX1RZnySi5Ks1BUXJoim9b+jQ8T8RJ5HQus9J9NrKfqA/oZRgXBcz+myZ1xUrYWMU7YPT815d9hJEYb5EOI2vzSpO/l9NDWCMSnn8sZprsgPN/xSeUJ/9mIe/3Hv2wV7dRkCg8M7WUAGg45Mu6+2E3iiDDykDo0mlMiKOVc4RrgTfjwDp8mQjrhhsldhRrurt3Zn+1j3H0+4LUBt220FITdc7NbT+M0FDtlQ7NCrUma0ELWIJNy9Aq817+8NKFXnRXY=;qyaHzzUjtCjZifmp6afNDA=="
+secured: "dN5YMlnq+Xr91vZL30IQL7N6pB+Ph2GATaq7y9+HGOGfMSr+j+GS4s5ghwoQfTHBfKEPo0SMSwo3gC+ZnMMzVgobT5Bj+LIprul0FgrYzeeJ7otXk+09QePxhx4swZROMvAhgQ3cO+K2rhirnAmd0Q2cgga+9iAapAIltDolVN4w01YJiyive/uoTBCRpeBLEPPvfEaT0UV0XAHdsqZDPRAZf3a32gjhhd3Hehi5zeBtG2YtNwb1csHn8k2oNVcqH+sFGoL0wq8/wXskA9sNv4sEkZnbAcUoPTdInv6Ubt/Y7uUSNXPwvgZ5MF7XZmCY6C7a3IxeUGYyRU1Q+YyCp1xTuWb5taq+37y2a0RrcWFbrihJhGrNWq31yMw6SytZmWH/J3NcUxeH1NNZiA2Sf0kBpMx8sCtgOT4rnnQH941xGGq5oOQt3A7AL650UZv5iJDKlYONABBnQebpZPEiOcZRrPyL3Z4ykk+4aSoAsZ8kfdLLvzDzDwU1l4xw+nKWKRKIzed45Ni0jP/7f5W+LA==;RF2ouI9cgHRTlh4119I7fg=="
 ---
 

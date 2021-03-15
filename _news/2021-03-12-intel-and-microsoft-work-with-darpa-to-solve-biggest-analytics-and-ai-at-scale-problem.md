@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/intel-and-micro
 webUrl: "https://www.datamation.com/artificial-intelligence/intel-and-microsoft-work-with-darpa-to-solve-biggest-analytics-and-ai-at-scale-problem/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -26,57 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Software Market Next Big Thing | Major Giants Google, IBM, Microsoft"
-    excerpt: "The Latest Released Artificial Intelligence Software market study has evaluated the future growth potential of Global Artificial Intelligence Software market and provides information and useful stats on market structure and size."
-    publishedDateTime: 2021-03-11T20:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-next-big-thing-major-giants-google-ibm-microsoft-2021-03-11"
+  - title: "Cognitive Analytics Market Share to Reap Over USD 129.99 Billion in Revenues by End of 2026"
+    excerpt: "Get a sample of the report @  The report offers a comprehensive analysis of the global Cognitive Analytics market on a global and regional scale. The forecast estimation have been done value chain analysis and provides an in-depth assessment of the market drivers and restraining factors along with their impact on the global market."
+    publishedDateTime: 2021-03-11T08:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-to-reap-over-usd-12999-billion-in-revenues-by-end-of-2026-2021-03-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 73
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft 'Seeing AI': Imagining a New Use for Computer Vision"
-    excerpt: "A Microsoft Research project is expanding the capabilities of computer vision systems to help visually impaired users navigate everyday tasks."
-    publishedDateTime: 2021-03-12T14:09:00Z
-    webUrl: "https://redmondmag.com/articles/2021/03/12/microsoft-seeing-ai.aspx"
+  - title: "Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security"
+    excerpt: "Mavenir, the industry’s only end-to-end cloud-native Network Software Provider and a leader in accelerating software network transformation for communications service providers (CSPs), announced today its extended Artificial Intelligence (AI) and Analytics portfolio to enable closed-loop automation and drive digital transformation."
+    publishedDateTime: 2021-03-12T06:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-communication-technology-software-industry-250871eff3b2455482960cc3052e0395"
     type: article
     provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 71
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
     images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MSSeeingAIbig.jpg"
-        width: 1665
-        height: 1158
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market Next Big Thing | Major Giants- John Deere, Resson, Precision Hawk"
-    excerpt: "The research emphasizes elaboration of the Global Artificial Intelligence (AI) in Agriculture market strategy of"
-    publishedDateTime: 2021-03-12T10:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-next-big-thing-major-giants--john-deere-resson-precision-hawk-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Azure MSP Acquires Software Development Company"
-    excerpt: "Microsoft partner Atmosera has acquired Wintellect, an Atlanta, Georgia-based software development, Azure and IT training company."
-    publishedDateTime: 2021-03-10T20:05:00Z
-    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-development-company/"
-    type: article
-    provider:
-      name: ChannelE2E
-      domain: channele2e.com
-    quality: 34
 
 secured: "ivdF1p/KDoPKvKBmz0Q3pBKUtLhKTCR0nvN4AUbMp50+8My6HtSjSxIS6ddeU5rq4+d8w/RSr4Gt1lkSgVuX8M/6H/H6eoMyO8wvT8g9cff6arpOxTzR34+7PNnq/9gMYvbhhRNqf8V2yE+5B+YTJvWkO1yhyzpBtkcKf1tUbiGA4XWBPG1y210mQ3lT4trv1v1WdRrcXbQO4b1ovgEhTTZOkUkk90GuDUF4UZxHljQEMU2/q0z7LOyVfNIUsVGEf0k0iTkdMetGVgYKU1DsBPAnkNNa2oC780LH9ALlC5QAQhkeHFGdFlrOM2RGeA6hM0tW3xSfv8PNqYa6vHKBG09QPJCAKffiz8WKQXOvgbmcyWBIcvPCvpbBszZhuAR1XKyeXvErq8FEIQlXIAXLzxocw9Ch1dlQPf1b+BHXr199Nfbu5878eOjwOVWVd59GC6sFXOgeoYdttXZjrcjZtmwr4ThDQ1K2HpYi13b8mUMplpfnQ6w7UM59bo9pJlEAQFJkTj8NU6m+MQOG26Zbzg==;lGvViWF7P/lMU9ItUAWo9Q=="
 ---

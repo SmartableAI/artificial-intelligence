@@ -28,6 +28,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
+  - title: "Artificial Intelligence in Military Market worth $11.6 billion by 2025 - Exclusive Report by MarketsandMarkets"
+    excerpt: "CHICAGO, March 15, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type ..."
+    publishedDateTime: 2021-03-15T11:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-03/52292865-artificial-intelligence-in-military-market-worth-dollar-11-6-billion-by-2025-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "pJgAWqo6FyFxoTi9n62vuAFnZ33ky6d7Uw/RQ1vi9nwXeVFA1yfU3nDK/W51LQQsEPd2G9CkCmFLQf8nnTfc4PHKrZbpm9ava8rHYgxIxHiT404nJdJJpaPyr51P5qUIafBLpw7HUBH5Wlth8v2kac09GawtTrZj5v3liePA7rT5WJw0pifwkyVRHHNNAOpEhYpFTp5ADHh2ygIHnzpAw6Em4TUwx/++k3sX7QmE+hnnqHhZOV8D88RIask0ci17UUasrAtBQxqbbPiwzBevsKL8Zwf7WCK5ogLR7UTDIAYxH27uA1m6SPeVKkddUJc97P1LlBTHGzhz+/5k6F/yXWIei9UP6s76QKHCKjU2xKs=;Ls4xEN6vJrQbcY9JReItKQ=="
 ---
