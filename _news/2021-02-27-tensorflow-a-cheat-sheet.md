@@ -18,9 +18,9 @@ provider:
       height: 50
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://www.techrepublic.com/a/hub/i/r/2019/03/13/99aff292-46c4-4950-85d2-6e4cd750f51d/thumbnail/1200x675/8558ea8e682f0896a037fc60f2c2bb0e/2fnltensorflow.png"
@@ -28,6 +28,6 @@ images:
     height: 675
     isCached: true
 
-secured: "iWt3snEVKZ89z4qNG7u+hE6ELAr0gWEwcwWzTMw+5SCn1nqOQmHqwE2R1QONIfNVG3751HDSZpGMnysax9kx7wUu0WErKIWAUpPtThGQEyLrIhisFeyNLmrFoEC6UDzg58raAX4DBFvIoJ81Ppti0pCe+9BvxN7qd3GPaxFq0OvYxV7v00svq0t7/CnJEur9Q74IirJXXghZ5evp1zb1HlusFsy/W1lkqFVTuRduUTTPcr0OhfVbvVGaFNHEx53xyehGg7/RLcxQ7Xp4OhS0Y8EmWmObVY3kcLDXYpdW2sCwS5btBGTcKTjeeZNVwi3ZoFAcz3EBjk3A0pn8aGDhGlh0WgcA81MIbUN74iwlYEo=;gUvv3gRCNahFfmb8wkOSRQ=="
+secured: "rSv54E27DA90LimQFUpLZCnJMOxYY7TPXjdi2OxQtpAqcX9Ns5k4cQ9MA/aWOkC1oKu5fI+jxwFg27lPgeuvdlf9WhGbj4/UCikTQioLRf6T8FbTUBB361LIu4c2d57aGoLP1Cl+jB24TR5s2WaPQhtP3R2uUcdyPA11yu6kNzLv23FDj49V1RjcsVS9p0YpzOAZP7VeJxM9ruj6+qlUKxkxgkLtL74fFjy1gSLfl8IEufAh+BoJeuFiEGb8hsfIwAl1KWyMuGW/iWEC4H7qrkFpFrN3P6dtK5eakjIehcUhWCtgpBEfWoW0UPXHGXr6JzWMDNr9dIof5eCgtJd5zaGjPltg3bw9Q8JnuSdMKjA=;Qevl4SAV8e/CXKopf8//gA=="
 ---
 

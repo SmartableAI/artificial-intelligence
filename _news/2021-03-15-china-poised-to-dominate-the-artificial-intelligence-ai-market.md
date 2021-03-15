@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/03/15/china-poised-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/03/15/china-poised-to-dominate-the-artificial-intelligence-ai-market/amp/"
 type: article
 quality: 102
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     height: 800
     isCached: true
 
-secured: "tFfsML7y8mBHCYX2c6VFbsWMz2i1m6tEASXdKnpv8mSuSVJhUeFT/ztr8SHCf+CVwsGmmc/XCu8NQF44ztI8D1jTiu2waV6oWuVLj/y6nLLDk7FcRp9YNklKwLH4L70ODUJpf7gucLn9zOevphoFdkX+EskAZrScxWnyhuhKHNagHGlDcNDT5nM7+jrBtPybUhWGaDeLOsXBZTMymSkM1+h+CZ1FuKdSjJEpD+ahHdbk6BgqX80VMg4rGqSYgAm0wKEeYwzj62JOXzcAYvSueXbTYRvvSbINctV01DyRTb00XadKgGDlRt5T04YnXRiuJYlnBkXha6MDTkk9D0Z0NFa/Zyif2cJyrFAosGau1Qw=;HAWL3Vn3MISsnNubFZ/44Q=="
+related:
+  - title: "Artificial Intelligence (AI) in Automotive Market Size to Witness Huge Growth by 2026"
+    excerpt: "Selbyville, Delaware Global Artificial Intelligence (AI) in Automotive Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Artificial Intelligence (AI) in Automotive Market Report also covers top key players,"
+    publishedDateTime: 2021-03-15T07:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-to-witness-huge-growth-by-2026-2021-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "kkcMQ9f8RtnYeEIFih66vT6GgA7nGgF9A3QcZnrIHBgY544YJyE3gFhpORSO0b05hZlGKhjml0KiXyzOHVINDZQ66ihn3HofKoVgwX8xs2gkRTyuBAS3S8Qij04M8fUvhTPfs3SwmXr+unZdLPxmcQS79BzvEJXPqgpiVvziUgocQsV1m5auh2xHGv7Qehm62ygpq6ImOybkdeBwvdhN1KRXRUSp2k9xzLoGChHdO/x7P19M7WRcm7ZWtxITy9PkhVyq1HJT+CFU4QdIbpgw7nc6YVsAysH3Xluoemb6OkEhmiyF0TaKcR+YO2mLVtXsXdWktIAg5sij0eYip1LxgnjwcU2v79PUyr/4viEnuw2Opy2BKokB5kNfhXrG2y1Kn2E+m631GvDhoH3uV7PK+AkCIERiZYKNcHQLxr/hr1JYeFVmAXPusjnur4Oc7AYjRZqAOipmej8t+nddek/DagOAj1/yTbNZ63+qrNkNdmZ/7c1zrK0V1dU8BpzCmrrPyeSO6UZ19FHC15y5JNeW8Q==;Zb69RtSlg2LoAPE5ywYUUA=="
 ---
 

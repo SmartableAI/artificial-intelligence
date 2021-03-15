@@ -2,30 +2,27 @@
 category: news
 title: "Alibaba-Backed Chinese AI Startup Megvii Files for Shanghai IPO"
 excerpt: "The startup, backed by Alibaba Group Holding Ltd., plans to issue ... Megvii is one of the world’s largest AI startups, specializing in areas such as facial recognition. The eight-year old firm gained fame in part because of China’s obsession with ..."
-publishedDateTime: 2021-03-12T13:28:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo"
-webUrl: "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo"
+publishedDateTime: 2021-03-12T13:48:00Z
+originalUrl: "https://www.bnnbloomberg.ca/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo-1.1576146"
+webUrl: "https://www.bnnbloomberg.ca/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo-1.1576146"
+ampWebUrl: "https://www.bnnbloomberg.ca/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo-1.1576146.amp.html"
+cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo-1.1576146.amp.html"
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: bnnbloomberg
+  domain: bnnbloomberg.ca
 
 topics:
   - AI
-  - AI in Robotics
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia640Sm27PHY/v0/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1576147!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/an-attendee-uses-his-smartphone-to-record-a-facial-recognition-demonstration-on-himself-at-the-beijing-megvii-co-booth-at-the-mwc-shanghai-exhibition-in-shanghai-china-on-thursday-june-27-2019-the-shanghai-event-is-modeled-after-a-bigger-annual-industry-show-in-barcelona-photographer-qilai-shen-bloomberg.jpg"
+    width: 620
+    height: 349
     isCached: true
 
 related:
@@ -37,7 +34,7 @@ related:
     provider:
       name: Bloomberg
       domain: bloomberg.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia640Sm27PHY/v0/1200x800.jpg"
         width: 1200
@@ -58,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UfwABRvysaKUz30rT9aa3XtIeWrZ3HGZVRczXlQDvSM6joZXpNNnwGcoPzKXSDTW83/DfdChi+Zhbldl1iQqbYc3x3Hu8R9gqv9t0S1ePxAltYuURc0t3dqQfedA5n3/w7M+Elp6QxBxOOeFPOFJoQAYntSYrEYlgHtAD23NTHWHK79xdoyaKV+YwecDMJQwqZbPBKajeuPTt+hCOgKkXVNKKzxNuG/b53e+KcVEFXih+dCCwcWjrcbP2tNasqExRE6QU1iku7v5maEeuT5zTCLxYisULSBw3aVItR0P8JfUOKRYOFChZUvK59FZAFZBwgOzJXSgSh4k9TwNd6hoUTRAw1RtoClwCaFiBtZTtJqCkJ0dGu7njPaACGRQDBfRCs3gAt6sSBq1ibcGG8hxh/T7WiJvKpZYNaiFHkkw76l1c6GoHktPsFHEOUQhKp2TCVdaETDg3eotml3Agftiytsc+6zEBZKEvdfefsI8YbaaVLLIjlWgnAtDNZJxUgMdpHK/sN/vpc8nMpPvcD6K7A==;OcQb3tRRnff1P9DZcgNDUg=="
+secured: "Xju6Ds0PzRX6gV0blzqBdldux/dgksEseNC6DQcdQOBoBsfbFXCgkI5T9Gg47By3UFjgxiUam5CFtIV3mNbqEyy0gC0Ow9m+FF/Tn317Lab4TT1J3AM78t84eZPfuoPdMcvGa/Q4GrIVEtQuPChFfLLu+yRNwwZjEfiGVEuq6OPow6Tq0AI//gVttRYNW9M6aKREqb3tbAfcNDlroDvwi/LEvdQKZsdwPSXmsITTDBORlaW3S3dZOa8mczr491ka693cWG3TZVIYtW37P5mT3bpdmt2U42aCj/vsgRYvqfyb8Gtc3XOgccZkZ9T6AFBQ6hC9r/DfjLtIXrsdCGp3smloQXzfsV952hppoKP+r6k=;IhD1mcHcKYy/9ftwzLwcGA=="
 ---
 

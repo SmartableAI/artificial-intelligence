@@ -7,7 +7,7 @@ originalUrl: "https://www.medpagetoday.com/special-reports/exclusives/91568"
 webUrl: "https://www.medpagetoday.com/special-reports/exclusives/91568"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "4 lessons from IBM’s failure to transform medicine with Watson Health"
-    excerpt: "The demise of IBM’s Watson Health would be easy to file away as another ill-fated attempt to tackle health care without understanding its complexities. But its downfall offers specific lessons on the implementation of artificial intelligence in an ..."
-    publishedDateTime: 2021-03-10T15:55:00Z
-    webUrl: "https://www.statnews.com/2021/03/10/ibm-watson-health-sale-lessons/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 56
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2017/12/AP_664600330976-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "ZYh/C1zCe7tSNSpZ+0ETbEg8lhRfIloHvNkIR6iVZAjusLcbI9wnMD2bryEse9tG67KIRHlKyE+IWtNTjvEV/agl1IgPr4PMJoaV4QQaNgQMYJ4/tClK2uAFQSF3HwSjdVUE9zjEAeeIBBI8NMd35z+5zo3/EZfcYMidzbzBS0xX2huZz8KBMhrPv98oypfCq2UXczLf2XkRNvBsLHrdywTKFDEhl4FaR9vqGUSPa4pM7s6e5TGhICkxWNnB/My3fiAmhcD7TsHObYdAgU3SdTAfvwpOeerWsgRj2trPEinnLiQx34+ug7Qtcyvp2STIkx+bfC6NZ47uvdo+FhtGRAuPZgMFvr2YP6u80QTNZppqR3AyQV61IKeeOiW/Fh4GMdqJeJx63HWrZhl+fFLddbeLSEaCpzDC28evg+fNXG5XpbBGQfUD8SBQ5n3Ij0LFGREglOWSHdwqay3FIGTKt7gpnomNmYdDVx4LQtlY2RitmH4kEm1AUDkRIBIxvIFTzpDsCWhZck7zUioNEhD8Ew==;JThL+ASYt7CThGPSOiddnQ=="
 ---

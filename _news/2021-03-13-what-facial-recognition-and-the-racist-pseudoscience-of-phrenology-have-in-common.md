@@ -107,20 +107,6 @@ related:
         width: 1200
         height: 707
         isCached: true
-  - title: "Activists sue facial recognition company for stockpiling data on billions of people using Facebook"
-    excerpt: "The company Clearview AI is accused of illegally harvesting photos and info on people around the world using social media — a claim they deny"
-    publishedDateTime: 2021-03-10T14:58:00Z
-    webUrl: "https://www.khou.com/video/news/nation-world/activists-sue-facial-recognition-company-for-stockpiling-data-on-billions-of-people-using-facebook/285-802e8d12-2f5d-4ebb-bd9d-f415db768204"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 25
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "New Facial Recognition Software"
     excerpt: "Redstone Arsenal announced a new feature at the entrance of Gate 9. New facial recognition software will be reading those who are already registered in the AIE system with a 14 point algorithm, allowing them entry."
     publishedDateTime: 2021-03-13T00:20:00Z

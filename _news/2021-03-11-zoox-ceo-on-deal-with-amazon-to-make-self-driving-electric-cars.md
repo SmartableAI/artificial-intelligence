@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-
 webUrl: "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Says Cyberpunk 2077 Should Have Self-Driving Cars"
+    excerpt: "Though self-driving cars exist within the lore of CD Projekt Red's Cyberpunk 2077, they're functionally absent from the player's experience. Delamain AI cabs should be able to drive themselves when you’re in them & be electric by 2077 While the game's ..."
+    publishedDateTime: 2021-03-12T21:44:00Z
+    webUrl: "https://www.gamespot.com/articles/elon-musk-says-cyberpunk-2077-should-have-self-driving-cars/1100-6488677/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/elon-musk-says-cyberpunk-2077-should-have-self-driving-cars/1100-6488677/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/elon-musk-says-cyberpunk-2077-should-have-self-driving-cars/1100-6488677/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 44
+    images:
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3773875-main.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Why self-driving cars should be all-electric cars"
     excerpt: "In recent weeks, the self-driving car company Cruise, a subsidiary of General Motors, filed a project application to build the huge fast-charging hub in the city's Bayview district. Cruise's planned robotaxi service,"
     publishedDateTime: 2021-03-10T21:14:00Z

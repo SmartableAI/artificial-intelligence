@@ -76,54 +76,6 @@ related:
         width: 768
         height: 465
         isCached: true
-  - title: "Facial recognition company sued by California activists"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that"
-    publishedDateTime: 2021-03-10T15:35:00Z
-    webUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/"
-    ampWebUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/facial-recognition-technology-sued-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Virginia Beach police department says detectives used facial recognition program"
-    excerpt: "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report."
-    publishedDateTime: 2021-03-10T14:31:00Z
-    webUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.html"
-    ampWebUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
-    cdnAmpWebUrl: "https://richmond-com.cdn.ampproject.org/c/s/richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/f4/9f436ad0-5dab-5c5c-a1a4-904d60fa0b88/6048daf645b0e.image.jpg?resize=1024%2C422"
-        width: 1024
-        height: 422
-        isCached: true
-  - title: "Virginia Beach Police Department admits detectives used facial recognition program"
-    excerpt: "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report."
-    publishedDateTime: 2021-03-10T14:31:00Z
-    webUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.html"
-    ampWebUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
-    cdnAmpWebUrl: "https://richmond-com.cdn.ampproject.org/c/s/richmond.com/news/state-and-regional/virginia-beach-police-department-admits-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
-    type: article
-    provider:
-      name: Richmond
-      domain: richmond.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/f4/9f436ad0-5dab-5c5c-a1a4-904d60fa0b88/6048daf645b0e.image.jpg?resize=1024%2C422"
-        width: 1024
-        height: 422
-        isCached: true
   - title: "Redstone Arsenal to use facial recognition software for entry; What it means for drivers"
     excerpt: "Redstone Arsenal is opening “facial recognition identification” for faster vehicle access to the federal mega-base in Huntsville. Special facial recognition (FR) lanes open Monday to people registered in Redstone’s automatic installation entry program."
     publishedDateTime: 2021-03-10T17:02:00Z
@@ -229,20 +181,6 @@ related:
       name: Charlotte Observer
       domain: charlotteobserver.com
     quality: 38
-  - title: "After denials, Va. police department admits detectives used controversial facial recognition tech"
-    excerpt: "VIRGINIA BEACH, Va. (AP) — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a ..."
-    publishedDateTime: 2021-03-10T15:40:00Z
-    webUrl: "https://fredericksburg.com/news/article_70a3fcbf-15f7-59eb-bfd8-8a96c58708e4.html"
-    type: article
-    provider:
-      name: Fredericksburg.com
-      domain: fredericksburg.com
-    quality: 26
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/7/0a/70a3fcbf-15f7-59eb-bfd8-8a96c58708e4/6048e71679608.preview.jpg?crop=898%2C505%2C11%2C0&resize=898%2C505&order=crop%2Cresize"
-        width: 898
-        height: 505
-        isCached: true
   - title: "Facial recognition company sued by California activists"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
     publishedDateTime: 2021-03-11T15:38:00Z

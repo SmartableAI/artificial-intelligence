@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-15T05:30:00Z
 originalUrl: "https://analyticsindiamag.com/how-decimal-technologies-uses-ai-to-empower-digital-lending-platforms/"
 webUrl: "https://analyticsindiamag.com/how-decimal-technologies-uses-ai-to-empower-digital-lending-platforms/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/aim_deci.jpg"

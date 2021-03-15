@@ -39,6 +39,22 @@ related:
         width: 2342
         height: 1318
         isCached: true
+  - title: "Elon Musk Says Cyberpunk 2077 Should Have Self-Driving Cars"
+    excerpt: "Though self-driving cars exist within the lore of CD Projekt Red's Cyberpunk 2077, they're functionally absent from the player's experience. Delamain AI cabs should be able to drive themselves when you’re in them & be electric by 2077 While the game's ..."
+    publishedDateTime: 2021-03-12T21:44:00Z
+    webUrl: "https://www.gamespot.com/articles/elon-musk-says-cyberpunk-2077-should-have-self-driving-cars/1100-6488677/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/elon-musk-says-cyberpunk-2077-should-have-self-driving-cars/1100-6488677/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/elon-musk-says-cyberpunk-2077-should-have-self-driving-cars/1100-6488677/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 44
+    images:
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3773875-main.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Luminar strikes deal with Volvo to offer self-driving system to automakers"
     excerpt: "Luminar Technologies Inc. said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers. Palo Alto,"
     publishedDateTime: 2021-03-11T14:55:00Z

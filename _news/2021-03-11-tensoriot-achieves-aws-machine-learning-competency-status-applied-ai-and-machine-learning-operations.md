@@ -2,37 +2,37 @@
 category: news
 title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
 excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
-publishedDateTime: 2021-03-10T22:02:00Z
-originalUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
-webUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+publishedDateTime: 2021-03-11T00:09:00Z
+originalUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+webUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
+  - AI
+  - Machine Learning
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "HOLMDEL, N.J., March 10, 2021 /PRNewswire/ -- Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML ..."
-    publishedDateTime: 2021-03-10T21:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
+    excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
+    publishedDateTime: 2021-03-10T21:39:00Z
+    webUrl: "https://www.lelezard.com/en/news-19693395.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 71
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 73
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
     excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
@@ -72,6 +72,6 @@ related:
       domain: morningstar.com
     quality: 50
 
-secured: "1DhVCQ2uShso9oJ6xBsFLCwB+XdoNXWv9hNMMD/cri2hY4YGjvLk0XoqkFM80MfCfcyqL66fbqgwplZPmZvBsMw5FyXX/Uvvq6717ZnEhxy93Xa8IqS1SAYae1qM9ccMld4pXtQ1JzIthbsO+SFn0jAayvYxQlOedBxCW9i6/eP/DVpc2KLvoQNx8KHf/vDuUbJmj9szEFw2IFB67FEVs3SsH2t7kUyd02RczUqWK8fmmomb/wR2dBL45ffy0Pp3ymP8KEVG4HhwCZhD054uTU0/ofQIfBs4nSfufjkGHXNHzJkBOrsi7xn2j3RGvCbJCpW84ZzloNKJH0wp/QD3kF+bupnk2WNlHqtB4gkn54E=;AjgyAi6k6RyhKSLdckLBcA=="
+secured: "g3LFTLK0xl8rFr8EErbBVwRoD6h81xPstJIBCShDuWJJK4mT9/Dx3h0fO7nqGUIq2IOtk6F0b6DkQZ5i5dITH277ie0d4Y3CB2o+kGnlkAi/e26Odc5kI6Li/E7lcl288vJaKgkWjkHqNdVokk6eDgwkYFVJqBzcf2m92XA9aPa4cEGgqnwgfIsPCVbQwyuoZmuhgANXBo6KX0dYi/njnlzVrt69qCpCTmqtuCJkT9GHUoDIL2ANVRdVHFjms1mF4+Ku7rcKNPuLcwxUfgG1EIska3sIuFdXWTHCygD9qvaIoPCDeJ63t3dKdn/eSvo3P89uodNBDyloI6fl4qBPlm0jumloVJquzcGwUeIoBNo=;+wgog84PFT90j6/8UOHBpg=="
 ---
 

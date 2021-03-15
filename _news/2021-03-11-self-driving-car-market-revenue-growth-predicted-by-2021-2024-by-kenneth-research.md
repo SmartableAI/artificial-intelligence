@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Recognition and Touchless Sensing Market Overview, Size, Share and Trends 2021 2025| Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Payment Security Recognition and Touchless Sensing Market, which"
+    publishedDateTime: 2021-03-15T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/recognition-and-touchless-sensing-market-overview-size-share-and-trends-2021-2025-says-kenneth-research-2021-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "/4mt3X5Vs6iQwCm2ZJzxAiN/7RdjZiwH7/vQujnGNb7ycVggcwtjkkz2X7wPzJyTrKmNYReM0CcEIi2EW2YpDRXF/vubR5XVJqSmsCIQF7scqrrCznts8/AA3JtPofLFfQEcbLUP9Bvp3/3jxQW/Heji06zqjRWFvcmgiK8KldWsuZb1BcONBqJkEVJfk4dxU5mbxCMA+RTrnCK+QPUGlj3tm43k3P39ZTYquRbEZTnSw37Xw9iFHWNSawczTkSqzNmK5eki/pbI0yAU4nCQ0CQ98Jqs8cgk7S56NdC4HfGATuGzaM+JcnD5qMlCXmzS16Ix+OKzHQCUojS71b+APk8Gx806HYGM2id0X8u3HDQ=;tFf1j9fOfbs+mVhvPvvDIA=="
 ---
 

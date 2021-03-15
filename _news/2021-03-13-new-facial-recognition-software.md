@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 707
         isCached: true
-  - title: "Activists sue facial recognition company for stockpiling data on billions of people using Facebook"
-    excerpt: "The company Clearview AI is accused of illegally harvesting photos and info on people around the world using social media — a claim they deny"
-    publishedDateTime: 2021-03-10T14:58:00Z
-    webUrl: "https://www.khou.com/video/news/nation-world/activists-sue-facial-recognition-company-for-stockpiling-data-on-billions-of-people-using-facebook/285-802e8d12-2f5d-4ebb-bd9d-f415db768204"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 25
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "W2N7BtfMCOrbMq3Z8Fs05TpgAa4ZtlI3qsjYLdi6DbGjjv+UwUW1sCTYfcLn5qyItnZ5w/+k2DmC8fbV89kUs/l2lD+q7uXeBO/XU4CfQJE6KrRDZuNAQrPz0cHmNmcsGHh7wd0t2deCoU7tvNI36Sy2vbjngiERpWkhpu0Y3pb0f847I9uWUCkdLBqyzW1BXLoOrYF3ttAanoa1rz+m3RHBjdqGZ7aiqHaIZXVLrt9pkt1Rcg0r6lsVIGSR3wuCeYHH33qprAEpM0DLfA41dcHRA52l0UCkAYWxNHQ50BdBf5Pp8wnISfEHBecpPO4nNFTVVMKdEprR2hmgK9jGoQf7bClMDwm/ZKe41hv10zKuqy3Qze3lj7rxAiSS3zDnXIVXmUGFvGpRiGxMSezqg6uDj7ySAZ7qUa3NViFf2YEXPmdtevl8W/qRvFLpyfbVZp7rvsBOUBgCs52s4R6qvfWiBvBSfQMKlZlIdB1Uh1A+oJ2nAOm6bpWxNnB6as9si2T1OKXQCeYegWqRLl2kSw==;NdeNlTqbgYf30w6I1MHPrg=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
-    excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
-    publishedDateTime: 2021-03-10T15:09:00Z
-    webUrl: "https://www.scmagazine.com/briefs/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud/"
-    type: article
-    provider:
-      name: SC Media
-      domain: scmagazine.com
-    quality: 65
-    images:
-      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
-        width: 521
-        height: 313
-        isCached: true
   - title: "Intel And Microsoft Work With DARPA To Solve Biggest Analytics and AI At Scale Problem"
     excerpt: "Getting secure global data access to data is a key problem. This problem came up early on as the industry spun up advanced Supercomputers and AI systems Intel and Microsoft, working with DARPA, are beginning a process that will create an ASIC-based solution that can work across borders to enable the secure analysis of data wherever it resides in the world."
     publishedDateTime: 2021-03-11T22:51:00Z
