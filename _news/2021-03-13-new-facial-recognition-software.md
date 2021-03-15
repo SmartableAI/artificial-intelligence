@@ -51,22 +51,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Gambling, rural vaccinations and facial recognition: Down in Alabama"
-    excerpt: "Also: The Alabama National Guard joins the vaccination effort, and Redstone Arsenal is employing facial-recognition technology. The “Down in Alabama” podcast is short and free. Listen to it by clicking on the player above or subscribe by looking for “Down in Alabama” on the device of your choosing."
-    publishedDateTime: 2021-03-11T05:33:00Z
-    webUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html"
-    ampWebUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EQIGEHXK2VFFFP5R6S3ODBTY4A.jpg"
-        width: 3723
-        height: 2094
-        isCached: true
   - title: "Redstone Arsenal testing facial recognition system at gates"
     excerpt: "Workers entering Redstone Arsenal will have a new option for gaining access to the installation as of Monday: Facial recognition."
     publishedDateTime: 2021-03-11T18:34:00Z
@@ -124,6 +108,20 @@ related:
       - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
         width: 1200
         height: 707
+        isCached: true
+  - title: "Bill considers limits on facial recognition"
+    excerpt: "It sounds like the plot of some futuristic sci-fi thriller: the government keeps a database of images of citizens’ faces, and that database can be used for surveillance of individuals. For better or worse,"
+    publishedDateTime: 2021-03-15T21:59:00Z
+    webUrl: "https://www.concordmonitor.com/Should-the-state-be-prohibited-from-using-facial-recognition-technology-without-a-search-warrant-39436077"
+    type: article
+    provider:
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 39
+    images:
+      - url: "http://www.concordmonitor.com/getattachment/334996e3-63b7-4f32-aafe-e3fe9c7e6faf/attachment.aspx"
+        width: 499
+        height: 325
         isCached: true
 
 secured: "W2N7BtfMCOrbMq3Z8Fs05TpgAa4ZtlI3qsjYLdi6DbGjjv+UwUW1sCTYfcLn5qyItnZ5w/+k2DmC8fbV89kUs/l2lD+q7uXeBO/XU4CfQJE6KrRDZuNAQrPz0cHmNmcsGHh7wd0t2deCoU7tvNI36Sy2vbjngiERpWkhpu0Y3pb0f847I9uWUCkdLBqyzW1BXLoOrYF3ttAanoa1rz+m3RHBjdqGZ7aiqHaIZXVLrt9pkt1Rcg0r6lsVIGSR3wuCeYHH33qprAEpM0DLfA41dcHRA52l0UCkAYWxNHQ50BdBf5Pp8wnISfEHBecpPO4nNFTVVMKdEprR2hmgK9jGoQf7bClMDwm/ZKe41hv10zKuqy3Qze3lj7rxAiSS3zDnXIVXmUGFvGpRiGxMSezqg6uDj7ySAZ7qUa3NViFf2YEXPmdtevl8W/qRvFLpyfbVZp7rvsBOUBgCs52s4R6qvfWiBvBSfQMKlZlIdB1Uh1A+oJ2nAOm6bpWxNnB6as9si2T1OKXQCeYegWqRLl2kSw==;NdeNlTqbgYf30w6I1MHPrg=="

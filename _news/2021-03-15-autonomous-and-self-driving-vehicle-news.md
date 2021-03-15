@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla 'fires' Full Self-Driving testers, reveals what in-car camera does"
+    excerpt: "Tesla has revoked the privileges of several drivers who were testing a new beta version of its Full Self-Driving feature because they weren't paying attention to the road."
+    publishedDateTime: 2021-03-15T20:11:00Z
+    webUrl: "https://www.foxnews.com/auto/tesla-fires-self-driving-testers-camera"
+    ampWebUrl: "https://www.foxnews.com/auto/tesla-fires-self-driving-testers-camera.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-fires-self-driving-testers-camera.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 88
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/04/05/694940094001_6022995402001_6022987735001-vs.jpg"
+        width: 1279
+        height: 720
+        isCached: true
   - title: "Tesla removed drivers who weren’t paying attention from Full Self-Driving beta as it expands"
     excerpt: "Elon Musk says that has Tesla removed from the Full Self-Driving Beta drivers who they determined weren’t paying enough attention. The automaker also expanded the beta to now a total of roughly ..."
     publishedDateTime: 2021-03-13T01:11:00Z
@@ -102,6 +118,20 @@ related:
       - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
         width: 800
         height: 400
+        isCached: true
+  - title: "Tesla Removes Distracted Drivers From Self-Driving Test"
+    excerpt: "Tesla is removing some drivers from its self-driving test because they say they were not paying close enough attention to the road. About 2,000 Tesla owners are a part of the “full self-driving” beta program. It’s not clear how many test drivers were ..."
+    publishedDateTime: 2021-03-15T19:55:00Z
+    webUrl: "https://www.9and10news.com/2021/03/15/tesla-removes-distracted-drivers-from-self-driving-test/"
+    type: article
+    provider:
+      name: 9&10 News
+      domain: 9and10news.com
+    quality: 39
+    images:
+      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2021/03/tesla00-00-04-28still002.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tesla removed some drivers from its self-driving test for not paying attention"
     excerpt: "Tesla has expanded its \"full self-driving\" software to roughly 2,000 Tesla owners, but some drivers were revoked access for not paying close enough attention to the road, according to Tesla CEO Elon Musk."

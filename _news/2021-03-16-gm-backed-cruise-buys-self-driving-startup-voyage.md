@@ -73,6 +73,22 @@ related:
         width: 1999
         height: 1333
         isCached: true
+  - title: "GM-backed Cruise to buy self-driving start-up Voyage"
+    excerpt: "GM's majority-owned autonomous vehicle subsidiary Cruise has agreed to acquire Voyage, a self-driving car start-up that was focused on operating in retirement communities. The companies announced the deal Monday in a blog post by Voyage CEO Oliver Cameron ..."
+    publishedDateTime: 2021-03-15T17:08:00Z
+    webUrl: "https://www.cnbc.com/2021/03/15/gm-backed-cruise-to-buy-self-driving-start-up-voyage.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/03/15/gm-backed-cruise-to-buy-self-driving-start-up-voyage.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/15/gm-backed-cruise-to-buy-self-driving-start-up-voyage.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106854049-1615825416226-Cruise_voyage.jpeg?v=1615825559"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Elusive Dream of the Driverless Car"
     excerpt: "that once redesigned by the Stanford Artificial Intelligence Lab could travel autonomously at about a mile per hour by 1971. But getting from that cart to the mass adoption of driverless cars in our cities and streets is akin to the difference between ..."
     publishedDateTime: 2021-03-15T09:59:00Z
@@ -102,6 +118,6 @@ related:
         height: 600
         isCached: true
 
-secured: "gZ/ZGg0m72KMXyfEvqo9MmjBt4Izi7XSzeqPCnzNLsL34Ltr1gdMUtRNaIBicJTLip6prf1Y3A2wXtFrlSCCynIuXFL9ee19EqoRYM5xU6qq74AoLVhNhnm9hvev9c9bAmuPXU74Z+lBr6pSKVA1Tp6COgyQYDFVw5kuZM5ZZvSaubnzKc1aM99UNA0UsipEjumTMXuEbDsqs/PLHhtOHmyiLM+wRe8MJaVMr6HQpANPV8bEWwS8CLuc5W3pEMByIuDFN/kXy9ngb3Hu+4k2l9iUWrQP6/9cRCSLIOaO1kLP62xGR4AG+is6M6qQxGKSppCJvhwQCy4Hb3QZK/2h2+8CD531pcY/ty51sig77SM=;nnWvRPPuS8ILBt77d5MQhw=="
+secured: "wK/b9KkIjxpThr9OQliLjsnitrP9ye6GJygpNo7B/ZqgG/gNAf71pv/p3nvti3E8sbFAPIeLegOyEySjC8T2igr0tUBhK6J7M7d+17AIW6YvgvM0VBViPixmajrznIstYvTcEPmsz8p6L5wTxG0vhGo7JYPqNQTUwhBqkCn+mKseAgCtmTfviVeO1Q5EcfY1c3xi1P0whdaOxHBb+ReWwyfFEd9wSkmECluTUzWx/0+UC0q2IrWJ86tKjIxXvYcLUTwbtXaEHlm5illnRqddbZNVFg8Ri0mHClmieFQ8YbuNehLn/5Isl9VUZVe1WGleq8NJqb/cQVQ5PJO8HddTpu5aFtVhSv+9HS74yMKhuoQWIiXbsXUspqCCgwpq0usFeiRGFLrNMqbxlYkgCOyWRxfq2D/0dOE9gBj6bKCesyKyn38owC85ZDaoUVfKVbx+Pik42i9kY8Bls2Ni11IBFIDq8AQCx5mR54sAEhoI6xVasMig4opZQ0fXfAwSNpBl73MySfO6cusvaW9Br20aMg==;MYh2AujHQtza6Uvm1XKEIA=="
 ---
 

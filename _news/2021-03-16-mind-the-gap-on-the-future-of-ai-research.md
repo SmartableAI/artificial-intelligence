@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-15T17:59:00Z
 originalUrl: "https://www.nature.com/articles/s41599-021-00750-9"
 webUrl: "https://www.nature.com/articles/s41599-021-00750-9"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "Artificial Intelligence and the Art of Culinary Presentation"

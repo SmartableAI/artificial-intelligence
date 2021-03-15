@@ -57,22 +57,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Gambling, rural vaccinations and facial recognition: Down in Alabama"
-    excerpt: "Also: The Alabama National Guard joins the vaccination effort, and Redstone Arsenal is employing facial-recognition technology. The “Down in Alabama” podcast is short and free. Listen to it by clicking on the player above or subscribe by looking for “Down in Alabama” on the device of your choosing."
-    publishedDateTime: 2021-03-11T05:33:00Z
-    webUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html"
-    ampWebUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EQIGEHXK2VFFFP5R6S3ODBTY4A.jpg"
-        width: 3723
-        height: 2094
-        isCached: true
   - title: "Redstone Arsenal testing facial recognition system at gates"
     excerpt: "Workers entering Redstone Arsenal will have a new option for gaining access to the installation as of Monday: Facial recognition."
     publishedDateTime: 2021-03-11T18:34:00Z
@@ -116,6 +100,20 @@ related:
       - url: "https://www.waff.com/resizer/9qdGXpzdCwQliwSDx9GH5e0fWqs=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/XSAUVLUZSZAGBAEF6U3TQY7E4U.bmp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Bill considers limits on facial recognition"
+    excerpt: "It sounds like the plot of some futuristic sci-fi thriller: the government keeps a database of images of citizens’ faces, and that database can be used for surveillance of individuals. For better or worse,"
+    publishedDateTime: 2021-03-15T21:59:00Z
+    webUrl: "https://www.concordmonitor.com/Should-the-state-be-prohibited-from-using-facial-recognition-technology-without-a-search-warrant-39436077"
+    type: article
+    provider:
+      name: Concord Monitor
+      domain: concordmonitor.com
+    quality: 39
+    images:
+      - url: "http://www.concordmonitor.com/getattachment/334996e3-63b7-4f32-aafe-e3fe9c7e6faf/attachment.aspx"
+        width: 499
+        height: 325
         isCached: true
   - title: "New Facial Recognition Software"
     excerpt: "Redstone Arsenal announced a new feature at the entrance of Gate 9. New facial recognition software will be reading those who are already registered in the AIE system with a 14 point algorithm, allowing them entry."

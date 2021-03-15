@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vi
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15"
 type: article
 quality: 78
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Insights on the AI in Computer Vision Global Market to 2027 - by Component, End-user and Region"
-    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, March 12, 2021 /PRNewswire/ -- The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global ..."
-    publishedDateTime: 2021-03-12T15:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-computer-vision-global-market-to-2027-by-component-end-user-and-region-1030179693"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 52
   - title: "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ..."
     publishedDateTime: 2021-03-12T23:12:00Z

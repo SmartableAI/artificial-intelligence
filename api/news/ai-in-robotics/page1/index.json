@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-15-strolling-and-learning-multi-terrain-robots.md",
+      "title": "Strolling and learning: multi-terrain robots",
+      "excerpt": "Autonomous robots have trouble walking, because they typically have a fixed shape and so can’t handle uneven ground or changes in density. This robot can change the shape of its inform legs as needed,",
+      "sourceUrl": null,
+      "webUrl": "https://cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/",
+      "originalUrl": "https://cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cosmosmagazine.com/wp-content/uploads/2021/03/Picture31111.png",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/?amp",
+      "cdnAmpWebUrl": "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/?amp",
+      "publishedDateTime": "2021-03-15T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cosmos",
+        "domain": "cosmosmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-andrea-bonaceto-collaborates-with-robot-on-first-digital-ai-piece-being-sold-as-an-nft.md",
       "title": "Andrea Bonaceto Collaborates With Robot on First Digital AI Piece Being Sold as an NFT",
       "excerpt": "NFTs, digital images each of which come with its own unique code to prove who owns it, have been shown to be a powerful new force in the art world. The collaboration between Sophia the Robot and Andrea Bonaceto will be available on Nifty Gateway on March 23.",
@@ -791,6 +834,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-09-this-startup-wants-to-fill-the-skies-with-cargo-filled-robot-planes.md",
+      "title": "This Startup Wants to Fill the Skies With Cargo-Filled Robot Planes",
+      "excerpt": "Reliable Robotics has been flying Cessnas through a mixture of autonomy and remote control. FedEx, for one ... All autopilot systems have been designed with the pilot safeguard in mind; for Rose and Frefel, building a system that reached full autonomy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-09/reliable-robotics-builds-self-flying-planes-to-move-cargo-eventually-people",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-09/reliable-robotics-builds-self-flying-planes-to-move-cargo-eventually-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXrYo4VVSWuM/v0/1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-are-us-special-forces-quietly-using-armed-robots.md",
       "title": "Are U.S. Special Forces Quietly Using Armed Robots?",
       "excerpt": "While the U.S. military makes wide use of armed drones, it has been extremely cautious when it comes to fielding weaponized ground robots. Now Special Forces may have quietly crossed the line by deploying a new system.",
@@ -1373,92 +1468,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Increase in Short Interest",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the recipient of a large growth in short interest during the month of February. As of February 12th, there was short interest totalling 737,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks11.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp",
-      "publishedDateTime": "2021-03-04T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-singapore-academy-of-law-considers-the-impact-of-robotics-and-artificial-intelligence-on-the-law.md",
-      "title": "Singapore Academy of Law Considers the Impact of Robotics and Artificial Intelligence on the Law",
-      "excerpt": "The Law Reform Committee (LRC) of the Singapore Academy of Law (SAL) established a Subcommittee on Robotics and Artificial Intelligence to consider and make recommendations regarding the application o",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law",
-      "originalUrl": "https://www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law?amp",
-      "publishedDateTime": "2021-03-04T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

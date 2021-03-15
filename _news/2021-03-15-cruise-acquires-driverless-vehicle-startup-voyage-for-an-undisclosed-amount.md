@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/EalVl1q6WRcEgwjY3sc7LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7fd6f550-85b9-11eb-bffa-fc7b88b7b6bf"
         width: 1999
         height: 1333
+        isCached: true
+  - title: "GM-backed Cruise to buy self-driving start-up Voyage"
+    excerpt: "GM's majority-owned autonomous vehicle subsidiary Cruise has agreed to acquire Voyage, a self-driving car start-up that was focused on operating in retirement communities. The companies announced the deal Monday in a blog post by Voyage CEO Oliver Cameron ..."
+    publishedDateTime: 2021-03-15T17:08:00Z
+    webUrl: "https://www.cnbc.com/2021/03/15/gm-backed-cruise-to-buy-self-driving-start-up-voyage.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/03/15/gm-backed-cruise-to-buy-self-driving-start-up-voyage.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/15/gm-backed-cruise-to-buy-self-driving-start-up-voyage.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106854049-1615825416226-Cruise_voyage.jpeg?v=1615825559"
+        width: 992
+        height: 558
         isCached: true
   - title: "The Elusive Dream of the Driverless Car"
     excerpt: "that once redesigned by the Stanford Artificial Intelligence Lab could travel autonomously at about a mile per hour by 1971. But getting from that cart to the mass adoption of driverless cars in our cities and streets is akin to the difference between ..."
