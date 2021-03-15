@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/ai-this-is-how-big-data-helped-to-figh
 webUrl: "https://www.zdnet.com/video/ai-this-is-how-big-data-helped-to-fight-covid-19/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -28,20 +28,96 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning system predicts severe COVID-19"
-    excerpt: "An advanced machine learning system can accurately predict the risk of a patient's COVID-19 advancing to severe disease or death, say researchers."
-    publishedDateTime: 2021-03-15T17:36:00Z
-    webUrl: "https://www.futurity.org/covid-19-macine-learning-diagnostics-2531992-2/"
+  - title: "Global AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Analysis"
+    excerpt: "Dublin, March 15, Mar 15, 2021 (GLOBE NEWSWIRE via COMTEX) -- Dublin, March 15, 2021 (GLOBE NEWSWIRE) -- The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ..."
+    publishedDateTime: 2021-03-15T19:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15"
     type: article
     provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 78
     images:
-      - url: "https://www.futurity.org/wp/wp-content/uploads/2021/03/severe-COVID-19_1600.jpg"
-        width: 1600
-        height: 915
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) for Telecommunication Market Evolving Technology, Segmentation and Industry Analysis by 2025"
+    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025."
+    publishedDateTime: 2021-03-12T20:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market-evolving-technology-segmentation-and-industry-analysis-by-2025-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market 2021 (COVID-19 UPDATE) Future Challenges, Growth Statistics and Forecast to 2027"
+    excerpt: "According to the report, The globalmachine learning marketsize is anticipated to rise remarkably on account of"
+    publishedDateTime: 2021-03-11T11:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-covid-19-update-future-challenges-growth-statistics-and-forecast-to-2027-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Insights on the AI in Computer Vision Global Market to 2027 - by Component, End-user and Region"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, March 12, 2021 /PRNewswire/ -- The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global ..."
+    publishedDateTime: 2021-03-12T15:11:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/insights-on-the-ai-in-computer-vision-global-market-to-2027-by-component-end-user-and-region-1030179693"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 52
+  - title: "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ..."
+    publishedDateTime: 2021-03-12T23:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
+    excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
+    publishedDateTime: 2021-03-12T11:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Voice Recognition Systems Market Research Report by Type, by Deployment - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Automotive Voice Recognition Systems Market Research Report by Type,"
+    publishedDateTime: 2021-03-11T10:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20115206/automotive-voice-recognition-systems-market-research-report-by-type-by-deployment-global-forecast-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20115206"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20115206"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "4UOHrHzi1yHnrv5tSHuEv0aSYIT2H9XhYVq5klP1U6WIxUDLy7O74C12yS4iEJ/KIIFpCnrfxiKSAHu1P1eLhfWNcphmoxLOXgBfJnB61a22jqePXGIIeF4ZuWmXssV0C0Nr6gBGNS2rIuGhBasx+g4VzsoqkKVXq6pTFsqpok/WDiesStoGmdQomrTVZxyqu2RlffYtV6M5xN9zu2crucgHbPh/w5QzezXgKdOJ0Y1HYDwUZ9UYPahidFhV2S0bb2cG2mn1QC4HQeZ9p8YxkcCWo1Ys8lCpoBBUi/DRQb5y5KcOgSvTc5fmxwtEQX4fVrMojVZW9JDIqBnObQFfsja24YxVaDun7/HaWyfhDsq5QqHO03K/pNXNIOjFsmX7f+oAGbyr8czixCBEtRaLrmPQ+rK50TcTeTRznfNOTRFppVuAY5ebn/fHHnqRQ6M+1C/HUvgIEt5imlYoHJ1xKme89KEpZi4gAC/iH78JdrSV2eOZ5LDoWkvV/2ca9zV8Y45DTqIp0D9nazISoRE3cg==;0zQLEkq/KyJTXPcpElIfwA=="
 ---

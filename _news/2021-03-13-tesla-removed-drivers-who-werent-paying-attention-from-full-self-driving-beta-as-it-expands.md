@@ -121,15 +121,6 @@ related:
         width: 640
         height: 300
         isCached: true
-  - title: "In self-driving touts, Tesla peddles tall tale of two technologies"
-    excerpt: "In official correspondence with California's Department of Motor Vehicles, Tesla lawyers recently admitted full self-driving mode is no such thing."
-    publishedDateTime: 2021-03-11T03:20:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/03/10/self-driving-touts-tesla-peddles-tall-tale-two-technologies/6937545002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "jiBrp79JNwejT/sgXqGRvY8c/2zMsP6JvXASyF2izEthoyuMDx0bz4dLvFJgkSdHb4F9Bwp+SxLWviNNa0wWj2GSiqsjivW1ErAwkp1TdaD0raDm05EaPKMfTrGx3OAHreS6snlpH22ZV8ji4RN60YtFPtwPBtherHh/95MtEWDu5zHomDn0ZiuiytuLiiEyZ1s1pXGqhMbTDQx+53EwUCWxpF/ZqBQhfi2zyEybJtLdhW3ydbkhWWLTjCbAz9EJywlVSbCZ1OJ3L4/GXj2jmt+4OUDY+KUiN1WTcIDM04Iq7G/WRD9Nk55jpHumJHmEzf7lKE1b4XOvHxXhIb5vfsHz/ehxv85rQE7wyAUiQZcta2GNpOD8mJXDZrB2a8q/MD2wkmdI77HECHYXxwPkDLQgLvPlI8ZQJz432WRKYAfX/NSNYnRTA8jCAL+k9Qd5bzgsArU6qAnLlvixB6ek0ISWP7Rqt0xGiGTsonqCAmjq5L6OppyLNtgoVZJSXExxzoAIo0kEx3kFhIUWRXCt8Q==;hJPvXYjtl5qRjjuGLanhzQ=="
 ---

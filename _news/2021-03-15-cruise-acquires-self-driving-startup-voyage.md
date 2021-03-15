@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 789
         isCached: true
+  - title: "GM-backed Cruise acquires self-driving startup Voyage"
+    excerpt: "Voyage is a startup that spun out of online education company Udacity. Cruise itself has teamed up with Microsoft recently to help accelerate its research. Other notable self-driving partnerships include Amazon purchasing Zoox, Apple buying drive.ai and ..."
+    publishedDateTime: 2021-03-15T18:15:00Z
+    webUrl: "https://www.engadget.com/cruise-voyage-self-driving-acquisition-181356397.html"
+    ampWebUrl: "https://www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/EalVl1q6WRcEgwjY3sc7LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7fd6f550-85b9-11eb-bffa-fc7b88b7b6bf"
+        width: 1999
+        height: 1333
+        isCached: true
   - title: "The Elusive Dream of the Driverless Car"
     excerpt: "that once redesigned by the Stanford Artificial Intelligence Lab could travel autonomously at about a mile per hour by 1971. But getting from that cart to the mass adoption of driverless cars in our cities and streets is akin to the difference between ..."
     publishedDateTime: 2021-03-15T09:59:00Z
@@ -61,7 +77,35 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "GM-backed Cruise buys self-driving startup Voyage in talent grab"
+    excerpt: "Cruise LLC, the self-driving technology company that’s majority-owned by General Motors, said it acquired autonomous-vehicle startup Voyage, which operates a service in retirement communities. \"I’m pleased to welcome Oliver Cameron and Voyage to the ..."
+    publishedDateTime: 2021-03-15T18:43:00Z
+    webUrl: "https://www.autonews.com/technology/gm-backed-cruise-buys-self-driving-startup-voyage-talent-grab"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/cruise%20photo%20resize.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "GM-Backed Cruise Buys Self-Driving Startup Voyage"
+    excerpt: "Cruise, the self-driving technology company that’s majority-owned by General Motors Co., said it acquired autonomous-vehicle startup Voyage, which operates a service in retirement communities."
+    publishedDateTime: 2021-03-15T19:00:00Z
+    webUrl: "https://www.ttnews.com/articles/gm-backed-cruise-buys-self-driving-startup-voyage"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-voyage-1200.jpg?itok=UyFjysNd"
+        width: 470
+        height: 246
+        isCached: true
 
-secured: "acJpLk7ydhpS+ZP3+F8ek+tnU9JZvxPhWL2KJFBN9b12i8JzqrXbHcERz8ofou/YIG1zX1K4xzpBAcRLHWJSjRNk7BuXXUEUB/Ym80nJXRsS0JwsnOLVkDtd9GbcImFBwEYSjDowy6Z+2tzxrOvIzzaHOwIJYXn2k4AgGQz1I4z5ppLaz9cDC+iGjTklm9Saqnl500fSwvHljNvWzl6IyhT8CtBluvvkGGBF7mjLHTiaUMhuSNCdO5v914bpDlbpm7lAyjiRkG/rCZZOLkIVIUFUeH7NrCYvOv3ESrsKXoIaTiiHVhPCz8KAeK+D7Q1dJjkXMN2MOh0U8faHNGxDnyiCIs2MiH7QcKEHZ1n7C4I=;Kf9vjOoabxddTyDz5J5r8A=="
+secured: "hoK8f9YYFHck3IkAYlFgMyahlNHGw24hHBsblDzHkwuzZI/wgRozx72jnaWOHznmwswCCUjN5hjUcQE5e8CVvS8P8PmUG0gBdy1YfXZamCFuGwjcsV45TRPj75q76kgEk7OtP4+fIGCnCEjo0qp98JkCz4/tFeAbALr5bmVVqoisMBNvc1/ho/A7EtiQYeiE/oarH20vcOMWFuBoptrojIfGCn+mBMrZu27DeEJcVyHYCX4MziGfpYirczRtPjeXAAWdO34Zr6UHC9eLey3P0wvaDu2YxwsiHu0y96a/D9IpEz4ZN1YKWdwHQGGUPue5q7IfluLiMYZfBQMxhDV2eN3Moua+NJevFBEE30jAOTHSMgIwm8VrRCyfKwPtQGZaQ9CIw8qPtknX45yWfWUtDHDKCE3K1Tsze20hBJ43bIKFEZrmsBQTpqmuW7TQQnmRIrUuvmCsy6I1leFCtA/kPOBKf4KUWmq+UkmSibweH7YUeRbcFG0q/VvSt5nW8ZxoC20O5S65yokgOaY9yF4DAA==;GpGjgBr1G+3bQo9+EubDYQ=="
 ---
 

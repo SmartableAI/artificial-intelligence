@@ -52,20 +52,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 41
-  - title: "California Activists Sue Facial Recognition Firm for Illegal Data Collection"
-    excerpt: "The lawsuit contends that Clearview AI has built 'the most dangerous' facial recognition database in the nation, illegally stockpiling information on 3 billion people without their knowledge or permission."
-    publishedDateTime: 2021-03-11T02:21:00Z
-    webUrl: "https://www.kqed.org/news/11864122/california-activists-sue-facial-recognition-firm-for-illegal-data-collection"
-    type: article
-    provider:
-      name: KQED
-      domain: kqed.org
-    quality: 38
-    images:
-      - url: "https://ww2.kqed.org/app/uploads/sites/10/2021/03/GettyImages-1149113711-1-1020x715.jpg"
-        width: 1020
-        height: 715
-        isCached: true
   - title: "Lawsuit Challenges Clearview's Use of Scraped Social Media Images for Facial Recognition"
     excerpt: "Facial recognition technology is getting more sophisticated, more reliable, and more pervasive as the world eases its way toward becoming an all-encompassing surveillance state. That surveillance state doesn't even have to be built;"
     publishedDateTime: 2021-03-15T13:38:00Z

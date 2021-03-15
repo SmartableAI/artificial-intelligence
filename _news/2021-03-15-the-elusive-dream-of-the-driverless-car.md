@@ -57,6 +57,50 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "GM-backed Cruise acquires self-driving startup Voyage"
+    excerpt: "Voyage is a startup that spun out of online education company Udacity. Cruise itself has teamed up with Microsoft recently to help accelerate its research. Other notable self-driving partnerships include Amazon purchasing Zoox, Apple buying drive.ai and ..."
+    publishedDateTime: 2021-03-15T18:15:00Z
+    webUrl: "https://www.engadget.com/cruise-voyage-self-driving-acquisition-181356397.html"
+    ampWebUrl: "https://www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/EalVl1q6WRcEgwjY3sc7LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7fd6f550-85b9-11eb-bffa-fc7b88b7b6bf"
+        width: 1999
+        height: 1333
+        isCached: true
+  - title: "GM-backed Cruise buys self-driving startup Voyage in talent grab"
+    excerpt: "Cruise LLC, the self-driving technology company that’s majority-owned by General Motors, said it acquired autonomous-vehicle startup Voyage, which operates a service in retirement communities. \"I’m pleased to welcome Oliver Cameron and Voyage to the ..."
+    publishedDateTime: 2021-03-15T18:43:00Z
+    webUrl: "https://www.autonews.com/technology/gm-backed-cruise-buys-self-driving-startup-voyage-talent-grab"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/cruise%20photo%20resize.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "GM-Backed Cruise Buys Self-Driving Startup Voyage"
+    excerpt: "Cruise, the self-driving technology company that’s majority-owned by General Motors Co., said it acquired autonomous-vehicle startup Voyage, which operates a service in retirement communities."
+    publishedDateTime: 2021-03-15T19:00:00Z
+    webUrl: "https://www.ttnews.com/articles/gm-backed-cruise-buys-self-driving-startup-voyage"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-voyage-1200.jpg?itok=UyFjysNd"
+        width: 470
+        height: 246
+        isCached: true
 
 secured: "305CqdXPqYcjThELzj5yZ/mTn6siBNPFB+EjR+aaocIEbRp625HWrrUN48nUvQf2hDJQa+m0Mkg0TNhF3uyytcrv+3NKhN38q+rRHBY98U4tnBtlw8V0TN5kxj2/fQkAW30xoZe2136qw8r751OdBCFYf4CERGWWCQ9MPwhS4Iwx5ZzUwdqe1X2WLwJFrVEOC9ZeOHx00ApbrfYXTI/xnZoxERRFmm8oAsvst/mFG6rRuB17mtGvc2ep5qh5HE2+uCQqPfxuqStWutzlveoEg0GIdKDF+hRQ0YYUu0+1yE2M0H3RVrxexYh8UJOrLDy/Pxv/qbV0CQ0FlnXJmfLQaldsWdKkvrt1loTARTdeIqqOXpNOor03jsb6zPwqIdii4TAo0FC7obSqIrnKjAbsN7gC1iwKUmfn07jfrKaB4yPaOvq50flHylKCIUgYPQLu+zNO/hlFw1uJXckhBDz29RDVlVARFeMgwPMfMByYsm8hkkWtBpg05mPf0imxt+Fp1eWI2fLw/vgH/9sv3pKcRw==;EYVRpGe0wXR/pyxjPEN1Wg=="
 ---

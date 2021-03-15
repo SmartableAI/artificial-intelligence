@@ -7,7 +7,7 @@ originalUrl: "https://www.futurity.org/covid-19-macine-learning-diagnostics-2531
 webUrl: "https://www.futurity.org/covid-19-macine-learning-diagnostics-2531992-2/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI: This is how big data helped to fight COVID-19"
-    excerpt: "A new report highlights the benefits, but also the shortcomings, of data-informed technologies and AI in the response to the COVID-19 crisis."
-    publishedDateTime: 2021-03-11T13:16:00Z
-    webUrl: "https://www.zdnet.com/video/ai-this-is-how-big-data-helped-to-fight-covid-19/"
+  - title: "Machine learning models for diagnosing COVID-19 are not yet suitable for clinical use"
+    excerpt: "Systematic review finds that machine learning models for detecting and diagnosing COVID-19 from medical images have major flaws and biases, making them unsuitable for use in patients. However, researchers have suggested ways to remedy the problem."
+    publishedDateTime: 2021-03-15T16:05:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoc-mlm031221.php"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
     images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/11/f2df3314-4eaf-4e94-8263-a51b432013e4/thumbnail/770x578/4675a058c02135af06aad610a3fceac0/ai-this-is-how-big-data-helped-to-fight-60489437a09b1d05449c3ce8-1-mar-11-2021-12-53-49-poster.jpg"
-        width: 770
-        height: 578
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Scandit's Mobile Computer Vision Software Offered Free to Support COVID-19 Vaccine Program"
+    excerpt: "Scandit collaborates with Epic to offer free licenses to new Epic Rover users in the drive to scale-up mass vaccinations across the U.S. ZURICH--(BUSINESS WIRE)--Scandit, the leading enterprise technology platform for mobile computer vision and augmented ..."
+    publishedDateTime: 2021-03-15T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210315005098/en/Scandits-Mobile-Computer-Vision-Software-Offered-Free-to-Support-COVID-19-Vaccine-Program"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 9
 
 secured: "r0H2vsrVJ8/NaUGEMJ9CEwldd38ai+tY6D3CxRM3PrOT6qhy9xqKA4HnMTiW3YMaSyVCpuf8KPtt65W6Kun6NZlWuK2QH6RJpkQK5yLbEIcmsdJrkjhpO7da2rIprbNtX+6tHxfVle1frdkU2a0JJsTjHyP7M/o5TGF+B8dLP97cecx2RlrcbUiKopSDXsNIrPzYHhi1rW3V44PG2GAtYcpRXgf67mrPGSGzjapDCvqzYvjlTv4rHoghFvhwCPunlmEThGmUjYXlC5Lo/GxSrkyK8Dlb2AGt3Iltom3dmADXqKtIgGe5+Gc//vbkFfrqV2ZlCEizNhaSaQ4iIQDtUhtJ+s/P2+kMN49mBiXStxM=;n++eg1A/zW3ah3B9sL1Gtw=="
 ---

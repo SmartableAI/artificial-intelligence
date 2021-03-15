@@ -2,6 +2,196 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-08-google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech.md",
+      "title": "Google Billionaire Eric Schmidt Warns Of 'National Emergency' If China Overtakes U.S. In AI Tech",
+      "excerpt": "Former Google CEO Eric Schmidt on Sunday urged lawmakers to ramp up funding for research and development in the artificial intelligence space in order to prevent China from becoming the biggest player in the global AI market–a development Schmidt warned would spark national security and privacy concerns that could ultimately constitute a national emergency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/",
+      "originalUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6045450b8882a468d26dd8cc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3448%26cropY1%3D124%26cropY2%3D2064",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/amp/",
+      "publishedDateTime": "2021-03-07T13:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-seminar-on-artificial-intelligence-in-education.md",
+      "title": "Seminar on artificial intelligence in education",
+      "excerpt": "A three-day online international seminar on ‘Artificial intelligence in education’ will begin on Monday. Being organised by the State Institute of Educational Technology, in association with the Depar",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece/amp/",
+      "publishedDateTime": "2021-03-07T11:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-elon-musk-says-tesla-is-expanding-its-full-self-driving-beta-to-more-drivers.md",
+      "title": "Elon Musk says Tesla is expanding its Full Self Driving beta to more drivers",
+      "excerpt": "Tesla first introduced the FSD beta in October to vehicle owners in its Early Access Program. At the time, Musk said the company was handling the software update “very cautiousl",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/elon-musk-says-tesla-is-expanding-its-full-self-driving-beta-to-more-drivers/ar-BB1ekSRo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/-WR3wnR8gKXZNakvetGBZC7uzKA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68925715/acastro_180524_1777_tesla_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta",
+      "publishedDateTime": "2021-03-07T09:10:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta",
+        "domain": "theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-us.md",
+      "title": "China Targets AI, Chips Among Seven Battlefronts in Tech Race With U.S.",
+      "excerpt": "A five-year economic plan unveiled in Beijing promises more spending, loans to bolster development of advanced technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "originalUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-308486/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "publishedDateTime": "2021-03-07T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-face-time-with-eight-mayoral-candidates.md",
       "title": "Face Time With Eight Mayoral Candidates",
       "excerpt": "This year, the candidates have spent a lot of their time on Zoom. It’s been weird. But the internet — in this case, Skype — is how I last talked with Kathryn Garcia, a wry, thoughtful former sanitation commissioner and candidate for mayor who deserves more attention than she has so far received in the race.",
@@ -111,8 +301,8 @@
       "title": "Facebook’s new AI teaches itself to see with less human help",
       "excerpt": "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/",
-      "originalUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/",
+      "webUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1",
+      "originalUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1009,203 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring.md",
-      "title": "NHAI introduces AI-based face recognition system for attendance monitoring",
-      "excerpt": "In line with its commitment to adopt technology to enhance transparency and accountability, the National Highways Authority of India (NHAI) has deployed artificial intelligence (AI)-based face recogni",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/info-tech/dd046b/article33220251.ece/ALTERNATES/LANDSCAPE_615/BL02AI",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/",
-      "publishedDateTime": "2021-03-05T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive.md",
-      "title": "Scientists made an AI that reads your mind so it can generate portraits you’ll find attractive",
-      "excerpt": "A team of researchers recently developed a mind-reading AI that uses an individual’s personal preferences to generate portraits of attractive people who don’t exist. Computer-generated beauty truly is in the AI of the beholder.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/amp/",
-      "publishedDateTime": "2021-03-05T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-ibm-launches-ai-platform-to-discover-new-materials.md",
-      "title": "IBM launches AI platform to discover new materials",
-      "excerpt": "IBM has launched a platform, MolGX, that leverages AI to discovery new materials with particular characteristics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/05/ibm-launches-ai-platform-to-discover-new-materials/",
-      "originalUrl": "https://venturebeat.com/2021/03/05/ibm-launches-ai-platform-to-discover-new-materials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/05/ibm-launches-ai-platform-to-discover-new-materials/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/ibm-launches-ai-platform-to-discover-new-materials/amp/",
-      "publishedDateTime": "2021-03-05T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-10-women-changing-the-landscape-of-leadership.md",
-      "title": "10 Women Changing the Landscape of Leadership",
-      "excerpt": "In critical fields like agriculture, science, finance and technology, they have staked a claim with their pioneering work and are building a path for the next generation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership",
-      "originalUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/04/multimedia/womenpromo2/womenpromo2-videoSixteenByNineJumbo1600.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/05/world/women-leadership.amp.html",
-      "publishedDateTime": "2021-03-05T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-deli
 cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -26,6 +26,17 @@ images:
     width: 6192
     height: 4128
     isCached: true
+
+related:
+  - title: "GM's Cruise to buy self-driving Silicon Valley startup Voyage"
+    excerpt: "General Motors' (NYSE: GM) autonomous-driving unit Cruise has agreed to acquire Palo Alto-based self-driving transportation startup Voyage, the companies announced Monday. The acquisition will allow Voyage to expand its autonomous vehicle operations,"
+    publishedDateTime: 2021-03-15T19:16:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/03/15/gms-cruise-voyage-m-a.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "sgS85fsGuFVc2KQGgjvxPhGVhjrU+CeSuiJTB6oW64tX8U3Cv8xNCMzuLjSJhINqRPv9UU76s+rUn4AEfZ+cz72XSdZLgNhk3cCxExZmDKkVUKqjMzsw46DYbio69sOewRhb5lPt3mvxDxD14FhtJkjuzdnbVbP+1ljoWrHKFk6u+GxOh7q0kjLn8Igjr/8EJGcqu5GPqmUYJhQASjC+dV5JjCyyY0M8VyZ+A4wTZzSDy/uHlt5FxYA9DZMDcX4BC6GDsoSMFnpnVoBJtHcSIvw+DZi9VRxNUZHXB79bUwizPDkfajHjZmztBG66He7SVxn8krpGbt1JfEwnSS35cCyT3+sH3qFRpFs5byWPZPShEViQNv1yJk1hMt8ZHInwQJrvWI0/KSuXjco7OUIfO9hcegnnMHJrhZa0vIX3/dP6sppLRTkizkPt3TeuMwHB5/za8+V1y1Hs+ZiJOPEoxg3ed6Pzu+ZbPAqZkeMpQz33YMvNs8BkEoqEvHq7ec1/absIq5TAhRwJeRTo/ZT0Ww==;8Iv6U8cgvFy6XcWuskDXbw=="
 ---

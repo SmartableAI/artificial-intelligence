@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20117987"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20117987"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "2025: Healthcare Natural Language Processing (NLP) Market Size report will reach to 2129.4 Million USD at CAGR of 10.2%"
-    excerpt: "Mar 11, 2021 (Market Insight Reports) -- Selbyville, Delaware. The Healthcare Natural Language Processing (NLP) market share stands tall together of the foremost proactive industry verticals, as claimed by a auxiliary report. This research study forecasts ..."
-    publishedDateTime: 2021-03-11T03:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2025-healthcare-natural-language-processing-nlp-market-size-report-will-reach-to-21294-million-usd-at-cagr-of-102-2021-03-11?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 77
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4doyq5r4KO8lL0GKMjgRXH3ThzzbJD9+twrracAvBPwoEfPWxK93uRiCidgLD851qVJPf7/PWJvOipTmyRPPd+pKDN9zamiUI1BUMtAfuy5RFeyNSOkFXt/xaJrRehoEwFmYvB2rPqD8r2AsNlG08Foh1Mw8FAqcRRrEhnN9skVXf1u1ai4GZnqA6M1IdG6F+Bny4FlccqudKBH6w3m5C9jM+jyqNq9HZdXeIIMI8hGMr0MdS1YBCDr+USEZfaY5pyNNZAXBL7O4Ak3KbzBX84GQS0u8XZd0FI4+3pWJnMayIpBIQ1PctQ5DzxgycGSxXa3HE6l6MhemrhwJfwOXIU4246rW14Eyn3ZXVykcso4=;YzS7vbr2Yn1zl247rdB9CQ=="
 ---

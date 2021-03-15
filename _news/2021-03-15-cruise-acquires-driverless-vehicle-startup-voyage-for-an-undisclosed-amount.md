@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 137
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "GM-backed Cruise acquires self-driving startup Voyage"
+    excerpt: "Voyage is a startup that spun out of online education company Udacity. Cruise itself has teamed up with Microsoft recently to help accelerate its research. Other notable self-driving partnerships include Amazon purchasing Zoox, Apple buying drive.ai and ..."
+    publishedDateTime: 2021-03-15T18:15:00Z
+    webUrl: "https://www.engadget.com/cruise-voyage-self-driving-acquisition-181356397.html"
+    ampWebUrl: "https://www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 74
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/EalVl1q6WRcEgwjY3sc7LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7fd6f550-85b9-11eb-bffa-fc7b88b7b6bf"
+        width: 1999
+        height: 1333
+        isCached: true
   - title: "The Elusive Dream of the Driverless Car"
     excerpt: "that once redesigned by the Stanford Artificial Intelligence Lab could travel autonomously at about a mile per hour by 1971. But getting from that cart to the mass adoption of driverless cars in our cities and streets is akin to the difference between ..."
     publishedDateTime: 2021-03-15T09:59:00Z
@@ -60,6 +76,34 @@ related:
       - url: "https://www.motherjones.com/wp-content/uploads/2021/03/what_is_AWC_doing_Blair-Parsons_Burrowing-Bettong-632x440_web.jpg?w=600"
         width: 600
         height: 338
+        isCached: true
+  - title: "GM-backed Cruise buys self-driving startup Voyage in talent grab"
+    excerpt: "Cruise LLC, the self-driving technology company that’s majority-owned by General Motors, said it acquired autonomous-vehicle startup Voyage, which operates a service in retirement communities. \"I’m pleased to welcome Oliver Cameron and Voyage to the ..."
+    publishedDateTime: 2021-03-15T18:43:00Z
+    webUrl: "https://www.autonews.com/technology/gm-backed-cruise-buys-self-driving-startup-voyage-talent-grab"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/cruise%20photo%20resize.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "GM-Backed Cruise Buys Self-Driving Startup Voyage"
+    excerpt: "Cruise, the self-driving technology company that’s majority-owned by General Motors Co., said it acquired autonomous-vehicle startup Voyage, which operates a service in retirement communities."
+    publishedDateTime: 2021-03-15T19:00:00Z
+    webUrl: "https://www.ttnews.com/articles/gm-backed-cruise-buys-self-driving-startup-voyage"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-voyage-1200.jpg?itok=UyFjysNd"
+        width: 470
+        height: 246
         isCached: true
 
 secured: "uRYyzGoETZi2dlOee8GP/FHzARLsbRoPtoBVGIsvPD35p0s9suaealZ95oTWeojOvyHHQfq4dImNEi5mqYXVNjQ0kCi4FLfLuafvvXDrXTqDzPjDZj7RiiWO4X3RwckYe7J9JFXQTHchZWQ24OOJgWRhd0zB0/APKWo9D1RXb62/X9D1vwDxsX80tJRe/2SZthk8FCkETZCdVRU6Ql3TdERziy+svgOs4GQJBO6Rh9Cr1EH9qtIHGFLKPkkCGFv+1RpZqvJUv0Yqvp0W8eB5RAlZsLLEw8xoOmpMT2Z550YguZLsiIHUaMMeXE9gwuINgWaMYBApe1nje9bFMJcjm//ZNav+qXa70a7sac+Y2DdUKww2teSbwD8alCxlmWutS4dgLu21BL+SgEgs7+gde4DUPiDIqxOceo1A8mOIIFrDDChWsAtTKbIIP8hUmBH6pASimcmwHa2ip5na2yvkor0N5Myzh7d1LwSmBGJkWP2pwVdiXArRcdaPWGzwtHY7B1aJvd0CUBmQG/N6L2qO1w==;3JKenBBaN3bi27oXM9pE/A=="

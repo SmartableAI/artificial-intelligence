@@ -35,7 +35,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 29
+    quality: 31
   - title: "HMS Researchers Use Machine Learning to Recommend Drugs for Alzheimer’s Disease Clinical Trials"
     excerpt: "Harvard Medical School researchers developed a strategy that uses machine learning to recommend drugs as candidates for clinical trials for Alzheimer’s disease, according to an article published in the journal Nature Communications last month. A team of ..."
     publishedDateTime: 2021-03-12T06:18:00Z

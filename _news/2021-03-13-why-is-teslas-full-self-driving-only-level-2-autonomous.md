@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -121,15 +121,6 @@ related:
         width: 640
         height: 300
         isCached: true
-  - title: "In self-driving touts, Tesla peddles tall tale of two technologies"
-    excerpt: "In official correspondence with California's Department of Motor Vehicles, Tesla lawyers recently admitted full self-driving mode is no such thing."
-    publishedDateTime: 2021-03-11T03:20:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/03/10/self-driving-touts-tesla-peddles-tall-tale-two-technologies/6937545002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "ZRGy8RIZuip72UtTrVaGbZGaercv64+qf53+NITBfvnTkGzaEfkl4R0JeISfIjXHM573X0PW1Xze/pt9ikAsrBESgcTphNDu+lAKd6whaeR5HCWnD2SkqO3P+h8bYPt1qpCrNwbvxwb/IrCEiEJqNrE/sTXc27T+y+shYLY74QUFEZONBn8WLlakTPxhSnbzcbZ77ejzfyu1mEGCp5tDyGWIlEC9Gxk/7y2zK5JJyZzs3ujCB3UmsZY1mOJtPyNBgRtKuF65kaR79Z6aScEk/VZXrgHW8aLY6Z0T5KC4OhPMzYzoEWTE5hXmQV1QKSIusDehkocuEbFNZIzrDbFwcoXoLMhBP46jQiC8uTi8EjCaFQogt7JMjAdIhxxqWM1x3jgkXX7K1afRCIz2YJfY3FTQx6qCwQElqeGJ5i8WEHSrcmLVCJbWGnwooomol05KWWbMVeEPVb4uXfOGdhLMmeGb3YA7kSWISYCeByZUHLZ3PziRLinoDg4d3LGwEGQutUEAVj0qVdsJNbx7ZiN7Ew==;/JG/O+15WMXt22yW6PQiCg=="
 ---

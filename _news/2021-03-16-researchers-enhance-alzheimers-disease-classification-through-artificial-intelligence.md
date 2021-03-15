@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification
 ampWebUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"

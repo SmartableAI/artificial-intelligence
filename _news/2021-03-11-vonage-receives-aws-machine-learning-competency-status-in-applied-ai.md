@@ -17,11 +17,11 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b3/db39f4d6-a1bd-5fa7-9386-a0250cfd6f31/604f9e80817de.image.jpg?resize=1120%2C630"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b3/db39f4d6-a1bd-5fa7-9386-a0250cfd6f31/604fbc475d28d.image.jpg?resize=1120%2C630"
     width: 1120
     height: 630
     isCached: true
 
-secured: "r/KqEGdwUsJwGpLEMiEDPh/SKATqpSPH0i2NLWAQ94rVXpP9MnO0Adzdv/3LBRZhTM4dICly+iUfW+ronACk3FcH3FyyyMmmUZvwoL+ZeONf5E3hXtCQ/kiULgiEyJNnu4HRAk/es93ZcLPfBzNqJzC25oowDnyXVIXnxBKHuBXGdxF6LAeHMucLpeubQ100VDT7/j0XJ7VD/RqpoHAcrDW8zg7iSSNqrTXy+UhnOSIXHo3vI8VzMfjQqcmXxCJQMwfOuT68VRobyhGBDfsMQNoXMy5TTVdyY7b8t4csaWH6TpX6pBvlzIv6jww5Uw0OLofRCeBxgx3wrrKKJbt/3ACd2jWHW5JnB6FrsUXriyU=;SB6bbW+DhV8ePbRVxeSEDw=="
+secured: "MANIEbdMVdLoTc3CsHW9FeMEH7CZsStJGNXtwPIU3nNbmKVXGnkdNib/ltuitIIBVHt7MnhmIQaRbiJDHwPdDk2CHSaRq4xKx5RWCo1yYC19zrRnZR46AU4iH2znWjPgBYiQCxzoAGp/7DyLTL8C5SqgqJPyuBZ5f56Lzjn/N50WfmT9i3G/IYA6KqBOH2EZzgfvjuIhksZ+7s84AiHBfdxdd3a9ksvqe4B0Nj7LvSw3nRVnJo28X7QAC8W+I8ho60gIBl5eOnQkBzQX1Y5kKQjun0IlXLNtg+LxTvAp8tfpdxUKdeYomMa831I51fMNxZEwAM02rcfLg8v7DISA65beH8pTZOePNJL/pGDhb/Q=;wO5PhWrdDoPx8kF88bc5dg=="
 ---
 

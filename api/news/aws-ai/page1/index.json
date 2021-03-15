@@ -191,7 +191,7 @@
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b3/db39f4d6-a1bd-5fa7-9386-a0250cfd6f31/604f9e80817de.image.jpg?resize=1120%2C630",
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b3/db39f4d6-a1bd-5fa7-9386-a0250cfd6f31/604fbc475d28d.image.jpg?resize=1120%2C630",
           "width": 1120,
           "height": 630,
           "title": null,
@@ -1389,26 +1389,35 @@
       ]
     },
     {
-      "path": "_news/2021-03-02-amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision.md",
-      "title": "Amazon (AMZN) Boosts AWS Portfolio With Lookout for Vision",
-      "excerpt": "Using computer vision and Machine Learning (ML) capabilities, including \"few-shot learning\", the service analyzes images to spot manufacturing and production defects such as cracks, irregular shapes, dents and incorrect color. Further, Amazon Lookout for ...",
+      "path": "_news/2021-03-02-core-scientific-achieves-aws-high-performance-computing-competency-status.md",
+      "title": "Core Scientific Achieves AWS High Performance Computing Competency Status",
+      "excerpt": "\"Core Scientific is humbled to be one of the first AWS Partners to achieve AWS HPC Competency status,\" said Ian Ferreira, Core Scientific Chief Product Officer of Artificial Intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/core-scientific-achieves-aws-high-performance-computing-competency-status/article_ca8bc4fa-a144-53ba-a80a-9624a1cccf58.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/core-scientific-achieves-aws-high-performance-computing-competency-status/article_ca8bc4fa-a144-53ba-a80a-9624a1cccf58.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp",
-      "publishedDateTime": "2021-03-01T10:20:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T11:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1418,9 +1427,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     }
   ],
