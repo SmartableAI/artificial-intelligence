@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-mark
 webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-to-reap-over-usd-12999-billion-in-revenues-by-end-of-2026-2021-03-11"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -29,132 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics Process Automation in Finance Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026"
-    excerpt: "Global Robotics Process Automation in Finance Market is valued approximately USD 1.10 Billion in 2019 and is anticipated to grow with a healthy growth rate of more than 33.60% over the forecast period 2019-2026."
-    publishedDateTime: 2021-03-10T07:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10"
+  - title: "Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security"
+    excerpt: "Mavenir, the industry’s only end-to-end cloud-native Network Software Provider and a leader in accelerating software network transformation for communications service providers (CSPs), announced today its extended Artificial Intelligence (AI) and Analytics portfolio to enable closed-loop automation and drive digital transformation."
+    publishedDateTime: 2021-03-12T06:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-communication-technology-software-industry-250871eff3b2455482960cc3052e0395"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
-    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Drug Discovery Market Size, which is a detailed analysis of this business space inclusive of the trends,"
-    publishedDateTime: 2021-03-10T06:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2021-03-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Social Media Market Size, Demand, Outlook, Trends, Revenue, Future Growth Opportunities By 2025"
-    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
-    publishedDateTime: 2021-03-10T10:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-size-demand-outlook-trends-revenue-future-growth-opportunities-by-2025-2021-03-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market 2021 (COVID-19 UPDATE) Future Challenges, Growth Statistics and Forecast to 2027"
-    excerpt: "According to the report, The globalmachine learning marketsize is anticipated to rise remarkably on account of"
-    publishedDateTime: 2021-03-11T11:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-covid-19-update-future-challenges-growth-statistics-and-forecast-to-2027-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning as a Service Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025"
-    excerpt: "Competitive Landscape and Machine Learning as a Service Market Share Analysis: Machine Learning as a Service Market to reach USD 16.13 billion by 2025. Machine Learning as a Service Market valued approximately USD 0."
-    publishedDateTime: 2021-03-12T20:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market Top Key Players, Global Trend, Opportunities & Forecast 2020 - 2027"
-    excerpt: "Significant driving forces shaping the future of the Artificial Intelligence in Transportation market for the forecast period 2020 - 2027 find a special mention in the study and are backed by a real-time statistics."
-    publishedDateTime: 2021-03-10T15:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-top-key-players-global-trend-opportunities-forecast-2020---2027-2021-03-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ..."
-    publishedDateTime: 2021-03-12T23:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Associated Press
+      domain: apnews.com
     quality: 38
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
-    excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
-    publishedDateTime: 2021-03-12T11:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
+  - title: "What Accounts For The High-Decibel Growth Of Voice & Speech Analytics Market?"
+    excerpt: "Voice assistants such as Alexa, startups working in speech recognition and companies investing in voice technology have seen tremendous growth in the last few years. Several factors contribute to the increased traction in voice technology,"
+    publishedDateTime: 2021-03-13T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/what-accounts-for-the-high-decibel-growth-of-voice-speech-analytics-market/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech-to-Text API Market Size & Share, Growth, Scope, Challenges, Key Players, Overview and Forecast to 2028, Fortune Business Insights"
-    excerpt: "According to the report, The globalspeech-to-text API marketis set to gain traction from the rapid development"
-    publishedDateTime: 2021-03-11T13:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-size-share-growth-scope-challenges-key-players-overview-and-forecast-to-2028-fortune-business-insights-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/voice-analytics-market.jpg"
+        width: 1600
+        height: 900
         isCached: true
+  - title: "Automotive Voice Recognition Systems Market Research Report by Type, by Deployment - Global Forecast to 2025 - Cumulative Impact of COVID-19"
+    excerpt: "Reportlinker.com announces the release of the report \"Automotive Voice Recognition Systems Market Research Report by Type,"
+    publishedDateTime: 2021-03-11T10:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20115206/automotive-voice-recognition-systems-market-research-report-by-type-by-deployment-global-forecast-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20115206"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20115206"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "DCjYU+tnIWUEKlbDJ9eUIG2oBfu2xk9PXuvSMJUqtpKhUCMIpSPYdTyITeUjI+D9Og5VkOohWRi8//jx09Ku5l7l91rWNh0B0ySMEcoGZM3gI4dPriFAAlqCm7Apeco25OY8xrv26bLh1i6kVt3vlVoitwYq6kik0p6HV73NlrUOTLbPvn7F9c26SczlEKmpAsPW2LWZr6jRwrRBFops1LSf5xahLHT68uG9iqJrq3gJWgmu+zjHT0b/tr4vWoilA7C8TTIjL5FBupRAKu0hj98wcIs8uBtu3lJrMme3sYd1a7TYbsLGTiQ/FraO9ulq6yFEbsTD0vxbrqhCl0lFLK1InqMgmP5gSHfL7GCeZ4o=;rtoQDeOOn1ARj9elRX9H6w=="
 ---

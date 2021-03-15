@@ -51,6 +51,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ..."
+    publishedDateTime: 2021-03-12T23:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
+    excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
+    publishedDateTime: 2021-03-12T11:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "pPwUkwNo92Da0jnYbM7lDiLGRjRV/1+Ax7TcyBJpotJWuiIOAjLJGfT+BMbTX7NH4f7+nWhi/QtQQNSGqmsJdPVFlPY8YEa8aSpNyVinGidQdR+/vZ5p6ojJ0DhMmQwOjoqEfGafDlmcN/iWH68yeupPn2vS20I+a7RjpYT+AhZbQ9NPboYcOOYybguNXBsYkKfqEQCNi2Kvw16qj4NfT5Wt+Jl7qyWeTzLyflVUEzmDK8qrxooYkHJYQulWdzMUksi8D4vOzBKXVsUn6tnsQxwvTvzvJE+5KdDbzo9ZXLlzhsOQ0VtAhYDGNXPZsyFgbxuwjWsNfi3st6Vog44mfEBfzIxMcNp5EiiHmMFujbo=;oN0f8SI9bZN7vqU68zLZmg=="
 ---

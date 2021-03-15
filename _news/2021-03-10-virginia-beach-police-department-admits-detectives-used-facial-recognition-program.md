@@ -75,38 +75,6 @@ related:
         width: 768
         height: 465
         isCached: true
-  - title: "Facial recognition company sued by California activists"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that"
-    publishedDateTime: 2021-03-10T15:35:00Z
-    webUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/"
-    ampWebUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 61
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/facial-recognition-technology-sued-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Department says detectives used facial recognition program"
-    excerpt: "Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report. In February 2020 and again in September,"
-    publishedDateTime: 2021-03-10T07:02:00Z
-    webUrl: "https://www.chron.com/news/article/Department-says-detectives-used-facial-16014445.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Department-says-detectives-used-facial-16014445.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Department-says-detectives-used-facial-16014445.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)"
     excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."
     publishedDateTime: 2021-03-10T20:03:00Z

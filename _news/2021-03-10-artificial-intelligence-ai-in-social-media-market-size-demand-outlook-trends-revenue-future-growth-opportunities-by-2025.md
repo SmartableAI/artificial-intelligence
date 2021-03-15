@@ -29,131 +29,89 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics Process Automation in Finance Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026"
-    excerpt: "Global Robotics Process Automation in Finance Market is valued approximately USD 1.10 Billion in 2019 and is anticipated to grow with a healthy growth rate of more than 33.60% over the forecast period 2019-2026."
-    publishedDateTime: 2021-03-10T07:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10"
+  - title: "Global Artificial Intelligence (AI) Accelerator market Size, Share, Value, and Competitive Landscape 2026"
+    excerpt: "Mar 11, 2021 (Heraldkeepers) -- According to this study, over the next five years the Artificial Intelligence (AI) Accelerator market will register a xx% CAGR in terms of revenue, the global market size will reach $ xx million by 2026, from $ xx million in ..."
+    publishedDateTime: 2021-03-11T13:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 79
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
-    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Drug Discovery Market Size, which is a detailed analysis of this business space inclusive of the trends,"
-    publishedDateTime: 2021-03-10T06:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2021-03-10"
+  - title: "Artificial Intelligence (AI) In Retail Market Value Expected To Reach US$ 6,762.3 Million By 2027: Acumen Research And Consulting"
+    excerpt: "The Global Artificial Intelligence (AI) In Retail Market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 and reach the market value of over US$ 6,762.3 Mn by 2027. Based on regional landscape,"
+    publishedDateTime: 2021-03-10T19:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-value-expected-to-reach-us-67623-million-by-2027-acumen-research-and-consulting-2021-03-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market 2021 (COVID-19 UPDATE) Future Challenges, Growth Statistics and Forecast to 2027"
-    excerpt: "According to the report, The globalmachine learning marketsize is anticipated to rise remarkably on account of"
-    publishedDateTime: 2021-03-11T11:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-covid-19-update-future-challenges-growth-statistics-and-forecast-to-2027-2021-03-11"
+  - title: "Global Artificial Intelligence (AI) for Telecommunication Market Evolving Technology, Segmentation and Industry Analysis by 2025"
+    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025."
+    publishedDateTime: 2021-03-12T20:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market-evolving-technology-segmentation-and-industry-analysis-by-2025-2021-03-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025"
-    excerpt: "Competitive Landscape and Machine Learning as a Service Market Share Analysis: Machine Learning as a Service Market to reach USD 16.13 billion by 2025. Machine Learning as a Service Market valued approximately USD 0."
-    publishedDateTime: 2021-03-12T20:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-03-12"
+  - title: "Artificial Intelligence in energy Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
+    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Artificial Intelligence in energy market is expected to reach a market size of USD 20."
+    publishedDateTime: 2021-03-10T21:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-2021-03-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Transportation Market Top Key Players, Global Trend, Opportunities & Forecast 2020 - 2027"
-    excerpt: "Significant driving forces shaping the future of the Artificial Intelligence in Transportation market for the forecast period 2020 - 2027 find a special mention in the study and are backed by a real-time statistics."
-    publishedDateTime: 2021-03-10T15:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-top-key-players-global-trend-opportunities-forecast-2020---2027-2021-03-10"
+  - title: "Global Automotive Artificial Intelligence Market Share, Growth, Size, Trends, Revenue, Regional Segmentation, Key Competitors & 2021-2027"
+    excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
+    publishedDateTime: 2021-03-12T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-share-growth-size-trends-revenue-regional-segmentation-key-competitors-2021-2027-2021-03-12"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Analytics Market Share to Reap Over USD 129.99 Billion in Revenues by End of 2026"
-    excerpt: "Get a sample of the report @  The report offers a comprehensive analysis of the global Cognitive Analytics market on a global and regional scale. The forecast estimation have been done value chain analysis and provides an in-depth assessment of the market drivers and restraining factors along with their impact on the global market."
-    publishedDateTime: 2021-03-11T08:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-to-reap-over-usd-12999-billion-in-revenues-by-end-of-2026-2021-03-11"
+  - title: "Artificial Intelligence (AI) Market Report 2021 | Size, Share, Latest Development, Trends, Top Key Players and Outlook 2026"
+    excerpt: "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020.According to IMARC Group's latest report, titled 'Artificial Intelligence (AI) Market : Industry Trends, Share, Size,"
+    publishedDateTime: 2021-03-12T06:53:00Z
+    webUrl: "https://menafn.com/1101739821/Artificial-Intelligence-AI-Market-Report-2021-Size-Share-Latest-Development-Trends-Top-Key-Players-and-Outlook-2026"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 28
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ..."
-    publishedDateTime: 2021-03-12T23:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
-    excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
-    publishedDateTime: 2021-03-12T11:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech-to-Text API Market Size & Share, Growth, Scope, Challenges, Key Players, Overview and Forecast to 2028, Fortune Business Insights"
-    excerpt: "According to the report, The globalspeech-to-text API marketis set to gain traction from the rapid development"
-    publishedDateTime: 2021-03-11T13:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-size-share-growth-scope-challenges-key-players-overview-and-forecast-to-2028-fortune-business-insights-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?394745"
+        width: 338
+        height: 250
         isCached: true
 
 secured: "2xZXvc/Z2H79qgQoik6PeN/xyY9Dt7/R7tMiTr3EmMMjjPpq3xoE8kBlPGuEf6MOgOF8cEeHycdbOj7AmyjBCib1yYB7Ev0fNm9DkfqsHFSZM5csHIzU0ca61RNFDfbGruU1/4ZvIUbmFZyTNe0MucLCatX2IyxRS4kr/6BYkeb7HkbyOacKq2TR40w6X9gsXhUzfuw5VnUh6p3b8332o/05ws5QDyuNUHujvn8axRTcB1GUkeq58bYPOO6y9xf4Xph03IlI7nB0gTzskf4Cy6Z6SIjNG0K94jxlMNA1Pgz5gSGRr5uCazHw+9NzC58V3Ei+GblvyNl/iBtYtUGKKRFb16dgzfhU5XJsyC3qqlg=;cYM57gXSGrlCed9GxCbBhA=="

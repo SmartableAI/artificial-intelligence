@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Google’s deep learning finds a critical path in AI chips"
-excerpt: "ZDNet spoke with Google Brain director Jeff Dean about how the company is using artificial intelligence to advance its internal development of custom chips to accelerate its software. Dean noted that deep learning forms of artificial intelligence can in some cases make better decisions than humans about how to lay out circuitry in a chip."
-publishedDateTime: 2021-02-28T23:24:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
+excerpt: "The chips that Yazdanbakhsh and the team are developing are themselves chips for AI, known as accelerators. This is the same class of chips as the Nvidia A100 \"Ampere\" GPUs, the Cerebras Systems ..."
+publishedDateTime: 2021-02-28T22:05:00Z
+originalUrl: "https://www.zdnet.com/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
+webUrl: "https://www.zdnet.com/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
+ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
 type: article
-quality: 121
-heat: 161
-published: true
 
 provider:
   name: ZDNet
@@ -21,71 +18,16 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - AI Hardware
+  - AI
+  - Machine Learning
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/02/28/20a98f86-7db6-4412-8a12-57ad8196ad80/google-brain-2021-violin-plots-of-chip-design-optimization.png"
-    width: 1860
-    height: 1214
+  - url: "https://www.zdnet.com/a/hub/i/2021/02/28/aabff7c7-b7e4-4e29-844a-9746cbfeee24/google-brain-2021-search-space-of-ai-acclerator.png"
+    width: 2074
+    height: 1000
     isCached: true
 
-related:
-  - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
-    excerpt: "AI and Machine Learning are predicted to generate between $1.4 Trillion to $2.6 Trillion in value by solving Marketing and Sales problems."
-    publishedDateTime: 2021-03-03T20:39:00Z
-    webUrl: "https://www.enterpriseirregulars.com/172990/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/"
-    type: article
-    provider:
-      name: Enterprise Irregulars
-      domain: enterpriseirregulars.com
-    quality: 71
-    images:
-      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/03/10-Ways-AI-And-Machine-Learning-Are-Improving-Marketing-In-2021--600x439.jpg"
-        width: 600
-        height: 439
-        isCached: true
-  - title: "Delving deep into potential of Artificial Intelligence"
-    excerpt: "Battlegrounds” is a game-changing new book by Rajiv Malhotra, analyzing society’s vulnerabilities to the current AI revolution"
-    publishedDateTime: 2021-03-01T22:45:00Z
-    webUrl: "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    ampWebUrl: "https://www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/03/01/1034510-book.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Stop Experimenting with AI and Machine Learning"
-    excerpt: "The pandemic has accelerated the imperative for businesses to invest in Artificial Intelligence (AI) and Machine Learning (ML) so they can replace guesswork with data-powered certainty to reorient strategy and optimize operations for success in an uncertain future."
-    publishedDateTime: 2021-03-02T20:41:00Z
-    webUrl: "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 56
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/03/istock-844535726-100879325-large.jpg"
-        width: 1200
-        height: 851
-        isCached: true
-  - title: "American Airlines Cargo using AI, process automation and machine learning"
-    excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."
-    publishedDateTime: 2021-03-01T02:22:00Z
-    webUrl: "https://centreforaviation.com/news/american-airlines-cargo-using-ai-process-automation-and-machine-learning-1055163"
-    type: article
-    provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 33
-
-secured: "6+px9RAKv/TqtTakiM+MID7XP66TKf9DZ5QOVtIyufuEgjuVfkGs1MIR8KVGSfo2qdhjY83XF9P0QEUlMWPP8yi/YCnBj5tk2t+iwG5+Yb7GK5yQMqPIz0gtlJI1sV+hyXEjxwVYaxjsigTO9p/KCRo+aSG9JOakXlSrZbWT5fePytBwYIR6ZbJqEiaSouf+Rt2dIWpwnCUsPhC3fN0WeqhYsTpqa+Xs5cftbv/Lpnwz0vrOZpVU9jRfOQ+QBKPf2BdFyut+70dgTj+bqJbWYRAEkdjorAJB/nc0UN19cewUpf2NO8ruUjQDeXsrUEBlcc72YQlYHDvpy3Wv5IahIs1TuTF72ax4iLwo+pl3TBwIFET5vkPy1wx6mfrSI+zj2fFNcCZaPg9hRY1nuRBVs5ES70pf1aP2lwXYxutaJSKwKfTpYt1mMC6a8ZhKs6f6ht3Yl+81Gs4QYA2EhzuC8v09wd0z/n23cM84xYOmFrOS/GKO3+rTIIiG7IbC02eTqRLGRq8GVMoUmCT3KIp+ig==;Xuc11ug89MuAEtOx9+2Njg=="
+secured: "OIpYflW6YZZVQZbiVTn2FcQIJdhtLi4AuLuZPWRCYA5OyGbPKXoKsakmZRVpzs7gP4gev/66oR1eSrWgi1qMW2ymW8XHkNyYYXHRUvqU8jtPcZ4y+TNqaOdT3aaz5ms583CXKXZQ7b+BchidZQc6nWsraw3bYjgMeNwRMRmMKVbCk7NU8SOy1km7tA+DJ9ek+opzeDGwisGyL25IZK1myy13pnz1zLJIo0j/H4Azwt53bqJnvAIWJdFslNs7HKDzaiyiWe4/uouL+s+rZxvUq0lyF5uOTUi8EL/BLyDsWj7VwuTWfYULsoZCfHVqjixYOTDt/exa6B/+yb+Ax52yJIHV90Pqf1FQ1ESj1LOVCv4=;Rtc1S14yEanSRmesump7CA=="
 ---
 

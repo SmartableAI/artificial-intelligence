@@ -2,6 +2,52 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-02-how-avepoint-is-leveraging-microsoft-turing-and-ai-at-scale-to-advance-corporate-and-higher-education-learning.md",
+      "title": "How AvePoint is Leveraging Microsoft Turing and AI at Scale to Advance Corporate and Higher Education Learning",
+      "excerpt": "AI is the future and the Microsoft Turing model is the key. Click here to learn about AvePoint's latest venture into artifical intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/",
+      "originalUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.avepoint.com/blog/wp-content/uploads/2020/10/machine-learning-hands-of-robot-and-human-touching-on-big-data-picture-id1206796363.jpg",
+          "width": 1024,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/?amp",
+      "cdnAmpWebUrl": "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/office-365/avepoint-microsoft-turing/?amp",
+      "publishedDateTime": "2021-03-02T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AvePoint",
+        "domain": "avepoint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education",
+        "Microsoft AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-how-ai-is-transforming-cybersecurity-in-2021.md",
       "title": "How AI is Transforming Cybersecurity in 2021?",
       "excerpt": "This post will let you know about the role of Artificial Intelligence (AI) in improving cybersecurity in 2021 and beyond.",
@@ -1101,8 +1147,8 @@
       "title": "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021",
       "excerpt": "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1136,40 +1182,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-amazon-has-become-a-prime-revolving-door-destination-in-washington.md",
-      "title": "Amazon Has Become a Prime Revolving-Door Destination in Washington",
-      "excerpt": "Everything about Amazon is big. It’s the second-biggest retailer in the world. Its founder, Jeff Bezos, possesses the biggest fortune in the world. And the company has developed a big revolving door in Washington through which government officials and employees whisk and land in well-paying jobs at Amazon,",
-      "sourceUrl": null,
-      "webUrl": "https://www.motherjones.com/politics/2021/03/amazon-has-become-a-prime-revolving-door-destination-in-washington/",
-      "originalUrl": "https://www.motherjones.com/politics/2021/03/amazon-has-become-a-prime-revolving-door-destination-in-washington/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T21:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mother Jones",
-        "domain": "motherjones.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

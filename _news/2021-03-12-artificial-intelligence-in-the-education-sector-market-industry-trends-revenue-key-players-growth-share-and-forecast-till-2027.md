@@ -52,6 +52,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
+  - title: "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ..."
+    publishedDateTime: 2021-03-12T23:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
+    excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
+    publishedDateTime: 2021-03-12T11:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "FhHQf08HxjFG3pvK+hK0zeFMnW/sSsteLJrQB6GUD+zJe27JMG5cgActkBo+auHpXzTHoTENNwur5+t8+7V2Ibbfh14Y08fhGMN5a7IMzFslztixolVBPsCwaH3yQA/dGbdOQXOEEmCLTBUlfaHNI23JhZagFo9jPxMpHZARxbxywi8iyDsCHsgbf+dMEn2tQ8zq0W1r4ZSheL9KvW6Ayn0/3x1A+sLgcoFiKqu2/TK+KvcTTH1CQJYGJjEqyIpTz7O9AaUif5IcSzZ6rDKA7y27rWR2POMR4HH50zDkcVrq7Mp7qfc4hqNYqqfvM2ZEpRu8RJVEYNeZl1LDXklAilwPO/HEMhecLzFLb/ouTDE=;VRZyhiryGYBhsGAeqVHByg=="
 ---

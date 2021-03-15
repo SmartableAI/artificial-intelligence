@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-share-growing-rapidly-with-recent-trends-and-outlook-2020-2027-2021-03-13"
 type: article
 quality: 60
-heat: 80
+heat: 100
 published: true
 
 provider:
@@ -52,6 +52,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
+  - title: "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ..."
+    publishedDateTime: 2021-03-12T23:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
+    excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
+    publishedDateTime: 2021-03-12T11:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZuQmez9xCuF26s0ib+itzs+eamNwLqhIYnykv+TB5/C1xCbMLWAgjMv/lOem3m1EIMSik1ojq7gCvPLILUxOmcQzH6adSNvL0fcump6w4LBZWHe+S9/osflZ6x5xFkhQbTbTqDjTnlUPgOOm6Uz0Haw3GnikxYHayLLbKl3jq09KqOOqsj0W60neHKD8jjDQiOV9utz0f6ER5esUpVzYifsrbw5D/6jPiA2lrr8fO53DInAyjjhP7tfIU1Pbov5vEDrw9GpPIkjz+MAVhDer6hjYovFHWtM9lsWunO2WwBkU5fws6alOi54Md6y7V/RO0/TF7W2cHSFdEQckhbX0QsRpboXQPduKo+nzmPNdEUo=;zSnDnZ8Oz1fk0604d2w0Bw=="
 ---

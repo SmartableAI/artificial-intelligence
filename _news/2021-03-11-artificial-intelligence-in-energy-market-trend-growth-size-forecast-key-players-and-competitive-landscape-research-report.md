@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Size, Demand, Outlook, Trends, Revenue, Future Growth Opportunities By 2025"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
+    publishedDateTime: 2021-03-10T10:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-size-demand-outlook-trends-revenue-future-growth-opportunities-by-2025-2021-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) In Retail Market Value Expected To Reach US$ 6,762.3 Million By 2027: Acumen Research And Consulting"
     excerpt: "The Global Artificial Intelligence (AI) In Retail Market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 and reach the market value of over US$ 6,762.3 Mn by 2027. Based on regional landscape,"
     publishedDateTime: 2021-03-10T19:39:00Z

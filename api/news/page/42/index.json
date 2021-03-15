@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-02-10-a-language-learning-system-that-pays-attention-more-efficiently-than-ever-before.md",
+      "title": "A language learning system that pays attention more efficiently than ever before",
+      "excerpt": "Human language can be inefficient. Some words are vital. Others, expendable. Reread the first sentence of this story. Just two words, \"language\" and \"inefficient,\" convey almost the entire meaning of the sentence.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-02-language-attention-efficiently.html",
+      "originalUrl": "https://techxplore.com/news/2021-02-language-attention-efficiently.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/alanguagelea.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-02-language-attention-efficiently.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-language-attention-efficiently.amp",
+      "publishedDateTime": "2021-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-googles-ai-firm-deepmind-considered-launching-a-food-division-with-controversial-eggless-mayo-startup-hampton-creek.md",
       "title": "Google's AI firm DeepMind considered launching a food division with controversial eggless mayo startup Hampton Creek",
       "excerpt": "Google AI firm DeepMind discussed a partnership with Hampton Creek on a new food division in 2016. Hampton Creek famously produced vegan products like eggless mayo and nearly imploded in 2017. Suleyman presented the plans internally but the new division never got off the ground,",
@@ -1138,40 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-cleareyeai-collaborates-with-microsoft-for-ai-platform.md",
-      "title": "Cleareye.ai Collaborates with Microsoft for AI Platform",
-      "excerpt": "The engine from Cleareye.ai also uses computer vision, part of Azure Cognitive Services, Azure Kubernetes Service, and other scalable computing and analytical services from Microsoft to fulfill ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19559723",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723",
-      "publishedDateTime": "2021-02-09T05:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

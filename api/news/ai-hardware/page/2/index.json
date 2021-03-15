@@ -47,19 +47,19 @@
     {
       "path": "_news/2021-03-01-googles-deep-learning-finds-a-critical-path-in-ai-chips.md",
       "title": "Google’s deep learning finds a critical path in AI chips",
-      "excerpt": "ZDNet spoke with Google Brain director Jeff Dean about how the company is using artificial intelligence to advance its internal development of custom chips to accelerate its software. Dean noted that deep learning forms of artificial intelligence can in some cases make better decisions than humans about how to lay out circuitry in a chip.",
+      "excerpt": "The chips that Yazdanbakhsh and the team are developing are themselves chips for AI, known as accelerators. This is the same class of chips as the Nvidia A100 \"Ampere\" GPUs, the Cerebras Systems ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "webUrl": "https://www.zdnet.com/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/28/20a98f86-7db6-4412-8a12-57ad8196ad80/google-brain-2021-violin-plots-of-chip-design-optimization.png",
-          "width": 1860,
-          "height": 1214,
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/28/aabff7c7-b7e4-4e29-844a-9746cbfeee24/google-brain-2021-search-space-of-ai-acclerator.png",
+          "width": 2074,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,9 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "publishedDateTime": "2021-02-28T15:24:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "publishedDateTime": "2021-02-28T14:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -92,9 +92,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "Machine Learning"
       ]
     },
     {
