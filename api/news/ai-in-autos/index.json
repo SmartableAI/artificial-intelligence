@@ -618,6 +618,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
+      "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
+      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published Monday. The simulations were based on 72 fatal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8lt5x61cHVw/v0/1200x796.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-new-toyota-tech-unit-promises-worlds-safest-drive.md",
       "title": "New Toyota tech unit promises world's safest drive",
       "excerpt": "The company also said it would be ready to unveil a fully self-driving prototype \"in the near ... while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely.",
@@ -1349,50 +1401,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-robotics-division-of-ubers-postmates-spins-out-into-new-company.md",
-      "title": "Robotics division of Uber's Postmates spins out into new company",
-      "excerpt": "The robotics unit of Postmates, a delivery startup that ride-hailing firm Uber Technologies acquired last year, has spun off into a new company called Serve Robotics, the company said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3",
-      "originalUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3?amp",
-      "publishedDateTime": "2021-03-02T17:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

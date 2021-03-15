@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robo
 webUrl: "https://www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robot-will-paint-a-canvas-at-sxsw-2021/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "IBM introduces an AI based robot that creates fine art paintings"
-    excerpt: "Artificial Intelligence takes another leap in creativity as IBM Japan recently introduced a robot that has the power to create art using colors, canvas, and a paintbrush."
-    publishedDateTime: 2021-03-10T10:40:00Z
-    webUrl: "https://www.techjuice.pk/ibm-introduces-an-ai-based-robot-that-creates-fine-art-paintings/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
-    quality: 54
-    images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/03/image_processing20210303-2725-11uub47.jpg"
-        width: 1906
-        height: 953
-        isCached: true
 
 secured: "eUqFt5s/VgSE/mzs+bo8+qmej1dVWZQVfy2jWW9c7MCCpM81NaM/hTnz9VCSTYutmD+fT3YRvj3+1cv8lOveJHOJNmZx9Y8qXrXMMwDuyl7iMO+lfFZcDxKyy1XabzYJSdlSazf0mZ9sRU+qg5J9Vkfi6tYBMM3NqcfR4kpUlXxSQsPSeZ30G3BF6EU/hcR41t7kYXMtbj5bJQabBCSTA9CGyziRjsDPanHqzi++0pqxGRUAt4kJ0GmLBJlQCOPimTn9umxJEUw8UiCHGnD4CnY9eJ1LkfY1Nr9NdBU5jFWX7jD6HFK1mjHpxui3p1NyxUHrOYDxNbLwG39X0eRxZCue6rqltbzE02uQp07G1L0UNFNxte063851oxAZm176JMzrEktRVarXfZWlXe50flsJ4tgTyJxJxJJqjvoc7dmnnwvURG30aQyKai+AarQgyhFZUeqG+//5T25jfvCnUOBBd/0ewjCqkPMfs0noZ9mgPn63dbDJ1aM/iHEe5V3R0Cn6V1A6SeIt31jqcbkiKw==;r83TKm8j4ed9KQvNN0U7AA=="
 ---

@@ -44,19 +44,17 @@ related:
         isCached: true
   - title: "Artificial intelligence calculates suicide attempt risk"
     excerpt: "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center."
-    publishedDateTime: 2021-03-12T16:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-suicide.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-suicide.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-suicide.amp"
+    publishedDateTime: 2021-03-12T16:02:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/vumc-aic031021.php"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 37
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-suicide.jpg"
-        width: 2880
-        height: 1919
+      - url: "https://www.eurekalert.org/multimedia/pub/web/258808_web.jpg"
+        width: 440
+        height: 290
         isCached: true
 
 secured: "FAdNI8C7a/sCFsgzXZhjcHOtV9vllZqNPHhqWm5J/9OyExadLwsfyIMExMs+qsBT7i7W5dEITswHItCTAwbRi89VeJuYEqfvaVWsiU+qkqgy5j1HritcE1lCMbsy7/VH7kfznWdMuLW4MTrRxSE90vNHKGYtC2WW1bKL9yvQR5ww9gfY3ynA/ZQ8ZkTVeSPhxiupA5Sx+yVsKgb4oL93CqTUKaVOy8nkzEdG9LQxLI2Kc9ds8lTv6MKYiemRU2gc9FJVHpuJQ4wTW15FYkgq1bXMVtXlJaao87mMiZuRLNpp3TvJHNmYbHBeJ35c38xMJpf73CblJHDACs4kXa5OQZ/GpD+/9qnkslMBKltAksE=;/YRX9X6bCsenB71gU0A+JA=="

@@ -2,22 +2,22 @@
 category: news
 title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
 excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
-publishedDateTime: 2021-03-10T22:02:00Z
-originalUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
-webUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+publishedDateTime: 2021-03-11T00:09:00Z
+originalUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+webUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
+  - AI
+  - Machine Learning
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
@@ -72,6 +72,6 @@ related:
       domain: morningstar.com
     quality: 50
 
-secured: "/2lXTdMyDs3DJrpHs+NLQ1WZaSAlng61B7+4KncF6DdNRQtZUuL2bZOuH95ocOzb1RJsharhDS5Wbcx53AiOnfGeEBDlsOeXcosPhCeQ/UQxqNI2GjfTRAVjiZ0QvTYsBcaQohEhnD4qthBJ/bxi0BTvXF7bz7RtIFmNuYAKJ7RK3C9ZeDVe9ieSdTv79RWsoNI2/iuCwSj+iwBnxfQWkbdjlt9H1C6UYocKbLy2soXmCwZnpOZ6hSYQBflxt5ygCUEhgK8gDK6Bg5XAPznkLrVMbSo/O+lNmBfz7jNISokBjiMVcX6MszW3PhMvYOKupCjOXaddkdMkd5/lJQyacqmZcUlt3r2IesMVFogZ94U=;pQQnEfHX9vIoDdwAf6DDSA=="
+secured: "aWDjbqDXGlv7p73ukq+wmnGNGKixvncGTIhGEmCDrTtnpOv0iBClsva+GO0bHl7jxZG/UAe4R9v6nW/BQydVPJ+WYQn39QRttbAvvOKhyiLgjo0VUZcbs/BhRcEUXa8xxq91tfxAgNPQlJ+oj5h7fOZYqy/wX4hDFI91IxhspJwsmIgjdtBIfKocK1T7QEw4/+IC5trXA9764bJTnkVUlIY8jqczQ96OT+KMpsIPF+3wNBcmI/zYwS+E6BvGmxXEvPsG4Cp/4s8Lj4p1G3ufT2Xk/cgJhfaBYVYpUWobRTDuQGnm4dekdgx9Wb2vSqvf7HFHgQTVofUiHyNaZ87SKFyt1Fop6kv88jm+7rzffoQ=;1MeuiKwtMpGp/glzYhjvgg=="
 ---
 

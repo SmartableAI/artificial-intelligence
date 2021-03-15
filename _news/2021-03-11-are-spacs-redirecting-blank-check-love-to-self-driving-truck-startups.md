@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20103109"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20103109"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Are SPACs redirecting blank check love to self-driving truck startups?"
-    excerpt: "As a love affair with electric vehicle companies fades, self-driving truck startups appear to be the new courtship objects of blank check companies."
-    publishedDateTime: 2021-03-10T12:00:00Z
-    webUrl: "https://www.freightwaves.com/news/are-spacs-redirecting-blank-check-love-to-self-driving-truck-startups%3F"
-    ampWebUrl: "https://www.freightwaves.com/news/are-spacs-redirecting-blank-check-love-to-self-driving-truck-startups%3F/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/are-spacs-redirecting-blank-check-love-to-self-driving-truck-startups%3F/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 44
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/03/030821-Plus-Truck.jpg"
-        width: 1084
-        height: 666
-        isCached: true
   - title: "Dissecting the Startup Buzz"
     excerpt: "Investors place big bets on young startups offering tech like robotics for DCs. For investors, it’s attractive because of e-commerce growth and the efficiency gains that can be realized by flexibly automating labor-thirsty tasks."
     publishedDateTime: 2021-03-11T21:17:00Z

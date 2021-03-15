@@ -42,22 +42,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "10 Powerful Ways To Use Artificial Intelligence In eCommerce"
-    excerpt: "There are a number of great benefits of using artificial intelligence in eCommerce for data-driven online stores."
-    publishedDateTime: 2021-03-10T11:24:00Z
-    webUrl: "https://www.smartdatacollective.com/how-to-use-artificial-intelligence-in-ecommerce/"
-    ampWebUrl: "https://www.smartdatacollective.com/how-to-use-artificial-intelligence-in-ecommerce/amp/"
-    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-to-use-artificial-intelligence-in-ecommerce/amp/"
-    type: article
-    provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 57
-    images:
-      - url: "https://www.smartdatacollective.com/wp-content/uploads/2021/03/shutterstock_1548966761.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI"
     excerpt: "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
     publishedDateTime: 2021-03-10T21:31:00Z

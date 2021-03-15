@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-tool-used-by-pol
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179"
 type: article
 quality: 88
-heat: 248
+heat: 238
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/92JhUnKXq9qB0Ohx-q6NMtIoH8c=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68949763/large.0.jpg"
         width: 768
         height: 465
-        isCached: true
-  - title: "Facial recognition company sued by California activists"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that"
-    publishedDateTime: 2021-03-10T15:35:00Z
-    webUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/"
-    ampWebUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/facial-recognition-technology-sued-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)"
     excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."

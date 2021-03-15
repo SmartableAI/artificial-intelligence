@@ -1,29 +1,30 @@
 ---
 category: news
-title: "Alphabet’s Waymo says its tech would avoid fatal human crashes"
-excerpt: "The autonomous-car artificial intelligence from Alphabet Inc’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published on March 8."
-publishedDateTime: 2021-03-09T06:37:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes"
+title: "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes"
+excerpt: "The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published Monday. The simulations were based on 72 fatal ..."
+publishedDateTime: 2021-03-08T19:59:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes"
+webUrl: "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2021/03/09/1070479.jpg"
-    width: 1240
-    height: 811
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8lt5x61cHVw/v0/1200x796.jpg"
+    width: 1200
+    height: 796
     isCached: true
 
-secured: "MTl6ZddMJCqmzLtyxvmrAYsZ0GWKpYmOMgdAkdWY5rdR+eOcwlkQwEMj7IPrQFuLghQi2Ssp1oNC5NvHrDNyvjGV5X0+9+1bdWly9JbRe6/Zb1kbYGEavJdHO/ReVvf90iOo7rW+PXEmRJhNU6mVTDX78vFOfaq75+RiezyAgcHS76mIHb5NgfuzqE73myRh30zuT+Zm5PF3BIlMLUCCBtFiONBI3AdOyYYkJudgzi40p6WI1qq52aFAI3kES7gZD+OyfNwRw3q/8ZfYMimVFPbcF0qFPGhIixiHcx59FgpSFIbuzEEMD6WNaMTO3F1vxuFy0QyaYRRgB/1VQRyRRtYvBo1Lwog7Wcg2N/w0q/5W73aMDwMt3bMza5SQmJA7NCvx/L+2XrBqNftCTBxNPAYDzkERNjJu1AzLcNMcVv5MPmlrR4UfkC72x+i7p+Z7B43jDId2OUjitPTxi+7XqKp7D18Z2wecyDlT+2f8NTMVfz9RcP/aYVRqyLkm1zZdc1vcbFIxDoqT07VJiWhmDA==;ixmjvshVKwwWSWuzJW8XTg=="
+secured: "/vKMwMTr+tOIjlxnqE3RB1jlVQNnz98AO+qOlYWky9m6teb0EFBSChE2VgQMYg3MATkkm9xLuDfpGqzFzcPSihwEZtR/Cm75o4WLbuIBAFj4MCIjKvqhgeX54tu3Vc4X/0AsGnxThTVz5oNhFMZub1+H/MKLsTDbFH+f0yWo5U6HDpFQrogiIPZK4hxa/AqNBl7AJL2jGjDI3VfuL0JGWaFcj94WGOG1zqm/mGT+s0sAR3cArCwKPvHr07REDuw9Fk3AEe+H+4nKMgjssJzHsWiHaWJiGjB5/fzy9FrnEJYBvQ5xgrSb+8Wut7k4P8cmbO5Ad0ijDoCOfxojhFQGbv53m/mFL0aLQXv15T7kHjM=;/nPfhiQrACOon82KZgabQw=="
 ---
 

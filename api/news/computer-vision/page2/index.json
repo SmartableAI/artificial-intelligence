@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-26-review-hachi-infinite-m1-pro-interactive-ultra-short-throw-projector.md",
+      "title": "Review: Hachi Infinite M1 Pro interactive ultra-short-throw projector",
+      "excerpt": "China's Puppy Robot launched the puppy cube interactive projector on Indiegogo, and we got to review a unit. The company's next generation smart projector was showcased at CES 2020, and a higher spec version released toward the end of last year called the Hachi Infinite M1 Pro –",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/home-entertainment/review-hachi-infinite-m1-pro/",
+      "originalUrl": "https://newatlas.com/home-entertainment/review-hachi-infinite-m1-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5be3318/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F27%2Fe2%2F9be1a05c4d109394a5899f0d7af5%2Fdsc-6901.JPG",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/home-entertainment/review-hachi-infinite-m1-pro/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/home-entertainment/review-hachi-infinite-m1-pro/?amp=true",
+      "publishedDateTime": "2021-02-26T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-facebook-is-looking-at-facial-recognition-technology-for-upcoming-smart-glasses-executive-confirms.md",
       "title": "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms",
       "excerpt": "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices.",
@@ -1296,49 +1348,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-does-everyone-see-the-same-colour-when-they-see-red.md",
-      "title": "Does everyone see the same colour when they see red?",
-      "excerpt": "How would we know? Scientists often explain why people have a colour vision in cold, analytic terms: colour is for object recognition. And this is certainly true, but it is not the whole story.",
-      "sourceUrl": null,
-      "webUrl": "https://scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
-      "originalUrl": "https://scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/128452-hfslodsqoj-1612799825.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
-      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
-      "publishedDateTime": "2021-02-14T18:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scroll",
-        "domain": "scroll.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

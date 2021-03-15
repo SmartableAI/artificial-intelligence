@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/366465"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366465"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/laptop-work-1148958_1280-647x363.jpeg?vB5lrJ2V0I9bDSCDYDyIVhlAhvoO.B8G"
         width: 647
         height: 363
-        isCached: true
-  - title: "10 Powerful Ways To Use Artificial Intelligence In eCommerce"
-    excerpt: "There are a number of great benefits of using artificial intelligence in eCommerce for data-driven online stores."
-    publishedDateTime: 2021-03-10T11:24:00Z
-    webUrl: "https://www.smartdatacollective.com/how-to-use-artificial-intelligence-in-ecommerce/"
-    ampWebUrl: "https://www.smartdatacollective.com/how-to-use-artificial-intelligence-in-ecommerce/amp/"
-    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-to-use-artificial-intelligence-in-ecommerce/amp/"
-    type: article
-    provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 57
-    images:
-      - url: "https://www.smartdatacollective.com/wp-content/uploads/2021/03/shutterstock_1548966761.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI"
     excerpt: "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."

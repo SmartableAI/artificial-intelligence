@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-r
 cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.amp"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Have you been ‘scraped’? Facial recognition company sued over data base of 3B people"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
-    publishedDateTime: 2021-03-10T11:19:00Z
-    webUrl: "https://www.wraltechwire.com/2021/03/10/have-you-been-scraped-facial-recognition-company-sued-over-data-base-of-3b-people/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 34
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363-1024x575.jpg"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "NextBillion.ai Recognized on Fast Company's 2021 World's Most Innovative Companies List"
     excerpt: "AI-powered mapping platform for enterprises among top-ranked in the Most Innovative Company Asia-Pacific category"
     publishedDateTime: 2021-03-10T16:02:00Z

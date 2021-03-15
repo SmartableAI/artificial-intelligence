@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-03-robotics-division-of-ubers-postmates-spins-out-into-new-company.md",
+      "title": "Robotics division of Uber's Postmates spins out into new company",
+      "excerpt": "The robotics unit of Postmates, a delivery startup that ride-hailing firm Uber Technologies acquired last year, has spun off into a new company called Serve Robotics, the company said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3",
+      "originalUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3?amp",
+      "publishedDateTime": "2021-03-02T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-why-blackberry-tsxbb-stock-fell-over-30-last-month.md",
       "title": "Why BlackBerry (TSX:BB) Stock Fell Over 30% Last Month",
       "excerpt": "Diggles added, “In the context of self-driving cars, DLT that is infinitely ... David Gardner owns shares of Amazon, Baidu, Facebook, and GameStop. Tom Gardner owns shares of Baidu and Facebook.",
@@ -1399,40 +1443,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-apple-in-talks-with-suppliers-for-self-driving-sensors-report.md",
-      "title": "Apple In Talks With Suppliers For Self-Driving Sensors – Report",
-      "excerpt": "Meanwhile, Apple (AAPL) has been working on its autonomous car project for the past several years and while it has developed most of the necessary software and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22",
-      "originalUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22?amp",
-      "publishedDateTime": "2021-02-22T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

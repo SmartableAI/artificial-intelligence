@@ -2,27 +2,25 @@
 category: news
 title: "Artificial intelligence calculates suicide attempt risk"
 excerpt: "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center."
-publishedDateTime: 2021-03-12T16:00:00Z
-originalUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-suicide.html"
-webUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-suicide.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-suicide.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-suicide.amp"
+publishedDateTime: 2021-03-12T16:02:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/vumc-aic031021.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-03/vumc-aic031021.php"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-suicide.jpg"
-    width: 2880
-    height: 1919
+  - url: "https://www.eurekalert.org/multimedia/pub/web/258808_web.jpg"
+    width: 440
+    height: 290
     isCached: true
 
 related:
@@ -59,6 +57,6 @@ related:
         height: 900
         isCached: true
 
-secured: "ci8CPMERSk40cLI4142y8/W4lb5PLbZtb6OqhhWAeckVjur45rbsZEPzd2CwbU6kfz9x/15zklqJxN4uvesAUVLA3OEcCzkdf+rDIP0MDVEwPEElyjuXpL57zGC5imYD6YR7igivjNb5PA93hMoaMOvESH/hMN7YGSBHpd/VVQmvhMcOZrJ6XTErZnEcUguVgEHWZDBcexE8ciwfDD9CvOcCFVP6UsP81ftRR1Ea1WJwmE/w/hViypHdaCNfYxg71Hc3dOiO9o6qDPYJd7TxgXb6TZ2hZc8dUpj9g6XFOmwo37t502CFgA2s9Fayca9aGyDkCFvgEA9lN8l4+cDyWWEIgPtOXyESIl1GSErvEDY=;+VWa9NcZWgmaHUbbMmhZDw=="
+secured: "9pRVa7N5GHOiSHFqL8WK17JWgneDn9kM7VxlQnt3Z/w7RznGsEo3PlBVw3b5xLQhT0wsS4Zflkow6Bt2JpOS99+fkqfKHKfCxeY6q2DU+KIkW4IS0ocvyyZBYMgQRdLFIFpTA8ECCiUz5JTwtGaS5cAKxh2bWHVrL+KAgqMAVL+sRHkVwf7WIGNo5BHA/wKiLpRYc5hZmppsu8kbMuEGCKIIpx0PunbOKIy3t1BVEUr5mLxY9bGK/Y4oYWjPZf/rdFxuHD8Cd0Vc1p6OjJrVOGY2L70JU0Lye60OtP1xW5FZ77rvwhE/JZ8giRr+3ni0+qCAI2URPyMc7sLYVMRf1cGR9dATBgNinV7nNoXxmUg=;yUiFK13rEwF3JZUg/R10wg=="
 ---
 
