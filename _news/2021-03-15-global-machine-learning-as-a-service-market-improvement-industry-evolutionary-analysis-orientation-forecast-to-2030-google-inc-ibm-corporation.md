@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Automatic Speech Recognition Market 2020 Top Industry Players, Regional Study, Growth Drivers, Challenges and Opportunities by 2025"
+    excerpt: "Global Automatic Speech Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth analysis of the market by value, by production capacity, by companies,"
+    publishedDateTime: 2021-03-15T14:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-2020-top-industry-players-regional-study-growth-drivers-challenges-and-opportunities-by-2025-2021-03-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tYY5LHRxZnArwawQ+xLrblA2ie0UuO4pKWh0vOUd9rZLkxAnCeYxa2X6e8rEILiCvWWJaZgUJz7Qtl4kM1YPhWunJZHyeUN28s6UYivV1sB4CPQUJv58zCy+8GW4/+EKAFMv2kZgrcOJkHFxA5eoiF4sx50EU2nsNodFPv0+XEGJNhhcopxKA+dBJ2lYof0+H2bUJ6k+cBoH2ax7EWQo5ZVPJLm+fV5GemhvDNiMZlHLhzQfzyplb9D2wGa6Xrfxc17tr4O9GGWePq5939ER3TbNk+Zb61jjuiMvKQqMz450wZnFhX2UsFbwZKzNDUS+pw9ugNS9pyvSb3ocdOP1Dk4sl8iePCzE3DHMJJcw6R8=;itW9DfxfWwL8x+DdQqPibg=="
 ---

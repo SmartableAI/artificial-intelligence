@@ -7,7 +7,7 @@ originalUrl: "https://www.thecrimson.com/article/2021/3/12/machine-learning-alzh
 webUrl: "https://www.thecrimson.com/article/2021/3/12/machine-learning-alzheimers/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
+    excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
+    publishedDateTime: 2021-03-15T14:52:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/buso-rea031521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "yfTHtCL75oqpD236znVA0WJ7SOyyDXpp/6Q97gK5XWQO+5WZ4jpWQ2TJO+usYVOA/6fnq1Wrb6ukskC4vCbtE1grCMM0oNSN8FDf4zNjuu/MNTCy7011i0r6xvAHu8k397MiJdp/1cEc3YwWxDqjYFH+qQKos4f9cJUGnsKD7LY4ULvbnbE8Pnxd7RjmIWjC/OrMOaloW/8FqiOSgNsasNbOCTGtNd8DQzZrpVeM2hLJ6SjYAUUsfCQa2o8FfnRcdJ6Ic8HOFpNOAbaTflkk8kgTY7hv7V/DRpI9cDFPkzLYN8xgXMefRpZrRdvgE2BgMst4YE4sBecRPQ2Cy+GBxBOWZ7B3MOTuG0Ir5CLVZtOuT/oAHHjbCmCisCyJVBK3oVHlkNC3nJF8JJG8tfNkWie0qbjo7TMfE6+votfx7ifBIT9pG/C4qJtEjENtAOaCHbapzQ3pMPhgyNQWxPrFc6/n74oE+5GKGDQyQTcao0891PIK+InlsHR4mdHyNE88aMO+YLCH3lqwPJsPub9/zA==;iB+K8s+NeOJc8NGh8KUQqQ=="
 ---

@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-excerpt: "Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved"
-publishedDateTime: 2021-03-10T21:05:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vonage-receives-aws-machine-learning-competency-status-in-applied-ai/article_baaa9c43-833c-5560-90f4-21f1a4c7dfa3.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vonage-receives-aws-machine-learning-competency-status-in-applied-ai/article_baaa9c43-833c-5560-90f4-21f1a4c7dfa3.html"
+excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
+publishedDateTime: 2021-03-10T21:39:00Z
+originalUrl: "https://www.lelezard.com/en/news-19693395.html"
+webUrl: "https://www.lelezard.com/en/news-19693395.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
   - AWS AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b3/db39f4d6-a1bd-5fa7-9386-a0250cfd6f31/604f66186e40c.image.jpg?resize=1120%2C630"
-    width: 1120
-    height: 630
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "uSf+rPKsYGW4vacuZ1H/2qhsW3hDszIXEVF7yCtawZ3+c/ppXpiemMHkPNkSqTRDMSni5FUvJf3ECdFvK8yZLcy+tP7V5g8luHUgRAdpI5b+sq2CAUQ31tNgXtjFlGIRVhkUrCd425B5NsV4B+Jzw2xb/WU12180f5g14pFhL5PGGsmFp2bzI1VQUsVKexHvJOeNhLMEYgFdWpcvHLUQU1f3dwB3IrN0Xtly4X2++iuq/8Vx9ePYSkPU4h12esXOn/EwVgA23Mdqp+vckbHNNsUwRvlUEbnsO0rYhSubdD/2pdnn4DdGLKlWf9KJqPiV74w3e3rGhacLC3xxjcGpAc+XTaXzAaDQrk+YCy3fQfc=;NE9wlH1ns9FNt387ORVlsA=="
+secured: "taAGJ5IK6LXbS+h7dox8j++bftllJd3msaXt2kq5LBg4m5dtILRXTMQjcZUSx3DQT7Tr/AqqWaft4x/y1AnNut07hgXhFT3w5qPL65bADT/R1NBfMROGIYl4xH3B5Tohsr8LATsfkwldmSXot4KMuO9AT/VcBxEdopw6qoopTNxkj4IW9nXNsUJVc2dvAX1PVQ7vt8+OwCOTq/FqQpDGpu1Xe0NpI4XVwPvvPWRRA5T24kcs1GtxISNmDJ/7lgy9UvV+Ek8qNIsaPyPev3DaxbvgzLm+xQA5H3ps2E9647Jic6pKXtVl3LE1wmf+fRokw17iggD6Pwk+wLnKTtukPVTdT/TERSq+CKafjwDKFq8=;NtWOkXHFx4E8lRWfMVUrYg=="
 ---
 

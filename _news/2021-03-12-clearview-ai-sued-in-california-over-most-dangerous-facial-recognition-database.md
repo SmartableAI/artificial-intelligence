@@ -9,8 +9,8 @@ ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearvi
 cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 121
+published: true
 
 provider:
   name: Chicago Sun-Times
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Activists Sue Clearview AI, Alleging Facial Recognition Surveillance"
-    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
-    publishedDateTime: 2021-03-10T22:59:00Z
-    webUrl: "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/"
-    ampWebUrl: "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/"
-    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/"
-    type: article
-    provider:
-      name: Law Street Media
-      domain: lawstreetmedia.com
-    quality: 76
-    images:
-      - url: "https://lawstreetmedia.com/wp-content/uploads/2019/12/iStock-1180187740-1024x697.jpg"
-        width: 1024
-        height: 697
-        isCached: true
   - title: "Legal fight against Clearview AI’s facial recognition service grows"
     excerpt: "Demographic groups are joining states and nations in demanding that Clearview AI end its massive face-scraping biometric service."
     publishedDateTime: 2021-03-11T17:13:00Z
@@ -93,7 +77,7 @@ related:
     provider:
       name: Reason
       domain: reason.com
-    quality: 30
+    quality: 32
   - title: "Facial recognition company sued by California activists"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
     publishedDateTime: 2021-03-11T15:38:00Z

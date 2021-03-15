@@ -8,7 +8,7 @@ webUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scrap
 ampWebUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reason%2FArticles+%28Reason+Online+-+All+Articles+%28except+Hit+%26+Run+blog%29%29&utm_content=Google+UK&amp"
 cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reason%2FArticles+%28Reason+Online+-+All+Articles+%28except+Hit+%26+Run+blog%29%29&utm_content=Google+UK&amp"
 type: article
-quality: 30
+quality: 32
 heat: -1
 published: false
 
@@ -19,24 +19,9 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 related:
-  - title: "Activists Sue Clearview AI, Alleging Facial Recognition Surveillance"
-    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
-    publishedDateTime: 2021-03-10T22:59:00Z
-    webUrl: "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/"
-    ampWebUrl: "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/"
-    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/"
-    type: article
-    provider:
-      name: Law Street Media
-      domain: lawstreetmedia.com
-    quality: 76
-    images:
-      - url: "https://lawstreetmedia.com/wp-content/uploads/2019/12/iStock-1180187740-1024x697.jpg"
-        width: 1024
-        height: 697
-        isCached: true
   - title: "Clearview AI sued in California over ‘most dangerous’ facial recognition database"
     excerpt: "Separately, the Chicago Police Department stopped using the New York company’s software last year after Clearview AI was sued in Cook County by the ACLU."
     publishedDateTime: 2021-03-11T18:20:00Z

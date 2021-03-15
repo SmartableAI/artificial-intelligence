@@ -20,22 +20,6 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "Activists Sue Clearview AI, Alleging Facial Recognition Surveillance"
-    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
-    publishedDateTime: 2021-03-10T22:59:00Z
-    webUrl: "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/"
-    ampWebUrl: "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/"
-    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/"
-    type: article
-    provider:
-      name: Law Street Media
-      domain: lawstreetmedia.com
-    quality: 76
-    images:
-      - url: "https://lawstreetmedia.com/wp-content/uploads/2019/12/iStock-1180187740-1024x697.jpg"
-        width: 1024
-        height: 697
-        isCached: true
   - title: "Clearview AI sued in California over ‘most dangerous’ facial recognition database"
     excerpt: "Separately, the Chicago Police Department stopped using the New York company’s software last year after Clearview AI was sued in Cook County by the ACLU."
     publishedDateTime: 2021-03-11T18:20:00Z
@@ -101,7 +85,7 @@ related:
     provider:
       name: Reason
       domain: reason.com
-    quality: 30
+    quality: 32
 
 secured: "ImyBy7743T5p5+cG7cNv3m43HmFTR57roJSxSPnPondEOwd+SqisGm95qrIpo4H35MERs9mI8TBb0dAeyLNil/N2au5G8tRCMOj9C6sYe07BKM5h7J+W90kypqt4GpgmotHQrvnx4HgFSgN5ahrnF7WneCHf1HfXJg4wntfr5u/lZG5nIcxgduR5Aob0PAwnZdBwpvhzw/ch44nCfNnDMBAl2RXeHSNXYg1toXFK1gxdULYr6/VZWpNpZIZB85mpMr8ICIwSgdbDbSN8meKVHhQNlrJhOE8hxSF9t41UR5AsEvGmc7MHfS+U9+/p06eOlynTEZwAQ4sOs6NwdNnMWwUfripV6aYKkE7UAKiUdyo=;mlstB16xBkj22vU36NERZg=="
 ---

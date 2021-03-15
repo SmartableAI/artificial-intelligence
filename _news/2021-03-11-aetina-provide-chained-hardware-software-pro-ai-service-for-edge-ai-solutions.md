@@ -39,22 +39,6 @@ related:
         width: 270
         height: 293
         isCached: true
-  - title: "Artificial Intelligence becoming the new way for healthcare students at OSU"
-    excerpt: "In this pandemic, we’re learning remote learning has been a challenge for many students throughout the country. Ohio State University is working to tackle this issue"
-    publishedDateTime: 2021-03-10T23:02:00Z
-    webUrl: "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/"
-    ampWebUrl: "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/"
-    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/"
-    type: article
-    provider:
-      name: NBC4i
-      domain: nbc4i.com
-    quality: 72
-    images:
-      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2021/03/vlcsnap-2021-03-10-18h02m11s651.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Using AI to assess surgical performance"
     excerpt: "A research team at Inselspital, Bern University Hospital and Caresyntax has succeeded in proving that artificial intelligence can reliably assess surgeons' skills. A method involving a three-stage procedure has been presented that correctly designates good and mediocre performance with a high accuracy rate."
     publishedDateTime: 2021-03-12T17:14:00Z

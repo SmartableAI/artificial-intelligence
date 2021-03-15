@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 500
     height: 281
     isCached: true
+
+related:
+  - title: "insitro raises $400M for machine learning-powered drug discovery efforts"
+    excerpt: "The artificial intelligence-powered drug discovery company insitro has secured a mammoth funding round of $400 million, to carry forward its development efforts and Big Pharma partnerships with the likes of Gilead and Bristol Myers Squibb."
+    publishedDateTime: 2021-03-15T15:14:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/insitro-raises-400m-for-machine-learning-powered-drug-discovery-efforts"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 53
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1615816901/molecule.jpg/molecule.jpg?oUmdMDlHnkNKQEtqtycHfXAUxU2F_06Y"
+        width: 740
+        height: 442
+        isCached: true
 
 secured: "ETfaiFNs2qOiklH5dnXEvaWXJO2TXK5Nfg8yvgGvfvtLx33mZRR33UJHRtQye4jNZPD4dB+nhhMMWYk7eaDRgiEu28Lkz08yZuBAuaU6z4ddwe2KketXwuakWrdRlfBC8Y7StNzJD37BF+C62jn8Rj5dR/+HVidZGS9+LByN1iFZnnMsynDTnAsGyGa+2/d/2Ox3WZBaaS8PqTnjo6N8fMiImVTKzQnQgaKEt19nXF3YXeRQ/pbIBG09/DYBuX9jYOyPBRloZB2pcPII3g1GfqgxK/xkdg1dyNcFwcDNAZiVBpnkvdPjRLfvN5Mao77n2gGp3QJ9dQy8qnE+8aeKioqNcaSN69KBAKaVUOqaF3rMaor+yAH2+qnrTQ/ApdmH4rsHivm+b919ipn834Z8V9/cDwSHg+riaqLno2vxoe1Z8gP6GGHwBHQvPJ+LZKcSfmizStc4tjeBY3lYm1da36jGgumw3c5QuIFYYKVIFt7vCicYY9LGuNzK979WomLlFrYceRNdmY5Cq4+1uCSCNg==;fBSPp2lixEe3dbIWK2tGSg=="
 ---

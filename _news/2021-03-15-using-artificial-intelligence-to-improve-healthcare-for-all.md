@@ -9,7 +9,7 @@ ampWebUrl: "https://scienceblog.com/521663/using-artificial-intelligence-to-impr
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence becoming the new way for healthcare students at OSU"
-    excerpt: "In this pandemic, we’re learning remote learning has been a challenge for many students throughout the country. Ohio State University is working to tackle this issue"
-    publishedDateTime: 2021-03-10T23:02:00Z
-    webUrl: "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/"
-    ampWebUrl: "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/"
-    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/"
-    type: article
-    provider:
-      name: NBC4i
-      domain: nbc4i.com
-    quality: 72
-    images:
-      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2021/03/vlcsnap-2021-03-10-18h02m11s651.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Using AI to assess surgical performance"
     excerpt: "A research team at Inselspital, Bern University Hospital and Caresyntax has succeeded in proving that artificial intelligence can reliably assess surgeons' skills. A method involving a three-stage procedure has been presented that correctly designates good and mediocre performance with a high accuracy rate."
     publishedDateTime: 2021-03-12T17:14:00Z
@@ -108,6 +92,6 @@ related:
         height: 313
         isCached: true
 
-secured: "JgUM2KssSc4RucbGg5WxKig9WtIZZN/RkDwpQQAfmnnCi+1qNCoDQt8bzvf82A8g4gip2jxC2EoqmPvdptVx0d/mRBDfxVNxbqPTtUEnOyNULeEP2bx58b9lZyI3wx9SytkqT+X1BuYW0bhH0j8SipEeca2RpeaulB/XtW6SotPbvX6wB6obleX4MEvUlFL8Twj4axX7anKeoLfGBBAY12/Fi6kD8DvNpGzcSMlhTyqBfEoWg5HNYDYJDNrMPza+IkjlacyuV+gdfKpi9CiRUdUjBmGm4LNB9FuJf3SqXViE7alUeAbNPdtDOPZhZnBkSjEy7U+W3KQNP95jlfwVuEhGDyfJosaHTuPJYd0ipkE=;tigFSCDNAiyB9QXBKJyUIg=="
+secured: "GJzh6ahXReFWtvhFSnDl3ho7c6bMuiek/eFeg4PrnF00ydf4qdGWNqWLms+2odVLN3F/PqHaagkMmiq1weR/JHKygByWhTdeg7bQBPa2DO56W4VsISd6YPSuQMuNLs0MEwmngs9W9FZP6cLj2PJDCtFf6tJYedmqGmT+7vensLexG+nwd5lHrG0unPgYKb+CR9v3iRa9Wbi1CVznUSJrcWt6g/YpGTLXAoFTDV+lfFk0kCp61UGAUuYbch2VXZdwnkoSjWiKSmj5Qo1qH8MKchjYk6b5jk/V4v19HlFPbM3iBE02TMh35CAiylhdzvwdwbARxcDaMOK8P7nyXFaSdRY3TTH/bY6jiDncbaOgVp8L42jTB3wYDf51uEpiYL2JavQiNhy7kJTR5CM8ujUC98AsSAn5/6Xifl66Ny+LzAypfiWOZC5BKUkSnsL9bPhtU4pcyCNmc0LrnMC+Eg8l02M5xMRWKiBiTDV0Yw/MpP52tB/Y7w82eKl7Z8hoxEbMJuaJWngm4XjH8G8AtOPqiw==;IgZgJ5qR9A5YrmQghinaww=="
 ---
 

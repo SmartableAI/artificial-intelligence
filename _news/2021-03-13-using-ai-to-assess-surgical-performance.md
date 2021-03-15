@@ -42,22 +42,6 @@ related:
         width: 270
         height: 293
         isCached: true
-  - title: "Artificial Intelligence becoming the new way for healthcare students at OSU"
-    excerpt: "In this pandemic, we’re learning remote learning has been a challenge for many students throughout the country. Ohio State University is working to tackle this issue"
-    publishedDateTime: 2021-03-10T23:02:00Z
-    webUrl: "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/"
-    ampWebUrl: "https://www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/"
-    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/local-news/artificial-intelligence-becoming-the-new-way-for-healthcare-students-at-osu/amp/"
-    type: article
-    provider:
-      name: NBC4i
-      domain: nbc4i.com
-    quality: 72
-    images:
-      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2021/03/vlcsnap-2021-03-10-18h02m11s651.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Is AI washing helpful for digital healthcare?"
     excerpt: "Even in the UK – probably not so different to other European countries or North America – conventional data analytics seems to be of more use than much-vaunted AI systems. This is borne out by a recent report from the Centre for Data Ethics and Innovation."
     publishedDateTime: 2021-03-12T17:31:00Z
