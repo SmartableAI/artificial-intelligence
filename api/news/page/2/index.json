@@ -2,6 +2,213 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-12-why-chip-companies-are-important-to-the-future-of-tech.md",
+      "title": "Why Chip Companies Are Important to the Future of Tech",
+      "excerpt": "Stay-at-home trends boosted sales of new PCs, data centers installed more chips to keep pace with the surging usage of cloud and AI services, and new technologies -- including driverless cars, automated factories, and 5G networks and devices -- gobbled up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F617413%2Fgettyimages-599789122.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "publishedDateTime": "2021-03-12T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo.md",
+      "title": "Alibaba-Backed Chinese AI Startup Megvii Files for Shanghai IPO",
+      "excerpt": "The startup, backed by Alibaba Group Holding Ltd., plans to issue ... Megvii is one of the world’s largest AI startups, specializing in areas such as facial recognition. The eight-year old firm gained fame in part because of China’s obsession with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia640Sm27PHY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-4-ways-to-use-ai-to-enhance-the-customer-experience.md",
+      "title": "4 Ways to Use AI to Enhance the Customer Experience",
+      "excerpt": "Schedule a FREE one-on-one session with one of our Franchise Advisors today and we’ll help you start building your franchise organization. Forward-thinking companies understand that AI is only worth implementing if it makes the customer experience better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/366465",
+      "originalUrl": "https://www.entrepreneur.com/article/366465",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1615325187-GettyImages-1206801125.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/366465",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366465",
+      "publishedDateTime": "2021-03-12T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-china-to-pour-more-money-into-chips-ai-5g-to-catch-us.md",
+      "title": "China to Pour More Money Into Chips, AI, 5G to Catch U.S.",
+      "excerpt": "Randy Abrams, head of Taiwan securities research at Credit Suisse Group AG, discusses China’s ambition to end its reliance on U.S. tech, the support that tech is receiving in China and his outlook for the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/videos/2021-03-15/china-to-pour-more-money-into-chips-ai-5g-to-catch-u-s-video",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2021-03-15/china-to-pour-more-money-into-chips-ai-5g-to-catch-u-s-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIRzeeaO_z5E/v5/-1x-1.jpg",
+          "width": 950,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-acer-nitro-5-with-144hz-display-nvidia-geforce-rtx-3060-gpu-launched-in-india.md",
       "title": "Acer Nitro 5 with 144Hz display, NVIDIA GeForce RTX 3060 GPU launched in India",
       "excerpt": "Acer Nitro 5 is the latest gaming laptop from the band in the affordable Nitro series. Priced under Rs 90,000, the Acer Nitro 5 comes with NVIDIA GeForce RTX 3060 GPU, runs on Windows 10 OS out of the box and comes with a high refresh rate display,",
@@ -364,7 +571,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-next-big-thing-major-giants-google-ibm-microsoft-2021-03-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1068,177 +1275,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers.md",
-      "title": "Luminar strikes software deal to offer self-driving systems to automakers",
-      "excerpt": "Luminar Technologies Inc said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers. March 11 (Reuters) - Luminar Technologies Inc said on Thursday it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11",
-      "originalUrl": "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11?amp",
-      "publishedDateTime": "2021-03-11T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026.md",
-      "title": "Global Artificial Intelligence (AI) Accelerator market Size, Share, Value, and Competitive Landscape 2026",
-      "excerpt": "Mar 11, 2021 (Heraldkeepers) -- According to this study, over the next five years the Artificial Intelligence (AI) Accelerator market will register a xx% CAGR in terms of revenue, the global market size will reach $ xx million by 2026, from $ xx million in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-robots-learn-faster-with-quantum-technology.md",
-      "title": "Robots learn faster with quantum technology",
-      "excerpt": "Artificial intelligence is part of our modern life by enabling machines to learn useful processes such as speech recognition and digital personal assistants. A crucial question for practical applications is how fast such intelligent machines can learn.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
-      "originalUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/robotslearnf.jpg",
-          "width": 817,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-robots-faster-quantum-technology.amp",
-      "publishedDateTime": "2021-03-11T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-egyptair-to-benefit-from-ibm-cloud-capabilities.md",
-      "title": "EgyptAir to benefit from IBM Cloud capabilities",
-      "excerpt": "ArabFinance: EgyptAir Tourism and Duty Free signed an agreement with IBM to leverage the capabilities of IBM Cloud as well as other services, according to a March 10 th emailed press release. This will help in modernizing EgyptAir Duty Free back-end operations while hosting its SAP Travel Retail System.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/life/story/EgyptAir_to_benefit_from_IBM_Cloud_capabilities-SNG_203792534/",
-      "originalUrl": "https://www.zawya.com/mena/en/life/story/EgyptAir_to_benefit_from_IBM_Cloud_capabilities-SNG_203792534/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/images/cia/zAmp/201025122704QZLC.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_203792534/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_203792534/",
-      "publishedDateTime": "2021-03-11T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

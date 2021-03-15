@@ -9,8 +9,8 @@ ampWebUrl: "https://www.physiciansweekly.com/enhancing-machine-learning-predicti
 cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/enhancing-machine-learning-prediction-to-improve-asthma-care-management/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Too Old to Operate
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning predicts boiling heat transfer"
-    excerpt: "Boiling is a heat transfer mechanism that utilizes liquid-to-vapor phase transition to dissipate great amounts of heat with minimal temperature difference 1. Since boiling enables a system to maintain fairly constant surface temperatures during large thermal energy fluctuations,"
-    publishedDateTime: 2021-03-10T13:42:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-85150-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-85150-4/MediaObjects/41598_2021_85150_Fig1_HTML.png"
-        width: 662
-        height: 685
-        isCached: true
   - title: "Predicting gastric cancer outcome from resected lymph node histopathology images using deep learning"
     excerpt: "The ratio of tumour area to metastatic lymph node area (T/MLN) is a clinical indicator that can improve prognosis prediction of gastric cancer. Here, the authors use machine learning on whole slide images to generate a method that can predict metastatic ..."
     publishedDateTime: 2021-03-12T10:23:00Z

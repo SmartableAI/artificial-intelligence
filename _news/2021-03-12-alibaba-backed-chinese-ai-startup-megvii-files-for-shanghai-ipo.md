@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-
 webUrl: "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai"
+    excerpt: "Citic Securities Co. is the sponsor of the listing. Megvii is one of the world’s largest AI startups, specializing in areas such as facial recognition. The eight-year-old firm gained fame in part because of China’s obsession with security, which in ..."
+    publishedDateTime: 2021-03-15T04:05:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia640Sm27PHY/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai"
     excerpt: "Chinese artificial intelligence startup to go public after it filed for a Chinese Depositary Receipt offering on Shanghai’s Star board on Friday. The startup, backed by Alibaba Group Holding Ltd., plans to issue up to 253 million Class B shares as the underlying stock for the CDR offering,"
     publishedDateTime: 2021-03-12T18:58:00Z

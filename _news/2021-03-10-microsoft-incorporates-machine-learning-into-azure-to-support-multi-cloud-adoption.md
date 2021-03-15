@@ -54,20 +54,6 @@ related:
         width: 1665
         height: 1158
         isCached: true
-  - title: "Guardian Zone Now Available in the Microsoft Azure Marketplace"
-    excerpt: "The Azure Marketplace is an online market for buying and selling ... WekaIOtm (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance ..."
-    publishedDateTime: 2021-03-10T13:50:00Z
-    webUrl: "https://www.lelezard.com/en/news-19692002.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 69
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Intel And Microsoft Work With DARPA To Solve Biggest Analytics and AI At Scale Problem"
     excerpt: "Getting secure global data access to data is a key problem. This problem came up early on as the industry spun up advanced Supercomputers and AI systems Intel and Microsoft, working with DARPA, are beginning a process that will create an ASIC-based solution that can work across borders to enable the secure analysis of data wherever it resides in the world."
     publishedDateTime: 2021-03-11T22:51:00Z

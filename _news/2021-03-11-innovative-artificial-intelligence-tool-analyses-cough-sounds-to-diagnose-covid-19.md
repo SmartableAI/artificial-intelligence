@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "New AI tool accurately diagnoses COVID-19 just by the sound of your coughs"
-    excerpt: "Scientists from Essex University have created a COVID-19 screening tool that can accurately diagnose the virus by analyzing audio samples of coughs."
-    publishedDateTime: 2021-03-10T13:53:00Z
-    webUrl: "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/"
+  - title: "AI: This is how big data helped to fight COVID-19"
+    excerpt: "A new report highlights the benefits, but also the shortcomings, of data-informed technologies and AI in the response to the COVID-19 crisis."
+    publishedDateTime: 2021-03-11T13:16:00Z
+    webUrl: "https://www.zdnet.com/video/ai-this-is-how-big-data-helped-to-fight-covid-19/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 85
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-10T134550.529-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/11/f2df3314-4eaf-4e94-8263-a51b432013e4/thumbnail/770x578/4675a058c02135af06aad610a3fceac0/ai-this-is-how-big-data-helped-to-fight-60489437a09b1d05449c3ce8-1-mar-11-2021-12-53-49-poster.jpg"
+        width: 770
+        height: 578
         isCached: true
 
 secured: "TxLlNtj2UW2g7viMVdCHfPItFDYuJfj1GdmegI9NHYstPwVv4vjwdGT99A9yZ3WCtIf2UbLFQYJl9CZCDwtFFbBjh5BeFgPtORfSnvLOhTLjNRKkYRCoxlKxlECQEA3uWGj8PJBUzkNBNxyY2fahrvezGuOz7PR2bwSPebxn+457paoPEOrCv6odAnxofRMCaRGPm/QNI2V1zrW5yj8oIhXnn2x5wB3kRou34prGL3HRJ6rviAZbnCi9rJw3nsPSfA7CwRqWxpSrxXGZDD80iyRMiVh36sKa9V3jnbW6ilpuvaaQeGOKGBwhFU1Bs4Oo5yDrYFuNMMjXwEKgmki26wKj3sGssHQQBad3fneVfF1XiqSyZiVLiqsbHzGugyWwv4WAIRfj/9+lXuYVQXKA5z0cRCUdKxlNg4VpTsyz2QSamDc4viGTvL4/1dfyiKHnccc6KPC6Mw89Q6O99q7bqiEzYqPGr40WY0uyceXH6LMGh+I51kutXNgCi8y4GTO43uasiJ4eCVMOmvt35nRdNw==;OYmrETilsyUWHuc1OI7HYQ=="

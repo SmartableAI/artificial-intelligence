@@ -47,20 +47,6 @@ related:
         width: 1665
         height: 1158
         isCached: true
-  - title: "Guardian Zone Now Available in the Microsoft Azure Marketplace"
-    excerpt: "The Azure Marketplace is an online market for buying and selling ... WekaIOtm (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance ..."
-    publishedDateTime: 2021-03-10T13:50:00Z
-    webUrl: "https://www.lelezard.com/en/news-19692002.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 69
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
     excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
     publishedDateTime: 2021-03-10T15:09:00Z

@@ -2,6 +2,187 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-02-deep-nostalgia-creepy-new-service-uses-ai-to-animate-old-family-photos.md",
+      "title": "Deep Nostalgia: 'creepy' new service uses AI to animate old family photos",
+      "excerpt": "Service from MyHeritage uses deep learning technique to automatically animate faces",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5b68fefbf761cd4d6735d286b23cee0f5c787bee/2_0_7871_4724/master/7871.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ac08f57bcc73c425f4f66cfad108e10",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos",
+      "publishedDateTime": "2021-03-01T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-underwater-robot-rises-from-the-depths-to-save-drowning-swimmers.md",
+      "title": "Underwater robot rises from the depths to save drowning swimmers",
+      "excerpt": "Even though lifeguards are essential to maintaining safety at swimming pools, they can't always see everything that's happening, nor can all pool operators afford to pay their salaries. That's where a new swimmer-saving underwater robot is designed to come in.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/",
+      "originalUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b75d88c/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb7%2F1b%2F3c8d4a5849178bc676e0adc06053%2Fiosb-ast-an-autonomous-underwater-robot-saves-people-from-drowning-pic-1.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/underwater-lifeguard-robot/?amp=true",
+      "publishedDateTime": "2021-03-01T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision.md",
+      "title": "Amazon (AMZN) Boosts AWS Portfolio With Lookout for Vision",
+      "excerpt": "Using computer vision and Machine Learning (ML) capabilities, including \"few-shot learning\", the service analyzes images to spot manufacturing and production defects such as cracks, irregular shapes, dents and incorrect color. Further, Amazon Lookout for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp",
+      "publishedDateTime": "2021-03-01T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge.md",
+      "title": "IBM Cloud Satellite Enables Clients to Deliver Cloud Securely in Any Environment Including at the Edge",
+      "excerpt": "Lumen Technologies is a key edge compute partner to integrate IBM Cloud Satellite for 180,000 enterprise locationsMore than 65 ecosystem",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030136646",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030136646",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-documents-show-agreements-between-cbp-and-jetblue-for-facial-recognition-boarding.md",
       "title": "Documents Show Agreements Between CBP and JetBlue for Facial Recognition Boarding",
       "excerpt": "The documents provide more insight into the dynamics between DHS and airlines, which are increasingly deploying biometric boarding at their gates.",
@@ -566,6 +747,59 @@
       ]
     },
     {
+      "path": "_news/2021-03-01-googles-deep-learning-finds-a-critical-path-in-ai-chips.md",
+      "title": "Google’s deep learning finds a critical path in AI chips",
+      "excerpt": "The chips that Yazdanbakhsh and the team are developing are themselves chips for AI, known as accelerators. This is the same class of chips as the Nvidia A100 \"Ampere\" GPUs, the Cerebras Systems ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "originalUrl": "https://www.zdnet.com/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/28/aabff7c7-b7e4-4e29-844a-9746cbfeee24/google-brain-2021-search-space-of-ai-acclerator.png",
+          "width": 2074,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "publishedDateTime": "2021-02-28T19:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-a-wave-of-billion-dollar-computer-vision-startups-is-coming.md",
       "title": "A Wave Of Billion-Dollar Computer Vision Startups Is Coming",
       "excerpt": "Computer vision is the most technologically mature field in modern artificial intelligence. This is about to translate into enormous commercial value creation. The deep learning revolution has its roots in computer vision.",
@@ -799,59 +1033,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-01-googles-deep-learning-finds-a-critical-path-in-ai-chips.md",
-      "title": "Google’s deep learning finds a critical path in AI chips",
-      "excerpt": "The chips that Yazdanbakhsh and the team are developing are themselves chips for AI, known as accelerators. This is the same class of chips as the Nvidia A100 \"Ampere\" GPUs, the Cerebras Systems ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/28/aabff7c7-b7e4-4e29-844a-9746cbfeee24/google-brain-2021-search-space-of-ai-acclerator.png",
-          "width": 2074,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
-      "publishedDateTime": "2021-02-28T14:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-03-01-americans-want-self-driving-cars-but-want-safety-first.md",
       "title": "Americans Want Self-Driving Cars, But Want Safety First",
       "excerpt": "Americans are not known for prioritizing road safety. No state currently bans all cell use phone behind the wheel, and two states still allow drivers to text. And the United States consistently lags behind other developed nations,",
@@ -1039,198 +1220,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-commentary-how-robotics-are-changing-jobs-in-canada.md",
-      "title": "COMMENTARY: How robotics are changing jobs in Canada",
-      "excerpt": "One widely cited study estimates that 47 per cent of jobs in the United States are at risk of being replaced by robots and artificial intelligence. Read more: The 5-minute shopping spree.",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/",
-      "originalUrl": "https://globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/385346/original/file-20210219-13-hcqsmp.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
-          "width": 754,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-02-27T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-researchers-are-developing-3d-structural-sensing-robots-to-handle-healthcare-tasks.md",
-      "title": "Researchers are developing 3D structural-sensing robots to handle healthcare tasks",
-      "excerpt": "Robots that could take on basic healthcare tasks to support the work of doctors and nurses may be the way of the future. Who knows, maybe a medical robot can prescribe your medicine someday? That's the idea behind 3D structural-sensing robots being developed and tested at Simon Fraser University by Woo Soo Kim,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210227/Researchers-are-developing-3D-structural-sensing-robots-to-handle-healthcare-tasks.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210227/Researchers-are-developing-3D-structural-sensing-robots-to-handle-healthcare-tasks.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210227/Researchers-are-developing-3D-structural-sensing-robots-to-handle-healthcare-tasks.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210227/Researchers-are-developing-3D-structural-sensing-robots-to-handle-healthcare-tasks.aspx",
-      "publishedDateTime": "2021-02-27T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-how-one-state-managed-to-actually-write-rules-on-facial-recognition.md",
-      "title": "How One State Managed to Actually Write Rules on Facial Recognition",
-      "excerpt": "Massachusetts is one of the first states to put legislative guardrails around the use of facial recognition technology in criminal investigations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/28/business/27FacialRecognition-01/27FacialRecognition-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html",
-      "publishedDateTime": "2021-02-27T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-the-company-using-robots-and-fan-input-to-pitch-stories-to-hollywood.md",
-      "title": "The company using robots and fan input to pitch stories to Hollywood",
-      "excerpt": "Wattpad, a social storytelling platform with 90 million users, is becoming a rich source of intellectual property for film and TV producers.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/",
-      "originalUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/01/netflix-the-kissing-booth-e1611957617563.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/amp/",
-      "publishedDateTime": "2021-02-27T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

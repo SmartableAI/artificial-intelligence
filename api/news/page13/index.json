@@ -2,6 +2,198 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-03-kaskada-launches-platform-to-prep-data-for-ai-models.md",
+      "title": "Kaskada launches platform to prep data for AI models",
+      "excerpt": "Kaskada, a startup developing a platform for feature engineering, has launched its platform in general availability.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/",
+      "originalUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/",
+      "publishedDateTime": "2021-03-02T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle.md",
+      "title": "Machine Learning Can Help The Insurance Industry Throughout The Process Lifecycle",
+      "excerpt": "Not all insurance is alike. Life insurance and automobile insurance are not (as far as I know) the same thing. There are many similar processes, but data and numerous flows can be different. Machine learning (ML) is being applied to multiple aspects of insurance practice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D22%26cropY2%3D515",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/amp/",
+      "publishedDateTime": "2021-03-02T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-the-mindblowing-amazon-work-from-home-policy-that-rivals-all-other-companies.md",
+      "title": "The mindblowing Amazon work from home policy that rivals all other companies",
+      "excerpt": "The online retail giant Amazon announced last year that it would allow its employees to work from home. It is now extended to the 30th of June 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theladders.com/career-advice/the-mindblowing-amazon-work-from-home-policy-that-rivals-all-other-companies",
+      "originalUrl": "https://www.theladders.com/career-advice/the-mindblowing-amazon-work-from-home-policy-that-rivals-all-other-companies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheLadders.com",
+        "domain": "theladders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-aws-selected-as-official-cloud-provider-of-pga-tour.md",
+      "title": "AWS selected as official cloud provider of PGA Tour",
+      "excerpt": "The partnership will offer new fan experiences and engagement opportunities with features like Every Shot Live and access to historical events dating back nearly 100 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "originalUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/da666ada-2faf-43c5-8748-55eb8091a6af/resize/1200x/14101bbdb7a1b143a5c43729a9d78fd3/aws-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "publishedDateTime": "2021-03-02T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-a-new-program-can-animate-old-photos-but-theres-nothing-human-about-artificial-intelligence.md",
       "title": "A new program can animate old photos. But there's nothing human about artificial intelligence",
       "excerpt": "Deep Nostalgia is a likely predecessor of technology that could change our reality. And our emotions make it hard to resist.",
@@ -1001,196 +1193,6 @@
         "name": "Morningstar, Inc.",
         "domain": "morningstar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu.md",
-      "title": "Automatic Speech Recognition Software Market Revenue Growth Predicted by 2021-2030 | Google, Baidu",
-      "excerpt": "A consciously conceived and designed business intelligence report titled Global Automatic Speech Recognition Software market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T01:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-ibm-names-research-veteran-as-cio.md",
-      "title": "IBM names research veteran as CIO",
-      "excerpt": "Helping companies glean value from AI can be a tall order, depending on the industry. The Wall Street Journal reported last month that IBM is exploring the sale of its Watson Health unit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio-11614671616995.html",
-      "originalUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio-11614671616995.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/03/02/600x338/2021-01-22T172205Z_2_LYNXMPEH0L04G_RTROPTP_3_IBM-RESULTS_1614675133801_1614675155889.JPG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/ibm-names-research-veteran-as-cio/amp-11614671616995.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibm-names-research-veteran-as-cio/amp-11614671616995.html",
-      "publishedDateTime": "2021-03-02T01:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach.md",
-      "title": "India using facial recognition in schools is an ‘overreach’",
-      "excerpt": "Rights advocates also say it is invasion of children’s privacy with no clarity on how the data is used or stored",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
-      "originalUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/U7RZBlL2uuTn2E9cHvf_GswuMGa8cVsYcrwvxtytYI14WsAGNOPr9vWgb1U18Np0Ssu20yh9fDJBHjJikE5EctV0zAjk4UU=s1000",
-          "width": 1000,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
-      "publishedDateTime": "2021-03-02T01:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure.md",
-      "title": "Compute and storage updates are available for mission-critical applications on Azure",
-      "excerpt": "Microsoft has announced a host of capabilities for mission-critical workloads on Azure include optimizations to compute, storage, backup, management, development, and networking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
-      "originalUrl": "https://www.neowin.net/news/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2015/02/shutterstock_137488049_story.jpg",
-          "width": 760,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/",
-      "publishedDateTime": "2021-03-02T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

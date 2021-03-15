@@ -41,20 +41,6 @@ related:
         width: 661
         height: 529
         isCached: true
-  - title: "Deep learning predicts boiling heat transfer"
-    excerpt: "Boiling is a heat transfer mechanism that utilizes liquid-to-vapor phase transition to dissipate great amounts of heat with minimal temperature difference 1. Since boiling enables a system to maintain fairly constant surface temperatures during large thermal energy fluctuations,"
-    publishedDateTime: 2021-03-10T13:42:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-85150-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-85150-4/MediaObjects/41598_2021_85150_Fig1_HTML.png"
-        width: 662
-        height: 685
-        isCached: true
 
 secured: "jrKOnRhH9xD+BRewMw6LS/o57EbU0QTXmDOFBAvCbkJBKhiBnC9pFeJ1g6Hi/T2RoiAGiICThzGDDBPP07PbwUp0YUN3l7QoR9xfdFPDXeSDRZlVGpbTit+QjoyVF8SdDQlXnJ7/NAax6ANbav5P38Q3lVob7Zjbzd3N+Un2TBdevhbcKLNECbS47kWqNgsZG6C2BiHVP0SMJMakiYGNfgxBBns9c4XiI11HNzTVe5kP+u2wZuyTkP2NRAGdUFqHeo1yklZGTsxqCD9EP3XRV54KWwsBqu+a9pjEq4ZTnfaTEiw6DHMKsAhEGn+FqPsJR/iRReKbMq+LIrPsIT5ldt62WmFlzwQJO6l1Onji7XI=;SMmGs1DF/n9bYcM1dmZxnA=="
 ---

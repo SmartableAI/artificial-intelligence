@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-bln-valuation-source.md",
+      "title": "Baidu’s AI chip unit Kunlun completes new funding, at $2 bln valuation- source",
+      "excerpt": "Chinese search giant Baidu Inc BIDU.O said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0",
+      "originalUrl": "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0?amp",
+      "publishedDateTime": "2021-03-14T22:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-samsung-electronics-to-be-responsible-for-development-of-chip-used-for-googles-self-driving-car-waymo.md",
       "title": "Samsung Electronics to Be Responsible for Development of Chip Used for Google’s Self-Driving Car Waymo",
       "excerpt": "Samsung Electronics has begun the development of core chip that will be used for Google’s next-generation self-driving car. There is a high chance that the chip will be produced through Samsung Elec",
@@ -54,7 +88,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/365807",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -130,6 +164,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-china-to-pour-more-money-into-chips-ai-5g-to-catch-us.md",
+      "title": "China to Pour More Money Into Chips, AI, 5G to Catch U.S.",
+      "excerpt": "Randy Abrams, head of Taiwan securities research at Credit Suisse Group AG, discusses China’s ambition to end its reliance on U.S. tech, the support that tech is receiving in China and his outlook for the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/videos/2021-03-15/china-to-pour-more-money-into-chips-ai-5g-to-catch-u-s-video",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2021-03-15/china-to-pour-more-money-into-chips-ai-5g-to-catch-u-s-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIRzeeaO_z5E/v5/-1x-1.jpg",
+          "width": 950,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1430,102 +1516,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-researchers-show-ai-chip-with-reduced-precision-training.md",
-      "title": "Researchers show AI chip with reduced precision training",
-      "excerpt": "At ISSCC, IBM Research presented a test chip which represents the hardware manifestation of its years of work on low-precision AI training and inference",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/researchers-show-ai-chip-with-reduced-precision-training/",
-      "originalUrl": "https://www.embedded.com/researchers-show-ai-chip-with-reduced-precision-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/03/img20210312123321IBM-Brings-8-Bit-AI-Training-to-_4_w800_h814.jpg",
-          "width": 800,
-          "height": 814,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T09:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts.md",
-      "title": "Massive Boon In Computer Chip Shortages Will Slam Future Self-Driving Car Rollouts",
-      "excerpt": "Computer chip shortages are hurting automakers, which is exactly what will happen even in the future when self-driving cars start becoming viable, here's why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603adfe801dd346437e69140%2F0x0.jpg%3FcropX1%3D296%26cropX2%3D1368%26cropY1%3D112%26cropY2%3D715",
-          "width": 1072,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/amp/",
-      "publishedDateTime": "2021-03-02T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,22 +2,22 @@
 category: news
 title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
 excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
-publishedDateTime: 2021-03-11T00:09:00Z
-originalUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
-webUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+publishedDateTime: 2021-03-10T22:02:00Z
+originalUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+webUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 related:
   - title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
@@ -72,6 +72,6 @@ related:
       domain: morningstar.com
     quality: 50
 
-secured: "aWDjbqDXGlv7p73ukq+wmnGNGKixvncGTIhGEmCDrTtnpOv0iBClsva+GO0bHl7jxZG/UAe4R9v6nW/BQydVPJ+WYQn39QRttbAvvOKhyiLgjo0VUZcbs/BhRcEUXa8xxq91tfxAgNPQlJ+oj5h7fOZYqy/wX4hDFI91IxhspJwsmIgjdtBIfKocK1T7QEw4/+IC5trXA9764bJTnkVUlIY8jqczQ96OT+KMpsIPF+3wNBcmI/zYwS+E6BvGmxXEvPsG4Cp/4s8Lj4p1G3ufT2Xk/cgJhfaBYVYpUWobRTDuQGnm4dekdgx9Wb2vSqvf7HFHgQTVofUiHyNaZ87SKFyt1Fop6kv88jm+7rzffoQ=;1MeuiKwtMpGp/glzYhjvgg=="
+secured: "1DhVCQ2uShso9oJ6xBsFLCwB+XdoNXWv9hNMMD/cri2hY4YGjvLk0XoqkFM80MfCfcyqL66fbqgwplZPmZvBsMw5FyXX/Uvvq6717ZnEhxy93Xa8IqS1SAYae1qM9ccMld4pXtQ1JzIthbsO+SFn0jAayvYxQlOedBxCW9i6/eP/DVpc2KLvoQNx8KHf/vDuUbJmj9szEFw2IFB67FEVs3SsH2t7kUyd02RczUqWK8fmmomb/wR2dBL45ffy0Pp3ymP8KEVG4HhwCZhD054uTU0/ofQIfBs4nSfufjkGHXNHzJkBOrsi7xn2j3RGvCbJCpW84ZzloNKJH0wp/QD3kF+bupnk2WNlHqtB4gkn54E=;AjgyAi6k6RyhKSLdckLBcA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://mymodernmet.com/deep-nostalgia-ai-photos-to-life/"
 webUrl: "https://mymodernmet.com/deep-nostalgia-ai-photos-to-life/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "WATCH: New artificial intelligence program brings old photos to life"
-    excerpt: "The genealogy platform MyHeritage created an artificial intelligence program called Deep Nostalgia. Users can see people like Frederick Douglass come alive with the click of a button. He blinks ..."
-    publishedDateTime: 2021-03-10T12:41:00Z
-    webUrl: "https://nbc-2.com/features/tech/2021/03/10/watch-new-artificial-intelligence-program-brings-old-photos-to-life/"
-    ampWebUrl: "https://nbc-2.com/features/tech/2021/03/10/watch-new-artificial-intelligence-program-brings-old-photos-to-life/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/features/tech/2021/03/10/watch-new-artificial-intelligence-program-brings-old-photos-to-life/amp/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 57
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/03/deep-fake-ai.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ApfV46HYNPbm/8Q6OMnJkNrdcwpYoQo26M+NjXUtSSTLgyPRSfb5DuseB2bcm31V1Ws5tD6TTfT2neP65hKejEv4gMMbM9OTqhM0Yy47KkhrNQ/uhQaGyrvHXLUw2jGBeJs5OlPZLLs2tSmoHLA97xp9YNj60YEttiWIM+VEv/CTRnHQm45LC20hafyRMb8VquqlyFIBJG9nfEhsE2BqQMIaV8+gfAzbelPo8JaVZWRA3d1J12xaCERf9ni7FKluoIp37QRPIWSdye63A43DopFLbgbt7exr5KZfM9R9D/0LNMUDPKaLfT6S0DVN6j2FQEPvoefw2chHC6wd4ZIZwAY+etj8ugpPCWpVTcPnomA=;7gz8F7ZkuBol+wXYCwf3AQ=="
 ---
