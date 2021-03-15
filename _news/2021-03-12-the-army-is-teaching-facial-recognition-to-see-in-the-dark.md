@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/88apzb/the-army-is-teaching-faci
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/1-copy-24-796x417.jpg"
         width: 796
         height: 417
-        isCached: true
-  - title: "Down in Alabama: Gambling; rural vaccinations; facial recognition"
-    excerpt: "From today’s Down in Alabama podcast: Bad news about your early-retirement plan: Alabama’s latest lottery-and-gambling bill has met its demise. The “Down in Alabama” podcast is short and free. Listen to it by clicking on the player above or subscri ..."
-    publishedDateTime: 2021-03-10T09:30:00Z
-    webUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html"
-    ampWebUrl: "https://www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/down-in-alabama-gambling-rural-vaccinations-facial-recognition.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EQIGEHXK2VFFFP5R6S3ODBTY4A.jpg"
-        width: 3723
-        height: 2094
         isCached: true
   - title: "Gambling, rural vaccinations and facial recognition: Down in Alabama"
     excerpt: "Also: The Alabama National Guard joins the vaccination effort, and Redstone Arsenal is employing facial-recognition technology. The “Down in Alabama” podcast is short and free. Listen to it by clicking on the player above or subscribe by looking for “Down in Alabama” on the device of your choosing."

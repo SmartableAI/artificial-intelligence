@@ -89,6 +89,22 @@ related:
         width: 904
         height: 565
         isCached: true
+  - title: "How PhonePe adapted to the new normal in fintech"
+    excerpt: "Bengaluru-based fintech startup PhonePe pivoted rapidly and ... fund's first investment in Asia with undisclosed funding in Wysa, an AI-based mental health startup in India. Wysa has raised ..."
+    publishedDateTime: 2021-03-15T00:31:00Z
+    webUrl: "https://yourstory.com/2021/03/phonepe-new-normal-fintech-mamaearth-india-quotient-edtech"
+    ampWebUrl: "https://yourstory.com/2021/03/phonepe-new-normal-fintech-mamaearth-india-quotient-edtech/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/03/phonepe-new-normal-fintech-mamaearth-india-quotient-edtech/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagewq25-1607009831702-1614914265516-1615735280483.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Fintech Acorns just nabbed Harvest, a startup helping customers reduce debt, as consolidation among personal finance apps heats up"
     excerpt: "As fintech booms, Acorns took the opportunity to buy debt-reduction startup Harvest to add to its existing micro-investing and savings offerings."
     publishedDateTime: 2021-03-11T14:29:00Z

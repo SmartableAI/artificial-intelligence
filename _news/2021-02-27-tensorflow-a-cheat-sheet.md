@@ -1,12 +1,12 @@
 ---
 category: news
 title: "TensorFlow: A cheat sheet"
-excerpt: "TensorFlow is an open source software library developed by Google for numerical computation with data flow graphs. This TensorFlow guide covers why the library matters, how to use it, and more."
-publishedDateTime: 2021-02-26T23:04:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
-webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+excerpt: "TensorFlow was originally a deep learning research project of the Google Brain Team that has since become--by way of collaboration with 50 teams at Google--an open source library deployed across ..."
+publishedDateTime: 2021-02-27T05:31:00Z
+originalUrl: "https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+webUrl: "https://www.techrepublic.com/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
 type: article
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     isCached: true
 
-secured: "XqCP7hufb6Js6WoTjg/BV/f1Zxrwr7Mjx/xQBQy9wV8YNjod+5Ba5Typ7OEeMVIG62hDpymy+g3iY7osY2PtX4cOS59LzS6TswmKWX3gZkPFwHqwOt+v2Ihf8VmSRDoP6yNgM93+n8tBwMu61Sfnm3CXnlmf0x9Rhr1Mk8eS4MTBi/2mVtdPja40w2yJXc2HDHs0bD+iM61zT5PGoRBlIO5erV7M2mJfYTMFRmSdwRtLuTVoIKD/xrnlD8kB0oix/GwuL2sZsCnXZ+gG46zosepdzGR8OdioR/6YSzmhDKJ6KBhP4GXJjHCal8pgjqZ2L3K+SBok9b6g1/vQpwW5vLaecKrblvca6cT7LYLLR4s=;6PLVf0fDQgwCBB9lx+bmwA=="
+secured: "0vQJZEof823EMjX3RFtT2dc2s8uX5I0vjpHW5QfvnuHLiJG8Q9iWBaZgWX7QgYPLUlBA5GM52diMptx9mfh1rw32u5jPfM6d88FVXqBdcxz17NJ7qzsfJfLvD7eddWmIjp4n3z5cfHTWZLBn3urjuq+7Yt7PjBTaLMx185ACv460KCtOdv3MQj6BBtmSt2H2haTZOMp1BL1pVLXoF8UktkRVrRu1OZBRD3lx2/asyWElj9xcvLAw6SThuQm8vTH0z06YnAhYImz3TAugSZziCy7nyohvHgSNCO7W4HN5EH18Re7jDbKTSCF3rso+bMLMH0kdOsRJAvRXoN9AW2z/D2FBNwKABEJP/xgIQgXLxvI=;z6BRwgAsRMAi2pQUOY7vqw=="
 ---
 

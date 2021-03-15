@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence calculates suicide attempt risk"
+    excerpt: "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center."
+    publishedDateTime: 2021-03-12T16:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-suicide.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-suicide.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-suicide.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-suicide.jpg"
+        width: 2880
+        height: 1919
+        isCached: true
   - title: "Artificial intelligence that can calculate suicide attempt risk tested in the US"
     excerpt: "Not long ago, an algorithm that predicts suicide attempt was created in the USA. As the next step, it underwent a prospective trial recently."
     publishedDateTime: 2021-03-13T01:54:00Z
@@ -42,20 +58,6 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/03/13/1600x900/suicide_1615599728816_1615599733185.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Artificial intelligence calculates suicide attempt risk"
-    excerpt: "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center."
-    publishedDateTime: 2021-03-12T16:02:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/vumc-aic031021.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/258808_web.jpg"
-        width: 440
-        height: 290
         isCached: true
 
 secured: "V4Lq3maMPUfSvM3EJDuEVcss3zeZ+0C3i8ueOjKhUcn0T54IE1zz1Ji+7USCiO7LDY3oLLNSVw+4aRfuSM0wy6AiCPKq7ze4VIr3qdS1xPvAKEwTbgwPOsVlj7Yj7PFwuPFiTsyDL3PUsX65PEl0OcrltzOQdel0LVVazMdjHkDfvOtkw/Lh4Ok2L5fFIeCPL/xJppQePjCXElfymt1S4S+ZPTOAJqH2mltNnBvKolgABFLePOIbJa0dVwR8RRYmpDJRDMCW3HO/YyKT5OAx5/DI/Pvnb+kBItjoVk3iT+GUG+CWH52ywAJFcnzV3wwSDzhRh9AMndbbz5k2UD6eYtj8+FhaSmmqU9mOAsBg9O8=;X+UR3mE7/4UdzcRPOK3vFg=="

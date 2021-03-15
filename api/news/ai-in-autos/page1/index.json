@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-15-samsung-electronics-to-be-responsible-for-development-of-chip-used-for-googles-self-driving-car-waymo.md",
+      "title": "Samsung Electronics to Be Responsible for Development of Chip Used for Google’s Self-Driving Car Waymo",
+      "excerpt": "Samsung Electronics has begun the development of core chip that will be used for Google’s next-generation self-driving car. There is a high chance that the chip will be produced through Samsung Elec",
+      "sourceUrl": null,
+      "webUrl": "https://english.etnews.com/20210315200002",
+      "originalUrl": "https://english.etnews.com/20210315200002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etnews.com/news/article/2021/03/15/article_15091456893673.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.etnews.com/amp/20210315200002",
+      "cdnAmpWebUrl": "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210315200002",
+      "publishedDateTime": "2021-03-14T17:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Etnews.com",
+        "domain": "etnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-why-is-teslas-full-self-driving-only-level-2-autonomous.md",
       "title": "Why Is Tesla’s Full Self-Driving Only Level 2 Autonomous?",
       "excerpt": "A trial of Tesla’s Full Self Driving ability has been making its way round a few US cities carrying selected beta-testing Tesla owners since October 2020. But recently a series of emails between Tesla and the California Department of Motor Vehicles have ...",
@@ -1349,49 +1393,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-why-blackberry-tsxbb-stock-fell-over-30-last-month.md",
-      "title": "Why BlackBerry (TSX:BB) Stock Fell Over 30% Last Month",
-      "excerpt": "Diggles added, “In the context of self-driving cars, DLT that is infinitely ... David Gardner owns shares of Amazon, Baidu, Facebook, and GameStop. Tom Gardner owns shares of Baidu and Facebook.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.ca/2021/03/03/why-blackberry-tsxbb-stock-fell-over-30-last-month/",
-      "originalUrl": "https://www.fool.ca/2021/03/03/why-blackberry-tsxbb-stock-fell-over-30-last-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://yw553ftvhw1iqegz29fycoyw-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Stock-price-graph.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.ca/2021/03/03/why-blackberry-tsxbb-stock-fell-over-30-last-month/amp/",
-      "cdnAmpWebUrl": "https://www-fool-ca.cdn.ampproject.org/c/s/www.fool.ca/2021/03/03/why-blackberry-tsxbb-stock-fell-over-30-last-month/amp/",
-      "publishedDateTime": "2021-03-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool Canada",
-        "domain": "fool.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

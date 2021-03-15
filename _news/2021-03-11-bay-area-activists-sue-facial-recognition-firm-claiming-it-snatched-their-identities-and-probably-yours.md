@@ -76,6 +76,22 @@ related:
         width: 768
         height: 465
         isCached: true
+  - title: "Facial recognition company sued by California activists"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that"
+    publishedDateTime: 2021-03-10T15:35:00Z
+    webUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/"
+    ampWebUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/facial-recognition-technology-sued-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Virginia Beach police department says detectives used facial recognition program"
     excerpt: "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report."
     publishedDateTime: 2021-03-10T14:31:00Z
