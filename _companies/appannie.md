@@ -2,7 +2,7 @@
 name: "App Annie"
 overview: "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences."
 type: "profile"
-heat: 382
+heat: 397
 
 website: https://www.appannie.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "appannie"
   url: "https://twitter.com/appannie"
-  followers: 93358
+  followers: 93415
 
 locations:
   - San Francisco, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "App Annie"
 
-secured: "rC7pVakvK/j11Nukj0Ar/SuQV8cXYMYaWRVtwXQp45F/fSpTc1tZFr7v9o7iQM2HWgoDeR8FEU4cYw6SAfEoIAYtQa9SpyROttCipxbQ6nra62ItJDDD8yEQtCYcN1pic4/xCpZwNM58OLCxuTlNYHjc9a4mP+aEzIhrhHH3bZ35yn6dF3XTRt0Uevaqougz02t32z9uuVjWo1KWRQRHT1p6e/LBmiC/W+WEsDWns9r3h1TFoLd5qXMuBg05VmaazWwzrX8u0Xcszeql7p7+luyIIBQBydVuXFj9fPf16VpFdO3d8PHcVVnVQK0rBM6B35Xfz1z9RxmJ7koNV8kLLuyVmGORX4RfNEtlEfxQs0myXpR8mVAZ0DoLTzpLLJ8rV6gPRa44rFZko3dvcS8y4aGKum/T6BBCMuS0LCfhaD8=;mSo3jtDbdKyWHBUYk7x8CQ=="
+secured: "KSLybvpbj+WUMnnsYbbBQbz+9Quw8bOMGnfJ3NQKPZUR9cR3t0Wz1eb0fXnPaRNHyy+tKqBho0cxmEvpJYQQU7tWCmo9f5wuthW/fvHHOieSPAbfMeCeSqIPGaA4GzTxjyvmtLWFMXOvZMQ0LtrUryLAAmsKEiIwm+aQyJtzgLO5zbER9JUh/kcRlAu6RtXQflew10sRd8Aa7dvmMlp1/zUHxHUmmjSQDpmQPJjVvm5a7NgHlkYW6ex8RUvsk1R2s5c2cakJ3pTXd4sGm5yk5xvraKBeGtA1hEvlvXjpl1BZlhR6/GyRIT9T1tebl7BhZaRftQ+XnjMRtN0Lh/d1lVegURqBadrvrM59P/E4bFGi9QuU9iw4OUulaAPM7bsgEkSa4R5dbNXArc4Yv8On8iHclvcm36Y92DvO2sjqMuA=;dAxh65r7wGHBxfVSb1B9zg=="
 ---
 
