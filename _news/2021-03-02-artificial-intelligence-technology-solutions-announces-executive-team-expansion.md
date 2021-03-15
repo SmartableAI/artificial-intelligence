@@ -1,34 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Announces Executive Team Expansion"
-excerpt: "Artificial Intelligence Technology Solutions, Inc.,, today announced that Garett Parsons has appointed Steven Reinharz as CEO, CFO and Secretary of AITX. Steve Reinharz CEO, Artificial Intelligence Technology Solutions,"
+excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that Garett Parsons has appointed Steven Reinharz as CEO, CFO and Se"
 publishedDateTime: 2021-03-02T14:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/artificial-intelligence-technology-solutions-announces-executive-team-expansion-2021"
-webUrl: "https://www.nasdaq.com/press-release/artificial-intelligence-technology-solutions-announces-executive-team-expansion-2021"
+originalUrl: "https://www.businesswire.com/news/home/20210302005458/en/Artificial-Intelligence-Technology-Solutions-Announces-Executive-Team-Expansion"
+webUrl: "https://www.businesswire.com/news/home/20210302005458/en/Artificial-Intelligence-Technology-Solutions-Announces-Executive-Team-Expansion"
 type: article
-quality: 45
-heat: 45
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Artificial Intelligence Technology Solutions Announces Executive Team Expansion"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that Garett Parsons has appointed Steven Reinharz as CEO, CFO and Secretary of AITX. Reinharz is the founder and President of AITX’s subsidiaries and the majority and controlling owner of AITX."
-    publishedDateTime: 2021-03-03T05:38:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-executive-changes-transportation-infrastructure-products-and-services-866b812cf5f541b4a0cb36831092ce2f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-
-secured: "vtDFHSSLrbgMNvfijm8MFMTEZeVxWaphT0ExzLVGhHTswWU1MXuQPsEa4Iw/SvGGuQPthrZXxl/OaQG6eRGzd7RSpSGdLAzfDZzce4LCxgmlRJ3kHfrrzrBfNF6yzIHYquk7m+Lxr29y0FPIViYnLmpgUmxWhwky/dHKQh0k4fA5zGJQpFisW1j3Yo2vrBTEbfPYy2oelfzZnjS6OKbblGbRNIKWFGMJU9O1oC1TChXlQQFTtkbTRUTZqTK34Nm+8lpiHfjI9ca/hRH2PhJdOH2l8lLlNzO2Y1+s6HeYZQQm+fxj4WAIXJ6QrmBjO/ZQr5cY+yCNIW78KHBjXsr3Qut8YfdcyGty/elE/ApyHMM=;Krf//28dh+Ss0hqiVvOswQ=="
+secured: "uqn0lzZTqixlFRc/zDyThZRIg900lKrS6LdmnDp1a2Iv9iV/lyduEJIVgJCBzNkpKYJXTAjxnQmonI7hU9Qb5qd2hq5cR0ln1HEs3Nwi7jATcZOUrYf2nBiaXKpo43uXXOLfDOB/QfPZOWnygxOe4P/87qxJVVxwYTE5+HJ/RNdXpnGh+ieD1EPOJzla/QEghfeHbdA8zxG+2A7+PuK/zjnMUxqT3htb/FTIZyua+8dinuHM2AeDNyVd1tZw5tbIIg+hiTUTF4YlrkwY1d/ZSozUIuAOUxutF44jlaLjGzCQh76kqo7TKabhel6+U/z2Gc4jS+zSdh5MCPFlJAvkLhLdZ8lmCI4NycGO+MAUvSg=;4F6Z01vosUr7smLz2ICFBQ=="
 ---
 

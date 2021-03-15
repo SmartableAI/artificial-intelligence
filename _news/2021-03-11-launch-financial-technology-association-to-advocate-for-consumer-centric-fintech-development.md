@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "As Fintech Industry Matures, the Need for Policy Advocacy Grows: OLPI and MPL Merge to Form American Fintech Council"
-    excerpt: "Financial technology or Fintech has been growing at a rapid pace for years now. Starting with online capital formation, today a growing number of sophisticated financial services are going through a much-needed."
-    publishedDateTime: 2021-03-14T17:50:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/03/173168-as-fintech-industry-matures-the-need-for-policy-advocacy-grows-olpi-and-mpl-merge-to-form-american-fintech-council/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/173168-as-fintech-industry-matures-the-need-for-policy-advocacy-grows-olpi-and-mpl-merge-to-form-american-fintech-council/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/173168-as-fintech-industry-matures-the-need-for-policy-advocacy-grows-olpi-and-mpl-merge-to-form-american-fintech-council/amp/"
+  - title: "The future of fintech: Forging ahead with digital transformation"
+    excerpt: "By Andrew Warren, Head of Banking and Financial Services, UK and Ireland, Cognizant As we all begin to look beyond the COVID-19 pandemic and towards what we hope will be a full economic recovery, the Banking and Financial Services (BFS) sector in the UK and Ireland has reason to be cautiously optimistic about its immediate"
+    publishedDateTime: 2021-03-15T08:03:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 21
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/03/Digital-Dollar-Washington-600x600.jpg"
-        width: 600
-        height: 600
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/03/The-future-of-fintech.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "6wEuE8irw6vG6MDzmLlkia4JzIob323Sy1swp72G0P/VWe9vEorpLjZYx6KTKoPvYHbIg9cljCVZf+ocwSXoYIwFCZMyTiHeipHvlHVloK+RfXnNSWoHmaF7+DmcnNicuGFdXEZUMPlYgmrlgOsr8RaZthwKiO0MVQWVkAdlPPochDa8WYixK22boh4B2j+2zD9UPw+dklEIEDw2q61emhUHjcujrFOWSO/U/7xbJ1pVYHKm7vZfN1+BqLTWF7bJouEa8VcBqQS6aGD0DpWSliv72MmXoz1joPRggn5VZruoW8d7m+0QDFWH4sMc3PmyLXH2c/0WYetk4P0oA28wZ1qpa5inSiWWE/gAInPkdEk=;rSAiO6HPjJKbOxdL7DPJqg=="

@@ -25,49 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Zoox CEO on Deal With Amazon to Make Self-Driving, Electric Cars"
-    excerpt: "Aicha Evans, CEO of Zoox Inc, discusses working under Amazon.com Inc. and the progress of their self-driving, electric shuttles. She also shares her experience working in a predominately white male industry."
-    publishedDateTime: 2021-03-10T16:21:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video"
+  - title: "Luminar strikes software deal to offer self-driving systems to automakers"
+    excerpt: "Luminar Technologies Inc said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers. March 11 (Reuters) - Luminar Technologies Inc said on Thursday it ..."
+    publishedDateTime: 2021-03-11T13:59:00Z
+    webUrl: "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11"
+    ampWebUrl: "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11?amp"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i98wzZk3KFYk/v5/-1x-1.jpg"
-        width: 2342
-        height: 1318
-        isCached: true
-  - title: "Elon Musk Says Cyberpunk 2077 Should Have Self-Driving Cars"
-    excerpt: "Though self-driving cars exist within the lore of CD Projekt Red's Cyberpunk 2077, they're functionally absent from the player's experience. Delamain AI cabs should be able to drive themselves when you’re in them & be electric by 2077 While the game's ..."
-    publishedDateTime: 2021-03-12T21:44:00Z
-    webUrl: "https://www.gamespot.com/articles/elon-musk-says-cyberpunk-2077-should-have-self-driving-cars/1100-6488677/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/elon-musk-says-cyberpunk-2077-should-have-self-driving-cars/1100-6488677/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/elon-musk-says-cyberpunk-2077-should-have-self-driving-cars/1100-6488677/"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 53
+  - title: "Luminar strikes software deal to offer self-driving systems to automakers"
+    excerpt: "Luminar Technologies Inc said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers."
+    publishedDateTime: 2021-03-11T19:00:00Z
+    webUrl: "https://www.reuters.com/article/luminar-technolo-volvo-idUSL1N2L9082"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2L9082"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L9082"
     type: article
     provider:
-      name: GameSpot
-      domain: gamespot.com
+      name: Reuters
+      domain: reuters.com
+    quality: 53
+  - title: "Luminar Strikes Deal With Volvo Subsidiary To Sell Self-Driving Systems"
+    excerpt: "U.S. lidar company Luminar Technologies has reached a deal with the self-driving software subsidiary of Volvo Cars with the intention of offering a hardware-software system to other automakers. The deal will see Luminar take the software from Volvo subsidiary Zenseact and combine it with its own hardcore and software to offer a self-driving system to other car manufacturers."
+    publishedDateTime: 2021-03-12T08:10:00Z
+    webUrl: "https://www.carscoops.com/2021/03/luminar-strikes-deal-with-volvo-subsidiary-to-sell-self-driving-systems/"
+    ampWebUrl: "https://www.carscoops.com/2021/03/luminar-strikes-deal-with-volvo-subsidiary-to-sell-self-driving-systems/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/luminar-strikes-deal-with-volvo-subsidiary-to-sell-self-driving-systems/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
     quality: 44
     images:
-      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3773875-main.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Why self-driving cars should be all-electric cars"
-    excerpt: "In recent weeks, the self-driving car company Cruise, a subsidiary of General Motors, filed a project application to build the huge fast-charging hub in the city's Bayview district. Cruise's planned robotaxi service,"
-    publishedDateTime: 2021-03-10T21:14:00Z
-    webUrl: "https://www.greenbiz.com/article/why-self-driving-cars-should-be-all-electric-cars"
-    type: article
-    provider:
-      name: GreenBiz
-      domain: greenbiz.com
-    quality: 24
-    images:
-      - url: "https://www.greenbiz.com/sites/default/files/2021-03/Cruise%20at%20Cesar%20Chavez%20St%20Rendering.2.jpg"
-        width: 3551
-        height: 2279
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/03/Volvo-b-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
 
 secured: "EPIlGJjfNfRdElwgnFYHgxGrEOPjrK5CwJ2wYaIU0kj+TCKr9AWLWmpuu+JuzqrhAx5YHV77uad5L2Nmj8iO/bf3LInLP825xxV/ebdq43qU37qnpqkVXKKTRPY5bwKlP9jgftIwIX6DlX0bAVwuGWuSCoekYNxtcKalCnqgf+I+Nk9bwiCGVRYQ0LeXvKbK6Nx2gYroShiAUISeahIpXzirgNG4cJPieodtyjD6RKZH8JrCZUaYOcbmgtstqrCYAWWmBq9k9GyPHhmno+eBZpPPIt5T4R3szBVxgjk0khgOyLgmPMhMVxQA2Lkd7ZgtZw82JKx4rtCX8A5A72QPUixIsMMHj/Bk7sdO6633FiVn3CY6b/KJMbrzEKTz3dug8/+xUCbDMPWtiiHS7+BKRF1l+Dx7M88WLixgYdN6TqS6WK+J2xiThCfHHKjMKRPj6eBMWqBO4M3zvQONzz4LlTHv9HgcVWzu9s1Dy9IimHn6BNQzMQQUT7htf9Ug2hbo0R5Azl4xpqqjqRzp597Z5A==;QRKV7qv4f5l+U7dDMYdH2Q=="

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -106,6 +106,50 @@
       ]
     },
     {
+      "path": "_news/2021-03-11-activists-sue-clearview-ai-alleging-facial-recognition-surveillance.md",
+      "title": "Activists Sue Clearview AI, Alleging Facial Recognition Surveillance",
+      "excerpt": "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field.",
+      "sourceUrl": null,
+      "webUrl": "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/",
+      "originalUrl": "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lawstreetmedia.com/wp-content/uploads/2019/12/iStock-1180187740-1024x697.jpg",
+          "width": 1024,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/",
+      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/",
+      "publishedDateTime": "2021-03-10T14:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law Street Media",
+        "domain": "lawstreetmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-batch-image-processing-with-amazon-rekognition-custom-labels.md",
       "title": "Batch image processing with Amazon Rekognition Custom Labels ",
       "excerpt": "Amazon Rekognition is a computer vision service that makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning (ML) expertise to use. With Amazon Rekognition, you can identify objects, people, text, scenes,",
@@ -155,6 +199,50 @@
       "topics": [
         "AI",
         "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours.md",
+      "title": "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)",
+      "excerpt": "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/",
+      "originalUrl": "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/03/ice_agent_generic-1.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/",
+      "publishedDateTime": "2021-03-10T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
         "Computer Vision"
       ]
     },
@@ -211,6 +299,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-10-facial-recognition-company-sued-by-california-activists.md",
+      "title": "Facial recognition company sued by California activists",
+      "excerpt": "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/",
+      "originalUrl": "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/facial-recognition-technology-sued-1.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/",
+      "publishedDateTime": "2021-03-10T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.md",
       "title": "Suit: Company built 'most dangerous' facial recognition AI database in nation",
       "excerpt": "The lawsuit said Clearview AI scrapes dozens of internet sites, such as Facebook, Twitter, Google and Venmo, to gather facial photos. Scraping involves the use of computer programs to automatically scan and copy data,",
@@ -252,50 +383,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-facial-recognition-company-sued-by-california-activists.md",
-      "title": "Facial recognition company sued by California activists",
-      "excerpt": "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/0f7642d1f9222d8a3047f7062c91c0e7",
-      "originalUrl": "https://apnews.com/0f7642d1f9222d8a3047f7062c91c0e7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/ShareLogo2.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T22:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1347,92 +1434,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-facebook-weighs-adding-facial-recognition-to-smart-glasses.md",
-      "title": "Facebook weighs adding facial recognition to smart glasses",
-      "excerpt": "Facebook is weighing whether to add facial recognition technology to the smart glasses it’s developing, one top executive says. The tech titan plans to have a public discussion about the",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/",
-      "originalUrl": "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/01/facebook-glasses-01.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/",
-      "publishedDateTime": "2021-02-26T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban.md",
-      "title": "Facebook Mulls 2021 Launch Of Facial Recognition Glasses With Ray-Ban",
-      "excerpt": "A Facebook executive confirmed that the social media giant could release facial recognition glasses this year in partnership with Luxottica, the maker of Ray-Ban.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/",
-      "originalUrl": "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/ray-bans-facebook-facial-recognition-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/",
-      "publishedDateTime": "2021-02-26T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

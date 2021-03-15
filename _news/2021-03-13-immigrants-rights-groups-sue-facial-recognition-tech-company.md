@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Facial recognition coming to Redstone next week"
+    excerpt: "(WAFF) - Flashing your CAC card to enter Redstone Arsenal may be a thing of the past. On Monday, Redstone will launch a facial recognition pilot program at Gate 9 and Gate 1. The DoD pilot program will provide employees a new, quicker method for getting ..."
+    publishedDateTime: 2021-03-12T23:30:00Z
+    webUrl: "https://www.waff.com/2021/03/12/facial-recognition-coming-redstone-next-week/"
+    type: article
+    provider:
+      name: WAFF
+      domain: waff.com
+    quality: 39
+    images:
+      - url: "https://www.waff.com/resizer/9qdGXpzdCwQliwSDx9GH5e0fWqs=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/XSAUVLUZSZAGBAEF6U3TQY7E4U.bmp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "New Facial Recognition Software"
     excerpt: "Redstone Arsenal announced a new feature at the entrance of Gate 9. New facial recognition software will be reading those who are already registered in the AIE system with a 14 point algorithm, allowing them entry."
     publishedDateTime: 2021-03-13T00:20:00Z

@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Cybersecurity — Friend or Foe for Digital Innovation in Financial Services and Fintech?"
+    excerpt: "By Altaz Valani, Director of Insights Research at Security Compass. The combination of digitisation and innovation has fundamentally changed the outlook for companies within the fintech and financial services sector."
+    publishedDateTime: 2021-03-15T08:15:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 36
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/03/Cybersecurity-Friend-or-Foe.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Cybersecurity Industry’s Most Comprehensive Guarantee and Warranty Announced by Deep Instinct and Backed by the Munich Re Group"
     excerpt: "Deep Instinct, the leader in deep learning-based cybersecurity, is the first company to back its product with a performance guarantee that ensures an incredibly low false positive rate, plus a ransomware warranty that is three times higher than any other ..."
     publishedDateTime: 2021-03-12T07:44:00Z

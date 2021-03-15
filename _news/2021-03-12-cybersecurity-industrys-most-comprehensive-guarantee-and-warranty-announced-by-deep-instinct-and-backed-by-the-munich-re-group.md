@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Cybersecurity — Friend or Foe for Digital Innovation in Financial Services and Fintech?"
+    excerpt: "By Altaz Valani, Director of Insights Research at Security Compass. The combination of digitisation and innovation has fundamentally changed the outlook for companies within the fintech and financial services sector."
+    publishedDateTime: 2021-03-15T08:15:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 36
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/03/Cybersecurity-Friend-or-Foe.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit"
     excerpt: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit SAN FRANCISCO (PRWEB)"
     publishedDateTime: 2021-03-11T13:05:00Z

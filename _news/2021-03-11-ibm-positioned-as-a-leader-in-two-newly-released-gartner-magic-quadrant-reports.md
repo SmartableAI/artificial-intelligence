@@ -45,6 +45,20 @@ related:
         width: 570
         height: 592
         isCached: true
+  - title: "IBM Positioned as a Leader in Two Newly Released Gartner Magic Quadrant Reports"
+    excerpt: "\"IBM is focused on AI for business and helping customers reclaim ... our strong innovation pipeline between IBM Research and IBM Watson.\" Businesses across industries continue to turn to IBM ..."
+    publishedDateTime: 2021-03-11T21:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-301245197.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
   - title: "Blue Yonder Named a Leader in the 2021 Gartner Magic Quadrant for Supply Chain Planning Solutions Report, Positioned Highest in Ability to Execute"
     excerpt: "Blue Yonder attributes this position to its Luminatetm Planning solutions portfolio, which offers advanced artificial intelligence (AI ... at 11:30 Global Shockwave Therapy Markets 2021-2025 - Shockwave Therapy Function / Conditions Effectively Treated ..."
     publishedDateTime: 2021-03-12T16:48:00Z

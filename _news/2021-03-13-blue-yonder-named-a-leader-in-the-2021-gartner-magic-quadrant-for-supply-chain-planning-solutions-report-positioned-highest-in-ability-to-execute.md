@@ -55,6 +55,20 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "IBM Positioned as a Leader in Two Newly Released Gartner Magic Quadrant Reports"
+    excerpt: "\"IBM is focused on AI for business and helping customers reclaim ... our strong innovation pipeline between IBM Research and IBM Watson.\" Businesses across industries continue to turn to IBM ..."
+    publishedDateTime: 2021-03-11T21:25:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-301245197.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
 
 secured: "+7ZnAKUodRukV9vqLd628Z2Z87N68mOuyIhKSYQX4KpnzGdd4GR+6muqjhFv4rgG/Folr6tz5nBjAzCPSfYQTituurySNkAk6XvAo8iw3cyEObwmla+d5x2l7RLfrouNqE/4Rr0axQTWLUDwQsxaKkDJHWZyoAtuzM5Ux2GjKvjiDjUEjJy+IpTG3vV5Dtg7EFSlSGv4diGSWk7DpMa0ZoI0v1j+RZetzIzpalZ4SvgbNGyq00vXB8LFrU2KsRQKv1lz+eJrGoPBLhoIh41suK8Pge6TfiLhW9JLRYRTp64lOveLPtQfPbbHLYnYMTXPdmnFIL8HG81J+jOFRwZzuuPXwYGoNAZgoWXndXGOs9A=;+zCzpKOxf9qaOf7yamlMKA=="
 ---

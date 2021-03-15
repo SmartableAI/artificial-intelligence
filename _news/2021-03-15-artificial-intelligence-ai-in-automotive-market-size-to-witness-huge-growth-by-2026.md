@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-15T07:43:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-to-witness-huge-growth-by-2026-2021-03-15"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-to-witness-huge-growth-by-2026-2021-03-15"
 type: article
-quality: 77
+quality: 79
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Tool Used by Police Faces Civil Lawsuit in California"
-    excerpt: "A group of immigrant-rights organizations and activists on Tuesday filed a civil lawsuit in California against Clearview AI Inc., alleging the facial-recognition software provider violated their privacy rights and those of California citizens. Mijente ..."
-    publishedDateTime: 2021-03-10T16:54:00Z
-    webUrl: "https://www.wsj.com/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179"
-    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 88
-    images:
-      - url: "https://images.wsj.net/im-309733/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Activists Sue Clearview AI, Alleging Facial Recognition Surveillance"
     excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
     publishedDateTime: 2021-03-10T22:59:00Z
@@ -74,49 +58,20 @@ related:
         width: 768
         height: 465
         isCached: true
-  - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)"
-    excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."
-    publishedDateTime: 2021-03-10T20:03:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/"
+  - title: "Legal fight against Clearview AI’s facial recognition service grows"
+    excerpt: "Demographic groups are joining states and nations in demanding that Clearview AI end its massive face-scraping biometric service."
+    publishedDateTime: 2021-03-11T17:13:00Z
+    webUrl: "https://www.biometricupdate.com/202103/legal-fight-against-clearview-ais-facial-recognition-service-grows"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/03/ice_agent_generic-1.jpg?w=1024&h=682"
-        width: 1024
-        height: 682
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
-  - title: "Redstone Arsenal to use facial recognition software for entry; What it means for drivers"
-    excerpt: "Redstone Arsenal is opening “facial recognition identification” for faster vehicle access to the federal mega-base in Huntsville. Special facial recognition (FR) lanes open Monday to people registered in Redstone’s automatic installation entry program."
-    publishedDateTime: 2021-03-10T17:02:00Z
-    webUrl: "https://www.al.com/news/2021/03/redstone-arsenal-to-use-facial-recognition-software-for-entry-what-it-means-for-drivers.html"
-    ampWebUrl: "https://www.al.com/news/2021/03/redstone-arsenal-to-use-facial-recognition-software-for-entry-what-it-means-for-drivers.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/redstone-arsenal-to-use-facial-recognition-software-for-entry-what-it-means-for-drivers.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 50
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZANCKFR6KVHH3ICGV77ZILDW4M.PNG"
-        width: 315
-        height: 239
-        isCached: true
-  - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities"
-    excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."
-    publishedDateTime: 2021-03-10T17:16:00Z
-    webUrl: "https://www.timesheraldonline.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours-2/"
-    ampWebUrl: "https://www.timesheraldonline.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours-2/amp/"
-    cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours-2/amp/"
-    type: article
-    provider:
-      name: Vallejo Times Herald
-      domain: timesheraldonline.com
-    quality: 49
   - title: "Facial recognition company sued by California activists"
     excerpt: "(AP) — Civil liberties activists are suing a company that provides facial recognition services to law enforcement ... monitor their associations, and track their speech,” the lawsuit contends. The lawsuit said Clearview AI scrapes dozens of internet ..."
     publishedDateTime: 2021-03-11T16:15:00Z
@@ -141,34 +96,6 @@ related:
       - url: "https://journalrecord.com/files/2020/06/OKJR-Lettings_300x250-V3.png"
         width: 300
         height: 250
-        isCached: true
-  - title: "California Activists Sue Facial Recognition Company"
-    excerpt: "Civil liberties advocates are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally ..."
-    publishedDateTime: 2021-03-10T16:03:00Z
-    webUrl: "https://thecrimereport.org/2021/03/10/california-activists-sue-facial-recognition-company/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 39
-    images:
-      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
-        width: 343
-        height: 510
-        isCached: true
-  - title: "Department says detectives used facial recognition program"
-    excerpt: "Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to"
-    publishedDateTime: 2021-03-10T18:59:00Z
-    webUrl: "https://apnews.com/a055525f5ffd6ad63ce115961b96180c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Facial recognition company sued by California activists | Charlotte Observer"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
