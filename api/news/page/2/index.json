@@ -2,6 +2,197 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-15-nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation.md",
+      "title": "NVIDIA (NVDA) Rides on Strong Chip Demand, AI Proliferation",
+      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
+      "publishedDateTime": "2021-03-15T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-andrea-bonaceto-collaborates-with-robot-on-first-digital-ai-piece-being-sold-as-an-nft.md",
+      "title": "Andrea Bonaceto Collaborates With Robot on First Digital AI Piece Being Sold as an NFT",
+      "excerpt": "NFTs, digital images each of which come with its own unique code to prove who owns it, have been shown to be a powerful new force in the art world. The collaboration between Sophia the Robot and Andrea Bonaceto will be available on Nifty Gateway on March 23.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787",
+      "originalUrl": "https://www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1754630/sophia-robot-david-hanson.jpg",
+          "width": 2500,
+          "height": 1710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787?amp=1",
+      "publishedDateTime": "2021-03-15T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-using-artificial-intelligence-to-improve-healthcare-for-all.md",
+      "title": "Using Artificial Intelligence to Improve Healthcare for All",
+      "excerpt": "He is also a pioneering figure in artificial intelligence (AI) research. Sapiro wields his expertise in AI to solve societal problems, particularly those related to health and health care. In the Parkinson’s project, Sapiro uses a technique called ...",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
+      "originalUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/scienceblog.com/wp-content/uploads/2021/03/DST_Computing_AIHealth_Electrodes.png?fit=270%2C293&#038;ssl=1",
+          "width": 270,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/",
+      "publishedDateTime": "2021-03-15T06:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward.md",
+      "title": "Preventing bias in AI is hard. Bug bounties could point the way forward",
+      "excerpt": "Deborah Raji is researching ways to apply the models that underpin bug bounty programs to algorithmic harm detection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
+      "originalUrl": "https://www.zdnet.com/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2020/03/30/0f9fa083-fed0-409b-bc9b-1d357605b1ae/facerecognitionistock-1180902227.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
+      "publishedDateTime": "2021-03-15T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-eight-ways-companies-can-leverage-ai-in-content-marketing.md",
       "title": "Eight Ways Companies Can Leverage AI In Content Marketing",
       "excerpt": "While AI hasn't yet fully developed the creative intelligence to build content from scratch, it still offers enterprises a way to improve their content marketing. Insights generated from data as well as openly sourced information from the wider internet ...",
@@ -1032,204 +1223,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-machine-learning-as-a-service-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025.md",
-      "title": "Machine Learning as a Service Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025",
-      "excerpt": "Competitive Landscape and Machine Learning as a Service Market Share Analysis: Machine Learning as a Service Market to reach USD 16.13 billion by 2025. Machine Learning as a Service Market valued approximately USD 0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-adobes-super-resolution-tool-uses-machine-learning-to-give-users-clear-4x-image-supersampling.md",
-      "title": "Adobe's Super Resolution tool uses machine learning to give users clear 4x image supersampling",
-      "excerpt": "Adobe is taking photo upscaling to a whole new level with an AI-powered tool called Super Resolution. The feature is currently available in Camera Raw 13.2,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "originalUrl": "https://www.techspot.com/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/03/2021-03-12-image-13.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "publishedDateTime": "2021-03-12T11:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-startup-news-robotics-vendor-nimble-raises-50-million-in-financing-round.md",
-      "title": "Startup News: robotics vendor Nimble raises $50 million in financing round",
-      "excerpt": "According to Nimble, its AI-powered robots intelligently pick, pack, and handle millions of products, spanning from apparel and electronics to beauty, general merchandise and grocery items. Today, Nimble robots are deployed in fulfillment centers across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_raises_50_million_in_financing_round",
-      "originalUrl": "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_raises_50_million_in_financing_round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png",
-          "width": 444,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Management Review",
-        "domain": "scmr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-adventures-with-ai-heres-what-happened-when-i-ate-a-three-course-meal-designed-by-artificial-intelligence.md",
-      "title": "Adventures with AI: Here’s what happened when I ate a three course meal designed by artificial intelligence",
-      "excerpt": "Unfortunately, since the onset of the COVID-19 pandemic, I’ve been doing a lot of the latter and almost none of the former. The model’s been trained on a gobsmacking quantity of data ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-12T134101.728-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-03-12T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

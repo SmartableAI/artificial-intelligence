@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-12T12:27:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3b21b7b8c69a9f084590afe2d2e41352"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3b21b7b8c69a9f084590afe2d2e41352"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/12/facebook-details-ai-that-can-unde
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/facebook-details-ai-that-can-understand-videos/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -139,6 +139,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/1280-facebook.jpeg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Facebook will use your uploaded videos to improve its AI algorithms"
+    excerpt: "but the company did tell The Verge that it won’t seek special permission from users to use their videos as training data for AI. The company’s data policy informs users that uploaded content can be used by Facebook for research and development."
+    publishedDateTime: 2021-03-16T11:06:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/16/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/16/1079540.jpg"
+        width: 1240
+        height: 837
         isCached: true
 
 secured: "1yghsDJudGybvbzQL+3N3eKDVpfARR0kxwEbaBX76LvZj/6MltThGBiRCGZyPj22M5zKhUjQ1/k1qtUqrBywNP7gtc5ux82V+uGdbJnzQoa7dASf30XGALrS1kn0I3yByN7lvEyGOKP3QFUjPSMUJAOUtT9LcjZdq06gYCVefQHnekVIapbvmdRmrZ6l411sDCGsMdph3kyb18mbBYzkAgMa5SiEL5zogglGRv65Zo9L76Y1E35CZW9h2dbJRJkXNkQ4QN8b0xCGdEuJ+KwJnOQTGMoxn4HTXWgzJf9bcxx5qmKFj+m3H+Q/WU9cvJnHbDbMV8UClvAUjUm0vlUQWm9dDDbmMBi0hFfDyJ0w1ftUKjVPjSx/62tW4iIgRk2vVems6Qc9WnJ9VhH1Vuqg87QKZau3E3v2MgQYdGLDP2ayWp+nzvD+KzJD1/28H83jgEqdN9Gfw+sctN6OAlrtqgmNXnGaqpbxSJsY4nZSbl3ZO+U3CjDTynPk2t6ALsWtt0vxAb1w9SR1mxE1yWHjWQ==;UhtYH2otQv7JdFjbKRUMlw=="

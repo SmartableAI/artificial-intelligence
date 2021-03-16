@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Three Top AI Trends To Watch This Year"
+    excerpt: "While businesses have started to realize tangible benefits from AI, there are still a number of yet-to-be-proven AI technologies in the early stages of the Gartner Hype Cycle."
+    publishedDateTime: 2021-03-16T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f62c590ff278ef5d11de2%2F0x0.jpg"
+        width: 1200
+        height: 806
+        isCached: true
   - title: "How AI is Changing the Future of Supply Chain Costs"
     excerpt: "Artificial intelligence is one of the technologies driving business ... AI is powering the emergence of autonomous vehicles, smart and driverless freight transportation methods that can react with speed and awareness that no human could match."
     publishedDateTime: 2021-03-12T13:22:00Z

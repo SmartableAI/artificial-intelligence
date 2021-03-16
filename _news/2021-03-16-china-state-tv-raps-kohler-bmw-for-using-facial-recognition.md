@@ -1,12 +1,12 @@
 ---
 category: news
 title: "China state TV raps Kohler, BMW for using facial recognition"
-excerpt: "BEIJING (AP) — Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for using facial recognition technology on visitors to their outlets in possible violation of privacy rules that took effect this year. The accusation came in ..."
-publishedDateTime: 2021-03-16T08:25:00Z
-originalUrl: "https://www.chron.com/news/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-webUrl: "https://www.chron.com/news/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-ampWebUrl: "https://www.chron.com/news/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+excerpt: "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for the use of facial recognition technology on visitors to their outlets in possible violation of privacy rules that took effect this year."
+publishedDateTime: 2021-03-16T11:21:00Z
+originalUrl: "https://www.chron.com/living/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+webUrl: "https://www.chron.com/living/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+ampWebUrl: "https://www.chron.com/living/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/living/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
 type: article
 quality: 59
 heat: -1
@@ -58,22 +58,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/1-copy-24-796x417.jpg"
         width: 796
         height: 417
-        isCached: true
-  - title: "Redstone Arsenal testing facial recognition system at gates"
-    excerpt: "Workers entering Redstone Arsenal will have a new option for gaining access to the installation as of Monday: Facial recognition."
-    publishedDateTime: 2021-03-11T18:34:00Z
-    webUrl: "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/"
-    ampWebUrl: "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/amp/"
-    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/amp/"
-    type: article
-    provider:
-      name: WHNT
-      domain: whnt.com
-    quality: 59
-    images:
-      - url: "https://whnt.com/wp-content/uploads/sites/20/2021/03/Redstone-facial-sensor.png?w=1280"
-        width: 1280
-        height: 824
         isCached: true
   - title: "Facial recognition coming to Redstone next week"
     excerpt: "(WAFF) - Flashing your CAC card to enter Redstone Arsenal may be a thing of the past. On Monday, Redstone will launch a facial recognition pilot program at Gate 9 and Gate 1. The DoD pilot program will provide employees a new, quicker method for getting ..."
@@ -127,6 +111,6 @@ related:
       domain: whnt.com
     quality: 19
 
-secured: "YR5en9R545RfdSSqJUoa2YdH7ErLmAsADp53YxZQjfnh3j4jcDiJhMD3kY5UIqqGTALlhXr/G0EeZQgxhuCOqfnFw7OjFH7OjbrcubCED7g8bbpOoDSKz0BH84dNr6Wxr/S0jkAn9U/JoeA1aQ6Ol3RiORKHnpLLqE2lpaEW89Tj5wk8AedWhq1NDLYmlBDuexUfFMRuyyPWTjvQl5gC9Ev65wgSdxRyIDGqzm0eJLUDl3wk9V9xnhK97E0+k3cO7HS9qOnXEFBy0ot+36PcHonGa65gIfOc3pYcnejpmADCAmSIgzC0/J7l1VQRoeRNErPHkG8WabpnoAA8ctPBkDuCWBZmROrkY/cQBDj4ExU=;JjS677Z33oJ7PUMg7Un5Bw=="
+secured: "FB5Apw1zTTEd1W0N9JbmgbmVwr/ExdXEBeueNriaVaV+AT+0+Ro/H7SENPPIVO9EcjaXfqlqs7b057gJbM4mcOG2FVcA+EDazraO37VwGOmQdHDMmPVjDX7qElBpGMr76mr2yszJ2BfqkX+EXX8GkBoERvegr3SkzjWypXgXhv56eFlHeXh1rinfU7EvXQSzfghfmRV6KD0/De0F+2l+hQbf4QVRnbGm92m88QRavMB3+Pil6bUBpSGxo3a9lwNhEfTcaWNgcq9AsINJkHKZm4p7VQmWByflrjV+SyLxMP5nETEcb9F/420jN9Xt/3qkDwiIk5xif4k3RUaMI90EcRsaFU5SjVUUoBLMx63yjFU=;UL+G4NkENjOj0+2WRZ97dQ=="
 ---
 

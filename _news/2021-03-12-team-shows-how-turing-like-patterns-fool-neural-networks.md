@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-team-turing-like-patterns-neural
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-team-turing-like-patterns-neural-networks.amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1920
     height: 1280
     isCached: true
-
-related:
-  - title: "Skoltech team shows how Turing-like patterns fool neural networks"
-    excerpt: "Skoltech researchers were able to show that patterns that can cause neural networks to make mistakes in recognizing images are, in effect, akin to Turing patterns found all over the natural world. This work makes a step towards explaining the fascinating properties of perturbations by Turing patterns,"
-    publishedDateTime: 2021-03-11T19:21:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/sios-sts031121.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "pn7JK7o2XkrlV3pbheUNjylf6hLCnLem7pbtuC8rFc5zidXAzYQXmiA3YZNqsGY+YVUi8wypVlmCJccyC5wYSAQE2zLEP4itSnFZzYmBAEHCfFsZe/rAiOCeH4pXMY0qBoO7RrE4xyjLRc5Hf+B/ZSNCvT20hQ3IWJdf8d9wsDqAlXRSQY6GR4fnBEPg0S1bJ1vhqxmw0Xrd+CwMHiaAT4oYrYi5KzMBJGDvYhV8mnWm+nCJLi75cmXatPSiZN9bz4InR8Snwy+CTtsW8c3d892TiPYiixC3VQX1WRCaPHtT888FBTiSPFHKeZzw0ji1yLukd1QGLxoBStRO+vIU9SCjslnt82tkrvJ6mYm/Q+E=;n9U/oaeNArhv5d3gZCPQIA=="
 ---

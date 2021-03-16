@@ -139,6 +139,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facebook will use your uploaded videos to improve its AI algorithms"
+    excerpt: "but the company did tell The Verge that it won’t seek special permission from users to use their videos as training data for AI. The company’s data policy informs users that uploaded content can be used by Facebook for research and development."
+    publishedDateTime: 2021-03-16T11:06:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/16/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/16/1079540.jpg"
+        width: 1240
+        height: 837
+        isCached: true
 
 secured: "rkKzN/2rDVU1em+TY5mZRmCZzfsNPUEqVWR0/0Mp1Mwf78+vlPkryiB1Ev6I8ekjtkKG62hbCK8U9RWXDqTmHdQPAZXUebLvVSjNskzGm6JGJUof3qlmarSHO9+HRlDFwMY5gnpqpweXuLABpm2AKFVI5ntZih/6JnjfhMs4ofuMBC7YxTY/E2Jv1wazV5tS3V+2Ufj6UhQyMnB2CPP7hLSY92O+kHYAzYW+e7OIxC7kA/jaoKw2b0rIAZHmD0q/i7RSb6bkQmaAZMUKX7RK/A+Fx3uDy3aUlIl7PLFYAm1fvP2wHYq4jjX547HLz8dSkHCwr2LVZ2N7uinTAH42wgJBI81Mq+SpFt7gMXUFuaVjncelSbCV1Jd09GUFOGlRk9zjb+Sfo5r/YCGQDKEk3Nm7aAFST3musDWV6aQ+EGijJzkW8/fRryJ7liN1g/iulIqFICu0v9RcRh0YLTH8XfjEdnB+4JReYIhYsQW3hCuncKvQEd8diU2YJJojbuyHHWZOGHwC78gtlzu7Mutk9Q==;7gghrDr08G/R5LimakfUaw=="
 ---

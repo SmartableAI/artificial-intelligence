@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
-excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
-publishedDateTime: 2021-03-15T17:42:00Z
-originalUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
-webUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
+title: "Researchers Enhance Alzheimer’s Disease Classification through Artificial Intelligence"
+excerpt: "Kolachalama, PhD, assistant professor of medicine at Boston University School of Medicine (BUSM). Using an advanced AI (artificial intelligence) framework based on game theory (known as generative adversarial network or GAN), Kolachalama and his team ..."
+publishedDateTime: 2021-03-15T20:22:00Z
+originalUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
+webUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Boston University
+  domain: bu.edu
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://www.bu.edu/hic/files/2021/03/vbk_latest-636x565.jpg"
+    width: 636
+    height: 565
+    isCached: true
 
 related:
   - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
@@ -50,6 +54,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "eiOqFWavH+QEDwzZsuZlysF2mwnH0vyjOL3THkzMOjruS/R5Gp3GxTHBkqs0j7LwXeJmj5gRexdmEvLc/HkC+5WkWbmZdX2viTgpQ++q9rUiHzAX/CRjZsfreXDhsXhpw7xH+1XpmXReeNxkSSJPNPd5sP/tmWlFbS3mEXfae3hj6sX66l3o0SBMqCV70PKihsjbTPMNdQs7TqTM2Bufrn7DkcbUN3ooTivdTTYhc8fEVi4g/oKL2SWGQZinM2lwOzMpcfJhaL6HHzYDG1qzWJj9Hyxp2jJwPFphJPvXUajvYQCZMFhovptDIYaEcg+4fBqzzjUE27J8zvCr7r4QuGN8jlWJxFrTb7bG98kMJIc=;MqsYDYjWATlFGWZufBQhVg=="
+secured: "H7RQKpoy3QiC1Md5sVUFeOIO8PEYZCCeacdszkqVGP9jJak3ix3qmhPPoa6WqsV9f/Pu1byRiOlBlfSB6ZpC8ALeuZJiQWOtTICewQD25Dpyd8bwLOomtMcrIxdepzvFQtNEGOUNxicSXegfpNF5OliJfzVzZp2tXYhsi0uJ5OQl7smTMCr/8i1pptSOQQDCx8529H7w82MwXrj3kvr5MnRW+BgYaHhXZplh1r9jMujAtI1iz7tI6eNlGo2ge+hhf74sh2nsxEITswyvD/ieHkkG3kt1VhJGWf0tOEt/l8dw7fmRoo81Dw+B5quoURrDvr0snIVovB4HDUdzyexYA0FLqEhhSdwNU/ItE9kQBKE=;cSH+Su2R7QpjO2Zo245rtQ=="
 ---
 

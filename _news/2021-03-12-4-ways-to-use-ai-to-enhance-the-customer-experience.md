@@ -33,7 +33,7 @@ related:
   - title: "ByteDance team to develop AI chips as China aims for self-reliance"
     excerpt: "BEIJING (Reuters) - Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company’s job postings and a source familiar with the situation. The plan is still at an early stage and the company’s focus is on Arm-based ..."
     publishedDateTime: 2021-03-16T06:13:00Z
-    webUrl: "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7"
+    webUrl: "https://www.reuters.com/article/businessNews/idUSKBN2B80P7"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B80P7"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B80P7"
     type: article

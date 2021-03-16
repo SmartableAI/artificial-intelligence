@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Three Top AI Trends To Watch This Year"
+    excerpt: "While businesses have started to realize tangible benefits from AI, there are still a number of yet-to-be-proven AI technologies in the early stages of the Gartner Hype Cycle."
+    publishedDateTime: 2021-03-16T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f62c590ff278ef5d11de2%2F0x0.jpg"
+        width: 1200
+        height: 806
+        isCached: true
   - title: "Three Steps For Rethinking How To Operationalize AI In 2021"
     excerpt: "Operationalizing AI is all about how to take the small AI projects you've been experimenting with and applying them to real business problems by replicating them at speed and scale."
     publishedDateTime: 2021-03-15T12:20:00Z

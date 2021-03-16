@@ -2,6 +2,221 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-03-02-azure-percept-edge-intelligence-from-silicon-to-service.md",
+      "title": "Azure Percept: Edge intelligence from silicon to service",
+      "excerpt": "In today’s fast-paced world, there is often a need for instantaneous, real-time responses. Companies are finding the computing needed to support this 24/7 mentality generates staggering amounts of data, often from devices out in the physical world.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/azure-percept-edge-intelligence-from-silicon-to-service/",
+      "originalUrl": "https://azure.microsoft.com/blog/azure-percept-edge-intelligence-from-silicon-to-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9f819b8f-c09d-4144-a93d-ba0fe7a45d83.png",
+          "width": 1024,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T22:00:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-microsofts-10-biggest-azure-announcements-at-ignite-2021.md",
+      "title": "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021",
+      "excerpt": "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg",
+          "width": 501,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-fuji-and-motus-ventures-collaborating-on-robotics-and-ai.md",
+      "title": "FUJI and Motus Ventures Collaborating on Robotics and AI",
+      "excerpt": "Motus Ventures, an early stage venture capital firm and business accelerator investing in deep technology businesses, announced today that FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-amazon-has-become-a-prime-revolving-door-destination-in-washington.md",
+      "title": "Amazon Has Become a Prime Revolving-Door Destination in Washington",
+      "excerpt": "Everything about Amazon is big. It’s the second-biggest retailer in the world. Its founder, Jeff Bezos, possesses the biggest fortune in the world. And the company has developed a big revolving door in Washington through which government officials and employees whisk and land in well-paying jobs at Amazon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.motherjones.com/politics/2021/03/amazon-has-become-a-prime-revolving-door-destination-in-washington/",
+      "originalUrl": "https://www.motherjones.com/politics/2021/03/amazon-has-become-a-prime-revolving-door-destination-in-washington/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T21:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mother Jones",
+        "domain": "motherjones.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-aws-launches-second-region-in-japan.md",
+      "title": "AWS Launches Second Region in Japan",
+      "excerpt": "(AWS), an Amazon.com company (NASDAQ:AMZN), today announced the launch of a second full region in Japan, the AWS Asia Pacific (Osaka) Region. The region is an expansion of the existing AWS Osaka Local Region,",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/aws-launches-second-region-in-japan/article_ec4969af-0c68-5430-8a82-20770229a5a5.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/aws-launches-second-region-in-japan/article_ec4969af-0c68-5430-8a82-20770229a5a5.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg",
+          "width": 640,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T19:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-us-dominance.md",
       "title": "National Security Commission on Artificial Intelligence issues report on how to maintain U.S. dominance",
       "excerpt": "The National Security Commission on AI report makes recommendations ranging from 5G and China to immigration policy and civil rights.",
@@ -958,258 +1173,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge.md",
-      "title": "IBM Cloud Satellite Enables Clients to Deliver Cloud Securely in Any Environment Including at the Edge",
-      "excerpt": "Lumen Technologies is a key edge compute partner to integrate IBM Cloud Satellite for 180,000 enterprise locationsMore than 65 ecosystem",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030136646",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030136646",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-documents-show-agreements-between-cbp-and-jetblue-for-facial-recognition-boarding.md",
-      "title": "Documents Show Agreements Between CBP and JetBlue for Facial Recognition Boarding",
-      "excerpt": "The documents provide more insight into the dynamics between DHS and airlines, which are increasingly deploying biometric boarding at their gates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
-      "originalUrl": "https://www.vice.com/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/603d1b6f47fbc10094d95023/lede/1614617981504-jetblue.jpeg?crop=1xw:0.8257xh;0xw,0xh",
-          "width": 1500,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
-      "publishedDateTime": "2021-03-01T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-how-to-drive-brand-awareness-and-marketing-with-natural-language-processing.md",
-      "title": "How to drive brand awareness and marketing with natural language processing",
-      "excerpt": "To grow brand awareness, a successful marketing campaign must be data-driven, using market research into customer sentiment, the buyer’s journey, social segments, social prospecting, competitive analysis and content strategy. For sophisticated results, this research needs to dig into unstructured data",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/brand-awareness-natural-language-processing/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/brand-awareness-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/2020_10_16blog_imagery_NLP_1980x996_v3-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T09:00:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Natural Language Processing",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising.md",
-      "title": "How Online Privacy Issues Will Shape Future Use Of Artificial Intelligence In Advertising",
-      "excerpt": "The article discusses the use of artificial intellignece in advertising as a response to stricter privacy regulations in order to effectively target consumers while protecting sensitive information. Sheri Bachstein of IBM Watson is interviewed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/",
-      "originalUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603d16a47be12e5f55c56714%2F0x0.jpg",
-          "width": 828,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/amp/",
-      "publishedDateTime": "2021-03-01T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course.md",
-      "title": "Codeacademy partners with Black and Brilliant for 10-week AI course",
-      "excerpt": "The two organizations are hoping to increase diversity within the artificial intelligence field and prevent AI bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "originalUrl": "https://www.techrepublic.com/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/09/18/aa3cd281-ebbc-40b1-bce2-302abb8f1a1d/resize/1200x/bd38c37fbdae4a13baac8d1b612198fb/istock-1090216744.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "publishedDateTime": "2021-03-01T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

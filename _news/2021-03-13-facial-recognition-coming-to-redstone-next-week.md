@@ -57,28 +57,12 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Redstone Arsenal testing facial recognition system at gates"
-    excerpt: "Workers entering Redstone Arsenal will have a new option for gaining access to the installation as of Monday: Facial recognition."
-    publishedDateTime: 2021-03-11T18:34:00Z
-    webUrl: "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/"
-    ampWebUrl: "https://whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/amp/"
-    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/news/redstone-arsenal/redstone-arsenal-testing-facial-recognition-system-at-gates/amp/"
-    type: article
-    provider:
-      name: WHNT
-      domain: whnt.com
-    quality: 59
-    images:
-      - url: "https://whnt.com/wp-content/uploads/sites/20/2021/03/Redstone-facial-sensor.png?w=1280"
-        width: 1280
-        height: 824
-        isCached: true
   - title: "China state TV raps Kohler, BMW for using facial recognition"
-    excerpt: "BEIJING (AP) — Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for using facial recognition technology on visitors to their outlets in possible violation of privacy rules that took effect this year. The accusation came in ..."
-    publishedDateTime: 2021-03-16T08:25:00Z
-    webUrl: "https://www.chron.com/news/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-    ampWebUrl: "https://www.chron.com/news/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+    excerpt: "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for the use of facial recognition technology on visitors to their outlets in possible violation of privacy rules that took effect this year."
+    publishedDateTime: 2021-03-16T11:21:00Z
+    webUrl: "https://www.chron.com/living/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+    ampWebUrl: "https://www.chron.com/living/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/living/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
     type: article
     provider:
       name: Houston Chronicle

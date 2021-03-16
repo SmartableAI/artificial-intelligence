@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Three Top AI Trends To Watch This Year"
+    excerpt: "While businesses have started to realize tangible benefits from AI, there are still a number of yet-to-be-proven AI technologies in the early stages of the Gartner Hype Cycle."
+    publishedDateTime: 2021-03-16T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f62c590ff278ef5d11de2%2F0x0.jpg"
+        width: 1200
+        height: 806
+        isCached: true
   - title: "Three Steps For Rethinking How To Operationalize AI In 2021"
     excerpt: "Operationalizing AI is all about how to take the small AI projects you've been experimenting with and applying them to real business problems by replicating them at speed and scale."
     publishedDateTime: 2021-03-15T12:20:00Z
@@ -85,6 +101,6 @@ related:
         height: 583
         isCached: true
 
-secured: "pbCC2q31CcP7r79k+Z7WfBqLVnFIMQ94dIDgYDzGuWAsgFSB3YL0vZeUlK/EmcSPVYkv4id25HtMwE0iT+i6VupKPGTXOPGTKPehpK6wx7iaq2+yioDS5M3TKCICD4G0NiuvE1a2rnwGkqMAhsCw5WxUuGQ+efXuxvj8I3asDdnWJRBbc7V5Ncl9qkeYq/8LYFu1Oudrr/jVABYAg0mFpGdltW3ebcjvtFUTP8nv1u1EPxvVm+NJFR0ywbSbMr2oZQKknEqw6Q9c+hSiOmQq2jiUIrs2oox9qX1kFr7uP3b0IBAVr0i37nOaZvieFzGbeaJX2Kn2H1m5AD3m1ACx37lvIboiWJxKvf5btuCXZD4=;7r4aaPlAHuNu9zwo3S3d6g=="
+secured: "PiGmkuc8VD0fI/Wqbz6KTnlX7DanJZx2uXN6uvnEhhsBBuktFnIzqNJ0GaehnuIqtOPprBr+I+2eCtZrvnB/0Rfr1Wmw5uH/tyyOrHaLkj0TcxFLiOzIdgYvRKn7VM9+4VXS5t/mLibvt+hNXDnmyiFeNNsTonjuiaNMstCDVb6vJYyJhrsh6y7FgKYS1qd2JpgVMLxGnu7efLQ9MuASGwvGnNDQeI3AycvvES6Eq1rgCbAOn3PzNbvt4nunQNzHJ9l/PxPyE1wr0sOYJh/gFnUtH89E7Rw3Otv61lK7dnKUk60y4x/dUnbs0BS6Y5Tj9BKh0Ce+nuy1khVF9dVAQgcuHFlJAKMilM7hqGB2IDlTI8BuGhG925B8D+eLUWV4G8QYKTDHVCFmy5UlSaB+hPyDTHaE8yfM2sBT//EChgY6ngoGCZg0YyWX9I5y2pGBpJo4MxFpuMSBmZ/Hq4L8BzvdP3DQ4hgB9Q+UogqZajv9SeJBbWhml7RhAwy/WF/gBbU2XDkYNm/t/mNJ+XZpeA==;WnIq5nssQpHgTQjW4RwMhw=="
 ---
 

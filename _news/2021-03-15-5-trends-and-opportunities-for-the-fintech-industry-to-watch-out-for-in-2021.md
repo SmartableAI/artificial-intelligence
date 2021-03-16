@@ -116,20 +116,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Compliance Fintech Smarsh Adds To Execs To Support Growth"
-    excerpt: "Portland, Ore.-based compliance fintech Smarsh has announced the addition of two new executives to support its accelerating growth. Goutam Nadella has been named chief product officer, according to a company announcement."
-    publishedDateTime: 2021-03-11T18:13:00Z
-    webUrl: "https://www.fa-mag.com/news/compliance-fintech-smarsh-adds-to-execs-to-support-growth-60843.html"
-    type: article
-    provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 24
-    images:
-      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "FinTech Buddy Loan offers 2x higher disbursal rate on personal loan app"
     excerpt: "Bangalore-based FinTech start-up, Buddy Loan, a personal loan aggregator cofounded by entrepreneur duo Srikanth Bureddy and Satish Saraf, offers 2x higher disbursal rate than the industry standards through an Artificial Intelligence (AI) powered platform."
     publishedDateTime: 2021-03-12T07:54:00Z
@@ -157,6 +143,20 @@ related:
       - url: "https://images.assettype.com/fortuneindia/2021-03/0a22954c-337a-4d67-b706-37f3bf49ba15/RH4XRB.jpg?w=700"
         width: 700
         height: 467
+        isCached: true
+  - title: "Cy Wins 2021 Best Robo Advisory Platform FinTech Breakthrough Award"
+    excerpt: "The FinTech Breakthrough Awards is the premier awards program founded ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim, Managing Director at JE.. Formula E Korea E-Prix 2020 Press Conference Rolls ..."
+    publishedDateTime: 2021-03-16T11:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=437708"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Opera hires PayPal and WeChat Pay veteran Allen Hu as new EVP of its fintech arm, Dify"
     excerpt: "Opera Limited (NASDAQ: OPRA), one of the world's major browser providers with 380 million monthly active users globally, today announced it"

@@ -2,6 +2,201 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-16-how-can-you-go-global-as-a-startup.md",
+      "title": "How Can You Go Global As A Startup?",
+      "excerpt": "At an early stage of this business back in 2009, in the peak of the recession, I had the urge to go global and diversify, making my business less dependent on the U.S. economy. I did some research and learned that Mexico was investing heavily in tourism and bringing many international conferences to the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4928b88cc08f55ea58e438%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/amp/",
+      "publishedDateTime": "2021-03-16T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines.md",
+      "title": "Applied Materials brings AI and big data into semiconductor inspection machines",
+      "excerpt": "Applied Materials has launched a new generation of optical semiconductor wafer inspection machines that incorporate AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/",
+      "originalUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/amat-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/",
+      "publishedDateTime": "2021-03-16T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-a-top-computer-science-professors-insights-and-predictions-for-conversational-ai.md",
+      "title": "A Top Computer Science Professor’s Insights And Predictions For Conversational AI",
+      "excerpt": "NEW YORK (March 16, 2021) — Breaking Bots: Inventing a New Voice in the AI Revolution by Clinc’s Founder CEO Dr. Jason Mars is available now. The book is published with ForbesBooks, the exclusive business book publishing imprint of Forbes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/amp/",
+      "publishedDateTime": "2021-03-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-bmw-wants-to-make-you-feel-things-with-its-new-ai-assistant.md",
+      "title": "BMW wants to make you FEEL THINGS with its new AI assistant",
+      "excerpt": "BMW's new iDrive 8 system uses natural language processing, gesture control, and machine learning to connect the vehicle and driver in emotional ways.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2021/03/16/bmw-idrive-emotional-infotainment-future/",
+      "originalUrl": "https://thenextweb.com/shift/2021/03/16/bmw-idrive-emotional-infotainment-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/bmw-idrive-8-future-electric-infotainment-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2021/03/16/bmw-idrive-emotional-infotainment-future/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/03/16/bmw-idrive-emotional-infotainment-future/amp/",
+      "publishedDateTime": "2021-03-16T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
       "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
       "excerpt": "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021.",
@@ -103,8 +298,8 @@
       "title": "ByteDance team to develop AI chips as China aims for self-reliance",
       "excerpt": "BEIJING (Reuters) - Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company’s job postings and a source familiar with the situation. The plan is still at an early stage and the company’s focus is on Arm-based ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7",
-      "originalUrl": "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7",
+      "webUrl": "https://www.reuters.com/article/businessNews/idUSKBN2B80P7",
+      "originalUrl": "https://www.reuters.com/article/businessNews/idUSKBN2B80P7",
       "featuredContent": null,
       "highlight": null,
       "heat": 114,
@@ -1046,197 +1241,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation.md",
-      "title": "NVIDIA (NVDA) Rides on Strong Chip Demand, AI Proliferation",
-      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
-      "publishedDateTime": "2021-03-15T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-andrea-bonaceto-collaborates-with-robot-on-first-digital-ai-piece-being-sold-as-an-nft.md",
-      "title": "Andrea Bonaceto Collaborates With Robot on First Digital AI Piece Being Sold as an NFT",
-      "excerpt": "NFTs, digital images each of which come with its own unique code to prove who owns it, have been shown to be a powerful new force in the art world. The collaboration between Sophia the Robot and Andrea Bonaceto will be available on Nifty Gateway on March 23.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787",
-      "originalUrl": "https://www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1754630/sophia-robot-david-hanson.jpg",
-          "width": 2500,
-          "height": 1710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787?amp=1",
-      "publishedDateTime": "2021-03-15T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-using-artificial-intelligence-to-improve-healthcare-for-all.md",
-      "title": "Using Artificial Intelligence to Improve Healthcare for All",
-      "excerpt": "He is also a pioneering figure in artificial intelligence (AI) research. Sapiro wields his expertise in AI to solve societal problems, particularly those related to health and health care. In the Parkinson’s project, Sapiro uses a technique called ...",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
-      "originalUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/scienceblog.com/wp-content/uploads/2021/03/DST_Computing_AIHealth_Electrodes.png?fit=270%2C293&#038;ssl=1",
-          "width": 270,
-          "height": 293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/",
-      "publishedDateTime": "2021-03-15T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward.md",
-      "title": "Preventing bias in AI is hard. Bug bounties could point the way forward",
-      "excerpt": "Deborah Raji is researching ways to apply the models that underpin bug bounty programs to algorithmic harm detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
-      "originalUrl": "https://www.zdnet.com/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2020/03/30/0f9fa083-fed0-409b-bc9b-1d357605b1ae/facerecognitionistock-1180902227.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
-      "publishedDateTime": "2021-03-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -47,22 +47,6 @@ related:
         width: 704
         height: 330
         isCached: true
-  - title: "Apple plans to build its own self-driving car"
-    excerpt: "Apple’s talks with car manufacturers have fizzled out, reportedly leaving the company to take on the task of building its planned self-driving car itself ... Chinese technology giant Baidu is planning to hold a secondary listing in Hong Kong later ..."
-    publishedDateTime: 2021-03-11T18:19:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2021/03/11/apple-blocks-parler-returning-app-store-live-updates/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 44
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2016/03/02/80668936_File_phot_3491313b_trans_NvBQzQNjv4BqpJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg"
-        width: 619
-        height: 387
-        isCached: true
 
 secured: "GB1ynxYYsnypDMm4G/QIMkS2Y6DYePQPxF4IOWKTA7J2nTam+iSa3yHK5aV8BxpnbgyoOTe26tho2KrpHKnUluoixnllWl/hfDhKJqnVTiXVjRBbAHdx6+aU+KiYSrcJ0lcLM3QhR46YHgeo634BpIEumzGWzRWobZgOKWwypjBlNpjpNc63S3grbfuyqTLfd8vKqPTupDTIkIyjarOxS5qA6tkVLXPT0wW4Ovo5R0aMatRKU160gcCCAi3b0qrLbOmKyOvXW2JIID5IR6rYPGm1qqLZVdxRx1HnrfdgFXIgrdRohioazaq2twmrQCmnLdFCJuQGvTxpHpq14WZSpbS+5GxckcvlSeKrs2WOPISjhBzEfBGLuaSJcdmLaQxKK3pOOjzh/9KQVeiwAHnB5+pZvnqbM8lwAjzUwgiD+vIQrys3V4/jWrG+N6Wz362KG6h9l70ZkYAd/yJu+s8GEKIjvVBCLKU031Ue9M+QNMcgD/grTgn+iolkHkZPWJrABv3unmdql3FIoFY5IpJc7w==;6D5ed38Q6kHcHBGi+TRQWQ=="
 ---

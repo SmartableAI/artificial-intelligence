@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Visual Studio 2019 adds AI-powered Visual Studio Search service"
-    excerpt: "Microsoft adds AI/ML powered search service to Visual Studio 2019 version 16.9, which was released during Ignite conference in March 2021."
-    publishedDateTime: 2021-03-15T12:00:00Z
-    webUrl: "https://www.kunal-chowdhury.com/2021/03/visual-studio-2019-ai-powered-search-service.html"
+  - title: "A Top Computer Science Professor’s Insights And Predictions For Conversational AI"
+    excerpt: "NEW YORK (March 16, 2021) — Breaking Bots: Inventing a New Voice in the AI Revolution by Clinc’s Founder CEO Dr. Jason Mars is available now. The book is published with ForbesBooks, the exclusive business book publishing imprint of Forbes."
+    publishedDateTime: 2021-03-16T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/amp/"
     type: article
     provider:
-      name: kunal-chowdhury.com
-      domain: kunal-chowdhury.com
-    quality: 39
-    images:
-      - url: "https://3.bp.blogspot.com/-1AlhlLSJqqo/YEzRf2SFUuI/AAAAAAAAci8/iNaTPC3dQxUzxcmCe2xAn0FMl3zjKn68ACLcBGAsYHQ/s0/visual-studio-2019-advanced-ai-search-service-min.jpg"
-        width: 800
-        height: 450
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 62
 
 secured: "9sGHB7M5rmb8ZOa6vSLuuG2+Ab+mTzwSTeatin8nN0OxgiZP2n4WR1cL/xAKDR9Hc8NieUf+zd9ZL7Mdvwp9q/CdBtuLYI5s5QqTLV0z+8PVVKxtXLU/OaeQwPech/UTCT59n1wfyyvE2aeHOzbGCvhtB9hUJXxE4cyPIagDPprvvagLMEzWLgoz/PP0kaTnn9n96ZdYK274zKmmY36gPA3qp8z5mNJ/hlgKRpqrpvct1kqVdfu50NjqlJXI++RDAKalb9IFP+5RQrhePlOn7fM55NMLrF/UeC0PKuGfIO8iPRnCgZ1epOiFEZN+Bja7FO9BYFxrd2ZdD4OOg9v9TohzqxoUMOez8pgmFhwvQPA=;TxWmXta4DClRfllPghM1jw=="
 ---

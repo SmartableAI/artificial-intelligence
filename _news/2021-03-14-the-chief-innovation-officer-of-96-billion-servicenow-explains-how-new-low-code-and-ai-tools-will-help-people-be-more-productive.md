@@ -44,15 +44,6 @@ related:
         width: 640
         height: 478
         isCached: true
-  - title: "ServiceNow debuts new low-code app studio and AI features"
-    excerpt: "Both are based on technologies that the company obtained through startup acquisitions. The first new feature is an AI-powered search engine that allows ServiceNow users to look for information ..."
-    publishedDateTime: 2021-03-11T20:00:00Z
-    webUrl: "https://siliconangle.com/2021/03/11/servicenow-debuts-new-low-code-app-studio-ai-features/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 17
 
 secured: "64FwsFuVYE66BAU4KRDFvG/27sm9dUCJcffbPfO33oqoAptX28crrslircF9YrRHTS/lYAb3SPeACNvPnzPel1Pzue4gyz5aF+8kYehto4/hCZTLp1NjqEzXOlPzogkOxr/hbE6JPa//w0R+9GyzEouNumYyU3z/qYYTDdkbzxwazyKUWBI/py+808KGaTSzEdH1/P+SXO+hYQUu3X4TDWFrqqxtT1x3KOLKgi5G7wfEHdfvOsaqJ8Z8kYFf/9BMVocHr30gFJ2zjzcxgsP38WiFqp7rTPnCIiQmJ4/6Y7dOwVk2nyuw56XoqmaH51R8/AQ4Ofg9aenM9Woz6FBEi59VTfU0/EFjZzenqDETwLA=;CidGolnR36hoE+oIzuDfLw=="
 ---
