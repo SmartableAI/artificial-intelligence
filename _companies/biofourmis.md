@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "biofourmis"
   url: "https://twitter.com/biofourmis"
-  followers: 613
+  followers: 612
 
 size: 51-200 employees
 yearFounded: 2015
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "lCWf90ACSztLceW4sTSvS4liZNL4pRcNPmjXLCq4KyfeJPGg9X2pUEfF7O8m2JxvdWAWr8wWa1jmnQIGI66H5F7eq6kFcUxyEN58lcmFGmMVdmYEwbndobzfH2HNTsFUjGEfsflc+r/P0gMxaL4J1aooNT4hSw378mYyXkdLunkcGLMxcV9pYsJVhHsd92zYpSE+dhjWq4Z87EYXpp1NelAvh4Nv7MTmW+FtnXxfBRfU9UXAcXGyEMlQK3ql+DkNysuvelCDMG5uBjWwyqfQXkJg6D8EYWf1ANLLWjfXxg/SD/EdI14I3Wuci4Zivt5NtD/t/xlJ7G7iTUDowoTRYMpk2XUUbLpqwhyD2gT4eVeIyVq7UwjrwJiY4TWU5s94Z2mRK+POGs+Su0qI8E2H2w==;yyL8PrkTyMhjdktjbx99zQ=="
+secured: "7OniZhp6LF1x/93EELd8N+P4QCK+ojkG1MUGQ0/vNy66F4z/JdFB0uy5vDQDLytSc0ArLYXnEVF08LP1UpicVGjnLTA1N0khcKI9B0HMly2at1ZBo7zTI1vTxIEG4qJMioUBT2btsy0CHt6r1MR+pSn+5rQ4Og/THZKyKk70f6vBUsTiF1HYO7ah5vfbvFJyW30hTorJinIy04G1cWo3b6g6pht00A89yWUTo+KxWTTiVQ6qhGxrUm1ijkJ7MjOQ3p70NqdC1inOgC3yr2grl2SNnI451/Afw/sesedCqcYIRSaWRQZmNw71tWsP2nUIIpbpIl6X5vRElfa7ddsTnYYvzs3W/HrXUw5p02PP4xhI7gTlJZpWkP7szVeIXS1G2n6vjJwoLzb66XqctF7Rrw==;Ec2pAoLliygG48KhUYMOrg=="
 ---
 
