@@ -1,20 +1,24 @@
 ---
 category: news
 title: "NVIDIA (NVDA) Rides on Strong Chip Demand, AI Proliferation"
-excerpt: "NVIDIA is benefiting from the coronavirus-induced work-from-home and learn-at-home wave. Strong growth in GeForce desktop and notebook GPUs is boosting its gaming revenues. Moreover, a surge in the Hyperscale demand remains a tailwind for the company’s Data Center business."
+excerpt: "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this"
 publishedDateTime: 2021-03-15T14:08:00Z
-originalUrl: "https://www.nasdaq.com/articles/nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation-2021-03-15"
-webUrl: "https://www.nasdaq.com/articles/nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation-2021-03-15"
-ampWebUrl: "https://www.nasdaq.com/articles/nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation-2021-03-15?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation-2021-03-15?amp"
+originalUrl: "https://markets.businessinsider.com/news/stocks/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109"
+webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109"
 type: article
 quality: 84
 heat: 94
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -38,6 +42,6 @@ related:
         height: 877
         isCached: true
 
-secured: "OTtQoH7cauMJ8N/idWGkLFIrCdglsQnSx1CY+uM1AzOYOdGBhe3jOSz1ZmrmAF700cr6W0gkiRdUMdK7SX0YK62nzWG/vB8YojYDJR0Kz8dsAPcCJvceyMsr8HYpL3cgkVKFiz+8FVED1c+bVEg9zaMzJT0/RIUUryyM1yIl/Q6B8DqrDmDkRH6jZ36zzmfn/EZaH0HdTTCnD4vyZgbtOzQjn6YfUaQTbYgCL9FrueQhCdi+A6AVqzCke/IICQVfBBwN0YsWq6wJ23HjpuibUbe6SGhRFM2bpG6WtgKJwhaMMj7S+b9TjW0J1VcrYFEBo5IQ4N+mR9vrD4njpT8b7XtJKfbTnnpLJuLi0o6JoZY=;KDigytBh/1Qu6bTaL0sJzw=="
+secured: "PChIrT8oACtotntWOYkEa1WhA+6DreiFCODpm0zpe+7tEaXEdRZOjSC+1ggQQYk+pHD/su/GXr29oFRgV+MICHFQ0yeTZUhCw/zL9/uD3081C1qm1EQmpwUxwkEwRBU+gWvnSW2E4F1KP5luNh5N6Zj8kQyz1LKcMSYtuebS8jDhLQjYmrLqtqp8+tpQCA+1Agci1ipEzdvSgVi3x7NTi7pUdWwZIzFeeupxY35bu+O+OPLbkPrEDD+ik1BbvVko8lzRl2JaLLr4EKjdeXeDom1fL+jOYpSVIFy8/y2BBU5lHcgDNn1Q97medNrazzYv89Gmrzadoi6FdT5Blrm7exjaMbJBQYxyZS0c7lw2i9w=;cAoCWuJiawtljxkVawDeTg=="
 ---
 

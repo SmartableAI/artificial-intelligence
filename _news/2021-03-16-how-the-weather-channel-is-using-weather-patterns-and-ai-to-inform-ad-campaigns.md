@@ -8,7 +8,7 @@ webUrl: "https://digiday.com/media/how-the-weather-channel-is-using-weather-patt
 ampWebUrl: "https://digiday.com/media/how-the-weather-channel-is-using-weather-patterns-and-ai-to-inform-ad-campaigns/amp/"
 cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/media/how-the-weather-channel-is-using-weather-patterns-and-ai-to-inform-ad-campaigns/amp/"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2021/03/Sheri-Bachstein_1030x600-tipser.jpg?fit=682%2C397&zoom=2&quality=100&strip=all&ssl=1"

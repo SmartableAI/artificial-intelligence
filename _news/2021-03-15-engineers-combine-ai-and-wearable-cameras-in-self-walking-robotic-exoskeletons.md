@@ -48,7 +48,7 @@ related:
     provider:
       name: Digiday
       domain: digiday.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2021/03/Sheri-Bachstein_1030x600-tipser.jpg?fit=682%2C397&zoom=2&quality=100&strip=all&ssl=1"
         width: 1021

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/cowbell-cyber-raises-20-mil
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 88
+published: true
 
 provider:
   name: ZDNet
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Hugging Face raises $40 million for its natural language processing library"
-    excerpt: "Hugging Face has raised a $40 million Series B funding round — Addition is leading the round. The company has been building an open source library for natural language processing (NLP) technologies. You can find the Transformers library on GitHub — it has 42,"
-    publishedDateTime: 2021-03-11T15:11:00Z
-    webUrl: "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/"
-    ampWebUrl: "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/amp/"
+  - title: "Hi Marley raises $25M to fund its AI-powered communication platform for the insurance industry"
+    excerpt: "If you’ve ever had to file a claim with your insurance company, you know that it’s not exactly fun. Often, you’re on hold indefinitely waiting to speak to a live person. And if you’ve ever had to file an auto or home insurance claim,"
+    publishedDateTime: 2021-03-11T16:09:00Z
+    webUrl: "https://techcrunch.com/2021/03/11/hi-marley-raises-25m-to-fund-its-ai-powered-communication-platform-for-the-insurance-industry/"
+    ampWebUrl: "https://techcrunch.com/2021/03/11/hi-marley-raises-25m-to-fund-its-ai-powered-communication-platform-for-the-insurance-industry/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/11/hi-marley-raises-25m-to-fund-its-ai-powered-communication-platform-for-the-insurance-industry/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 102
+    quality: 75
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/12/Hugging-Face.jpg?w=1024"
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-591404061.jpg?w=1024"
         width: 1024
-        height: 768
+        height: 682
         isCached: true
 
 secured: "4WvR0FCSLospbi5Bktyf3EjC5dxzpQwkL/8dl1MyLkhPO/Erecmf1r2z46d8dISOhzYW1iH2GdEswpAXMJ2mWadhaNG0JFW11MGE4Pe8l3Hsruq4odUa5MBRgW3bjD8mO5bKU4zd5HNACM6d9ODZ6zCpy5f5VcUisMqngcKuI6VoS76DZV62pc73RYzStzjl0yITF+nhmauwvWH6Yk0xtsl+tS0YkXHQ1QJ3aCZdVn05CEUyCnVUBjF3KNMzTfOR6ppjz5FiMVZB3oHiRUEWl71hHoFTHq4PhQHomlDC819Lj4/5xVxjzH9a4uQTvgOfInz7olyVWVGvEY6cmnjBH7Bsg75fi8tuySTLhYzsRLKExLGAVZMlNJcg4u441Vm7yxP6cJX8PLYgy9fhy1hStd0bfBsjiK5QjY9RF2QCbh+2fzKFB2aMiONYukGXK5Un/ns9ZgIZySPTd36i3drIgmIV6ZIXkRicR7EJCCS/CPZLhCKzqeuBatnNznj1SivMmc8ZxOkGjVYEqWm9VWwDpg==;IRmIs4R0tK5jzSbe0ONEHQ=="

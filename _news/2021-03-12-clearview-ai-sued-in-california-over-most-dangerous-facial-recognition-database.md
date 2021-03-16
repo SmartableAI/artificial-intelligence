@@ -9,7 +9,7 @@ ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearvi
 cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 32
-  - title: "Facial recognition company sued by California activists"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
-    publishedDateTime: 2021-03-11T15:38:00Z
-    webUrl: "https://www.fresnobee.com/news/business/article249820553.html"
-    type: article
-    provider:
-      name: The Fresno Bee
-      domain: fresnobee.com
-    quality: 21
 
 secured: "4CszKJFFGdLlwTsxNWyMpW5/+iZHW/3nhNBOQnGRGndzJkvkXLTZzF1l1/ihhW7bmoNeaVoXqv1tpVUU6THELBJa5dq5vUfdfpkYR4XL32KgqSuL+n0CWuYDD1Qo86G3cSRn988Tct1FRfxyRKH6s3fuv2fHG0j/YY7t1wMlZaOXAylmv6u73142HA2rOb8qPC0d9niFuHWCD0ukFaZo6bsL0DfczqymrDekEiMP8d5WzfZg9TOooToPme4UIVM7EYkbeIxCXUK8knC66YdC96VtkXrNg6kIlp/E4+aaf7w5xPTtITTvM3YJD/1fJ+VMYjzP2peKQ1kF8ye9IP4OWHAw2lS/bNcvM+eoVId7a9IJ+j1thyZoUah6nvuss+keUl7WhmdMdmIgc8K/N8v0Omsa2fvsyoP9ubqb1KD3tipkMTO4ZpXa0ZvKCIBl9/WMgtkX5ELTlCTCtVlO3CQXyph2HDUByT8q4UkcIF80TjzZKFsOf+zZedWKrgmLmtLe33UYDj8mJ12tLt8kS8lyww==;kd7acfQshElHmr02OVNz5A=="
 ---

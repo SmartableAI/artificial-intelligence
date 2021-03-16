@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/11/intel-and-deci-collaborate-to-spe
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/intel-and-deci-collaborate-to-speed-up-machine-learning-workloads-on-processors/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "CBSE Partners With Intel To Launch AI Learning Platform"
+    excerpt: "The Central Board of Secondary Education (CBSE) has collaborated with Intel to launch an artificial intelligence learning community and platform called AI Students Community (AISC). According to an official statement put out by the CBSE,"
+    publishedDateTime: 2021-03-16T07:09:00Z
+    webUrl: "https://analyticsindiamag.com/cbse-partners-with-intel-to-launch-ai-learning-platform/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/photo-1522661067900-ab829854a57f.jpeg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "Deci and Intel Collaborate to Optimize Deep Learning Inference on Intel's CPUs."
     excerpt: "Deci, the deep learning company building the next generation of AI, announced today a broad strategic business and technology"
     publishedDateTime: 2021-03-11T21:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=436430"
 webUrl: "https://us.acrofan.com/detail.php?number=436430"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 580
     height: 339
     isCached: true
+
+related:
+  - title: "Global Automotive Artificial Intelligence Market Share, Growth, Size, Trends, Revenue, Regional Segmentation, Key Competitors & 2021-2027"
+    excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
+    publishedDateTime: 2021-03-12T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-share-growth-size-trends-revenue-regional-segmentation-key-competitors-2021-2027-2021-03-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8I5DPCT3U+8jEHrzaGc4//YiNbNXYKaTt7wK4tiSgumS4osjwsPYdqcAuxFET+vhu0OJL9kIUrku47FMOz3E2pI+kuWyfG6hf3VcrmgiBXAS0zDaf3QybfML4b2KlzPbkQHI28cJYIMgtz1p9Rga7wAnBGLT98szMjFui7iqFmV3ZHxKUtD5uNZ22m4QcgbMsyNVHj0jITISzJlxuyORZ88/t9uC7YGi8hr7PEfRlz09D+YOUDSYSzyLcL2YkIpDRjbwZgApTnT96x13JSyikoupqj0mb6X3wtpHU1gBrvO+bqkAOc3+LZddBydvTVlakzSq2fwEpVg0UY8QcVZte6V9zaYGVpKWwgUJrPxJ6yx9MrvePmwsBGj3oOB8rmOzj83qR1eWH8qfAhQWgaNCgLMYT1p11kRle5QJe5OJ1gP4R++Oyhj4xLc/qBouA99tXrgolYnvPh53o6+zJMVh2Civ406rRcrleLQPnNhbv4cWmz1MejQOlVsgUS63mEFEmo9JeyJ4JfFMlB9DdIANdw==;C9lgvnp7Rs2QRJ8PaAZW6Q=="
 ---

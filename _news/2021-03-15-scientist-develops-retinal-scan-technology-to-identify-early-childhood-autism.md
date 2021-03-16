@@ -9,7 +9,7 @@ ampWebUrl: "https://tribune.com.pk/story/2289485/scientist-develops-retinal-scan
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2289485/scientist-develops-retinal-scan-technology-to-identify-early-childhood-autism?amp=1"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 640
     height: 420
     isCached: true
+
+related:
+  - title: "HK scientist develops retinal scan technology to identify early childhood autism"
+    excerpt: "A Hong Kong scientist has developed a method to use machine learning and artificial intelligence to scan retinas of children as young as six to detect early autism or the risk of autism and hopes to develop a commercial product this year."
+    publishedDateTime: 2021-03-15T02:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/hk-scientist-develops-retinal-scan-technology-to-identify-early-childhood-autism-2021-03"
+    ampWebUrl: "https://www.nasdaq.com/articles/hk-scientist-develops-retinal-scan-technology-to-identify-early-childhood-autism-2021-03?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/hk-scientist-develops-retinal-scan-technology-to-identify-early-childhood-autism-2021-03?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
 
 secured: "kJsPABEAxUcB99iqYb5tNj2+NlRrDaJXFdBPAb0KrgdPiNcBK6uE6KqXEoUinmTJis21xpQBEovxEpNd4qHlpONf0vAu0QpBRAo7EiAc6JflfT8FoktGs9fyXVtTnVB6DWpJxmrNgjdRursqhxjubPH6LxPD23yeCoHVg4WwraL0FBYGTco1xyyXkl6LdpJN4+nNa/Bc/AR0dRGEliNg2sHw7yhxP6NgJ6rkQteFHzYQW2tmAr21HT+0E42Rf37pMQSpxYe+lm+PTm5rumGqtQyGEDRtIT5Ffw4rz4N7daiq6E9m36bw/RHRxQ5N5YxiKtAIm7MjkU7JQV0EJRpu79dDJcQaen7hHfpesRtpHgA=;9awd65hYiG77Z7RVrmKU3w=="
 ---

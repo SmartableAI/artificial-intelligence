@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
+      "excerpt": "Selbyville, Delaware According to the recent research report titled 'Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance.md",
+      "title": "ByteDance team to develop AI chips as China aims for self-reliance",
+      "excerpt": "BEIJING (Reuters) - Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company’s job postings and a source familiar with the situation. The plan is still at an early stage and the company’s focus is on Arm-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7",
+      "originalUrl": "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555034618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0DM",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B80P7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B80P7",
+      "publishedDateTime": "2021-03-15T23:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city.md",
+      "title": "Baidu says it has a licence to charge passengers for its robotaxi service in Chinese city",
+      "excerpt": "Baidu launches robotaxi services in Beijing as China accelerates along the road to a self-driving future Baidu Apollo’s robotaxi fleet in Cangzhou was rolled out last August and has so far accumulated 524,696 kilometres of test mileage. The city is one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/16/4d42860f-8955-4bbc-9a13-8c4419706a89_5160e2d3.jpg?itok=GuvYIPC8&v=1615870352",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "publishedDateTime": "2021-03-15T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.md",
       "title": "Use of artificial intelligence to tackle coronavirus must go through ethical checks, say experts",
       "excerpt": "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease.",
@@ -452,58 +608,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-16-artificial-intelligence-ai-in-retail-and-e-commerce-market-investigation-and-growth-forecasted-until-the-end.md",
-      "title": "Artificial Intelligence (AI) in Retail and E-commerce Market : Investigation and Growth Forecasted until the End",
-      "excerpt": "Artificial Intelligence (AI) in Retail and E-commerce Market :Global Size, Share, Trends, Forecast, Growth, Key Players, Market Segments & Regional Analysis (Latin America, North America, Asia Pacific,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-and-e-commerce-market-investigation-and-growth-forecasted-until-the-end-2021-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-and-e-commerce-market-investigation-and-growth-forecasted-until-the-end-2021-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-16-bmws-idrive-8-helps-drivers-using-machine-learning-and-natural-language-processing.md",
       "title": "BMW's iDrive 8 helps drivers using machine learning and natural language processing",
       "excerpt": "It’s about to get even better — think, natural language processing, gesture control and cloud-based machine learning — with the release of its latest iteration, iDrive 8, aboard the upcoming BMW iX and i4. The system’s onboard AI, BMW Intelligent ...",
@@ -720,7 +824,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -902,10 +1006,10 @@
     {
       "path": "_news/2021-03-15-nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation.md",
       "title": "NVIDIA (NVDA) Rides on Strong Chip Demand, AI Proliferation",
-      "excerpt": "NVIDIA is benefiting from the coronavirus-induced work-from-home and learn-at-home wave. Strong growth in GeForce desktop and notebook GPUs is boosting its gaming revenues. Moreover, a surge in the Hyperscale demand remains a tailwind for the company’s Data Center business.",
+      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation-2021-03-15",
-      "originalUrl": "https://www.nasdaq.com/articles/nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation-2021-03-15",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
@@ -913,14 +1017,23 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation-2021-03-15?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation-2021-03-15?amp",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
       "publishedDateTime": "2021-03-15T07:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -994,7 +1107,7 @@
       "originalUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1037,7 +1150,7 @@
       "originalUrl": "https://www.zdnet.com/article/preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1131,100 +1244,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-enterprise-workflow-automation-startup-deepseeai-raises-226m.md",
-      "title": "Enterprise workflow automation startup DeepSee.ai raises $22.6M",
-      "excerpt": "DeepSee.ai, an enterprise workflow automation platform ... “In only the way a startup could, we managed to find innovation in that constraint and developed a tool for training across small ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/15/enterprise-workflow-automation-startup-deepsee-ai-raises-22-6m/",
-      "originalUrl": "https://venturebeat.com/2021/03/15/enterprise-workflow-automation-startup-deepsee-ai-raises-22-6m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/15/enterprise-workflow-automation-startup-deepsee-ai-raises-22-6m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/enterprise-workflow-automation-startup-deepsee-ai-raises-22-6m/amp/",
-      "publishedDateTime": "2021-03-15T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability.md",
-      "title": "Study of 25 stroke patients shows BrainQ’s wave therapy can reduce disability",
-      "excerpt": "Israeli startup BrainQ said that a pilot trial of 25 stroke patients treated with its artificial intelligence (AI)-based electromagnetic therapy has shown “striking” results in reducing disability following a stroke. The Jerusalem-based startup has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
-      "originalUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/03/Unknown-e1615722753560-640x400.png",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/study-of-25-stroke-patients-shows-brainqs-wave-therapy-can-reduce-disability/amp/",
-      "publishedDateTime": "2021-03-15T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-16-baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city.md",
+      "title": "Baidu says it has a licence to charge passengers for its robotaxi service in Chinese city",
+      "excerpt": "Baidu launches robotaxi services in Beijing as China accelerates along the road to a self-driving future Baidu Apollo’s robotaxi fleet in Cangzhou was rolled out last August and has so far accumulated 524,696 kilometres of test mileage. The city is one ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/16/4d42860f-8955-4bbc-9a13-8c4419706a89_5160e2d3.jpg?itok=GuvYIPC8&v=1615870352",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
+      "publishedDateTime": "2021-03-15T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-fusion-tests-self-driving-fiat-ducato-europes-favorite-camper-van.md",
       "title": "Fusion tests self-driving Fiat Ducato, Europe's favorite camper van",
       "excerpt": "Europe's ubiquitous camper van and motorhome base vehicle, the Fiat Ducato took a step toward camping future last year when it rolled out in all-electric guise. Now it takes another step, albeit a less official one,",
@@ -166,7 +218,7 @@
       "originalUrl": "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -438,49 +490,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-12-luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers.md",
-      "title": "Luminar strikes software deal to offer self-driving systems to automakers",
-      "excerpt": "Luminar Technologies Inc said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/luminar-technolo-volvo-idUSL1N2L9082",
-      "originalUrl": "https://www.reuters.com/article/luminar-technolo-volvo-idUSL1N2L9082",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2L9082",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L9082",
-      "publishedDateTime": "2021-03-11T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-11-luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers.md",
       "title": "Luminar strikes software deal to offer self-driving systems to automakers",
       "excerpt": "Luminar Technologies Inc said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers. March 11 (Reuters) - Luminar Technologies Inc said on Thursday it ...",
@@ -717,19 +726,19 @@
     {
       "path": "_news/2021-03-10-visionnav-at-ltt-2021-driverless-industrial-vehicles-with-latest-vision-technology-renovating-factory-intralogistics.md",
       "title": "VisionNav at LTT 2021: Driverless Industrial Vehicles with Latest Vision Technology Renovating Factory Intralogistics",
-      "excerpt": "The company is committed to applying artificial intelligence (AI), environmental perception, deep learning and servo control technologies to driverless industrial vehicles, helping companies to ...",
+      "excerpt": "Behind the innovative products and solutions VisionNav showcased at Logis-Tech Tokyo 2021 (LTT 2021) is a driverless story of how the company helps its customers quickly upgrade intralogistics not even to the COVID pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210309cn00338/visionnav-at-ltt-2021-driverless-industrial-vehicles-with-latest-vision-technology-renovating-factory-intralogistics",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210309cn00338/visionnav-at-ltt-2021-driverless-industrial-vehicles-with-latest-vision-technology-renovating-factory-intralogistics",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-covid-19-pandemic-lung-disease-5b5a6ca3ec6aa63c4aa5041ce4185522",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-covid-19-pandemic-lung-disease-5b5a6ca3ec6aa63c4aa5041ce4185522",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1452557/VisionNav_at_LTT2021.jpg",
-          "width": 400,
-          "height": 227,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -739,11 +748,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T15:12:00-08:00",
+      "publishedDateTime": "2021-03-09T16:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -760,10 +769,10 @@
     {
       "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
       "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
-      "excerpt": "Also, Artificial Intelligence is one of the key enablers ... and lose access to a large revenue pool. July 2020: FCA-Waymo Technology domain: Autonomous Trucks and Passenger Cars What: FCA and ...",
+      "excerpt": "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships.",
       "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
-      "originalUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "webUrl": "https://www.wicz.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "originalUrl": "https://www.wicz.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -782,54 +791,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T15:03:00-08:00",
+      "publishedDateTime": "2021-03-09T08:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
-      "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
-      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.claimsjournal.com/news/national/2021/03/09/302450.htm",
-      "originalUrl": "https://www.claimsjournal.com/news/national/2021/03/09/302450.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.claimsjournal.com/app/uploads/2021/03/BB.Waymo_-scaled.jpg",
-          "width": 2560,
-          "height": 1698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Claims Journal",
-        "domain": "claimsjournal.com",
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -988,6 +954,58 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
+      "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
+      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published Monday. The simulations were based on 72 fatal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8lt5x61cHVw/v0/1200x796.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

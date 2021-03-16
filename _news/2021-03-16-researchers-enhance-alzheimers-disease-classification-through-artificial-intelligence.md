@@ -1,27 +1,24 @@
 ---
 category: news
-title: "Researchers Enhance Alzheimer’s Disease Classification through Artificial Intelligence"
-excerpt: "Kolachalama, PhD, assistant professor of medicine at Boston University School of Medicine (BUSM). Using an advanced AI (artificial intelligence) framework based on game theory (known as generative adversarial network or GAN), Kolachalama and his team ..."
-publishedDateTime: 2021-03-15T20:22:00Z
-originalUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
-webUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
+title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
+excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
+publishedDateTime: 2021-03-15T17:42:00Z
+originalUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
+webUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Boston University
-  domain: bu.edu
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.bu.edu/hic/files/2021/03/vbk_latest-636x565.jpg"
-    width: 636
-    height: 565
-    isCached: true
 
 related:
   - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
@@ -53,6 +50,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "utZYxkfn72cO7ZC9piPjfxb0diRuZ5ACVAYk3jdRf0xiBk1s9S9u0E2PXnkaypylCIjeKSiYKLSfafVE/dSdwBe06bvMNwXmG2Ah9n2Z/oD9kuh+RWmKCjaAxkSz3zpmiPuF0xGRRcnJq4SJ2a6gahMPcbo8KWExagncgiWf02V2ncQkpZbYk1KvKYJU6DlY4/oCNa6K0Xs9Hyulu0Ri3nL1RnAVfvvC5hJOaRDXccu/fVkrAMMVxIxrvVLFJjnrSmx52JoFV5MFsOu2Sh82IMHQ31xw+8wPF7I3KIHV06dv9nX+ozKaw4A3TylpUlsPCYknAr7ecKCC9Kjt4LE/lQBsdmYgkT7cowati5a+Ppc=;3XlgnHh8rLoqcPcNlg+XxA=="
+secured: "00nlG7/qwJvAJdLg8J+u5eXegKzhJ2/YT6S5327vX6AWpWgLqk91jasSKOvozg736JX8yWhxf3t+qFfrTHfFyrvSN/4NVkI0I1Otk8KKzXA3MYhxjJWH4Z+6fDfRgZk6KRwNTIqkYzgaKo0rUNaylA3frcOiCE7pULSdaaEZyYFtSfbSWy2q4U0sSPkcQh6MYrAujQm6tthGrs1EEtikxDTQdwUyE02eCBjEm0dUFAXflxFAq2Ve2mKIRlvXSjCJ4HjiS/wxL+IJFFtg8xbh2B/rLMh5Kwn5AuFDjXRJYRg1r875Un+kj3O7wbfte9HPTGOp/ij/XYVus9JwA36N69kR0g8ZytjVL7NOrCkxZXI=;lFjBED8EhqUdetKhoJltoQ=="
 ---
 

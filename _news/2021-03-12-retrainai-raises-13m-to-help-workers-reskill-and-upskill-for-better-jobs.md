@@ -29,6 +29,22 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 103
+  - title: "AWS launches DeepRacer Women’s League for female students to learn machine learning"
+    excerpt: "Participants can leverage AWS machine learning and AWS DeepRacer course modules and several enablement sessions planned during the event."
+    publishedDateTime: 2021-03-16T03:30:00Z
+    webUrl: "https://www.dqindia.com/aws-launches-deepracer-womens-league-female-students-learn-machine-learning/"
+    ampWebUrl: "https://www.dqindia.com/aws-launches-deepracer-womens-league-female-students-learn-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-launches-deepracer-womens-league-female-students-learn-machine-learning/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 102
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg"
+        width: 625
+        height: 294
+        isCached: true
 
 secured: "+N3irya3qhjJkbAmNV2zeW5lLHIJIYMEQBynIsBpLnYH9cOY6hRN/Vrb1k1wf/qASQrdTCKHKGZDCjW7j21Pc5mCV6LZ0FTckC1TUv4SJr7CIVc/CoFTobniLWSwJYbJ3borQdIjujxtsiQYQKzpFQs96B5wrJcTKE8+oZNBKUloxOWil6przpQcCYT0kZbHr0dLXpPxDGo3eKWoVE+XdDNdUiv51zlTEIXieOkSBhyo+oH+lP0cdn6x//zhFPjtkyw/r4kr9+7OqzrPLg6cdHzf5sqavCfTuV5y1/1s6CA+uFmsj1XHjcYIFgSgpBqv7+Mexn798pPG0VhNA4VzwxnScROVzKIxMaJCjNkomFY=;prS5/odg9GvqGdNfRNCSFw=="
 ---

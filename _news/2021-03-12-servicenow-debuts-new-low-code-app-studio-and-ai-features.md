@@ -34,22 +34,6 @@ related:
         width: 640
         height: 478
         isCached: true
-  - title: "ServiceNow's Quebec release of Now Platform includes low-code, native AI tools"
-    excerpt: "SaaS providers have been rolling out low-code tools as well as AI and machine learning to enable business decision makers to create apps. The headliner features include Creator Workflows and App Engine Studio. Also: Creator Workflows aims to enable more ..."
-    publishedDateTime: 2021-03-11T14:10:00Z
-    webUrl: "https://www.zdnet.com/article/servicenows-quebec-release-of-now-platform-includes-low-code-native-ai-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenows-quebec-release-of-now-platform-includes-low-code-native-ai-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenows-quebec-release-of-now-platform-includes-low-code-native-ai-tools/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/03/09/735a7e38-eb5f-4ae4-b95e-f1aee21cf85c/app-engine-studio-and-app-engine-templates-prod-name.jpg"
-        width: 2400
-        height: 1256
-        isCached: true
   - title: "The chief innovation officer of $96 billion ServiceNow explains how new low-code and AI tools will help people be more productive"
     excerpt: "The firm — which makes automation software — launched new AI updates and low-code capabilities on its platform earlier this week that greatly expand its range of services. While ServiceNow initially focused on customer, IT, and employee processes with ..."
     publishedDateTime: 2021-03-13T16:55:00Z

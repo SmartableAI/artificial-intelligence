@@ -63,15 +63,6 @@ related:
       name: Reason
       domain: reason.com
     quality: 32
-  - title: "Facial recognition company sued by California activists"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
-    publishedDateTime: 2021-03-11T15:38:00Z
-    webUrl: "https://www.fresnobee.com/news/business/article249820553.html"
-    type: article
-    provider:
-      name: The Fresno Bee
-      domain: fresnobee.com
-    quality: 21
 
 secured: "K9cWvubaQydSlMUL8K0AA+PP0Zqy1OZHWpHFG+DWnShKrrOusfhjFUPL61YtZvamTDlF38L3IBwEtSZOFpEQN8kWGu2jMKNXY7O2abeqTpAVrtpBEhO2uv1h1FMGS63DRy7/soBGiyfjdgYgJ+YewIRIHSGPGcCcLaPT6nX87xEOu5dHLQmHqhVR32Tn1oZwZma2nv3UbhG/cJsUplMg48NVHlH3AytPxjGbadlbDVN3QIjYTwCPUTeX+z0qGjd7YMD8owkwXAtB+i9NauM7qy7jtIfhQykQ6H6Yov6pp7hUzLgPWZsYlIwlq1n4MThGC4AE5vixlXQ9kgSmRRhqLuIRnLFfaMoJ+EpwO5ZLKGXpmygjztHOOa0wLQy26EI65X6YXNIQGYJM81dQAolv9n8vl7dYBF4lmuSvfGwZAv/D6fdFCsvgMQX0+Dfz+sT8l11biopBZPBLJ/Ha9V2K4y+jgWw7zQ5b2nC7cRrmIRzuurnEuuH0h2qWtPgZZc6dO5qwxsOVYOJE47FHe8BrZw==;mdDL5MmJtWIsRYf3ESiqNQ=="
 ---

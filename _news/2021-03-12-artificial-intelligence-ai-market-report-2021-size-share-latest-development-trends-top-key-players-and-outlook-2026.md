@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026"
+    excerpt: "Selbyville, Delaware According to the recent research report titled 'Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report,"
+    publishedDateTime: 2021-03-16T07:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in the Education Sector Market Share Growing Rapidly with Recent Trends and Outlook 2020 – 2027"
     excerpt: "Strong emphasis on product pricing, production capability and the inclusion of state-of-the-art technology to boost"
     publishedDateTime: 2021-03-13T17:05:00Z
@@ -39,15 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automotive Artificial Intelligence Market Share, Growth, Size, Trends, Revenue, Regional Segmentation, Key Competitors & 2021-2027"
-    excerpt: "Global Automotive Artificial Intelligence Market was valued at USD 443.5 million in 2018 which is expected to reach"
-    publishedDateTime: 2021-03-12T19:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-share-growth-size-trends-revenue-regional-segmentation-key-competitors-2021-2027-2021-03-12"
+  - title: "Artificial Intelligence in the Education Sector Market Industry Trends, Revenue, Key Players, Growth, Share and Forecast Till 2027"
+    excerpt: "Mar 11, 2021 (Market Insight Reports) -- Increasing demand for real-time learner's progress monitoring and analysis solutions, and growing demand for AI technology to simplify administrative processes at institutions is driving artificial intelligence ..."
+    publishedDateTime: 2021-03-11T21:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-industry-trends-revenue-key-players-growth-share-and-forecast-till-2027-2021-03-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

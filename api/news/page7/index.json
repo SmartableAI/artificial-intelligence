@@ -358,49 +358,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
-      "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
-      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.claimsjournal.com/news/national/2021/03/09/302450.htm",
-      "originalUrl": "https://www.claimsjournal.com/news/national/2021/03/09/302450.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.claimsjournal.com/app/uploads/2021/03/BB.Waymo_-scaled.jpg",
-          "width": 2560,
-          "height": 1698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Claims Journal",
-        "domain": "claimsjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-09-ais-impact-on-businessesand-jobs.md",
       "title": "AI’s Impact on Businesses—and Jobs",
       "excerpt": "And start the retraining ... What kinds of AI innovation are you seeing? DR. LEE: Well, I’m based in China, and as you know, China’s the world’s factory. So I would say in the past year, the most exciting things I’ve seen are robots.",
@@ -648,6 +605,58 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
+      "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
+      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published Monday. The simulations were based on 72 fatal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8lt5x61cHVw/v0/1200x796.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

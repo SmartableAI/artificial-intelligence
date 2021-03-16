@@ -67,6 +67,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 56
+  - title: "AI for Health grantees making an impact"
+    excerpt: "Learn how our grantees and partners are addressing global health challenges with AI for Health resources and grants. We are mobilizing our efforts to support organizations responding to COVID-19 with projects for shared research,"
+    publishedDateTime: 2021-03-16T07:52:00Z
+    webUrl: "https://www.microsoft.com/en-US/ai/ai-for-health-projects"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWyvoC?ver=3bda&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true"
+        width: 1600
+        height: 600
+        isCached: true
   - title: "Aetina Provides Chained Hardware & Software Pro-AI Service for Edge AI Solutions"
     excerpt: "Taipei - Aetina Corporation dedicated to AI solutions with the ambition to deliver a professional AI service. Today Aetina proudly introduces their full product series of hardware and software service at the edge AI environments."
     publishedDateTime: 2021-03-12T19:26:00Z

@@ -53,6 +53,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 56
+  - title: "AI for Health grantees making an impact"
+    excerpt: "Learn how our grantees and partners are addressing global health challenges with AI for Health resources and grants. We are mobilizing our efforts to support organizations responding to COVID-19 with projects for shared research,"
+    publishedDateTime: 2021-03-16T07:52:00Z
+    webUrl: "https://www.microsoft.com/en-US/ai/ai-for-health-projects"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWyvoC?ver=3bda&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true"
+        width: 1600
+        height: 600
+        isCached: true
   - title: "Irish start-up Outmin looks to improve admin using AI and humans"
     excerpt: "Outmin, a start-up set up by Irish tech veterans Ross Hunt and David Kelleher, has emerged from stealth and is already snapping up clients both locally and outside of Ireland. Founded and quietly launched during the coronavirus pandemic, Outmin claims to ..."
     publishedDateTime: 2021-03-14T16:00:00Z

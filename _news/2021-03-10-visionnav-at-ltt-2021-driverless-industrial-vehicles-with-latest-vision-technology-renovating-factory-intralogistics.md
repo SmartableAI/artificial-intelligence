@@ -1,26 +1,26 @@
 ---
 category: news
 title: "VisionNav at LTT 2021: Driverless Industrial Vehicles with Latest Vision Technology Renovating Factory Intralogistics"
-excerpt: "The company is committed to applying artificial intelligence (AI), environmental perception, deep learning and servo control technologies to driverless industrial vehicles, helping companies to ..."
-publishedDateTime: 2021-03-09T23:12:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210309cn00338/visionnav-at-ltt-2021-driverless-industrial-vehicles-with-latest-vision-technology-renovating-factory-intralogistics"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210309cn00338/visionnav-at-ltt-2021-driverless-industrial-vehicles-with-latest-vision-technology-renovating-factory-intralogistics"
+excerpt: "Behind the innovative products and solutions VisionNav showcased at Logis-Tech Tokyo 2021 (LTT 2021) is a driverless story of how the company helps its customers quickly upgrade intralogistics not even to the COVID pandemic."
+publishedDateTime: 2021-03-10T00:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-covid-19-pandemic-lung-disease-5b5a6ca3ec6aa63c4aa5041ce4185522"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-covid-19-pandemic-lung-disease-5b5a6ca3ec6aa63c4aa5041ce4185522"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1452557/VisionNav_at_LTT2021.jpg"
-    width: 400
-    height: 227
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "N8ZvhDtMkXqaJmeoevfE09GvebaaxBNrzvlACH87UjS3tc5yCGBJeBBwr0oC7pRvLI7PYG6M0FCpCU9uNB9eBJ3kfSGopb5p7L7TEB+HFSsEfoAnt/b26AiLhj2njObTPzb+/Yd9yMvJirEyQfCQc0QzQ1YdBTdExg6gsDQis+ksZUENFOryAHpjm3rzXxLW0dZeI+VPXozE2A0llcC7/6iZH82L2mSSLAw9mxSoKQWjE/e6Q7IK73Yj9udplByonFIbsFq9Mby9OoS0dpzdUSAQRKJ0D2498esbobcSSaICbHxSQYjile6J6FAiApE9UrZoCqgyTRhTFih/hBqB0SV/37JoWX51zAuoedE5Y8A=;6m8YlMEuI8fcWuuuJf5NkA=="
+secured: "umxApNgV54tkoTsvfOlPDi0FllLdA9pxFI9gaV9W1pyu5vv8qQx+Agj0GNNSL03CtVLmmCiSEDlbPh4mIPR/wAaTcs/33iW8+UQBRTRJjAVOrQwZFKVPLqBrg/CpC+q6uXHyDV8KWdRskrJCxvFgWut/1yaIMM71slTvq00j7ebjLV+TYesOKkyKpHiYZH0hoOuxS0Y5TH+5+e1K1Xwa4nxZq3nAbHxhkU0Ap/ooNzI2lFZrvEN8P0VZoRVKuzDqNFidY4XhZRj3v9pn1qIgjLFqFblefYRHZWO9xR98Og7034O5T3T3BnDc0hhSu6jxdhZxMLVqkozivq7KRxif7NZEO7QjbnTGQcInhoNn66M=;br3ue0svlZSx27ctQ6oCCQ=="
 ---
 

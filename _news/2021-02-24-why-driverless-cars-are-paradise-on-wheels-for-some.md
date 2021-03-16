@@ -2,9 +2,9 @@
 category: news
 title: "Why driverless cars are paradise on wheels for some"
 excerpt: "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ..."
-publishedDateTime: 2021-02-24T04:58:00Z
-originalUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415"
-webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415"
+publishedDateTime: 2021-02-24T10:01:00Z
+originalUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page"
+webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "WKbSPbG4dwaQGw4AcKl3W2B6qSVkpe1VFvk2EnqgmwJ4Fq4xHAnEt3w3W2u5H+hr7akw0yntmkkNN6i/4NZqM1scBF9f+qsFRRlOEMwp8ooDKJ62EAbxHCaVamXR1d8QPi5TXBMbYU1XrAS1Cz07H+PMqm8x3VRoWvzL6/XqBiUABYq13jCVjCysfGkTOvbxHGvFPb9F3G6F7GC6F8BVMjrW7aywdNpaOdEVSOGL5v40CuYSDep91d28u8rQhy7j1s+82wkpuQy3KaG1x36XvlmaYkg8nCUkRSLXO1ES+vIupNv5dt9bFK2ajV+Lb5CqEm91ya43qg+Xv7rSQf2+l0nimorHw9Q5+6Aoq4nPmdE=;L4i+gB8zXCLsQObkGvkxfg=="
+secured: "bFzF6sFWkDRsyXp3rYKulqPX12UeC3sOhzODn/+U8bGY0lSP2xBuNihNc49UE077PXxprmr1FqxPcxNUiwf/66Fwhy9er+cJs61sP4FIc8itvoy2ZK9wHbIWj5S5+JuxFTjLVtYGbUL1eXoFHMhUk9CS3YL4jvGi1xREbWrXEly0m/9Zm2N+oU3A0cXvzFhdMwpZ83fG8XFOcuAO5AiWf3nmCNBe41Mh2tVl9KmRwqvkr5y2H7sN7f/LNfIR12NtqhUPCHIKSZ0eWovTSMOsB2JKOA7doYvotPDgEL5nHP3vTUmvN3Ah5E8zOrQMu53TOa5ucv9m8kpr/dH1YaLtpqa9Ibtdt53e9TQ8sZMOGco=;et3exuDomZxziCJ/kwXcDA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upski
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI in Autos
 
 related:
+  - title: "AWS launches DeepRacer Women’s League for female students to learn machine learning"
+    excerpt: "Participants can leverage AWS machine learning and AWS DeepRacer course modules and several enablement sessions planned during the event."
+    publishedDateTime: 2021-03-16T03:30:00Z
+    webUrl: "https://www.dqindia.com/aws-launches-deepracer-womens-league-female-students-learn-machine-learning/"
+    ampWebUrl: "https://www.dqindia.com/aws-launches-deepracer-womens-league-female-students-learn-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-launches-deepracer-womens-league-female-students-learn-machine-learning/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 102
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg"
+        width: 625
+        height: 294
+        isCached: true
   - title: "Retrain.ai raises $13M to help workers reskill and upskill for better jobs"
     excerpt: "retrain.ai’s CEO is Dr. Shay David, the serial entrepreneur known for previously co-founding the video enterprise leader Kaltura; Isabelle Bichler-Eliasaf serves as the company’s COO, after previously co-founding an HR startup, leading it to a ..."
     publishedDateTime: 2021-03-11T23:59:00Z

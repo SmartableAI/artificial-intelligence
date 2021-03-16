@@ -9,8 +9,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/366465"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366465"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "CBSE launches Artificial Intelligence community for students to enhance AI skills"
-    excerpt: "The Central Board of Secondary Education (CBSE) has recently announced that it will be launching an artificial intelligence platform for students across the country called ‘AI Student Community’, in collaboration with the technology company Intel."
-    publishedDateTime: 2021-03-14T08:29:00Z
-    webUrl: "https://www.indiatoday.in/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14"
+  - title: "ByteDance team to develop AI chips as China aims for self-reliance"
+    excerpt: "BEIJING (Reuters) - Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company’s job postings and a source familiar with the situation. The plan is still at an early stage and the company’s focus is on Arm-based ..."
+    publishedDateTime: 2021-03-16T06:13:00Z
+    webUrl: "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B80P7"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B80P7"
     type: article
     provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 67
+      name: Reuters
+      domain: reuters.com
+    quality: 104
     images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/laptop-work-1148958_1280-647x363.jpeg?vB5lrJ2V0I9bDSCDYDyIVhlAhvoO.B8G"
-        width: 647
-        height: 363
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555034618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0DM"
+        width: 817
+        height: 545
         isCached: true
 
 secured: "fM0PjlfkVGQgXusjshZ4oslHKKghEz/FpznneI3NuRwLWklEK1RA4aWWOc0trE6F+KeqwMI2xKViRnbiusVytm/EvbxlY+GLcItcH4q5AsF4tT2/eKBk6Xx8AVgUeraUTEcI5vmvogkAw4r7+iKIiczkEpZnxIaDG2/OUd3oKicbFkscHRo0phdPQ5c/8ruKcqliTymewov/Sj4HuNcY5DC+mSEx9BHs6pFps5p2NsNjLelVse5TwWon2MLi/8VhSw79hEjOplZnCCUvXxHpbM2KJJRWaAhhU9f7RbPI7EWjycz7mCzeqVj1UTzFdfvrqRN2QiXxikMjoW7PZphE94YmPHCz46ttgUWBPjvDx1gqHS4ZrMZNJfqmFmn2PgdGQDV8F0XqApclPPAAoIYOE0jsjt5NMElqAt+vSSj4028I/UeGMoRI4JZHCzaemongzkgBRPrx53q2i4R2V8wAtNwRPTHJH89lozYxte39MUjJAMqObM79XPv5282uXrK1iWvEcl/CkoRWf8w6f27qWA==;kKf5lPmFMa3lUJcaD4WasQ=="

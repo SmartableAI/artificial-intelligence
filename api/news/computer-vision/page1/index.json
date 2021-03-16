@@ -98,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-13-datagen-emerges-from-stealth-to-create-synthetic-datasets-for-computer-vision-models.md",
+      "title": "Datagen emerges from stealth to create synthetic datasets for computer vision models",
+      "excerpt": "Datagen, which taps AI to create synthetic training datasets for computer vision systems, emerged from stealth with $18.5 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/",
+      "originalUrl": "https://venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/datagen-emerges-from-stealth-with-18-5m-to-create-synthetic-datasets-for-computer-vision-models/amp/",
+      "publishedDateTime": "2021-03-12T12:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-the-army-is-teaching-facial-recognition-to-see-in-the-dark.md",
       "title": "The Army Is Teaching Facial Recognition to See In The Dark",
       "excerpt": "Researchers have built the first facial recognition database for thermal night vision images. But the technology itself is already prone to misuse.",
@@ -158,7 +210,7 @@
       "originalUrl": "https://chicago.suntimes.com/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1366,58 +1418,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025.md",
-      "title": "Object Recognition Imaging Systems Market Consumption Analysis, Growth Forecast by Manufacturers, Regions, Type and Application to 2025",
-      "excerpt": "Mar 02, 2021 (The Expresswire) -- The report presents a detailed study of “Object Recognition Imaging Systems Market” covering both global and regional markets. It aims to give an appropriate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-consumption-analysis-growth-forecast-by-manufacturers-regions-type-and-application-to-2025-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

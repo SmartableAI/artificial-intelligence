@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/what-happens-when-big-tech-comes-for
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15?amp"
 type: article
 quality: 54
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/03/The-future-of-fintech.jpg"
         width: 750
         height: 422
-        isCached: true
-  - title: "Fintech Acorns just nabbed Harvest, a startup helping customers reduce debt, as consolidation among personal finance apps heats up"
-    excerpt: "As fintech booms, Acorns took the opportunity to buy debt-reduction startup Harvest to add to its existing micro-investing and savings offerings."
-    publishedDateTime: 2021-03-11T14:29:00Z
-    webUrl: "https://www.businessinsider.com/acorns-acquires-startup-harvest-personal-finance-fintech-dealmaking-increases-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/6049358bf196be0018beeb4c?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Compliance Fintech Smarsh Adds To Execs To Support Growth"
     excerpt: "Portland, Ore.-based compliance fintech Smarsh has announced the addition of two new executives to support its accelerating growth. Goutam Nadella has been named chief product officer, according to a company announcement."
