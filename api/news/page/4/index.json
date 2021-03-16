@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-11-your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud.md",
+      "title": "‘Your Computer Is On Fire’ draws on tech history to critique AI and the cloud",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a story last year about nine books I read about AI in 2020, I called Your Computer Is On Fire a book worth ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/",
+      "originalUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/9780262539739-1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/amp/",
+      "publishedDateTime": "2021-03-11T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-photoshops-new-ai-feature-quadruples-the-amount-of-pixels-in-your-photos-wow.md",
       "title": "Photoshop’s new AI feature quadruples the amount of pixels in your photos — WOW!",
       "excerpt": "Adobe Photoshop's new Super Resolution feature uses machine learning to upscale photos while maintaining the details.",
@@ -642,51 +693,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-11-vonage-receives-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "Vonage Receives AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19693395.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19693395.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-10-batch-image-processing-with-amazon-rekognition-custom-labels.md",
       "title": "Batch image processing with Amazon Rekognition Custom Labels ",
       "excerpt": "Amazon Rekognition is a computer vision service that makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning (ML) expertise to use. With Amazon Rekognition, you can identify objects, people, text, scenes,",
@@ -772,6 +778,50 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-vonage-receives-aws-machine-learning-competency-status-in-applied-ai.md",
+      "title": "Vonage Receives AWS Machine Learning Competency Status in Applied AI",
+      "excerpt": "Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vonage-receives-aws-machine-learning-competency-status-in-applied-ai/article_baaa9c43-833c-5560-90f4-21f1a4c7dfa3.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vonage-receives-aws-machine-learning-competency-status-in-applied-ai/article_baaa9c43-833c-5560-90f4-21f1a4c7dfa3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/d/b3/db39f4d6-a1bd-5fa7-9386-a0250cfd6f31/605029d3dbdf0.image.jpg?resize=1120%2C630",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1167,40 +1217,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-angelini-pharma-chooses-aideas-artificial-intelligence-to-boost-its-digital-transformation-and-international-growth.md",
-      "title": "Angelini Pharma Chooses AiDEA’s Artificial Intelligence to Boost Its Digital Transformation and International Growth",
-      "excerpt": "and Mental Health (including Pain), Rare Diseases and Consumer Healthcare. Angelini's new digital vision is to reposition and elevate its Customer Engagement capabilities using Artificial Intelligence by implementing an innovative AI-Driven CRM system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210310005440/en/Angelini-Pharma-Chooses-AiDEA’s-Artificial-Intelligence-to-Boost-Its-Digital-Transformation-and-International-Growth",
-      "originalUrl": "https://www.businesswire.com/news/home/20210310005440/en/Angelini-Pharma-Chooses-AiDEA’s-Artificial-Intelligence-to-Boost-Its-Digital-Transformation-and-International-Growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

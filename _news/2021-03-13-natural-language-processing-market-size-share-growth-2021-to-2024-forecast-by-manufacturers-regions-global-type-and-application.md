@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market 2021 (COVID-19 UPDATE) Future Challenges, Growth Statistics and Forecast to 2027"
-    excerpt: "According to the report, The globalmachine learning marketsize is anticipated to rise remarkably on account of"
-    publishedDateTime: 2021-03-11T11:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-covid-19-update-future-challenges-growth-statistics-and-forecast-to-2027-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
     excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
     publishedDateTime: 2021-03-12T11:08:00Z

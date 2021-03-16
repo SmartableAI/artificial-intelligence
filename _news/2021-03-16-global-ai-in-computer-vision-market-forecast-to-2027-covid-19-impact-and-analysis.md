@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vi
 webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15"
 type: article
 quality: 78
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market 2021 (COVID-19 UPDATE) Future Challenges, Growth Statistics and Forecast to 2027"
-    excerpt: "According to the report, The globalmachine learning marketsize is anticipated to rise remarkably on account of"
-    publishedDateTime: 2021-03-11T11:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-covid-19-update-future-challenges-growth-statistics-and-forecast-to-2027-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

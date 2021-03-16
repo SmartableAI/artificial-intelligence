@@ -73,20 +73,6 @@ related:
         width: 1280
         height: 824
         isCached: true
-  - title: "Facial recognition company sued by activists"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
-    publishedDateTime: 2021-03-11T12:00:00Z
-    webUrl: "https://www.avpress.com/news/facial-recognition-company-sued-by-activists/article_4247d75c-8214-11eb-9b58-237ce7efe86d.html"
-    type: article
-    provider:
-      name: Antelope Valley Press
-      domain: avpress.com
-    quality: 41
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/avpress.com/content/tncms/custom/image/3a7ebec4-3719-11ea-aa97-fb17a0ed482f.jpg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Immigrants’ rights groups sue facial recognition tech company"
     excerpt: "Two immigrants’ rights groups have sued Clearview AI, arguing the facial recognition tech company violates their privacy rights. The company is building one of the largest databases of human faces in the US,"
     publishedDateTime: 2021-03-12T21:15:00Z

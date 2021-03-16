@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-16T00:33:00Z
 originalUrl: "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/"
 webUrl: "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/39474552481_55d78dfe04_o.jpg"
@@ -111,6 +112,6 @@ related:
         height: 557
         isCached: true
 
-secured: "odo2OyNeMtO/9OXdlGN6c73soRThld09MQT76Tf131dlQr/KHYaA+pE78edUwU0d8DDQqhjvvN1CtVr6TrQfuy8YUXkP+WgT2w0BbUNK/bhy6379b3V6jtwWEUKKDYHJuWfaq2IEIhVOtYCLGL+pmQLXywprtB/h/Q1+vKdoKmK8cqAgXV1Qfsjh8y7MNmHFIrY2+ytSfcr2WK1sEWniBEVfH/ztfns7cTcZwEL8+mbYIywYscCQ+WLrSUCfIq/ba18QL361snOg7y0YegpCLfpmFQu5KXLrTl63pmuIGFkAFqy/KW+Wodpkuxo8zoDxGDLR+gxKsJMsVVfvxyaqKokBVg6Yp7lIgDzRTQw5HEw=;duM1eIerk19YK/dQf8bBBg=="
+secured: "rno1QCSJCL4Qq8yNHfuPRONcgbHdU9k2WKAaI3gRUniZ52u+tX3Xola3yalqEglop07F6j6jZSJKT+fszkMjznizlQujegGR0olVsSyiXSGyW8HEhMklALQtpLElRP2QDohEurp3dkuNyhV0vOOjStSh3LyaKiZvrp4Shi6CQgdq3J20KUCIvrvt35mU3DBMUsKDTXT4cUp0t5GX7dCggkZnEIegSrE49dpxHUNKti1hrUECfDyhe2raVqBtW+WMeOmk3ghTWaV3Zdx7GU18iLwJ+MlIDJXyQ+sd7x/5zL19PTuOSuvXAXSK1GCUyZSWwOvUAnLs61XbylVpCMJA7D6y7Bt2L+dqSAH1uOhMuBPr180F597tIX+g3+lNMzIaX26xb/5cAWGGBZ9HNOrFx+JlctGCTXBWUKaRRd032JDk6syN/wNHsFMu8zFftfSm8Do5FkPNcdZf8t6sQAPM4vBpsoexqomCstPtsYTtjnMae9PBqHIIcX6xYrY9I5FnI+uiZlupgM9JzCpo0OkPuA==;brcFJ4shXJvTsw8rs8OhnQ=="
 ---
 

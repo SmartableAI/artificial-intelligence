@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market 2021 (COVID-19 UPDATE) Future Challenges, Growth Statistics and Forecast to 2027"
-    excerpt: "According to the report, The globalmachine learning marketsize is anticipated to rise remarkably on account of"
-    publishedDateTime: 2021-03-11T11:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-covid-19-update-future-challenges-growth-statistics-and-forecast-to-2027-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ..."
     publishedDateTime: 2021-03-12T23:12:00Z

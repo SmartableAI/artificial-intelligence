@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-16-adaptive-robot-changes-leg-length-in-response-to-different-terrain.md",
+      "title": "Adaptive robot changes leg length in response to different terrain",
+      "excerpt": "Robots these days are equipped with locomotion systems to overcome all types of terrain, but tend to favor one type of environment in particular. Scientists at Norway's University of Oslo have instead developed a four-legged robot that can adjust its leg length and walking gait on the fly as",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/",
+      "originalUrl": "https://newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/84aea47/2147483647/strip/true/crop/945x630+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbd%2F46%2F238e30ea4fcc8420e2a0564f12e4%2Fnature-path2-0.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/?amp=true",
+      "publishedDateTime": "2021-03-15T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter.md",
       "title": "The Future Of Robots: Making Distribution Centers Safer, Speedier And Smarter",
       "excerpt": "The fact that you can buy what you want and receive it quickly is thanks entirely to logistics — including distribution centers (DCs), which are the beating hearts of modern-day retail and ecommerce.",
@@ -41,49 +93,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-strolling-and-learning-multi-terrain-robots.md",
-      "title": "Strolling and learning: multi-terrain robots",
-      "excerpt": "Autonomous robots have trouble walking, because they typically have a fixed shape and so can’t handle uneven ground or changes in density. This robot can change the shape of its inform legs as needed,",
-      "sourceUrl": null,
-      "webUrl": "https://cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/",
-      "originalUrl": "https://cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cosmosmagazine.com/wp-content/uploads/2021/03/Picture31111.png",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/?amp",
-      "cdnAmpWebUrl": "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/?amp",
-      "publishedDateTime": "2021-03-15T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cosmos",
-        "domain": "cosmosmagazine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

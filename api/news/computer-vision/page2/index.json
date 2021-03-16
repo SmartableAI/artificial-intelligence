@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-02-skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech.md",
+      "title": "Skydio hits billion-dollar valuation for autonomous drone tech",
+      "excerpt": "Autonomous drone company Skydio has just raised another $170 million in funding, with its “flying robot” tech earning it a $1+ billion valuation as it evolves beyond its initial",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/",
+      "originalUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/skydio-2-11.jpg",
+          "width": 1500,
+          "height": 942,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/amp/",
+      "publishedDateTime": "2021-03-01T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision.md",
+      "title": "Amazon (AMZN) Boosts AWS Portfolio With Lookout for Vision",
+      "excerpt": "Using computer vision and Machine Learning (ML) capabilities, including \"few-shot learning\", the service analyzes images to spot manufacturing and production defects such as cracks, irregular shapes, dents and incorrect color. Further, Amazon Lookout for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp",
+      "publishedDateTime": "2021-03-01T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-documents-show-agreements-between-cbp-and-jetblue-for-facial-recognition-boarding.md",
       "title": "Documents Show Agreements Between CBP and JetBlue for Facial Recognition Boarding",
       "excerpt": "The documents provide more insight into the dynamics between DHS and airlines, which are increasingly deploying biometric boarding at their gates.",
@@ -1308,83 +1395,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-ftc-settles-facial-recognition-data-misuse-allegations-with-app-developer.md",
-      "title": "FTC Settles Facial Recognition Data Misuse Allegations with App Developer",
-      "excerpt": "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
-      "originalUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
-      "publishedDateTime": "2021-02-17T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-3d-printed-capacitive-sensor-objects-for-object-recognition-assays.md",
-      "title": "3D-Printed Capacitive Sensor Objects for Object Recognition Assays.",
-      "excerpt": "Object recognition tasks are widely used assays for studying learning and memory in rodents. Object recognition typically involves familiarizing mice with a set of objects and then presenting a novel object or displacing an object to a novel location or ...",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/PMC/PMC7877456",
-      "originalUrl": "https://europepmc.org/article/PMC/PMC7877456",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

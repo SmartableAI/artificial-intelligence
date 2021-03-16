@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-16-adaptive-robot-changes-leg-length-in-response-to-different-terrain.md",
+      "title": "Adaptive robot changes leg length in response to different terrain",
+      "excerpt": "Robots these days are equipped with locomotion systems to overcome all types of terrain, but tend to favor one type of environment in particular. Scientists at Norway's University of Oslo have instead developed a four-legged robot that can adjust its leg length and walking gait on the fly as",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/",
+      "originalUrl": "https://newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/84aea47/2147483647/strip/true/crop/945x630+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbd%2F46%2F238e30ea4fcc8420e2a0564f12e4%2Fnature-path2-0.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/?amp=true",
+      "publishedDateTime": "2021-03-15T19:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m.md",
       "title": "On-demand logistics and fulfillment startup Flowspace raises $31M",
       "excerpt": "On-demand warehousing fulfillment startup Flowspace today announced that it raised $31 million in a series B equity funding round. Los Angeles, California-based Flowspace says that the round, which was led by BuildGroup,",
@@ -209,6 +261,50 @@
       ]
     },
     {
+      "path": "_news/2021-03-16-computer-vision-and-deep-learning-ai-combined-in-self-walking-robotic-exoskeletons.md",
+      "title": "Computer vision and deep-learning AI combined in self-walking robotic exoskeletons",
+      "excerpt": "Robotics researchers are developing exoskeletons and prosthetic legs capable of thinking and moving on their own using sophisticated artificial intelligence (AI) technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "publishedDateTime": "2021-03-15T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-amazons-secret-to-success-is-working-backward.md",
       "title": "Amazon's secret to success is working backward",
       "excerpt": "Inventing on behalf of customers is highly encourage and rewarded at Amazon. Bryar encourages business leaders to develop their own leadership principles, for scaling the business and recruitment of new talent. Bryar also encourages changing the process ...",
@@ -269,7 +365,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -470,49 +566,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-15-strolling-and-learning-multi-terrain-robots.md",
-      "title": "Strolling and learning: multi-terrain robots",
-      "excerpt": "Autonomous robots have trouble walking, because they typically have a fixed shape and so can’t handle uneven ground or changes in density. This robot can change the shape of its inform legs as needed,",
-      "sourceUrl": null,
-      "webUrl": "https://cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/",
-      "originalUrl": "https://cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cosmosmagazine.com/wp-content/uploads/2021/03/Picture31111.png",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/?amp",
-      "cdnAmpWebUrl": "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/?amp",
-      "publishedDateTime": "2021-03-15T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cosmos",
-        "domain": "cosmosmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-15-why-your-ai-must-be-humble.md",
       "title": "Why Your AI Must Be Humble",
       "excerpt": "Every manufacturer needs to increase its velocity of information. Currently, manufacturers are experiencing extremely fast changes in consumer demand because trends now change in the blink of an eye.",
@@ -658,7 +711,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1165,58 +1218,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy.md",
-      "title": "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy",
-      "excerpt": "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f04e8e714d1ce6072a237%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D1%26cropY2%3D563",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/",
-      "publishedDateTime": "2021-03-14T23:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -169,6 +169,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "GM’s Cruise acquires Voyage, a self-driving car startup that focuses on retirement communities"
+    excerpt: "General Motor Co.’s majority-owned autonomous vehicle company Cruise LLC said today it has acquired self-driving car startup Voyage Auto Inc. for an undisclosed price. Founded in 2017, Palo Alto, California-based Voyage focuses on developing self-driving car technology to “supercharge” communities,"
+    publishedDateTime: 2021-03-16T02:10:00Z
+    webUrl: "https://siliconangle.com/2021/03/15/gms-cruise-acquires-voyage-self-driving-car-startup-focuses-retirement-communities/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 12
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/09/voyage.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
 
 secured: "2qTlMHEHGaWh/FZijTAZrRb+Kr8pHBLuWdCzPV3XpNElFlrTgaXjVm2bK/ayb9RWo+Bu2ErwWraBbUGPSRPZDrTUaV3IonuNF+183E042/snCBnrlf9KP0qvvbarG3atJrAplXqtX7w7rsLJNKc/7PxoWkyLd88xgBLc0o8lNqyABkU4NaRJ8ZjwWo19cj9DT/0KKVVnsteAhMu+Hn0rRlqWYhwR45dETdkxfr44AY0wC0wg5z3lRvoVxkEPgMrJVSVEZKfWYnu8L+fFpCjKxWd9eehwe5zOp6dI8lKPk37Ix/rASJXEl/ZjoxUNDYnO7YCtAvc873+B1rumMuvUZ25sCbjHAYPEyQfgz8FtDiv1GIdgbhOpPzNRd03F90EFWfg2jAhGTdHK3FqfSxPtswQWAetc/nNiQ7PKIPwbA+isJiZ7sor1srr/AXv/6Bxwe1VL9OXFsZr9fHxWj5gZHC9CU5coIO+rSLj0YBLIx5xlB8ns+Q5aRZj4Tv8/zojvUUbQoPcqsi/zRP/l1UeEpw==;Ajv2umY5SYhYDo/1NFRhKw=="
 ---

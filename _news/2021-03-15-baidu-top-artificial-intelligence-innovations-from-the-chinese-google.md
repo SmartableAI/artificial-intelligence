@@ -68,6 +68,20 @@ related:
         width: 2080
         height: 1170
         isCached: true
+  - title: "Baidu’s AI chip business Kunlun valued at $2B after new funding round"
+    excerpt: "Reuter’s source said that Baidu is considering commercializing Kunlun’s AI chip design capabilities and could ultimately spin off the unit as a standalone company. Spinning off Kunlun could ..."
+    publishedDateTime: 2021-03-16T00:33:00Z
+    webUrl: "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/39474552481_55d78dfe04_o.jpg"
+        width: 662
+        height: 435
+        isCached: true
   - title: "Baidu’s AI chip unit Kunlun raises $2bn"
     excerpt: "Baidu Inc said its artificial intelligence chip unit Kunlun raised around $2 billion, according to a source with direct knowledge of the matter, Reuters reported."
     publishedDateTime: 2021-03-15T12:32:00Z
@@ -81,20 +95,6 @@ related:
       - url: "https://capacityliveblobstorage.blob.core.windows.net/files/Samsung-Baidu-Chip-3.jpg"
         width: 900
         height: 618
-        isCached: true
-  - title: "Baidu’s AI chip business Kunlun valued at $2B after new funding round"
-    excerpt: "Reuter’s source said that Baidu is considering commercializing Kunlun’s AI chip design capabilities and could ultimately spin off the unit as a standalone company. Spinning off Kunlun could ..."
-    publishedDateTime: 2021-03-16T00:33:00Z
-    webUrl: "https://siliconangle.com/2021/03/15/baidus-ai-chip-business-kunlun-valued-2b-new-funding-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/39474552481_55d78dfe04_o.jpg"
-        width: 662
-        height: 435
         isCached: true
   - title: "Baidu's AI chip unit Kunlun completes new funding, at US$2 billion valuation- source"
     excerpt: "BEIJING: Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of"
