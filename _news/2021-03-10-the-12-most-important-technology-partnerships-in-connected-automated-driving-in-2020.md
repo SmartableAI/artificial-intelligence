@@ -1,15 +1,15 @@
 ---
 category: news
 title: "The 12 most important technology partnerships in Connected & Automated Driving in 2020"
-excerpt: "Also, Artificial Intelligence is one of the key enablers ... and lose access to a large revenue pool. July 2020: FCA-Waymo Technology domain: Autonomous Trucks and Passenger Cars What: FCA and ..."
-publishedDateTime: 2021-03-09T23:03:00Z
-originalUrl: "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
-webUrl: "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
+excerpt: "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships."
+publishedDateTime: 2021-03-09T16:47:00Z
+originalUrl: "https://www.wicz.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
+webUrl: "https://www.wicz.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
 type: article
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 363
     isCached: true
 
-secured: "/WUI+tBwjulOyFGZQlF7GmeY4+E/klsjizuFiaVhcKGras6PadhILv7IkiDn/CTeBXS8twrhI0Fnz/gxJ4K5QvZJHIExgC9jlLXmTkSy8Nelyf7FYUs40ZN9TbCnL3TgtwxxStdwc1dig05Dzu3Yy5j2j8PlbQG8g6BMAokDXpbiPDQoQWVgXH9NbaPCDNtiQ3adwO8HjOeGdKu+rurNXrmtKfSoEa7Dh1Mqnb+qSVbOrMHrN2AfO0TOhVCIvAZKhi+Z/BzBQgXzQXXB5lW3nHeykVgwedMnMQcMQHneziIlYBXbA+lZb+M5AGobE6n1zE8x8QUKo69KvSIVBl481Bc/86tvhW9jFT4xzB3BnNU=;iCLmcbD+MEWFlaUmilR7TA=="
+secured: "r8yWipyHf+7/M1ncE+iknburANL9HJRF0oBcSnP7s6Rq6CR/GiYS8TKuiD17aA4DgQMctNDRun45g5Ubq76tg6kZMbhrBpBrSBjrWfBRlViMBcijrvRuh78l/8vvMBTm10+9qGXtmZ0tP7a51jAA09AhSlK0/MmrDbicxYlKZiD+ub+EfkDAiN68CKC2vVx/EMuGkJoHkb78O+ik6gyVfmK3QamvnauMoe769YrBzqlGCZDx9W+e+eCF0hfi5N9vwjOrxil6aWjpwMCt7OHYk8cF7aUpnLoaZ9rcLn92QBOA5+f0Gx3l7hwn/lwI5ywNYfo4qRV24gzJ2TIerOuVS/YsJhXad6n6thP0U2VrohM=;Ia5kzsaiOy0ZrtzWCOWqlQ=="
 ---
 

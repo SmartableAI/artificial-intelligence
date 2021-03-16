@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Amgen announces Artificial Intelligence (AI) Partnership with Mila"
-excerpt: "\"In Mila we see a strong example of Quebec's leadership in AI and in healthcare innovation,\" stated ... Mila is a research institute in artificial intelligence which rallies over 700 researchers ..."
+excerpt: "CNW/ - Amgen announced today that it has entered into a multi-year partnership with Mila – Quebec Artificial Intelligence Institute. One of the world's leading biotechnology companies, Amgen uses cutting-edge science and technology to discover and develop innovative therapeutics,"
 publishedDateTime: 2021-03-16T13:03:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214794"
-webUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214794"
+originalUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798"
+webUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798"
 type: article
-quality: 66
-heat: 66
-published: false
+quality: 82
+heat: 82
+published: true
 
 provider:
   name: Business Insider
@@ -19,10 +19,14 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
   - AI
-  - Natural Language Processing
 
-secured: "CkFZAIxC33VQ5snh3eWzRzVUHDJbo8tHQY+d0MHg5O4B9lKZQRAxTWD5pKI0UO1LjTJjLK8naDzocvW9nBMixX9OL/FeCUU4tHKiyn7t9tswHD9qydaU9biPQ8EbMymZ613I2gFhQdlx+9WRTiFRHA2JifzJRgBRsmuxUee+NcP2MxbJzAMX5ALSbZn+CeGcj09b1SdMLkNwHjsq/IYxgOsnw3BnXh8NSiu0hpbSmmm/dGxaI7VUJT5joDJJkZdu7DRteJI7tlh3NNFPhN1KaD9Ltt1OP+QN/pz/vqZcMRjd6PNmqP67PNONh9jNNFMYB2Er1tXoBgdTRjLZXtZI94DdVZVagnsyKzvQE/jbmtg=;Yiy/jTNpOQIeqCdZPdkKaQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1456317/Amgen_Canada_Amgen_announces_Artificial_Intelligence__AI__Partne.jpg"
+    width: 400
+    height: 218
+    isCached: true
+
+secured: "p3lf/nFIK+g3ViqmY2YBhDMGyKIqcM+Z07x1Mhp/p7DROozosVAay77bp42ma4f+yfXB3V5U3/zwA08P//f3QWZ9dgxi/j3gQ2CzZTae/WkK2Hpk13VE+6VCbHROnAvWgwE3t3EQSVhQCby4ZQqU4Zew/6vtmANzGZT9dIjbCrRdZczD/wy5I199jOW6pVB8jkDUhAZmSHEmHqqUMpDgAeRYQSOrgTl2rJo/ZCh0fHK5vaPhb6ItPEKs0AFerrvCaNifnNJD4WbzVWQrl1hi3kdDeNkFXR764Wmo/i7nhIaL9mMWC0Z3yUv5NupfLGjlh23Gj+HgCrDlFDhEtyNt729HsiQrX6eG/1h/At/R53E=;D9beiAf3JWJG+pMYXm4DPg=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-16T18:54:00Z
 originalUrl: "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-7bca1927d8fe5dfe69d44203c02e2076"
 webUrl: "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-7bca1927d8fe5dfe69d44203c02e2076"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

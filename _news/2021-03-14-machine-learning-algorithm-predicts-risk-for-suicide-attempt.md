@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210313/Machine-learning-algo
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/03/13/1600x900/suicide_1615599728816_1615599733185.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Machine learning could use EHRs to predict suicide risk"
+    excerpt: "Machine learning could use real-time predictive models to assess suicide attempt risk in nonpsychiatric settings in a large clinical system, according to a March 12 study published in JAMA Network Open. The study followed 30-day suicide risk attempts among ..."
+    publishedDateTime: 2021-03-16T19:49:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/machine-learning-could-use-ehrs-to-predict-suicide-risk.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Artificial intelligence calculates suicide attempt risk"
     excerpt: "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center."

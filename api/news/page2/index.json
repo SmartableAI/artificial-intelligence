@@ -2,6 +2,207 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-16-artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect.md",
+      "title": "Artificial Intelligence In 2021: Five Trends You May (or May Not) Expect",
+      "excerpt": "Artificial Intelligence innovation continues with explosive growth in virtually all industries. We cover five trends to expect in AI in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604fd2d38aad039afa630737%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/",
+      "publishedDateTime": "2021-03-15T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-computer-vision-and-deep-learning-ai-combined-in-self-walking-robotic-exoskeletons.md",
+      "title": "Computer vision and deep-learning AI combined in self-walking robotic exoskeletons",
+      "excerpt": "Robotics researchers are developing exoskeletons and prosthetic legs capable of thinking and moving on their own using sophisticated artificial intelligence (AI) technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
+      "publishedDateTime": "2021-03-15T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-amazons-secret-to-success-is-working-backward.md",
+      "title": "Amazon's secret to success is working backward",
+      "excerpt": "Inventing on behalf of customers is highly encourage and rewarded at Amazon. Bryar encourages business leaders to develop their own leadership principles, for scaling the business and recruitment of new talent. Bryar also encourages changing the process ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazons-secret-to-success-is-working-backward/",
+      "originalUrl": "https://www.zdnet.com/article/amazons-secret-to-success-is-working-backward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/15/c8f625fc-a207-444e-87d1-4036aa1456b2/im-298010.jpg",
+          "width": 620,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-secret-to-success-is-working-backward/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-secret-to-success-is-working-backward/",
+      "publishedDateTime": "2021-03-15T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-global-ai-in-computer-vision-market-forecast-to-2027-covid-19-impact-and-analysis.md",
+      "title": "Global AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Analysis",
+      "excerpt": "Dublin, March 15, Mar 15, 2021 (GLOBE NEWSWIRE via COMTEX) -- Dublin, March 15, 2021 (GLOBE NEWSWIRE) -- The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-bmws-idrive-8-helps-drivers-using-machine-learning-and-natural-language-processing.md",
       "title": "BMW's iDrive 8 helps drivers using machine learning and natural language processing",
       "excerpt": "It’s about to get even better — think, natural language processing, gesture control and cloud-based machine learning — with the release of its latest iteration, iDrive 8, aboard the upcoming BMW iX and i4. The system’s onboard AI, BMW Intelligent ...",
@@ -252,7 +453,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -829,50 +1030,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-15-insitro-raises-400m-for-machine-learning-drug-discovery-push.md",
-      "title": "Insitro raises $400m for machine learning drug discovery push",
-      "excerpt": "Start-up run by former Stanford professor uses AI to analyse human genetics and work out where to target drugsRead more on 'Financial Times Companies'",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "publishedDateTime": "2021-03-14T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-03-15-china-poised-to-dominate-the-artificial-intelligence-ai-market.md",
       "title": "China Poised To Dominate The Artificial Intelligence (AI) Market",
       "excerpt": "China has extremely ambitious plans to lead the world in artificial intelligence (AI). Here, we take a look at why China is poised to lead the global AI market and introduce some of the key players in the Chinese AI space.",
@@ -967,6 +1124,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-15-insitro-raises-400m-for-machine-learning-drug-discovery-push.md",
+      "title": "Insitro raises $400m for machine learning drug discovery push",
+      "excerpt": "Start-up run by former Stanford professor uses AI to analyse human genetics and work out where to target drugs",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305",
+      "originalUrl": "https://www.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F651880f5-5d04-4007-b936-6310d36b2917.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305",
+      "publishedDateTime": "2021-03-14T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-552-in-february.md",
       "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Down 55.2% in February",
       "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the target of a large drop in short interest in the month of February. As of February 26th, there was short interest totalling 330,200 shares,",
@@ -1006,196 +1206,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-alibaba-backed-ai-startup-megvii-files-for-ipo-in-shanghai.md",
-      "title": "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai",
-      "excerpt": "Citic Securities Co. is the sponsor of the listing. Megvii is one of the world’s largest AI startups, specializing in areas such as facial recognition. The eight-year-old firm gained fame in part because of China’s obsession with security, which in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia640Sm27PHY/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-ai-robot-paints-with-aesthetic-values-and-other-tech-news.md",
-      "title": "AI robot paints with aesthetic values and other tech news",
-      "excerpt": "BBC Click’s LJ Rich looks at some of the best technology news stories of the week including: Up to 150,000 security cameras were hacked in schools, hospitals and businesses - the company that makes the cameras is investigating Ride-hailing company Ola announces plans to build the world’s largest two-wheeler factory in India A robot uses artificial intelligence and a set of aesthetic values to learn how to paint See more at Click's website and @BBCClick Click News: AI robot paints with aesthetic values.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/technology-56284502",
-      "originalUrl": "https://www.bbc.com/news/av/technology-56284502",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p099hmwk.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-samsung-electronics-to-be-responsible-for-development-of-chip-used-for-googles-self-driving-car-waymo.md",
-      "title": "Samsung Electronics to Be Responsible for Development of Chip Used for Google’s Self-Driving Car Waymo",
-      "excerpt": "Samsung Electronics has begun the development of core chip that will be used for Google’s next-generation self-driving car. There is a high chance that the chip will be produced through Samsung Elec",
-      "sourceUrl": null,
-      "webUrl": "https://english.etnews.com/20210315200002",
-      "originalUrl": "https://english.etnews.com/20210315200002",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etnews.com/news/article/2021/03/15/article_15091456893673.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.etnews.com/amp/20210315200002",
-      "cdnAmpWebUrl": "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210315200002",
-      "publishedDateTime": "2021-03-14T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Etnews.com",
-        "domain": "etnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills.md",
-      "title": "CBSE launches Artificial Intelligence community for students to enhance AI skills",
-      "excerpt": "The Central Board of Secondary Education (CBSE) has recently announced that it will be launching an artificial intelligence platform for students across the country called ‘AI Student Community’, in collaboration with the technology company Intel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
-      "originalUrl": "https://www.indiatoday.in/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/laptop-work-1148958_1280-647x363.jpeg?vB5lrJ2V0I9bDSCDYDyIVhlAhvoO.B8G",
-          "width": 647,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14",
-      "publishedDateTime": "2021-03-14T00:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

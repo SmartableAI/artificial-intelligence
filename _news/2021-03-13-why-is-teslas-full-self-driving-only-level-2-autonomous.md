@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.insider.com/604ca859fea127001886aa26?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Tesla removed some drivers from its self-driving test for not paying attention"
+    excerpt: "(CNN) — Tesla has expanded its “full self-driving” software to roughly 2,000 Tesla owners, but some drivers were revoked access for not paying close enough attention to the road, according ..."
+    publishedDateTime: 2021-03-16T18:48:00Z
+    webUrl: "https://abc-7.com/news/2021/03/14/tesla-removed-some-drivers-from-its-self-driving-test-for-not-paying-attention/"
+    ampWebUrl: "https://abc-7.com/lifestyle/tech/2021/03/14/tesla-removed-some-drivers-from-its-self-driving-test-for-not-paying-attention/amp/"
+    cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/lifestyle/tech/2021/03/14/tesla-removed-some-drivers-from-its-self-driving-test-for-not-paying-attention/amp/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc-7.com
+    quality: 55
+    images:
+      - url: "https://abc-7.com/wp-content/uploads/2021/03/Tesla-1.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tesla’s stories said to diverge over fully self-driving vehicles"
     excerpt: "For years, Tesla Chief Executive Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off."

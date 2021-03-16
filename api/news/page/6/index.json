@@ -2,6 +2,212 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-10-self-driving-electric-buses-are-here-and-theyre-cruising-round-malaga.md",
+      "title": "Self-driving electric buses are here, and they’re cruising round Málaga",
+      "excerpt": "This article was originally published by Christopher Carey on Cities Today, the leading news platform on urban mobility and innovation, reaching an international audience of city leaders. For the latest updates follow Cities Today on Twitter,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/",
+      "originalUrl": "https://thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/1-copy-15-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/amp/",
+      "publishedDateTime": "2021-03-10T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-how-ai-will-impact-the-future-of-work-and-life.md",
+      "title": "How AI Will Impact The Future Of Work And Life",
+      "excerpt": "How will AI change the future of work? Here's a look at what the future might hold as AI evolves and humans adapt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/",
+      "originalUrl": "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603c0d52695f2a07f37ff642%2F0x0.jpg",
+          "width": 1199,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-populus-ai-plots-expansion-with-5m-in-new-funding.md",
+      "title": "Populus AI plots expansion with $5M in new funding",
+      "excerpt": "The wave of shared electric scooters that swept through cities several years ago helped Populus AI get its start. Now, surging demand for delivery — and the pressure it places on curb space ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/",
+      "originalUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/populus-PlatformView_LiveMap.png?w=1024",
+          "width": 1024,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/amp/",
+      "publishedDateTime": "2021-03-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-israels-retrainai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market.md",
+      "title": "Israel’s Retrain.ai closes $13M to use AI to understand early signals in the changing jobs market",
+      "excerpt": "Israel’s retrain.ai, which uses AI and Machine Learning to read job boards at scale and to gain insight into where the job market is going, has closed $9M Series A led by Square Peg. Since retrain.ai’s $4M seed round last year was unannounced (led by Hetz Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
+      "originalUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/retrain.ai-founders-picture-1.jpg?w=535",
+          "width": 535,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/",
+      "publishedDateTime": "2021-03-10T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs.md",
       "title": "New AI tool accurately diagnoses COVID-19 just by the sound of your coughs",
       "excerpt": "Scientists from Essex University have created a COVID-19 screening tool that can accurately diagnose the virus by analyzing audio samples of coughs.",
@@ -788,49 +994,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
-      "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
-      "excerpt": "Also, Artificial Intelligence is one of the key enablers ... and lose access to a large revenue pool. July 2020: FCA-Waymo Technology domain: Autonomous Trucks and Passenger Cars What: FCA and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
-      "originalUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20469629_G.png?lastEditedDate=1615308422000",
-          "width": 900,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-10-nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-and-bengio.md",
       "title": "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio",
       "excerpt": "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,",
@@ -1060,162 +1223,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-researchers-find-that-large-language-models-struggle-with-math.md",
-      "title": "Researchers find that large language models struggle with math",
-      "excerpt": "In a new paper, researchers show that even the most sophisticated general-purpose AI language models struggle to solve math problems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/researchers-find-that-large-language-models-struggle-with-math/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/researchers-find-that-large-language-models-struggle-with-math/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/happynumbers-ai-math-augment-replace-teachers.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/researchers-find-that-large-language-models-struggle-with-math/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/researchers-find-that-large-language-models-struggle-with-math/amp/",
-      "publishedDateTime": "2021-03-09T11:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey.md",
-      "title": "AI implementations accelerated due to COVID-19 pandemic, says KMPG survey",
-      "excerpt": "Adoption of artificial intelligence accelerated during the COVID-19 pandemic, but many business leaders are concerned that AI deployments are moving too fast, according to a KPMG survey. Managing AI and ML in the Enterprise The AI and ML deployments are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/08/b82392e3-a0d3-4346-ba72-916149066bd6/kpmg-ai-report-2021b.png",
-          "width": 1351,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "publishedDateTime": "2021-03-09T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-ibm-watson-services-market-size-to-accrue-165-billion-by-2027.md",
-      "title": "IBM Watson Services Market Size to accrue $ 16.5 billion by 2027",
-      "excerpt": "Selbyville, Delaware According to the latest research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use; By Regions; Segment Forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

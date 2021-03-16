@@ -2,6 +2,196 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-11-how-to-optimize-content-for-voice-search-13-critical-factors.md",
+      "title": "How To Optimize Content For Voice Search: 13 Critical Factors",
+      "excerpt": "Tom Treanor, Treasure Data 7. Keep Your Keywords Simple When optimizing for voice recognition searching, it’s important to keep the keywords simple. When people ask their smartphone or Alexa a question, they aren’t going into detail. The software won ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049395129a5e7b7b537ae0c%2F0x0.jpg",
+          "width": 1200,
+          "height": 1213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/amp/",
+      "publishedDateTime": "2021-03-11T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-nimble-robotics-scores-50m-for-its-fulfillment-automation-tech.md",
+      "title": "Nimble Robotics scores $50M for its fulfillment automation tech",
+      "excerpt": "Warehouse automation company Nimble Robotics today announced that it has raised a $50 million Series A. Led by DNS Capital and GSR Ventures and featuring Accel and Reinvent Capital, the round will go toward helping the company essentially double its headcount this year.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/",
+      "originalUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/unnamed-8.png?w=1024",
+          "width": 1024,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/amp/",
+      "publishedDateTime": "2021-03-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-robots-and-bees-high-tech-vertical-strawberry-farm-in-nj-raises-50-million-in-series-a-round.md",
+      "title": "Robots And Bees: High-Tech, Vertical Strawberry Farm In N.J. Raises $50 Million In Series A Round",
+      "excerpt": "When Oishii, a high-tech, vertical farm in New Jersey, introduced its $50-a-box Omakase strawberry in 2018, the fruit quickly became the darling of New York's Michelin star chefs. Today, March 11, the company is announcing it has raised $50 million in a Series A round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/",
+      "originalUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049476501afb1330c558c46%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/amp/",
+      "publishedDateTime": "2021-03-11T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-microsoft-edge-ai-kit-runs-linux-on-imx8m-and-adds-myriad-x-and-8mp-cam.md",
+      "title": "Microsoft edge AI kit runs Linux on i.MX8M and adds Myriad X and 8MP cam",
+      "excerpt": "Microsoft’s $349 “Azure Percept DK” edge AI kit runs Linux on an i.MX8M and works with Azure IoT services. The kit has a “Vision” module with a 0.7 TOPS Myriad X and an 8MP camera plus an an optional “Audio” module with a 4-mic array.",
+      "sourceUrl": null,
+      "webUrl": "https://linuxgizmos.com/microsoft-edge-ai-kit-runs-linux-on-i-mx8m-and-adds-myriad-x-and-8mp-cam/",
+      "originalUrl": "https://linuxgizmos.com/microsoft-edge-ai-kit-runs-linux-on-i-mx8m-and-adds-myriad-x-and-8mp-cam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T21:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "run Linux-based Opera TV",
+        "domain": "linuxgizmos.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people.md",
       "title": "Fujitsu develops facial detection AI to quantify concentration levels of people",
       "excerpt": "Fujitsu has developed a new AI model that it claims can capture and quantify how much a person is concentrating when performing tasks. Conventionally, AI models that are designed to quantify concentration have been created by training algorithms to recognise the expressions and behaviours of people performing specific tasks,",
@@ -1004,212 +1194,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-self-driving-electric-buses-are-here-and-theyre-cruising-round-malaga.md",
-      "title": "Self-driving electric buses are here, and they’re cruising round Málaga",
-      "excerpt": "This article was originally published by Christopher Carey on Cities Today, the leading news platform on urban mobility and innovation, reaching an international audience of city leaders. For the latest updates follow Cities Today on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/",
-      "originalUrl": "https://thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/1-copy-15-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/03/10/self-driving-electric-buses-malaga-syndication/amp/",
-      "publishedDateTime": "2021-03-10T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-how-ai-will-impact-the-future-of-work-and-life.md",
-      "title": "How AI Will Impact The Future Of Work And Life",
-      "excerpt": "How will AI change the future of work? Here's a look at what the future might hold as AI evolves and humans adapt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/",
-      "originalUrl": "https://www.forbes.com/sites/ashleystahl/2021/03/10/how-ai-will-impact-the-future-of-work-and-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603c0d52695f2a07f37ff642%2F0x0.jpg",
-          "width": 1199,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-populus-ai-plots-expansion-with-5m-in-new-funding.md",
-      "title": "Populus AI plots expansion with $5M in new funding",
-      "excerpt": "The wave of shared electric scooters that swept through cities several years ago helped Populus AI get its start. Now, surging demand for delivery — and the pressure it places on curb space ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/",
-      "originalUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/populus-PlatformView_LiveMap.png?w=1024",
-          "width": 1024,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/amp/",
-      "publishedDateTime": "2021-03-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-israels-retrainai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market.md",
-      "title": "Israel’s Retrain.ai closes $13M to use AI to understand early signals in the changing jobs market",
-      "excerpt": "Israel’s retrain.ai, which uses AI and Machine Learning to read job boards at scale and to gain insight into where the job market is going, has closed $9M Series A led by Square Peg. Since retrain.ai’s $4M seed round last year was unannounced (led by Hetz Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
-      "originalUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/retrain.ai-founders-picture-1.jpg?w=535",
-          "width": 535,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/",
-      "publishedDateTime": "2021-03-10T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

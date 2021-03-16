@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/03/Matt-Bradley--scaled-e1615591269160-275x300.jpg"
         width: 275
         height: 300
+        isCached: true
+  - title: "KAR Global invests in AI startup"
+    excerpt: "Carmel-based KAR Global (NYSE: KAR) has made what it is calling a strategic investment in an Israel-based artificial intelligence startup."
+    publishedDateTime: 2021-03-16T21:28:00Z
+    webUrl: "https://www.wishtv.com/news/inside-indiana-business/kar-global-invests-in-ai-startup/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 37
+    images:
+      - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2020/01/KAR-Global-Sign-Large.jpg?fit=960%2C540&#038;ssl=1"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "HjnhWFQERQLXASOs5ZV8CML7ZOJIuVwLalllwwQlA8mEedwS2WaVD1CmRAvF716ORN5xF/HsCI29kV9ncpfDLY0YCxOSJRc2tDvBNvwN4vN6WGDyYBCQoa4dINvH5Zxa8XYuH9WK7ktM1AbtOEvuDF06x6bLsomJWpRxrE2QCyLl9AO7RgLYJ8fmrBfMICn5Q33Wwrh64Jn0ILAdtH8BR7+i/RbChg2gicxvmg6eH5X8rwKNvp5jPWRYWRSPNDxOR3Yb+4wzrO0p67QF6VnUcLRuqKanTdTM1pn379yh5QULI7gPE1c+LFPBODTTIh5E/wgq6gLjv2NcrNazA30hCxb7VDkFJEtt7gwR0Jz2AdqkS9dspm04ti2qowoyWN865HfdJJZj4YqLcpE1HgKsPnLYF/8nZiKRo+NJTyleQFXbiFsfeRYcEL3Sn8d4C02p1a/hX6irKrNcOMKxVinIN8WAU5cFTRYwhizr33cnVsVcvTxMTyJJ/M7jSJ3YYLk/2PC+wPeXKpQwmR2XO9cb3g==;pZZJUgKblHdhEMGNjjZWEQ=="

@@ -41,6 +41,34 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ford partners with U-M on robotics research, new building"
+    excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four"
+    publishedDateTime: 2021-03-16T16:04:00Z
+    webUrl: "https://apnews.com/article/michigan-robotics-ann-arbor-a0fbbce999a1943ae1f9c0a4206ff2dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/123406b7433340c997c2bd7992e09df4/2081.jpeg"
+        width: 2081
+        height: 1387
+        isCached: true
+  - title: "Ford partners with university on robotics, new building"
+    excerpt: "The four-story building on the University of Michigan's campus brings together researchers from 23 buildings and 10 programs into one space, including researchers and engineers from the Ford Motor Co."
+    publishedDateTime: 2021-03-16T21:21:00Z
+    webUrl: "https://finance-commerce.com/2021/03/ford-partners-with-university-on-robotics-new-building/"
+    type: article
+    provider:
+      name: Finance & Commerce
+      domain: finance-commerce.com
+    quality: 54
+    images:
+      - url: "https://finance-commerce.com/files/2021/03/WEB-Robotics-AP-w.jpg"
+        width: 620
+        height: 330
+        isCached: true
   - title: "Ford partners with University of Michigan on robotics research, new building"
     excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four and the yellow-legged Cassie steps deliberately side-to-side."
     publishedDateTime: 2021-03-16T17:17:00Z

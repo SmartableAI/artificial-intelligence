@@ -56,6 +56,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Machine learning could use EHRs to predict suicide risk"
+    excerpt: "Machine learning could use real-time predictive models to assess suicide attempt risk in nonpsychiatric settings in a large clinical system, according to a March 12 study published in JAMA Network Open. The study followed 30-day suicide risk attempts among ..."
+    publishedDateTime: 2021-03-16T19:49:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/machine-learning-could-use-ehrs-to-predict-suicide-risk.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "Rj8VjTn0ihC4J0rtXH0hKg25Xj3W8TvZl/I6Vd7Mem3p9vPWec1p+2sON53ePVCHctyiwYjfNNGEXqriRQejG11VR8ceYHS9Bf/y18iYSF4vW6qFtsPYnpq9bzVkOXASZRLEEuReJvD/Ww8Mom9/YA89cZdPkLmQ455cXK0C8xF6jnpZsj9v3xBua4hk+YkX7jC71HhhNgCdzIt7KA4FKATd+G+LezgiTaKrKhV24t06qhEkJDORq5Ch4IC+f7LKAUHNpGS4cPNHSfgNdxHvnastuqHFAV3CEIuPBNrA8X6L/WFL+LpfwxwDdcWcF0k1pE15Z+QBjcHf14AS47gbsTx6w6KZQugiEkjzAiyIkzsf92LP5urfWH1fy+K8DAK4Z5dRSdJ61+VSQQQO36s5gQWQSFXMM3GziaqLpC/qmtBOthgIje3FJbKg7AoxRzsYRRg0VVWNTPwME1QdlnpNENJDuJF8Gb9KZLdSPzgYTKh6rE+UYVHwdkSTgHiCttxpMeT0yp2dXuyRW5WNt8duww==;m7Lz4mdijJDYeT4Y8+bl5A=="
 ---

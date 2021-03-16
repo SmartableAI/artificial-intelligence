@@ -59,6 +59,20 @@ related:
         width: 5878
         height: 3927
         isCached: true
+  - title: "Artificial Intelligence (AI) in Precision Medicine Market Size, Demands, Status and Application Forecast to 2025"
+    excerpt: "Mar 16, 2021 (Market Insight Reports) -- Selbyville, Delaware, The latest report on Artificial Intelligence (AI) in Precision Medicine Market now available at Market Study Report, LLC, explains the current and upcoming trends besides details related to the ..."
+    publishedDateTime: 2021-03-16T21:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-demands-status-and-application-forecast-to-2025-2021-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence in Medicine Market Set to Make Rapid Strides in 2020-2027"
     excerpt: "Global Market Monitor is a professional modern consulting company, engaged in three major business categories such as market research services, business advisory, technology consulting.We always maintain the win-win spirit,"
     publishedDateTime: 2021-03-16T05:09:00Z

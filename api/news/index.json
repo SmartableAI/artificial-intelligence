@@ -10,7 +10,7 @@
       "originalUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-17-cachengo-announces-edge-ai-solution-for-local-computer-vision.md",
+      "title": "Cachengo Announces Edge AI Solution for Local Computer Vision",
+      "excerpt": "Computer Vision applications such as facial recognition are best done where the data is captured. This can be difficult when depending on data center or cloud processing of data. Cachengo is announcing the introduction of an on-prem optimized edge service with proprietary CDN technology and advanced analytics workload management designed to be located at the data source.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-aba0a4190983171d0616e1323f6b87f9",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-aba0a4190983171d0616e1323f6b87f9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-storai-raises-21-million-as-investors-flock-to-online-grocery.md",
       "title": "Stor.ai Raises $21 Million As Investors Flock To Online Grocery",
       "excerpt": "Tel Aviv-based grocery tech solution Stor.ai (formerly Self Point) has just raised $21 million in its most recent funding round.",
@@ -135,6 +178,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy.md",
+      "title": "ImageNet creators find blurring faces for privacy has a ‘minimal impact on accuracy’",
+      "excerpt": "“Experiments show that one can use the face-blurred version for benchmarking object recognition and for transfer learning with only marginal loss of accuracy,” the team wrote in an update ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
+      "originalUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/imagenet.png?w=1200&strip=all",
+          "width": 998,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/imagenet-creators-find-blurring-faces-for-privacy-has-a-minimal-impact-on-accuracy/amp/",
+      "publishedDateTime": "2021-03-16T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -191,6 +286,57 @@
       ]
     },
     {
+      "path": "_news/2021-03-16-new-5g-and-ai-studio-opens-as-part-of-collaboration-with-ibm-samsung-and-m1.md",
+      "title": "New 5G and AI studio opens as part of collaboration with IBM, Samsung and M1",
+      "excerpt": "The studio will support Industry 4.0 use cases for everything from autonomous vehicles to collaborative robots and 3D augmented reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/new-5g-and-ai-studio-opens-as-part-of-collaboration-with-ibm-samsung-and-m1/",
+      "originalUrl": "https://www.techrepublic.com/article/new-5g-and-ai-studio-opens-as-part-of-collaboration-with-ibm-samsung-and-m1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/16/3d54902c-e25a-42f2-a5a2-499d539dcd55/resize/1200x/44106328a937c60ae06c6177073353c8/ibm-samsung-studio-industry-4-0.jpg",
+          "width": 1200,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-5g-and-ai-studio-opens-as-part-of-collaboration-with-ibm-samsung-and-m1/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-5g-and-ai-studio-opens-as-part-of-collaboration-with-ibm-samsung-and-m1/",
+      "publishedDateTime": "2021-03-16T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-diversity-and-inclusion-in-ai.md",
       "title": "Diversity And Inclusion In AI",
       "excerpt": "With the increasing role that AI plays in business processes, the production of goods and the products themselves, the lack of diversity in AI and the invisibility of people of color will become a cascade of crises.",
@@ -199,7 +345,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -223,6 +369,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-amgen-announces-artificial-intelligence-ai-partnership-with-mila.md",
+      "title": "Amgen announces Artificial Intelligence (AI) Partnership with Mila",
+      "excerpt": "CNW/ - Amgen announced today that it has entered into a multi-year partnership with Mila – Quebec Artificial Intelligence Institute. One of the world's leading biotechnology companies, Amgen uses cutting-edge science and technology to discover and develop innovative therapeutics,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1456317/Amgen_Canada_Amgen_announces_Artificial_Intelligence__AI__Partne.jpg",
+          "width": 400,
+          "height": 218,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1049,207 +1246,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect.md",
-      "title": "Artificial Intelligence In 2021: Five Trends You May (or May Not) Expect",
-      "excerpt": "Artificial Intelligence innovation continues with explosive growth in virtually all industries. We cover five trends to expect in AI in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604fd2d38aad039afa630737%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/",
-      "publishedDateTime": "2021-03-15T14:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-computer-vision-and-deep-learning-ai-combined-in-self-walking-robotic-exoskeletons.md",
-      "title": "Computer vision and deep-learning AI combined in self-walking robotic exoskeletons",
-      "excerpt": "Robotics researchers are developing exoskeletons and prosthetic legs capable of thinking and moving on their own using sophisticated artificial intelligence (AI) technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210315/Computer-vision-and-deep-learning-AI-combined-in-self-walking-robotic-exoskeletons.aspx",
-      "publishedDateTime": "2021-03-15T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-amazons-secret-to-success-is-working-backward.md",
-      "title": "Amazon's secret to success is working backward",
-      "excerpt": "Inventing on behalf of customers is highly encourage and rewarded at Amazon. Bryar encourages business leaders to develop their own leadership principles, for scaling the business and recruitment of new talent. Bryar also encourages changing the process ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazons-secret-to-success-is-working-backward/",
-      "originalUrl": "https://www.zdnet.com/article/amazons-secret-to-success-is-working-backward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/15/c8f625fc-a207-444e-87d1-4036aa1456b2/im-298010.jpg",
-          "width": 620,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-secret-to-success-is-working-backward/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-secret-to-success-is-working-backward/",
-      "publishedDateTime": "2021-03-15T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-global-ai-in-computer-vision-market-forecast-to-2027-covid-19-impact-and-analysis.md",
-      "title": "Global AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Analysis",
-      "excerpt": "Dublin, March 15, Mar 15, 2021 (GLOBE NEWSWIRE via COMTEX) -- Dublin, March 15, 2021 (GLOBE NEWSWIRE) -- The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
