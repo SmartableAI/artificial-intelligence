@@ -35,6 +35,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "GM Subsidiary Cruise Buys Self-Driving Startup Voyage"
+    excerpt: "The autonomous subsidiary of General Motors, Cruise, has announced it will acquire self-driving startup Voyage. Voyage had been operating self-driving prototypes in retirement communities. Cruise spokesman Ray Wert declined to comment on the cost of the deal."
+    publishedDateTime: 2021-03-16T09:57:00Z
+    webUrl: "https://www.carscoops.com/2021/03/gm-subsidiary-cruise-buys-self-driving-startup-voyage/"
+    ampWebUrl: "https://www.carscoops.com/2021/03/gm-subsidiary-cruise-buys-self-driving-startup-voyage/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/gm-subsidiary-cruise-buys-self-driving-startup-voyage/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 24
 
 secured: "44tylR6N2TPXTtol90CJ3awzNUTzIDkbhEnyqhmTLD292HU91XWQ+WuPHmG5ZeBG0ReRHmL27FZckW8udzAVuoS6By4FVNz4k0eZGdAC7aRFrX4N9DsXLUBFxkMO9LTph4Duepaw/XMz53FIjbzuPS9jIkq8nAP7nuLnE9LGzHeqeM6uAKIyLBVUym3h5C/2AbLfAI3HoL8zO/Kvfq9GElr9e5697xvGWetvQ/hEoR//q0kM91aHHiBi/AWY7k2R169zmoZPm+MxFXW7Klxjixh4a2vfcJS/ol0qF4dU8xYhrfB60Ad0qupa+uJ0KxdZdnrnNkWfv1dWih/Kc0Q0xmzVAWf4omNcB+mBRuqAeAmFMOrb1gaA7MMmgb7dE1jFZjZUDXURbr+EQKAucwpqIorOAx38Tr4mIzrrqotriRkpby/PerFx+A4Rh2YTTyk5eeMbP9ihc9WckWwBA6c/tuRi/7Wphifm6rwZrw2lqPVhvAW02NhXLDoqmJAnDaGjHoFAC4wqkGM2ma5W8CnfMQ==;lzavUrWKIYknia1sRcceSw=="
 ---

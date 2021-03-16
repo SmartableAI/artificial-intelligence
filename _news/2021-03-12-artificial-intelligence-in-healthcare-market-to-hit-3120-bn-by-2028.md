@@ -3,16 +3,16 @@ category: news
 title: "Artificial Intelligence In Healthcare Market to Hit $31.20 Bn By 2028"
 excerpt: "The global Artificial Intelligence In Healthcare market size is expected to be worth around US$ 31.10 billion by 2028, according to a new report by Vision Research Reports. The global Artificial Intelligence In Healthcare market size was valued at US$ 2."
 publishedDateTime: 2021-03-12T06:05:00Z
-originalUrl: "https://www.reseller.co.nz/mediareleases/138491/artificial-intelligence-in-healthcare-market-to/"
-webUrl: "https://www.reseller.co.nz/mediareleases/138491/artificial-intelligence-in-healthcare-market-to/"
+originalUrl: "https://www.arnnet.com.au/mediareleases/138491/artificial-intelligence-in-healthcare-market-to/"
+webUrl: "https://www.arnnet.com.au/mediareleases/138491/artificial-intelligence-in-healthcare-market-to/"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AI in Healthcare
@@ -29,6 +29,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "lICcxFIhGqtsFFEiLcjGI9jbDGvUJmsac67eaEVcDKf1/dQ0MUf9rxUdU7Kb5iSnOv6dZsWIQtZ2QJ3SaLntRtWD7XV5qHqP/gVn0Glkg4Z1wZbjG3nOI1oHpjXmQFnDUxRO2K3jJ1TuOTWJQ7H+eLyVW4O17MREmc/sFYaIIU2PvOWq2Z/8dxNVsmt1UCJOlRAzc2l5qqAjMCwHxQCauAcRLUKEl6YV5gWABHXjFzBnL90+ShqOF61VoWFlqesHNaAPsU50boBb4ao+EBt4jr2dOJcdwnC7QlZGzXiNEE/ZTvYmnNxYJLqa4g+LWz1gBxRp9XG0pHmbbFKzAHUIPSboZdBS11wAOfkRG4+JseM=;Jb77sY/Lb15BrEUiUhPS4A=="
+secured: "6jPYgHdcON9AaZJj7P2BtxAONXcjNW4X9VOP3qK7ql+MusmvbMmTmXRJUcN4UDshjyYyEcqFsKE2W+Sk5ZBudXDukrZBdki/P1XNwkyPeVP3dDPNp3PgF0wjZNRHotilwFSCpK2grTZC9H55JmnA4HhboobneDW1kaInmpwqEZK7K+xBmnVm82rFDLbWeyHiXdAmhrIcd+Lo17vytP0EQKcCnRFBLlNq+ws8tcd3SsdXfZ2JneGQZtYrhLL4YkLXARVeGuNXMfevFvxB2QA7qsMLVj587PzhWdjJ13HiyMR590JOTolWdALVA2dV4+UZKNfnq12paZRI7gA4ODrsEn1k2Isat1V2JBGLlS/SlDM=;iUhky65asD+Yiy4Cjzu+oA=="
 ---
 

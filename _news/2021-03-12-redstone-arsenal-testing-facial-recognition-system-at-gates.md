@@ -59,6 +59,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "China state TV raps Kohler, BMW for using facial recognition"
+    excerpt: "BEIJING (AP) — Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for using facial recognition technology on visitors to their outlets in possible violation of privacy rules that took effect this year. The accusation came in ..."
+    publishedDateTime: 2021-03-16T08:25:00Z
+    webUrl: "https://www.chron.com/news/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+    ampWebUrl: "https://www.chron.com/news/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Facial recognition coming to Redstone next week"
     excerpt: "(WAFF) - Flashing your CAC card to enter Redstone Arsenal may be a thing of the past. On Monday, Redstone will launch a facial recognition pilot program at Gate 9 and Gate 1. The DoD pilot program will provide employees a new, quicker method for getting ..."
     publishedDateTime: 2021-03-12T23:30:00Z

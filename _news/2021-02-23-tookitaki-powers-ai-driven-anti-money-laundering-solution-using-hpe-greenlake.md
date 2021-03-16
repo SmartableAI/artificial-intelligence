@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 secured: "uAgu0R0nUtqtzg0dz+nb8wfGuyCY6++C2SdKbnLC1g9Q4eh9ZC15HgOtZq1wedEVdTw9kPQ2fho6i2xrZSam1niu+5iN03HLPx/M8DvabAO58x7L+2SarBmin1QEhV+lqYNwdfIgApoG/o/sGljZxzKEvlWFV5Rt1+TS82psPx8jCgGfL3Z9Z4QwgjqcKxurMwwrnQJvU1H6Mz74tgHMIfUPITOpYyWvNpu8fcENcTteSukM6zohSIiPeaPmP0WgVmv6fgSURMw1yEX7SZ4IbJq5MBVa0YYZzSk2teodiF0jwUqCg15//2lXUoFeFt6S6QRbRlFBF3k5CA3JGzYqgPyyoyaEWpwWTpu4nOlbkik=;4noJjDikuBXp/4ziViJS5g=="
 ---

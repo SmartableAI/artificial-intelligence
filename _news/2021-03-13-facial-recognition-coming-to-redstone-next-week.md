@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 824
         isCached: true
+  - title: "China state TV raps Kohler, BMW for using facial recognition"
+    excerpt: "BEIJING (AP) — Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for using facial recognition technology on visitors to their outlets in possible violation of privacy rules that took effect this year. The accusation came in ..."
+    publishedDateTime: 2021-03-16T08:25:00Z
+    webUrl: "https://www.chron.com/news/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+    ampWebUrl: "https://www.chron.com/news/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Immigrants’ rights groups sue facial recognition tech company"
     excerpt: "Two immigrants’ rights groups have sued Clearview AI, arguing the facial recognition tech company violates their privacy rights. The company is building one of the largest databases of human faces in the US,"
     publishedDateTime: 2021-03-12T21:15:00Z

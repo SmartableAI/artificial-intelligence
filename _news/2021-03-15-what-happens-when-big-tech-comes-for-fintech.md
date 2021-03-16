@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/what-happens-when-big-tech-comes-for
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15?amp"
 type: article
 quality: 54
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/fintech-APAC.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Opera hires PayPal and WeChat Pay veteran Allen Hu as new EVP of its fintech arm, Dify"
+    excerpt: "Opera Limited (NASDAQ: OPRA), one of the world's major browser providers with 380 million monthly active users globally, today announced it"
+    publishedDateTime: 2021-03-16T09:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/opera-hires-paypal-and-wechat-pay-veteran-allen-hu-as-new-evp-of-its-fintech-arm-dify-301248022.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1441977/Opera_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
 
 secured: "qsiZVyHf4bsJ95A1XJrGhGGbMSuudiA+F9OJHKUipfdSzWZml6qhXxQpKjUcyTIqvWIw8mz42bPL+mEany9IIwuamoUkYMDy8Q3G3QtQ7d6bvKmXhP0vniSZsT+UxO9zJ3aewxUu3WlXlSJ74wZHCAhu4X/0dXNAecjJZmYZtqyUT1r3VUrwVSqus6n5CqhtX1Xd4f3rYGXGYCcko4cGTGNfqxrmW1RWz1f8iksGbJGUMX+6mQJUDa+X/AO+cDhBaNc7/OqKW8XezE2do9DXjh4y+IWmk0nKW6VQGdQfiSCq1NCFdm4PqimnHj75xE+S1sN6Gp85P0+IqBkwoyXSQchev27z6Rxqjp5x0Tzv8Uo=;hyvlg8cvxBNVa4+2gRq/6w=="

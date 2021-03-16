@@ -9,7 +9,7 @@ ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearvi
 cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties"
 type: article
 quality: 71
-heat: 101
+heat: 81
 published: true
 
 provider:
@@ -28,31 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Legal fight against Clearview AI’s facial recognition service grows"
-    excerpt: "Demographic groups are joining states and nations in demanding that Clearview AI end its massive face-scraping biometric service."
-    publishedDateTime: 2021-03-11T17:13:00Z
-    webUrl: "https://www.biometricupdate.com/202103/legal-fight-against-clearview-ais-facial-recognition-service-grows"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
-  - title: "Facial recognition company sued by California activists"
-    excerpt: "(AP) — Civil liberties activists are suing a company that provides facial recognition services to law enforcement ... monitor their associations, and track their speech,” the lawsuit contends. The lawsuit said Clearview AI scrapes dozens of internet ..."
-    publishedDateTime: 2021-03-11T16:15:00Z
-    webUrl: "https://www.seattletimes.com/business/facial-recognition-company-sued-by-california-activists/"
-    ampWebUrl: "https://www.seattletimes.com/business/facial-recognition-company-sued-by-california-activists/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/facial-recognition-company-sued-by-california-activists/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 41
   - title: "Lawsuit Challenges Clearview's Use of Scraped Social Media Images for Facial Recognition"
     excerpt: "Facial recognition technology is getting more sophisticated, more reliable, and more pervasive as the world eases its way toward becoming an all-encompassing surveillance state. That surveillance state doesn't even have to be built;"
     publishedDateTime: 2021-03-15T13:38:00Z

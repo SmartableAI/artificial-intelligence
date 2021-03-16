@@ -3,8 +3,8 @@ category: news
 title: "Alibaba-backed Chinese AI firm Megvii to go public in Shanghai"
 excerpt: "The Alibaba-backed startup looks to issue up to 253 million class B shares for the offering, which could net it at least 6 billion yuan (US$922 million) after fees. Megvii said it will use the capital to fund research and development in robotics and visual ..."
 publishedDateTime: 2021-03-15T07:35:00Z
-originalUrl: "https://www.techinasia.com/alibaba-backed-chinese-ai-firm-megvii-public-shanghai?ref=recommender-678435"
-webUrl: "https://www.techinasia.com/alibaba-backed-chinese-ai-firm-megvii-public-shanghai?ref=recommender-678435"
+originalUrl: "https://www.techinasia.com/alibaba-backed-chinese-ai-firm-megvii-public-shanghai?ref=recommender-678592"
+webUrl: "https://www.techinasia.com/alibaba-backed-chinese-ai-firm-megvii-public-shanghai?ref=recommender-678592"
 type: article
 quality: 49
 heat: -1
@@ -82,6 +82,6 @@ related:
         height: 512
         isCached: true
 
-secured: "WtXBxOFcg0TjAtEtHFKms1yZPmkQrzW1Rtu2ZYxgsXl0xCsm3OOjcrRNvCcW0y8zmxukknGmadk9pXgCQi/bA0wiAUqA8qdUDc/fGdRzLQz+D3YENboXopTJkZQELxjphlXHUeo1E8B8byazMGZsWsUCOeDUISEQ3onWolKSKfJ0/Jhn4PBkJz98wnUQlkc1kGl+95UqihAeObv7o3aIX2Qz3pD7x0xEqDDWHhIZQaDhLhBshJjtj7hlFS3KpvQ02qppRgZXOcL61LZJ8Lfa/zwEAw4jSd2PzL22HEDX7s19FNfA7Pg3v+nQDz+HH9jjscZxwleVl7znLayxzrDCEFbbTSCqjVzqQfWVebDfwUB/yzRx1tUd9+jicdiYHzAsrohCWQ01up+yMiAoxGqXgJ1G3xByfZ48YTjTqYrmIUMApdvaIl4EqNtX6nBUu2N4s/EdW1SFFwA7J6S7C8mocZ6r+6FxbPPVDVEqPFwMHzKFx5IhZH1nRyFCC5Fxd4qjr7aUdU67slD2bDFclbjIrg==;ynnUdAlehNuwxjio8sdhEQ=="
+secured: "FLxsjF4acpBjLxHUfnaM53XyP1oI232fOQMXeCU9R9C5weq30jxaYT/ArltbS15KInOpaMfisvvgaG3RQYKc4qMreyOwazQ3GNb/aHanke/mzRsMnlmatfQzPkQTA2w6OYo/yTFDxeGaMqMtP9x8/Ni0Y+FflxrJaIKKt/FvWB089aFGjEo7hOhRfSKLQrp9oGgZcLPZt56LKNiXjd/HuIXx1oECYrS9iTUO0SiXKYZbHO/xA+vNjnk/xv/OzDGiw7FiNYNRU5kO3XQikfKkQOMDWGXxx3/XJRSFAS38dxs/TQ2ggjrF6aQu7YGpWO9/z725o/ORLmB5x1EuZSdLJaxC+lNvrtjmo3+I3TK0cq5zSPUv5FOKXauFica+SUtp055BDtJuluPBUD7mi9IP0MiVZrN8c08T3L/GYJ4CUttm0G2MPD9m+3bCWv/Ukaepr1gKOwRJLPVG9LqOgwpx9y/m6X3NpFyw9ARCD7P9P3fXGPoxI9LkesRfgUuidIDXO0b6D2u1XT7IStsTiPDVyw==;qbBCLUl2Bi/KAy/4SCxeYg=="
 ---
 

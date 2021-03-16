@@ -158,6 +158,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Opera hires PayPal and WeChat Pay veteran Allen Hu as new EVP of its fintech arm, Dify"
+    excerpt: "Opera Limited (NASDAQ: OPRA), one of the world's major browser providers with 380 million monthly active users globally, today announced it"
+    publishedDateTime: 2021-03-16T09:09:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/opera-hires-paypal-and-wechat-pay-veteran-allen-hu-as-new-evp-of-its-fintech-arm-dify-301248022.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
+    images:
+      - url: "https://mma.prnewswire.com/media/1441977/Opera_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "jXbv9jDUoIzspFX6OoDOZ5FDD2DX5b7XxG1jC6APPhMmYcl2zp/6+yxiP1RRJ5Yy6bpoeMF+Lwp/n0uabo/BK7zuyrhDSkWbFSC9LTh0VnWnH25mDPIQMt3mN75wVX2FPM8G+IQR7nJWOY6ID0FCMIeLHHxKGI0JWPdtEHkC8SfGNwcNWoItoacQBd0PDE7kI5XjUv9UCHdN2PjCk1GFw+9OxVuAg0E2S+V+K1lzVXxYH7jCIZfLJXV4mIPFs+o2ME0hKPf/BGv+iN+GOxakXS5YyG2Udxfojb1547oKZHK+JY4kAhM/vWf/fjEifHk+Wk0HopOyJFeRTowZiOo1MzlE7XTUTAoBEhgvKC7LspO6+1sDQYi3MLaw4DrB8Xz2TDE3qtfboVjw8/EU7OYj/lhkBzE1Qoyem0wRNWgM18mDvAQQvBTFUXsjzs+3CLV6YS93P1Z8S2tihPnXqJvEXc8lz9PsCO1BkVb0M8cxmiBLP9xL5SqKS4MMeTyWzzz49xeGTXWOU2wj7Ftih+X+2g==;QalLPh/IuwQdMcGiH5S0rg=="
 ---

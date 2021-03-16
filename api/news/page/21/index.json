@@ -1128,21 +1128,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027.md",
-      "title": "Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027",
-      "excerpt": "Selbyville, Delaware The report for Artificial Intelligence (AI) in Retail Market offers an assiduous analysis",
+      "path": "_news/2021-02-25-deepcube-unveils-deep-learning-suite.md",
+      "title": "DeepCube Unveils Deep Learning Suite",
+      "excerpt": "DeepCube is launching a new suite of products and services, including a software-based deep learning accelerator which runs on a range of current and next-generation hardware. The suite targets neural network training and inference while the accelerator is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027-2021-02-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027-2021-02-24",
+      "webUrl": "https://www.datanami.com/2021/02/24/deepcube-unveils-amd-powered-tools-for-deep-learning/",
+      "originalUrl": "https://www.datanami.com/2021/02/24/deepcube-unveils-amd-powered-tools-for-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/deeplearning_shutterstock_Connect-world.jpg",
+          "width": 1000,
+          "height": 632,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1152,21 +1152,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T13:21:00-08:00",
+      "publishedDateTime": "2021-02-24T13:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1175,6 +1166,7 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

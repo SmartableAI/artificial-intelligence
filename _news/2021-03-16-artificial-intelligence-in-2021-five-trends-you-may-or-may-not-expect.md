@@ -75,6 +75,20 @@ related:
         width: 680
         height: 583
         isCached: true
+  - title: "3 analytics and AI trends that will dominate 2021"
+    excerpt: "As enterprises continue to grapple with the pandemic, proving the ROI of analytics and AI, enabling intelligent automation, and leveraging data for diversity, equity, and inclusion will be critical."
+    publishedDateTime: 2021-03-16T09:00:00Z
+    webUrl: "https://www.cio.com/article/3251720/data-analytics-trends.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/01/big-data_little-girl_binary_analytics_sunglasses-100747393-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "3rvpQMX4PF0gqT38O6I2fLuLPvcjb2KpsPUYK+KN7nyx48tzTot1Ggsj+4v7x2/NNgdBmvTl6kWOT8mezCaLre/LPV/hdDdjw6ccHWWcySdvLToeANUOG9UfMmieBv4MiJLt3vQSDkwdnu9F5n35StbJRg5cZyxak/NekuwMvs1put5CxMTQvyp1lQ/jaeohjJ2yaw71I+8GgnU10UpTaaP04VeNNn6aznn4GjfvucnBaX7Ovez5N8BylVAjio2pclvgaUnmS1Fult2bperbq3bEexAVpue3h4zj+aaiH0kwd6ra5MDXQrux2oFy3yXdFb72BouUCycq1NmC2zkuVe2y1ySaMcZ1+BbtN6JvW9z5Ndzzo7dxPtr4dom1G8PefaLT5/wIn5FGwaBac+prWVLQjJAor8bwZ0mIXkpRzmCEq6R48U3q7Et5ETPCbE1dRK++B1YUpdTOCTVOrAOt7R/tCWqx6lO86UVbWls+OWecSAVFa/Y5SogjK9zYe4cGFgDHYK4/N+R/t7mnca22PA==;ifaX1PE0cipCF2sPeqeGIQ=="
 ---

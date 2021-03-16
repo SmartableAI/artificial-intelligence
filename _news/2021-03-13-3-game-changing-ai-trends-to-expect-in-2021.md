@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365807"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365807"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.roboticstomorrow.com/images/upload/images/DeliveryRobots(2).jpg"
         width: 680
         height: 583
+        isCached: true
+  - title: "3 analytics and AI trends that will dominate 2021"
+    excerpt: "As enterprises continue to grapple with the pandemic, proving the ROI of analytics and AI, enabling intelligent automation, and leveraging data for diversity, equity, and inclusion will be critical."
+    publishedDateTime: 2021-03-16T09:00:00Z
+    webUrl: "https://www.cio.com/article/3251720/data-analytics-trends.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/01/big-data_little-girl_binary_analytics_sunglasses-100747393-large.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Cenf75IzptFb9Fgt2CVC70sOQ06r5YB961GzY2xERyh72SNsKHp1mxGahGLz9jDz5IF8Tn54o9fkKGDvqKqviJ6SIFKQEH/z4kLCIFBdIT401ALu6b89xqfHLlD4F5i9P4A1mhBa6+gFut86iD6v/AntLLOpthLa8zXRW+U3wO0XEEzC1zGgTQAws3Pn9uwZTsBuG2of4G5QCwVGzJ0niYxamM6m+pQ9I9UAyr7HtD5jHw2Jqj5LPuoPbGf22xlLZP9kiOpTzRNknh9TCpXmb439jBDwWJTRRsvlwDRW6dS2qJKwpH6H0Lp9PL7VEyc3SpDkPDPbRo/8XkmgjilO2PTUiCjjGqE9dUOyaceHNqo=;hpz3CKGKeYpMpAPkEUF0gw=="

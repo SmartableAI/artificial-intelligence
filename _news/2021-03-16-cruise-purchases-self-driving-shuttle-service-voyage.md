@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-voyage-purchased-self-dr
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "GM Subsidiary Cruise Buys Self-Driving Startup Voyage"
+    excerpt: "The autonomous subsidiary of General Motors, Cruise, has announced it will acquire self-driving startup Voyage. Voyage had been operating self-driving prototypes in retirement communities. Cruise spokesman Ray Wert declined to comment on the cost of the deal."
+    publishedDateTime: 2021-03-16T09:57:00Z
+    webUrl: "https://www.carscoops.com/2021/03/gm-subsidiary-cruise-buys-self-driving-startup-voyage/"
+    ampWebUrl: "https://www.carscoops.com/2021/03/gm-subsidiary-cruise-buys-self-driving-startup-voyage/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/gm-subsidiary-cruise-buys-self-driving-startup-voyage/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 24
   - title: "GM's Cruise to buy self-driving Silicon Valley startup Voyage"
     excerpt: "General Motors' (NYSE: GM) autonomous-driving unit Cruise has agreed to acquire Palo Alto-based self-driving transportation startup Voyage, the companies announced Monday. The acquisition will allow Voyage to expand its autonomous vehicle operations,"
     publishedDateTime: 2021-03-15T19:16:00Z
