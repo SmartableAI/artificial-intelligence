@@ -24,81 +24,65 @@ images:
     isCached: true
 
 related:
-  - title: "3 Game-Changing AI Trends to Expect in 2021"
-    excerpt: "AI’s proliferation is moving faster at both the software and chip level, with chipmakers like Intel, NVIDIA and Qualcomm adapting AI technology into their systems. Enterprise and software developers are applying it to data and applications as well ..."
-    publishedDateTime: 2021-03-12T17:01:00Z
-    webUrl: "https://www.entrepreneur.com/article/365807"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/365807"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365807"
+  - title: "AI and big data analytics startup Noogata nets $12M"
+    excerpt: "Noogata, a startup developing big data analytics and predictive modeling solutions for the enterprise, raised $12 million."
+    publishedDateTime: 2021-03-16T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/"
+    ampWebUrl: "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1615307268-GettyImages-1183002137.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Artificial Intelligence In 2021: Five Trends You May (or May Not) Expect"
-    excerpt: "Artificial Intelligence innovation continues with explosive growth in virtually all industries. We cover five trends to expect in AI in 2021."
-    publishedDateTime: 2021-03-15T21:57:00Z
-    webUrl: "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/"
-    ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604fd2d38aad039afa630737%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Three Top AI Trends To Watch This Year"
-    excerpt: "While businesses have started to realize tangible benefits from AI, there are still a number of yet-to-be-proven AI technologies in the early stages of the Gartner Hype Cycle."
-    publishedDateTime: 2021-03-16T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f62c590ff278ef5d11de2%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/2b8ab143-423c-47d7-88d0-f31e9f51a01b-e1615408437690.png?w=1200&strip=all"
         width: 1200
-        height: 806
+        height: 600
         isCached: true
-  - title: "Three Steps For Rethinking How To Operationalize AI In 2021"
-    excerpt: "Operationalizing AI is all about how to take the small AI projects you've been experimenting with and applying them to real business problems by replicating them at speed and scale."
-    publishedDateTime: 2021-03-15T12:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/15/three-steps-for-rethinking-how-to-operationalize-ai-in-2021/"
+  - title: "Noogata raises $12M seed round for its no-code enterprise AI platform"
+    excerpt: "Noogata, a startup that offers a no-code AI solution for enterprises, today announced that it has raised a $12 million seed round led by Team8, with participation from Skylake Capital. The company, which was founded in 2019 and counts Colgate and PepsiCo among its customers,"
+    publishedDateTime: 2021-03-16T12:00:00Z
+    webUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604b9bcc7165ca2a45d6a644%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222192913.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "How AI is Changing the Future of Supply Chain Costs"
-    excerpt: "Artificial intelligence is one of the technologies driving business ... AI is powering the emergence of autonomous vehicles, smart and driverless freight transportation methods that can react with speed and awareness that no human could match."
-    publishedDateTime: 2021-03-12T13:22:00Z
-    webUrl: "https://www.roboticstomorrow.com/story/2021/03/how-ai-is-changing-the-future-of-supply-chain-costs/16414/"
+  - title: "Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security"
+    excerpt: "Mavenir, the industry’s only end-to-end cloud-native Network Software Provider and a leader in accelerating software network transformation for communications service providers (CSPs), announced today its extended Artificial Intelligence (AI) and Analytics portfolio to enable closed-loop automation and drive digital transformation."
+    publishedDateTime: 2021-03-12T06:43:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-communication-technology-software-industry-250871eff3b2455482960cc3052e0395"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
     images:
-      - url: "https://www.roboticstomorrow.com/images/upload/images/DeliveryRobots(2).jpg"
-        width: 680
-        height: 583
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Team8 Leads Financing Round In AI Enterprise Platform Noogata"
+    excerpt: "Noogata is the first company established within the framework of Team8 that does not deal with cybersecurity and privacy."
+    publishedDateTime: 2021-03-16T14:15:00Z
+    webUrl: "https://nocamels.com/2021/03/team8-seed-ai-enteprise-platform-noogata/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/03/Noogata-Full-Team_Credit_-Nelli-Guy-scaled.jpg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "PiGmkuc8VD0fI/Wqbz6KTnlX7DanJZx2uXN6uvnEhhsBBuktFnIzqNJ0GaehnuIqtOPprBr+I+2eCtZrvnB/0Rfr1Wmw5uH/tyyOrHaLkj0TcxFLiOzIdgYvRKn7VM9+4VXS5t/mLibvt+hNXDnmyiFeNNsTonjuiaNMstCDVb6vJYyJhrsh6y7FgKYS1qd2JpgVMLxGnu7efLQ9MuASGwvGnNDQeI3AycvvES6Eq1rgCbAOn3PzNbvt4nunQNzHJ9l/PxPyE1wr0sOYJh/gFnUtH89E7Rw3Otv61lK7dnKUk60y4x/dUnbs0BS6Y5Tj9BKh0Ce+nuy1khVF9dVAQgcuHFlJAKMilM7hqGB2IDlTI8BuGhG925B8D+eLUWV4G8QYKTDHVCFmy5UlSaB+hPyDTHaE8yfM2sBT//EChgY6ngoGCZg0YyWX9I5y2pGBpJo4MxFpuMSBmZ/Hq4L8BzvdP3DQ4hgB9Q+UogqZajv9SeJBbWhml7RhAwy/WF/gBbU2XDkYNm/t/mNJ+XZpeA==;WnIq5nssQpHgTQjW4RwMhw=="

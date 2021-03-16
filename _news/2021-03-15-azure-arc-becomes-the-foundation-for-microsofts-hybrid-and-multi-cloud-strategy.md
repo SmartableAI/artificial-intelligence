@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft, Amazon must face facial recognition data suits"
+    excerpt: "The Monday orders from U.S. District Judge James Robart in Seattle come in proposed class actions that accuse the tech giants of unlawfully collecting biometric data to improve their facial recognition technology from an International Business Machines ..."
+    publishedDateTime: 2021-03-16T17:33:00Z
+    webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition/microsoft-amazon-must-face-facial-recognition-data-suits-idUSL1N2LE215"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LE215"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE215"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
   - title: "Microsoft 'Seeing AI': Imagining a New Use for Computer Vision"
     excerpt: "A Microsoft Research project is expanding the capabilities of computer vision systems to help visually impaired users navigate everyday tasks."
     publishedDateTime: 2021-03-12T14:09:00Z

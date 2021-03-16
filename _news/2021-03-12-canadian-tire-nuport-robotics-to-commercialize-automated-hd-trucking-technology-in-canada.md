@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 663
         isCached: true
+  - title: "NuPort Robotics receives $1 million from Ontario for autonomous trucking project with Canadian Tire"
+    excerpt: "NuPort Robotics and retail giant Canadian Tire have received $1 million from the Ontario government for a new automated heavy-duty trucking initiative."
+    publishedDateTime: 2021-03-16T18:40:00Z
+    webUrl: "https://betakit.com/nuport-robotics-receives-1-million-from-ontario-for-autonomous-trucking-project-with-canadian-tire/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 40
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/03/NuPort-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "NuPort Robotics to conduct self-driving middle-mile truck project"
     excerpt: "During the two-year project, artificial intelligence technology from NuPort will be used in two retrofitted conventional semi-tractor trailers with sensors and controls. Source: NuPort Canadian autonomous trucking startup NuPort Robotics Inc."
     publishedDateTime: 2021-03-12T13:33:00Z

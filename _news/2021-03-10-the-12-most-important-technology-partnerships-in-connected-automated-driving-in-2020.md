@@ -1,15 +1,15 @@
 ---
 category: news
 title: "The 12 most important technology partnerships in Connected & Automated Driving in 2020"
-excerpt: "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships."
-publishedDateTime: 2021-03-09T16:47:00Z
-originalUrl: "https://www.wicz.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
-webUrl: "https://www.wicz.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
+excerpt: "Also, Artificial Intelligence is one of the key enablers ... and lose access to a large revenue pool. July 2020: FCA-Waymo Technology domain: Autonomous Trucks and Passenger Cars What: FCA and ..."
+publishedDateTime: 2021-03-09T23:03:00Z
+originalUrl: "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
+webUrl: "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
 type: article
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - AI in Autos
@@ -21,6 +21,6 @@ images:
     height: 363
     isCached: true
 
-secured: "vfrf1lStydouuF2pm1lCuKUvS6eiaAarMklEYh1zbthpAVT7/rxoph0oOZ6i+A2jteeF3FUiZX58eXcseYefhSJGn9M38/9aSquUxhQcoaZVGJSdLlmSeiIZLdgHUZ16YQ/NOXZeHOD//dErwQQMHkVs+IDxee19M0G6FSUySH5UXhePTcaMnVEotRNGwP90BYtURl+fpTTBhGnVXBVdLfAk/RHugb5e1pg3jUIMCZmeC6w1FZWY5AGV/SmWEyh/ZmivFhgXSCqrxswxigMopqf0Zep2nrQwBLHJuk+BxBPBsS0LcWkhFMLVGTCcpZzk5JjTQBE2ZgGeM+nxI9MjdcLr+v3XWkFpbxnHi5tLrS5avAxAM4l5mXYzOxkfn1EC22lZ/nEMLzOAEyc36d14OkZg4AOZ/Q6XIeEJgPWSn6FTmDsy2652Gl8yB1uoenhx/WascKsG0h0t7kOOF+L6X5cuPY5vVI3KUcrwWwINiOznSclV36mrHOAKWE4opYLfX5siqGaSAuH2dBcHZxu4jA==;ud9koIiLbWP93jO7rIVKcg=="
+secured: "/WUI+tBwjulOyFGZQlF7GmeY4+E/klsjizuFiaVhcKGras6PadhILv7IkiDn/CTeBXS8twrhI0Fnz/gxJ4K5QvZJHIExgC9jlLXmTkSy8Nelyf7FYUs40ZN9TbCnL3TgtwxxStdwc1dig05Dzu3Yy5j2j8PlbQG8g6BMAokDXpbiPDQoQWVgXH9NbaPCDNtiQ3adwO8HjOeGdKu+rurNXrmtKfSoEa7Dh1Mqnb+qSVbOrMHrN2AfO0TOhVCIvAZKhi+Z/BzBQgXzQXXB5lW3nHeykVgwedMnMQcMQHneziIlYBXbA+lZb+M5AGobE6n1zE8x8QUKo69KvSIVBl481Bc/86tvhW9jFT4xzB3BnNU=;iCLmcbD+MEWFlaUmilR7TA=="
 ---
 

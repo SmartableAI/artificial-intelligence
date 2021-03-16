@@ -30,6 +30,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Opera hires PayPal and WeChat Pay veteran Allen Hu as new EVP of its fintech arm, Dify"
+    excerpt: "OSLO, Norway, /PRNewswire/ -- Opera Limited (NASDAQ: OPRA), one of the world's major browser providers with 380 million monthly active users globally, today announced it has hired PayPal veteran Allen Hu to become new Executive Vice President (EVP) of Dify,"
+    publishedDateTime: 2021-03-16T19:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/opera-hires-paypal-and-wechat-pay-veteran-allen-hu-as-new-evp-of-its-fintech-arm-dify-2021-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "From Wedding Planning To Cannabis, B2B FinTech Funders Go Niche"
     excerpt: "From wedding planning to cannabis to the entertainment industry, this week's B2B FinTech investors targeted financial solution providers in niche markets."
     publishedDateTime: 2021-03-12T13:00:00Z

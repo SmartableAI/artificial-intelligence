@@ -20,6 +20,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "How Highmark Health roots out fraud, waste using AI and shoe-leather investigating"
+    excerpt: "Each year has its own feel and own themes and some of those were pretty consistent in 2020 with years past. But with Covid we did see some new, unusual scenarios and schemes come up.”"
+    publishedDateTime: 2021-03-16T19:31:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/news/2021/03/16/highmark-health-shoe-leather-investigating.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 11
+
 secured: "zlQc0NG6rH70ffn85aJ2wubF/QZnHZrBZX5spJP8Hibqr3oFu7/QCH/SLHF1E0TDCxiX3pNPUF9Nv1GdiyZeOSZhZuqsZaboXqmxQ/Cb0pRq7sbWxEDGGCDBasticrhovOPzRABMIHO9rduXO5Z/PEd4ooICJ2pNTJnBQVVKm2DLutVj+6RjKVImA5UiA95CA6cURmXaAHRm1t5AUjvH1h64QyNNh+kqKYUb7iBpWfSTT0sLvjbEWsg1Okn1XxlSWty3wbNAhFZrY2GDmsp9SHkA8FpPUrs4/bul5WPodeqlX/ibp8Rj0fApUGPDg5YHl7j0FNmYz0QLc2X+uWgc9TLgHNZhYn3hrSpM2QQE/JQ=;MslI4a7X0kNoJPdoSNPSTQ=="
 ---
 

@@ -42,6 +42,17 @@ related:
         width: 1000
         height: 562
         isCached: true
+  - title: "Microsoft, Amazon must face facial recognition data suits"
+    excerpt: "The Monday orders from U.S. District Judge James Robart in Seattle come in proposed class actions that accuse the tech giants of unlawfully collecting biometric data to improve their facial recognition technology from an International Business Machines ..."
+    publishedDateTime: 2021-03-16T17:33:00Z
+    webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition/microsoft-amazon-must-face-facial-recognition-data-suits-idUSL1N2LE215"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LE215"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE215"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 86
   - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
     excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft's"
     publishedDateTime: 2021-03-16T12:07:00Z

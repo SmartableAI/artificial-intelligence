@@ -9,7 +9,7 @@ ampWebUrl: "https://www.edsurge.com/amp/news/2021-03-15-ai-is-changing-the-workf
 cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-03-15-ai-is-changing-the-workforce-at-this-district-it-s-changing-the-curriculum-too"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 640
     height: 260
     isCached: true
+
+related:
+  - title: "How AI is Changing the Future of Supply Chain Costs"
+    excerpt: "Artificial intelligence is one of the technologies driving business ... AI is powering the emergence of autonomous vehicles, smart and driverless freight transportation methods that can react with speed and awareness that no human could match."
+    publishedDateTime: 2021-03-12T13:22:00Z
+    webUrl: "https://www.roboticstomorrow.com/story/2021/03/how-ai-is-changing-the-future-of-supply-chain-costs/16414/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 39
+    images:
+      - url: "https://www.roboticstomorrow.com/images/upload/images/DeliveryRobots(2).jpg"
+        width: 680
+        height: 583
+        isCached: true
 
 secured: "JttIGVpNWHMvT27GFDVL6a1xdZOLXEK0DtMXI/4ltkjKvyVANaZwq/nOCWoB4wb4gfAoJjHhT95XoTAuBluFj+wq+h5NGsXVpq2fiUzk73WEQslCbblnKRb6yG9d7rEHDrkLBIpOAxVoII4Nk8k6nO09GS65aIhZu9u2p3io8peY52gLrmvwrRrzgWL0Bc0M1bHRtZXIHikxbsuVEbpBOruEtz5+/Q/twRhVoT4ltcORS/neSpVj/soB1exLb9cgGr9mRWXWxJroWbXbYjYqZs8PdWfLYAuOTwm1nIL2YbWYkV8N/fIVlB03rtcteTYng6wnsaoUrAPcGGgy4vHnz2KUW78KzEAghQhuR52Bp2C1hefwispp4sSAxbQL6YBF8qKzqQr9mkyhb0XxUsyimrdo1TnF+o8OOvdOW2D0R4x3+HwxRoidrQ5kbBjd4u6BJ4Wr8E3/jhRJt3ynZGXU542XcBPWtUa6jUYuHF0HM1O0o50x0uvVhYJhA3g986UMdSGMD77SCJfyblVEVvd7yw==;q70UQIP3WnrIk5Lz/qhNQQ=="
 ---

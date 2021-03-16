@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-15T10:29:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-to-be-driven-by-the-rising-digitalisation-of-data-in-the-forecast-period-of-2020-2025-2021-03-15"
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-to-be-driven-by-the-rising-digitalisation-of-data-in-the-forecast-period-of-2020-2025-2021-03-15"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

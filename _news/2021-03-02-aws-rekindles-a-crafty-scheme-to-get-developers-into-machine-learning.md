@@ -2,11 +2,11 @@
 category: news
 title: "AWS rekindles a crafty scheme to get developers into machine learning"
 excerpt: "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model."
-publishedDateTime: 2021-03-02T12:12:00Z
-originalUrl: "https://www.techradar.com/uk/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
-webUrl: "https://www.techradar.com/uk/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+publishedDateTime: 2021-03-02T11:47:00Z
+originalUrl: "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+webUrl: "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+ampWebUrl: "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
 type: article
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 270
     isCached: true
 
-secured: "wYjSxnJHncm+x83wuTiRcTkfUtrWn+8r6beX53q/KTBJeGOmcPXIXsjtn9wHfitNSamBvi1c/BfbpATvyJxv/gBeM6b/tw4yLexWYnqccXlLH12JaED2OCgk+Ka1Ca47LnKctN/eZ4sY9ZoH0N80BdU6geirxwp2sdCPkYCWKBn2R5jYLMsV4P5auS1YsTogJFmul5bC19mDYmxcIoYFAsC1crSaAB4jm1RxJKWTVE2oe5KVcDnnofNE4Gm2Fzwq1Ldt+6CWcmG4De+Uf6QSGjzBFlACP6j9Zs4H6XiRu+rcQjbQoatvY+ZSWWBsI0hc2APB33R6tWo2BMNw+NCV8a1MKEZZMZojKqxMj2AhGqg=;05jU2RBJZ/215FmI+27n4Q=="
+secured: "XmCeneO5EFWgXXWUnwV/MLseBA4kafFaHcpbyPYdH49mOZi3C4d84fnBPFDvwO9kTUIaBNbv1xaBn9dWKVRtfr5pWlOSJXrcjv7zYsywUuwzOSuLOt+T/FaSSkzdpSP5wbs7o+F6r5nlw86XQ5r8bag98R9v2onVf248Tylrijbc1AA/y09c9As3b5UuWjGXkaJHdmXhj2qTSni3AK7dMn8qnXi8ibtK6AT0EWT+M5wJoeQhF4RJKSJadh0Ga/91TJGs3Kq6TWPgj0D2Jyg8ckbv3TbMhCHECuK0UTfntuM+hkR/Mo0nko67KL8EHW4R3P4uQcAxe2RabWcCJUMJTl+Zx/uAO0D4AyUOBZJpbfI=;lPyMhpjjL/8caH7UkSTc/g=="
 ---
 
