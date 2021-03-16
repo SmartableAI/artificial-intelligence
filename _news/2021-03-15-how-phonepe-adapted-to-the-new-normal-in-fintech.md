@@ -174,6 +174,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Vesta Named \"Best Financial Transaction Security Company\" in 2021 By FinTech Breakthrough Awards Program"
+    excerpt: "has been selected as winner of the \"Best Financial Transaction Security Company\" award in the fifth annual FinTech Breakthrough Awards program. Vesta provides an end-to-end solution using machine learning to detect and avert online fraud, including account ..."
+    publishedDateTime: 2021-03-16T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vesta-named-best-financial-transaction-security-company-in-2021-by-fintech-breakthrough-awards-program/article_cc41f8f3-6152-5502-b45b-ad758e9ae16b.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "5 trends and opportunities for the FinTech industry to watch out for in 2021"
     excerpt: "the emergence of various disruptive technologies such as AI, blockchain and cryptocurrency, increasing focus on open data opportunities, regulatory clarity in jurisdictions has all contributed to the revamping of the FinTech ecosystem. Even though one ..."
     publishedDateTime: 2021-03-15T09:59:00Z
@@ -202,6 +216,15 @@ related:
         width: 1200
         height: 439
         isCached: true
+  - title: "This Silicon Valley fintech is helping Lyft drivers get PPP loans before it's too late"
+    excerpt: "Work for Lyft? Income down due to reduced ridership? You might be able to get a PPP loan, but time is running out."
+    publishedDateTime: 2021-03-16T15:54:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/03/16/bluevine-helps-lyft-drivers-get-ppp-loans.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "qfdJay9hVi4+QyYU3WdCbVH/BzG2wq2icHhNad5Ffbq+mfkV42N2orS7sZkDvHrOjHbPS2Htqr6RegmwXedTCUGU4f9o4vcqB8Cboi3W+IfI2YmF9zrzc5Pwl3gBRyFInWx47XScc+k2dPOWQ1BA3DFARAdc9PlirwK6xzfMK8fDJkc+DBL75eVHt6hQqKeDUBGj36wEaJFPiLJOj2BnJrQS2plvBLbeyFnxW7dsD1BsxBbBJscOfGPx/0niVlhn3LyWG7UqiLJ74xin/X+eAnANCqGIoSW/yYw3jgz7Iev3bN14+sNbXzUSkCCzGaZ89JwHQwD5nw2KKDbmfWn/YtDM0r2nco5/D4hj2eqPK93bj2TChcdS9RukCSikbs6L8Lc6LQpkKSKc3Z8GsHryorrN4QN2cFC0ZQges0lF3Iot+asT+246J35QFuJK1X8bfdjUsUylcXW/dAggAqEUib7fEe5nsT9rHo4B2oMD9kfp0ujApAzxwaDgkzml1M4u+u4PI/enpnhpNmz1gNVLLw==;fF8efIdbYUTdl8CDccQuqg=="
 ---

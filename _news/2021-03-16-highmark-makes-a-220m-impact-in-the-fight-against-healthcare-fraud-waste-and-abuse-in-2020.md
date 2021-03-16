@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Highmark Makes a $220M Impact in the Fight Against Healthcare Fraud, Waste and Abuse in 2020"
-excerpt: "Highmark's Financial Investigations and Provider Review (FIPR) department generated more than $220 million in savings related to fraud, waste and abuse in 2020, and"
+excerpt: "Highmark's Financial Investigations and Provider Review (FIPR) department generated more than $220 million in savings related to fraud, waste and abuse in 2020, and has made"
 publishedDateTime: 2021-03-16T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/highmark-makes-a-220m-impact-in-the-fight-against-healthcare-fraud-waste-and-abuse-in/article_5b1ddf95-1a6c-52f5-87da-7ba8bc285cfc.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/highmark-makes-a-220m-impact-in-the-fight-against-healthcare-fraud-waste-and-abuse-in/article_5b1ddf95-1a6c-52f5-87da-7ba8bc285cfc.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/p20186671/highmark-makes-a-220m-impact-in-the-fight-against-healthcare-fraud-waste-and-abuse-in-2020"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/p20186671/highmark-makes-a-220m-impact-in-the-fight-against-healthcare-fraud-waste-and-abuse-in-2020"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20186671"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20186671"
 type: article
 quality: 43
 heat: 43
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "kS2N4SJWeHHh+h2CL0SK+HwOY837Jo+EyRjU450i6fGMhLmgZwhyNUrCEENg6YrhdmGqE0DW9Ds1laM+3Faxsb1pHKdVcrEJLM59tkp3Xg/IVhhcgeKF+oNu1qkinbHpvIIGsj8Y1hSPrCYcZSajaAlJmD9TbrPT0xXFkyCSTyAYnDDaDoWlmBQTf7lPwoleDVDir07laHF0P49BaPsaQeWCbUxl5Lgqy1gLiDCzHAQ2JU2a6sDnm9Ah9Awi6rnssKMGOBnRamGrZJV4XB2eItRxm+6DJY/enY262+90daVZ8DBofyycqdCbr4SGv2E8SJZq+zcPvBP6eEXGvdkHXxivAATQZXnUWmNSgPqVW8k=;MxZ1yusA8jGM0hW5sJEBEw=="
+secured: "zlQc0NG6rH70ffn85aJ2wubF/QZnHZrBZX5spJP8Hibqr3oFu7/QCH/SLHF1E0TDCxiX3pNPUF9Nv1GdiyZeOSZhZuqsZaboXqmxQ/Cb0pRq7sbWxEDGGCDBasticrhovOPzRABMIHO9rduXO5Z/PEd4ooICJ2pNTJnBQVVKm2DLutVj+6RjKVImA5UiA95CA6cURmXaAHRm1t5AUjvH1h64QyNNh+kqKYUb7iBpWfSTT0sLvjbEWsg1Okn1XxlSWty3wbNAhFZrY2GDmsp9SHkA8FpPUrs4/bul5WPodeqlX/ibp8Rj0fApUGPDg5YHl7j0FNmYz0QLc2X+uWgc9TLgHNZhYn3hrSpM2QQE/JQ=;MslI4a7X0kNoJPdoSNPSTQ=="
 ---
 

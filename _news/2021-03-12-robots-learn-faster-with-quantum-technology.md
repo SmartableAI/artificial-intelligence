@@ -22,17 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Researchers Prove that Robots Learn Faster with Quantum Technology"
-    excerpt: "Robots solving computer games, recognizing human voices, or helping in finding optimal medical treatments: those are only a few"
-    publishedDateTime: 2021-03-11T23:28:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/researchers-prove-that-robots-learn-faster-with-quantum-technology/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 19
-
 secured: "/wKKrRED3SOQvdZDZjHlKR3/YL+D8RGUwjIt/D31dTL14sCwfZY+IwltnN8qYwdNDzHqQ7AsaiuTq0mhW1cjb9+xj4grN4deNLeefSaIw9prUmkxes880+WmRnQSV2NHt3aXYV+n0IsJgz+t1o2+/PkyHoPTH6vvaWvDW9vM3WgwS8e75tIEBPesZywHiHux3pYBVQ8zjJSe0JXhqMzrtNMVMaW1f8DCTL2PLMDs9fWDWR1V/XSLg2chuMCwkaiHJTAUquDNjG/NiYPmtA/Irt8G+Alw59ldTlbQjauAuFE0WTW63XMpE1+4Nf4wau0mVshrkQra9XH63CuyMUcVGoslRnSuG+iFr/J665LX7I4=;qNZfiHIvEctd6LhL9xkFLQ=="
 ---
 

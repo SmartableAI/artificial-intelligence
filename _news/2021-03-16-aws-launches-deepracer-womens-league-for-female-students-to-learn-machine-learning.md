@@ -70,15 +70,6 @@ related:
         width: 2560
         height: 1623
         isCached: true
-  - title: "Retrain.ai raises $13M to help workers reskill and upskill for better jobs"
-    excerpt: "retrain.ai’s CEO is Dr. Shay David, the serial entrepreneur known for previously co-founding the video enterprise leader Kaltura; Isabelle Bichler-Eliasaf serves as the company’s COO, after previously co-founding an HR startup, leading it to a ..."
-    publishedDateTime: 2021-03-11T23:59:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/03/12/retrain-ai-funding/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 15
 
 secured: "pLaQdaEl7N3CbCK3AS0xgayU0WNOqZ7WhACpeJdbnydF0f4z6naZxpud5J21Te+21ZyiYX6cio/p/TZq/EpSmJUBL+k1D845mxqjrKNjTy80TLkLTKGT9jEqNOKsywNaDneTOhaEYYNqZROn8E5KQuBpIN4otFALDf4sjCFWhuUvSzPnwjKqLVKbyzQMNo8nbgM7V5prAL3W0/ROXWqqKn0Um85WuylvAAKQgh6liij3XjA1Hd3WM1B2u6s8i6ssEi5yXjuz7QYUkoa7JD3Y/Ix1vmigEdVE3DFzvYJ2H3FKPJTA56gH+L3HDKojCTnNz7mU34b7xQ5IuivxOBN06xElORHogaHNDb0uQr/czyg=;jENim6lsS8sCN0S+gvr7qg=="
 ---

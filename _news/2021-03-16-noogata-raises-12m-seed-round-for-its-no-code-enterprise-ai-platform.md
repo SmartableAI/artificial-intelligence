@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Intel And Microsoft Work With DARPA To Solve Biggest Analytics and AI At Scale Problem"
-    excerpt: "Getting secure global data access to data is a key problem. This problem came up early on as the industry spun up advanced Supercomputers and AI systems Intel and Microsoft, working with DARPA, are beginning a process that will create an ASIC-based solution that can work across borders to enable the secure analysis of data wherever it resides in the world."
-    publishedDateTime: 2021-03-11T22:51:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/intel-and-microsoft-work-with-darpa-to-solve-biggest-analytics-and-ai-at-scale-problem/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 48
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/02/storage.png"
-        width: 1400
-        height: 732
-        isCached: true
   - title: "Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security"
     excerpt: "Mavenir, the industry’s only end-to-end cloud-native Network Software Provider and a leader in accelerating software network transformation for communications service providers (CSPs), announced today its extended Artificial Intelligence (AI) and Analytics portfolio to enable closed-loop automation and drive digital transformation."
     publishedDateTime: 2021-03-12T06:43:00Z
@@ -74,7 +60,21 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Team8 Leads Financing Round In AI Enterprise Platform Noogata"
+    excerpt: "Noogata is the first company established within the framework of Team8 that does not deal with cybersecurity and privacy."
+    publishedDateTime: 2021-03-16T14:15:00Z
+    webUrl: "https://nocamels.com/2021/03/team8-seed-ai-enteprise-platform-noogata/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/03/Noogata-Full-Team_Credit_-Nelli-Guy-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
-secured: "3VelROL9Sq4HZ6sONFzYZhIZ05sAZnlHGvq7qMv8WdUNOqSXhx42d6gldtukRArTUijlotKyOtiQsxV0IKtlPX6q8p+YhPvPejf+gltU+AMyXZLlXZk7d8rgBdN0T+9MOauLsS5ttfGTrPGMu8Q2TFxoCw2SRdV+xg7LmoAJo3hNaZEx2Scx37fVEau97zpWM7jky14xwgqxslMarD17rmLfBQd6sWyyVhsHki9aFQ0mXSL5ud0oE1/22Fr/IiCBY13sz4ZxwesmtfZ1rclziJqc8beYzIDRXEWsfn0Z1ntpDTSz0r6wbvldCMDReWwFFEj+Dza/bR6dtVcbqbKOWvwXPBup/DChhHIeqfzVfOc=;ZGpbGXgwr5YF0oL1uaO/1g=="
+secured: "ug8Sk38pLMHnkOpCpDfNa7eGmTKac4vy2VvOwCO93O1WaRKszwFA1YagP/jlEv1M23XGTD6KWTST2f8QUB3k7femMwE2Y3UcQBh74FnYzDWzCFxI8r5+JTWo92tjYLX8PULIpSz0VFL6MQl6BkYc+a7dR6P0cUr6LgtQvbALf02piQM8uD3njMk28w92in/BRM4YSynjt5IZEv+jj6fXS9SYgLXMadDRe1SNtC+IS0a5eg+8/sVV/v7O5NaG4aC/ZAai4NfDjizT7A/DnairuoizPztIAdrmMB+MytBT1wKIFxOc1zF5yQz9pR/YmhkixgdcWILduUIItxsN9zgrj3YWvsIMwAOzMpUB/3AyFLP96p2kfEw6/zBxxYqA1NwZIEUsyyVi7Mua386FaMsqWArblahPV+7rmsV7Bb4D2oMer2EPEHm57jxH/6imjZfnL2OPIP/jP2BRaap4zeh2Z2dD832dhkw1RnILslj5o9r0Xy/4N5/NvGsGpV1cJFxKZeCUMeHL5em0GdBwktuO2w==;kYB5MES7iUxtlP3Wajppwg=="
 ---
 

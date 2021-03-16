@@ -9,7 +9,7 @@ ampWebUrl: "https://scienceblog.com/521663/using-artificial-intelligence-to-impr
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -54,6 +54,22 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 56
+  - title: "Quantum Computing and Reinforcement Learning Are Joining Forces to Make Faster AI"
+    excerpt: "Although only challenged with a “toy problem” in the study, once scaled the AI could impact real-world problems like building an efficient quantum internet."
+    publishedDateTime: 2021-03-16T14:00:00Z
+    webUrl: "https://singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/"
+    ampWebUrl: "https://singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 54
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/01/abstract-4626114_1280-AI.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "AI for Health grantees making an impact"
     excerpt: "Learn how our grantees and partners are addressing global health challenges with AI for Health resources and grants. We are mobilizing our efforts to support organizations responding to COVID-19 with projects for shared research,"
     publishedDateTime: 2021-03-16T07:52:00Z

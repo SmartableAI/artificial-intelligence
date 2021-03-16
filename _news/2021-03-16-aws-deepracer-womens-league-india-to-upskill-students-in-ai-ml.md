@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-up
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
 type: article
 quality: 123
-heat: 163
+heat: 153
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 2560
         height: 1623
         isCached: true
-  - title: "Retrain.ai raises $13M to help workers reskill and upskill for better jobs"
-    excerpt: "retrain.ai’s CEO is Dr. Shay David, the serial entrepreneur known for previously co-founding the video enterprise leader Kaltura; Isabelle Bichler-Eliasaf serves as the company’s COO, after previously co-founding an HR startup, leading it to a ..."
-    publishedDateTime: 2021-03-11T23:59:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/03/12/retrain-ai-funding/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 15
 
 secured: "8KdLdGyGFHVAT0HLuocENy0WF89TEApVVDL+u1pBJI4liiTBldPsdpiCS6LL9jg1qOnBbKhGu+8fAD103/1/yvZLfM8we/lbzszaSYGArCVw+AGxirQzLnwGUixA88R3rJ0dfaHmU+2lOMtrA/GkX49C1MQQmubwKSUfmqcXiHV6CXq5piocoacgD9BLF3skZwGDI0sMFEu0p5xrPLfzUngN8phJBROqQ5pPIB+41V196e0wVsrhrA+Q5gt7T4nS2WT/rXzBVko8MobGC74u1tqOaXD8xirj6r2zsG142F6Amd32cKrOEZj/Kcw2S5iBOaB9QDlBa76v5NAEijiU8L6tgTuhF98xlx+RlyI2fuwbQzjMFelyxSCgBD1ZBjW+xoFWK8wd2ua95w/TlTLgOI4G+TMCF5aErCXBdXkFLaU4IZbrdjPqm1Y615kb1w5SOwXuJHb96ywUaKThFbBSHe90s6zs6XdFr+hZYQVBI6q7I44I5EkGctPA2aSk36CFz/PoBlKWutGa0gw0RnWOhA==;Mb2rk6KXoqYkZdSR6coWsA=="
 ---

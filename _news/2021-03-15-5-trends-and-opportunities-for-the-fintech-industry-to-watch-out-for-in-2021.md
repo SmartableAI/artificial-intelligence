@@ -188,6 +188,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Vesta Named \"Best Financial Transaction Security Company\" in 2021 By FinTech Breakthrough Awards Program"
+    excerpt: "has been selected as winner of the \"Best Financial Transaction Security Company\" award in the fifth annual FinTech Breakthrough Awards program. Vesta provides an end-to-end solution using machine learning to detect and avert online fraud, including account ..."
+    publishedDateTime: 2021-03-16T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vesta-named-best-financial-transaction-security-company-in-2021-by-fintech-breakthrough-awards-program/article_cc41f8f3-6152-5502-b45b-ad758e9ae16b.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Opera hires PayPal and WeChat Pay veteran Allen Hu as new EVP of its fintech arm, Dify"
     excerpt: "PRNewswire/ -- (NASDAQ: OPRA), one of the world's major browser providers with 380 million monthly active users globally, today announced it has hired"
     publishedDateTime: 2021-03-16T09:09:00Z
@@ -202,6 +216,15 @@ related:
         width: 1200
         height: 439
         isCached: true
+  - title: "This Silicon Valley fintech is helping Lyft drivers get PPP loans before it's too late"
+    excerpt: "Work for Lyft? Income down due to reduced ridership? You might be able to get a PPP loan, but time is running out."
+    publishedDateTime: 2021-03-16T15:54:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/03/16/bluevine-helps-lyft-drivers-get-ppp-loans.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "jXbv9jDUoIzspFX6OoDOZ5FDD2DX5b7XxG1jC6APPhMmYcl2zp/6+yxiP1RRJ5Yy6bpoeMF+Lwp/n0uabo/BK7zuyrhDSkWbFSC9LTh0VnWnH25mDPIQMt3mN75wVX2FPM8G+IQR7nJWOY6ID0FCMIeLHHxKGI0JWPdtEHkC8SfGNwcNWoItoacQBd0PDE7kI5XjUv9UCHdN2PjCk1GFw+9OxVuAg0E2S+V+K1lzVXxYH7jCIZfLJXV4mIPFs+o2ME0hKPf/BGv+iN+GOxakXS5YyG2Udxfojb1547oKZHK+JY4kAhM/vWf/fjEifHk+Wk0HopOyJFeRTowZiOo1MzlE7XTUTAoBEhgvKC7LspO6+1sDQYi3MLaw4DrB8Xz2TDE3qtfboVjw8/EU7OYj/lhkBzE1Qoyem0wRNWgM18mDvAQQvBTFUXsjzs+3CLV6YS93P1Z8S2tihPnXqJvEXc8lz9PsCO1BkVb0M8cxmiBLP9xL5SqKS4MMeTyWzzz49xeGTXWOU2wj7Ftih+X+2g==;QalLPh/IuwQdMcGiH5S0rg=="
 ---

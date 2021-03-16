@@ -1,29 +1,29 @@
 ---
 category: news
 title: "CathVision adds US profile to its Board of Directors"
-excerpt: "CathVision ApS, a medical device company developing a novel artificial intelligence therapeutic platform for cardiac"
-publishedDateTime: 2021-03-16T13:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/cathvision-adds-us-profile-to-its-board-of-directors-301248117.html"
-webUrl: "https://www.prnewswire.com/news-releases/cathvision-adds-us-profile-to-its-board-of-directors-301248117.html"
+excerpt: "CathVision ApS, a medical device company developing a novel artificial intelligence therapeutic platform for cardiac electrophysiology procedures, is announcing a change to its Board of Directors. Meghna Eichelberger,"
+publishedDateTime: 2021-03-16T12:58:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-dae1f47546905da8b28dd02816f580c4"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-dae1f47546905da8b28dd02816f580c4"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "SgDRswFDVxleEpjBLWuZlVDw/jT0j3Kzq4qXMoqLGkmKEQBQel3Z14ZbtInKJnE+h+0FZGWrhgC5PhASkBV0Hp/UC64DdmdW411f0lrT83tA7WciXUTcFT4Xi8uo4BK/UePE2fQiYJ4HjYjA7KOrmp26fT7WRXdgNUj2xT/ySQe0Zvmz7J7BGzwaNqZsz2kqqiqE+G4iiib2cY2jiVGHfqGe7HbLuTc5I/2OpRg8Mh1cMfbX98uJsVeu107Vcb8jbaa9tlXpOmPOkdJrxHe1xANxNIfU7b9ebX1Uvyknz4WHj8DED+rR/o5nTkYYV5WgyRIvb0gvMnB5VOg9kn2EgokzynwDFAJVRhboyAeeskE=;OJ96Xh9TWDII+6L7QdRRgA=="
+secured: "isWPLvvTPc1yw/8zT+Tkb3zmrtydaW1vjijvlamSH+sZ+hKuX713NCfbGY6Iv1LGb5xqUg7R7rQ8GV8BPXizeEgD5MdCVhk59nqNoX+iQHyXAbZbEuAHtgy5VtkCS9F+ZIUcin9tkwo7rsVyXKdf9Kx1Ok40hP4QRNBYPw3G8R/ypAUDxaBJyiDA9iL2pN8Czef5wLcwRM9CJq04L+HDuui5hk7v2lkxkjWEa7Qm8mhgXhJobG6GfrU0ndkMvVhYBKGY8Qv1ZWsR2KMhLDqe7vCg3Z+fMlSfAJ+Y2kz+Nr9YdvPq8jEzHL2XGyp8BvMYwHEGOZZGj4lMioV7Y7H6duXGFsHS5jAvavV5sJ5jsbg=;x2FZrCAx0WV5Jt3la5LtpA=="
 ---
 

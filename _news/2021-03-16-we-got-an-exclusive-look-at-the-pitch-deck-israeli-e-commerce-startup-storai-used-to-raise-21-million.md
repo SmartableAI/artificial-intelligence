@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/storai-israeli-e-commerce-startup-
 webUrl: "https://www.businessinsider.com/storai-israeli-e-commerce-startup-raises-21-million-series-a-2021-3"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -27,6 +27,19 @@ images:
     height: 600
     isCached: true
 
-secured: "qD6uoBH0VRjaXcillBrP+PkDvWWT4tt+p9k5wDiQm6QpVLvcVuxQXZaKJpp7fTyXOad7mmPnkvyB32DQamyqftbXaADXL/erSLGJ2NAqr+hnxEsFTbC0za7rav2CsbcvzoceZ2WTr1ujLM/J0Ni2+44M61voPlVGrR+zI6dTj3A2GImXcSVHFzTpkW7blN/uTX+sfrDYxo74tDGJHJhOVcv9Cnbp0WPu+5ktEBATPtG4No9FuBHvNXVCFOlcgDpkEuE12TSyusL0aF0kI2y96465pJhoD4girLi14B8Jkt3tjy/Np2/opzK6/KjghC/k7w6xHdGyzlTT4wfIYe/9R4X5K05hLdOlk5Kmvk3FruM=;8Slc5IKARTdIobe8GgPRLw=="
+related:
+  - title: "Stor.ai lands $21M to customize your virtual grocery shopping experience"
+    excerpt: "Stor.ai (formerly Self Point), an Israeli startup developing end-to-end eCommerce solutions for grocers, extended its Series A round with an additional $21 million. The investment was led by Meitav Dash and Mizrahi Tefahot, with participation from ..."
+    publishedDateTime: 2021-03-16T14:06:00Z
+    webUrl: "https://www.geektime.com/stor-ai-lands-21m-to-customize-your-virtual-grocery-shopping-experience/"
+    ampWebUrl: "https://www.geektime.com/stor-ai-lands-21m-to-customize-your-virtual-grocery-shopping-experience/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/stor-ai-lands-21m-to-customize-your-virtual-grocery-shopping-experience/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 36
+
+secured: "Sft5y6oaYE2tYPxHH2tVwDsZlYwsS3eoopB0bZ71Klt0r0nb0TnRtHbEZzJxtPZvjvoUYJSk4a6XjJprU6FJHJ3duT4j0XpwUowHEhHoOdDXkwZT9m+9ilO8sUsWl8jE5vvmh1IYU2OIcDguy82S1WAHVK0REeifjk5aPadNRPNqsEOpU4ok0wm2aDbq/hjsm+aHB5OomfW72pZWEAVE5MWtK9enhUUTBtJ2kDYG+lWpK+4ax4IG+LSni/32p0bxSPty5ZBvBUlhi5XJ9SmM8hVlyIyMj10KIANLjdxGqmrZtKJYaIKllcQKU6Xhwc0Wp2GY6TX5QFwxO1VwzjfNKPuB/BSsqyk8Qj3QAytnDEdw1qNuq7mUKOPDIryQn9UFAIVImN1kFF+tBAIH0mIb0BnTTZxjZZLs54e7gPT/qKfUpIEakDPqzeurS+bvFGRvw7zM24sKyPrsJVH7vaaTFBUT8zVVHHxsBtHQjadgBV3XngNStDYoeIK2h3f4FZ2IhP9A1R+LHVqncuw/pxW50A==;YJkuygTk66qFhGWyDIu32A=="
 ---
 
