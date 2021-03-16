@@ -80,6 +80,6 @@ related:
       domain: helpnetsecurity.com
     quality: 15
 
-secured: "CCW11GH1bYI3iAw8GzCaj8qsOa71oLdKPbo1YKCrGesL+Skp7fDuI6YrdDmYw2OLu1+hcnnnd2PRoQfd4DF2XpWG9i5+72sWb/t95JhiEu/Jle18SZGfETGOrt8BnckP19KtZUAqpoSgS9F/8DFn4rb0vpfrG37k+VRiZzPSyk2J1L1u1hc8P3ZAEnuNJ8Xi+O5G1DIO8EcJrjytQQ6+BHpRzPgI0gGKe+LMqchC3WZequ/l84oUYYmng6jt7+a1W9EDyKf0Oc5KH6NHGDC57M6WY++hFHCOxamOS765n7zMxYxG8ZXTAlu22CAvdbucFImJJ99pfJtidfsLqsVirRLcX0h8cRlUxrGL28A5RUo=;qE6kpG2cT3itxYECOmhqOQ=="
+secured: "OmwftmWUH4HjfXQyB+aVtQmrkoenekU0hulvIalMJwQv2SqaD0M5is6LCcUYxWRS+hEn2haVfiyOpxyNFY72sL7LBFaUXF/vbw5gDvIyaQ0DRKnh+Z0TeO42IzvxODnlp7k/Ihvv95ePGG+XD3dpi5ggS4F5bnIt8JcazhmY/faXwyNdILJgQDDXmvuWP+Z/7FnZ7TZm25dHAYrlFlyks3hhOBQJPrBENEbiTg6vji9zFvhYuYsakzJxKLjgo3Dn/n6+fWocYc4/BEbb28ltojBJfYY54CRlWdR0YbDoVyEc1I5rST5mjQyzgYl/xIsEB3kqwBxtm0QhoiWRDIrBflzAVRoM76XsN2iV2912sPU=;t+pvxGG7FqfrQvRS6z8TKQ=="
 ---
 
