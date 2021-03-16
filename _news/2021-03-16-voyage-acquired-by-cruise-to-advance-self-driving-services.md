@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "GM-Backed Cruise Acquires Self-Driving Start-Up Voyage"
+    excerpt: "But prior to that pledge, the company had been grooming its Cruise subsidiary, which is dedicated to self-driving technology. Today, GM's Cruise announced it is buying Voyage, a self-driving start-up initially focused on using the technology for senior citizens in retirement communities."
+    publishedDateTime: 2021-03-16T02:00:00Z
+    webUrl: "https://www.fool.com/investing/2021/03/15/gm-backed-cruise-acquires-self-driving-startup-voy/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/03/15/gm-backed-cruise-acquires-self-driving-startup-voy/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/15/gm-backed-cruise-acquires-self-driving-startup-voy/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F618159%2Fgmcruiseorigin.jpg&w=1200&op=resize"
+        width: 1200
+        height: 696
+        isCached: true
   - title: "GM-backed Cruise acquires self-driving startup Voyage"
     excerpt: "Voyage is a startup that spun out of online education company Udacity. Cruise itself has teamed up with Microsoft recently to help accelerate its research. Other notable self-driving partnerships include Amazon purchasing Zoox, Apple buying drive.ai and ..."
     publishedDateTime: 2021-03-15T18:15:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106854049-1615825416226-Cruise_voyage.jpeg?v=1615825559"
         width: 992
         height: 558
+        isCached: true
+  - title: "GM Subsidiary Cruise Acquires Self-Driving Car Startup Voyage"
+    excerpt: "Cruise, a majority-owned subsidiary of General Motors (GM), has scooped up self-driving vehicle startup Voyage, according to a blog post on Monday (March 15). The terms of the deal were not disclosed. “At Voyage, we’ve been laser-focused on delivering ..."
+    publishedDateTime: 2021-03-16T00:22:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/GM-Cruise-Walmart-driverless-delivery-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "The Elusive Dream of the Driverless Car"
     excerpt: "that once redesigned by the Stanford Artificial Intelligence Lab could travel autonomously at about a mile per hour by 1971. But getting from that cart to the mass adoption of driverless cars in our cities and streets is akin to the difference between ..."
@@ -138,6 +170,6 @@ related:
         height: 246
         isCached: true
 
-secured: "pgtf/wDrlK59GViMygazfZiqXMRcLZoM2CBXmTKd/uq2tnjrXen6Dz/0aMKDCRgR39trFJQnxIuK4+fJR3Vzt4vbqO3XkIzlH5Ael8YPPE7aNfiHuIdrWqBV3Np0l8QAqsU5k7NK3XEa9LknDjGtf6aAsi+k/M1lf44FDCBpqg/aQf6s+7PFY9sml0oH9xcRuYRZ9wQKunj5BwtHynxG461EnRBZFh4kkLZzqHO2Y5AwICRTDvBFgCX/7YanPC5DE9kHw9wnL4jQnu50leYcaZI9C7XuqqoweN9mBoHqGQaY78w8ghCkV49553Fr9UYDcB6iG4ZJOiY+P8MNRAgQTFFKZKPR5G6d80b94f1EOwg=;hWvPs3wHuo+F6Xw/kyb1vQ=="
+secured: "2qTlMHEHGaWh/FZijTAZrRb+Kr8pHBLuWdCzPV3XpNElFlrTgaXjVm2bK/ayb9RWo+Bu2ErwWraBbUGPSRPZDrTUaV3IonuNF+183E042/snCBnrlf9KP0qvvbarG3atJrAplXqtX7w7rsLJNKc/7PxoWkyLd88xgBLc0o8lNqyABkU4NaRJ8ZjwWo19cj9DT/0KKVVnsteAhMu+Hn0rRlqWYhwR45dETdkxfr44AY0wC0wg5z3lRvoVxkEPgMrJVSVEZKfWYnu8L+fFpCjKxWd9eehwe5zOp6dI8lKPk37Ix/rASJXEl/ZjoxUNDYnO7YCtAvc873+B1rumMuvUZ25sCbjHAYPEyQfgz8FtDiv1GIdgbhOpPzNRd03F90EFWfg2jAhGTdHK3FqfSxPtswQWAetc/nNiQ7PKIPwbA+isJiZ7sor1srr/AXv/6Bxwe1VL9OXFsZr9fHxWj5gZHC9CU5coIO+rSLj0YBLIx5xlB8ns+Q5aRZj4Tv8/zojvUUbQoPcqsi/zRP/l1UeEpw==;Ajv2umY5SYhYDo/1NFRhKw=="
 ---
 

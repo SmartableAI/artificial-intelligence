@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
-    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
-    publishedDateTime: 2021-03-11T08:22:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 70
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
-        width: 450
-        height: 601
-        isCached: true
 
 secured: "Osdmt0wIdTQ7Uej+U2MeP3QypZGjjAVOy2vdGBI5Hc7MnWVlgYORQ5rp8XSZU60cqR4D56x+sVorcC8u/hR4DCW6I+pnA0yuPjo3ChhJ5sI7lxvs8rb9zeiegr8ICY7MnXvGt/aSO8+dAitzRoiMlEkCr5wxDvmL5HIXaNKqNwM2nJAxpODpkCZ9XFUxRUaKiqlxWLfGtsNCt+fYBMVXcI1rACUEXbYLvoGrMxFMnFC2KKzb1ElFIbUdFTzU/xffOSHpeNgJIkhJSwKuoi2FNBmxNU/c4LW0RHJ0yM/V0YOximDMtKNfFzpin9+BQ/Xl3cNtizJO9GXUgLqZSIurkWdIi+Tc+KLq5usDZVw+MCfR5QKcrd24jr2MHv0vr3LnkpiuQ5Dz6VmFk5aFkJ1gDyP3f+p9tPZxVF7CMeVuXzyfjX7ohe/L65bsFl6SZWU4Ti1WTnKlZF/f9Ym0T8HYCvgLM5reObIPxzFRMAaffHw2aV3OJ+Ra6FB1AEbK3RSrENbbB60hQdUzr+IhYRqYYw==;eqO0z7gme85xTcVEza7K0Q=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-15T22:13:00Z
 originalUrl: "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx"
 webUrl: "https://virtualizationreview.com/articles/2021/03/15/gartner-cloud-aidev.aspx"
 type: article
-quality: 56
-heat: 56
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImages2016/0816red_F2BackupIntro.jpg"
@@ -25,6 +26,6 @@ images:
     height: 450
     isCached: true
 
-secured: "bXKYAxpaTpN3hoF3gK4e1OuWMw539BtOmkFHTX7RfSOJ4rsKFPi5AGOw1gxwdaOKqiWUKzS7+b0YKYiVL7pH6STwTCnL9CaBj3RqPu2G4xrlMQFkfXtBlGi8hhXPbTA/e7BG5SXybrimcu1v2FFflyNT3CgSxbnoQqeJOhcZQjORW9lx+0hlme5phZCYigP4MFNvpzijl7SM7XL3eS3bSEMaLZDm1TokW0IE6gJLBDt1UMN6G//1eLnRRNqa6Xp6f0rngNdR07MuncNVQwTKlUVlJ/VbcvFClTLx9GYGdvTX60SJd2l9jRh0QaWNfmdnU+3rFiCkYnd8Y+rmNqobGXh1bTjRmyuEf1RvWxOK/Gc=;UjvnD9EQlt6uZEDp+ar8Kg=="
+secured: "VxQtzBEPmt9s49+9NiC2UXNbHZDV/BL+yboIFXq0CfC0MD4uJOg3tnGIJEjE9ka/fqkOCPTBCAUxncDRZnzmOWESTyJ9Fyqvf38GvL7K89PpwCpTYO9PukGV5EyU030jfI1wu69bK8cXqv7neUejOjpmfZnGE5dykTPSiTqOpP0rZQXD5j/7MWOS6wqy7PFiwMQ2B2UTT8c99plZ8OPY0UmmRjIG4Dj1zreOCArsYA1rL+GQk2AZ0SOKJASS0bhlf+dteQY2MFefPhoyvPfHiRYtUBP3eeE7xfvaq4JaDvnpM/1uEFtojnhBwkhyg/UHURXBlbn30eptd7xUXmxsgd2YPrjBhzzqIWMkmHrnygP1v3LxLkAWrbBpL5HPCTU/o796/omB2KDxK/Ph4Afl+HWdfX46Ey5eVws7p886PeJFJPQzUxkwQwJJ9ffu98KCBWpsS/rfYzvN9N4gFpLTfTLULTuJQv3mGOz62/jVTXN5jY3bWsA0qTGScmAZB/sCUm38cDZAPotRoZbWCREbvA==;QkxB4ZZlbwN3UTP7t13AqQ=="
 ---
 

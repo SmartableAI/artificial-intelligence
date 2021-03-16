@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
 type: article
 quality: 99
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MSSeeingAIbig.jpg"
         width: 1665
         height: 1158
-        isCached: true
-  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
-    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
-    publishedDateTime: 2021-03-11T08:22:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 70
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
-        width: 450
-        height: 601
         isCached: true
 
 secured: "A0rbOR2cBmU+sRfQx+ki/WgOO25BMSmKttg7EkNCY1jpxWG6tIL5mODu2kL9ze9zv+TwwtqD/ug9l8QypLPjuRjDSgSozTqVMOrp+wD30ZKwjzZF01Va7CU4GC4yP0cjzM2Ty53074gH1AfGcwrYzLFvwepOZ0YCW6jv+iZSdf61kAmJNf2d5PXF1jgQsBoRdii1pUtCZ+FwoaC1Kvv41MyZb4AdvPhs5LCSuaS+6iaBraZ13wDvLkIJAqaUXhcUGEkMCZ9m4xRk2pJd3iRBqr/vx51U5hT+L7j12bxZwV0gL9mUIaFvYpk1Qs9/3mPr5XLdX8wvlc1+VIhGbNXAnIlv53IjnA0YSHcZG1jkC/w=;VVrB1YIVfDgBHT0l9e1Afw=="

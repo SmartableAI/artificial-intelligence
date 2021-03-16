@@ -39,20 +39,6 @@ related:
         width: 1400
         height: 732
         isCached: true
-  - title: "Cognitive Analytics Market Share to Reap Over USD 129.99 Billion in Revenues by End of 2026"
-    excerpt: "Get a sample of the report @  The report offers a comprehensive analysis of the global Cognitive Analytics market on a global and regional scale. The forecast estimation have been done value chain analysis and provides an in-depth assessment of the market drivers and restraining factors along with their impact on the global market."
-    publishedDateTime: 2021-03-11T08:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-to-reap-over-usd-12999-billion-in-revenues-by-end-of-2026-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HumJOcbusnHR2PLegjOyAGzNbyNIfcY05QlxYuUCulc9zx2I7EVefVdRvSpbT6/NEi383A+8QDIeUjTT93GbvCMqmXj3iSqznBXaWKoXA40jwZGzt9Ws6W9Hx3E1a+2sNxOq+3JGc5l2vvqjit0//0vw92elsRTxmEeVznrdmO3wcDDJwYIDdulfUMt4ph7CFjAk0RzijPdXtBYUX2JJh0YlXla9JkKikIb93lL8k7rz3mHGe1B17ySgUmcls1dkAptb2CnxKGBeDPVUJMYHEZu/TjtDLyfV1aPx6y/Q7de6rYl2DFtQtoGkCHznVcs5VBSqQneHWEFdWbTpPaG29/CinshAihTFkLct5uUw0K8=;GrbP/lWR1uSYSX5qiskDYQ=="
 ---

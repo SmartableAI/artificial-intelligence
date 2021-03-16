@@ -46,22 +46,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Esme Learning Raises $7.5 Million In Series A Funding For Its AI-Enabled Digital Learning Platform"
-    excerpt: "Founded by edX and Pearson alum Beth Porter, and AI futurist David Shrier, Esme Learning is creating online learning experiences that are truly transformational in educating people, in industries such as cybersecurity,"
-    publishedDateTime: 2021-03-11T09:47:00Z
-    webUrl: "https://www.forbes.com/sites/marijabutkovic/2021/03/11/esme-learning-raises-75-million-in-series-a-funding-for-its-ai-enabled-digital-learning-platform/"
-    ampWebUrl: "https://www.forbes.com/sites/marijabutkovic/2021/03/11/esme-learning-raises-75-million-in-series-a-funding-for-its-ai-enabled-digital-learning-platform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marijabutkovic/2021/03/11/esme-learning-raises-75-million-in-series-a-funding-for-its-ai-enabled-digital-learning-platform/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049e525ec56cece6b1b8680%2F0x0.jpg"
-        width: 604
-        height: 402
-        isCached: true
 
 secured: "4WvR0FCSLospbi5Bktyf3EjC5dxzpQwkL/8dl1MyLkhPO/Erecmf1r2z46d8dISOhzYW1iH2GdEswpAXMJ2mWadhaNG0JFW11MGE4Pe8l3Hsruq4odUa5MBRgW3bjD8mO5bKU4zd5HNACM6d9ODZ6zCpy5f5VcUisMqngcKuI6VoS76DZV62pc73RYzStzjl0yITF+nhmauwvWH6Yk0xtsl+tS0YkXHQ1QJ3aCZdVn05CEUyCnVUBjF3KNMzTfOR6ppjz5FiMVZB3oHiRUEWl71hHoFTHq4PhQHomlDC819Lj4/5xVxjzH9a4uQTvgOfInz7olyVWVGvEY6cmnjBH7Bsg75fi8tuySTLhYzsRLKExLGAVZMlNJcg4u441Vm7yxP6cJX8PLYgy9fhy1hStd0bfBsjiK5QjY9RF2QCbh+2fzKFB2aMiONYukGXK5Un/ns9ZgIZySPTd36i3drIgmIV6ZIXkRicR7EJCCS/CPZLhCKzqeuBatnNznj1SivMmc8ZxOkGjVYEqWm9VWwDpg==;IRmIs4R0tK5jzSbe0ONEHQ=="
 ---

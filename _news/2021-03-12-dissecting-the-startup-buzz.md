@@ -2,17 +2,17 @@
 category: news
 title: "Dissecting the Startup Buzz"
 excerpt: "Investors place big bets on young startups offering tech like robotics for DCs. For investors, it’s attractive because of e-commerce growth and the efficiency gains that can be realized by flexibly automating labor-thirsty tasks."
-publishedDateTime: 2021-03-11T21:17:00Z
-originalUrl: "https://www.scmr.com/article/dissecting_the_startup_buzz"
-webUrl: "https://www.scmr.com/article/dissecting_the_startup_buzz"
+publishedDateTime: 2021-03-11T23:19:03Z
+originalUrl: "https://www.logisticsmgmt.com/article/dissecting_the_startup_buzz"
+webUrl: "https://www.logisticsmgmt.com/article/dissecting_the_startup_buzz"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Supply Chain Management Review
-  domain: scmr.com
+  name: Logistics Management
+  domain: logisticsmgmt.com
 
 topics:
   - AI in Robotics
@@ -34,6 +34,6 @@ related:
         height: 533
         isCached: true
 
-secured: "8eG4K1/X4vfVTIE135n+yIZ5h4BwMK5UEN0lqH3acgP9hGd5NN/yL9RK7dZcr8rIanNeAEJQQ/K/yCB47uHrToSWfwo4YhAujq7VMFBUw2KmxdbITF/BfoaVlHojAvO+2h5apm3cEWdpdmE/CB7ZzPHN8iQwKjCG1IqQ0qP7vGErwWTvvieiy0dyTUsC1s9SZfTC0r8xktGHp217yMX5hQao9oIJhALRMa7bD2A76nMhUk7VKFe+A/1o8bMvyyDOTySInmILtx2ZEEnd2YnHEK36JhoYkBqNgIiuEABWxCE1uW8vZzd753dn2+Pa78+Vi8gqDYPz19H0e201iSpetyDUYL9zDfxAzT+oLBiaf5c=;sVkNlMeLH7tT5HwP4oIOfA=="
+secured: "mueUxPDvgWYRipCHxkkgSowExCJck9dgaIDEoFc2EgJhpaku36iM8EAZGqSJXCLPJvQUNEozSx6L8xDnfonlmRjEm4PZ9K1kRaY/DEEn69J2ev+1iktGcgjdYwrKI23zN2LmP0Oz9fYdMOiNzR41X7CXuqV3W2y9cZ7e2dh1k6tFpP/FYs0y5cjtBFfmWiEmUHkBrpy8vE4hnGmD6XANAmuU7pWyZgIYppNrfqzMDPJaaxuSG9kYZcmlCj1SYdTovOspE9W+pzmUuYdd4UGTu1ZrCH0guF/Pbwo+PZ8WT30taa9iA+RdJbwaeQmCzobvK2Fc+EbGsqnPPCK0zvsIyAeTT0kLDwSvl33gTz9TQ0g=;1K1CJB044Hj8nQ++PuU/LA=="
 ---
 

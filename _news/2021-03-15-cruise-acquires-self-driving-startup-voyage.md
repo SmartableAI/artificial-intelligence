@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 789
         isCached: true
+  - title: "GM-Backed Cruise Acquires Self-Driving Start-Up Voyage"
+    excerpt: "But prior to that pledge, the company had been grooming its Cruise subsidiary, which is dedicated to self-driving technology. Today, GM's Cruise announced it is buying Voyage, a self-driving start-up initially focused on using the technology for senior citizens in retirement communities."
+    publishedDateTime: 2021-03-16T02:00:00Z
+    webUrl: "https://www.fool.com/investing/2021/03/15/gm-backed-cruise-acquires-self-driving-startup-voy/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2021/03/15/gm-backed-cruise-acquires-self-driving-startup-voy/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/15/gm-backed-cruise-acquires-self-driving-startup-voy/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F618159%2Fgmcruiseorigin.jpg&w=1200&op=resize"
+        width: 1200
+        height: 696
+        isCached: true
   - title: "GM-backed Cruise acquires self-driving startup Voyage"
     excerpt: "Voyage is a startup that spun out of online education company Udacity. Cruise itself has teamed up with Microsoft recently to help accelerate its research. Other notable self-driving partnerships include Amazon purchasing Zoox, Apple buying drive.ai and ..."
     publishedDateTime: 2021-03-15T18:15:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Voyage-Cruise-Logos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "GM Subsidiary Cruise Acquires Self-Driving Car Startup Voyage"
+    excerpt: "Cruise, a majority-owned subsidiary of General Motors (GM), has scooped up self-driving vehicle startup Voyage, according to a blog post on Monday (March 15). The terms of the deal were not disclosed. “At Voyage, we’ve been laser-focused on delivering ..."
+    publishedDateTime: 2021-03-16T00:22:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/GM-Cruise-Walmart-driverless-delivery-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "The Elusive Dream of the Driverless Car"
     excerpt: "that once redesigned by the Stanford Artificial Intelligence Lab could travel autonomously at about a mile per hour by 1971. But getting from that cart to the mass adoption of driverless cars in our cities and streets is akin to the difference between ..."

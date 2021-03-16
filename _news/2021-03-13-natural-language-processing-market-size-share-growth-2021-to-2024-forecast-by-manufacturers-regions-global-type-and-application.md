@@ -57,6 +57,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Global Deep Learning Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
+    excerpt: "Mar 15, 2021 (CDN Newswire via Comtex) -- A new offering by MarketsandResearch.biz entitled Global Deep Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 documents an overview of the market which has been showing steady ..."
+    publishedDateTime: 2021-03-16T00:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence (AI) for Telecommunication Market Evolving Technology, Segmentation and Industry Analysis by 2025"
     excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025."
     publishedDateTime: 2021-03-12T20:32:00Z
@@ -99,17 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Voice Recognition Systems Market Research Report by Type, by Deployment - Global Forecast to 2025 - Cumulative Impact of COVID-19"
-    excerpt: "Reportlinker.com announces the release of the report \"Automotive Voice Recognition Systems Market Research Report by Type,"
-    publishedDateTime: 2021-03-11T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20115206/automotive-voice-recognition-systems-market-research-report-by-type-by-deployment-global-forecast-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20115206"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20115206"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "XJjsNqKx8dBTLKjPhq+HTmSLhXettOyf9yCZ6KeqU9uqy7Bp6qr3nYGeH33U/NhZQeTF9sceVqefG5sZSq0S6rIOfl/rI2ISFSw9M3OMoQKqZA+EPzjMOtRiWkjyjweo/IfvFUIEG1lKmBSqmE5Sn54KwOOjnOuzNQPzC1S0LxM0efyQTjBTqUichsCsDxZZXdl8tSz6mfts6TX5iN4zhJymO89ik/antD0IUBZrP2yrzmIbshoXq9CjO3E2hxSJIW9D2r4FDd6aX4GKPVc9d2xfcKNTf/OQj+sQQARlBDL7YfM970j9WDYg5XrBSa/LTaCT/ihLKV0D6jb/SWv2NjF/D743UPMYebMvHEPBMIU=;ArpZYZJ2F6GTkFRD9uGr8w=="
 ---

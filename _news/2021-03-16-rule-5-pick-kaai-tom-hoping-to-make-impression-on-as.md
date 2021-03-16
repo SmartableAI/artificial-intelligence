@@ -1,0 +1,48 @@
+---
+category: news
+title: "Rule 5 pick Ka’ai Tom hoping to make impression on A’s"
+excerpt: "The confines of Goodyear Ballpark offer Ka’ai Tom a connection to his own past. A member of the Cleveland Indians organization since they drafted him in 2015, Tom has stood in the batter box and roamed the stadium’s outfield before."
+publishedDateTime: 2021-03-16T01:25:00Z
+originalUrl: "https://www.mercurynews.com/2021/03/15/rule-5-pick-kaai-tom-hoping-to-make-impression-on-as/"
+webUrl: "https://www.mercurynews.com/2021/03/15/rule-5-pick-kaai-tom-hoping-to-make-impression-on-as/"
+ampWebUrl: "https://www.mercurynews.com/2021/03/15/rule-5-pick-kaai-tom-hoping-to-make-impression-on-as/amp/"
+cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/03/15/rule-5-pick-kaai-tom-hoping-to-make-impression-on-as/amp/"
+type: article
+quality: 57
+heat: 67
+published: false
+
+provider:
+  name: Mercury News
+  domain: mercurynews.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/Athletics-Baseball-2.jpg?w=1024&h=683"
+    width: 1024
+    height: 683
+    isCached: true
+
+related:
+  - title: "A's spring training observations: Ka'ai Tom makes delayed Cactus League debut"
+    excerpt: "Outfielder Ka’ai Tom faces a short audition. As a Rule 5 draft pick, Tom must make the A’s roster out of camp or be offered back to his former team. An oblique injury, though, kept him out of Cactus League games until Monday."
+    publishedDateTime: 2021-03-16T00:15:00Z
+    webUrl: "https://www.sfchronicle.com/sports/athletics/article/A-s-spring-training-observations-Ka-ai-Tom-16028100.php"
+    ampWebUrl: "https://www.sfchronicle.com/sports/athletics/amp/A-s-spring-training-observations-Ka-ai-Tom-16028100.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/sports/athletics/amp/A-s-spring-training-observations-Ka-ai-Tom-16028100.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/17/11/04/20746520/3/rawImage.jpg"
+        width: 2048
+        height: 1324
+        isCached: true
+
+secured: "qAWMHdKZx41g78TGxdrE9/Ttq1tTkfi6vGmtBznk0wtk0xUyG+ZdAyN21+HzLjh+28J5cRJ2awKbW2s6fy+4l/uKVf+cW4IQJZXXAvdgbkYrp7BiBCR1pHwG0uoz7h5p/sthxQhUeMv0d8ZmbjJWSw1PtqJ5EN5qLlI8riq39PeP2XxzRRHQy7ZucjVP1D6JhEpcOKefJCFbOfo7DbTM1rZ+4v6MUzIT0oM8yU6cs/qLh38UyyZKebgTLKJ4gaafC37t1qp1ijcYSeXUbhwqEcCERaBlTMGUdJeTf10hUWye43xONwHtValDjJtrIjLMPpSZ9Dww53yLGY28j2oadB68qSjUC1Bhrdp36Ognnio=;zyiWAz7vocTVakMq5tsaaQ=="
+---
+
