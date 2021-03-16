@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bright_machines"
   url: "https://twitter.com/bright_machines"
-  followers: 701
+  followers: 702
 
 size: 201-500 employees
 yearFounded: 2018
