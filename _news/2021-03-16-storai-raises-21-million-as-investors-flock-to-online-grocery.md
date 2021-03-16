@@ -52,6 +52,6 @@ related:
       domain: geektime.com
     quality: 36
 
-secured: "mE5eowNg80F4FE8/LDe0NvCw1xpAzhPXecSpqyu2cOtP9jdro2n0dEQzOSOhIruiVTO2wYdsUBsf/klVZyj0LKfGeyErTyZh2CilPdeKoC6JQqSS/1JuyKdFShIaR3l87Ew+vm9CQcikbKZcS9bWOsI/guga12Myy+3PzD2EGQFsHBpgMdI+avVy+Y/DfEpGZAdRcaxB/4v31uji0FOzrBQbDybVomrtAO+1OqXZXNTWtyVOPVtC4fFAqFpVFdjnN/9hMNJAf/9jH0QkSug5vStmZwehSy8tzz01ni5ijBALy+U8CeqOsCGN353Vx2BmHiglh73mzbrsIuR0wKDrJebVrl2mYAgjkwYGsI/30lM=;Lss6mV6NZBXOqAZ4mJbE+g=="
+secured: "fXuvgTj8h5QMpdTRRUtfmHzW7ebJYX9pMHrJLM6hcRfVt/3fHgZh3LMeLU6fuWgz5qihN915u9SDr6COohhSLS3LU5SW4Av9FD86pAyqjKlKdJynbo+8zPOc6uzKTSnfNIMYirdR6QjIXw5fI7YwVg4xcgfb9MmDQN6Xz6FiQkQARqEYZ289GTLmRXhMQZM2gKOWwq3U4L5z330oCWRcCiat9/O5XsLQJ+1mguC/d/TG9nzLbkTCUYU8f7s+2vL60w8WPF32eMOHYqQ/m/c/3HIZkUvPJyNJenamIEfD7taoicK2sNX/Wgu5VxEW9C6jXNZy+8PEBTBkAvX6Pk/h+N9ISUGmaYrParndX6drOoA=;PfMrBDCA6zLiCXfBhXK6iQ=="
 ---
 
