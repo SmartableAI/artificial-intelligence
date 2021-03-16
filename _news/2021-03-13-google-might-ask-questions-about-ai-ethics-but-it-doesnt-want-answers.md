@@ -3,8 +3,8 @@ category: news
 title: "Google might ask questions about AI ethics, but it doesn't want answers"
 excerpt: "Gebru and Mitchell were both leading members of Google’s Ethical AI team. In other words ... highlighted the extent to which the tech industry’s recent obsession with “ethics” is such a manipulative fraud. As the industry’s feeding frenzy ..."
 publishedDateTime: 2021-03-13T15:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language?via=indexdotco"
-webUrl: "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language?via=indexdotco"
+originalUrl: "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language"
+webUrl: "https://www.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/mar/13/google-questions-about-artificial-intelligence-ethics-doesnt-want-answers-gebru-mitchell-parrots-language"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "ludMkc+XWuDY2+MZ8uidkJWumzwE8Top1DuG7DOrAmxigPsNYIDSAyXsNghb9Av4S02iwmZnMcT2Q/umGJMZ3hejlp73oqeH1RH6xXMoLweB34UKR5szkrUNwhIqjnChyqJyYSdS1cOXAVxJZxptyf0SUZYbJLulEGrraV4o9AsCs04nTfv19/eOtyHk6hsrN8mrOjteeZ6VGywQovgZ3PkAVoxNBkO9IF9rTfGydAcIOcyzv5cSytaoKJexqXkAXoHXzlw/GhGkpQIJC2KMGBDbrm651RW5U3kGZ04nwfjBvpUfYPm53mhBx/Tm7wCuirmaCCFe17IbQQcu0keKT5BVOtZdgFphHSmY3sesjis=;YDkiuInuX9SAM9nCnuvnMw=="
+secured: "Uaf9CjeoUbiOwZIXw2hLDlIRYNbrZBJTUuqRXf5Wac50z+TKH84BdCKo5U0R+HV3RMZlHjik0uyEXiJQwr5VbdDHxWrrHulKrnfRa78u/3p0FpOBqiNUZkdHifv9TFr0v06fsgjCpY4+i4E6Xi5hzC0IEt0kn4HZiLy2+bNGWdYMMunhT41/j13ZRz/5hRy/T7HBwu5voLcNGd5K+USRVW21YlbZmgHrb9bUf5TIVpCwoFTgZXgwxqbD7zOaGgGfpFT80fZBAjYpT8sjXE2Lv0zBATgm5SK3HnFb9kPZuFuSfETyWCCGb19xHBvLPXlrbpMo0rFyu1iIEep/8jaUoJfZmP3dnFDrNW56q3VgduE=;ISG3auCeArimlDb/2LxpCA=="
 ---
 

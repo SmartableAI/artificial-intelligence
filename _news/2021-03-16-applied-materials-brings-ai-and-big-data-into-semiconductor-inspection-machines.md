@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-
 ampWebUrl: "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/amat-1.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 632
     isCached: true
 
-secured: "323BdREQS45FOqUbfWksjCvHW/d7NL0j09Pp8JxOuR0so77WZTqEg35mx6zZ7KFnSVR9bedO5tb4sAcAEiCom1AjDXL7EaMEKOjP4W58Sbg5KxzXimmBMW2FAMuCagPP3nPry2PFUhRwBBvL04CYJc6YvoQnXmcgJA6JXvpnHWnfvewGUvmzwzl7Q2bfe4xPddL7wIoQ0dwNcNwTiuEsIW5GucVz831WAVE3mgVpDwMMNvpnv7QAjQtYYGWO0tSe1lmUyJ0nIl+j9owjX+b5tx9xfFihkcgNr67ArZrNWRiaw4gBTwcoY07EYFLB8mKAOGdFN8gR0z1MbuhP4MwT2xFINtk/Q1dbnGpHNXH5Fqk=;y5Vc7AqRUbtFsxPeqMHr2Q=="
+secured: "lj+0JQHldBrvLYEVsWP86NARRv98bqEEIKC6r7XplPfqPSxZ2s3vSYbwnK6fDyULmMKdUqmM79mk26duw4t3VoySRDSLXZ9iySywHPnvo29nKCkf55cqq2A96KVidpQbcvy+NuP6MDea1koxZn6CQjOpldCqYMsyH2DzrB1ELxIAI6xpnViUjFu/fOYCJrMuu+d4kxseYKKpQO0WH2rWTkUq6GMd9i1Q4w7yikR7xJ96j/fcrztIamND7wSp44H+FjMDrHexDRwAl8syah8g1tB5SMmmZnEmzxo5ryd6i1AzYxAy5a9Tvx0EQCcxZudOv33M1PuctpZljOS/VSurOf4A+AOLUSipX/Mz1l4gJCe1li7RQIfJYbsTVGN4rrkNDPjokz5Wx/gu8T6unFzPHodegIg62mVYRk8ZP8JSmPtq6PvscA9ZyPc4TjUuO34QLULM7oiQflxcZZ4IsaSAqO8e/1etHT1ld0qYBHheZVO3GLy04X7FYVv++WKxSzmavXu/OTOldc0bZkOHZq7+pg==;7Ts8/HEzikPiwh7IFX1uEQ=="
 ---
 

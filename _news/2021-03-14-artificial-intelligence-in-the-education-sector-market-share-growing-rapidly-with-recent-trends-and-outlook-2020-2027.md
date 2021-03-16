@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market Industry Trends, Revenue, Key Players, Growth, Share and Forecast Till 2027"
-    excerpt: "Mar 11, 2021 (Market Insight Reports) -- Increasing demand for real-time learner's progress monitoring and analysis solutions, and growing demand for AI technology to simplify administrative processes at institutions is driving artificial intelligence ..."
-    publishedDateTime: 2021-03-11T21:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-industry-trends-revenue-key-players-growth-share-and-forecast-till-2027-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Market Report 2021 | Size, Share, Latest Development, Trends, Top Key Players and Outlook 2026"
     excerpt: "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020.According to IMARC Group's latest report, titled 'Artificial Intelligence (AI) Market : Industry Trends, Share, Size,"
     publishedDateTime: 2021-03-12T06:53:00Z

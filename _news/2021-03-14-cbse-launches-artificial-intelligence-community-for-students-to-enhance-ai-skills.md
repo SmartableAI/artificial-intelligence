@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/cbse-launch
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://s3.india.com/wp-content/uploads/2021/02/CBSE-Board-Exam-2021-Tips.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "CBSE Partners With Intel To Launch AI Learning Platform"
+    excerpt: "The Central Board of Secondary Education (CBSE) has collaborated with Intel to launch an artificial intelligence learning community and platform called AI Students Community (AISC). According to an official statement put out by the CBSE,"
+    publishedDateTime: 2021-03-16T07:09:00Z
+    webUrl: "https://analyticsindiamag.com/cbse-partners-with-intel-to-launch-ai-learning-platform/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/photo-1522661067900-ab829854a57f.jpeg"
+        width: 1050
+        height: 700
         isCached: true
   - title: "Expert.ai Launches a new Natural Language User Community at https://community.expert.ai"
     excerpt: "Expert.ai today launched a new user Community designed to serve the AI natural language understanding (NLU) and natural language"

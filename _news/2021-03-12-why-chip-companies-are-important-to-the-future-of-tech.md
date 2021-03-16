@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/03/12/why-chip-companies-are
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Why the Future of Healthcare is Federated AI"
+    excerpt: "In this special guest feature, Akshay Sharma, Executive Vice President of Artificial Intelligence (AI) at Sharecare, highlights advancements and impact of federated AI and edge computing for the healthcare sector as it ensures data privacy and expands the ..."
+    publishedDateTime: 2021-03-16T13:01:00Z
+    webUrl: "https://insidebigdata.com/2021/03/16/why-the-future-of-healthcare-is-federated-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 34
 
 secured: "3zrDlOEtqIo+OlXNB9i7mk79SQ+1hqoxMvwzMCW4fUnICyz3qleyLa2kJ+v5ShZ7aJTfOg9poZZ+nS47ZCt8SoJall1KSrPje9tUY4PWxdczGAcfavNeJVYHlHFufwYhPToV0UR3HPewO/bgGzIwCRnxMtCNgfl5yspoXn5pXzj3LUlxIXo9hlmerzRHmeEZ2oeu9AUiljCqo9DWhf3l6gUU9L2VXdlN8JUP8NvTFAfm+oRZmRD6jhWtMZjbFuBfyoiVNXT98VZlDPDsOCKWOODhNXCvEylE8BLpPnnqeyau+P8INN0h/6Q2mHmRONuWK44Ob4oolE6JZT1CV5Ow0yH32GmAsvOzk1Az5KxyrNitnplJVhneq047zMKTaLDbjykPpTjnLHaNZyzPxp67z/wXAMxsEOqX1U87NjEUXsalXspoghDDeIuoAHrA792lvIxaGx+DzPUXTD0d/0YKRDIuqVbocpTf0DlH2bT4UIHjC1qlz8tbcQcUPTHaCl8rgTHTAmfmmwpWQRqmUdRFVQ==;ex8kVCGOnKafQ0UGFNIgTw=="
 ---

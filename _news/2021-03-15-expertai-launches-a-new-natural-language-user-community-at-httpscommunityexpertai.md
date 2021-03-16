@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "CBSE Partners With Intel To Launch AI Learning Platform"
+    excerpt: "The Central Board of Secondary Education (CBSE) has collaborated with Intel to launch an artificial intelligence learning community and platform called AI Students Community (AISC). According to an official statement put out by the CBSE,"
+    publishedDateTime: 2021-03-16T07:09:00Z
+    webUrl: "https://analyticsindiamag.com/cbse-partners-with-intel-to-launch-ai-learning-platform/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/photo-1522661067900-ab829854a57f.jpeg"
+        width: 1050
+        height: 700
+        isCached: true
 
 secured: "IDK4dkwExcgj/8+8f1EZkrLvAmXlhpbILFN0mOt8kkX798Hvc7Trk0UcX5xlHZXe+V35v+e73b5rxVql4jDbFfHc/4tJC5h2Jq0VYDInYZ57ThNQje2kE1n1RvyBzny7k9RgP2S4ki4HpHetiyIfCdIKrbnm2dDvXXgX/M9kvejErHTvE/M3WOTDXab+YZsrNQnSTHYbac3UKhYCzsakcN7mC618e06YHNVZYEg78dR1UB9InElXNmsy+vpAOVZ4fi8GI3cU8HODntn8rQDUOj70codTh+jjlwPu01EuQO6jYCM54sO4b0bdZiwmxLoA8vTOE/yuuVbsICywT8NHYeN+8eAD7ltu+7y4vYUJ3qI=;FDkpQzHZhnmSwXs4L/9a2w=="
 ---

@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Software Market Next Big Thing | Major Giants Google, IBM, Microsoft"
-    excerpt: "The Latest Released Artificial Intelligence Software market study has evaluated the future growth potential of Global Artificial Intelligence Software market and provides information and useful stats on market structure and size."
-    publishedDateTime: 2021-03-11T20:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-next-big-thing-major-giants-google-ibm-microsoft-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft 'Seeing AI': Imagining a New Use for Computer Vision"
     excerpt: "A Microsoft Research project is expanding the capabilities of computer vision systems to help visually impaired users navigate everyday tasks."
     publishedDateTime: 2021-03-12T14:09:00Z
@@ -58,6 +44,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MSSeeingAIbig.jpg"
         width: 1665
         height: 1158
+        isCached: true
+  - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
+    excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft's"
+    publishedDateTime: 2021-03-16T12:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-19700983.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 48
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "A0rbOR2cBmU+sRfQx+ki/WgOO25BMSmKttg7EkNCY1jpxWG6tIL5mODu2kL9ze9zv+TwwtqD/ug9l8QypLPjuRjDSgSozTqVMOrp+wD30ZKwjzZF01Va7CU4GC4yP0cjzM2Ty53074gH1AfGcwrYzLFvwepOZ0YCW6jv+iZSdf61kAmJNf2d5PXF1jgQsBoRdii1pUtCZ+FwoaC1Kvv41MyZb4AdvPhs5LCSuaS+6iaBraZ13wDvLkIJAqaUXhcUGEkMCZ9m4xRk2pJd3iRBqr/vx51U5hT+L7j12bxZwV0gL9mUIaFvYpk1Qs9/3mPr5XLdX8wvlc1+VIhGbNXAnIlv53IjnA0YSHcZG1jkC/w=;VVrB1YIVfDgBHT0l9e1Afw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-governance-market-gro
 webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-sas-institute-facebook-2021-03-15"
 type: article
 quality: 68
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Salesforce intros new AI-powered account-based marketing tools"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Salesforce today unveiled new AI-powered account-based marketing (ABM) capabilities within Salesforce Digital ..."
+    publishedDateTime: 2021-03-16T11:59:00Z
+    webUrl: "https://venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/"
+    ampWebUrl: "https://venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "leEqItgo1yMPaiDsWUxmdkeMTARlI0LNSwJ4D7Nk1/76vPjKGAE9MTr525W6LBvbYy8PRVp+kLsYFFZtsrWnXyN6lNj6/ZDPap0aROPxWuFzP2K+98w8hjpMk6sRat4UZxEI3xPZvbqzoVq4G4bRD0OQ/Hmduu5Z7yGMtfaTWzIcV1nzF+Mf41NeqRhlLwoy8MwIJ/Lt+fkLUfDeBftuogHHJa6uGihSHq8mKhzFXSu/4UlKgvX1nu5y4F/VGrbaYHaHgQ9FSYcywxVpYhsJytyFwBmMiebgncC42UsP7DFc+HwVmw/AepgN0KMcOOuYWLYkQ9fqQtVU1hkChiz46XpeIscEG+JmkT8ZnjGH8sk=;gKTVGjfmw7q7EucEVP8wzw=="
 ---

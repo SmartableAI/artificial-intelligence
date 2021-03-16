@@ -27,34 +27,13 @@ images:
 related:
   - title: "Gartner’s 2021 Magic Quadrant cites ‘glut of innovation’ in data science and ML"
     excerpt: "The report evaluates DSML platforms' scope, revenue, and growth, customer counts, market traction, and product capability scoring."
-    publishedDateTime: 2021-03-14T21:20:00Z
-    webUrl: "https://venturebeat.com/2021/03/14/gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml/"
-    ampWebUrl: "https://venturebeat.com/2021/03/14/gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/14/gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml/amp/"
+    publishedDateTime: 2021-03-15T05:20:00Z
+    webUrl: "https://www.gartner.com/en/documents/3998753"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/MQDataScience.png?w=570&resize=570%2C592&strip=all"
-        width: 570
-        height: 592
-        isCached: true
-  - title: "IBM Positioned as a Leader in Two Newly Released Gartner Magic Quadrant Reports"
-    excerpt: "\"IBM is focused on AI for business and helping customers reclaim ... our strong innovation pipeline between IBM Research and IBM Watson.\" Businesses across industries continue to turn to IBM ..."
-    publishedDateTime: 2021-03-11T21:25:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-301245197.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
+    quality: 145
 
 secured: "+7ZnAKUodRukV9vqLd628Z2Z87N68mOuyIhKSYQX4KpnzGdd4GR+6muqjhFv4rgG/Folr6tz5nBjAzCPSfYQTituurySNkAk6XvAo8iw3cyEObwmla+d5x2l7RLfrouNqE/4Rr0axQTWLUDwQsxaKkDJHWZyoAtuzM5Ux2GjKvjiDjUEjJy+IpTG3vV5Dtg7EFSlSGv4diGSWk7DpMa0ZoI0v1j+RZetzIzpalZ4SvgbNGyq00vXB8LFrU2KsRQKv1lz+eJrGoPBLhoIh41suK8Pge6TfiLhW9JLRYRTp64lOveLPtQfPbbHLYnYMTXPdmnFIL8HG81J+jOFRwZzuuPXwYGoNAZgoWXndXGOs9A=;+zCzpKOxf9qaOf7yamlMKA=="
 ---

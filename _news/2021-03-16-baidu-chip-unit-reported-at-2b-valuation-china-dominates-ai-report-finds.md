@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Baidu chip unit reported at $2B valuation; China dominates AI, report finds"
-excerpt: "The Baidu Apollo fleet consists of 500 vehicles, with open-road tests conducted in 30 cities around the world. The company’s Robotaxi service has carried 210,000 passengers and is available in Beijing,"
-publishedDateTime: 2021-03-16T00:21:00Z
-originalUrl: "https://www.freightwaves.com/news/baidu-chip-unit-reported-at-%242b-valuation%3B-china-dominates-ai-report-finds"
-webUrl: "https://www.freightwaves.com/news/baidu-chip-unit-reported-at-%242b-valuation%3B-china-dominates-ai-report-finds"
-ampWebUrl: "https://www.freightwaves.com/news/baidu-chip-unit-reported-at-%242b-valuation%3B-china-dominates-ai-report-finds/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/baidu-chip-unit-reported-at-%242b-valuation%3B-china-dominates-ai-report-finds/amp"
+title: "Baidu Chip Unit Reported At $2B Valuation; China Dominates AI, Report Finds"
+excerpt: "Baidu Inc. (NASDAQ: BIDU), one of China's largest multinational technology companies, has completed a fundraising round on its artificial intelligence (AI) chip, Kunlun,"
+publishedDateTime: 2021-03-16T09:31:00Z
+originalUrl: "https://www.benzinga.com/news/21/03/20188295/baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds"
+webUrl: "https://www.benzinga.com/news/21/03/20188295/baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20188295"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20188295"
 type: article
-quality: 72
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: freightwaves.com
-  domain: freightwaves.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI Hardware
+  - AI in Autos
   - AI
+  - AI Hardware
 
 images:
-  - url: "https://s29755.pcdn.co/wp-content/uploads/2021/03/Baidus_AI_chip_1.jpg"
+  - url: "https://www.benzinga.com/files/images/story/2012/baidus_ai_chip_1.jpg"
     width: 2080
     height: 1170
     isCached: true
@@ -111,6 +112,6 @@ related:
         height: 557
         isCached: true
 
-secured: "Rg7pLpNh4blqRcblbfSBGDx2B3Ov78f9lrK4BEyO94yxcgmFfaBAVJ+5aGAq6CMvSSDXETDvDPsCbTheekw+L/stMUD/c1kx3nG2fd8YCCWnAybLOKDjf+5TRbGOXJVtadhMYVaLKZq1oehiORwJnveRR73ca+PwtotlgIUgKJ5d8gHiM1f75wYkfH3ZRWIySQSfsZexut1I/aAM5Y27wCV/q5FOV6fJtVbL/agluaqPY4W8lQNeCk4UHkeqhBUn10Nm4OrLE8ivVRNpgVMMXiC/+hd8KADGaDat6BLtRi20wnIKMJmNm0mmTOUV7a7ICcYD+DnvPaZG8AnVlz1qe8OQenWgvoB59hgxVQLApnY=;9Z7y3LUlrzYlre72g1S99g=="
+secured: "7r77ogOHzb+YR6iVinlzVOZn4ZQS1hZbJxYJnGwQjKQhwbW+DpIHNpKzpfr2Pvr+EdDayaqa7n60lffzg4Tqm/IRVb3rEktpM9nHO6m2SX1h0wBIJXuKS2gCnaQS9IWTUohvVKNNh1B7JoOlvzKBnZlCQ+fosg8JROodCovE6rl3XLW6qeqSnZofn2BzsK9uSB0zLR4k+f0k6L0chodtYID/VlDKHS09AiHosNjzwWgy3fEsIuChCPN7m26G2Dka/Qw0YP2+ulmuyczDOGX1VjYdebLtama+shQyjM/uxxTk2hlYGRy9Nzt1lJYp9zKOQjm0MKDWdd9KZ9fWkgIm/lzYXuohrQX8ebD6kATp99Y=;ICeO9GS222YgnQLrUvpRmA=="
 ---
 

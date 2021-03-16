@@ -1,30 +1,40 @@
 ---
 category: news
-title: "Researchers Enhance Alzheimer’s Disease Classification through Artificial Intelligence"
-excerpt: "Kolachalama, PhD, assistant professor of medicine at Boston University School of Medicine (BUSM). Using an advanced AI (artificial intelligence) framework based on game theory (known as generative adversarial network or GAN), Kolachalama and his team ..."
-publishedDateTime: 2021-03-15T20:22:00Z
-originalUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
-webUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
+title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
+excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
+publishedDateTime: 2021-03-15T17:42:00Z
+originalUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
+webUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Boston University
-  domain: bu.edu
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI
   - AI in Healthcare
-
-images:
-  - url: "https://www.bu.edu/hic/files/2021/03/vbk_latest-636x565.jpg"
-    width: 636
-    height: 565
-    isCached: true
+  - AI
 
 related:
+  - title: "Artificial Intelligence Boosts Alzheimer’s Disease Classification"
+    excerpt: "An artificial intelligence framework could help providers classify Alzheimer's disease with enhanced accuracy, potentially leading to earlier treatment."
+    publishedDateTime: 2021-03-16T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-boosts-alzheimers-disease-classification"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
     excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
     publishedDateTime: 2021-03-15T14:52:00Z
@@ -54,6 +64,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "H7RQKpoy3QiC1Md5sVUFeOIO8PEYZCCeacdszkqVGP9jJak3ix3qmhPPoa6WqsV9f/Pu1byRiOlBlfSB6ZpC8ALeuZJiQWOtTICewQD25Dpyd8bwLOomtMcrIxdepzvFQtNEGOUNxicSXegfpNF5OliJfzVzZp2tXYhsi0uJ5OQl7smTMCr/8i1pptSOQQDCx8529H7w82MwXrj3kvr5MnRW+BgYaHhXZplh1r9jMujAtI1iz7tI6eNlGo2ge+hhf74sh2nsxEITswyvD/ieHkkG3kt1VhJGWf0tOEt/l8dw7fmRoo81Dw+B5quoURrDvr0snIVovB4HDUdzyexYA0FLqEhhSdwNU/ItE9kQBKE=;cSH+Su2R7QpjO2Zo245rtQ=="
+secured: "Cp9Bfe+V7S43ogIXDMo+YGu9G02tiaWyRfoo5VbOODVP0hPitfQYyUilkNhb/J43tQDcfbFoZSzOohslT1Abfbh2ekfmfU+O5Z4qf+e+3j0K10x/vM3yN7sK8lfgfDT7iDx82BCrur7Np5HbWuVKs2L734oEEIxxTsoXguA1OVAHCJmMtJpv3Cp2Td7QEIZOKllau5aKiUJnY4IyTvYYnfkS3FbKtOzkZBEMq51avxAO/iw1cxOInm2kLPEnMe+2XLiTOcHDsk8EMgHO5kam/pReDqsAu2NzYX4d370yEp2lyveMbasgATdFGj0SCvNehk9g16BGIdIgFqCnbkzIMtsdRN44SFrlcUsujflwutc=;fp8pIu7xZLqcyZUwCYr90Q=="
 ---
 

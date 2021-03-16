@@ -42,19 +42,19 @@ related:
         width: 1000
         height: 562
         isCached: true
-  - title: "Artificial Intelligence Software Market Next Big Thing | Major Giants Google, IBM, Microsoft"
-    excerpt: "The Latest Released Artificial Intelligence Software market study has evaluated the future growth potential of Global Artificial Intelligence Software market and provides information and useful stats on market structure and size."
-    publishedDateTime: 2021-03-11T20:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-next-big-thing-major-giants-google-ibm-microsoft-2021-03-11"
+  - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
+    excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft's"
+    publishedDateTime: 2021-03-16T12:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-19700983.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 48
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "Osdmt0wIdTQ7Uej+U2MeP3QypZGjjAVOy2vdGBI5Hc7MnWVlgYORQ5rp8XSZU60cqR4D56x+sVorcC8u/hR4DCW6I+pnA0yuPjo3ChhJ5sI7lxvs8rb9zeiegr8ICY7MnXvGt/aSO8+dAitzRoiMlEkCr5wxDvmL5HIXaNKqNwM2nJAxpODpkCZ9XFUxRUaKiqlxWLfGtsNCt+fYBMVXcI1rACUEXbYLvoGrMxFMnFC2KKzb1ElFIbUdFTzU/xffOSHpeNgJIkhJSwKuoi2FNBmxNU/c4LW0RHJ0yM/V0YOximDMtKNfFzpin9+BQ/Xl3cNtizJO9GXUgLqZSIurkWdIi+Tc+KLq5usDZVw+MCfR5QKcrd24jr2MHv0vr3LnkpiuQ5Dz6VmFk5aFkJ1gDyP3f+p9tPZxVF7CMeVuXzyfjX7ohe/L65bsFl6SZWU4Ti1WTnKlZF/f9Ym0T8HYCvgLM5reObIPxzFRMAaffHw2aV3OJ+Ra6FB1AEbK3RSrENbbB60hQdUzr+IhYRqYYw==;eqO0z7gme85xTcVEza7K0Q=="

@@ -53,19 +53,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 80
-  - title: "Baidu chip unit reported at $2B valuation; China dominates AI, report finds"
-    excerpt: "The Baidu Apollo fleet consists of 500 vehicles, with open-road tests conducted in 30 cities around the world. The company’s Robotaxi service has carried 210,000 passengers and is available in Beijing,"
-    publishedDateTime: 2021-03-16T00:21:00Z
-    webUrl: "https://www.freightwaves.com/news/baidu-chip-unit-reported-at-%242b-valuation%3B-china-dominates-ai-report-finds"
-    ampWebUrl: "https://www.freightwaves.com/news/baidu-chip-unit-reported-at-%242b-valuation%3B-china-dominates-ai-report-finds/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/baidu-chip-unit-reported-at-%242b-valuation%3B-china-dominates-ai-report-finds/amp"
+  - title: "Baidu Chip Unit Reported At $2B Valuation; China Dominates AI, Report Finds"
+    excerpt: "Baidu Inc. (NASDAQ: BIDU), one of China's largest multinational technology companies, has completed a fundraising round on its artificial intelligence (AI) chip, Kunlun,"
+    publishedDateTime: 2021-03-16T09:31:00Z
+    webUrl: "https://www.benzinga.com/news/21/03/20188295/baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20188295"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20188295"
     type: article
     provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 72
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
     images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/03/Baidus_AI_chip_1.jpg"
+      - url: "https://www.benzinga.com/files/images/story/2012/baidus_ai_chip_1.jpg"
         width: 2080
         height: 1170
         isCached: true

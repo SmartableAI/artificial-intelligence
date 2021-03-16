@@ -116,6 +116,36 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Keeping Startups Alive Through FinTech Consolidation"
+    excerpt: "All of the FinTech solutions in the world cannot guarantee success ... It's the viewpoint of Zeni, which recently announced the launch of its artificial intelligence (AI)-powered financial concierge service for startups. The solution links business ..."
+    publishedDateTime: 2021-03-16T11:59:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/zeni-startup-consolidation-financial-management-457x283.jpg"
+        width: 457
+        height: 283
+        isCached: true
+  - title: "Bluefin Recognized for Payments Security Innovation in 2021 FinTech Breakthrough Awards Program"
+    excerpt: "The FinTech Breakthrough Awards is the premier awards program founded ... Ontrak, Inc (\"Ontrak\" or the \"Company\"), a leading AI-powered and telehealth-enabled, virtualized healthcare company, today announced the appointment of CVS Health Executive Vice ..."
+    publishedDateTime: 2021-03-16T12:50:00Z
+    webUrl: "https://www.lelezard.com/en/news-19701189.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "FinTech Buddy Loan offers 2x higher disbursal rate on personal loan app"
     excerpt: "Bangalore-based FinTech start-up, Buddy Loan, a personal loan aggregator cofounded by entrepreneur duo Srikanth Bureddy and Satish Saraf, offers 2x higher disbursal rate than the industry standards through an Artificial Intelligence (AI) powered platform."
     publishedDateTime: 2021-03-12T07:54:00Z
@@ -159,18 +189,18 @@ related:
         height: 300
         isCached: true
   - title: "Opera hires PayPal and WeChat Pay veteran Allen Hu as new EVP of its fintech arm, Dify"
-    excerpt: "Opera Limited (NASDAQ: OPRA), one of the world's major browser providers with 380 million monthly active users globally, today announced it"
+    excerpt: "PRNewswire/ -- (NASDAQ: OPRA), one of the world's major browser providers with 380 million monthly active users globally, today announced it has hired"
     publishedDateTime: 2021-03-16T09:09:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/opera-hires-paypal-and-wechat-pay-veteran-allen-hu-as-new-evp-of-its-fintech-arm-dify-301248022.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/opera-hires-paypal-and-wechat-pay-veteran-allen-hu-as-new-evp-of-its-fintech/article_6b3ef053-f523-5226-8afc-c91fd660a5b6.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 16
     images:
-      - url: "https://mma.prnewswire.com/media/1441977/Opera_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/28/428990a1-538c-541b-b124-1be2ffcb56de/6050b9241925c.image.jpg?resize=1200%2C439"
+        width: 1200
+        height: 439
         isCached: true
 
 secured: "fxlpd5JZlhf1QaCj2m+xVduziy6CwrUzJp5U3oj9prOQmFSK69BULEQdPbYxxh6pChCLeQ5SfATMyH0DdDa7tBRQdwP8CGTsdBBl4VBqxkdfVdwejUalPLyCukQfBpzvl6xlN3/qYJbcwMYs55woOpuPRTL4IPJkMQcMfNacSI0apWPSxOQ/neqxXOheKADXYP8XHFZGK9ceK40YwI3SPLuySdbABrgu03ScihuNKGCI4ExUBoSX3KKVMWalFHLm6WEv7bth7i7r1vJH7Fj1HzPfwzCAE9CU+R4K866tCOsqYcQ16pVJCW73iypE6mNWH8pbPD38NXTkDq5mPwz6J4WLvWCeu/JG35IDo5PJ7FY=;Lpn59d05W2NCG18qmeL9zQ=="
