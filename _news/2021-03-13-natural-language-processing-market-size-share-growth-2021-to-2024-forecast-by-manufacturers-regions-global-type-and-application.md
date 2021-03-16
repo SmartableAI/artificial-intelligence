@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI: This is how big data helped to fight COVID-19"
-    excerpt: "A new report highlights the benefits, but also the shortcomings, of data-informed technologies and AI in the response to the COVID-19 crisis."
-    publishedDateTime: 2021-03-11T13:16:00Z
-    webUrl: "https://www.zdnet.com/video/ai-this-is-how-big-data-helped-to-fight-covid-19/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/11/f2df3314-4eaf-4e94-8263-a51b432013e4/thumbnail/770x578/4675a058c02135af06aad610a3fceac0/ai-this-is-how-big-data-helped-to-fight-60489437a09b1d05449c3ce8-1-mar-11-2021-12-53-49-poster.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Global Deep Learning Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
     excerpt: "Mar 15, 2021 (CDN Newswire via Comtex) -- A new offering by MarketsandResearch.biz entitled Global Deep Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 documents an overview of the market which has been showing steady ..."
     publishedDateTime: 2021-03-16T00:40:00Z
@@ -66,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Medicine Market Set to Make Rapid Strides in 2020-2027"
+    excerpt: "Global Market Monitor is a professional modern consulting company, engaged in three major business categories such as market research services, business advisory, technology consulting.We always maintain the win-win spirit,"
+    publishedDateTime: 2021-03-16T05:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-set-to-make-rapid-strides-in-2020-2027-2021-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

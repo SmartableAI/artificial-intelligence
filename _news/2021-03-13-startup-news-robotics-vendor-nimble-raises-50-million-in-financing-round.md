@@ -7,8 +7,8 @@ originalUrl: "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_r
 webUrl: "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_raises_50_million_in_financing_round"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Supply Chain Management Review
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nimble Robotics scores $50M for its fulfillment automation tech"
-    excerpt: "Warehouse automation company Nimble Robotics today announced that it has raised a $50 million Series A. Led by DNS Capital and GSR Ventures and featuring Accel and Reinvent Capital, the round will go toward helping the company essentially double its headcount this year."
-    publishedDateTime: 2021-03-11T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/"
-    ampWebUrl: "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/unnamed-8.png?w=1024"
-        width: 1024
-        height: 723
-        isCached: true
   - title: "Nimble Robotics bags USD 50 million funding in Series A round"
     excerpt: "Nimble Robotics has announced to have raised funding worth USD 50 million in its latest Series A funding round."
     publishedDateTime: 2021-03-14T12:02:00Z

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-05-honda-is-offering-cars-with-level-3-self-driving-capability-in-japan.md",
+      "title": "Honda is offering cars with Level 3 self-driving capability in Japan",
+      "excerpt": "Just 100 Legend Hybrid EX sedans will be fitted with the automaker's new Honda Sensing Elite suite of driver aids.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/honda-level-3-self-driving/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/honda-level-3-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/D0btXYulbnYdqIouS_lMYmjLPQs=/2021/03/04/655c7e08-f365-4bb4-ba45-d33186fab4f7/honda-sensing-elite-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/honda-level-3-self-driving/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-level-3-self-driving/",
+      "publishedDateTime": "2021-03-04T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-baidu-said-to-win-hong-kong-bourse-nod-for-second-listing.md",
+      "title": "Baidu Said to Win Hong Kong Bourse Nod for Second Listing",
+      "excerpt": "The tie-up is intended to help Baidu deploy its Apollo self-driving tech in more vehicles, a person familiar with the matter has said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYiS4foB8OXk/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-self-driving-truck-technology-market-to-see-booming-business-sentiments-daimler-volvo-waymo.md",
       "title": "Self-Driving Truck Technology Market to see Booming Business Sentiments | Daimler, Volvo, Waymo",
       "excerpt": "Major Highlights of the Self-Driving Truck Technology Market report released by HTF MI Market Breakdown by Applications: Transport, Mining, Military & Other Revenue and Sales Estimation -- Historical Revenue and sales volume is presented and further data is triangulated with top-down and bottom-up approaches to forecast complete market size and to estimate forecast numbers for key regions covered in the report along with classified and well recognized Types and end-use industry.",
@@ -1264,20 +1368,20 @@
     },
     {
       "path": "_news/2021-02-26-driverless-bus-hits-streets-of-malaga-in-southern-spain.md",
-      "title": "Driverless bus hits streets of Malaga in southern Spain",
-      "excerpt": "The bus uses artificial intelligence to improve its \"decisions ... 60 passengers and was developed by Spanish firm Irizar. Other driverless pilot projects already exist in Europe, but none ...",
+      "title": "Driverless Bus Hits Streets Of Malaga In Southern Spain",
+      "excerpt": "A new driverless electric bus has begun operating ... he told AFP. The bus uses artificial intelligence to improve its \"decisions\" based on data recorded along the route. The 12-metre (39-foot ...",
       "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/world/europe/driverless-bus-hits-streets-of-malaga-in-southern-spain",
-      "originalUrl": "https://www.straitstimes.com/world/europe/driverless-bus-hits-streets-of-malaga-in-southern-spain",
+      "webUrl": "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166",
+      "originalUrl": "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/26/2021-02-24t162613z_1541090307_rc24zl9hcwl2_rtrmadp_3_spain-bus.jpg?itok=8rQNXPH0",
-          "width": 763,
-          "height": 509,
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/25/the-electric-powered-vehicle-operates-autonomously-but-a.jpg",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1287,11 +1391,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T09:58:00-08:00",
+      "publishedDateTime": "2021-02-25T09:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1335,101 +1439,6 @@
       "provider": {
         "name": "Dayton Daily News",
         "domain": "daytondailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles.md",
-      "title": "Mobileye partners with Lohr and Transdev to develop self-driving shuttles",
-      "excerpt": "Mobileye announced that it's partnering with Lohr and Transdev to develop self-driving shuttles for public transportation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Mobileye-Transdev-Lohr-iCristal-shuttle_image1-e1614042008523.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/amp/",
-      "publishedDateTime": "2021-02-25T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-aaa-survey-shows-less-interest-in-self-driving-cars-than-in-fine-tuning-todays-safety-systems.md",
-      "title": "AAA Survey Shows Less Interest in Self-Driving Cars Than in Fine-Tuning Today's Safety Systems",
-      "excerpt": "100% of the fees we collect are used to support our nonprofit mission. Learn more. The road to self-driving cars is paved by the active driver assist systems that are available on most cars today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.consumerreports.org/autonomous-driving/aaa-survey-self-driving-cars-todays-active-safety-systems/",
-      "originalUrl": "https://www.consumerreports.org/autonomous-driving/aaa-survey-self-driving-cars-todays-active-safety-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f1.media.brightcove.com/8/1078702682/1078702682_6186323527001_6185173516001-vs.jpg?pubId=1078702682&videoId=6185173516001",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T21:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Consumer Reports",
-        "domain": "consumerreports.org",
         "images": null,
         "publishers": null,
         "authors": null

@@ -48,20 +48,6 @@ related:
         width: 1024
         height: 663
         isCached: true
-  - title: "Canadian Tire and NuPort Robotics to Commercialize Canada’s First Automated Heavy Duty Trucking Technology"
-    excerpt: "First-of-its-kind technology to enable safer, greener and more efficient transport of goods by semi-tractor trailers TORONTO, ON / ACCESSWIRE / March 11, 2021 / Canadian National retailer Canadian Tire Corporation (TSX:CTC."
-    publishedDateTime: 2021-03-11T12:16:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/business-technology-sports-driverless-cars-ontario-72816e4bae4ebf6a8045eeeca255b8a5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "89frMVA3T2A2Ia9x1/gyK2/L1N0HMUz/0YhB/+g6sQ+fC+ZGnlJ54P8UM3Q+79wHkPH/0TpGddOzCJoq3NEiEXMKoKUEoFh8pAlpLXLzbMwcnrS3/h4ZkSQEmVrbDSSqwXIii6oS9gf98d1VapjByUwOCCOrLTBMVwZMNQMcwqDGjVM1V6nvzVxTuFzcckI1s3uVAlatsLeZlcHAv5/au8H864TIcwFDbz7gmzOwoB0fydIu9578ZYzEnnvshi6qAi773ODpq4vsAzIPu3V2HsTqtY3ix9fsC+abOzM4ahx0qJ041YNu27f3oxRHk72EkPIpDcoWmialJJ+gizoKS0EhL0fa3hyZOUaya5NgX3b21tdC8VsUi4vmq8Rs815dayykalcawT8+iXg02cgn08uQmexwaH1Wm4HVHr7OfOIkRMOlShD/aXesKvq+ncMU0lfDC1LYzZLU2DVo04VW/Q7UlPX++cC0oSvWX28ihoZdKTN91IYdpoiQupUGNRzTp8ucVLJKCpQ2qwv0Y5WwrA==;OfiX2MEAvljzsocFSNT/oA=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Deci and Intel Collaborate to Optimize Deep Learning Inference on Intel's CPUs."
-    excerpt: "Deci, the deep learning company building the next generation of AI, announced today a broad strategic business and technology"
-    publishedDateTime: 2021-03-11T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/deci-and-intel-collaborate-to-optimize-deep-learning-inference-on-intels-cpus-301245327.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 35
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "drugCDoJSgkpGy3EWy7AMf6NielpDryZWqvLMIrWsr8+Erz3BjNjoUEVFQZAvqNRGdC4t9p2KM6jFC0eVs/iKR/3HmPOhbw2vIDHTE1a0eu5J+VSuypO24bW7AT3OPFECZmaWJcTJ+MyVlVnMAEHLJ2D/vAzChbcqBp32SOVkKSK8BjkeCOwJQj9WX4l4eNz/WO1zSdV4sWcpI30wKvv28H/KBs2ZSvizT/TA+eFEHe8pikD6hLw4+bw3OQ74DVbtVOz26ZUZOBw+Nylu6LLy/dSuQwIO/oo15wrP1g9+cvq6cF7TW4/qKo7yf8raUp54DufU9Y1RvJvP9JDhw9XIpxPrgr07nOGGiug+2Kcz8o=;PgCD68ttGhqxx3dB7rrvAw=="
 ---

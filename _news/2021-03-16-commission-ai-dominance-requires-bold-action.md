@@ -7,7 +7,7 @@ originalUrl: "https://www.nationaldefensemagazine.org/articles/2021/3/16/commiss
 webUrl: "https://www.nationaldefensemagazine.org/articles/2021/3/16/commission-ai-dominance-requires-bold-action"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 878
     height: 500
     isCached: true
-
-related:
-  - title: "Lt. Gen. Michael Groen on JAIC’s Efforts to Meet AI National Security Commission’s Final Recommendations"
-    excerpt: "Roughly fifty percent of the National Security Commission on Artificial Intelligence's (NSCAI) recommendations in its final report center on defense and Lt. Gen. Michael Groen, head of the Department of Defense’s Joint Artificial Intelligence Center (JAIC) and a 2021 Wash100 Award recipient,"
-    publishedDateTime: 2021-03-11T13:23:00Z
-    webUrl: "https://www.executivegov.com/2021/03/lt-gen-michael-groen-on-jaics-efforts-to-meet-ai-national-security-commissions-final-recommendations/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 39
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/03/11/67/45/ab/dd/17/4a/9f/54/2021-wash100-michael-groen.png"
-        width: 272
-        height: 270
-        isCached: true
 
 secured: "GnBFLdZB9LQFWvsTZ8wp9ItUa2GNnIfT1w/p9OzQvE5emUWvJD7a+osmdtUBEGDQkPJ+uD6NMcRep4ThyDbnUcCxLn/k4CUt23o+Rqt3wCyMC+quo9bOeNVKpdYafeQH8veJjVENvSwcj51WwW+gi2A+qNHQY31djj+qSNTs31+4epRni4twEcWCSwA8NZ0UrHy1ruDN+PUmWltcwH7a2RxQVH2lo4BT7R1cwm6q34aPa0RxCbGkRiCvuSWhVrG4Kn0fTTTpvSeFI0e+I1Q7G5zfgMdLes5nNGFjxX14CvAObJo406S+LI8SePCKkeli31ybYL206IC1QE6wzMoyjJsqJ9Zm19cPXZgdA6PF+qTMu7yeLgBKTc3eNre5BlAzqJbEsYpEZ0hiXxcA3sWIhctCvjQssFKai272XIl+JLVjVNslb5Xzneo6Z2jEUGA2X/Ey1ATOGzO9yx1TJiJq4UNzYYABvo0NymoMRKLi+Qh7k0epAsTi+iUoojRhy8eUBlTPfirdlAOmQtrzkeEJVw==;4xAJfStyhoh8X8Y6w898Ug=="
 ---

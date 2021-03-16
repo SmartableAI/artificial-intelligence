@@ -2,6 +2,188 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-03-04-self-driving-truck-technology-market-to-see-booming-business-sentiments-daimler-volvo-waymo.md",
+      "title": "Self-Driving Truck Technology Market to see Booming Business Sentiments | Daimler, Volvo, Waymo",
+      "excerpt": "Major Highlights of the Self-Driving Truck Technology Market report released by HTF MI Market Breakdown by Applications: Transport, Mining, Military & Other Revenue and Sales Estimation -- Historical Revenue and sales volume is presented and further data is triangulated with top-down and bottom-up approaches to forecast complete market size and to estimate forecast numbers for key regions covered in the report along with classified and well recognized Types and end-use industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-to-see-booming-business-sentiments-daimler-volvo-waymo-2021-03-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-to-see-booming-business-sentiments-daimler-volvo-waymo-2021-03-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-an-era-of-coding-robotics-and-ai-for-education.md",
+      "title": "An era of coding, robotics and A.I. for education",
+      "excerpt": "Coding, robotics and Artificial Intelligence (A.I.) are important skills of the 21st century to succeed professionally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
+      "originalUrl": "https://www.indiatvnews.com/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/ai-1614865061.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
+      "publishedDateTime": "2021-03-04T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-speech-recognition-a-new-way-of-working-for-legal-professionals.md",
+      "title": "Speech recognition: a new way of working for legal professionals",
+      "excerpt": "The time is right for legal professionals to revisit their use of cloud based speech recognition solutions, to ensure they are using the most productive, cost-efficient, services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thelawyer.com/knowledge-bank/white-paper/speech-recognition-a-new-way-of-working-for-legal-professionals/",
+      "originalUrl": "https://www.thelawyer.com/knowledge-bank/white-paper/speech-recognition-a-new-way-of-working-for-legal-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thelawyer.imgix.net/content/uploads/2018/07/17091722/The-Lawyer_Careers_980x600-4-485x297.png",
+          "width": 485,
+          "height": 297,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T04:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Lawyer",
+        "domain": "thelawyer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-financial-expert-daniel-calugar-comments-on-ways-that-artificial-intelligence-is-transforming-the-global-financial-service-sector.md",
+      "title": "Financial Expert Daniel Calugar Comments on Ways That Artificial Intelligence is Transforming the Global Financial Service Sector",
+      "excerpt": "Daniel Calugar, an experienced investor says that artificial intelligence will soon be an essential driver of business in the financial services industry. With an academic and professional career in computer science,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7",
+      "originalUrl": "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know.md",
       "title": "Microsoft Power BI Premium: New platform and pricing, what you need to know",
       "excerpt": "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance.",
@@ -544,49 +726,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-04-financial-expert-daniel-calugar-comments-on-ways-that-artificial-intelligence-is-transforming-the-global-financial-service-sector.md",
-      "title": "Financial Expert Daniel Calugar Comments on Ways That Artificial Intelligence is Transforming the Global Financial Service Sector",
-      "excerpt": "Daniel Calugar, an experienced investor says that artificial intelligence will soon be an essential driver of business in the financial services industry. With an academic and professional career in computer science,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7",
-      "originalUrl": "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T19:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-04-mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops.md",
       "title": "MediaTek MT9638 smart TV chip promises to bring 4K, AI chops",
       "excerpt": "There are dozens of smart or Internet-connected TVs around that bring smartphone-like conveniences to living rooms. Unlike smartphones, most smart TV manufacturers focus on talking about software",
@@ -1028,144 +1167,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers.md",
-      "title": "Can Employers Use Artificial Intelligence And Data Analytics To Track Remote Workers?",
-      "excerpt": "Notwithstanding federal, state, and local privacy and cybersecurity laws that may apply, employers may generally use artificial intelligence, data analytics, and other software and technologies to tra",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers",
-      "originalUrl": "https://www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers?amp",
-      "publishedDateTime": "2021-03-03T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-artificial-intelligence-in-agriculture-market-may-see-a-big-move-major-giants-microsoft-ibm-sap.md",
-      "title": "Artificial Intelligence in Agriculture Market May See a Big Move | Major Giants: Microsoft, IBM, SAP",
-      "excerpt": "Latest launched research document on Global Artificial Intelligence in Agriculture Market study of 128 Pages provides detailed analysis with presentable graphs charts and tables The Research Study presents a complete assessment of the Market and highlights future trend growth factors",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
-      "originalUrl": "https://www.openpr.com/news/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U303350659_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
-      "publishedDateTime": "2021-03-03T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-leopard-imaging-collaborates-with-socionext-hailo-and-aws-to-launch-edgeturing.md",
-      "title": "Leopard Imaging Collaborates with Socionext, Hailo, and AWS to Launch EdgeTuring™",
-      "excerpt": "FREMONT, Calif. and YOKOHAMA, Japan and TEL AVIV, Israel, March 3, 2021 /PRNewswire/ -- Leopard Imaging Inc. (Leopard Imaging), a leading global",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-collaborates-with-socionext-hailo-and-aws-to-launch-edgeturing-1030147046",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-collaborates-with-socionext-hailo-and-aws-to-launch-edgeturing-1030147046",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1449134/Hailo_EdgeTuring.jpg",
-          "width": 400,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

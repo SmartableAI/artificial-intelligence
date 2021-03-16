@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech-to-Text API Market Size & Share, Growth, Scope, Challenges, Key Players, Overview and Forecast to 2028, Fortune Business Insights"
-    excerpt: "According to the report, The globalspeech-to-text API marketis set to gain traction from the rapid development"
-    publishedDateTime: 2021-03-11T13:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-size-share-growth-scope-challenges-key-players-overview-and-forecast-to-2028-fortune-business-insights-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "tYY5LHRxZnArwawQ+xLrblA2ie0UuO4pKWh0vOUd9rZLkxAnCeYxa2X6e8rEILiCvWWJaZgUJz7Qtl4kM1YPhWunJZHyeUN28s6UYivV1sB4CPQUJv58zCy+8GW4/+EKAFMv2kZgrcOJkHFxA5eoiF4sx50EU2nsNodFPv0+XEGJNhhcopxKA+dBJ2lYof0+H2bUJ6k+cBoH2ax7EWQo5ZVPJLm+fV5GemhvDNiMZlHLhzQfzyplb9D2wGa6Xrfxc17tr4O9GGWePq5939ER3TbNk+Zb61jjuiMvKQqMz450wZnFhX2UsFbwZKzNDUS+pw9ugNS9pyvSb3ocdOP1Dk4sl8iePCzE3DHMJJcw6R8=;itW9DfxfWwL8x+DdQqPibg=="
 ---

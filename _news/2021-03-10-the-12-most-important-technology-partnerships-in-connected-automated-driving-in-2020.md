@@ -1,18 +1,15 @@
 ---
 category: news
 title: "The 12 most important technology partnerships in Connected & Automated Driving in 2020"
-excerpt: "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships."
-publishedDateTime: 2021-03-09T16:47:00Z
-originalUrl: "https://www.wicz.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
-webUrl: "https://www.wicz.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
+excerpt: "Also, Artificial Intelligence is one of the key enablers ... and lose access to a large revenue pool. July 2020: FCA-Waymo Technology domain: Autonomous Trucks and Passenger Cars What: FCA and ..."
+publishedDateTime: 2021-03-09T23:03:00Z
+originalUrl: "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
+webUrl: "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020"
 type: article
-quality: 16
-heat: 16
-published: false
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - AI in Autos
@@ -24,6 +21,6 @@ images:
     height: 363
     isCached: true
 
-secured: "HVILsqtuc8XnN1iAaXJcRB1xP2PBg91kfdXyzDNkn5jz8DiiAF7ynhUxJ3Tm3H9ZWXANxmfJPn+pWuWelfFcE+h3FZ3IeMVdljg0v5ffcX5vDiKCHZe6+UAc+L6dlsNF6g90cKKk+6GgDmCp06L+SX7WlkD2ZF1ZUxYQhe2tagvxr/8EQxLNtobadATbyozLjD2H4TJ5C/+hPbvERcrR1R/RnKkO2BNiMLFeSAyVMrLMsRRtxMx+J56CXHC97zdZiG0aj7Tuh1Ptza9Lil7r0ctLvonIDJHjt++lPdU8rOWZ6ETXgvrM6vV3/BXewWsKyotE5t0f1mzUvxmVuWfbPxzZreqNUJXpKsLKLOouLrnImJFrqTTbhY0nxD8P38Ah2V02PdMUWiCoRUGDnwwyYTGD5EBoULG7PMbz1sRKAJlZZpPBfw1cSjOxH5Tt8Gm785wIkYOQn7ymSrMWh8By14z82EuXTjhSZoqFhh+gxI63EvDXDcw8ObgK+UpDv76bq/PPfjuvbINwaNUxMNaLXg==;zX3w0n8rbqUVEzS6TU5zJQ=="
+secured: "tdsCS8hKbx1xfWirAcp6bGn8fBHPSIdhQ4hA1+W0TQYgGluGSmAKsniI3r0rY+ZMsBdLYxsKq1hbGaQxf4A/XNjc1dp6kQSYWWhNyp78Xb/nAKli2Du3074/7uQGoOwOEant6lWlfZHRBTI8uOoVvBmVaZLjYEEUWL83T7TI4J1tb9S88FsFlSZgHFshklS/pw9LT+dlIlz6Qb7IH7jBUQOXXyPv5LR79V6XYHBq2tkQGhiNzGTgF+EzhzqQ+gY0jQ/vRy1oIq+IguBYELYQgpLesDdKLaJpClGr7vfsy5dixe/Zetop/74AWIp4I9w4mssiWHIhieST91A201P+vDIuWNzKlHK7UfDy6+VavC4=;omHSzUJ6cR9JJIkKje/cZQ=="
 ---
 

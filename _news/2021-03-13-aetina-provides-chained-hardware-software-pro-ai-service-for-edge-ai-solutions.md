@@ -68,15 +68,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 56
-  - title: "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions"
-    excerpt: "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions"
-    publishedDateTime: 2021-03-11T13:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
   - title: "Irish start-up Outmin looks to improve admin using AI and humans"
     excerpt: "Outmin, a start-up set up by Irish tech veterans Ross Hunt and David Kelleher, has emerged from stealth and is already snapping up clients both locally and outside of Ireland. Founded and quietly launched during the coronavirus pandemic, Outmin claims to ..."
     publishedDateTime: 2021-03-14T16:00:00Z

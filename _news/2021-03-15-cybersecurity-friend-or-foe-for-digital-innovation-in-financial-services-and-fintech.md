@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit"
-    excerpt: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit SAN FRANCISCO (PRWEB)"
-    publishedDateTime: 2021-03-11T13:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20118549/tortora-brayda-announces-new-task-forces-following-its-artificial-intelligence-and-cybersecurity-t"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20118549"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20118549"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
   - title: "Cybersecurity Industry’s Most Comprehensive Guarantee and Warranty Announced by Deep Instinct and Backed by the Munich Re Group"
     excerpt: "Deep Instinct, the leader in deep learning-based cybersecurity, is the first company to back its product with a performance guarantee that ensures an incredibly low false positive rate, plus a ransomware warranty that is three times higher than any other ..."
     publishedDateTime: 2021-03-12T07:44:00Z

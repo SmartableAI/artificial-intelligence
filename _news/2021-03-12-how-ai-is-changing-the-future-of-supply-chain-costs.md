@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Using the power of artificial intelligence to detect disease"
-    excerpt: "A large international collaboration, led by A/Prof Xiu Ying Wang and Prof Manuel Graeber of the University of Sydney, has developed an innovative, advanced artificial intelligence (AI) application, PathoFusion,"
-    publishedDateTime: 2021-03-11T14:01:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-power-artificial-intelligence-disease.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/9-ai.jpg"
-        width: 1920
-        height: 1897
-        isCached: true
 
 secured: "P08fnUsboA9ZD6Z2NvDSAC9/48GOXnYwL7iYlVes/3jfACTZjT4brbJPcrZ3OSYhhkcw8LWLQnzEkB/a18HHev+ydPTbRCXjGv1EMtwEHPb4vYWFvYQekQlT8i/R8+pxeKlabnYhC/MlEasKK46B60dbe/vyo4AVckSnIFzQtYVz2F6gobSSUyUBUUbR6KkgzRqCMwycNKH5j8NeaocjPCMQXhsFb0n/eFDIh+26WtUeVnWZ6KtWN/ogbbs/o2sDLJhVAjVE7t/Fbu+paTxvzDDaIqgFtBl9kCI54UCET2lpnaFCCXSvZa7E2iNrS9AzMixhWaoW4ATJCviWuG4YEJua/iX7oIhoEHTWjuMI+gk=;QfKjvhShPAcPifodC7wWwg=="
 ---

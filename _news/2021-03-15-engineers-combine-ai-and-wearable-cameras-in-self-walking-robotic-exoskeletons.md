@@ -38,6 +38,22 @@ related:
         width: 1024
         height: 694
         isCached: true
+  - title: "How The Weather Channel is using weather patterns and AI to inform ad campaigns"
+    excerpt: "The Weather Channel is making the most of its audience and first-party data by creating an AI offering and a subscription product on its app."
+    publishedDateTime: 2021-03-16T04:01:00Z
+    webUrl: "https://digiday.com/media/how-the-weather-channel-is-using-weather-patterns-and-ai-to-inform-ad-campaigns/"
+    ampWebUrl: "https://digiday.com/media/how-the-weather-channel-is-using-weather-patterns-and-ai-to-inform-ad-campaigns/amp/"
+    cdnAmpWebUrl: "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/media/how-the-weather-channel-is-using-weather-patterns-and-ai-to-inform-ad-campaigns/amp/"
+    type: article
+    provider:
+      name: Digiday
+      domain: digiday.com
+    quality: 53
+    images:
+      - url: "https://i0.wp.com/digiday.com/wp-content/uploads/2021/03/Sheri-Bachstein_1030x600-tipser.jpg?fit=682%2C397&zoom=2&quality=100&strip=all&ssl=1"
+        width: 1021
+        height: 595
+        isCached: true
 
 secured: "SpThtiv7sQ/G7YG7iox86Q71y2qr0vBufCnjix3MYuchkO4s7Jc2v/1dKHv9fMtGugOVcz5nN4c2Lz6cz+lC3QxqS85FdkFnFPlOHh9fFRRq7ThuIiwYrv2CT8+Lfr2fAFLJmEQvPYyEz+gCoEYjg3Qnc3++FnjVA8brkEXhIBcOSn52bgYljjrrcgw/+YHm0jCia7TJDmBgWrFzVb09Nz3AE0akt7i9iHbVb2nryDB9pbRmwYIoBPWwEiVHZpVUIDxA0ZD7K5qbNLqGagV70JgcRZxjVrLuFjHSAdS3e9qH+m4H6718EFY6v6a74kv8U52PZXaDDd2u/YMnmom4yiJOqZF3J2BY6hmglDYitqc=;N+bTMcFOR6fo4IoCjevFrQ=="
 ---

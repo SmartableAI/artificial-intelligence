@@ -2,21 +2,27 @@
 category: news
 title: "Dissecting the Startup Buzz"
 excerpt: "Investors place big bets on young startups offering tech like robotics for DCs. For investors, it’s attractive because of e-commerce growth and the efficiency gains that can be realized by flexibly automating labor-thirsty tasks."
-publishedDateTime: 2021-03-11T23:19:03Z
-originalUrl: "https://www.logisticsmgmt.com/article/dissecting_the_startup_buzz"
-webUrl: "https://www.logisticsmgmt.com/article/dissecting_the_startup_buzz"
+publishedDateTime: 2021-03-11T21:17:00Z
+originalUrl: "https://www.scmr.com/article/dissecting_the_startup_buzz"
+webUrl: "https://www.scmr.com/article/dissecting_the_startup_buzz"
 type: article
-quality: 4
-heat: -1
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Logistics Management
-  domain: logisticsmgmt.com
+  name: Supply Chain Management Review
+  domain: scmr.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.mmh.com/images/2021_article/MMH2103_BP_KencoPicMain800.jpg"
+    width: 800
+    height: 534
+    isCached: true
 
 related:
   - title: "This Month in Modern: Startup buzz is accelerating technology investment"
@@ -34,6 +40,6 @@ related:
         height: 533
         isCached: true
 
-secured: "mueUxPDvgWYRipCHxkkgSowExCJck9dgaIDEoFc2EgJhpaku36iM8EAZGqSJXCLPJvQUNEozSx6L8xDnfonlmRjEm4PZ9K1kRaY/DEEn69J2ev+1iktGcgjdYwrKI23zN2LmP0Oz9fYdMOiNzR41X7CXuqV3W2y9cZ7e2dh1k6tFpP/FYs0y5cjtBFfmWiEmUHkBrpy8vE4hnGmD6XANAmuU7pWyZgIYppNrfqzMDPJaaxuSG9kYZcmlCj1SYdTovOspE9W+pzmUuYdd4UGTu1ZrCH0guF/Pbwo+PZ8WT30taa9iA+RdJbwaeQmCzobvK2Fc+EbGsqnPPCK0zvsIyAeTT0kLDwSvl33gTz9TQ0g=;1K1CJB044Hj8nQ++PuU/LA=="
+secured: "HbpbiPKpBN+ayCotR+S/XHrJzbFbujgRCWL5m6SpZkyJ2No1soPT5DqD6NMhLVzt7kwrVgGadES9yGlr5f7eDJnOJaGq3DUuKYDpD7iVHMCVsTHJ658OVH8R+ZStjE1RfR2vD+axVpqthw2aCzNcFI1S6bpisDw7IiOQEyOud14vkErGASUEl9MOxzLEOvvV2zQS3LPXTfJAgNpLj7dHMJGQBWcCO9mGOqLypoU5QwA/9LfAHh3ZMcPOS87a0vH1y3pRH4Cz97qx86xk1Sd2o7XeuhfYSV91uWV307S5bi2fkCriLo6r4q/32eJKrkDDW4qg03I+Yw4hGvEHVlR9OneaQ2KfXlTKzGFPykWf20Y=;UYEa5JIICHcz0hy42XRJ+A=="
 ---
 

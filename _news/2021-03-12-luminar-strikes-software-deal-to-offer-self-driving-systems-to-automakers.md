@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2L9082"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L9082"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: Reuters
@@ -25,17 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Luminar strikes software deal to offer self-driving systems to automakers"
-    excerpt: "Luminar Technologies Inc said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers. March 11 (Reuters) - Luminar Technologies Inc said on Thursday it ..."
-    publishedDateTime: 2021-03-11T13:59:00Z
-    webUrl: "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11"
-    ampWebUrl: "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 53
   - title: "Luminar Strikes Deal With Volvo Subsidiary To Sell Self-Driving Systems"
     excerpt: "U.S. lidar company Luminar Technologies has reached a deal with the self-driving software subsidiary of Volvo Cars with the intention of offering a hardware-software system to other automakers. The deal will see Luminar take the software from Volvo subsidiary Zenseact and combine it with its own hardcore and software to offer a self-driving system to other car manufacturers."
     publishedDateTime: 2021-03-12T08:10:00Z

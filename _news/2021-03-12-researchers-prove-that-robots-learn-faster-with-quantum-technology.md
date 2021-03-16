@@ -20,22 +20,6 @@ topics:
 
 related:
   - title: "Robots learn faster with quantum technology"
-    excerpt: "Artificial intelligence is part of our modern life by enabling machines to learn useful processes such as speech recognition and digital personal assistants. A crucial question for practical applications is how fast such intelligent machines can learn."
-    publishedDateTime: 2021-03-11T13:27:00Z
-    webUrl: "https://phys.org/news/2021-03-robots-faster-quantum-technology.html"
-    ampWebUrl: "https://phys.org/news/2021-03-robots-faster-quantum-technology.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-robots-faster-quantum-technology.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/robotslearnf.jpg"
-        width: 817
-        height: 467
-        isCached: true
-  - title: "Robots learn faster with quantum technology"
     excerpt: "The physicists have achieved this result by using a quantum processor for single photons as a robot. Artificial intelligence is part of our modern life. A crucial question for practical applications is how fast such intelligent machines can learn."
     publishedDateTime: 2021-03-12T14:35:00Z
     webUrl: "https://www.sciencedaily.com/releases/2021/03/210311123432.htm"

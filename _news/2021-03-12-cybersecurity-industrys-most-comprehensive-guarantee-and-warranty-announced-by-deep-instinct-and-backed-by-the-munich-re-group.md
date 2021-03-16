@@ -57,17 +57,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit"
-    excerpt: "Tortora Brayda announces new Task Forces following its Artificial Intelligence and Cybersecurity Think Tank Multi-Stakeholder Summit SAN FRANCISCO (PRWEB)"
-    publishedDateTime: 2021-03-11T13:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20118549/tortora-brayda-announces-new-task-forces-following-its-artificial-intelligence-and-cybersecurity-t"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20118549"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20118549"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 6
 
 secured: "MNYjbC3C5iwfm9Ns3JuxQYNGv98+hzDOy5tvhnUMMwECRzytrjbC5R/GP3sGBz8/SPiAaLLxz6N8xP85+gFKkYRCdrPZp9GVeV0Fw8zNFbVPhYl358hJzCsg0AZY4ffdjcXO93r5enTzZ3OmK6mV1R+IHHfQj3F9qy/7vq9fz1ywvryz5FSSH0b1pFOINMhzyjmaDrGDsyYz1IIIXurIl2hzwiO9OJ+M1fZNlt3Yi+goXq691qUi6XsfgEtNhwZFV7ysdJOV/o/HJVHoeDhUqkdrQxPylB9W39UG/o0MSfNihTXdhCC0mhfoAq2Fa11wcbiMEFVFAuOtI9QmouHD49tJw+t7J568EKlxgcvA18U=;mf93Nr2nTkZDPavejG777A=="
 ---

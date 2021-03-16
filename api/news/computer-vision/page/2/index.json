@@ -141,6 +141,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-01-facebook-is-considering-a-creepy-new-feature-for-its-smart-glasses.md",
+      "title": "Facebook is considering a creepy new feature for its smart glasses",
+      "excerpt": "Facebook is considering adding facial recognition support to its augmented reality glasses. The company is looking into the legal and privacy issues around allowing the smart glasses to use facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/2021/03/01/facebook-ar-glasses-facial-recognition/",
+      "originalUrl": "https://bgr.com/2021/03/01/facebook-ar-glasses-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2021/01/social-network.jpg?quality=70&strip=all",
+          "width": 1599,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/2021/03/01/facebook-ar-glasses-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2021/03/01/facebook-ar-glasses-facial-recognition/amp/",
+      "publishedDateTime": "2021-03-01T06:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-a-wave-of-billion-dollar-computer-vision-startups-is-coming.md",
       "title": "A Wave Of Billion-Dollar Computer Vision Startups Is Coming",
       "excerpt": "Computer vision is the most technologically mature field in modern artificial intelligence. This is about to translate into enormous commercial value creation. The deep learning revolution has its roots in computer vision.",
@@ -234,6 +277,58 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-28-facebook-doesnt-seem-to-mind-that-facial-recognition-glasses-would-endanger-women.md",
+      "title": "Facebook doesn't seem to mind that facial recognition glasses would endanger women",
+      "excerpt": "Facebook is considering building facial recognition capabilities into its smart glasses – which would make life easy for stalkers Last modified on Sat 27 Feb 2021 09.02 EST Sign up for the Week ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2021/feb/27/facebook-facial-recognition-glasses-would-endanger-women",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2021/feb/27/facebook-facial-recognition-glasses-would-endanger-women",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/962e222e3e9d5dd61acba784516658205c0e460e/0_371_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ec13c44eb5a720fa35ba8589255deeaa",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/feb/27/facebook-facial-recognition-glasses-would-endanger-women",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/feb/27/facebook-facial-recognition-glasses-would-endanger-women",
+      "publishedDateTime": "2021-02-27T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -863,6 +958,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-global-face-recognition-device-market-business-opportunities-and-challenges-report-2031-cloudwalk-aurora-insigma-group.md",
+      "title": "Global Face Recognition Device Market Business Opportunities and Challenges Report 2031| Cloudwalk, Aurora, Insigma Group",
+      "excerpt": "Feb 22, 2021 (WiredRelease via Comtex) -- The latest research report provides a complete assessment of the Global Face Recognition Device market for the forecast year 2022-2031, which is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-business-opportunities-and-challenges-report-2031-cloudwalk-aurora-insigma-group-2021-02-22?tesla=y&tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-business-opportunities-and-challenges-report-2031-cloudwalk-aurora-insigma-group-2021-02-22?tesla=y&tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T22:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-no-facial-recognition-tech-for-cops.md",
       "title": "No Facial Recognition Tech for Cops",
       "excerpt": "The Los Angeles Police Department (LAPD) banned the use of commercial facial recognition apps in November after BuzzFeed News reported that more than 25 LAPD employees had performed nearly 475 ...",
@@ -1265,136 +1412,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-orlando-police-testing-amazons-real-time-facial-recognition.md",
-      "title": "Orlando Police Testing Amazon's Real-Time Facial Recognition",
-      "excerpt": "which noticed that law enforcement customers were mentioned in the marketing of Amazon's \"Rekognition\" service. Until now, American police have used facial recognition primarily to compare still photos from crime scenes with mug shots. But now Amazon and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgbh.org/news/science-and-technology/2018/05/22/orlando-police-testing-amazons-real-time-facial-recognition",
-      "originalUrl": "https://www.wgbh.org/news/science-and-technology/2018/05/22/orlando-police-testing-amazons-real-time-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgbh.brightspotcdn.com/dims4/default/7c2557d/2147483647/strip/true/crop/1064x550+0+0/resize/1064x550!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F2d%2F2e%2F42ef53b806b11e04f8d057f1ae93%2Famazonytscreengrab-custom-bd108a3518dfcadc437bffd9c0384a153f4f166b.jpg",
-          "width": 1064,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGBH",
-        "domain": "wgbh.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-adt-announces-that-its-command-control-smart-home-platform-has-reached-1-million-installations.md",
-      "title": "ADT announces that its Command & Control smart home platform has reached 1 million installations",
-      "excerpt": "IR illumination and traditional thermal security cameras, after all, are only able to provide black-and-white images, whereas object recognition software often identifies objects based on their color. White light illuminators installed alongside AI-powered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/adt-command-control-smart-home-platform-installations-co-5961-ga-npr.1613566835.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/adt-command-control-smart-home-platform-installations-co-5961-ga-npr.1613566835.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/adt-deterrent-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/adt-command-control-smart-home-platform-installations-co-5961-ga-npr.1613566835.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/adt-command-control-smart-home-platform-installations-co-5961-ga-npr.1613566835.html",
-      "publishedDateTime": "2021-02-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-aclu-civil-rights-groups-urge-biden-to-halt-use-of-facial-recognition-technology.md",
-      "title": "ACLU, civil rights groups urge Biden to halt use of facial recognition technology",
-      "excerpt": "The American Civil Liberties Union (ACLU) and other civil rights groups are urging President Biden to halt the use of facial recognition technology by the federal government over dangers the technolog",
-      "sourceUrl": null,
-      "webUrl": "https://www.aclu.org/letter/coalition-letter-president-biden-use-facial-recognition-technology",
-      "originalUrl": "https://thehill.com/policy/technology/539218-aclu-civil-rights-groups-urge-biden-to-halt-use-of-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.aclu.org/sites/all/modules/custom/aclu_metatags/images/default_fb_share.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

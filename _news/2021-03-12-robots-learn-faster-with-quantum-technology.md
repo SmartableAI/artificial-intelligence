@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/03/210311123432.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/03/210311123432.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Robots learn faster with quantum technology"
-    excerpt: "Artificial intelligence is part of our modern life by enabling machines to learn useful processes such as speech recognition and digital personal assistants. A crucial question for practical applications is how fast such intelligent machines can learn."
-    publishedDateTime: 2021-03-11T13:27:00Z
-    webUrl: "https://phys.org/news/2021-03-robots-faster-quantum-technology.html"
-    ampWebUrl: "https://phys.org/news/2021-03-robots-faster-quantum-technology.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-robots-faster-quantum-technology.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/robotslearnf.jpg"
-        width: 817
-        height: 467
-        isCached: true
   - title: "Researchers Prove that Robots Learn Faster with Quantum Technology"
     excerpt: "Robots solving computer games, recognizing human voices, or helping in finding optimal medical treatments: those are only a few"
     publishedDateTime: 2021-03-11T23:28:00Z

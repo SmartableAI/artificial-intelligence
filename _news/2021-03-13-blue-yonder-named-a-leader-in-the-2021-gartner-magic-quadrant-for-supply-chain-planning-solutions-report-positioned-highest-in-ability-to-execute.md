@@ -42,20 +42,6 @@ related:
         height: 592
         isCached: true
   - title: "IBM Positioned as a Leader in Two Newly Released Gartner Magic Quadrant Reports"
-    excerpt: "IBM designed IBM Watson Studio on IBM Cloud Pak for Data to provide end-to-end AI lifecycle management for both experts and citizen data scientists and developers, and it provides strong support ..."
-    publishedDateTime: 2021-03-11T13:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-1030173124"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
-  - title: "IBM Positioned as a Leader in Two Newly Released Gartner Magic Quadrant Reports"
     excerpt: "\"IBM is focused on AI for business and helping customers reclaim ... our strong innovation pipeline between IBM Research and IBM Watson.\" Businesses across industries continue to turn to IBM ..."
     publishedDateTime: 2021-03-11T21:25:00Z
     webUrl: "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-301245197.html"
