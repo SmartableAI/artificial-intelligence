@@ -37,7 +37,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 68
+    quality: 70
     images:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
@@ -60,6 +60,6 @@ related:
         height: 600
         isCached: true
 
-secured: "3lYOkKVDHNNQfJEzisIK05ThHo0cLRVVofOdSrQAak7S/zTx0LWu0RBaJg5OUhKf5deOlgF45IYXKBzeKDAhHabSCIyFA0jKtrAeBgM/lSiHDistEMmzQJ+WrvzaV/ldvgnn6jKT7UKi2JXwAzJh+72NbQN4FVnCmI2UoJuGzEOfE0s9QH9T8PVV4Pqo40zlMEIIyzVF8QVK9o5Q7M+OS++4avRvajUyEpfoosTBl8RMqHBnbBbvS9xZueNiNtnby/NVwBw7WDGdGD8JJY0mLfYRcVkbsmFlI6wnmbWZquutF6m8AdBdOqCjdBsO6Jluiq62Zd0V7AvFDEeGbwKC7rxdA+8POi8AlQNQN3X42Hk=;QkS6EHcZ6sOZsmAonIek5w=="
+secured: "vyCEpDjZClfBOmNxFYQbBzmVbtTnKjuhLxynmp7Rno5+US39ir2lhxiH/tUGnTdj5IT7MBIaOOulhfqWqA30PIP9+gEgkOdSNTMFC6VCVfQ1ZJ4EXZ9/GwQ1nx0xvOkFXVcA4JY58zMG5i7BPwfyP1xkks+NJsozO4Yn5GK7ed3Sm77mGNg6fgvffJRHG5bzi1O33YvPHjwQalxH0yHyiRqyKtkA/MysBgqc9SwqfGmXnNppbqFbxn++8VgvNrlJdNaWab0e18POnVG/qj3QyDFOut3ZL+a5oPCFiX1KuenK9GjBvtuqHEf9btsXZzeE3xdtYXBl/WQOguOj+gtSJTQED8iDZ4lAH/ZXxQm+0Hmw1KLjPRRnOeFVFpTLZcT4eWHMhpqiMntmfsD9oaQHRVoMrc8k0rG6qJtgWueRpFhIA3lR/SiYmnCGlV+WQ4jDvefXhnP6L4VrXho0bl77Ml1Yuk8SNb2kqTGMhsgmDeK6NZxukHb5sBD43vZ/gdfkpCBjqWC41vbNNrrCqU1TNQ==;J88jSMlmm0fWJPUjV0dUew=="
 ---
 

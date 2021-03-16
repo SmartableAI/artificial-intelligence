@@ -1,30 +1,20 @@
 ---
 category: news
 title: "PGA TOUR Selects AWS as Its Official Cloud Provider"
-excerpt: "The TOUR will then use Amazon Rekognition (AWS’s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata ..."
-publishedDateTime: 2021-03-02T18:52:00Z
-originalUrl: "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02"
-webUrl: "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02"
+excerpt: "The TOUR will then use Amazon Rekognition (AWS’s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata like player names and sponsor logos. This will help the TOUR ..."
+publishedDateTime: 2021-03-02T19:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210302005466/en/PGA-TOUR-Selects-AWS-as-Its-Official-Cloud-Provider"
+webUrl: "https://www.businesswire.com/news/home/20210302005466/en/PGA-TOUR-Selects-AWS-as-Its-Official-Cloud-Provider"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "pSosLsY4fwXvQneegpil2MrKuCFmlezxz1taaYaK0O+K6gKuT4DJaig90pLVYZ8hV5Xb1WfFFL8917vFBh+rOiI6UuxYNyupJsoiY9auubIlafVaNsoTRtGtK/lGJG8CQ0mQhLyVIkCX88EItwcIDL3ncwlMHGjgSpSuUr1rqypzTSTNJZdoj+o3hFWRfY4rtzyec79xKcW/mSCteAXRwalEd/QFNnTRsCqHGKkLTRlCTkbF5m+USVjikik08w8XA17m8f5ph1xsFIkuqwjWT6DRwVhgXtpZtgt0/Iojio2wONrzvmlBezj0y8nVRDw2qw5WFK4a7C+kCpmGYp3W4btdlL/uodn8rFyx614+1Hs=;NvJADOTHN16vMgAi16vJJA=="
+secured: "dtOiiA8V4Nihqrjh7wIf+h/iRGQTc0VgGEgGNq0V4sm+99Rd/kkEvsO/3L/h/IMg+TIYWR96NbwOW20yyYvyGnUYEXINvqzBgctDgYm1qbaG0OI+MlLgQfPP0rExw2wfI8I9epBQlvtoTzNs1GjfnXdcwlp4X5wJjUbJMWNXjhhIdCsZ9QH1aDCKHSL4kIpH4it6YU/gqQGy7b2HThc3E9IGc8DuuZSwIXIEirrD2zoe4O9N/NKM+XKImrMVrb1d1yg0R0PBMsboyWG2ReYf4wCoauH9iVWYSnp6tHSetIKETws9utFmovC5RPZE8/05jUGjjcV0+wDUpw7TCRGRVC9xIVw51CJmNem5Wq/zZkE=;Meyg34ni+uIqrF5LPosOSQ=="
 ---
 

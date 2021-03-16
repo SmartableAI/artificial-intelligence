@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210313/Machine-learning-algo
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

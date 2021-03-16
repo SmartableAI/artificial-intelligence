@@ -79,6 +79,22 @@ related:
         width: 1999
         height: 1333
         isCached: true
+  - title: "Voyage acquired by Cruise to advance self-driving services"
+    excerpt: "Self-driving starup Voyage announced it is being acquired by San Francisco-based Cruise to further develop autonomous vehicle technologies."
+    publishedDateTime: 2021-03-15T23:15:00Z
+    webUrl: "https://electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/"
+    ampWebUrl: "https://electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Voyage-Cruise-Logos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Elusive Dream of the Driverless Car"
     excerpt: "that once redesigned by the Stanford Artificial Intelligence Lab could travel autonomously at about a mile per hour by 1971. But getting from that cart to the mass adoption of driverless cars in our cities and streets is akin to the difference between ..."
     publishedDateTime: 2021-03-15T09:59:00Z
@@ -122,6 +138,6 @@ related:
         height: 246
         isCached: true
 
-secured: "aROtWXNhRWYUzw6YNIaRjvFxtPgzvzfl7exE4eoDzbatfrZY+tfmrgSiyeXhSh7DXDlfWLPuxl6rffBUVyB+/Efgto+8/GerH6/fH2U0+2TrSI9H2E58Q0ZUWotf0KYK2FmD/hlQfTvwaCEeUJDa+6M5OkVnmzEv4gw8/hpai9md/RAgKHcT6jK3vAglUXcBDdeNmj46bh3Bn3KojQNa74w/y2m/2cBBYxFVwzqea36Fd/515sICRbxeU1zdWILxP8Wcq7gLfJm/31pZtx9bLMdrmNcraQmahxCdqK5C+9HU9ZEyCYBqMQGW8kXC6869g/HbMBFG9MHk27L6lmpNvwBMJMzQ+Wg1fda9KKm91eQ=;o1KeXKSxcNENA2Q3HDLlqQ=="
+secured: "0ujpp7u9CBcthc5hH8xKUctsk8xWblzQZDItpHFLz4XqdzPB8QA58XSQaZTUnIzK/K1HL4JSJMm7jD4vmndLyEKJWihU8phTvR7Vma6RKwfWt3TuRdgsxpH1VF+fcf4NFkEMz8lRyqIdTCdpxX6mtEKryn2Lu3fEIZBA0bRXGQVs8au0+vd6cytMDWOEG3h/GNiMgZmtodLTeXlDUEDxwbfBKIGnY8a4wosqgpw6RVKTZfmcJskUyCvIRjYTWVJ1vLeU2E0A4r6KgDGI2US6arGjYjJAa7iwZUjEh/t9BTkQYOYoXs0nbS1OCxvy78LcW3IRd/PdSuYgTHXFbiTeZS7M/m1NwNxA4oqZTWuHJwUQIMtPTevO7+OGQ718sMItsJ+KqBU4MVHUsGsIeXjQ3Ef/MfHOi+4+EcK1vYdFiYGr4lv9N9yDla9/8ydubyrZtEsv2zf393iNIrQRU9wMFs3FhQblu/q4Lnrd98v1HnQgoHzPjwLUQguYn38jLqUOYX+IEVM89GtWd/8HEZ4C1Q==;Gd3+yaqUB4jEn+y616jImQ=="
 ---
 

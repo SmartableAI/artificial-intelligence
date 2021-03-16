@@ -1,31 +1,29 @@
 ---
 category: news
-title: "NCFA Announces 7th Annual FFCON21 Digital 'Breaking Barriers' FinTech Conference"
-excerpt: "Building on the success of previous conferences, this year's event -- titled ‘Breaking Barriers' -- will bring together an international community of leading voices in fintech, digital banking, tokenization, blockchain, CBDCs, digital identity ..."
-publishedDateTime: 2021-03-11T18:50:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/ac20127952/ncfa-announces-7th-annual-ffcon21-digital-breaking-barriers-fintech-conference"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/ac20127952/ncfa-announces-7th-annual-ffcon21-digital-breaking-barriers-fintech-conference"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20127952"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20127952"
+title: "NCFA Announces 7th Annual FFCON21 Digital ‘Breaking Barriers’ FinTech Conference"
+excerpt: "FFCON21 to connect HR talent and explore accelerated Fintech trends and innovations paving the way to mass adoption and scaleTORONTO, ON / ACCESSWIRE / March 11, 2021 / The National Crowdfunding & Fintech Association (NCFA),"
+publishedDateTime: 2021-03-11T19:01:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.accesswire.com/users/newswire/images/635050/image-20210311111157-1.jpeg"
-    width: 1920
-    height: 1080
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "Ytcoanzx4rBRCDkg/8W+8bB5+f8oATZBTCWBsITZ3DL2h7cUci4WdpqPCTX3Nx1XikBbO8lXbI2jR75/YAlcsAe8uWPGZpXay+thf/Jcnc0raj+EO6cex40WDlZqLoxj3fjnelYwS7TGkTN/4+EA+t6bdgmFSCXSTjcm15At7EkK7SnrE2P95OgHREGKgc45lxXBnDF6TYmLM9jYibU8HfvG4IaQINOVZxFLMQCyJUyUbJQBt5VmiqpZs/RE7z9j0WJ1kvKe0hv7CeugFR1KEZsJsr21ApC1jEu+Kn8pAKkOt9I8vEnnvTP/+habuljCqxzsdr5k/oYeK8hSsnRgBjxtDv9oGjjjjpfrmwkwykU=;P9PYpjO9Y1iv39qzkKCXog=="
+secured: "yBQN6l8mbwlWIwwnYGCiBo/dgWWTBRZwYU9bECIzbXMGFdJO33Lj30CK2pP8cEjZleqT+IYewkNEdJernd8F0PI7Kj+EWR/CqIBXLD2zGvNJKQVbPxfxmka07ccUbnEKl/JjvQkDdocfrmMGrdR1NVNvnGN8OupUee08BHEzbkouAf2cPmEk7SCK+05DgkwLX+yLpa8TZMypotAW+ywT0X01VztpPMHeh2JkeXmCBfSqOrab0SVRXgq+0Bz/AWfnjTo1K7eOTzu/zwOZ9ORlcs85cu4CudmiWGSk4UjeXXddo2FDC030lX8BgqXwAzIxouz7Z77muPJBSPcoy7JPhCfLWMBfJtLA9dCE+jv4P2k=;BQ9/VoiSDzLKcUjojfu3iA=="
 ---
 

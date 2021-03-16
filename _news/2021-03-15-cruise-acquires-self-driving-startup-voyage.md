@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Voyage acquired by Cruise to advance self-driving services"
+    excerpt: "Self-driving starup Voyage announced it is being acquired by San Francisco-based Cruise to further develop autonomous vehicle technologies."
+    publishedDateTime: 2021-03-15T23:15:00Z
+    webUrl: "https://electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/"
+    ampWebUrl: "https://electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Voyage-Cruise-Logos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Elusive Dream of the Driverless Car"
     excerpt: "that once redesigned by the Stanford Artificial Intelligence Lab could travel autonomously at about a mile per hour by 1971. But getting from that cart to the mass adoption of driverless cars in our cities and streets is akin to the difference between ..."
     publishedDateTime: 2021-03-15T09:59:00Z

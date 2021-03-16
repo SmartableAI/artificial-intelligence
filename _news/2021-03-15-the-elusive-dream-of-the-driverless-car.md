@@ -89,6 +89,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Voyage acquired by Cruise to advance self-driving services"
+    excerpt: "Self-driving starup Voyage announced it is being acquired by San Francisco-based Cruise to further develop autonomous vehicle technologies."
+    publishedDateTime: 2021-03-15T23:15:00Z
+    webUrl: "https://electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/"
+    ampWebUrl: "https://electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Voyage-Cruise-Logos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "GM-backed Cruise buys self-driving startup Voyage in talent grab"
     excerpt: "Cruise LLC, the self-driving technology company that’s majority-owned by General Motors, said it acquired autonomous-vehicle startup Voyage, which operates a service in retirement communities. \"I’m pleased to welcome Oliver Cameron and Voyage to the ..."
     publishedDateTime: 2021-03-15T18:43:00Z

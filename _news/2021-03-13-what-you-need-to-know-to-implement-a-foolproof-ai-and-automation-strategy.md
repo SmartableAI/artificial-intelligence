@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/sponsor/salesforce/what-you-need-to-know-to
 webUrl: "https://techcrunch.com/sponsor/salesforce/what-you-need-to-know-to-implement-a-foolproof-ai-and-automation-strategy/"
 type: article
 quality: 66
-heat: 68
+heat: 66
 published: false
 
 provider:

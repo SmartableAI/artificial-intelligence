@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-
 webUrl: "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "Alibaba-backed Chinese AI firm Megvii to go public in Shanghai"
+    excerpt: "The Alibaba-backed startup looks to issue up to 253 million class B shares for the offering, which could net it at least 6 billion yuan (US$922 million) after fees. Megvii said it will use the capital to fund research and development in robotics and visual ..."
+    publishedDateTime: 2021-03-15T07:35:00Z
+    webUrl: "https://www.techinasia.com/alibaba-backed-chinese-ai-firm-megvii-public-shanghai?ref=recommender-678435"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
   - title: "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai"
     excerpt: "Chinese artificial intelligence startup to go public after it filed for a Chinese Depositary Receipt offering on Shanghai’s Star board on Friday. The startup, backed by Alibaba Group Holding Ltd., plans to issue up to 253 million Class B shares as the underlying stock for the CDR offering,"
     publishedDateTime: 2021-03-12T18:58:00Z

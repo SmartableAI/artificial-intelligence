@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_203792534/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_203792534/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Zawya
@@ -42,20 +42,6 @@ related:
       - url: "https://images.zawya.com/pr/images/2021/ENG_PR286_2021_03_10.jpg"
         width: 450
         height: 674
-        isCached: true
-  - title: "Egyptair Tourism and Duty Free Co strikes Cloud contract with IBM"
-    excerpt: "Egyptair is determined to transform the inflight shopping experience as part of a wider digital transformation roadmap."
-    publishedDateTime: 2021-03-11T07:17:00Z
-    webUrl: "https://www.moodiedavittreport.com/egyptair-tourism-and-duty-free-co-strikes-cloud-contract-with-ibm/"
-    type: article
-    provider:
-      name: Herve Bouillonnec
-      domain: moodiedavittreport.com
-    quality: 39
-    images:
-      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
-        width: 280
-        height: 280
         isCached: true
 
 secured: "CSl8sko1m8gqb0hM9l8MOvPGrsohGSP0Z7KVKEfh1gge0ZeQcebYe5vTMYJtMWkl6TMhqb4HA165xIH6IyTDfl588MgPr6ITZdM2VgB028MFxPYQwsy/fcEYRm4LMkOMRQznG8OMB7GffJav9FrxmHahm/87Wdkei6v5dDyuKbWl+C+D/OUDULr2HFRNaaRlZkO7qCz5iIa4U/kaobNxaN52u6FMbUkA2e8xWatXEaBpl/TxK5R37+tWcUJIBnWYGQAO3KvZVawqEyogVgraReT56iNcxM2cRKUlctUZ5sXzspLZbYr0yPRfrnugibsbQherDW7xLZePMFUJ5Lv185gxpkEj40wlTXEF8TZEfRA=;DZF2KShf+qxKs2EVByHb6g=="
