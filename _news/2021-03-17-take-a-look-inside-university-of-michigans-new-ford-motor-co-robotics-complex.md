@@ -60,6 +60,6 @@ related:
       domain: automotiveworld.com
     quality: 12
 
-secured: "7Dl6NskG4ZSADC00pFXnGgzpPht/unBIW6KTmIE2q+G7vVuNq0YTCpqeJFqensQ979qNUkpZpUIyquy7MKNZnzOJu7l/MXJ2SB1MRCY+zmqjiZDlWuMi3D8VsBokZmAGkqQeFWNWC0+2JBidVlH7wcek/UIIT8BrX0WDWt+CXWzIEHLMAkcDFEelw1sK2QRSlO6QzoQSopj/Yg6fEuLB7rC30xpvClWaIpe2qgfcsggDH81CsumhAzFQNSf2z1ZVXsmVmox/kheZAmNfOBG2DwoMGkQA537PW9LghR0mC1kYvgZsHeOK97yr6079sDEbeJbMhmih/KmKlJ2TzqoEqVuJD1icqLxJ5krRFddGUyQ=;YhN79+Fx4u6af+C6t7r9GQ=="
+secured: "DEuWH7pYvBce736IgMtpuGx27GFFNNPu7OqcdamsrPEOe2CAxMB3vHcyR4LwMy3XGiJ5+Pga+Wu7yHP/U4puWlaBKexfgg1DfQ9klr04KW1devMcH1Y3u7KPk7sGkwfv03/9x7Yk2yhSu2rPyF7XBNAdaNHnw/RNgRylPp/7+lKNerDzM59NfSjkFQYO2SI4fquK1F59suArG1JLRbRn6KXyBMnMavYcm+VQASBD+u6yEhxluP6haxCU+kucmZkAseggywerroYV83E4nKqIvq8Q/ZA/S5mXmoen4sthkSMGSvgbhsZXVC++f6VgWPuDJVW1YDN9ncw+iRTeTI/p7YVNkA6cduposI5gr5kfSg8=;ndkDkBJZb8S64JiFiQz24A=="
 ---
 
