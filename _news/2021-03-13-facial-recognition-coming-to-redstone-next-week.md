@@ -57,22 +57,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "China state TV raps Kohler, BMW for using facial recognition"
-    excerpt: "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for the use of facial recognition technology on visitors to their outlets in possible violation of privacy rules that took effect this year."
-    publishedDateTime: 2021-03-16T11:21:00Z
-    webUrl: "https://www.chron.com/living/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-    ampWebUrl: "https://www.chron.com/living/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/living/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Immigrants’ rights groups sue facial recognition tech company"
     excerpt: "Two immigrants’ rights groups have sued Clearview AI, arguing the facial recognition tech company violates their privacy rights. The company is building one of the largest databases of human faces in the US,"
     publishedDateTime: 2021-03-12T21:15:00Z
@@ -100,6 +84,20 @@ related:
       - url: "http://www.concordmonitor.com/getattachment/334996e3-63b7-4f32-aafe-e3fe9c7e6faf/attachment.aspx"
         width: 499
         height: 325
+        isCached: true
+  - title: "China state TV raps Kohler, BMW for using facial recognition"
+    excerpt: "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for the use of facial recognition technology on visitors to their outlets in possible violation"
+    publishedDateTime: 2021-03-16T11:18:00Z
+    webUrl: "https://apnews.com/article/technology-lifestyle-beijing-china-85dafdf87c3d4798bf8e36070c9b12f4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/ed6a9f3d96ca422b84425a6269384838/3000.jpeg"
+        width: 3000
+        height: 1999
         isCached: true
   - title: "New Facial Recognition Software"
     excerpt: "Redstone Arsenal announced a new feature at the entrance of Gate 9. New facial recognition software will be reading those who are already registered in the AIE system with a 14 point algorithm, allowing them entry."

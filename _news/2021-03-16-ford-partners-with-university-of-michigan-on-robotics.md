@@ -7,7 +7,7 @@ originalUrl: "https://www.ttnews.com/articles/ford-partners-university-michigan-
 webUrl: "https://www.ttnews.com/articles/ford-partners-university-michigan-robotics"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     height: 246
     isCached: true
 
-secured: "9LA0FdQbWlezDoPRSilboK3fW4y55kyWHFggaCCKS4z6j3dif3M+q1Ro1A1IGG9MhDKo73uOJEoZfeZJqajUGx6/gXA6d5aoS254zYMPWnwLdj5me4fozs4n8TfuQJ3hKCEh3vyaQat45M+6WvtQJf44mHuolh8yb2/l5WlioaJ9GHhcdwGh3QALK67T4rffbsrJjbLEHSIW5Dn1oGG/6+/32bz0Wl1iawMZEBZuiozE0hBiASrbM1+ard5Vu7c8byUmSEk8VGmFKwA9pGPpzX6rKHMxD5VjnoadhD6VaFO5pVVftakZbqViIuyTwpeRucoDGgHmLnvb8yVaZYGdqb0SbZQT9o88YGG/E82Z/u0=;eU/QOsvsYaEhiR5T2I6aKg=="
+related:
+  - title: "Ford partners with University of Michigan on robotics research, new building"
+    excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four and the yellow-legged Cassie steps deliberately side-to-side."
+    publishedDateTime: 2021-03-16T17:17:00Z
+    webUrl: "https://triblive.com/news/wire-stories/ford-partners-with-university-of-michigan-on-robotics-research-new-building/"
+    type: article
+    provider:
+      name: TribLIVE.com
+      domain: triblive.com
+    quality: 31
+
+secured: "rxdspj5bgnfiqpXsrtJTGQE2jrW4YRmHNyyjHXpKo9Gd1rz8aBcEXwIWWuRGf6TBRsuij0qTEQsoTeyo+95RbM7e7Nn4GXHbtF5Ydfh3Skh1k8aDyFyUnWwMrKOfYHmlSL2a+ottmoJl7kEy1p9BN2Jhs6xsRz13wPLfQtz8pV4tacFpv4IRSIYU0oRK/oSAnj7ZSbB6rvatx+YE+Y7iaI4JQ7IO058LnRdumzxHUJvS+JTtq2LX23ZGMzPCT+1562YQY6ATyhb4GEikmX5a8J9cjPwWeNq9aPfJZvRL2qFPGSSufqovEvAvJ2uybrVUGyFKEGyOWLr+uRTce3IHUVIbOqTaAhonOxbtAYs0dUhBmlFo/qQthO3sqGFY9ZpO6/r1YLmToDRSd0kvP5PlMrrQinL9vjmiTSmHFz+noDA6oOTH51TrqWKWXPC8imLsTRMufSWlBKbFHRNoJTFCUk/C31PnQKULwFRKDdgISa+SOQtpLwPSgiSUrybPQYI57QOUfAAxnY9V3Xlc/4Cm3Q==;vjxrI/IIBtgs4GJH6oAPPA=="
 ---
 

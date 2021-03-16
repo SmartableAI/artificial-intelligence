@@ -22,6 +22,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Robots to provide on-demand delivery services in Singapore"
+    excerpt: "The trial is expected to pave the way for wider use of autonomous robot “couriers” in making on-demand deliveries for food, medicine, and everyday needs."
+    publishedDateTime: 2021-03-12T08:48:00Z
+    webUrl: "https://www.techinasia.com/robots-provide-ondemand-delivery-services-punggol#!"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
+
 secured: "V/Gkc/tHtQOlaDD+s8f1cH3IvXaLS7YAjCAvI4y9cAydNy6+2hJWtS0Ns4tkzTjCNphEIaLgYJcrlh5WtufARHBXpq4sG9FppsR8Rh3TFy6WyLvyHj1JHxmlnkYd64gnsOz3pUIA3FRbzemUkcXAbeq3HGwtCsUONg6xAFJktaXD64s+lP6xHI+WBGnee/IhTt2HQc5IKouUPI0+wbkF9yQA3gRzwDp5hRT5PqwN5OPyDaZH9qhvNbAPWOhrYBue51o1ZDzqA3ssgBL0o6MG89UD5+arOjoKEGbhqfrtlnjejc0qzz7bHl16r7QUQtTzhJ1Cpp9b3LuVMVjJCiieaPKELoQlxVnxIbJ15XnJI9MK835itjpXLq6UVy4Z8Pi5mwqmF3IrCj/LCcSp/jwAf7UcpBKWqrcoq/0x4eMebgd+UpzNAu0hsoVG8smIm/hi8yg+Hy1WDqQm7S9agRJ6uGpe0RqkAbF+ySxZOOT1yEfzy6TZ1gQlmKrtTugsDIu69Bjht4mOyvFXDkyTbCSlQA==;1eeUPQDVhUbyyGiteFH2cw=="
 ---
 

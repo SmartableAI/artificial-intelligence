@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Cachengo Announces Edge AI Solution for Local Computer Vision"
+    excerpt: "Computer Vision applications such as facial recognition are best done where the data is captured. This can be difficult when depending on data center or cloud processing of data. Cachengo is announcing the introduction of an on-prem optimized edge service with proprietary CDN technology and advanced analytics workload management designed to be located at the data source."
+    publishedDateTime: 2021-03-16T17:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-aba0a4190983171d0616e1323f6b87f9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Line of Credit.AI announces SWIFT MT 799 Educational Content"
     excerpt: "Line of Credit.AI has announced an educational video and blog post describing what is a MT 799 is and how various institutions"
     publishedDateTime: 2021-03-12T05:00:00Z
@@ -31,6 +45,48 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
+  - title: "iCAD Announces FDA Clearance for ProFound AI Version 3.0 for 3D Mammography"
+    excerpt: "Company’s third generation AI solution offers significant improvement in algorithm specificity performance and faster processing compared to previous versions of the software Deep learning technology builds upon iCAD’s established leadership in mammography AI NASHUA,"
+    publishedDateTime: 2021-03-15T22:07:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "iCAD Announces FDA Clearance for ProFound AI Version 3.0 for 3D Mammography Nasdaq:ICAD"
+    excerpt: "Company's third generation AI solution offers significant improvement in algorithm specificity performance and faster processing compared to previous versions of the software<br /> Deep learning technology builds upon iCAD's established leadership in mammography AI NASHUA,"
+    publishedDateTime: 2021-03-16T14:38:00Z
+    webUrl: "https://menafn.com/1101756296/iCAD-Announces-FDA-Clearance-for-ProFound-AI-Version-30-for-3D-Mammography-NasdaqICAD"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?628141"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Inpher Secures Strategic Investment from the Amazon Alexa Fund for Consumer Data Protection in AI"
+    excerpt: "The demand for Secret Computing® has grown with the proliferation of AI. Deeper and more diverse data is required to enhance customer experiences, streamline enterprises and solve society’s most pressing problems without compromising privacy or security."
+    publishedDateTime: 2021-03-16T14:25:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-technology-issues-data-privacy-consumer-protection-and-advocacy-bffc07d27063f7d6a5f92ed944655744"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Yhp/MMbnSj2jalmzXO9vxFFZAhXICG0PWO8fCT96hUkNgeJI3KgrwO3DUu7IKdS4TLONytG5PZrBxnwp50VcvsxOKh4yXUsI3iXFq0XI2qAwYhdLrbFSrCywkSOSCHcLi6reugzfPaFsoZ1a/Axx3/1V9zGInVnMSVScMhNVPuXUCx9m/ZlYQKtyWdrGvSZdFghQ+U7iLaEZjAvdTqF6PBLKb6klp0c9WxJJwDKTDmMD7SAIAPiooexFsw9lagM+KvrpwtVi9ng+5WwEV5xxr/EEC+IPSCi40d6Uzts5C7OyMrMHffptFHqMC7qHkroIaY/31rkXl8r25ZapceKFxbmdCI2d803jOZM6NC86QOM=;NL3dYr+L3AOSw9l46j0/FA=="
 ---

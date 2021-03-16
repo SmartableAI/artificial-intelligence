@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Stor.ai Raises $21 Million As Investors Flock To Online Grocery"
+    excerpt: "Tel Aviv-based grocery tech solution Stor.ai (formerly Self Point) has just raised $21 million in its most recent funding round."
+    publishedDateTime: 2021-03-16T16:34:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/online-grocery-investment-surge/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/online-grocery-investment-surge/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/online-grocery-investment-surge/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/online-grocery-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "We got an exclusive look at the pitch deck Israeli e-commerce startup Stor.ai used to raise $21 million"
     excerpt: "Stor.ai helps grocers across Israel and North America manage inventory and move their operations online."
     publishedDateTime: 2021-03-16T12:17:00Z

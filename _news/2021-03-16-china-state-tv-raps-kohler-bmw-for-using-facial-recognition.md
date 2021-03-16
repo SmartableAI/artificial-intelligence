@@ -1,29 +1,27 @@
 ---
 category: news
 title: "China state TV raps Kohler, BMW for using facial recognition"
-excerpt: "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for the use of facial recognition technology on visitors to their outlets in possible violation of privacy rules that took effect this year."
-publishedDateTime: 2021-03-16T11:21:00Z
-originalUrl: "https://www.chron.com/living/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-webUrl: "https://www.chron.com/living/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-ampWebUrl: "https://www.chron.com/living/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/living/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
+excerpt: "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for the use of facial recognition technology on visitors to their outlets in possible violation"
+publishedDateTime: 2021-03-16T11:18:00Z
+originalUrl: "https://apnews.com/article/technology-lifestyle-beijing-china-85dafdf87c3d4798bf8e36070c9b12f4"
+webUrl: "https://apnews.com/article/technology-lifestyle-beijing-china-85dafdf87c3d4798bf8e36070c9b12f4"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://storage.googleapis.com/afs-prod/media/ed6a9f3d96ca422b84425a6269384838/3000.jpeg"
+    width: 3000
+    height: 1999
     isCached: true
 
 related:
@@ -111,6 +109,6 @@ related:
       domain: whnt.com
     quality: 19
 
-secured: "gpuZHnGBs1asre4hUH7gYgk2jnIa7maoAjaC+aZVQnKgrBm5NcTeVcOemhmghz1W7EfL/sRcCGfxmk8A+xDaT7AyjaymIdLMhuW9Xo9Biqx0sWjoqjeOLZvAF9mh575DJkvKtdIXnjRY/BFuuBrRiRFi4kQ5DpQ/p0SLVnUglXD4McTFQDPwwmsbIU7ul/NBp+j2fqmRtIixx/mzmywBssek2Df+DTw5l1XMUtbk3T5NWM3HxtV4T9yoDtEI7VkyDFkJ3l6cLZB3+z4AztWzmCirzCLHW1JAmUx0JEXtIHu1WEPs/b/kytRO0B1KoyLe2P4hQvhiYFiAmPc8agPMlWKovG+iLwuD9mxNUXVy6DTkOf6LsnJbBboFLpABYuf02inYWHGyrEjltnkRc4jSGmdQrg/SFG5f7/I2tJOPbuIJb/6pcqc1a9CH1wL+NQF69i+qslqT0qeo7905aypI6BPN4E1MzucSeRFwrFVg0YjMSgXPkrGlFqoALTByYfoSocex1GGuxPXv+USJqMvWEg==;V6AHaClYRGdNfiQ47pYQbw=="
+secured: "9QPk+qmAhyWQ6Qwq5J8Q/lORsVQQVyXs5InBCDUgnZ+pwOAIQopS26EZyQskZmmkSolMeHEbaBLDDo879UA4AZofWNwZxQITtacc4kXcluWvYsT/PuyLM5L+v9Ai1DMghysTN4OfIlkJ1RKYWkBMalfPgLRMPQ7kXa9tIsf/aOE0ey17qky3kVse4txvBWDsj59/7L4rSON/rcWhsuJbEKAWyMplYVVDraoDt8zcolCoTs8OYKMfYtufwcJeAndgCELJVpFtMHV4tj39OeBOkSowXdYx5JIIhyzfsDsUKkqF94IRvR1Qs6dIl+MXf56JuDvKN0STxs88ZxmZ1qyv3aNNZ4hyyUVeakCXT6norqg=;Ldc8Agrqq5HI+mnbXbjMeg=="
 ---
 

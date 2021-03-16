@@ -51,22 +51,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "China state TV raps Kohler, BMW for using facial recognition"
-    excerpt: "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for the use of facial recognition technology on visitors to their outlets in possible violation of privacy rules that took effect this year."
-    publishedDateTime: 2021-03-16T11:21:00Z
-    webUrl: "https://www.chron.com/living/article/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-    ampWebUrl: "https://www.chron.com/living/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/living/amp/China-state-TV-raps-Kohler-BMW-for-using-facial-16028477.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Facial recognition coming to Redstone next week"
     excerpt: "(WAFF) - Flashing your CAC card to enter Redstone Arsenal may be a thing of the past. On Monday, Redstone will launch a facial recognition pilot program at Gate 9 and Gate 1. The DoD pilot program will provide employees a new, quicker method for getting ..."
     publishedDateTime: 2021-03-12T23:30:00Z
@@ -108,6 +92,20 @@ related:
       - url: "http://www.concordmonitor.com/getattachment/334996e3-63b7-4f32-aafe-e3fe9c7e6faf/attachment.aspx"
         width: 499
         height: 325
+        isCached: true
+  - title: "China state TV raps Kohler, BMW for using facial recognition"
+    excerpt: "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for the use of facial recognition technology on visitors to their outlets in possible violation"
+    publishedDateTime: 2021-03-16T11:18:00Z
+    webUrl: "https://apnews.com/article/technology-lifestyle-beijing-china-85dafdf87c3d4798bf8e36070c9b12f4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/ed6a9f3d96ca422b84425a6269384838/3000.jpeg"
+        width: 3000
+        height: 1999
         isCached: true
 
 secured: "W2N7BtfMCOrbMq3Z8Fs05TpgAa4ZtlI3qsjYLdi6DbGjjv+UwUW1sCTYfcLn5qyItnZ5w/+k2DmC8fbV89kUs/l2lD+q7uXeBO/XU4CfQJE6KrRDZuNAQrPz0cHmNmcsGHh7wd0t2deCoU7tvNI36Sy2vbjngiERpWkhpu0Y3pb0f847I9uWUCkdLBqyzW1BXLoOrYF3ttAanoa1rz+m3RHBjdqGZ7aiqHaIZXVLrt9pkt1Rcg0r6lsVIGSR3wuCeYHH33qprAEpM0DLfA41dcHRA52l0UCkAYWxNHQ50BdBf5Pp8wnISfEHBecpPO4nNFTVVMKdEprR2hmgK9jGoQf7bClMDwm/ZKe41hv10zKuqy3Qze3lj7rxAiSS3zDnXIVXmUGFvGpRiGxMSezqg6uDj7ySAZ7qUa3NViFf2YEXPmdtevl8W/qRvFLpyfbVZp7rvsBOUBgCs52s4R6qvfWiBvBSfQMKlZlIdB1Uh1A+oJ2nAOm6bpWxNnB6as9si2T1OKXQCeYegWqRLl2kSw==;NdeNlTqbgYf30w6I1MHPrg=="

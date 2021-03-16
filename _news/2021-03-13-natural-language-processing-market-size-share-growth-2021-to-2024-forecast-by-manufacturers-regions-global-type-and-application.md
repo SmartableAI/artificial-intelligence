@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Is Predicting Future COVID-19 Strains, Developing Treatments"
+    excerpt: "Artificial intelligence in particular has emerged as a useful new tool to not only beat back the viral mutations, but to also stop them before they can spread at all. Some new strains of the COVID ..."
+    publishedDateTime: 2021-03-16T17:23:00Z
+    webUrl: "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/"
+    ampWebUrl: "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 65
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2021/03/GettyImages-1303550836.jpg?quality=80&strip"
+        width: 5878
+        height: 3927
+        isCached: true
   - title: "Global Deep Learning Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
     excerpt: "Mar 15, 2021 (CDN Newswire via Comtex) -- A new offering by MarketsandResearch.biz entitled Global Deep Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 documents an overview of the market which has been showing steady ..."
     publishedDateTime: 2021-03-16T00:40:00Z
