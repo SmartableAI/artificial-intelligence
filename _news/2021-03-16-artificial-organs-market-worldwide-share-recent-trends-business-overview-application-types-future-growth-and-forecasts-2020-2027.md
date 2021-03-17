@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Market Report 2021 | Size, Share, Latest Development, Trends, Top Key Players and Outlook 2026"
-    excerpt: "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020.According to IMARC Group's latest report, titled 'Artificial Intelligence (AI) Market : Industry Trends, Share, Size,"
-    publishedDateTime: 2021-03-12T06:53:00Z
-    webUrl: "https://menafn.com/1101739821/Artificial-Intelligence-AI-Market-Report-2021-Size-Share-Latest-Development-Trends-Top-Key-Players-and-Outlook-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 28
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?394745"
-        width: 338
-        height: 250
-        isCached: true
 
 secured: "CRry2eH3toBjTaDS6VjeLiZDh3ZlrZcH8wJIgSOeLYSwpVxh1rRFTF5pY9aKXtsYKhIHyLhv40KlUsXst3RjWc9MrASgx07Ee2HmQJb64wQHjPkMYjSV6ZVWtiHoxSnxYzswUgq6XnXu6jH+HQ8N/OkefBXkSJEzQE79mhsJmYNxVLlKCDEv5vPHYL7K1+mQRkAwTZt1R7qZzl1nbJ0aKX31pLcsMSzAp8dbDJKh57aY+p3zNPW+vNeWhnclDAvZ6TbNQlmRfIRfnUPw0GFyYnDILX9VEfKAb8FW2pEQwaRHlkWLTYh5NhwrPA3GjavzfaH+JegppxZW30AQwc8N5nDiU/Vauw9FYe7IAnQIYKI=;Rr85H9/RvXk1BMc6twfBVw=="
 ---

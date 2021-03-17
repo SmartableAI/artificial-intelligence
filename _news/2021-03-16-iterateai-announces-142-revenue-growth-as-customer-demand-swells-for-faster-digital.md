@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "CORRECTING and REPLACING - Iterate.ai Announces 42% Revenue Growth as Customer Demand Swells ..."
+    excerpt: "In a release under the headline “Iterate.ai Announces 142% Revenue Growth as Customer Demand Swells for Faster Digital Innovation and Competitive Differentiation” issued earlier today by Iterate.ai, please note that the percentage should be 42%,"
+    publishedDateTime: 2021-03-16T22:52:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-colorado-4d89bc408d4a6ee586c877aadf203274"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "sdBxyLFavlbuac3emoYHc7v9YDSofFCk2VuxvStoVmyjzPe+4cvlqaHjjoZ+zsYZeW1uhAmbW3+dgLRF6vfiqOpYB3u1IrXX847KjpsinkLwvBO0s46urtc1/B3QBCb/UPm0cDgJXo33que0N6GL4rdEp9/qGYxgpKxJbEh6eZ1Ya0rweu1gupyNt6y8pG9LX8pnk6pQq5nq5sSEDThgTbsXqpeq13IgvkVCYjAyRI11Ms8iucptlDnN0S6WPfNJtnH0pdAJSkgA2Yu/V6ZOw7aWyRYOglCG1LEuWRjzBKOx2ScHjQO7Ns8qlfHIy7KxLiYT01JNEfo2NMasAWlDvT/5YbOehsgviol4LGCmLI4=;Zt39YWHnhVDkPeFmfGXfYw=="
 ---
 

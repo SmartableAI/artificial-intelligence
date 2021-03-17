@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-12-the-army-is-teaching-facial-recognition-to-see-in-the-dark.md",
+      "title": "The Army Is Teaching Facial Recognition to See In The Dark",
+      "excerpt": "Researchers have built the first facial recognition database for thermal night vision images. But the technology itself is already prone to misuse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
+      "originalUrl": "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/604a5d55a2d74200936f48a9/lede/1615486785400-screen-shot-2021-03-11-at-11928-pm.png?crop=1xw:0.9455909943714822xh;center,center",
+          "width": 1792,
+          "height": 1008,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark",
+      "publishedDateTime": "2021-03-12T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-the-future-of-work-now-ai-assisted-clothing-stylists-at-stitch-fix.md",
+      "title": "The Future Of Work Now: AI-Assisted Clothing Stylists At Stitch Fix",
+      "excerpt": "The goal of the two sources of intelligence is to provide clients with a “Fix”—a mailed box of five personalized clothes choices—that are a close fit to their style, size, and price preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/03/12/the-future-of-work-now-ai-assisted-clothing-stylists-at-stitch-fix/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/03/12/the-future-of-work-now-ai-assisted-clothing-stylists-at-stitch-fix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604b769ead1bacf4e0ff7a1f%2F0x0.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-why-chip-companies-are-important-to-the-future-of-tech.md",
+      "title": "Why Chip Companies Are Important to the Future of Tech",
+      "excerpt": "Stay-at-home trends boosted sales of new PCs, data centers installed more chips to keep pace with the surging usage of cloud and AI services, and new technologies -- including driverless cars, automated factories, and 5G networks and devices -- gobbled up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F617413%2Fgettyimages-599789122.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "publishedDateTime": "2021-03-12T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-china-to-pour-more-money-into-chips-ai-5g-to-catch-us.md",
       "title": "China to Pour More Money Into Chips, AI, 5G to Catch U.S.",
       "excerpt": "Randy Abrams, head of Taiwan securities research at Credit Suisse Group AG, discusses China’s ambition to end its reliance on U.S. tech, the support that tech is receiving in China and his outlook for the sector.",
@@ -1113,134 +1268,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers.md",
-      "title": "Luminar strikes software deal to offer self-driving systems to automakers",
-      "excerpt": "Luminar Technologies Inc said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers. March 11 (Reuters) - Luminar Technologies Inc said on Thursday it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11",
-      "originalUrl": "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/luminar-strikes-software-deal-to-offer-self-driving-systems-to-automakers-2021-03-11?amp",
-      "publishedDateTime": "2021-03-11T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026.md",
-      "title": "Global Artificial Intelligence (AI) Accelerator market Size, Share, Value, and Competitive Landscape 2026",
-      "excerpt": "Mar 11, 2021 (Heraldkeepers) -- According to this study, over the next five years the Artificial Intelligence (AI) Accelerator market will register a xx% CAGR in terms of revenue, the global market size will reach $ xx million by 2026, from $ xx million in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-robots-learn-faster-with-quantum-technology.md",
-      "title": "Robots learn faster with quantum technology",
-      "excerpt": "Artificial intelligence is part of our modern life by enabling machines to learn useful processes such as speech recognition and digital personal assistants. A crucial question for practical applications is how fast such intelligent machines can learn.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
-      "originalUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/robotslearnf.jpg",
-          "width": 817,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-robots-faster-quantum-technology.amp",
-      "publishedDateTime": "2021-03-11T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

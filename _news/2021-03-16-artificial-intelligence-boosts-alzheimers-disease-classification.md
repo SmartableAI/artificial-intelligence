@@ -39,30 +39,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
-    excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
-    publishedDateTime: 2021-03-15T17:42:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
+  - title: "Researchers Enhance Alzheimer’s Disease Classification through Artificial Intelligence"
+    excerpt: "Using an advanced AI (artificial intelligence) framework based on game theory (known ... These findings appear online in the journal Alzheimer’s Research & Therapy. Funding for this study was provided in part by the Karen Toffler Charitable Trust ..."
+    publishedDateTime: 2021-03-15T20:22:00Z
+    webUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: Boston University
+      domain: bu.edu
     quality: 31
-  - title: "HMS Researchers Use Machine Learning to Recommend Drugs for Alzheimer’s Disease Clinical Trials"
-    excerpt: "Harvard Medical School researchers developed a strategy that uses machine learning to recommend drugs as candidates for clinical trials for Alzheimer’s disease, according to an article published in the journal Nature Communications last month. A team of ..."
-    publishedDateTime: 2021-03-12T06:18:00Z
-    webUrl: "https://www.thecrimson.com/article/2021/3/12/machine-learning-alzheimers/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 27
     images:
-      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2020/03/27/182039_1343628.jpg.2000x1333_q95_crop-smart_upscale.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://www.bu.edu/hic/files/2021/03/vbk_latest-636x565.jpg"
+        width: 636
+        height: 565
         isCached: true
 
 secured: "5rxu883pbPu+Cb2AYleCOENDscUT+uRof8rdGZ8Kj/ONa3l39eBT+fp+FjVrXL2BLnb3g7IRy8nvKRZRtiHdXjQ+rEhDdm7iu5qvNL2tz4mZw0IeeEA8CGSHjw6goa4OjQ8FVAlYhGQHpM2l6wvyKORtkcrlXIjLnEuTRlHn4KbeaY6jdXA8yGM1RXeDWJdCqTYCSpEZEdh8YX6yeA0mQ+TkhZEyHvw8VW+Pj543gdtCA5nIDz95uMn4Ujp2E8lHZpG5hIxZ3jaKvsgfqXD/LeTlYC8e9u48dQ9/iemT5fWyTsX8DJOI/PGJiI2t/SZiJRy3096AZ83QFDv8rfyEXZjjxIdlRSt7zEyy1V7HlqS9BTtRNrXGLxybRBIe3o1V14aqzDKT+2g63c6Hiv5gwU/voNqvXTNyHWHXcimL1FyzCdcf4z9dgDWdhRiiNagONpCGOqiSlm08SazhCeAR9MbK9UlWfOBVm0eLUnIWkzcd1UPZXsZDBYrABAaZncSSfSZ/31eZkefxZKbussAe/Q==;BTThgLTFrIeS96hG4DGQbg=="

@@ -35,20 +35,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Cybersecurity Industry’s Most Comprehensive Guarantee and Warranty Announced by Deep Instinct and Backed by the Munich Re Group"
-    excerpt: "Deep Instinct, the leader in deep learning-based cybersecurity, is the first company to back its product with a performance guarantee that ensures an incredibly low false positive rate, plus a ransomware warranty that is three times higher than any other ..."
-    publishedDateTime: 2021-03-12T07:44:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-malware-insurance-industry-5bc61440fa30445ba044ad7cf6abadd4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "2zCdRsIf/7blNXKcEYnBulpXg3NPD70qDtixtXUcrPCcODoRHKYfnGRuxalVX0h97xWMWqkfhffSipNNIuT8gxCMWN0zgYKfHJo/01RJCk5ORo4vFrJXb3FWyTqz2mYg/q8BapDiL9EJ/vrhW2uu14pfWS+ryeG1NLupuJR2F9BDfRC0np+kbraBf6PZnCIWTOBCgSRfIX9EpQoKtdN2ziTAV3KHezgPh8GuNpP7L1siw8BvP9y9HelySMKXWkdCQoVZIPG7y+Pe3ZO34i20xMOs9ptUUKCLkUf82Vx7wXJwznGlwSAL89NNr33hoc5mrg7DH5y+G/wStaSMH8YLaw65BBGGb/06jsyA7YDGtQw=;FUAHCGPAgJJpKW4Ga1j8Hg=="
 ---

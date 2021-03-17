@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-16T13:03:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798"
 webUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798"
 type: article
-quality: 82
-heat: 82
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -20,6 +20,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1456317/Amgen_Canada_Amgen_announces_Artificial_Intelligence__AI__Partne.jpg"

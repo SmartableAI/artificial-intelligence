@@ -144,20 +144,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "FinTech Buddy Loan offers 2x higher disbursal rate on personal loan app"
-    excerpt: "Bangalore-based FinTech start-up, Buddy Loan, a personal loan aggregator cofounded by entrepreneur duo Srikanth Bureddy and Satish Saraf, offers 2x higher disbursal rate than the industry standards through an Artificial Intelligence (AI) powered platform."
-    publishedDateTime: 2021-03-12T07:54:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-buddy-loan-offers-2x-higher-disbursal-rate-on-personal-loan-app/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/02/tZERO-.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Cy Wins 2021 Best Robo Advisory Platform FinTech Breakthrough Award"
     excerpt: "The FinTech Breakthrough Awards is the premier awards program founded ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim, Managing Director at JE.. Formula E Korea E-Prix 2020 Press Conference Rolls ..."
     publishedDateTime: 2021-03-16T11:00:00Z

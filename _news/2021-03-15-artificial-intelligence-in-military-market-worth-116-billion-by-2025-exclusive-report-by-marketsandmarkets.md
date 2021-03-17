@@ -18,15 +18,34 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market to Hit $31.20 Bn By 2028"
-    excerpt: "The global Artificial Intelligence In Healthcare market size is expected to be worth around US$ 31.10 billion by 2028, according to a new report by Vision Research Reports. The global Artificial Intelligence In Healthcare market size was valued at US$ 2."
-    publishedDateTime: 2021-03-12T06:05:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/138491/artificial-intelligence-in-healthcare-market-to/"
+  - title: "Robotics Market Major Growth Factor – Increasing demand for automation in automotive industry : MarketResearch.Biz Study"
+    excerpt: "Robotics technology is widely used in various industries such as electronics, healthcare, artificial intelligence, defense, mechatronics, aerospace, nanotechnology, and automotive and infrastructure. Influence of the Robotics market report ..."
+    publishedDateTime: 2021-03-16T08:43:00Z
+    webUrl: "https://www.wdrb.com/news/national/robotics-market-major-growth-factor-increasing-demand-for-automation-in-automotive-industry-marketresearch-biz-study/article_a02d4444-900e-5fa1-aad0-9806ec20cf2a.html"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 34
+      name: WDRB
+      domain: wdrb.com
+    quality: 29
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/custom/image/47ea3bc8-d7b7-11e8-a2eb-2715aca360ef.png"
+        width: 960
+        height: 960
+        isCached: true
+  - title: "What Accounts For The High-Decibel Growth Of Voice & Speech Analytics Market?"
+    excerpt: "Voice assistants such as Alexa, startups working in speech recognition and companies investing in voice technology have seen tremendous growth in the last few years. Several factors contribute to the increased traction in voice technology,"
+    publishedDateTime: 2021-03-13T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/what-accounts-for-the-high-decibel-growth-of-voice-speech-analytics-market/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 21
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/voice-analytics-market.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "YmcSkcSwi0vt1pBecTec+YdCNrc8gPzBoCmLhMReasP9Go+XRkhgv7qDCHYt/UA82dxkbuw2yvCdgWIe7+1Ih3KUhuPDLBz9O5gtWRnHXeTxCAii3ekrTzY24DJPEiGD0owvqi9CzzLR5Pm8k9P5NAEkGaU8L0r2gMuOffKF15CuRhdJJkXc0X0fHwYMCHzHlRLck/2sR1OkiSG4/5vkExMOaZwYPhtQJJTh5ja4nZcwnyJbgqa6xMGF6c8lpLslUVQLM9i1JILQ8QWrpbufq7v/AyFkCviADE/JWNbPC+xXfHtW/2oAfpmrRjoNq4oF5uQ6u23a+NNFJOg9qSgJf+RXidDOJMlsxLf+62d4S9Y=;ADJUksxtG9qKXTb2YYArrA=="
 ---

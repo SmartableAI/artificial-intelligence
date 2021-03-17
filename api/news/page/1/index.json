@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-17-ai-patent-intelligence-platform-patsnap-secures-300m.md",
+      "title": "AI patent intelligence platform PatSnap secures $300M",
+      "excerpt": "PatSnap, a startup developing AI technologies to analyze and organize patents for R&D, has raised $300 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/16/ai-patent-intelligence-platform-patsnap-secures-300m/",
+      "originalUrl": "https://venturebeat.com/2021/03/16/ai-patent-intelligence-platform-patsnap-secures-300m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/8813a9fb-52c5-4dcc-91ea-bd309f50707a-e1615583989777.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/16/ai-patent-intelligence-platform-patsnap-secures-300m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/ai-patent-intelligence-platform-patsnap-secures-300m/amp/",
+      "publishedDateTime": "2021-03-16T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex.md",
       "title": "Take a look inside University of Michigan’s new Ford Motor Co. robotics complex",
       "excerpt": "The Ford Motor Company Robotics Building on University of Michigan's North Campus is a $75 million state-of-the-art facility.",
@@ -396,7 +447,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -435,7 +486,9 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
       ]
     },
     {
@@ -447,7 +500,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -696,6 +749,48 @@
       ]
     },
     {
+      "path": "_news/2021-03-16-a-top-computer-science-professors-insights-and-predictions-for-conversational-ai.md",
+      "title": "A Top Computer Science Professor’s Insights And Predictions For Conversational AI",
+      "excerpt": "NEW YORK (March 16, 2021) — Breaking Bots: Inventing a New Voice in the AI Revolution by Clinc’s Founder CEO Dr. Jason Mars is available now. The book is published with ForbesBooks, the exclusive business book publishing imprint of Forbes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/amp/",
+      "publishedDateTime": "2021-03-16T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-bmw-wants-to-make-you-feel-things-with-its-new-ai-assistant.md",
       "title": "BMW wants to make you FEEL THINGS with its new AI assistant",
       "excerpt": "BMW's new iDrive 8 system uses natural language processing, gesture control, and machine learning to connect the vehicle and driver in emotional ways.",
@@ -800,7 +895,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1126,110 +1221,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-sherpa-raises-85m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services.md",
-      "title": "Sherpa raises $8.5M to expand from conversational AI to B2B privacy-first federated learning services",
-      "excerpt": "Sherpa, a startup from Bilbao, Spain that was an early mover in building a voice-based digital assistant and predictive search for Spanish-speaking audiences, has raised some more funding to double down on a newer focus for the startup,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/",
-      "originalUrl": "https://techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-931422334.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/amp/",
-      "publishedDateTime": "2021-03-15T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-cruise-purchases-self-driving-shuttle-service-voyage.md",
-      "title": "Cruise purchases self-driving shuttle service Voyage",
-      "excerpt": "Voyage has been offering its service to customers in retirement communities in California and Florida. Cruise, the GM-backed autonomous vehicle development company, has acquired another self-driving vehicle company called Voyage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/cruise-voyage-purchased-self-driving/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/cruise-voyage-purchased-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/",
-      "publishedDateTime": "2021-03-15T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

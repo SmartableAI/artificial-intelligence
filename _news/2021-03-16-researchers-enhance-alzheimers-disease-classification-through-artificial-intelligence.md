@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
-excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
-publishedDateTime: 2021-03-15T17:42:00Z
-originalUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
-webUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
+title: "Researchers Enhance Alzheimer’s Disease Classification through Artificial Intelligence"
+excerpt: "Using an advanced AI (artificial intelligence) framework based on game theory (known ... These findings appear online in the journal Alzheimer’s Research & Therapy. Funding for this study was provided in part by the Karen Toffler Charitable Trust ..."
+publishedDateTime: 2021-03-15T20:22:00Z
+originalUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
+webUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Boston University
+  domain: bu.edu
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.bu.edu/hic/files/2021/03/vbk_latest-636x565.jpg"
+    width: 636
+    height: 565
+    isCached: true
 
 related:
   - title: "Artificial Intelligence Boosts Alzheimer’s Disease Classification"
@@ -49,21 +53,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "HMS Researchers Use Machine Learning to Recommend Drugs for Alzheimer’s Disease Clinical Trials"
-    excerpt: "Harvard Medical School researchers developed a strategy that uses machine learning to recommend drugs as candidates for clinical trials for Alzheimer’s disease, according to an article published in the journal Nature Communications last month. A team of ..."
-    publishedDateTime: 2021-03-12T06:18:00Z
-    webUrl: "https://www.thecrimson.com/article/2021/3/12/machine-learning-alzheimers/"
-    type: article
-    provider:
-      name: The Harvard Crimson
-      domain: thecrimson.com
-    quality: 27
-    images:
-      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2020/03/27/182039_1343628.jpg.2000x1333_q95_crop-smart_upscale.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
-secured: "PadDkIjvpMbXs0hR56nTw9dLIYzbNZ49DngjLT6zwhJpS8OMXINGUlIKsULChKCimCUNee4VzUOakTPgAioqoCxQnN3ek7Im4mrGbHG6cEtYM/LMpLYgt76wolVmOJwqzwZSCy5UgffBBZS7mpL8lngr+7RpOTxoiWA/VreLxuqsWKD+0qN/H4cquymuFwl9mSrjucx4njVpyFYcH24blBn4FHAjxjHEOtUPTcYUyHToC+PkxDzxme+ztW8n9EVTVSbDs4IZlRncM0OKrZpppAov0XVNpgWfkmtrsRLECY9kqOYxKiRCoAWPVTdr3pPRq27PjxIJ7+SZ6HJRlWPGA9ePxNMkTFr2MFvB23Od/Uo=;h25EHabnjCcAVpQtxLWx9Q=="
+secured: "+fKNa+Z9EiRvTn1TxU82yG39pksQen+BqX19d1T7VL7h6s6hAi7hy6yUyqNq0Sc0ec5BkUCkOd0tt/SoC2gD25pe8DezggQUIYKkqZqUJ+Hl1XJonxgE9daNJqsf1OCohC6Vz3Bdr5idf33D8INFUrdAdOR5crVyh7jyczjk7B8xXnqnd1bhUco6nmW5xnfZjzpPrJ0TaUCYYQ7OuM0jK9WI7rQPVzw5T1E11lJTVz5j9oyMSqLxwKxHoM3FhL6gwB420MZEdz/k29mlum4rlEYWkhVtAA96CgHF7yBOkkd2e2Yb+O+un4MzwC9T7e+elcSsg9oxz31MtkV3X2FPt9oJrtitoX6NTxa67X0M7Ag=;MNMiqAal+HXb4Fd20fSzmw=="
 ---
 

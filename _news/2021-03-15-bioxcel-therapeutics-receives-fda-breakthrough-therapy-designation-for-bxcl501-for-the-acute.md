@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "BioXcel Therapeutics Submits New Drug Application to U.S. Food and Drug Administration for ..."
-    excerpt: "A non-invasive therapy that causes rapid and sustained symptom relief ... Inc. is a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology."
-    publishedDateTime: 2021-03-12T06:36:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-products-and-services-mental-health-drug-approvals-coronavirus-pandemic-b62a532c5bf2eaf94ddd844a5bfbf216"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "F9U4h9btBrikE3f6mCZ+ceWjfge0vFqclg8yNgwpNFqdu7g9u+i+E/awTNBL90iwUz0NrSOiPg0iHUByDSniTJzKx45VbxgjBUhjuHlerb3au31VEVJ7ioanVdWkrWJ5itQ2FyRGuM75k5rkEI9Gv9ObW+k/4diqJWwHZYZsoZktOn9TPIH2lQ21zybyPutTyir/wiQAfmNwQWUddKGaBdiw7YQX8vp9LDwaYwFAfblD3Ay6wRuus5/QhzMHr7FlVFWAHPUeoA/We4xKRkZ+SHFograLH0g799yfFG/mLOnfjTtqp3wSgjBEryV+BgVE7ucsPo4xmfd+rDZu5oL9TgVLky2dJMEiRuGMjlBPMUM=;479nccseIK9I4gYfcEGsqA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-16T21:15:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-demands-status-and-application-forecast-to-2025-2021-03-16"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-demands-status-and-application-forecast-to-2025-2021-03-16"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-16T18:54:00Z
 originalUrl: "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-7bca1927d8fe5dfe69d44203c02e2076"
 webUrl: "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-7bca1927d8fe5dfe69d44203c02e2076"
 type: article
-quality: 36
-heat: 36
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - AI in Finance
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -25,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "S63qm/GugQD/EumBSltqlVxLnhOo6ZsNlN1QrRFo4v7UxppyShjy6V6/BZO7XetyUlwU4z6HCI+4RbSXNCWhIJNP7z/eS7KAfC+lgMaKOjNWytOypnGFu73R9iDUscpI2qQK7NyP8AEE34ATLJ4EODCLryqjHwvSczDA9o+A3j5bgHxtTk0BG6Xlxb8aEGWZNzNolPZLkaSiHfyfulcJ4uOXL/3MRmTxG4VQNgrg3Lw7tOd7frykDVj39hWdVhrcsqY0NTTO+RjsuvnZ+pei/G5Yy14yLCHF/K0Ab5CQhsclBrp/VV5SMukLukmmRRIEqsxAIQ7IT68kHNnXPz5ojF3E9Qm4a7bkJ+qF9nFbEVw=;YU2pGzRDsQ/Fpr9w87m78g=="
+secured: "NrFh2476WT76kLCVzJuEb6HSXRNJDyEHNiJfgHQNFg96B2EYQgBJH5LT2Qm6iL1g9yM5Vr3tjygFnsNo89ZhsicB/yMR0cPNgUNkZrZ1LhaSWJtXeY7VCpD2/NLP1J+rZUEaOB+IXrfuazeg4O3mtOGWQWpNLvkgwyk4rGfXNIOF2G/bLvQtXH4eMyloRWLYfl0xZ6tjL6FvTunuUNJuCsijT5ncoI7csumlwMPdat8J42XJKvNfMZWRyRZ48d3xEOqCdDDRW5Y6PkONcKYwZaJC/rGBmWU4rV0csSWvYGoqLeO90KIQBN46/73AzWKVhyZ3ocPmMx+JFv3YxEVL/Gwy1hE4szCn+z1YXs8QCJE=;bDUgWdaf71sApgWYx5riNg=="
 ---
 

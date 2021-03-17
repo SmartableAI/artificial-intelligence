@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Mavenir Extends AI and Analytics Portfolio to Enable Mobile Network Optimization, Automation & Security"
-    excerpt: "Mavenir, the industry’s only end-to-end cloud-native Network Software Provider and a leader in accelerating software network transformation for communications service providers (CSPs), announced today its extended Artificial Intelligence (AI) and Analytics portfolio to enable closed-loop automation and drive digital transformation."
-    publishedDateTime: 2021-03-12T06:43:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-communication-technology-software-industry-250871eff3b2455482960cc3052e0395"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "3 analytics and AI trends that will dominate 2021"
     excerpt: "As enterprises continue to grapple with the pandemic, proving the ROI of analytics and AI, enabling intelligent automation, and leveraging data for diversity, equity, and inclusion will be critical."
     publishedDateTime: 2021-03-16T09:00:00Z

@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-26-why-machine-learning-strategies-fail.md",
+      "title": "Why machine learning strategies fail",
+      "excerpt": "Most companies are still trying to figure out how to make AI work. A recent survey looks at some of the barriers to machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/cloud-machine-learning-strategy.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
+      "publishedDateTime": "2021-02-26T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale.md",
       "title": "Microsoft: How we deliver industry-specific cloud computing at scale",
       "excerpt": "Microsoft is building clouds for nine priority industries by connecting and customising public cloud services for specific workloads and partner integrations.",
@@ -1370,59 +1424,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-microsoft-and-volkswagen-will-collaborate-on-self-driving-car-software.md",
-      "title": "Microsoft and Volkswagen will collaborate on self-driving car software",
-      "excerpt": "VW plans to use Microsoft's expertise to build a cloud-based platform for future autonomous technologies and driver-assist systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/microsoft-volkswagen-self-driving-car-software/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/microsoft-volkswagen-self-driving-car-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/Uxb-ku5Ohm5TlkF7oBGUQ-AjDd4=/2021/02/11/08b48d05-cd96-4e30-bf94-9a371a41ae28/ogi-vw.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/",
-      "publishedDateTime": "2021-02-11T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
