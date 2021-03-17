@@ -57,22 +57,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "CBSE Launches Artificial Intelligence Platform For Students: Here’s How to Register | Step-by-step Guide"
-    excerpt: "As per updates from CBSE, the AISC will help in students in creating and spreading awareness about Artificial Intelligence in an inclusive manner. Also Read - CBSE Board Exam 2021: Want to Score High Marks? Class 10, 12 Students Must Follow These Tips ..."
-    publishedDateTime: 2021-03-12T17:40:00Z
-    webUrl: "https://www.india.com/education/cbse-launches-artificial-intelligence-platform-for-students-heres-how-to-register-step-by-step-guide-4487406/"
-    ampWebUrl: "https://www.india.com/education/cbse-launches-artificial-intelligence-platform-for-students-heres-how-to-register-step-by-step-guide-4487406/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/education/cbse-launches-artificial-intelligence-platform-for-students-heres-how-to-register-step-by-step-guide-4487406/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 40
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/02/CBSE-Board-Exam-2021-Tips.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Expert.ai Launches a new Natural Language User Community at https://community.expert.ai"
     excerpt: "Expert.ai today launched a new user Community designed to serve the AI natural language understanding (NLU) and natural language"
     publishedDateTime: 2021-03-15T14:00:00Z

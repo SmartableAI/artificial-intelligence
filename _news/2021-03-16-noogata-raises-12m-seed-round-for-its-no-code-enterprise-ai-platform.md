@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Solar analytics startup Prescinto raises $3.5 mn in seed funding"
+    excerpt: "Prescinto’s AI identifies the root causes of the plant’s underperformance in real-time and helps in reducing costs of operation and maintenance. With an aim to increase clean energy without additional investment, the startup identifies and reduces the ..."
+    publishedDateTime: 2021-03-17T09:24:00Z
+    webUrl: "https://www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding-11615972554397.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding/amp-11615972554397.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding/amp-11615972554397.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2021/03/17/600x338/19ac9b5e-d33f-11ea-985e-0246d4273452_1596244478776_1596244559546_1615972944371.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "3 analytics and AI trends that will dominate 2021"
     excerpt: "As enterprises continue to grapple with the pandemic, proving the ROI of analytics and AI, enabling intelligent automation, and leveraging data for diversity, equity, and inclusion will be critical."
     publishedDateTime: 2021-03-16T09:00:00Z

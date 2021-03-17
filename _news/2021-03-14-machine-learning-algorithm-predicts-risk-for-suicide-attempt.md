@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210313/Machine-learning-algo
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Artificial intelligence calculates suicide attempt risk"
-    excerpt: "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center."
-    publishedDateTime: 2021-03-12T16:02:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/vumc-aic031021.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/258808_web.jpg"
-        width: 440
-        height: 290
         isCached: true
 
 secured: "V4Lq3maMPUfSvM3EJDuEVcss3zeZ+0C3i8ueOjKhUcn0T54IE1zz1Ji+7USCiO7LDY3oLLNSVw+4aRfuSM0wy6AiCPKq7ze4VIr3qdS1xPvAKEwTbgwPOsVlj7Yj7PFwuPFiTsyDL3PUsX65PEl0OcrltzOQdel0LVVazMdjHkDfvOtkw/Lh4Ok2L5fFIeCPL/xJppQePjCXElfymt1S4S+ZPTOAJqH2mltNnBvKolgABFLePOIbJa0dVwR8RRYmpDJRDMCW3HO/YyKT5OAx5/DI/Pvnb+kBItjoVk3iT+GUG+CWH52ywAJFcnzV3wwSDzhRh9AMndbbz5k2UD6eYtj8+FhaSmmqU9mOAsBg9O8=;X+UR3mE7/4UdzcRPOK3vFg=="

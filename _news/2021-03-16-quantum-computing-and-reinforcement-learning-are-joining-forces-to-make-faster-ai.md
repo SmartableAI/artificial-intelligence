@@ -43,33 +43,6 @@ related:
         width: 270
         height: 293
         isCached: true
-  - title: "Using AI to assess surgical performance"
-    excerpt: "A research team at Inselspital, Bern University Hospital and Caresyntax has succeeded in proving that artificial intelligence can reliably assess surgeons' skills. A method involving a three-stage procedure has been presented that correctly designates good and mediocre performance with a high accuracy rate."
-    publishedDateTime: 2021-03-12T17:14:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-ai-surgical.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-surgical.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-surgical.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/4-surgery.jpg"
-        width: 1920
-        height: 1371
-        isCached: true
-  - title: "Is AI washing helpful for digital healthcare?"
-    excerpt: "Even in the UK – probably not so different to other European countries or North America – conventional data analytics seems to be of more use than much-vaunted AI systems. This is borne out by a recent report from the Centre for Data Ethics and Innovation."
-    publishedDateTime: 2021-03-12T17:31:00Z
-    webUrl: "https://www.computerweekly.com/blog/Data-Matters/Is-AI-washing-helpful-for-digital-healthcare"
-    ampWebUrl: "https://www.computerweekly.com/blog/Data-Matters/Is-AI-washing-helpful-for-digital-healthcare?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Data-Matters/Is-AI-washing-helpful-for-digital-healthcare?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 56
   - title: "AI for Health grantees making an impact"
     excerpt: "Learn how our grantees and partners are addressing global health challenges with AI for Health resources and grants. We are mobilizing our efforts to support organizations responding to COVID-19 with projects for shared research,"
     publishedDateTime: 2021-03-16T07:52:00Z

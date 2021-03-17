@@ -57,20 +57,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Artificial intelligence calculates suicide attempt risk"
-    excerpt: "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center."
-    publishedDateTime: 2021-03-12T16:02:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/vumc-aic031021.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/258808_web.jpg"
-        width: 440
-        height: 290
-        isCached: true
 
 secured: "doM6hpJYSeM7+OrKprf1qFQF05/yYsMkdBJWycXEFZ74+m+J1+eImyWMNkd1wJJTw5sDvxhLbdju5NDE03Ip4Ed68628fJzh0zhWiCN5MM8S8cj5OYQfvr5hyYvCSWp7u9yTCHPMarDkk6S9+27MM8own1uVDy2XatYuO6hJjgf87qi+bsDQIKQP/buxkxg6/yG35sFYKNoge0P3yGRUTPcp+OjeFmG3bAq50O/SIYNHKjZAI6qEflQoDXOCz8FO1ZCQ1DUt2YVFpiiAx8ldgSmKGmbBfbz+suUq2O8c4AJ2mZ/61XxKuKy/rok9SCwxtmslNaDxUljf8uQ6pdBc+SeR7l/Vn+r/h40pW3+65YM=;/NTm26fD70z5C73yNAkFrg=="
 ---

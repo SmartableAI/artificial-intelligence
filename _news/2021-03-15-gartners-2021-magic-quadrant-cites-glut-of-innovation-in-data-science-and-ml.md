@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/2021/03/14/gartners-2021-magic-quadrant-ci
 webUrl: "https://www.gartner.com/en/documents/3998753"
 type: article
 quality: 145
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Blue Yonder Named a Leader in the 2021 Gartner Magic Quadrant for Supply Chain Planning Solutions Report, Positioned Highest in Ability to Execute"
-    excerpt: "Blue Yonder attributes this position to its Luminatetm Planning solutions portfolio, which offers advanced artificial intelligence (AI ... at 11:30 Global Shockwave Therapy Markets 2021-2025 - Shockwave Therapy Function / Conditions Effectively Treated ..."
-    publishedDateTime: 2021-03-12T16:48:00Z
-    webUrl: "https://www.lelezard.com/en/news-19697337.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 1
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
-secured: "FYbg49FqH16KtweXxpBLgz6dtt1LksxYbPY9jYSz1qe8JMDW5o8XadelzspGy7cLi/151Tc4BJ8lvlEQJl8R125h5plF8tJwe89Ss2116ZV7bWcgta+IsI6EJUIbuu6eiV6dalRSlGuZ6KlgIj9KaV+eSAWz4v4Ex+KwtxEFmaNyxGYGXE2RVd3vXVo9NH+QMyrRFf7tqtqbGrXAPRcOjfCNXz8RXELYqggbaK7PzkjtuShUggfCxftxSaQf80b0rDhTOaa5Vt1cSuR+/bgYnp8JYpsSYFDHRf728BiI236ELSZgyVDqtQ7orajHh9efySDUi1z5HmC0cYOqFbYcUSP27/bGHBHnH0fG6PGZBgxDL4jQCy/fv9dMdzQqTccg;DZUJI/Q+s3ABEWyeJD+aPQ=="
+secured: "PXt2RE9NQtwmmgpw85e4SJrI2TE7fD3vO4KbQHJE7Ops1RCUv7eFz4CXxyg6z0pvZu+AFUcXrEBy1stMbT5Vn4YJvvHXfLu+6mjM/l6iKazR/r4zqLSBPXI5RmpaMAK1m0KqLYtQmvT3yER9zBnAOCJLDtTOmpyfFMoitBIaS+A8HllbXZLMqDNogQ7PPTjzUEOuImcrCx89DgWca/KrxKNDaM+oXgiEVY+GESPLW2V30DL9xHvb2rWDcn6pQ8jI+PQmBIfijwyrzrUp1XFCstSgeqU/bdVubHoN3DSHQaLGX80SVRsUvhACNRVpNgLN1xiPmnPIl83Nw4f1xPT/DWAb9/tyVDY9JPPKomaNoeOufQfDFSTsHlbeeV8g8JfiFeq/a+AVOmyWTXp9U6peNUDQjWS/HMXuMo45DkZb/CkRJGlkK36+UE1FG9vS+vV90jot6VXh+Z2K87oR4yXi4gD8vgHCqUbHa81PkhsfA/JLYIz/ALZIhlbd/t1QfSxqHECtHd6Xrc6JU54E6DES8GdLzutQt8Kk6mVMdt/K4k0=;716W54DDxbPHQbrf8G2vDw=="
 ---
 

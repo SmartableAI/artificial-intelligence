@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China grants Baidu first robotaxi permit for paying riders"
+    excerpt: "Baidu could eventually charge people to ride in its robotaxis—a milestone for the costly, years-long quest of self-driving cars."
+    publishedDateTime: 2021-03-17T07:57:00Z
+    webUrl: "https://technode.com/2021/03/17/china-grants-baidu-first-robotaxi-permit-for-paying-riders/"
+    ampWebUrl: "https://technode.com/2021/03/17/china-grants-baidu-first-robotaxi-permit-for-paying-riders/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/17/china-grants-baidu-first-robotaxi-permit-for-paying-riders/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/09/3b7d4a5d3bae2076e2e3d2ec7e2d63b.png?fit=1080%2C626&ssl=1"
+        width: 1080
+        height: 626
+        isCached: true
 
 secured: "A1laLrm6EuDmJXr3OhLVK2qjHYh78bifsfr+QzGnGYiUZy3o4OTahnJdF+AOnzxmLNZXVvuP6FV7TjHhByfLQDHmLFkiKsLihwuMPmMzIa0L0Jvgiaz3rBRYs//nqs0skUX1AezYjhYs0R3qR4JA8HCnpWLwT6NLpI2IWyWl5ph0PoEn/jjKdgBspV0uR/e2Sg8Z3JE/8C8Pwr6amFzJjjJdm+OEteBGeqUQtmGyKSRikvZrjzGfmx8r+JCUTrcyKMniEuDzXYnd/BTufAM1CoBihowZoXiLBtAJZQ51kn0ph9i2l+pusf/5MNzDtMV0LmJlRAAfeLUu1iEyQlSpFx05pIANKntQFsrNQa8Hh5s=;JL/95U83epdWpGDi1ISasQ=="
 ---

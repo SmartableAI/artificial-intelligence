@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2021/03/15/artificial-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/03/15/artificial-intelligence-in-2021-five-trends-you-may-or-may-not-expect/amp/"
 type: article
 quality: 90
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "3 Game-Changing AI Trends to Expect in 2021"
-    excerpt: "AI’s proliferation is moving faster at both the software and chip level, with chipmakers like Intel, NVIDIA and Qualcomm adapting AI technology into their systems. Enterprise and software developers are applying it to data and applications as well ..."
-    publishedDateTime: 2021-03-12T17:01:00Z
-    webUrl: "https://www.entrepreneur.com/article/365807"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/365807"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365807"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1615307268-GettyImages-1183002137.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
 
 secured: "3rvpQMX4PF0gqT38O6I2fLuLPvcjb2KpsPUYK+KN7nyx48tzTot1Ggsj+4v7x2/NNgdBmvTl6kWOT8mezCaLre/LPV/hdDdjw6ccHWWcySdvLToeANUOG9UfMmieBv4MiJLt3vQSDkwdnu9F5n35StbJRg5cZyxak/NekuwMvs1put5CxMTQvyp1lQ/jaeohjJ2yaw71I+8GgnU10UpTaaP04VeNNn6aznn4GjfvucnBaX7Ovez5N8BylVAjio2pclvgaUnmS1Fult2bperbq3bEexAVpue3h4zj+aaiH0kwd6ra5MDXQrux2oFy3yXdFb72BouUCycq1NmC2zkuVe2y1ySaMcZ1+BbtN6JvW9z5Ndzzo7dxPtr4dom1G8PefaLT5/wIn5FGwaBac+prWVLQjJAor8bwZ0mIXkpRzmCEq6R48U3q7Et5ETPCbE1dRK++B1YUpdTOCTVOrAOt7R/tCWqx6lO86UVbWls+OWecSAVFa/Y5SogjK9zYe4cGFgDHYK4/N+R/t7mnca22PA==;ifaX1PE0cipCF2sPeqeGIQ=="
 ---

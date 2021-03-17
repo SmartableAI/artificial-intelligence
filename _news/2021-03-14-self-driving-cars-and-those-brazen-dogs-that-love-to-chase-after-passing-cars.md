@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: Forbes
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Self-Driving Cars To Be Especially Welcomed In “Zoom Towns”"
-    excerpt: "I’m referring to the advent of AI-based true self-driving cars. These are cars that encompass an AI driving system that does all the driving. Humans aren’t at the wheel. That brings us to today’s intriguing question: Will the emergence of AI-based ..."
-    publishedDateTime: 2021-03-12T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/12/self-driving-cars-to-be-especially-welcomed-in-zoom-towns/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604aa7375fa4111122f8eb76%2F0x0.jpg%3FcropX1%3D24%26cropX2%3D728%26cropY1%3D19%26cropY2%3D349"
-        width: 704
-        height: 330
-        isCached: true
 
 secured: "GB1ynxYYsnypDMm4G/QIMkS2Y6DYePQPxF4IOWKTA7J2nTam+iSa3yHK5aV8BxpnbgyoOTe26tho2KrpHKnUluoixnllWl/hfDhKJqnVTiXVjRBbAHdx6+aU+KiYSrcJ0lcLM3QhR46YHgeo634BpIEumzGWzRWobZgOKWwypjBlNpjpNc63S3grbfuyqTLfd8vKqPTupDTIkIyjarOxS5qA6tkVLXPT0wW4Ovo5R0aMatRKU160gcCCAi3b0qrLbOmKyOvXW2JIID5IR6rYPGm1qqLZVdxRx1HnrfdgFXIgrdRohioazaq2twmrQCmnLdFCJuQGvTxpHpq14WZSpbS+5GxckcvlSeKrs2WOPISjhBzEfBGLuaSJcdmLaQxKK3pOOjzh/9KQVeiwAHnB5+pZvnqbM8lwAjzUwgiD+vIQrys3V4/jWrG+N6Wz362KG6h9l70ZkYAd/yJu+s8GEKIjvVBCLKU031Ue9M+QNMcgD/grTgn+iolkHkZPWJrABv3unmdql3FIoFY5IpJc7w==;6D5ed38Q6kHcHBGi+TRQWQ=="
 ---
