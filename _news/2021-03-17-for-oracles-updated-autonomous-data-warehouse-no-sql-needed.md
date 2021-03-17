@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/for-oracles-updated-autonom
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/15382647876_176ca2baa8_z.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Oracle updates Autonomous Data Warehouse"
+    excerpt: "Tech giant Oracle has announced a number of updates that aim to make its Autonomous Data Warehouse offering easier to use for experts and novices. The strategy from the company is to reduce how many databases users turn to for modeling and data analysis,"
+    publishedDateTime: 2021-03-17T19:53:00Z
+    webUrl: "https://www.crn.com.au/news/oracle-updates-autonomous-data-warehouse-562293"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 24
+    images:
+      - url: "https://i.nextmedia.com.au/News/larryellison.jpg"
+        width: 500
+        height: 333
         isCached: true
 
 secured: "/8KPhGrCeyMyCjwmQFJk4LnGOmT/c0yKozoyShXh2LOKqp9DeCEUlKQxsQ7Parr34jdjz25TXrjAPKwWvBYr5uDltuAQ5SPWqQe6rPQtw1HD/vbQLWttfHSFdOi6hgrcKXOIZrsoeVVh3lLkBwWCNcP3CwDvmjy9/UvByUwnCTfsEYM/4eUlpfCwY33aIRC/+IJKOp529Q3ET2g/AhWv4l3/ENINm0QktFaj+AxC3N0DHaA8ZN9P1aZ60kOfjrioYLg4IOrD5Wlme7/AWvQtoDy/L3TEo5ejpItHvCM+/GkCTphYhI6DxX931M+c/itWPXRSadfCEU5QITwWpBSwGfEbOq8hfnlbtHn9rVKVqEw=;FWZpZwBsoSuLclSWoYalnA=="

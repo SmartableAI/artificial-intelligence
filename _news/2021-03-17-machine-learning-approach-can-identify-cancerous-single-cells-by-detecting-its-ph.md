@@ -59,6 +59,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Study: Machine learning can help detect cancer cells by their acidity"
+    excerpt: "Cancer cells have a different level of acidity than healthy cells, causing them to react differently to pH-sensitive dye that changes color based on a cell's acidity. Researchers then used machine learning to map color combinations to classify the disease state of individual cells."
+    publishedDateTime: 2021-03-17T19:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/study-machine-learning-can-help-detect-cancer-cells-by-their-acidity.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "dMDJrnwonkLLIblHDg7KX7+HG/B1G+D5pgsfF6EYNuiecmVm4BsJ27f6iFCDOdLPtQ9yOStqiMnKWrGHF9C2RObBAE3qXUSYIE5AT+gjh84QATJMJqNBylFsNf+bR2tXYgpa7jwFuU3pxuqrqGfsE+LBgyrh/6NlVShDVPMotuCj+M8G9qLqeu5nE7Y7wYp0DGi9O0h6Zwko8CDizGJw7VJbvPGbs3nAHIk/pPYacZQX2D5FJpPh18zX6+Ap3pZGJXBsOcpw3efQ00ia8b456/SBmwJ0xQZZI3cY9R+PzlpcPb84yX3pxhZFubM85F4ltMVuSxXlUrmtoNPRnwxUBU33qQJ6Bx0gayQYnFa7hKNl039cFcJzActE7QqPbGqT/QNcc/zFXXdc+uKGQ3IJRIu9eft/fW8EGfLLdGpIPOuQI6DQMO4IlAYoXz7H7eJ7RK3gK8OoqOI7B7DSlovHP2dwyOrk4KYc9wzqMbBcFSQIB+aeL0yyX3ta5tUDUopPL58psdFSfcWPMaKJlwiAeg==;Y6H75W5nIf/6t29yIZnXzQ=="
 ---

@@ -41,6 +41,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Top Stock Reports for Alphabet, Facebook & The Home Depot"
+    excerpt: "Additionally, strong focus on innovation of AI techniques and the home automation space should ... (You can read the full research report on Alphabet here >>>) Facebook’s shares have gained +10.5% over the last six months against the S&P 500’s gain ..."
+    publishedDateTime: 2021-03-17T19:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17"
+    ampWebUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Facebook will use your uploaded videos to improve its AI algorithms"
     excerpt: "but the company did tell The Verge that it won’t seek special permission from users to use their videos as training data for AI. The company’s data policy informs users that uploaded content can be used by Facebook for research and development."
     publishedDateTime: 2021-03-16T11:06:00Z

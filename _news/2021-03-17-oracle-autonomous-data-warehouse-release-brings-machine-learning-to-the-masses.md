@@ -85,6 +85,20 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "Oracle updates Autonomous Data Warehouse"
+    excerpt: "Tech giant Oracle has announced a number of updates that aim to make its Autonomous Data Warehouse offering easier to use for experts and novices. The strategy from the company is to reduce how many databases users turn to for modeling and data analysis,"
+    publishedDateTime: 2021-03-17T19:53:00Z
+    webUrl: "https://www.crn.com.au/news/oracle-updates-autonomous-data-warehouse-562293"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 24
+    images:
+      - url: "https://i.nextmedia.com.au/News/larryellison.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "lZIQ/s5aqUnnKv7+3WOrABvW3Vt5lAnZswu//S6MEDHI/QOwqw9wU+FOljPeHCQufp056ASj/t+s6UIlDLbUJqyMgalukALlMUf8YgtR8XdYsHRdgzdAnGriRRxuVRQVzoLdnDSmizuOUA7La1Jdry8LZtlPyEIhjxyIbH8+GiWve8FJ04VXzPWKWuu1+j7k+g+Cnu7IkGnhiLiJTJcCXXOIFumWtytqLCdCmXpZRGBDXq+ZceVeGQEEmAx2sqiiOn0z8egGzbix1RNJwpWcRKsskRgVAuR1IOI/iZmhshDtM8eB+j7cnq9cY5aobuzvgjYXAIbadmKLOD6sp2RKIKuHMsqrgbCQHurWXrlBjKFPCkG6kcuKsjXhLYpZyGHd38Hg1cW0gwbxMK6L3T0FVpu2tqs1HuN7slbfll8EpZG/MCbudvj4/Lc4kMnKYmYYBV8DYwvOxjGbD80/ovUHb9IOcUT2SkbyoaY5DReOKLBCGno3Z36bdE/OtlFN3P4nEG5a8p34Pe5TuQbhxbYctw==;PKwohk669RTJGa+27r4VNA=="
 ---

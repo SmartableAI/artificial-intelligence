@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Study: Machine learning can help detect cancer cells by their acidity"
+    excerpt: "Cancer cells have a different level of acidity than healthy cells, causing them to react differently to pH-sensitive dye that changes color based on a cell's acidity. Researchers then used machine learning to map color combinations to classify the disease state of individual cells."
+    publishedDateTime: 2021-03-17T19:09:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/study-machine-learning-can-help-detect-cancer-cells-by-their-acidity.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "XMDfvzqQl0dPata5Uy8IV32shuTXWtILcY/wZwoYMAvNaUf8LDLRJIV40j9Vkhmi3bNWd+zUsWb93BUj4cuiNSkpY/2IHAR+mH2dP5W002VVfdM2k0AJ8A65W7FGOoA8qOwr269wJumUjRcdxYajLmXHyiWJXq4C86m9tivqD1/LyppWKunFSBfGQNcF8B7naupV0goXNzbteWPi4Mp3ICFHyMl8CWi0ItEd8mwOa0w20lu6X5WMH0QNPl8qTji5VRqNnbaxV/m75AY3V30HZXTNyrzH7ozbo+6cUyiy7Zkh27IUNS1CW4tEKflWWbQUY1lyPT0L5/aVbTXN9oGymPBrvFOBtKY5A+oO9flBPro7Axi0kzSO7lNuKS7XOGUocVRGvjdvnNInWBxVOEJVimKb/vlC4WHPJhibhNbBRtKULkdC1y47kTzXSYoV5xOM+T4rWgD9Oo7aptIjjz5cou3lf3+vsKyoE950v3JGtRJt9cQcEj5ca79Nndl4SbqLHb+8RB/lMOhE77tpFHGcsA==;wTGd7v5T/9iG79B10bWj4A=="

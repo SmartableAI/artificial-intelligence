@@ -41,6 +41,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Top Stock Reports for Alphabet, Facebook & The Home Depot"
+    excerpt: "Additionally, strong focus on innovation of AI techniques and the home automation space should ... (You can read the full research report on Alphabet here >>>) Facebook’s shares have gained +10.5% over the last six months against the S&P 500’s gain ..."
+    publishedDateTime: 2021-03-17T19:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17"
+    ampWebUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Facebook’s computer vision system supervises its own learning process"
     excerpt: "Facebook AI researchers wrote in a blog that they have developed SEER (SElf-supERvised). This is one-of-a-kind billion-parameter self-supervised computer vision model. This model has all the potential to learn from any random group of images on the internet."
     publishedDateTime: 2021-03-13T17:53:00Z
