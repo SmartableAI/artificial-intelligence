@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Aetina Provides Chained Hardware & Software Pro-AI Service for Edge AI Solutions"
-    excerpt: "Taipei - Aetina Corporation dedicated to AI solutions with the ambition to deliver a professional AI service. Today Aetina proudly introduces their full product series of hardware and software service at the edge AI environments."
-    publishedDateTime: 2021-03-12T19:26:00Z
-    webUrl: "https://www.automation.com/en-us/products/march-2021/aetina-chained-hardware-software-pro-ai-service"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 34
-    images:
-      - url: "https://www.automation.com/getmedia/1683d951-d23c-4bfa-934c-01eb5455014d/Aetina-prod-March-12-2021-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
   - title: "Why the Future of Healthcare is Federated AI"
     excerpt: "In this special guest feature, Akshay Sharma, Executive Vice President of Artificial Intelligence (AI) at Sharecare, highlights advancements and impact of federated AI and edge computing for the healthcare sector as it ensures data privacy and expands the ..."
     publishedDateTime: 2021-03-16T13:01:00Z

@@ -2,6 +2,152 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-08-cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research.md",
+      "title": "Cloud Natural Language Processing (NLP) Market Analysis, Segmentation And Forecast | By Kenneth Research",
+      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-synthetic-data-could-be-the-key-to-unlocking-ai-what-is-it.md",
+      "title": "Synthetic Data Could Be The Key To Unlocking AI — What Is It?",
+      "excerpt": "The truth is that despite the big data boom, most businesses still lack the quantity of high-quality data they need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6042363121cbb7d95b1f446f%2F0x0.jpg",
+          "width": 820,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/amp/",
+      "publishedDateTime": "2021-03-08T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-tony-pizi-joins-fintech-studios-as-chief-information-officer.md",
+      "title": "Tony Pizi Joins FinTech Studios as Chief Information Officer",
+      "excerpt": "Tony is a superb addition to FinTech Studios and brings a depth of talent and experience to FinTech Studios and proven track record of developing and deploying new innovative technologies at scale.” — Andy Brown,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wicz.com/story/43460577/tony-pizi-joins-fintech-studios-as-chief-information-officer",
+      "originalUrl": "https://www.wicz.com/story/43460577/tony-pizi-joins-fintech-studios-as-chief-information-officer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20462887_G.jpg?lastEditedDate=1615183267000",
+          "width": 314,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-gender-bias-in-artificial-intelligence.md",
       "title": "Gender bias in artificial intelligence",
       "excerpt": "To mark International Women's Day, the General Secretariat of the Council invited Malvina Nissim, Professor of Computational Linguistics at the University of Groningen, to give a lunchtime talk. Accompanying this,",
@@ -1074,136 +1220,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-artificial-intelligence-ai-is-changing-the-present-and-future-of-digital-finance-market.md",
-      "title": "Artificial Intelligence (AI) is Changing the Present and Future of Digital Finance Market",
-      "excerpt": "In recent years, with the continuous development of the financial market and the rapid growth of society, the capital market is now in the golden period. As the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/ab20044319/artificial-intelligence-ai-is-changing-the-present-and-future-of-digital-finance-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/ab20044319/artificial-intelligence-ai-is-changing-the-present-and-future-of-digital-finance-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/821ae57a8a1177930d41ba2fdfeeae2d.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20044319",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20044319",
-      "publishedDateTime": "2021-03-06T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-658.md",
-      "title": "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Rises By 65.8%",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a large increase in short interest in February. As of February 12th, there was short interest totalling 25,700 shares,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html/amp",
-      "publishedDateTime": "2021-03-06T03:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-facebook-enhances-ai-computer-vision-with-seer.md",
-      "title": "Facebook enhances AI computer vision with SEER",
-      "excerpt": "At a time when many versions of AI rely on pre-established data sets for image recognition, Facebook has developed SEER (Self-supERvised) – a deep learning solution able to register images on the Internet independent of curated and labeled data sets.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-facebook-ai-vision-seer.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-facebook-ai-vision-seer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/facebookenha.jpg",
-          "width": 2048,
-          "height": 1075,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-facebook-ai-vision-seer.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-facebook-ai-vision-seer.amp",
-      "publishedDateTime": "2021-03-06T01:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

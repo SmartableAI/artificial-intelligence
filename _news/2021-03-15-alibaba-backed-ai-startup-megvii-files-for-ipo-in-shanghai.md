@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-
 webUrl: "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai"
-    excerpt: "Chinese artificial intelligence startup to go public after it filed for a Chinese Depositary Receipt offering on Shanghai’s Star board on Friday. The startup, backed by Alibaba Group Holding Ltd., plans to issue up to 253 million Class B shares as the underlying stock for the CDR offering,"
-    publishedDateTime: 2021-03-12T18:58:00Z
-    webUrl: "https://www.bloombergquint.com/business/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Alibaba-backed China AI company Megvii counts losses ahead of IPO"
     excerpt: "Losses for Chinese artificial intelligence startup Megvii are far outpacing revenues as the company prepares for an initial public offering of nearly $1 billion on Shanghai's STAR Market while under sanction by the U."
     publishedDateTime: 2021-03-15T12:41:00Z

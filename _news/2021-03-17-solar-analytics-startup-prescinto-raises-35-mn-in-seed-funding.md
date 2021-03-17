@@ -58,6 +58,38 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Israeli startup Noogata looks to replace data-science teams with AI"
+    excerpt: "Noogata, an Israeli AI-powered business intelligence startup, secured $12 million in Seed funding on Tuesday. The investment was led by Team8, with Skylake Capital also participating in the round. Noogata developed a platform that allows enterprises to ..."
+    publishedDateTime: 2021-03-17T10:25:00Z
+    webUrl: "https://www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/"
+    ampWebUrl: "https://www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 57
+    images:
+      - url: "https://www.geektime.com/content/images/2021/03/Noogata-Leadership-Team_credit_Doron-Lezter-1615813398-1536x1156.jpg"
+        width: 1536
+        height: 1156
+        isCached: true
+  - title: "NSE subsidiary invests in data analytics startup Capital Quants"
+    excerpt: "The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced investment in technology start-up Capital Quants Solutions (CQS). The latest inve"
+    publishedDateTime: 2021-03-17T10:26:00Z
+    webUrl: "https://www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/articleshow/81549269.cms"
+    ampWebUrl: "https://www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/amp_articleshow/81549269.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/amp_articleshow/81549269.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 44
+    images:
+      - url: "https://www.businessinsider.in/thumb/81549540.cms?height=275&width=412"
+        width: 412
+        height: 275
+        isCached: true
   - title: "3 analytics and AI trends that will dominate 2021"
     excerpt: "As enterprises continue to grapple with the pandemic, proving the ROI of analytics and AI, enabling intelligent automation, and leveraging data for diversity, equity, and inclusion will be critical."
     publishedDateTime: 2021-03-16T09:00:00Z

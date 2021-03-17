@@ -36,36 +36,27 @@
       ]
     },
     {
-      "path": "_news/2021-03-15-insitro-raises-400m-for-machine-learning-drug-discovery-push.md",
-      "title": "Insitro raises $400m for machine learning drug discovery push",
-      "excerpt": "Start-up run by former Stanford professor uses AI to analyse human genetics and work out where to target drugsRead more on 'Financial Times Companies'",
+      "path": "_news/2021-03-13-financial-services-firms-accelerate-digital-first-business.md",
+      "title": "Financial services firms accelerate digital-first business",
+      "excerpt": "The financial services industry was well on its way to a digital-first future before the pandemic upended industry and commerce across the globe. The fallout from the pandemic, however — particularly the growing demand for digital only services — has pushed financial services transformation into overdrive.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "webUrl": "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html",
+      "originalUrl": "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "publishedDateTime": "2021-03-14T23:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T09:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -75,8 +66,7 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {

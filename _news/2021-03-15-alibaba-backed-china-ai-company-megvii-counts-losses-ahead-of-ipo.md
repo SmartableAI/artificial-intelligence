@@ -47,20 +47,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai"
-    excerpt: "Chinese artificial intelligence startup to go public after it filed for a Chinese Depositary Receipt offering on Shanghai’s Star board on Friday. The startup, backed by Alibaba Group Holding Ltd., plans to issue up to 253 million Class B shares as the underlying stock for the CDR offering,"
-    publishedDateTime: 2021-03-12T18:58:00Z
-    webUrl: "https://www.bloombergquint.com/business/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/xsg4afDn9tug12Yg6sJOTyA7yXGUoMxvL2NP8U/ULyFKetNhjdgKlQ98TnbeW+B+RFj/Fs+j/IK2IHiz/AEm5QkBx/iyP/TZnsHAFwNzDhlXk7KO9wi4Dx/WyHuRfKXTqZnXVtHURMPtpRfiwcDNriDyJmIaD4nzpVhZgOuHdkz/FBHZehZcPnbhFhoeB7zsOkp8all9ii+8+txLGr3ZlpCMCPhs8ul04yC5qhbjU9Y8SEQBg7RzinV7CZ37YV2WRunQCHnHkOD4G6deQv2v8gowfiaP8sQvqAVTJkknYVZMmFKQH963ZpTXOH3pQA8fVZbazfuHUTglxDGAbTIgFe2qa1f8Y1W2O5Vz0JWsaU=;1gx5Qq4aBKYUC/9Kim1+xw=="
 ---

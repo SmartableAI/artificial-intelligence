@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/opensap-celebrates-5-mil
 webUrl: "https://www.marketwatch.com/press-release/opensap-celebrates-5-million-course-enrollments-continues-to-provide-learners-with-innovative-learning-resources-2021-03-15"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,31 @@ images:
     isCached: true
 
 related:
+  - title: "NSE’s buying spree continues with investment in machine learning start-up"
+    excerpt: "The investment by the countrys largest stock exchange has been done through its subsidiary NSE Data & Analytics."
+    publishedDateTime: 2021-03-17T11:36:00Z
+    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/articleshow/81550775.cms"
+    ampWebUrl: "https://m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 60
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-107203,msid-81550728/nse.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "NSE Data invests in tech start-up Capital Quant Solutions"
+    excerpt: "The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced investment in technology start-up Capital Quants"
+    publishedDateTime: 2021-03-17T11:00:00Z
+    webUrl: "https://www.canindia.com/nse-data-invests-in-tech-start-up-capital-quant-solutions-3/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 4
   - title: "openSAP Celebrates 5 Million Course Enrollments, Continues to Provide Learners with Innovative Learning Resources"
     excerpt: "While the platform continues to provide new courses on the latest topics and innovations, such as SAP S/4HANA ®, SAP Business Technology Platform, intelligent integration, digital transformation and machine learning, older courses are still relevant and ..."
     publishedDateTime: 2021-03-15T15:00:00Z

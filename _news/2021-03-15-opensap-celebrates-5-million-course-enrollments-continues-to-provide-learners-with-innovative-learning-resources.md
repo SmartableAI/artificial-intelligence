@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "NSE’s buying spree continues with investment in machine learning start-up"
+    excerpt: "The investment by the countrys largest stock exchange has been done through its subsidiary NSE Data & Analytics."
+    publishedDateTime: 2021-03-17T11:36:00Z
+    webUrl: "https://economictimes.indiatimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/articleshow/81550775.cms"
+    ampWebUrl: "https://m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 60
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-107203,msid-81550728/nse.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "openSAP Celebrates 5 Million Course Enrollments, Continues to Provide Learners with Innovative Learning Resources"
     excerpt: "SAP SE (NYSE: SAP) today announced a milestone of five million course enrollments on its openSAP platform – a free online platform that offers innovative, expert-led massive open online courses (MOOCs) with accompanying microlearning and podcasts across a range of topics for learners of all abilities."
     publishedDateTime: 2021-03-16T01:13:00Z
@@ -39,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NSE Data invests in tech start-up Capital Quant Solutions"
+    excerpt: "The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced investment in technology start-up Capital Quants"
+    publishedDateTime: 2021-03-17T11:00:00Z
+    webUrl: "https://www.canindia.com/nse-data-invests-in-tech-start-up-capital-quant-solutions-3/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 4
 
 secured: "w1+j7TX/oDUeaAQIEMDIvqD6tpugP7JPvjHrj4wx5EKfETI1rTDn+1TIYpxzgH+xsN77qIxRmSecwnlDHQ5ZeBtkrKNiq61H0/a6xt0LrVRItVJLjgGZ04onDnBVTIbifgum8U78wFJNCWch2ukDjtQdA36y21ya5TwoIciMHLcThUbbiY1HAZhdNLBqO5i3xdQzhdnLKx6SdgolR8XrIHvqpvtudpojNPmEFgRkWmqzcacEuTE+6C+b9raq/fHcihcfWPE/JdKa2kGF4cWf2cBHOZ9GguLZY/5VW6Oz+/hauFS051767OitDu7ldKPQTXHQCdb40p5BWwNhJvPYPUm1HfqlbzugciWTSjblyJk=;GLA+kg5Qrp4fpEuXDsQtDQ=="
 ---

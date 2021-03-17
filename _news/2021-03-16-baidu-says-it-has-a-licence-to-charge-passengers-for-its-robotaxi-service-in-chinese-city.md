@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
   - title: "Baidu Gets China's First Permit to Charge Clients for Robotaxis"
     excerpt: "(Yicai Global) March 16 -- Baidu has become China's first company to be given the green light to charge clients for self-driving car rides, according to the tech giant. The search engine behemoth has been given permission by local traffic authorities in ..."
     publishedDateTime: 2021-03-16T04:13:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-gets-china-first-permit-to-charge-clients-for-robotaxis-"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/baidu-gets-china-first-permit-to-charge-clients-for-robotaxis-/12053364217217024.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Baidu Gets China's First Permit to Charge Robotaxi Users"
+    excerpt: "(Yicai Global) March 16 -- Baidu has become China's first company to be given the green light to charge passengers for self-driving car rides, according to the tech giant. The search engine behemoth has been given permission by local traffic authorities in ..."
+    publishedDateTime: 2021-03-17T10:11:00Z
     webUrl: "https://www.yicaiglobal.com/news/baidu-gets-china-first-permit-to-charge-clients-for-robotaxis-"
     type: article
     provider:

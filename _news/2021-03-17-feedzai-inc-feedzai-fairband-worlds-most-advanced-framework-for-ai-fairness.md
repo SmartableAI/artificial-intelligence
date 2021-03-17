@@ -22,14 +22,16 @@ topics:
 
 related:
   - title: "Feedzai Fairband: World's most advanced framework for AI fairness"
-    excerpt: "Feedzai, the leading cloud-based financial risk management platform, has announced Feedzai Fairband, the world's most advanced AI fairness framework. The new AutoML algorithm automatically discovers machine learning models with zero additional model training cost while increasing model fairness by up to 93%,"
-    publishedDateTime: 2021-03-17T08:03:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
+    excerpt: "New patent-pending AutoML algorithm that automatically discovers less biased machine learning models with zero additional model training cost while increasing model fairness"
+    publishedDateTime: 2021-03-17T09:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20207676/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20207676"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20207676"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "j7m2V0voGpR/NGMAIWJE763rFkLEco+Ke6sFQGDymtMoyNbehQEGCqm+5CxVSlfmtfgYxAnhrBwDRjqJJlyFm1vrr1wfJrSsfRXQQSDpplZNppC9k5z91kl59ybYFvdZh9wzMLAXrtgKT2QzM7Cw5ilj1UEk6eRP14vWInlD+U0t2zhwVaiKLTeyaD0FoMYrcXBLoAQcbLEPul830I7xrq7L6gdSEm5fQK34uHfGiAby6dURaJqQgIjiB3/0NEREDjwj0Td0oIemZcKL3kgBf7vKTHNdl7U1SC+WYTQKGKpI2k3hDWxrvIy94VfQaEQD25e+8jBRZW54AxakVhBa/xAvz2yesqYz29AYJgfC77Y=;9ltDLSJkTbAHCnPXj948Ew=="
 ---

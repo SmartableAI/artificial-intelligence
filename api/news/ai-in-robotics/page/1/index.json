@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-17-nses-buying-spree-continues-with-investment-in-machine-learning-start-up.md",
+      "title": "NSE’s buying spree continues with investment in machine learning start-up",
+      "excerpt": "The investment by the countrys largest stock exchange has been done through its subsidiary NSE Data & Analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/articleshow/81550775.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/articleshow/81550775.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-107203,msid-81550728/nse.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms",
+      "publishedDateTime": "2021-03-17T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-proven-arabia-highlights-commitment-to-ai-and-robotics-innovation-with-the-launch-of-proven-solution.md",
       "title": "Proven Arabia highlights commitment to AI and Robotics Innovation with the launch of Proven Solution",
       "excerpt": "Proven Arabia's AI and Robotics centered new tech start-up Proven Solution to help automate business operations for customers in the Middle East and around the globe",
@@ -295,7 +339,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1384,58 +1428,6 @@
         "name": "theenterpriseleader.com",
         "domain": "theenterpriseleader.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-the-robots-are-coming-for-phil-in-accounting.md",
-      "title": "The Robots Are Coming for Phil in Accounting",
-      "excerpt": "The robots are coming. Not to kill you with lasers, or beat you in chess, or even to ferry you around town in a driverless Uber. These robots are here to merge purchase orders into columns J and K of next quarter’s revenue forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/07/business/06whitecollar-bots-cover/06whitecollar-bots-cover-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html",
-      "publishedDateTime": "2021-03-05T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

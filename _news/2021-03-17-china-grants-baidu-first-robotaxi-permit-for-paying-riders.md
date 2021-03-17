@@ -57,7 +57,21 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Baidu Gets China's First Permit to Charge Robotaxi Users"
+    excerpt: "(Yicai Global) March 16 -- Baidu has become China's first company to be given the green light to charge passengers for self-driving car rides, according to the tech giant. The search engine behemoth has been given permission by local traffic authorities in ..."
+    publishedDateTime: 2021-03-17T10:11:00Z
+    webUrl: "https://www.yicaiglobal.com/news/baidu-gets-china-first-permit-to-charge-clients-for-robotaxis-"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 39
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/baidu-gets-china-first-permit-to-charge-clients-for-robotaxis-/12053364217217024.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
-secured: "pNFGD6NALZ6YVr71ONTzYlBH45nAhEbq4tlXNK7FH33qpU2EQlYWsjWJSiw3tP/MZ6SwVawn9XKI7SMQzbinxkMmfFatJrzv+OPRW2X6q/FZYyOReG1Uooj2cmNR8z535tA4rumOKZVzBhv+esoHKIFW9ZlNoKkX4nUVGfiJVUjazWSnVnJaq0zeUZ0PsQmDHiXpC+TErpUiim5t+btoChUu2yU9ktJ/I3I31Npw35/IUpAbPsg245BPu/dGKJ93tbM/DQSAT5CTT5Q89BFOz2wqwwTnjne6QvRWBFqF1Tm7TiK6Bfodbm3pbNa4OS/nSzUxl/zTcf84Cm9vGTn6t78c2DHJy53dadlA1NyfUdM=;4Z6unQu/UfUZREIGslItMg=="
+secured: "gKnLR0j/rjcHuW5G8vM2F5LJQabGFW/1pmpPD5G/5HSFYOKX9noa5TeeUsAEbbKH1UfF1twdjQVgUvZOfp2y1xKmNqXFIJUQD9ZmHIlUdvp6N6o8L+cSndPMh/G+iH3gsR1dFs5Yk4weDJWaYCp9XmjUB0yZnW6Ea23qutkqyZ0/R5eqoEdFWQNP9n08Y42GtMhF+Lax91NeRYMi5Jv5Xh7jmhJMkJkKUFeji5Sc3fMsiU3MmmwYwakdgGcxSKT+zMsMR1lvtK82k0Swxh8uMVij8ITPieYGreLxLZzNJKJ38EvSvzaDvfl4bjWcndRXfPUrYOYlW2UXFbIrpGdfDG1sTSJydrNvtBJKTCkTHxq17tY8rzZ182ouctIKpiKrklbebDRduqicFbELpm3s5xi6kKDqsp9VQmdvfqr//+HfKHURrJMNWje0Hs6+NgKozBmKRrIjcnt6jNHLh1FfqwEfk7mhsU0J7q0/4HR4xar45Pc1kZpAMM7oRHIEmcifmYbdNWisT7GuOWJvbKaXQw==;R5b+ZsoUguckY30dLEj3nQ=="
 ---
 

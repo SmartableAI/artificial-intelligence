@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Torch.AI raises $30M for AI that unifies disparate enterprise data"
+    excerpt: "Torch.AI, a startup developing a platform to normalize and analyze disparate data, has raised $30 million in venture funding."
+    publishedDateTime: 2021-03-17T11:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "u6IlNrEVbLzXoAfKX0hMnbPL4heFHMnwD1lbkDxeASWFUv8NL3DE3D3pLrqRKlC8IzOvcGYLUKv/YJxAn00oMnC3Yn/KGNBU0GeU5Tv9l6Nee9XoxdCba7rzUvhKIs0phoipQKDoZSIN2ZBdcE5v7T9UguINpKDi+oFp+sKmHLsqixE/jpyegfytT5O2v9+2QOVWNrbhxxfifR7CQoeG5aFWb0O/bLyBi7aodKKxCjHROsu1BnRkq4Gje+h/OmVtd5wEed6XMsc7OELO/aPqxQaQOGj1ZjyZUFWmzi2meJeBNQ/pxe411MJDVpqZkSSzJJoKXUdeT0MbNn+qz8HfAc08NbTD255N2TuCEVLM4U0=;94B6BvYJoEPs5ak0XjFDsA=="
 ---

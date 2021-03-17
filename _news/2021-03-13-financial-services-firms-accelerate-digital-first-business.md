@@ -2,13 +2,10 @@
 category: news
 title: "Financial services firms accelerate digital-first business"
 excerpt: "The financial services industry was well on its way to a digital-first future before the pandemic upended industry and commerce across the globe. The fallout from the pandemic, however — particularly the growing demand for digital only services — has pushed financial services transformation into overdrive."
-publishedDateTime: 2021-03-12T17:22:00Z
-originalUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/03/12/financial-services-firms-accelerate-digital-first.html"
-webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/03/12/financial-services-firms-accelerate-digital-first.html"
+publishedDateTime: 2021-03-12T17:32:00Z
+originalUrl: "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html"
+webUrl: "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html"
 type: article
-quality: 4
-heat: -1
-published: false
 
 provider:
   name: The Business Journals
@@ -18,24 +15,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Cybersecurity — Friend or Foe for Digital Innovation in Financial Services and Fintech?"
-    excerpt: "By Altaz Valani, Director of Insights Research at Security Compass. The combination of digitisation and innovation has fundamentally changed the outlook for companies within the fintech and financial services sector."
-    publishedDateTime: 2021-03-15T08:15:00Z
-    webUrl: "https://www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 36
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/03/Cybersecurity-Friend-or-Foe.jpg"
-        width: 750
-        height: 422
-        isCached: true
-
-secured: "2zCdRsIf/7blNXKcEYnBulpXg3NPD70qDtixtXUcrPCcODoRHKYfnGRuxalVX0h97xWMWqkfhffSipNNIuT8gxCMWN0zgYKfHJo/01RJCk5ORo4vFrJXb3FWyTqz2mYg/q8BapDiL9EJ/vrhW2uu14pfWS+ryeG1NLupuJR2F9BDfRC0np+kbraBf6PZnCIWTOBCgSRfIX9EpQoKtdN2ziTAV3KHezgPh8GuNpP7L1siw8BvP9y9HelySMKXWkdCQoVZIPG7y+Pe3ZO34i20xMOs9ptUUKCLkUf82Vx7wXJwznGlwSAL89NNr33hoc5mrg7DH5y+G/wStaSMH8YLaw65BBGGb/06jsyA7YDGtQw=;FUAHCGPAgJJpKW4Ga1j8Hg=="
+secured: "YXgvV0/7w/6VwoZ9yt5JV6JbB9xEU2mR1FfFRAAXOYiuP3B9fL2R5tTxQIjK44H3aSTFwdGMKpMPt72vD1tu8M3y67trVCbVz90V7cc4WmqIlDWZXYulA3dueXMNQpiR3AU75R5RBScF7Q5zbdg1upOoKrU26AQ1p+26tlpKzGcv4Z3CjjDXQ0fIUoXTIDn6cSWVku78D08ADl3HOQ/+BkbjwZtiE0m0XZn4KOYqX0CT9Mc72pWz5AsW+HO00gyq61HHwY1vw2hZOBfEp9+mYd2GsjzYUZPbMuBJQFZIvGdqOxcR8i5EMCqvMQzPQJP/uj9PnAG5lbYa963PgEglnlTLNspDKrHA3Mp40SrF6e4=;iIRGWy4rdWyqStEE+OjXhQ=="
 ---
 
