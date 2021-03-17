@@ -27,22 +27,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "How AI-powered communications and collaboration will change the world"
-    excerpt: "With AI-powered communications and collaboration, nearly every business will be able to accelerate innovation, improve customer experiences and empower employees to work productively, whether at home,"
-    publishedDateTime: 2021-03-16T00:38:00Z
-    webUrl: "https://www.cio.com/article/3611513/how-ai-powered-communications-and-collaboration-will-change-the-world.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/03/istock-1223789403-100880976-large.jpg"
-        width: 1199
-        height: 739
-        isCached: true
-
 secured: "64FwsFuVYE66BAU4KRDFvG/27sm9dUCJcffbPfO33oqoAptX28crrslircF9YrRHTS/lYAb3SPeACNvPnzPel1Pzue4gyz5aF+8kYehto4/hCZTLp1NjqEzXOlPzogkOxr/hbE6JPa//w0R+9GyzEouNumYyU3z/qYYTDdkbzxwazyKUWBI/py+808KGaTSzEdH1/P+SXO+hYQUu3X4TDWFrqqxtT1x3KOLKgi5G7wfEHdfvOsaqJ8Z8kYFf/9BMVocHr30gFJ2zjzcxgsP38WiFqp7rTPnCIiQmJ4/6Y7dOwVk2nyuw56XoqmaH51R8/AQ4Ofg9aenM9Woz6FBEi59VTfU0/EFjZzenqDETwLA=;CidGolnR36hoE+oIzuDfLw=="
 ---
 

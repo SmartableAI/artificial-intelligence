@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-03-05-sources-tiktok-owner-makes-automotive-bet-with-investment-in-qcraft.md",
+      "title": "Sources: TikTok owner makes automotive bet with investment in QCraft",
+      "excerpt": "ByteDance is pouring money into QCraft as part of its latest investment round, which could net the car company least US$25 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft",
+      "originalUrl": "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T15:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-what-the-swarm-of-new-azure-announcements-mean.md",
       "title": "What the swarm of new Azure announcements mean",
       "excerpt": "This week's Azure announcements were about being more hybrid, more multi-cloud, more data-dependent -- at higher speed.",
@@ -1168,58 +1211,6 @@
         "AI",
         "Machine Learning",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-self-driving-truck-technology-market-to-see-booming-business-sentiments-daimler-volvo-waymo.md",
-      "title": "Self-Driving Truck Technology Market to see Booming Business Sentiments | Daimler, Volvo, Waymo",
-      "excerpt": "Major Highlights of the Self-Driving Truck Technology Market report released by HTF MI Market Breakdown by Applications: Transport, Mining, Military & Other Revenue and Sales Estimation -- Historical Revenue and sales volume is presented and further data is triangulated with top-down and bottom-up approaches to forecast complete market size and to estimate forecast numbers for key regions covered in the report along with classified and well recognized Types and end-use industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-to-see-booming-business-sentiments-daimler-volvo-waymo-2021-03-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-to-see-booming-business-sentiments-daimler-volvo-waymo-2021-03-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

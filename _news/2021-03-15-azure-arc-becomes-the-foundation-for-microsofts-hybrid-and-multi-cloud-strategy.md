@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Tiberium launches two Microsoft based services leveraging Azure Sentinel and Microsoft Defender"
+    excerpt: "Tiberium launched two Microsoft based services leveraging Azure Sentinel and Microsoft Defender to offer a fully managed or hybrid delivery."
+    publishedDateTime: 2021-03-17T02:45:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/03/17/tiberium-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 42
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "A0rbOR2cBmU+sRfQx+ki/WgOO25BMSmKttg7EkNCY1jpxWG6tIL5mODu2kL9ze9zv+TwwtqD/ug9l8QypLPjuRjDSgSozTqVMOrp+wD30ZKwjzZF01Va7CU4GC4yP0cjzM2Ty53074gH1AfGcwrYzLFvwepOZ0YCW6jv+iZSdf61kAmJNf2d5PXF1jgQsBoRdii1pUtCZ+FwoaC1Kvv41MyZb4AdvPhs5LCSuaS+6iaBraZ13wDvLkIJAqaUXhcUGEkMCZ9m4xRk2pJd3iRBqr/vx51U5hT+L7j12bxZwV0gL9mUIaFvYpk1Qs9/3mPr5XLdX8wvlc1+VIhGbNXAnIlv53IjnA0YSHcZG1jkC/w=;VVrB1YIVfDgBHT0l9e1Afw=="

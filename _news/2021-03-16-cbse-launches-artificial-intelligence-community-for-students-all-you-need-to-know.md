@@ -59,22 +59,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "CBSE launches artificial intelligence platform for students"
-    excerpt: "The registered students will get access to programme, online resources, webinars and face to face boot camps to enhance their AI skills. Apply at cbseacademic.nic.in"
-    publishedDateTime: 2021-03-12T12:01:00Z
-    webUrl: "https://indianexpress.com/article/education/cbse-launches-artificial-intelligence-platform-for-students-cbseacademic-nic-in-7225353/"
-    ampWebUrl: "https://indianexpress.com/article/education/cbse-launches-artificial-intelligence-platform-for-students-cbseacademic-nic-in-7225353/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/cbse-launches-artificial-intelligence-platform-for-students-cbseacademic-nic-in-7225353/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 57
-    images:
-      - url: "https://images.indianexpress.com/2021/03/CBSE-A-1200.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "CBSE Launches Artificial Intelligence Platform For Students: Here’s How to Register | Step-by-step Guide"
     excerpt: "As per updates from CBSE, the AISC will help in students in creating and spreading awareness about Artificial Intelligence in an inclusive manner. Also Read - CBSE Board Exam 2021: Want to Score High Marks? Class 10, 12 Students Must Follow These Tips ..."
     publishedDateTime: 2021-03-12T17:40:00Z

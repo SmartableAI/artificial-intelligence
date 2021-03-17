@@ -2,6 +2,48 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-03-02-how-ai-is-transforming-cybersecurity-in-2021.md",
+      "title": "How AI is Transforming Cybersecurity in 2021?",
+      "excerpt": "This post will let you know about the role of Artificial Intelligence (AI) in improving cybersecurity in 2021 and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/",
+      "originalUrl": "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2021/03/AI-and-cybersecurity-challenges.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/amp/",
+      "publishedDateTime": "2021-03-02T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-pga-tour-selects-aws-as-its-official-cloud-provider.md",
       "title": "PGA TOUR Selects AWS as Its Official Cloud Provider",
       "excerpt": "The TOUR will then use Amazon Rekognition (AWS’s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata ...",
@@ -558,8 +600,8 @@
       "title": "AWS rekindles a crafty scheme to get developers into machine learning",
       "excerpt": "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "originalUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "webUrl": "https://www.techradar.com/uk/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "originalUrl": "https://www.techradar.com/uk/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -576,9 +618,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "publishedDateTime": "2021-03-02T03:47:00-08:00",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "publishedDateTime": "2021-03-02T04:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -976,6 +1018,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-02-aws-selected-as-official-cloud-provider-of-pga-tour.md",
+      "title": "AWS selected as official cloud provider of PGA Tour",
+      "excerpt": "AWS's Amazon Rekognition deep learning system will then allow the Tour to tag content with \" specific metadata like player names and sponsor logos\" and provide \"instant access\" to historical tournament moments, enhanced commentary and more. SEE ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "originalUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/da666ada-2faf-43c5-8748-55eb8091a6af/resize/1200x/14101bbdb7a1b143a5c43729a9d78fd3/aws-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "publishedDateTime": "2021-03-02T00:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-fears-for-childrens-privacy-as-delhi-schools-install-facial-recognition.md",
       "title": "Fears for children's privacy as Delhi schools install facial recognition",
       "excerpt": "Facial recognition technologies installed in at least a dozen government-funded schools in Delhi are an \"overreach\" by Indian authorities and an invasion of children's privacy, digital rights advocates said on Tuesday.",
@@ -1068,101 +1162,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-azure-percept-edge-intelligence-from-silicon-to-service.md",
-      "title": "Azure Percept: Edge intelligence from silicon to service",
-      "excerpt": "In today’s fast-paced world, there is often a need for instantaneous, real-time responses. Companies are finding the computing needed to support this 24/7 mentality generates staggering amounts of data, often from devices out in the physical world.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-percept-edge-intelligence-from-silicon-to-service/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-percept-edge-intelligence-from-silicon-to-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9f819b8f-c09d-4144-a93d-ba0fe7a45d83.png",
-          "width": 1024,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T22:00:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-microsofts-10-biggest-azure-announcements-at-ignite-2021.md",
-      "title": "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021",
-      "excerpt": "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg",
-          "width": 501,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

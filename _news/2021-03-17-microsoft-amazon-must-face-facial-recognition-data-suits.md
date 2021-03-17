@@ -70,6 +70,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Tiberium launches two Microsoft based services leveraging Azure Sentinel and Microsoft Defender"
+    excerpt: "Tiberium launched two Microsoft based services leveraging Azure Sentinel and Microsoft Defender to offer a fully managed or hybrid delivery."
+    publishedDateTime: 2021-03-17T02:45:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/03/17/tiberium-microsoft/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 42
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "Kc4SxFinzKqamJpYvdWxEJoz08xYxd/ywkixLhfe1h7g6NknvEvTviDH7BhBeMXp2DNaY0O3LTR4cftTptyVxelcJSXVXTjZYoRtKu4bmCVaogZhWimjR6KFZ9fbtZR89tpG1QVEP+IR+Bx/al4Rd12jRffjHFePH8j2KcibS87MjwMwH2UHsnfXNCP80o4WX59yOqe2IAGPb+dUzvZdQ8njXymwC5ud28hN5PndPadfCmYld+PDS1K0o18OL/2P6ki+/h6+RYaJWuCtgEVbX16Ob299/lbBMOyI6yTEZ0mqLvumTq+ZFUEDLO/UWmQEGKtybSyZcaiBO4gipMk0oGuoaCLRG5O3CwhD338HFNk=;7pT7vGIgSOKbbqTJEQCb0A=="
 ---

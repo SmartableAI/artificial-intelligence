@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/cbse-launch
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
-        isCached: true
-  - title: "CBSE launches artificial intelligence platform for students"
-    excerpt: "The registered students will get access to programme, online resources, webinars and face to face boot camps to enhance their AI skills. Apply at cbseacademic.nic.in"
-    publishedDateTime: 2021-03-12T12:01:00Z
-    webUrl: "https://indianexpress.com/article/education/cbse-launches-artificial-intelligence-platform-for-students-cbseacademic-nic-in-7225353/"
-    ampWebUrl: "https://indianexpress.com/article/education/cbse-launches-artificial-intelligence-platform-for-students-cbseacademic-nic-in-7225353/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/cbse-launches-artificial-intelligence-platform-for-students-cbseacademic-nic-in-7225353/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 57
-    images:
-      - url: "https://images.indianexpress.com/2021/03/CBSE-A-1200.jpg"
-        width: 1200
-        height: 667
         isCached: true
   - title: "CBSE Launches Artificial Intelligence Community for Students: All You Need to Know"
     excerpt: "CBSE has launched an artificial intelligence community for students across the country in collaboration with Intel India to create an AI-ready generation"
