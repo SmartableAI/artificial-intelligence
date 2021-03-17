@@ -114,20 +114,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-Driving Car Market To Witness Increase in Revenues by 2021-2023,Industry Research and End User Analysis|By Kenneth Research"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 12, 2021 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self ..."
-    publishedDateTime: 2021-03-12T14:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-to-witness-increase-in-revenues-by-2021-2023industry-research-and-end-user-analysisby-kenneth-research-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19 using chest radiographs and CT scans"
     excerpt: "Many machine learning-based approaches have been developed for the prognosis and diagnosis of COVID-19 from medical images and this Analysis identifies over 2,200 relevant published papers and preprints in this area."
     publishedDateTime: 2021-03-15T16:32:00Z
@@ -151,6 +137,20 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
+  - title: "Gesture Recognition and Touchless Sensing Market Manufacturing Size, Share, Business Outlook, Vital Challenges and Forecast Analysis by 2031"
+    excerpt: "The New Report Gesture Recognition and Touchless Sensing Market posted through MarketResearch.Biz, covers the market panorama and its growth possibilities"
+    publishedDateTime: 2021-03-17T07:43:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/gesture-recognition-and-touchless-sensing-market-manufacturing-size-share-business-outlook-vital-challenges-and-forecast/article_19487998-753a-5b34-b31b-6c144ce3fee9.html"
+    type: article
+    provider:
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "tYY5LHRxZnArwawQ+xLrblA2ie0UuO4pKWh0vOUd9rZLkxAnCeYxa2X6e8rEILiCvWWJaZgUJz7Qtl4kM1YPhWunJZHyeUN28s6UYivV1sB4CPQUJv58zCy+8GW4/+EKAFMv2kZgrcOJkHFxA5eoiF4sx50EU2nsNodFPv0+XEGJNhhcopxKA+dBJ2lYof0+H2bUJ6k+cBoH2ax7EWQo5ZVPJLm+fV5GemhvDNiMZlHLhzQfzyplb9D2wGa6Xrfxc17tr4O9GGWePq5939ER3TbNk+Zb61jjuiMvKQqMz450wZnFhX2UsFbwZKzNDUS+pw9ugNS9pyvSb3ocdOP1Dk4sl8iePCzE3DHMJJcw6R8=;itW9DfxfWwL8x+DdQqPibg=="
 ---

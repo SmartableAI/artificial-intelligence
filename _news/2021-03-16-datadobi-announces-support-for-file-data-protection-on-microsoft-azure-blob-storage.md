@@ -52,20 +52,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 86
-  - title: "Microsoft 'Seeing AI': Imagining a New Use for Computer Vision"
-    excerpt: "A Microsoft Research project is expanding the capabilities of computer vision systems to help visually impaired users navigate everyday tasks."
-    publishedDateTime: 2021-03-12T14:09:00Z
-    webUrl: "https://redmondmag.com/articles/2021/03/12/microsoft-seeing-ai.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 71
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MSSeeingAIbig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
   - title: "Tiberium launches two Microsoft based services leveraging Azure Sentinel and Microsoft Defender"
     excerpt: "Tiberium launched two Microsoft based services leveraging Azure Sentinel and Microsoft Defender to offer a fully managed or hybrid delivery."
     publishedDateTime: 2021-03-17T02:45:00Z

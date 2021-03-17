@@ -69,6 +69,20 @@ related:
         width: 620
         height: 330
         isCached: true
+  - title: "University, Ford join in robotics effort"
+    excerpt: "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheetah -- staccato-like -- does the same on four. Meanwhile, the yellow-legged Cassie steps deliberately side-to-side."
+    publishedDateTime: 2021-03-17T02:04:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/mar/17/university-ford-join-in-robotics-effort/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/197684474_197683415-123406b7433340c997c2bd7992e09df4_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
   - title: "University housing Ford robotics lab"
     excerpt: "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheet"
     publishedDateTime: 2021-03-17T06:00:00Z

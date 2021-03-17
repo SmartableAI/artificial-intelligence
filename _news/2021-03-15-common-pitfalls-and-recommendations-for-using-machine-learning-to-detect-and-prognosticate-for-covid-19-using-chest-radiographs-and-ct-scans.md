@@ -123,20 +123,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Self-Driving Car Market To Witness Increase in Revenues by 2021-2023,Industry Research and End User Analysis|By Kenneth Research"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 12, 2021 (AmericaNewsHour) -- The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self ..."
-    publishedDateTime: 2021-03-12T14:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-to-witness-increase-in-revenues-by-2021-2023industry-research-and-end-user-analysisby-kenneth-research-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Military Market worth $11.6 billion by 2025 - Exclusive Report by MarketsandMarkets"
     excerpt: "CHICAGO, March 15, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type ..."
     publishedDateTime: 2021-03-15T11:33:00Z
@@ -146,6 +132,20 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 0
+  - title: "Gesture Recognition and Touchless Sensing Market Manufacturing Size, Share, Business Outlook, Vital Challenges and Forecast Analysis by 2031"
+    excerpt: "The New Report Gesture Recognition and Touchless Sensing Market posted through MarketResearch.Biz, covers the market panorama and its growth possibilities"
+    publishedDateTime: 2021-03-17T07:43:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/gesture-recognition-and-touchless-sensing-market-manufacturing-size-share-business-outlook-vital-challenges-and-forecast/article_19487998-753a-5b34-b31b-6c144ce3fee9.html"
+    type: article
+    provider:
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ykBpary6W+M5rBEr/REdm37uI/5r1KA7usVw/eoxni2POFtecbkOg7/KQWadXFInjqSnkPCijZvvlAyZYnf7HVHDSxOuoWrNMw9yPicRsXQbp0hhPl3D94DxQw573T4jY5Fzj0sSQMpHpG6Xjr6apujvCjSW//reVBMLWsGZlivUILtSzwpcCnz03rn64lhEHxqQzjqQnN0GH3aQ6izn/wvYLVWDFzmE2IyUq17YS4U+asq8OvO5InL3yfh67ow0SntbePpd8ulmha3z/Nn7Y6fK4JAfGVemc64uftK109cyuBrlRJzXe7CE9YUMtmc9xLHQJxBvczQoBYpVx8ABYCrr3D3o07/hM0D6Vww5tuFN+dKVTTWt+Ve3aeeIpc6DC0lUgZ78m4PJyxfYS79AtEl62+zz914YY6zpmCUIBZWW9J3o9x/NfDcJ9Y7mheOH4Nu0cw+0Fic7P/RSGjfEzgEy6jP//k/kJJWMa64HDG7goDUfzci5WNq25l18g767Zfr8yufKEQQKh8JDlNgOog==;lpFS+JhvGHuCjbu2TjtJ0g=="
 ---

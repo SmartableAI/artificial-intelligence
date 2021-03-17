@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/what-happens-when-big-tech-comes-for
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15?amp"
 type: article
 quality: 54
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -175,6 +175,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/28/428990a1-538c-541b-b124-1be2ffcb56de/6050b9241925c.image.jpg?resize=1200%2C439"
         width: 1200
         height: 439
+        isCached: true
+  - title: "FinTech Breakthrough Honors Standout FinTech Companies and Solutions in 2021 Awards Program"
+    excerpt: "FinTech Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced the winners of the organization’s fifth annual awards program,"
+    publishedDateTime: 2021-03-16T12:14:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-consumer-banking-financial-services-0c8b38d7121d6ae4b2ee080e2000c14d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "This Silicon Valley fintech is helping Lyft drivers get PPP loans before it's too late"
     excerpt: "Work for Lyft? Income down due to reduced ridership? You might be able to get a PPP loan, but time is running out."

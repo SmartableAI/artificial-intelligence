@@ -83,6 +83,20 @@ related:
         width: 620
         height: 330
         isCached: true
+  - title: "University, Ford join in robotics effort"
+    excerpt: "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheetah -- staccato-like -- does the same on four. Meanwhile, the yellow-legged Cassie steps deliberately side-to-side."
+    publishedDateTime: 2021-03-17T02:04:00Z
+    webUrl: "https://www.arkansasonline.com/news/2021/mar/17/university-ford-join-in-robotics-effort/"
+    type: article
+    provider:
+      name: Arkansas Democrat-Gazette
+      domain: arkansasonline.com
+    quality: 54
+    images:
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/197684474_197683415-123406b7433340c997c2bd7992e09df4_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Ford partners with University of Michigan on robotics research, new building"
     excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four and the yellow-legged Cassie steps deliberately side-to-side."
     publishedDateTime: 2021-03-16T17:17:00Z
@@ -102,6 +116,6 @@ related:
       domain: automotiveworld.com
     quality: 12
 
-secured: "Zrnv82pd1vmPVDQFPvnNL8buPVGp2pvsuyOhM9NcT7tIvSDf76OuxfLlupaU+FsYHDluU80CJL0EBhjlzjlysVPpO6YZpmzzZyHN03epZMq/bucVFNG8/WPQ3BJyGUUTLkInyrEY2VAotfTlJjWMhTsEQj+0u2Byu9vmKjP2f9jGophS/BL6VZfPqF/9je0I5cHoEJH5zwII/47b35CAMMNtN3rwjKQTFCtn5DY30K+uz1Fmlm0VcjMcc+RiIMBIgfzCTwo1kaA4m29NjR9zEwYJDLFpbKYVO5q7+LU6oFGspZqB4Mc8k5c97HDG7ia6+GXPt6HV0Q0Vyi5cdy+EqEKyHRcbgYLuKKEWYGu0jlw=;TXeIfVVPEs+URMLYtjmzPw=="
+secured: "iXibho4eZ69fMmVjeg6qMm3xkbK6Ayi5ZziO2OLqV9W35JmMcIiIRDuMjWIIQF/C8BpS4AsqAr4fAwx5eeq+ntJDTSc1YwUThPfRBwuN1nAdOSa+uPoIadN/5if2mJpPBE8SZDfZw1vgSYr6rFxSx/3PQwPWgBu701D8am3Qh89oGnU778se7dMRNF225p1fEQJXgI4s3yXQNyLwhmZDzASQj/47On8s5ts4JbZvdvbclSFrEZcXlMgDrn6Q9/DiTw3Id9KRuWIcC8O66Q8JA34vxtxzUJEzbMzeddJyvfbvQ42oJ4/ZVT8WFKvuM8am0afnsa+OpeIs8PY0Ae13OxoOK+04FXLOBR49igoAetnGBU7ki8zPbu6nBsIvyxO4imkilcRflX3z0RCk072ac6KmFxLNwpwXus+Wr7Fbpfv2UbFR3fPriN61vVO6h6+3MNIcBD6ubzf/eZhmK2UELgAlYf6Vo5Kv0Y8pCbd+65NqKkejyj+tPgb38VaMpger5+ZE/MJ8eENBLD/k8Jcaag==;nEJYEEWQEeHkgnhoUjSskw=="
 ---
 

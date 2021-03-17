@@ -52,20 +52,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 86
-  - title: "Microsoft 'Seeing AI': Imagining a New Use for Computer Vision"
-    excerpt: "A Microsoft Research project is expanding the capabilities of computer vision systems to help visually impaired users navigate everyday tasks."
-    publishedDateTime: 2021-03-12T14:09:00Z
-    webUrl: "https://redmondmag.com/articles/2021/03/12/microsoft-seeing-ai.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 71
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/MSSeeingAIbig.jpg"
-        width: 1665
-        height: 1158
-        isCached: true
   - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
     excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft's"
     publishedDateTime: 2021-03-16T12:07:00Z

@@ -1,34 +1,28 @@
 ---
 category: news
 title: "AI patent intelligence platform PatSnap secures $300M"
-excerpt: "PatSnap, a startup developing AI technologies to analyze and organize patents for R&D, has raised $300 million."
-publishedDateTime: 2021-03-16T22:00:00Z
-originalUrl: "https://venturebeat.com/2021/03/16/ai-patent-intelligence-platform-patsnap-secures-300m/"
-webUrl: "https://venturebeat.com/2021/03/16/ai-patent-intelligence-platform-patsnap-secures-300m/"
-ampWebUrl: "https://venturebeat.com/2021/03/16/ai-patent-intelligence-platform-patsnap-secures-300m/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/ai-patent-intelligence-platform-patsnap-secures-300m/amp/"
+excerpt: "PatSnap, a startup developing AI technologies to analyze and organize patents for R&D, has raised $300 million.Read MoreRead more on 'VentureBeat'"
+publishedDateTime: 2021-03-16T23:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2021/03/8813a9fb-52c5-4dcc-91ea-bd309f50707a-e1615583989777.png?w=1200&strip=all"
-    width: 1200
-    height: 740
-    isCached: true
-
-secured: "zpzvJsQJMzATF5GfBdwDf73L7it7W7bnc6yt63PHJU3clPA8mnbD9zghltMa4BiNciDL34c4XoqpqBqDUsZIYt5RFFH530oGBZpLhhclDKHRjqTkf73ZiR370BP21//zLHE96DWURoN5dp8HUM+JrAxAxzlpVQaC/omyh2XGvkSSvKQkceZ1ATl3xoDzHxMC4Dv8qj5bypNxNSRJvbByj/APwiVTWkIqV50j58V9JRnAAkiO/K4X4eAqlh7jYVcyGBaPAl1uuF0Gw8EMR7OVZyNXrLGQPIPQKwE/EaEIE34fFJJ3dWXS2CRNqhLQlqexinKgwpeP+DacyFIA2NY6PYLXxgiJeBaO9ooGO+v2vWYFss31yGxK4Vf8WXA83hO+STDveYKMUfOLiijw6gT5NVbvsbQbKUcLZs0c0PQHKdyr8JCLBe9F2Dma/n03MwLVeHKP7b3Pm41AV31tcE+rpGr5Ep1S8kYdUBh+2yXt/UsJ4tXPsSVBWnapxt/HhD073ZJx3ZK/OVQj/zUFttciTA==;j+i4r+eInEV88tYqlS49KQ=="
+secured: "WfEU5j3AaEBTmHmNxtGka/U0Fxb8tTVCSNUZVevcucOyB0Dle8ONDXn6Crqnf6c8n8qu3zz2vCiR1Ck7jCMMRDuVCkHWmhWTShDdeKm/Tu1Ec+Ma/GOUa9vO4wd7bvqLjJqWXbdAYc++w+EWgAO8fNE9LHJdVCI4d5B0NfL7PGRtyn5pbT5DtL2waTCJ8/Wd+kwvebS40rQrZX004CdThdDQ8q5rDywPkzkWp1S8KllLHwGXAym4f2H5a4GZg74Nsp99g8oug+CcgNV4xd/qIFHL70eTjIsnxYhK5vpBYqUkF+yrGsSy89OKmPaJ8oq8vp70npKtbTEruOK58BwCZq4CxcaNh819B6Ba8jzAid8=;zDTYLCHqdKa8FKKeGvFRhQ=="
 ---
 

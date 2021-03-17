@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-voyage-purchased-self-dr
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Another self-driving startup got gobbled up by incumbents"
+    excerpt: "I wrote about reports that Cruise—a self-driving venture co-owned by GM and Honda—was on the verge of buying startup Voyage. Now it's official: Cruise is acquiring Voyage. Voyage's strategy was to launch its first self-driving taxi service at the Villages,"
+    publishedDateTime: 2021-03-16T21:09:00Z
+    webUrl: "https://arstechnica.com/cars/2021/03/self-driving-startup-voyage-gets-acquired-by-gm-and-hondas-cruise/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/03/kyle_and_oliver-760x380.jpeg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "GM Subsidiary Cruise Buys Self-Driving Startup Voyage"
     excerpt: "The autonomous subsidiary of General Motors, Cruise, has announced it will acquire self-driving startup Voyage. Voyage had been operating self-driving prototypes in retirement communities. Cruise spokesman Ray Wert declined to comment on the cost of the deal."
     publishedDateTime: 2021-03-16T09:57:00Z

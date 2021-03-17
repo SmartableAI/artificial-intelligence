@@ -25,89 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "The Army Is Teaching Facial Recognition to See In The Dark"
-    excerpt: "Researchers have built the first facial recognition database for thermal night vision images. But the technology itself is already prone to misuse."
-    publishedDateTime: 2021-03-12T14:44:00Z
-    webUrl: "https://www.vice.com/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark"
-    ampWebUrl: "https://www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apzb/the-army-is-teaching-facial-recognition-to-see-in-the-dark"
+  - title: "China State TV Criticizes Kohler, BMW for Facial Recognition Use"
+    excerpt: "BEIJING (AP) — Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for the use of facial recognition technology on visitors to their outlets in possible violation of privacy rules that took effect this year. The accusation ..."
+    publishedDateTime: 2021-03-16T13:46:00Z
+    webUrl: "https://www.manufacturing.net/technology/news/21330795/china-state-tv-criticizes-kohler-bmw-for-facial-recognition-use"
     type: article
     provider:
-      name: VICE
-      domain: vice.com
-    quality: 89
-    images:
-      - url: "https://video-images.vice.com/articles/604a5d55a2d74200936f48a9/lede/1615486785400-screen-shot-2021-03-11-at-11928-pm.png?crop=1xw:0.9455909943714822xh;center,center"
-        width: 1792
-        height: 1008
-        isCached: true
-  - title: "What facial recognition and the racist pseudoscience of phrenology have in common"
-    excerpt: "Technology commentators have panned these facial-recognition technologies as ‘literal phrenology’; they’ve also linked it to eugenics, the pseudoscience of improving the human race by ..."
-    publishedDateTime: 2021-03-13T14:00:00Z
-    webUrl: "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/1-copy-24-796x417.jpg"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Facial recognition coming to Redstone next week"
-    excerpt: "(WAFF) - Flashing your CAC card to enter Redstone Arsenal may be a thing of the past. On Monday, Redstone will launch a facial recognition pilot program at Gate 9 and Gate 1. The DoD pilot program will provide employees a new, quicker method for getting ..."
-    publishedDateTime: 2021-03-12T23:30:00Z
-    webUrl: "https://www.waff.com/2021/03/12/facial-recognition-coming-redstone-next-week/"
-    type: article
-    provider:
-      name: WAFF
-      domain: waff.com
+      name: Manufacturing
+      domain: manufacturing.net
     quality: 39
     images:
-      - url: "https://www.waff.com/resizer/9qdGXpzdCwQliwSDx9GH5e0fWqs=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/XSAUVLUZSZAGBAEF6U3TQY7E4U.bmp"
-        width: 1200
-        height: 675
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/03/16x9/Kohler_AP21075205444309.6050b645615cc.png?auto=format&fit=max&w=1200"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Immigrants’ rights groups sue facial recognition tech company"
-    excerpt: "Two immigrants’ rights groups have sued Clearview AI, arguing the facial recognition tech company violates their privacy rights. The company is building one of the largest databases of human faces in the US,"
-    publishedDateTime: 2021-03-12T21:15:00Z
-    webUrl: "https://www.pri.org/file/2021-03-12/immigrants-rights-groups-sue-facial-recognition-tech-company"
-    type: article
-    provider:
-      name: PRI
-      domain: pri.org
-    quality: 39
-    images:
-      - url: "https://media.pri.org/s3fs-public/styles/open_graph/public/images/2020/04/tw-globe-bg-3000.jpg?itok=VPGGnGVh"
-        width: 1200
-        height: 707
-        isCached: true
-  - title: "Bill considers limits on facial recognition"
-    excerpt: "It sounds like the plot of some futuristic sci-fi thriller: the government keeps a database of images of citizens’ faces, and that database can be used for surveillance of individuals. For better or worse,"
-    publishedDateTime: 2021-03-15T21:59:00Z
-    webUrl: "https://www.concordmonitor.com/Should-the-state-be-prohibited-from-using-facial-recognition-technology-without-a-search-warrant-39436077"
-    type: article
-    provider:
-      name: Concord Monitor
-      domain: concordmonitor.com
-    quality: 39
-    images:
-      - url: "http://www.concordmonitor.com/getattachment/334996e3-63b7-4f32-aafe-e3fe9c7e6faf/attachment.aspx"
-        width: 499
-        height: 325
-        isCached: true
-  - title: "New Facial Recognition Software"
-    excerpt: "Redstone Arsenal announced a new feature at the entrance of Gate 9. New facial recognition software will be reading those who are already registered in the AIE system with a 14 point algorithm, allowing them entry."
-    publishedDateTime: 2021-03-13T00:20:00Z
-    webUrl: "https://whnt.com/video/new-facial-recognition-software/6433352/"
-    type: article
-    provider:
-      name: WHNT
-      domain: whnt.com
-    quality: 19
 
 secured: "DKpayJrXrDKnMFbov+jnN6HjbNoGb7RvmCDw3QdhpuZVLYsxA/Fuqt22UJMGCxQtDFHhxN0SHQnuhZUq5vpdCM2L4/hDq9IC0s/qpKBxmEvOVuOJ186Hp6ZdBKUuMvtOj9BvKBDDhn/xqGEZ3DB+JKLnX8wXglA9MGGUO+Mor72WwjvsC2Zof1K9NIweO4xfXRl684WrlPpQrF1Gr0ZEh2Q6MYbQP7ZWuuo6HYutwq6LP15OfumVvbLa5jkx+NoLv1HXXKOwr07cIl/W80JpJ7WCLd+2p7WQvsj7xB2zPEaoudYnfv5I2wKrSH86w5SylavDgG/ox08Zot7b9nsyTRJlg0TEUScq+XAXyF4m7RC37Caa5AH2OekFQbVzuQ2NzAqoXPh8hu0Jd0s5cW5DH8n99x7/uvOtKAe1Zj4BTkjGLcQvnSRjBUkk7VZcn158Nkxucymmk7E1xF6iAhsnaJ40wB0TTt6SX3bPHzX+ke/nfibwqe3vb3AxET41g0EDAXrHJeyBpz/tySYuCmXn9A==;trs5hPaMqOjHHcJUTqdhMA=="
 ---

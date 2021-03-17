@@ -185,6 +185,20 @@ related:
         width: 1200
         height: 439
         isCached: true
+  - title: "FinTech Breakthrough Honors Standout FinTech Companies and Solutions in 2021 Awards Program"
+    excerpt: "FinTech Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced the winners of the organization’s fifth annual awards program,"
+    publishedDateTime: 2021-03-16T12:14:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-consumer-banking-financial-services-0c8b38d7121d6ae4b2ee080e2000c14d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "dV6QS6aIF0+agayHz+6nZudzViwJcTgBqeyb7HOtnLV8eDNRlIdZ4y8txaUch105UbZj3qZ9LTY97hYRIVHu/aP0Zo7gWZsFbO6o4Lj28IqOt34p9niEfmXRIE1TU+MvhdLeLXHv8OR+AZ5dHXC3TyR7ypn6aeDlF/DFjRtZkI/vTJD/hY59OH0kPaW667dEHaOFLoNs+7nuzmAF7TiuZpBpl0A694rBFta0C+qZNzHlbF+279qp6r8dc8Rskfg47R6uhoAF11dZQV7IXnVA00sZHk/WqlZE85oqPOX4FOAGkHSkAgX7ctxnLqtWDhoUR5MFWp9Mozx4zU9ER+kFL06zk8pUuPc9Y+2MJYVyVk2ueMyntcJEhP7gnbCYjH3Nfy9iBMD0KBn17IJNsP6O2t1zWrRc9Au6+OaOTBdFGx879/z273jw/KYxpV9cBF4QlOYzjniaI3Z3Zg41W0HvgMy4ZWSencz79vPhuu2bo1Nuy5/1bjIzk8NaElmxnN48ziqdCAVhq/1MuqVaQWgivg==;TUc53LZD7carOB44xWAf5Q=="
 ---

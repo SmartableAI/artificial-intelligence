@@ -19,19 +19,21 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Artificial Intelligence and the Art of Culinary Presentation"
-    excerpt: "Historic Preservation Program Director Jorge Otero-Pailos introduced Spratt, and commended her work for reimagining cultural heritage through the use of artificial intelligence. “Even if we’re not experts in French cuisine,"
-    publishedDateTime: 2021-03-15T13:10:00Z
-    webUrl: "https://news.columbia.edu/news/gsapp-recap-artificial-intelligence-and-art-culinary-presentation"
+  - title: "Shaping the Future of Technology through AI And Cloud Computing"
+    excerpt: "The future of the world is uncertain and not predetermined. The fact that the world is propelled by modern inventions, which did not exist a few decades ago, is a testimony to this uncertainty. However,"
+    publishedDateTime: 2021-03-16T18:56:00Z
+    webUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/"
+    ampWebUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
+    cdnAmpWebUrl: "https://www-thelondoneconomic-com.cdn.ampproject.org/c/s/www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
     type: article
     provider:
-      name: The Earth Institute Columbia University
-      domain: columbia.edu
-    quality: 37
+      name: thelondoneconomic.com
+      domain: thelondoneconomic.com
+    quality: 59
     images:
-      - url: "https://news.columbia.edu/sites/default/files/styles/cu_crop/public/content/plates-arpege-spratt-passard-gsapp.jpg?itok=z__EKPiI"
-        width: 943
-        height: 530
+      - url: "https://storage.googleapis.com/cdn.thelondoneconomic.com/wp-content/uploads/2021/03/0ca8364c-krishna-c.-mukherjee-scaled-e1615921249281.jpg"
+        width: 800
+        height: 1200
         isCached: true
 
 secured: "3jg0jjJMdcHTMdV4FgWBn44bo44BdhLQaADl4ndU1ER8ApJXJ65k1FHo5cf1z2R7/XDnXTj3dfvxV1RjpaIXochWafyQ2P59RKeYqED5WzCcVYhfe7el3HszHMbCD4A1jdSQkQIA5h9C6kLnI9zMniapKA3jI23FWqERmBfvCbKF+nPVHBvI0S09V+WXWiElerUL1B/ytXDPUD6LF/YfzOVAiGTGflG32KkbCf0m7dZOLMHHT5kZHMTfNiWTf7LAEKqbndG42QYpjHU1UUuPrkOw7Xpi6HwH+ajI90PtK3XZLV9R00wqQKn/liQPsSpkW6Y/LvOxsq/M6/sWrv3Oz/UJiDonzOS9zk0g2zGM5rU=;C7m1a/RLwqKg+rdCpqXM4w=="

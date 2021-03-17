@@ -178,6 +178,20 @@ related:
         width: 1200
         height: 439
         isCached: true
+  - title: "FinTech Breakthrough Honors Standout FinTech Companies and Solutions in 2021 Awards Program"
+    excerpt: "FinTech Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced the winners of the organization’s fifth annual awards program,"
+    publishedDateTime: 2021-03-16T12:14:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-consumer-banking-financial-services-0c8b38d7121d6ae4b2ee080e2000c14d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "This Silicon Valley fintech is helping Lyft drivers get PPP loans before it's too late"
     excerpt: "Work for Lyft? Income down due to reduced ridership? You might be able to get a PPP loan, but time is running out."
     publishedDateTime: 2021-03-16T15:54:00Z
