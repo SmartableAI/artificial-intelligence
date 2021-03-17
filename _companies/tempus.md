@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tempuslabs"
   url: "https://www.twitter.com/tempuslabs"
-  followers: 3790
+  followers: 3791
 
 size: 501-1,000 employees
 yearFounded: 2015
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Vq12pj50s0w"
 
-secured: "YK+0bjx/zbSJKovBxoQYg1wi23jUNXx7a8oiAz9x8OKD1atw+e858BMs4/lXz4PNC6CkpN+vI/vvmOROSMj/zFf/dIyR+E3mCxC5KMd4APa4/URPOw2/q9iraFBgPsvzKAXh1VioaajqYi8evQ5KTFqyzBNIl/LdD0Q6qlpTRgkqlBqxkYPU0hagcYw3Dz4Ep7rmXSAgNXtLchtyq1KsNmJvK2dFCQMYJ3d9kHGA8bVfXop6f8L4nSWbwl9ZXgG5VC7P5sZ/X3ceYK5jx0iXuKTlg61qq7Rnkg1uB8hs6ASOlmvDA1Z2s5qDCj8dHcK5QIPSvFEoCLDO8HEW5a+Wqh0cNnxnew4F47jPcegOXwlZ6VqzvHFcnSIwum1PivNTAJc/+PR4ZkAZTHH28Fnj/VyzOQ3vv2jxg0xyVOrW4B8=;+p6eOfE3beEyE2AnPYJSdA=="
+secured: "1xXdpwm948PMN15ccfW4zaHo77BqTNFeHCdgOpsysOSdxV5pXznXEBhmXGc+zEP0IStXwUxj2SI8e2RhcGb+oIOby3GQerE+orP07LTNS/Fao9wtDCJF1e2WTfJzeKKFTAHqyOxKRyspvAyAbY/Yl85ncAxmmWnC4J/3luYJq9VX++Dns3xIjbxSiXt11mGf4vRn/TATttLiAgntDMtwO5/brsWHMlAUlXl4i49HE41TfnOZzz31RWkw5bEGtHN8daMSHzwXXx+zkxrTSMYPgcqGZMhY5zXFrH6rGM+rdW2zCfyZVYvh6whNyK7U9YwUNyvkulTTCbFdZ8ogZVYIO5a6oDOLRh5YTQD9cY97WRUG2b0fl1e0VNvs/lK/9mswy80XFUgSI3aFGnW7slfct+yEOLDnm7VsHS4muDb2Lgo=;Cha+YfTrY6VuEPqvKga5oQ=="
 ---
 
