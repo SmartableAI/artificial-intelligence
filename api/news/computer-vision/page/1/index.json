@@ -141,58 +141,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-16-global-ai-in-computer-vision-market-forecast-to-2027-covid-19-impact-and-analysis.md",
-      "title": "Global AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Analysis",
-      "excerpt": "Dublin, March 15, Mar 15, 2021 (GLOBE NEWSWIRE via COMTEX) -- Dublin, March 15, 2021 (GLOBE NEWSWIRE) -- The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-13-datagen-emerges-from-stealth-to-create-synthetic-datasets-for-computer-vision-models.md",
       "title": "Datagen emerges from stealth to create synthetic datasets for computer vision models",
       "excerpt": "Datagen, which taps AI to create synthetic training datasets for computer vision systems, emerged from stealth with $18.5 million in funding.",
@@ -1435,6 +1383,58 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing.md",
+      "title": "Brazil’s Biggest Metro Could Get Facial Recognition Cameras That Reinforce Racist Policing",
+      "excerpt": "Facial recognition cameras commit minimal errors in recognizing the faces of white men, but they misidentified black women up to nearly 35 percent of the time, according to a recent study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "originalUrl": "https://www.vice.com/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/603d34e458f56d0096504362/lede/1614628311772-gettyimages-1218336354.jpeg?crop=1xw:0.8419xh;0xw,0.1065xh",
+          "width": 3897,
+          "height": 2188,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
+      "publishedDateTime": "2021-03-02T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

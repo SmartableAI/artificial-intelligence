@@ -6,9 +6,9 @@ publishedDateTime: 2021-03-16T08:08:00Z
 originalUrl: "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying-the-many-faces-of-covid-19/"
 webUrl: "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying-the-many-faces-of-covid-19/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 89
+heat: 109
+published: true
 
 provider:
   name: Microsoft
@@ -59,91 +59,7 @@ related:
         width: 5878
         height: 3927
         isCached: true
-  - title: "Global Deep Learning Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
-    excerpt: "Mar 15, 2021 (CDN Newswire via Comtex) -- A new offering by MarketsandResearch.biz entitled Global Deep Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 documents an overview of the market which has been showing steady ..."
-    publishedDateTime: 2021-03-16T00:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Precision Medicine Market Size, Demands, Status and Application Forecast to 2025"
-    excerpt: "Mar 16, 2021 (Market Insight Reports) -- Selbyville, Delaware, The latest report on Artificial Intelligence (AI) in Precision Medicine Market now available at Market Study Report, LLC, explains the current and upcoming trends besides details related to the ..."
-    publishedDateTime: 2021-03-16T21:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-demands-status-and-application-forecast-to-2025-2021-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Medicine Market Set to Make Rapid Strides in 2020-2027"
-    excerpt: "Global Market Monitor is a professional modern consulting company, engaged in three major business categories such as market research services, business advisory, technology consulting.We always maintain the win-win spirit,"
-    publishedDateTime: 2021-03-16T05:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-set-to-make-rapid-strides-in-2020-2027-2021-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) for Telecommunication Market Evolving Technology, Segmentation and Industry Analysis by 2025"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025."
-    publishedDateTime: 2021-03-12T20:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market-evolving-technology-segmentation-and-industry-analysis-by-2025-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ..."
-    publishedDateTime: 2021-03-12T23:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-share-growth-2021-to-2024-forecast-by-manufacturers-regions-global-type-and-application-2021-03-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Sports Market Size, Share, Industry Analysis Report By Product, By End Use, By Region, And Segment Forecasts, 2020-2026"
-    excerpt: "The Global Artificial Intelligence in Sports Market is expected to exceed the valuation of USD 3.3 billion by the year 2026, recording a CAGR of around 33% through the years. This analysis of the Global Artificial Intelligence in Sports Market aims to offer relevant and well-researched insights into the contemporary market scenario and the emergent growth dynamics."
-    publishedDateTime: 2021-03-12T11:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-sports-market-size-share-industry-analysis-report-by-product-by-end-use-by-region-and-segment-forecasts-2020-2026-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "xpbQEkCmm8Cm/cptKs1FWP+SjwBNCxbzweKO0oPEoOo8T6smsYIq6oA/fVgRJAqskVEau6KOELD0PYe7d2uS9RN1PiLgr8qswmM8YitoWX7uJrQTalfMChPKordN7KNwOpbyJdG0J7NFSakYrhrkQJRSDDBKPEm7yBTejMd0YSV/NpyBWDK4w/oGy5GRCv6LFjRuAZSwTNfQJUrIf8+TrTI02n/j4mTAQsNUAFe6WqjqOsfIlqpWFg3PAyV7mkgFq+gky7j3Vq3hPHwsByCYs2qe8P/IN1WxQRoOX4WAU41yN74THZ8e6mXyjXzUPmBqHRNeb7l97JL87yaJnlHWEW/OdIbug9TLNJ1Hykz8nggcBvGmO1ow2+nF1vnkAuwECBNpQg7k8f4ULdd7EAGuBrCyyF7TS7TbWF54LqRBA7WO2GCYP1sbTrs5qgkoi82xgRIA5RBO7f2kilecwrEgszjyhaUfiacRuAEODgz7MMyj4/9T0p1vYVipV7yQg5/GdVjKOKA5FjN/jZwOTlm/uQ==;5nuKuZqLhhsP7M+UU+SxmQ=="
+secured: "93xjRvs/jVUlceU2cns/dtKlWkyFCVe63aiSEdBcqPRNTd2dCSImW24GJm7/r9xcL335Ry1e8ozSZFsYBmS2hR+FRW+lXbC9tgEQnYnoxtrHvKs5AA8D2DQNPIXwbzAh24UcB/b22v1nHAD5MoBPmjIYS2S8bpK1Q5zibRYiHFTLdb+IpUzDgTWw1TU+6DPa1u5UUYBrlwFWwBmd2YFJlu6OmgOvfGwDrFJByVDmM5hVJMdF+Isr5H/GYWyH85Ah+rHVEcjg/6XHRa2JK7G0EmsicObki+yv/py+1TIieGjieemD4iwE5V1BqoyaopDgJm192borLKyA+ma8QEYIEh4sGn1vXuufPpKkKntS49L3AIYyfhqQhoGqC2Tcf8kqcNLTTnpUyoRqbL9Ew7e1+RkKtdD6vLWnWTlHCOsOb0tLWJeRg2x8B9j7cxqLpvyFVTj8mE5UuSqGDioqNfZXAntMLFTX2aK68kjtDoRoK9hCCzbxo/SKJIXm5B3HnDL5v4OCr3mDh5AWkgfW22C3gtsQ8fBv3nM3GKMTTTtZBIM=;gK1VP/mnFeSt8HT/172o3Q=="
 ---
 

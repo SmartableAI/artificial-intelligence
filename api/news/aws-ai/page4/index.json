@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-11-are-ai-investors-shorting-black-lives.md",
+      "title": "Are AI investors shorting Black lives?",
+      "excerpt": "So who’s fault is it? Setting aside intentionally malicious uses of AI software, such as facial recognition and crime prediction systems for law enforcement, we can assume the problem is with bias.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/11/are-ai-investors-shorting-black-lives/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/11/are-ai-investors-shorting-black-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Screenshot-2020-03-16-at-12.02.50-796x450.png",
+          "width": 796,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/11/are-ai-investors-shorting-black-lives/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/11/are-ai-investors-shorting-black-lives/amp/",
+      "publishedDateTime": "2021-02-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of-the-nhl.md",
       "title": "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL",
       "excerpt": "In addition, by leveraging AWS analytics services including Amazon Kinesis (AWS's service for easily collecting, processing, and analyzing video and data streams in real time) and machine learning services such as Amazon SageMaker (AWS's service that ...",
@@ -1411,49 +1463,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-gdit-announces-aws-availability-on-milcloud-20-contract-dave-levy-quoted.md",
-      "title": "GDIT Announces AWS Availability on milCloud 2.0 Contract; Dave Levy Quoted",
-      "excerpt": "General Dynamics Information Technology (GDIT) has announced the availability of Amazon Web Services (AWS) under the milCloud 2.0 contract, GDIT reported on Monday. AWS availability will provide the Department of Defense (DoD) access to an expanded portfolio of secure cloud services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.executivegov.com/2021/02/gdit-announces-aws-availability-on-milcloud-2-0-contract-dave-levy-quoted/",
-      "originalUrl": "https://www.executivegov.com/2021/02/gdit-announces-aws-availability-on-milcloud-2-0-contract-dave-levy-quoted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://executivegov-media.s3.amazonaws.com/2021/02/01/56/77/7e/91/c4/a2/48/44/dave-levy-wash100.png",
-          "width": 272,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

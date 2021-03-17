@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Conlan Scientific Named Top AI/ML Development Solutions Provider for Financial Sector in Washington DC in 2021"
-excerpt: "Conlan Scientific, a fast-growing nationally recognized authority in delivering AI/ML-based Financial Data Science solutions, proudly announced today that Clutch Research had recognized it as a top leader in Artificial Intelligence/Machine Learning Development firms for its expertise in supporting the financial sector in the Washington D."
-publishedDateTime: 2021-03-16T18:54:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-7bca1927d8fe5dfe69d44203c02e2076"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-7bca1927d8fe5dfe69d44203c02e2076"
+excerpt: "Clutch has been recognized by Inc. Magazine as one of the 500 fastest-growing companies in the U.S. and has been listed as a top 50 startup by LinkedIn. About Conlan Scientific Conlan Scientific is a fast-growing AI/ML development firm for the financial ..."
+publishedDateTime: 2021-03-16T23:46:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/n20204682/conlan-scientific-named-top-aiml-development-solutions-provider-for-financial-sector-in-washington"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/n20204682/conlan-scientific-named-top-aiml-development-solutions-provider-for-financial-sector-in-washington"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20204682"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20204682"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
   - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "NrFh2476WT76kLCVzJuEb6HSXRNJDyEHNiJfgHQNFg96B2EYQgBJH5LT2Qm6iL1g9yM5Vr3tjygFnsNo89ZhsicB/yMR0cPNgUNkZrZ1LhaSWJtXeY7VCpD2/NLP1J+rZUEaOB+IXrfuazeg4O3mtOGWQWpNLvkgwyk4rGfXNIOF2G/bLvQtXH4eMyloRWLYfl0xZ6tjL6FvTunuUNJuCsijT5ncoI7csumlwMPdat8J42XJKvNfMZWRyRZ48d3xEOqCdDDRW5Y6PkONcKYwZaJC/rGBmWU4rV0csSWvYGoqLeO90KIQBN46/73AzWKVhyZ3ocPmMx+JFv3YxEVL/Gwy1hE4szCn+z1YXs8QCJE=;bDUgWdaf71sApgWYx5riNg=="
+secured: "8VhgVqlNe+ELE85HVhi9oH+4f6+o4D+76nDEUQP+qQnI/BOHlIuEGmi1VemKR1hktRMjdqXcVdcT0UCfBDhGp+gbrC00uXORXBaD3uCLJU/585TsoHQgI6d61y2Tmmwv4YntKiXOQHmZcf0uigktvT3n3D+dCDDk10GezAcBMuzvOoNqTtOwY3w7e4SqlehXQ8Kh1w1CMvTMjGsJ4HwJzzdBsPkH2jUAfoDp4Z89FcC7CmdOyk3oTh7BOby6bMajGDuPhNjPwXFWXguGGRIjwpP52r2TuVa0LpjIy2gmnHT6nlmZWzIQt9qmwmGgf07NVxZtb3Sb+B6H3r6oW7f8PZZjXxKpBOc1RuL9qnoVX70=;WihwdcH05Z+M0wm3SVv7hw=="
 ---
 

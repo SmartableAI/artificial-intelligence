@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Use of AI to fight COVID-19 risks harming 'disadvantaged groups', experts warn"
-excerpt: "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease,"
-publishedDateTime: 2021-03-16T00:03:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoc-uoa031521.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoc-uoa031521.php"
+excerpt: "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease."
+publishedDateTime: 2021-03-16T00:00:00Z
+originalUrl: "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html"
+webUrl: "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp"
 type: article
-quality: 35
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/covid19.jpg"
+    width: 1920
+    height: 1032
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 480
         isCached: true
 
-secured: "gtDLdbuDti2AxdHku3NfBHJaF6p4S5xPGTJ+TNGHZJkErpZiBQPCNLbY3tSS+HXKf4U+jf3nhik/WQqB3TIxsRw3Rq6lylfgZHK6O5auQHxe1JZsRslDkuCTwcRmVyN2SZ1QroyC55KIffM4CN4FQraGpLic8EuzWnVRg0WG2L/uzSqiP7rUEzDbd6I7weBnJkm64QEijwkn61yuaJuJIS2J1gOFCtlMJ0NhhWnJ/El9DoetGSTYVZGRJX6e2DVdtjVAxQNFYXkLzFzFupht8wezqrIBZ/fItZcSo42nsF0Aei1Qo0MpNVsavQqVeTF3fos27iIhPeeaaXggfpfqV6YJR/IetPimDLdQa5tL2v0=;UZkGNwKfHOtTssrOyfdBow=="
+secured: "r6Ld3USrOuDjrNAPs3wReXFYyQl//v8c0b0s5jaki2oxdaZJff+oLEqDJHLQ54Y8oESDkxT1B5cfnrXERQ0CM3w9NTleUvstTBwPgD6M5XDdUWujjCyhaJPZScthQYprJgwMm/7+n1Pm51tIQRox2C4co4wzyfv1h39c09tLqrTkqL0Rpw6ekGJrlj9Zq4BCgn25mkJdl7lAgOIg99s2TRXxVA9LQvwxeMADc77m0zrjbJzwHHm0qdmwoxt1QBUTUH2WJZlONaV2HlA6THX1D6wpcbL7NidGx1Ge1mHp/zMQpZPN0iimPZGWy8PFHu6HFblf1fCH9/1qEwGNB1/cVmD9BBPwmKSPBHJpkTpyjEU=;KxFlrSJpAVYUbh6s9H7JZQ=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Quickly Calculating Drug–Target Binding Affinity With Machine Learning"
-excerpt: "MIT researchers have developed a machine learning-based technique to more quickly calculate the binding affinity of a drug molecule (represented in pink) with a target protein (the circular structure). Credit: MIT News, Xinqiang Ding and Bin Zhang"
+excerpt: "The new technique, DeepBAR, quickly calculates the binding affinities between drug candidates and their targets."
 publishedDateTime: 2021-03-16T09:09:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/quickly-calculating-drugtarget-binding-affinity-with-machine-learning-346689"
-webUrl: "https://www.technologynetworks.com/tn/news/quickly-calculating-drugtarget-binding-affinity-with-machine-learning-346689"
+originalUrl: "https://www.technologynetworks.com/drug-discovery/news/quickly-calculating-drugtarget-binding-affinity-with-machine-learning-346689"
+webUrl: "https://www.technologynetworks.com/drug-discovery/news/quickly-calculating-drugtarget-binding-affinity-with-machine-learning-346689"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "ghnLOPvfh3mlmhrZoHkfxNVSSViR5DukIHS4Nj5slVo7ApHMHk8AUvFYZU6DnbCpOCoo2CV2GNm4Itl+Gs+GO17pUVmnRE4WP4zldQ9zBhbBQM5hZD1TleBK90KjPtHIMS5WrnSUPtqSNhxuBS6LfZ5gwZBVP0Cg+26Bv8o6zHvyqSTphVPR+dRR/RpAHwxgASB5IPNhmgmRMR3Cil1VQC27CbvWSZRtcjz9cY1zQLQLJzGkcEKdQ/Ck4hYKaxn65qsBoOowp9WvRF2QUKos3nGiLEpqchxjSBlVOUgFRY05sOgTFLwuBYigKuBGuJwTNKpqrohh/WHWV5h77Xx4VL6ewitjsGOjoXvddIBio7BVjjSR/GPTeZvtn/2ZviJOHhBmyDoqOcMRBoZOeNkREqTC60gWo18/NcOeFXWDm4gY+1D9VXWdOxvKfRtSpxvRmKl8n7yeuBibfXPTg3TTzGPVHea0O8iYNzzgO2okWFrLHi0lLGlA5fVEiyfHOfRhq6sXf3aBOa5Lq34UoDE33w==;za3Za2Ft/6c3mo4vcwATkQ=="
+secured: "RrP4uciKzGO/HZGGFD/yOSefImqM97F7+HBzR8/OjoQeAE3r1VWdqbVV8NFuvwZPjFw6Y9CEtsZTydtxFFIq9wKSOQzQVrz46KS7c5XiKpbYdeHYjXgfhn46gb/cX31wkFmlkSerWOQd87E5Ho5hgBkLwJTryMSFJNLPmZtbxAboZ3T4uh+iLVnTBFjq6Tw3xp4OICEMSbr+2tBY6uEoSIQca7MMQFhPZ8nyZaNvIiFIB07K56w3Eu2DAZkDRD97N3YdgtuVGGVpylOqA1AZw/Q0j3H5iuxLmlfuV84wEQe/JR/ZhDT+L9RTHiP1XGZvoqguWjLZzXskLBRCvGQx0fp9TVaiBxU7vGvhIfk7wL0=;zcBrtz/DOlu6ZVIN9U9w3g=="
 ---
 

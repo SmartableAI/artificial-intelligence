@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-02-04-incorporating-intrinsic-suppression-in-deep-neural-networks-captures-dynamics-of-adaptation-in-neurophysiology-and-perception.md",
-      "title": "Incorporating intrinsic suppression in deep neural networks captures dynamics of adaptation in neurophysiology and perception",
-      "excerpt": "When trained to classify natural images, these models describe the stages of ventral visual stream processing of brief stimulus presentations with unprecedented accuracy (28–33), while capturing essential aspects of object recognition behavior and ...",
-      "sourceUrl": null,
-      "webUrl": "https://advances.sciencemag.org/content/6/42/eabd4205.full",
-      "originalUrl": "https://advances.sciencemag.org/content/6/42/eabd4205.full",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://advances.sciencemag.org/content/6/42/eabd4205/F1.large.jpg",
-          "width": 1400,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science",
-        "domain": "sciencemag.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.md",
       "title": "'Computer vision syndrome a real problem' amid pandemic, physician says",
       "excerpt": "\"And that leads to fluctuations in vision and blurred vision and of course the eye strain can cause headaches,\" Dr. Starr said. \"So the computer vision syndrome is a real problem, especially in the post-COVID-19 era.",
@@ -1360,6 +1317,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-ny-civil-rights-advocates-back-facial-recognition-ban.md",
+      "title": "NY civil rights advocates back facial recognition ban",
+      "excerpt": "Amnesty International is calling on New York City and state officials to ban law enforcement from using facial recognition technology, saying it threatens the civil rights of",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/0b06e8acd185ef9229ae748c9a640457",
+      "originalUrl": "https://apnews.com/0b06e8acd185ef9229ae748c9a640457",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/679a8bec16954685bad51568fde1bf5e/3000.jpeg",
+          "width": 3000,
+          "height": 1785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

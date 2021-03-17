@@ -96,6 +96,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-15-insitro-raises-400m-for-machine-learning-drug-discovery-push.md",
+      "title": "Insitro raises $400m for machine learning drug discovery push",
+      "excerpt": "A machine learning start-up that is aiming to speed up drug discovery and shake up the pharmaceutical industry has raised $400m from investors including SoftBank and Temasek. Insitro, which is run by former Stanford artificial intelligence professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305?source=techstories.org",
+      "originalUrl": "https://www.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305?source=techstories.org",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F651880f5-5d04-4007-b936-6310d36b2917.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305",
+      "publishedDateTime": "2021-03-14T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-down-552-in-february.md",
       "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Down 55.2% in February",
       "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the target of a large drop in short interest in the month of February. As of February 26th, there was short interest totalling 330,200 shares,",
@@ -782,58 +825,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-machine-learning-as-a-service-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025.md",
-      "title": "Machine Learning as a Service Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025",
-      "excerpt": "Competitive Landscape and Machine Learning as a Service Market Share Analysis: Machine Learning as a Service Market to reach USD 16.13 billion by 2025. Machine Learning as a Service Market valued approximately USD 0.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-03-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },

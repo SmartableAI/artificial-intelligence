@@ -39,20 +39,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Canadian Tire and NuPort Robotics to commercialize Canada’s first automated heavy duty trucks"
-    excerpt: "Canadian Tire has made a significant effort to solve complex business problems by using the Canadian start-up Artificial Intelligence ecosystem, and NuPort Robotics exemplifies what we look for in a start-up with a focus on innovation, automation and artif ..."
-    publishedDateTime: 2021-03-12T09:25:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/03/12/canadian-tire-and-nuport-robotics-to-commercialize-canadas-first-automated-heavy-duty-trucks/41379/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 43
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/03/nuport-robotic-jennifer-reardon.jpg"
-        width: 1024
-        height: 663
-        isCached: true
   - title: "NuPort Robotics to conduct self-driving middle-mile truck project"
     excerpt: "During the two-year project, artificial intelligence technology from NuPort will be used in two retrofitted conventional semi-tractor trailers with sensors and controls. Source: NuPort Canadian autonomous trucking startup NuPort Robotics Inc."
     publishedDateTime: 2021-03-12T13:33:00Z

@@ -2,6 +2,50 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-02-23-bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services.md",
+      "title": "BBVA and Google Cloud Form Strategic Partnership to Drive Security Innovation in Financial Services",
+      "excerpt": "BBVA and Google Cloud today announced a new strategic partnership to transform the bank's security strategy by optimizing and improving its",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services/article_75768ea4-4d21-5e9d-b5ca-589f0be8ccba.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services/article_75768ea4-4d21-5e9d-b5ca-589f0be8ccba.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-global-face-recognition-device-market-business-opportunities-and-challenges-report-2031-cloudwalk-aurora-insigma-group.md",
       "title": "Global Face Recognition Device Market Business Opportunities and Challenges Report 2031| Cloudwalk, Aurora, Insigma Group",
       "excerpt": "Feb 22, 2021 (WiredRelease via Comtex) -- The latest research report provides a complete assessment of the Global Face Recognition Device market for the forecast year 2022-2031, which is ...",
@@ -1138,59 +1182,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-bank-of-america-earns-most-patents-in-its-history-in-2020-with-a-focus-on-ai-and-security.md",
-      "title": "Bank of America earns most patents in its history in 2020 with a focus on AI and security",
-      "excerpt": "Bank of America was granted 444 patents in 2020—the concentration of its patent applications indicates a focus on use and protection of customer data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
-      "originalUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f16471cf34d050dad0c5172?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI in Security"
       ]
     }
   ],

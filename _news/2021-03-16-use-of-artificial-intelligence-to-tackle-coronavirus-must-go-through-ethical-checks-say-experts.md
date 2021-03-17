@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "Use of AI to fight COVID-19 risks harming 'disadvantaged groups', experts warn"
-    excerpt: "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease,"
-    publishedDateTime: 2021-03-16T00:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoc-uoa031521.php"
+    excerpt: "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease."
+    publishedDateTime: 2021-03-16T00:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 55
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/covid19.jpg"
+        width: 1920
+        height: 1032
         isCached: true
 
 secured: "Yh89eJzNqK7WP5wvy5g0PEXXrABq1GFEoK07O+3fWj6flMGxVpHrwCnMOgidqn8UFpwxwhp9lEg9fqEp9umzkAFu+/GH8ivJ//mNgYd4pKJI/dx5iTUGRg96EA4m25eHq19GKhcg9kQcVHQAFGp20OtJO660UUO3YLY0mQ3/13kaarmR/mZh2uxAqDTvs64BFtGk9ZnFEOim8VS8RJG6F4raXZvt4ec3kBVP8jiVxgmqULwLDvvexTPKELl6+S3zBapKDMYfQ9qM/Zl/Psza9QK4eeTfHGdNn1fM2jpvJXRSYHm3972SHjWG5BUlO+wnNIdmc3APA1FLonW6F84QjVO78OpMhX6g5lEc7ERixrU=;XoQFyPoIQxo5q9q/IGCfDg=="

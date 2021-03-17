@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-27-the-deep-south-has-a-rich-history-of-resistance-as-amazon-is-learning.md",
+      "title": "The Deep South Has a Rich History of Resistance, as Amazon Is Learning",
+      "excerpt": "The Deep South is not generally known for its labor agitation, which is why it might come as a surprise for some to learn that it is in Alabama where workers have mounted one of the largest and most aggressive efforts to unionize Amazon in recent memory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/01/opinion/26bouie-lead-print/26bouie-lead-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.amp.html",
+      "publishedDateTime": "2021-02-26T21:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-qeexo-automl-embedded-machine-learning-tool.md",
       "title": "Qeexo AutoML (Embedded Machine Learning Tool)",
       "excerpt": "Qeexo AutoML is an end-to-end platform that empowers users to collect, clean, and visualize data to automatically build machine learning models that run at the Edge. An end-to-end solution that embeds the data science, machine learning, signal ...",
@@ -1392,59 +1444,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-architect-and-build-the-full-machine-learning-lifecycle-with-aws-an-end-to-end-amazon-sagemaker-demo.md",
-      "title": "Architect and build the full machine learning lifecycle with AWS: An end-to-end Amazon SageMaker demo",
-      "excerpt": "In this tutorial, we will walk through the entire machine learning (ML) life-cycle and show you how to architect and build an ML use case end to end using Amazon SageMaker. Amazon SageMaker provides a rich set of capabilities that enable data scientists, machine learning engineers, and developers to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/18/ML-1747-12.jpg",
-          "width": 800,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T07:13:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
