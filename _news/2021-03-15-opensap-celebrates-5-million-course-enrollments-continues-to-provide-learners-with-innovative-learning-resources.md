@@ -56,14 +56,19 @@ related:
         height: 630
         isCached: true
   - title: "NSE Data invests in tech start-up Capital Quant Solutions"
-    excerpt: "The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced investment in technology start-up Capital Quants"
-    publishedDateTime: 2021-03-17T11:00:00Z
-    webUrl: "https://www.canindia.com/nse-data-invests-in-tech-start-up-capital-quant-solutions-3/"
+    excerpt: "NSE Data invests in tech start-up Capital Quant Solutions - The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced"
+    publishedDateTime: 2021-03-17T12:57:00Z
+    webUrl: "https://www.siliconindia.com/news/business/nse-data-invests-in-tech-startup-capital-quant-solutions-nid-215579-cid-3.html"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 4
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 24
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/4t02i7e9.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "w1+j7TX/oDUeaAQIEMDIvqD6tpugP7JPvjHrj4wx5EKfETI1rTDn+1TIYpxzgH+xsN77qIxRmSecwnlDHQ5ZeBtkrKNiq61H0/a6xt0LrVRItVJLjgGZ04onDnBVTIbifgum8U78wFJNCWch2ukDjtQdA36y21ya5TwoIciMHLcThUbbiY1HAZhdNLBqO5i3xdQzhdnLKx6SdgolR8XrIHvqpvtudpojNPmEFgRkWmqzcacEuTE+6C+b9raq/fHcihcfWPE/JdKa2kGF4cWf2cBHOZ9GguLZY/5VW6Oz+/hauFS051767OitDu7ldKPQTXHQCdb40p5BWwNhJvPYPUm1HfqlbzugciWTSjblyJk=;GLA+kg5Qrp4fpEuXDsQtDQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/03/Matt-Bradley--scaled-e1615591269160-275x300.jpg"
         width: 275
         height: 300
+        isCached: true
+  - title: "KAR Global Invests in AI Startup"
+    excerpt: "CARMEL - Carmel-based KAR Global (NYSE: KAR) has made what it is calling a strategic investment in an Israel-based artificial intelligence startup. KAR says its investment led a $15 million Series A round of funding for Ravin AI, which has developed an AI ..."
+    publishedDateTime: 2021-03-16T16:52:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/43507397/kar-global-invests-in-ai-startup"
+    type: article
+    provider:
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 37
+    images:
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/20402352_G.jpeg?lastEditedDate=1613749363000"
+        width: 960
+        height: 540
         isCached: true
   - title: "KAR Global invests in AI startup"
     excerpt: "Carmel-based KAR Global (NYSE: KAR) has made what it is calling a strategic investment in an Israel-based artificial intelligence startup."

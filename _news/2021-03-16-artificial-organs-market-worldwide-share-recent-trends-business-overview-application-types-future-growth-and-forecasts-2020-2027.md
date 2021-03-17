@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) for Telecommunication Market Evolving Technology, Segmentation and Industry Analysis by 2025"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) for Telecommunication Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025."
-    publishedDateTime: 2021-03-12T20:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-telecommunication-market-evolving-technology-segmentation-and-industry-analysis-by-2025-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "CRry2eH3toBjTaDS6VjeLiZDh3ZlrZcH8wJIgSOeLYSwpVxh1rRFTF5pY9aKXtsYKhIHyLhv40KlUsXst3RjWc9MrASgx07Ee2HmQJb64wQHjPkMYjSV6ZVWtiHoxSnxYzswUgq6XnXu6jH+HQ8N/OkefBXkSJEzQE79mhsJmYNxVLlKCDEv5vPHYL7K1+mQRkAwTZt1R7qZzl1nbJ0aKX31pLcsMSzAp8dbDJKh57aY+p3zNPW+vNeWhnclDAvZ6TbNQlmRfIRfnUPw0GFyYnDILX9VEfKAb8FW2pEQwaRHlkWLTYh5NhwrPA3GjavzfaH+JegppxZW30AQwc8N5nDiU/Vauw9FYe7IAnQIYKI=;Rr85H9/RvXk1BMc6twfBVw=="
 ---

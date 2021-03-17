@@ -1,33 +1,25 @@
 ---
 category: news
 title: "AI Governance Market Growing at a CAGR 65.5% | Key Player Google, Salesforce, AWS, SAS Institute, Facebook"
-excerpt: "In the AI governance market, IBM offers IBM Watson OpenScale platform. This platform is available in IBM Cloud Pak for Data and on IBM Cloud. The company has also worked on open source projects such as AI Fairness 360 (AIF360), Adversarial Robustness 360 ..."
-publishedDateTime: 2021-03-16T00:18:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-sas-institute-facebook-2021-03-15"
-webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-sas-institute-facebook-2021-03-15"
+excerpt: "In the AI governance market, IBM offers IBM Watson OpenScale platform. This platform is available in IBM Cloud Pak for Data and on IBM Cloud. The company has also worked on open source projects ..."
+publishedDateTime: 2021-03-15T22:05:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/ab20180087/ai-governance-market-growing-at-a-cagr-65-5-key-player-google-salesforce-aws-sas-institute-facebo"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/ab20180087/ai-governance-market-growing-at-a-cagr-65-5-key-player-google-salesforce-aws-sas-institute-facebo"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20180087"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20180087"
 type: article
-quality: 68
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - IBM AI
   - AI
   - AWS AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Salesforce intros new AI-powered account-based marketing tools"
@@ -46,7 +38,23 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Creo unveils AI-based BioBulb for indoor plant walls"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Creo unveiled its BioBulb technology platform that allows businesses to create appealing indoor plant walls ..."
+    publishedDateTime: 2021-03-17T12:30:00Z
+    webUrl: "https://venturebeat.com/2021/03/17/creo-unveils-ai-based-biobulb-for-indoor-plant-walls/"
+    ampWebUrl: "https://venturebeat.com/2021/03/17/creo-unveils-ai-based-biobulb-for-indoor-plant-walls/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/creo-unveils-ai-based-biobulb-for-indoor-plant-walls/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/biobulb-4.jpg?w=1200&strip=all"
+        width: 1200
+        height: 626
+        isCached: true
 
-secured: "leEqItgo1yMPaiDsWUxmdkeMTARlI0LNSwJ4D7Nk1/76vPjKGAE9MTr525W6LBvbYy8PRVp+kLsYFFZtsrWnXyN6lNj6/ZDPap0aROPxWuFzP2K+98w8hjpMk6sRat4UZxEI3xPZvbqzoVq4G4bRD0OQ/Hmduu5Z7yGMtfaTWzIcV1nzF+Mf41NeqRhlLwoy8MwIJ/Lt+fkLUfDeBftuogHHJa6uGihSHq8mKhzFXSu/4UlKgvX1nu5y4F/VGrbaYHaHgQ9FSYcywxVpYhsJytyFwBmMiebgncC42UsP7DFc+HwVmw/AepgN0KMcOOuYWLYkQ9fqQtVU1hkChiz46XpeIscEG+JmkT8ZnjGH8sk=;gKTVGjfmw7q7EucEVP8wzw=="
+secured: "qRDIpyzgH1XiUeOgRCpLDPFPYw0rZ3t5LvE9Wnp/AbR5ZlXU14DiekvbJgVblms2q3JjHgB41ThQ54JZ0+TaHcnqSdmPWpL18aWGp939Z0pCrI6kcWOuw0jpMG1CxRmT5TvBjYbInrSN/d7jNYo/B5pukArT0DVUm42jAlTBYyCNMpXzqfAIypn+gSfboiborbE7XoklOXDCHYetxS69tuMiILjk4S8HJttyHnzxprEPhNb9z2JLI6nIlQEhtDXNN2vwlaUHMSyeL2IP6+kaA7LPb60/HfLTy4/ClOrrR3mPzmLbPxMmSBXl4SrD0S464CaVheU3r6OBM/woiQPEtAV/47Pk2ocqmb8Xrl8AKDk=;SGag1J51vcUSbYCYfI71ZA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://scienceblog.com/521663/using-artificial-intelligence-to-impr
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Why the Future of Healthcare is Federated AI"
-    excerpt: "In this special guest feature, Akshay Sharma, Executive Vice President of Artificial Intelligence (AI) at Sharecare, highlights advancements and impact of federated AI and edge computing for the healthcare sector as it ensures data privacy and expands the ..."
-    publishedDateTime: 2021-03-16T13:01:00Z
-    webUrl: "https://insidebigdata.com/2021/03/16/why-the-future-of-healthcare-is-federated-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 34
 
 secured: "JhNIfuudgEanTGXwpHEEbukh26QPCQR7ILouuEPaBY6yrWT4dnbriACZYE6B8ddMBqSehsUNiMu20XEvB+J7nPWqnhEYVdkhWFbDZOb3SryuVh9THj2MvigMi0TVTpF4dEp2ROcbojY0ycjb8Owb3LtIX3MmvpfUkJk9D6VAlvB6NmV7fREcm+wl/1OlFeA1hEwxWSjbWgdmGsTGlEC3JcSnOWESJYt3ieuIm/Z8EcE2nmQPmE0pPVuo9cWSCyFj2/m/yE3T6UU4l1rT/uHBro2K+zwC/BKrbFO9WgV5xdzAwehk8zWzWEUrSuJUmqY4HRpwk9se7fa3kwDIPthuipS63FGB34NFAomnfTcThm4QPiKka3sxVQAT1uAmmX0DNEiGrTov4JBf3lsrhCPtsY5Q2d5ShaOEbSY6xG7Sq713It1HlqOK0HFefpJpHk4T2mhwb0cZQn/WB7OIVjr8xAwHkf4TykIgQSbsrveGm6C425NAF9Ubymqb3rvNHJdzQ5PNUMGrDuMhMcMD0HD8qg==;KZYBrnbOkj1g7yULoJ49ZA=="
 ---

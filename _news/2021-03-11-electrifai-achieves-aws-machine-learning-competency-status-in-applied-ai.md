@@ -1,21 +1,27 @@
 ---
 category: news
 title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2021-03-10T21:15:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210310la02836/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai"
+excerpt: "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to ..."
+publishedDateTime: 2021-03-11T00:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "D5NzlIBvwUZP1W8sh1544w6Hx0heNT/YInsfimBu4nE85RwzlKHPhto8ZiKsyHYEHSdm2W1cgY18Wn88GintySmUT6lYWk4aRG1bg9sDbhJJqlW+/tRZUJEvNdJVML6W3N6MDGUhpqHk87l/Sfe9yDtItHWN/VByPFC5isBBMknuUOpnBGEHPVYxP245n3T9UtrBJQe3llvoOujA2Jici5DBVPzH4ycUzs/Cp90mU/qM7QDp2Y6tkMsnCuVSYaRIUgWR8lDcFX4yGsFC+Wck+N3lbRp60AnJxdNfavjB7CJK7sg/TSL+pc23p/ZB/5+ATOPRKI52jukNhEJ24Kz2tXS5XfLSOsRSQodCYYVcUD0=;/XGqeDjCRinyu/wVS9fL+w=="
+images:
+  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
+
+secured: "t+ek5WH93tQWODybMK/fjtpUPWbeJZlLfAUYf4/9Oq4IYT8+XrKPBMypVxDpdLntCV5pWptSUDkcK1Iw5qO6iwXyefSKzesAPZz2jW5Q/dokGMt3RmW/l5QLGeWfb9StFO0OaH7jhPGjGmD9zrfeSA7EAtQzrodzQganNx50Dbnhe5vA2cdcG294ZPPnYuH/KFQ+4IEKSBqjDM7H3c7ua3VRZr50dtYfLAHMzEyll43aAKR+hR8FUHMx95NMsc4bobfFL9gbUB76784A1zMdi/9MVmv0qqdaIFJnSoXA9wKQMJXBcrIcp+1OHkyCxFAoVMlIMM07LarJiXmSisb1ZEgZNMAtAv9wkT+LiTZX6Is=;7PUS9RQuxX2ic2eQgjbEbQ=="
 ---
 

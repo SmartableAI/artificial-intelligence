@@ -58,6 +58,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Zenlytic Raises $1M for its Analytics Platform for E-Commerce Businesses that Streamlines Data Analysis with Machine Learning"
+    excerpt: "Zenlytic, cofounded by Ryan Janssen, is a no-code analytics platform made specifically for the e-commerce industry to unlock valuable insights to drive sales and marketing."
+    publishedDateTime: 2021-03-17T13:07:00Z
+    webUrl: "https://www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/"
+    ampWebUrl: "https://www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 62
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/03/ryan-janssen_zenlytic-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Solar analytics startup Prescinto raises $3.5 mn in seed funding"
     excerpt: "Prescinto’s AI identifies the root causes of the plant’s underperformance in real-time and helps in reducing costs of operation and maintenance. With an aim to increase clean energy without additional investment, the startup identifies and reduces the ..."
     publishedDateTime: 2021-03-17T09:24:00Z
@@ -119,6 +135,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "zEZ6O9ScVAbI3b53W84XnirpvlJ8jiTwput8wWQ2P1qsOE7Ag8tZX9Su7ztL2F33cPaOc1W0j+H5Hc7afeJZ1B5qrHvV86sdDI/U1xel78kE61NtGDQH55UkrCeaK1MfZq7UgqjqwWt44K53d7znujThbSiaAHoER68GR+LG4CBNbAaUpT5VY96zM4K0o+OK/ewActD4812C5cjuBv4+kS9IiNIHq9D/zF1bj1dJMcmwFvtAIl/1+j6PutwCM1DbKOxEn88/UedV3xgPn9GzJMvIDzUvg+c024qek+p2E9GWrLXrXAe9Xe2fbxop6ghu6YFb4f9H3Zq0KyPRmotcE06qnTdo2xL1GJLzmX++y80=;lWSAGpxSsyiO0/nKssucxg=="
+secured: "MaWUnWeMYE90ykXUdNzGBwnD8cwsootVKAh1zIWXAvxqM3LTKDvhd1Qxpnj1tAAsMC1Xu7DIghZskFUR57VqdUAwIWJRgZ9qOq1flIxO2iIp21vWVh1n3BP7ZieEKOYjH2exiOhpv4VjFZN71OSqhsD+YL83r5Fq28aTAzTmCWTlepTVMShiGPJvowNQf6zmTMNNstQshstsOIOSPMkO6biR06+ZLrCCzSOPXNikusYJP15uis7fq522dkC7iXC+M//k41lsPlcZ5qrtnI9XTEPOn4VhXg4QQU72rlqF/MHE6zffrccMOLNB3mLLbwGtfe4lNmJhcnywqMoLsKwRyjSekqbJ8gBDt/4m4ygfiT/dJBdoQOkDEaTnEBLvwpJZcFfk8V13r1exJpKY2b9Sib7wmMUkD1ax/6W5/WpJRbuXhCbXuKIPofxwMhXCTb10d7WQHLPRbRJroRx3WbQ/RuDY3BTNIn3qkwBnQX6LlpXsVHQWZcGJzxQu9u2I5xTQPUw3D0eTA1fg+D4tvMsnfw==;d7+yV52REdxivuDM1v3dNA=="
 ---
 

@@ -70,15 +70,6 @@ related:
         width: 1600
         height: 600
         isCached: true
-  - title: "Why the Future of Healthcare is Federated AI"
-    excerpt: "In this special guest feature, Akshay Sharma, Executive Vice President of Artificial Intelligence (AI) at Sharecare, highlights advancements and impact of federated AI and edge computing for the healthcare sector as it ensures data privacy and expands the ..."
-    publishedDateTime: 2021-03-16T13:01:00Z
-    webUrl: "https://insidebigdata.com/2021/03/16/why-the-future-of-healthcare-is-federated-ai/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 34
 
 secured: "EDVEqLJ1Tgwmt3n5asIHn+IKBpQnig5wsHThzFJCkF+a3x14X2O7fYADgeZQUuP+Kd+0BHbSDUalsQX0gxWoVxIjPzo06/yOMM5vk75vOofkyk0gCzYZDa17UtAlqDmosXMz0qidotYkV/fkNs2jUqTS5quVp4eC5FY21qygMbAcsLtN/kT2Vnu3WGobBFzuK2vcmC0fe+1HN9uAweNQrCrB0FDdYUOycNLTG2I5YnWHLItXRXrn3DF6FxF+bNPrjwyEVU2hUu+GZ29o2d2KDLNfw68/6RoxLb47O4YO2Qfg5SP4tNIysp9UtdoiAmG1EOwP/TlKYbef/xQYFfA5ktcUexCZWe6500rjj1NoQHXYkGI2h0KeDSydiyLJ8frygFbSF0wP8cacQGDP63X3vefbj9tW2H1dTZss9joduz6TMKFhYrvHWuf8xf4bxAiPRUhPOyYHCq9esImBEP+NLKpuRSGvkIc3RFBschHYfCmfexXKdg859EU4NQ/ar7NU+d0dpzrpcYOG0PWg7AbYxQ==;OS78jcb8X03xg3cx4zWshw=="
 ---

@@ -1,0 +1,63 @@
+---
+category: news
+title: "Creo unveils AI-based BioBulb for indoor plant walls"
+excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Creo unveiled its BioBulb technology platform that allows businesses to create appealing indoor plant walls ..."
+publishedDateTime: 2021-03-17T12:30:00Z
+originalUrl: "https://venturebeat.com/2021/03/17/creo-unveils-ai-based-biobulb-for-indoor-plant-walls/"
+webUrl: "https://venturebeat.com/2021/03/17/creo-unveils-ai-based-biobulb-for-indoor-plant-walls/"
+ampWebUrl: "https://venturebeat.com/2021/03/17/creo-unveils-ai-based-biobulb-for-indoor-plant-walls/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/creo-unveils-ai-based-biobulb-for-indoor-plant-walls/amp/"
+type: article
+quality: 87
+heat: -1
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/03/biobulb-4.jpg?w=1200&strip=all"
+    width: 1200
+    height: 626
+    isCached: true
+
+related:
+  - title: "Salesforce intros new AI-powered account-based marketing tools"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Salesforce today unveiled new AI-powered account-based marketing (ABM) capabilities within Salesforce Digital ..."
+    publishedDateTime: 2021-03-16T11:59:00Z
+    webUrl: "https://venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/"
+    ampWebUrl: "https://venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AI Governance Market Growing at a CAGR 65.5% | Key Player Google, Salesforce, AWS, SAS Institute, Facebook"
+    excerpt: "In the AI governance market, IBM offers IBM Watson OpenScale platform. This platform is available in IBM Cloud Pak for Data and on IBM Cloud. The company has also worked on open source projects ..."
+    publishedDateTime: 2021-03-15T22:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/ab20180087/ai-governance-market-growing-at-a-cagr-65-5-key-player-google-salesforce-aws-sas-institute-facebo"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20180087"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20180087"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+
+secured: "GnDPct6SMWpoVI/28R8HzDtN9tXExdTFaEYmUQtrbZi4HipkVmP4dDb7XEfp80hweouvdxutQfWPSagJvV4SzTQJdPHdPN4E9WITTENUfHv3huFJtzf2eHMBBb3jEzFVv0XniTh34PvV+msAwYPCtoNpaC6XOc7lU+Jbl8wUZ22gyMx7fJjszIZFOgw3dXtMvJy2MzqAjWKvfhPSUTV7Q9EbCMXfJFs46mhv5qhZnDvcDREKd20Vo1O/n833GQHdFA/2Y9FjnzkP5kstP6on5+NOdvmk4jJjAnpQmhVwNGRuknCwCdR4h8gPVvbNRNqw1nMsKj9mD2Ps3hxYLPI7roVIXSGkVCOnvpZa6bpOreg=;/Bw4+dc3v+ZOR/HzASDtAQ=="
+---
+

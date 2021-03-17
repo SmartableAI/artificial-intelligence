@@ -19,22 +19,31 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Shaping the Future of Technology through AI And Cloud Computing"
-    excerpt: "The future of the world is uncertain and not predetermined. The fact that the world is propelled by modern inventions, which did not exist a few decades ago, is a testimony to this uncertainty. However,"
-    publishedDateTime: 2021-03-16T18:56:00Z
-    webUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/"
-    ampWebUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
-    cdnAmpWebUrl: "https://www-thelondoneconomic-com.cdn.ampproject.org/c/s/www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
+  - title: "The Departure of 2 Google AI Researchers Spurs More Fallout"
+    excerpt: "Two academics changed plans to attend an invite-only conference this week; a third says he’ll no longer accept funding from the company."
+    publishedDateTime: 2021-03-16T08:00:00Z
+    webUrl: "https://www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/"
+    ampWebUrl: "https://www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/amp"
     type: article
     provider:
-      name: thelondoneconomic.com
-      domain: thelondoneconomic.com
-    quality: 59
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://storage.googleapis.com/cdn.thelondoneconomic.com/wp-content/uploads/2021/03/0ca8364c-krishna-c.-mukherjee-scaled-e1615921249281.jpg"
-        width: 800
-        height: 1200
+      - url: "https://media.wired.com/photos/6050029af65a735f26384356/master/pass/business_google_1230739760.jpg"
+        width: 2400
+        height: 1600
         isCached: true
+  - title: "Why the Future of Healthcare is Federated AI"
+    excerpt: "In this special guest feature, Akshay Sharma, Executive Vice President of Artificial Intelligence (AI) at Sharecare, highlights advancements and impact of federated AI and edge computing for the healthcare sector as it ensures data privacy and expands the ..."
+    publishedDateTime: 2021-03-16T13:01:00Z
+    webUrl: "https://insidebigdata.com/2021/03/16/why-the-future-of-healthcare-is-federated-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 34
 
 secured: "3jg0jjJMdcHTMdV4FgWBn44bo44BdhLQaADl4ndU1ER8ApJXJ65k1FHo5cf1z2R7/XDnXTj3dfvxV1RjpaIXochWafyQ2P59RKeYqED5WzCcVYhfe7el3HszHMbCD4A1jdSQkQIA5h9C6kLnI9zMniapKA3jI23FWqERmBfvCbKF+nPVHBvI0S09V+WXWiElerUL1B/ytXDPUD6LF/YfzOVAiGTGflG32KkbCf0m7dZOLMHHT5kZHMTfNiWTf7LAEKqbndG42QYpjHU1UUuPrkOw7Xpi6HwH+ajI90PtK3XZLV9R00wqQKn/liQPsSpkW6Y/LvOxsq/M6/sWrv3Oz/UJiDonzOS9zk0g2zGM5rU=;C7m1a/RLwqKg+rdCpqXM4w=="
 ---

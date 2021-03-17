@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-16-the-departure-of-2-google-ai-researchers-spurs-more-fallout.md",
+      "title": "The Departure of 2 Google AI Researchers Spurs More Fallout",
+      "excerpt": "Two academics changed plans to attend an invite-only conference this week; a third says he’ll no longer accept funding from the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/",
+      "originalUrl": "https://www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6050029af65a735f26384356/master/pass/business_google_1230739760.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/amp",
+      "publishedDateTime": "2021-03-16T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-preventing-bias-in-ai-is-hard-bug-bounties-could-point-the-way-forward.md",
       "title": "Preventing bias in AI is hard. Bug bounties could point the way forward",
       "excerpt": "Deborah Raji is researching ways to apply the models that underpin bug bounty programs to algorithmic harm detection.",
@@ -1467,49 +1519,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-britains-gchq-cyber-spies-embrace-the-ai-revolution.md",
-      "title": "Britain's GCHQ Cyber Spies Embrace the AI Revolution",
-      "excerpt": "Britain's cyber spies at the GCHQ eavesdropping agency say they have fully embraced artificial intelligence (AI) to uncover patterns in vast amounts of global data to counter hostile disinformation and snare child abusers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution",
-      "originalUrl": "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution?context=amp",
-      "publishedDateTime": "2021-02-24T14:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

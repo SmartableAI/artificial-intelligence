@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: Facebook, Google, and the tension between profits and fairness"
-    excerpt: "Learn more. This week, we learned a lot more about the inner workings of AI fairness and ethics operations at Facebook and Google and how things have gone wrong. On Monday, a Google employee group ..."
-    publishedDateTime: 2021-03-12T20:17:00Z
-    webUrl: "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/"
-    ampWebUrl: "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 90
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Facebook will train its AI by using public videos"
-    excerpt: "The social network says the project, called Learning from Videos, will \"help us continuously improve our core AI systems for applications like content recommendation and policy enforcement.\" It'll also enable new applications, the company added. \""
-    publishedDateTime: 2021-03-12T21:41:00Z
-    webUrl: "https://www.cnet.com/news/facebook-will-train-its-ai-by-using-public-videos/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-will-train-its-ai-by-using-public-videos/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-will-train-its-ai-by-using-public-videos/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/qQr3vJP8lfNUUjdSYnsCkPjpyRo=/1200x630/2021/02/09/3b350071-97a3-4d7b-ab0c-accf39ebbd3c/facebook-app-logo-social-media-2589.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facebook will use your uploaded videos to improve its AI algorithms"
     excerpt: "The company said it would help improve both its moderation efforts and recommendation engines for video.In its blog post, Facebook said the algorithms will learn 'themes' from the videos users watch a"
     publishedDateTime: 2021-03-14T13:26:00Z

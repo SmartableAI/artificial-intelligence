@@ -1,22 +1,28 @@
 ---
 category: news
 title: "NSE Data invests in tech start-up Capital Quant Solutions"
-excerpt: "The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced investment in technology start-up Capital Quants"
-publishedDateTime: 2021-03-17T11:00:00Z
-originalUrl: "https://www.canindia.com/nse-data-invests-in-tech-start-up-capital-quant-solutions-3/"
-webUrl: "https://www.canindia.com/nse-data-invests-in-tech-start-up-capital-quant-solutions-3/"
+excerpt: "NSE Data invests in tech start-up Capital Quant Solutions - The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced"
+publishedDateTime: 2021-03-17T12:57:00Z
+originalUrl: "https://www.siliconindia.com/news/business/nse-data-invests-in-tech-startup-capital-quant-solutions-nid-215579-cid-3.html"
+webUrl: "https://www.siliconindia.com/news/business/nse-data-invests-in-tech-startup-capital-quant-solutions-nid-215579-cid-3.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Canindia.com
-  domain: canindia.com
+  name: SiliconIndia
+  domain: siliconindia.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.siliconindia.com/news/newsimages/4t02i7e9.jpg"
+    width: 570
+    height: 367
+    isCached: true
 
 related:
   - title: "NSE’s buying spree continues with investment in machine learning start-up"
@@ -64,6 +70,6 @@ related:
         height: 900
         isCached: true
 
-secured: "BaJNKJ9qYZNgtzKhiWzTHAxjUJ31V3u7plsmHpZYABUyTBxwS1dM1DSVRHuJ4Hc6VIMFO5dwMFAxfwa8QSZ6IcaY+iuBXRmqQNpp+1RJxdO3oCZGkImIcz4fBECpatdZmmWDltBUeaomNr6F/3AAewreFhibl9YOi9SmApOSix01yieEPREjbSzxgOIMdyF1r268QjHnxG1hLQ5kGxLaq3HErarAHoAlEZJv1TbmWSKaiRkwPwTKs/6RVH0VEGIerg7Vuok3KfnnXuJHspBPnEwfn+POvpgXTxiKQghOm6gZGsH9+mfu6alGnQQXDdyyQGtc2zjLqxFXwWbcf1yzl9ISQeP55XP2FUiquq/9FrA=;bIqX1sOLqwhCCIHNTDEsjQ=="
+secured: "spa8DUHtHxrHdzRi80i8UAjy3gp+0JawFFHibMFPJCCSL/WIDquxGefSU/Kt2jezG9nFQvkJgMWn/myllBpQBfrvVZmzkDfW3+vtRTANuEZis7Ymw2tBaWQxFZXJ3FnbtISfa3vVgLvF6QSe6RnneYfj6NJU0ZaEBKNpBSUXuNYgB03CmZ6e1dzMqs1eAeUFTT1rvLXq+V1KCADmhP7wi5bcHE1Syy+9opLqYdpv66FgXgHDapVCzfmPPpKF+ZSBGnTSruxxhdL86Zd2NiHDwzASfGExhzxpRKG+yKTKi75bEs4QJGq8Pl1J3PwewoQv+rSGArORaAKSw8B57IIqbZPh/8jEzqiQY9XZ8YSGyxY=;YCHYvOPyxwLd/mbGqRJ7ZQ=="
 ---
 

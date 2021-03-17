@@ -2,9 +2,9 @@
 category: news
 title: "Financial Expert Daniel Calugar Comments on Ways That Artificial Intelligence is Transforming the Global Financial Service Sector"
 excerpt: "Daniel Calugar, an experienced investor says that artificial intelligence will soon be an essential driver of business in the financial services industry. With an academic and professional career in computer science,"
-publishedDateTime: 2021-03-04T03:16:00Z
-originalUrl: "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
-webUrl: "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
+publishedDateTime: 2021-03-04T11:16:00Z
+originalUrl: "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
+webUrl: "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "s+8WFfYyBDtg7b+dH8R1JkZVaR4I401Zcmk7OOngRvCzxvko3WdyD5O/h5DocGXTF7s8MpQxUYriMqc8mjf3hRO/HM9y/z7saY6FDR2rqJLyz+zcKgZuKBgNTFt92Eu9PrBzoRmnH7Oeey70XEB+Spt2iwZuaUR0gsfCPkJZx++gQpBkjE7IeQS22JXCBhhQLy6ooB7sTQ4O6zi0QQ38eJhNTw/npF5VAw5sZs3lfUWsONqhTnIR0ZVWK8TiRQmNyxOboOjFzqz1uh+o/oflPll7ckM0/bMnz7Fz3iEbNV/K4d0tixtJyHVcELw0FYvj6P0HyBh6ECy7AqT6L64hwWmtqBIeD54fMhXANApix0Q=;Iey1jm+rncYLpwTS5IZH8Q=="
+secured: "j5JkjxYi8Eam0ksfCn/n/Z7293e6hf3CddI45t9DR47hlJ7tjvAVNH9OV95yDcBJphuN9pcbzqkuoSSR2z2j19EikJUfUVQa+4vwXfuEn2wADPO59GMrmH+cK8Xr2D2/udnzAsnMu28z/TBbPRP4kHg3UeaABPQ6Puh8fiv9iF8aYZdCK8SpcIwA4n5SbeHUjfCzYYpc3fbnT2k/ylJSwnJDS9pd19hZyAHnaTNhPU23jcoYs8ppBsaEOaZ0m9vJhbU9+9z9S4iiEDDXfSrFS+y9+Z5ENWZfl7497XDuRrCJrXBv1wI8ZT9m8K7NfQdKyGtqqM80Mc1WjZcakmokAK9ItEb1FrPDqg/HXYp3i1k=;bgsdnGTO8Saj4eaMFf8QxQ=="
 ---
 

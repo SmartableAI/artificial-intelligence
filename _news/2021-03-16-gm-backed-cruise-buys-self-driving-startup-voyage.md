@@ -193,6 +193,15 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Cruise Automation acquires Voyage to further self-driving car goals"
+    excerpt: "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,"
+    publishedDateTime: 2021-03-17T12:21:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16471/cruise-automation-acquires-voyage-to-further-self-driving-car-goals"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "wK/b9KkIjxpThr9OQliLjsnitrP9ye6GJygpNo7B/ZqgG/gNAf71pv/p3nvti3E8sbFAPIeLegOyEySjC8T2igr0tUBhK6J7M7d+17AIW6YvgvM0VBViPixmajrznIstYvTcEPmsz8p6L5wTxG0vhGo7JYPqNQTUwhBqkCn+mKseAgCtmTfviVeO1Q5EcfY1c3xi1P0whdaOxHBb+ReWwyfFEd9wSkmECluTUzWx/0+UC0q2IrWJ86tKjIxXvYcLUTwbtXaEHlm5illnRqddbZNVFg8Ri0mHClmieFQ8YbuNehLn/5Isl9VUZVe1WGleq8NJqb/cQVQ5PJO8HddTpu5aFtVhSv+9HS74yMKhuoQWIiXbsXUspqCCgwpq0usFeiRGFLrNMqbxlYkgCOyWRxfq2D/0dOE9gBj6bKCesyKyn38owC85ZDaoUVfKVbx+Pik42i9kY8Bls2Ni11IBFIDq8AQCx5mR54sAEhoI6xVasMig4opZQ0fXfAwSNpBl73MySfO6cusvaW9Br20aMg==;MYh2AujHQtza6Uvm1XKEIA=="
 ---

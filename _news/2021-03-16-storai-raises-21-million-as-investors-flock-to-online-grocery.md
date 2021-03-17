@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/online-grocery-i
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/online-grocery-investment-surge/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: pymnts.com
@@ -26,31 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "We got an exclusive look at the pitch deck Israeli e-commerce startup Stor.ai used to raise $21 million"
-    excerpt: "Stor.ai helps grocers across Israel and North America manage inventory and move their operations online."
-    publishedDateTime: 2021-03-16T12:17:00Z
-    webUrl: "https://www.businessinsider.com/storai-israeli-e-commerce-startup-raises-21-million-series-a-2021-3"
+  - title: "Startup Viz.ai Raises $71 Million in New Funding"
+    excerpt: "Viz.ai has raised $71 million in new venture-capital funding."
+    publishedDateTime: 2021-03-17T11:30:00Z
+    webUrl: "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://i.insider.com/604f959f87891e0019850d5b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://images.wsj.net/im-312633/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Stor.ai lands $21M to customize your virtual grocery shopping experience"
-    excerpt: "Stor.ai (formerly Self Point), an Israeli startup developing end-to-end eCommerce solutions for grocers, extended its Series A round with an additional $21 million. The investment was led by Meitav Dash and Mizrahi Tefahot, with participation from ..."
-    publishedDateTime: 2021-03-16T14:06:00Z
-    webUrl: "https://www.geektime.com/stor-ai-lands-21m-to-customize-your-virtual-grocery-shopping-experience/"
-    ampWebUrl: "https://www.geektime.com/stor-ai-lands-21m-to-customize-your-virtual-grocery-shopping-experience/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/stor-ai-lands-21m-to-customize-your-virtual-grocery-shopping-experience/amp/"
+  - title: "Viz.ai Raises $71 Million Series C Round Led by Scale Venture Partners and Insight Partners"
+    excerpt: "Viz.ai today announced that it has raised $71 million in Series C funding, led by Scale Venture Partners and Insight Partners with participation from Greenoaks, Kleiner Perkins, Threshold Ventures, CRV,"
+    publishedDateTime: 2021-03-17T12:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-19703821.html"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 36
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "xVKghmfaEOQypBnsTkIW5IsfKRfja+aomS+2PWnTosKJyRFgM2eF10xjxcIJIf8kTQeBx2SaPD9SyFnT98JaW67ho5ZWy4CwuSP0P8/qd9NDIu4xf5uo6hgG6D3f8lPk0Z20cxyVG6x+T0M9IBJzDTC+pL6MEX0p7gul5o/ROZLQjOehUAWJK0TLZSms//pE2t8OY6YI4D4r2Oe8YZWSGd1XRBIJwpN52msyz8LSuChR9OIZgQfI7OaTmPXy9cStCDZ4v+Ajmt7fd9oQAbDjWcfKnS1kyJshgJQVPaHUMsi34oiue6KIA0e4v5D+dLA+9E2D0vZStYC5SZTVWkawoyuoWDbSYtCw9Ib8QrlNuUu3V67ALGpjAJuzTnbwoHoO9F5CaBU11h353fmiQ4TYNcUkArSF/GsHoREr/ocKZRV65Rz37s003rwihge+t5pBrhp2cvg7LUfbPTRAWRYhWZhg/bYlBGMboNpLHCQRnq2o1Er0caR0IiVrxPkre8G5V5+12LIMmOlVtmn1yG025g==;eNLMrdKPUDStbbgJBAAwyQ=="
 ---

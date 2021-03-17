@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222192913.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Zenlytic Raises $1M for its Analytics Platform for E-Commerce Businesses that Streamlines Data Analysis with Machine Learning"
+    excerpt: "Zenlytic, cofounded by Ryan Janssen, is a no-code analytics platform made specifically for the e-commerce industry to unlock valuable insights to drive sales and marketing."
+    publishedDateTime: 2021-03-17T13:07:00Z
+    webUrl: "https://www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/"
+    ampWebUrl: "https://www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 62
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/03/ryan-janssen_zenlytic-300x300.jpg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Israeli startup Noogata looks to replace data-science teams with AI"
     excerpt: "Noogata, an Israeli AI-powered business intelligence startup, secured $12 million in Seed funding on Tuesday. The investment was led by Team8, with Skylake Capital also participating in the round. Noogata developed a platform that allows enterprises to ..."

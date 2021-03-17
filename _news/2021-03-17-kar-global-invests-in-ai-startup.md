@@ -56,6 +56,20 @@ related:
         width: 275
         height: 300
         isCached: true
+  - title: "KAR Global Invests in AI Startup"
+    excerpt: "CARMEL - Carmel-based KAR Global (NYSE: KAR) has made what it is calling a strategic investment in an Israel-based artificial intelligence startup. KAR says its investment led a $15 million Series A round of funding for Ravin AI, which has developed an AI ..."
+    publishedDateTime: 2021-03-16T16:52:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/43507397/kar-global-invests-in-ai-startup"
+    type: article
+    provider:
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
+    quality: 37
+    images:
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/20402352_G.jpeg?lastEditedDate=1613749363000"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "1knfIg9XJTFkVUrDYJrvdhLRvmDY1GZrKFEMP0d9vkV23I3N3j0rSrAnCCNGLZwUK8yi6JIkl3KAQTBmR4krOJGzNFrAz2Aw0ZjkR/Vc4bZp7Ky0fXdk5Gn0iXSOQaxVk8cQdNx3r6TK4d1Ty2eChwYuooMNVVgwKmn43LtXFKN3ojVybqSe+FW6K9I2lL0MctmgYohxBZ1zgt7FlDtM6bc/0E7EM0nbaZsmaNmcwEsgpVCLMagQABHk0EVhOR4DptAFMPW9kmi0LPCVSSpLQteS0Xp/HzVZSRlNW5zvHnNgt1AVPrekudWwAmXcMYuyOs2J6vAQoaW/zYvoiDUKf4RiX21D33THu3x8wloOVMAK4FUNCH4PzLjEorsbFN+rZjPaFxUOWi/fusHymzQedQNGh9VkQQKULTNsuDifFLAQNc3NKbtLQuOnthNqbcaSusli2pUi9iWgfaa7GEyA/cyCey3JMXypgpQrY8P7csd/pXpAy57p2SsHoaUo1HzEXHFs4v8WwxPzFxtlmTSMyA==;UhO7DNqFFiLeaylxFfpViQ=="
 ---

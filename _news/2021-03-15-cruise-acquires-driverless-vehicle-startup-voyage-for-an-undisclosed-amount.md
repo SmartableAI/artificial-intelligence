@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/"
 type: article
 quality: 87
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -197,6 +197,15 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Cruise Automation acquires Voyage to further self-driving car goals"
+    excerpt: "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,"
+    publishedDateTime: 2021-03-17T12:21:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16471/cruise-automation-acquires-voyage-to-further-self-driving-car-goals"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "Z69F3zWm8WZIRuyK9DhuSG4ve3Gw2JOMLA7VgLFnoXpGMlC41HWLNpg3Nle4A/6ewFCvqVWNvNr803UIS1E0gv2rB8lOmzjGyBT1pmofju99+WciMXn4YZI7V2Faeoupu0ltCtfeVGw3mBJkY5d3jzp1rCr9dqvT2JotstjvZzhosYNsOVXUhMdoopMSqfmYa20o0DFZ7j8xyY6JIoMBDmVdFWXQKCagygHdQOjU5iYO6NhbWUbYlURj4g5GUJmM23h6LJLs8ax3Xc7OYuoEhEpeFAlDcSVE9Wd0sQbWWbjKWQcc2WSOLJMhRW9phHn8IH/s+QBq+k0g/xn1bmhHgLKcWJDlI7adYI+rfpDx2TWPNePOzvzYvvYtZdhTjqlVOU0NeZxlW10YGOBVdvwbQeIwaoiZVyKlCwT0JunbJRi0xAk4kXpDevAnvrb9OEb+CZ12IyEcXKhkE65yAKL2z2jQUq/nWmA4trxmofXvTB8ZBTbQafRJzAinMRK7SDhjjL4mIW8Y4WkCkzE2ymluEA==;lQyIou9W2669pFUDP/QkqQ=="
 ---

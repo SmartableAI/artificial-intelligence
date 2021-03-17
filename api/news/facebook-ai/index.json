@@ -107,6 +107,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-14-facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms.md",
+      "title": "Facebook will use your uploaded videos to improve its AI algorithms",
+      "excerpt": "The company said it would help improve both its moderation efforts and recommendation engines for video.In its blog post, Facebook said the algorithms will learn 'themes' from the videos users watch a",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms-11615727765901.html",
+      "originalUrl": "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms-11615727765901.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/03/14/600x338/4ee21dd9f024465c9886ff7b88ee0679-4ee21dd9f024465c9886ff7b88ee0679-0_1615727938422_1615728025114.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html",
+      "publishedDateTime": "2021-03-14T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness.md",
       "title": "AI Weekly: Facebook, Google, and the tension between profits and fairness",
       "excerpt": "Learn more. This week, we learned a lot more about the inner workings of AI fairness and ethics operations at Facebook and Google and how things have gone wrong. On Monday, a Google employee group ...",
@@ -1467,58 +1510,6 @@
         "AI",
         "Facebook AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc.md",
-      "title": "Wearable Artificial Intelligence Ai Market 2020 Growth and Forecast Survey Till 2027 | By ARC",
-      "excerpt": "The global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. The Wearable Artificial Intelligence Ai Market is highly competitive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

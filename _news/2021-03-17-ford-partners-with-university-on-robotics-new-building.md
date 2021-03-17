@@ -106,6 +106,15 @@ related:
       name: TribLIVE.com
       domain: triblive.com
     quality: 31
+  - title: "Ford to open robot factory on the University of Michigan campus"
+    excerpt: "Ford Motor Company will help to build a robot factory on the University of Michigan (UM) campus to test, design and develop new robots for a variety of markets. The Ford Motor Company Robotics Building is a four-story,"
+    publishedDateTime: 2021-03-17T12:27:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16472/ford-to-open-robot-factory-on-the-university-of-michigan-campus"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
   - title: "U-M, Ford open world-class robotics complex to accelerate future of advanced, more equitable robotics and mobility"
     excerpt: "University of Michigan’s $75 million, 134,000 square-foot Ford Robotics Building opens as a world-class, advanced robotics facility and first to co-locate an industry team - adding Ford’s mobility res"
     publishedDateTime: 2021-03-16T15:23:00Z

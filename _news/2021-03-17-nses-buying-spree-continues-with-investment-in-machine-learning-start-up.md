@@ -43,14 +43,19 @@ related:
         height: 630
         isCached: true
   - title: "NSE Data invests in tech start-up Capital Quant Solutions"
-    excerpt: "The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced investment in technology start-up Capital Quants"
-    publishedDateTime: 2021-03-17T11:00:00Z
-    webUrl: "https://www.canindia.com/nse-data-invests-in-tech-start-up-capital-quant-solutions-3/"
+    excerpt: "NSE Data invests in tech start-up Capital Quant Solutions - The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced"
+    publishedDateTime: 2021-03-17T12:57:00Z
+    webUrl: "https://www.siliconindia.com/news/business/nse-data-invests-in-tech-startup-capital-quant-solutions-nid-215579-cid-3.html"
     type: article
     provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 4
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 24
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/4t02i7e9.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "openSAP Celebrates 5 Million Course Enrollments, Continues to Provide Learners with Innovative Learning Resources"
     excerpt: "While the platform continues to provide new courses on the latest topics and innovations, such as SAP S/4HANA ®, SAP Business Technology Platform, intelligent integration, digital transformation and machine learning, older courses are still relevant and ..."
     publishedDateTime: 2021-03-15T15:00:00Z

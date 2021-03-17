@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/companies/news/facebook-will-use-your-uploa
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Weekly: Facebook, Google, and the tension between profits and fairness"
-    excerpt: "Learn more. This week, we learned a lot more about the inner workings of AI fairness and ethics operations at Facebook and Google and how things have gone wrong. On Monday, a Google employee group ..."
-    publishedDateTime: 2021-03-12T20:17:00Z
-    webUrl: "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/"
-    ampWebUrl: "https://venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/12/ai-weekly-facebook-google-and-the-tension-between-profits-and-fairness/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 90
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Facebook will train its AI by using public videos"
-    excerpt: "The social network says the project, called Learning from Videos, will \"help us continuously improve our core AI systems for applications like content recommendation and policy enforcement.\" It'll also enable new applications, the company added. \""
-    publishedDateTime: 2021-03-12T21:41:00Z
-    webUrl: "https://www.cnet.com/news/facebook-will-train-its-ai-by-using-public-videos/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-will-train-its-ai-by-using-public-videos/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-will-train-its-ai-by-using-public-videos/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/qQr3vJP8lfNUUjdSYnsCkPjpyRo=/1200x630/2021/02/09/3b350071-97a3-4d7b-ab0c-accf39ebbd3c/facebook-app-logo-social-media-2589.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facebook’s computer vision system supervises its own learning process"
     excerpt: "Facebook AI researchers wrote in a blog that they have developed SEER (SElf-supERvised). This is one-of-a-kind billion-parameter self-supervised computer vision model. This model has all the potential to learn from any random group of images on the internet."
     publishedDateTime: 2021-03-13T17:53:00Z

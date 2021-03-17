@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2025"
-    excerpt: "Competitive Landscape and Machine Learning as a Service Market Share Analysis: Machine Learning as a Service Market to reach USD 16.13 billion by 2025. Machine Learning as a Service Market valued approximately USD 0."
-    publishedDateTime: 2021-03-12T20:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-size-historical-growth-analysis-opportunities-and-forecast-to-2025-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market Size, Share, Growth 2021 to 2024, Forecast by Manufacturers, Regions, Global Type and Application"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 11, 2021 (The Expresswire) -- Natural Language Processing Market 2021 report tells about the production process, raw materials and equipment suppliers, various production ..."
     publishedDateTime: 2021-03-12T23:12:00Z
