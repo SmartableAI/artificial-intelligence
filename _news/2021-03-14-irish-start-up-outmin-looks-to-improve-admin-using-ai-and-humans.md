@@ -40,36 +40,6 @@ related:
         width: 270
         height: 293
         isCached: true
-  - title: "Quantum Computing and Reinforcement Learning Are Joining Forces to Make Faster AI"
-    excerpt: "Although only challenged with a “toy problem” in the study, once scaled the AI could impact real-world problems like building an efficient quantum internet."
-    publishedDateTime: 2021-03-16T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/"
-    ampWebUrl: "https://singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 54
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/01/abstract-4626114_1280-AI.jpg"
-        width: 1068
-        height: 601
-        isCached: true
-  - title: "AI for Health grantees making an impact"
-    excerpt: "Learn how our grantees and partners are addressing global health challenges with AI for Health resources and grants. We are mobilizing our efforts to support organizations responding to COVID-19 with projects for shared research,"
-    publishedDateTime: 2021-03-16T07:52:00Z
-    webUrl: "https://www.microsoft.com/en-US/ai/ai-for-health-projects"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWyvoC?ver=3bda&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true"
-        width: 1600
-        height: 600
-        isCached: true
 
 secured: "EDVEqLJ1Tgwmt3n5asIHn+IKBpQnig5wsHThzFJCkF+a3x14X2O7fYADgeZQUuP+Kd+0BHbSDUalsQX0gxWoVxIjPzo06/yOMM5vk75vOofkyk0gCzYZDa17UtAlqDmosXMz0qidotYkV/fkNs2jUqTS5quVp4eC5FY21qygMbAcsLtN/kT2Vnu3WGobBFzuK2vcmC0fe+1HN9uAweNQrCrB0FDdYUOycNLTG2I5YnWHLItXRXrn3DF6FxF+bNPrjwyEVU2hUu+GZ29o2d2KDLNfw68/6RoxLb47O4YO2Qfg5SP4tNIysp9UtdoiAmG1EOwP/TlKYbef/xQYFfA5ktcUexCZWe6500rjj1NoQHXYkGI2h0KeDSydiyLJ8frygFbSF0wP8cacQGDP63X3vefbj9tW2H1dTZss9joduz6TMKFhYrvHWuf8xf4bxAiPRUhPOyYHCq9esImBEP+NLKpuRSGvkIc3RFBschHYfCmfexXKdg859EU4NQ/ar7NU+d0dpzrpcYOG0PWg7AbYxQ==;OS78jcb8X03xg3cx4zWshw=="
 ---

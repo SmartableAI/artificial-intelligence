@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The AI that argues back"
-excerpt: "Listen to the latest science news, with Nick Petrić Howe and Shamini Bundell. Your browser does not support the audio element. After thousands of years of human practise, it’s still not clear what makes a good argument. Despite this, researchers have ..."
-publishedDateTime: 2021-03-17T16:17:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-00720-w?error=cookies_not_supported&code=5e7ea04c-945a-41c6-8e36-b247e96ed3ea"
-webUrl: "https://www.nature.com/articles/d41586-021-00720-w?error=cookies_not_supported&code=5e7ea04c-945a-41c6-8e36-b247e96ed3ea"
+excerpt: "AI Debater. After thousands of years of human practise, it’s still not clear what makes a good argument. Despite this, researchers have been developing co"
+publishedDateTime: 2021-03-17T16:18:00Z
+originalUrl: "https://www.nature.com/articles/d41586-021-00720-w"
+webUrl: "https://www.nature.com/articles/d41586-021-00720-w"
 type: article
 quality: 37
 heat: -1
@@ -38,23 +38,7 @@ related:
         width: 1050
         height: 591
         isCached: true
-  - title: "Shaping the Future of Technology through AI And Cloud Computing"
-    excerpt: "The future of the world is uncertain and not predetermined. The fact that the world is propelled by modern inventions, which did not exist a few decades ago, is a testimony to this uncertainty. However,"
-    publishedDateTime: 2021-03-16T18:56:00Z
-    webUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/"
-    ampWebUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
-    cdnAmpWebUrl: "https://www-thelondoneconomic-com.cdn.ampproject.org/c/s/www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
-    type: article
-    provider:
-      name: thelondoneconomic.com
-      domain: thelondoneconomic.com
-    quality: 59
-    images:
-      - url: "https://storage.googleapis.com/cdn.thelondoneconomic.com/wp-content/uploads/2021/03/0ca8364c-krishna-c.-mukherjee-scaled-e1615921249281.jpg"
-        width: 800
-        height: 1200
-        isCached: true
 
-secured: "aPg6+qV7E9RxA/MNH02xfvkUtuce7FlJMo3A+cPaNaJE1Yjvd9P8/MVWWtwSTQi/uha7CR3rX4mwb02VRP/L9442U18stdEsvR/g+87mncSjeasN7G18vL+XSd1wUGZuW0Znle7aWd1+ziCyzWuCKrIRBfs4nMDCTJIMOy94kr0kuBZ7HGCabuXIz2EW7V++4hlij9AMoYIQmApaEY+m5E1GXWJdo3JAVu8PWadgzXOfy5hOTls/1mPOWItZE+JFKpajO4zYDXCKbDYXEQO3Qa7Io6yO2GICnchaY91GkSpQvHno6m/TfOvDm3Ia6Pe2jT598kBp/S2kuBStyadJtkyz2tYGJVlUJf2EDpVL6lc=;cPyX2vgtuwK12XPJpRQoiA=="
+secured: "fXFX+1hOB4FvP7/6GAyS/43rJDGV+Up8a0cT0+GgKEEZnHebpDzfU/RVM8d8615cuwV1hG72uFbOHYTDJHfbHyrPAxnO8TpYTzAIaBtvVBf38sTnEkuovx+zaOFn3FtH5sjXRYRj2rebMla0VgEff4Qq+FOqY8xWgX7tAvb/P77I1wQxFGyWt9OKEiM9wiA/v/5hWrbDsCgf4RqsYOA4qztk7ppgpbkCa4xSac8UdyjOpIB5KtUHCEecAp+hwtIvzxicG1Oa99f9xkP8oO58lxSmUxh78XLWozXA45LVJgk5lujpIWkna5DTOdJiuPgOn9xUwB3FuVECDsP0Tfpo/pcRTMYvGGBYd4QR4iExhZc=;XbeQ3LTVECH2ZMAhhThgbw=="
 ---
 

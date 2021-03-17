@@ -27,33 +27,62 @@ images:
     isCached: true
 
 related:
-  - title: "Careful With That Axe, Sales Team: AI And The Future Of Forecasting"
-    excerpt: "Opinion-based forecasts have low predictability and accuracy, are prone to bias and manipulation and yield limited value to the B2B organizations that adopt them. Fortunately, artificial intelligence is infusing and enhancing B2B sales forecasting."
-    publishedDateTime: 2021-03-17T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting/"
+  - title: "The key to making AI green is quantum computing"
+    excerpt: "We’ve painted ourselves into another corner with artificial intelligence. We’re finally starting to breakthrough the usefulness barrier but we’re butting up against the limits of our our ability to responsibly meet our machines’ massive energy requirements."
+    publishedDateTime: 2021-03-17T19:41:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60512df244ca69711fa5fc51%2F0x0.png%3FcropX1%3D0%26cropX2%3D1050%26cropY1%3D121%26cropY2%3D712"
-        width: 1050
-        height: 591
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/quantum_generic-796x417.jpg"
+        width: 796
+        height: 417
         isCached: true
-  - title: "The AI that argues back"
-    excerpt: "Listen to the latest science news, with Nick Petrić Howe and Shamini Bundell. Your browser does not support the audio element. After thousands of years of human practise, it’s still not clear what makes a good argument. Despite this, researchers have ..."
-    publishedDateTime: 2021-03-17T16:17:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-00720-w?error=cookies_not_supported&code=5e7ea04c-945a-41c6-8e36-b247e96ed3ea"
+  - title: "Using Artificial Intelligence to Save Coral Reefs"
+    excerpt: "Coral reefs are natural protectors for coastlines against storms and erosion. Healthy coral can help prevent loss of life and property from waves, floods and storms by absorbing 97% of the energy. Tropical coral reefs cover a mere 0."
+    publishedDateTime: 2021-03-17T19:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17"
+    ampWebUrl: "https://www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17?amp"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "Quantum Computing and Reinforcement Learning Are Joining Forces to Make Faster AI"
+    excerpt: "Although only challenged with a “toy problem” in the study, once scaled the AI could impact real-world problems like building an efficient quantum internet."
+    publishedDateTime: 2021-03-16T14:00:00Z
+    webUrl: "https://singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/"
+    ampWebUrl: "https://singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/amp/"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 54
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00720-w/d41586-021-00720-w_18974300.jpg"
-        width: 1024
-        height: 576
+      - url: "https://singularityhub.com/wp-content/uploads/2021/01/abstract-4626114_1280-AI.jpg"
+        width: 1068
+        height: 601
+        isCached: true
+  - title: "AI for Health grantees making an impact"
+    excerpt: "Learn how our grantees and partners are addressing global health challenges with AI for Health resources and grants. We are mobilizing our efforts to support organizations responding to COVID-19 with projects for shared research,"
+    publishedDateTime: 2021-03-16T07:52:00Z
+    webUrl: "https://www.microsoft.com/en-US/ai/ai-for-health-projects"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWyvoC?ver=3bda&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true"
+        width: 1600
+        height: 600
         isCached: true
 
 secured: "IadS3L/BA+5aH19LPR4zECRyHuDwj5VzL43ODkU+o2DNXwosp3W+MHIbc8pBiF6JTGf3smuAq+xebRnfOTBGMLUhYCH7ggPbqhu3GdwKdk6jjuvp0ZSV5UbtUACOXwo3CCHMziOd6WY3p44wII2+W1/F6Qnn6Avo8CDMI/Cz0WhzVjWGHcJKCYk36R7ZN47/5PgbCBeFvaz4CKXBiHujZYmWn7in7CELn9ea49sH9ehkEz7udL+JAoChI4kA99sQ9KthjVqSms0OaKMxTr2ii63XzGAEps4/Jg3Fvucmr7d6tC5+FGT/xxbsDphINInC8CJ6YlBhx/ZW5fr/cNo3A3TEl5DVxymfQliXrqZn2uo=;rAJ/13Pc2l7t6l+Na2LLZw=="

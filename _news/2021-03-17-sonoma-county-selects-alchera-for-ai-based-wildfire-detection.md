@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Sonoma County Selects Alchera for AI-Based Wildfire Detection"
-excerpt: "Korea's leading visual recognition AI firm, Alchera Inc. (Kosdaq:347860), today announced that has been formally selected by California's Sonoma County to provide"
-publishedDateTime: 2021-03-17T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sonoma-county-selects-alchera-for-ai-based-wildfire-detection/article_02533113-5c18-5b7e-a772-26101de51a59.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sonoma-county-selects-alchera-for-ai-based-wildfire-detection/article_02533113-5c18-5b7e-a772-26101de51a59.html"
+excerpt: "SEOUL, South Korea, March 17, 2021 /PRNewswire/ -- Korea’s leading visual recognition AI firm, Alchera Inc. (Kosdaq:347860), today announced that has been formally selected by California’s Sonoma County to provide early warning alerts of pending ..."
+publishedDateTime: 2021-03-17T13:16:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-wildfires-north-america-south-korea-asia-15257cc53137a0c25d91c051d56803a8"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-wildfires-north-america-south-korea-asia-15257cc53137a0c25d91c051d56803a8"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/ef/4ef2b2b2-d3ce-5ea4-ab81-905803b8b52e/6052243fcfb66.image.jpg?resize=624%2C346"
-    width: 624
-    height: 346
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "Nmhz3PlPAAoHw9CplId24ANZERNWK9JC01GTtf8aDFCeHYwUMfmWdYFsqt3iXrMPzyt4536Dn7t67LPYvVC/qildTZFjKRxYYcLINGTghDWZ+P3MJ8PIW0U8xlYqRS9Cy8bC8AkTATZjn4hdRKP/hP+eRhRaAayDhxGC7o+cCNWxsnHGCTooiRJ5qJLlVidSwddQJiuClZVW5nEFi/xfSlCkAv7hHfI0s99RVt9K4Ko+y6Y+GN8jPF7m30ectCQDEE6dfqIbkAfovKtGQncCwwpD1m+Ty7BFVan//g/jmMLCiM6e4kyP2S5nRGDTc4BMV2wfIM6RHVyRYB72rqzrdf4UDM/vuHdI5nN9YJymHxA=;8QdPUl25LqBmiAitNrTCIA=="
+secured: "s9fwDh6Zv++YNDAFaKkT9Efa3/48HvPpqU9EJt7h92p9RrS/LWYvw+0uqghmKtSLsZVzeEjNrWhNppxpnJaMtrbTlBUzW73xLBtk1QVrvGSSNgpkXlD69f6xNx/id+hFUaSEHYtavaoAQOK05zNh6NVy5lDNnbp4qnRiotbHghiDq83tPeQxmwCf+r5pGUyiFeRj/uy8tHYoPVUexzOagLXXZjMC6mPot+bDmRwIxObCy8q5zNBFxddnSHpm+mRKOWydK1tQhPy8nHRdg1+OvFTdv6hT47N596rtEEW/335dd2c1lHZPkKX/lgryrdIDhVKumF/+HCdAba5h8dL8woob5RKnsjVhPFEHixxnnXk=;Q/z7wM1Os2rPUN0dX612tg=="
 ---
 

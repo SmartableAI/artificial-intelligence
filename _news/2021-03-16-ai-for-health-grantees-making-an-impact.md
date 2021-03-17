@@ -29,21 +29,48 @@ images:
     isCached: true
 
 related:
-  - title: "Using Artificial Intelligence to Improve Healthcare for All"
-    excerpt: "He is also a pioneering figure in artificial intelligence (AI) research. Sapiro wields his expertise in AI to solve societal problems, particularly those related to health and health care. In the Parkinson’s project, Sapiro uses a technique called ..."
-    publishedDateTime: 2021-03-15T13:29:00Z
-    webUrl: "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/"
-    ampWebUrl: "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/"
+  - title: "The key to making AI green is quantum computing"
+    excerpt: "We’ve painted ourselves into another corner with artificial intelligence. We’re finally starting to breakthrough the usefulness barrier but we’re butting up against the limits of our our ability to responsibly meet our machines’ massive energy requirements."
+    publishedDateTime: 2021-03-17T19:41:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
     type: article
     provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 74
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
     images:
-      - url: "https://i0.wp.com/scienceblog.com/wp-content/uploads/2021/03/DST_Computing_AIHealth_Electrodes.png?fit=270%2C293&#038;ssl=1"
-        width: 270
-        height: 293
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/quantum_generic-796x417.jpg"
+        width: 796
+        height: 417
+        isCached: true
+  - title: "Using Artificial Intelligence to Save Coral Reefs"
+    excerpt: "Coral reefs are natural protectors for coastlines against storms and erosion. Healthy coral can help prevent loss of life and property from waves, floods and storms by absorbing 97% of the energy. Tropical coral reefs cover a mere 0."
+    publishedDateTime: 2021-03-17T19:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17"
+    ampWebUrl: "https://www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "Shaping the Future of Technology through AI And Cloud Computing"
+    excerpt: "The future of the world is uncertain and not predetermined. The fact that the world is propelled by modern inventions, which did not exist a few decades ago, is a testimony to this uncertainty. However,"
+    publishedDateTime: 2021-03-16T18:56:00Z
+    webUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/"
+    ampWebUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
+    cdnAmpWebUrl: "https://www-thelondoneconomic-com.cdn.ampproject.org/c/s/www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
+    type: article
+    provider:
+      name: thelondoneconomic.com
+      domain: thelondoneconomic.com
+    quality: 59
+    images:
+      - url: "https://storage.googleapis.com/cdn.thelondoneconomic.com/wp-content/uploads/2021/03/0ca8364c-krishna-c.-mukherjee-scaled-e1615921249281.jpg"
+        width: 800
+        height: 1200
         isCached: true
   - title: "Quantum Computing and Reinforcement Learning Are Joining Forces to Make Faster AI"
     excerpt: "Although only challenged with a “toy problem” in the study, once scaled the AI could impact real-world problems like building an efficient quantum internet."
@@ -60,20 +87,6 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2021/01/abstract-4626114_1280-AI.jpg"
         width: 1068
         height: 601
-        isCached: true
-  - title: "Irish start-up Outmin looks to improve admin using AI and humans"
-    excerpt: "Outmin, a start-up set up by Irish tech veterans Ross Hunt and David Kelleher, has emerged from stealth and is already snapping up clients both locally and outside of Ireland. Founded and quietly launched during the coronavirus pandemic, Outmin claims to ..."
-    publishedDateTime: 2021-03-14T16:00:00Z
-    webUrl: "https://www.irishtimes.com/business/technology/irish-start-up-outmin-looks-to-improve-admin-using-ai-and-humans-1.4509950"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4509948&origw=1440"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "doFHC0obDJ+9Kxa5Mmnf1q0xxbRR0lou2yQqosGQ3DV9DHMa+Q4FXHOZlOUlojLP+zzTkvxMObSqiqg2/fOvsRNLz2t6539EGF03zH50ETFTS3njmrrA5H+jVN0MYD+iSSdnMT0xaCQs1LcJO6XwYZ2uX+dSfOCoDhcxq6Z55QxLFssSd3uboi9Gd1+9vInBQBFuiNev8YB2FNk+CdLVrY+Qjjto4eNPbE1thhAVUGWbIk9qbHtFQT4D0IHUkaEOnBUyzOhFbnJibVneXdQ9KYIYROiMW0q43gARqb7/VAuU14JXDmdfnKA/e/1/4ZtXFhkR/DKKzAYcROrD/KJdxC72ciixFJQ/grvQVV7vang=;ECoZh+yyVGOfGSmy6hpsYg=="

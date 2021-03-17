@@ -7,7 +7,7 @@ originalUrl: "https://www.thehindu.com/opinion/lead/responsible-ai-the-need-for-
 webUrl: "https://www.thehindu.com/opinion/lead/responsible-ai-the-need-for-ethical-guard-rails/article34086236.ece"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Center for Socially Responsible AI announces inaugural seed funding awards"
-    excerpt: "The funds support five early-stage research projects that consider the ethical and social implications of artificial intelligence.Image: Adobe"
-    publishedDateTime: 2021-03-17T14:06:00Z
-    webUrl: "https://www.miragenews.com/center-for-socially-responsible-ai-announces-529847/"
+  - title: "Responsible AI in health care starts at the top — but it’s everyone’s responsibility (VB Live)"
+    excerpt: "In this VB live eent, learn how health care stakeholders can use AI responsibly, ethically, and equitably to ensure all populations benefit."
+    publishedDateTime: 2021-03-17T19:43:00Z
+    webUrl: "https://venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/"
+    ampWebUrl: "https://venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/amp/"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 77
     images:
-      - url: "https://www.iata.org/globalassets/iata/pressroom/generic-images/agm.jpg"
-        width: 517
-        height: 340
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/business-meeting.GettyImages-607477465.jpg?w=1200&strip=all"
+        width: 1200
+        height: 685
+        isCached: true
+  - title: "Artificial intelligence and algorithmic irresponsibility: the devil in the machine?"
+    excerpt: "In our research, we see parallels between this and the role of artificial intelligence (AI) in the 21st century. Why? AI tempts people to abandon judgment and moral responsibility in just the same ..."
+    publishedDateTime: 2021-03-16T18:22:00Z
+    webUrl: "https://theconversation.com/artificial-intelligence-and-algorithmic-irresponsibility-the-devil-in-the-machine-157128"
+    ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-and-algorithmic-irresponsibility-the-devil-in-the-machine-157128"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-and-algorithmic-irresponsibility-the-devil-in-the-machine-157128"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 51
+    images:
+      - url: "https://images.theconversation.com/files/389548/original/file-20210315-17-jupa75.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=212&fit=crop"
+        width: 320
+        height: 212
         isCached: true
 
 secured: "R4fAq9SrIDHrx9N+d4Pq2qvAtteTTXdTdcyT/8tcgWBdiSSlIkJqyolAb4VKE/ni9FVKcwDOUTEGkCSx7tv1FUamtI8bEBq9kxJVt3V/T5HRoaAnemnfVrZ4lxmgoJIkwJmc3rgGjHzQAv+cQQzwOEaKggNjK0WvD0HG8hFYXp04BLNpNPMb3ZV7iWxGaKf3L59ltFiXYVRhQXA5OXtjb7JRhTB1T5T/0FhIt0SccP1zWvbmSqWmlUus+xvnrLHz5aWtahob/K7Y4kUbPNEh2likLxNfZBhcPmRMAYl6s58u8KAydTbZLzHJ9CXlMK2TG6/ZyKA3tr16hMSU2utRt3Bey+3pCegbP/IH2d10edg=;x0FeVONbmd3orxbhldekPA=="

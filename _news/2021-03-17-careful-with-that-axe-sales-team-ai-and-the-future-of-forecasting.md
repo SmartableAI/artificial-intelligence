@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-tha
 webUrl: "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -29,26 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Shaping the Future of Technology through AI And Cloud Computing"
-    excerpt: "The future of the world is uncertain and not predetermined. The fact that the world is propelled by modern inventions, which did not exist a few decades ago, is a testimony to this uncertainty. However,"
-    publishedDateTime: 2021-03-16T18:56:00Z
-    webUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/"
-    ampWebUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
-    cdnAmpWebUrl: "https://www-thelondoneconomic-com.cdn.ampproject.org/c/s/www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
-    type: article
-    provider:
-      name: thelondoneconomic.com
-      domain: thelondoneconomic.com
-    quality: 59
-    images:
-      - url: "https://storage.googleapis.com/cdn.thelondoneconomic.com/wp-content/uploads/2021/03/0ca8364c-krishna-c.-mukherjee-scaled-e1615921249281.jpg"
-        width: 800
-        height: 1200
-        isCached: true
   - title: "The AI that argues back"
-    excerpt: "Listen to the latest science news, with Nick Petrić Howe and Shamini Bundell. Your browser does not support the audio element. After thousands of years of human practise, it’s still not clear what makes a good argument. Despite this, researchers have ..."
-    publishedDateTime: 2021-03-17T16:17:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-00720-w?error=cookies_not_supported&code=5e7ea04c-945a-41c6-8e36-b247e96ed3ea"
+    excerpt: "AI Debater. After thousands of years of human practise, it’s still not clear what makes a good argument. Despite this, researchers have been developing co"
+    publishedDateTime: 2021-03-17T16:18:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-00720-w"
     type: article
     provider:
       name: Nature
