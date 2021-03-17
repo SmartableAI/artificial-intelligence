@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-16-applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines.md",
+      "title": "Applied Materials brings AI and big data into semiconductor inspection machines",
+      "excerpt": "Applied Materials has launched a new generation of optical semiconductor wafer inspection machines that incorporate AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/",
+      "originalUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/amat-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/",
+      "publishedDateTime": "2021-03-16T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-three-top-ai-trends-to-watch-this-year.md",
       "title": "Three Top AI Trends To Watch This Year",
       "excerpt": "While businesses have started to realize tangible benefits from AI, there are still a number of yet-to-be-proven AI technologies in the early stages of the Gartner Hype Cycle.",
@@ -1211,57 +1263,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-independent-study-finds-ibm-watson-discovery-customers-can-accrue-613m-in-benefits.md",
-      "title": "Independent study finds IBM Watson Discovery customers can accrue $6.13M in benefits",
-      "excerpt": "The impact of natural language processing March 2021 saw the release of a commissioned study conducted by Forrester Consulting on behalf of IBM. The Forrester Total Economic Impact study aims to examine the potential return on investment (ROI) an enterprise may realize when deploying the IBM Watson natural",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/forrester-study-ibm-watson-discovery-6m-benefits/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/forrester-study-ibm-watson-discovery-6m-benefits/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/WD-TEI-animation.gif",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T08:00:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

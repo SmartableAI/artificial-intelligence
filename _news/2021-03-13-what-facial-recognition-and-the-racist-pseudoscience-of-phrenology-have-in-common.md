@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-raci
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 499
         height: 325
         isCached: true
-  - title: "New Facial Recognition Software"
-    excerpt: "Redstone Arsenal announced a new feature at the entrance of Gate 9. New facial recognition software will be reading those who are already registered in the AIE system with a 14 point algorithm, allowing them entry."
-    publishedDateTime: 2021-03-13T00:20:00Z
-    webUrl: "https://whnt.com/video/new-facial-recognition-software/6433352/"
-    type: article
-    provider:
-      name: WHNT
-      domain: whnt.com
-    quality: 19
 
 secured: "Khuf0awUDNijbbokK5YErpi9h/fuKxU2ixro6G58NRNjB7d4c+s90e0F4aOqgPFiZ0FsOWBGNs27qnMdm/gjLYVpsIi0kK/8wnUfRQZsIewAm3CSkNzwFGj38kZm741xdZdIqWKrcKV4cQdXnRVn6Kpg17bIaSmlpPTlgCvdSSL8d+IE9f0Q7+5cKAa7H5cmOgcMw3Y1q6Sl3puGW7jllVyG+IUzvkTB/4ikow8OUc6cDeYdZHtigyflesHdMF+oqcJmc13hCTaeYSNBEdgjU4WD2vs0XbfCQBitsaIPPRJkahvZKozrk1APRknlm9ZOD3yS1G7cAyRSGR7bG1xulA8aYlL9zpN9uO85wNVKFTY=;Gax6zorv0ul/yvh5xJpH+Q=="
 ---

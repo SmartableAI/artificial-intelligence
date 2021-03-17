@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-lea
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/"
 type: article
 quality: 119
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "OctoML raises $28M grow machine learning software used by Qualcomm, Microsoft, AMD"
+    excerpt: "It offers better performance and removes complexity, Ceze said. Amazon’s Sagemaker Neo is also based on Apache TVM, but is restricted to AWS-based deployments. The Octomizer can target any cloud and any edge device. Leadership: Ceze is a UW professor who ..."
+    publishedDateTime: 2021-03-17T06:00:00Z
+    webUrl: "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/"
+    ampWebUrl: "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 132
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/10/ceze-profile-%402x-300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "OctoML raises $28M Series B for its machine learning acceleration platform"
     excerpt: "OctoML, a Seattle-based startup that offers a machine learning acceleration platform build on top of the open-source Apache TVM compiler framework project, today announced that it has raised a $28 million Series B funding round led by Addition Captial."
     publishedDateTime: 2021-03-17T13:00:00Z

@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Next Generation of Oracle Autonomous Data Warehouse Available"
+    excerpt: "Oracle announced a set of innovative enhancements to Oracle Autonomous Data Warehouse, the industry's first and only self-driving"
+    publishedDateTime: 2021-03-17T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/next-generation-of-oracle-autonomous-data-warehouse-available-301248970.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Oracle Autonomous Data Warehouse release brings machine learning to the masses"
     excerpt: "Database giant Oracle Corp. announced a new release of its cloud-based Autonomous Data Warehouse service today, adding new capabilities that analysts say will help democratize machine learning. Overall,"
     publishedDateTime: 2021-03-17T15:00:00Z
@@ -76,6 +90,6 @@ related:
         height: 427
         isCached: true
 
-secured: "qEH4LUMSfTip/FlXjjqNImCrTmdWcjzeaGlQhssGTSal2x3U3L1O4RolXf+l7ecMkQs+RsXtOraAkp7jSq9CWOhkFyX3v9n30HPVVyI3c12rheSdqEOAadMSwQwkF59/oplwG8wF7GLb+ozaoH+kV7Y5O/q3fYsCLRdktmYO4gCJUCSYEQH54LNMO1tE+Bgw84IOd8gPDSmpgWV7/cP2b2kA9wUmEGKo8X5rRrEhTwVJVZe8nKHj+ezcOVjJHqZXgaFzhYTnzrUjbeVF5XE5bM6g62WkDLlWrL0eaOv1WqAMeZ1KtxCrfYL7s3oSkhSgoVfLkJP4P9e/cEb90QzH5pB0QLvzh2JIBSUyIwQIJ4w=;Eedvx5AxhfOHO3PIqr+MLw=="
+secured: "kgEpg8VU+NnDQB5YyF9ftBQH2p30+ihSSlFoD9uaGh6Jaho1Pfz4qSgOOS+ue0kY8X+61qmxs1FdynaPJhCYdAm4ZRuR+aDgSdcq5Qc4BhyCOnmqlogvp3WNedtg/Y5+O+LmMqyUsfgOUUeRC5F+DwXKnT3cINsoX0RrvCsepkIoMGK5U43Ji2mo1T2Pra1QDdqzvzGznXWA9AipaXMFHJwfn5RiLLLDlx4kcKD0ds3MNMYYcEsZysPnPQqkoLY5HzmERATVaa0i1Jz7bJRwje4CSqOKmEH5MSG9kY+d8Jajncju63naCDsvDn93Moh5ykoGSBRZLd/cgeIDdEDfGJMzATTZZc+EQZcUYLUr15Z/rFOmEgw7ysL4Q/kS5ylQDb4GDj7AIp4JLZEwY+XKKxPtmJiIOjgRM87rDAC9qB72mCCa3UdYC7jS92ZN6UMkGNdCZpMv1p17IuSUTdR6kbqGaYuM77e37HiDOsxAFxan7O4IoxrUSU3D8S5XUlq/dpfUhj5AGg8nXxn6577A5g==;iXuBTVnMTZNZOUxx4h1yLg=="
 ---
 

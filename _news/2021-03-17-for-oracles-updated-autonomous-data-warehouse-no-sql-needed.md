@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/for-oracles-updated-autonom
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60510756a5c7dbcc1d3221f9%2F0x0.jpg"
         width: 1022
         height: 464
+        isCached: true
+  - title: "Next Generation of Oracle Autonomous Data Warehouse Available"
+    excerpt: "Oracle announced a set of innovative enhancements to Oracle Autonomous Data Warehouse, the industry's first and only self-driving"
+    publishedDateTime: 2021-03-17T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/next-generation-of-oracle-autonomous-data-warehouse-available-301248970.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
   - title: "Oracle Autonomous Data Warehouse release brings machine learning to the masses"
     excerpt: "Database giant Oracle Corp. announced a new release of its cloud-based Autonomous Data Warehouse service today, adding new capabilities that analysts say will help democratize machine learning. Overall,"

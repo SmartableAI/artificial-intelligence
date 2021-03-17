@@ -40,20 +40,6 @@ related:
         width: 450
         height: 675
         isCached: true
-  - title: "GreenPro AI Accounting Enters into Strategic Collaboration Agreement with iBizzCloud AI-Robotax"
-    excerpt: "GreenPro AI Accounting is targeting 15,000 users of iBizzCloud AI-Robotax ... We also operate venture capital businesses, including business development for start-ups and high growth companies, covering finance, technology, FinTech, and health and wellness."
-    publishedDateTime: 2021-03-13T00:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/greenpro-ai-accounting-enters-into-strategic-collaboration-agreement-with-ibizzcloud-ai-robotax-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "AVHkWbCplXibCg6mUPaHBnLRFNPWXIwtc+Xijglwf3aSv0K8Sw3/xgVfOk4+W+11tqCSglpkOAtNeLVzxU/A9RSWAmnbimzwrLUdJ2L7dSue0ey0+oP7niOE1KUBwZTDF14Kxrq+ynBhfMEGRUpLHCI5goy4NQ3a065MNSYkOZpbV0cXVHW+IktnGSj4qgQTJrSiqWtoZDGnt0iliZG5Om+mykZNwpVarcCvsoThfDDeLjH3v5Wvciew2K/ZOD2h8WM5SulxQ9iCceMfOPaWh7/DB7t20AhFmLfwIBfYxkQadfBZP7d1jvZpExkGC1fUk1rWjJXMLkTDIuYZv21aK2AxCwNJ+zC/fhVRE9An8D42aMkqnEgr/rO4YruSTopa5Ev4C8Gh6OltcTkrSnbARGRGzWeJ4dZSixltKfzYSg/GuAXF3Sae/ZkSnNLbTVjrTry9KP0oeegzqSau+1ztQzzaRodIL+XAUMk7CzSjqvKI3lNJ1O/TryBiBKZAGr7Fsta1H38sYD8MfSUcnTc1ZQ==;W5Aldlu3RTbq6uKsWMjLJQ=="
 ---

@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-17-octoml-raises-28m-grow-machine-learning-software-used-by-qualcomm-microsoft-amd.md",
+      "title": "OctoML raises $28M grow machine learning software used by Qualcomm, Microsoft, AMD",
+      "excerpt": "It offers better performance and removes complexity, Ceze said. Amazon’s Sagemaker Neo is also based on Apache TVM, but is restricted to AWS-based deployments. The Octomizer can target any cloud and any edge device. Leadership: Ceze is a UW professor who ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/",
+      "originalUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/10/ceze-profile-%402x-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/",
+      "publishedDateTime": "2021-03-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
       "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
       "excerpt": "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021.",
@@ -1383,61 +1437,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-us-dominance.md",
-      "title": "National Security Commission on Artificial Intelligence issues report on how to maintain U.S. dominance",
-      "excerpt": "The National Security Commission on AI report makes recommendations ranging from 5G and China to immigration policy and civil rights.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/",
-      "originalUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/NSCAI-final-meeting.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/",
-      "publishedDateTime": "2021-03-01T18:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security",
-        "Facebook AI",
-        "AWS AI"
       ]
     }
   ],

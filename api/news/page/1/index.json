@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -113,7 +113,7 @@
       "originalUrl": "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -196,58 +196,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-octoml-raises-28m-for-machine-learning-deployment-optimization.md",
-      "title": "OctoML raises $28M for machine learning deployment optimization",
-      "excerpt": "OctoML helps businesses accelerate and deploy AI and relies on the open-source technology Apache TVM machine learning compiler framework. The funding will be used for OctoML to continue building ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/",
-      "originalUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/4082218_Octo_ML_flat_side_rgb.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/",
-      "publishedDateTime": "2021-03-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -458,7 +406,7 @@
       "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Proven_Arabia_highlights_commitment_to_AI_and_Robotics_Innovation_with_the_launch_of_Proven_Solution-ZAWYA20210317060133/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -489,6 +437,103 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-octoml-raises-28m-grow-machine-learning-software-used-by-qualcomm-microsoft-amd.md",
+      "title": "OctoML raises $28M grow machine learning software used by Qualcomm, Microsoft, AMD",
+      "excerpt": "It offers better performance and removes complexity, Ceze said. Amazon’s Sagemaker Neo is also based on Apache TVM, but is restricted to AWS-based deployments. The Octomizer can target any cloud and any edge device. Leadership: Ceze is a UW professor who ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/",
+      "originalUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/10/ceze-profile-%402x-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/",
+      "publishedDateTime": "2021-03-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.md",
+      "title": "Self-driving Tesla collides with a Michigan State Police car after failing to move over",
+      "excerpt": "The autopilot function means the car can “steer, accelerate and brake automatically within its lane,” per Tesla’s website. It does not make the vehicle autonomous and requires supervision, per the website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html",
+      "originalUrl": "https://www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZX4FKHNDTZHOBG5HFSEHKQR42M.jpg",
+          "width": 541,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html?outputType=amp",
+      "publishedDateTime": "2021-03-16T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Penn Live",
+        "domain": "pennlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -940,7 +985,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1187,58 +1232,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines.md",
-      "title": "Applied Materials brings AI and big data into semiconductor inspection machines",
-      "excerpt": "Applied Materials has launched a new generation of optical semiconductor wafer inspection machines that incorporate AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/",
-      "originalUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/amat-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/",
-      "publishedDateTime": "2021-03-16T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-tha
 webUrl: "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://storage.googleapis.com/cdn.thelondoneconomic.com/wp-content/uploads/2021/03/0ca8364c-krishna-c.-mukherjee-scaled-e1615921249281.jpg"
         width: 800
         height: 1200
+        isCached: true
+  - title: "The AI that argues back"
+    excerpt: "Listen to the latest science news, with Nick Petrić Howe and Shamini Bundell. Your browser does not support the audio element. After thousands of years of human practise, it’s still not clear what makes a good argument. Despite this, researchers have ..."
+    publishedDateTime: 2021-03-17T16:17:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-00720-w?error=cookies_not_supported&code=5e7ea04c-945a-41c6-8e36-b247e96ed3ea"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00720-w/d41586-021-00720-w_18974300.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "H/yuW0ujnujLg5lULmWmZt2o2V66X90jy0e2Fo/PM3c6RthpItWDlW0MmXA6PyBpCJUqsQtUDaVXYh7mGNZBpXV93YuvvIzjp02+c/4yrLsRiCvSfduyD9zx4qFrmtsOmj5Z/uN4iB05pdWkBWUg4BqnkM6QukVfeFnSEyzGgMwQ3yWWRJLz9PoWNPNSGBflcCT/z+oGb/4jwC/QJWKgKXX4zPwmt/olDFHbzrdD5pPBn22SbAxHIBVJOQzVH8WxAQUytJI+L71qbcAHcMnw9wUn/Ug5CMmaooOM3A3m59xpCTP7gAntX2ur/Nkw4qeFpi4AZ+dtlyGKdWX3YnjvGJUjGy/rhtaMU4Jf1I692aU=;5gpCYNWtIwqXcYJOFNDtfQ=="

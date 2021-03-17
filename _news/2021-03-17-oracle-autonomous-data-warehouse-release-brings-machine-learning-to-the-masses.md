@@ -71,7 +71,21 @@ related:
         width: 1022
         height: 464
         isCached: true
+  - title: "Next Generation of Oracle Autonomous Data Warehouse Available"
+    excerpt: "Oracle announced a set of innovative enhancements to Oracle Autonomous Data Warehouse, the industry's first and only self-driving"
+    publishedDateTime: 2021-03-17T16:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/next-generation-of-oracle-autonomous-data-warehouse-available-301248970.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
-secured: "htYTTUCRiAQQWMc5FDoyudKqHzxLgfjR4Vh/UtQ3cSwCa22tWBfieK6f2qsg9ENAWl/vELOytt8pPHESEyzse/SRTVuUkjwrP9NeMl9aVggguKTrQ3ehC5ZssY+gj/alTVYi6umSxXE10N9n7xU+Ejtcgt9Hl1xn6x6wRnCDKQ+0b+50IAbbAKdtSQgpiJu3uU7tcaDd5otdLhioVWTmlEsfQF6x+zNypT/iNzZiltA+IMBuSvT620MEd5s08wc1qlOy7dadFZAeeFj/Ek4q3CdnDXrWJC+8REXprzfIhaQ3QDpRhdEP5YDoWJQAuqS6teIzShL93aje7Cgn1MbX/QpdER/lV1UsemBf4J/aaFI=;iqf5mKMePMderBt1zR/jgw=="
+secured: "lZIQ/s5aqUnnKv7+3WOrABvW3Vt5lAnZswu//S6MEDHI/QOwqw9wU+FOljPeHCQufp056ASj/t+s6UIlDLbUJqyMgalukALlMUf8YgtR8XdYsHRdgzdAnGriRRxuVRQVzoLdnDSmizuOUA7La1Jdry8LZtlPyEIhjxyIbH8+GiWve8FJ04VXzPWKWuu1+j7k+g+Cnu7IkGnhiLiJTJcCXXOIFumWtytqLCdCmXpZRGBDXq+ZceVeGQEEmAx2sqiiOn0z8egGzbix1RNJwpWcRKsskRgVAuR1IOI/iZmhshDtM8eB+j7cnq9cY5aobuzvgjYXAIbadmKLOD6sp2RKIKuHMsqrgbCQHurWXrlBjKFPCkG6kcuKsjXhLYpZyGHd38Hg1cW0gwbxMK6L3T0FVpu2tqs1HuN7slbfll8EpZG/MCbudvj4/Lc4kMnKYmYYBV8DYwvOxjGbD80/ovUHb9IOcUT2SkbyoaY5DReOKLBCGno3Z36bdE/OtlFN3P4nEG5a8p34Pe5TuQbhxbYctw==;PKwohk669RTJGa+27r4VNA=="
 ---
 

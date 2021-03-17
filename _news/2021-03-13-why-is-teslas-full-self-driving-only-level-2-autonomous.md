@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-fu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/04/05/694940094001_6022995402001_6022987735001-vs.jpg"
         width: 1279
         height: 720
-        isCached: true
-  - title: "Tesla removed drivers who weren’t paying attention from Full Self-Driving beta as it expands"
-    excerpt: "Elon Musk says that has Tesla removed from the Full Self-Driving Beta drivers who they determined weren’t paying enough attention. The automaker also expanded the beta to now a total of roughly ..."
-    publishedDateTime: 2021-03-13T01:11:00Z
-    webUrl: "https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/"
-    ampWebUrl: "https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Watch Tesla Full Self-Driving Beta Work Wonders In A Slew Of Edge Cases"
     excerpt: "As we've reported in the past, Tesla's FSD Beta is capable of drives with zero interventions. However, it's not consistent enough to do it every time."

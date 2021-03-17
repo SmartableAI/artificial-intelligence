@@ -3,8 +3,8 @@ category: news
 title: "Opera hires PayPal and WeChat Pay veteran Allen Hu as new EVP of its fintech arm, Dify"
 excerpt: "PRNewswire/ -- (NASDAQ: OPRA), one of the world's major browser providers with 380 million monthly active users globally, today announced it has hired"
 publishedDateTime: 2021-03-16T09:09:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/opera-hires-paypal-and-wechat-pay-veteran-allen-hu-as-new-evp-of-its-fintech/article_6b3ef053-f523-5226-8afc-c91fd660a5b6.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/opera-hires-paypal-and-wechat-pay-veteran-allen-hu-as-new-evp-of-its-fintech/article_6b3ef053-f523-5226-8afc-c91fd660a5b6.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/opera-hires-paypal-and-wechat-pay-veteran-allen-hu-as-new-evp-of-its-fintech/article_6b3ef053-f523-5226-8afc-c91fd660a5b6.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/opera-hires-paypal-and-wechat-pay-veteran-allen-hu-as-new-evp-of-its-fintech/article_6b3ef053-f523-5226-8afc-c91fd660a5b6.html"
 type: article
 quality: 16
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/28/428990a1-538c-541b-b124-1be2ffcb56de/6050b9241925c.image.jpg?resize=1200%2C439"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/28/428990a1-538c-541b-b124-1be2ffcb56de/6051dd0c86ad5.image.jpg?resize=1200%2C439"
     width: 1200
     height: 439
     isCached: true
@@ -201,6 +201,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "hIxIpMz0iCKqxkTpfHNX9Kyr13kkJ+ypOmifqazxjgtCMpk1Sh8EmeLrxTEN3jrrTpmpzEjbTL3RVhLnyDqGMNrkpApQcmBe2Gul3fC8wUXnkDvrEXf6xjrXJPiELQH/46gnzYx9K8WtvAfjqDi+9YlUWtff4u8tbEipe6QjMqQjSatMqV0+5T0JBbuQAw5u45a6x2Zs/PRg3o0Xjlql6DKV8U70zzBXKqL/GdDVSyNeQc+1IOKitApUxlW1GDpPg7WbMPcGwkH/5yvQKV9DR3H2z2xVBaodFNsW/Erm20TokyLO0BPEJHWEbm8PSvpjGfpLK84TIHncstm8yQS7ogBI+1stgU1H2pP3X3bsndgyTbYM9d1bt/vzIgbWMd5RFcvmo4LuLeiMDUnZTHhupk0Y1DkU3tjA84C3ECl7pJYl4HPtoaoiq6tqb7V7TzIGprlqcAJAASXyub4aFFDJuh5BQrGqmFXf6Zfm6Up/a6TmY+Pb3W/+s3xO66j55UMCdNux26Ty2Y1Bc/aI+GZHFw==;gBhuue/gAoMNmQiNruJQBA=="
+secured: "y22OpSNb6dlf/9uo9mTy1OLurXNw8FtV1k0zZyDdZ3Qvn6JN3GAmmKCZzt0+cnQoW8vZt8Sz3Oh6qGJhC1rsnjeFVwvsFC2YIz/9cLJ9m5ZcGmRoe06gnsoOGdkLGI3aLXUx368CTwyVL9oxzqze47ocbhhXvAIV0Dx9DVOGs5pFRczhgpbftr9RsdT3966ngL4Z4/TUtJ/mYRK58c1uPtSzpq0NdPmvbVKmnsBobqlcdHPpYTBXvzmJ9Maf67JTNGtbrMoTjODoLNRkAgFDglMVJd36TgTHTlOlYJmz+6UkMr36AqsRw8J2YveCaoeyR9jyT3wBdKVkN/O3ZlxIaFAq5AST6yolcUfHWtlR2FI=;dMCnL9yqkbvLfz+rQd3pwg=="
 ---
 

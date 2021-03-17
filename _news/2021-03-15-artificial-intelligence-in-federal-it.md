@@ -70,6 +70,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Provation and Iterative Scopes Announce Exclusive AI Partnership"
+    excerpt: "Provation and Iterative Scopes announced today an exclusive partnership, bringing together the premier clinical productivity and gastroenterology (GI) documentation software provider with a leading startup in Artificial Intelligence (AI) for precision GI."
+    publishedDateTime: 2021-03-17T16:42:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-north-america-software-industry-350185000884b976fc1605c4b383b12d/gallery/ba605009b9d7f14c19386a8d876f8326"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "43l/HkvWYIN3Q2dXX0d0MTsOF38+QpfM3soww5wWo/T2XMdZcuUL+a8sBJzV/7edsaAow3aLMwL1Lyw2EKk8A+PGe4LDp8hnBcRBmbGplBGYhfW6fUvTv0Ad0rzU+4xXNG5Crkyzso1dz7PIfq7a9kNbK97PH95Gc46Q6pXZ91TcXKnqDynuuDVGlQ1YkwTksFSHbMVdyoLyhD+aTuz6XszIKbM1MbfOJw5J8PAxUkSgPxAPw7SfsIUTEyMx4n/4lMrF7Fl6p/CtLw1liETHC90U/7a0wnBWlTETiUIkuc5PRMiF/JKWCCfQGerAJ7KAw4AKZp1wqVPgAsfaU7eW81ac4yqf5KyDcJNbBmeHWP7uqfkVujWjS+PIThAMUtYDVB0rozY5zYOfEe98tm50Ieu6wsCGdDabjaRzLJxxgPfXRS8AfDKAToj3RVLtJ48wRF7QEbT8smrVCIYMABEDIxQemyLkxBNUg1e9OdTMJpxtCszfcPP1eWKIljvqxsBN765WHkdv3Gg7mSrgWvHsvg==;NCq525JfvX2ukFbeCLF2Yw=="
 ---

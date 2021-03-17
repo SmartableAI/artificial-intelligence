@@ -10,7 +10,7 @@
       "originalUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -34,58 +34,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-octoml-raises-28m-for-machine-learning-deployment-optimization.md",
-      "title": "OctoML raises $28M for machine learning deployment optimization",
-      "excerpt": "OctoML helps businesses accelerate and deploy AI and relies on the open-source technology Apache TVM machine learning compiler framework. The funding will be used for OctoML to continue building ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/",
-      "originalUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/4082218_Octo_ML_flat_side_rgb.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/",
-      "publishedDateTime": "2021-03-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -147,6 +95,60 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-octoml-raises-28m-grow-machine-learning-software-used-by-qualcomm-microsoft-amd.md",
+      "title": "OctoML raises $28M grow machine learning software used by Qualcomm, Microsoft, AMD",
+      "excerpt": "It offers better performance and removes complexity, Ceze said. Amazon’s Sagemaker Neo is also based on Apache TVM, but is restricted to AWS-based deployments. The Octomizer can target any cloud and any edge device. Leadership: Ceze is a UW professor who ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/",
+      "originalUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/10/ceze-profile-%402x-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/",
+      "publishedDateTime": "2021-03-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {
@@ -691,6 +693,50 @@
       ]
     },
     {
+      "path": "_news/2021-03-15-insitro-raises-400m-for-machine-learning-drug-discovery-push.md",
+      "title": "Insitro raises $400m for machine learning drug discovery push",
+      "excerpt": "Start-up run by former Stanford professor uses AI to analyse human genetics and work out where to target drugsRead more on 'Financial Times Companies'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "publishedDateTime": "2021-03-14T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml.md",
       "title": "Gartner’s 2021 Magic Quadrant cites ‘glut of innovation’ in data science and ML",
       "excerpt": "The report evaluates DSML platforms' scope, revenue, and growth, customer counts, market traction, and product capability scoring.",
@@ -731,92 +777,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-insitro-raises-400m-for-machine-learning-drug-discovery-push.md",
-      "title": "Insitro raises $400m for machine learning drug discovery push",
-      "excerpt": "A machine learning start-up that is aiming to speed up drug discovery and shake up the pharmaceutical industry has raised $400m from investors including SoftBank and Temasek. Insitro, which is run by former Stanford artificial intelligence professor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305?source=techstories.org",
-      "originalUrl": "https://www.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305?source=techstories.org",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F651880f5-5d04-4007-b936-6310d36b2917.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305",
-      "publishedDateTime": "2021-03-14T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-machine-learning-algorithm-predicts-risk-for-suicide-attempt.md",
-      "title": "Machine learning algorithm predicts risk for suicide attempt",
-      "excerpt": "A machine learning algorithm that predicts suicide attempt recently underwent a prospective trial at the institution where it was developed, Vanderbilt University Medical Center.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210313/Machine-learning-algorithm-predicts-risk-for-suicide-attempt.aspx",
-      "publishedDateTime": "2021-03-13T17:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1437,6 +1397,58 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made.md",
+      "title": "Is It Time To Question Our Assumptions About Hand-Made Vs Machine-Made?",
+      "excerpt": "The belief that something made by humans is of better quality crumbles when we confront it with the principles of Industry 4.0, which is seeing new standards of automation: historically this has always meant greater efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/",
+      "originalUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60473485586d43a09b09e3f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/amp/",
+      "publishedDateTime": "2021-03-09T00:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

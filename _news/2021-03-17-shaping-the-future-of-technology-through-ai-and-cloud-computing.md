@@ -41,6 +41,20 @@ related:
         width: 1050
         height: 591
         isCached: true
+  - title: "The AI that argues back"
+    excerpt: "Listen to the latest science news, with Nick Petrić Howe and Shamini Bundell. Your browser does not support the audio element. After thousands of years of human practise, it’s still not clear what makes a good argument. Despite this, researchers have ..."
+    publishedDateTime: 2021-03-17T16:17:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-00720-w?error=cookies_not_supported&code=5e7ea04c-945a-41c6-8e36-b247e96ed3ea"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00720-w/d41586-021-00720-w_18974300.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "IadS3L/BA+5aH19LPR4zECRyHuDwj5VzL43ODkU+o2DNXwosp3W+MHIbc8pBiF6JTGf3smuAq+xebRnfOTBGMLUhYCH7ggPbqhu3GdwKdk6jjuvp0ZSV5UbtUACOXwo3CCHMziOd6WY3p44wII2+W1/F6Qnn6Avo8CDMI/Cz0WhzVjWGHcJKCYk36R7ZN47/5PgbCBeFvaz4CKXBiHujZYmWn7in7CELn9ea49sH9ehkEz7udL+JAoChI4kA99sQ9KthjVqSms0OaKMxTr2ii63XzGAEps4/Jg3Fvucmr7d6tC5+FGT/xxbsDphINInC8CJ6YlBhx/ZW5fr/cNo3A3TEl5DVxymfQliXrqZn2uo=;rAJ/13Pc2l7t6l+Na2LLZw=="
 ---

@@ -59,22 +59,6 @@ related:
         width: 1279
         height: 720
         isCached: true
-  - title: "Tesla removed drivers who weren’t paying attention from Full Self-Driving beta as it expands"
-    excerpt: "Elon Musk says that has Tesla removed from the Full Self-Driving Beta drivers who they determined weren’t paying enough attention. The automaker also expanded the beta to now a total of roughly ..."
-    publishedDateTime: 2021-03-13T01:11:00Z
-    webUrl: "https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/"
-    ampWebUrl: "https://electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/12/tesla-removed-drivers-werent-paying-attention-from-full-self-driving-beta/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk says some Tesla drivers were removed from beta tests for its Full Self-Driving software for not paying attention to the road"
     excerpt: "DOW S&P 500 NASDAQ 100 Tesla CEO Elon Musk on Friday said the carmaker had expanded the public testing pool for its Full Self-Driving software to about 2,000 vehicle owners but also revoked access for drivers who didn't pay close attention to the road."
     publishedDateTime: 2021-03-13T12:28:00Z

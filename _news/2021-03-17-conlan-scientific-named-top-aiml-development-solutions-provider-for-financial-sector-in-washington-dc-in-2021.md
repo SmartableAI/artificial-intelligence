@@ -25,6 +25,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Conlan Scientific Named Top AI/ML Development Solutions Provider for Financial Sector in Washington DC in 2021"
+    excerpt: "Conlan Scientific , a fast-growing nationally recognized authority in delivering AI/ML-based Financial Data Science solutions, proudly announced today that Clutch Research had recognized it as a top l"
+    publishedDateTime: 2021-03-17T17:23:00Z
+    webUrl: "https://menafn.com/1101763415/Conlan-Scientific-Named-Top-AIML-Development-Solutions-Provider-for-Financial-Sector-in-Washington-DC-in-2021"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 36
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?24868"
+        width: 444
+        height: 250
+        isCached: true
+
 secured: "RLQNjROdzZfQjSO2qlbs7jCOcpjuir2bEIpYaANrxdDfMzXdjkEQRKXNkHwn4R2GozbNckoMlinbwMbSmqFC9J7Mp6b6YKS/2skIkf95Y59DbQEcBLYL0MobJIiE0PFG4gDayI6LOoqAhgrN+CtkBgkHeHGI7qt/f19Bp2n+5hQPH080Xd3wwElmBhjyYDc216ZyYU8QWMJNRJz24JRM9cA7nFf7vY6qqmbz6kFTV/4+w9Lg3zyCFgn7c2+V/maKGyKo79J+sBlq/zAax2f4SlcBpX9MzfPNBm8pF4tQi4fw25FljP4uesYQcKH0VvEZS/2Q/MBRX+qLL02APMD5GEF4E7ATYhXnNeXGw2ftnEs=;3XmBv7O+ZyNhhcsZx/bJtw=="
 ---
 

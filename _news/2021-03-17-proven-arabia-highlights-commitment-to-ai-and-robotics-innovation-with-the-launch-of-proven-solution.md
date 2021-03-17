@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210317060133/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210317060133/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GreenPro AI Accounting Enters into Strategic Collaboration Agreement with iBizzCloud AI-Robotax"
-    excerpt: "GreenPro AI Accounting is targeting 15,000 users of iBizzCloud AI-Robotax ... We also operate venture capital businesses, including business development for start-ups and high growth companies, covering finance, technology, FinTech, and health and wellness."
-    publishedDateTime: 2021-03-13T00:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/greenpro-ai-accounting-enters-into-strategic-collaboration-agreement-with-ibizzcloud-ai-robotax-2021-03-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 72
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence and the Art of Culinary Presentation"
     excerpt: "Historic Preservation Program Director Jorge Otero-Pailos introduced Spratt, and commended her work for reimagining cultural heritage through the use of artificial intelligence. “Even if we’re not experts in French cuisine,"
     publishedDateTime: 2021-03-15T13:10:00Z
