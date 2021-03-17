@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatoday.in/amp/education-today/news/story/cbse-launch
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/news/story/cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills-1779141-2021-03-14"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IAB launches AI guidance"
-    excerpt: "The report comes from the IAB’s AI Standards Working Group, which is co-chaired by IBM Watson Advertising and Nielsen. Angelina Eng, vice-president, measurement and attribution, programmatic+data centre, at the IAB, said: “AI is the only technology ..."
-    publishedDateTime: 2021-03-12T12:05:00Z
-    webUrl: "https://www.research-live.com/article/news/iab_launches_ai_guidance/id/5081262"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5081262&name=iab-launches-ai-guidance"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5081262&name=iab-launches-ai-guidance"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
   - title: "CBSE Launches Artificial Intelligence Community for Students: All You Need to Know"
     excerpt: "CBSE has launched an artificial intelligence community for students across the country in collaboration with Intel India to create an AI-ready generation"
     publishedDateTime: 2021-03-16T07:11:00Z

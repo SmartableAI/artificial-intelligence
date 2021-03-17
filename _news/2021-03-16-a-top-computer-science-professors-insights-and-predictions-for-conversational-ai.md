@@ -1,44 +1,29 @@
 ---
 category: news
-title: "A Top Computer Science Professor’s Insights And Predictions For Conversational AI"
-excerpt: "NEW YORK (March 16, 2021) — Breaking Bots: Inventing a New Voice in the AI Revolution by Clinc’s Founder CEO Dr. Jason Mars is available now. The book is published with ForbesBooks, the exclusive business book publishing imprint of Forbes."
-publishedDateTime: 2021-03-16T11:00:00Z
-originalUrl: "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/"
-webUrl: "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/"
-ampWebUrl: "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/amp/"
+title: "A Top Computer Science Professor's Insights and Predictions for Conversational AI"
+excerpt: "About Jason Mars, Ph.D. Jason Mars has built some of the world's most sophisticated scalable systems for AI, computer vision, and natural language processing. He is a professor of computer science at the University of Michigan where he directs Clarity Lab ..."
+publishedDateTime: 2021-03-16T16:56:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/article_dbbeaaed-6d96-5089-bdda-41cc621ac013.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/article_dbbeaaed-6d96-5089-bdda-41cc621ac013.html"
 type: article
-quality: 62
-heat: 72
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - Computer Vision
   - AI
 
-related:
-  - title: "Global Cloud Communications Provider Enhances Customer Self-Service With AI-Powered Conversational Service"
-    excerpt: "Aisera, a Palo Alto-based Artificial Intelligence (AI) solutions company, announced today its AI Customer Service solution with"
-    publishedDateTime: 2021-03-15T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-cloud-communications-provider-enhances-customer-self-service-with-ai-powered-conversational-service-301247124.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1455919/36ee775157b4be8a6f4344b024a2_Logo.jpg?p=facebook"
-        width: 1500
-        height: 784
-        isCached: true
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/46/04632a27-4719-5de6-b45d-e1774dad218f/6051981468ddb.image.jpg?resize=698%2C630"
+    width: 698
+    height: 630
+    isCached: true
 
-secured: "NhgrvgoXVEW1fWB5O+zyB5LJ0FS9UNsBHJeTNmrR3UhWQD3Au5P81xCqeVqhoJID6DRgBpBjnDox1C770xZYJCSObl7QRAHulnmE6oH1PNyQ9nAPGy6n9jFfq3ylHe17ZGzUoutlfgpcV2izXcyNC7zKtbMKvxBkAh/pSzAxGoEEWGjiwa8AnFzbMLf+nRFCqlrJ1+NHjsfydL87c1mJTQ1QESUn+tq5eNPTAZlVdypXc7U2NqGKc67UW8rrC7eO5Y1uvyBnMbn4CWdsDPkKvQby7sPOIC9/b1HIs7Dd3QDxVXY0SeG+UP9E4WYoK6VZ9cBh1Ns77E+QhdKpUz9hSBt/zsyrblYIJfPl/Xhe0ys=;wtBcoSHGxeBIam9LV8C6TA=="
+secured: "yXIlKxUoyKgL90CaeFnu5mXBYZeUnDV0f0w30vrz0EQkYYjqh2z8UWp+bSwT4351BPtA3k0EVlTjQyNo/axgIpx8XbvtVDUhM2R0PO8HOe9eFgRhtEuKDhImU7yzjMK5ZKDiqL5sJWJH6Fwv5P6VgmuQrnvG6uH5qpXttFcNpMXoyHXyWr4fsBWJDJGtjZ6VZOfoQ7AqzDG7kB3MN3XIi5KlX7knKIv9Gpo02P4zqt91bgCDGulfle5l9TlwnyndPNBQcDUnFYwWdc9AEb6gXezKHOZiZIPZVCvA72+uy4wGZ+h0jD/ttA2dNZ4M4kIIuGt9SkyatyTs5q9EuLd55/y6KXdKyu5wvWidfOLMc7Q=;2QrdxzmgcahLFppOaigSpA=="
 ---
 

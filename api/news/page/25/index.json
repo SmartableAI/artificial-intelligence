@@ -2,49 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2021-02-24-artificial-intelligence-in-healthcare-major-opportunities-and-challenges.md",
-      "title": "Artificial Intelligence in Healthcare: Major Opportunities and Challenges",
-      "excerpt": "You may have seen the commercials claiming that artificial intelligence is “the future”, but what exactly are the impacts of artificial intelligence on healthcare? First, in order to delve deep into we should establish a simple understanding of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-healthcare-major-opportunities-challenges/",
-      "originalUrl": "https://www.smartdatacollective.com/artificial-intelligence-healthcare-major-opportunities-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2017/06/artificial-intelligence-big-data-1718.jpg",
-          "width": 1000,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/artificial-intelligence-healthcare-major-opportunities-challenges/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-healthcare-major-opportunities-challenges/amp/",
-      "publishedDateTime": "2021-02-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-24-driverless-cars-and-the-quest-for-true-artificial-intelligence.md",
       "title": "Driverless Cars And The Quest For True Artificial Intelligence",
       "excerpt": "Autonomous driverless cars are the most important and fundamental ... But what if cars possessed true artificial generalized intelligence? A car could have something akin to an immune system. It would know when it’s being attacked, and would initiate ...",
@@ -1171,6 +1128,60 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars.md",
+      "title": "Automated Machine Learning (AutoML) Is Hot In AI, But Getting A Cooler Reception For Self-Driving Cars",
+      "excerpt": "To some degree that is the goal of Automated Machine Learning, known as AutoML, which consists of an automated means to build on your behalf a Machine Learning application, requiring minimal by-hand effort on your part.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1176838131%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8400%26cropY1%3D642%26cropY2%3D5367",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/",
+      "publishedDateTime": "2021-02-23T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
       ]
     }
   ],

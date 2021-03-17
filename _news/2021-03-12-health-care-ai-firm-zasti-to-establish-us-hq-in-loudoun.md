@@ -43,20 +43,6 @@ related:
         width: 710
         height: 533
         isCached: true
-  - title: "Healthcare artificial intelligence company establishing headquarters in Loudoun"
-    excerpt: "Gov. Ralph Northam on Thursday announced that Zasti, Inc., an artificial intelligence (AI) technology company for the healthcare industry, will invest $5.9 million to establish its U.S. headquarters a"
-    publishedDateTime: 2021-03-12T12:30:00Z
-    webUrl: "https://www.insidenova.com/headlines/healthcare-artificial-intelligence-company-establishing-headquarters-in-loudoun/article_9c24e336-82f1-11eb-9f0c-47346690f05d.html"
-    type: article
-    provider:
-      name: INSIDENOVA.COM
-      domain: insidenova.com
-    quality: 50
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/custom/image/d67912d4-211a-11e6-ad8b-8f0a9483ff88.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "s2HKfBIAyVEDF95kTLWWfjIPng04Lya/Ml61eVjku7q8STYLJ0VyNrZJXIeDfAcwmcwPW4m8vbOiyPIfXD4Q4kgJRkJXisz8nfhFv1R0CiEsMHwNs9OJp15cyTmD/ZJ5XpsSuDPtacM/fKQQ/z1ICk3QcPkVlzBnpxPH2t8XQkBERvFGMuM538ixJh5a4gqjedJZDWqDb7Tu7ooVajAgPeDboO0yXz5DKaUgbHvHIRsssr17dzt/8iT09+XAoZGcrEuxApWtsSg4CcRBL0a0aVtbOlM4pKBuI95qp0sB6cERQcoysb2su+sNVQXcW71M7uwnMvwcWS0oGDZPMOuU8R8mG0K5cS8wn+RbtukCaPoGiyneESHGrpNT2SitoChPCJ6EAShLVK94QfV2qzKp/qG06pRQnn11ep6lx9T/gxixeqi2nfxogsb+lt0erxLxCcXxDtAGCjwbK37XmlOMRcvblqJuLj3sFizvFZa0uZSqnLhHN0IOQPaPPtHZPpkjfc/WaIK5/xu1CwZtIfuspw==;qwD+PoKJ65qKun+ZDLzXBw=="
 ---

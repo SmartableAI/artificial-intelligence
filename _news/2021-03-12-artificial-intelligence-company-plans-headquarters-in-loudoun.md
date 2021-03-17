@@ -9,8 +9,8 @@ ampWebUrl: "https://patch.com/virginia/ashburn/amp/29339370/artificial-intellige
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/ashburn/amp/29339370/artificial-intelligence-company-plans-headquarters-in-loudoun"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Patch
@@ -42,20 +42,6 @@ related:
       - url: "https://i2.wp.com/loudounnow.com/wp-content/uploads/2021/03/zasti_A_I.jpg?fit=1000%2C563&ssl=1"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Healthcare artificial intelligence company establishing headquarters in Loudoun"
-    excerpt: "Gov. Ralph Northam on Thursday announced that Zasti, Inc., an artificial intelligence (AI) technology company for the healthcare industry, will invest $5.9 million to establish its U.S. headquarters a"
-    publishedDateTime: 2021-03-12T12:30:00Z
-    webUrl: "https://www.insidenova.com/headlines/healthcare-artificial-intelligence-company-establishing-headquarters-in-loudoun/article_9c24e336-82f1-11eb-9f0c-47346690f05d.html"
-    type: article
-    provider:
-      name: INSIDENOVA.COM
-      domain: insidenova.com
-    quality: 50
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/insidenova.com/content/tncms/custom/image/d67912d4-211a-11e6-ad8b-8f0a9483ff88.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "IxYj9cPyb71n1pSBLXWnZvI0Kmy25XjPndNxhOwBXxydGFCOjQq1ZHbnsO5XDy4HIF5XiceXj2aCL40L+h5cHsx8tkpKuZR9C8wbFGdbOwnjFG2YLnnmFJfoRCuLiFSotVPv5XtszmywwoieySWyEaheXi32odPcVschidPxvAtf0si8L3csN+8JEJVu8K4dAXbt/5I1VFwHBY7R5R1YPr+fIokKw0ttUZTDMUklY6Tl9Q5k1UD/8E+2pozL34HCc12kAriTkLHW1lZDLB+05itnamjQvyjtge5WWOSkqHA8XF5oEDs9ooGpJ1fZV20VCuNVt8YuxUlB/mMVFZlel2a8uXCRluRFfxBxiWlAP2qr+SuQzgVyRGtzGiQOII3DZQC5YSFe5jrPP10mI2o3U6/GFFzR4e35qN1OKjXAZuH4sOeLvOU/VhJknkFW/PZlgbp85jb+k/hbmtDOdQiHSVuyOoKEVBodWBSVpQhdoPPkn2Da3xq3NaWqAdBsOsrc7/Vyrwrj34YQp9KxmwSV7w==;Sp+E3zFWCjZoAKpeVcX3Kw=="

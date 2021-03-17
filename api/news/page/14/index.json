@@ -2,40 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2021-03-03-pga-tour-selects-aws-as-its-official-cloud-provider.md",
-      "title": "PGA TOUR Selects AWS as Its Official Cloud Provider",
-      "excerpt": "The TOUR will then use Amazon Rekognition (AWS&CloseCurlyQuote;s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata like player names and sponsor logos. This will ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/03/02/pga-tour-selects-aws-as-its-official-cloud-provider",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/03/02/pga-tour-selects-aws-as-its-official-cloud-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T02:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-chinese-telecoms-firm-zte-preparing-electric-vehicle-product-line.md",
       "title": "Chinese telecoms firm ZTE preparing electric vehicle product line",
       "excerpt": "Asian technology companies, including Baidu, have announced plans to make their own cars, while Shenzhen-based dronemaker DJI is building an engineering team to work on self-driving technologies.",
@@ -1200,6 +1166,49 @@
         "AWS AI",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-qsrs-optimize-with-machine-learning-as-yum-brands-acquires-ai-company.md",
+      "title": "QSRs Optimize With Machine Learning As Yum! Brands Acquires AI Company",
+      "excerpt": "Yum! Brands, which owns KFC, Taco Bell, Pizza Hut and other multinational restaurant chains, will acquire AI analytics company Kvantum, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/yum-brands-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
+      "publishedDateTime": "2021-03-02T13:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

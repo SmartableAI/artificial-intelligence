@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "NuPort Robotics to conduct self-driving middle-mile truck project"
-    excerpt: "During the two-year project, artificial intelligence technology from NuPort will be used in two retrofitted conventional semi-tractor trailers with sensors and controls. Source: NuPort Canadian autonomous trucking startup NuPort Robotics Inc."
-    publishedDateTime: 2021-03-12T13:33:00Z
-    webUrl: "https://insights.globalspec.com/article/16158/nuport-robotics-to-conduct-self-driving-middle-mile-truck-project"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 36
 
 secured: "5yvEEtEgGttUixAL52CuimX+XhUUSozS9yO6+weCZQuu04D3RBcPy7Gqnr7NLlClxHceOs60h6c3vIGoveLQsiXOOZygzNkGEKihcRhEj2MjDA/byztjHwNZ4KIYS21Zo+fTrMalExdQ2BOa8GCeQHTPCo066PKUyv1vEWoneWuf4g5xy5pou+T0eI2ftRwNANEr91bPgTV4R6tASyCF6bOsb0aOahYxWBMkHkdvosBciIp3HITG3909L11l/plG98BWe36cT5ISHDdcgRxTAa2RNf1TM/XrLCyfJd9yVu7+Ru64e7NbUgNqQFOKb5K7NIatHRSGsmF/WCPgli2CFmPbUqyPSdRB+btZ9Y/I5RY=;h5Gy+H075t9hdpmSiNFY5Q=="
 ---

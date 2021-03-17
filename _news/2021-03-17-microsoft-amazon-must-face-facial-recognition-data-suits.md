@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft, Amazon must face facial recognition data suits"
-excerpt: "The Monday orders from U.S. District Judge James Robart in Seattle come in proposed class actions that accuse the tech giants of unlawfully collecting biometric data to improve their facial recognition technology from an International Business Machines ..."
+excerpt: "A Washington federal judge has ruled on motions to dismiss two nearly identical lawsuits against Amazon.com Inc and Microsoft Corp, rejecting the companies' bids to scrap an Illinois biometric privacy claim while asking for additional briefings before ruling on two"
 publishedDateTime: 2021-03-16T17:33:00Z
-originalUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition/microsoft-amazon-must-face-facial-recognition-data-suits-idUSL1N2LE215"
-webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition/microsoft-amazon-must-face-facial-recognition-data-suits-idUSL1N2LE215"
+originalUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215"
+webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LE215"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE215"
 type: article
@@ -85,6 +85,6 @@ related:
         height: 627
         isCached: true
 
-secured: "Kc4SxFinzKqamJpYvdWxEJoz08xYxd/ywkixLhfe1h7g6NknvEvTviDH7BhBeMXp2DNaY0O3LTR4cftTptyVxelcJSXVXTjZYoRtKu4bmCVaogZhWimjR6KFZ9fbtZR89tpG1QVEP+IR+Bx/al4Rd12jRffjHFePH8j2KcibS87MjwMwH2UHsnfXNCP80o4WX59yOqe2IAGPb+dUzvZdQ8njXymwC5ud28hN5PndPadfCmYld+PDS1K0o18OL/2P6ki+/h6+RYaJWuCtgEVbX16Ob299/lbBMOyI6yTEZ0mqLvumTq+ZFUEDLO/UWmQEGKtybSyZcaiBO4gipMk0oGuoaCLRG5O3CwhD338HFNk=;7pT7vGIgSOKbbqTJEQCb0A=="
+secured: "wuacbjX0OizY30Qg+zXbR9XltfHPYoj/4ajOeX7Edk91SFa6HH6k7KdGnh/Z1C2JZk2HSLxEKD6HSeutiPgDoERx4gak4ZSOWRGXJOUF64/DpAkhAHEv+Tb++WN/ojULJTIEYv2cWSdP/T21FnpP3uSbCRFIdWNdOsZKhuoulTt+R4LBr/wOinLYTRg6u2PTq+5BqO/gEOIgq2g3I2wbHSskF55uESUSowsxxlkvqaXxzumaMnT6gd6tuVibMBphiYNPJMS0xCt/lA652kA0kYOji+CWnBlNbK+2sL5lPKUNb76SqNYS2kod3Im6hAnto3+FK3qVk5+4xi4kDJtB1A6TiMuK2OIBh8P1CtHVswA=;oNJ+c6qUyrEGckK+n3NpCA=="
 ---
 

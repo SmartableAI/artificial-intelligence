@@ -520,6 +520,50 @@
       ]
     },
     {
+      "path": "_news/2021-03-11-bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours.md",
+      "title": "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)",
+      "excerpt": "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicoer.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours",
+      "originalUrl": "https://www.chicoer.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicoer.com/wp-content/uploads/2021/03/ice_agent_generic.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicoer.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/",
+      "cdnAmpWebUrl": "https://www-chicoer-com.cdn.ampproject.org/c/s/www.chicoer.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/",
+      "publishedDateTime": "2021-03-10T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chico Enterprise-Record",
+        "domain": "chicoer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-activists-sue-clearview-ai-alleging-facial-recognition-surveillance.md",
       "title": "Activists Sue Clearview AI, Alleging Facial Recognition Surveillance",
       "excerpt": "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field.",
@@ -549,50 +593,6 @@
       "provider": {
         "name": "Law Street Media",
         "domain": "lawstreetmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours.md",
-      "title": "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)",
-      "excerpt": "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/03/ice_agent_generic-1.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/",
-      "publishedDateTime": "2021-03-10T12:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
         "images": null,
         "publishers": null,
         "authors": null

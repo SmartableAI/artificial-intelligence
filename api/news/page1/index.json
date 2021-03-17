@@ -112,7 +112,7 @@
       "originalUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -289,6 +289,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-machine-learning-can-identify-cancerous-cells-by-their-acidity.md",
+      "title": "Machine learning can identify cancerous cells by their acidity",
+      "excerpt": "Cancerous cells exhibit several key differences from healthy cells that help identify them as dangerous. For instance, the pH—the level of acidity—within a cancerous cell is not the same as the pH within a healthy cell.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/19-machinelearn.jpg",
+          "width": 1536,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.amp",
+      "publishedDateTime": "2021-03-16T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -757,48 +800,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-16-a-top-computer-science-professors-insights-and-predictions-for-conversational-ai.md",
-      "title": "A Top Computer Science Professor’s Insights And Predictions For Conversational AI",
-      "excerpt": "NEW YORK (March 16, 2021) — Breaking Bots: Inventing a New Voice in the AI Revolution by Clinc’s Founder CEO Dr. Jason Mars is available now. The book is published with ForbesBooks, the exclusive business book publishing imprint of Forbes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/partnerreleases/2021/03/16/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/amp/",
-      "publishedDateTime": "2021-03-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-16-bmw-wants-to-make-you-feel-things-with-its-new-ai-assistant.md",
       "title": "BMW wants to make you FEEL THINGS with its new AI assistant",
       "excerpt": "BMW's new iDrive 8 system uses natural language processing, gesture control, and machine learning to connect the vehicle and driver in emotional ways.",
@@ -1007,7 +1008,7 @@
       "originalUrl": "https://www.reuters.com/article/businessNews/idUSKBN2B80P7",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {

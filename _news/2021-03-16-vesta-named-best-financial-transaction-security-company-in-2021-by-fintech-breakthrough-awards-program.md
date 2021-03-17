@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "From Wedding Planning To Cannabis, B2B FinTech Funders Go Niche"
-    excerpt: "From wedding planning to cannabis to the entertainment industry, this week's B2B FinTech investors targeted financial solution providers in niche markets."
-    publishedDateTime: 2021-03-12T13:00:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/b2b-fintech-funders-go-niche-wedding-planning-cannabis/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/b2b-fintech-funders-go-niche-wedding-planning-cannabis/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/b2b-fintech-funders-go-niche-wedding-planning-cannabis/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/fintech-venture-capital-niche-market-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
   - title: "How PhonePe adapted to the new normal in fintech"
     excerpt: "Bengaluru-based fintech startup PhonePe pivoted rapidly and ... fund's first investment in Asia with undisclosed funding in Wysa, an AI-based mental health startup in India. Wysa has raised ..."
     publishedDateTime: 2021-03-15T00:31:00Z

@@ -43,22 +43,6 @@ related:
         width: 647
         height: 363
         isCached: true
-  - title: "IAB launches AI guidance"
-    excerpt: "The report comes from the IAB’s AI Standards Working Group, which is co-chaired by IBM Watson Advertising and Nielsen. Angelina Eng, vice-president, measurement and attribution, programmatic+data centre, at the IAB, said: “AI is the only technology ..."
-    publishedDateTime: 2021-03-12T12:05:00Z
-    webUrl: "https://www.research-live.com/article/news/iab_launches_ai_guidance/id/5081262"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5081262&name=iab-launches-ai-guidance"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5081262&name=iab-launches-ai-guidance"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
   - title: "CBSE Launches Artificial Intelligence Platform For Students: Here’s How to Register | Step-by-step Guide"
     excerpt: "As per updates from CBSE, the AISC will help in students in creating and spreading awareness about Artificial Intelligence in an inclusive manner. Also Read - CBSE Board Exam 2021: Want to Score High Marks? Class 10, 12 Students Must Follow These Tips ..."
     publishedDateTime: 2021-03-12T17:40:00Z

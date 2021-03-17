@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-16-machine-learning-can-identify-cancerous-cells-by-their-acidity.md",
+      "title": "Machine learning can identify cancerous cells by their acidity",
+      "excerpt": "Cancerous cells exhibit several key differences from healthy cells that help identify them as dangerous. For instance, the pH—the level of acidity—within a cancerous cell is not the same as the pH within a healthy cell.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/19-machinelearn.jpg",
+          "width": 1536,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.amp",
+      "publishedDateTime": "2021-03-16T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub.md",
       "title": "Google uses machine learning to fix your bad sleeping habits with new Nest Hub",
       "excerpt": "Udall said Google made this feature work through \"science and machine learning\". Google partnered with the American Academy of Sleep Medicine for the new tech and it was trained using more than 100,000 nights of sleep from over 15,000 people. Google said ...",
@@ -353,50 +396,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-15-insitro-raises-400m-for-machine-learning-drug-discovery-push.md",
-      "title": "Insitro raises $400m for machine learning drug discovery push",
-      "excerpt": "Start-up run by former Stanford professor uses AI to analyse human genetics and work out where to target drugsRead more on 'Financial Times Companies'",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
-      "publishedDateTime": "2021-03-14T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-03-15-gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml.md",
       "title": "Gartner’s 2021 Magic Quadrant cites ‘glut of innovation’ in data science and ML",
       "excerpt": "The report evaluates DSML platforms' scope, revenue, and growth, customer counts, market traction, and product capability scoring.",
@@ -437,6 +436,49 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-insitro-raises-400m-for-machine-learning-drug-discovery-push.md",
+      "title": "Insitro raises $400m for machine learning drug discovery push",
+      "excerpt": "A machine learning start-up that is aiming to speed up drug discovery and shake up the pharmaceutical industry has raised $400m from investors including SoftBank and Temasek. Insitro, which is run by former Stanford artificial intelligence professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305?source=techstories.org",
+      "originalUrl": "https://www.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305?source=techstories.org",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F651880f5-5d04-4007-b936-6310d36b2917.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/9a63dbe9-a79a-4cc4-bd34-5b492e2d5305",
+      "publishedDateTime": "2021-03-14T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1389,49 +1431,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency.md",
-      "title": "Open machine learning and AI data can increase ship energy efficiency",
-      "excerpt": "The Swedish ship operator Ventrafiken and the research project “Data-driven energy efficiency for ships” (D2E2F) have established a collaboration to collect open data for research purposes. One of the double ended ferries (Uraniborg) have been equipped with a Blueflow Energy Management System to collect data on energy consumers and vessel data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/",
-      "originalUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hellenicshippingnews.com/wp-content/uploads/2021/03/MS_Uraniborg.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/amp/",
-      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/amp/",
-      "publishedDateTime": "2021-03-05T15:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hellenic Shipping News Worldwide",
-        "domain": "hellenicshippingnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

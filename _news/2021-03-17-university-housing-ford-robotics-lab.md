@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Ford partners with U-M on robotics research, new building"
-excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four"
-publishedDateTime: 2021-03-16T16:04:00Z
-originalUrl: "https://apnews.com/article/michigan-robotics-ann-arbor-a0fbbce999a1943ae1f9c0a4206ff2dc"
-webUrl: "https://apnews.com/article/michigan-robotics-ann-arbor-a0fbbce999a1943ae1f9c0a4206ff2dc"
+title: "University housing Ford robotics lab"
+excerpt: "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheet"
+publishedDateTime: 2021-03-17T06:00:00Z
+originalUrl: "https://www.journalgazette.net/business/20210317/university-housing-ford-robotics-lab"
+webUrl: "https://www.journalgazette.net/business/20210317/university-housing-ford-robotics-lab"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Journal Gazette
+  domain: journalgazette.net
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/123406b7433340c997c2bd7992e09df4/2081.jpeg"
-    width: 2081
-    height: 1387
+  - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210317/ARTICLE/303179982/AR/0/AR-303179982.jpg"
+    width: 800
+    height: 533
     isCached: true
 
 related:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.clickondetroit.com/resizer/HmnQTMNjtSbF6rJTuexAtQI0O1I=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/JDQM34PSUJC2VO2346NJJLVEXQ.JPG"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ford partners with U-M on robotics research, new building"
+    excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four"
+    publishedDateTime: 2021-03-16T16:04:00Z
+    webUrl: "https://apnews.com/article/michigan-robotics-ann-arbor-a0fbbce999a1943ae1f9c0a4206ff2dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/123406b7433340c997c2bd7992e09df4/2081.jpeg"
+        width: 2081
+        height: 1387
         isCached: true
   - title: "Ford Partners With University of Michigan on Robotics"
     excerpt: "A grand opening was held March 16 for the four-story, $75 million, 134,000-square-foot Ford Motor Co. Robotics Building at the University of Michigan."
@@ -69,20 +83,6 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "University housing Ford robotics lab"
-    excerpt: "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheet"
-    publishedDateTime: 2021-03-17T06:00:00Z
-    webUrl: "https://www.journalgazette.net/business/20210317/university-housing-ford-robotics-lab"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 54
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210317/ARTICLE/303179982/AR/0/AR-303179982.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Ford partners with University of Michigan on robotics research, new building"
     excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four and the yellow-legged Cassie steps deliberately side-to-side."
     publishedDateTime: 2021-03-16T17:17:00Z
@@ -102,6 +102,6 @@ related:
       domain: automotiveworld.com
     quality: 12
 
-secured: "ZucCoCnX/qLLhiXkbYV1iceByJ0HiaMwepHWWay19vB3P+Wb9SxlTO/LFAAxjWFH8sHll8QP0ERtLPQYMkSeYKSXMjY+uShcbXqDzim5dED4F91Zlt9bs+PLA7nCMO7YjdbWArmsLV53L/acEUjbKGyD3xN6V037MbOXWIUbk7OMoF79KPTC5be0x9fI9XD1dXOHiKA3Tp+ztyRpVmdLw4o5DigJ9jW4HE1swXHxSTXgTOnZrYkXsJ/gg8akcdrLsKdMnqNjZpddcUOW55LaKOS1cZvuJGx9I2gkesJqMkjBagCKM60ioEmr5AXi1Mhu2UaTDsLd/HJ257EyfbZvA9K71rwhG/8pTFJwifMP8P4jaLF1vB2JFN+g3eHVYdTC+oSfiqYw/0dxvcnbEuF7OQqP7ru5vgt5nYM4angQAHTy4cgOH+8RGguHbcQsbwB0Ouxp5LrTlwpMb1Zb4pLJVvWoD02Jkeb4XveJLlsb7SFh43Qr6s57XA82BL4aJGEWgsntT87XGL1jdE6qMNzkmw==;8qN9E/9nXZNnGTVsqbK5Cg=="
+secured: "Zrnv82pd1vmPVDQFPvnNL8buPVGp2pvsuyOhM9NcT7tIvSDf76OuxfLlupaU+FsYHDluU80CJL0EBhjlzjlysVPpO6YZpmzzZyHN03epZMq/bucVFNG8/WPQ3BJyGUUTLkInyrEY2VAotfTlJjWMhTsEQj+0u2Byu9vmKjP2f9jGophS/BL6VZfPqF/9je0I5cHoEJH5zwII/47b35CAMMNtN3rwjKQTFCtn5DY30K+uz1Fmlm0VcjMcc+RiIMBIgfzCTwo1kaA4m29NjR9zEwYJDLFpbKYVO5q7+LU6oFGspZqB4Mc8k5c97HDG7ia6+GXPt6HV0Q0Vyi5cdy+EqEKyHRcbgYLuKKEWYGu0jlw=;TXeIfVVPEs+URMLYtjmzPw=="
 ---
 

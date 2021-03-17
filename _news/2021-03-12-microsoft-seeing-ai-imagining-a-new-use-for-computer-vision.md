@@ -43,9 +43,9 @@ related:
         height: 562
         isCached: true
   - title: "Microsoft, Amazon must face facial recognition data suits"
-    excerpt: "The Monday orders from U.S. District Judge James Robart in Seattle come in proposed class actions that accuse the tech giants of unlawfully collecting biometric data to improve their facial recognition technology from an International Business Machines ..."
+    excerpt: "A Washington federal judge has ruled on motions to dismiss two nearly identical lawsuits against Amazon.com Inc and Microsoft Corp, rejecting the companies' bids to scrap an Illinois biometric privacy claim while asking for additional briefings before ruling on two"
     publishedDateTime: 2021-03-16T17:33:00Z
-    webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition/microsoft-amazon-must-face-facial-recognition-data-suits-idUSL1N2LE215"
+    webUrl: "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LE215"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE215"
     type: article

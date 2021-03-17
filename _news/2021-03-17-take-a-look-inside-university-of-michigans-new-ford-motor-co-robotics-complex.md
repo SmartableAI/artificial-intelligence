@@ -9,7 +9,7 @@ ampWebUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a
 cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/?outputType=amp"
 type: article
 quality: 70
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://finance-commerce.com/files/2021/03/WEB-Robotics-AP-w.jpg"
         width: 620
         height: 330
+        isCached: true
+  - title: "University housing Ford robotics lab"
+    excerpt: "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheet"
+    publishedDateTime: 2021-03-17T06:00:00Z
+    webUrl: "https://www.journalgazette.net/business/20210317/university-housing-ford-robotics-lab"
+    type: article
+    provider:
+      name: The Journal Gazette
+      domain: journalgazette.net
+    quality: 54
+    images:
+      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210317/ARTICLE/303179982/AR/0/AR-303179982.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Ford partners with University of Michigan on robotics research, new building"
     excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four and the yellow-legged Cassie steps deliberately side-to-side."

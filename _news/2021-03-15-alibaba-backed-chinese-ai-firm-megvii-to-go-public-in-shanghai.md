@@ -37,22 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Alibaba-Backed Chinese AI Startup Megvii Files for Shanghai IPO"
-    excerpt: "The startup, backed by Alibaba Group Holding Ltd., plans to issue ... Megvii is one of the world’s largest AI startups, specializing in areas such as facial recognition. The eight-year old firm gained fame in part because of China’s obsession with ..."
-    publishedDateTime: 2021-03-12T13:48:00Z
-    webUrl: "https://www.bnnbloomberg.ca/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo-1.1576146"
-    ampWebUrl: "https://www.bnnbloomberg.ca/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo-1.1576146.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo-1.1576146.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 57
-    images:
-      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1576147!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/an-attendee-uses-his-smartphone-to-record-a-facial-recognition-demonstration-on-himself-at-the-beijing-megvii-co-booth-at-the-mwc-shanghai-exhibition-in-shanghai-china-on-thursday-june-27-2019-the-shanghai-event-is-modeled-after-a-bigger-annual-industry-show-in-barcelona-photographer-qilai-shen-bloomberg.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai"
     excerpt: "Chinese artificial intelligence startup to go public after it filed for a Chinese Depositary Receipt offering on Shanghai’s Star board on Friday. The startup, backed by Alibaba Group Holding Ltd., plans to issue up to 253 million Class B shares as the underlying stock for the CDR offering,"
     publishedDateTime: 2021-03-12T18:58:00Z
