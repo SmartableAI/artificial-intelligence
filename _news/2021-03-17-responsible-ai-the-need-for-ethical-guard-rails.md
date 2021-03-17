@@ -7,7 +7,7 @@ originalUrl: "https://www.thehindu.com/opinion/lead/responsible-ai-the-need-for-
 webUrl: "https://www.thehindu.com/opinion/lead/responsible-ai-the-need-for-ethical-guard-rails/article34086236.ece"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 615
     height: 384
     isCached: true
+
+related:
+  - title: "Center for Socially Responsible AI announces inaugural seed funding awards"
+    excerpt: "The funds support five early-stage research projects that consider the ethical and social implications of artificial intelligence.Image: Adobe"
+    publishedDateTime: 2021-03-17T14:06:00Z
+    webUrl: "https://www.miragenews.com/center-for-socially-responsible-ai-announces-529847/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 37
+    images:
+      - url: "https://www.iata.org/globalassets/iata/pressroom/generic-images/agm.jpg"
+        width: 517
+        height: 340
+        isCached: true
 
 secured: "R4fAq9SrIDHrx9N+d4Pq2qvAtteTTXdTdcyT/8tcgWBdiSSlIkJqyolAb4VKE/ni9FVKcwDOUTEGkCSx7tv1FUamtI8bEBq9kxJVt3V/T5HRoaAnemnfVrZ4lxmgoJIkwJmc3rgGjHzQAv+cQQzwOEaKggNjK0WvD0HG8hFYXp04BLNpNPMb3ZV7iWxGaKf3L59ltFiXYVRhQXA5OXtjb7JRhTB1T5T/0FhIt0SccP1zWvbmSqWmlUus+xvnrLHz5aWtahob/K7Y4kUbPNEh2likLxNfZBhcPmRMAYl6s58u8KAydTbZLzHJ9CXlMK2TG6/ZyKA3tr16hMSU2utRt3Bey+3pCegbP/IH2d10edg=;x0FeVONbmd3orxbhldekPA=="
 ---

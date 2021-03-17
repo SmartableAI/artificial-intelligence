@@ -41,6 +41,20 @@ related:
         width: 711
         height: 424
         isCached: true
+  - title: "FSU Researchers Report Enhanced Quantum Machine Learning Algorithms"
+    excerpt: "Florida State University researchers report they have found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications. The work could help build artificial neural networks used for training computers to solve complicated,"
+    publishedDateTime: 2021-03-17T15:19:00Z
+    webUrl: "https://insidehpc.com/2021/03/fsu-researchers-report-enhanced-quantum-machine-learning-algorithms/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/03/FSU-FAMU-Engineering.png"
+        width: 500
+        height: 560
+        isCached: true
 
 secured: "+m+Ercm1Ppnj6HeE7hY9IwW5j/1TE+y0z+ggn9cHiFqtviwCk3qqayws6GpaG9Bl84gKlh/XSftYPwIKKiwVhTD4k2NJRLpqiy6V3l8dQzbU8kKIz8piHiU9+nKwFfjgtQ80FdJCkhuVQavEREOypvQQLtVvyjwKiLB7EyWDURYDsTdclY7VcxCHn/6iTGUT8IqniEU6EMiUG0N5AFGXT+x1oUUyVCyL+HgmS6wiy1osrwptWGpIla65LRn6zjf6JcnJ4+z5toC058r4IK2Vor8uCkPTpL8KcFnj/JbMAwbn0orlnQdmwOH8U65hkNDYm1I3HL6hwp9UBMOlntb/aN7qR+Vb3zpcrQSHFZm+i+mGHNwJiXllYPldhWBm0pNcLLLMJFPnd46fLR83IWSn0RI9cHki3rcYcgtdKbUDAc9+AxzReuC/yuDpzrYhlKbnXpepFkI6XJKSTZB2rHqoETH18gpYY+psjwCowzgLtUwnCZVX/83JNBPsrdxC2oYJRWAuspQ7xRr0qqm6jrGepQ==;52r17H1XWwAocnaYmc10gQ=="
 ---

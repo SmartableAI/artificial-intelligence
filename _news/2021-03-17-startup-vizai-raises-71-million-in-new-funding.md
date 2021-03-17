@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-n
 webUrl: "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -44,21 +44,7 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Viz.ai Raises $71 Million Series C Round Led by Scale Venture Partners and Insight Partners"
-    excerpt: "Viz.ai today announced that it has raised $71 million in Series C funding, led by Scale Venture Partners and Insight Partners with participation from Greenoaks, Kleiner Perkins, Threshold Ventures, CRV,"
-    publishedDateTime: 2021-03-17T12:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-19703821.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
-secured: "yJpBggj5K67GwXr32L6AiKkJ7V+OTZ6VW6fmeqedopDaG+WEkj+nDb8K3UZjSajTjAqx/3txdg8tKY+Dw6SZ7U5cD1XEL6Vbh7E+NAixFPC2oy5rhcJT4H5OK9ttOha/kBxJHp+OrUkRjs03zDAWV5kby3VY1pGZpk8g/91rhWgH4z07P0yBc4VcOk1IjPdEY5CnQ1572jLUY8sc6KIxh+LkgHqd3+hRDi9/WIRTyCmxfEkaHnl02TaRPy9tJpc/HclBmIxBgKacUvys3k7Im3oHqMqYk8pvH+8Xuw41h3SraveGZOuIkw4yroVdyeBvk734cXlZKhOf0kan0QcPGd39l/VU+mn5jk7SI3sMb94=;dVaf6vCIWJawIlEAa+cQSA=="
+secured: "yr1zXwZ51HtBSVqWhQ3P9CF2JpwQA0BZ1lRuFG6+RWTsPr/QSdI4E2R8nfJsXdfVXw2tIsClFrOj9pKiUaA9nQkGgQ8LlJoue3GmV0jrzBu/wQ9TYFMizyRAQqJR/UIL4cmK8wC0iYVaeJzXjj0dIIY2lfoWBjKPP94l3c4VPdBAFKfTFOy1MC2ZmL753NIfUgagOyS/yAgsSSMfeUcsAy9r+6p6xyvsD4NY+ozAoZHZ93aj18ruqPYJWQ7Tff9OHLFcYOgwal6gPbINAhpEeTuEes6JKugt7pG7GwTwL8qZC22c/bBDGNGUgLNF6xsDw/Vamc1OMhV2TvCxOuWQ220Cmx+uN0ZfosnWIVgLzsKxtQeN41oeL4NvzWXTBG7Zkve7F89xEwCMRsLSKQyjGBrmi/19MeGAAVvJaX23Ik23jLV+aCib7da3EfMvry4wnITBjnNJ9ze33wP7mYkzP+js/lEl7+j6q5BcMt0lOhGbxAq9001p1jG7+nqcJpZmZP0snYVEayBSbGnIyMAYRA==;cY++KxyfG6/ZiIQLdo78Qg=="
 ---
 

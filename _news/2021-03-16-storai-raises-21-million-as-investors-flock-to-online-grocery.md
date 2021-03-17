@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Viz.ai Raises $71 Million Series C Round Led by Scale Venture Partners and Insight Partners"
-    excerpt: "Viz.ai today announced that it has raised $71 million in Series C funding, led by Scale Venture Partners and Insight Partners with participation from Greenoaks, Kleiner Perkins, Threshold Ventures, CRV,"
-    publishedDateTime: 2021-03-17T12:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-19703821.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "xVKghmfaEOQypBnsTkIW5IsfKRfja+aomS+2PWnTosKJyRFgM2eF10xjxcIJIf8kTQeBx2SaPD9SyFnT98JaW67ho5ZWy4CwuSP0P8/qd9NDIu4xf5uo6hgG6D3f8lPk0Z20cxyVG6x+T0M9IBJzDTC+pL6MEX0p7gul5o/ROZLQjOehUAWJK0TLZSms//pE2t8OY6YI4D4r2Oe8YZWSGd1XRBIJwpN52msyz8LSuChR9OIZgQfI7OaTmPXy9cStCDZ4v+Ajmt7fd9oQAbDjWcfKnS1kyJshgJQVPaHUMsi34oiue6KIA0e4v5D+dLA+9E2D0vZStYC5SZTVWkawoyuoWDbSYtCw9Ib8QrlNuUu3V67ALGpjAJuzTnbwoHoO9F5CaBU11h353fmiQ4TYNcUkArSF/GsHoREr/ocKZRV65Rz37s003rwihge+t5pBrhp2cvg7LUfbPTRAWRYhWZhg/bYlBGMboNpLHCQRnq2o1Er0caR0IiVrxPkre8G5V5+12LIMmOlVtmn1yG025g==;eNLMrdKPUDStbbgJBAAwyQ=="
 ---

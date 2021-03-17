@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Sources: TikTok owner makes automotive bet with investment in QCraft"
-excerpt: "The development follows other tech giants making their own bets in the self-driving space, such as Baidu and Tencent. China, the world’s biggest vehicle market, is looking to have smart cars that have some measure of automation account for over half of ..."
-publishedDateTime: 2021-03-05T07:43:00Z
-originalUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft#!"
-webUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft#!"
+excerpt: "The development follows other tech giants making their own bets in the self-driving space, such as Baidu and Tencent. China, the world’s biggest vehicle market, is looking to have smart cars ..."
+publishedDateTime: 2021-03-05T08:26:00Z
+originalUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft"
+webUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "izuD8fmCqXvMYlYlsqpvx6CNEjKNZmUjXlJi2uQy7Lov86wEe0+sYvZHBuBCQg5PdBFLffDxtN80PgRjuyIbwVS+tDnanEoe4WkcNm4HZvXbmrB0aslAEDKxiw5rWd8H36zPY8eSUHtdm9PPG+PIrS+n+veNnPgAU+N5YWENszdEcFzIP5Def1MTgrhz0n1erFX6Tjv82zo4WrqmPlR28nYX0j78ZVWL0+HycnTBJO9LtMgYXHBsrsnKXH4cuj8oilrZFuc0BRHM/1YcQMvkbRliB2UWKKAdd3CABZ/hZ5ityexbS8d/Ez3F5uO9HFaZcU64D5Ui5rL3NUUQW7/cfcje5RJ0a/xrZYi6H2GE+KATM/sxrV+LYgQZyqi/2/zuXoVI64fLVRPqB85RFcG+5km5PLs+99gsLBq73fgbO7tzGLI+w/8X9YGwLtgc6M/P7d/48Gen1O0j9swLgO9c1CcYjZPO86/XRU2z9QhlCLYxIBoNNjDP46ebVVO8haYBgHhy+TJ4aeBdnpnrFHKOTQ==;60qDSgBn60fNgW5kqyDMBQ=="
+secured: "rIyPM2E4E0j3ix03/Za8QFXFKKNZd9PU1FB1lgXDgEVJ0OyRgG+/cTCGxFcO9vzgYjvD7KVJKTSEZ27C2Q69c62slNQER5uw5kWoi9UcEr4RLNLgJugoRcNv4Gv4xzSJJs5t47KvOloy9iXaisG1M8ATI/arkCrLcHGeoHkZjmktnhJk/G2EIwoN5Pta8pYdP0r/6VSviPKKzhKFa+dV2qI2Sb4DvyQDR9qlEcmAiEOwfXr7hy1pAzUDuBE30eg1OoT6AwudOVwGhix9mNI8BWliuwU6lh4YuqEhYS6f7mIAbjXzXFTGj+vU6utxeAlqVOqzRY3p3Ll6MFP1O++nNbjPBzF1uAS/Ct1HZHh6N7I=;enck2eHTL2bqZUml8etLPA=="
 ---
 

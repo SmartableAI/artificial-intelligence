@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "ActiveOps updates its Workware+ platform for Microsoft Azure users"
+    excerpt: "Workware+ from ActiveOps now delivers a deeper integration with Azure, bringing cloud-based Workware+ industry solutions to Microsoft users worldwide"
+    publishedDateTime: 2021-03-17T09:01:00Z
+    webUrl: "https://www.wboc.com/story/43511655/activeops-updates-its-workware-platform-for-microsoft-azure-users"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 34
 
 secured: "wuacbjX0OizY30Qg+zXbR9XltfHPYoj/4ajOeX7Edk91SFa6HH6k7KdGnh/Z1C2JZk2HSLxEKD6HSeutiPgDoERx4gak4ZSOWRGXJOUF64/DpAkhAHEv+Tb++WN/ojULJTIEYv2cWSdP/T21FnpP3uSbCRFIdWNdOsZKhuoulTt+R4LBr/wOinLYTRg6u2PTq+5BqO/gEOIgq2g3I2wbHSskF55uESUSowsxxlkvqaXxzumaMnT6gd6tuVibMBphiYNPJMS0xCt/lA652kA0kYOji+CWnBlNbK+2sL5lPKUNb76SqNYS2kod3Im6hAnto3+FK3qVk5+4xi4kDJtB1A6TiMuK2OIBh8P1CtHVswA=;oNJ+c6qUyrEGckK+n3NpCA=="
 ---

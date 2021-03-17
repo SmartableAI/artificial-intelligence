@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-hearing-aid-optimizes-so
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-hearing-aid-optimizes-sound-in-real-time/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using Artificial Intelligence to Generate 3D Holograms in Real-Time on a Smartphone"
-    excerpt: "A new method called tensor holography could enable the creation of holograms for virtual reality, 3D printing, medical imaging, and more — and it can run on a smartphone. Despite years of hype, virtua"
-    publishedDateTime: 2021-03-12T22:39:00Z
-    webUrl: "https://scitechdaily.com/using-artificial-intelligence-to-generate-3d-holograms-in-real-time-on-a-smartphone/"
-    ampWebUrl: "https://scitechdaily.com/using-artificial-intelligence-to-generate-3d-holograms-in-real-time-on-a-smartphone/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-artificial-intelligence-to-generate-3d-holograms-in-real-time-on-a-smartphone/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 53
-    images:
-      - url: "https://scitechdaily.com/images/Using-Artificial-Intelligence-to-Generate-3D-Holograms-in-Real-Time-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
   - title: "To dampen background noise, hearing aid makers tap AI to amplify the right sounds"
     excerpt: "In the end, what may sway consumers to the startup is Whisper’s promise of a learning hearing aid system that gets better and better over time, especially if it cracks the problem of trying to filter out background noise with AI. “Whether it’s ..."
     publishedDateTime: 2021-03-17T08:35:00Z

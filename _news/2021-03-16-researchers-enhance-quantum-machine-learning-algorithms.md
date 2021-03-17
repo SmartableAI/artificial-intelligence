@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-03-quantum-machine-algorithms.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-quantum-machine-algorithms.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -40,6 +40,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/259273_web.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "FSU Researchers Report Enhanced Quantum Machine Learning Algorithms"
+    excerpt: "Florida State University researchers report they have found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications. The work could help build artificial neural networks used for training computers to solve complicated,"
+    publishedDateTime: 2021-03-17T15:19:00Z
+    webUrl: "https://insidehpc.com/2021/03/fsu-researchers-report-enhanced-quantum-machine-learning-algorithms/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 39
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/03/FSU-FAMU-Engineering.png"
+        width: 500
+        height: 560
         isCached: true
 
 secured: "Ki6yYFVHI07oP6nDkpU9/gIVlivWgnRi+8jzKvBbQspZ6gQAVOSWVvlAdBeo6ZScEk1lpSGB1ig/u2e3dlM7QcnBZKg7Kh7dfdJyt3JpaWHOQto56NzB9VdS9MT6JmgieyyzBzqWfaEh4+gZHGiRqdutsUvi2bmwkF7Zydv2Qa/p/yWcId0DnckaOTFV7eTFnpBZB2uEVYnnRnivurRBqdqB4c9ikTzM6VwcMEcYdbvQkQI3OYAIZMnzDLrdgTFeMZVfmJqwXetMjy8MwSq4aOI5kNAEGMS+RY55go4cc0+jtWoU4bNX3C0kt9+fTueomV37zG6Aq61XBljnaawfISIA297BDK80ZT2Bn0o4sQ1RZZc08qRrnI4AhI7LztSZHMnw+iQ8MXfcePK99Z/nLi26FjFcQQSQdER1uOxMnAL+7ABsWkNP36ZiBZ4aqjiq1FpU8NN2JsXts2yytb/U0W6+D8v9dKGVWJKnMuzDMkPXhB1R6yqnorHHtqGMBDROWQcKyVzZBxUxBpdrcBkriQ==;ujTZap8n9NZdluikEabrHA=="

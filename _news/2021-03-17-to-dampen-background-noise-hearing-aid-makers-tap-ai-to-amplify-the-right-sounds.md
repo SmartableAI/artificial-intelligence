@@ -40,22 +40,6 @@ related:
         width: 4800
         height: 2700
         isCached: true
-  - title: "Using Artificial Intelligence to Generate 3D Holograms in Real-Time on a Smartphone"
-    excerpt: "A new method called tensor holography could enable the creation of holograms for virtual reality, 3D printing, medical imaging, and more — and it can run on a smartphone. Despite years of hype, virtua"
-    publishedDateTime: 2021-03-12T22:39:00Z
-    webUrl: "https://scitechdaily.com/using-artificial-intelligence-to-generate-3d-holograms-in-real-time-on-a-smartphone/"
-    ampWebUrl: "https://scitechdaily.com/using-artificial-intelligence-to-generate-3d-holograms-in-real-time-on-a-smartphone/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/using-artificial-intelligence-to-generate-3d-holograms-in-real-time-on-a-smartphone/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 53
-    images:
-      - url: "https://scitechdaily.com/images/Using-Artificial-Intelligence-to-Generate-3D-Holograms-in-Real-Time-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
 
 secured: "Dl8Al6DOPVnwf0FiKVwxJI/KYVLbdjtI0NohoilU9Erb+HLv8+1nCbIxfCeqXeSrGr583mshcMuLij6UxIj/NNZI9TeHbEi4fctYGnOfqZeA/HwFSaRkMSH2DBG7TGt3TjiHfH8O8UII6Cbw7BmGHkwyY3iyNVpdsWJYbv7C/5B9ICkRPltAPQqjKqismDqC79FOgVHY5acriFIEpVXPvSlNxx4zIuuu5mFBuDLOLJnarO0XGsuy5/e+jG2BMDHGxT9Nege0/EqLvUFvtPT7myD+Yli6fz/AN44SpKUCPJ/S92U/fX/RRKVrfNwvZZLHaSOMTLQuZy6eq+b5HzhXZbdZPfYOXvDWzwlcvjoIMUdHymwa93+bjJiH1fPfd9kL28qiWamdghjJcT/RkUuBL4+Kz0dFgUh6W+DWW1/9WD12S+cD7vKYl/oimOenTwW+y5KxiL2/Tv8qYv4aSzy6HdcX7Mh6S7XIC4dz1A5zZrRs5Kb6VChpRRGXEvpnB6yTuB8zkMMVuv+fnO4nb9AsCg==;QtTU3ryeLnjAxJadkVcdEQ=="
 ---

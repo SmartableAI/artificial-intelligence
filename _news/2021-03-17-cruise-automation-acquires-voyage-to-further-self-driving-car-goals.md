@@ -159,6 +159,34 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "FMCSA driverless truck message stokes unnecessary fear"
+    excerpt: "The FMCSA acting administrator said driverless trucks will lead to \"a major shift in the workforce,\" though a Trump-era DOT policy official said the data tells a different story."
+    publishedDateTime: 2021-03-17T14:55:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21158179/fmcsa-driverless-truck-message-stokes-unnecessary-fear"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/03/16x9/Scharfsinn86_dreamstime_selfdriving_truck_highway.6052069dd112b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "FMCSA driverless truck message stokes workforce fear"
+    excerpt: "Many truck-focused technology startups are currently piloting varied levels of autonomous driving solutions with fleet and OEM partners, though truly driverless trucks ... interfaces, artificial intelligence, and automated steering and braking."
+    publishedDateTime: 2021-03-17T15:20:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21158179/are-driverless-truck-workforce-fears-warranted"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/03/16x9/Scharfsinn86_dreamstime_selfdriving_truck_highway.6052069dd112b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "GM-backed Cruise buys self-driving startup Voyage in talent grab"
     excerpt: "Cruise LLC, the self-driving technology company that’s majority-owned by General Motors, said it acquired autonomous-vehicle startup Voyage, which operates a service in retirement communities. \"I’m pleased to welcome Oliver Cameron and Voyage to the ..."
     publishedDateTime: 2021-03-15T18:43:00Z
