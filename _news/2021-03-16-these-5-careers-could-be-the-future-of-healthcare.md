@@ -24,6 +24,17 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "NIH leaders on the future of precision medicine, healthcare transformation"
+    excerpt: "Authors explain seven opportunities to accelerate tailored medicine efforts and create a more equitable health landscape in the future."
+    publishedDateTime: 2021-03-18T15:10:00Z
+    webUrl: "https://www.nih.gov/news-events/news-releases/nih-leaders-future-precision-medicine-healthcare-transformation"
+    type: article
+    provider:
+      name: National Institutes of Health
+      domain: nih.gov
+    quality: 17
+
 secured: "1RTKqWlsik5vl9tmy7LotBPwNhQZYN0NZe9oA3FDOmF2R5HVR5oyGJngwl9urbZHCDPu4VP+K0uf7n+wZ1G9ZBazR08rtj8M6KMRUuFuOHJkwlJpZrzh676FoWXmmF3dROECzFuJJVHyrOm/97aqBCuCwp1ogQORYnGHv+w4e5PFBZuijYgBPfdp68pB3VXuWb4nCSJQuKoP2SadGUR0KhNSxZwUqn5zGMPtDJ+NuMfi8GLXDZ8wPY2CZOluoVKhVGEuS+lRwZADY0oDLpcmNEUvSbh8RcPr6k+yFueeCTdEoQhBzUaGmYfMW7PzEo0vV5RXJZiPcbq22FZMvCasVqobKMtlgR+UoWlDwM7S1vM=;01IQNpDGkxrmeFsSvpZs1g=="
 ---
 

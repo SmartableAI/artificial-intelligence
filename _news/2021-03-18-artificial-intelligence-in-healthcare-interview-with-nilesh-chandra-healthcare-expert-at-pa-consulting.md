@@ -44,6 +44,20 @@ related:
         width: 270
         height: 293
         isCached: true
+  - title: "Artificial intelligence brings new vision to healthcare"
+    excerpt: "Artificial intelligence applications support doctors' diagnostic decisions, automate certain tasks, says Turkish social media expert - Anadolu Agency"
+    publishedDateTime: 2021-03-18T14:00:00Z
+    webUrl: "https://www.aa.com.tr/en/science-technology/artificial-intelligence-brings-new-vision-to-healthcare/2180566"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 56
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2021/03/18/thumbs_b_c_b307652479790961e12ea4713cd20871.jpg?v=164045"
+        width: 864
+        height: 486
+        isCached: true
   - title: "Irish start-up Outmin looks to improve admin using AI and humans"
     excerpt: "Outmin, a start-up set up by Irish tech veterans Ross Hunt and David Kelleher, has emerged from stealth and is already snapping up clients both locally and outside of Ireland. Founded and quietly launched during the coronavirus pandemic, Outmin claims to ..."
     publishedDateTime: 2021-03-14T16:00:00Z

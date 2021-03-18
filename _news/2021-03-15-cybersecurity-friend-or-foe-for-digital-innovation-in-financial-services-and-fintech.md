@@ -26,6 +26,22 @@ images:
     height: 422
     isCached: true
 
+related:
+  - title: "ThetaRay Wins \"Transaction Security Innovation Award\" in 2021 FinTech Breakthrough Awards Program"
+    excerpt: "technologies and products in the global FinTech market, today announced that ThetaRay, the leading provider of AI-based Big Data analytics for the prevention of financial cybercrime, has been selected as winner of the \"Transaction Security Innovation Award ..."
+    publishedDateTime: 2021-03-18T15:27:00Z
+    webUrl: "https://www.lelezard.com/en/news-19707000.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 28
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "suFK2B2rpELVOEQIg6Bw5/vYu5R07unOLNJoVmrK1ybOsL/P1q+ZdTnImdbcJz0/TB99c4ekj1JJLn5HU9wS6Mpum1+DOGE3igf5EUSF1FT6YCIaB8eL8XdGBUF9+Ln/fDLJ9b8gCkBKOQJHRJ08SfNySCSBceOp0RtvoUXbjC41Ge6j+TnSpq9ZmNhFqsLodjvTMCnOlAI1RLvsQmQFJn2gZGNNy5JKwKR7cKqLcmrhzFuS4F3VcaesIotIQUcZZRBqa9GYfevW7QcXZuZGnmgW2gTdcZ5K4w3kHa1lC8iJDZQ7DtRYFxdKi1nrFRWQIkcxyCeqRMxHFO5tIVVviVWyh8HG2swaqlaA5hHN9V8=;LOYGt1UDcu3dQkrh2eYUKA=="
 ---
 

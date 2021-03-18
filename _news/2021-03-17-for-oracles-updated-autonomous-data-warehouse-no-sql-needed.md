@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/for-oracles-updated-autonom
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
 type: article
 quality: 74
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 74
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/03/18/b89dc660-6163-4316-a919-9cd06252cb8a/self-driving2.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "Oracle unveils upgraded Autonomous Data Warehouse"
+    excerpt: "Oracle's upgraded data warehouse includes built-in data tools to help discover anomalies, outliers, and hidden patterns in loaded data, and AutoML UI for automating steps in the creation of machine learning models. Also primed for citizen data scientists ..."
+    publishedDateTime: 2021-03-18T14:15:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 74
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570817219/itpro/2018/12/oracleshutterstock_1120891736.jpg"
         width: 1000
         height: 667
         isCached: true

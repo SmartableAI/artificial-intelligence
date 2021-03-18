@@ -167,6 +167,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Safety concerns determine level of public support for driverless vehicles, finds NTU study"
+    excerpt: "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,"
+    publishedDateTime: 2021-03-18T14:16:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/ntu-scd031721.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/259486_web.jpg"
+        width: 720
+        height: 479
+        isCached: true
   - title: "GM-backed Cruise buys self-driving startup Voyage in talent grab"
     excerpt: "Cruise LLC, the self-driving technology company that’s majority-owned by General Motors, said it acquired autonomous-vehicle startup Voyage, which operates a service in retirement communities. \"I’m pleased to welcome Oliver Cameron and Voyage to the ..."
     publishedDateTime: 2021-03-15T18:43:00Z

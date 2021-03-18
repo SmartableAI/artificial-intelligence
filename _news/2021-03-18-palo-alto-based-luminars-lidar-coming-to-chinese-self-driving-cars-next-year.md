@@ -1,0 +1,39 @@
+---
+category: news
+title: "Palo Alto-based Luminar's lidar coming to Chinese self-driving cars next year"
+excerpt: "The Palo Alto self-driving vehicle tech company said it will establish an office in Shanghai, its first in China, to support its deal with SAIC Motor Co. Ltd. The agreement with SAIC comes about two weeks after Luminar announced that the self-driving ..."
+publishedDateTime: 2021-03-18T11:52:00Z
+originalUrl: "https://www.bizjournals.com/sanjose/news/2021/03/18/luminars-lidar-coming-to-chinese-self-driving-car.html"
+webUrl: "https://www.bizjournals.com/sanjose/news/2021/03/18/luminars-lidar-coming-to-chinese-self-driving-car.html"
+type: article
+quality: 1
+heat: -1
+published: false
+
+provider:
+  name: The Business Journals
+  domain: bizjournals.com
+
+topics:
+  - AI in Autos
+  - AI
+
+related:
+  - title: "SAIC partners with lidar maker Luminar on self-driving cars"
+    excerpt: "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies. Laser-based lidar sensors help detect objects ahead of and around the vehicle,"
+    publishedDateTime: 2021-03-18T13:19:00Z
+    webUrl: "https://www.autonews.com/mobility-report/saic-partners-lidar-maker-luminar-self-driving-cars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Luminar_Nasdaq_0.png?h=2475ff28"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "/9b9WRcGTom2liSEuFR6FxcRAQ8VTnHKIPqNqW0mQ8jM0/quU2B6CsKfiEGKEZaBp75UlwPk8ujBIcos5Tsvhll/pJgSi1lj65FIZz+11Z0FbHo2K83mgctb4GUZaefwzTqiMFEF9zCZZJYIcchvX0wSKCq62xje3CT0oMdqr0SgGNR2x0GbopeQzxULBCpI660vXS/y9qeiYeYiyW1ssXi4Gvt1+rYBmbjICMs8bWaPaV06zBpPjxPKX5iWF3llP5KIfNFUo1zpA5YbfnFGejhma9GwaQAbzNJsIKMsN60fLHpcPHCgGgBdl7SM4ohAggRmPBnNWQp8u/ITfiSRgPMzZfG7I+peLss4sKIKrUxnJ194x6UYIpVJesgQ2yF6xSBVkGiZNCUaf70URsBAFjRxDEWcn/jT//jOcZGHBcoUzYPAWCm5+h4fjTjHgQNrBOkVJ1Hocz/AHUIVcu3XJb3EWXMP+4QbW/xq1m6WYc7moCPnVzepbCOUzZkSVVlSvoPQxQjk+t634AMSadCnIg==;yPAJ6uy1Bggwm+LwIKQS/w=="
+---
+

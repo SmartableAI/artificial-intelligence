@@ -40,6 +40,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Cornell AI startup secures $1 million in seed funding"
+    excerpt: "Iterate Labs, a startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety,"
+    publishedDateTime: 2021-03-18T15:28:00Z
+    webUrl: "https://www.miragenews.com/cornell-ai-startup-secures-1-million-in-seed-530652/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 37
+    images:
+      - url: "https://news.cornell.edu/sites/default/files/styles/breakout/public/2021-03/0318_iterate.jpg?itok=x13vdb9m"
+        width: 670
+        height: 377
+        isCached: true
 
 secured: "xVKghmfaEOQypBnsTkIW5IsfKRfja+aomS+2PWnTosKJyRFgM2eF10xjxcIJIf8kTQeBx2SaPD9SyFnT98JaW67ho5ZWy4CwuSP0P8/qd9NDIu4xf5uo6hgG6D3f8lPk0Z20cxyVG6x+T0M9IBJzDTC+pL6MEX0p7gul5o/ROZLQjOehUAWJK0TLZSms//pE2t8OY6YI4D4r2Oe8YZWSGd1XRBIJwpN52msyz8LSuChR9OIZgQfI7OaTmPXy9cStCDZ4v+Ajmt7fd9oQAbDjWcfKnS1kyJshgJQVPaHUMsi34oiue6KIA0e4v5D+dLA+9E2D0vZStYC5SZTVWkawoyuoWDbSYtCw9Ib8QrlNuUu3V67ALGpjAJuzTnbwoHoO9F5CaBU11h353fmiQ4TYNcUkArSF/GsHoREr/ocKZRV65Rz37s003rwihge+t5pBrhp2cvg7LUfbPTRAWRYhWZhg/bYlBGMboNpLHCQRnq2o1Er0caR0IiVrxPkre8G5V5+12LIMmOlVtmn1yG025g==;eNLMrdKPUDStbbgJBAAwyQ=="
 ---

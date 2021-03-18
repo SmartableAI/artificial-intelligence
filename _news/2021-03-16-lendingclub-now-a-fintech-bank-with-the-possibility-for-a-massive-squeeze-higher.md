@@ -207,6 +207,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Concirrus appoints six insurance and FinTech leaders to new advisory panel"
+    excerpt: "Concirrus has appointed six leading insurance and FinTech executives, including former Axa XL and Aegis London executives, to a new advisory panel."
+    publishedDateTime: 2021-03-18T13:57:00Z
+    webUrl: "https://www.insuranceinsider.com/article/28a97suqxy5znzxwm9mgw/concirrus-appoints-six-insurance-and-fintech-leaders-to-new-advisory-panel"
+    type: article
+    provider:
+      name: Insurance Insider
+      domain: insuranceinsider.com
+    quality: 2
   - title: "This Silicon Valley fintech is helping Lyft drivers get PPP loans before it's too late"
     excerpt: "Work for Lyft? Income down due to reduced ridership? You might be able to get a PPP loan, but time is running out."
     publishedDateTime: 2021-03-16T15:54:00Z
@@ -217,6 +226,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "KrOssolJbIHh6h7D6tx7pjyR+v/pcyPykJYJ5TUheHKcD0q7GiwgVCM44Vn304YS5PPiCUbX1xopWK2nfXrZrlecQeCUNIpSF6j80r3pvd+WMT+gF4sIgkru/2dD6rpfbTKs4c2rnTA4MH354h1pghSlwEY/M6RcJxBMFPHfc537xBBEzxIvKX8DLCnFr/MvRiFaJ4QOqs9sW0jSumPBC4OZb4kYhpifEW5YgCoLPiZMR2QWIjkO30X5e033eyKxb/VB+EsVSw7RTYfSLY1kuwoW7kO2KMoykFxHof0YUUZKldCd8oxs+TQ58QAf2byTYIHzhgkPuAHithJiJgrCg0t3yxGfVvagOV3CE6uqUlI=;4hakMaaeuEBrAZuzbrAhrQ=="
+secured: "rWKqvA9qsNZO7skmw4a9dNdHsX+XfUGuO0GnCu/ByNkkQV9OpsigLghA/fw4/enhqJ4ZS0vFVK/rJjAs2/n14ONFMxXAbQpmxsGpROmEk9cp0IAWGnHgSH55ZP8IBNqVkVoUGwi7qzPUf0BcFmm5YW5VwowsWJzciZj4shdGjp3Lg38+wA+M2+GlvTOVy/IitAlfy1F0JGwcvXhpZ+NK56pSM5cLX5nHR3iImnlhja41bq5IJ3MSDW7Bn+Hzq5Qk+/LvP13yzsJQEQ77Dipbiqh1jo0LOVsCxLae4rQFNImoTKWytXR0XmDrAv4qP98pBedsaPsYAUa53mc8hXKaATk4zqIxF35+UNwVkSsO5iaSpYkgwZylcIb19qmp094aHmUuN6EKEaH5AILLf4QVLciW4hERoLKW1uvW8FkUPOCZI9qMCAO7+YsokBxXlqClcBEQ2qGq0ovJX3kWD0X7AKDsErQ4RwMxfLK66h0KP12CkSAGVQSh3CgYrpmZobbLY4KK+LZ39E0u8lvsobQN+A==;FSGYcii2g8AvlaPlIEYVGg=="
 ---
 

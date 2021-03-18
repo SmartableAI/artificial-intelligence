@@ -2,9 +2,9 @@
 category: news
 title: "Financial Expert Daniel Calugar Comments on Ways That Artificial Intelligence is Transforming the Global Financial Service Sector"
 excerpt: "Daniel Calugar, an experienced investor says that artificial intelligence will soon be an essential driver of business in the financial services industry. With an academic and professional career in computer science,"
-publishedDateTime: 2021-03-04T03:16:00Z
-originalUrl: "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
-webUrl: "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
+publishedDateTime: 2021-03-04T11:16:00Z
+originalUrl: "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
+webUrl: "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "9jwOrqdo6Y6oB4YGxm1txiuVDhhW/mMKt1qP9Y+gP2iLDZsd2hQHZFHYX+Y1UZ5Y7WrWKHoXKIr14Su0Ccqcb4HLodbJuGZEqXfP6V5lNftTYroMQhj5KRW83/xiIBF1KeWxJnZm/q9PXyq/b65g0uWWCtq7zmc6qtT9Lc78JF3XQqveTcUuVDdQnZEKoO5li1GPLYFnKxtYG4NZaKPqgqcfk/HQEZQjQEqPB/d0Mtv8bM/Jhz1Odbysy5FuGp8yUL2guZ0fPnAllQJPGNIEGHZs9uq//BGm+XyDw234vndL5GL2pieeQRX6hIHu1DbBhYeCbzUSxPPezbBOL4XYCQioevKp9tuKsNUGR4Rv4Bc=;oGVMB6FlD2gen+qvNJruMA=="
+secured: "MknkQtXJP5hm4ETpXagKwdXG5hZtxR0/wIE0w7EwNzCXv36VPoI4LYIYe2ZIU4mLb1Dvka1lW7Ue2JSgK9xifniReVpjm/zF/rCdt7mzOXMljR6GqxpFoYBtGwguFnM6Y91DrbxvN5tJMtn3at7XGG/it/rromZdo+KFyvg/dcMRG7oIKtwnJyeVZeiBS1b6biO+Ly2Efbt1t8ehH5EeYwAos1kqPkqBMdIuQpVdQvqKhJOaOPd36oJEuZ3dwdoJ68oE0yVm/ZuQXcpCHY1fCCyWqxv1s+qA/QkgAoslsUI33B5tPOzAmNLYt0AsXJ9cXvtmsUDv1U+x36G9zdmfCZL3AKwGDco2drZs1q4Otd8=;YwHHQJ6m8Q3VINMy8p4O6Q=="
 ---
 

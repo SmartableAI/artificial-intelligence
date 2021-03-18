@@ -56,6 +56,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Artificial intelligence and algorithmic irresponsibility: the devil in the machine?"
+    excerpt: "This article was co-written by John Latsis, chairman of the Independent Social Research Foundation. The classic 1995 crime film The Usual Suspects revolves around the police interrogation of Roger Verbal Kint,"
+    publishedDateTime: 2021-03-18T14:46:00Z
+    webUrl: "https://www.econotimes.com/Artificial-intelligence-and-algorithmic-irresponsibility-the-devil-in-the-machine-1604437"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 31
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021031748308591f00f0e25e_th_1024x0.jpg"
+        width: 926
+        height: 606
+        isCached: true
 
 secured: "i0gbLxZXSAzhiAkR6p1MbO4JduKAHh4ZpGlsHmlj/mWB20j6IiMd86vU6e/RVPsyJd0p4TcOEkNBbtZNDNoKXdTeigzlqDjHob3BJwyTomgDGSaZfse2kg/wMCjp1HT3YJ+1bVkjbF1Pp74NaLDiKbqf9aUAtnphKvEGEoq0KOhiY26LXiW1IGBPc2dB8LgpgfiSJOoWwWuaa/bcWrrqOlCVxOEswkZhlsarYwS4n3NI/oxk8SlX+Njlp2FP8M3YehZpEODnr9NGAbnSxXd4i5gSWfSjjFLTpZ+hYJ6aXqVuyHI7Pa3gbP+swinM8IMFPAunKT0lOrCd3IAeYA53o0Tl7oe7fLUGujlmCLvJAb/kewRIcsO3BFHY8OluvU56evhE9GCUfquoGneWMXzoO+yoDMQAJk+iEzdBi4sIlH3wjC+80qP/jJ9RDpxCpGnCHKjDOQhWvXJbNRkZ0+Fg9OYdrVxmIOA6oCHUgwezFbSRBY5vQEIvHMFZcu8MQRPdabYQxqfV6apAYA2/86bjVw==;PKHLJU3d+WbZzQFpA2R3Dg=="
 ---

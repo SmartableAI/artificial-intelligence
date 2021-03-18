@@ -56,6 +56,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Artificial intelligence brings new vision to healthcare"
+    excerpt: "Artificial intelligence applications support doctors' diagnostic decisions, automate certain tasks, says Turkish social media expert - Anadolu Agency"
+    publishedDateTime: 2021-03-18T14:00:00Z
+    webUrl: "https://www.aa.com.tr/en/science-technology/artificial-intelligence-brings-new-vision-to-healthcare/2180566"
+    type: article
+    provider:
+      name: aa.com.tr
+      domain: aa.com.tr
+    quality: 56
+    images:
+      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2021/03/18/thumbs_b_c_b307652479790961e12ea4713cd20871.jpg?v=164045"
+        width: 864
+        height: 486
+        isCached: true
 
 secured: "EDVEqLJ1Tgwmt3n5asIHn+IKBpQnig5wsHThzFJCkF+a3x14X2O7fYADgeZQUuP+Kd+0BHbSDUalsQX0gxWoVxIjPzo06/yOMM5vk75vOofkyk0gCzYZDa17UtAlqDmosXMz0qidotYkV/fkNs2jUqTS5quVp4eC5FY21qygMbAcsLtN/kT2Vnu3WGobBFzuK2vcmC0fe+1HN9uAweNQrCrB0FDdYUOycNLTG2I5YnWHLItXRXrn3DF6FxF+bNPrjwyEVU2hUu+GZ29o2d2KDLNfw68/6RoxLb47O4YO2Qfg5SP4tNIysp9UtdoiAmG1EOwP/TlKYbef/xQYFfA5ktcUexCZWe6500rjj1NoQHXYkGI2h0KeDSydiyLJ8frygFbSF0wP8cacQGDP63X3vefbj9tW2H1dTZss9joduz6TMKFhYrvHWuf8xf4bxAiPRUhPOyYHCq9esImBEP+NLKpuRSGvkIc3RFBschHYfCmfexXKdg859EU4NQ/ar7NU+d0dpzrpcYOG0PWg7AbYxQ==;OS78jcb8X03xg3cx4zWshw=="
 ---

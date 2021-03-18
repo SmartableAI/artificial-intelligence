@@ -21,35 +21,67 @@ topics:
   - AI
 
 related:
-  - title: "Facebook will use your uploaded videos to improve its AI algorithms"
-    excerpt: "The company said it would help improve both its moderation efforts and recommendation engines for video.In its blog post, Facebook said the algorithms will learn 'themes' from the videos users watch a"
-    publishedDateTime: 2021-03-14T13:26:00Z
-    webUrl: "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms-11615727765901.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html"
+  - title: "Facebook reveals its Smart Glasses’ nerve-tracking wristband tech"
+    excerpt: "Facebook has revealed another step in its path to augmented reality Smart Glasses, a wrist-based controller that blends AI and nerve-tracking EMG to leapfrog traditional input systems. While the"
+    publishedDateTime: 2021-03-18T14:38:00Z
+    webUrl: "https://www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/"
+    ampWebUrl: "https://www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
     images:
-      - url: "https://images.livemint.com/img/2021/03/14/600x338/4ee21dd9f024465c9886ff7b88ee0679-4ee21dd9f024465c9886ff7b88ee0679-0_1615727938422_1615728025114.jpg"
-        width: 600
-        height: 337
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/03/frl-emg-wristbands.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Facebook will use your uploaded videos to improve its AI algorithms"
-    excerpt: "but the company did tell The Verge that it won’t seek special permission from users to use their videos as training data for AI. The company’s data policy informs users that uploaded content can be used by Facebook for research and development."
-    publishedDateTime: 2021-03-16T11:06:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/16/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms"
+  - title: "Facebook's upcoming AR wrist controllers will hijack your nerves"
+    excerpt: "\"I want to address why we're sharing this research,\" said Sean ... And other devices, he says, like the Facebook Portal – which sits in people's homes and uses AI tracking to move a camera ..."
+    publishedDateTime: 2021-03-18T14:00:00Z
+    webUrl: "https://newatlas.com/vr/facebook-wrist-ar-control-neuromotor/"
+    ampWebUrl: "https://newatlas.com/vr/facebook-wrist-ar-control-neuromotor/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/vr/facebook-wrist-ar-control-neuromotor/?amp=true"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: New Atlas
+      domain: newatlas.com
+    quality: 74
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/16/1079540.jpg"
-        width: 1240
-        height: 837
+      - url: "https://assets.newatlas.com/dims4/default/b97df71/2147483647/strip/true/crop/1620x1080+42+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe0%2F4c%2F229792ed40b0a8de21c235536e69%2Fclick.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facebook Lab Reveals Direction Of AR Smartglasses"
+    excerpt: "Facebook Reality Labs (FBL) takes the wraps off pioneering work on the AI and haptics needed for all day every  AR glasses. To have practical use a system a number of"
+    publishedDateTime: 2021-03-18T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2021/03/18/facebook-lab-reveals-direction-of-ar-smartglasses/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6052ffd96976a5b52dcffc41%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facebook Reveals Latest Wrist-worn Prototypes for XR Input & Haptics"
+    excerpt: "Facebook today revealed some of its latest research and vision for a wrist-worn input device that the company expects to form the basis of AR and VR interactions and haptics in the future. The device,"
+    publishedDateTime: 2021-03-18T13:59:00Z
+    webUrl: "https://www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/"
+    ampWebUrl: "https://www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/amp/"
+    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/amp/"
+    type: article
+    provider:
+      name: Road to VR
+      domain: roadtovr.com
+    quality: 44
+    images:
+      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2021/03/frl-wrist-prototype-2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "HL6dEg9POgkY+sfVg9bSDz8fjlPsbNgupdYFqQ0sli1wx9NbC21DyqvAZbunvX/TLBomM0e0A6OJymt+78W3JVK3KviaNwvKBF4DZWM00tMjaKRlQx9gkfR6w0RRnpGc/wWBQGYoPfxXeJrwtguwpY8gBYa70LOcY8LrATV8/C0qjkstwrUITgP1JGTYHLrI0LYkOhQjnn0ym2tXExRaQnRsFfON+M5XjpZZ+gXxm3NfyuXDpUmZ3+x+2rII92V5dBU1z8f2XRjbKqrx/0UOFOrTrBVnAiuAsWMAHojn5s++IndtaHbvNQrPkqQamTOXVjFHJfLh7fN5EQoC3gtUpwF3oQxj6aNdzjUrawuiX3s=;pYsN55oVpp8KvtEV3Omnsw=="

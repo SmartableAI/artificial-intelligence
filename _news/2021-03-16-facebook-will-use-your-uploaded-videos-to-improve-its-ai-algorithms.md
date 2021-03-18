@@ -41,17 +41,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Top Stock Reports for Alphabet, Facebook & The Home Depot"
-    excerpt: "Additionally, strong focus on innovation of AI techniques and the home automation space should ... (You can read the full research report on Alphabet here >>>) Facebook’s shares have gained +10.5% over the last six months against the S&P 500’s gain ..."
-    publishedDateTime: 2021-03-17T19:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17"
-    ampWebUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "vdwpMCbenYX+wjA87OnCrjYxkSRAbxEYUz82qY/t4WlXHdCAbsIS+gXjWnXeJxLrHmGyCQwWbdOXyKt/xG81dgDoHeJd4c4K7mKZwVlJ7fhY79jo/xaSDVsA50eipvz7gM/GvJbHMvBRzNGfWIEUsOFb7Cz8mUpRprucn91QaRWDAf84YQzZ41AVGhpJSHK7Bv6dGjVBYduyafbMQCfIdcbrbeIGrVHeKaqifl07jTQRCmBdgCYfPYOZ4jIrGeX5OJkBOnTxQII+e6jk0bGUdKksMJnAeS9geZgFEQlBp6W5jfzNpl6Itja3KJNFOQJBz7LdjU39Aoa2cB7RhJvhFbfvi5K/PK08CIrrY6nmo8Z8vgT8tUmGEtotu8e0U3iCBY787A/Hb6Wa/Rt2NLRss2fwIFgfHLJN384c13pYtq6ncVo6g/zZIJ9AcNq4b0kLtQqvqiJ9+eIa3LDPIDRoq+zC1FZ2RvcdAV+ew9MrRB2+Z0lYos56fYHM8Q4KAltqOdI/5kJedtZeiIi3yOu8Jw==;xVBEWJoMkkMMn3XX8sZCJA=="
 ---

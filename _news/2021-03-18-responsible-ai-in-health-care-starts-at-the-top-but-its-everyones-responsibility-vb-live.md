@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/17/responsible-ai-in-health-care-sta
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/amp/"
 type: article
 quality: 77
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://images.theconversation.com/files/389548/original/file-20210315-17-jupa75.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=212&fit=crop"
         width: 320
         height: 212
+        isCached: true
+  - title: "Artificial intelligence and algorithmic irresponsibility: the devil in the machine?"
+    excerpt: "This article was co-written by John Latsis, chairman of the Independent Social Research Foundation. The classic 1995 crime film The Usual Suspects revolves around the police interrogation of Roger Verbal Kint,"
+    publishedDateTime: 2021-03-18T14:46:00Z
+    webUrl: "https://www.econotimes.com/Artificial-intelligence-and-algorithmic-irresponsibility-the-devil-in-the-machine-1604437"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 31
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021031748308591f00f0e25e_th_1024x0.jpg"
+        width: 926
+        height: 606
         isCached: true
 
 secured: "M/ZrzHHfzr8NBpLi291vlbk2h/I2/sTNm7xD+eQUvyRXbRdrhy1aD6yHzI70Q+6qPLDiRV97ATBRUwpuNp+HuuYcE/BXHyLvJgnqf6jenPKMBVW2wvCj0m5x2NgzL6tUj+eqr6yg4gfyqdoCEisV4Yc2jVKHK3lztAvv9EfmCu2ptdRS+JdDgSItzIp0Axphb3bJbjLahN91PhyvYUK527WN+uDjpySObmzUZY6c0Vs7BXHTp+7Um1a2iujoraAgDovaWLvSfVQHa6Y11Mv1A8/NH1XjOvMlVhm8iyBuw9JNkskQ7qMXoW2H4Ya0o7VusMEmxyKJyiMEjP6HKEj7HPBvzKdUwJPeoN0IYLGz02vcNr1zXqeWGxFWJyLsz44w6KisLGOKKNHypYmO12SKCt3Ui36Pi3M0nbaDW7iSPXtqjR4047b19HkZMd/D+NbtEGdzGco+xt33fs2qv7btX+/xHWBTSlEw/dsbOB0D6fSzgy93/hCfRtrxbEG+VYXixfYm/1rc15yxoTRKIjXGoQ==;376Rwq3mjpoGFICm5I8VYQ=="

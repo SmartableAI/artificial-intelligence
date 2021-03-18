@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Oracle unveils upgraded Autonomous Data Warehouse"
+    excerpt: "Oracle's upgraded data warehouse includes built-in data tools to help discover anomalies, outliers, and hidden patterns in loaded data, and AutoML UI for automating steps in the creation of machine learning models. Also primed for citizen data scientists ..."
+    publishedDateTime: 2021-03-18T14:15:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 74
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570817219/itpro/2018/12/oracleshutterstock_1120891736.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Oracle Announces Next Gen Autonomous Data Warehouse, Expands Addressable Market"
     excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper as today, Oracle announced the next generation of its Autonomous Data Warehouse, designed to make it so easy to use that even entry-level enterprises,"
     publishedDateTime: 2021-03-17T14:00:00Z
@@ -120,6 +136,6 @@ related:
         height: 333
         isCached: true
 
-secured: "ilTjrUTDdZjpxRUqFkiFMJ+wjqXpKRLiNKpB7yaCr6BvN+JE/1YrDYmE4V8Fx7O0l4ihPfIWpaLoqISnBYTFX/S2M1GnGrWYcLVOco6VmBt8CQXvlR+ae5a2TWTgHywMGeJ6oZ+EcaH/4A3KOIm2D4QkuTHuls0qcaNjhYMWv86+WczJwVMfN2RVYfeuYqIbr5HEfzGTrsdgjva4Ow7VgOImQquMl3iH2+Ob6hi0NTAUXx2em/q2sDicax6kzzstvt4La8jbpSTg5bI0nb4tjzmv6Q26clfcjF+DkpmtoeyhPiwg7UrVO5y0uFQ0hXaLUBLoxrVpS5zON0VXjIc5tdTPUOL24LJjmMYEvEs2LNs=;bLwNg0G3ogZj43VFTLNWzA=="
+secured: "FElFM9VOZdUXMFketkedatTXph99VrRpLZ74vtFCN9V1RICfWy3i1820bkgq2rYSdJwGUZ6kycvY4CpjJ5j6h/pFwCc54J0QO0BEI3PIGYTdTyKbsHD0BBJTSbYLm0J+uxXtiCZnVnFyH7jP07YCqSehBo24Ya3vkTB9uQCQaibiJp4zaeyl9ajN/el8FCVukJ/i6xzx5LClZP/IoixN7LflHdclIamtdDkFUzPWRKP5GaRTEmKHpVnG6KKg9BnMiBLluKr+7T018xpLNzgJBQHvJgw9LwWLEc3R6fNblzwDfDCBxNunjbSqxHzgWn7V1tKKEZsyvMMaB7Y8kUhRTV4f+CdrCrDwZJCy/YheIuDpYPNs/XQwWUPIM5oC5iKzfNfKnklq6BNI22SWvtpwDueUdy7Y3oV08F+mF7JdxFxINFzYDPRMrLTrJ1D+htbssMZxn3rBb9vGVjH7QJRmGamtze/O0ieeZuU4253Xs8naNY+26dm9I2bg5Bo2yLb4t33bGmYJ//Iw58Tr+AEV4A==;hFDJSYAlDAOxceheolTBYQ=="
 ---
 

@@ -43,6 +43,20 @@ related:
         width: 480
         height: 260
         isCached: true
+  - title: "Global GPU for AI Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
+    excerpt: "The global GPU for AI market report is a comprehensive research that focuses on the overall consumption structure, development trends, sales models and sales of top countries in the global GPU for AI market."
+    publishedDateTime: 2021-03-18T15:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Orion to speak at NDIA National Security AI Conference and Exhibition (NSAICE)"
     excerpt: "Orion Labs, Inc., the leading voice-first, intelligent collaboration platform that empowers deskless workers, today announced Orion Labs's Chief Technology Officer and Co-Founder Greg Albrecht has been selected to speak during the NDIA"
     publishedDateTime: 2021-03-16T12:17:00Z
@@ -84,6 +98,20 @@ related:
       - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-85570-2/MediaObjects/41598_2021_85570_Fig2_HTML.png"
         width: 685
         height: 343
+        isCached: true
+  - title: "DISYS Launches Enhanced Healthcare Automation Solution, D4HAtm in Collaboration with Automation Anywhere"
+    excerpt: "Digital Intelligence Systems, LLC (DISYS), a global technology services firm, is pleased to announce the launch of its enhanced Healthcare automation solution, D4HAtm (DISYS for Healthcare Automation),"
+    publishedDateTime: 2021-03-18T15:22:00Z
+    webUrl: "https://www.lelezard.com/en/news-19707008.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Pangeanic Launches v2 Document Translator and Anonymization Solution"
     excerpt: "Pangeanic today announced the upgrade of its NLP ECO Platform to version 2 to include multilingual anonymization services in English, Spanish, Japanese and Brazilian Portuguese. The service can be used in conjunction to its traditional document translator and private machine service."

@@ -77,6 +77,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Oracle unveils upgraded Autonomous Data Warehouse"
+    excerpt: "Oracle's upgraded data warehouse includes built-in data tools to help discover anomalies, outliers, and hidden patterns in loaded data, and AutoML UI for automating steps in the creation of machine learning models. Also primed for citizen data scientists ..."
+    publishedDateTime: 2021-03-18T14:15:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 74
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/v1570817219/itpro/2018/12/oracleshutterstock_1120891736.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Next Generation of Oracle Autonomous Data Warehouse Available"
     excerpt: "Oracle announced a set of innovative enhancements to Oracle Autonomous Data Warehouse, the industry's first and only self-driving"
     publishedDateTime: 2021-03-17T16:00:00Z
