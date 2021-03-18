@@ -52,20 +52,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 86
-  - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
-    excerpt: "By making it easy to connect LoRa devices to Azure and by providing insights generated with Azure Cognitive Services and Azure AI, Webee and Semtech are simplifying IoT for our joint customers.” Semtech Corporation is a leading supplier of high ..."
-    publishedDateTime: 2021-03-17T22:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/webees-no-code-end-to-end-solution-builder-software-powered-by-microsoft-azure-and-running-on-semtech-lora-devices-democratizes-iot-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
     excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft's"
     publishedDateTime: 2021-03-16T12:07:00Z
@@ -103,7 +89,16 @@ related:
       name: WBOC
       domain: wboc.com
     quality: 34
+  - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
+    excerpt: "By making it easy to connect LoRa devices to Azure and by providing insights generated with Azure Cognitive Services and Azure AI, Webee and Semtech are simplifying IoT for our joint customers.” About Semtech Semtech Corporation is a leading supplier of ..."
+    publishedDateTime: 2021-03-17T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
-secured: "+cXAxt/oEce2jNvydfCULZ7+pRXqN619uAvClQTwsejrZzXOcyh8didruQhEtGsRTYr/2+l72oEyQjPAAiHUgyFEimTqKq2cPeiJ5H4cFRGEFlUHP3ZG2snifWIlsZFvhTThnGAl/wqdrr3ckljq7VREZJqrZuU/C06hVKs8vhUiuL5CZcX1YjkrYts9KTJ8F9Sl9b9e/1WASvvH+ZD4mct6uLDbhM2L3aLj5bWsqkAwy0Icd/Zs+y3IQnUi1lF1XcXUt4k9H6UhfQeUVpfdnQ+fpCWsm4SJoDhxJTH6bq554iuuVUUad8ETEmNT82rnC7h2fGweiX5v/FGXxtwezGPCkOFUKsHc5F4GlAqU5Ko=;xMlH4Yke46hLkgQYHD6cRA=="
+secured: "XI0P+hMNPTN51Fn9h/6stW6gP4HYkfMhN920ViNYx0lG7YoVsZt6CpUo0LUn0Yl55IaIb5xR8A+FVPqX8UAh6nr2+E8EbEs6wuDPAx1/ytlzyjJTuOjjJYf7AT6P8wvLmnDFU4BeF190P0d3qwzquSyGLKKUdVg51ti36yqD8XkNXPAGlA4F+Fj0eHJo59G7H6r8k+uZWhZv6fGXp0qI8gz19lvi3jSlgqdh9Xgle2Y+H1EN8GDeUIBxybHePF1kcE581uP/cisAH0/ZrhUBXUhkrlbMDmMoXbywLAHSjOfvp7qpnVUr62csfxwaOcvLAf2UIYy093Iw23SkwzF7yOoG4iA2RbMHa/1XEPSzdLrp9O3Y9bQWm4stBOS941Cs0GSQnQTgUuudTecMIf72UGXEK+7Q99k2nTUD0copKf998bdodXc3L4Y5Mt+pewHhiGxj7M0y9KjL6l828I1AZQdrDO6gZhsCXpdC3elcXdl3ldJR6AKHDEMiujqseAPupY05aDU+jW5p/VnxYWKcXg==;okSp1ag6cMzUW2Kf/2Th+A=="
 ---
 

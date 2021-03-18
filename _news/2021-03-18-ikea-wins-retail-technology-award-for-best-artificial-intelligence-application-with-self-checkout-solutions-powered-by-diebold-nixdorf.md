@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Ikea Wins Retail Technology Award for Best Artificial Intelligence Application with Self-checkout Solutions Powered by Diebold Nixdorf"
-excerpt: "Retailer IKEA was presented a “retail technology award europe 2021” (reta) (reta-europe.com) in the new category of Best AI & Robotics Application as a direct result of an innovative, self-service solution provided by Diebold Nixdorf."
+excerpt: "Retailer IKEA was presented a “retail technology award europe 2021” (reta) (reta-europe.com) in the new category of Best AI & Robotics Application as a direct result of an innovative, self-service solution provided by Diebold Nixdorf. The award ..."
 publishedDateTime: 2021-03-17T21:08:00Z
-originalUrl: "https://www.newswiretoday.com/news/175008/"
-webUrl: "https://www.newswiretoday.com/news/175008/"
+originalUrl: "https://www.newswiretoday.com/news/175008/IKEA-Wins-Retail-Technology-Award-for-Best-Artificial-Intelligence-Application-with-Self-checkout-Solutions-Powered-by-Diebold-Nixdorf/"
+webUrl: "https://www.newswiretoday.com/news/175008/IKEA-Wins-Retail-Technology-Award-for-Best-Artificial-Intelligence-Application-with-Self-checkout-Solutions-Powered-by-Diebold-Nixdorf/"
 type: article
 quality: 2
 heat: 2
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "MsQ5tb4WpNtsmricIt88KI0Dgv8TiJtaKMFOVAqvwRVKRTA77sEUcWKl9SUuzTSBY9SHi1bpUtNxnsEzlyqZvoXGNepFUyVUEsWvhVhx4wDmE9a7xB+t3PiRG7C5eESzJnAXKWM17qxMWR3w2wO5GfnbYAJpVBrtxzrxEySIkBdooogGmowqjlR44S1jRreXa2LAasQIhp5wsJdLaBvgsw3STEm4eN7xqFuGWhh0kBwYC+tzepAxY0QG666AjhpmonUTER+Y4vLr7tAeNXqMqge18PVx3kUPKrIpStUk4oNWicSMF3zI2U0fp0MDygEBV4k65H2/8vJZLQZ8wZdYmQRaRLWCOblgDPIm6W1lv5EoDeDD9jiWHfqT77bHcM2ywNdjHsO/Ro5ntXDi9AKFrQbvK5xuFKpj8yCEAqzW+zeT1jyYeThvPV4XtKMGtdz0IrSGOFhoI5Ve5vvcfBafWnbMVE/R2XI9Py3ju39kfkUexTmSC+5SpeV6jod+EDsm3PUll34ibICKRABL4R6wsA==;puF6/XtNwT3ey5wZgH5TlA=="
+secured: "4xXQzjL18MW+cE5J0cuLzE23FiuOh7NBPkoABmZovnHLzD6lpmokecHKOnnnZh7a/gB+yN/eyQo6M4SS22XkbGTcs/DBfveHgTCwS8WNwpnZIojIoxkB41uDROoLHIM6yvJUEXri+EcHNmhJrBlwFFY09b6KlPEneuYesf0xaZFnJyrOs40lDEKDpZjfrZLU9c2zXsydwLWW9uNwlVPx0nWRUec59iycAW3bWIqLxCrp3sCJQXff0yfpljNKVB77w21Ivj7uiHP2x6e1PQyNrbz10HOvYdIXDTaIKx63UzGI/cjIm6bpshlG4yPV/wimvZpZifxRv7FcezF4Psws4Z5T95Uo3M/bx3MuD2H8lo0hrgL02JgRPVpVa/k/vR+caqO8oHzmD3BuzTxcC2axcI46aKXGi+GHss+XxrUbUWwqC+7Dvf+78T3s7Oso5S7n1TAAtWKmI4h8a2ciXnvDSR1vEUbcXceiLao7NHKy4J36TO1zD/WHAyQrP5PKeGrpahwfRYmMvycVmE640/C84g==;+CjwyhaUILeSPwjpUyKijg=="
 ---
 

@@ -66,20 +66,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
-    excerpt: "By making it easy to connect LoRa devices to Azure and by providing insights generated with Azure Cognitive Services and Azure AI, Webee and Semtech are simplifying IoT for our joint customers.” Semtech Corporation is a leading supplier of high ..."
-    publishedDateTime: 2021-03-17T22:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/webees-no-code-end-to-end-solution-builder-software-powered-by-microsoft-azure-and-running-on-semtech-lora-devices-democratizes-iot-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tiberium launches two Microsoft based services leveraging Azure Sentinel and Microsoft Defender"
     excerpt: "Tiberium launched two Microsoft based services leveraging Azure Sentinel and Microsoft Defender to offer a fully managed or hybrid delivery."
     publishedDateTime: 2021-03-17T02:45:00Z
@@ -103,6 +89,15 @@ related:
       name: WBOC
       domain: wboc.com
     quality: 34
+  - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
+    excerpt: "By making it easy to connect LoRa devices to Azure and by providing insights generated with Azure Cognitive Services and Azure AI, Webee and Semtech are simplifying IoT for our joint customers.” About Semtech Semtech Corporation is a leading supplier of ..."
+    publishedDateTime: 2021-03-17T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
 secured: "3qT4dDXmWHszSpP7GPVpRXDGIKU4QlzAarAgceSQEBGJe3sc+3v7sHv5fBiXBFnNPb+4qKFJxG3Mc6hljBd97Wh2BT0XWnPXIscNQQ6X3KgfRALQTNel0cJjBhq/i68YqttIMsR3h5ZUljlFcJPiX8YnN9bxq+9A/R8+lhRgU/cCNPBNIFd9LKod3b66nXicsxJnbHER7FgjDggE5TayNfSXzS/+LxheKq1nzl6proec6KmLIP9Lbk3eMr4XwJLhhiv1AP2WbhjLYHj89UuCksWKaHqD0VQbrswLjaKMACaMq5GMuEEyKibJBj5PU0tmY7DrEuzdPdr2w6tJyJU1oxEeEs2cpS4VZo7E0WRoihY=;O4/nlqJGViY4Me92Db+Ahg=="
 ---

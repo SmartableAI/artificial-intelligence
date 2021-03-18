@@ -41,6 +41,20 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "This BYU facial recognition technology is designed with hackers and accessibility in mind"
+    excerpt: "BYU computer and electrical engineering professor D.J. Lee decided to add another layer of protection into face identification technology and create a two-factor verification process, where instead of simply a face being the access code it's a face doing a unique movement."
+    publishedDateTime: 2021-03-18T01:14:00Z
+    webUrl: "https://www.ksl.com/article/50128149/this-byu-facial-recognition-technology-is-designed-with-hackers-and-accessibility-in-mind"
+    type: article
+    provider:
+      name: KSL
+      domain: ksl.com
+    quality: 30
+    images:
+      - url: "https://img.ksl.com/slc/2806/280615/28061535.JPG?filter=ksl/responsive_story_lg"
+        width: 614
+        height: 345
+        isCached: true
 
 secured: "4TQAzW9Txd70E64bLHGSBG+EZ0un0PERwQhon1RQK9wBdJrpTNXYjZyzxriGj8p6TtLKRwso+iSMjYjnNz9Gb6+5Traq5ax9C5NC5R/iVC1Qoup79ymt680gvaa7nIaIOPNwSE7Vuv6GendvGMUp4ibIOheodyYcwP+5lORMlTIXrEIdUoNKJgyMfFGYPkl1K+xwlUsOkiw4xDISwlI0OAHnBHieimwjvdi/IR38BaY9ftk2EYtXgTEzIKOIzD7fO0ejcjC4ylF4jzomqTyrzNOC7GIE545RL0sZU3mignli/Qjpic/3eK1SYGC56DOrUjGagFsW4Ei2tL5pOnBlkLLIp9LKyqxaqyGu2T3DAZ++8nlWhZ0zH1myCKIqUScLHfcyDwhgzHKxYm8RJMgbBM9eIv9Bq0vRjmaxoCtgPDlStxkGvyk4cbZD0cJNuLX5EstOHEWkCb/OSfGojKLl+Q3u3FHDCwFoMBgtQZPBTWjrpinr8RMLa2FghlkzGCfKIU2xmIRDxFvbqBrh5yHZSA==;pZYSnVflJ4/1ZayHsJSxUw=="
 ---

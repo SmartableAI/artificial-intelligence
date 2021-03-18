@@ -71,7 +71,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/03/10173_hero.jpg"
         width: 2095

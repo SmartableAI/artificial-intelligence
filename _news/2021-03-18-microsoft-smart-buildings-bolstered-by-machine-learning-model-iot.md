@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-17T21:04:00Z
 originalUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-smart-buildings-bolstered-by-machine-learning-model-iot/"
 webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-smart-buildings-bolstered-by-machine-learning-model-iot/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - Microsoft AI
+  - AI in Finance
 
 images:
   - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/03/10173_hero.jpg"
@@ -102,6 +103,6 @@ related:
         height: 512
         isCached: true
 
-secured: "qmpkf4CpG6SebQGvSAFhEfgfgBCJpXJxcDQuXZahafRwTQO/J2iGUwQj6pM1tr6jwAEc1I2WnymQOk8mPMY6TBdXHPq3tp797R9r+pNb1g85KY+1eo2M04ZOTcYU78Lz8ih3yDhfI0fGLFbt7dPHOQ9vewLSj2t+eG2YZDhnL9OALLh+pgUvgVzTVdMVm6lNhB9F7t4HYzy44B4uRJtBdDF77g8kFkNfl5oXcIuer6iHWSVEsZVXyWRdYNOFrCdi9aPeYxiTxRnaf9tB/BhTdlCXRrAXEwkr84LhhqxzU4tYyPhKngAC546zr4vuYZnYfFzxpU5LfHq3CtOgUiliLyNbBRN7vFlJ78hgt43nITU=;Zi2hrpK98BEX+V4ZwJOgWg=="
+secured: "4mT1YtWaB+Z74dnin+RsizDaif2oXTninupfp0eSWkVKjlOlKbs8ext2tyP02SYSs/H0aJ3pQojdH7jjslrQ3Cyr3Y9iR2jdui2B6n/bk8UV749MEcSH6XvkBI1Qr920qM8Ty3VGbe3ojqFPjNK5PbYB9u0rJyQTpRfQLgxEtitec7aHkJZVQbZaf0+JQ2EJcYNMWwqFkSOW2glQUqX3sLPMQZVrid8Kf2Il4dRl6HaFL6cx13LF2sB8nKik1stS8iKRvbgaE/RFzJykxg3KiRgGodIX+Z8INEjLWHl3lrPmSVdaLunA5Z80qyKqAP3PrXYlCO2kVHEHqxvF+woIs8fTd+n5AJgL1F7F/SoIzoTrxIfgUxVGL/0F+vu80qHfbw+FhF/shJ8I6ds5rmZ6ZbCsaaRq1yl49BFV48WHSDDVh9BTcdIA1bpriMxxz4DvW7g3etsKmv0FYviLJQypgFt012QPYjfK51yf0PmLWagbSKKkX+Wi//OBDVK5tftan1qFn12bR625q6/sORaCrw==;aPic09op8ulZGye5VlZY7g=="
 ---
 

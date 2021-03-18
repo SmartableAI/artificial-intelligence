@@ -7,7 +7,7 @@ originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID
 webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145775"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Anywords’s Technology Can Predict Marketing Language Performance Prior to Campaign Launch"
+    excerpt: "Anywords’s Technology Can Predict Marketing Language Performance Prior to Campaign Launch New York, NY – March 15, 2021 — Anyword, formerly known as Keywee, is the world’s first Language Optimization Platform that helps marketers easily optimize the words that they use,"
+    publishedDateTime: 2021-03-17T20:41:00Z
+    webUrl: "https://thewisemarketer.com/channels/data-driven-marketing/anyword-introduces-first-language-optimization-platform-for-performance-marketing/"
+    type: article
+    provider:
+      name: thewisemarketer.com
+      domain: thewisemarketer.com
+    quality: 47
+    images:
+      - url: "https://thewisemarketer.com/wp-content/uploads/2020/01/Wise-Marketer-News-Release-1000x600.png"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Anyword Introduces New Marketing Language Platform, Merging Performance Data with Cutting Edge AI to Drive Results"
     excerpt: "Anyword, formerly known as Keywee, is the world's first Language Optimization Platform that helps marketers easily optimize the words that they use, introduces"
     publishedDateTime: 2021-03-15T12:00:00Z
