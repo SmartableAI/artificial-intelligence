@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 915
         isCached: true
+  - title: "Machine Learning System Predicts Severe COVID-19"
+    excerpt: "An advanced machine learning system can accurately predict the risk of a patient's COVID-19 advancing to severe disease or death, say researchers."
+    publishedDateTime: 2021-03-18T11:00:00Z
+    webUrl: "https://www.govexec.com/oversight/2021/03/machine-learning-system-predicts-severe-covid-19/172723/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 39
+    images:
+      - url: "https://cdn.govexec.com/media/img/upload/2021/03/17/031421coronavirus/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Scandit's Mobile Computer Vision Software Offered Free to Support COVID-19 Vaccine Program"
     excerpt: "Scandit collaborates with Epic to offer free licenses to new Epic Rover users in the drive to scale-up mass vaccinations across the U.S. ZURICH--(BUSINESS WIRE)--Scandit, the leading enterprise technology platform for mobile computer vision and augmented ..."
     publishedDateTime: 2021-03-15T18:00:00Z

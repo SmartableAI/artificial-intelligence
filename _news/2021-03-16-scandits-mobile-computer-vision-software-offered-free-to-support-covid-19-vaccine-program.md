@@ -33,6 +33,20 @@ related:
         width: 1600
         height: 915
         isCached: true
+  - title: "Machine Learning System Predicts Severe COVID-19"
+    excerpt: "An advanced machine learning system can accurately predict the risk of a patient's COVID-19 advancing to severe disease or death, say researchers."
+    publishedDateTime: 2021-03-18T11:00:00Z
+    webUrl: "https://www.govexec.com/oversight/2021/03/machine-learning-system-predicts-severe-covid-19/172723/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 39
+    images:
+      - url: "https://cdn.govexec.com/media/img/upload/2021/03/17/031421coronavirus/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Machine learning models for diagnosing COVID-19 are not yet suitable for clinical use"
     excerpt: "Systematic review finds that machine learning models for detecting and diagnosing COVID-19 from medical images have major flaws and biases, making them unsuitable for use in patients. However, researchers have suggested ways to remedy the problem."
     publishedDateTime: 2021-03-15T16:05:00Z

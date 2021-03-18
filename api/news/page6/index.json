@@ -2,6 +2,108 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-11-your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud.md",
+      "title": "‘Your Computer Is On Fire’ draws on tech history to critique AI and the cloud",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a story last year about nine books I read about AI in 2020, I called Your Computer Is On Fire a book worth ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/",
+      "originalUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/9780262539739-1.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/amp/",
+      "publishedDateTime": "2021-03-11T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-photoshops-new-ai-feature-quadruples-the-amount-of-pixels-in-your-photos-wow.md",
+      "title": "Photoshop’s new AI feature quadruples the amount of pixels in your photos — WOW!",
+      "excerpt": "Adobe Photoshop's new Super Resolution feature uses machine learning to upscale photos while maintaining the details.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/11/photoshop-ai-quadruple-pixels-photos-super-resolution-adobe-machine-learning/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/11/photoshop-ai-quadruple-pixels-photos-super-resolution-adobe-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-11T121955.771-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/11/photoshop-ai-quadruple-pixels-photos-super-resolution-adobe-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/11/photoshop-ai-quadruple-pixels-photos-super-resolution-adobe-machine-learning/amp/",
+      "publishedDateTime": "2021-03-11T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-five-reasons-why-aiml-should-be-top-of-mind-in-2021.md",
       "title": "Five Reasons Why AI/ML Should Be Top Of Mind In 2021",
       "excerpt": "AI/ML applications bring about the convergence of analytics, data science and automation that accelerate successful digital transformations and fuel business outcomes. This has also led to indirect benefits like improving customer or citizen services and ...",
@@ -1099,92 +1201,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-fintech-e-banche-mai-cosi-integrate.md",
-      "title": "Fintech e banche mai così integrate",
-      "excerpt": "La sua attività negli Stati Uniti aggiunge un milione di nuovi clienti al mese ai 90 milioni che già contano in tutto il mondo. Ci sono anche banche tradizionali che hanno sposato l’innovazione: secondo lo sguardo delle fintech, in primis c’è Bbva ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.milanofinanza.it/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "originalUrl": "https://www.milanofinanza.it/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.milanofinanza.it/remote/static.milanofinanza.it/content_upload/img/2021/03/202103101818141568/fintech5-714836.jpeg",
-          "width": 1920,
-          "height": 1053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.milanofinanza.it/amp/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "cdnAmpWebUrl": "https://www-milanofinanza-it.cdn.ampproject.org/c/s/www.milanofinanza.it/amp/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "publishedDateTime": "2021-03-10T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MilanoFinanza",
-        "domain": "milanofinanza.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-eta-computes-low-power-ai-vision-board-accelerates-design-test-and-deployment-of-transformative-embedded-vision-solutions.md",
-      "title": "Eta Compute’s Low Power AI Vision Board Accelerates Design, Test, and Deployment of Transformative Embedded Vision Solutions",
-      "excerpt": "Eta Compute Inc ., the leader in energy-efficient endpoint AI solutions for intelligent sensing anywhere, announced its integrated, ECM3532 AI Vision Board, the lowest power embedded vision board that helps developers accelerate time to market.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-25b8b8b0b99b48839013f83de0bf2e2b",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-25b8b8b0b99b48839013f83de0bf2e2b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

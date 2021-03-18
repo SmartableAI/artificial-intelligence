@@ -1,63 +1,63 @@
 ---
 category: news
 title: "Entrepreneur First announces pre-seed investment in 8 Indian tech start-ups"
-excerpt: "For each cohort, EF selects around 50 potential founders and helps them find co-founders among themselves. It invests pre-seed in selected startups and those founders then move to the second stage of"
-publishedDateTime: 2021-03-18T08:22:00Z
-originalUrl: "https://www.livemint.com/companies/news/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-startups-11616054932475.html"
-webUrl: "https://www.livemint.com/companies/news/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-startups-11616054932475.html"
-ampWebUrl: "https://www.livemint.com/companies/news/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-startups/amp-11616054932475.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-startups/amp-11616054932475.html"
+excerpt: "BOX: Unveiling of 8 tech start-ups EF's Demo Day showcased 8 startups from India offering tech solutions, powered by AI, Robotics, VR, and other new-age technologies, to solve issues across industries. Expertia Despite a lot of hiring job boards being ..."
+publishedDateTime: 2021-03-18T07:31:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-start-ups-121031800517_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-start-ups-121031800517_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-start-ups-121031800517_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-start-ups-121031800517_1.html"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2021/03/18/600x338/startup-kRIH--621x414@LiveMint_1616055679043.jpg"
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/18/full/20210318123341.jpg"
     width: 600
-    height: 338
+    height: 450
     isCached: true
 
 related:
-  - title: "Entrepreneur First announces pre-seed investment of $4,40,000 in 8 Indian tech start-ups"
-    excerpt: "EF introduced these innovative start-ups - Expertia, Neuropixel, Fello, Subconscious Compute, Immunito AI, UngearVR, Aspiro and Rightbot that are powered by new-age technologies such as Machine Learning, Artificial Intelligence, Robotics and Virtual ..."
-    publishedDateTime: 2021-03-18T07:02:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/entrepreneur-first-announces-pre-seed-investment-of-440000-in-8-indian-tech-start-ups/article34097834.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/entrepreneur-first-announces-pre-seed-investment-of-440000-in-8-indian-tech-start-ups/article34097834.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/entrepreneur-first-announces-pre-seed-investment-of-440000-in-8-indian-tech-start-ups/article34097834.ece/amp/"
+  - title: "NSE invests in technology startup Capital Quant Solutions"
+    excerpt: "The investment in CQS is a part of NSE’s programme for investment in the fields of analytics, digital, robotics, security, among others, where startups require early stage financing and incubation to expand,"
+    publishedDateTime: 2021-03-17T16:21:00Z
+    webUrl: "https://www.livemint.com/companies/news/nse-invests-in-technology-startup-capital-quant-solutions-11615997583373.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/nse-invests-in-technology-startup-capital-quant-solutions/amp-11615997583373.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/nse-invests-in-technology-startup-capital-quant-solutions/amp-11615997583373.html"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 35
+      name: Mint
+      domain: livemint.com
+    quality: 44
     images:
-      - url: "https://bl.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
+      - url: "https://images.livemint.com/img/2021/03/17/600x338/NSE_Building_1_1581941023796_1615997952194.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "Indian AI-based Mental Health App Wysa Receives Funding From Google Assistant"
-    excerpt: "Wysa, an Indian-based AI-enabled mental health application, has announced that the startup has secured an undisclosed amount of investment from the Google Assistant Fund. Launched in 2018, the Google Assistant Investments program was designed to assist ..."
-    publishedDateTime: 2021-03-15T05:57:00Z
-    webUrl: "https://analyticsindiamag.com/indian-ai-based-mental-health-app-wysa-receives-funding-from-google-assistant/"
+  - title: "This Month in Modern: Startup buzz is accelerating technology investment"
+    excerpt: "He’s been tracking how the investment community has been placing sizable bets—staggering numbers in some cases—on startup companies with artificial intelligence (AI) and robotics innovations specifically geared for DCs and fulfillment centers."
+    publishedDateTime: 2021-03-15T22:05:00Z
+    webUrl: "https://www.scmr.com/article/this_month_in_modern_startup_buzz_is_accelerating_technology_investment"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 34
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 23
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Indian-AI-based-Mental-Health-App-Wysa-Receives-Funding-From-Google-Assistant.jpg"
-        width: 2245
-        height: 1587
+      - url: "https://www.mmh.com/images/2021_article/SCMR_Improvement_800px.jpg"
+        width: 800
+        height: 533
         isCached: true
 
-secured: "g0/OSEjrcnKEy8zGr5XpTzaDSPtlqhfKDQnW3ly6VZQGDpWHqMQ3W+/x8Q5ran7inDjokTaLe6TdXzi33oWD+v+eNJzVh7YIv+AkIJrly5gyccMEyb2c6MhUI2RCCUw7GsWVER04IUFLeZ5ZhEBopFUMKwgAx80PEF7O7FQjZ7gCDNC0hwQvsEljueTBeVkgT/GN0m41nKcYb/6BbmX6zbp8MjQoP2Zz8U4Ingm56CVIR9divJ/trPfU+V8pWOgqvxfeoHwR4O33vpZWoo748O/EcegpZZ6SUpFiiqtx5j0JO580kmDPxZU3iRsjUny3LafQ+4XPrdugoDfD4ts7Y2aZ98prJ8650xTiD48YdbI=;ZmntZouGOB1UYlHHGsSnUg=="
+secured: "/zpaQPAddQBgXgrwDojUz7O0c14P0ihehIakSR25OwV6T8ubkVJHet7PKi1aayma0M+BCQwg24ttvHEE4zfU7aRvqT1Pqe8JigBpHBDZ4mzxv3piwod+cC/n2bfk6Vzg4C+WiV/KUc9ufij7FgoDogpZYdUboxTisGGqVIJSvq+hMjqCtipblyoTKP4OYvKy5BufihBWw/dPZvi45ha8XMFuatefT/2z0VB75R1gb3SXek8JL2xPxxEpWcFdsdjc/8jFHSYQyji/RbjJlGXB+1Y83tVp+WcS2qV7k3Lh+eK8yJ0fSrmY5wIg6ZlJuG5SIgxBlG37Qs3sMMvI/U+1WxrVvk8GcggJ9AQMBonX41M=;aVZoqM7fFMTqEWMfo4mVIQ=="
 ---
 

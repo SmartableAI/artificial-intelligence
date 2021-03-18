@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Researchers Enhance Alzheimer’s Disease Classification through Artificial Intelligence"
-excerpt: "Using an advanced AI (artificial intelligence) framework based on game theory (known ... These findings appear online in the journal Alzheimer’s Research & Therapy. Funding for this study was provided in part by the Karen Toffler Charitable Trust ..."
-publishedDateTime: 2021-03-15T20:22:00Z
-originalUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
-webUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
+title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
+excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
+publishedDateTime: 2021-03-15T17:42:00Z
+originalUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
+webUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Boston University
-  domain: bu.edu
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.bu.edu/hic/files/2021/03/vbk_latest-636x565.jpg"
-    width: 636
-    height: 565
-    isCached: true
 
 related:
   - title: "Artificial Intelligence Boosts Alzheimer’s Disease Classification"
@@ -54,6 +50,6 @@ related:
         height: 675
         isCached: true
 
-secured: "t4z5seSSrg4CEWAaGWfDzXAfad8sQpwEUyURxCLHGCQzRYlQQ3JKZU0ZAcIuLszT+Pg41JbalrQbWC2CJpO++71iMxFKf8HrICoQJ7g29gdpyX8oGCq5xp1ZXcyvhY3G7dHcIiVlY4Uvt56VygWBWk9f6miYxK1340LkamAbinrNEy2WmAnm4qHOXmBc1qCOiw/HmJYOtr/PhTo26A8yEdLa+XhY2W3kqaVrSDg9OalxkCosscVlYFWBa/kNgPpzKPuhGxYGxXn4Ur6RuEbMMeIK19Z3Z7Ity/B91QSSYy5VHshODrJak16uiUkPZscbyqF9VORY+PlE4dx6VJJGvyQphoj4E9ifXOMK4v9cdtE=;brcbN+qD0iUOZ/8aqujJAw=="
+secured: "2TZeisj3KuIDVoza/j9NnTqsO2mtlJBJjTrYfEZEZ1drB5VtgPoll9Lyi3IJgQPxSQCXI6Mg4XMpcwDHS7WsqM0C01s8SqrI2pVTo6s62XC7L4R6NXf6tWqkV+YURIuA2vrzzi8ifzYOasIMTbjYPcSz7NpKSekMfTWlHDrCrzuMdJba6vrJ+dUzncchxxBMhTMo+VWQZpQHLHQJekWVLcPWvL0Ta1nn6Ki5x6rSovRx64heY780xJRP99AXsMsPn7/RhDjWmS8vL3/k4PZgmNqY00FWEqFokW4+wqfbyIdE+wE+q/gcnYImx/oBm/C3S3E5b5zNFb7cp93A2B2U3C+yeZelu3BrO34VITD2kRw=;+2nxW9Fd8Wn4c05gMbAxhw=="
 ---
 
