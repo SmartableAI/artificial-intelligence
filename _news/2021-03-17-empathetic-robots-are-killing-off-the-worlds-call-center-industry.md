@@ -6,9 +6,9 @@ publishedDateTime: 2021-03-16T20:00:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2021-03-16/artificial-intelligence-chatbots-threaten-call-center-industry-human-operators"
 webUrl: "https://www.bloomberg.com/news/articles/2021-03-16/artificial-intelligence-chatbots-threaten-call-center-industry-human-operators"
 type: article
-quality: 69
-heat: 69
-published: false
+quality: 169
+heat: 169
+published: true
 
 provider:
   name: Bloomberg
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "OaXBUIVc2b+eqYVPozUUuxQY19OVrPOvDRKTFS42UGxGBBvVod3SehEN3pez0YeOnI+bmUSfI9HSisEgu9Qd9GR1b7dXdTsBxit8d559BjKj6WOqVxIEpoLXPvLeYe91Mw7Z85mtmuT6GLFvflAJhDDixwEZvTW4KSOr1cwEqgB4y01VqeUP0MEsdrG+NcYu1dmU5eSzX9o5RXiq1Oe5UFAH1/WQul1YztG+M2lkPlv3/D74pfn952dITth5Mk2xcZ2la5dHgUMwK4TAUg6CyyyocZOtEm2E7u8x81Ob3SfZDuiPHQA0IwxfAcY0F+lJGmkk5XHs2Daq+GHAtvzhpyaPtF0pztsYkJprW2NvGEM=;6ofvVZhHoc4/XE9CSm0qkw=="
+secured: "PdUf5ADJuiW2dg5VtuUSNSTRbRkqDL+PxFYV1IB0w9pLCjclc/PvGr0rX8XWj1siBag1egmUGFV1JwOyYpgRKAghI2pQsqF7xUanFuSEO4OCGU5cCmQ/UEItAMhHmLHywD4MnxhHHZgyXzokKWPOf6z7iWkSqYW48tXp7NvHK8ll29HtHkQu426qJmPtJOhr1OEEiZ95xrBsyUmABNDLZLV9AlXENt/1sMmOWjh07+QKhN/8DsCatxDfaZL5z0kLqlnsoUUjxGV3aeDlq9i9WOk1toa8f3eJPDlu3iyflTN6GkT1hAwliB5OQvFgRxyCOlZTHpHZXJL5uXe/cQse/8Y1r8+Jr6q3U05H01hc3PHlTyC9+z5HkzWGCVLfZFD6K484B41LYHBERY1qWk6lrja2eQn+TLi/c2txlD4a7UipxcoLPQQjPWZK6ee3/VZqi8v+tmuWAr7iu6Er4B32tuuZXFVkvsVPheUiDMyBjvDVZYZfvXQYE3YMFD6c9wd5629qxrKcnwHr8+e504zHbKFU7qxnremUpUNo9w6HuG0=;r2YD/NK3oyjxNNcQ16U4ow=="
 ---
 

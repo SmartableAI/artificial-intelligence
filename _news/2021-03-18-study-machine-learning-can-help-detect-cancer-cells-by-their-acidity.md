@@ -73,6 +73,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine Learning Helps Identify Cancerous Cells by Measuring Their pH"
+    excerpt: "A new method of machine learning has been developed to determine whether a single cell is cancerous by detecting its pH."
+    publishedDateTime: 2021-03-18T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/machine-learning-helps-identify-cancerous-cells-by-measuring-its-ph/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/11/Sticky_Getty_116048063_Eraxion_CancerCell.jpg"
+        width: 1667
+        height: 1250
+        isCached: true
 
 secured: "9MdtpWqFCaK9i6gIkKS/RI0Nwrd5XeTGjkB+Oe5Va0Ly1My3K8uoO2IK7cYgHZcbovI+afdWRMr4gvaEe36O6hLbikpWpo7GP00BuRkluctyYxYPGdRYgKjftSUZHblrjHBhHbGyQBD6kz+328qmA8o+hVHF4h8A/X1DVPIzO4pxX2Ksrj2X1aeSMosnThdvaAxfjgi73mHZ4i5s2K3DFYIoAt6A7zLOJ/OQsJb4nGB4tDK4oKvn/NGVLOpdEfSlRsmmSx3v+XHsHW2vZZXcYo7oQakS5g43YE/YFoOtlmBZrljPIfoUkb1RVBqRR6CK+EFB+ZqLEOhksz7T6HSl3xsa5jGy8p5Pr/1w/yKmFW4=;OyIVROU+TDcfU6YFgtf61Q=="
 ---

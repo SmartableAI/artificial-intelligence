@@ -1,29 +1,29 @@
 ---
 category: news
 title: "CathVision adds US profile to its Board of Directors"
-excerpt: "CathVision ApS, a medical device company developing a novel artificial intelligence therapeutic platform for cardiac electrophysiology procedures, is announcing a change to its Board of Directors. Meghna Eichelberger,"
-publishedDateTime: 2021-03-16T12:58:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-dae1f47546905da8b28dd02816f580c4"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-products-and-services-dae1f47546905da8b28dd02816f580c4"
+excerpt: "CathVision ApS, a medical device company developing a novel artificial intelligence therapeutic platform for cardiac electrophysiology procedures, is announcing a change to its"
+publishedDateTime: 2021-03-16T13:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/cathvision-adds-us-profile-to-its-board-of-directors/article_1e8a2ecb-a975-5b78-b24b-8756b6933096.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/cathvision-adds-us-profile-to-its-board-of-directors/article_1e8a2ecb-a975-5b78-b24b-8756b6933096.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "isWPLvvTPc1yw/8zT+Tkb3zmrtydaW1vjijvlamSH+sZ+hKuX713NCfbGY6Iv1LGb5xqUg7R7rQ8GV8BPXizeEgD5MdCVhk59nqNoX+iQHyXAbZbEuAHtgy5VtkCS9F+ZIUcin9tkwo7rsVyXKdf9Kx1Ok40hP4QRNBYPw3G8R/ypAUDxaBJyiDA9iL2pN8Czef5wLcwRM9CJq04L+HDuui5hk7v2lkxkjWEa7Qm8mhgXhJobG6GfrU0ndkMvVhYBKGY8Qv1ZWsR2KMhLDqe7vCg3Z+fMlSfAJ+Y2kz+Nr9YdvPq8jEzHL2XGyp8BvMYwHEGOZZGj4lMioV7Y7H6duXGFsHS5jAvavV5sJ5jsbg=;x2FZrCAx0WV5Jt3la5LtpA=="
+secured: "EBpyfz4faSuJPMfl8EdpijrxXvlf9/6IO38hALOn4dodTaz9J1DYa3xXkoEUslmrBHthdXjf4QGwomVrk6ZeHGd5fKalTRRpZNG+ysc7DzG8IpJjwh1J8Kj4x80WsXyqidoP9w1gbbAf7Uk4BD0H0c/AEE8IACdT3bLeY+8sRkQw7ctdBNbqs7xwvai2N+xZLlGGKNeTvF08NsztJuBrOZ6FXXJZuLlLkztZcwkDAkBRz2D8nNLhrxl0p7k6SK5JWcN5iJMZbKcddsLJSettRq6p0RpYoKJmgSfguAGehGdgeqxxCMICd8PwJGH2OoY0WxEmHs9MKNNSOq67UT6wVlGL662yfZXr5hEq5ppRlUU=;jZ0gCd/USvho/RqR32GZVQ=="
 ---
 

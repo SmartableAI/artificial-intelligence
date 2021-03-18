@@ -47,6 +47,22 @@ related:
         width: 1800
         height: 1125
         isCached: true
+  - title: "Oracle brings Autonomous Data Warehouse to the rest of us"
+    excerpt: "The broadened service includes drag and drop data loading, data cleansing, data transformation, data modeling tools, and AutoML tools for business analysts and citizen data scientists. It also includes a rudimentary data catalog for data discovery."
+    publishedDateTime: 2021-03-18T12:00:00Z
+    webUrl: "https://www.zdnet.com/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/18/b89dc660-6163-4316-a919-9cd06252cb8a/self-driving2.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Oracle Announces Next Gen Autonomous Data Warehouse, Expands Addressable Market"
     excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper as today, Oracle announced the next generation of its Autonomous Data Warehouse, designed to make it so easy to use that even entry-level enterprises,"
     publishedDateTime: 2021-03-17T14:00:00Z

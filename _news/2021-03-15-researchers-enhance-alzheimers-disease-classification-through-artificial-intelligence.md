@@ -39,17 +39,20 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
-    excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
-    publishedDateTime: 2021-03-15T17:42:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-alzheimer-disease-classification-artificial-intelligence.amp"
+  - title: "Researchers Enhance Alzheimer’s Disease Classification through Artificial Intelligence"
+    excerpt: "Using an advanced AI (artificial intelligence) framework based on game theory (known ... These findings appear online in the journal Alzheimer’s Research & Therapy. Funding for this study was provided in part by the Karen Toffler Charitable Trust ..."
+    publishedDateTime: 2021-03-15T20:22:00Z
+    webUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: Boston University
+      domain: bu.edu
     quality: 31
+    images:
+      - url: "https://www.bu.edu/hic/files/2021/03/vbk_latest-636x565.jpg"
+        width: 636
+        height: 565
+        isCached: true
 
 secured: "Fh1jZ+FQQ6Buve9gzAdwnzpkQZ1f6CgZ+MGD9sxsq3u5SHgNrGVpKwbQjcD17HAoskSlDhx3fhBHX94nVTMM23Utw1BIgp9t+no+6JlMmAwCZsy++CqyzI9jX7ytakm+YlDSQprGQhUUp9v6FsMfgzOGVXzRMHRr8n1oOBm4HqkK2sjBpP/w6SbnLMEweLZM2hZnQKlFITf6y6IArK2Qa4q0sAM60TzmiDD39jUcMWt0Nqh0RQTNxUQ4Q6vP0B/9gijd1OYMq/7KYxDAXAayqLVUuzH8Yo5xAFEfhxkq3cbnrsWbsyxdTSZpcbYQWOrVpFSjMAWJ7q8cP9Ph9mhqR9+5puN2NzMVc+yy21d4LmE=;7jJNTS5KKv5Nm0wURaqOfg=="
 ---

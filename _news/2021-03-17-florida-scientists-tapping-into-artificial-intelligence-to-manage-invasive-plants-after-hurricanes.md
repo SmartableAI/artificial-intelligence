@@ -25,6 +25,22 @@ images:
     height: 641
     isCached: true
 
+related:
+  - title: "We Use Artificial Intelligence In Our Online Searches, Why Not Use It To Fight Florida's Invasive Plants?"
+    excerpt: "That means sending field technicians into the swamps and forests with the imaging equipment to capture images of the plants that can then be used to train a computer to identify them using artificial intelligence. High-wire cameras and eventually drones ..."
+    publishedDateTime: 2021-03-18T13:51:00Z
+    webUrl: "https://www.wlrn.org/news/2021-03-18/we-use-artificial-intelligence-in-our-online-searches-why-not-use-it-to-fight-floridas-invasive-plants"
+    type: article
+    provider:
+      name: WLRN
+      domain: wlrn.org
+    quality: 20
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/490dd2c/2147483647/strip/true/crop/768x403+0+49/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2F22%2Fac1c4f704b9fb36b96cf7e050218%2Fcisma-oldworldclimbingfern.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "57Feh8c9aBXzDuX6nQAqIC0fZIeu6V+Q01M4K616lspuZ0iTHTWmpe9zbnPYyC6CHeTtzjoyrl6wRL/tl0aW027Tp7n4SB+SMgHBvx4aIcQ7Vv4eBM4GyUMctsBc77sNiCIrFDRFoppGaQV4T+xl+wZnW9XygBswr+YAzrLK17VrK8gGKrnQZnixQj1UvezIEm1e2q0BeNlzrteSfCc1J2nuej9DIiiHJIM68oYymTvdfufAF4+np2RnGn15SdoXmpB0nDISZDeA3t2/A5DzTDZTVRYW4T3vX/KIrBADk8DWE45re9p7QQ5GeAPmdwxW/FmQUOEIepCRiCcwfG/P0QqFy+swUNyxnGoGv2K4HMOuIz8tjCeh6rx/OTx4cZ4GWzWo9j1HygxLNK8pILiDjemOAg2EtV5TB71QsnCAXa/G0RTNNyT8AyetCFsTtvKU/D1axoX5X7PTyw5px3DCJXC29EnR/F5hJmLhUJLksIkBFndnb0PhH4YNptkQCqpILV1NvenZulncB5Lkz4QhEQ==;rICWxyLG2S09KUe9+UMiDw=="
 ---
 

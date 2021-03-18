@@ -59,6 +59,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine Learning Helps Identify Cancerous Cells by Measuring Their pH"
+    excerpt: "A new method of machine learning has been developed to determine whether a single cell is cancerous by detecting its pH."
+    publishedDateTime: 2021-03-18T12:00:00Z
+    webUrl: "https://www.genengnews.com/news/machine-learning-helps-identify-cancerous-cells-by-measuring-its-ph/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2020/11/Sticky_Getty_116048063_Eraxion_CancerCell.jpg"
+        width: 1667
+        height: 1250
+        isCached: true
   - title: "Study: Machine learning can help detect cancer cells by their acidity"
     excerpt: "Cancer cells have a different level of acidity than healthy cells, causing them to react differently to pH-sensitive dye that changes color based on a cell's acidity. Researchers then used machine learning to map color combinations to classify the disease state of individual cells."
     publishedDateTime: 2021-03-17T19:09:00Z

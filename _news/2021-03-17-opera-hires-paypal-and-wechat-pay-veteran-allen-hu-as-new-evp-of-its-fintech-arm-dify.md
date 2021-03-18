@@ -40,6 +40,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "LendingClub: Now A Fintech Bank With The Possibility For A Massive Squeeze Higher"
+    excerpt: "LendingClub's business model is transforming into one with recurring revenue, the type that receives outsized multiples across industries."
+    publishedDateTime: 2021-03-15T20:45:00Z
+    webUrl: "https://seekingalpha.com/article/4414060-lendingclub-now-fintech-bank-possibility-for-massive-squeeze-higher"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4414060-lendingclub-now-fintech-bank-possibility-for-massive-squeeze-higher"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4414060-lendingclub-now-fintech-bank-possibility-for-massive-squeeze-higher"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static1.seekingalpha.com/uploads/2021/3/14/7107081-16157807996958718_origin.jpg"
+        width: 752
+        height: 538
+        isCached: true
   - title: "How PhonePe adapted to the new normal in fintech"
     excerpt: "Bengaluru-based fintech startup PhonePe pivoted rapidly and ... fund's first investment in Asia with undisclosed funding in Wysa, an AI-based mental health startup in India. Wysa has raised ..."
     publishedDateTime: 2021-03-15T00:31:00Z
@@ -129,6 +145,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "FinTech firm launches Data and Compliance Summit"
+    excerpt: "To register your place, visit hivera.ai/the-data-and-compliance-virtual-summit/ A message from the Editor: Thank you for reading this story on our website. While I have your attention, I also have an important request to make of you. In order for us to ..."
+    publishedDateTime: 2021-03-18T13:00:00Z
+    webUrl: "https://www.newsletter.co.uk/business/consumer/fintech-firm-launches-data-and-compliance-summit-3167699"
+    type: article
+    provider:
+      name: The News Letter
+      domain: newsletter.co.uk
+    quality: 24
+    images:
+      - url: "https://www.lisburntoday.co.uk/webimg/TUFZMTI5NTEyMDM5.jpg?width=2048&enable=upscale"
+        width: 2048
+        height: 1070
         isCached: true
   - title: "Miami fintech Technisys brings artificial intelligence to digital banking with Kona acquisition"
     excerpt: "Miami financial technology firm Technisys plans to elevate its digital banking platform with its acquisition of Kona, a Uruguay-based company that uses artificial intelligence technology to improve customer experiences."

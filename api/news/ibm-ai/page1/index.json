@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-15-independent-study-finds-ibm-watson-discovery-customers-can-accrue-613m-in-benefits.md",
-      "title": "Independent study finds IBM Watson Discovery customers can accrue $6.13M in benefits",
-      "excerpt": "The impact of natural language processing March 2021 saw the release of a commissioned study conducted by Forrester Consulting on behalf of IBM. The Forrester Total Economic Impact study aims to examine the potential return on investment (ROI) an enterprise may realize when deploying the IBM Watson natural",
+      "path": "_news/2021-03-18-ibm-watson-announces-2021-women-leaders-in-ai-honorees.md",
+      "title": "IBM Watson announces 2021 Women Leaders in AI honorees",
+      "excerpt": "To build trustworthy, unbiased and useful AI for a diverse population, we need diverse leadership in AI development. But today women represent just 26% of the data and AI workforce, according to the World Economic Forum, and gains in leadership are stalling across the board. As reported on International",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/forrester-study-ibm-watson-discovery-6m-benefits/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/forrester-study-ibm-watson-discovery-6m-benefits/",
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/women-leaders-in-ai-2021/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/women-leaders-in-ai-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/WD-TEI-animation.gif",
-          "width": 800,
-          "height": 800,
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/2021-Women-Leaders-in-AI.jpg",
+          "width": 2000,
+          "height": 1000,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T08:00:11-07:00",
+      "publishedDateTime": "2021-03-18T05:00:57-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "IBM",
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "IBM AI",
+        "AI"
       ]
     },
     {
