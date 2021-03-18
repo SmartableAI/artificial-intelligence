@@ -207,6 +207,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-02-deep-learning-algorithm-can-de-noise-images.md",
+      "title": "Deep-Learning Algorithm Can de-Noise Images",
+      "excerpt": "Currently, a type of software based on a machine-learning algorithm called deep learning has been shown to be effective at removing the blurriness or noise in images. These algorithms can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/",
+      "originalUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://goodmenproject.com/wp-content/uploads/2021/02/iStock-12101056561.jpg",
+          "width": 800,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/amp/",
+      "cdnAmpWebUrl": "https://goodmenproject-com.cdn.ampproject.org/c/s/goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/amp/",
+      "publishedDateTime": "2021-03-01T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Good Men Project",
+        "domain": "goodmenproject.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-way-beyond-alphazero-berkeley-and-google-work-shows-robotics-may-be-the-deepest-machine-learning-of-all.md",
       "title": "Way beyond AlphaZero: Berkeley and Google work shows robotics may be the deepest machine learning of all",
       "excerpt": "With no well-specified rewards and state transitions that take place in a myriad of ways, training a robot via reinforcement learning represents perhaps the most complex arena for machine learning.",
@@ -1131,6 +1174,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-24-deepcube-launches-product-suite-to-accelerate-enterprise-adoption-of-deep-learning.md",
+      "title": "DeepCube Launches Product Suite to Accelerate Enterprise Adoption of Deep Learning",
+      "excerpt": "TEL AVIV, Israel--(BUSINESS WIRE)--DeepCube, the award-winning deep learning pioneer, today announced the launch of a new suite of products and services to help drive enterprise adoption of deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210224005217/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210224005217/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-zorroa-launches-boon-ai-no-code-machine-learning-for-media-driven-organizations.md",
       "title": "Zorroa Launches Boon AI; No-code Machine Learning for Media-driven Organizations",
       "excerpt": "Zorroa Corp., one of the world's leading providers of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google's AI-focused venture fund, today officially launched a first-of-its-kind ML SaaS platform,",
@@ -1208,6 +1285,50 @@
         "AI",
         "Machine Learning",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-global-deep-learning-courses-for-nlp-market-drivers-challenges-trends-and-five-forces-analysis-2021-2027.md",
+      "title": "Global Deep Learning Courses for NLP Market: drivers, challenges, trends, and Five forces analysis 2021-2027",
+      "excerpt": "Syndicate Market Research's Latest updated Report on 'global Deep Learning Courses for NLP Market 2021' Analyses Research Methodology Figure out including Secondary Research, Primary Research ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2247888/global-deep-learning-courses-for-nlp-market-drivers",
+      "originalUrl": "https://www.openpr.com/news/2247888/global-deep-learning-courses-for-nlp-market-drivers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U224202718_g.jpg",
+          "width": 800,
+          "height": 468,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2247888/global-deep-learning-courses-for-nlp-market-drivers",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2247888/global-deep-learning-courses-for-nlp-market-drivers",
+      "publishedDateTime": "2021-02-24T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1306,137 +1427,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-machine-learning-aids-in-simulating-dynamics-of-interacting-atoms.md",
-      "title": "Machine learning aids in simulating dynamics of interacting atoms",
-      "excerpt": "A revolutionary machine-learning (ML) approach to simulate the motions of atoms in materials such as aluminum is described in this week's Nature Communications journal. This automated approach to \"interatomic potential development\" could transform the field of computational materials discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html",
-      "originalUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/1-19-machinelearn.jpg",
-          "width": 1027,
-          "height": 1147,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp",
-      "publishedDateTime": "2021-02-24T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-microsoft-launches-new-azure-arc-machine-learning-and-container-services.md",
-      "title": "Microsoft launches new Azure Arc machine learning and container services",
-      "excerpt": "Microsoft unveiled two new Azure Arc services aimed at data scientists and enterprises with containerized workloads.Read",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
-      "publishedDateTime": "2021-02-23T22:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-bank-machine-learning-models-hit-hard-by-covid.md",
-      "title": "Bank machine learning models hit hard by Covid",
-      "excerpt": "Over a third of UK banks have reported a negative impact on the performance of mcahine learning models as a result of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/37534/bank-machine-learning-models-hit-hard-by-covid",
-      "originalUrl": "https://www.finextra.com/newsarticle/37534/bank-machine-learning-models-hit-hard-by-covid",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/covid5.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T19:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

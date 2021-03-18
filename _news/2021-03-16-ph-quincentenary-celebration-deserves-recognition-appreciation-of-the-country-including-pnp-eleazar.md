@@ -122,6 +122,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
+  - title: "Artificial Intelligence in Education System Market Segmentation, Statistics, Leading Manufacturers, Regional Study and Forecast to 2031"
+    excerpt: "The New Report Artificial Intelligence in Education System Market posted through MarketResearch.Biz, covers the market panorama and its growth possibilities"
+    publishedDateTime: 2021-03-18T05:13:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/artificial-intelligence-in-education-system-market-segmentation-statistics-leading-manufacturers-regional-study-and-forecast-to/article_d3b7a621-1120-5797-9f6d-db8eecc863f1.html"
+    type: article
+    provider:
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 22
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Military Market worth $11.6 billion by 2025 - Exclusive Report by MarketsandMarkets"
     excerpt: "CHICAGO, March 15, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type ..."
     publishedDateTime: 2021-03-15T11:33:00Z

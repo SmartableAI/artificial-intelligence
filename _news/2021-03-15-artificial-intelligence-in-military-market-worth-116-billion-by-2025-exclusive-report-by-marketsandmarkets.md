@@ -129,6 +129,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
+  - title: "Artificial Intelligence in Education System Market Segmentation, Statistics, Leading Manufacturers, Regional Study and Forecast to 2031"
+    excerpt: "The New Report Artificial Intelligence in Education System Market posted through MarketResearch.Biz, covers the market panorama and its growth possibilities"
+    publishedDateTime: 2021-03-18T05:13:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/artificial-intelligence-in-education-system-market-segmentation-statistics-leading-manufacturers-regional-study-and-forecast-to/article_d3b7a621-1120-5797-9f6d-db8eecc863f1.html"
+    type: article
+    provider:
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 22
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "YmcSkcSwi0vt1pBecTec+YdCNrc8gPzBoCmLhMReasP9Go+XRkhgv7qDCHYt/UA82dxkbuw2yvCdgWIe7+1Ih3KUhuPDLBz9O5gtWRnHXeTxCAii3ekrTzY24DJPEiGD0owvqi9CzzLR5Pm8k9P5NAEkGaU8L0r2gMuOffKF15CuRhdJJkXc0X0fHwYMCHzHlRLck/2sR1OkiSG4/5vkExMOaZwYPhtQJJTh5ja4nZcwnyJbgqa6xMGF6c8lpLslUVQLM9i1JILQ8QWrpbufq7v/AyFkCviADE/JWNbPC+xXfHtW/2oAfpmrRjoNq4oF5uQ6u23a+NNFJOg9qSgJf+RXidDOJMlsxLf+62d4S9Y=;ADJUksxtG9qKXTb2YYArrA=="
 ---

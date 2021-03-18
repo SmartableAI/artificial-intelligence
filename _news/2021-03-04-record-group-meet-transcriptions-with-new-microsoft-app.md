@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Record group meet transcriptions with new Microsoft app"
-excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi."
-publishedDateTime: 2021-03-04T04:57:00Z
-originalUrl: "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
-webUrl: "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
-ampWebUrl: "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
+excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi. A product of Microsoft's experimental division Garage,"
+publishedDateTime: 2021-03-04T06:18:00Z
+originalUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
+webUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "XLrAk0zVfp+77r/1UsGJ7PvPKl/AeagLKd/mevI5/sDb5rOaSwUKAk2T6SFF/XWd7JOiXvj//tnMM8Pif/d9CR5zXiZCrDg2xqiPm+dVZxo6vyxUggQV5a3Iv2QV/edevsBvHaXmIaDSxeNbIBOw/5/C1WAD/ZEa1hHeqJTAouVmvmClOW1DR7GKlCam/4rySgglVZ33BQnuBW1ysHpfwmn4PLSu/VzHIqZSiNy3Uxm/4FnAAkz7TmjJOdcSkjskJ3YJG/55hkbMBv8fpVE1VyIeDHouXbNmQS+/7U82QUtL0267SSSiTFroWMRLiqzVy2O2fBKODz8LwxE0DJbkYLgsDN4tQi1orfFYyz6aUsU=;DB7y6vIJ4ATEMA8GpaPfoQ=="
+images:
+  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg"
+    width: 1000
+    height: 800
+    isCached: true
+
+secured: "ZA31ZqxMOMz/tXJXWnA1tH9VIdyj/ooORLs0oFHFpJhQ+S28mj/DxbQqPQFouJVfGTUhYWKU4WyzRYORAb7tX7B/DlscIPxHBvWTYw8Q265OhjYQK9QunK5fav9Ys1hK2Hgg69ZpyIKg+ooxtkwLQiwbtuASoBOQMOzwJ0sqYFSJHxw88Z2+5JuMVVoayuiTSNuxWqSk7RSDVcb4y2Z+iXni7bMmUXg0jqUmgIhXQQ++Ydpo2nmeT+ORxM5SFPtwVVE4CLV7yIiPpWWNIhr1mKcsextW8ImJ5CSFe+BG7kqClMsdLKNbpoA37WUKB0I7Yfw7zIPUqokEwa8s+Y8lG7oIcy+HY925QQAs07oRbJ0=;bq6NZs+PCObE/Bp3OGFxqA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/ai-for-agritech-clas
 webUrl: "https://aws.amazon.com/blogs/machine-learning/ai-for-agritech-classifying-kiwifruits-using-amazon-rekognition-custom-labels/"
 type: article
 quality: 117
-heat: 117
+heat: 118
 published: true
 
 provider:

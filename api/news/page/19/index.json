@@ -339,6 +339,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-02-deep-learning-algorithm-can-de-noise-images.md",
+      "title": "Deep-Learning Algorithm Can de-Noise Images",
+      "excerpt": "Currently, a type of software based on a machine-learning algorithm called deep learning has been shown to be effective at removing the blurriness or noise in images. These algorithms can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/",
+      "originalUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://goodmenproject.com/wp-content/uploads/2021/02/iStock-12101056561.jpg",
+          "width": 800,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/amp/",
+      "cdnAmpWebUrl": "https://goodmenproject-com.cdn.ampproject.org/c/s/goodmenproject.com/featured-content/deep-learning-algorithm-can-de-noise-images/amp/",
+      "publishedDateTime": "2021-03-01T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Good Men Project",
+        "domain": "goodmenproject.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-this-ai-generated-daft-punk-video-is-the-perfect-tribute-to-the-electro-pioneers.md",
       "title": "This AI-generated Daft Punk video is the perfect tribute to the electro pioneers",
       "excerpt": "Computer artist Glenn Marshall paid homage to Daft Punk by using AI to produce a music video for the duo's 2001 track \"Voyager.\"",
@@ -1155,57 +1198,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-marketers-make-artificial-intelligence-reflect-your-values-not-undermine-them.md",
-      "title": "Marketers: Make Artificial Intelligence Reflect Your Values — Not Undermine Them",
-      "excerpt": "A few measures can help reduce the risks and raise the odds that AI can help you strengthen and better communicate your values.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/01/marketers-make-artificial-intelligence-reflect-your-values---not-undermine-them/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/01/marketers-make-artificial-intelligence-reflect-your-values---not-undermine-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db4cb496d3e0006c97ad8%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/01/marketers-make-artificial-intelligence-reflect-your-values---not-undermine-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/01/marketers-make-artificial-intelligence-reflect-your-values---not-undermine-them/amp/",
-      "publishedDateTime": "2021-03-01T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

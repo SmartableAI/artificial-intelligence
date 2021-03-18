@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-03-quantum-machine-algorithms.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-quantum-machine-algorithms.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers enhance quantum machine learning algorithms"
+    excerpt: "Researchers found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications."
+    publishedDateTime: 2021-03-17T21:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210316112244.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "FSU researchers enhance quantum machine learning algorithms"
     excerpt: "William Oates, the Cummins Inc. Professor in Mechanical Engineering and chair of the Department of Mechanical Engineering at the FAMU-FSU College of Engineering, and postdoctoral researcher Guanglei Xu found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications."
     publishedDateTime: 2021-03-16T15:20:00Z

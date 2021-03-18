@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "What facial recognition and the racist pseudoscience of phrenology have in common"
-    excerpt: "Technology commentators have panned these facial-recognition technologies as ‘literal phrenology’; they’ve also linked it to eugenics, the pseudoscience of improving the human race by ..."
-    publishedDateTime: 2021-03-13T14:00:00Z
-    webUrl: "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/"
+  - title: "GMDA to install facial recognition cameras at 10 busy points"
+    excerpt: "The Gurugram Metropolitan Development Authority (GMDA) has decided to install facial recognition cameras at 10 busy points in the city to track criminals and strengthen safety measures, officials familiar with the developments said on Wednesday. “We are ..."
+    publishedDateTime: 2021-03-17T17:22:00Z
+    webUrl: "https://www.hindustantimes.com/cities/gurugram-news/gmda-to-install-facial-recognition-cameras-at-10-busy-points-101616001731508.html"
+    ampWebUrl: "https://www.hindustantimes.com/cities/gurugram-news/gmda-to-install-facial-recognition-cameras-at-10-busy-points-101616001731508-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/gurugram-news/gmda-to-install-facial-recognition-cameras-at-10-busy-points-101616001731508-amp.html"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/1-copy-24-796x417.jpg"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "This BYU facial recognition technology is designed with hackers and accessibility in mind"
-    excerpt: "BYU computer and electrical engineering professor D.J. Lee decided to add another layer of protection into face identification technology and create a two-factor verification process, where instead of simply a face being the access code it's a face doing a unique movement."
-    publishedDateTime: 2021-03-18T01:14:00Z
-    webUrl: "https://www.ksl.com/article/50128149/this-byu-facial-recognition-technology-is-designed-with-hackers-and-accessibility-in-mind"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 30
-    images:
-      - url: "https://img.ksl.com/slc/2806/280615/28061535.JPG?filter=ksl/responsive_story_lg"
-        width: 614
-        height: 345
+      - url: "https://images.hindustantimes.com/default/1600x900.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "4TQAzW9Txd70E64bLHGSBG+EZ0un0PERwQhon1RQK9wBdJrpTNXYjZyzxriGj8p6TtLKRwso+iSMjYjnNz9Gb6+5Traq5ax9C5NC5R/iVC1Qoup79ymt680gvaa7nIaIOPNwSE7Vuv6GendvGMUp4ibIOheodyYcwP+5lORMlTIXrEIdUoNKJgyMfFGYPkl1K+xwlUsOkiw4xDISwlI0OAHnBHieimwjvdi/IR38BaY9ftk2EYtXgTEzIKOIzD7fO0ejcjC4ylF4jzomqTyrzNOC7GIE545RL0sZU3mignli/Qjpic/3eK1SYGC56DOrUjGagFsW4Ei2tL5pOnBlkLLIp9LKyqxaqyGu2T3DAZ++8nlWhZ0zH1myCKIqUScLHfcyDwhgzHKxYm8RJMgbBM9eIv9Bq0vRjmaxoCtgPDlStxkGvyk4cbZD0cJNuLX5EstOHEWkCb/OSfGojKLl+Q3u3FHDCwFoMBgtQZPBTWjrpinr8RMLa2FghlkzGCfKIU2xmIRDxFvbqBrh5yHZSA==;pZYSnVflJ4/1ZayHsJSxUw=="

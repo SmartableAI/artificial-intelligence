@@ -26,6 +26,19 @@ images:
     height: 576
     isCached: true
 
-secured: "5vMtSmHgMTxAQ5OFXbJNt9eNTrUxpd4p4qwqG9ct48z9s1zxmr5wEL+qqfC1eXnerSoCXRizC8jl9X8bM0vLKLyafdqvA0MNth29oSRfe1b9q4hzuS65B+Ene+/Icsq17rsYjwQWoPQjCJJkjdFUGs9yuEFCRtpAO3OP0sX06Fttgb2rfOewEvsoQeJw77Oee2FlviLEer9f2sH2Xnx9TqypxYQm0hXbAtTBAXOQJr1+HLA8X2GcJ1ha/V54dHe83p8Wca1xgwtoeq5f94k4zspODVZnCpJouZmbhvmfnsxgS9glX1Bzt/rM8AY+X1H+ZX+vbi9NR2sFJ8r35i4sm8DJMKyE9Y3GcRwvryfg0Oc=;e3jXnQSTb0q7T3Tept/3kw=="
+related:
+  - title: "‘No clear consensus’: PM pours cold water on constitutional recognition"
+    excerpt: "Scott Morrison says there is “no clear consensus” on a model for constitutional recognition of Indigenous Australians that would receive community support in a referendum, as he rules out backing a push to enshrine a “voice to parliament” in the ..."
+    publishedDateTime: 2021-03-18T04:34:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/politics/no-clear-consensus-pm-pours-cold-water-on-constitutional-recognition/news-story/6b40221c6fc4465758cc37762d15cca6"
+    ampWebUrl: "https://amp.theaustralian.com.au/nation/politics/no-clear-consensus-pm-pours-cold-water-on-constitutional-recognition/news-story/6b40221c6fc4465758cc37762d15cca6"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/politics/no-clear-consensus-pm-pours-cold-water-on-constitutional-recognition/news-story/6b40221c6fc4465758cc37762d15cca6"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
+
+secured: "v+xB46GDNy0lkudjnIY2uKoqMHnud68i0WeOv40xs5aMOuK9HLNfQuQP02jQ5eyO0HNswt36mET+ILYay5VCPUK5BfgNIKiyv2gdC1aqoztn582JXKt6gjxRkdUa+9lRGShFM+N7aNdU/1qODQC1zAf4+MKiTSvsTUdycxDJu6shMpJ5FtOwOnKiNbr4l9qvsY5Zs7zphuJ7P+u5g4m/cnC3cOzr0hp26Ys1IIqcQAjdDbyidXdHw4iZoL2buvkHyLorvGiLKu1JlrsGe5WbeygW/Voyf3cEjskFZSJLF6qetk18EAGiebTO5c4Hs2UGJmey8M/5+BEIyUvHU9wNNcdG1uHJjKfy39i1f5kxDYM/kgt/fO6h6IVX+9ot/hlulTg3dGON/RPv7aQWfmVwxd5HzW+svtvkAeqrtRd0WK5rN9j6AlxuXIbwwctjrodScAmYPgqpJ1A/Jd968BB2r5Rm4CNfRDNhZ3fn2tmrngYoyCVju+/50T4PRI29XgjNAOIEOGNjsQxJc/a9jYD9CA==;UZHMvmHqVdkGvkIjn47oGg=="
 ---
 

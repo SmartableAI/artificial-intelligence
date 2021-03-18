@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-b
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 96
 published: true
 
 provider:

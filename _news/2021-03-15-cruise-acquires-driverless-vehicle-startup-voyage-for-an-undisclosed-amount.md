@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/"
 type: article
 quality: 87
-heat: 237
+heat: 207
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 696
         isCached: true
-  - title: "GM-backed Cruise acquires self-driving startup Voyage"
-    excerpt: "Voyage is a startup that spun out of online education company Udacity. Cruise itself has teamed up with Microsoft recently to help accelerate its research. Other notable self-driving partnerships include Amazon purchasing Zoox, Apple buying drive.ai and ..."
-    publishedDateTime: 2021-03-15T18:15:00Z
-    webUrl: "https://www.engadget.com/cruise-voyage-self-driving-acquisition-181356397.html"
-    ampWebUrl: "https://www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/EalVl1q6WRcEgwjY3sc7LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7fd6f550-85b9-11eb-bffa-fc7b88b7b6bf"
-        width: 1999
-        height: 1333
-        isCached: true
   - title: "GM-backed Cruise to buy self-driving start-up Voyage"
     excerpt: "GM's majority-owned autonomous vehicle subsidiary Cruise has agreed to acquire Voyage, a self-driving car start-up that was focused on operating in retirement communities. The companies announced the deal Monday in a blog post by Voyage CEO Oliver Cameron ..."
     publishedDateTime: 2021-03-15T17:08:00Z
@@ -124,22 +108,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/03/kyle_and_oliver-760x380.jpeg"
         width: 760
         height: 380
-        isCached: true
-  - title: "GM Subsidiary Cruise Acquires Self-Driving Car Startup Voyage"
-    excerpt: "Cruise, a majority-owned subsidiary of General Motors (GM), has scooped up self-driving vehicle startup Voyage, according to a blog post on Monday (March 15). The terms of the deal were not disclosed. “At Voyage, we’ve been laser-focused on delivering ..."
-    publishedDateTime: 2021-03-16T00:22:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/GM-Cruise-Walmart-driverless-delivery-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "The Elusive Dream of the Driverless Car"
     excerpt: "that once redesigned by the Stanford Artificial Intelligence Lab could travel autonomously at about a mile per hour by 1971. But getting from that cart to the mass adoption of driverless cars in our cities and streets is akin to the difference between ..."
@@ -239,15 +207,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Cruise Automation acquires Voyage to further self-driving car goals"
-    excerpt: "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,"
-    publishedDateTime: 2021-03-17T12:21:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16471/cruise-automation-acquires-voyage-to-further-self-driving-car-goals"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "Z69F3zWm8WZIRuyK9DhuSG4ve3Gw2JOMLA7VgLFnoXpGMlC41HWLNpg3Nle4A/6ewFCvqVWNvNr803UIS1E0gv2rB8lOmzjGyBT1pmofju99+WciMXn4YZI7V2Faeoupu0ltCtfeVGw3mBJkY5d3jzp1rCr9dqvT2JotstjvZzhosYNsOVXUhMdoopMSqfmYa20o0DFZ7j8xyY6JIoMBDmVdFWXQKCagygHdQOjU5iYO6NhbWUbYlURj4g5GUJmM23h6LJLs8ax3Xc7OYuoEhEpeFAlDcSVE9Wd0sQbWWbjKWQcc2WSOLJMhRW9phHn8IH/s+QBq+k0g/xn1bmhHgLKcWJDlI7adYI+rfpDx2TWPNePOzvzYvvYtZdhTjqlVOU0NeZxlW10YGOBVdvwbQeIwaoiZVyKlCwT0JunbJRi0xAk4kXpDevAnvrb9OEb+CZ12IyEcXKhkE65yAKL2z2jQUq/nWmA4trxmofXvTB8ZBTbQafRJzAinMRK7SDhjjL4mIW8Y4WkCkzE2ymluEA==;lQyIou9W2669pFUDP/QkqQ=="
 ---

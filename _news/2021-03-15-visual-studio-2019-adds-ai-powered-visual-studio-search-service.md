@@ -7,7 +7,7 @@ originalUrl: "https://www.kunal-chowdhury.com/2021/03/visual-studio-2019-ai-powe
 webUrl: "https://www.kunal-chowdhury.com/2021/03/visual-studio-2019-ai-powered-search-service.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Global Cloud Communications Provider Enhances Customer Self-Service With AI-Powered Conversational Service"
-    excerpt: "Aisera, a Palo Alto-based Artificial Intelligence (AI) solutions company, announced today its AI Customer Service solution with"
-    publishedDateTime: 2021-03-15T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-cloud-communications-provider-enhances-customer-self-service-with-ai-powered-conversational-service-301247124.html"
+  - title: "ServiceNow Adds AI to Low-Code Platform"
+    excerpt: "It features expanded native AI capabilities and new low-code app development tools, designed to enable quick development of new applications by line-of-business employees. With companies constantly updating the way they operate, platforms such as ..."
+    publishedDateTime: 2021-03-18T05:46:00Z
+    webUrl: "https://www.eweek.com/news/servicenow-adds-ai-to-low-code-platform/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
+      name: eWeek
+      domain: eweek.com
+    quality: 67
     images:
-      - url: "https://mma.prnewswire.com/media/1455919/36ee775157b4be8a6f4344b024a2_Logo.jpg?p=facebook"
-        width: 1500
-        height: 784
+      - url: "https://www.eweek.com/wp-content/uploads/2020/10/Servicenow.image_.jpg"
+        width: 432
+        height: 288
+        isCached: true
+  - title: "The chief innovation officer of $96 billion ServiceNow explains how new low-code and AI tools will help people be more productive"
+    excerpt: "The firm — which makes automation software — launched new AI updates and low-code capabilities on its platform earlier this week that greatly expand its range of services. While ServiceNow initially focused on customer, IT, and employee processes with ..."
+    publishedDateTime: 2021-03-13T16:55:00Z
+    webUrl: "https://www.businessinsider.com/servicenow-dave-wright-new-low-code-tools-artificial-intelligence-investments-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/5e724f4bc4854007d2093b97?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "U2amXBJtr0SLn/CtN7LGerwCEZ9yxnr52kgzkSMzEWQjxLX7LOEm8Asl5hO5Dp8ofxoWqBqwn4ItGwPcwWVaBnM3QY5DM59r/mVVZa4RD52gvsWFfbrKN+gbkOozDz6xRxSeSCjnIQW9cPcaHRcKVQLph25wMsYi0215mb2Q8lFRg183xmzTlG8qG0YYdqQKG2c9QdK4Z+P1HgFZxkFV0e8TOQcKgAFPBgibDfgtxuc/v513sVvaS+d+liMSsm4XJYeOcYC7Utu3aTGnIlK/ClkyEwebd/CNMcN4oruINjiFiGYXZu6Fn/HuPgzWC8nfbNhppEGi+8wsz/2Wr+df5tVLzl6mx7uSdd7zaIAmRaY=;MfrnhEaaLcDOsxlG6s83fw=="

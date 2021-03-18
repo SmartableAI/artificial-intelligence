@@ -41,6 +41,15 @@ related:
         width: 711
         height: 424
         isCached: true
+  - title: "Researchers enhance quantum machine learning algorithms"
+    excerpt: "Researchers found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications."
+    publishedDateTime: 2021-03-17T21:53:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210316112244.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "FSU Researchers Report Enhanced Quantum Machine Learning Algorithms"
     excerpt: "Florida State University researchers report they have found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications. The work could help build artificial neural networks used for training computers to solve complicated,"
     publishedDateTime: 2021-03-17T15:19:00Z
