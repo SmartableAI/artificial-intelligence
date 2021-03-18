@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Cancer therapy: How our cells are becoming resistant to medication"
-excerpt: "Human cells are constantly changing shape. Biologists know that these morphological changes reflect changes in a cell’s function but our ability to understand the meaning behind a cell’s shape has, to date,"
-publishedDateTime: 2021-03-16T14:45:00Z
-originalUrl: "https://idw-online.de/de/news765031"
-webUrl: "https://idw-online.de/de/news765031"
+excerpt: "In their new study Rune Linding from Humboldt-Universität zu Berlin (HU) and his colleagues have utilized artificial intelligence to learn, and interpret, changes in the morphology of cancer ..."
+publishedDateTime: 2021-03-16T14:02:00Z
+originalUrl: "https://idw-online.de/en/news765031"
+webUrl: "https://idw-online.de/en/news765031"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 284
     isCached: true
 
-secured: "LVbUdoyPRN6y6YPyw/BPDp/KrDqMX0t8nG4Xgl3LPz4HGZByI1v8p/Ca8kZ9t6nJe29a64N7R5GI/FNwAbbm9O6VGTBXRrLLDovaoHPwrJBHxKAnJCSY7x8YtvLE7x3tppLML/DKZaj07RmmpBJ+rtOey0/4LSimrlP+LQX7QOB6Lyk0TUUoit/7mYal1fF4HbcMov+ildcmvJkCi7P9Kmx+759eP5Dv0uXNBNR+HCDPCOBsvqsIDQMJjnugeVDzp9VANsnT8fvi5pBla+J5IwhW4DmAXRQkI7IKV6X5iTmVowU68D2Qo2U9sF0x20AA40g9P2KLbVnPQpDB/YnlVQdc44K62OlTIKjH8UQif5s=;NZENw9407Om0GRn5nogObg=="
+secured: "psHSMldYlyhs6eaBdMfDx2xhxdWaZ9wDsZqTe8HvPwbq5MrivX3DiBkl+VDa02tJu/z/hI2/Jpods+BkLoTw+qLyZzjyqdYj58y1KM6rh5E2+csZd4OAuK/R0Q/V+D4+JZ8mXhq9yIxVz2sBDZ8wbzxqLm/u/QMmIwoqeC9gM9HZj5MJCsyRF2EMCjmLzfqKTy+Xrx3UJYSWa6xCCzIXfq2uk0OxX3lsSLbB51fQ+uRU9Jw3n4/AZ3RkHdXNVMYy7oMiA2gHvqIJ1KzfNEku3U7N4qWs2TgFJby/naO6HS0yrV3ZMIyGdV6gAQVludjMBDfdMm94bqTIZbAqNtBigoZMR2OtJCpNK+2dtfCAVfE=;7SBUB0J4ipbUhNfINan0Ig=="
 ---
 

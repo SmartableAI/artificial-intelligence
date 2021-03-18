@@ -84,6 +84,20 @@ related:
         width: 685
         height: 343
         isCached: true
+  - title: "Pangeanic Launches v2 Document Translator and Anonymization Solution"
+    excerpt: "Pangeanic today announced the upgrade of its NLP ECO Platform to version 2 to include multilingual anonymization services in English, Spanish, Japanese and Brazilian Portuguese. The service can be used in conjunction to its traditional document translator and private machine service."
+    publishedDateTime: 2021-03-18T07:33:00Z
+    webUrl: "https://slator.com/press-releases/pangeanic-launches-v2-document-translator-and-anonymization-solution/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/2021/03/pangeanic-2021-logo-900x600-CD.png"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Startup MEDO.ai turns a new leaf for ultrasound examination, becoming a leader in AI-powered medical inspection technologies"
     excerpt: "The traditional stethoscope is an easily accessible tool, so too will be the future ultrasound device. Canada-based biotech startup MEDO.ai has developed a software platform based on AI and cloud computing technologies. When coupled with a handheld ..."
     publishedDateTime: 2021-03-18T02:06:00Z

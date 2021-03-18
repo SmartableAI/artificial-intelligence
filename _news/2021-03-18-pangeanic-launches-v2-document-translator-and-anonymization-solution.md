@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Critical evaluation of deep neural networks for wrist fracture detection | Scientific Reports"
-excerpt: "Wrist Fracture is the most common type of fracture with a high incidence rate. Conventional radiography (i.e. X-ray imaging) is used for wrist fracture detection routinely, but occasionally fracture delineation poses issues and an additional confirmation by computed tomography (CT) is needed for diagnosis."
-publishedDateTime: 2021-03-16T10:58:03Z
-originalUrl: "https://www.nature.com/articles/s41598-021-85570-2"
-webUrl: "https://www.nature.com/articles/s41598-021-85570-2"
+title: "Pangeanic Launches v2 Document Translator and Anonymization Solution"
+excerpt: "Pangeanic today announced the upgrade of its NLP ECO Platform to version 2 to include multilingual anonymization services in English, Spanish, Japanese and Brazilian Portuguese. The service can be used in conjunction to its traditional document translator and private machine service."
+publishedDateTime: 2021-03-18T07:33:00Z
+originalUrl: "https://slator.com/press-releases/pangeanic-launches-v2-document-translator-and-anonymization-solution/"
+webUrl: "https://slator.com/press-releases/pangeanic-launches-v2-document-translator-and-anonymization-solution/"
 type: article
-quality: 28
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Nature
-  domain: nature.com
+  name: Slator
+  domain: slator.com
 
 topics:
-  - Machine Learning
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-85570-2/MediaObjects/41598_2021_85570_Fig2_HTML.png"
-    width: 685
-    height: 343
+  - url: "https://slator.com/assets/2021/03/pangeanic-2021-logo-900x600-CD.png"
+    width: 900
+    height: 600
     isCached: true
 
 related:
@@ -85,19 +85,19 @@ related:
         width: 1199
         height: 739
         isCached: true
-  - title: "Pangeanic Launches v2 Document Translator and Anonymization Solution"
-    excerpt: "Pangeanic today announced the upgrade of its NLP ECO Platform to version 2 to include multilingual anonymization services in English, Spanish, Japanese and Brazilian Portuguese. The service can be used in conjunction to its traditional document translator and private machine service."
-    publishedDateTime: 2021-03-18T07:33:00Z
-    webUrl: "https://slator.com/press-releases/pangeanic-launches-v2-document-translator-and-anonymization-solution/"
+  - title: "Critical evaluation of deep neural networks for wrist fracture detection | Scientific Reports"
+    excerpt: "Wrist Fracture is the most common type of fracture with a high incidence rate. Conventional radiography (i.e. X-ray imaging) is used for wrist fracture detection routinely, but occasionally fracture delineation poses issues and an additional confirmation by computed tomography (CT) is needed for diagnosis."
+    publishedDateTime: 2021-03-16T10:58:03Z
+    webUrl: "https://www.nature.com/articles/s41598-021-85570-2"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
+      name: Nature
+      domain: nature.com
+    quality: 28
     images:
-      - url: "https://slator.com/assets/2021/03/pangeanic-2021-logo-900x600-CD.png"
-        width: 900
-        height: 600
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-85570-2/MediaObjects/41598_2021_85570_Fig2_HTML.png"
+        width: 685
+        height: 343
         isCached: true
   - title: "Startup MEDO.ai turns a new leaf for ultrasound examination, becoming a leader in AI-powered medical inspection technologies"
     excerpt: "The traditional stethoscope is an easily accessible tool, so too will be the future ultrasound device. Canada-based biotech startup MEDO.ai has developed a software platform based on AI and cloud computing technologies. When coupled with a handheld ..."
@@ -114,6 +114,6 @@ related:
         height: 335
         isCached: true
 
-secured: "UUcGQpdMkWa8tRxesMVVRLjK2tM//ZhnhgIFOEEDEM2cm1HfAOn08q42uh9km+qFSppz+Rhd6v1YjNYQxsyCB7Tjjk4dHoRgjgxAQHlHWM/og37x1zsA4AcRrSI0iWh7UVnTw1YtCa9pl0Z+a3Rv1JK9TO2z4alfBShX0o+WzpXXWp0RNg5UubbOKrQmFNdaF3sNfIgNzu5GpsOx2WcfdDyavo2ZxhgPTNxpZRfhfB1qYJF3shshm3ix17rPKoGD3t3BIDo5XUgG80JMsbG/ThtErVqTbwoMgcAHNmOx8RUAKJ2PysLoijtellFEdAZiL7dm2920F1S3yqNWIEmUj4+ulJn1fYxDmlCl888FtTE=;QzEbJVgWKVP2eM3qYia5gQ=="
+secured: "Bdfe1iLQae3WTUvWly8tQgs/UP7HV0k7u0uyHTdl23wPRwEm2DxV2V0gKiunsKrVUW/VtWeUJWWBaE2c2guGUWhltwZ41H4zXbI+6fl8Fq6M9AAWZbEZYRq+EAV2asiaZtleigrUXb5OPMPv6y5xRtXiJo4PRU0F6fRwPOM+kD1FZSo8AvbJs5TCGPumIDzs1Iv2av5JDkzgIb6xQqqiYezJb431d3WuHz9i4zEv2p7ceie3fK9G7xBpfJ1Fzec0YUZgmb0QRtpYFhKuJKdZPeEyA7ZFzFnaeohK0or47jGeJuX+nh0DtA9u+4KPwR8LmPvfNYeFZ+5Hwk4fg5+6HvcKusEbhPAMSR+4iiqx0Lw=;pZfhgP8sk2TqP3esWVvJlw=="
 ---
 

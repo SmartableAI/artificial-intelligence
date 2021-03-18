@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Feedzai Fairband: World's most advanced framework for AI fairness"
-excerpt: "New patent-pending AutoML algorithm that automatically discovers less biased machine learning models with zero additional model training cost while increasing model fairness"
-publishedDateTime: 2021-03-17T09:03:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/g20207676/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/g20207676/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20207676"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20207676"
+title: "Feedzai Fairband: World’s most advanced framework for AI fairness"
+excerpt: "Particularly in the fintech industry, there’s a risk that AI systems deny access to financial services disproportionately across people from different groups, based on race, age, place of residence, profession, or employment status. Access to banking ..."
+publishedDateTime: 2021-03-17T08:07:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Feedzai Inc: Feedzai Fairband: World's most advanced framework for AI fairness"
@@ -31,6 +35,6 @@ related:
       domain: finanznachrichten.de
     quality: 19
 
-secured: "nZKiu+A0I7LiIncxNCznf4A2yJdbMa8Hf59XI7Pw9oVt5REryci3VLpZXCpDC5iIrW9ACOPwZrGQV1HY156OeUhzwwcZbK/UW/SIP2+1uncZQyFMWbP5o4FbOZ45RAvVXYFF1ML0eCkauSMfAfc2iY72WGBs+thMdGMuZ2NzwOpk5zqxOVofKMiYviRgFwZzWzVBJy5Wp/TBF9B8JvAYukne6deDmnXC5nZBCRrpXomr/opBTpYsKBx9OQztcj42mKRgxCSEw6rV7Yd0qxZTKVdyL/DqSjw2YewEuqYcDRlm2x8igB0N9rALPSuwicZENoZfgQVJM2hbDRIgt7mYGvJmTPtyA0BzXzDyCrgs7yk=;/jIJA4azNxBm2BBS3Oc/YA=="
+secured: "ETPWe7uHz7iPa3F/yqQA6BuvrzQOb/U3NdJ4nM/QEcyygzu/e34gFxZISDYgKAd99pKbeF6dgKpngwvfkjbZxxeirI/nITM2qlxJXluWG2Y/4dkA9BvJnsTPFTyFVykdl6pQA1DTwUMN/B1LXu4806PVI1/Q4DaWhFS5amF6j63dhkxmH8WNsSaum/V6/N0voVZhXqXdaXT3rCajHgNf4A/hZv1nRZfvztmtK4gbWCTLUDHU+GWIFLA7j7fIqZadvV7KCEaxx42in84tl5MfF3xR3UbEbsTxZUuSNARQOsIWVrcC2fC+umb6vcXsmTe5lVwlw7CpV2lfYen2ug0PDzTOHBHGZcGixGrTklU34IY=;/yOWOgwtOLRwJuz6U/CElQ=="
 ---
 

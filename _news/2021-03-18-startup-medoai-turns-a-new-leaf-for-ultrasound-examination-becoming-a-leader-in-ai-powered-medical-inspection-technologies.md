@@ -98,7 +98,21 @@ related:
         width: 685
         height: 343
         isCached: true
+  - title: "Pangeanic Launches v2 Document Translator and Anonymization Solution"
+    excerpt: "Pangeanic today announced the upgrade of its NLP ECO Platform to version 2 to include multilingual anonymization services in English, Spanish, Japanese and Brazilian Portuguese. The service can be used in conjunction to its traditional document translator and private machine service."
+    publishedDateTime: 2021-03-18T07:33:00Z
+    webUrl: "https://slator.com/press-releases/pangeanic-launches-v2-document-translator-and-anonymization-solution/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/2021/03/pangeanic-2021-logo-900x600-CD.png"
+        width: 900
+        height: 600
+        isCached: true
 
-secured: "BXxv6e9iwpBuTfDyQbRZn3mSFlaxjjRaT9Bal+wzh3s45EwFuotKUSgnrE9KVIdOHT6jdg1gZK4W9NBj5dxscgRK1hUAS0s3CbUDlICMfY2mvcdU/W2sg1GFh20FlzBIm1mJIxd1CftoFuE0u5QDetYEpVloEMEDZ6LeuEd1HOyMBanndYwnvR4C164Th85puSZEcDrajF3+ukHTMrdfFWx9ADmfTWx6Aat+UXZN5yy7PZ6NhBeYkgiI7KLUSSccwzTzxUmke0AaMf8xRikqtDeikMPjweqPh2ILvU5DxP7guUuDyg0ukHh0O0Iuyv0cA+mB+LZzFMeteTvWI8NHvV3BPmiwD3nvwDAHUuK8Sx8=;DwGGmkuyZK7vvOf5VTFtZQ=="
+secured: "0q8dTfUxyI5slmoTgfBXzSCNEHUCl4T2zshcZ2O/Za5r1biGxJ9qhS6pY8pAJConl/QjLQqwvpqTnQDExDsZCLYHXZx6b6zNQ8PKF/ZrEBlWhb0x3miatTmE/1567cUVMaopxasIAsbKtuw7WTJS8HA+uoNhbRtSQbuBhIODIh8fX77+QW++drb7oxZMCcKo2175+LR8B7CKkDD2IlUnsMmoK3KX3oMZIWq1TWuGr8kRyD5Sy0xmG6weNmtaOyVUHo3DhHEWkXMvQgBRksvVCvVjNZ+E6GGj8gh72FG9P+LqdAAbkI1IUuSRnnSTYD5wSjTX193S2P2nxPcaylUxOYKVJQLCCCujBdcwKYmyfOvtwpKgUI/bdRSCQPWF5/nVR6h2+gS4mpEzAd/Qv4WZ4miYbJ7JgWjJO+6qGCWeJ2iVf3wZCsdLusJrASGH8ND+N69gMsDyDi2NqlvjdZ/RiPs0uF/myHTawoX3Q7RTSLUQ81DDJqvUEv1l0YDIzYqqj/ys0eE2GKMVE8eRhmQEhQ==;S7aiaI7dPnzzGfdvNK09kw=="
 ---
 
