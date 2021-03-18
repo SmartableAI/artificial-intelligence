@@ -39,20 +39,6 @@ related:
         width: 432
         height: 288
         isCached: true
-  - title: "The chief innovation officer of $96 billion ServiceNow explains how new low-code and AI tools will help people be more productive"
-    excerpt: "The firm — which makes automation software — launched new AI updates and low-code capabilities on its platform earlier this week that greatly expand its range of services. While ServiceNow initially focused on customer, IT, and employee processes with ..."
-    publishedDateTime: 2021-03-13T16:55:00Z
-    webUrl: "https://www.businessinsider.com/servicenow-dave-wright-new-low-code-tools-artificial-intelligence-investments-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5e724f4bc4854007d2093b97?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "U2amXBJtr0SLn/CtN7LGerwCEZ9yxnr52kgzkSMzEWQjxLX7LOEm8Asl5hO5Dp8ofxoWqBqwn4ItGwPcwWVaBnM3QY5DM59r/mVVZa4RD52gvsWFfbrKN+gbkOozDz6xRxSeSCjnIQW9cPcaHRcKVQLph25wMsYi0215mb2Q8lFRg183xmzTlG8qG0YYdqQKG2c9QdK4Z+P1HgFZxkFV0e8TOQcKgAFPBgibDfgtxuc/v513sVvaS+d+liMSsm4XJYeOcYC7Utu3aTGnIlK/ClkyEwebd/CNMcN4oruINjiFiGYXZu6Fn/HuPgzWC8nfbNhppEGi+8wsz/2Wr+df5tVLzl6mx7uSdd7zaIAmRaY=;MfrnhEaaLcDOsxlG6s83fw=="
 ---

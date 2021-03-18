@@ -48,16 +48,19 @@ related:
         height: 626
         isCached: true
   - title: "AI Governance Market Growing at a CAGR 65.5% | Key Player Google, Salesforce, AWS, SAS Institute, Facebook"
-    excerpt: "In the AI governance market, IBM offers IBM Watson OpenScale platform. This platform is available in IBM Cloud Pak for Data and on IBM Cloud. The company has also worked on open source projects ..."
-    publishedDateTime: 2021-03-15T22:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/ab20180087/ai-governance-market-growing-at-a-cagr-65-5-key-player-google-salesforce-aws-sas-institute-facebo"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20180087"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20180087"
+    excerpt: "In the AI governance market, IBM offers IBM Watson OpenScale platform. This platform is available in IBM Cloud Pak for Data and on IBM Cloud. The company has also worked on open source projects such as AI Fairness 360 (AIF360), Adversarial Robustness 360 ..."
+    publishedDateTime: 2021-03-16T00:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-growing-at-a-cagr-655-key-player-google-salesforce-aws-sas-institute-facebook-2021-03-15"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "etiRpwxIygjnFI9WaQ6i6pHB9b/3a6HWxYcxCFsbPajnmX3gE2Y7NWtUDDYcJArsWQQVbwugsZoYTfvsWuu95w1npNvqON1hTNhdzZSURkZsttzcUOfxqMxTs5wbc/a6EWLHXqIAb4R9hdR1/aRnta37kKOK56YgworCqtVuQFv6lW5FEOoTXWHNWN2zaOCLQnBCrFFTRhVYubsLya56ejH3oq9DQ4MPnsOL5vlgEcOEc8jZ4EFQMEje6px9AsBo3uQV7opHYFslGEHenQSD1To6AE8g50ZNoNPQFYnjTnMQscScfNVixDAJcPKY0pqyTHN43CM4MIUjHEh7QDwwiwbpUYCD0FZOF60ZHJ2k9MAF9lE35QudNNqy8jWBLcAgjtAn4EPTxiwj5Sh497YwwRcDLw+DmoHkDMPcGDuoMKjPz9jjDW17rl0rUL8AN1axXngnVArhODJB7lKQI9S/lYBZGkFddjOxc6Ajzgo25kT4sb+8rbcTuxOpO+nJ5MnW84hmb21OXq1IiWAYH2G6EA==;AQOpDscBfrGI++hH+6jWIg=="
 ---

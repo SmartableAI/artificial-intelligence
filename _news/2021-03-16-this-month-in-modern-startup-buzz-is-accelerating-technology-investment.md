@@ -41,22 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Entrepreneur First announces pre-seed investment in 8 Indian tech start-ups"
-    excerpt: "BOX: Unveiling of 8 tech start-ups EF's Demo Day showcased 8 startups from India offering tech solutions, powered by AI, Robotics, VR, and other new-age technologies, to solve issues across industries. Expertia Despite a lot of hiring job boards being ..."
-    publishedDateTime: 2021-03-18T07:31:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-start-ups-121031800517_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-start-ups-121031800517_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-start-ups-121031800517_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/18/full/20210318123341.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "5lKQyDzxCWDQKRW1ycES/94hD0JUgtpWkY74sWzUFkM3sWJxA4DITtJnTRCBex+6CA4V9qCklZ+eZDwMBKqKltHV9M8LcQ54j58Zg8+VsIj4mbdJszxQe/SqiyGDAtGybqy862dApeOMqzAnIa7kPuCBwz8QgDxW7xIM9H2DcHC5Y2idButTd6cUEYSjDta4k4FJ7iUhBhY1posDQZIaV9XSdsUcOXNaVFx5cZGQBdtUepyKNSLuW5VTle77Mpa9bBLRrxU1qCASGpu26moPsVly8x7UYjyddaJcx7jhcvXVU3aCLTmy+qk9zSZfZDCWCxzdyr56r60KQLSuiBkWCQFLYugnyZfYKKJ0IfbRix0=;PSje6fV0MVlxr9w7ho+h4A=="
 ---

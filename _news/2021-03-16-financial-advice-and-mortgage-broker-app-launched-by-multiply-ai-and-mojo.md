@@ -23,6 +23,22 @@ images:
     height: 512
     isCached: true
 
+related:
+  - title: "Multiply AI rolls out financial planning and mortgage broker app with Mojo"
+    excerpt: "Multiply AI has announced the launch of a free financial planning and mortgage broker app in collaboration with digital mortgage broker Mojo."
+    publishedDateTime: 2021-03-18T09:48:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/multiply-ai-rolls-out-financial-planning-and-mortgage-broker-app-with-mojo/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 35
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/03/multiplyai.png"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "pRC53Em5IRPujhw++dRnCpgREyMl6zGbKrFTUIJ3wg+9vUhqrtM4DDBPGJ0Dxn7hWsst+jeJ4PLQGbtrgvqLBHdbsbk8wphQDWfT4jA1P9YqnnO975BnsvGZKYlIaKnHJyVu/NSVGOgUZbLWGKWj5yBSVDFYvx5x+HqTA4Ytyl6YmPtQSM5irN5v/FrW8Dvxp0dOcP0GwN0uimdbMCfhQ5D+nT5lpIcD5GbKMxmqheAfJ6p90hMxrSFZur7CZrRxyAEpBg6bCCHSGrHrlfCGR+hYZx4PFe8zgvLk7utWkSs8bvU+1HZp+s0MZD7sYfPoG2CVoip5a/ibM0k6SwiexXlgsCeaKieg+c+z89Bsn9A=;kXAXASnco181aB049azD0w=="
 ---
 

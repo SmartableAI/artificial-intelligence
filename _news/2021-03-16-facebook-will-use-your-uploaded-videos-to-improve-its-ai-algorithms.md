@@ -52,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Facebook’s computer vision system supervises its own learning process"
-    excerpt: "Facebook AI researchers wrote in a blog that they have developed SEER (SElf-supERvised). This is one-of-a-kind billion-parameter self-supervised computer vision model. This model has all the potential to learn from any random group of images on the internet."
-    publishedDateTime: 2021-03-13T17:53:00Z
-    webUrl: "https://www.analyticsinsight.net/facebooks-computer-vision-system-supervises-its-own-learning-process/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/1280-facebook.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "vdwpMCbenYX+wjA87OnCrjYxkSRAbxEYUz82qY/t4WlXHdCAbsIS+gXjWnXeJxLrHmGyCQwWbdOXyKt/xG81dgDoHeJd4c4K7mKZwVlJ7fhY79jo/xaSDVsA50eipvz7gM/GvJbHMvBRzNGfWIEUsOFb7Cz8mUpRprucn91QaRWDAf84YQzZ41AVGhpJSHK7Bv6dGjVBYduyafbMQCfIdcbrbeIGrVHeKaqifl07jTQRCmBdgCYfPYOZ4jIrGeX5OJkBOnTxQII+e6jk0bGUdKksMJnAeS9geZgFEQlBp6W5jfzNpl6Itja3KJNFOQJBz7LdjU39Aoa2cB7RhJvhFbfvi5K/PK08CIrrY6nmo8Z8vgT8tUmGEtotu8e0U3iCBY787A/Hb6Wa/Rt2NLRss2fwIFgfHLJN384c13pYtq6ncVo6g/zZIJ9AcNq4b0kLtQqvqiJ9+eIa3LDPIDRoq+zC1FZ2RvcdAV+ew9MrRB2+Z0lYos56fYHM8Q4KAltqOdI/5kJedtZeiIi3yOu8Jw==;xVBEWJoMkkMMn3XX8sZCJA=="
 ---

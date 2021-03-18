@@ -1,24 +1,32 @@
 ---
 category: news
 title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
-excerpt: "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021. The programme ..."
-publishedDateTime: 2021-03-15T15:57:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20210315/3723950.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20210315/3723950.html"
+excerpt: "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS)"
+publishedDateTime: 2021-03-15T16:35:00Z
+originalUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
+webUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
+ampWebUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
+cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
 type: article
-quality: 83
-heat: -1
-published: false
+quality: 123
+heat: 153
+published: true
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
   - AI in Autos
+
+images:
+  - url: "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg"
+    width: 400
+    height: 300
+    isCached: true
 
 related:
   - title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
@@ -68,6 +76,6 @@ related:
         height: 1623
         isCached: true
 
-secured: "Ry3DP4xyq6w1QdLjrFOwOtg+Soo8eq4HT4gEtH+/JMG5BjTeQzfjA4BdxZhTcUlxuanj/7FBWoaKSoIhy9pEacZw8WeXiQzZDzA5IBUv97hsEPAyKeGl+asXFWG87E0H0js94gibkwApQFslgPBGLCGY/YP4NwQfB1NWIIbbxIMxqyY7/4NHpLW7D2k153rC6xZncYtO1Egy6C50rPiVyKUPbPn5gaSRq87ZlmF7IlldE4NEXpfVZDW5lzihfoKkIrpey85KJ01OZ61Rs/OmTiKTL9KZyc5VRmm2hRPfxeUWdcbqGg6g9TWpTeYJ5GAf6z9sxOwkMMZZ1oGKkyjloVMyt4FO1l4ekiAbudi7SsU=;53j0ROqsLKEskRRFv7ZyDA=="
+secured: "2wa/RS40KAkV/BXaIXdFl+qHEkKLPovi2QNJURmn6pBokXS8VAsuXFPxrWLGt+ue2Ci4hZdpI8wqDbpNSXEC+WYT5JpfY9oGB8cOvHbttr9aLBsE0K4jtO0cCAQycJbrOMSf1aU+1VDBGsux4JdeKG+Y71MeqoOr/Q4ceC/FfZJMre6PsRz15i9Tqqb1S2uXsdm3GWAd0dq/qr0FoxFpntzS5FeRgSSxST7UA15/i5sCrJp0impv7mEH/yMAmSbUHlBXOzcZrfWMlyrSY5z1Hdo7yIcp3zcWtyTF3te3OdVa6mLNzcsghO8XhXycKRBJfgYQtmhhDdLZKTTX9LN36wD/9m3tfe/f4jsHoDQXXto=;YPatJ11zyXszJqWezVP2aw=="
 ---
 

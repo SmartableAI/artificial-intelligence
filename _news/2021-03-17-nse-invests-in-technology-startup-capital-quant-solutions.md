@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Entrepreneur First announces pre-seed investment in 8 Indian tech start-ups"
-    excerpt: "BOX: Unveiling of 8 tech start-ups EF's Demo Day showcased 8 startups from India offering tech solutions, powered by AI, Robotics, VR, and other new-age technologies, to solve issues across industries. Expertia Despite a lot of hiring job boards being ..."
-    publishedDateTime: 2021-03-18T07:31:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-start-ups-121031800517_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-start-ups-121031800517_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/entrepreneur-first-announces-pre-seed-investment-in-8-indian-tech-start-ups-121031800517_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/18/full/20210318123341.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "This Month in Modern: Startup buzz is accelerating technology investment"
     excerpt: "He’s been tracking how the investment community has been placing sizable bets—staggering numbers in some cases—on startup companies with artificial intelligence (AI) and robotics innovations specifically geared for DCs and fulfillment centers."
     publishedDateTime: 2021-03-15T22:05:00Z

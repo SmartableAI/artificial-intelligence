@@ -93,6 +93,15 @@ related:
       name: WBOC
       domain: wboc.com
     quality: 34
+  - title: "Microsoft extends digital innovation and energy transition deal with Spain's Repsol"
+    excerpt: "Microsoft said it has renewed a strategic collaboration with Repsol that begun in 2017 to focus on accelerating the digital transformation and global energy transition of the Spanish energy and petrochemical giant."
+    publishedDateTime: 2021-03-18T08:38:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-extends-digital-innovation-and-energy-transition-deal-with-spains-repsol--1376357"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 28
   - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
     excerpt: "By making it easy to connect LoRa devices to Azure and by providing insights generated with Azure Cognitive Services and Azure AI, Webee and Semtech are simplifying IoT for our joint customers.” About Semtech Semtech Corporation is a leading supplier of ..."
     publishedDateTime: 2021-03-17T18:00:00Z

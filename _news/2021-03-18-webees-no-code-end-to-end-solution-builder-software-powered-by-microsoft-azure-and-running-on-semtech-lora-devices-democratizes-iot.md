@@ -97,6 +97,15 @@ related:
       name: WBOC
       domain: wboc.com
     quality: 34
+  - title: "Microsoft extends digital innovation and energy transition deal with Spain's Repsol"
+    excerpt: "Microsoft said it has renewed a strategic collaboration with Repsol that begun in 2017 to focus on accelerating the digital transformation and global energy transition of the Spanish energy and petrochemical giant."
+    publishedDateTime: 2021-03-18T08:38:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-extends-digital-innovation-and-energy-transition-deal-with-spains-repsol--1376357"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 28
 
 secured: "tbtE8GfoSOwaMBn9h6jidK4GZtQWIebiYF8eG0io1nibSyEFxxFNWbRr4+gnH1z8THMBPWWfHwyl7fTDKAQ6V5Z6REnWsH9bR+rOzkFBpCHByk77oP1Ke6WBtAaEyJgE5ttGiFs5pbcpOEAlVlP1BkJ02ZZO1r556YrC9d0eLrxTK9IM4ZvnlG0Umb+Sq8vGDWjABSRQxfFjI9CL69shgDLUeiXYXjoTFVsjenlkFwtkGOr7PxTpkvzTLaW3u8v+2f6nkfJrlIvZy4g/RMVY6EcUVtm0TLwta9wrwggpyn6CVC+mG4ii++BxokChJe227qZZJhGZ+AVLF1LRxwng+vBXHOCXAGnflp5875mUxFNkqvcif4XWABFTXl0EkFbj1XTLcMmKihoOuY+F1bV0ZvoJsaPrQhIc76FCgXByisi60VxQcs/1oU6P9xcCL1oSyt9apL4KBJ//nHKoWS8AxpPvI+Mo2kiCcciP99EjHRApLMgvmNujs6Kg79v3HRs4ia9ZlhcaELLTGSkKgYfTag==;IkuzOEKPSO2b7yviqs51sA=="
 ---

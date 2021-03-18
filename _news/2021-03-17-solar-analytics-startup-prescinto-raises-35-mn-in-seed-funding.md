@@ -58,6 +58,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Solar Analytics Startup Prescinto Raises $3.5 Mn In Seed Round"
+    excerpt: "Funds raised would be used for international expansion, primarily theUS, and further IP development to deepening their moats into artificial intelligence (AI)"
+    publishedDateTime: 2021-03-18T08:15:00Z
+    webUrl: "https://www.entrepreneur.com/article/367380"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/367380"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367380"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1616054711-PuneetSinghJaggiFounderandCEOPrescinto.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Zenlytic Raises $1M for its Analytics Platform for E-Commerce Businesses that Streamlines Data Analysis with Machine Learning"
     excerpt: "Zenlytic, cofounded by Ryan Janssen, is a no-code analytics platform made specifically for the e-commerce industry to unlock valuable insights to drive sales and marketing."
     publishedDateTime: 2021-03-17T13:07:00Z

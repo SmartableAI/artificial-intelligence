@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-stu
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-studio-notebooks-backed-by-spark-in-amazon-emr/"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:
