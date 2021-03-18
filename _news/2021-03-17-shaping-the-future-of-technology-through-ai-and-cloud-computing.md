@@ -54,6 +54,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "AI can shine digital sunlight on to company greenwashing"
+    excerpt: "start ups like Arabesque and academics. Two examples emerged this week: a team at Cambridge university is building an open-source system to track ESG risks in sovereign bonds; their counterparts at King’s College London are scanning companies’ AI ..."
+    publishedDateTime: 2021-03-18T17:49:00Z
+    webUrl: "https://www.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
+    ampWebUrl: "https://amp.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F72a3f31a-d964-4510-bd98-f90afedd51f1.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Quantum Computing and Reinforcement Learning Are Joining Forces to Make Faster AI"
     excerpt: "Although only challenged with a “toy problem” in the study, once scaled the AI could impact real-world problems like building an efficient quantum internet."
     publishedDateTime: 2021-03-16T14:00:00Z

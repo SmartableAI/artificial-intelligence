@@ -70,6 +70,22 @@ related:
         width: 800
         height: 1200
         isCached: true
+  - title: "AI can shine digital sunlight on to company greenwashing"
+    excerpt: "start ups like Arabesque and academics. Two examples emerged this week: a team at Cambridge university is building an open-source system to track ESG risks in sovereign bonds; their counterparts at King’s College London are scanning companies’ AI ..."
+    publishedDateTime: 2021-03-18T17:49:00Z
+    webUrl: "https://www.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
+    ampWebUrl: "https://amp.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F72a3f31a-d964-4510-bd98-f90afedd51f1.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "AI for Health grantees making an impact"
     excerpt: "Learn how our grantees and partners are addressing global health challenges with AI for Health resources and grants. We are mobilizing our efforts to support organizations responding to COVID-19 with projects for shared research,"
     publishedDateTime: 2021-03-16T07:52:00Z

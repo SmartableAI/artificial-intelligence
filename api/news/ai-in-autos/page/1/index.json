@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-18-chinas-saic-partners-with-us-lidar-maker-luminar-on-self-driving-cars.md",
+      "title": "China's SAIC partners with U.S. lidar maker Luminar on self-driving cars",
+      "excerpt": "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO",
+      "originalUrl": "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555336019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0RJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BA1DO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA1DO",
+      "publishedDateTime": "2021-03-18T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-baidus-second-listing-in-hong-kong-to-bring-in-31-billion.md",
       "title": "Baidu’s Second Listing In Hong Kong To Bring In $3.1 Billion",
       "excerpt": "Baidu will use some of the funds raised to further invest in artificial intelligence (AI), including its AI cloud unit and its self-driving vehicle platform Apollo. Bank of America, Citic Securities and Goldman Sachs are the joint sponsors and global ...",
@@ -94,6 +146,51 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
+      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
+      "excerpt": "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "originalUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/awswiki1-sjxop2edjeaig.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "publishedDateTime": "2021-03-16T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
       ]
     },
     {
@@ -261,7 +358,7 @@
       "originalUrl": "https://www.foxnews.com/auto/tesla-fires-self-driving-testers-camera",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -302,51 +399,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
-      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
-      "excerpt": "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
-      "originalUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp",
-      "cdnAmpWebUrl": "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp",
-      "publishedDateTime": "2021-03-15T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     },
     {
@@ -1385,49 +1437,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-baidu-has-secured-nod-from-hk-bourse-for-second-listing-sources.md",
-      "title": "Baidu has secured nod from HK bourse for second listing: Sources",
-      "excerpt": "HONG KONG • Chinese search engine giant Baidu has secured approval from the ... language learning to voice interaction to autonomous driving, betting on smart devices and vehicles of the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/business/companies-markets/baidu-has-secured-nod-from-hk-bourse-for-second-listing-sources",
-      "originalUrl": "https://www.straitstimes.com/business/companies-markets/baidu-has-secured-nod-from-hk-bourse-for-second-listing-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/03/06/ST_20210306_BIZBAIDU06_6379447.jpg?itok=FbQndK4j",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-05T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

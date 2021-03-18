@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/03/17/to-solve-all-the-small-things-lo
 webUrl: "https://techcrunch.com/2021/03/17/to-solve-all-the-small-things-look-to-everyday-little-ai/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 602
     height: 400
     isCached: true
+
+related:
+  - title: "Adobe Acrobat Brings E-Sign and AI to Very Small Businesses"
+    excerpt: "Adobe's new tier of Acrobat Pro is aimed at micro-businesses, and comes equipped with its e-sign technology and other new capabilities, including smart web forms and an AI-powered overhaul to PDF support for mobile devices."
+    publishedDateTime: 2021-03-18T16:02:00Z
+    webUrl: "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses"
+    ampWebUrl: "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 87
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01GLmQdpOWHrCSJ4Kbtv5EQ-1.1616081048.fit_lim.size_1200x630.jpg"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "DApRCs5uSC16b5sd0N7A7uR+OdajXbbljRVbTzIVXxgbWsn5x7zV3Ga4oh5ISTPD6c/RJY8VoLAwox5gWGUKJ6sLsvkc12jNA7orOThQeLE4Trhr0so5epuAc5a1qz6I/GtFeUynNd2fQmUTtTrx1B/BZ75J8FMyVtWrSzzow12hC/wOl+lpGdQOkWojiaRFMT3s3Hocpap5d5XCsdjKNA5YEyZ2HZfM/Nh/8ltZmioWGDalctbrTlvHgDSpO1jFgR8XlUiOXMFTsgNrv+iQd/ycA41/BhWalP+CxT7BuvMtbLteyeQ/3RZo0f5/iBMz4UqaxZkwb1meWeZtzIQaJFEHs+/oGlOD0+Nff4MMaWegIv7/Y1mdC5KN61CcjyYUFuOr+vPu9F5AC7T7VGTl+BjJHHBkrD5/ojpgI7tER5653OzsKBzUPBnSvW6PnIiTUpZqhR/vRJRtXzzkagXJwpY6W1P47O+R4XUE0hd5qP9SXWtowgK+je40yTBqmknHsU8gJ4QEUoHWqJWRKSR4cg==;uZENIffJu13e5V5vULNOOQ=="
 ---

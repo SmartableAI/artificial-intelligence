@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-06-baidu-has-secured-nod-from-hk-bourse-for-second-listing-sources.md",
+      "title": "Baidu has secured nod from HK bourse for second listing: Sources",
+      "excerpt": "HONG KONG • Chinese search engine giant Baidu has secured approval from the ... language learning to voice interaction to autonomous driving, betting on smart devices and vehicles of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/business/companies-markets/baidu-has-secured-nod-from-hk-bourse-for-second-listing-sources",
+      "originalUrl": "https://www.straitstimes.com/business/companies-markets/baidu-has-secured-nod-from-hk-bourse-for-second-listing-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/03/06/ST_20210306_BIZBAIDU06_6379447.jpg?itok=FbQndK4j",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-05T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-10-women-changing-the-landscape-of-leadership.md",
       "title": "10 Women Changing the Landscape of Leadership",
       "excerpt": "In critical fields like agriculture, science, finance and technology, they have staked a claim with their pioneering work and are building a path for the next generation.",
@@ -1395,49 +1438,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-driverless-bus-hits-streets-in-southern-spain.md",
-      "title": "Driverless bus hits streets in southern Spain",
-      "excerpt": "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
-      "originalUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/02/27/bus.jpg?itok=DnMiwaar",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
-      "publishedDateTime": "2021-02-26T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

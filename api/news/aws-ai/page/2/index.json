@@ -328,19 +328,19 @@
     {
       "path": "_news/2021-03-02-core-scientific-achieves-aws-high-performance-computing-competency-status.md",
       "title": "Core Scientific Achieves AWS High Performance Computing Competency Status",
-      "excerpt": "\"Core Scientific is humbled to be one of the first AWS Partners to achieve AWS HPC Competency status,\" said Ian Ferreira, Core Scientific Chief Product Officer of Artificial Intelligence.",
+      "excerpt": "BELLEVUE, Wash., March 1, 2021 – Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner, the former COO of Microsoft, announced today that it has achieved ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/core-scientific-achieves-aws-high-performance-computing-competency-status/article_ca8bc4fa-a144-53ba-a80a-9624a1cccf58.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/core-scientific-achieves-aws-high-performance-computing-competency-status/article_ca8bc4fa-a144-53ba-a80a-9624a1cccf58.html",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/",
+      "originalUrl": "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png",
+          "width": 440,
+          "height": 440,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -350,11 +350,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T11:06:00-08:00",
+      "publishedDateTime": "2021-03-01T13:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
         "images": null,
         "publishers": null,
         "authors": null

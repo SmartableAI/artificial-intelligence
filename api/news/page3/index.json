@@ -2,6 +2,205 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-16-applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines.md",
+      "title": "Applied Materials brings AI and big data into semiconductor inspection machines",
+      "excerpt": "Applied Materials has launched a new generation of optical semiconductor wafer inspection machines that incorporate AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/",
+      "originalUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/amat-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/",
+      "publishedDateTime": "2021-03-16T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-three-top-ai-trends-to-watch-this-year.md",
+      "title": "Three Top AI Trends To Watch This Year",
+      "excerpt": "While businesses have started to realize tangible benefits from AI, there are still a number of yet-to-be-proven AI technologies in the early stages of the Gartner Hype Cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f62c590ff278ef5d11de2%2F0x0.jpg",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/",
+      "publishedDateTime": "2021-03-16T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-bmw-wants-to-make-you-feel-things-with-its-new-ai-assistant.md",
+      "title": "BMW wants to make you FEEL THINGS with its new AI assistant",
+      "excerpt": "BMW's new iDrive 8 system uses natural language processing, gesture control, and machine learning to connect the vehicle and driver in emotional ways.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2021/03/16/bmw-idrive-emotional-infotainment-future/",
+      "originalUrl": "https://thenextweb.com/shift/2021/03/16/bmw-idrive-emotional-infotainment-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/bmw-idrive-8-future-electric-infotainment-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2021/03/16/bmw-idrive-emotional-infotainment-future/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2021/03/16/bmw-idrive-emotional-infotainment-future/amp/",
+      "publishedDateTime": "2021-03-16T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
+      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
+      "excerpt": "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "originalUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/awswiki1-sjxop2edjeaig.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "publishedDateTime": "2021-03-16T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-ai-and-x-rays-identifying-the-many-faces-of-covid-19.md",
       "title": "AI and X-rays: Identifying the many faces of COVID-19",
       "excerpt": "A digital diagnostic tool that uses artificial intelligence and cloud computing to accurately read vast numbers of chest X-rays – faster than a radiologist can – is helping doctors identify, triage and monitor COVID-19 patients.",
@@ -114,7 +313,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -624,7 +823,7 @@
       "originalUrl": "https://www.foxnews.com/auto/tesla-fires-self-driving-testers-camera",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -822,51 +1021,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
-      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
-      "excerpt": "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
-      "originalUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 153,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp",
-      "cdnAmpWebUrl": "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp",
-      "publishedDateTime": "2021-03-15T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     },
     {
@@ -1106,144 +1260,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-nvidia-nvda-rides-on-strong-chip-demand-ai-proliferation.md",
-      "title": "NVIDIA (NVDA) Rides on Strong Chip Demand, AI Proliferation",
-      "excerpt": "Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nvidia-nvda-rides-on-strong-chip-demand--ai-proliferation-9915109",
-      "publishedDateTime": "2021-03-15T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-andrea-bonaceto-collaborates-with-robot-on-first-digital-ai-piece-being-sold-as-an-nft.md",
-      "title": "Andrea Bonaceto Collaborates With Robot on First Digital AI Piece Being Sold as an NFT",
-      "excerpt": "NFTs, digital images each of which come with its own unique code to prove who owns it, have been shown to be a powerful new force in the art world. The collaboration between Sophia the Robot and Andrea Bonaceto will be available on Nifty Gateway on March 23.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787",
-      "originalUrl": "https://www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1754630/sophia-robot-david-hanson.jpg",
-          "width": 2500,
-          "height": 1710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nft-art-sophia-robot-andrea-bonaceto-nifty-gateway-ai-1575787?amp=1",
-      "publishedDateTime": "2021-03-15T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-using-artificial-intelligence-to-improve-healthcare-for-all.md",
-      "title": "Using Artificial Intelligence to Improve Healthcare for All",
-      "excerpt": "He is also a pioneering figure in artificial intelligence (AI) research. Sapiro wields his expertise in AI to solve societal problems, particularly those related to health and health care. In the Parkinson’s project, Sapiro uses a technique called ...",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
-      "originalUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/scienceblog.com/wp-content/uploads/2021/03/DST_Computing_AIHealth_Electrodes.png?fit=270%2C293&#038;ssl=1",
-          "width": 270,
-          "height": 293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/",
-      "publishedDateTime": "2021-03-15T06:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

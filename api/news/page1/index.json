@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-18-chinas-saic-partners-with-us-lidar-maker-luminar-on-self-driving-cars.md",
+      "title": "China's SAIC partners with U.S. lidar maker Luminar on self-driving cars",
+      "excerpt": "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO",
+      "originalUrl": "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555336019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0RJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BA1DO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA1DO",
+      "publishedDateTime": "2021-03-18T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-oracle-is-making-its-cloud-databases-easier-to-use.md",
+      "title": "Oracle is making its cloud databases easier to use",
+      "excerpt": "Oracle says the latest release of its cloud-based Autonomous Data Warehouse will help transform complex data transformation activities into point-and-click tasks. The Oracle Autonomous Data Warehouse is a software-as-a-service cloud data warehouse that Oracle says is designed to reduce the complexities of developing data driven applications by automating critical provisioning and configuration tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "originalUrl": "https://www.techradar.com/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "publishedDateTime": "2021-03-18T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses.md",
+      "title": "Adobe Acrobat Brings E-Sign and AI to Very Small Businesses",
+      "excerpt": "Adobe's new tier of Acrobat Pro is aimed at micro-businesses, and comes equipped with its e-sign technology and other new capabilities, including smart web forms and an AI-powered overhaul to PDF support for mobile devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses",
+      "originalUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01GLmQdpOWHrCSJ4Kbtv5EQ-1.1616081048.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses?amp=true",
+      "publishedDateTime": "2021-03-18T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-robotics-safety-system-developer-fort-robotics-raises-13m-to-tackle-workplace-automation.md",
       "title": "Robotics safety system developer Fort Robotics raises $13M to tackle workplace automation",
       "excerpt": "Fort Robotics, a company developing safety systems for autonomous machines, has raised $13 million in funding.",
@@ -579,7 +734,7 @@
       "originalUrl": "https://www.eweek.com/news/servicenow-adds-ai-to-low-code-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -925,7 +1080,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1112,142 +1267,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-an-autonomous-debating-system.md",
-      "title": "An autonomous debating system",
-      "excerpt": "Here we present Project Debater, an autonomous debating system that can engage in a competitive debate with humans. We provide a complete description of the system’s architecture, a thorough and systematic evaluation of its operation across a wide range of debate topics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41586-021-03215-w?error=cookies_not_supported&code=88330d3a-03dc-4c39-a7ab-0e953b4a7820",
-      "originalUrl": "https://www.nature.com/articles/s41586-021-03215-w",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-for-oracles-updated-autonomous-data-warehouse-no-sql-needed.md",
-      "title": "For Oracle's updated Autonomous Data Warehouse, no SQL needed",
-      "excerpt": "With drag-and-drop UIs and AutoML capabilities, the simplified data warehousing tool is designed to be accessible to data analysts and business users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "originalUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/17/f1545472-64c8-47b8-8ed7-6303beeafde8/adw-oracledatabaseactions-dataload.png",
-          "width": 1800,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
-      "publishedDateTime": "2021-03-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-writing-helper-copyai-raises-29m-in-a-round-led-by-craft-ventures.md",
-      "title": "Writing helper Copy.ai raises $2.9M in a round led by Craft Ventures",
-      "excerpt": "Copy.ai, a startup building AI-powered copywriting tools for business customers, announced a $2.9 million round this morning. The investment was led by Craft Ventures. Other investors took part in the deal,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/17/gpt-3-powered-copy-ai-raises-2-9m-in-a-round-led-by-craft-ventures/",
-      "originalUrl": "https://techcrunch.com/2021/03/17/gpt-3-powered-copy-ai-raises-2-9m-in-a-round-led-by-craft-ventures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1094956900-e1559746431929.jpg?w=1024",
-          "width": 1024,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/17/gpt-3-powered-copy-ai-raises-2-9m-in-a-round-led-by-craft-ventures/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/17/gpt-3-powered-copy-ai-raises-2-9m-in-a-round-led-by-craft-ventures/amp/",
-      "publishedDateTime": "2021-03-17T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

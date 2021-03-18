@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/news/servicenow-adds-ai-to-low-code-platform
 webUrl: "https://www.eweek.com/news/servicenow-adds-ai-to-low-code-platform/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

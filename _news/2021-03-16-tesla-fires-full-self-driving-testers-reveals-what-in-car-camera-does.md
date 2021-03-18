@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-fires-self-driving-testers-camera
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-fires-self-driving-testers-camera.amp"
 type: article
 quality: 88
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://abc-7.com/wp-content/uploads/2021/03/Tesla-1.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tesla’s stories said to diverge over fully self-driving vehicles"
-    excerpt: "For years, Tesla Chief Executive Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off."
-    publishedDateTime: 2021-03-14T01:00:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/mar/14/teslas-stories-said-diverge-over-fully-self-drivin/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 54
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
         isCached: true
   - title: "GM Subsidiary Cruise Acquires Self-Driving Car Startup Voyage"
     excerpt: "Cruise, a majority-owned subsidiary of General Motors (GM), has scooped up self-driving vehicle startup Voyage, according to a blog post on Monday (March 15). The terms of the deal were not disclosed. “At Voyage, we’ve been laser-focused on delivering ..."

@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/mobility-report/saic-partners-lidar-maker
 webUrl: "https://www.autonews.com/mobility-report/saic-partners-lidar-maker-luminar-self-driving-cars"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "China's SAIC partners with U.S. lidar maker Luminar on self-driving cars"
+    excerpt: "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies."
+    publishedDateTime: 2021-03-18T16:49:00Z
+    webUrl: "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA1DO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA1DO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 88
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555336019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0RJ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Palo Alto-based Luminar's lidar coming to Chinese self-driving cars next year"
     excerpt: "The Palo Alto self-driving vehicle tech company said it will establish an office in Shanghai, its first in China, to support its deal with SAIC Motor Co. Ltd. The agreement with SAIC comes about two weeks after Luminar announced that the self-driving ..."
     publishedDateTime: 2021-03-18T11:52:00Z

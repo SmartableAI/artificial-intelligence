@@ -123,20 +123,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla’s stories said to diverge over fully self-driving vehicles"
-    excerpt: "For years, Tesla Chief Executive Elon Musk has been telling the public that fully autonomous Teslas are just around the corner, no more than a year or two off."
-    publishedDateTime: 2021-03-14T01:00:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/mar/14/teslas-stories-said-diverge-over-fully-self-drivin/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 54
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/static-3/ao_redesign/graphics/adgog.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Tesla Removes Distracted Drivers From Self-Driving Test"
     excerpt: "Tesla is removing some drivers from its self-driving test because they say they were not paying close enough attention to the road. About 2,000 Tesla owners are a part of the “full self-driving” beta program. It’s not clear how many test drivers were ..."
     publishedDateTime: 2021-03-15T19:55:00Z
