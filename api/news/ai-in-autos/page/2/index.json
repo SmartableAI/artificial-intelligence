@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-03-05-10-women-changing-the-landscape-of-leadership.md",
-      "title": "10 Women Changing the Landscape of Leadership",
-      "excerpt": "In critical fields like agriculture, science, finance and technology, they have staked a claim with their pioneering work and are building a path for the next generation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership",
-      "originalUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/04/multimedia/womenpromo2/womenpromo2-videoSixteenByNineJumbo1600.jpg",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/05/world/women-leadership.amp.html",
-      "publishedDateTime": "2021-03-05T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-05-sources-tiktok-owner-makes-automotive-bet-with-investment-in-qcraft.md",
       "title": "Sources: TikTok owner makes automotive bet with investment in QCraft",
       "excerpt": "The development follows other tech giants making their own bets in the self-driving space, such as Baidu and Tencent. China, the world’s biggest vehicle market, is looking to have smart cars that have some measure of automation account for over half of ...",
@@ -388,6 +336,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-facts-vs-fiction-artificial-intelligence-in-digital-marketing.md",
+      "title": "Facts vs. Fiction: Artificial Intelligence in Digital Marketing",
+      "excerpt": "This is where artificial intelligence is most effective for digital marketers. Unfortunately, a large portion of online literature focused on AI is either fixated on a Matrix-like singularity or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/c191a0a2e8dc4a508bb096fcdae188b4.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/facts-vs-fiction-artificial-intelligence-in-digital-marketing/amp/",
+      "publishedDateTime": "2021-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Autos"
       ]
     },
     {

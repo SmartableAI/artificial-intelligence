@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Sonoma County to use artificial intelligence to help fight wildfires"
-excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county’s ..."
-publishedDateTime: 2021-03-17T23:02:00Z
-originalUrl: "https://ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/"
-webUrl: "https://ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/"
-ampWebUrl: "https://ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/amp/"
-cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/amp/"
+title: "Sonoma County turns to artificial intelligence for help spotting wildfires with lookout cameras"
+excerpt: "Technology will allow the network of cameras to home in on suspected wildfires and provide alerts even when no one is watching."
+publishedDateTime: 2021-03-18T02:19:00Z
+originalUrl: "https://www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/"
+webUrl: "https://www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/"
+ampWebUrl: "https://www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/amp/"
+cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/amp/"
 type: article
-quality: 57
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: KTLA
-  domain: ktla.com
+  name: Santa Rosa Press Democrat
+  domain: pressdemocrat.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ktla.com/wp-content/uploads/sites/4/2019/10/gettyimages-1183890096.jpg?w=1280"
-    width: 1280
-    height: 897
+  - url: "https://imengine.prod.srp.navigacloud.com?uuid=EB48522B-809F-4F06-A5D5-66D58E4A0397&type=primary&q=72&width=1200"
+    width: 1200
+    height: 780
     isCached: true
 
 related:
@@ -58,21 +58,21 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Sonoma County turns to artificial intelligence for help spotting wildfires with lookout cameras"
-    excerpt: "Technology will allow the network of cameras to home in on suspected wildfires and provide alerts even when no one is watching."
-    publishedDateTime: 2021-03-18T02:19:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/"
-    ampWebUrl: "https://www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/amp/"
-    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/amp/"
+  - title: "Sonoma County to use artificial intelligence to help fight wildfires"
+    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county’s ..."
+    publishedDateTime: 2021-03-17T23:02:00Z
+    webUrl: "https://ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/"
+    ampWebUrl: "https://ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/amp/"
     type: article
     provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 45
+      name: KTLA
+      domain: ktla.com
+    quality: 57
     images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=EB48522B-809F-4F06-A5D5-66D58E4A0397&type=primary&q=72&width=1200"
-        width: 1200
-        height: 780
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2019/10/gettyimages-1183890096.jpg?w=1280"
+        width: 1280
+        height: 897
         isCached: true
   - title: "Sonoma County Selects Alchera for AI-Based Wildfire Detection"
     excerpt: "SEOUL, South Korea, March 17, 2021 /PRNewswire/ -- Korea’s leading visual recognition AI firm, Alchera Inc. (Kosdaq:347860), today announced that has been formally selected by California’s Sonoma County to provide early warning alerts of pending ..."
@@ -89,6 +89,6 @@ related:
         height: 450
         isCached: true
 
-secured: "EBH13Q90/HNShGig3nhKMTG1+y5SRFpggx4Tig+nNfcG0ye9xSYXa7jFG70lYa0w+YmUewsHSDu1/tnvEPL44TuW03ukUCgIw5HMarYhrvICl3pQAxF9QiKppHpKwRHrq/z0IKzEiHVcXryUc3gzHg7EqaDPLPTCcYFsMaQ/omJ2neL7whfUc4HeOX8scRz1CQGQ6dUAiHU2naJ7EZvFXXYKH0frgqNhVDulCwRvj2tAV7XYkWjoU2+tsTRAG5VdHEwz+/5SZNgONX2XVpy71v9J2P2uYzBjHo57YxCmYsmYlRcLgZMwXSKyYwxWVqhBphBotSUCrEvE3n/TywlqFQNhjQyzSscyD2usgeFCW5ElXvrHXEJT9edAuK6V5MSJJjgsDOomlqF5ICDIirKgLx6AGucrGJBY7GcftYbTBHgsujv2AwivIiPQcWIYgY7BHAVXsN9Q3gjwk5J4IL3W87GgbvkND+QdaIOvZtyyFVygultSUkTYI8kB0DdPR2H0J8bAu4jwzNlsMutd0WsU7A==;ic+jebiD+IClVra/2DbL2A=="
+secured: "7q9vVywzpkWoIdIIJY221rHcH6Nvb1YTlCRnAX+VJapBKlVoG3O/skr8CZPOMiqkZRFkkWCZ8nB0ixcuMDUrBySIErfXiDg7Vcn+WwLdjkV/mcJhTysPkF0mA9+b1npRnnoD2bdQzUvgY1D4ih0A91WV922beVj7tY0nji4gEzcRZdl1apy2iP9LNL63ewL84viogcjY6FzuNBtxqGPoU1XVoxICm9PjF7zZRiOULVB3y6aEmJWpGxdpPyzbdgJ2SEhXs5JL4UmgtoeSJXqbWvwPqsCv3oZMHgTZ3xLr+sIT3cSfK6qoYl7hwyEyso19CRPHxGpPrAs3AvzV/4y++lqONEAu1iPozDh+xnGKhjI=;z3nYsumJk2cF9O+ea+RILQ=="
 ---
 

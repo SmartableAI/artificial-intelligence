@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -210,6 +210,20 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/cruise-voyage-1200.jpg?itok=UyFjysNd"
         width: 470
         height: 246
+        isCached: true
+  - title: "Safety concerns determine level of public support for driverless vehicles, finds NTU Singapore study"
+    excerpt: "Findings have implications for improving adoption rate of driverless vehicles When it comes to the use of driverless vehicles, an individual's"
+    publishedDateTime: 2021-03-18T03:32:00Z
+    webUrl: "https://www.miragenews.com/safety-concerns-determine-level-of-public-530322/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 24
+    images:
+      - url: "https://news.ntu.edu.sg/News/PublishingImages/avolvoab7300.jpg"
+        width: 768
+        height: 511
         isCached: true
   - title: "GM’s Cruise acquires Voyage, a self-driving car startup that focuses on retirement communities"
     excerpt: "General Motor Co.’s majority-owned autonomous vehicle company Cruise LLC said today it has acquired self-driving car startup Voyage Auto Inc. for an undisclosed price. Founded in 2017, Palo Alto, California-based Voyage focuses on developing self-driving car technology to “supercharge” communities,"

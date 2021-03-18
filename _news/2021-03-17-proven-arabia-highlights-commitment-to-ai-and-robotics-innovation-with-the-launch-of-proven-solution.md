@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210317060133/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210317060133/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fondaction to Invest in Waste Robotics, a Company Specializing in Artificial Intelligence for Environmental Solutions"
+    excerpt: "Fondaction and Fonds LCC are joining forces to support the growth of Waste Robotics, an environmental technology startup. This joint investment will help"
+    publishedDateTime: 2021-03-18T03:57:00Z
+    webUrl: "https://wasteadvantagemag.com/fondaction-to-invest-in-waste-robotics-a-company-specializing-in-artificial-intelligence-for-environmental-solutions/"
+    type: article
+    provider:
+      name: Waste Advantage Magazine
+      domain: wasteadvantagemag.com
+    quality: 46
+    images:
+      - url: "https://wasteadvantagemag.com/wp-content/uploads/2021/03/Fondaction.jpeg"
+        width: 651
+        height: 329
+        isCached: true
   - title: "Artificial Intelligence and the Art of Culinary Presentation"
     excerpt: "Historic Preservation Program Director Jorge Otero-Pailos introduced Spratt, and commended her work for reimagining cultural heritage through the use of artificial intelligence. “Even if we’re not experts in French cuisine,"
     publishedDateTime: 2021-03-15T13:10:00Z

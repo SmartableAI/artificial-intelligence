@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Record group meet transcriptions with new Microsoft app"
-excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi. A product of Microsoft's experimental division Garage,"
-publishedDateTime: 2021-03-04T06:18:00Z
-originalUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
-webUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
+excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi."
+publishedDateTime: 2021-03-04T04:57:00Z
+originalUrl: "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
+webUrl: "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
+ampWebUrl: "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
 type: article
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg"
-    width: 1000
-    height: 800
-    isCached: true
-
-secured: "ZN1/Dcpif38N1Yp+b8sZf9QwlxnBpWdKaEjaSYTRmdNGktwEPkDAoMkg8R15EYg4Batov3FbWmmKGNzgHx+Lw5k2RS+uauaGHgMQfr2qceXOr3cg/np5hv64/TCgc1Ay+DqByTmnTeXRDLHjZuJ704qK78bzSgOq96eYBktTz68gHu1DD8knuEmLuIZ90MN8K6PtUlikCfXtQz6iheyTeDc0VCqddupF9eY7rigpw3dXUlTAmCfYpBwMclsxf4EyQGe43zn5gDLH5/R8+o2QekiOAhRijwwHd25Q6B0WWvRfT8w4J6wVgIFZQUeFr5OfMGJb4nq3JUStNaWD2NXJXAe4H+EEOEaVYKAve0pOhJ45kGw+XNs0/XYHd+G262TsEBS6l++6leg1fl6TpPmWiXDFOoKZt3MAmoH4RtEqERXjKOJp3aHmIR7Gi4u7F1GN05x1FCnejMkk2DTwUuUBV03Wf+0xlhMKwdspVLLZ+bOqkJzY9zY1KDl9v6ZjDaSk45y2wIHeaichkgfe0oiqsg==;04QJWjLQ88RUviIwsfSaHQ=="
+secured: "XLrAk0zVfp+77r/1UsGJ7PvPKl/AeagLKd/mevI5/sDb5rOaSwUKAk2T6SFF/XWd7JOiXvj//tnMM8Pif/d9CR5zXiZCrDg2xqiPm+dVZxo6vyxUggQV5a3Iv2QV/edevsBvHaXmIaDSxeNbIBOw/5/C1WAD/ZEa1hHeqJTAouVmvmClOW1DR7GKlCam/4rySgglVZ33BQnuBW1ysHpfwmn4PLSu/VzHIqZSiNy3Uxm/4FnAAkz7TmjJOdcSkjskJ3YJG/55hkbMBv8fpVE1VyIeDHouXbNmQS+/7U82QUtL0267SSSiTFroWMRLiqzVy2O2fBKODz8LwxE0DJbkYLgsDN4tQi1orfFYyz6aUsU=;DB7y6vIJ4ATEMA8GpaPfoQ=="
 ---
 

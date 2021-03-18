@@ -72,6 +72,22 @@ related:
         width: 1280
         height: 897
         isCached: true
+  - title: "Sonoma County turns to artificial intelligence for help spotting wildfires with lookout cameras"
+    excerpt: "Technology will allow the network of cameras to home in on suspected wildfires and provide alerts even when no one is watching."
+    publishedDateTime: 2021-03-18T02:19:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 45
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=EB48522B-809F-4F06-A5D5-66D58E4A0397&type=primary&q=72&width=1200"
+        width: 1200
+        height: 780
+        isCached: true
 
 secured: "s9fwDh6Zv++YNDAFaKkT9Efa3/48HvPpqU9EJt7h92p9RrS/LWYvw+0uqghmKtSLsZVzeEjNrWhNppxpnJaMtrbTlBUzW73xLBtk1QVrvGSSNgpkXlD69f6xNx/id+hFUaSEHYtavaoAQOK05zNh6NVy5lDNnbp4qnRiotbHghiDq83tPeQxmwCf+r5pGUyiFeRj/uy8tHYoPVUexzOagLXXZjMC6mPot+bDmRwIxObCy8q5zNBFxddnSHpm+mRKOWydK1tQhPy8nHRdg1+OvFTdv6hT47N596rtEEW/335dd2c1lHZPkKX/lgryrdIDhVKumF/+HCdAba5h8dL8woob5RKnsjVhPFEHixxnnXk=;Q/z7wM1Os2rPUN0dX612tg=="
 ---

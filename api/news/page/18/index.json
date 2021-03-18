@@ -2,40 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2021-03-02-lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus-international.md",
-      "title": "Lionbridge Completes Sale of Artificial Intelligence (AI) Division to TELUS International",
-      "excerpt": "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence division, Lionbridge AI, to TELUS International,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus",
-      "originalUrl": "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-02-aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning.md",
       "title": "AWS rekindles a crafty scheme to get developers into machine learning",
       "excerpt": "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
@@ -109,6 +75,48 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-china-wants-to-dominate-ai-the-us-and-europe-need-each-other-to-tame-it.md",
+      "title": "China wants to dominate AI. The U.S. and Europe need each other to tame it.",
+      "excerpt": "Europe will soon propose strict AI regulations as part of a push to wield greater influence over the world’s emerging technologies. The U.S., which is home to the world’s leading AI developers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/03/02/china-us-europe-ai-regulation-472120",
+      "originalUrl": "https://www.politico.com/news/2021/03/02/china-us-europe-ai-regulation-472120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/0d/03/c62fb38f4e1bbdad3278d7894acd/webp.net-resizeimage%20-%202021-03-01T235922.470.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/02/china-us-europe-ai-regulation-472120",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/02/china-us-europe-ai-regulation-472120",
+      "publishedDateTime": "2021-03-02T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
         "images": null,
         "publishers": null,
         "authors": null

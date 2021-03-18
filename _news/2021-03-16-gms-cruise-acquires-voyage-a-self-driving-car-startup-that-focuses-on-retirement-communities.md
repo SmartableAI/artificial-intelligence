@@ -221,6 +221,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Safety concerns determine level of public support for driverless vehicles, finds NTU Singapore study"
+    excerpt: "Findings have implications for improving adoption rate of driverless vehicles When it comes to the use of driverless vehicles, an individual's"
+    publishedDateTime: 2021-03-18T03:32:00Z
+    webUrl: "https://www.miragenews.com/safety-concerns-determine-level-of-public-530322/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 24
+    images:
+      - url: "https://news.ntu.edu.sg/News/PublishingImages/avolvoab7300.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "Cruise Automation acquires Voyage to further self-driving car goals"
     excerpt: "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,"
     publishedDateTime: 2021-03-17T12:21:00Z

@@ -1,35 +1,45 @@
 ---
 category: news
-title: "Yseop Launches ALIX, an Application That Instantly Shows the Power of AI Automation for Report Creation"
-excerpt: "Press Release Yseop, a pioneer in Natural Language Generation (NLG) and world-leading AI software company, today announced the launch of ALIX, an immediate discovery application to showcase how quickly and easily financial institutions can transform and grow"
-publishedDateTime: 2021-03-16T20:26:00Z
-originalUrl: "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/"
-webUrl: "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/"
-ampWebUrl: "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/amp/"
+title: "Startup MEDO.ai turns a new leaf for ultrasound examination, becoming a leader in AI-powered medical inspection technologies"
+excerpt: "The stethoscope may be the one instrument common to all medical professionals today in the 21st century. Its development process from invention to widespread use over the past 200 years is probably hard to imagine."
+publishedDateTime: 2021-03-18T02:06:00Z
+originalUrl: "https://www.digitimes.com/news/a20210317PD218.html&chid=9"
+webUrl: "https://www.digitimes.com/news/a20210317PD218.html&chid=9"
 type: article
-quality: 71
-heat: 121
-published: true
+quality: 10
+heat: -1
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Digi Times
+  domain: digitimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://i2.wp.com/mms.businesswire.com/media/20210316005455/en/865159/4/ALIX3.jpg?strip=all&ssl=1"
-    width: 480
-    height: 260
+  - url: "https://www.digitimes.com/NewsShow/20210317PD218_files/1_r.jpg"
+    width: 336
+    height: 335
     isCached: true
 
 related:
+  - title: "Yseop Launches ALIX, an Application That Instantly Shows the Power of AI Automation for Report Creation"
+    excerpt: "Press Release Yseop, a pioneer in Natural Language Generation (NLG) and world-leading AI software company, today announced the launch of ALIX, an immediate discovery application to showcase how quickly and easily financial institutions can transform and grow"
+    publishedDateTime: 2021-03-16T20:26:00Z
+    webUrl: "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/"
+    ampWebUrl: "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: "https://i2.wp.com/mms.businesswire.com/media/20210316005455/en/865159/4/ALIX3.jpg?strip=all&ssl=1"
+        width: 480
+        height: 260
+        isCached: true
   - title: "Steps taken by Government to use Artificial Intelligence for education transformation"
     excerpt: "CBSE has introduced Artificial Intelligence as a subject in class IX from session 19-20 and in Class-XI from session 2020-2021 in their affiliated schools."
     publishedDateTime: 2021-03-15T23:30:00Z
@@ -88,21 +98,7 @@ related:
         width: 685
         height: 343
         isCached: true
-  - title: "Startup MEDO.ai turns a new leaf for ultrasound examination, becoming a leader in AI-powered medical inspection technologies"
-    excerpt: "The stethoscope may be the one instrument common to all medical professionals today in the 21st century. Its development process from invention to widespread use over the past 200 years is probably hard to imagine."
-    publishedDateTime: 2021-03-18T02:06:00Z
-    webUrl: "https://www.digitimes.com/news/a20210317PD218.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 10
-    images:
-      - url: "https://www.digitimes.com/NewsShow/20210317PD218_files/1_r.jpg"
-        width: 336
-        height: 335
-        isCached: true
 
-secured: "1BH87hUOPRS8QEmbUQOokbv85WQnBX8wu7S+ZI8Q/O2khTYkIb9bwUg6Kt90HWil3FubZ//xK/qWZ3LlBHDHXO9WEIVOgqmkBxB6W1bIAdd17IGXJm/wBI6q8X/GJ2x9IEL6v7Fw2rV9rRbPV3qyX2Q0Z1lrloSD9mLhNcYyHMESeGFUeCB5/2P8+NHOWveUymmy2uInq1J0hyVtKfMh0O/IS6SwBrWe/AsUrP2DG4Lm4PK8h+t+5MQAvuBPY4YCjAPWl8HTgN+EZAEU1m1SCG8L7vY8mJqxDWiyZeY1Wmkk6jDthtrbVJuv2ppN6/RYGIvC6L9ge1qprYHpohIeD7cgVMSgt+/NB7PJ3sLuFKQ=;gWuubmP8ZomZCLVJ0GDZkQ=="
+secured: "3UshX9tKHfflE6AKybBTi7vrU8jPLzjwPF3xzVvq45xnh33YMBXIa3PdlUY6xMAOxswJcK12QnDHMooGNsoxg1P/DKoAYmYgDdrbGLWqOpS1+YhrhecE8Cf9jtwMlaWWdbJZL9ZjXJlTidUD0Q8W8KAviNsTJ6MhFhQ1HKynMK9xAztvGOeGZMLO2zawt1hFCL1O3kjPjV1KDrHTYt06taIbHrGohYr7usxX1ho5zwFdp3oInZvCOXMgQE01PlXVq1taFSTmcbXeOYcbZ3OjgEnVnRR3Hzexjv3gH6HBu8vBZfl1Svt3iDQ2/Rru//ixXwjrsMdVapFMcfKHWy6/V0GD2Wh6SRHjIJ3EDjiHQBs=;88YrpPOutQDLCP9l1sFxmw=="
 ---
 

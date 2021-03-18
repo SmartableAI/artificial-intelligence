@@ -349,7 +349,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -390,50 +390,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-samsung-electronics-to-be-responsible-for-development-of-chip-used-for-googles-self-driving-car-waymo.md",
-      "title": "Samsung Electronics to Be Responsible for Development of Chip Used for Google’s Self-Driving Car Waymo",
-      "excerpt": "Samsung Electronics has begun the development of core chip that will be used for Google’s next-generation self-driving car. There is a high chance that the chip will be produced through Samsung Elec",
-      "sourceUrl": null,
-      "webUrl": "https://english.etnews.com/20210315200002",
-      "originalUrl": "https://english.etnews.com/20210315200002",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etnews.com/news/article/2021/03/15/article_15091456893673.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.etnews.com/amp/20210315200002",
-      "cdnAmpWebUrl": "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210315200002",
-      "publishedDateTime": "2021-03-14T17:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Etnews.com",
-        "domain": "etnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1411,6 +1367,58 @@
         "name": "The Straits Times",
         "domain": "straitstimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-10-women-changing-the-landscape-of-leadership.md",
+      "title": "10 Women Changing the Landscape of Leadership",
+      "excerpt": "In critical fields like agriculture, science, finance and technology, they have staked a claim with their pioneering work and are building a path for the next generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership",
+      "originalUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/04/multimedia/womenpromo2/womenpromo2-videoSixteenByNineJumbo1600.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/05/world/women-leadership.amp.html",
+      "publishedDateTime": "2021-03-05T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

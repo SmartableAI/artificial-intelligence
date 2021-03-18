@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Voyage acquired by Cruise to advance self-driving services"
-excerpt: "Self-driving starup Voyage announced it is being acquired by San Francisco-based Cruise to further develop autonomous vehicle technologies."
-publishedDateTime: 2021-03-15T23:15:00Z
-originalUrl: "https://electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/"
-webUrl: "https://electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/"
-ampWebUrl: "https://electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/amp/"
-cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/amp/"
+title: "Safety concerns determine level of public support for driverless vehicles, finds NTU Singapore study"
+excerpt: "Findings have implications for improving adoption rate of driverless vehicles When it comes to the use of driverless vehicles, an individual's"
+publishedDateTime: 2021-03-18T03:32:00Z
+originalUrl: "https://www.miragenews.com/safety-concerns-determine-level-of-public-530322/"
+webUrl: "https://www.miragenews.com/safety-concerns-determine-level-of-public-530322/"
 type: article
-quality: 74
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Electrek
-  domain: electrek.co
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg"
-      width: 50
-      height: 50
+  name: Armed robbery in Revesby
+  domain: miragenews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Voyage-Cruise-Logos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-    width: 1200
-    height: 628
+  - url: "https://news.ntu.edu.sg/News/PublishingImages/avolvoab7300.jpg"
+    width: 768
+    height: 511
     isCached: true
 
 related:
@@ -110,6 +104,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106854049-1615825416226-Cruise_voyage.jpeg?v=1615825559"
         width: 992
         height: 558
+        isCached: true
+  - title: "Voyage acquired by Cruise to advance self-driving services"
+    excerpt: "Self-driving starup Voyage announced it is being acquired by San Francisco-based Cruise to further develop autonomous vehicle technologies."
+    publishedDateTime: 2021-03-15T23:15:00Z
+    webUrl: "https://electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/"
+    ampWebUrl: "https://electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/15/voyage-acquired-by-cruise-to-advance-self-driving-services/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 74
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Voyage-Cruise-Logos.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Self-driving startup Voyage gets acquired by GM and Honda’s Cruise"
     excerpt: "I wrote about reports that Cruise—a self-driving venture co-owned by GM and Honda—was on the verge of buying startup Voyage. Now it's official: Cruise is acquiring Voyage. Voyage's strategy was to launch its first self-driving taxi service at the Villages,"
@@ -211,20 +221,6 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "Safety concerns determine level of public support for driverless vehicles, finds NTU Singapore study"
-    excerpt: "Findings have implications for improving adoption rate of driverless vehicles When it comes to the use of driverless vehicles, an individual's"
-    publishedDateTime: 2021-03-18T03:32:00Z
-    webUrl: "https://www.miragenews.com/safety-concerns-determine-level-of-public-530322/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://news.ntu.edu.sg/News/PublishingImages/avolvoab7300.jpg"
-        width: 768
-        height: 511
-        isCached: true
   - title: "GM’s Cruise acquires Voyage, a self-driving car startup that focuses on retirement communities"
     excerpt: "General Motor Co.’s majority-owned autonomous vehicle company Cruise LLC said today it has acquired self-driving car startup Voyage Auto Inc. for an undisclosed price. Founded in 2017, Palo Alto, California-based Voyage focuses on developing self-driving car technology to “supercharge” communities,"
     publishedDateTime: 2021-03-16T02:10:00Z
@@ -249,6 +245,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "2qTlMHEHGaWh/FZijTAZrRb+Kr8pHBLuWdCzPV3XpNElFlrTgaXjVm2bK/ayb9RWo+Bu2ErwWraBbUGPSRPZDrTUaV3IonuNF+183E042/snCBnrlf9KP0qvvbarG3atJrAplXqtX7w7rsLJNKc/7PxoWkyLd88xgBLc0o8lNqyABkU4NaRJ8ZjwWo19cj9DT/0KKVVnsteAhMu+Hn0rRlqWYhwR45dETdkxfr44AY0wC0wg5z3lRvoVxkEPgMrJVSVEZKfWYnu8L+fFpCjKxWd9eehwe5zOp6dI8lKPk37Ix/rASJXEl/ZjoxUNDYnO7YCtAvc873+B1rumMuvUZ25sCbjHAYPEyQfgz8FtDiv1GIdgbhOpPzNRd03F90EFWfg2jAhGTdHK3FqfSxPtswQWAetc/nNiQ7PKIPwbA+isJiZ7sor1srr/AXv/6Bxwe1VL9OXFsZr9fHxWj5gZHC9CU5coIO+rSLj0YBLIx5xlB8ns+Q5aRZj4Tv8/zojvUUbQoPcqsi/zRP/l1UeEpw==;Ajv2umY5SYhYDo/1NFRhKw=="
+secured: "CznocWVEH1qt5EoWoF8pq8V66rzIRwpY56mw7Zj6MvuUS5b5NDmggBZWMT0aTQc9MeAkfQNfYHzJxzztYnG+M9TMCMh8ZknxwVM+1rOq6PHEEIWR9AROByTMY4fAcaF80PM4EoE18g/zEW56AmPI9JvoBa+zInjmIg/XWwdJxHibKgqkJhUY1BaFD7VlFg1ycfngHA/f0iRMSvoiLxyiMXrWSq9BQOG0P0trNTfGBfcWbH1MK0Q5UnJTzM4kbr5w8EKFTSbLcuxdkxoeync249Kf4jT2Sa4DWqWARtfrwyo2EQfNitD2l5ylYdHcQEmsDV0uynN+rzmzo4L0UVzs+haiPLWiU2HqBw/hPK1KaVs=;Wpk7G/3nzfC+X8B10RVZeA=="
 ---
 

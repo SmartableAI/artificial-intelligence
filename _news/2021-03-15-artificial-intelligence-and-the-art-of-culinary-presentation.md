@@ -40,6 +40,20 @@ related:
         width: 450
         height: 675
         isCached: true
+  - title: "Fondaction to Invest in Waste Robotics, a Company Specializing in Artificial Intelligence for Environmental Solutions"
+    excerpt: "Fondaction and Fonds LCC are joining forces to support the growth of Waste Robotics, an environmental technology startup. This joint investment will help"
+    publishedDateTime: 2021-03-18T03:57:00Z
+    webUrl: "https://wasteadvantagemag.com/fondaction-to-invest-in-waste-robotics-a-company-specializing-in-artificial-intelligence-for-environmental-solutions/"
+    type: article
+    provider:
+      name: Waste Advantage Magazine
+      domain: wasteadvantagemag.com
+    quality: 46
+    images:
+      - url: "https://wasteadvantagemag.com/wp-content/uploads/2021/03/Fondaction.jpeg"
+        width: 651
+        height: 329
+        isCached: true
 
 secured: "AVHkWbCplXibCg6mUPaHBnLRFNPWXIwtc+Xijglwf3aSv0K8Sw3/xgVfOk4+W+11tqCSglpkOAtNeLVzxU/A9RSWAmnbimzwrLUdJ2L7dSue0ey0+oP7niOE1KUBwZTDF14Kxrq+ynBhfMEGRUpLHCI5goy4NQ3a065MNSYkOZpbV0cXVHW+IktnGSj4qgQTJrSiqWtoZDGnt0iliZG5Om+mykZNwpVarcCvsoThfDDeLjH3v5Wvciew2K/ZOD2h8WM5SulxQ9iCceMfOPaWh7/DB7t20AhFmLfwIBfYxkQadfBZP7d1jvZpExkGC1fUk1rWjJXMLkTDIuYZv21aK2AxCwNJ+zC/fhVRE9An8D42aMkqnEgr/rO4YruSTopa5Ev4C8Gh6OltcTkrSnbARGRGzWeJ4dZSixltKfzYSg/GuAXF3Sae/ZkSnNLbTVjrTry9KP0oeegzqSau+1ztQzzaRodIL+XAUMk7CzSjqvKI3lNJ1O/TryBiBKZAGr7Fsta1H38sYD8MfSUcnTc1ZQ==;W5Aldlu3RTbq6uKsWMjLJQ=="
 ---

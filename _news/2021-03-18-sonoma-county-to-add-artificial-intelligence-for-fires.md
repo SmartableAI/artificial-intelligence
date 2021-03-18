@@ -9,7 +9,7 @@ ampWebUrl: "https://fox40.com/news/california-connection/sonoma-county-to-add-ar
 cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2019/10/gettyimages-1183890096.jpg?w=1280"
         width: 1280
         height: 897
+        isCached: true
+  - title: "Sonoma County turns to artificial intelligence for help spotting wildfires with lookout cameras"
+    excerpt: "Technology will allow the network of cameras to home in on suspected wildfires and provide alerts even when no one is watching."
+    publishedDateTime: 2021-03-18T02:19:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/"
+    ampWebUrl: "https://www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/amp/"
+    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/amp/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 45
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=EB48522B-809F-4F06-A5D5-66D58E4A0397&type=primary&q=72&width=1200"
+        width: 1200
+        height: 780
         isCached: true
   - title: "Sonoma County Selects Alchera for AI-Based Wildfire Detection"
     excerpt: "SEOUL, South Korea, March 17, 2021 /PRNewswire/ -- Korea’s leading visual recognition AI firm, Alchera Inc. (Kosdaq:347860), today announced that has been formally selected by California’s Sonoma County to provide early warning alerts of pending ..."

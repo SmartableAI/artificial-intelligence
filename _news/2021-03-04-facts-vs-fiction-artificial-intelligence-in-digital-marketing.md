@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - AI in Autos
 
 images:
   - url: "https://www.cmswire.com/-/media/c191a0a2e8dc4a508bb096fcdae188b4.ashx?mw=1024"
