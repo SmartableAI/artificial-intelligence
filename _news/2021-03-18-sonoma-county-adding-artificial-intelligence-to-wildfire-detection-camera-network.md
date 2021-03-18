@@ -1,23 +1,29 @@
 ---
 category: news
-title: "California county to add artificial intelligence for fires | Raleigh News & Observer"
-excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
-publishedDateTime: 2021-03-17T20:35:00Z
-originalUrl: "https://www.newsobserver.com/news/technology/article250012519.html"
-webUrl: "https://www.newsobserver.com/news/technology/article250012519.html"
-ampWebUrl: "https://amp.newsobserver.com/news/technology/article250012519.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article250012519.html"
+title: "Sonoma County adding artificial intelligence to wildfire detection camera network"
+excerpt: "SAN FRANCISCO - Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county's network of wildfire detection cameras that ..."
+publishedDateTime: 2021-03-17T20:44:00Z
+originalUrl: "https://www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network"
+webUrl: "https://www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network"
+ampWebUrl: "https://www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network.amp"
+cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network.amp"
 type: article
-quality: 30
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: KTVU
+  domain: ktvu.com
 
 topics:
   - AI
+
+images:
+  - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2020/11/932/470/Screen-Shot-2020-11-14-at-3.52.18-PM.jpg?ve=1&tl=1"
+    width: 932
+    height: 470
+    isCached: true
 
 related:
   - title: "Sonoma County to add artificial intelligence for fires"
@@ -68,22 +74,6 @@ related:
         width: 1280
         height: 897
         isCached: true
-  - title: "Sonoma County adding artificial intelligence to wildfire detection camera network"
-    excerpt: "SAN FRANCISCO - Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county's network of wildfire detection cameras that ..."
-    publishedDateTime: 2021-03-17T20:44:00Z
-    webUrl: "https://www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network"
-    ampWebUrl: "https://www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 52
-    images:
-      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2020/11/932/470/Screen-Shot-2020-11-14-at-3.52.18-PM.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Sonoma County turns to artificial intelligence for help spotting wildfires with lookout cameras"
     excerpt: "Technology will allow the network of cameras to home in on suspected wildfires and provide alerts even when no one is watching."
     publishedDateTime: 2021-03-18T02:19:00Z
@@ -114,7 +104,18 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "California county to add artificial intelligence for fires | Raleigh News & Observer"
+    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
+    publishedDateTime: 2021-03-17T20:35:00Z
+    webUrl: "https://www.newsobserver.com/news/technology/article250012519.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/technology/article250012519.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article250012519.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 30
 
-secured: "FPjtEUwYQtJIS3K6P4M0kSzoeOZOlplrKKyGiEjFY78z2LvKAqE8M61hnhQR3n3s/Zx1hOUPdxOnVw4OLzyR/SxALUkficjlkGwnV+WZMsRPJcyBD7/k6Yk1bMOzC+Vhi98y41ybSIuoILpklW6QugUbGhxI9xkM4+ikDit5yUdeTe7zIk5klmQMru5598UawJ9QTYhHtLXtrfDy5ynh4vhWzev1IUvZ6DqgzRYHkxlqjW0B9LhqAA9aTa3RaOzaINro/uJg6IhPMSzJTmYHAatMxLtB7Rx9Xfn/xLezofRKcosBDnzIk75JJdSdQCKIu6jtiIPZDB4MGYAOQ2xPZhJub+Lj2X9UgvytNvRUm2CJcLH4RM39LaL4MmvKhhKvURfW7kxXwTH/v7TC+AUD3vkziVfKjsyAEf01GjuUyAAAWjoYNBMYH+Pc90s1CoAX5iNBr92rkJNHLozaLiGBHELD3EOcD7DL46j2+xBJk9fJlenVtjeeCI4mK/XxQxAizWvpw+JeOclpYAs0ePvu5w==;+rsyrgpZcNmJEfvT83OSQw=="
+secured: "eV1iz1j5/ohJQpUochIozGe0VsDZZAkaddafqhd4VPMLCOVFpAcdcbYXfJW77wNiGl7P3fxOZ/BjhtuRpX8fvauJQ505ZoLuSwU9pSBV6ZkMm5b8haKddEKvNdltq21+U+eN9+xVWHGdluIGz2MnPkkuTzyHibsM0g92IhtP7nD9DYx4ZV6h1TFamnY+heSZyVgqUYw1xXlEwRY8HKA8MJBZEjRBD1x23SuhtdOPouMgae93OPhvNde+XFxLRLctmlTLGpNc4EWBf6SYXDcer0qT80Ii6vVOg5wQyE5B79gvir5QFKtYF3Z2cjs2Cbtvx0/ThKBIB7vv3VAlXYdjCR8Pc4LbJqrkZ/Tt6ypKT6M=;wCj1oHopyoZAYhomA0vN9g=="
 ---
 

@@ -42,6 +42,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "IBM Celebrates Global Women Leaders Shaping the Future of AI for Business"
+    excerpt: "ARMONK, N.Y., March 18, 2021 /PRNewswire/ -- As part of its annual Women Leaders in AI program, today IBM (NYSE: IBM) recognized 40 innovative female business leaders from 18 countries who are using IBM Watson to help drive transformation, growth and ..."
+    publishedDateTime: 2021-03-18T12:19:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-personnel-coronavirus-pandemic-asia-2551db30975da25f62df1c6a9a6056c0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "IBM Recognizes 40 Innovative Female Leaders in Annual Women Leaders in AI Program"
     excerpt: "... female business leaders today as part of the company’s annual Women Leaders in AI program. The women come from 18 different countries and use IBM Watson to help advance industries. This year, the women leaders include names from The Clorox Company ..."
     publishedDateTime: 2021-03-18T13:14:00Z

@@ -19,20 +19,63 @@ topics:
   - AI
 
 related:
-  - title: "These 5 Careers Could Be the Future of Healthcare"
-    excerpt: "Healthcare once brought to mind disciplines like anatomy, biology and pharmaceutical medicine. Now the field is a different landscape, with artificial intelligence, genomics and big data dominating discussions."
-    publishedDateTime: 2021-03-15T21:09:00Z
-    webUrl: "https://www.mysanantonio.com/business/article/These-5-Careers-Could-Be-the-Future-of-Healthcare-16027593.php"
+  - title: "The future of fintech: Forging ahead with digital transformation"
+    excerpt: "By Andrew Warren, Head of Banking and Financial Services, UK and Ireland, Cognizant As we all begin to look beyond the COVID-19 pandemic and towards what we hope will be a full economic recovery, the Banking and Financial Services (BFS) sector in the UK and Ireland has reason to be cautiously optimistic about its immediate"
+    publishedDateTime: 2021-03-15T08:03:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 39
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
     images:
-      - url: "https://s.hdnux.com/photos/01/17/10/56/20745150/15/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/03/The-future-of-fintech.jpg"
+        width: 750
+        height: 422
         isCached: true
+  - title: "Keeping Startups Alive Through FinTech Consolidation"
+    excerpt: "All of the FinTech solutions in the world cannot guarantee success ... It's the viewpoint of Zeni, which recently announced the launch of its artificial intelligence (AI)-powered financial concierge service for startups. The solution links business ..."
+    publishedDateTime: 2021-03-16T11:59:00Z
+    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/"
+    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/zeni-startup-consolidation-financial-management-457x283.jpg"
+        width: 457
+        height: 283
+        isCached: true
+  - title: "Cybersecurity — Friend or Foe for Digital Innovation in Financial Services and Fintech?"
+    excerpt: "By Altaz Valani, Director of Insights Research at Security Compass. The combination of digitisation and innovation has fundamentally changed the outlook for companies within the fintech and financial services sector."
+    publishedDateTime: 2021-03-15T08:15:00Z
+    webUrl: "https://www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 36
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/03/Cybersecurity-Friend-or-Foe.jpg"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "Miami fintech Technisys brings artificial intelligence to digital banking with Kona acquisition"
+    excerpt: "Miami financial technology firm Technisys plans to elevate its digital banking platform with its acquisition of Kona, a Uruguay-based company that uses artificial intelligence technology to improve customer experiences."
+    publishedDateTime: 2021-03-16T17:24:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2021/03/16/technisys-acquires-kona-ai-digital-banking.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 22
 
 secured: "7Z94HADjSDR+vowBgm2AFB8O53eDidzH+r4Lmy+msLjbLtp2Rb2Mx8EoVYPgr4yaV8X3KxdTEMJklHHhjq+ydHnJSMKAMBZzYFxz//dtLSUs9tLfgRkfEwQhBOcAnedsyEunFpaET3jz0a5+CKYFyVewjXTPVSJ6lFiJBodYWyWkykbVlwoC1fKFAcFuJC4Jf3L75ebt+pQRzSIW9sMyebQhhukkZPF+9DY9HrAfyl7/hHtb66jZZE2u2GVwIoohMzenVpXFlT974FvR//Ukc1ZKXU0u/LRzKYuWHe0A0Owj0Q4P2POJJsSX7WCikofonVRGE1Lgu5k1AzBTkQkuzzfUdw+gF6OpvNjZpIBj7bY=;1E2CmSi0hUWbU1tZmnzi4Q=="
 ---

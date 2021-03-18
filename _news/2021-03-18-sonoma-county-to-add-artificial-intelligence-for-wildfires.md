@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 897
         isCached: true
+  - title: "Sonoma County adding artificial intelligence to wildfire detection camera network"
+    excerpt: "SAN FRANCISCO - Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county's network of wildfire detection cameras that ..."
+    publishedDateTime: 2021-03-17T20:44:00Z
+    webUrl: "https://www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network"
+    ampWebUrl: "https://www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 52
+    images:
+      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2020/11/932/470/Screen-Shot-2020-11-14-at-3.52.18-PM.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Sonoma County turns to artificial intelligence for help spotting wildfires with lookout cameras"
     excerpt: "Technology will allow the network of cameras to home in on suspected wildfires and provide alerts even when no one is watching."
     publishedDateTime: 2021-03-18T02:19:00Z

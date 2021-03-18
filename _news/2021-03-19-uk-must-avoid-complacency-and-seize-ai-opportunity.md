@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-comp
 ampWebUrl: "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60539a75054b0d8950391878%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 812
     isCached: true
 
-secured: "mhdmeKwBmpwEhLNdXiZ79uPrfdjYcVhQ4ghn5PQdiMoJMd0BM6NkjWNJe/TvydDOywrk1Zj43VZ7YLrZKUbOJZ9VhillMIVkRNyumn+M7Dq7AGgF5BIcNIuprS/1IPNXLduolcQ5nCKY9vIQEDZ1uwvEuTEBKcELalFzylARZao3mgn2e9oNVd9A5G9qermT93xf2CT/+WusMsYrGnplGd26dxW7wG2raeSlazLEueBEoXJ3IDrtZavBZEBUTbfICo88NUuCFVqGUD63t4HLve+S0Utjt/32hMSsGJFO0Kra5ICJrX6utjRK0e++QxaRiKPebuhVz/kESt6vkI9vnTpAt04Raa3l10qef35xhTQ=;Ch1SGyyVp4mA9QbwCa6uWg=="
+secured: "7Cv0FQUwYYgtK7f6O6l/YNHpNLMYxKaUGVPj7vWtAoltKl0HijKLKPxX+GHvaKwgjstMDpJC85tLTitolBztxOJivAqHcmZN23pWWi3Ewe7x21NKSA5+TqHBdxBF/WEBGd2qMS147Yo6GDPsHCGyfodiKNrgdhVrY2e2eKTkbAJt0N66JMik4jdo3eVp1JK9G7zC3WSmNPh5pqN8eTDz9dbkQV5mAan8Fvxy6L6kpeFG/aUtwIS1HybXN25SMMjG6gea7Re0SuA09oJ8YR2ajPccdY6UHmtVr2cjgxSAzvuVjI7OqAYujfZOESjVJzGnHxuBywuxtMCsRozbpLw045UTFU+OPuqyxLR6vBBsqxtn2cxonT5AsXp1qC/qj6LNL/2cwFKzSqYoF1K/NZbwBwub7DjmVMsZN/HJtv/cY+j/fKCSNgy90VrJijURlsd6mpaHWQrJCAY04AoMYA73+o1Hs2pqt3wIl7f0oKT9THPaFW45B1yBWxEqfVT/tB1uwObDOaykzJH7plDCR91lxA==;nEwolQ116KILPh0nkmBi4g=="
 ---
 

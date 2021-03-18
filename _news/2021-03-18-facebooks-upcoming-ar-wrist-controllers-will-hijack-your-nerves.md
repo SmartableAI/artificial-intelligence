@@ -104,6 +104,34 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Facebook is developing a neural wristband for interacting with AR glasses"
+    excerpt: "The wristband, detailed today, is part of a broader project by the social network to create augmented reality glasses suitable for everyday use. Facebook argues that such glasses will require the ability to not only display content but also give users an easy way to interact with that content."
+    publishedDateTime: 2021-03-18T21:17:00Z
+    webUrl: "https://siliconangle.com/2021/03/18/facebook-developing-neural-wristband-interacting-ar-glasses/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/facebook.png"
+        width: 708
+        height: 394
+        isCached: true
+  - title: "Facebook Shows Off Trick Neural Wristbands That May One Day Interface With AR Glasses"
+    excerpt: "Facebook CEO Mark Zuckerberg went on a podcast to talk about the future of augmented and virtual reality. In his discussion, he explained that he wanted to see Facebook manufacture its own hardware and thought that the platforms would be the next big thing in tech."
+    publishedDateTime: 2021-03-18T20:20:00Z
+    webUrl: "https://hothardware.com/news/facebook-reality-labs-research-shows-of-wrist-worn-neural-interface"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 17
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/54580/content/facebook-reality-labs-research-shows-of-wrist-worn-neural-interface.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "hTAdCa4xBlOmMvDMtvrNdJcnQYwwMo0OQiJFDs454i5LubWCboBucVLPBdEpUOm/V76qdwcV5DxXIHladwxnr/RCtuQjTaFnJwkeoFXyG7oLLB/kc5zRTBKjmHFG0FrvV5YU3X6JQGnloQLJQEuqeP17EGfb9WOrc9J7in/CWVBiMzCDW3QpK3t36tgZTxb3Kt5dFtPc9GNBatSfBT6HDfGOKoS0iDuaOfdg9PwQpt4SPRwtUVQDiwvfhdfLv7vfzlaMkVUvYevhhYt8sYqRWwsX6Y1HZXWG8z+OKtNpOhpp2bVPwBdO8hDThGW9ZlMbHItUzUhNZP36wktEGARYZ3pz0J/JXBTSCcWNECFY813WNpFDXWCZTKFXt8nj5ZUX2u6M/29Q/LQpnCIEGq6cLPgHZbi9KQDVQ5Ko4FoWtwN59/RDEcQ+NHkDJcTnVa6BihGnxT9QXMNWosToakzrvliQOTpqbdkEwBx5HZFQntdOq3tvM8ZJVgg10jrrVoGcB/tFUnI2LgUuNPStw5U9dA==;GA31kIupu4P2Cvw/n9/oQQ=="
 ---

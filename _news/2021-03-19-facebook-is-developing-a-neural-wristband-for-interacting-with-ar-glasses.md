@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Top Stock Reports for Alphabet, Facebook & The Home Depot"
-excerpt: "Additionally, strong focus on innovation of AI techniques and the home automation space should ... (You can read the full research report on Alphabet here >>>) Facebook’s shares have gained +10.5% over the last six months against the S&P 500’s gain ..."
-publishedDateTime: 2021-03-17T19:06:00Z
-originalUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17"
-webUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17"
-ampWebUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
+title: "Facebook is developing a neural wristband for interacting with AR glasses"
+excerpt: "The wristband, detailed today, is part of a broader project by the social network to create augmented reality glasses suitable for everyday use. Facebook argues that such glasses will require the ability to not only display content but also give users an easy way to interact with that content."
+publishedDateTime: 2021-03-18T21:17:00Z
+originalUrl: "https://siliconangle.com/2021/03/18/facebook-developing-neural-wristband-interacting-ar-glasses/"
+webUrl: "https://siliconangle.com/2021/03/18/facebook-developing-neural-wristband-interacting-ar-glasses/"
 type: article
-quality: 54
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: SiliconANGLE
+  domain: siliconangle.com
 
 topics:
-  - Facebook AI
+  - Machine Learning
   - AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/facebook.png"
+    width: 708
+    height: 394
+    isCached: true
 
 related:
   - title: "Facebook reveals its Smart Glasses’ nerve-tracking wristband tech"
@@ -67,6 +71,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Top Stock Reports for Alphabet, Facebook & The Home Depot"
+    excerpt: "Additionally, strong focus on innovation of AI techniques and the home automation space should ... (You can read the full research report on Alphabet here >>>) Facebook’s shares have gained +10.5% over the last six months against the S&P 500’s gain ..."
+    publishedDateTime: 2021-03-17T19:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17"
+    ampWebUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Facebook Reveals Latest Wrist-worn Prototypes for XR Input & Haptics"
     excerpt: "Facebook today revealed some of its latest research and vision for a wrist-worn input device that the company expects to form the basis of AR and VR interactions and haptics in the future. The device,"
     publishedDateTime: 2021-03-18T13:59:00Z
@@ -99,20 +114,6 @@ related:
         width: 1170
         height: 780
         isCached: true
-  - title: "Facebook is developing a neural wristband for interacting with AR glasses"
-    excerpt: "The wristband, detailed today, is part of a broader project by the social network to create augmented reality glasses suitable for everyday use. Facebook argues that such glasses will require the ability to not only display content but also give users an easy way to interact with that content."
-    publishedDateTime: 2021-03-18T21:17:00Z
-    webUrl: "https://siliconangle.com/2021/03/18/facebook-developing-neural-wristband-interacting-ar-glasses/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/facebook.png"
-        width: 708
-        height: 394
-        isCached: true
   - title: "Facebook Shows Off Trick Neural Wristbands That May One Day Interface With AR Glasses"
     excerpt: "Facebook CEO Mark Zuckerberg went on a podcast to talk about the future of augmented and virtual reality. In his discussion, he explained that he wanted to see Facebook manufacture its own hardware and thought that the platforms would be the next big thing in tech."
     publishedDateTime: 2021-03-18T20:20:00Z
@@ -128,6 +129,6 @@ related:
         height: 398
         isCached: true
 
-secured: "HL6dEg9POgkY+sfVg9bSDz8fjlPsbNgupdYFqQ0sli1wx9NbC21DyqvAZbunvX/TLBomM0e0A6OJymt+78W3JVK3KviaNwvKBF4DZWM00tMjaKRlQx9gkfR6w0RRnpGc/wWBQGYoPfxXeJrwtguwpY8gBYa70LOcY8LrATV8/C0qjkstwrUITgP1JGTYHLrI0LYkOhQjnn0ym2tXExRaQnRsFfON+M5XjpZZ+gXxm3NfyuXDpUmZ3+x+2rII92V5dBU1z8f2XRjbKqrx/0UOFOrTrBVnAiuAsWMAHojn5s++IndtaHbvNQrPkqQamTOXVjFHJfLh7fN5EQoC3gtUpwF3oQxj6aNdzjUrawuiX3s=;pYsN55oVpp8KvtEV3Omnsw=="
+secured: "Mxi/KlupiMrOPl8lxYJ3GnUW6urU8W/EF1J/Ns+wSdB6RgSh8wgxrvzmIcrX4lGjvcz8we7MV3HbohgV+2LwIqFDtT2ZyM0ijyHHHoWGqq9xJEVEPrgNZfFO7+jZn5AtoP0TTfH57vNmeE9X5m0U2CMY7umuS0EQG/nCiJj7S11/wQJAGXrAB6D+rgHbb4bSlp9RR2fEIJQYw/8BzdyEtZX+x4e9owk9dY6PMmXYYqb9xJrrmLwq1SA83OCOQq4+3riPyBCvCYaARFGLjp/d1Z9QzXew4ayy9nJhMUXWlJ/m+2sMGUA9HnioWUkTIZ+hJlu6vdEvLvrmJjZe4AR8lGNu424zIQP+A1MKnzg7wcM=;nqPu4QN4IGK85efZCYQhDA=="
 ---
 

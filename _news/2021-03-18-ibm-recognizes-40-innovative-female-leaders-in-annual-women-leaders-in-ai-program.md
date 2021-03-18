@@ -53,6 +53,20 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "IBM Celebrates Global Women Leaders Shaping the Future of AI for Business"
+    excerpt: "ARMONK, N.Y., March 18, 2021 /PRNewswire/ -- As part of its annual Women Leaders in AI program, today IBM (NYSE: IBM) recognized 40 innovative female business leaders from 18 countries who are using IBM Watson to help drive transformation, growth and ..."
+    publishedDateTime: 2021-03-18T12:19:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-personnel-coronavirus-pandemic-asia-2551db30975da25f62df1c6a9a6056c0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ssVabVZBkPOVtlxg9dM0VyVeyr1M0vzbeYd547KDbNNSpUsGTiwxk3EvjdcrLj+nqn6fxKQNBVpao/Irn7jSZgWqYx8IXzwhboIb9AH3vk+INIyOnoYidkhHwBCGgRn0T/i8O4+ZcW73vFAcqX6BUob2/7ECDPdeMeTeb865O0V3S9/Z/1J5GAgp48sYGWUS9pyyhSCbRgmsov7Jt1ukJ40kRVWZS9MVAUlWxbdwyrHyYEqQyUmoBH/D2DLtpIi+7sDxm9J3I1YAfDIAH5OpQllJMQ8BLepS1iAJqm2/WXqSA+tlxKFJvOUF9+q8sQIa9rp9j7zuroxt3cw/ewxTF/va5lpU5JSssOGb/czqOrF+V2vUFlg0BIuE6p1ICN5Soxh0RbMRLZovpssbiBR9LYo60RUOd40MSjUNg/WuL7wBkVcXaAJLl/p4pqraKNvaNi8qNT0m505JpCaQTS95V96qim4ontu2FmJWMpfReij8ru0kBFDfG7UW8g4xFT3nVTi2EinCJSbgBf7Krccahw==;N+//mDCby84AGZLvZ5zzZQ=="
 ---

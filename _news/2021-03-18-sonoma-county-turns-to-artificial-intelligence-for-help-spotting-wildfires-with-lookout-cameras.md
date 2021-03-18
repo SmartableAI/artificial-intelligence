@@ -74,6 +74,22 @@ related:
         width: 1280
         height: 897
         isCached: true
+  - title: "Sonoma County adding artificial intelligence to wildfire detection camera network"
+    excerpt: "SAN FRANCISCO - Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county's network of wildfire detection cameras that ..."
+    publishedDateTime: 2021-03-17T20:44:00Z
+    webUrl: "https://www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network"
+    ampWebUrl: "https://www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network.amp"
+    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network.amp"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 52
+    images:
+      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2020/11/932/470/Screen-Shot-2020-11-14-at-3.52.18-PM.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "Sonoma County Selects Alchera for AI-Based Wildfire Detection"
     excerpt: "SEOUL, South Korea, March 17, 2021 /PRNewswire/ -- Korea’s leading visual recognition AI firm, Alchera Inc. (Kosdaq:347860), today announced that has been formally selected by California’s Sonoma County to provide early warning alerts of pending ..."
     publishedDateTime: 2021-03-17T13:16:00Z

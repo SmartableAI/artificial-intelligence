@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Top Stock Reports for Alphabet, Facebook & The Home Depot"
-excerpt: "Additionally, strong focus on innovation of AI techniques and the home automation space should ... (You can read the full research report on Alphabet here >>>) Facebook’s shares have gained +10.5% over the last six months against the S&P 500’s gain ..."
-publishedDateTime: 2021-03-17T19:06:00Z
-originalUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17"
-webUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17"
-ampWebUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
+title: "Facebook Shows Off Trick Neural Wristbands That May One Day Interface With AR Glasses"
+excerpt: "Facebook CEO Mark Zuckerberg went on a podcast to talk about the future of augmented and virtual reality. In his discussion, he explained that he wanted to see Facebook manufacture its own hardware and thought that the platforms would be the next big thing in tech."
+publishedDateTime: 2021-03-18T20:20:00Z
+originalUrl: "https://hothardware.com/news/facebook-reality-labs-research-shows-of-wrist-worn-neural-interface"
+webUrl: "https://hothardware.com/news/facebook-reality-labs-research-shows-of-wrist-worn-neural-interface"
 type: article
-quality: 54
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: HotHardware
+  domain: hothardware.com
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://images.hothardware.com/contentimages/newsitem/54580/content/facebook-reality-labs-research-shows-of-wrist-worn-neural-interface.jpg"
+    width: 708
+    height: 398
+    isCached: true
 
 related:
   - title: "Facebook reveals its Smart Glasses’ nerve-tracking wristband tech"
@@ -67,6 +71,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Top Stock Reports for Alphabet, Facebook & The Home Depot"
+    excerpt: "Additionally, strong focus on innovation of AI techniques and the home automation space should ... (You can read the full research report on Alphabet here >>>) Facebook’s shares have gained +10.5% over the last six months against the S&P 500’s gain ..."
+    publishedDateTime: 2021-03-17T19:06:00Z
+    webUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17"
+    ampWebUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Facebook Reveals Latest Wrist-worn Prototypes for XR Input & Haptics"
     excerpt: "Facebook today revealed some of its latest research and vision for a wrist-worn input device that the company expects to form the basis of AR and VR interactions and haptics in the future. The device,"
     publishedDateTime: 2021-03-18T13:59:00Z
@@ -113,21 +128,7 @@ related:
         width: 708
         height: 394
         isCached: true
-  - title: "Facebook Shows Off Trick Neural Wristbands That May One Day Interface With AR Glasses"
-    excerpt: "Facebook CEO Mark Zuckerberg went on a podcast to talk about the future of augmented and virtual reality. In his discussion, he explained that he wanted to see Facebook manufacture its own hardware and thought that the platforms would be the next big thing in tech."
-    publishedDateTime: 2021-03-18T20:20:00Z
-    webUrl: "https://hothardware.com/news/facebook-reality-labs-research-shows-of-wrist-worn-neural-interface"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 17
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54580/content/facebook-reality-labs-research-shows-of-wrist-worn-neural-interface.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
-secured: "HL6dEg9POgkY+sfVg9bSDz8fjlPsbNgupdYFqQ0sli1wx9NbC21DyqvAZbunvX/TLBomM0e0A6OJymt+78W3JVK3KviaNwvKBF4DZWM00tMjaKRlQx9gkfR6w0RRnpGc/wWBQGYoPfxXeJrwtguwpY8gBYa70LOcY8LrATV8/C0qjkstwrUITgP1JGTYHLrI0LYkOhQjnn0ym2tXExRaQnRsFfON+M5XjpZZ+gXxm3NfyuXDpUmZ3+x+2rII92V5dBU1z8f2XRjbKqrx/0UOFOrTrBVnAiuAsWMAHojn5s++IndtaHbvNQrPkqQamTOXVjFHJfLh7fN5EQoC3gtUpwF3oQxj6aNdzjUrawuiX3s=;pYsN55oVpp8KvtEV3Omnsw=="
+secured: "GQe9ly3ibqBHcWI+DMA9aACinOLaJqMI4QHwkIr0rLXmf7Ip/y/0ywVR6l815X5ecm/blALGBsFI55DUDCexzUaLNC/TnDyGmOBScZe5B81zGlIZCXWqkBJDftJhbywImpslF3DwXXYi9nuvCz5DHb0vT+HzZIhFEU8G3SEfYBiwKep0ikAlnf7WsxXW3joQ5aUv8EoGYscGMVJWfsVmHAenLcGWgXY2vqdYGyCmSY2WkqXZp9PfIf3eEGCDyFov57zQ3xDclLBVIWd8/o8RKLZY88bSJAnmY//Gdj+LfQihcIh8jq6EXEQPAGJ0zMLDD7kqeEO8ZwvEPE5lXt1KSRPh6tKOdHS9JB9Mlrrg07M=;CouUc4ReBnDoMiy6q0Rk2Q=="
 ---
 
