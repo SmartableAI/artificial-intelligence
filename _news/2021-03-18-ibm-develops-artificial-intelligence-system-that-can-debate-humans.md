@@ -30,7 +30,7 @@ related:
   - title: "An autonomous debating system"
     excerpt: "Here we present Project Debater, an autonomous debating system that can engage in a competitive debate with humans. We provide a complete description of the system’s architecture, a thorough and systematic evaluation of its operation across a wide range of debate topics,"
     publishedDateTime: 2021-03-17T16:05:00Z
-    webUrl: "https://www.nature.com/articles/s41586-021-03215-w?error=cookies_not_supported&code=88330d3a-03dc-4c39-a7ab-0e953b4a7820"
+    webUrl: "https://www.nature.com/articles/s41586-021-03215-w?error=cookies_not_supported&code=f7c4ea6f-341c-4fd6-854a-2d01222b6f5a"
     type: article
     provider:
       name: Nature

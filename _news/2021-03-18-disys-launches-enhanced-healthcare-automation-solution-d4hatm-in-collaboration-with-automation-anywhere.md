@@ -114,6 +114,20 @@ related:
         width: 685
         height: 343
         isCached: true
+  - title: "Assessment of medication self-administration using artificial intelligence | Nature Medicine"
+    excerpt: "Errors in medication self-administration (MSA) lead to poor treatment adherence, increased hospitalizations and higher healthcare costs. These errors are particularly common when"
+    publishedDateTime: 2021-03-18T18:14:00Z
+    webUrl: "https://www.nature.com/articles/s41591-021-01273-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 28
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-021-01273-1/MediaObjects/41591_2021_1273_Fig2_HTML.png"
+        width: 685
+        height: 257
+        isCached: true
   - title: "Pangeanic Launches v2 Document Translator and Anonymization Solution"
     excerpt: "Pangeanic today announced the upgrade of its NLP ECO Platform to version 2 to include multilingual anonymization services in English, Spanish, Japanese and Brazilian Portuguese. The service can be used in conjunction to its traditional document translator and private machine service."
     publishedDateTime: 2021-03-18T07:33:00Z

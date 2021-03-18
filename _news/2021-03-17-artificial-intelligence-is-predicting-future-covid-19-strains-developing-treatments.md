@@ -54,6 +54,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI, COVID-19 and the long haul"
+    excerpt: "It has been a little over a year since a worldwide COVID-19 pandemic was declared. Science has moved fast to fight the virus but preparations need to be underway for fighting future outbreaks."
+    publishedDateTime: 2021-03-18T18:15:00Z
+    webUrl: "https://www.nature.com/articles/s42256-021-00328-9"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
 
 secured: "JMKLPUiphe9XIOZ7PeJLsPgnsDabCJ/GjntLctzUbuj5xMxAB5W6NlP+Ogy0EVoRH44Ws6U3D6fbnAXitnyPWABxMP1sf3Oj3x0u/AW/IqdS8TVOCwck93cnzcjxYU4wjvWKT90frUvEe0JwMupWto4cZ2UJBaO2Ldzpgsd+boSn/7NhnjXSjJfxi1HiuV6VIE3rQBSJCxMFFsXhaGS0o+XgkpuxEBsXlgHnkXtRi1v5F2D+IP3U7UciZGW/iKrmXlto4MldX9oEHofRaVnZX18+t63FPF72SuhUrS3b552+XTaY75+vpOe1QFkfP3dWJhE1QSeAVoRVzJzw3KEdTawPSar0jDx02kyCPoVmrqv4OWrSBmFpgKGl+eJGa/X1ZQ8NWOqD5v9ggzhZ7Ul1skVotfPM4EoshiFJ+mOkhPTX32YqP5LHWMPJLmSVaO3pzxfu+I4nq7Hbw2+K60HrBqfwSfdNEMmvkHfVKoFXqVCFjyeOk9FlfytrUpVlpHn4ORwDC2h4bEXyBfK7SsIKQg==;yp92EGJ8tyFBC6TEqbgnBg=="
 ---

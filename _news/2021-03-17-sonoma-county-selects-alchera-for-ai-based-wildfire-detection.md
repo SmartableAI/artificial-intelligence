@@ -88,6 +88,17 @@ related:
         width: 1200
         height: 780
         isCached: true
+  - title: "California county to add artificial intelligence for fires | Raleigh News & Observer"
+    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
+    publishedDateTime: 2021-03-17T20:35:00Z
+    webUrl: "https://www.newsobserver.com/news/technology/article250012519.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/technology/article250012519.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article250012519.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 30
 
 secured: "s9fwDh6Zv++YNDAFaKkT9Efa3/48HvPpqU9EJt7h92p9RrS/LWYvw+0uqghmKtSLsZVzeEjNrWhNppxpnJaMtrbTlBUzW73xLBtk1QVrvGSSNgpkXlD69f6xNx/id+hFUaSEHYtavaoAQOK05zNh6NVy5lDNnbp4qnRiotbHghiDq83tPeQxmwCf+r5pGUyiFeRj/uy8tHYoPVUexzOagLXXZjMC6mPot+bDmRwIxObCy8q5zNBFxddnSHpm+mRKOWydK1tQhPy8nHRdg1+OvFTdv6hT47N596rtEEW/335dd2c1lHZPkKX/lgryrdIDhVKumF/+HCdAba5h8dL8woob5RKnsjVhPFEHixxnnXk=;Q/z7wM1Os2rPUN0dX612tg=="
 ---

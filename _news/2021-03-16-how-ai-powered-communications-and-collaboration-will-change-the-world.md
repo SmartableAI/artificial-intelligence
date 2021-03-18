@@ -98,6 +98,20 @@ related:
         width: 685
         height: 343
         isCached: true
+  - title: "Assessment of medication self-administration using artificial intelligence | Nature Medicine"
+    excerpt: "Errors in medication self-administration (MSA) lead to poor treatment adherence, increased hospitalizations and higher healthcare costs. These errors are particularly common when"
+    publishedDateTime: 2021-03-18T18:14:00Z
+    webUrl: "https://www.nature.com/articles/s41591-021-01273-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 28
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-021-01273-1/MediaObjects/41591_2021_1273_Fig2_HTML.png"
+        width: 685
+        height: 257
+        isCached: true
   - title: "DISYS Launches Enhanced Healthcare Automation Solution, D4HAtm in Collaboration with Automation Anywhere"
     excerpt: "Digital Intelligence Systems, LLC (DISYS), a global technology services firm, is pleased to announce the launch of its enhanced Healthcare automation solution, D4HAtm (DISYS for Healthcare Automation),"
     publishedDateTime: 2021-03-18T15:22:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://fox40.com/news/california-connection/sonoma-county-to-add-ar
 cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -88,6 +88,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "California county to add artificial intelligence for fires | Raleigh News & Observer"
+    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
+    publishedDateTime: 2021-03-17T20:35:00Z
+    webUrl: "https://www.newsobserver.com/news/technology/article250012519.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/technology/article250012519.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article250012519.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 30
 
 secured: "YXCh8nluDf7oEOCVtfRz8yhlTsJk1H7fzikhPb1KP/kvLe6aqeXiGidtoEAh4ktbO/KuFZcHSuZ1jKTP+6eTvBAZRrKSujPdsOU4QlWW6EpsRLmCqZkH/fg/uqSf+hTAN+ft8OTP6kSDyF+QuOZSk50gz5y5zpgr9dQ+ivpwafl1X573OI1vVfhC+/3US8SX33sy1Fiop7AtRM8ugsU8w1dK4MHPPZSwI3+ef6v2dYB1kMxxncO6sJHdyP1/G7N+Qvcvhg3XJ46xdiXKPypKUqQymTpeIQonEy3WArNVsnA65bCm8qa6CkrwIJs7CLbowQjT9bdZ9876egm5O7/80lI80XKUVSOVLAfpnrDj1Tk=;1v5xH2ulIcdRm/aNPWBc7Q=="
 ---

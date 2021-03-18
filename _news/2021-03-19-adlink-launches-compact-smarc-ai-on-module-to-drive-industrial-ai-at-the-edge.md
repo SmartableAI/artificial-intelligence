@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-18T17:46:00Z
 originalUrl: "https://www.lelezard.com/en/news-19707329.html"
 webUrl: "https://www.lelezard.com/en/news-19707329.html"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"

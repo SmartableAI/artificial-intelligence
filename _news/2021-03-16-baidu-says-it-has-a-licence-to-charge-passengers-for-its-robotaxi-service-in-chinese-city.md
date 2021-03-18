@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/baidu-gets-china-first-permit-to-charge-clients-for-robotaxis-/12053364217217024.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Baidu to test paid robotaxi services"
+    excerpt: "The program, approved by local traffic authorities, will dispatch 35 self-driving vehicles to pilot rides in the north China city of Cangzhou, Baidu said. The company obtained clearance after completing a key requirement: 50,000 kilometers of robotaxi ..."
+    publishedDateTime: 2021-03-18T18:36:00Z
+    webUrl: "https://www.autonews.com/china/baidu-test-paid-robotaxi-services"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Baidu%20started%20testing%20robotaxis%20in%20Cangzhou%20in%20Aug%202020.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "Kp5yowqkkLBdv/ykTFHegcR4AObBvoSrHKRfgPY04u8pYGabK0X0mSAMuHmNEZd50pmnGaFCZkxS8p0btiwm3x4bdcyqjKmkY94GiiEjP2bpRj2cY4QrovXizqPUmws81AgGLc6z1jfEG8sWT3UpKDCNEoA7+wLG7+87Kci6vgM/fjtOWvjxkOwO4EYJIZkghUbEe2ebhwde+PaM83bX8NFMLaF97TjpJ9JlsuiVe88DZ1wY43rmQ0WAuysAIrWIBEsk8HoTFPULweyFynCMteQC+AXEOVCI6liQXd+GDXzCwAJVBn0XRkmOSZTr7sN6VOP3mG/W0vhDxovDM80Lzx7OLz8zr3BLYqXbsHAjL1w=;pp9QJZi/5OadmLYa1pejzA=="

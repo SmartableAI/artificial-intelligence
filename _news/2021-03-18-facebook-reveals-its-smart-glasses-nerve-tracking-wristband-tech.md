@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-t
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -87,6 +87,22 @@ related:
       - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2021/03/frl-wrist-prototype-2.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Facebook Teases New Wearable AR Tech Controlled With Your Wrists"
+    excerpt: "On Thursday, the company teased information about its “wrist-based” technology that could be combined with artificial intelligence and harnessed into wearable technology. Last year, Facebook Reality Labs unveiled Project Aria,"
+    publishedDateTime: 2021-03-18T19:18:00Z
+    webUrl: "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device"
+    ampWebUrl: "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 44
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F03%2FFacebook-Teases-New-Wearable-AR-Tech-Controlled-With-Your-Wrists-first.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
         isCached: true
 
 secured: "TT9A6mXgVR5pHAFPj3fk3ccKREK8khw2ngqGTC1ZK5GzXmz6VcP2XoIPXpAJ95ieinGtj3fsdsfCLn4fsmkz1j/iZlFUmqMmzGZOVFccvVpTt2lKLEE7BOpxtOvdQRlJy2TRDf7Ui1ft4AUZ7YLSKmbj08ASB6xQex8nIv0ShdC6vJ0sNfXehDOo643cfrICe2x5mrbU+qpIhH06LZRMxLHFIslTewPSjMoixFRA5bF4WN5fVfrQA6aFivnwj9ehbXVrsX/93fPdrRwW4rfpX/trSN5r2wSuIybvc+snhG0ySsOVlZXf3yE1rmPANuKCT6vgm31p6c59LsCLklLLQUmn2XqSCjtaHOSjgwNChBaqmbfU2+7zT9wnWQWsm4SBHcrcTObVrxlw8zGR2Rbl2Z0tZCyDDZhFHgBwV4+9KHXuXACB1Rz7EZFKhaG8cn6yVpMfoxebJZ4x3VltA9ly6DFgsxsFgJhTnrOdDg06j7eirNpuVwrKjRz28uqCZCuOOlvXB/31ZcVlah/0ACGH9Q==;0HkIbzy/pNAg6fxJz7ic6Q=="

@@ -4,7 +4,7 @@ title: "An autonomous debating system"
 excerpt: "Here we present Project Debater, an autonomous debating system that can engage in a competitive debate with humans. We provide a complete description of the system’s architecture, a thorough and systematic evaluation of its operation across a wide range of debate topics,"
 publishedDateTime: 2021-03-17T16:05:00Z
 originalUrl: "https://www.nature.com/articles/s41586-021-03215-w"
-webUrl: "https://www.nature.com/articles/s41586-021-03215-w?error=cookies_not_supported&code=88330d3a-03dc-4c39-a7ab-0e953b4a7820"
+webUrl: "https://www.nature.com/articles/s41586-021-03215-w?error=cookies_not_supported&code=f7c4ea6f-341c-4fd6-854a-2d01222b6f5a"
 type: article
 quality: 102
 heat: 122
@@ -51,6 +51,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "cGDgEyyZyRsmzuf2cPkvhs7bQCOgPIIjv5VVIRWXNCgTgkXjgm2OL6xDepbP48SLjY2xc8IX0hLJGaAA3Cqkhy7uHe6udKDcb+1sI1uP9WBAkBL+isEFT3BIggcPRl7iFLK4vy5igsklfzJotWy+UQqG7VgcAFBPU0/RHisDKgtl03m4KkIEDF5iaxTX/XDzrQZemFoV6qYYVoRi4kkEZZU4yE635yBs8Fapidm7Jta9HzDZcwl1GIG2xo22aIhEIpKrLNw6shoJrb8umyyyJQz6C8Q0JQ3qHGnmP0R3QJIa4jtfYJOGXv+f7yRnGvZfvg5XPJgaNnpJs8EX4tZbpnQFPaFgBJBnBjl8K/pQ9rQ=;tJJxa4kFvRRn3IoyTSZGnQ=="
+secured: "Y11NNfxrDGO14aMKH8l/p3iMNkLF9eOfyiBqkjtxHij/DrN5WP00UPhZLAtLVFr08Jgf6T6F/+zdQmQ3eNx8MDsz8v7krc41HX8YFUaaOOtaJQMyzacdR28PmTp2qjDmx264pPmCeQqKUTZadNwkWbzR2iE2Nf0a0qjkTvx7noaQpBNV+/HIKbgdpGYy2uc80keg7jg6d4ZDv5IwslXIjcGlBZ31TA5u8Odgq+8yOiCH1S87h2yvpAW4EhJLw+zBP+DNt0JaPJg7pRRbHrRZaGYVbYCLTr1TdsuO5BCiPijjU7lqiWplWStno/B9rmXu26oRX+d7NHot3fMnzlIaNushdscyYcE5Osn4y32FoQE=;9IxV9DwUsrK7YGQdh0ppvg=="
 ---
 

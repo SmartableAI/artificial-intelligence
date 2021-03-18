@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/03/women-leaders-in-ai-2021/
 webUrl: "https://www.ibm.com/blogs/watson/2021/03/women-leaders-in-ai-2021/"
 type: article
 quality: 134
-heat: 155
+heat: 156
 published: true
 
 provider:

@@ -84,6 +84,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Facebook Teases New Wearable AR Tech Controlled With Your Wrists"
+    excerpt: "On Thursday, the company teased information about its “wrist-based” technology that could be combined with artificial intelligence and harnessed into wearable technology. Last year, Facebook Reality Labs unveiled Project Aria,"
+    publishedDateTime: 2021-03-18T19:18:00Z
+    webUrl: "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device"
+    ampWebUrl: "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 44
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F03%2FFacebook-Teases-New-Wearable-AR-Tech-Controlled-With-Your-Wrists-first.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
+        isCached: true
 
 secured: "VWBYFhNenuVOMltakbkli2j0rZZtZMAACYpyzVTmn69EyfzmakH77zodKzj84Te1KC8S7OdA8yr+HsQPvU7qb8Ew4Bp0Pd29nJFTsZuxgCzA6Bm6qPfWsHyTSl4C/CYcqi1mNTxWmVXQQxVuz6IHS0Cz24cQVUY6mHt4A3GFNNVSnGjBexzVztbT8cW+KJ8BBCXMn0nba9XC1ZZEdq0eWuuzd8nLfSInrOrPlaiFhxdVM94GdhDIJmjlkrzOAHgj/hjYGNh9U8m6fleEnfAkMBsUkobmb5CqWNTBNiC6O3zt2jnT2ytBzFu+U/ApZ3GbcYvBos99LHxOJQQG6wCLORy8BGR/uXrFsvUeMZhGJvCt8c6zA6ySUImS3/jkx3ziOcxeACbdDx/6fyHd+ASX3nePsL65UF6gHvwP5hrPNZn8Sr1nWw067t4FDtScBWRxQbOBspNGf8bleW25dOy8Ww3VWWQvQRGVTUI7gimfWRRp1vA1v1GEV/0xDq6QwpHaT1g32gpmxzR5NXqzPE4KKA==;Fmus//ijZvQ9YmKe+RobIA=="
 ---

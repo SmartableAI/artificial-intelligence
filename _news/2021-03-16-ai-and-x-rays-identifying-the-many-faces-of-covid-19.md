@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying
 webUrl: "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying-the-many-faces-of-covid-19/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 5878
         height: 3927
         isCached: true
+  - title: "AI, COVID-19 and the long haul"
+    excerpt: "It has been a little over a year since a worldwide COVID-19 pandemic was declared. Science has moved fast to fight the virus but preparations need to be underway for fighting future outbreaks."
+    publishedDateTime: 2021-03-18T18:15:00Z
+    webUrl: "https://www.nature.com/articles/s42256-021-00328-9"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 17
 
 secured: "93xjRvs/jVUlceU2cns/dtKlWkyFCVe63aiSEdBcqPRNTd2dCSImW24GJm7/r9xcL335Ry1e8ozSZFsYBmS2hR+FRW+lXbC9tgEQnYnoxtrHvKs5AA8D2DQNPIXwbzAh24UcB/b22v1nHAD5MoBPmjIYS2S8bpK1Q5zibRYiHFTLdb+IpUzDgTWw1TU+6DPa1u5UUYBrlwFWwBmd2YFJlu6OmgOvfGwDrFJByVDmM5hVJMdF+Isr5H/GYWyH85Ah+rHVEcjg/6XHRa2JK7G0EmsicObki+yv/py+1TIieGjieemD4iwE5V1BqoyaopDgJm192borLKyA+ma8QEYIEh4sGn1vXuufPpKkKntS49L3AIYyfhqQhoGqC2Tcf8kqcNLTTnpUyoRqbL9Ew7e1+RkKtdD6vLWnWTlHCOsOb0tLWJeRg2x8B9j7cxqLpvyFVTj8mE5UuSqGDioqNfZXAntMLFTX2aK68kjtDoRoK9hCCzbxo/SKJIXm5B3HnDL5v4OCr3mDh5AWkgfW22C3gtsQ8fBv3nM3GKMTTTtZBIM=;gK1VP/mnFeSt8HT/172o3Q=="
 ---

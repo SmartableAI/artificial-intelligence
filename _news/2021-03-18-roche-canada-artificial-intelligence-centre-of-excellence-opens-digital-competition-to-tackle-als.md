@@ -3,11 +3,11 @@ category: news
 title: "Roche Canada Artificial Intelligence Centre of Excellence opens digital competition to tackle ALS"
 excerpt: "CNW/ - The Roche Canada Artificial Intelligence Centre of Excellence (AI CoE) is excited to collaborate with Answer ALS and EverythingALS to launch an initiative called the End ALS Challenge, with the support of ALS Society of Canada,"
 publishedDateTime: 2021-03-18T13:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als-1030223667"
-webUrl: "https://markets.businessinsider.com/news/stocks/roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als-1030223667"
+originalUrl: "https://markets.businessinsider.com/news/stocks/roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als-1030223657"
+webUrl: "https://markets.businessinsider.com/news/stocks/roche-canada-artificial-intelligence-centre-of-excellence-opens-digital-competition-to-tackle-als-1030223657"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -22,6 +22,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "gUFsW5e76p/TqGdnhMVVSicdbga3peAdjqu4yXBX+reUuBZgHJ1+nYBT11l2d2h1THBxFf+yrv6tSRv0W03KVNMtOS7yRXnAKNmvTrTGyrsYsb/L2oOGdrMrRMGH/lQ9MAQ92xIHc7D0jVKiXCJgNdUC3ZnrWsMS+obF87YCIFNsT0Z8NM7JjMMKnQ5zejSJ/2Kyy1iyKf/kqE3/EkyHyAssfSo8p6mX6g1QXLVrX5mEI7hBmFPztWsNyIHo9m0lGEbQllr6TJ32Y9XjuqN/1WNCGk5xUP8IdW3kxP/YlRrHAnwe+L7E7AAbxm/fSwwzCDFRha8s/31/6DnWnrjnQ5JVfYvb/iaREaEWCtSnGiY=;sfskSQI2Ny4ZgcBS5sUlaQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1458579/Roche_Canada_Roche_Canada_Artificial_Intelligence_Centre_of_Exce.jpg"
+    width: 266
+    height: 400
+    isCached: true
+
+secured: "wPjrIvKVdZWZv7jPhL0JsxR0iWXXW95DsWQltDUTtX6SgB7EBYr/AMBoey6M5HJURACaBE1YgElEuEU5C5XllyDsqSLJL8MGVpJLWlFj8yqdfWt8tGrXTmPd+yKHAcNYh7J4KsDjlwKg97F1WXRdhZ14SQHGiAU7kJMDowwKnwgSvu5Kc61hKglTHOlWa3Oeafhsjn1amxBHB9vSmOoTnADk6ZQP9fWol7w/mCpJpdtZlDBK/pcBYN+hKTRQMoLvMn+vWEpivm/+RVqGMpJsQmwHDbpPwO5WPf+CrrLQ5imCOwCDk4YkXiBPym+RB7/SP2evttlcMvUnyCI4KqFb8y7Uj+5iKf+jeyYu+Qn6Y9M=;m8VmL98nvHbxC0JCRLWSzw=="
 ---
 

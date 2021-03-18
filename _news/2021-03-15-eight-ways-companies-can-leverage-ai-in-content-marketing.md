@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021
 webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2021/03/15/eight-ways-companies-can-leverage-ai-in-content-marketing/"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 721
     isCached: true
+
+related:
+  - title: "entire digital: Contents: A $6M Series A Raise for the Startup Uses Cutting-Edge AI Technology to Create and Disseminate Content"
+    excerpt: "LAS VEGAS, NV / ACCESSWIRE / March 18, 2021 / Contents has raised $6M investment, the tech marketing company which, thanks to artificial intelligence, analyzes data and creates native level multilingual content attractive to users and search engines."
+    publishedDateTime: 2021-03-18T18:14:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-03/52338644-entire-digital-contents-a-dollar-6m-series-a-raise-for-the-startup-uses-cutting-edge-ai-technology-to-create-and-disseminate-content-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 8
+    images:
+      - url: "http://cdn.newswire.com/files/x/4c/ac/c4d204e06dff28781fce127ebbce.jpg"
+        width: 320
+        height: 220
+        isCached: true
 
 secured: "XejriKuDdZsuRagmGDMzpkG8iQuUXQWA3ZwqsZuAxoWUYcKq8sCcSjPScK39JdYisI2v8zdgKfaqSIXNEcHqmEKA0xgtOUAlsXtfa0709XOPMmNaTA42anOunLPdjQe0tI6DmAp2mJ8zeuBDMi2+bqCsLVAynt+NlcVIpER6I6e6PPiRYaPHW86CBiwaQuKSH5ZEzwOf58T6rGiFkZWWC4Iyf8ZlmI9Jph/n3ntejr1KU8NaqXGBbdaDsKr/uj5bG1e0BRr8DQru0/yoeooHSixK5ggkSSTPhjlgwbQ6LwM2uUnVUM2c6OA87s1IsB1oS5Y8Mjs+zTXiazKDfjTrQNIzdJYYs7pt9UTY+lRqLZsK4L02qGy4AQ2xY3VjVIgkHiY1UXdeCtL39r/u64+fIjNqHgBnOgCZIRUvBhkmKUdSgXuY5Smi6/yiHa/yY/2GXIsWiWQh4JIu1OUn87q1VnMINvxKvPAO6MbJOJjZTj0UTPUmleUhXS8EuyhYsmIt++dfi/qctrx7LYsd0nLoJw==;p2f7/V26Fl5a57OUTz3EeA=="
 ---

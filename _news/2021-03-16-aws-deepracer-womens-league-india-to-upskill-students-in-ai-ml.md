@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
-excerpt: "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021."
-publishedDateTime: 2021-03-16T08:11:00Z
-originalUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
-webUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
-ampWebUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
+excerpt: "New Delhi, March 15 (IANS) In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens ..."
+publishedDateTime: 2021-03-15T22:05:00Z
+originalUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
+webUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
+ampWebUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
+cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
 type: article
 quality: 123
 heat: 153
 published: true
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AWS AI
@@ -23,9 +23,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.sify.com/uploads/awswiki1-sjxop2edjeaig.jpg"
-    width: 650
-    height: 400
+  - url: "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg"
+    width: 400
+    height: 300
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
         height: 1623
         isCached: true
 
-secured: "8KdLdGyGFHVAT0HLuocENy0WF89TEApVVDL+u1pBJI4liiTBldPsdpiCS6LL9jg1qOnBbKhGu+8fAD103/1/yvZLfM8we/lbzszaSYGArCVw+AGxirQzLnwGUixA88R3rJ0dfaHmU+2lOMtrA/GkX49C1MQQmubwKSUfmqcXiHV6CXq5piocoacgD9BLF3skZwGDI0sMFEu0p5xrPLfzUngN8phJBROqQ5pPIB+41V196e0wVsrhrA+Q5gt7T4nS2WT/rXzBVko8MobGC74u1tqOaXD8xirj6r2zsG142F6Amd32cKrOEZj/Kcw2S5iBOaB9QDlBa76v5NAEijiU8L6tgTuhF98xlx+RlyI2fuwbQzjMFelyxSCgBD1ZBjW+xoFWK8wd2ua95w/TlTLgOI4G+TMCF5aErCXBdXkFLaU4IZbrdjPqm1Y615kb1w5SOwXuJHb96ywUaKThFbBSHe90s6zs6XdFr+hZYQVBI6q7I44I5EkGctPA2aSk36CFz/PoBlKWutGa0gw0RnWOhA==;Mb2rk6KXoqYkZdSR6coWsA=="
+secured: "02RA9jhlrK+1hQYmH+rBkd2d2M6eXiyt1Rd0CrdmDqrV1Q/8FgSne+E0lhlUW4eeg6L0UlA95pqPKw3Lro/pDlr+AjRvq3apQBQNJSqy4g6rFca6JEwgVHk1YB7m348j7LXrgfM06J1hx5fRM5lvykoohAmsyNQ2liQvZAYgq7tVT9ig6eiKi7dLp0TZaXlJ/Ett4AdP/c1h2R6GSOcKMPRBwEEOOyQtIYgJrbjGDwBg74y4kKJPtVquAHFURcGWyZ2Kll6Az4JPIybSCPcllwYb1CcFrANDSZP9KnPt6abtZZWanQ2WXVtTNk+y8T+mi9H817Nuaud1na8JwbLtUEoSVM5BRzvupWA/HT+GPEc=;7MCVkr5ovrQSH1X7vV3szg=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
 ampWebUrl: "https://amp.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F72a3f31a-d964-4510-bd98-f90afedd51f1.jpg?source=google-amp&fit=scale-down&width=500"
@@ -100,6 +101,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Zwt64pSZYQt6ZbuDXrq/bo+cCcub6Tp3k6225l0vZT/sSRR+OcSnqHN9CV74ZqZ030uLJb/a6ClDl5//LVuvGJT6nV/qQQesw4ZFApD1tig7pZQkParpF6b0LL6wwJPSWtGvVm5fw8uIpK1xWip8NTMH+N3u/svrL7yJr7Z2OJrQhFM0Cliy3bAhEuvXE6xD+WJoVM3BX9Y+y2GovGYuzq5Gs0CSQxIKYkwlls3RkVOcm/sgqu/2dRatiD+AcvR4jQ4+3xdQDFbo0ahl84yIxEDO+T2t0PfVQizrW4mc/7bugMqcDc0pssXU98mSp7+woeOaBpIwx0+sANIoKV2O1bV6ttnQsRrJU9apR8Q4aZc=;A+ZJUsg81ibA/9L6YNtFUw=="
+secured: "Gj+8ewbrR1/fZYPE5Vs3NkK3qlyVB7zcj07V/2SHo+fPN0ZEEiGLbczp0swTv5GgPLsPfpy0Rx1TkmsopPBk2E1Wha99y4gzuzv1rMUOflTBtlGTbVd5DppLdvfn5AVPPTd7BhEn5rLuEhZZRqjOTYanzBUsDaz2ThyhA1wxhB+Uc1X6yYhEv3TQ5qXfyheSyL8xwiDrHMMgyr7gWvWGM2ND/lKFTm0twWwlxH0OjNnM2bMGugorU21AiwDSnozcSzXzWUgwjOg8maLry9VH3N8feSFZ4UTshb0biGPhTKOOKTTiDPvjVjXAnTvsyu+K9eX0qxPPBjzEolUTQbOeYOzLXOYpbEWdo/CGomMtovVBF/id/qa365NqYhX8ZljmpJMFOHpoxUHE3M3TZuIY5tfl//MwM9+gMvfQ2cb0nfo/xoor3oZUsgZYr0/A5sWtr0XAGjknd2yDL3QXSHqeiJSbqA33DlnUXi/gFBbyu7U1WhMDAl5kd5rDJ/W0MeAE3aQy+tEHi3NU8aJ+qAv6xg==;Gw0J3C9hD4GvkST4+N/CUA=="
 ---
 
