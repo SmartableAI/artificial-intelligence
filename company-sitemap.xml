@@ -493,6 +493,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/company/upstart/</loc>
+    <lastmod>2021-03-15T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/company/aeye.ai/</loc>
     <lastmod>2021-03-15T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -542,12 +548,6 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/tempus/</loc>
-    <lastmod>2021-03-15T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/company/upstart/</loc>
     <lastmod>2021-03-15T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -739,13 +739,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/company/alegion/</loc>
+    <loc>https://smartable.ai/apps/ai/company/anki/</loc>
     <lastmod>2021-03-15T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/company/anki/</loc>
+    <loc>https://smartable.ai/apps/ai/company/alegion/</loc>
     <lastmod>2021-03-15T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>

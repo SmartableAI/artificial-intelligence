@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "mapegy"
   url: "https://twitter.com/mapegy"
-  followers: 280
+  followers: 279
 
 size: 11-50 employees
 yearFounded: 2012
