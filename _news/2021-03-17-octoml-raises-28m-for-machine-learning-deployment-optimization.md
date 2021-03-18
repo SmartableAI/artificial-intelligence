@@ -63,6 +63,20 @@ related:
         width: 1024
         height: 669
         isCached: true
+  - title: "Microsoft smart buildings bolstered by machine learning model, IoT"
+    excerpt: "(Photo by Garima Gaurav) A new machine learning model and Internet of Things (IoT) sensors and automation will enable Microsoft smart buildings to keep company employees as comfortable as possible when they return to their offices once COIVD-19 ..."
+    publishedDateTime: 2021-03-17T21:04:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-smart-buildings-bolstered-by-machine-learning-model-iot/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 56
+    images:
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/03/10173_hero.jpg"
+        width: 2095
+        height: 1293
+        isCached: true
   - title: "Machine learning startup OctoML raises $28M as it ramps up growth"
     excerpt: "Seattle-based OctoML, a startup that helps clients speed up the launch of their machine learning models, announced Wednesday it has raised a $28 million Series B."
     publishedDateTime: 2021-03-17T14:00:00Z

@@ -56,6 +56,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Sonoma County to use artificial intelligence to help fight wildfires"
+    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county’s ..."
+    publishedDateTime: 2021-03-17T23:02:00Z
+    webUrl: "https://ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/"
+    ampWebUrl: "https://ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 57
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2019/10/gettyimages-1183890096.jpg?w=1280"
+        width: 1280
+        height: 897
+        isCached: true
 
 secured: "s9fwDh6Zv++YNDAFaKkT9Efa3/48HvPpqU9EJt7h92p9RrS/LWYvw+0uqghmKtSLsZVzeEjNrWhNppxpnJaMtrbTlBUzW73xLBtk1QVrvGSSNgpkXlD69f6xNx/id+hFUaSEHYtavaoAQOK05zNh6NVy5lDNnbp4qnRiotbHghiDq83tPeQxmwCf+r5pGUyiFeRj/uy8tHYoPVUexzOagLXXZjMC6mPot+bDmRwIxObCy8q5zNBFxddnSHpm+mRKOWydK1tQhPy8nHRdg1+OvFTdv6hT47N596rtEEW/335dd2c1lHZPkKX/lgryrdIDhVKumF/+HCdAba5h8dL8woob5RKnsjVhPFEHixxnnXk=;Q/z7wM1Os2rPUN0dX612tg=="
 ---

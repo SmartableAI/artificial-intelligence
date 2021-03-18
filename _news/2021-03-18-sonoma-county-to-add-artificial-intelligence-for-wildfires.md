@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Sonoma County to use artificial intelligence to help fight wildfires"
+    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county’s ..."
+    publishedDateTime: 2021-03-17T23:02:00Z
+    webUrl: "https://ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/"
+    ampWebUrl: "https://ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 57
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2019/10/gettyimages-1183890096.jpg?w=1280"
+        width: 1280
+        height: 897
+        isCached: true
   - title: "Sonoma County Selects Alchera for AI-Based Wildfire Detection"
     excerpt: "SEOUL, South Korea, March 17, 2021 /PRNewswire/ -- Korea’s leading visual recognition AI firm, Alchera Inc. (Kosdaq:347860), today announced that has been formally selected by California’s Sonoma County to provide early warning alerts of pending ..."
     publishedDateTime: 2021-03-17T13:16:00Z

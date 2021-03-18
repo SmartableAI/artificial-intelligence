@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LF39D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF39D"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -25,6 +25,17 @@ topics:
   - AI
 
 related:
+  - title: "Facial Recognition Co. Dodges Suit Over OkCupid Photos"
+    excerpt: "Law360 (March 17, 2021, 4:51 PM EDT) -- A facial recognition software maker has won dismissal of proposed class claims accusing it of harvesting facial data from OkCupid dating profile photos without obtaining consent from users or making certain ..."
+    publishedDateTime: 2021-03-17T21:59:00Z
+    webUrl: "https://www.law360.com/articles/1365826/facial-recognition-co-dodges-suit-over-okcupid-photos"
+    ampWebUrl: "https://www.law360.com/amp/articles/1365826"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1365826"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "Lawsuit Challenges Clearview's Use of Scraped Social Media Images for Facial Recognition"
     excerpt: "Facial recognition technology is getting more sophisticated, more reliable, and more pervasive as the world eases its way toward becoming an all-encompassing surveillance state. That surveillance state doesn't even have to be built;"
     publishedDateTime: 2021-03-15T13:38:00Z

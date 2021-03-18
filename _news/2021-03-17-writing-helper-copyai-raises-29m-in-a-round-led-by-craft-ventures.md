@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/17/gpt-3-powered-copy-ai-raises-2-9m-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/17/gpt-3-powered-copy-ai-raises-2-9m-in-a-round-led-by-craft-ventures/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:

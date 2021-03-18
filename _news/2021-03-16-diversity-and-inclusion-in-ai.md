@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 127
 published: true
 
 provider:
@@ -77,7 +77,7 @@ related:
   - title: "Provation and Iterative Scopes Announce Exclusive AI Partnership"
     excerpt: "Provation and Iterative Scopes announced today an exclusive partnership, bringing together the premier clinical productivity and gastroenterology (GI) documentation software provider with a leading startup in Artificial Intelligence (AI) for precision GI."
     publishedDateTime: 2021-03-17T16:42:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-north-america-software-industry-350185000884b976fc1605c4b383b12d/gallery/ba605009b9d7f14c19386a8d876f8326"
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-north-america-software-industry-350185000884b976fc1605c4b383b12d"
     type: article
     provider:
       name: Associated Press

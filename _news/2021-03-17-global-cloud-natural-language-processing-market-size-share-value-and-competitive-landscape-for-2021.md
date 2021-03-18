@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-cloud-natural-lan
 webUrl: "https://www.marketwatch.com/press-release/global-cloud-natural-language-processing-market-size-share-value-and-competitive-landscape-for-2021-2021-03-17"
 type: article
 quality: 53
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,62 +29,112 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Robot Market Competitive Landscape Forecasts to 2028: Global Industry Growth, Share, Size, Trends"
-    excerpt: "The growth of this market can be attributed to the increasing adoption of mobile robots in the manufacturing plants. Adopting intelligent technologies such as artificial intelligence, deep learning, and mobile robotics drives the growth of the mobile robot ..."
-    publishedDateTime: 2021-03-17T11:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-robot-market-competitive-landscape-forecasts-to-2028-global-industry-growth-share-size-trends-2021-03-17"
+  - title: "Global Machine Learning Chip Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2021 (Heraldkeepers) -- The global Machine Learning Chip market report is a comprehensive research that focuses on the overall consumption structure, development ..."
+    publishedDateTime: 2021-03-17T22:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities"
-    excerpt: "“Google, Amazon and Other Prominent Market Players to Gain Competitive Edge Through Innovative Product Launches and Strategic Partnerships” In January 2017, Google launched its Cloud AutoML. It uses Google’s Cloud Vision application programming ..."
-    publishedDateTime: 2021-03-17T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17"
+  - title: "Global Deep Learning Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
+    excerpt: "Mar 15, 2021 (CDN Newswire via Comtex) -- A new offering by MarketsandResearch.biz entitled Global Deep Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 documents an overview of the market which has been showing steady ..."
+    publishedDateTime: 2021-03-16T00:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-03-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2021 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ..."
-    publishedDateTime: 2021-03-17T13:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17"
+  - title: "Artificial Intelligence in Medical Diagnostics Market Size by Company, Regions, Type and Application, Forecast to 2025"
+    excerpt: "The Artificial Intelligence in Medical Diagnostics market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
+    publishedDateTime: 2021-03-17T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-size-by-company-regions-type-and-application-forecast-to-2025-2021-03-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2021-03-17T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17"
+  - title: "Global Automatic Speech Recognition Market 2020 Top Industry Players, Regional Study, Growth Drivers, Challenges and Opportunities by 2025"
+    excerpt: "Global Automatic Speech Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth analysis of the market by value, by production capacity, by companies,"
+    publishedDateTime: 2021-03-15T14:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-2020-top-industry-players-regional-study-growth-drivers-challenges-and-opportunities-by-2025-2021-03-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Machine Learning as a Service Market Improvement, Industry Evolutionary Analysis, Orientation, Forecast To 2030 | Google Inc, IBM Corporation"
+    excerpt: "tie-ups and acquisition with other Machine Learning as a Service leading establishments, financial agreements which affect the Machine Learning as a Service market in recent years are analyzed. In addition, Machine Learning as a Service company long term ..."
+    publishedDateTime: 2021-03-15T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-as-a-service-market-improvement-industry-evolutionary-analysis-orientation-forecast-to-2030-google-inc-ibm-corporation-2021-03-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "PH Quincentenary celebration deserves recognition, appreciation of the country, including PNP -Eleazar"
+    excerpt: "The Philippines' commemoration of the nationwide Quincentennial Celebrations on April 27, 2021, should be recognized and appreciated by the whole country, including the members of the Philippine National Police (PNP),"
+    publishedDateTime: 2021-03-16T04:30:00Z
+    webUrl: "https://pia.gov.ph/news/articles/1069695"
+    ampWebUrl: "https://pia.gov.ph/news/articles/1069695.amp"
+    cdnAmpWebUrl: "https://pia-gov-ph.cdn.ampproject.org/c/s/pia.gov.ph/news/articles/1069695.amp"
+    type: article
+    provider:
+      name: Gov
+      domain: pia.gov.ph
+    quality: 28
+    images:
+      - url: "https://files.pia.gov.ph/opengraph/2021/03/16/pnp-quin2.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Cosntiutional recognition will make this nation whole"
+    excerpt: "Let me start with the question of what What is it that we are engaged in, and have been ever since John Howard made the commitment at the beginning of the 2007 federal election campaign. He told the S"
+    publishedDateTime: 2021-03-17T13:00:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/cosntiutional-recognition-will-make-this-nation-whole/news-story/c4e4d5fe0a57b61c50b55047011c9d90"
+    ampWebUrl: "https://amp.theaustralian.com.au/commentary/cosntiutional-recognition-will-make-this-nation-whole/news-story/c4e4d5fe0a57b61c50b55047011c9d90"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/commentary/cosntiutional-recognition-will-make-this-nation-whole/news-story/c4e4d5fe0a57b61c50b55047011c9d90"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 24
+  - title: "Artificial Intelligence in Military Market worth $11.6 billion by 2025 - Exclusive Report by MarketsandMarkets"
+    excerpt: "CHICAGO, March 15, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type ..."
+    publishedDateTime: 2021-03-15T11:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-03/52292865-artificial-intelligence-in-military-market-worth-dollar-11-6-billion-by-2025-exclusive-report-by-marketsandmarkets-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "I3nZCo8XocnZGEffNWZBb7Mmja4JbdVTsxX8T+aD5ndhrhBDF2R6dP5tP1w68Xu1Oz7EbbABOaltdfLcsL7YxxBTSQqoZkn9qwN9wLJR7s+aNgn65tA+xThS+2ry4myUnMDokrcekixP7MqnQ4wwCS6eLqa5j93Br0Jo6DArysyIaJB1WwGLk7LlstcCziDK6soQLMlW4Mrji2EMbrOvmSuAKHFWnI0of8J4w/BFJQNAAJSbyuJZXtLZAxwUnd3KV+bziPZJNw9kyQufuH7V7HhUi3z690p2rVNscGLXsKfFasdExQs4JDvNkPdJocqOof1FEjmKG+uttV70/MLiYpw2q8Lud7aI0hXtYLu4/ys=;SJZFbvY240Ytvj/LC4Bvyg=="
 ---

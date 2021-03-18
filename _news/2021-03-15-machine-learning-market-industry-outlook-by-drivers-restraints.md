@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-industry-outlook-by-drivers-restraints-2021-03-15"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Mobile Robot Market Overview, Merger and Acquisitions, Drivers, Restraints and Industry Forecast By 2027"
+    excerpt: "The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
+    publishedDateTime: 2021-03-17T22:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-robot-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027-2021-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "rb3m30hk8IH/C46sxjBaeiKX7uSaj3hlG7HRK8q4obigCPK5ma0tc2bV0vLOju0jNt50gVCFpXdkCIXVjsy8gqvy1hTvvVcm/X5wDiXDZ+UFDQIjryh1Br54o2YD9E3YGSZfCb5oAbBspI+aKiEFGiGlUqb/dBmIp5/RwFHcwoXb21HOMjXWQbue89w0SfNiA9Fzyo/bkH0qGTF96wNwMeVPMX1JSjTVfmU3bEKOdd3qPNqE03UohHRUllo8Oy6xkXN38kcbzBsj8GoY8zTiO5Mb+64dyt/J647R5kNx/tUZa9OBb3dxjrvm5SpE6Aap5Kbpk60H3pFatkEb4kPkB4PHdRe5lRO6jsbh1LnX1Ps=;JzNJq0t8f7JDCC1QWGmjAQ=="
 ---
