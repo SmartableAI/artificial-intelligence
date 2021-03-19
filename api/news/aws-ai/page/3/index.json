@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-23-zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21.md",
+      "title": "Zenoss Brings Together World Experts on Modern Monitoring and Artificial Intelligence at GalaxZ21",
+      "excerpt": "Since 2015, the GalaxZ user conference has hosted a rapidly growing audience of IT Ops, DevOps and site reliability engineering (SRE) professionals from some of the world's largest enterprises, including Google, AWS, BBC, United Airlines, PepsiCo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21/article_426a70ec-21fb-58c1-ab57-04e2a5442db3.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21/article_426a70ec-21fb-58c1-ab57-04e2a5442db3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/63/663c2f37-21d3-5a12-81dd-93272d4fbe3e/603675b76bcfe.image.jpg?resize=1198%2C630",
+          "width": 1198,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-architect-and-build-the-full-machine-learning-lifecycle-with-aws-an-end-to-end-amazon-sagemaker-demo.md",
       "title": "Architect and build the full machine learning lifecycle with AWS: An end-to-end Amazon SageMaker demo",
       "excerpt": "In this tutorial, we will walk through the entire machine learning (ML) life-cycle and show you how to architect and build an ML use case end to end using Amazon SageMaker. Amazon SageMaker provides a rich set of capabilities that enable data scientists, machine learning engineers, and developers to",
@@ -1372,58 +1415,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-amazon-inks-another-sports-deal-as-aws-will-power-nhls-digital-transformation-and-in-game-analytics.md",
-      "title": "Amazon inks another sports deal as AWS will power NHL’s digital transformation and in-game analytics",
-      "excerpt": "artificial intelligence, and machine learning infrastructure provider for the league. AWS CEO Andy Jassy, recently named as the future successor to Amazon CEO Jeff Bezos — and also a part-owner ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/amazon-inks-another-sports-deal-aws-will-power-nhls-digital-transformation-game-analytics/",
-      "originalUrl": "https://www.geekwire.com/2021/amazon-inks-another-sports-deal-aws-will-power-nhls-digital-transformation-game-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-10-at-6.16.20-PM-630x411.png",
-          "width": 630,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/amazon-inks-another-sports-deal-aws-will-power-nhls-digital-transformation-game-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-inks-another-sports-deal-aws-will-power-nhls-digital-transformation-game-analytics/amp/",
-      "publishedDateTime": "2021-02-11T06:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

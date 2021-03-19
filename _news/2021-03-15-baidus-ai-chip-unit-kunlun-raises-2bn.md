@@ -96,20 +96,6 @@ related:
         width: 900
         height: 500
         isCached: true
-  - title: "Baidu's AI chip unit Kunlun completes new funding, at US$2 billion valuation- source"
-    excerpt: "BEIJING: Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of"
-    publishedDateTime: 2021-03-15T04:45:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/baidu-s-ai-chip-unit-kunlun-completes-new-funding--at-us-2-billion-valuation--source-14409998"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 47
-    images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8695368/16x9/991/557/e9615d3f8fac5a826ae3bfa657aec6ec/or/business.png"
-        width: 991
-        height: 557
-        isCached: true
 
 secured: "HHqRN3aa02pGERz806ns1JJT3lTj4jgQ//q86mKHKEVju1B7If1RHDI0iLuAQTScXVs8JmLngCRmxJhzmhtzceyOCyUa6CRph6pPIOOCe1bkKAU8mnAaAyqiaKvGZtM4m91y+/j81V8TcXzCYt9enN/ZylgScfepjhH9eOmX9hVu08ZNQtBvoO32XYjlB1rNA8prK14423bXX+6Zl+w+JyklhJOZANJM4W/YxyVoX/PM4nQHP5rxVfLnOezCQTqUbUbYK1n4TLH1gN1XL7N2zeWCGnYYukz3zrHv5K5zc3WJNJz1+9nJdAwj9AmLywfBHvt+3hr0E3Bk8ejIRhLr/VyfcH/2gS9F7fqiRfAinX12ar4aETYfFEJpHAO1O3mFO9N152tv4DuUMytHsNZHFP4d9CUu7QLW6hO9yPePDReyHenCjO2si0FwxVs+gUZZT+dzqnuv13DRMtl0rGAfyOPH4NAcUq7PXd3VJJzqaUncazYLLMHpYkb1M4diPRM9dXMylmu5Ds+gtBFXrwWQOA==;4X3ajEktlSYWcFa2MAC64g=="
 ---

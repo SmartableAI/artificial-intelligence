@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-l
 webUrl: "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-lender-upstart-billionaire/"
 type: article
 quality: 68
-heat: 98
+heat: 78
 published: true
 
 provider:
@@ -42,31 +42,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6053c8533b896794608942c2%2F0x0.jpg%3FcropX1%3D151%26cropX2%3D838%26cropY1%3D32%26cropY2%3D419"
         width: 687
         height: 387
-        isCached: true
-  - title: "What Happens When Big Tech Comes for Fintech"
-    excerpt: "Perhaps, but I believe several challenges must be addressed as Big Tech is coming for fintech. Looking deeper at the impressive rise of neobanks, you might start asking yourself how their offers and services differ from one another."
-    publishedDateTime: 2021-03-15T15:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "FinTech firm launches Data and Compliance Summit"
-    excerpt: "To register your place, visit hivera.ai/the-data-and-compliance-virtual-summit/ A message from the Editor: Thank you for reading this story on our website. While I have your attention, I also have an important request to make of you. In order for us to ..."
-    publishedDateTime: 2021-03-18T13:00:00Z
-    webUrl: "https://www.newsletter.co.uk/business/consumer/fintech-firm-launches-data-and-compliance-summit-3167699"
-    type: article
-    provider:
-      name: The News Letter
-      domain: newsletter.co.uk
-    quality: 24
-    images:
-      - url: "https://www.lisburntoday.co.uk/webimg/TUFZMTI5NTEyMDM5.jpg?width=2048&enable=upscale"
-        width: 2048
-        height: 1070
         isCached: true
 
 secured: "/fcH+fpMHf9pVKDQKVIIYuwf6kkAzBFyIsGyjADkpJvlNK0o6owFVmGEg0F6dGs4hebb1KXz5d91u8JwmBKYibNVZexg9w3oQw32V2w5FAdPG5MJDal8z4diFFJ1ycPJQ0cpX9ts/A1A1EEXhW3ePswKR/GH2MUL039jUnelPYYOWfrpqXXmNHAy9wVX5wLKXmbzBADejUMchjaygKRlVj7VaQgFtm9EguIszOOkvQAMEv99Ed7+CHL2SRPQH23m/aAkDR1IzabshvWBxj2Jna67ccxISFZqICPEPOxfFqepdd1oFfGSU+ZotkWi8FEY7EzeB3q+Gu2TchLHQKmyDH1FoK/vsZyVi9dCp67pkIk=;cY8nE7e3l+xd8YFia/52vg=="

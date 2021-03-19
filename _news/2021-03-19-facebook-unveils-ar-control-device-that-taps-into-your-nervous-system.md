@@ -148,6 +148,22 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Facebook customizes augmented reality to the flick of a wrist"
+    excerpt: "Fresh off its recent augmented reality (AR) kick, Facebook Labs has revealed plans to curate this AI software for wearable devices. Projected as a shorter-term goal than the previously announced AR glasses,"
+    publishedDateTime: 2021-03-19T21:52:00Z
+    webUrl: "https://techxplore.com/news/2021-03-facebook-customizes-augmented-reality-flick.html"
+    ampWebUrl: "https://techxplore.com/news/2021-03-facebook-customizes-augmented-reality-flick.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-facebook-customizes-augmented-reality-flick.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/facebookcust.jpg"
+        width: 1404
+        height: 762
+        isCached: true
   - title: "According to Facebook’s New Wearable Device, The Future Is in Your Wrist"
     excerpt: "The wrist was chosen because it provides greater privacy over voice commands and an easier experience than pulling out a phone or a controller, and because of its location near your hands, which a majority of people are using everyday (for those born without or unable to utilize their arms or hands,"
     publishedDateTime: 2021-03-19T16:33:00Z

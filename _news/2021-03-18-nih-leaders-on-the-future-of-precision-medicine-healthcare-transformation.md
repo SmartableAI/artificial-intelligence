@@ -19,19 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "These 5 Careers Could Be the Future of Healthcare"
-    excerpt: "Healthcare once brought to mind disciplines like anatomy, biology and pharmaceutical medicine. Now the field is a different landscape, with artificial intelligence, genomics and big data dominating discussions."
-    publishedDateTime: 2021-03-15T21:09:00Z
-    webUrl: "https://www.mysanantonio.com/business/article/These-5-Careers-Could-Be-the-Future-of-Healthcare-16027593.php"
+  - title: "The future of fintech: Forging ahead with digital transformation"
+    excerpt: "By Andrew Warren, Head of Banking and Financial Services, UK and Ireland, Cognizant As we all begin to look beyond the COVID-19 pandemic and towards what we hope will be a full economic recovery, the Banking and Financial Services (BFS) sector in the UK and Ireland has reason to be cautiously optimistic about its immediate"
+    publishedDateTime: 2021-03-15T08:03:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 39
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
     images:
-      - url: "https://s.hdnux.com/photos/01/17/10/56/20745150/15/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/03/The-future-of-fintech.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "7Z94HADjSDR+vowBgm2AFB8O53eDidzH+r4Lmy+msLjbLtp2Rb2Mx8EoVYPgr4yaV8X3KxdTEMJklHHhjq+ydHnJSMKAMBZzYFxz//dtLSUs9tLfgRkfEwQhBOcAnedsyEunFpaET3jz0a5+CKYFyVewjXTPVSJ6lFiJBodYWyWkykbVlwoC1fKFAcFuJC4Jf3L75ebt+pQRzSIW9sMyebQhhukkZPF+9DY9HrAfyl7/hHtb66jZZE2u2GVwIoohMzenVpXFlT974FvR//Ukc1ZKXU0u/LRzKYuWHe0A0Owj0Q4P2POJJsSX7WCikofonVRGE1Lgu5k1AzBTkQkuzzfUdw+gF6OpvNjZpIBj7bY=;1E2CmSi0hUWbU1tZmnzi4Q=="

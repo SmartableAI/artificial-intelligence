@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19701189.html"
 webUrl: "https://www.lelezard.com/en/news-19701189.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -26,51 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI fintech products are operating at scale and investor interest is maturing"
-    excerpt: "Per a new dataset I spent this morning chewing on, VCs are firing cannons of capital into the AI startup world while exits reach new records."
-    publishedDateTime: 2021-03-19T15:21:00Z
-    webUrl: "https://techcrunch.com/2021/03/19/ai-fintech-products-are-operating-at-scale-and-investor-interest-is-maturing/"
+  - title: "ThetaRay Wins \"Transaction Security Innovation Award\" in 2021 FinTech Breakthrough Awards Program"
+    excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"
+    publishedDateTime: 2021-03-18T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-wins-transaction-security-innovation-award-in-2021-fintech-breakthrough-awards-program/article_b959df81-0972-5bc1-b9f6-3053043a3ef9.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-ORNG.jpg?w=533"
-        width: 533
-        height: 400
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "The future of fintech: Forging ahead with digital transformation"
-    excerpt: "By Andrew Warren, Head of Banking and Financial Services, UK and Ireland, Cognizant As we all begin to look beyond the COVID-19 pandemic and towards what we hope will be a full economic recovery, the Banking and Financial Services (BFS) sector in the UK and Ireland has reason to be cautiously optimistic about its immediate"
-    publishedDateTime: 2021-03-15T08:03:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-future-of-fintech-forging-ahead-with-digital-transformation/"
+  - title: "Cy Wins 2021 Best Robo Advisory Platform FinTech Breakthrough Award"
+    excerpt: "The FinTech Breakthrough Awards is the premier awards program founded ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim, Managing Director at JE.. Formula E Korea E-Prix 2020 Press Conference Rolls ..."
+    publishedDateTime: 2021-03-16T11:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=437708"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 44
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
     images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/03/The-future-of-fintech.jpg"
-        width: 750
-        height: 422
-        isCached: true
-  - title: "Keeping Startups Alive Through FinTech Consolidation"
-    excerpt: "All of the FinTech solutions in the world cannot guarantee success ... It's the viewpoint of Zeni, which recently announced the launch of its artificial intelligence (AI)-powered financial concierge service for startups. The solution links business ..."
-    publishedDateTime: 2021-03-16T11:59:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/zeni-startup-consolidation-financial-management-457x283.jpg"
-        width: 457
-        height: 283
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "Vesta Named \"Best Financial Transaction Security Company\" in 2021 By FinTech Breakthrough Awards Program"
     excerpt: "has been selected as winner of the \"Best Financial Transaction Security Company\" award in the fifth annual FinTech Breakthrough Awards program. Vesta provides an end-to-end solution using machine learning to detect and avert online fraud, including account ..."
@@ -86,28 +68,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Miami fintech Technisys brings artificial intelligence to digital banking with Kona acquisition"
-    excerpt: "Miami financial technology firm Technisys plans to elevate its digital banking platform with its acquisition of Kona, a Uruguay-based company that uses artificial intelligence technology to improve customer experiences."
-    publishedDateTime: 2021-03-16T17:24:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2021/03/16/technisys-acquires-kona-ai-digital-banking.html"
+  - title: "PayNearMe Named \"Best Consumer Payment Platform\" 2 Years Running by FinTech Breakthrough"
+    excerpt: "PayNearMe, the modern and reliable payments platform known for making payments easy for both businesses and customers, has been named \"Best Consumer Payment Platform\" for the second year in a row by FinTech Breakthrough,"
+    publishedDateTime: 2021-03-17T12:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19703755.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 22
-  - title: "5 trends and opportunities for the FinTech industry to watch out for in 2021"
-    excerpt: "the emergence of various disruptive technologies such as AI, blockchain and cryptocurrency, increasing focus on open data opportunities, regulatory clarity in jurisdictions has all contributed to the revamping of the FinTech ecosystem. Even though one ..."
-    publishedDateTime: 2021-03-15T09:59:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-trends-and-opportunities-for-the-fintech-industry-to-watch-out-for-in-2021/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 21
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 15
     images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/fintech-APAC.jpg"
-        width: 300
-        height: 300
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "FinTech Breakthrough Honors Standout FinTech Companies and Solutions in 2021 Awards Program"
     excerpt: "FinTech Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced the winners of the organization’s fifth annual awards program,"
@@ -123,15 +96,29 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Concirrus appoints six insurance and FinTech leaders to new advisory panel"
-    excerpt: "Concirrus has appointed six leading insurance and FinTech executives, including former Axa XL and Aegis London executives, to a new advisory panel."
-    publishedDateTime: 2021-03-18T13:57:00Z
-    webUrl: "https://www.insuranceinsider.com/article/28a97suqxy5znzxwm9mgw/concirrus-appoints-six-insurance-and-fintech-leaders-to-new-advisory-panel"
+  - title: "Stampli Named \"Best Accounts Payable Solution\" in 2021 FinTech Breakthrough Awards Program"
+    excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"
+    publishedDateTime: 2021-03-16T16:15:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/stampli-named-best-accounts-payable-solution-in-2021-fintech-breakthrough-awards-program/article_d8112c1b-5e08-5863-993c-332e158a1ec1.html"
     type: article
     provider:
-      name: Insurance Insider
-      domain: insuranceinsider.com
-    quality: 2
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 14
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sensibill Recognized by FinTech Breakthrough Awards Program for “Personal Finance Innovation Award”"
+    excerpt: "About FinTech Breakthrough Part of Tech Breakthrough ... with personalized insights to help their customers build healthier financial habits. The AI-powered platform enables end-users to easily track spending and manage their finances while unlocking ..."
+    publishedDateTime: 2021-03-16T17:03:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210316005037/en/Sensibill-Recognized-by-FinTech-Breakthrough-Awards-Program-for-“Personal-Finance-Innovation-Award”"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 5
 
 secured: "6E6MEc5XnDEnNcWZd5Y9NrcCIRCpx7VcbZeuDbSuKlVVqFslS1UX1eeoPVTT3ZR59/+i42415z5/THAQtksajUZ/kLDtvTByLEeA2a852yo+xJMJweMKIwMuT2FHTQWL//oESQuEoJoW3A0BRnV7UlhiuzKwo7KtLTmXzsyqdDaLsjtZv72hBT0UgFHj7Ch5j3WD8tRKDTvIa61/B0/A0+cUzvvEDqEPxDZRp1jEAVmrvynmaKXaQhVc5diyMEAo4zSYfhuWTgbELYIDTIvKtSrFwjmHA+FX2nqrsWpkMy3w0487FyFWf7ebjALqIPrE/pTZFLU2UzSCO5HMv5ImxiyzrBs34JCPy3YSWXfYgB8=;tqQo3cGpjke4qxCD414emg=="
 ---
