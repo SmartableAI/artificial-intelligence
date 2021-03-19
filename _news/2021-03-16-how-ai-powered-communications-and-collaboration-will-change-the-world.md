@@ -84,6 +84,36 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market report based on Share, Size, Opportunities, Research Methodology and Segmentation"
+    excerpt: "In terms of market share, the natural language processing segment is projected to contribute significantly to the global artificial intelligence market in the education sector during the forecast period,"
+    publishedDateTime: 2021-03-19T17:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-report-based-on-share-size-opportunities-research-methodology-and-segmentation-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Technique based on artificial intelligence permits automation of crop seed analysis"
+    excerpt: "In Brazil, researchers affiliated with the Center for Nuclear Energy in Agriculture (CENA) and the Luiz de Queiroz College of Agriculture (ESALQ), both part of the University of São Paulo (USP), have developed a methodology based on artificial intelligence to automate and streamline seed quality analysis,"
+    publishedDateTime: 2021-03-19T17:38:00Z
+    webUrl: "https://phys.org/news/2021-03-technique-based-artificial-intelligence-automation.html"
+    ampWebUrl: "https://phys.org/news/2021-03-technique-based-artificial-intelligence-automation.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-technique-based-artificial-intelligence-automation.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 51
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/cropseed.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "Technique based on artificial intelligence permits automation of crop seed analysis"
     excerpt: "Developed by researchers at the University of São Paulo, the non-invasive methodology facilitates identification of immature or poor-quality seeds without destroying them or creating residues."
     publishedDateTime: 2021-03-19T15:57:00Z

@@ -1,0 +1,63 @@
+---
+category: news
+title: "AI Meets Chipmaking: Applied Materials Incorporates AI In Wafer Inspection Process"
+excerpt: "A chip designer may have the most efficient architecture around ... The ExtractAI software essentially uses deep learning (AI) to try to better interpret the results of optical scanners, processing the optical data while using their SEMVision G7 e-beam ..."
+publishedDateTime: 2021-03-19T17:08:00Z
+originalUrl: "https://www.anandtech.com/show/16565/applied-materials-wafer-inspection-tools-use-ai-and-big-data-to-cut-inspection-costs-by-3x"
+webUrl: "https://www.anandtech.com/show/16565/applied-materials-wafer-inspection-tools-use-ai-and-big-data-to-cut-inspection-costs-by-3x"
+type: article
+quality: 48
+heat: -1
+published: false
+
+provider:
+  name: AnandTech
+  domain: anandtech.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://images.anandtech.com/doci/16565/Applied%20Materials_New%20Playbook%20for%20Process%20Control_678x452.jpg"
+    width: 678
+    height: 381
+    isCached: true
+
+related:
+  - title: "New Applied Materials tools use AI to catch mistakes on chips"
+    excerpt: "A new semiconductor manufacturing technology from Applied Materials uses artificial intelligence, or AI, to spot mistakes in chips more effectively, the U.S. company said on Tuesday."
+    publishedDateTime: 2021-03-16T10:41:00Z
+    webUrl: "https://www.reuters.com/article/applied-tech/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips-idUSL1N2LA2CC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B81JO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B81JO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555065077&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0VB"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Applied Materials brings AI and big data into semiconductor inspection machines"
+    excerpt: "Applied Materials has launched a new generation of optical semiconductor wafer inspection machines that incorporate AI."
+    publishedDateTime: 2021-03-16T11:30:00Z
+    webUrl: "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/"
+    ampWebUrl: "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/amat-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 632
+        isCached: true
+
+secured: "cNJEqVWFnCInLXP85X4s2ixdY4v2wniy/+mEvZFFpqaI6ylUj/9T8a4bLuBXfpExWhEWUtt+0QuhvYegrYC0F1EjgN3tvH19pdGqQhpWLVqnxEqDJEXLHlV/r51GEsrXo95d/K/g1r2kf70ecpVwblR+wwTg8jTEU1ql6xDuD2ps+soCyeftzuEcZfKqSKM6OkWbdO3z2vSRL5BX5xnXQyA4FYm5TSsW6kuQ5ReEMnTLcNtZLIOB7ktTJe6KRjx1pckquIeVASflKsLSDTZFAjPjQKLKGhb0QMovGdhQJBnnePBe5bKrE5ovrlgQCV6oOH2CyIuzB5N4kQo6Kx6PY9ixk4jw+uDE+joloSYdoRM=;PNsMIVLRB5Gla7Q6IoELHw=="
+---
+

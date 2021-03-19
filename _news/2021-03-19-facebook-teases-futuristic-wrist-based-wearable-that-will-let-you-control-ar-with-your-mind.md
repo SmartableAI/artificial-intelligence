@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmodo
@@ -31,19 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook will use your uploaded videos to improve its AI algorithms"
-    excerpt: "but the company did tell The Verge that it won’t seek special permission from users to use their videos as training data for AI. The company’s data policy informs users that uploaded content can be used by Facebook for research and development."
-    publishedDateTime: 2021-03-16T11:06:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/16/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms"
+  - title: "Facebook Messenger Bot Answers Questions About What’s Recyclable"
+    excerpt: "Facebook and leading consumer packaged goods brands like PepsiCo, organizers say. “We’ve built a lot of the answers into the bot experience so that it can be answered by artificial intelligence ...” says Cody Marshall, chief community strategy ..."
+    publishedDateTime: 2021-03-19T16:31:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/"
+    ampWebUrl: "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/16/1079540.jpg"
-        width: 1240
-        height: 837
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054caec32d36b83b9313d2b%2F0x0.jpg"
+        width: 1199
+        height: 626
+        isCached: true
+  - title: "This Week In XR: Facebook’s Invisible Computing Research"
+    excerpt: "This Week in XR is now a podcast hosted by Paramount’s Futurist Ted Schilowitz and Charlie Fink, the author of this weekly column. You can find it on podcasting platforms Spotify, iTunes, and YouTube."
+    publishedDateTime: 2021-03-19T06:33:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2021/03/19/this-week-in-xr-facebooks-invisible-computing-research/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605441565fafb946c9eccb40%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "yeAqKgiDNS79vIFFYa9wjIMKTM+8NmQKNo9mr0YQ4WrQJPsQpPRiWDcQWC+nWDh9xSnWqHIPORJS+Pf5str0e75jZABtONxX7fuKcJuPD3OnieYk4xV6PUW+eDWV7+IF3eFh4lJZHACLiGmeHC26K2Ty5BCxDT8Yqar2msQxlhCJO1g3fjd0rrUvp/TfvWd4f+LWw0gLpEcFir0desjSVNFZUxQYS2HnZdsXpuuGErfM5PWc++cuTRmyBur+DneCrALYzrVHm0JdGceV0c92CTwzKsFTMKvj20t2HnW9wUKQbhFJIrxWpHXRl2zI8O+iVa4Bqz7D66shWVIhVllyN9vLNZjqyIUfe11X8BtUyRoJ24XTFFHqZhsS7X4VJrxsARrfNHsIsKHNylWd+9vQK/a6tplh4WnT8RUHmeIl1cn7kK8NZ4H3sxkiWYbIs7XtrKngoUmr0/lNip1xOJmPkkKB1HWzbIpIt5Ov7FMKpMdnADA/rgTOHzfT0a3JH2EO2OS/Yy2xB/6dprYXOBlv9g==;2Zl/N915dqKM4yjS1GOaKA=="

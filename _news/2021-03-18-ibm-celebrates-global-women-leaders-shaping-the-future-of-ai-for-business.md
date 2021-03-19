@@ -69,6 +69,22 @@ related:
         width: 800
         height: 800
         isCached: true
+  - title: "40 women leading the way in AI innovation"
+    excerpt: "IBM's annual list of Women Leaders in artificial intelligence includes women from 18 countries who serve in a variety of roles."
+    publishedDateTime: 2021-03-19T09:12:00Z
+    webUrl: "https://www.techrepublic.com/article/40-women-leading-the-way-in-ai-innovation/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-women-leading-the-way-in-ai-innovation/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-women-leading-the-way-in-ai-innovation/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2019/06/05/a80a4f1a-e4aa-467a-b85e-0802f7169f61/resize/1200x/83b223eeaad78cde0d4502b429298252/women.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "IBM Recognizes 40 Innovative Female Leaders in Annual Women Leaders in AI Program"
     excerpt: "... female business leaders today as part of the company’s annual Women Leaders in AI program. The women come from 18 different countries and use IBM Watson to help advance industries. This year, the women leaders include names from The Clorox Company ..."
     publishedDateTime: 2021-03-18T13:14:00Z

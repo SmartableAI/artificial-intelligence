@@ -64,22 +64,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "How PhonePe adapted to the new normal in fintech"
-    excerpt: "Bengaluru-based fintech startup PhonePe pivoted rapidly and ... fund's first investment in Asia with undisclosed funding in Wysa, an AI-based mental health startup in India. Wysa has raised ..."
-    publishedDateTime: 2021-03-15T00:31:00Z
-    webUrl: "https://yourstory.com/2021/03/phonepe-new-normal-fintech-mamaearth-india-quotient-edtech"
-    ampWebUrl: "https://yourstory.com/2021/03/phonepe-new-normal-fintech-mamaearth-india-quotient-edtech/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/03/phonepe-new-normal-fintech-mamaearth-india-quotient-edtech/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagewq25-1607009831702-1614914265516-1615735280483.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "jsgvWRux1Wz9UMSJpsFD+dMdo7//ci7bzMPMluFXrks9Tf6qLGwSZdCmZPGiIGnnb53HuZ6+5d0Eo7HLE2z5oJtRLMPJlK0bRkwY8sTBJscXJ0MIqPmE8BQB6ThODj+F5e3Q/HWmLmoTei1a+S1knXlIJiDdDrBKO4ck/fJyBd6BJvJaAmTJoCg31L40pt7ROFlREZnWLLKNnfFbbF7d9gl51aHrlLT9wVPjPdGoiLXyQXbtzNQmQfz7AAbIQe+5zMNM8cbsPao1ivHcTDJMKlrlFmzzKzLzCjQUiy++HqGxzRgjJIMUfh62mBfN76xqNxfMWp1kUjFqEQEY4zjI72k4vwWep4vn0eKNUrbMW4Y=;s2CvrBCCt8kltdk+2dWDXw=="
 ---

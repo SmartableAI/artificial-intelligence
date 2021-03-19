@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
-excerpt: "New Delhi, March 15 (IANS) In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens ..."
-publishedDateTime: 2021-03-15T22:05:00Z
-originalUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
-webUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
-ampWebUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
-cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
+excerpt: "New Delhi: In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021. The programme will allow participants to build ML models for ..."
+publishedDateTime: 2021-03-16T08:11:00Z
+originalUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
+webUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
+ampWebUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
 type: article
 quality: 123
 heat: 153
 published: true
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AWS AI
@@ -23,9 +23,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg"
-    width: 400
-    height: 300
+  - url: "https://www.sify.com/uploads/awswiki1-sjxop2edjeaig.jpg"
+    width: 650
+    height: 400
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
         height: 1623
         isCached: true
 
-secured: "9Mt6CFRt1VnYoMFo1MizVvv9V2EbTlgtz6WK106L5mbao/8902r6XF6U8T8swz7MC9gOMYa+TbBstXqyFxUEb5Irh09cXSaQez5KqTgGvd5qd2XhuUr+p37uN1AV+/YVjcL0x7Y1OjoGJcqu2Y6Knmb2f0UhscXuSciSXDWNHNgsIZ0ebnrGRZKLA29CwM2oelYgjheDAkdJFOQOB0YsqgBoVk2WyQzAR4p2f0xxexHl7VmhWNAsfY0CBfLx/u9pBhylEfb+gEa59aDpQ3mQEm6McjWaLk+WHgHorXeOSKqdrc4eBUf8+HfcdMrUhyhvnZxYpsRcpSCOmOAhkktzS2/pstcHXbx78kJGIp+ryhM=;fCY51cIBNUInoM+ePl5H2Q=="
+secured: "8El0uO0vvsXVeoGWpusruusUK7UXGToVpG0aNOZpb4ImG3hl40oTxNecPhzFNDN0S0uc6vNpAvW+cqf1/hUgMS0epQEEBJcHUtGetARCJ20RWVL2D0qPKxkxsKrnSm8XPCtaJ96o2riQ+nwMvKg8Gk26G4nidFlj14t/IC+poET1i8xvMULrfVNAu8A6XBnd0ZOIAQnJBBk5O4/71CorFTWEqZ1aHs//nEo+gQvpYmoaUfnJ2fmy29aIUpRUKNrpoO08HWpz84llzE7cQ7btA+ok7d4q3vd5KME1ay/RPN8G2UNcBUgS/2GjDoSXLPsYmQEkCJnt/JN3jo1wktQjUbrj7MgN83Dhhv8FsqNf6l0=;leqfY6WSXwuXbgU0hUT3uw=="
 ---
 

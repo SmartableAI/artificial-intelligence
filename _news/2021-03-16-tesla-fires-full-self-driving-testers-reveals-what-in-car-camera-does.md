@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-fires-self-driving-testers-camera
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-fires-self-driving-testers-camera.amp"
 type: article
 quality: 88
-heat: 188
+heat: 198
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/EalVl1q6WRcEgwjY3sc7LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7fd6f550-85b9-11eb-bffa-fc7b88b7b6bf"
         width: 1999
         height: 1333
+        isCached: true
+  - title: "Tesla's \"Full Self Driving\" Beta Is Just Laughably Bad and Potentially Dangerous"
+    excerpt: "A beta version of Tesla's \"Full Self Driving\" Autopilot update has begun rolling out to certain users. And man, if you thought \"Full Self Driving\" was even close to a reality, this video of the system in action will certainly relieve you of that notion."
+    publishedDateTime: 2021-03-19T16:56:00Z
+    webUrl: "https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
+    ampWebUrl: "https://www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
+    cdnAmpWebUrl: "https://www-roadandtrack-com.cdn.ampproject.org/c/s/www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
+    type: article
+    provider:
+      name: Road & Track
+      domain: roadandtrack.com
+    quality: 69
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2021-03-18-at-4-33-42-pm-1616099640.png?crop=1.00xw:0.892xh;0,0.108xh&resize=1200:*"
+        width: 1200
+        height: 602
         isCached: true
   - title: "Self-driving Tesla collides with a Michigan State Police car after failing to move over"
     excerpt: "The autopilot function means the car can “steer, accelerate and brake automatically within its lane,” per Tesla’s website. It does not make the vehicle autonomous and requires supervision, per the website."

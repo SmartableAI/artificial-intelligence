@@ -41,6 +41,22 @@ related:
         height: 640
         isCached: true
   - title: "Cornell AI startup secures $1 million in seed funding"
+    excerpt: "Iterate Labs, an Ithaca-based startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety, has obtained $1 million in"
+    publishedDateTime: 2021-03-19T16:22:00Z
+    webUrl: "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.html"
+    ampWebUrl: "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html"
+    cdnAmpWebUrl: "https://www-ithaca-com.cdn.ampproject.org/c/s/www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html"
+    type: article
+    provider:
+      name: Ithaca Times
+      domain: ithaca.com
+    quality: 57
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/ithaca.com/content/tncms/assets/v3/editorial/d/6d/d6d20eb2-88cf-11eb-ac34-1f26f156445b/6054d0acd2f62.image.jpg"
+        width: 670
+        height: 377
+        isCached: true
+  - title: "Cornell AI startup secures $1 million in seed funding"
     excerpt: "Iterate Labs, a startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety,"
     publishedDateTime: 2021-03-18T15:28:00Z
     webUrl: "https://www.miragenews.com/cornell-ai-startup-secures-1-million-in-seed-530652/"

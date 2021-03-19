@@ -54,22 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "How PhonePe adapted to the new normal in fintech"
-    excerpt: "Bengaluru-based fintech startup PhonePe pivoted rapidly and ... fund's first investment in Asia with undisclosed funding in Wysa, an AI-based mental health startup in India. Wysa has raised ..."
-    publishedDateTime: 2021-03-15T00:31:00Z
-    webUrl: "https://yourstory.com/2021/03/phonepe-new-normal-fintech-mamaearth-india-quotient-edtech"
-    ampWebUrl: "https://yourstory.com/2021/03/phonepe-new-normal-fintech-mamaearth-india-quotient-edtech/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/03/phonepe-new-normal-fintech-mamaearth-india-quotient-edtech/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imagewq25-1607009831702-1614914265516-1615735280483.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "FinTech firm launches Data and Compliance Summit"
     excerpt: "To register your place, visit hivera.ai/the-data-and-compliance-virtual-summit/ A message from the Editor: Thank you for reading this story on our website. While I have your attention, I also have an important request to make of you. In order for us to ..."
     publishedDateTime: 2021-03-18T13:00:00Z

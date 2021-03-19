@@ -47,6 +47,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "AI Meets Chipmaking: Applied Materials Incorporates AI In Wafer Inspection Process"
+    excerpt: "A chip designer may have the most efficient architecture around ... The ExtractAI software essentially uses deep learning (AI) to try to better interpret the results of optical scanners, processing the optical data while using their SEMVision G7 e-beam ..."
+    publishedDateTime: 2021-03-19T17:08:00Z
+    webUrl: "https://www.anandtech.com/show/16565/applied-materials-wafer-inspection-tools-use-ai-and-big-data-to-cut-inspection-costs-by-3x"
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 48
+    images:
+      - url: "https://images.anandtech.com/doci/16565/Applied%20Materials_New%20Playbook%20for%20Process%20Control_678x452.jpg"
+        width: 678
+        height: 381
+        isCached: true
 
 secured: "lj+0JQHldBrvLYEVsWP86NARRv98bqEEIKC6r7XplPfqPSxZ2s3vSYbwnK6fDyULmMKdUqmM79mk26duw4t3VoySRDSLXZ9iySywHPnvo29nKCkf55cqq2A96KVidpQbcvy+NuP6MDea1koxZn6CQjOpldCqYMsyH2DzrB1ELxIAI6xpnViUjFu/fOYCJrMuu+d4kxseYKKpQO0WH2rWTkUq6GMd9i1Q4w7yikR7xJ96j/fcrztIamND7wSp44H+FjMDrHexDRwAl8syah8g1tB5SMmmZnEmzxo5ryd6i1AzYxAy5a9Tvx0EQCcxZudOv33M1PuctpZljOS/VSurOf4A+AOLUSipX/Mz1l4gJCe1li7RQIfJYbsTVGN4rrkNDPjokz5Wx/gu8T6unFzPHodegIg62mVYRk8ZP8JSmPtq6PvscA9ZyPc4TjUuO34QLULM7oiQflxcZZ4IsaSAqO8e/1etHT1ld0qYBHheZVO3GLy04X7FYVv++WKxSzmavXu/OTOldc0bZkOHZq7+pg==;7Ts8/HEzikPiwh7IFX1uEQ=="
 ---

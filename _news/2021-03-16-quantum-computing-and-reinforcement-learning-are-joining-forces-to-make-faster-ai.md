@@ -86,6 +86,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Solving 'barren plateaus' is the key to quantum machine learning"
+    excerpt: "Many machine learning algorithms on quantum computers suffer from the dreaded \"barren plateau\" of unsolvability, where they run into dead ends on optimization problems. This challenge had been relatively unstudied—until now."
+    publishedDateTime: 2021-03-19T17:01:00Z
+    webUrl: "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.html"
+    ampWebUrl: "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/solvingbarre.jpg"
+        width: 700
+        height: 470
+        isCached: true
   - title: "AI for Health grantees making an impact"
     excerpt: "Learn how our grantees and partners are addressing global health challenges with AI for Health resources and grants. We are mobilizing our efforts to support organizations responding to COVID-19 with projects for shared research,"
     publishedDateTime: 2021-03-16T07:52:00Z
@@ -99,6 +115,20 @@ related:
       - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWyvoC?ver=3bda&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true"
         width: 1600
         height: 600
+        isCached: true
+  - title: "Teaching AI what’s fair"
+    excerpt: "With funding from Amazon and the National Science Foundation, Tan has been working for the last year to teach artificial intelligence algorithms how to be more fair and recognize when they’re being unfair."
+    publishedDateTime: 2021-03-19T17:43:00Z
+    webUrl: "https://msutoday.msu.edu/news/2021/teaching-ai-fairness"
+    type: article
+    provider:
+      name: Michigan State University
+      domain: msu.edu
+    quality: 37
+    images:
+      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/knowmore-green-2.png?h=288&w=280&la=en&hash=0F967E9D786E14E8DFAF9881B2A010B8"
+        width: 280
+        height: 288
         isCached: true
 
 secured: "CdZ1RbvIFlwMR+GPyzSV4YXK1koWdRJvcJGwf86MD4xdjOybLH5OvLUPPP6ytbOSteR2oWJl7WrNVX+FSWSvS207FBu4wQBJRDXxPguLv4xAMNWyEzbjubl8FHCCgy2D1Lh/OinkwrbJZJWbPQnigl9jzIs8AzcILTvGGPy/NTfyrK/scFHXuUFBjPJBtyYTNA+ug2A05F0zMVcwuuTC5HQ+z7FEechBF/HG4DiESvMD1tc4AlDitudBrrNVEjW/MKkB5de3YfUswR26nT+SQFAkKOn5sgjpNU47XHhp98mLud8J40qcdZKXbmgDKP8r0Dt5Ffn9PMoBvW/WtG3Ec2s2OiADFNTtYGZzsWcw4/ZtQbLYF5OYqZRQJHycTE3oVsTpcrneWhn1v2/cN6QcbkOcIZn++ipacbHmG7wFZbtA16ACto01lc+CanSQeJxI1gxgKOV8pVWiK3U6/5ouxoKqnYXc5IB5alIEX1DwQTvE2jDeMbDboDDyPMqcaRH3SbOS2VFvSbxNLv/GP16/nw==;rgpK8gO1Hb4VojLiWYcvkg=="

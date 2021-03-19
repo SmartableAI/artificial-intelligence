@@ -148,6 +148,22 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "According to Facebook’s New Wearable Device, The Future Is in Your Wrist"
+    excerpt: "The wrist was chosen because it provides greater privacy over voice commands and an easier experience than pulling out a phone or a controller, and because of its location near your hands, which a majority of people are using everyday (for those born without or unable to utilize their arms or hands,"
+    publishedDateTime: 2021-03-19T16:33:00Z
+    webUrl: "https://www.insidehook.com/daily_brief/gadgets/facebook-augmented-reality-wrist-wearable"
+    ampWebUrl: "https://www.insidehook.com/daily_brief/gadgets/facebook-augmented-reality-wrist-wearable/amp"
+    cdnAmpWebUrl: "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/gadgets/facebook-augmented-reality-wrist-wearable/amp"
+    type: article
+    provider:
+      name: InsideHook
+      domain: insidehook.com
+    quality: 43
+    images:
+      - url: "https://www.insidehook.com/wp-content/uploads/2021/03/facebook-wrist-wearable.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook is developing a neural wristband for interacting with AR glasses"
     excerpt: "The wristband, detailed today, is part of a broader project by the social network to create augmented reality glasses suitable for everyday use. Facebook argues that such glasses will require the ability to not only display content but also give users an easy way to interact with that content."
     publishedDateTime: 2021-03-18T21:17:00Z

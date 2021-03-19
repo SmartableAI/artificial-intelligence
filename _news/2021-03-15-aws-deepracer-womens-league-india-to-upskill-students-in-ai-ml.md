@@ -22,20 +22,20 @@ topics:
 
 related:
   - title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
-    excerpt: "New Delhi, March 15 (IANS) In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens ..."
-    publishedDateTime: 2021-03-15T22:05:00Z
-    webUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
-    ampWebUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
-    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
+    excerpt: "New Delhi: In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021. The programme will allow participants to build ML models for ..."
+    publishedDateTime: 2021-03-16T08:11:00Z
+    webUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
+    ampWebUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: Sify.com
+      domain: sify.com
     quality: 123
     images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg"
-        width: 400
-        height: 300
+      - url: "https://www.sify.com/uploads/awswiki1-sjxop2edjeaig.jpg"
+        width: 650
+        height: 400
         isCached: true
   - title: "AWS launches DeepRacer Women’s League for female students to learn machine learning"
     excerpt: "Participants can leverage AWS machine learning and AWS DeepRacer course modules and several enablement sessions planned during the event."
@@ -68,6 +68,6 @@ related:
         height: 1623
         isCached: true
 
-secured: "oZ6SJtocOQXosp3ds7ijRXl4qO0tP0OmmL+Z/AieFy+OFGThSqutWnzbDXn2lFfEKwksWYbmwDJwBW6AfaoqvY9cZyaYo4LSpeq49glYVn8ROv5yzzBX25sbxNivIL8eoTXpnMKDLftWKSB/vHc42l67Ws5zpaT/E1CAFdEbDIW7HkWePDXyL8BZGxjGayssiBYUQO+maMUzZA+C1sgTo0ZDKCnAIw+KZTLhsJhcrTswxop+h4pNazRIlbtZjoRx/1QRQsWbyvne9jaGvU0QFXn/oPCUh/ZlqAxxAc1TgTQeFy49pWJ8/n1FhKqD8vpT3ByC5/Mp9TIR7iAA7bTzgmGuZCGndtpkdhP2vq49hCo=;vEjX1JOhmgkyweB+Rry9lw=="
+secured: "Tm5CgP+VnSWQeMe32eIsw4AtWw1UrjJhMFyoI0KpPz/40TI9bf2pnsYaPr/CPKe9bjZU+T1MHo1NGEbSKBivEpPBnPQ404kKGAUENF0TTOXQHgIiI3oDaO64lii19+fU2VTJJkeyLxEB14WgV0APCU7j3VlP3wfuAh5lWmkwDMzxKyrkZDBCGh1zCJYfKdVd7izi/qjk6N8cantMRlX+iNrgnbbkBV8flOxeRz8hIPrQfD2FS9x6Hz/dUnFynpbFJQAa8VFMjTedVLTDNFh7J4SvVoOmyDP5BaI8eMamurkJdIArBskA8T9mTbO9wrf0GptlbslCqOqGa23NaEwlzIacmED8WmSIVUnSB5ql5mA=;QrhrQFJ/JHGWxvJcG6jpVQ=="
 ---
 

@@ -1,29 +1,32 @@
 ---
 category: news
 title: "Your self-driving car still isn't ready. Smarter roads might change that"
-excerpt: "which make it difficult for even advanced artificial intelligence to react appropriately to the myriad new scenarios it might encounter. A Waymo self-driving car once saw a baby crawling on a road ..."
-publishedDateTime: 2021-03-05T19:42:00Z
-originalUrl: "https://www.kctv5.com/your-self-driving-car-still-isnt-ready-smarter-roads-might-change-that/article_d30cd523-5add-5945-a304-bb67fb5e767d.html"
-webUrl: "https://www.kctv5.com/your-self-driving-car-still-isnt-ready-smarter-roads-might-change-that/article_d30cd523-5add-5945-a304-bb67fb5e767d.html"
+excerpt: "Washington, DC (CNN)Jaime Waydo spent years building self-driving cars at Waymo, and was quick to praise their abilities. The cars already had the experience of 300 years of average driving ..."
+publishedDateTime: 2021-03-05T16:45:00Z
+originalUrl: "https://edition.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html"
+webUrl: "https://edition.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/cars/cavnue-self-driving-lanes/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/cars/cavnue-self-driving-lanes/index.html"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
-  name: KCTV News
-  domain: kctv5.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg"
-    width: 820
-    height: 462
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302171954-01-v2i-self-driving-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
-secured: "gFup79kA9k07S80hfx/GMKo/AXN0wODX4afH0R1pbm+sj5KH6t5S0jA9iTiPiCweIJ7mdjTQT87J+CecOc12mb3Bx7NL1AaNQogReWUb1UX48zzUhoWPtAY/uhBiHEM+vTWowb6RH+KE3W2NmM0Gt1UiwWdm/A/77YAXXBDit40W892i+fFGnrhIlzX/AqiWIFvX9tNCaOEDEI48bcQpnsTeo1x1QV4xM4WEiehc+U6LThqIfatftu1Wf1fQgJoHqFksloKXyKx4wUtMW556t5+Eg5c2Pl4ppSGWh4iuvXMNC5naIJ7ZCTM1LhJJefyO59BzS98RFcQoCBrZe5bZYsuI4v0zTRRXebtlIHHjD14=;zgJ/qdIX5f4NMu1exmFRPg=="
+secured: "aKQS29AVdDbHsT/5gnzgPCgKlM4JMYansaLSCsQI5PtVu9BrNevn6VJ7iFFUzcWZD5FHE/w1n5XUt/a5Hg7Kxvre9joA3T/Ik9vSl6jsW+gshbrx6RMIUbQq6eRpD62fp3sK/+RMghZ0Pu72AqfmbRXvQ9EBmgiyZm4vrnF0Ugra4ggFFY/rV6sDI7QPk9mzGJ7SdZ/XToscNmWenTAJNQHnUejrmyGcKeKdFX388BKEneHAPLNsQRNcAoWrCCP7lOsYNhZUyAa6FEnFXtdSxPkWRs/s+/l2BZZ7V1kF6sxVWgOvvoGEQC6l7g72M/WBPvAYqc3QZsICgrt+JMg0x/N8O8ZGlTKpZh3m7XCDhTw=;F61mOIcXLMWG0te/mqQzww=="
 ---
 

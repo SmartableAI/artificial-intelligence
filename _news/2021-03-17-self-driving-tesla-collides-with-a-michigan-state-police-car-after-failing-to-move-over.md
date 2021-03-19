@@ -59,6 +59,22 @@ related:
         width: 1999
         height: 1333
         isCached: true
+  - title: "Tesla's \"Full Self Driving\" Beta Is Just Laughably Bad and Potentially Dangerous"
+    excerpt: "A beta version of Tesla's \"Full Self Driving\" Autopilot update has begun rolling out to certain users. And man, if you thought \"Full Self Driving\" was even close to a reality, this video of the system in action will certainly relieve you of that notion."
+    publishedDateTime: 2021-03-19T16:56:00Z
+    webUrl: "https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
+    ampWebUrl: "https://www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
+    cdnAmpWebUrl: "https://www-roadandtrack-com.cdn.ampproject.org/c/s/www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
+    type: article
+    provider:
+      name: Road & Track
+      domain: roadandtrack.com
+    quality: 69
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2021-03-18-at-4-33-42-pm-1616099640.png?crop=1.00xw:0.892xh;0,0.108xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Watch Tesla Full Self-Driving Beta Work Wonders In A Slew Of Edge Cases"
     excerpt: "As we've reported in the past, Tesla's FSD Beta is capable of drives with zero interventions. However, it's not consistent enough to do it every time."
     publishedDateTime: 2021-03-15T13:50:00Z
