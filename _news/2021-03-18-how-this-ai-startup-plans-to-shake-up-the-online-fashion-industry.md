@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeroenkraaijenbrink/2021/03/18/how-this
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeroenkraaijenbrink/2021/03/18/how-this-ai-startup-plans-to-shake-up-the-online-fashion-industry/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 823
     isCached: true
+
+related:
+  - title: "New Data on Stroke Care Show the Impact of Viz.ai’s Artificial Intelligence-Powered Platform on Patient Outcomes"
+    excerpt: "About Viz.ai Viz.ai, the leader in applied artificial intelligence in healthcare, aims to fundamentally improve healthcare delivery around the world using intelligent software to reduce time to treatment, improve access to care, and increase the speed and ..."
+    publishedDateTime: 2021-03-19T11:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210319005094/en/New-Data-on-Stroke-Care-Show-the-Impact-of-Viz.ai’s-Artificial-Intelligence-Powered-Platform-on-Patient-Outcomes"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
 
 secured: "IgrMsjtqWdTrUHDd1wqKF3rfDQPWrWBeJW3swj51Ht1VAZb/MySDe7U3GHK39CtHpMbhRCWt+8pbakDXR7L7xvwToufgA6FP8kEG+kuu4LjrEE/OagFVb7mCxEn45ushIdjaMUrZ2dLYchU6C9kELSYKLQWooBN7jtASL2Mvmo6hGwbwn9YtkbH4KRHzOMEEGxFRWDtdiqywM8mVCgYhNhS4Yq433f7dTk4vxLAm2OhTRUiBdZ072fnU+grh1UJqLAA4Tr/mknIrA+iriEWwPZIUAWQl2uU3OdqZdgEEzRH6BNxq/NQjSZ7V0q6nKo3ggMdmvSkYpAxqWxYB3yzXP+9dAqf4IkEzp37htpxtCFQ+X7cgPt208ZmmV0w4DUcRlt/OsBCXnhxTm58MLaSTVQF46kLlxceU7BRHqaaWWNOlPnpelMRfUlfZBgB5lGnd6+Ct5egRUYD4087srRnztAkY+vq//3Z9sv3wtB1sPUJFz85PwXV/4p4S/aqtYR8yZLqR/R+1eY5ijYW0FrRUTA==;/kQN2rM6NVlFCn1Vdd1JKw=="
 ---

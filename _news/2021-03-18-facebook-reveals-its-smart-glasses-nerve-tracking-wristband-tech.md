@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-t
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -150,6 +150,15 @@ related:
         width: 708
         height: 394
         isCached: true
+  - title: "Facebook shows research into AI wristband with nerve signal controls"
+    excerpt: "Facebook has shown some of its research into new forms of human-computer interaction, including a wristband that can work as the controller of an augmented reality headset. The platform is being developed by Facebook Reality Labs,"
+    publishedDateTime: 2021-03-19T10:17:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-shows-research-into-ai-wristband-with-nerve-signal-controls--1376558"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
   - title: "Facebook Shows Off Trick Neural Wristbands That May One Day Interface With AR Glasses"
     excerpt: "Facebook CEO Mark Zuckerberg went on a podcast to talk about the future of augmented and virtual reality. In his discussion, he explained that he wanted to see Facebook manufacture its own hardware and thought that the platforms would be the next big thing in tech."
     publishedDateTime: 2021-03-18T20:20:00Z

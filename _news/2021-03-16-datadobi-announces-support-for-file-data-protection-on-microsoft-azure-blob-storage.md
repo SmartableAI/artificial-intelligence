@@ -66,6 +66,20 @@ related:
         width: 647
         height: 450
         isCached: true
+  - title: "13 startups selected to join Microsoft AI for Social Impact programme"
+    excerpt: "Microsoft has announced that it will work with 13 startups to develop artificial intelligence solutions under its AI for Social Impact scheme"
+    publishedDateTime: 2021-03-19T11:21:00Z
+    webUrl: "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 54
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/03/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
   - title: "Tiberium launches two Microsoft based services leveraging Azure Sentinel and Microsoft Defender"
     excerpt: "Tiberium launched two Microsoft based services leveraging Azure Sentinel and Microsoft Defender to offer a fully managed or hybrid delivery."
     publishedDateTime: 2021-03-17T02:45:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/atal-innovation-mission-aws-coll
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html"
 type: article
 quality: 55
-heat: 55
-published: false
+heat: 75
+published: true
 
 provider:
   name: Mint
@@ -25,6 +25,38 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Atal Innovation Mission, AWS collaborate to scale cloud skilling, and accelerate innovation with education technology startups in India"
+    excerpt: "artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7000 Atal Tinkering Labs (ATLs) in India. AWS will also conduct Faculty Development Programs (FDPs) for the personnel in-charge at the ATLs, and provide ..."
+    publishedDateTime: 2021-03-18T15:39:00Z
+    webUrl: "https://indiaeducationdiary.in/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    ampWebUrl: "https://indiaeducationdiary.in/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 44
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
+  - title: "Atal Innovation Mission, AWS collaborate to scale cloud skilling, and accelerate innovation with education technology startups in India"
+    excerpt: "artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7000 Atal Tinkering Labs (ATLs) in India. AWS will also conduct Faculty Development Programs (FDPs) for the personnel in-charge at the ATLs, and provide ..."
+    publishedDateTime: 2021-03-19T04:21:00Z
+    webUrl: "https://www.cxotoday.com/press-release/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 24
+    images:
+      - url: "https://www.cxotoday.com/ashojoac/2018/09/zoho-540x370.jpeg"
+        width: 540
+        height: 370
+        isCached: true
 
 secured: "aEQlFHO3TrTHjsNRjE0ZDbB2T+RhIqTMqz1Vv0j+iver+C718lTPHHGeOdNC5VpDW7Qrakp1XnFWxun9eTETjMpaNEyn0Vsceb4244kENTr7SWkfr25/8Y9M4GHJsOLgEV4YPybsma09s9wg8+/U3e/2RZmwYtRMEn3eTeV6ThQ0/1nLrHjzyVTiEHWiuTBmU/RUkaXQ46HM61z/0fvgZ0KlQ/9VKRigZrY/cikeTyo+8h2MEw+xCE2pjgVvb07YHT1lQT5fpSBJh8JNbR3GXP5bRa48ofGDa4qnjZDoaky4kg/5m/wP0LI6K5NPagDzrzEfkxzV6IBWdl77cDTLkwEQQVOxHfLcV9G+9xqg5darbMPOtQhZa1BNiuAA9K9+G0aqAfqo/6BP/N7OrjqEQEBlaFM8nq8ibv/Rzog6VF4JiE0pK5NVwMsDD0CO/gRaTmbywzeKyb7lRSiwzquuCC3kQTs7lpKGIjN3iJbVOu9G6VJ59SYagko0TG1SzjQoVHypHNbfQNYZjMPwr+y5jg==;RWsyCFEPRiritKlN2w6AqQ=="
 ---

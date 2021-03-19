@@ -20,22 +20,15 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Applied Materials brings AI and big data into semiconductor inspection machines"
-    excerpt: "Applied Materials has launched a new generation of optical semiconductor wafer inspection machines that incorporate AI."
-    publishedDateTime: 2021-03-16T11:30:00Z
-    webUrl: "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/"
-    ampWebUrl: "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/"
+  - title: "Domo Achieves AWS Machine Learning Competency Status in Applied AI"
+    excerpt: "Domo (Nasdaq: DOMO) today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category. This designation recognizes that Domo has demonstrated deep experience and expertise in building or integrating ML solutions on AWS."
+    publishedDateTime: 2021-03-18T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/domo-achieves-aws-machine-learning-competency-status-in-applied-ai/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/amat-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 632
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 53
 
 secured: "Bp2DcunNYe8Xf4WWHDmbXckU+7m4dR+21j5/EsgHxoIWy3H2TvmAJy+cJDuql0OSRTVKT85rNcpCTeXom+jvHmbDe7W4/jGERwq7Hw4E3jEZ/xR5niqZZhNTE1nJ72ntg4wZ2pvLkjmugOKT4v11VM71RwS4UyjKxqae+y6W5Kb8oP70oecuTinM/Pq2WmJgcQh1u/hSuzBVg5TWRhhNmTz/kd4Q/G2MdmyDVbjDT8Oe/PqgI2nmv9KYXgYmnoa67I5dZCEQtGqSWwKkfvHcDshwWTqLmTxUen2msRVFrnex7mdnGal6PKBi3J8iOqdNTKxgJCmpGWGytmXYwrQi1/zKTXWsuxmRIQbKUlx+0pQ=;WszvNTuMyIQUWlT0725r+A=="
 ---

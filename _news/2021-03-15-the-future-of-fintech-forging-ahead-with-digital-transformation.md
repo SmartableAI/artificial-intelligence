@@ -43,22 +43,6 @@ related:
         width: 457
         height: 283
         isCached: true
-  - title: "Cybersecurity — Friend or Foe for Digital Innovation in Financial Services and Fintech?"
-    excerpt: "By Altaz Valani, Director of Insights Research at Security Compass. The combination of digitisation and innovation has fundamentally changed the outlook for companies within the fintech and financial services sector."
-    publishedDateTime: 2021-03-15T08:15:00Z
-    webUrl: "https://www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/cybersecurity-friend-or-foe-for-digital-innovation-in-financial-services-and-fintech/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 36
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2021/03/Cybersecurity-Friend-or-Foe.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Miami fintech Technisys brings artificial intelligence to digital banking with Kona acquisition"
     excerpt: "Miami financial technology firm Technisys plans to elevate its digital banking platform with its acquisition of Kona, a Uruguay-based company that uses artificial intelligence technology to improve customer experiences."
     publishedDateTime: 2021-03-16T17:24:00Z

@@ -160,6 +160,15 @@ related:
         width: 708
         height: 394
         isCached: true
+  - title: "Facebook shows research into AI wristband with nerve signal controls"
+    excerpt: "Facebook has shown some of its research into new forms of human-computer interaction, including a wristband that can work as the controller of an augmented reality headset. The platform is being developed by Facebook Reality Labs,"
+    publishedDateTime: 2021-03-19T10:17:00Z
+    webUrl: "https://www.telecompaper.com/news/facebook-shows-research-into-ai-wristband-with-nerve-signal-controls--1376558"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "GQe9ly3ibqBHcWI+DMA9aACinOLaJqMI4QHwkIr0rLXmf7Ip/y/0ywVR6l815X5ecm/blALGBsFI55DUDCexzUaLNC/TnDyGmOBScZe5B81zGlIZCXWqkBJDftJhbywImpslF3DwXXYi9nuvCz5DHb0vT+HzZIhFEU8G3SEfYBiwKep0ikAlnf7WsxXW3joQ5aUv8EoGYscGMVJWfsVmHAenLcGWgXY2vqdYGyCmSY2WkqXZp9PfIf3eEGCDyFov57zQ3xDclLBVIWd8/o8RKLZY88bSJAnmY//Gdj+LfQihcIh8jq6EXEQPAGJ0zMLDD7kqeEO8ZwvEPE5lXt1KSRPh6tKOdHS9JB9Mlrrg07M=;CouUc4ReBnDoMiy6q0Rk2Q=="
 ---

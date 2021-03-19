@@ -1,28 +1,35 @@
 ---
 category: news
 title: "ByteDance team to develop AI chips as China aims for self-reliance"
-excerpt: "Chinese search engine giant Baidu has completed a round of financing for its Kunlun AI chip unit, which values the unit at around $2 billion, Reuters reported on Monday Baidu is also considering making the unit a standalone company to commercialise its ..."
-publishedDateTime: 2021-03-16T07:13:00Z
-originalUrl: "https://www.businessinsider.com/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-2021-3"
-webUrl: "https://www.businessinsider.com/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-2021-3"
-ampWebUrl: "https://www.businessinsider.com/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-2021-3?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-2021-3?amp"
+excerpt: "Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company's job postings and a source familiar with the situation."
+publishedDateTime: 2021-03-16T06:13:00Z
+originalUrl: "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7"
+webUrl: "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B80P7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B80P7"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 104
+heat: 104
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
-secured: "zZv2fHFr3fkjLLK4MA1mSY+wkb9gz7QWABbltz24GTAjKkdIgQRCTF+GwUnDLhN1gY2lgyhsPHCUzef0s5d3RwBOGYN04Kry1n6oN9DQnqwmldI8cTRG14MHVGWxRaVgYAWnFuBI7qyhqVk6Oq09cJSLFDWUNFaV+XTau9UkB24zpXKD1TmC3xpAi1sJnJ2o/CT6dlzb7VMaIaQHdoCb9jJDghUxPeRhrrZvnCoU8qJyuJikSSUtv/9iwLYXLbOVk6jsonMGMUdQCB67UOCZD7aZj+4wHHwpfDzbH0Lqt+3tYsx62xKJZcQQws64sBEkAac7erpysbQBiP+qJDWpd3brlAYyBEat0/Lv3ZGX2C4=;NMWYlkkhV+SRobsCqb9KwA=="
+images:
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555034618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0DM"
+    width: 817
+    height: 545
+    isCached: true
+
+secured: "AYk1fftCn0MHLhZVnCe7GvZ0qf1Yy9xzCL3Fs1q6tBfMpwG/5NpMBR/+1ncLSuGk34NJy2nO3iMDWgprjcB/fXG5tERxljNYMiqn+31+qQfzja6a1dbEjJFWQ1aCFgDBy6x1+3DGkzSJtx5Ia4NPRsMTp7YNekDz7eGwWpDorBRsKCd1ymt2yOKTqDR+W5gRntnrCeZCFHEhjwcUfMIGauo7ckxfy4hOZg+8QygFPHXNsyJujBKe2pJ+QtK/OOlmDEAsg0vZ4FoJImJGW79SqPARPF0Yu+3WPGVl8a6ppEVACUg1glbPBI45HgUpd8nS5QoTF+24Mf3YHwh6hI6GyGzXwQ/F1xbgYnGwkS+gf38=;1gTgVo7OFUZLPnhS9ZYbuw=="
 ---
 

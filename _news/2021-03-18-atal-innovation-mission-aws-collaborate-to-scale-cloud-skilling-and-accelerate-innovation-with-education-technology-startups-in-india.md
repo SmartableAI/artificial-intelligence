@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Niti Aayog, AWS partner to train students on cloud computing"
-    excerpt: "Under the program, AWS will introduce the fundamentals of cloud computing such as cloud storage, virtual compute power, web hosting, artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7,000 ATLs in India."
-    publishedDateTime: 2021-03-19T03:09:00Z
-    webUrl: "https://www.hindustantimes.com/education/news/niti-aayog-aws-partner-to-train-students-on-cloud-computing-101616123237391.html"
-    ampWebUrl: "https://www.hindustantimes.com/education/news/niti-aayog-aws-partner-to-train-students-on-cloud-computing-101616123237391-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/news/niti-aayog-aws-partner-to-train-students-on-cloud-computing-101616123237391-amp.html"
+  - title: "Atal Innovation Mission, AWS collaborate to accelerate Ed-tech entrepreneurship"
+    excerpt: "The move will allow ed-tech start-up entrepreneurs and founders in all Atal Incubation Centers operating at higher educational institutions.This program will introduce the fundamentals of cloud computing such as cloud storage,"
+    publishedDateTime: 2021-03-18T15:16:00Z
+    webUrl: "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship-11616080074724.html"
+    ampWebUrl: "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
+      name: Mint
+      domain: livemint.com
+    quality: 55
     images:
-      - url: "https://images.hindustantimes.com/img/2021/03/19/1600x900/planning-pradeep-commission-replacement-delhi-india-aayog_af14ec7a-496c-11eb-b097-bed98ba4ca79_1616123340456.jpg"
-        width: 1600
-        height: 898
+      - url: "https://images.livemint.com/img/2021/03/18/600x338/aws-kMdH--621x414@LiveMint_1616080293599.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Atal Innovation Mission, AWS collaborate to scale cloud skilling, and accelerate innovation with education technology startups in India"
     excerpt: "artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7000 Atal Tinkering Labs (ATLs) in India. AWS will also conduct Faculty Development Programs (FDPs) for the personnel in-charge at the ATLs, and provide ..."
