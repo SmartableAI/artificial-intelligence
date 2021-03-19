@@ -128,6 +128,20 @@ related:
         width: 3000
         height: 1959
         isCached: true
+  - title: "County will fight fire with artificial intelligence"
+    excerpt: "Sonoma County, Calif., officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
+    publishedDateTime: 2021-03-19T10:55:00Z
+    webUrl: "https://www.eenews.net/climatewire/2021/03/19/stories/1063727883"
+    type: article
+    provider:
+      name: E&E
+      domain: eenews.net
+    quality: 37
+    images:
+      - url: "https://www.eenews.net/image_assets/2021/03/image_asset_112297.jpg"
+        width: 938
+        height: 483
+        isCached: true
 
 secured: "FPjtEUwYQtJIS3K6P4M0kSzoeOZOlplrKKyGiEjFY78z2LvKAqE8M61hnhQR3n3s/Zx1hOUPdxOnVw4OLzyR/SxALUkficjlkGwnV+WZMsRPJcyBD7/k6Yk1bMOzC+Vhi98y41ybSIuoILpklW6QugUbGhxI9xkM4+ikDit5yUdeTe7zIk5klmQMru5598UawJ9QTYhHtLXtrfDy5ynh4vhWzev1IUvZ6DqgzRYHkxlqjW0B9LhqAA9aTa3RaOzaINro/uJg6IhPMSzJTmYHAatMxLtB7Rx9Xfn/xLezofRKcosBDnzIk75JJdSdQCKIu6jtiIPZDB4MGYAOQ2xPZhJub+Lj2X9UgvytNvRUm2CJcLH4RM39LaL4MmvKhhKvURfW7kxXwTH/v7TC+AUD3vkziVfKjsyAEf01GjuUyAAAWjoYNBMYH+Pc90s1CoAX5iNBr92rkJNHLozaLiGBHELD3EOcD7DL46j2+xBJk9fJlenVtjeeCI4mK/XxQxAizWvpw+JeOclpYAs0ePvu5w==;+rsyrgpZcNmJEfvT83OSQw=="
 ---

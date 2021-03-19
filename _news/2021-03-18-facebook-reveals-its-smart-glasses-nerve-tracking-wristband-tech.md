@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-t
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://assets.newatlas.com/dims4/default/b97df71/2147483647/strip/true/crop/1620x1080+42+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe0%2F4c%2F229792ed40b0a8de21c235536e69%2Fclick.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Facebook reveals wrist-based hardware for augmented reality"
+    excerpt: "Facebook has unveiled a prototype for a wearable device that can be used as a control for augmented reality systems. The device is still in development at Facebook's Reality Labs (FRL) - formally Oculus Research - and is part of its work to find alternative methods of 'human-computer interaction' (HCI)."
+    publishedDateTime: 2021-03-19T12:54:00Z
+    webUrl: "https://www.itpro.co.uk/technology/augmented-reality-ar/358960/facebook-reveals-wrist-based-hardware-for-augmented-reality"
+    ampWebUrl: "https://www.itpro.co.uk/technology/augmented-reality-ar/358960/facebook-reveals-wrist-based-hardware-for-augmented-reality?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/augmented-reality-ar/358960/facebook-reveals-wrist-based-hardware-for-augmented-reality?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 74
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1616156138/itpro/FacebookARWristControl_FacebookBlog.png"
+        width: 1422
+        height: 796
         isCached: true
   - title: "Facebook Lab Reveals Direction Of AR Smartglasses"
     excerpt: "Facebook Reality Labs (FBL) takes the wraps off pioneering work on the AI and haptics needed for all day every  AR glasses. To have practical use a system a number of"

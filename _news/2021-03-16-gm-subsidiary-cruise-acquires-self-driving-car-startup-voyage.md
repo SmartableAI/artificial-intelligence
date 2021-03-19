@@ -123,6 +123,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jackson doctor duo retiring, self-driving Tesla hits police car: Top Jackson headlines March 13-18"
+    excerpt: "JACKSON, MI – Two long-time OB-GYNs with thousands of successful births to their names are retiring. Here is that headline and some more you might have missed this week. Gary Farhat was delivering a baby in December at Henry Ford Allegiance Health when ..."
+    publishedDateTime: 2021-03-19T13:01:00Z
+    webUrl: "https://www.mlive.com/news/jackson/2021/03/jackson-doctor-duo-retiring-self-driving-tesla-hits-police-car-top-jackson-headlines-march-13-18.html"
+    ampWebUrl: "https://www.mlive.com/news/jackson/2021/03/jackson-doctor-duo-retiring-self-driving-tesla-hits-police-car-top-jackson-headlines-march-13-18.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/jackson/2021/03/jackson-doctor-duo-retiring-self-driving-tesla-hits-police-car-top-jackson-headlines-march-13-18.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 45
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DCKYUI5PKFFZBJILCRHM5GRVDI.JPG"
+        width: 1300
+        height: 867
+        isCached: true
   - title: "Tesla Removes Distracted Drivers From Self-Driving Test"
     excerpt: "Tesla is removing some drivers from its self-driving test because they say they were not paying close enough attention to the road. About 2,000 Tesla owners are a part of the “full self-driving” beta program. It’s not clear how many test drivers were ..."
     publishedDateTime: 2021-03-15T19:55:00Z

@@ -107,6 +107,22 @@ related:
         width: 541
         height: 373
         isCached: true
+  - title: "Jackson doctor duo retiring, self-driving Tesla hits police car: Top Jackson headlines March 13-18"
+    excerpt: "JACKSON, MI – Two long-time OB-GYNs with thousands of successful births to their names are retiring. Here is that headline and some more you might have missed this week. Gary Farhat was delivering a baby in December at Henry Ford Allegiance Health when ..."
+    publishedDateTime: 2021-03-19T13:01:00Z
+    webUrl: "https://www.mlive.com/news/jackson/2021/03/jackson-doctor-duo-retiring-self-driving-tesla-hits-police-car-top-jackson-headlines-march-13-18.html"
+    ampWebUrl: "https://www.mlive.com/news/jackson/2021/03/jackson-doctor-duo-retiring-self-driving-tesla-hits-police-car-top-jackson-headlines-march-13-18.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/jackson/2021/03/jackson-doctor-duo-retiring-self-driving-tesla-hits-police-car-top-jackson-headlines-march-13-18.html?outputType=amp"
+    type: article
+    provider:
+      name: MLive
+      domain: mlive.com
+    quality: 45
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DCKYUI5PKFFZBJILCRHM5GRVDI.JPG"
+        width: 1300
+        height: 867
+        isCached: true
   - title: "GM Subsidiary Cruise Acquires Self-Driving Car Startup Voyage"
     excerpt: "Cruise, a majority-owned subsidiary of General Motors (GM), has scooped up self-driving vehicle startup Voyage, according to a blog post on Monday (March 15). The terms of the deal were not disclosed. “At Voyage, we’ve been laser-focused on delivering ..."
     publishedDateTime: 2021-03-16T00:22:00Z

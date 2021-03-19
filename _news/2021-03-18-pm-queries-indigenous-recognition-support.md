@@ -38,6 +38,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
+  - title: "Recognition of Indigenous Australians and the Constitution"
+    excerpt: "On the eve of the federal election, prime minister John Howard kicked off his campaign at the Wentworth Sofitel Hotel on October 17, 2007 with a speech titled The Right Time: Constitutional Recognition for Indigenous Australians."
+    publishedDateTime: 2021-03-19T13:00:00Z
+    webUrl: "https://www.theaustralian.com.au/inquirer/recognition-of-indigenous-australians-and-the-constitution/news-story/f6cade95b30c85591e287ed74167f225"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "v+xB46GDNy0lkudjnIY2uKoqMHnud68i0WeOv40xs5aMOuK9HLNfQuQP02jQ5eyO0HNswt36mET+ILYay5VCPUK5BfgNIKiyv2gdC1aqoztn582JXKt6gjxRkdUa+9lRGShFM+N7aNdU/1qODQC1zAf4+MKiTSvsTUdycxDJu6shMpJ5FtOwOnKiNbr4l9qvsY5Zs7zphuJ7P+u5g4m/cnC3cOzr0hp26Ys1IIqcQAjdDbyidXdHw4iZoL2buvkHyLorvGiLKu1JlrsGe5WbeygW/Voyf3cEjskFZSJLF6qetk18EAGiebTO5c4Hs2UGJmey8M/5+BEIyUvHU9wNNcdG1uHJjKfy39i1f5kxDYM/kgt/fO6h6IVX+9ot/hlulTg3dGON/RPv7aQWfmVwxd5HzW+svtvkAeqrtRd0WK5rN9j6AlxuXIbwwctjrodScAmYPgqpJ1A/Jd968BB2r5Rm4CNfRDNhZ3fn2tmrngYoyCVju+/50T4PRI29XgjNAOIEOGNjsQxJc/a9jYD9CA==;UZHMvmHqVdkGvkIjn47oGg=="
 ---
