@@ -21,7 +21,7 @@ website: https://nlp.stanford.edu/~manning/
 twitter:
   username: chrmanning
   url: https://twitter.com/chrmanning
-  followers: 79238
+  followers: 79236
 
 googleScholar:
   url: https://scholar.google.com/citations?user=1zmDOdwAAAAJ
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "Christopher D Manning"
 
-secured: "b2ltDPrG4bAJdEnaNQwweOY1qTZfbEIXipiMmZ6ryzLmavMk2uNxG0vx8NHHbEKamwJpxHSO0qQS9reUxvfnaZvbxdZ0NlxbKEg+LWunWymYHN2TRLA/2XXzwKmgen4Cp3cqM7dsUhs3kYlZu79rYqX/ilC8x4jtf8IWz4FqMEujLfS3+dHEw91kwfyEvJGJZvBWBD0t6c+aZSnO40YRjs1QYPB6vG6npefGOb9plWzb1HtkPXS6IdAVo3dtWdyhVAD7Fg61e1khueqPLeeDsFx/vqGaGUsI/mxZSC3HDF4L3bV8WwbLKEZPeIUkp0/Y9s4ujHHCCIsnhcP03ObHpwBFczaHwofmyxUD8s8qz2+MUwwPTsEk8Pb5/VxTBk0i4U1NHGY7GJncbDGB9o6BBmcf4VE5ZrXidjJYw3pkrZ0=;IwjjoH0kfeEb4d4atUEo6g=="
+secured: "FRonQGITO/YupcEaW8GinmN8H2kfyjN0pv3SJ6joUx2GV7JTAUSRGYOGhVdVWzAeoDZ+dzr4ULqHkfT/n8wsBspcPcZEIuaG8hPTxAQjyPuv47hj0CIQoheTnBZ07FsI3okyTOSOXBc48qEJAM/y7PXQBIFk4b0tiTAXPl6KO0M1m5bIhypGGWIgrR/SgJvP7h2mm8qWaXTXJs6tFvuwKXwc66xJ9qZLvJKX6DI8YkzYxTpPvIf6CFbHM98y3Gcmoa12xYop2xs9tUhgi2JkgAypRVIwMyg5wlIh81BvkToKWKeJLj/5FFntsTxvl51XSfQnTQRLAP+dNlpC/QONrJJUxPGo2Xcsc2E23X1VOfT2aEi4RfK9p2gshXQgVWP4pNovRsno9KOBRFV3hAcIGQ8p+yRwLYSEsqV/DuO581U=;JA95WzhEOD7hBNw7ZW1o4A=="
 ---
 
