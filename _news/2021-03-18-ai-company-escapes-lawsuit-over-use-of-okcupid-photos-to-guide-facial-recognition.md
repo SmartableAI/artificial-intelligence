@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LF39D"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF39D"
 type: article
 quality: 79
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -26,9 +26,9 @@ topics:
 
 related:
   - title: "Facial Recognition Co. Dodges Suit Over OkCupid Photos"
-    excerpt: "Law360 (March 17, 2021, 4:51 PM EDT) -- A facial recognition software maker has won dismissal of proposed class claims accusing it of harvesting facial data from OkCupid dating profile photos without obtaining consent from users or making certain ..."
+    excerpt: "A facial recognition software maker has won dismissal of proposed class claims accusing it of harvesting facial data from OkCupid dating profile photos without obtaining consent from users or making certain disclosures required under Illinois' landmark biometric privacy law."
     publishedDateTime: 2021-03-17T21:59:00Z
-    webUrl: "https://www.law360.com/articles/1365826/facial-recognition-co-dodges-suit-over-okcupid-photos"
+    webUrl: "https://www.law360.com/articles/1365826"
     ampWebUrl: "https://www.law360.com/amp/articles/1365826"
     cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1365826"
     type: article
@@ -36,17 +36,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
-  - title: "Lawsuit Challenges Clearview's Use of Scraped Social Media Images for Facial Recognition"
-    excerpt: "Facial recognition technology is getting more sophisticated, more reliable, and more pervasive as the world eases its way toward becoming an all-encompassing surveillance state. That surveillance state doesn't even have to be built;"
-    publishedDateTime: 2021-03-15T13:38:00Z
-    webUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/"
-    ampWebUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reason%2FArticles+%28Reason+Online+-+All+Articles+%28except+Hit+%26+Run+blog%29%29&utm_content=Google+UK&amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/03/15/lawsuit-challenges-clearview-use-of-scraped-social-media-images-for-facial-recognition/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reason%2FArticles+%28Reason+Online+-+All+Articles+%28except+Hit+%26+Run+blog%29%29&utm_content=Google+UK&amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 32
 
 secured: "wliLGkdFPj+cSVI6uG1xPmQVOjvc8BojSVe0cJa9ozFDyc6QgUGXRwGkwZhYb/uLwTEx8EbO7oNOkAuQeWJRSG6EqkfwvWcIgRU4HFIjogKKQu7cTO7sVxlhbqq7u9UmF1Hwaqz0JWW5qJWwuzl3GQGWHY7DBcAvmntqQGjBJpeMBXIHa8LL5BwD8jf5QSY2xF3C30z8H0tErdIdcj7jlArer0f6W3DD6JNBz1menN7IiqiJkwwpqwIHebDzze3J2AlXhhJBhI0FRjS14fUamEetIY0Lo60nw/yxvchkmXB1906qQyhjcHa/0xwJM3leqyCNHmDeXhvyJzDVgrKdWb5DEFtU5joxaE51Id3wAZM=;n46sBBx3P7WMGdt+UBJf5A=="
 ---

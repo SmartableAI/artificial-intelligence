@@ -108,10 +108,10 @@
     {
       "path": "_news/2021-03-17-5-robotics-stocks-on-the-cutting-edge.md",
       "title": "5 Robotics Stocks on the Cutting Edge",
-      "excerpt": "SPAC Revolution Acceleration Acquisition is merging with Berkshire Grey, a developer of artificial intelligence and robotics primarily for e-commerce providers. There are risks. I’ve talked ...",
+      "excerpt": "Robotics stocks seem like a slam-dunk. The trend toward automation has been going on for decades now. Backed by improved artificial intelligence and exponentially greater computing power, it should continue for decades going forward as well.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
+      "webUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17",
+      "originalUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17",
       "featuredContent": null,
       "highlight": null,
       "heat": 94,
@@ -119,23 +119,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
-      "publishedDateTime": "2021-03-17T06:16:00-07:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17?amp",
+      "publishedDateTime": "2021-03-17T06:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -201,7 +192,7 @@
       "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Proven_Arabia_highlights_commitment_to_AI_and_Robotics_Innovation_with_the_launch_of_Proven_Solution-ZAWYA20210317060133/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {

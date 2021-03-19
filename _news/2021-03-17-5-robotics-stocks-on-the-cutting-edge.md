@@ -1,24 +1,20 @@
 ---
 category: news
 title: "5 Robotics Stocks on the Cutting Edge"
-excerpt: "SPAC Revolution Acceleration Acquisition is merging with Berkshire Grey, a developer of artificial intelligence and robotics primarily for e-commerce providers. There are risks. I’ve talked ..."
-publishedDateTime: 2021-03-17T13:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
-webUrl: "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
+excerpt: "Robotics stocks seem like a slam-dunk. The trend toward automation has been going on for decades now. Backed by improved artificial intelligence and exponentially greater computing power, it should continue for decades going forward as well."
+publishedDateTime: 2021-03-17T13:15:00Z
+originalUrl: "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17"
+webUrl: "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17"
+ampWebUrl: "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17?amp"
 type: article
 quality: 84
 heat: 94
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Robotics
@@ -40,6 +36,6 @@ related:
         height: 450
         isCached: true
 
-secured: "eadsEJ4ozAmSfyBl8UENrUysP0jgspMlrlStyu1kpKFSjpHqf8/umknqkM2d+ICPUZekdMC5UM3Yiv3XMiOGYdRcPS9zKeauGcq1nyWOSsF4cLHqR5Qfq38Lid/Sq+hGeY68cI8uwbsV/LT6UZQlvs2i6x5SlxLKMzLBWAbhUyhczz+Tkh90fLCgGbf4Ryv/+SiHypXwgpEWLli1J7b8xjs5eZL6xuoScLlPzeqy3T1GsSyKjiPH2RKnZ/RB2HGUHwV1OFViTI83X0GouOIlrKfLKIxRJg5vghjlQE+GIzhEnPH7NlawIdxjJz0ylU/EgxkPmyN/wKS/gnzaQEEkaQ2a3trAvppmkadhbor71xota01VCISV2ANUidj4hJlteb3fUScPpmS9XEDD4JwzDylk3rkAveT8S1/4m47usI9nbsVOtHR1hv19Mj5DFuNtDyXw9mp7wlql4ZVu3trXCfaQUVO/eNdfcjAl7pprX4Ju3jhZo05221zQzoPZSCXTQt/B4tdxrKD46KarbE9bmg==;XzlmCF2Ajq9qVmAVcV/deA=="
+secured: "ATipZy/VFikVRelbyvc/+LQWNk5lyFiO7e7swG4KX43iWxYvYAZNMepUZyEbVFOafVlVYEXO6p9C+0xVFDzMzpXqlLNIRd408L2kihlsBKJrxIc5t7RXyMkVH8BpwAV56zVEeGs0pElmKCirwKmg5m249mznnU06pM/9gYA6IfmYhtswFXXMT/tnHhmhExzo0yTI81ULUp9SkkiHNLwsgVl7TdwY42eD5j2thmsMgmjwLH6VMt3D3bbvsKfb4JLMEyd9pvyCwqaACwburHZyiU3GaQdBKEEze9HONB576F0odiJ71OPT5DVlboXzqV0qMLhqh3xyVS3Zzu2y/DcGYtXV3nzko5Ob2bTkqE2d5R8=;ArlrwNZaUyuijcTezhxsYg=="
 ---
 

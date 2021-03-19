@@ -22,28 +22,22 @@ topics:
   - Natural Language Processing
 
 related:
-  - title: "AI company escapes lawsuit over use of OKCupid photos to guide facial recognition"
-    excerpt: "An Illinois federal judge has tossed a proposed class action against artificial intelligence company Clarifai Inc over its alleged unlawful use of dating profile images to train facial recognition technology, finding the court lacks jurisdiction."
-    publishedDateTime: 2021-03-17T18:55:00Z
-    webUrl: "https://www.reuters.com/article/dataprivacy-clarifai-idUSL1N2LF39D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LF39D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF39D"
+  - title: "Right-Wing 'Troll' Chuck Johnson Claims He Cofounded Facial Recognition Giant Clearview AI"
+    excerpt: "Clearview AI, the dystopian face recognition company that claims to have amassed a database of… Clearview, which has inspired controversy due to its high-powered facial recognition software ..."
+    publishedDateTime: 2021-03-19T00:29:00Z
+    webUrl: "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909"
+    ampWebUrl: "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909/amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 79
-  - title: "Facial Recognition Co. Dodges Suit Over OkCupid Photos"
-    excerpt: "Law360 (March 17, 2021, 4:51 PM EDT) -- A facial recognition software maker has won dismissal of proposed class claims accusing it of harvesting facial data from OkCupid dating profile photos without obtaining consent from users or making certain ..."
-    publishedDateTime: 2021-03-17T21:59:00Z
-    webUrl: "https://www.law360.com/articles/1365826/facial-recognition-co-dodges-suit-over-okcupid-photos"
-    ampWebUrl: "https://www.law360.com/amp/articles/1365826"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1365826"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 39
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 94
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lue5gnza5ewykbnt979o.png"
+        width: 800
+        height: 463
+        isCached: true
 
 secured: "obApjh8Mz5gJ2MpzlZDLr0IANecnInSW1NMbnb0lyO9APgTHvmoo+/wTAwdxZuOcBnqhKwmMKKYO6DKBKhZS4mNhabBoDJ7p2o3F+oxKWc/GRraniHXO+XqsW1jVMVhgyp/v9dFZCAGjGFzD1XaxthI4UXxq8mJfDSgUWc9dtPN9PchRJ4+Sm0fAf3K7QbCZIAlbVx6TgSOVa4j4HglzC4KBTSkUSDKFsfcgHGa0EGW0ESeQ7BBkO+TvULGP53/P6TMQwaUh5l6jil82AM2vsS4yvEASKirsBqBsiS65/Y7UXGlat3RzeaaBJws+9+Bv6myiv2eg61Bmzv6hs++IqLJQqSMxDvEsfKyIe3/txTSuASaW80eEE7Xy8GRCRswFvJNE+ePcpBsYmHo4xQCi3ypm06KCGB3nuKmyFRme/tRvMQTZBBQigE98teXnYR/j8NyrwWD1qAuanxEcSFuOg/PUotwVs6UtwEEnJs4zaNIwRGyw08Kg+fOPLfKbdTE9bZTvsJzE+mclCqKMhILWcA==;AieXFP84v7j0BLxXOaf+XQ=="
 ---

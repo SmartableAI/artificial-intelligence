@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-l
 webUrl: "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-lender-upstart-billionaire/"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "CEO Of Fintech Lender Upstart Now A Billionaire After Shares Soar 89% In One Day"
+    excerpt: "Fresh off a blockbuster earnings report that shattered Wall Street expectations, shares of AI-enabled fintech lender Upstart Holdings skyrocketed Thursday, minting a new billionaire out of Dave Girouard,"
+    publishedDateTime: 2021-03-18T21:41:00Z
+    webUrl: "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-lender-upstart-billionaire/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6053c8533b896794608942c2%2F0x0.jpg%3FcropX1%3D151%26cropX2%3D838%26cropY1%3D32%26cropY2%3D419"
+        width: 687
+        height: 387
+        isCached: true
   - title: "What Happens When Big Tech Comes for Fintech"
     excerpt: "Perhaps, but I believe several challenges must be addressed as Big Tech is coming for fintech. Looking deeper at the impressive rise of neobanks, you might start asking yourself how their offers and services differ from one another."
     publishedDateTime: 2021-03-15T15:47:00Z

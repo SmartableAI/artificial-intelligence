@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-02-20-artificial-intelligence-worshipping-church-officially-shuts-down.md",
+      "title": "Artificial Intelligence-Worshipping Church Officially Shuts Down",
+      "excerpt": "Remember that artificial intelligence-worshipping church ... from his legal battles over stolen trade secrets within the self-driving car industry. Even though the Way of the Future is gone ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
+      "originalUrl": "https://futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/02/wotf-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
+      "publishedDateTime": "2021-02-19T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology.md",
       "title": "AI in the OR: One company is closing the gaps in surgery using technology",
       "excerpt": "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help.",
@@ -1132,49 +1175,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-the-power-of-artificial-intelligence-ai.md",
-      "title": "The Power of Artificial Intelligence (AI)",
-      "excerpt": "By Aaron Gette, CIO, The Bay Club Company - If you’re an avid fan of HBO's Silicon Valley, as I am, you may have recently downloaded the iOS app",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
-      "originalUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/newsimages/special/7ZAitg5M.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

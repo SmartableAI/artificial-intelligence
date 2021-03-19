@@ -2,6 +2,49 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-02-19-the-power-of-artificial-intelligence-ai.md",
+      "title": "The Power of Artificial Intelligence (AI)",
+      "excerpt": "By Aaron Gette, CIO, The Bay Club Company - If you’re an avid fan of HBO's Silicon Valley, as I am, you may have recently downloaded the iOS app",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
+      "originalUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/7ZAitg5M.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
       "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
       "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
@@ -1109,58 +1152,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-google-has-a-new-responsible-ai-lead.md",
-      "title": "Google has a new responsible AI lead",
-      "excerpt": "Google has appointed Dr. Marian Croak to lead its responsible artificial intelligence division within Google Research, Bloomberg reported earlier today. Croak was previously the vice president of engineering at the company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/",
-      "originalUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192401456.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/",
-      "publishedDateTime": "2021-02-18T11:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

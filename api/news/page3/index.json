@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-16-diversity-and-inclusion-in-ai.md",
+      "title": "Diversity And Inclusion In AI",
+      "excerpt": "With the increasing role that AI plays in business processes, the production of goods and the products themselves, the lack of diversity in AI and the invisibility of people of color will become a cascade of crises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1edc985d888ccd74fb1a81%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/",
+      "publishedDateTime": "2021-03-16T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-amgen-announces-artificial-intelligence-ai-partnership-with-mila.md",
       "title": "Amgen announces Artificial Intelligence (AI) Partnership with Mila",
       "excerpt": "CNW/ - Amgen announced today that it has entered into a multi-year partnership with Mila – Quebec Artificial Intelligence Institute. One of the world's leading biotechnology companies, Amgen uses cutting-edge science and technology to discover and develop innovative therapeutics,",
@@ -1227,57 +1278,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-why-your-ai-must-be-humble.md",
-      "title": "Why Your AI Must Be Humble",
-      "excerpt": "Every manufacturer needs to increase its velocity of information. Currently, manufacturers are experiencing extremely fast changes in consumer demand because trends now change in the blink of an eye.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/",
-      "originalUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f7d1fbcdabc13eac1f9f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/",
-      "publishedDateTime": "2021-03-15T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

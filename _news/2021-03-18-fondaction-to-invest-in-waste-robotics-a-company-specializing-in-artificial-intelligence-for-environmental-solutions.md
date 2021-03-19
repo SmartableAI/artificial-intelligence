@@ -41,6 +41,17 @@ related:
         width: 450
         height: 675
         isCached: true
+  - title: "Proven Arabia strengthens commitment to AI and robotics innovation"
+    excerpt: "As an AI-focused startup, Proven Solution will provide advanced portfolio housing AI, Robotics, Blockchain, Internet of Things (IoT), Augmented Reality and Virtual Reality (AR/VR) technologies. These innovative products and solutions can be customised to ..."
+    publishedDateTime: 2021-03-19T00:12:00Z
+    webUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation"
+    ampWebUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 69
   - title: "Artificial Intelligence and the Art of Culinary Presentation"
     excerpt: "Historic Preservation Program Director Jorge Otero-Pailos introduced Spratt, and commended her work for reimagining cultural heritage through the use of artificial intelligence. “Even if we’re not experts in French cuisine,"
     publishedDateTime: 2021-03-15T13:10:00Z
