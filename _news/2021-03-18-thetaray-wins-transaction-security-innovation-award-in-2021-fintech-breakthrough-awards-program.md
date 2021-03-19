@@ -1,18 +1,18 @@
 ---
 category: news
 title: "ThetaRay Wins \"Transaction Security Innovation Award\" in 2021 FinTech Breakthrough Awards Program"
-excerpt: "technologies and products in the global FinTech market, today announced that ThetaRay, the leading provider of AI-based Big Data analytics for the prevention of financial cybercrime, has been selected as winner of the \"Transaction Security Innovation Award ..."
-publishedDateTime: 2021-03-18T15:27:00Z
-originalUrl: "https://www.lelezard.com/en/news-19707000.html"
-webUrl: "https://www.lelezard.com/en/news-19707000.html"
+excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"
+publishedDateTime: 2021-03-18T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-wins-transaction-security-innovation-award-in-2021-fintech-breakthrough-awards-program/article_b959df81-0972-5bc1-b9f6-3053043a3ef9.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-wins-transaction-security-innovation-award-in-2021-fintech-breakthrough-awards-program/article_b959df81-0972-5bc1-b9f6-3053043a3ef9.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
@@ -20,9 +20,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -120,6 +120,6 @@ related:
       domain: businesswire.com
     quality: 5
 
-secured: "MjkgggoNrCrPTsxPOxeikthaFtWwJIkcHa6o+G0DtIAiBf/0z1ruYGy/ba3eQ7tY2JaqSO3JIwcYGbc+mFFi3RViWgL2wq2nntvoxNGgwhTxLVLbP/UBt83b/sSrG6i1CFGB5HmaNWF9bgVIOZqW5lLDE3Z/P05D2Nc88rENHhdpJ5oBfjn6EExXVo9qyC5ky6gaec+5VQ6pbAOPGFpRNIVpLRvINJhtUa4FpM7xxIPubXYev1AmHZsPWQfztClI/18vHz5QGJgUdNPrdeth/41ENAwIaIASh+MSAdOx/hPJ/cNci7hIJ3DnmNxryAZCxIKFIGYad1vU2RrmioEfoOlacT4h6Dmu8HaXbv9gucE=;tqExAThB1JusGKACPsSoHQ=="
+secured: "HudBLeOMc/D0IlSUIAWxow1wj8B/3U+X9a22b8vNEoam4A2pxcNUJig0dLiqZcFysBDhPdasVoCcl8o4CVoyWn7V3PDJfmchd38yXvbOCHq4W5cvSTaApFb9KQqmUPm5iPVblCmlC9M6w68fTn9p9UDFATOoCD4RCgOTBAKJogOX7Ez0ZDm7B20awqmCX/NSwRr82wSPDry+GwpO6fgEfm94BxF/x7yMfUQgmAt2x9w92jKxSx6gwzTsZpJlwfKNRp5/vA5gsGdwaHVfbVGfj0+SA9G7U8yP1qUQcbRXu+oT66+wL2btwPwPcNGM/FVGBtDWeBvMf1DURdMaf/6mkFdHBzSF6osJ3ULcrjldrRY=;4ErR722+/jKpChb3JL30NQ=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-02-20-ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets.md",
+      "title": "AI Weekly: The challenges of creating open source AI training datasets",
+      "excerpt": "Creating open source AI training datasets is a process that must be undertaken thoughtfully, according to experts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/",
+      "originalUrl": "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/amp/",
+      "publishedDateTime": "2021-02-19T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-google-fires-second-ai-ethics-researcher-following-internal-investigation.md",
       "title": "Google fires second AI ethics researcher following internal investigation",
       "excerpt": "Margaret Mitchell was using an automated script to look through her emails for evidence of discrimination against Timnit Gebru.",
@@ -1137,51 +1188,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-deep-learning-with-tensorflow-certification-training-course.md",
-      "title": "Deep Learning with TensorFlow Certification Training Course",
-      "excerpt": "IgmGuru takes great pride in introducing the well-curated Deep Learning with TensorFlow Course in which industry leaders and academia has been consulted while preparing this course. IgmGuru is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254",
-      "originalUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.speakingtree.in/b/777254-1350-420-5-1613712045/deep-learning-with-tensorflow-certification-training-course-777254.img",
-          "width": 560,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254/m-lite",
-      "cdnAmpWebUrl": "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254/m-lite",
-      "publishedDateTime": "2021-02-19T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Speaking Tree",
-        "domain": "speakingtree.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
       ]
     }
   ],

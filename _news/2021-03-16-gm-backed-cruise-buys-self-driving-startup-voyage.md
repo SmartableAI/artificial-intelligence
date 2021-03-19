@@ -177,6 +177,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FMCSA driverless truck message stokes fear in the workforce"
+    excerpt: "Many truck-focused technology startups are currently piloting varied levels of autonomous driving solutions with fleet and OEM partners, though truly driverless trucks ... interfaces, artificial intelligence, and automated steering and braking."
+    publishedDateTime: 2021-03-19T09:00:00Z
+    webUrl: "https://www.trucker.com/regulations/article/21158365/are-driverless-truck-workforce-fears-warranted"
+    type: article
+    provider:
+      name: Trucker
+      domain: trucker.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/trucker/image/2021/03/16x9/Scharfsinn86_dreamstime_selfdriving_truck_highway.6052069dd112b.605374170780b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Safety concerns determine level of public support for driverless vehicles, finds NTU study"
     excerpt: "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,"
     publishedDateTime: 2021-03-18T14:16:00Z

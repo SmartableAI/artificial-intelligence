@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IFR Names Five Major Robot Trends"
+    excerpt: "According to Bieller, the following trends are driving demand for robotics technology: *Robots learn new tricks. Artificial intelligence software in combination with vision and other sensing systems, allow robots to master difficult tasks, such as bin picking."
+    publishedDateTime: 2021-03-18T18:27:00Z
+    webUrl: "https://www.assemblymag.com/articles/96232-ifr-names-five-major-robot-trends"
+    type: article
+    provider:
+      name: Assembly Mag
+      domain: assemblymag.com
+    quality: 39
+    images:
+      - url: "https://www.assemblymag.com/ext/resources/images/2019/UR/universal-march-2021.jpg?height=635&t=1616092024&width=1200"
+        width: 900
+        height: 550
+        isCached: true
 
 secured: "lBq0MP+ng25gy1UPPlVthvevQpSLFVc5z+UjMpjLjUe+48aQ3PxowpL+UWMPe2xh7OOGeIjxGN4rrKhz1lZth9wlHyUehlKk5CuJZDM6R8uuFO3FqVo85279FcHyDRv0jg99BVJ16BUQHaJyAe0HWRL1QZBV3l1AlMzmUVQIiZHQ2d9W2x2BZgLbm96q5kZzmV3nmaXTVFH3CFa7liz1EBFhLILUZyj8ud153UfgLogUTUJoOajt86zowRhKVJOw8/rOaELLZBxYlCb3QbuU3iqrTpRHiqP/8S/kfy+52EgjwIcu1lsxnHv547AS/wy2jy7O8TVdJR8v++0JfRwilzw7ND/okelD6iQB8IPBOfw=;Y1GQZ/3mtiQREO+dRESwFA=="
 ---

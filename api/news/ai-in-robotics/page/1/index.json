@@ -184,6 +184,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-17-mobile-robot-market-competitive-landscape-forecasts-to-2028-global-industry-growth-share-size-trends.md",
+      "title": "Mobile Robot Market Competitive Landscape Forecasts to 2028: Global Industry Growth, Share, Size, Trends",
+      "excerpt": "The growth of this market can be attributed to the increasing adoption of mobile robots in the manufacturing plants. Adopting intelligent technologies such as artificial intelligence, deep learning, and mobile robotics drives the growth of the mobile robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mobile-robot-market-competitive-landscape-forecasts-to-2028-global-industry-growth-share-size-trends-2021-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/mobile-robot-market-competitive-landscape-forecasts-to-2028-global-industry-growth-share-size-trends-2021-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-proven-arabia-highlights-commitment-to-ai-and-robotics-innovation-with-the-launch-of-proven-solution.md",
       "title": "Proven Arabia highlights commitment to AI and Robotics Innovation with the launch of Proven Solution",
       "excerpt": "Proven Arabia's AI and Robotics centered new tech start-up Proven Solution to help automate business operations for customers in the Middle East and around the globe",
@@ -1375,58 +1427,6 @@
         "name": "City A.M.",
         "domain": "cityam.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ais-impact-on-businessesand-jobs.md",
-      "title": "AI’s Impact on Businesses—and Jobs",
-      "excerpt": "And start the retraining ... What kinds of AI innovation are you seeing? DR. LEE: Well, I’m based in China, and as you know, China’s the world’s factory. So I would say in the past year, the most exciting things I’ve seen are robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ais-impact-on-businessesand-jobs-11615234143",
-      "originalUrl": "https://www.wsj.com/articles/ais-impact-on-businessesand-jobs-11615234143",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-307944/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ais-impact-on-businessesand-jobs-11615234143",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ais-impact-on-businessesand-jobs-11615234143",
-      "publishedDateTime": "2021-03-08T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

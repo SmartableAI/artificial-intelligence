@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-02-21-google-fires-yet-another-ai-ethics-lead-and-weve-gotta-ask-whats-going-on-over-there.md",
+      "title": "Google fires yet another AI ethics lead and we've gotta ask: What's going on over there?",
+      "excerpt": "When it comes to artificial intelligence, it seems that Google and ethics don't mix. The tech giant is back in the news this week after Margaret Mitchell, who until Friday worked as the lead of ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/google-fires-artificial-intelligence-ethicist-margaret-mitchell/",
+      "originalUrl": "https://mashable.com/article/google-fires-artificial-intelligence-ethicist-margaret-mitchell/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F02%252F20%252Fc9%252F70aac65687be46be91cd81d2943d2c2a.6c33c.jpg%252F1200x630.jpg?signature=AjTV6EfwD_9070BnqA7m9XIlB24=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/google-fires-artificial-intelligence-ethicist-margaret-mitchell.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/google-fires-artificial-intelligence-ethicist-margaret-mitchell.amp",
+      "publishedDateTime": "2021-02-20T17:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-google-fires-another-top-researcher-on-its-ai-ethics-team.md",
       "title": "Google Fires Another Top Researcher on Its AI Ethics Team",
       "excerpt": "Google has fired another top artificial intelligence researcher, Margaret Mitchell, in the latest escalation of internal tensions at the company following December’s controversial ouster of Timnit Gebru,",
@@ -1140,57 +1183,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets.md",
-      "title": "AI Weekly: The challenges of creating open source AI training datasets",
-      "excerpt": "Creating open source AI training datasets is a process that must be undertaken thoughtfully, according to experts.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/",
-      "originalUrl": "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/amp/",
-      "publishedDateTime": "2021-02-19T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

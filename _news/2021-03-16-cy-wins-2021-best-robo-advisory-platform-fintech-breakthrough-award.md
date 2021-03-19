@@ -40,18 +40,18 @@ related:
         height: 480
         isCached: true
   - title: "ThetaRay Wins \"Transaction Security Innovation Award\" in 2021 FinTech Breakthrough Awards Program"
-    excerpt: "technologies and products in the global FinTech market, today announced that ThetaRay, the leading provider of AI-based Big Data analytics for the prevention of financial cybercrime, has been selected as winner of the \"Transaction Security Innovation Award ..."
-    publishedDateTime: 2021-03-18T15:27:00Z
-    webUrl: "https://www.lelezard.com/en/news-19707000.html"
+    excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"
+    publishedDateTime: 2021-03-18T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/thetaray-wins-transaction-security-innovation-award-in-2021-fintech-breakthrough-awards-program/article_b959df81-0972-5bc1-b9f6-3053043a3ef9.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 28
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Vesta Named \"Best Financial Transaction Security Company\" in 2021 By FinTech Breakthrough Awards Program"
     excerpt: "has been selected as winner of the \"Best Financial Transaction Security Company\" award in the fifth annual FinTech Breakthrough Awards program. Vesta provides an end-to-end solution using machine learning to detect and avert online fraud, including account ..."

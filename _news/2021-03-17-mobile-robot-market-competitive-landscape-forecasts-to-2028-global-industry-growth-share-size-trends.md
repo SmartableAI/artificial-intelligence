@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/mobile-robot-market-comp
 webUrl: "https://www.marketwatch.com/press-release/mobile-robot-market-competitive-landscape-forecasts-to-2028-global-industry-growth-share-size-trends-2021-03-17"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "IFR Names Five Major Robot Trends"
+    excerpt: "According to Bieller, the following trends are driving demand for robotics technology: *Robots learn new tricks. Artificial intelligence software in combination with vision and other sensing systems, allow robots to master difficult tasks, such as bin picking."
+    publishedDateTime: 2021-03-18T18:27:00Z
+    webUrl: "https://www.assemblymag.com/articles/96232-ifr-names-five-major-robot-trends"
+    type: article
+    provider:
+      name: Assembly Mag
+      domain: assemblymag.com
+    quality: 39
+    images:
+      - url: "https://www.assemblymag.com/ext/resources/images/2019/UR/universal-march-2021.jpg?height=635&t=1616092024&width=1200"
+        width: 900
+        height: 550
+        isCached: true
   - title: "Robotics Market Major Growth Factor – Increasing demand for automation in automotive industry : MarketResearch.Biz Study"
     excerpt: "Robotics technology is widely used in various industries such as electronics, healthcare, artificial intelligence, defense, mechatronics, aerospace, nanotechnology, and automotive and infrastructure. Influence of the Robotics market report ..."
     publishedDateTime: 2021-03-16T08:43:00Z

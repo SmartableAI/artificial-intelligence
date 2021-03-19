@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global 3D Facial Recognition Systems Market 2021 Vital Challenges and Forecast Analysis by 2031"
+    excerpt: "The latest research report provides a complete assessment of the Global 3D Facial Recognition Systems market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
+    publishedDateTime: 2021-03-19T08:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2021-vital-challenges-and-forecast-analysis-by-2031-2021-03-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Cloud Natural Language Processing Market Size, Share, Value, and Competitive Landscape for 2021"
     excerpt: "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.” SHARE YOUR QUERIES:  The report demonstrates detail coverage of Cloud Natural Language Processing industry and main market trends."
     publishedDateTime: 2021-03-17T12:56:00Z

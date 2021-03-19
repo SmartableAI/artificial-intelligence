@@ -44,20 +44,6 @@ related:
         width: 270
         height: 293
         isCached: true
-  - title: "Irish start-up Outmin looks to improve admin using AI and humans"
-    excerpt: "Outmin, a start-up set up by Irish tech veterans Ross Hunt and David Kelleher, has emerged from stealth and is already snapping up clients both locally and outside of Ireland. Founded and quietly launched during the coronavirus pandemic, Outmin claims to ..."
-    publishedDateTime: 2021-03-14T16:00:00Z
-    webUrl: "https://www.irishtimes.com/business/technology/irish-start-up-outmin-looks-to-improve-admin-using-ai-and-humans-1.4509950"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4509948&origw=1440"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "n32USdwl72HVMk8T845oCwejMJtjf7SAKft2s7ZGG2KX7RGg66WSashbRKM4EkOIwX53R5WWKus1HWmlu5o2g+Srum7kJkSfMvyIBdXoMwb+Www5ij9INBuKsWKxdLujwrmC9NPZCKSZ9rulMs88JJRNWBu6hyc6kWUXeibvhn34/EuAAE5q5ZUmbIvDepen+92RMbj/LdOc8yRtYCQmFx3c9dKjxJQuHlqnoLVSuRFGrbAjlhwScid1CRC66TXqVjpS7WSjYqBTu6mnyfZOTSqd+jx4lzlf/4HsbdGd5ryjauYVZgTI7bxNIJ/Qrhxw0VXDH7T2M8PU7y3PMJLnzV2HX+bG9wIvXtZs7pslRNq1P4RpUiBq1eZdFLG/jZ6yYRv82B0QDeXBrqGY63Rpca7HyVdRSBmnGpRuAwq+fUzaSEiOTzE6ifiy5d6wH32YFZ+EPeIZ/ZGLqVVJWpUUr7mc+9lwClCLMq/aNXtkKudqSMXW5ijcVGomHjskfnoGJ+LCQy2gbWHQhNKRBSfrCA==;mH5fUSr/gu+IdAKt1FNAFg=="
 ---

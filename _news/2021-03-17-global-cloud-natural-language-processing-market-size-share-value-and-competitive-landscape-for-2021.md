@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global 3D Facial Recognition Systems Market 2021 Vital Challenges and Forecast Analysis by 2031"
+    excerpt: "The latest research report provides a complete assessment of the Global 3D Facial Recognition Systems market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
+    publishedDateTime: 2021-03-19T08:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2021-vital-challenges-and-forecast-analysis-by-2031-2021-03-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Medical Diagnostics Market Size by Company, Regions, Type and Application, Forecast to 2025"
     excerpt: "The Artificial Intelligence in Medical Diagnostics market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
     publishedDateTime: 2021-03-17T13:20:00Z

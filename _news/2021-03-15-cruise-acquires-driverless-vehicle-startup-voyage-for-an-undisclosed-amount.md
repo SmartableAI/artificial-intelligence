@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -164,6 +164,20 @@ related:
     quality: 39
     images:
       - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/03/16x9/Scharfsinn86_dreamstime_selfdriving_truck_highway.6052069dd112b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "FMCSA driverless truck message stokes fear in the workforce"
+    excerpt: "Many truck-focused technology startups are currently piloting varied levels of autonomous driving solutions with fleet and OEM partners, though truly driverless trucks ... interfaces, artificial intelligence, and automated steering and braking."
+    publishedDateTime: 2021-03-19T09:00:00Z
+    webUrl: "https://www.trucker.com/regulations/article/21158365/are-driverless-truck-workforce-fears-warranted"
+    type: article
+    provider:
+      name: Trucker
+      domain: trucker.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/trucker/image/2021/03/16x9/Scharfsinn86_dreamstime_selfdriving_truck_highway.6052069dd112b.605374170780b.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
         isCached: true

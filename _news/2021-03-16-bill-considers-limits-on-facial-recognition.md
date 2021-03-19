@@ -41,6 +41,20 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "OCBC ATMs to begin offering facial recognition for transactions"
+    excerpt: "Banking customers in Singapore can now use facial recognition at ATMs to check their account balance, with the feature possibly replacing ATM cards in future."
+    publishedDateTime: 2021-03-19T08:09:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/19/ocbc-atms-to-begin-offering-facial-recognition-for-transactions"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/19/1083321.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "4TQAzW9Txd70E64bLHGSBG+EZ0un0PERwQhon1RQK9wBdJrpTNXYjZyzxriGj8p6TtLKRwso+iSMjYjnNz9Gb6+5Traq5ax9C5NC5R/iVC1Qoup79ymt680gvaa7nIaIOPNwSE7Vuv6GendvGMUp4ibIOheodyYcwP+5lORMlTIXrEIdUoNKJgyMfFGYPkl1K+xwlUsOkiw4xDISwlI0OAHnBHieimwjvdi/IR38BaY9ftk2EYtXgTEzIKOIzD7fO0ejcjC4ylF4jzomqTyrzNOC7GIE545RL0sZU3mignli/Qjpic/3eK1SYGC56DOrUjGagFsW4Ei2tL5pOnBlkLLIp9LKyqxaqyGu2T3DAZ++8nlWhZ0zH1myCKIqUScLHfcyDwhgzHKxYm8RJMgbBM9eIv9Bq0vRjmaxoCtgPDlStxkGvyk4cbZD0cJNuLX5EstOHEWkCb/OSfGojKLl+Q3u3FHDCwFoMBgtQZPBTWjrpinr8RMLa2FghlkzGCfKIU2xmIRDxFvbqBrh5yHZSA==;pZYSnVflJ4/1ZayHsJSxUw=="
 ---
