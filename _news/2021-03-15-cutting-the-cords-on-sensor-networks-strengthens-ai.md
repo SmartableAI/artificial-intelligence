@@ -25,15 +25,15 @@ images:
 
 related:
   - title: "5 Robotics Stocks on the Cutting Edge"
-    excerpt: "Robotics stocks seem like a slam-dunk. The trend toward automation has been going on for decades now. Backed by improved artificial intelligence and exponentially greater computing power, it should continue for decades going forward as well."
-    publishedDateTime: 2021-03-17T13:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17?amp"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics stocks seem like a slam-dunk. The trend toward automation has been"
+    publishedDateTime: 2021-03-17T13:16:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 84
 
 secured: "byWLTS6oOGelANaWbVAiCEnLc7xJpVsHUf9Xg2gJ/6i+YVlZaBg7Nsext1SmXP5G4uEZCNoX8aDBOWDr7OB5nL119VNnjmNWT1NadkVMIo1oLIGrnyEBrJgAIEPz8F7LhjJ5EMp/3JjQE2IeacbqVPcmq/BvvF5xICmcT6LwtvbXDMIsIWwP3zuwURiZiErtPxTj78ygDUfNaKcjnicopzTy0c//1d84dDJYw3Evu8/8okMf433+aEEsLJGy4cqp/PRw9k6yWEaTzu1QvQhrMd2zhXBt7sJy2cu0l3PxDnrhVFb/ldqvEww+3Wefra7kjSQikneUme6efXRdSLCf8f71zkBKMwW4DkpQFTZrOSY=;mCHDazn0kMMaVd2/Pgg5fw=="

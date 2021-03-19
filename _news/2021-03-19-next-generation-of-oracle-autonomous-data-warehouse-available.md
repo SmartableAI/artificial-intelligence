@@ -1,36 +1,46 @@
 ---
 category: news
-title: "For Oracle's updated Autonomous Data Warehouse, no SQL needed"
-excerpt: "With drag-and-drop UIs and AutoML capabilities, the simplified data warehousing tool is designed to be accessible to data analysts and business users."
-publishedDateTime: 2021-03-17T15:00:00Z
-originalUrl: "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
-webUrl: "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
+title: "Next Generation of Oracle Autonomous Data Warehouse Available"
+excerpt: "Oracle announced a set of innovative enhancements to Oracle Autonomous Data Warehouse, the industry’s first and only self-driving cloud data warehouse. With this latest release, Oracle goes beyond other cloud offerings by completely transforming cloud data warehousing from a complex ecosystem of products,"
+publishedDateTime: 2021-03-19T03:43:00Z
+originalUrl: "https://www.oracle.com/news/announcement/oracle-adds-innovations-to-cloud-data-warehouse-031721.html"
+webUrl: "https://www.oracle.com/news/announcement/oracle-adds-innovations-to-cloud-data-warehouse-031721.html"
 type: article
-quality: 74
-heat: 154
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Oracle
+  domain: oracle.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.zdnet.com/a/hub/i/2021/03/17/f1545472-64c8-47b8-8ed7-6303beeafde8/adw-oracledatabaseactions-dataload.png"
-    width: 1800
-    height: 1125
+  - url: "https://www.oracle.com/oce/press/assets/CONT7DBD9D41E0A745028AEEB3FDBAA43DF0/native/og-social-adw.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "For Oracle's updated Autonomous Data Warehouse, no SQL needed"
+    excerpt: "With drag-and-drop UIs and AutoML capabilities, the simplified data warehousing tool is designed to be accessible to data analysts and business users."
+    publishedDateTime: 2021-03-17T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 74
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/17/f1545472-64c8-47b8-8ed7-6303beeafde8/adw-oracledatabaseactions-dataload.png"
+        width: 1800
+        height: 1125
+        isCached: true
   - title: "Oracle updates cloud data warehouse to boost access for data analysts"
     excerpt: "along with providing a set of tools for preparing data and building machine learning models guided by AutoML, a set of open methods and processes for building AI models. Other capabilities that ..."
     publishedDateTime: 2021-03-17T15:01:00Z
@@ -107,20 +117,6 @@ related:
         width: 2700
         height: 1414
         isCached: true
-  - title: "Next Generation of Oracle Autonomous Data Warehouse Available"
-    excerpt: "Oracle announced a set of innovative enhancements to Oracle Autonomous Data Warehouse, the industry’s first and only self-driving cloud data warehouse. With this latest release, Oracle goes beyond other cloud offerings by completely transforming cloud data warehousing from a complex ecosystem of products,"
-    publishedDateTime: 2021-03-19T03:43:00Z
-    webUrl: "https://www.oracle.com/news/announcement/oracle-adds-innovations-to-cloud-data-warehouse-031721.html"
-    type: article
-    provider:
-      name: Oracle
-      domain: oracle.com
-    quality: 39
-    images:
-      - url: "https://www.oracle.com/oce/press/assets/CONT7DBD9D41E0A745028AEEB3FDBAA43DF0/native/og-social-adw.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Oracle Autonomous Data Warehouse release brings machine learning to the masses"
     excerpt: "Database giant Oracle Corp. announced a new release of its cloud-based Autonomous Data Warehouse service today, adding new capabilities that analysts say will help democratize machine learning. Overall,"
     publishedDateTime: 2021-03-17T15:00:00Z
@@ -150,6 +146,6 @@ related:
         height: 333
         isCached: true
 
-secured: "/8KPhGrCeyMyCjwmQFJk4LnGOmT/c0yKozoyShXh2LOKqp9DeCEUlKQxsQ7Parr34jdjz25TXrjAPKwWvBYr5uDltuAQ5SPWqQe6rPQtw1HD/vbQLWttfHSFdOi6hgrcKXOIZrsoeVVh3lLkBwWCNcP3CwDvmjy9/UvByUwnCTfsEYM/4eUlpfCwY33aIRC/+IJKOp529Q3ET2g/AhWv4l3/ENINm0QktFaj+AxC3N0DHaA8ZN9P1aZ60kOfjrioYLg4IOrD5Wlme7/AWvQtoDy/L3TEo5ejpItHvCM+/GkCTphYhI6DxX931M+c/itWPXRSadfCEU5QITwWpBSwGfEbOq8hfnlbtHn9rVKVqEw=;FWZpZwBsoSuLclSWoYalnA=="
+secured: "uX2d8jKKFY19Cd1o3PHDiaECahzAvZ3Umk/x/u9gGJeO7PZNTK16NN3BHNjCyK/93I8iyKXp0CsYt5mFRjhQTYUblCfj+lfzojaLT1mxFDmP8SHZmMh+WHrWQ5GsWcssWHOjQYsPTKCutuUGlesbxs4DtxbsjAROiUf2fI0O9hHFVk0qbQwJFRoHA7g2qYrYHgwolXhxJWJzQVRzQUTn1CaC/F60vILSKK63n4dCqMmBrsP74t3iGVmVuk/NwknnzYP3IFfDL6AgObIdbvi8+KXeFjo/A+8NI23xX9fd6X3MlQq23WLAKcAsePH73MVVyXBVhC1N52ERR4/QmUVlDHU7nZyP1pq9JQyrgAdxAKg=;tndRtSz63C15Wej62kdFkA=="
 ---
 

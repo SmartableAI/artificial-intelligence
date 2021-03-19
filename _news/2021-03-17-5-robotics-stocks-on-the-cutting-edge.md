@@ -1,20 +1,24 @@
 ---
 category: news
 title: "5 Robotics Stocks on the Cutting Edge"
-excerpt: "Robotics stocks seem like a slam-dunk. The trend toward automation has been going on for decades now. Backed by improved artificial intelligence and exponentially greater computing power, it should continue for decades going forward as well."
-publishedDateTime: 2021-03-17T13:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17"
-webUrl: "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17"
-ampWebUrl: "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17?amp"
+excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics stocks seem like a slam-dunk. The trend toward automation has been"
+publishedDateTime: 2021-03-17T13:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
+webUrl: "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632"
 type: article
 quality: 84
 heat: 94
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -36,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ATipZy/VFikVRelbyvc/+LQWNk5lyFiO7e7swG4KX43iWxYvYAZNMepUZyEbVFOafVlVYEXO6p9C+0xVFDzMzpXqlLNIRd408L2kihlsBKJrxIc5t7RXyMkVH8BpwAV56zVEeGs0pElmKCirwKmg5m249mznnU06pM/9gYA6IfmYhtswFXXMT/tnHhmhExzo0yTI81ULUp9SkkiHNLwsgVl7TdwY42eD5j2thmsMgmjwLH6VMt3D3bbvsKfb4JLMEyd9pvyCwqaACwburHZyiU3GaQdBKEEze9HONB576F0odiJ71OPT5DVlboXzqV0qMLhqh3xyVS3Zzu2y/DcGYtXV3nzko5Ob2bTkqE2d5R8=;ArlrwNZaUyuijcTezhxsYg=="
+secured: "rLgMni+KM7cyt7x22fazArUuAVl3gcGHyc5JMkMSNqBTcYVDS49nyW3vbnUeAeauGCOTXCPnJhajK7+vRlV0aIUf/EQlcMvqSEu2RcWcDAJ+eTRghDKrOQ9YxisvyuDKhbRIk/eu3BB6slJgT6OTtZVQmtSngR9dSfNHgDzm5mPfJq9uBACa7kG5DhxxxYiFnBnXR+ygoxsgy6azgTYNtDiyWNYY0nZ22wfJSHHwO4XiTCVZIXB0lUEW1s9BjoRNrbKeloPon8vd+HKplr1SMTX8Ne144lnVwkQ4EXtLQR7/9vPA8xnmhhpxq3xuDAy7qGebvTO/9ICKzCHVDg/BnhT928W7cKYDERa8FruBnwt8okvnOLQgjSyDmtXqeQc4URH+alzTziVDnh5f5+PNJzJGoGxVB5C0Ms74658BAKDS7E1YP+iwiUn4IPunWedDkE5lGNVN1mx4dL01WpgaCD4FuF9VQYGcPf69Ji26Xaiak9+f05MO0OwWiiMuRL0ZbFPt8XlfjbdoNvcQuqhXoA==;aKSw0pyx2RFR/ABnWSwIww=="
 ---
 

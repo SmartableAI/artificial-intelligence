@@ -10,7 +10,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T06:03:00-07:00",
+      "publishedDateTime": "2021-03-16T06:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -49,9 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "Natural Language Processing",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {

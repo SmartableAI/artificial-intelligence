@@ -107,6 +107,20 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "Next Generation of Oracle Autonomous Data Warehouse Available"
+    excerpt: "Oracle announced a set of innovative enhancements to Oracle Autonomous Data Warehouse, the industry’s first and only self-driving cloud data warehouse. With this latest release, Oracle goes beyond other cloud offerings by completely transforming cloud data warehousing from a complex ecosystem of products,"
+    publishedDateTime: 2021-03-19T03:43:00Z
+    webUrl: "https://www.oracle.com/news/announcement/oracle-adds-innovations-to-cloud-data-warehouse-031721.html"
+    type: article
+    provider:
+      name: Oracle
+      domain: oracle.com
+    quality: 39
+    images:
+      - url: "https://www.oracle.com/oce/press/assets/CONT7DBD9D41E0A745028AEEB3FDBAA43DF0/native/og-social-adw.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Oracle Autonomous Data Warehouse release brings machine learning to the masses"
     excerpt: "Database giant Oracle Corp. announced a new release of its cloud-based Autonomous Data Warehouse service today, adding new capabilities that analysts say will help democratize machine learning. Overall,"
     publishedDateTime: 2021-03-17T15:00:00Z

@@ -1,34 +1,44 @@
 ---
 category: news
-title: "AI and X-rays: Identifying the many faces of COVID-19"
-excerpt: "A digital diagnostic tool that uses artificial intelligence and cloud computing to accurately read vast numbers of chest X-rays – faster than a radiologist can – is helping doctors identify, triage and monitor COVID-19 patients."
-publishedDateTime: 2021-03-16T08:08:00Z
-originalUrl: "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying-the-many-faces-of-covid-19/"
-webUrl: "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying-the-many-faces-of-covid-19/"
+title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
+excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
+publishedDateTime: 2021-03-18T18:33:00Z
+originalUrl: "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
+webUrl: "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
 type: article
-quality: 89
-heat: 129
-published: true
+quality: 38
+heat: -1
+published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Forbes India
+  domain: forbesindia.com
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/02/Lunit_main-REsize-1600x1052.jpg"
-    width: 1600
-    height: 1052
+  - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/03/Vaccination_AI_b.jpg"
+    width: 900
+    height: 600
     isCached: true
 
 related:
+  - title: "AI and X-rays: Identifying the many faces of COVID-19"
+    excerpt: "A digital diagnostic tool that uses artificial intelligence and cloud computing to accurately read vast numbers of chest X-rays – faster than a radiologist can – is helping doctors identify, triage and monitor COVID-19 patients."
+    publishedDateTime: 2021-03-16T08:08:00Z
+    webUrl: "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying-the-many-faces-of-covid-19/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 89
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/02/Lunit_main-REsize-1600x1052.jpg"
+        width: 1600
+        height: 1052
+        isCached: true
   - title: "Global AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Analysis"
     excerpt: "Dublin, March 15, Mar 15, 2021 (GLOBE NEWSWIRE via COMTEX) -- Dublin, March 15, 2021 (GLOBE NEWSWIRE) -- The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ..."
     publishedDateTime: 2021-03-15T19:48:00Z
@@ -59,20 +69,6 @@ related:
         width: 5878
         height: 3927
         isCached: true
-  - title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
-    excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
-    publishedDateTime: 2021-03-18T18:33:00Z
-    webUrl: "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 38
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/03/Vaccination_AI_b.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "AI, COVID-19 and the long haul"
     excerpt: "It has been a little over a year since a worldwide COVID-19 pandemic was declared. Science has moved fast to fight the virus but preparations need to be underway for fighting future outbreaks."
     publishedDateTime: 2021-03-18T18:15:00Z
@@ -83,6 +79,6 @@ related:
       domain: nature.com
     quality: 17
 
-secured: "93xjRvs/jVUlceU2cns/dtKlWkyFCVe63aiSEdBcqPRNTd2dCSImW24GJm7/r9xcL335Ry1e8ozSZFsYBmS2hR+FRW+lXbC9tgEQnYnoxtrHvKs5AA8D2DQNPIXwbzAh24UcB/b22v1nHAD5MoBPmjIYS2S8bpK1Q5zibRYiHFTLdb+IpUzDgTWw1TU+6DPa1u5UUYBrlwFWwBmd2YFJlu6OmgOvfGwDrFJByVDmM5hVJMdF+Isr5H/GYWyH85Ah+rHVEcjg/6XHRa2JK7G0EmsicObki+yv/py+1TIieGjieemD4iwE5V1BqoyaopDgJm192borLKyA+ma8QEYIEh4sGn1vXuufPpKkKntS49L3AIYyfhqQhoGqC2Tcf8kqcNLTTnpUyoRqbL9Ew7e1+RkKtdD6vLWnWTlHCOsOb0tLWJeRg2x8B9j7cxqLpvyFVTj8mE5UuSqGDioqNfZXAntMLFTX2aK68kjtDoRoK9hCCzbxo/SKJIXm5B3HnDL5v4OCr3mDh5AWkgfW22C3gtsQ8fBv3nM3GKMTTTtZBIM=;gK1VP/mnFeSt8HT/172o3Q=="
+secured: "CmVRWrxxcDM6IDoyMeorZ5hkdEmfsnN9MSKY/meCtRzyZ7MzJpOCAXOgca5XqYXk59OnlDZDjhOEcEbdpX6cUCsxi+Kqx2/JrT4xJwptO9LAvO5M+1j9klxMFA56/WYxJ7yFdGBtYFnstjxKConk5l9riYj+0u2JoZ2ev4UnHS1OSlTFYsLCfeiY+puqkqjqJ6zj60ERX/RZ5whA0kV1RxiY7hv6D7tMT1Kt3vml4xyIruAhDvGHwALnlxwxsVdakTNlonIyx+1hb0WRERlp6JLDzzOS7Q5xuRL91iVCqW+kbUcpV1MHoESurIlDj4QMQmLeFOT+LlMzgPSg9CHMNzF/XAI3ACZj1e6ckBVJ+io=;EJOjL1FbJOBVvzNdfq6s5w=="
 ---
 

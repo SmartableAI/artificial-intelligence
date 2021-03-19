@@ -9,7 +9,7 @@ ampWebUrl: "https://fox40.com/news/california-connection/sonoma-county-to-add-ar
 cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/amp/"
 type: article
 quality: 57
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "California county to add artificial intelligence for fires"
+    excerpt: "SAN FRANCISCO (AP) — Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county’s network of wildfire detection cameras ..."
+    publishedDateTime: 2021-03-17T20:34:00Z
+    webUrl: "https://apnews.com/bf220a3dd2704815138d40dd3aa37db2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/10718d1c2ef04a87873c930e52387856/3000.jpeg"
+        width: 3000
+        height: 1959
         isCached: true
   - title: "California county to add artificial intelligence for fires | Raleigh News & Observer"
     excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
