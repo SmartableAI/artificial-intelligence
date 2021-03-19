@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Online learning platform about COVID-19 pandemic aids frontline workers, educates the public"
+    excerpt: "When the COVID-19 pandemic forced medical students out of classrooms and clinical rotations this time last year, the state of Georgia's only public medical school had to quickly rethink its traditional curriculum."
+    publishedDateTime: 2021-03-19T05:29:00Z
+    webUrl: "https://www.news-medical.net/news/20210319/Online-learning-platform-about-COVID-19-pandemic-aids-frontline-workers-educates-the-public.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210319/Online-learning-platform-about-COVID-19-pandemic-aids-frontline-workers-educates-the-public.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210319/Online-learning-platform-about-COVID-19-pandemic-aids-frontline-workers-educates-the-public.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 48
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Machine learning system predicts severe COVID-19"
     excerpt: "An advanced machine learning system can accurately predict the risk of a patient's COVID-19 advancing to severe disease or death, say researchers."
     publishedDateTime: 2021-03-15T17:36:00Z
@@ -53,15 +69,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Scandit's Mobile Computer Vision Software Offered Free to Support COVID-19 Vaccine Program"
-    excerpt: "Scandit collaborates with Epic to offer free licenses to new Epic Rover users in the drive to scale-up mass vaccinations across the U.S. ZURICH--(BUSINESS WIRE)--Scandit, the leading enterprise technology platform for mobile computer vision and augmented ..."
-    publishedDateTime: 2021-03-15T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210315005098/en/Scandits-Mobile-Computer-Vision-Software-Offered-Free-to-Support-COVID-19-Vaccine-Program"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 9
 
 secured: "e+va4wykE5Hb8TEhdx/LENccDGE8sClUceHUZ5+xltooAZV19HNn/F8aU1S8YDTt1UwV2f+w7851qMQd1kWtvCYVevSUU+ELWJHLoRRYthxnmHwupp3eXpdFXcAVNTDR8PTxquK9vEnophvAp/aDEUPWmKudOFx1gK+wpj05JQlI2SckdqIZ26bayHZRu1nZXbZfCRbi/CLYc3oTY38XJA+/5Y7pJvQhvA0ZVBbmXAKA073OUDXM9wnGUZwIDjsyul4CoRWGSy9nsS9lIIgEe8r8etgFuoYoMn4yjT8VTc+ZdP/Jb7kGgHG8t6YYbkrMa/zwbo7DfDjzBa5ZKNOUcztE43IejPvrLhKDc9NNhuY=;PAibFysrnVCS285NDr3S+w=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Examining the bias in artificial intelligence..."
 excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
 publishedDateTime: 2021-03-18T23:57:00Z
-originalUrl: "https://www.cbsnews.com/live/video/20210318234319-examining-the-bias-in-artificial-intelligence/"
-webUrl: "https://www.cbsnews.com/live/video/20210318234319-examining-the-bias-in-artificial-intelligence/"
+originalUrl: "https://www.cbsnews.com/live/video/20210319004343-examining-the-bias-in-artificial-intelligence/"
+webUrl: "https://www.cbsnews.com/live/video/20210319004343-examining-the-bias-in-artificial-intelligence/"
 type: article
 quality: 37
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://images-cbsn.cbsnews.com/prod/2021/03/18/story_09502212_1616111464.jpg"
+  - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09502308_1616115124.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "JlH3+KPOQTo42+xzZ+hJhmCY6QQG3MxYc2PwbGB6/vHs3Nhs0Mu4Gc4gLHwh3q0018Qu5KiwVKOqda4NtXPO01xySzcovWuEPx4mSc8sOFVO312sCsW4A3//YicJBzY9/AgJCJgWND4D1yGK58gfBY2d61lq4HN6o1xoqc2uBg341f+Im/LzwJGkBtkDNiosQy20ONZr1x319onDX70s67VauD9O6gxs9bdU5HRG2sQpdEBLXjoFsOQs5E3jMYFcFeyQrYy3a8i07mos+hCmrk9EVEQ1yt48qqJlHGDF80Tti3UZkwhac6EiOPe50wcCycgVZS96VOTPXVcP6RK1V8Mj2fgRuxm2P1K/DHUEyXY=;429tRYfv/UKVPzqpQagRsw=="
+secured: "BDcaFwicrOqTQNaYzhhb4NA3R8p8iNxZL/54OwGrtPF0cdDCCl8Lmd7eunDLlyusvGAvgJtPCEVhRoiOMZSILGCXQrh4gwC/qSTmVFCZGPYW0yp/MHA3/DYI7zicJ2paWy4+T4YvTZQkSoMwEBsM7raORtoGoUcujFtC2OPe4f0ktVJru00PTOc5UQCTwH3/kmp/4g4bm3PnH0tJW6zDesu/qT7nSWLcLGIh4u9y9AgQnFuL+CxTH1NdODlpuoSX5en3o53y2UTEkW4SpIC5cLlSdeiaynCV6nA7p1uZLGRNbz4UoGlsWkzhWfFgY8y4udP8YGYUkIn6cU29MA2ndk9IF1cblONdsWy8kobtGa0=;P/5XdYYXikVLy9AxM0X5/A=="
 ---
 
