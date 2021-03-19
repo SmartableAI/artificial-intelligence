@@ -2,7 +2,7 @@
 name: "Trint"
 overview: "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com"
 type: "profile"
-heat: 57
+heat: 64
 
 website: https://www.trint.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "trinthq"
   url: "https://twitter.com/trinthq"
-  followers: 1873
+  followers: 1875
 
 size: 11-50 employees
 yearFounded: 2014
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=CP-0vxaBKbo"
 
-secured: "D5yLUskJ7tpOOCSl3wgP8xsYiU590e86vlk+lNXF5GopPeQPxjXFPYHRzIq3elJelYVeRa/RFiX0HqmtZNuPq47iFVzs2SYaPj6IeGugqOClMP9lAyH6f+yWmGtT2A8RLKuKzdhJ9zb+h9UPx5ImiPOzmYxqOWBOljL0VFO1/EUE3lYIw26L4rprOI+plqZdDZurAmJYq/k3/D3krujMQTty7oQUUZRa8T2lGEi/92K/dz6YUoTyWa+JsiueLHF2SSA3SZg7oirTqPVuCVEksfJYGUmofZx/HVx7ZQtEOvDMROGB/OTsF4+/lqH79pY6q2PU3d03ItPpoVz6RZLxopsOaQS4aWF6T3YfxtONYCrnOYIZ5Epwrr52lcWBOOuen1qfuBWdX5oB92bkqejNJGR17IutQ/AYnN5jD7qYyDE=;F4phBI6o11tTk+bCnD3o+g=="
+secured: "hseozhIvRYieNzi/0IACVRa82GrFm+aDa/5S2Ql6Yul1uE0TUASmNQgsg0HUpR8zs1FRwZnzRxeeCguClhnThh5b4tR2djX4zWCWglAXtDd3BkRzs5dvPDgGcFwyxYJuVQ20IrThfNdODE4pTLsvss7l4i+lPdMPE+G8nZNA33unN49K5u2+DCz4FlvCr38sTNlFOcuiyPVaZ+tzWq3+KuFTJGAnAPEIUmOTMfh6Eww3DyiymjBLS29+0jkOXrvxj9F1QDLvPJTXQB77pbpaj+Nq8afQVKitngkWQzLonl93erP1s/1ujdE1UsH7YyN9Al5bruMWSmxiuDKGxnO276KuYKg60voiRpwUqB5nV86EPAweyBrUxxv3SasjCNJTq1AwtQbR6GYk+7aHXui/lZiAl3ATJ05usGFveOeOWoc=;lcwgizy20AGHaMR1oIgamQ=="
 ---
 
