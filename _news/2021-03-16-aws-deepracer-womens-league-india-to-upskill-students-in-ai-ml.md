@@ -1,20 +1,20 @@
 ---
 category: news
 title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
-excerpt: "New Delhi: In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021. The programme will allow participants to build ML models for ..."
-publishedDateTime: 2021-03-16T08:11:00Z
-originalUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
-webUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
-ampWebUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
+excerpt: "New Delhi, March 15 (IANS) In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens ..."
+publishedDateTime: 2021-03-15T22:05:00Z
+originalUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
+webUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
+ampWebUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
+cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
 type: article
 quality: 123
-heat: -1
-published: false
+heat: 153
+published: true
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AWS AI
@@ -23,28 +23,12 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.sify.com/uploads/awswiki1-sjxop2edjeaig.jpg"
-    width: 650
-    height: 400
+  - url: "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg"
+    width: 400
+    height: 300
     isCached: true
 
 related:
-  - title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
-    excerpt: "Bigg Boss 14 couple Jasmin Bhasin and Aly Goni recently stepped out for a dinner date in Mumbai. The couple was joined by none other than Rahul Vaidya and Disha Parmar. Mumbai, March 16 (IANS ..."
-    publishedDateTime: 2021-03-15T16:39:00Z
-    webUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
-    ampWebUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
-    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 123
-    images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "AWS launches DeepRacer Women’s League for female students to learn machine learning"
     excerpt: "Participants can leverage AWS machine learning and AWS DeepRacer course modules and several enablement sessions planned during the event."
     publishedDateTime: 2021-03-16T03:30:00Z
@@ -61,6 +45,15 @@ related:
         width: 625
         height: 294
         isCached: true
+  - title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
+    excerpt: "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021. The programme ..."
+    publishedDateTime: 2021-03-15T15:57:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210315/3723950.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 83
   - title: "AWS launches DeepRacer Women’s League to promote upskilling, diversity & inclusion in AI"
     excerpt: "AWS has launched an initiative called the AWS DeepRacer Women’s League- India 2021, to bring together women students to learn machine learning through a cloud"
     publishedDateTime: 2021-03-16T08:12:00Z
@@ -76,6 +69,6 @@ related:
         height: 1623
         isCached: true
 
-secured: "ImckuUP897tcWIMCVYzQPX+GrWUi8PE/ma81NBbPmcAFMeZMJdCOYMaB9YPU7oOu70H+K+JRGTnLlNkPEuV0d+mKbkBo05ns1Xp405T6DvKWtGH5D2jq/wsfWXMxhI1dpgPXlb19PaokYZkDmRxHGhqAt6BkXdMtdr1swVGbqxtIPu+OrVUfufyHiMhj2T7IkM4PlR7VsEcbJPfU2998QJ2abmStXryQVcaIv0GRd4Q/N9q8EXYQovE3Dq+F7x0xNdz84jL9vLL5pjHd59w+DkYbVFTPWLy9nJZDFm/haoWXPoqN4UgW2+o1uYLBFwP8BuQzDB+DJuZjdS0p4NvxyGVIQJ8zUsaAkh5UY6TRnOA=;A3hGJINwD6JZ6aK/6H6Efg=="
+secured: "9Mt6CFRt1VnYoMFo1MizVvv9V2EbTlgtz6WK106L5mbao/8902r6XF6U8T8swz7MC9gOMYa+TbBstXqyFxUEb5Irh09cXSaQez5KqTgGvd5qd2XhuUr+p37uN1AV+/YVjcL0x7Y1OjoGJcqu2Y6Knmb2f0UhscXuSciSXDWNHNgsIZ0ebnrGRZKLA29CwM2oelYgjheDAkdJFOQOB0YsqgBoVk2WyQzAR4p2f0xxexHl7VmhWNAsfY0CBfLx/u9pBhylEfb+gEa59aDpQ3mQEm6McjWaLk+WHgHorXeOSKqdrc4eBUf8+HfcdMrUhyhvnZxYpsRcpSCOmOAhkktzS2/pstcHXbx78kJGIp+ryhM=;fCY51cIBNUInoM+ePl5H2Q=="
 ---
 

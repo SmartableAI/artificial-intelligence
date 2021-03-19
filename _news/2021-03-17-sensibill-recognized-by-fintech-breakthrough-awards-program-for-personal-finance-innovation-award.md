@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Bluefin Recognized for Payments Security Innovation in 2021 FinTech Breakthrough Awards Program"
-    excerpt: "The FinTech Breakthrough Awards is the premier awards program founded ... Ontrak, Inc (\"Ontrak\" or the \"Company\"), a leading AI-powered and telehealth-enabled, virtualized healthcare company, today announced the appointment of CVS Health Executive Vice ..."
-    publishedDateTime: 2021-03-16T12:50:00Z
-    webUrl: "https://www.lelezard.com/en/news-19701189.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "ThetaRay Wins \"Transaction Security Innovation Award\" in 2021 FinTech Breakthrough Awards Program"
     excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"
     publishedDateTime: 2021-03-18T15:00:00Z
@@ -60,48 +46,6 @@ related:
       - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
         width: 580
         height: 339
-        isCached: true
-  - title: "Vesta Named \"Best Financial Transaction Security Company\" in 2021 By FinTech Breakthrough Awards Program"
-    excerpt: "has been selected as winner of the \"Best Financial Transaction Security Company\" award in the fifth annual FinTech Breakthrough Awards program. Vesta provides an end-to-end solution using machine learning to detect and avert online fraud, including account ..."
-    publishedDateTime: 2021-03-16T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vesta-named-best-financial-transaction-security-company-in-2021-by-fintech-breakthrough-awards-program/article_cc41f8f3-6152-5502-b45b-ad758e9ae16b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "PayNearMe Named \"Best Consumer Payment Platform\" 2 Years Running by FinTech Breakthrough"
-    excerpt: "PayNearMe, the modern and reliable payments platform known for making payments easy for both businesses and customers, has been named \"Best Consumer Payment Platform\" for the second year in a row by FinTech Breakthrough,"
-    publishedDateTime: 2021-03-17T12:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19703755.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 15
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "FinTech Breakthrough Honors Standout FinTech Companies and Solutions in 2021 Awards Program"
-    excerpt: "FinTech Breakthrough, a leading market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced the winners of the organization’s fifth annual awards program,"
-    publishedDateTime: 2021-03-16T12:14:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-consumer-banking-financial-services-0c8b38d7121d6ae4b2ee080e2000c14d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Stampli Named \"Best Accounts Payable Solution\" in 2021 FinTech Breakthrough Awards Program"
     excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"

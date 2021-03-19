@@ -69,6 +69,34 @@ related:
         width: 5878
         height: 3927
         isCached: true
+  - title: "Artificial intelligence used to identify unique COVID-19 patterns in lungs"
+    excerpt: "The artificial neural network developed by Lawson Health Research Institute can detect COVID-19 patterns in lung scans that are not visible to the human eye."
+    publishedDateTime: 2021-03-19T14:52:00Z
+    webUrl: "https://blackburnnews.com/london/london-news/2021/03/19/artificial-intelligence-used-identify-unique-covid-19-patterns-lungs/"
+    type: article
+    provider:
+      name: Blackburn News
+      domain: blackburnnews.com
+    quality: 37
+    images:
+      - url: "https://blackburnnews.com/wp-content/uploads/2021/03/canstockphoto88667566-400x250.jpg"
+        width: 400
+        height: 250
+        isCached: true
+  - title: "Large-scale study finds AI-powered COVID-19 solution by RADlogics reduces turnaround time"
+    excerpt: "Moscow Center for Diagnostics & Telemedicine shared the results of a large-scale study (Moscow Experiment on the Computer Vision for the Analysis of Medical Images - mosmed.ai, NCT04489992) conducted by the Research and Practical Clinical Center for Diagnostics and Telemedicine Technologies of the Moscow Health Care Department."
+    publishedDateTime: 2021-03-19T15:17:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/coda-lsf031921.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI, COVID-19 and the long haul"
     excerpt: "It has been a little over a year since a worldwide COVID-19 pandemic was declared. Science has moved fast to fight the virus but preparations need to be underway for fighting future outbreaks."
     publishedDateTime: 2021-03-18T18:15:00Z
@@ -79,6 +107,6 @@ related:
       domain: nature.com
     quality: 17
 
-secured: "477CxeIShVDlGgoh5AiBjWX8Z2zZ5e6e99Q3sUlMUG4CDx4nOmTwi4UBZub2Hu1VvQohBPotw5BdR2MFP3xofQiahFVbL7t2rJakql3ZEaU01ez4DmfL74LLK8/GVLk9Ite2XVU69tkCqJhaeyEexBBF3alRZ4j/GR6s3UHJIsTcMgd4js4FLjJ34RnsTjwCysQZZmG1JBvdyTbW28MEdlDDZ0Ksy/ohIX4o1RcGByYWU+4QmuQAxmgpNpal3U2RUupJY//LKAVVfm5SmLVU5r/EjS9ow2nU/gx0EXg8vgCWhGjtZ4dH/rhh8xUOBiepnaaPFNuDKbf2Ol5p+uI93eWB2I5VADHBIT8bBBQpk3Q=;knUIHjvBaCx7O4AtvB+T/A=="
+secured: "Fm+ZPOPo6vhFRO9OzEhyhfq4Jipi6yhdp4sKcmJtWKdltNge9kqnqqX/pOlsJVobw2ftk6m14uNZrG4wLF3u0p/B0l/GeBXwgqL2q0x1buuak08CVxB7mFFiUPu0E2IDwnuUxxtnNlpUnTS0HbvpfuCFdaCyfzUBCFLmnqr+jGf2hcS+vOftPy2tkrKKDDczjVoCwIhLD2prbm6Uxe9vflDY+QDv3TEB1fmsiftVjMThmfREpQIhCqh63OrKUGANhEm4uL3DgJV6GFJy/zjGhIeEAb6QTKfUQ3Ml6KtWxJwNd3xRAaqGKdHylYCJoAZnH8gSmOcEsXG39HBOibWZ+elphHtVHC6SCIwiADYeGr5Z1sSRWmbdbxTV5cS/Gh6+ai26iqI2ealbB7YN+oOlcVI6B8dlHTX6fr1H9IlX5wCs9ecURCo2n5hRg5k/Awk08RzpVcBywALk7eCCKATNoa7eDqtaWKzL2g6kU4QyvhooLq8q9qC8OfCKLVEsqW15nN5EEqQXogwrDdqX6su/NA==;sMjej5Pvf6OjPx4WqP1LAA=="
 ---
 

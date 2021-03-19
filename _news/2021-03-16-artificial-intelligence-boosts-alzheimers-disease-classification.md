@@ -7,7 +7,7 @@ originalUrl: "https://healthitanalytics.com/news/artificial-intelligence-boosts-
 webUrl: "https://healthitanalytics.com/news/artificial-intelligence-boosts-alzheimers-disease-classification"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
+    excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
+    publishedDateTime: 2021-03-19T14:26:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210315110232.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
     excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
     publishedDateTime: 2021-03-15T14:52:00Z

@@ -30,8 +30,8 @@ images:
 
 related:
   - title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
-    excerpt: "Bigg Boss 14 couple Jasmin Bhasin and Aly Goni recently stepped out for a dinner date in Mumbai. The couple was joined by none other than Rahul Vaidya and Disha Parmar. Mumbai, March 16 (IANS ..."
-    publishedDateTime: 2021-03-15T16:39:00Z
+    excerpt: "New Delhi, March 15 (IANS) In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens ..."
+    publishedDateTime: 2021-03-15T22:05:00Z
     webUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
     ampWebUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
     cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
@@ -46,21 +46,14 @@ related:
         height: 300
         isCached: true
   - title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
-    excerpt: "New Delhi: In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021. The programme will allow participants to build ML models for ..."
-    publishedDateTime: 2021-03-16T08:11:00Z
-    webUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
-    ampWebUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
+    excerpt: "In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021. The programme ..."
+    publishedDateTime: 2021-03-15T15:57:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210315/3723950.html"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 123
-    images:
-      - url: "https://www.sify.com/uploads/awswiki1-sjxop2edjeaig.jpg"
-        width: 650
-        height: 400
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 83
   - title: "AWS launches DeepRacer Women’s League to promote upskilling, diversity & inclusion in AI"
     excerpt: "AWS has launched an initiative called the AWS DeepRacer Women’s League- India 2021, to bring together women students to learn machine learning through a cloud"
     publishedDateTime: 2021-03-16T08:12:00Z

@@ -99,6 +99,20 @@ related:
         width: 1199
         height: 739
         isCached: true
+  - title: "Technique based on artificial intelligence permits automation of crop seed analysis"
+    excerpt: "Developed by researchers at the University of São Paulo, the non-invasive methodology facilitates identification of immature or poor-quality seeds without destroying them or creating residues."
+    publishedDateTime: 2021-03-19T15:57:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/fda-tbo031921.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Assessment of medication self-administration using artificial intelligence | Nature Medicine"
     excerpt: "Errors in medication self-administration (MSA) lead to poor treatment adherence, increased hospitalizations and higher healthcare costs. These errors are particularly common when"
     publishedDateTime: 2021-03-18T18:14:00Z

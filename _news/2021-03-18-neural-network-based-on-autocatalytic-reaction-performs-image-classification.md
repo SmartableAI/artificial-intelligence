@@ -24,6 +24,22 @@ images:
     height: 536
     isCached: true
 
+related:
+  - title: "Automatic lumen detection and magnetic alignment control for magnetic-assisted capsule colonoscope system optimization"
+    excerpt: "We developed a magnetic-assisted capsule colonoscope system with integration of computer vision-based object detection and an alignment control scheme. Two convolutional neural ne"
+    publishedDateTime: 2021-03-19T15:31:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-86101-9"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 0
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-86101-9/MediaObjects/41598_2021_86101_Fig1_HTML.png"
+        width: 674
+        height: 685
+        isCached: true
+
 secured: "SJpDjqS1Iq1GZ4CRr9Acecy1J8i7PTWdL2ZcoQueBF1yNvmfBvYA8tl+3o38++jI2UqVSjUIOrkbXpBHX2B4UMiXuMgr+t0u/KekxTQkm0ZZmXvcOQIRIPsxz6m6cVTeC1cSM9q+XGbaUyVBOMjbyY5raMg/gqhWAX6i4ozRxoGvB+sAXRyYaYgaS4J4sdhHgzYzFPclAwXqrhTU4HBOs+AAJuOIICSKgcferiqhZ+zGVDyVT6s7eAmJmS7U9v0E2jE6plrX1UUGYLg7ZMY2QQpOLWQ8b+cTc5orlMGSDUoCdIrExHoijxzNLrgLZ7c0bZGYrRN6eAklVKroRG/p7iOr0MCiCMjBl1sPpDSYf3nuS2G9UhbYyQrdDcSpHRfsSpzl9wixdobCvYOPi8ojsw6rY1ecvNQhJU3WY3mHIj34CUSkBL0xfOt8ByNvovIPqj3zCYcTORfYMGWSZ+Koi7Rz/P68X5dA7D4WVrUnJFqy4g/3jI0w4EUSL6RmvXjKRHSNv8L6vgDXuK7HdO3Tmw==;seMqavVzSYtRwgphLInSvw=="
 ---
 

@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Size, Development, Key Opportunity, Application and Forecast to 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 19, 2021 (Market Insight Reports) -- Automotive Artificial Intelligence (AI) market report, inclusive of Covid-19 impact analysis, evaluates business status and potential ..."
+    publishedDateTime: 2021-03-19T15:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-size-development-key-opportunity-application-and-forecast-to-2026-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ivJrNeFLB7GY1U8wUrRlgL1ZAb52t5V0Xb5ikyJxX7HwmMohP31lfkojJE9VgrvjYf3viMfln739lnQcMCNXXbfiL0Yhm6GLY6LByEpVbPWRKTCihzSECxnfF7Upb0YyhcXmjOcLVCkAKTs9b/EeSCeRcWXZefPP8a09+CoRoDBG81zPrHsihfsn5muJF09eo2tXiCm+b8RWZY5lG6wo1LnTrgc/EwsK/HzRqv4ADubF22Pmv+2AH+xEy97CtVh4mtFO4BwyH3/HrfvB7ikrcxhMza7sd7pZMwynWvlxTkBw/gGnSo8NZSJdIzIymzaDQBDPMc2IJN282OaZBn3qy+tIR0Xl0sp8S+/QY4kQk5w=;lKx8z4HZiYfctrPpI7wWaA=="
 ---

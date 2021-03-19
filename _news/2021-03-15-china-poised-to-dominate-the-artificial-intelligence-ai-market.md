@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/03/15/china-poised-to-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/03/15/china-poised-to-dominate-the-artificial-intelligence-ai-market/amp/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Size, Development, Key Opportunity, Application and Forecast to 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 19, 2021 (Market Insight Reports) -- Automotive Artificial Intelligence (AI) market report, inclusive of Covid-19 impact analysis, evaluates business status and potential ..."
+    publishedDateTime: 2021-03-19T15:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-size-development-key-opportunity-application-and-forecast-to-2026-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

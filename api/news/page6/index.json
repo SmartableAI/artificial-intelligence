@@ -2,6 +2,134 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-13-startup-news-robotics-vendor-nimble-raises-50-million-in-financing-round.md",
+      "title": "Startup News: robotics vendor Nimble raises $50 million in financing round",
+      "excerpt": "According to Nimble, its AI-powered robots intelligently pick, pack, and handle millions of products, spanning from apparel and electronics to beauty, general merchandise and grocery items. Today, Nimble robots are deployed in fulfillment centers across ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_raises_50_million_in_financing_round",
+      "originalUrl": "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_raises_50_million_in_financing_round",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png",
+          "width": 444,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Management Review",
+        "domain": "scmr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-adventures-with-ai-heres-what-happened-when-i-ate-a-three-course-meal-designed-by-artificial-intelligence.md",
+      "title": "Adventures with AI: Here’s what happened when I ate a three course meal designed by artificial intelligence",
+      "excerpt": "Unfortunately, since the onset of the COVID-19 pandemic, I’ve been doing a lot of the latter and almost none of the former. The model’s been trained on a gobsmacking quantity of data ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-12T134101.728-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-03-12T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-financial-services-firms-accelerate-digital-first-business.md",
+      "title": "Financial services firms accelerate digital-first business",
+      "excerpt": "The financial services industry was well on its way to a digital-first future before the pandemic upended industry and commerce across the globe. The fallout from the pandemic, however — particularly the growing demand for digital only services — has pushed financial services transformation into overdrive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html",
+      "originalUrl": "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-facebook-details-ai-that-can-understand-videos.md",
       "title": "Facebook details AI that can understand videos",
       "excerpt": "Through its Learning from Videos project, Facebook says it's investing in AI that can understand social media videos on a granular level.",
@@ -1107,160 +1235,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials.md",
-      "title": "IBM’s AI may lead to new antimicrobials, drugs, and materials",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a new study published in the journal Nature Biomedical Engineering, researchers at IBM say they’ve ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/",
-      "originalUrl": "https://venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/amp/",
-      "publishedDateTime": "2021-03-11T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-deepmind-is-building-a-team-of-ai-researchers-in-new-york.md",
-      "title": "DeepMind is building a team of A.I. researchers in New York",
-      "excerpt": "DeepMind has already hired several intellectual heavyweights in New York. Rob Fergus, the co-founder of Facebook AI Research, is now helping rival DeepMind to build a team in New York. DeepMind declined to say how many people it has in New York but ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "originalUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
-      "publishedDateTime": "2021-03-11T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-how-one-employees-exit-shook-google-and-the-ai-industry.md",
-      "title": "How one employee's exit shook Google and the AI industry",
-      "excerpt": "Timnit Gebru, then co-leader of the ethical AI team at Google, sent a private message on Twitter to Emily Bender, a computational linguistics professor at the University of Washington.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/03/11/tech/google-ai-ethics-future/index.html",
-      "originalUrl": "https://www.cnn.com/2021/03/11/tech/google-ai-ethics-future/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311052956-google-headquarters-mountain-view-ca-2020-stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/tech/google-ai-ethics-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/tech/google-ai-ethics-future/index.html",
-      "publishedDateTime": "2021-03-11T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

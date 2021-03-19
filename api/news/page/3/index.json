@@ -2,6 +2,163 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-17-octoml-raises-28m-grow-machine-learning-software-used-by-qualcomm-microsoft-amd.md",
+      "title": "OctoML raises $28M grow machine learning software used by Qualcomm, Microsoft, AMD",
+      "excerpt": "It offers better performance and removes complexity, Ceze said. Amazon’s Sagemaker Neo is also based on Apache TVM, but is restricted to AWS-based deployments. The Octomizer can target any cloud and any edge device. Leadership: Ceze is a UW professor who ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/",
+      "originalUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/10/ceze-profile-%402x-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/",
+      "publishedDateTime": "2021-03-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation.md",
+      "title": "Yseop Launches ALIX, an Application That Instantly Shows the Power of AI Automation for Report Creation",
+      "excerpt": "Press Release Yseop, a pioneer in Natural Language Generation (NLG) and world-leading AI software company, today announced the launch of ALIX, an immediate discovery application to showcase how quickly and easily financial institutions can transform and grow",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/",
+      "originalUrl": "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/mms.businesswire.com/media/20210316005455/en/865159/4/ALIX3.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/amp/",
+      "publishedDateTime": "2021-03-16T13:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-5-reasons-to-make-machine-learning-work-for-your-business.md",
+      "title": "5 Reasons to Make Machine Learning Work for Your Business",
+      "excerpt": "As machine-learning algorithms grow smarter and more organizations come around to the idea of integrating this powerful technology into their processes, it’s high time your enterprise thought about putting machine learning to work, too. One of the best ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/366536",
+      "originalUrl": "https://www.entrepreneur.com/article/366536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1615573501-GettyImages-1192983611.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/366536",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366536",
+      "publishedDateTime": "2021-03-16T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-empathetic-robots-are-killing-off-the-worlds-call-center-industry.md",
       "title": "Empathetic Robots Are Killing Off the World’s Call-Center Industry",
       "excerpt": "Some local industry executives insist the situation isn’t as dire as many predict. AI is a long way from replacing humans for more complicated voice calls or chats, says Jonatha",
@@ -810,7 +967,7 @@
       "originalUrl": "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying-the-many-faces-of-covid-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1102,161 +1259,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-adaptive-robot-changes-leg-length-in-response-to-different-terrain.md",
-      "title": "Adaptive robot changes leg length in response to different terrain",
-      "excerpt": "Robots these days are equipped with locomotion systems to overcome all types of terrain, but tend to favor one type of environment in particular. Scientists at Norway's University of Oslo have instead developed a four-legged robot that can adjust its leg length and walking gait on the fly as",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/",
-      "originalUrl": "https://newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/84aea47/2147483647/strip/true/crop/945x630+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbd%2F46%2F238e30ea4fcc8420e2a0564f12e4%2Fnature-path2-0.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/?amp=true",
-      "publishedDateTime": "2021-03-15T19:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m.md",
-      "title": "On-demand logistics and fulfillment startup Flowspace raises $31M",
-      "excerpt": "On-demand warehousing fulfillment startup Flowspace today announced that it raised $31 million in a series B equity funding round. Los Angeles, California-based Flowspace says that the round, which was led by BuildGroup,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/",
-      "originalUrl": "https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1191254826.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/amp/",
-      "publishedDateTime": "2021-03-15T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-fusion-tests-self-driving-fiat-ducato-europes-favorite-camper-van.md",
-      "title": "Fusion tests self-driving Fiat Ducato, Europe's favorite camper van",
-      "excerpt": "Europe's ubiquitous camper van and motorhome base vehicle, the Fiat Ducato took a step toward camping future last year when it rolled out in all-electric guise. Now it takes another step, albeit a less official one,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/",
-      "originalUrl": "https://newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/44c0ec9/2147483647/strip/true/crop/4644x3096+430+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc4%2F90%2Fe576f6254e69a690715eb825efd2%2Ffusion-processing-autonomous-van-4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/?amp=true",
-      "publishedDateTime": "2021-03-15T17:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -76,6 +76,34 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Artificial intelligence used to identify unique COVID-19 patterns in lungs"
+    excerpt: "The artificial neural network developed by Lawson Health Research Institute can detect COVID-19 patterns in lung scans that are not visible to the human eye."
+    publishedDateTime: 2021-03-19T14:52:00Z
+    webUrl: "https://blackburnnews.com/london/london-news/2021/03/19/artificial-intelligence-used-identify-unique-covid-19-patterns-lungs/"
+    type: article
+    provider:
+      name: Blackburn News
+      domain: blackburnnews.com
+    quality: 37
+    images:
+      - url: "https://blackburnnews.com/wp-content/uploads/2021/03/canstockphoto88667566-400x250.jpg"
+        width: 400
+        height: 250
+        isCached: true
+  - title: "Large-scale study finds AI-powered COVID-19 solution by RADlogics reduces turnaround time"
+    excerpt: "Moscow Center for Diagnostics & Telemedicine shared the results of a large-scale study (Moscow Experiment on the Computer Vision for the Analysis of Medical Images - mosmed.ai, NCT04489992) conducted by the Research and Practical Clinical Center for Diagnostics and Telemedicine Technologies of the Moscow Health Care Department."
+    publishedDateTime: 2021-03-19T15:17:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/coda-lsf031921.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 28
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "RyAPZ+P5OTXHULEkCa/xbzrdE+BGA9CVJeun8MI2RcvzCwRMN52qJIuj5MKTuZk6I/bbxyvAROM2I08rCW1gyi/viXcRT4zx5o1/DjT0jdFuELHdq1+Av5yawpqWLa3OC7Zc43H/95ns6D7qvdMBu9KOCUhuDgV2283XOpCHIyVakOjtjZVVKErWxmjwKgOoirlEvrgcM+WmWTEqzfVKgxTWgRMAGt5ftCnUUHttPugxszZytyqO4ES2iYAuK9ENNyXSjC10IWBQ8kU/TkQJMHNWray9TQXdnlDePLs6ktqmS0kYosSInXMIPFjPBkZzZSvobcTTKTem4L1/GZAsPM7AGwD8lsKpgjUueDex5gA=;QjfvNnwX5tTAbYvutAPtEg=="
 ---
