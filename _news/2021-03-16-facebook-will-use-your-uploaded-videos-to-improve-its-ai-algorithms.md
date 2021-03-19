@@ -41,22 +41,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Facebook will use your uploaded videos to improve its AI algorithms"
-    excerpt: "The company said it would help improve both its moderation efforts and recommendation engines for video.In its blog post, Facebook said the algorithms will learn 'themes' from the videos users watch a"
-    publishedDateTime: 2021-03-14T13:26:00Z
-    webUrl: "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms-11615727765901.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/03/14/600x338/4ee21dd9f024465c9886ff7b88ee0679-4ee21dd9f024465c9886ff7b88ee0679-0_1615727938422_1615728025114.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "vdwpMCbenYX+wjA87OnCrjYxkSRAbxEYUz82qY/t4WlXHdCAbsIS+gXjWnXeJxLrHmGyCQwWbdOXyKt/xG81dgDoHeJd4c4K7mKZwVlJ7fhY79jo/xaSDVsA50eipvz7gM/GvJbHMvBRzNGfWIEUsOFb7Cz8mUpRprucn91QaRWDAf84YQzZ41AVGhpJSHK7Bv6dGjVBYduyafbMQCfIdcbrbeIGrVHeKaqifl07jTQRCmBdgCYfPYOZ4jIrGeX5OJkBOnTxQII+e6jk0bGUdKksMJnAeS9geZgFEQlBp6W5jfzNpl6Itja3KJNFOQJBz7LdjU39Aoa2cB7RhJvhFbfvi5K/PK08CIrrY6nmo8Z8vgT8tUmGEtotu8e0U3iCBY787A/Hb6Wa/Rt2NLRss2fwIFgfHLJN384c13pYtq6ncVo6g/zZIJ9AcNq4b0kLtQqvqiJ9+eIa3LDPIDRoq+zC1FZ2RvcdAV+ew9MrRB2+Z0lYos56fYHM8Q4KAltqOdI/5kJedtZeiIi3yOu8Jw==;xVBEWJoMkkMMn3XX8sZCJA=="
 ---

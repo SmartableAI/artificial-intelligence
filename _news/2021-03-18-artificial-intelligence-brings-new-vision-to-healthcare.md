@@ -26,51 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Using Artificial Intelligence to Improve Healthcare for All"
-    excerpt: "He is also a pioneering figure in artificial intelligence (AI) research. Sapiro wields his expertise in AI to solve societal problems, particularly those related to health and health care. In the Parkinson’s project, Sapiro uses a technique called ..."
-    publishedDateTime: 2021-03-15T13:29:00Z
-    webUrl: "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/"
-    ampWebUrl: "https://scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521663/using-artificial-intelligence-to-improve-healthcare-for-all/amp/"
+  - title: "Security & Safety Things offers AI based cameras to transform healthcare operations at lower costs"
+    excerpt: "In the past year, hospitals, elder-care and other healthcare facilities have found themselves overwhelmed with new patients, COVID-19 regulations and other side effects of the pandemic.As"
+    publishedDateTime: 2021-03-19T06:12:00Z
+    webUrl: "https://www.sourcesecurity.com/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html"
     type: article
     provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 74
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 79
     images:
-      - url: "https://i0.wp.com/scienceblog.com/wp-content/uploads/2021/03/DST_Computing_AIHealth_Electrodes.png?fit=270%2C293&#038;ssl=1"
-        width: 270
-        height: 293
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare: Interview With Nilesh Chandra, Healthcare Expert at PA Consulting"
-    excerpt: "With the recent news that IBM is looking to sell Watson Health – the company’s interactive, AI platform that can answer human-posed questions in seconds – some think this might be indicative of a wider problem with the use of AI in healthcare."
-    publishedDateTime: 2021-03-17T21:01:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-healthcare-interview-with-nilesh-chandra-healthcare-expert-at-pa-consulting/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/03/Nilesh-Chandra.png"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Irish start-up Outmin looks to improve admin using AI and humans"
-    excerpt: "Outmin, a start-up set up by Irish tech veterans Ross Hunt and David Kelleher, has emerged from stealth and is already snapping up clients both locally and outside of Ireland. Founded and quietly launched during the coronavirus pandemic, Outmin claims to ..."
-    publishedDateTime: 2021-03-14T16:00:00Z
-    webUrl: "https://www.irishtimes.com/business/technology/irish-start-up-outmin-looks-to-improve-admin-using-ai-and-humans-1.4509950"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 37
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4509948&origw=1440"
-        width: 1200
-        height: 630
+      - url: "https://www.sourcesecurity.com/img/news/612/security-safety-things-gmbh-bosch-highlight-iot-platform-smart-cameras-ces-2021-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
 
 secured: "Q/Rje6Ta3KV5uRqI7IadQSmzX5mMn61J0T1KWcsan+7fIbdTefWy5yOYQZDxPG6M1PKZp0OAx4wjQL3mywSuz3fkI8hZa+DrpQcvY65ROzGqLnzcfv/iOpsGgLSwCdAL9gaqZzRHrH7rqJtZYMP867hUiwp1xx31tLygfKzPFhJRdlVJWmvG7/nGJEa4QqjspQ/bl7C3UjhjMI7aGeix9Sr3K1YKWp5303hxHqZPlxhO0d2zGu7i2o6O/b2xiq1CaPliqkcLda+rAhkIO4okakMdxxQAPzvlDRegGS3Sjvi+wcVHt12hSs7HBplwFbVCUaqw+SGtT3P8gwxIlO7ZHSklKvsuM+FvrwEI2W/vh4YUlyPAJGN2UpgYA+DlmQd9z2PeHjhQgBAmidZrJsOLbZtgrVI6GDmhdPr8BdQSqSH1i2XQwqGJ6smljF4Pr7oKVtcsVUw4K4O/+cDJyS+6+kEz3T9/t9ywvleUNUlx0uiAv9QBvGd055j3jn2Nqr48S3AVatCu6gdbIJB+lu5SXQ==;mTU/HdNkh81BO3xIcLOuCg=="

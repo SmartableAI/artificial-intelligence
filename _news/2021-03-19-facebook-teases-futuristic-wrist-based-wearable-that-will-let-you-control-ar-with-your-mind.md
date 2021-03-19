@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook will use your uploaded videos to improve its AI algorithms"
-    excerpt: "The company said it would help improve both its moderation efforts and recommendation engines for video.In its blog post, Facebook said the algorithms will learn 'themes' from the videos users watch a"
-    publishedDateTime: 2021-03-14T13:26:00Z
-    webUrl: "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms-11615727765901.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/facebook-will-use-your-uploaded-videos-to-improve-its-ai-algorithms/amp-11615727765901.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2021/03/14/600x338/4ee21dd9f024465c9886ff7b88ee0679-4ee21dd9f024465c9886ff7b88ee0679-0_1615727938422_1615728025114.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Facebook will use your uploaded videos to improve its AI algorithms"
     excerpt: "but the company did tell The Verge that it won’t seek special permission from users to use their videos as training data for AI. The company’s data policy informs users that uploaded content can be used by Facebook for research and development."
     publishedDateTime: 2021-03-16T11:06:00Z

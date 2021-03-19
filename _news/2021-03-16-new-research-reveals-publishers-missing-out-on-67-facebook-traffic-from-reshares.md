@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ne
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/new-research-reveals-publishers-missing-out-on-67-facebook-traffic-from-reshares/article_205f218d-4a41-5495-93aa-f3c2ff37d282.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "This Week In XR: Facebook’s Invisible Computing Research"
+    excerpt: "This Week in XR is now a podcast hosted by Paramount’s Futurist Ted Schilowitz and Charlie Fink, the author of this weekly column. You can find it on podcasting platforms Spotify, iTunes, and YouTube."
+    publishedDateTime: 2021-03-19T06:33:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2021/03/19/this-week-in-xr-facebooks-invisible-computing-research/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605441565fafb946c9eccb40%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "evHbkJq9yYAyzFlz+1IDA5L3n4eVZNiyYQ7hP3fG2FBH6pB4Bef7/+pfEo7Nxj+5NLIHzqoUL+026QTSdT/X2cEHM100VpuqccMy33HadDZI9iI67FwCdHE+bp8ZIb86Wjsq8rSfg17FJC9nrv/y9r0hNBvm/j0lrrYNqPG1RKTHuTqUgNuGO7Udxo5VFtDeRTZXZwfHZi6vFlg9MXd0AGakrz5Cg+DCkULLkxpbIZ3tInZ+e3El8LfsMLWU+VBibhBmdXi/CAj46SjrafbQ6PkWJwr4NB16zOIlFkQUlimG9ZL8BiFVn1U55XetPtvNDShBKywXQNuircbP9OeAB/N3s9dyTtCw4pfacACMjbyNukqc2wyVdC/mz43VCxnsgMRvDQo82ARuggbqgiSILkeL0F6ZvngCUbCIkk+XmEXnFQ7o/wQFeX+ZSNN95hcA10arWmRZQglEJgaub3Sz2SyVQnATs7R6wLyIkjGwTnbi544gNVBNjNs/KQ8vNSbw/nyC3H2v3VUpvuC9IUIW0w==;z9I1OM0UVrt+KmJ8U0sXIQ=="
 ---

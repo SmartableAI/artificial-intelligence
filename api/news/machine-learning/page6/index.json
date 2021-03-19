@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-15-this-is-how-we-lost-control-of-our-faces.md",
+      "title": "This is how we lost control of our faces",
+      "excerpt": "Then, in 2014, Facebook used its user photos ... Amba Kak, the global policy director at AI Now, who did not participate in the research, says the paper offers a stark picture of how the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/",
+      "originalUrl": "https://www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/02/GettyImages-672156981-crop.jpeg?w=3000",
+          "width": 3000,
+          "height": 1810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/amp/",
+      "publishedDateTime": "2021-02-14T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-two-accused-in-farmer-shooting-acquitted-and-walk-free-from-court.md",
       "title": "Two accused in farmer shooting acquitted and walk free from court",
       "excerpt": "Alan Hemmings and Antony Shrimpton are cleared of all charges but the prosecution continues against four more defendants",
@@ -1374,49 +1418,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-designing-and-evaluating-medical-deep-learning-systems.md",
-      "title": "Designing and evaluating medical deep learning systems",
-      "excerpt": "Deep learning facilitates utilization of large data sets through direct learning of correlations between raw input data and target output, providing systems that may use intricate structures in ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-medical-deep.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-medical-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/601d4b19d7633.jpg",
-          "width": 2880,
-          "height": 1919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-medical-deep.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-medical-deep.amp",
-      "publishedDateTime": "2021-02-05T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

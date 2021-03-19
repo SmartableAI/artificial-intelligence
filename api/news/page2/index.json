@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-18-brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies.md",
+      "title": "BrainChip Joins tinyML Summit 2021 for Ultra-Low Power Edge Machine Learning Technologies",
+      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), a leading provider of ultra-low power high performance artificial intelligence technology, today announced it",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies-2021-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/brainchip-joins-tinyml-summit-2021-for-ultra-low-power-edge-machine-learning-technologies-2021-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T15:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-sonoma-county-to-add-artificial-intelligence-for-fires.md",
       "title": "Sonoma County to add artificial intelligence for fires",
       "excerpt": "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added",
@@ -1136,58 +1188,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub.md",
-      "title": "Google uses machine learning to fix your bad sleeping habits with new Nest Hub",
-      "excerpt": "Udall said Google made this feature work through \"science and machine learning\". Google partnered with the American Academy of Sleep Medicine for the new tech and it was trained using more than 100,000 nights of sleep from over 15,000 people. Google said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
-      "originalUrl": "https://www.zdnet.com/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/16/62077372-1d79-4e40-818c-7af79731467a/google-nest-hub.jpg",
-          "width": 1100,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
-      "publishedDateTime": "2021-03-16T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

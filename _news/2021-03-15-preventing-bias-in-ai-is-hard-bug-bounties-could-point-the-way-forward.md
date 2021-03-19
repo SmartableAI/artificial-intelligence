@@ -35,14 +35,14 @@ related:
   - title: "Examining the bias in artificial intelligence..."
     excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-03-18T23:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210319004343-examining-the-bias-in-artificial-intelligence/"
+    webUrl: "https://www.cbsnews.com/live/video/20210319074015-examining-the-bias-in-artificial-intelligence/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 37
     images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09502308_1616115124.jpg"
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09508517_1616140084.jpg"
         width: 1280
         height: 720
         isCached: true

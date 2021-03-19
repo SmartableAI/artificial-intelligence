@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-19-security-safety-things-offers-ai-based-cameras-to-transform-healthcare-operations-at-lower-costs.md",
+      "title": "Security & Safety Things offers AI based cameras to transform healthcare operations at lower costs",
+      "excerpt": "In the past year, hospitals, elder-care and other healthcare facilities have found themselves overwhelmed with new patients, COVID-19 regulations and other side effects of the pandemic.As",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/security-safety-things-gmbh-bosch-highlight-iot-platform-smart-cameras-ces-2021-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
+      "publishedDateTime": "2021-03-18T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem.md",
+      "title": "AI can be unintentionally biased: Data cleaning and awareness can help prevent the problem",
+      "excerpt": "But how can organizations safeguard against systems so the AI doesn't inadvertently inject bias that affects the accuracy of results? Bias can be injected into AI by faulty algorithms, by lack of complete data on which the algorithms operate or even by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
+      "publishedDateTime": "2021-03-18T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-nothing-personal-but-ethical-ai-is-our-strongest-weapon-in-data-privacy-wars.md",
       "title": "Nothing Personal, But Ethical AI Is Our Strongest Weapon In Data Privacy Wars",
       "excerpt": "Scary ‘surveillance society’ headlines that vilify artificial intelligence (AI) distract from this technology’s equally powerful ability to protect our personal data.",
@@ -1431,111 +1528,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-does-ai-driven-cloud-computing-need-ethics-guidelines.md",
-      "title": "Does AI-driven cloud computing need ethics guidelines?",
-      "excerpt": "It’s clear that artificial intelligence is powerful and cost-effective in the public cloud. However, it can be weaponized for unethical tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.html",
-      "originalUrl": "https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/10/cso_nw_trust_reliability_security_transparency_ethics_handshake_collaboration_by_peopleimages_gettyimages-926653234_icons_by_enis_aksoy_gettyimages-1054994010_interface_by_jamielawton_gettyimages-485370758-100813780-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3609610/does-ai-driven-cloud-computing-need-ethics-guidelines.amp.html",
-      "publishedDateTime": "2021-02-26T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-a-beginners-guide-to-ai-ethics-in-artificial-intelligence.md",
-      "title": "A beginner’s guide to AI: Ethics in artificial intelligence",
-      "excerpt": "And that’s pretty much what we need to focus on when we’re trying to understand ethics in the field of artificial intelligence. For the purposes of this article, when we discuss the ethics of ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/26/a-beginners-guide-to-ai-ethics-in-artificial-intelligence/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/26/a-beginners-guide-to-ai-ethics-in-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/01/killer_robot-1200x600.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/26/a-beginners-guide-to-ai-ethics-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/26/a-beginners-guide-to-ai-ethics-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-02-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

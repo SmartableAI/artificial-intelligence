@@ -25,6 +25,7 @@ topics:
   - AI
   - AWS AI
   - Natural Language Processing
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/10/grobman-Elon_Musk_Tesla_DeepFake.jpg?w=1200&strip=all"

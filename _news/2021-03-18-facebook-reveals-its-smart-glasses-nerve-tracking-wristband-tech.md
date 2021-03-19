@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-t
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -87,6 +87,22 @@ related:
       - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2021/03/frl-wrist-prototype-2.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Facebook Unveils AR Control Device That Taps Into Your Nervous System"
+    excerpt: "The Facebook Reality Labs team also is developing a contextually aware, AI-powered interface for AR ... as provide an update on its haptic glove research. Facebook emphasized that the approach ..."
+    publishedDateTime: 2021-03-18T15:32:00Z
+    webUrl: "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/#!"
+    ampWebUrl: "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 44
+    images:
+      - url: "https://variety.com/wp-content/uploads/2021/03/Facebook-AR-wrist-controller.png?w=711"
+        width: 711
+        height: 400
         isCached: true
   - title: "Facebook Teases New Wearable AR Tech Controlled With Your Wrists"
     excerpt: "On Thursday, the company teased information about its “wrist-based” technology that could be combined with artificial intelligence and harnessed into wearable technology. Last year, Facebook Reality Labs unveiled Project Aria,"
