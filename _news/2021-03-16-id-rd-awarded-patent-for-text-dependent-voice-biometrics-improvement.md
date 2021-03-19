@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202103/id-rd-awarded-patent-for-te
 webUrl: "https://www.biometricupdate.com/202103/id-rd-awarded-patent-for-text-dependent-voice-biometrics-improvement"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Scotland, UK governments tackle biometrics ethics with new Commissioners, report"
+    excerpt: "Dr. Brian Plastow named the first Biometrics Commissioner for Scotland. UK Biometrics and Forensics Ethics Group releases annual report."
+    publishedDateTime: 2021-03-19T18:17:00Z
+    webUrl: "https://www.biometricupdate.com/202103/scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
+        width: 623
+        height: 432
+        isCached: true
   - title: "Call center voice biometrics partnerships revealed by Auraya, Speech Technology Center, Nuance"
     excerpt: "Real estate developer to implement Speech Technology Center voice recognition Property developer Samolet Group is implementing voice biometrics from the Speech Technology Center in its call center, along with speech analytics and emotion recognition ..."
     publishedDateTime: 2021-03-16T22:53:00Z

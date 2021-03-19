@@ -9,8 +9,8 @@ ampWebUrl: "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-s
 cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Skift
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Facial recognition executive discusses COVID-19 vaccine passports, data privacy, and surveillance"
+    excerpt: "Millions of people have received COVID-19 vaccines in recent weeks. Could vaccine passports paired with facial recognition enhance travel for passengers?"
+    publishedDateTime: 2021-03-19T04:49:00Z
+    webUrl: "https://www.techrepublic.com/videos/facial-recognition-executive-discusses-covid-19-vaccine-passports-data-privacy-and-surveillance/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 56
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/12/79b507a9-b072-4ead-b120-e5b695b5f2c2/thumbnail/770x578/ffb3306a8cfc8c340a5860f335c999f1/20210223-dallon-karen.jpg"
+        width: 770
+        height: 578
+        isCached: true
 
 secured: "Gk03sif+W6flx1T5V/jLTVVn+eVtZY0J48P2eN4aHzJR2y8PKryeIWUiCaFT8nENEgjr3CyDWowCur0Jlzbr3BxuP4eh/luJ9TndhiVvA4JqB3iqDppMRHKqZ7hj0R9DoQ95XaCzLDENb5gdpJndaGhFdF6qiTw1038jxI/DGUPnUs8grCpmmRlTWx1ocP703W3FVq8pRRwuNQECtsHA+9R6u2eSi+X+/bcnQjnYe5O70Qb/cXp751J1g8qZ+rCXS86HeE/psCQoEyaN9P7xWNucviRIPR/Xkuhen6ZHlv1i3cGQglqT9bugBdZrfPzTwSwz21ciXmvXNS6mLI9PIv7RizlsRpu4cURaCnUjlOw=;Vi5GafyvOgQvCJKwa06T6g=="
 ---

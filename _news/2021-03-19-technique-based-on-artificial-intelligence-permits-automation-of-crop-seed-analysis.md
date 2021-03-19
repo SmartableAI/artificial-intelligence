@@ -198,6 +198,15 @@ related:
         width: 336
         height: 335
         isCached: true
+  - title: "AI-based smartphone apps for risk assessment of skin cancer need more evaluation and better regulation"
+    excerpt: "Smartphone applications (“apps”) with artificial intelligence (AI) algorithms are increasingly used in healthcare. Widespread adoption of these apps must be supported by a robust evidence-base and app manufacturers’ claims appropriately regulated."
+    publishedDateTime: 2021-03-19T19:32:00Z
+    webUrl: "https://www.nature.com/articles/s41416-021-01302-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 1
 
 secured: "aTfP1YJbqeA16RzR5RvWjQKqBKIzvxabQZCuntZ4ukniRXf5LDNn+COfafPzd7u6rLfdat2L/0KkfAsAERRe4qPtmNMjYeLRjezj6VSYfJT7coXZpNUZzn5XzGMDtLiHO5LXhgu8A82XBCYCQxSaeA9q+9SE1j+YfagxZAOc6xA3FCj+eyG6SlpRgqTiSUDTNUUQdZk4xCyEy9yxB+wrRK/zgX2cSK0vPkO3Q4XaR4GCV6dMcHOFYrSfAvld+lfWTEOtqSn0h9mz7miLq9DX27YLEFx0wLFVpaxHbHxy62jH3yhxfCjz3WB4JdE9nEs5dPKvfPkuO5LcL3K6IVt4y8kKlwSO8UphCSuwv2zC0Zo=;JbhUkhW/Chv/lfS+i43p5Q=="
 ---

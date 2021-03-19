@@ -107,6 +107,20 @@ related:
         width: 541
         height: 373
         isCached: true
+  - title: "Self-Driving Cars Market to See Strong Growth Momentum | Tesla Motors, General Motor, Ford Motor"
+    excerpt: "Mar 19, 2021 (Market Insight Reports) -- A new business intelligence report released by HTF MI with title “Global Self-Driving Cars Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 ..."
+    publishedDateTime: 2021-03-19T19:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla removed some drivers from its self-driving test for not paying attention"
     excerpt: "(CNN) — Tesla has expanded its “full self-driving” software to roughly 2,000 Tesla owners, but some drivers were revoked access for not paying close enough attention to the road, according ..."
     publishedDateTime: 2021-03-16T18:48:00Z
@@ -169,19 +183,19 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tesla removed some drivers from its self-driving test for not paying attention"
-    excerpt: "Tesla has expanded its \"full self-driving\" software to roughly 2,000 Tesla owners, but some drivers were revoked access for not paying close enough attention to the road, according to Tesla CEO Elon Musk."
-    publishedDateTime: 2021-03-15T02:37:00Z
-    webUrl: "https://www.ksl.com/article/50125618/tesla-removed-some-drivers-from-its-self-driving-test-for-not-paying-attention"
+  - title: "Around the tracks: Stressful footage of a Tesla in full self-driving mode"
+    excerpt: "When we’re not creating it ourselves, the CarAdvice team spends a lot of time finding and consuming motoring content from all over the world. Here’s a handful of the photos, articles, videos or socia"
+    publishedDateTime: 2021-03-19T18:58:00Z
+    webUrl: "https://www.caradvice.com.au/935307/around-the-tracks-stressful-footage-of-a-tesla-in-full-self-driving-mode/"
     type: article
     provider:
-      name: KSL
-      domain: ksl.com
-    quality: 35
+      name: CarAdvice
+      domain: caradvice.com.au
+    quality: 38
     images:
-      - url: "https://img.ksl.com/slc/2814/281492/28149275.jpg?filter=ksl/responsive_story_lg"
-        width: 614
-        height: 345
+      - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/42ce5894867b7e17f63d3b75cdfb77bc.jpg"
+        width: 960
+        height: 500
         isCached: true
   - title: "Cruise Automation acquires Voyage to further self-driving car goals"
     excerpt: "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,"
@@ -193,6 +207,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "xb/cx4g5oNTocHhM82hO+jWDupZszdcb2tYOeonEdbOVwMgzCKKCa297CZ9yDq4VoLj7OCzaJxmiejhzOKYydwYrwSHFKpT4MEM+S0r9XzOhWBvNrYKqSDTEgQ3wPKM0KBraiRvb+BZcHUxlz7Qf9VBqYEhE3/VQAOHmmMB/fhLgcb/yk3Oh4kwn+Jw6lVdZRKxU0cgB7NA3BNdHSPcSnYklgBhUNBnapxIPOufwxTUf4fIeuTTcOyAKWj9w1HF+SEJNguglSu6yGVniv9J9Rjks8Bt/X5Hwa6VBvZsIphyJnmtWqdV8Ry8s3vQwuRPz5KgA3Fixj02pI0d7lAucq5cc7CIKpLASkswiWk1pXeA=;sn1VsdHzK+7oHy9PQYQB9w=="
+secured: "nlTz9vC05ssyTsIG9eM5AHTHenutn/fAY2A5iabYgaAVidz3bbsdN1bo5XQIgVVy0Ar7Lc6EuMSSnjhNv46+zGkLUakNdgWcIUM9ImN+mfG+dIW1fDenzAQLPavc8o2nJmfriHkJVLxPgULv1vucfnAuuEeuTY2flmwKHXv2YWS/93AgONnhoTnMFpvuzia5JZvhr9f1tumDvxXPq1txx69ttRjH06ocjKct7z4rgDq9ZXny7ZTlUDYmYzEJSQyv3D9PgZdPHTFKFkdVc3E9Mvb3quqhCqIkym+kwQpQFghzJ7OggD06m6JNIMskaMaQc6+g9kFigFx42IVqTCd7vF70Z8ePhxNhwZe4wGUIOjDk7u8PgaWdtR08PiW7G3m/nhWRu0ROG761T2sEMJg+nCuSqMefLLAWlIsog5Pid28Tkq31s9x/KjCEcQyFBfFKgJjfRG/VXKf/K8AYUkluTBjiU2ZXVJSKvppiUCmoIDtVa9KW/CXfLZd1IgIJcpXzQ5l0B7yERzikvS7do84IjA==;7ySESrskAmlFGLX92cmY9A=="
 ---
 

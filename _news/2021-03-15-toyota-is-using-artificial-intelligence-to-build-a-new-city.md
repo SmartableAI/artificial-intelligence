@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Toyota invests in Chinese self-driving partner Momenta"
+    excerpt: "Toyota Motor has invested in Chinese autonomous-driving startup Momenta as part of a $500 million fundraising round, expanding the Japanese automaker's development infrastructure in China as tensions between Beijing and the U."
+    publishedDateTime: 2021-03-19T18:38:00Z
+    webUrl: "https://asia.nikkei.com/Business/Automobiles/Toyota-invests-in-Chinese-self-driving-partner-Momenta"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F9%252F4%252F8%252F33118493-8-eng-GB%252FCropped-1616176229photo_SXM2021031900001956.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "dN5YMlnq+Xr91vZL30IQL7N6pB+Ph2GATaq7y9+HGOGfMSr+j+GS4s5ghwoQfTHBfKEPo0SMSwo3gC+ZnMMzVgobT5Bj+LIprul0FgrYzeeJ7otXk+09QePxhx4swZROMvAhgQ3cO+K2rhirnAmd0Q2cgga+9iAapAIltDolVN4w01YJiyive/uoTBCRpeBLEPPvfEaT0UV0XAHdsqZDPRAZf3a32gjhhd3Hehi5zeBtG2YtNwb1csHn8k2oNVcqH+sFGoL0wq8/wXskA9sNv4sEkZnbAcUoPTdInv6Ubt/Y7uUSNXPwvgZ5MF7XZmCY6C7a3IxeUGYyRU1Q+YyCp1xTuWb5taq+37y2a0RrcWFbrihJhGrNWq31yMw6SytZmWH/J3NcUxeH1NNZiA2Sf0kBpMx8sCtgOT4rnnQH941xGGq5oOQt3A7AL650UZv5iJDKlYONABBnQebpZPEiOcZRrPyL3Z4ykk+4aSoAsZ8kfdLLvzDzDwU1l4xw+nKWKRKIzed45Ni0jP/7f5W+LA==;RF2ouI9cgHRTlh4119I7fg=="
 ---

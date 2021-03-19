@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-applicatio
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/amp/"
 type: article
 quality: 71
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -202,6 +202,15 @@ related:
         width: 336
         height: 335
         isCached: true
+  - title: "AI-based smartphone apps for risk assessment of skin cancer need more evaluation and better regulation"
+    excerpt: "Smartphone applications (“apps”) with artificial intelligence (AI) algorithms are increasingly used in healthcare. Widespread adoption of these apps must be supported by a robust evidence-base and app manufacturers’ claims appropriately regulated."
+    publishedDateTime: 2021-03-19T19:32:00Z
+    webUrl: "https://www.nature.com/articles/s41416-021-01302-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 1
 
 secured: "1BH87hUOPRS8QEmbUQOokbv85WQnBX8wu7S+ZI8Q/O2khTYkIb9bwUg6Kt90HWil3FubZ//xK/qWZ3LlBHDHXO9WEIVOgqmkBxB6W1bIAdd17IGXJm/wBI6q8X/GJ2x9IEL6v7Fw2rV9rRbPV3qyX2Q0Z1lrloSD9mLhNcYyHMESeGFUeCB5/2P8+NHOWveUymmy2uInq1J0hyVtKfMh0O/IS6SwBrWe/AsUrP2DG4Lm4PK8h+t+5MQAvuBPY4YCjAPWl8HTgN+EZAEU1m1SCG8L7vY8mJqxDWiyZeY1Wmkk6jDthtrbVJuv2ppN6/RYGIvC6L9ge1qprYHpohIeD7cgVMSgt+/NB7PJ3sLuFKQ=;gWuubmP8ZomZCLVJ0GDZkQ=="
 ---

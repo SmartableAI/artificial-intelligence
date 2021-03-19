@@ -16,7 +16,7 @@ provider:
   name: New York Times
   domain: nytimes.com
   images:
-    - url: "/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -29,6 +29,6 @@ images:
     height: 549
     isCached: true
 
-secured: "kXSMEYhlkuE5aQ+8HIn/aA4xzTG/UUScfu0RxC5QSB93x6XmnCL6l6VlLpyky9Ht1IYlxilmqVphYIb6CW2oloSpBV6PcBeuiJ10QPJatdnpxpxdzII0ozBgiqyc+lbKCUvzoebZP2WltPp/+EYaFBpQVzz20VTVdrad0S4IIGojhPpb0bYbicrnarQVhgEK1txanbQ8Gf/kKtOUqCQuurSHBdHOOqyBMQuCOPRY5xiu+CJ4UQ6zKPHs9ZUsq468rQRis+rMinLdm1Ogw9QRVtYdJv1HxcO/kYxd6U5pRtCbNsp5GaN7tknyoubJe9C23L3g228uxFNmwciT3c+271wQCf1rgv0BSVuHpZkzbhs=;/euCN0/546d3SF70y9hHow=="
+secured: "jvJuXXbYSzIN4rCieo2pGsIAGNxuu8l/3UsxTgkNKSzgHr8VbKqISFQm06KVQTBgJ07D+Zq/LOvL09qGRlOyW7cBHOEJ480aOQdJbTbvYaWWwDhCH8HlIailCczNB3Zj4+6G53xlY2BgFP46+MB/h4Zobg1RIq8xg7hsHAjenJFcWaU/PkRuO+Y0bCCb01VQGuL8aP9loTZq+PiMfo8K5Whna1DrtN4yhrq8N/BgXCf7C1pCkORx00TaAe6ENDoQmEx5vOhWPwx0YPg9VSXdhr7tx3czyBWFC+h9p6Y6jl5PBE/x//N2S9HwJYjL/QQOjBVkHBPqU9+DPUEgCjPHm6tX668n7WzUqZGcsuPSTgHPvvij/iMzKFwjH91434elVJTZyF/8odLLSksREEgdOXWMzCv978zPCsg22kwBZ7i/sh0ehUh46b4XAh7H7kv0sVjVqhQVIZ/zpY2XVi2S/ppa7CMyioHusr4aTlaIKMXdlbC0AfYog1hKXMChO5RwOboB6x+EnT+WzO61nPkcE4JZ94CcZR8M/WAiT66r0Wk=;4p/vn1aYuFtpJRqWlcyM/g=="
 ---
 
