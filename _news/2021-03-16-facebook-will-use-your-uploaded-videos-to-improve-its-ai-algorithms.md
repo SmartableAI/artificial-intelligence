@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook Teases Futuristic Wrist-Based Wearable That Will Let You Control AR With Your Mind"
+    excerpt: "The Facebook Reality Labs Research team’s biggest challenge is ... Facebook has said it envisions AI as a critical part of the formula to help provide you with the right tools or commands ..."
+    publishedDateTime: 2021-03-18T23:15:00Z
+    webUrl: "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201"
+    ampWebUrl: "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 64
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zjg5furu529dadyr79at.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Facebook will use your uploaded videos to improve its AI algorithms"
     excerpt: "The company said it would help improve both its moderation efforts and recommendation engines for video.In its blog post, Facebook said the algorithms will learn 'themes' from the videos users watch a"
     publishedDateTime: 2021-03-14T13:26:00Z

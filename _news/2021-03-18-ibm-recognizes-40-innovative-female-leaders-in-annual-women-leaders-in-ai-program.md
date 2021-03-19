@@ -39,6 +39,22 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "What a potential sale of IBM's Watson Health means for AI in healthcare"
+    excerpt: "... of use cases might be a clue about why IBM is thinking about selling Watson Health. The recent rumors may reveal more about IBM's approach to the challenge than what AI can do for healthcare. Jeff Cribbs, a research vice president at Gartner ..."
+    publishedDateTime: 2021-03-18T07:33:00Z
+    webUrl: "https://www.techrepublic.com/article/what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/what-a-potential-sale-of-ibms-watson-health-means-for-ai-in-healthcare/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 121
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/resize/1200x/68d67e3f1554eff3bec8c3e35f5284f0/20210211-healthcareai-karen.jpg"
+        width: 1200
+        height: 674
+        isCached: true
   - title: "Independent study finds IBM Watson Discovery customers can accrue $6.13M in benefits"
     excerpt: "The impact of natural language processing March 2021 saw the release of a commissioned study conducted by Forrester Consulting on behalf of IBM. The Forrester Total Economic Impact study aims to examine the potential return on investment (ROI) an enterprise may realize when deploying the IBM Watson natural"
     publishedDateTime: 2021-03-15T15:00:11Z

@@ -114,6 +114,22 @@ related:
         width: 1170
         height: 780
         isCached: true
+  - title: "Facebook Unveils AR Control Device That Taps Into Your Nervous System"
+    excerpt: "Facebook has a team of engineers working on next-generation computing devices and interfaces. The group’s latest prototype: a wrist-based controller that uses a combination of artificial"
+    publishedDateTime: 2021-03-18T22:31:00Z
+    webUrl: "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/"
+    ampWebUrl: "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 44
+    images:
+      - url: "https://variety.com/wp-content/uploads/2021/03/Facebook-AR-wrist-controller.png?w=711"
+        width: 711
+        height: 400
+        isCached: true
   - title: "Facebook Shows Off Trick Neural Wristbands That May One Day Interface With AR Glasses"
     excerpt: "Facebook CEO Mark Zuckerberg went on a podcast to talk about the future of augmented and virtual reality. In his discussion, he explained that he wanted to see Facebook manufacture its own hardware and thought that the platforms would be the next big thing in tech."
     publishedDateTime: 2021-03-18T20:20:00Z
