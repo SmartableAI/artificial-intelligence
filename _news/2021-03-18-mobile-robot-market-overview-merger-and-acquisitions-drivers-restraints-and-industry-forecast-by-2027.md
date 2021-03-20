@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/mobile-robot-market-over
 webUrl: "https://www.marketwatch.com/press-release/mobile-robot-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027-2021-03-17"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Market to be Driven by the Rising Digitalisation of Data in the Forecast Period of 2020-2025"
-    excerpt: "Artificial intelligence finds its application in a wide variety of industries such as healthcare, retail, automotive, finance, and manufacturing. The rising number of start-ups who are generally reliant on artificial intelligence are propelling the market ..."
-    publishedDateTime: 2021-03-15T10:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-to-be-driven-by-the-rising-digitalisation-of-data-in-the-forecast-period-of-2020-2025-2021-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

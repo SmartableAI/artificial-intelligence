@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-16-amgen-announces-artificial-intelligence-ai-partnership-with-mila.md",
+      "title": "Amgen announces Artificial Intelligence (AI) Partnership with Mila",
+      "excerpt": "CNW/ - Amgen announced today that it has entered into a multi-year partnership with Mila – Quebec Artificial Intelligence Institute. One of the world's leading biotechnology companies, Amgen uses cutting-edge science and technology to discover and develop innovative therapeutics,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1456317/Amgen_Canada_Amgen_announces_Artificial_Intelligence__AI__Partne.jpg",
+          "width": 400,
+          "height": 218,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-bmws-idrive-8-helps-drivers-using-machine-learning-and-natural-language-processing.md",
       "title": "BMW's iDrive 8 helps drivers using machine learning and natural language processing",
       "excerpt": "It’s about to get even better — think, natural language processing, gesture control and cloud-based machine learning — with the release of its latest iteration, iDrive 8, aboard the upcoming BMW iX and i4. The system’s onboard AI, BMW Intelligent ...",
@@ -896,6 +949,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-08-building-ai-for-the-global-south.md",
+      "title": "Building AI for the Global South",
+      "excerpt": "Is AI getting used responsibly in health ... those with less text data for machine translation training than languages like English or French. Research published at FAccT this week highlights ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/07/building-ai-for-the-global-south/",
+      "originalUrl": "https://venturebeat.com/2021/03/07/building-ai-for-the-global-south/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/david-watkis-UKjPDfyJI4w-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/07/building-ai-for-the-global-south/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/07/building-ai-for-the-global-south/amp/",
+      "publishedDateTime": "2021-03-07T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
       "title": "Facebook’s new AI teaches itself to see with less human help",
       "excerpt": "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels.",
@@ -1374,92 +1479,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-voice-and-speech-recognition-market-2019-global-industry-analysis-report-to-2025.md",
-      "title": "Voice and Speech Recognition Market 2019: Global Industry Analysis Report to 2025",
-      "excerpt": "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe. Integration of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2251448/voice-and-speech-recognition-market-2019-global-industry",
-      "originalUrl": "https://www.openpr.com/news/2251448/voice-and-speech-recognition-market-2019-global-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U303886306_g.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2251448/voice-and-speech-recognition-market-2019-global-industry",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2251448/voice-and-speech-recognition-market-2019-global-industry",
-      "publishedDateTime": "2021-03-03T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-lets-talk-interactive-and-voice-products-inc-partner-to-offer-voice-commanded-hipaa-compliant-telehealth-and-video-conferencing-solution.md",
-      "title": "Let's Talk Interactive and Voice Products Inc. Partner to Offer Voice-Commanded HIPAA-Compliant Telehealth and Video Conferencing Solution",
-      "excerpt": "Let's Talk Interactive, Inc. (LTI), a leader in customizable telehealth solutions, today announces a partnership with Voice Products Inc., a voice, transcription and",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/lets-talk-interactive-and-voice-products-inc-partner-to-offer-voice-commanded-hipaa-compliant-telehealth/article_4d819167-05a5-5d77-9d1a-ac1300770533.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/lets-talk-interactive-and-voice-products-inc-partner-to-offer-voice-commanded-hipaa-compliant-telehealth/article_4d819167-05a5-5d77-9d1a-ac1300770533.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/a1/ca1a3b98-3568-523b-95ef-ca5ff6e6d97b/60421af461767.image.jpg?resize=944%2C630",
-          "width": 944,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

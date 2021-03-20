@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market to be Driven by the Rising Digitalisation of Data in the Forecast Period of 2020-2025"
-    excerpt: "Artificial intelligence finds its application in a wide variety of industries such as healthcare, retail, automotive, finance, and manufacturing. The rising number of start-ups who are generally reliant on artificial intelligence are propelling the market ..."
-    publishedDateTime: 2021-03-15T10:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-to-be-driven-by-the-rising-digitalisation-of-data-in-the-forecast-period-of-2020-2025-2021-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "lBq0MP+ng25gy1UPPlVthvevQpSLFVc5z+UjMpjLjUe+48aQ3PxowpL+UWMPe2xh7OOGeIjxGN4rrKhz1lZth9wlHyUehlKk5CuJZDM6R8uuFO3FqVo85279FcHyDRv0jg99BVJ16BUQHaJyAe0HWRL1QZBV3l1AlMzmUVQIiZHQ2d9W2x2BZgLbm96q5kZzmV3nmaXTVFH3CFa7liz1EBFhLILUZyj8ud153UfgLogUTUJoOajt86zowRhKVJOw8/rOaELLZBxYlCb3QbuU3iqrTpRHiqP/8S/kfy+52EgjwIcu1lsxnHv547AS/wy2jy7O8TVdJR8v++0JfRwilzw7ND/okelD6iQB8IPBOfw=;Y1GQZ/3mtiQREO+dRESwFA=="
 ---

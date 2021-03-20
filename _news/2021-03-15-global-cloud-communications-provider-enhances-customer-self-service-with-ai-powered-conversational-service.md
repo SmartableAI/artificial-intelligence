@@ -25,32 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "Busting misconceptions over AI in manufacturing"
-    excerpt: "Providers such as Microsoft Azure support open-source AI solutions such as those provided by Rockwell Automation with a focus on integration between cloud and locally hosted application components. In order to start embracing AI companies must carefully ..."
-    publishedDateTime: 2021-03-15T09:48:00Z
-    webUrl: "https://www.theengineer.co.uk/busting-ai-misconceptions/"
-    type: article
-    provider:
-      name: The Engineer
-      domain: theengineer.co.uk
-    quality: 39
-    images:
-      - url: "https://theengineer.markallengroup.com/production/2021/03/AdobeStock_268844564-750x500.jpeg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "DeepHow Bridges Skills Gap in Manufacturing and Field Service with AI-Powered Video Training Solution"
-    excerpt: "DeepHow, the AI company that turns know-how into smart, how-to training videos, has officially launched its AI-powered training platform for manufacturers and field-service teams."
-    publishedDateTime: 2021-03-18T11:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/deephow-bridges-skills-gap-in-manufacturing-and-field-service-with-ai-powered-video-training-solution/article_15ccb725-df7b-5847-8e6c-fb28144e2fdb.html"
+  - title: "A Top Computer Science Professor's Insights and Predictions for Conversational AI"
+    excerpt: "About Jason Mars, Ph.D. Jason Mars has built some of the world's most sophisticated scalable systems for AI, computer vision, and natural language processing. He is a professor of computer science at the University of Michigan where he directs Clarity Lab ..."
+    publishedDateTime: 2021-03-16T16:56:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-top-computer-science-professors-insights-and-predictions-for-conversational-ai/article_dbbeaaed-6d96-5089-bdda-41cc621ac013.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 24
+    quality: 34
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/12/a12bb387-533b-56d0-b79e-23f2e3b65493/60532c1c5c3fa.image.jpg?resize=1119%2C630"
-        width: 1119
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/46/04632a27-4719-5de6-b45d-e1774dad218f/6051d05d73ffe.image.jpg?resize=698%2C630"
+        width: 698
         height: 630
         isCached: true
 

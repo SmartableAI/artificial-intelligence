@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market to be Driven by the Rising Digitalisation of Data in the Forecast Period of 2020-2025"
-    excerpt: "Artificial intelligence finds its application in a wide variety of industries such as healthcare, retail, automotive, finance, and manufacturing. The rising number of start-ups who are generally reliant on artificial intelligence are propelling the market ..."
-    publishedDateTime: 2021-03-15T10:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-to-be-driven-by-the-rising-digitalisation-of-data-in-the-forecast-period-of-2020-2025-2021-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robotics Market Major Growth Factor – Increasing demand for automation in automotive industry : MarketResearch.Biz Study"
     excerpt: "Robotics technology is widely used in various industries such as electronics, healthcare, artificial intelligence, defense, mechatronics, aerospace, nanotechnology, and automotive and infrastructure. Influence of the Robotics market report ..."
     publishedDateTime: 2021-03-16T08:43:00Z

@@ -125,20 +125,6 @@ related:
         width: 768
         height: 511
         isCached: true
-  - title: "The Elusive Dream of the Driverless Car"
-    excerpt: "that once redesigned by the Stanford Artificial Intelligence Lab could travel autonomously at about a mile per hour by 1971. But getting from that cart to the mass adoption of driverless cars in our cities and streets is akin to the difference between ..."
-    publishedDateTime: 2021-03-15T09:59:00Z
-    webUrl: "https://www.motherjones.com/politics/2021/03/the-elusive-dream-of-the-driverless-car/"
-    type: article
-    provider:
-      name: Mother Jones
-      domain: motherjones.com
-    quality: 39
-    images:
-      - url: "https://www.motherjones.com/wp-content/uploads/2021/03/what_is_AWC_doing_Blair-Parsons_Burrowing-Bettong-632x440_web.jpg?w=600"
-        width: 600
-        height: 338
-        isCached: true
   - title: "FMCSA driverless truck message stokes unnecessary fear"
     excerpt: "The FMCSA acting administrator said driverless trucks will lead to \"a major shift in the workforce,\" though a Trump-era DOT policy official said the data tells a different story."
     publishedDateTime: 2021-03-17T14:55:00Z

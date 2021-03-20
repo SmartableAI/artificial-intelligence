@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-finte
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/amp/"
 type: article
 quality: 81
-heat: 131
+heat: 132
 published: true
 
 provider:

@@ -1,25 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence in Digital Pathology, Upcoming Webinar Hosted by Xtalks"
-excerpt: "Which artificial intelligence method will work best with your image data? Image analysis is an essential part of digital"
+excerpt: "Which artificial intelligence method will work best with your image data? Image analysis is an essential part of digital pathology, from research and discovery of targets and biomarkers to understanding the tumor microenvironment to development of novel therapeutics."
 publishedDateTime: 2021-03-19T12:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20252581"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20252581"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks/article_63ced69d-f0a5-53a5-8b72-e31cf1eeaab7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks/article_63ced69d-f0a5-53a5-8b72-e31cf1eeaab7.html"
 type: article
-quality: 35
-heat: 35
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "QrXBkYAAQ1noxW9DpYJEsi+KzRFwM1CsCKs9Yh7JwDuf1x82O1ocAUJKWcG72De31f2zQN5MFO9a/Cf+7r3QBpZgpExt565sgdogrRGKriQrcJ3sqfh77axfqby/tDRq2S0dwWgdZnt6bDfRkyQr1jn6F4tXwYympKK8oYpjFRbsnHmYa257uKYLXUBNI3Wk7VrNdZH9YFbAUeVWabcrkTunJ9hQu4EnqVSv+7Y07bqhXe1S6RYxZPA/UZeCxLvwelFXVZjqDqBqjOLAIvdHfOPVZuHXgrSff56/XQ+JohIDFywEeSXMe2cW2yGDNQOieDHXa0SKW949kh+MoUm1cvaK7716mHubim/KCADAXyk=;faL56sj+x0N+W7xM3ooopw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "cghtnOUpbjAFLPo5AAHIPtXEkF4DwqptT89k7UtoXF6zYtARRFAY6MW/nou/MeQqYnMvbE2rVr0EQNIpoS1rrR/xGdPdUngZBtlPYxY25fHFIJSa5SSWfB5jnGTLw77HRnR5jiGKvxsgG+1l+vDPDpsolbB/ddQGyEytcA+JBC/xC6HVR6w2YqkGam6F+oRIfBghhkS0eD26wz6CJDTCBfubzFb7kyU3Yyaj1zwYYDgDJwR2K9qiIYeT5UC8sa5WpHkAsCxYKKNk8daqg5/OydkTSPIOzxr7W2BI+z0H2so0kHjXrUUHqxPJf+zd/XowCzE9AlcG1p4lc+tkUvcvRHYXMAGCzpY0N1bfgrBo+e4=;XeWYI/WMi7X0Lfads5HwYA=="
 ---
 

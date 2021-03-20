@@ -2,13 +2,13 @@
 category: news
 title: "Amgen announces Artificial Intelligence (AI) Partnership with Mila"
 excerpt: "CNW/ - Amgen announced today that it has entered into a multi-year partnership with Mila – Quebec Artificial Intelligence Institute. One of the world's leading biotechnology companies, Amgen uses cutting-edge science and technology to discover and develop innovative therapeutics,"
-publishedDateTime: 2021-03-16T13:03:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214794"
-webUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214794"
+publishedDateTime: 2021-03-16T13:45:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798"
+webUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798"
 type: article
-quality: 64
-heat: 64
-published: false
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: Business Insider
@@ -21,7 +21,14 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
-secured: "DnFQt7Mq2x0YBgHAR35cSLPfr1HbK8ZZJb48UrgCwW6Gzl6cce/q4BIereLwJ3FXRSNSFZvv86ELt37UW6/RChCq6wLuwd3mMgu9V5+BCv+x0nOYi0pPLQRuC+csqh4wwOYlxp79TYZCx+lcqZnTNu6U3ZaUMeN7yLfedBjUzD0oFv6bVHtTMVV8vogCXUMeylQJndhk+G+nANfpapzpErQnlF2aHJiVBpe+NzhxA6VIsHtSEgE3vnAX85hhSCBiKzz8Aa9g0yr/HrNI3SqDtuRyn8NHGcIIA6W5c80Akp2br3xIFXw8dTXYBshRcxPJGsej9wCW+87eJaac5SmBjwU/mr15S2BjGspLJHsXK2Q=;jJ8VYLYRJnHhUgauTMgOBw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1456317/Amgen_Canada_Amgen_announces_Artificial_Intelligence__AI__Partne.jpg"
+    width: 400
+    height: 218
+    isCached: true
+
+secured: "MmLLyQYK499jWD6381+aeAPm7Iq56fzbPN3G+/Fgha/gqSF3gyWwuVSYgPIx9pKbiEWA/goixYF3dh2dYc/zMjOE9c7CkuZCmxpr32xqvTev3uJMxwu99Hb15E6ZeXzXZ+0+lEf9GbLCn8SHJ0mMRjWC2b5SftlRzVEn5jXfdoa218SVk1lxVX5wh//NevjUYXOHd/I0P/TaUHHlR2VUsHXBC/DNysjPqdn0ToazvkYs2+RBJ2uvRa/ZBcFqxMKzB87B7OGZU30m/XuctSj1Ezn0MqRkiWJFpoZ8IrZ64jHqHrc679jX4VjluM4mDrx3THEFheEJC7OtG8Aa2XLNKjp12nHwDh/ASKnktbTk6d4=;6M82jsU7nkdKrTa9a/fzXA=="
 ---
 

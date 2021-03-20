@@ -85,20 +85,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "5 trends and opportunities for the FinTech industry to watch out for in 2021"
-    excerpt: "the emergence of various disruptive technologies such as AI, blockchain and cryptocurrency, increasing focus on open data opportunities, regulatory clarity in jurisdictions has all contributed to the revamping of the FinTech ecosystem. Even though one ..."
-    publishedDateTime: 2021-03-15T09:59:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-trends-and-opportunities-for-the-fintech-industry-to-watch-out-for-in-2021/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 21
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/fintech-APAC.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "gDUDldL8UDqOHV+gyRyjmQWEP+04aWocR+Z1AVm8Pu8EynHN9D+B1PQ8yLfyKbwDWTREhtPk7STfMHJtVHs4KRgvLFGp3KTz5rflpaOgHF2Xialj5ckbfxgNfjbxSEMTOVq1Cxe8qGyMcuQCN3FNy545k6kYm/ZbZ6jfFlX5/jvNdG5JfFFeZvX3xqN4Ziwu+Joi0rTDT7KRGN+3VtiUON1HmHauiRZhyFrlWn3A4XvM0pOhn02nF2s4QjnEFxqfK8PCRyYKmnvEh+py2+ELs/xRWJjmwY2fjYHDiHWTj5XVoHB7FQUevP2h8EPL1s1FKX4eQ1BrRWF59O/unvyTMU54tGMmjgKPaJsV13Q0gsQ=;5ZEYhZw4x+JpBQU/RnlciQ=="
 ---
