@@ -24,38 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprise workflow automation startup DeepSee.ai raises $22.6M"
-    excerpt: "DeepSee.ai, an enterprise workflow automation platform ... “In only the way a startup could, we managed to find innovation in that constraint and developed a tool for training across small ..."
-    publishedDateTime: 2021-03-15T12:10:00Z
-    webUrl: "https://venturebeat.com/2021/03/15/enterprise-workflow-automation-startup-deepsee-ai-raises-22-6m/"
-    ampWebUrl: "https://venturebeat.com/2021/03/15/enterprise-workflow-automation-startup-deepsee-ai-raises-22-6m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/enterprise-workflow-automation-startup-deepsee-ai-raises-22-6m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "DeepSee.ai raises $22.6M Series A for its AI-centric process automation platform"
-    excerpt: "DeepSee.ai, a startup that helps enterprises use AI to automate line-of-business problems, today announced that it has raised a $22.6 million Series A funding round led by led by ForgePoint Capital."
-    publishedDateTime: 2021-03-15T12:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/15/deepsee-ai-raises-22-6m-series-a-for-its-ai-centric-process-automation-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/03/15/deepsee-ai-raises-22-6m-series-a-for-its-ai-centric-process-automation-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/15/deepsee-ai-raises-22-6m-series-a-for-its-ai-centric-process-automation-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1297327343.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Torch.AI raises $30M for AI that unifies disparate enterprise data"
     excerpt: "Torch.AI, a startup developing a platform to normalize and analyze disparate data, has raised $30 million in venture funding."
     publishedDateTime: 2021-03-17T11:00:00Z
@@ -70,19 +38,30 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "DeepSee.ai Announces $22.6M Series A Funding to Enable Enterprises to Turn Data Into Assets for “Months to Minutes” Efficiencies"
-    excerpt: "DeepSee.ai, the leader in AI-powered Knowledge Process Automation, today announced it has closed $22.6 million in Series A funding led by ForgePoint Capital, with participation from previous investors AllegisCyber Capital and Signal Peak Ventures."
-    publishedDateTime: 2021-03-15T12:47:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-sports-industry-regulation-corporate-news-e045440d1a25462c9e28d89aef5ee8fe"
+  - title: "AI patent intelligence platform PatSnap secures $300M"
+    excerpt: "PatSnap, a startup developing AI technologies to analyze and organize patents for R&D, has raised $300 million.Read MoreRead more on 'VentureBeat'"
+    publishedDateTime: 2021-03-16T23:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+  - title: "Startup Viz.ai Raises $71 Million in New Funding"
+    excerpt: "Viz.ai has raised $71 million in new venture-capital funding."
+    publishedDateTime: 2021-03-17T11:30:00Z
+    webUrl: "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.wsj.net/im-312633/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "YRWfHIZgyvafx4VoBLeXOmwyF2upxFaD+c10f170CqorAnzOGS0uUIvlje8G8/G+LS1SIHvqxh+sqof+gF+gJERpSkEIR6UQVtHAvk55Qo6ibs6pJtPlzYw5MV6RcWKmg/QCrbC0pOudj5HRDESzrU3/LbxHGIHw/fPwnF84TpQun5UhVBxVKcmoBbv/8qMwUpcmiJ6GqEtS20yC8wRIvt5371XYjLDGugsMWqphQB7DCrZZ8TBtmMG2Mgtz3xR3E+Dhqo9JU3xN0KwbdCYRMcJzDnqM29sWuGL87yZWW0us7FSJtIsuqRD8VSZa2eRTapP2h2vzHgDTaz1oUIhC4h50oU0nxM9C73pC3Igjq/hzgD9HOr1hQppaW/eBs3QBCNC1LV7eWfSeQbnUZo1Wys3v3g/CN5OAF6Pa31pB24UtVAp1xoZ++KSFAN3Txn5IDIVnIlBz01/lZzwlfQGsQI1JaPD8fR3+soDXjLLvoGp69rrbTHdH1FCsCDNqqkAUOY/0BazVCtMebMh8qvRo+g==;isVSmvxceZyBNQa3V2zS/Q=="

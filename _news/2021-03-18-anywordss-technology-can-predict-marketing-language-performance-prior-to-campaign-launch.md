@@ -40,20 +40,6 @@ related:
         width: 480
         height: 610
         isCached: true
-  - title: "Anyword Introduces New Marketing Language Platform, Merging Performance Data with Cutting Edge AI to Drive Results"
-    excerpt: "Anyword, formerly known as Keywee, is the world's first Language Optimization Platform that helps marketers easily optimize the words that they use, introduces"
-    publishedDateTime: 2021-03-15T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/anyword-introduces-new-marketing-language-platform-merging-performance-data-with-cutting-edge-ai-to-drive/article_ec4a0cea-0cd2-5845-b5d8-bfbaff9fd4c7.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 34
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "H89EUWmxPo7t4s8OOawtNzuDLBGmlpnCwDzy38yxcfjIxJ8xRatZ73LrX7s0oMtcaZwJv+lwGyaU+yQ6B0x7SuoON9m86F2XiSEKp1CnAmu73HsNY+UT64qNpdzUaalbz4Pt/ipJJvMnkxHgFkXewDgutbuSZbJpjrj4UpSIx0Wd06GrVhEMBvm3XM5gAzE8FZwtm4YEBXMIV84hgH5CncAtYheWVi+mUL/Fl+o7wIssikqEiGueIDJdLc/p9DzwH7zMVjlRurDxDuxm7dOJBBc90n80NmitYTF2SApxrA0hfTiICX1kL9LOEnOQAlYctpn6AIRWVGRewRVjLbByVNFuJ6Barf5glLct5y63u10=;vG1mX81Pe4cfqNUdyBdhEA=="
 ---

@@ -1,27 +1,30 @@
 ---
 category: news
-title: "13 startups selected to join Microsoft AI for Social Impact programme"
-excerpt: "Microsoft has announced that it will work with 13 startups to develop artificial intelligence solutions under its AI for Social Impact scheme"
-publishedDateTime: 2021-03-19T11:21:00Z
-originalUrl: "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/"
-webUrl: "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/"
+title: "Microsoft's Innovation Happened at the Intersections at Ignite 2021"
+excerpt: "But so far, Google has fallen short within its core platform. Similarly, Amazon Web Services (AWS) has yet to announce compatibility between Amazon SageMaker and AWS Outposts, although I expect it will do so imminently. Another big move targeted the ..."
+publishedDateTime: 2021-03-17T00:00:00Z
+originalUrl: "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/"
+webUrl: "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/"
+ampWebUrl: "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/amp/"
+cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/amp/"
 type: article
-quality: 54
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Information Age
-  domain: information-age.com
+  name: CMS Wire
+  domain: cmswire.com
 
 topics:
-  - Microsoft AI
+  - AWS AI
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://s27389.pcdn.co/wp-content/uploads/2021/03/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.jpeg"
-    width: 1013
-    height: 675
+  - url: "https://www.cmswire.com/-/media/2b950510820e495db2657738ce677805.ashx?mw=1024"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -61,22 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft's Innovation Happened at the Intersections at Ignite 2021"
-    excerpt: "But so far, Google has fallen short within its core platform. Similarly, Amazon Web Services (AWS) has yet to announce compatibility between Amazon SageMaker and AWS Outposts, although I expect it will do so imminently. Another big move targeted the ..."
-    publishedDateTime: 2021-03-17T00:00:00Z
-    webUrl: "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/"
-    ampWebUrl: "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 61
-    images:
-      - url: "https://www.cmswire.com/-/media/2b950510820e495db2657738ce677805.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
     excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital ... solutions based on Microsoft cloud, edge and AI products,\" indicated Omar Abbosh, Microsoft's corporate ..."
     publishedDateTime: 2021-03-17T22:36:00Z
@@ -90,6 +77,20 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0614vsm_Steele.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "13 startups selected to join Microsoft AI for Social Impact programme"
+    excerpt: "Microsoft has announced that it will work with 13 startups to develop artificial intelligence solutions under its AI for Social Impact scheme"
+    publishedDateTime: 2021-03-19T11:21:00Z
+    webUrl: "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 54
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/03/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.jpeg"
+        width: 1013
+        height: 675
         isCached: true
   - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
     excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft's"
@@ -140,6 +141,6 @@ related:
       domain: telecompaper.com
     quality: 28
 
-secured: "28bgIISYcRySxkpOskMghgN9QTu6tig4rIf3XQRvxBe7UyGutTBeO+Gx6HFZLf4ApfL9GgReWALtnxqPhC+fQ6qZWPJMh1X9BzA4vYQQ6nNqYp1On7+00WBkbf9ZsecfM61KhvDvz3OuS+17Dt7fltHgmSfWeqbAcOelGgbSR0ZjtGF+6DY0br48c5fh5WFJjhVsD9oFfMe3KbMfCCEQBjkdj7M/PNjhEdQcTXWri42WLhOsrTyBGQeSwWvxJvaT0lMwcG4iZhvpcPD0kWuaP0DYQxY3ozi3qYSDfIPb10jBXnnX44axUwYemD/avhvLVFWePrHadYjf1AyncSBdphtOM1jH7UvMnA4sAo6oDoFMrKmz0ftUFejcr2hHLpo5alSy788i5Z+hLApgb0JC8XfasvGK0Fac1VlxfpdRIlo5Z0jgaSsh/2utEXOAhePiPA/6UQfWZ8QXugt7zA+vBTLWXKK3sxSeyQu+vK4I7zY4z7R1SjR+dZyglATug/pDQsFGX5yYHOf+FCJ2mrq/uA==;6485TPFzBDPBaf2mi9fvvg=="
+secured: "xqYf8xWDMZRUewxXRKjhxgaJCg3eH4R/jgzvEsKdj1k5DyilXBadVoLK/gc6/lGFkYl1KUQKkQgNvWexfNHe+ncOa090kxcBsfN6Q3kExXibIKQuhIXijBxYMOGZtQFnNo3ANwC29v52Mmqst1R6GEFoppB4Kd/MYXzCPDLLSEyi5brTIYYYYztQzXrevsuG9/uEfNr6UcZwyPMWMVcBt9KVVKnYOFfn5sFfRW2Tz/glgEgpaDC5NQaZMwQE/46s61F8EgpDNcRxnMjND8TvYxD1FZBXx2i+xRrR2P1VJ8uFvSyKRZccjmw4vBvFclhNs56wRyo5or2IozBPw+alV5zKu4DVPH6Tf41jLo5Xj0w=;FSYyQO10pF3nL/tPEM8H6A=="
 ---
 

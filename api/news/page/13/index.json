@@ -2,6 +2,110 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-08-google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech.md",
+      "title": "Google Billionaire Eric Schmidt Warns Of 'National Emergency' If China Overtakes U.S. In AI Tech",
+      "excerpt": "Former Google CEO Eric Schmidt on Sunday urged lawmakers to ramp up funding for research and development in the artificial intelligence space in order to prevent China from becoming the biggest player in the global AI market–a development Schmidt warned would spark national security and privacy concerns that could ultimately constitute a national emergency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/",
+      "originalUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6045450b8882a468d26dd8cc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3448%26cropY1%3D124%26cropY2%3D2064",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/amp/",
+      "publishedDateTime": "2021-03-07T13:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-building-ai-for-the-global-south.md",
+      "title": "Building AI for the Global South",
+      "excerpt": "Is AI getting used responsibly in health ... those with less text data for machine translation training than languages like English or French. Research published at FAccT this week highlights ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/07/building-ai-for-the-global-south/",
+      "originalUrl": "https://venturebeat.com/2021/03/07/building-ai-for-the-global-south/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/david-watkis-UKjPDfyJI4w-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/07/building-ai-for-the-global-south/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/07/building-ai-for-the-global-south/amp/",
+      "publishedDateTime": "2021-03-07T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-seminar-on-artificial-intelligence-in-education.md",
       "title": "Seminar on artificial intelligence in education",
       "excerpt": "A three-day online international seminar on ‘Artificial intelligence in education’ will begin on Monday. Being organised by the State Institute of Educational Technology, in association with the Depar",
@@ -249,8 +353,8 @@
       "title": "Facebook’s new AI teaches itself to see with less human help",
       "excerpt": "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/",
-      "originalUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/",
+      "webUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1",
+      "originalUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -292,7 +396,7 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Facebook AI",
         "AI"
       ]
     },
@@ -1106,110 +1210,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-your-self-driving-car-still-isnt-ready-smarter-roads-might-change-that.md",
-      "title": "Your self-driving car still isn't ready. Smarter roads might change that",
-      "excerpt": "Washington, DC (CNN)Jaime Waydo spent years building self-driving cars at Waymo, and was quick to praise their abilities. The cars already had the experience of 300 years of average driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210302171954-01-v2i-self-driving-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
-      "publishedDateTime": "2021-03-05T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees.md",
-      "title": "IDC: Ethical AI is a team sport that requires smart and strong referees",
-      "excerpt": "New research finds that the lack of responsible artificial intelligence guidelines is one of the top three barriers to wider adoption.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
-      "originalUrl": "https://www.techrepublic.com/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/05/fb1dd7e4-3c17-4e5b-9ccd-017d2aa60e7a/resize/1200x/0f2fe69a0f1a68f01de5707589eb5521/aigovernance.jpg",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
-      "publishedDateTime": "2021-03-05T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

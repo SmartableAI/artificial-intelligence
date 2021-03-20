@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-machine-learning-
 webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-17"
 type: article
 quality: 67
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -155,15 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Military Market worth $11.6 billion by 2025 - Exclusive Report by MarketsandMarkets"
-    excerpt: "CHICAGO, March 15, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type ..."
-    publishedDateTime: 2021-03-15T11:33:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-03/52292865-artificial-intelligence-in-military-market-worth-dollar-11-6-billion-by-2025-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "Ku6nAk9X5oHX94Z7zXeBvb+djvQG7uo7zMwCEw08ns4GqUKrXEBxE/EizadS/Y2Fr5nC9VRh10TFX0hppJReSc/YiXxfB/om4fK5P8O9HcpQ0JvKUXU+S/Zdohf8nrO9uJD5dX7jtpey3cuBFaNKgy03hpulbz7WztAJgobMCHM303pRblNjizWdnzpFyLw57W+QtMTU9ab+xZ5GXNNTi67ZwT4pul2gWQ4p4/T11krdnhVvVfJqqrsEKunBY1/0UBunKPOQwok9vYOb/49+LyOScva0XR7tO3/8gg8UPwmFeWYRWjKJJjw7V8v7qaH/uzEk+KGM4oL9CkLoWCCD1D/xE73LIcCwmdrQeTn/L+Q=;kX0VEfi0uEYeYhJp+fV8eA=="
 ---

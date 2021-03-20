@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-15-why-your-ai-must-be-humble.md",
+      "title": "Why Your AI Must Be Humble",
+      "excerpt": "Every manufacturer needs to increase its velocity of information. Currently, manufacturers are experiencing extremely fast changes in consumer demand because trends now change in the blink of an eye.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/",
+      "originalUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f7d1fbcdabc13eac1f9f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/willemsundbladeurope/2021/03/15/why-your-ai-must-be-humble/amp/",
+      "publishedDateTime": "2021-03-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new-funding-said-to-be-at-us2-billion-valuation.md",
+      "title": "Chinese online search giant Baidu’s AI chip unit Kunlun completes new funding, said to be at US$2 billion valuation",
+      "excerpt": "recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about US$2 billion. The fundraising, which comes as Baidu pushes forward its AI chip design plans, was led by Chinese ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/15/a8a8db3b-e451-4f65-888f-982bc77e57b6_c78271b9.jpg?itok=rc5XR52f&v=1615794453",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
+      "publishedDateTime": "2021-03-15T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount.md",
       "title": "Cruise acquires driverless vehicle startup Voyage for an undisclosed amount",
       "excerpt": "GM-backed Cruise today announced that it’s acquiring Voyage, following a report in Bloomberg. The terms of the deal weren’t disclosed, but Voyage CEO Oliver Cameron said that “key members” of the Voyage team will join Cruise when the purchase is finalized later this year.",
@@ -1103,101 +1206,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-artificial-intelligence-update-how-will-the-proposed-regulation-of-ai-affect-medical-devices.md",
-      "title": "Artificial Intelligence Update: How will the Proposed Regulation of AI Affect Medical Devices?",
-      "excerpt": "The European Parliament recently approved an initial draft proposal for the regulation of ethical artificial intelligence (AI) and the first official draft of the proposal is expected in late April 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mhc.ie/latest/insights/artificial-intelligence-update-how-will-the-proposed-regulation-of-ai-affect-medical-devices",
-      "originalUrl": "https://www.mhc.ie/latest/insights/artificial-intelligence-update-how-will-the-proposed-regulation-of-ai-affect-medical-devices",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mhc.ie/uploads/How_will_the_proposed_regulation_of_AI_affect_medical_devices.jpg",
-          "width": 2908,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Law Firm",
-        "domain": "www.mhc.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars.md",
-      "title": "Self-Driving Cars And Those Brazen Dogs That Love To Chase After Passing Cars",
-      "excerpt": "Dogs love to chase cars, which will undoubtedly happen to self-driving cars, and AI driving systems need to be prepared to watch for and save those daring pooches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603d63aa27b9b02ad1c60215%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D165%26cropY2%3D2853",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/amp/",
-      "publishedDateTime": "2021-03-14T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

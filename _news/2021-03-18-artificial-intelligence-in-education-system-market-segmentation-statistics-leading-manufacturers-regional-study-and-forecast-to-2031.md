@@ -150,15 +150,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
-  - title: "Artificial Intelligence in Military Market worth $11.6 billion by 2025 - Exclusive Report by MarketsandMarkets"
-    excerpt: "CHICAGO, March 15, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type ..."
-    publishedDateTime: 2021-03-15T11:33:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-03/52292865-artificial-intelligence-in-military-market-worth-dollar-11-6-billion-by-2025-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "qyUPNimpVkT//W1+q+wh+KjUV6v22yXicqQcuUx8gwcBiJEedE+wX5pPuslq+yO4FvGEHhGmAFcwBrHpAfbbvIqwJxm/v8wBhw8+vHpm4Hulf5Ug5Da9z7Uo8m5iCHGeZyARSwXpet+ZFYHNeum88H8s6MAV86LX/ecE118vBMZQcxj7h8QwBV9w9Otdq6LwelDIAgmgvmau80oO6Wz4lLct5VTsKTd9uRiGlQTQ9ShKthEvARPzdJKoq7gE3TicY63pGh2UP/8O/ePP09DG1hrYqskFAlNg9AUiVOa+ZD9c9GJRjU1y5CzSgj4/K8yLzy5K1q4ruzgEpeyT9zjGuooz79vtDJD9kS4fHCIk+6Y=;Xd7xCa0gYr5RMGBNw9c08g=="
 ---

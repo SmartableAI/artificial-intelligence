@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3125488/chinese-online-se
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/39474552481_55d78dfe04_o.jpg"
         width: 662
         height: 435
-        isCached: true
-  - title: "Baidu’s AI chip unit Kunlun raises $2bn"
-    excerpt: "Baidu Inc said its artificial intelligence chip unit Kunlun raised around $2 billion, according to a source with direct knowledge of the matter, Reuters reported."
-    publishedDateTime: 2021-03-15T12:32:00Z
-    webUrl: "https://www.capacitymedia.com/articles/3828015/baidus-ai-chip-unit-kunlun-raises-2bn"
-    type: article
-    provider:
-      name: Capacity Media
-      domain: capacitymedia.com
-    quality: 54
-    images:
-      - url: "https://capacityliveblobstorage.blob.core.windows.net/files/Samsung-Baidu-Chip-3.jpg"
-        width: 900
-        height: 618
         isCached: true
   - title: "Baidu : Top Artificial Intelligence Innovations From the Chinese ‘Google’"
     excerpt: "Beijing based Baidu Inc., host to diverse artificial intelligence innovations. This includes Autonomous driving platform Apollo, PAddlePaddle, ERNIE, DuerOS, LinearFold, etc."

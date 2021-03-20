@@ -71,20 +71,6 @@ related:
         width: 662
         height: 435
         isCached: true
-  - title: "Baidu’s AI chip unit Kunlun raises $2bn"
-    excerpt: "Baidu Inc said its artificial intelligence chip unit Kunlun raised around $2 billion, according to a source with direct knowledge of the matter, Reuters reported."
-    publishedDateTime: 2021-03-15T12:32:00Z
-    webUrl: "https://www.capacitymedia.com/articles/3828015/baidus-ai-chip-unit-kunlun-raises-2bn"
-    type: article
-    provider:
-      name: Capacity Media
-      domain: capacitymedia.com
-    quality: 54
-    images:
-      - url: "https://capacityliveblobstorage.blob.core.windows.net/files/Samsung-Baidu-Chip-3.jpg"
-        width: 900
-        height: 618
-        isCached: true
 
 secured: "Bviex4Nexgm0SWsfou+Y3MQfuI4PgnYQK8cMpngandVgivxlNHpi0bBSt0UM2fmUnhLkvCYDZZg9oCZCEBp7wL2rO7fJCFM7xwlFRn+836A6v9ZL3dkHQtNsUpReY/hOA3o8kj3FxXYZDMM/HrZaysB6Yazs5OExMdH/7ugoCOnzgViDs7FKzzwm0x9tlXa9kVDl4L42Q1Vp2O+yVpLxqyq+qYBDPlg1IDCRqf8xf7HAXNq4Mrd0toofkSvSm4zdFWk7C3SClDsn08BJbqdPy3Q7BzSsP4CZzmPFMggy/ELhYUFD1qbaHegJH06BkbqlOnOojRucGAs3hvQK1aplP5QFp8yGKYRVlYVlHJbgddraVjs2H/mUCuY7j8Umb+UV5EiqJ3E+Xmh6jr4S8PjDwn67UYjssVRGIrE8yU7hP6OYw4Spyng9GEuCCfZx8NgCMTWFGnsjbKiEeaCLrJioKS8ljsHu6A3tqFMnxXvkID6kYNtXpACNXrtcFG1kGGAIX9/iZ7TAA4i/INP4ekOAjQ==;r4UTE5DHpZkAWiDgVbzDAQ=="
 ---

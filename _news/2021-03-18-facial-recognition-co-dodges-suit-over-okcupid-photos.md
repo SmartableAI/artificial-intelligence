@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft's Innovation Happened at the Intersections at Ignite 2021"
+    excerpt: "But so far, Google has fallen short within its core platform. Similarly, Amazon Web Services (AWS) has yet to announce compatibility between Amazon SageMaker and AWS Outposts, although I expect it will do so imminently. Another big move targeted the ..."
+    publishedDateTime: 2021-03-17T00:00:00Z
+    webUrl: "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/"
+    ampWebUrl: "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 61
+    images:
+      - url: "https://www.cmswire.com/-/media/2b950510820e495db2657738ce677805.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
     excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital ... solutions based on Microsoft cloud, edge and AI products,\" indicated Omar Abbosh, Microsoft's corporate ..."
     publishedDateTime: 2021-03-17T22:36:00Z

@@ -153,15 +153,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Military Market worth $11.6 billion by 2025 - Exclusive Report by MarketsandMarkets"
-    excerpt: "CHICAGO, March 15, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type ..."
-    publishedDateTime: 2021-03-15T11:33:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-03/52292865-artificial-intelligence-in-military-market-worth-dollar-11-6-billion-by-2025-exclusive-report-by-marketsandmarkets-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "TXSI4RTPm4OjeVgOepTv3+jAKwz7gkxi/SUwPtxDUEbR9x1i/PnlXsdy40G5ztCB1QdFTEBhkPRMEXI4+O2xhiyX2Uz/htAQ1S/TpQvyLz7yfuXp5e+JMKyMAjN378j8XGi2cEHH/2yDQLm/mTUl300E56rfKPj30Qw0/vtcPxy7UTHzqJS/AIaVag9gciMR2nAchVFMOnn3lAtodRUzWjouyo4aLmwmYGafuEeZ9bgRROZnx1knFg4yu/EP4HT8uxGYIGg9f+17gk/+QMN3Y7zlY3Rkkc6qfKFmSVEnEE4oOuGLZVwp7oP3Iq+bb64GXOnGe4rR8YYTnYROCCxqUyNEyu1JC/0+kT9r3rNW0Dw=;dzdUnhfjnuFyhz6812IHiA=="
 ---

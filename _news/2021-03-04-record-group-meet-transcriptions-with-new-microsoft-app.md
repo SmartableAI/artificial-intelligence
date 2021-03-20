@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Record group meet transcriptions with new Microsoft app"
-excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi."
-publishedDateTime: 2021-03-04T04:57:00Z
-originalUrl: "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
-webUrl: "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
-ampWebUrl: "https://www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/record-group-meet-transcriptions-with-new-microsoft-app-news-education-vdeflDcaghghe.html"
+excerpt: "Improving these models with usage data will ensure that our customers will have the best experience,\" said Xuedong Huang, Technical Fellow and CTO of Cognitive Services at Microsoft. The app is ..."
+publishedDateTime: 2021-03-04T06:16:00Z
+originalUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
+webUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "Tzgq30u3ar7Sth3I6pEKJRc4xA61wvkKizgaX4CwB0GrK5xXWq8xTNgCYjdFngbx6Zxw8wzhvI+n6QCGYp2/BOhCIerf85edLOdrkDuLlnocqh5duNZoJWx+GUpTIDJAfG8nT3zMmKlceO1wu6HSB5hcSa8VWRJmA/6eAZRjYrrQzNOC2RzhUXT3LqYgQ6ps0xhD/DBugTlQ1jrlXeC8QAZxfLumLFNkpXBQAcf6fgftJxoEUmu8e+OfnMCo5pC60XYb2mVHb7Bu4QPSLZ/H1aosSkfspF7Xkf8FX9yyAW+GsKa7JXucqJyuXmpr+fNjI6YJqYlmj/7FroWLfG4gRYbRIHI8B4XuDv2/enWYt88=;Eo4d8ik4bnqecO4OzwzrlA=="
+images:
+  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg"
+    width: 1000
+    height: 800
+    isCached: true
+
+secured: "DM6yOAb68faSwOYNXgdrIllOtQyRZQPF2lb8Y2BKbfm3AqF0FRsXSTzjQhYoWFjNmVNI/db+aGWkTYOjP93/YMuAoPSatnzqeBux5GHpcTVnpFFf4nXJEl+aBwu7up3dTqcwVwStjNxUvBiTJhUgZ9ozbk0Q6/BTcyIGl4MeIwRNQw/RGHKyloaxzBXCZ1Y21xWuFtm8anBB3iygg5yI4u1A30PQ6D4gfgT6tp0FPxdaGKltW1d18O3J0AcKQpCFVBLwhwIIS3p9Fo5wWa/crF7mTtx9F4fPNgo1/y8uok6aDHW69/5YW0vwa9P+W/V73MOxThor5GntP6yBRxRjbQHl7M+5/0Andwv5TytvuXc=;p3W5+z/9B9NMumexPgkb8g=="
 ---
 

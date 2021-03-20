@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that
 webUrl: "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: VentureBeat
@@ -29,37 +29,30 @@ images:
     isCached: true
 
 related:
-  - title: "Enterprise workflow automation startup DeepSee.ai raises $22.6M"
-    excerpt: "DeepSee.ai, an enterprise workflow automation platform ... “In only the way a startup could, we managed to find innovation in that constraint and developed a tool for training across small ..."
-    publishedDateTime: 2021-03-15T12:10:00Z
-    webUrl: "https://venturebeat.com/2021/03/15/enterprise-workflow-automation-startup-deepsee-ai-raises-22-6m/"
-    ampWebUrl: "https://venturebeat.com/2021/03/15/enterprise-workflow-automation-startup-deepsee-ai-raises-22-6m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/enterprise-workflow-automation-startup-deepsee-ai-raises-22-6m/amp/"
+  - title: "AI patent intelligence platform PatSnap secures $300M"
+    excerpt: "PatSnap, a startup developing AI technologies to analyze and organize patents for R&D, has raised $300 million.Read MoreRead more on 'VentureBeat'"
+    publishedDateTime: 2021-03-16T23:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "DeepSee.ai raises $22.6M Series A for its AI-centric process automation platform"
-    excerpt: "DeepSee.ai, a startup that helps enterprises use AI to automate line-of-business problems, today announced that it has raised a $22.6 million Series A funding round led by led by ForgePoint Capital."
-    publishedDateTime: 2021-03-15T12:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/15/deepsee-ai-raises-22-6m-series-a-for-its-ai-centric-process-automation-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/03/15/deepsee-ai-raises-22-6m-series-a-for-its-ai-centric-process-automation-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/15/deepsee-ai-raises-22-6m-series-a-for-its-ai-centric-process-automation-platform/amp/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+  - title: "Startup Viz.ai Raises $71 Million in New Funding"
+    excerpt: "Viz.ai has raised $71 million in new venture-capital funding."
+    publishedDateTime: 2021-03-17T11:30:00Z
+    webUrl: "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 82
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1297327343.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://images.wsj.net/im-312633/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Stroke detection startup Viz.ai raises $71M"
     excerpt: "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke."
@@ -74,20 +67,6 @@ related:
       - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
         width: 725
         height: 482
-        isCached: true
-  - title: "DeepSee.ai Announces $22.6M Series A Funding to Enable Enterprises to Turn Data Into Assets for “Months to Minutes” Efficiencies"
-    excerpt: "DeepSee.ai, the leader in AI-powered Knowledge Process Automation, today announced it has closed $22.6 million in Series A funding led by ForgePoint Capital, with participation from previous investors AllegisCyber Capital and Signal Peak Ventures."
-    publishedDateTime: 2021-03-15T12:47:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-sports-industry-regulation-corporate-news-e045440d1a25462c9e28d89aef5ee8fe"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "xlgmRU/mGT0OJ0lPeBaviMVS3wqHTtoTo+lG8mHdY2tqsRzohqXvpMopFYDLLCkYZq83fGEIArC1yKHZ038Lj5F4Rbd9DiJYg9sv21YJ8sIxa/p38OtRM+jGW85LC2anPfiAzd4CB9rmbZOu3N9cKmNVffVxz4Fc5EwbgWLkgU5rl9geNdRE/9npG8MzeFtsEkEKQqsTqxa0nAeiAr+JGS3MPS180Ggy4J9eWUMdn+cytr/Ul6PPkmwVdY2Hy/5tRpY1EJ3KW9cW0QecImfRGLynRD+N+WHnTUm2GEGahZs3zgqnuxzpvw72WhTzqBIK0Eum77RpLmat4DYBMZstijJ8kKH4b3poWIzjPeRxK8m0FaHWEd2ePJ810WhHTPbi5tUs/evhmv7Vby99agcQy+IgRvRj93Ry8B97c+EfyIz4+uWiQP9YD9GcGwN2T53AiF392l8ADuxxvltRtcX0YSGgK6T9ArOw/GbE6TjCFLUa7l940LY3/WohlwAyeRWn39t05geN2iliXdEf5stX4Q==;+lVgfjiWoHED5nD3HIOIrQ=="

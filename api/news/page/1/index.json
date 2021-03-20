@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-20-ai-weekly-with-rpa-on-the-rise-security-challenges-remain.md",
+      "title": "AI Weekly: With RPA on the rise, security challenges remain",
+      "excerpt": "AI is poised to impact health care dramatically, but how do you ensure it’s used equitably across all populations? Learn what’s needed. Robotic process automation (RPA) is experiencing a watershed moment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
+      "originalUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/rpa.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/amp/",
+      "publishedDateTime": "2021-03-19T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges.md",
       "title": "RAPIDS and Amazon SageMaker: Scale up and scale out to tackle ML challenges",
       "excerpt": "In this post, we combine the powers of NVIDIA RAPIDS and Amazon SageMaker to accelerate hyperparameter optimization (HPO). HPO runs many training jobs on your dataset using different settings to find the best-performing model configuration. HPO helps data scientists reach top performance, and is applied",
@@ -309,6 +361,48 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-cornell-ai-startup-secures-1-million-in-seed-funding.md",
+      "title": "Cornell AI startup secures $1 million in seed funding",
+      "excerpt": "Iterate Labs, an Ithaca-based startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety, has obtained $1 million in",
+      "sourceUrl": null,
+      "webUrl": "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.html",
+      "originalUrl": "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/ithaca.com/content/tncms/assets/v3/editorial/d/6d/d6d20eb2-88cf-11eb-ac34-1f26f156445b/6054d0acd2f62.image.jpg",
+          "width": 670,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html",
+      "cdnAmpWebUrl": "https://www-ithaca-com.cdn.ampproject.org/c/s/www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html",
+      "publishedDateTime": "2021-03-19T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ithaca Times",
+        "domain": "ithaca.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1174,100 +1268,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses.md",
-      "title": "Adobe Acrobat Brings E-Sign and AI to Very Small Businesses",
-      "excerpt": "Adobe's new tier of Acrobat Pro is aimed at micro-businesses, and comes equipped with its e-sign technology and other new capabilities, including smart web forms and an AI-powered overhaul to PDF support for mobile devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses",
-      "originalUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01GLmQdpOWHrCSJ4Kbtv5EQ-1.1616081048.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses?amp=true",
-      "publishedDateTime": "2021-03-18T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship.md",
-      "title": "Atal Innovation Mission, AWS collaborate to accelerate Ed-tech entrepreneurship",
-      "excerpt": "The move will allow ed-tech start-up entrepreneurs and founders in all Atal Incubation Centers operating at higher educational institutions.This program will introduce the fundamentals of cloud computing such as cloud storage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship-11616080074724.html",
-      "originalUrl": "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship-11616080074724.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/03/18/600x338/aws-kMdH--621x414@LiveMint_1616080293599.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html",
-      "publishedDateTime": "2021-03-18T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

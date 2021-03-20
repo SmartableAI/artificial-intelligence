@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-15-artificial-intelligence-update-how-will-the-proposed-regulation-of-ai-affect-medical-devices.md",
+      "title": "Artificial Intelligence Update: How will the Proposed Regulation of AI Affect Medical Devices?",
+      "excerpt": "The European Parliament recently approved an initial draft proposal for the regulation of ethical artificial intelligence (AI) and the first official draft of the proposal is expected in late April 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mhc.ie/latest/insights/artificial-intelligence-update-how-will-the-proposed-regulation-of-ai-affect-medical-devices",
+      "originalUrl": "https://www.mhc.ie/latest/insights/artificial-intelligence-update-how-will-the-proposed-regulation-of-ai-affect-medical-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mhc.ie/uploads/How_will_the_proposed_regulation_of_AI_affect_medical_devices.jpg",
+          "width": 2908,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Law Firm",
+        "domain": "www.mhc.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars.md",
+      "title": "Self-Driving Cars And Those Brazen Dogs That Love To Chase After Passing Cars",
+      "excerpt": "Dogs love to chase cars, which will undoubtedly happen to self-driving cars, and AI driving systems need to be prepared to watch for and save those daring pooches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603d63aa27b9b02ad1c60215%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D165%26cropY2%3D2853",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/14/self-driving-cars-and-those-brazen-dogs-that-love-to-chase-after-passing-cars/amp/",
+      "publishedDateTime": "2021-03-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-cbse-launches-artificial-intelligence-community-for-students-to-enhance-ai-skills.md",
       "title": "CBSE launches Artificial Intelligence community for students to enhance AI skills",
       "excerpt": "The Central Board of Secondary Education (CBSE) has recently announced that it will be launching an artificial intelligence platform for students across the country called ‘AI Student Community’, in collaboration with the technology company Intel.",
@@ -1122,110 +1217,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-china-to-pour-more-money-into-chips-ai-5g-to-catch-us.md",
-      "title": "China to Pour More Money Into Chips, AI, 5G to Catch U.S.",
-      "excerpt": "Randy Abrams, head of Taiwan securities research at Credit Suisse Group AG, discusses China’s ambition to end its reliance on U.S. tech, the support that tech is receiving in China and his outlook for the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2021-03-15/china-to-pour-more-money-into-chips-ai-5g-to-catch-u-s-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2021-03-15/china-to-pour-more-money-into-chips-ai-5g-to-catch-u-s-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIRzeeaO_z5E/v5/-1x-1.jpg",
-          "width": 950,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T00:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-acer-nitro-5-with-144hz-display-nvidia-geforce-rtx-3060-gpu-launched-in-india.md",
-      "title": "Acer Nitro 5 with 144Hz display, NVIDIA GeForce RTX 3060 GPU launched in India",
-      "excerpt": "Acer Nitro 5 is the latest gaming laptop from the band in the affordable Nitro series. Priced under Rs 90,000, the Acer Nitro 5 comes with NVIDIA GeForce RTX 3060 GPU, runs on Windows 10 OS out of the box and comes with a high refresh rate display,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability",
-      "originalUrl": "https://www.techradar.com/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/QKVQ47MGvwAfBnw7XZK8oP-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/acer-nitro-5-rtx-3060-gpu-price-in-india-specs-availability",
-      "publishedDateTime": "2021-03-11T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

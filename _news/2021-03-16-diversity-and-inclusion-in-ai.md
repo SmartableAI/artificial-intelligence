@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence in federal IT"
-    excerpt: "OnSolve’s Matt Bradley talks about how his company can assist federal information technology professionals to reach their goals for 2021and beyond."
-    publishedDateTime: 2021-03-15T11:12:00Z
-    webUrl: "https://federalnewsnetwork.com/federal-tech-talk/2021/03/artificial-intelligence-in-federal-it/"
-    ampWebUrl: "https://federalnewsnetwork.com/federal-tech-talk/2021/03/artificial-intelligence-in-federal-it/amp/"
-    cdnAmpWebUrl: "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/federal-tech-talk/2021/03/artificial-intelligence-in-federal-it/amp/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 57
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/03/Matt-Bradley--scaled-e1615591269160-275x300.jpg"
-        width: 275
-        height: 300
-        isCached: true
   - title: "KAR Global Invests in AI Startup"
     excerpt: "CARMEL - Carmel-based KAR Global (NYSE: KAR) has made what it is calling a strategic investment in an Israel-based artificial intelligence startup. KAR says its investment led a $15 million Series A round of funding for Ravin AI, which has developed an AI ..."
     publishedDateTime: 2021-03-16T16:52:00Z
