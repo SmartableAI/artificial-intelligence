@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/markets/stocks/news/nses-buying-spree-co
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms"
 type: article
 quality: 60
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/4t02i7e9.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "openSAP Celebrates 5 Million Course Enrollments, Continues to Provide Learners with Innovative Learning Resources"
-    excerpt: "While the platform continues to provide new courses on the latest topics and innovations, such as SAP S/4HANA ®, SAP Business Technology Platform, intelligent integration, digital transformation and machine learning, older courses are still relevant and ..."
-    publishedDateTime: 2021-03-15T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/opensap-celebrates-5-million-course-enrollments-continues-to-provide-learners-with-innovative-learning-resources-301247323.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 3
-    images:
-      - url: "https://mma.prnewswire.com/media/1093077/SAP_Logo.jpg?p=facebook"
-        width: 1717
-        height: 900
         isCached: true
 
 secured: "3WZ6QyUc2WnqZzqLSfxQalNQYxp4hy+Pq+LKFU4I0Zrag5BwpBtp6Tiy76ga9y2MC5gwgQk/rgZpuQ8+3KVGPdV5mP0z3L5jI3+2JIzhG1kmQLRWhrjBQcvWm71vV7o3bG01KnDgfllo2Kc7D7sUFpD6/97Ax783mq1ARlK3XpLGp9q2alyKqm8D0hTB+PGIcxMOUiA423YL+Ze5pFoMJwcArhu8oF2XjWqaCS7Imq/4uZ3KcnDMJ9HpB26AexG+gjDAjOOMVVAvPNDbecEo3S8/yAbf5/lsLaY4HlmbgbOgdNCHCDlYOtl8hxqf8jXwpBDqiw4wfzNxAmgJQNLMH10yhkInyaTboBMY6xIw8hQ=;iDJrWYDjUV7624V7Grk8iA=="

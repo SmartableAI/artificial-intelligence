@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Independent study finds IBM Watson Discovery customers can accrue $6.13M in benefits"
-    excerpt: "The impact of natural language processing March 2021 saw the release of a commissioned study conducted by Forrester Consulting on behalf of IBM. The Forrester Total Economic Impact study aims to examine the potential return on investment (ROI) an enterprise may realize when deploying the IBM Watson natural"
-    publishedDateTime: 2021-03-15T15:00:11Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/03/forrester-study-ibm-watson-discovery-6m-benefits/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 110
-    images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/WD-TEI-animation.gif"
-        width: 800
-        height: 800
-        isCached: true
   - title: "40 women leading the way in AI innovation"
     excerpt: "IBM's annual list of Women Leaders in artificial intelligence includes women from 18 countries who serve in a variety of roles."
     publishedDateTime: 2021-03-19T09:12:00Z

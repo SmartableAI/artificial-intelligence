@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3125488/chinese-online-se
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new"
 type: article
 quality: 82
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/39474552481_55d78dfe04_o.jpg"
         width: 662
         height: 435
-        isCached: true
-  - title: "Baidu : Top Artificial Intelligence Innovations From the Chinese ‘Google’"
-    excerpt: "Beijing based Baidu Inc., host to diverse artificial intelligence innovations. This includes Autonomous driving platform Apollo, PAddlePaddle, ERNIE, DuerOS, LinearFold, etc."
-    publishedDateTime: 2021-03-15T13:30:00Z
-    webUrl: "https://www.analyticsinsight.net/baidu-top-artificial-intelligence-innovations-from-the-chinese-google/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 53
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-10.jpg"
-        width: 900
-        height: 500
         isCached: true
 
 secured: "aQ2IgdUIrkSrqgJ7K7aOR+2sgSTIKT3nURgIGSOBf7NysicXdDVHIcZl6XgFL9Ho7Nc7cGDkfXMbo3Us5Pz2V5uQF7REF2OCCP4HakjEeTLgbfO+yzEPP6q/BVlhBej6vfzNFDejnGwZLcCG1vBg26ZmA1Vg2cA/J5DVMf09XmDOcu3xBcpatq98IoQAcJUNyZgm4Urwbb5Bz9sHpco/wv+jdTmn/VDkMvfs+FVNtaWUBhkrwB8a3M5QeLmZtEDHFYi04rv9U1iWfEy6J51EPIQtCQ6msteSTKnrDnEGILWXb6stpysg7A+3RGGSgoGmMN9Dv89xABV3Ic2OI8MaKQ8a8KR25qt+k3w6nbSDNuE=;U07N66ZI+HdpTFuP2xryuw=="

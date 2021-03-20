@@ -91,22 +91,6 @@ related:
         width: 541
         height: 373
         isCached: true
-  - title: "Watch Tesla Full Self-Driving Beta Work Wonders In A Slew Of Edge Cases"
-    excerpt: "As we've reported in the past, Tesla's FSD Beta is capable of drives with zero interventions. However, it's not consistent enough to do it every time."
-    publishedDateTime: 2021-03-15T13:50:00Z
-    webUrl: "https://insideevs.com/news/494438/video-tesla-fsd-beta-tackles-extreme-torture-test/"
-    ampWebUrl: "https://insideevs.com/news/494438/video-tesla-fsd-beta-tackles-extreme-torture-test/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/494438/video-tesla-fsd-beta-tackles-extreme-torture-test/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/Xx2gE/s1/tesla-fsd-beta-night.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Self-Driving Cars Market to See Strong Growth Momentum | Tesla Motors, General Motor, Ford Motor"
     excerpt: "Mar 19, 2021 (Market Insight Reports) -- A new business intelligence report released by HTF MI with title “Global Self-Driving Cars Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 ..."
     publishedDateTime: 2021-03-19T19:46:00Z

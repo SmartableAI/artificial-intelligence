@@ -52,20 +52,6 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 69
-  - title: "Artificial Intelligence and the Art of Culinary Presentation"
-    excerpt: "Historic Preservation Program Director Jorge Otero-Pailos introduced Spratt, and commended her work for reimagining cultural heritage through the use of artificial intelligence. “Even if we’re not experts in French cuisine,"
-    publishedDateTime: 2021-03-15T13:10:00Z
-    webUrl: "https://news.columbia.edu/news/gsapp-recap-artificial-intelligence-and-art-culinary-presentation"
-    type: article
-    provider:
-      name: The Earth Institute Columbia University
-      domain: columbia.edu
-    quality: 37
-    images:
-      - url: "https://news.columbia.edu/sites/default/files/styles/cu_crop/public/content/plates-arpege-spratt-passard-gsapp.jpg?itok=z__EKPiI"
-        width: 943
-        height: 530
-        isCached: true
 
 secured: "lotCkMXhlZwNZNjtRO4jGOCy+HuETmHO6oksTe0OpxFYcpRXf4pQ/7RHnbeFdFLTJVHRVl4r+tSdWT/xUmn/HIb6eVWoQql4Qm4sa712doZMVzyT1boQWAXYCu6+js0l4kje/r2/QNyQCTKsKupJWnJUS8YI+YKiy/bvgx1Cf20GOgpm5+xao6lYiBTc+eAMH7lYElgV9tHmQ7h6om8HPqBbi5E3UmgJybu+yjVRSkPkW+tdiltFncmXgkfQwI0WCUA+UyoReX1aU0kPiTzl+mwexo09LtAxtGm9QDcvZL2naKDySBDx2Xq+Ry0antHPPn5Tv/uo6cPAnwaFM299nF7rhTsco9zh2HrDilwFli3ZZuEK22OLJ1FuHaWGKU+JpSvTMdVyhiLJVGHH8P6KSwbacoY5hsDSFWNqi1WroiVRwSZLCDPcHitm7+s377I8ejWq/yASFOEfvtHx4bXq5oDutc0Bd6yDZcENFyVfXpE+YJcqa/hwBJxczbmt3bElqci+EszcENfDEmIhXP3PLQ==;yfJ31WWtF9GQC2KxPugkHA=="
 ---

@@ -48,20 +48,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Researchers enhance Alzheimer's disease classification through artificial intelligence"
-    excerpt: "Warning signs for Alzheimer's disease (AD) can begin in the brain years before the first symptoms appear. Spotting these clues may allow for lifestyle changes that could possibly delay the disease's destruction of the brain."
-    publishedDateTime: 2021-03-15T14:52:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/buso-rea031521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "T+159h0vQtvzR4mFh2BA6r4Y3cXJ587rXSK2RjpnXC/+vkjaf0rZn8yuuFHzL8ScAwp7SKnTQEI/5KjAS4RArJpqb1tMJmdNgSBWhHnXHZhMoLPDG/r819eplN8BnJKTUGli38dJSz+CIi6ntCRyop8VlgigqU1dykqDvzY6JW+gRl6zyac9YAf+o/qAo+04ty3oCYD+vD/HzOhdiFYVOkE6n9xsnpNJK50KSsSjU3PyY5mSvPc9bzr9dQE5IirXybmpPlHKPrJSjUoRCFuAnFiiBOCvtCthwD0SkalVZkduGqaXKOevIHQbX7XBRVYcdHqTSAlFK8tq/v2dBgb1n2BwePw3fthzyY1h3QyySBwZce9/3mIT/DbJmeYCn++7iyGovR0VbXN9uKPjCrid3+TzWcz0ZT5FGlvGASH2wVfxt8VHUORm3EMDmMS8M9HGE5EQllaPcT7UTFOPNmUkGPxk64b11JkKkilJZX5Nx0Ydikmy10goI+TB+TWwE9Ekk4GZCOKJhhdsZXHi8zkqfw==;xwzXxhGG7fltsnri+AIfTQ=="
 ---

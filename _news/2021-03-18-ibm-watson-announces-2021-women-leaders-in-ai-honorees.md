@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/03/women-leaders-in-ai-2021/
 webUrl: "https://www.ibm.com/blogs/watson/2021/03/women-leaders-in-ai-2021/"
 type: article
 quality: 134
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/resize/1200x/68d67e3f1554eff3bec8c3e35f5284f0/20210211-healthcareai-karen.jpg"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Independent study finds IBM Watson Discovery customers can accrue $6.13M in benefits"
-    excerpt: "The impact of natural language processing March 2021 saw the release of a commissioned study conducted by Forrester Consulting on behalf of IBM. The Forrester Total Economic Impact study aims to examine the potential return on investment (ROI) an enterprise may realize when deploying the IBM Watson natural"
-    publishedDateTime: 2021-03-15T15:00:11Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/03/forrester-study-ibm-watson-discovery-6m-benefits/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 110
-    images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/WD-TEI-animation.gif"
-        width: 800
-        height: 800
         isCached: true
   - title: "40 women leading the way in AI innovation"
     excerpt: "IBM's annual list of Women Leaders in artificial intelligence includes women from 18 countries who serve in a variety of roles."

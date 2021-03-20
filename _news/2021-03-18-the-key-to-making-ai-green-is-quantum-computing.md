@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-a
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWyvoC?ver=3bda&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true"
         width: 1600
         height: 600
+        isCached: true
+  - title: "Examining the bias in artificial intelligence..."
+    excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-18T23:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210319094015-examining-the-bias-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09509427_1616147284.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Teaching AI what’s fair"
     excerpt: "With funding from Amazon and the National Science Foundation, Tan has been working for the last year to teach artificial intelligence algorithms how to be more fair and recognize when they’re being unfair."

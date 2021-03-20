@@ -51,20 +51,6 @@ related:
         width: 651
         height: 329
         isCached: true
-  - title: "Artificial Intelligence and the Art of Culinary Presentation"
-    excerpt: "Historic Preservation Program Director Jorge Otero-Pailos introduced Spratt, and commended her work for reimagining cultural heritage through the use of artificial intelligence. “Even if we’re not experts in French cuisine,"
-    publishedDateTime: 2021-03-15T13:10:00Z
-    webUrl: "https://news.columbia.edu/news/gsapp-recap-artificial-intelligence-and-art-culinary-presentation"
-    type: article
-    provider:
-      name: The Earth Institute Columbia University
-      domain: columbia.edu
-    quality: 37
-    images:
-      - url: "https://news.columbia.edu/sites/default/files/styles/cu_crop/public/content/plates-arpege-spratt-passard-gsapp.jpg?itok=z__EKPiI"
-        width: 943
-        height: 530
-        isCached: true
 
 secured: "ofhkgaoNbQkZGx5TUoLcthGTLdJyainA032RIbCyLk159YPYyKoyEzIBz5izhuaeM4L/MhbOpXxhIwwk93vNK0396Afvog/HRXhs++pOqIHwu9G9xKQXdtQQ+NOnjsNRz8kzrEJxWOPQtJOlfO6LiBh3/tIf1lw1v1GqwYWOnH/6XJLR1By55/9N3QsF9oyYfoy0NlFQhvmE6AEBgBzYXODB6MKDQAVaogwpBlIVM2hcT1lWzdXo6mzAYIO9qQxiKf6DBt3kRMYX/GfCOGFQBvgMf0d9hLjAxH0pfsSVSQVr2c2mlgIbhjSwZPrr82M34UFo2gM1Jf1hoScrltMtVUTnNb42oS1MwYslkIjD56s=;5xyiijI4TdlPoRsFvsNJrA=="
 ---

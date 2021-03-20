@@ -59,20 +59,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "openSAP Celebrates 5 Million Course Enrollments, Continues to Provide Learners with Innovative Learning Resources"
-    excerpt: "While the platform continues to provide new courses on the latest topics and innovations, such as SAP S/4HANA ®, SAP Business Technology Platform, intelligent integration, digital transformation and machine learning, older courses are still relevant and ..."
-    publishedDateTime: 2021-03-15T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/opensap-celebrates-5-million-course-enrollments-continues-to-provide-learners-with-innovative-learning-resources-301247323.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 3
-    images:
-      - url: "https://mma.prnewswire.com/media/1093077/SAP_Logo.jpg?p=facebook"
-        width: 1717
-        height: 900
-        isCached: true
 
 secured: "r4EFl6dv6oxrlYYfCYr6LnxyaZ8VcbpwzwLRv2tjcdMiyD1K2X7ZwZHMPjsZRhrOVnhzrUOYyfIdojfHu0eIBSNyh/HHU2oClAtKoLbpnHnQ2LfCKsiLBWGyym/S7jZUclRWaKkhXOcs07b6bBsy3HxvKieKCmbtnd9/DhZ2zrLjrWn3YauYkCkJgVuVjCXONusPoR5oeR4aHQDe02F5pAflCwyrbxP9icA7nLipI6jfWn/130IZuQO0UbsvLy3kTu/AvfuVa1Gb4oiXdkwSd2gUp7jElqG6OYt0U4zDkWzhvWdb1pgz5b2EDW9hch6XJk8A438NXGqwvWrETArOUbshuVDlf6F1Uuo1l3/elnQ=;iiIkkgjvrJT8t+v1YF+Psw=="
 ---

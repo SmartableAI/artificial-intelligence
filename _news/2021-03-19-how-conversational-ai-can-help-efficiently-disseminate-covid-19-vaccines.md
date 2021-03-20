@@ -3,8 +3,8 @@ category: news
 title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
 excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
 publishedDateTime: 2021-03-18T18:33:00Z
-originalUrl: "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
-webUrl: "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
+originalUrl: "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
+webUrl: "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
 type: article
 quality: 38
 heat: -1
@@ -107,6 +107,6 @@ related:
       domain: nature.com
     quality: 17
 
-secured: "Fm+ZPOPo6vhFRO9OzEhyhfq4Jipi6yhdp4sKcmJtWKdltNge9kqnqqX/pOlsJVobw2ftk6m14uNZrG4wLF3u0p/B0l/GeBXwgqL2q0x1buuak08CVxB7mFFiUPu0E2IDwnuUxxtnNlpUnTS0HbvpfuCFdaCyfzUBCFLmnqr+jGf2hcS+vOftPy2tkrKKDDczjVoCwIhLD2prbm6Uxe9vflDY+QDv3TEB1fmsiftVjMThmfREpQIhCqh63OrKUGANhEm4uL3DgJV6GFJy/zjGhIeEAb6QTKfUQ3Ml6KtWxJwNd3xRAaqGKdHylYCJoAZnH8gSmOcEsXG39HBOibWZ+elphHtVHC6SCIwiADYeGr5Z1sSRWmbdbxTV5cS/Gh6+ai26iqI2ealbB7YN+oOlcVI6B8dlHTX6fr1H9IlX5wCs9ecURCo2n5hRg5k/Awk08RzpVcBywALk7eCCKATNoa7eDqtaWKzL2g6kU4QyvhooLq8q9qC8OfCKLVEsqW15nN5EEqQXogwrDdqX6su/NA==;sMjej5Pvf6OjPx4WqP1LAA=="
+secured: "e9Isp4EFJIkyihpBXdBcwVLJa6x1Y3SkqYy70opLj9hGnsC7vWljDwPRfKSmkNrPZNPZ1SJ3K/NfW9Lql9ias9LIMk16qQbBLfYccLtYoAwaHWOQGCerbapUZxO5MzoGwPEfl2wOE4diAl/eYYtw2fYne6S4DecZF29NqSoUl5z87jIYkitMLVAwggJSrV3fZ/Y5kGt1G1okRh2a0Dprt76XzOMlXRzbo+T4ycvkpLVfqQE0JAwdppndq8WxjR0vqaqkh9VjQN9lrEhKkhkEmVfkD7//l8LTxpXneKHfp6DfOYqMiBCYL3J2D280ykOGvXsSm/3claW5tmTHm+xN9Ty82nf2ZGIeSMXSYsqyV/I=;t6NCIHXane9wSNyWRw9l7w=="
 ---
 

@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automatic Speech Recognition Market 2020 Top Industry Players, Regional Study, Growth Drivers, Challenges and Opportunities by 2025"
-    excerpt: "Global Automatic Speech Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth analysis of the market by value, by production capacity, by companies,"
-    publishedDateTime: 2021-03-15T14:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-2020-top-industry-players-regional-study-growth-drivers-challenges-and-opportunities-by-2025-2021-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cosntiutional recognition will make this nation whole"
     excerpt: "Let me start with the question of what What is it that we are engaged in, and have been ever since John Howard made the commitment at the beginning of the 2007 federal election campaign. He told the S"
     publishedDateTime: 2021-03-17T13:00:00Z

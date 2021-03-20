@@ -129,6 +129,20 @@ related:
         width: 1600
         height: 600
         isCached: true
+  - title: "Examining the bias in artificial intelligence..."
+    excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-18T23:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210319094015-examining-the-bias-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09509427_1616147284.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "HJ6iQ4FLZGaIR9q+eDUYkHewy1XQAGIgvR13arpB5Ii4n9YHGyO6/wGeVLY8UkRCO3bVE6bIBpEFpTL8R39opeTwGLdKlsiumOXI/zaJ0QRYxm6SrLeglNBmXQlAB5zlz5JN1gPXH/reQfeODYGUn+zCyfnqodif5wwnbMA5AgkuCfFkOP4q/L38xT/rkGYkGVgdu6msWtB1mVhBVg4HTyAHZs78HPs0UYPnSV2inT7Qi5Zracu+aE5QKl3s2wMPurWKVUGGxDU+amBdzMJPvqmPyzeMEk6BA1LN95dcOQ+fu5DSribZdiOsoPyFHgkX0qTSNWY+uPz9ZCojqYjW8uFD/0gYca5rhOHdVSgjYefoNDXbw6ZECik9si3wBLBCSi9A1m07Zns1ZeXI1QpxokBIRpWstIPjHjZ4M3E5FimH2jozWmUdsMQhM9Mvf3p6Ri23NCVya4TDI/J/JYzGYGaw5HrvHQvf/8L1MWW5WNYZgKvuVgwG0ZTfCAASz6aNP/rBbeXTWr3HHeLYW0sLPg==;8QgNUow/EPvoVGnS3byD7Q=="
 ---
