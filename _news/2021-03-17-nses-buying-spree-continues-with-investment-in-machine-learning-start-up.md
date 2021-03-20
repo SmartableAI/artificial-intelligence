@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/markets/stocks/news/nses-buying-spree-co
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms"
 type: article
 quality: 60
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "openSAP Celebrates 5 Million Course Enrollments, Continues to Provide Learners with Innovative Learning Resources"
-    excerpt: "SAP SE (NYSE: SAP) today announced a milestone of five million course enrollments on its openSAP platform – a free online platform that offers innovative, expert-led massive open online courses (MOOCs) with accompanying microlearning and podcasts across a range of topics for learners of all abilities."
-    publishedDateTime: 2021-03-16T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/opensap-celebrates-5-million-course-enrollments-continues-to-provide-learners-with-innovative-learning-resources-2021-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "NSE Data invests in tech start-up Capital Quant Solutions"
     excerpt: "NSE Data invests in tech start-up Capital Quant Solutions - The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced"
     publishedDateTime: 2021-03-17T12:57:00Z

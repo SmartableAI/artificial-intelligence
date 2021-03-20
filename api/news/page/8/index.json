@@ -2,6 +2,102 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-12-clearview-ai-sued-in-california-over-most-dangerous-facial-recognition-database.md",
+      "title": "Clearview AI sued in California over ‘most dangerous’ facial recognition database",
+      "excerpt": "Separately, the Chicago Police Department stopped using the New York company’s software last year after Clearview AI was sued in Cook County by the ACLU.",
+      "sourceUrl": null,
+      "webUrl": "https://chicago.suntimes.com/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
+      "originalUrl": "https://chicago.suntimes.com/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/92JhUnKXq9qB0Ohx-q6NMtIoH8c=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68949763/large.0.jpg",
+          "width": 768,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
+      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
+      "publishedDateTime": "2021-03-11T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Sun-Times",
+        "domain": "suntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-hackers-attempt-to-poison-the-well-but-ai-cybersecurity-solutions-bolster-water-treatment-facility-security.md",
+      "title": "Hackers attempt to poison the well, but AI cybersecurity solutions bolster water treatment facility security",
+      "excerpt": "To identify and mitigate threats, the water treatment facility has tapped Darktrace's AI monitoring system. Black said the autonomous capabilities have provided the team with enhanced clarity about its network and how its staff operates. In fact ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/hackers-attempt-to-poison-the-well-but-ai-cybersecurity-solutions-bolster-water-treatment-facility-security/",
+      "originalUrl": "https://www.techrepublic.com/article/hackers-attempt-to-poison-the-well-but-ai-cybersecurity-solutions-bolster-water-treatment-facility-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/11/2a8c75b9-6ac7-4293-a813-c4f7cc57a583/resize/1200x/fd4fbe3d7e049e08465e59d5d4f517b5/tuachanwatthana-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/hackers-attempt-to-poison-the-well-but-ai-cybersecurity-solutions-bolster-water-treatment-facility-security/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/hackers-attempt-to-poison-the-well-but-ai-cybersecurity-solutions-bolster-water-treatment-facility-security/",
+      "publishedDateTime": "2021-03-11T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-il-boom-dei-pagamenti-digitali-spinge-le-fintech-italiane-numeri-record-per-nexi-satispay-e-hype.md",
       "title": "Il boom dei pagamenti digitali spinge le fintech italiane: numeri record per Nexi, Satispay e Hype",
       "excerpt": "A misurare l’andamento è stato l’ultimo Osservatorio sugli Innovative Payments della School of Management del Politecnico di Milano",
@@ -1110,94 +1206,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html",
-      "originalUrl": "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-watson-powered-robot-mans-concierge-position-at-hilton-hotel.md",
-      "title": "Watson-powered robot mans concierge position at Hilton Hotel",
-      "excerpt": "The service may be powered by IBM’s Watson, but it’s also delivered by ... but one thing’s clear: AI is getting plenty of attention these days. AlphaGo beat a top human player at GO for ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/2016/03/11/ibm-watson-ai-robot-hilton-hotels/",
-      "originalUrl": "https://bgr.com/2016/03/11/ibm-watson-ai-robot-hilton-hotels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2016/03/connie-watson-ibm-robot-hilton-hotel.jpg?quality=70&strip=all",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/2016/03/11/ibm-watson-ai-robot-hilton-hotels/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2016/03/11/ibm-watson-ai-robot-hilton-hotels/amp/",
-      "publishedDateTime": "2021-03-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

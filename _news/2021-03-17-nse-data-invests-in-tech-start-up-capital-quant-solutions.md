@@ -41,20 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "openSAP Celebrates 5 Million Course Enrollments, Continues to Provide Learners with Innovative Learning Resources"
-    excerpt: "SAP SE (NYSE: SAP) today announced a milestone of five million course enrollments on its openSAP platform – a free online platform that offers innovative, expert-led massive open online courses (MOOCs) with accompanying microlearning and podcasts across a range of topics for learners of all abilities."
-    publishedDateTime: 2021-03-16T01:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/opensap-celebrates-5-million-course-enrollments-continues-to-provide-learners-with-innovative-learning-resources-2021-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3wVGCS2tx1RXRNAgrdKBhUVkqbPPwgRi1/s1NZQTbpUd/wf4pkUVArwvAH4l3vBBAVSCeYpPNEZe5DArVQlTJufprT2c3d1GHrBjEEPJ3E+j2Vcnm5uHu/Ku11xxcUXv0ncIEX+1gW8o9zjsYals4fCbld/rX+ZvxG5x072RlG4DqS3gQW2rVDBac4HLMHHVHZ6tVz3chVCKdmy4fFG/VOfw/Q/1EAOYKVcDXxaXDIrx7R5F/NqV1mjX5htTKnct+YWJey8ZgKJvAggcir84AvuEa/ERvZatpDCH/xMqeOASo8bXT9iCx/4ltHMglQ4LKS8p+WZTpKEMOicQB91QvqoYaaIImihNC9GgDD415mtNoMrGgCzH5H5rbfDa+efcmOpJbnytD4E0aQwYs3bAHnenOIuhjU03KZWef19Dn6i3JtLn9NL4BZZRFLvX1FRtwGDrlKstSvZzGYbo+jAw66f/RDL13u/bYfSd0KrKBI93gmoTSetuKxaRX39tv3RGO8BO/szVW32Q95C5vAL8hw==;RDN3X9lrJqX2/kwb8ACuKw=="
 ---

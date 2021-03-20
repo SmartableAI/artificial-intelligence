@@ -61,6 +61,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "'A long road': the Australian city aiming to give self-driving cars the green light"
+    excerpt: "Ipswich is an ideal place to trial technology to bring fully self-driving cars to Australian cities. But the project has had to overcome a lot of road bumps While the trials of self-driving car technology have so far all included drivers, Ipswich’s ..."
+    publishedDateTime: 2021-03-20T18:03:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/mar/21/a-long-road-the-australian-city-aiming-to-give-self-driving-cars-the-green-light"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/mar/21/a-long-road-the-australian-city-aiming-to-give-self-driving-cars-the-green-light"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/21/a-long-road-the-australian-city-aiming-to-give-self-driving-cars-the-green-light"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 53
+    images:
+      - url: "https://i.guim.co.uk/img/media/0c291c072fad3d2d741af2c75a77d3a57d44e626/417_224_5887_3532/master/5887.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0ead242b6f9a5e7ddccaf59209024a6d"
+        width: 600
+        height: 360
+        isCached: true
   - title: "SAIC partners with lidar maker Luminar on self-driving cars"
     excerpt: "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies. Laser-based lidar sensors help detect objects ahead of and around the vehicle,"
     publishedDateTime: 2021-03-18T13:19:00Z

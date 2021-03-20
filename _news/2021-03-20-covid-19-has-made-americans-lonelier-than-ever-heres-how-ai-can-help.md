@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-20T16:59:00Z
 originalUrl: "https://www.salon.com/2021/03/20/covid-19-has-made-americans-lonelier-than-ever--heres-how-ai-can-help_partner/"
 webUrl: "https://www.salon.com/2021/03/20/covid-19-has-made-americans-lonelier-than-ever--heres-how-ai-can-help_partner/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.salon.com/2021/03/artificial-intelligence-robot-0318211.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1142
     isCached: true
 
-secured: "f7S1/h7ysrSNUqQzBuLntjA/RUgX+67IlmblKcE7CGGN3+a/5OWxJ54oaSwgW2gP47r4QGSrjct21/h+C168jymz5A88byqdmJs2nTclMnd3wassiLHESGNDO/By51JnfFmhg83s5Dx8KtF07PIxRQ7Qq34fyFNqZQO+EWcbgL9GeUCt4pXC+3VidQJgH+oxz35nZxENyQsMLtDYGcT8lY1JmWvpEmRCklDfAAz1phcsomHe15Xlryj03gMQgU+QePBUw1ddkXjrl1K2YdPlLmMorWbBwL0Zljv0lCZ2ostGVqMCbIEY+a2AkeXMTvhZr1APROR3O5QZFFIeXagPsN0WVDdlj9gy0dI9Ej/twZU=;Vtka02twgEwVTBwM3XvMDA=="
+secured: "2xCXfgUDFggeRLadbyiQ4ZWiV+9XcvZJ4edlfvt5HA/x47ggvI3jBzdbpL3IWmsaFpaDbEqxssafdiQtAo6kBC8GkYHqysdLOW1OEI7UjqXktkk/Wr9N4xCMVSpyb5B3hloXHs6dZF0QPYd3SU2Q//xrjv4t3PyKI7MTWl5+Lzlugr43Al17XBnFEq8+V6VWsGDISWIcngYiqnKpETnHeO4Ix0bjwZW2NwyVe0HPxrS/Wk8s/nGMihjtLPMatEcv0rJch98MDhouHNxpOUxsjwjWR/585VFk1VRs4qzh2UMx0gvnMBUerdH68C2VqV95GAjTCF1nlWFlL6N8ISrERctPhoYoME80661SCtbZELLb9lK/HWNEBF9NdVX7NnSXHV0wlGCGxV068iCSAm60Fy2vLY532E0v7F4sHmBitVwAq+dzcjcFwqdD2lACVoROh45GnvdwKhh05Oz4FDxCsvQ8hPWMRgMkhWs1RIqGPPdMGoOz+ChQg/k4usL/oRPE2lnxpH50+/4Ws2vkT4CVSA==;BilCe7ypEed2+L8zOEIPIw=="
 ---
 
