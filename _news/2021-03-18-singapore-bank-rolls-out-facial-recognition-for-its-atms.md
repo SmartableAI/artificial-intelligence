@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/88968-singapore-bank-rolls-out-fac
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bill considers limits on facial recognition"
-    excerpt: "It sounds like the plot of some futuristic sci-fi thriller: the government keeps a database of images of citizens’ faces, and that database can be used for surveillance of individuals. For better or worse,"
-    publishedDateTime: 2021-03-15T21:59:00Z
-    webUrl: "https://www.concordmonitor.com/Should-the-state-be-prohibited-from-using-facial-recognition-technology-without-a-search-warrant-39436077"
-    type: article
-    provider:
-      name: Concord Monitor
-      domain: concordmonitor.com
-    quality: 39
-    images:
-      - url: "http://www.concordmonitor.com/getattachment/334996e3-63b7-4f32-aafe-e3fe9c7e6faf/attachment.aspx"
-        width: 499
-        height: 325
-        isCached: true
   - title: "OCBC ATMs to begin offering facial recognition for transactions"
     excerpt: "Banking customers in Singapore can now use facial recognition at ATMs to check their account balance, with the feature possibly replacing ATM cards in future."
     publishedDateTime: 2021-03-19T08:09:00Z

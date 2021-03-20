@@ -41,20 +41,6 @@ related:
         width: 2048
         height: 1136
         isCached: true
-  - title: "Bill considers limits on facial recognition"
-    excerpt: "It sounds like the plot of some futuristic sci-fi thriller: the government keeps a database of images of citizens’ faces, and that database can be used for surveillance of individuals. For better or worse,"
-    publishedDateTime: 2021-03-15T21:59:00Z
-    webUrl: "https://www.concordmonitor.com/Should-the-state-be-prohibited-from-using-facial-recognition-technology-without-a-search-warrant-39436077"
-    type: article
-    provider:
-      name: Concord Monitor
-      domain: concordmonitor.com
-    quality: 39
-    images:
-      - url: "http://www.concordmonitor.com/getattachment/334996e3-63b7-4f32-aafe-e3fe9c7e6faf/attachment.aspx"
-        width: 499
-        height: 325
-        isCached: true
 
 secured: "RKQDy2cGYoyv0x1VChR/dg8fgIi3t3GV3OHN3ryNS20Dp4vGBV8zuauuhM5oB6udoJw92taA4dfcYg1KM9zvMyxnM/fNq9YSMbSD8YN0AnWECPPBte0sxjn+UEPzI+jiQQOlARYOCsh7dsTG0Mi/qwx3TJ9o3RrgTAVcwJ5tbfOl7Ytn/+QdJI0eWaGNWJPSkQ+M0WRWf+EM0uFj2KNY1jxdr34fb6/oNiKZbYamNqyg4z+1lVhJ+cGtLkEjoNE7uKcJW36ayTggb4piNj8zRFJmuQfeoXfAXVOGudDMRK/Xwskf3ZGi3Tn1oy07U7jT6W6t2R9aO6BAHn4b2wTeiVibTF7wH1EoaJqPvyb3Wnk=;HsxaOARjsIdPLTaM6uooqw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-a
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 170
 published: true
 
 provider:

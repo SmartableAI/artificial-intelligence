@@ -43,20 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "This Month in Modern: Startup buzz is accelerating technology investment"
-    excerpt: "He’s been tracking how the investment community has been placing sizable bets—staggering numbers in some cases—on startup companies with artificial intelligence (AI) and robotics innovations specifically geared for DCs and fulfillment centers."
-    publishedDateTime: 2021-03-15T22:05:00Z
-    webUrl: "https://www.scmr.com/article/this_month_in_modern_startup_buzz_is_accelerating_technology_investment"
-    type: article
-    provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 23
-    images:
-      - url: "https://www.mmh.com/images/2021_article/SCMR_Improvement_800px.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "/zpaQPAddQBgXgrwDojUz7O0c14P0ihehIakSR25OwV6T8ubkVJHet7PKi1aayma0M+BCQwg24ttvHEE4zfU7aRvqT1Pqe8JigBpHBDZ4mzxv3piwod+cC/n2bfk6Vzg4C+WiV/KUc9ufij7FgoDogpZYdUboxTisGGqVIJSvq+hMjqCtipblyoTKP4OYvKy5BufihBWw/dPZvi45ha8XMFuatefT/2z0VB75R1gb3SXek8JL2xPxxEpWcFdsdjc/8jFHSYQyji/RbjJlGXB+1Y83tVp+WcS2qV7k3Lh+eK8yJ0fSrmY5wIg6ZlJuG5SIgxBlG37Qs3sMMvI/U+1WxrVvk8GcggJ9AQMBonX41M=;aVZoqM7fFMTqEWMfo4mVIQ=="
 ---

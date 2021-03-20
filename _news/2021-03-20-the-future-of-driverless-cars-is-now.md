@@ -1,46 +1,32 @@
 ---
 category: news
-title: "FMCSA driverless truck message stokes unnecessary fear"
-excerpt: "The FMCSA acting administrator said driverless trucks will lead to \"a major shift in the workforce,\" though a Trump-era DOT policy official said the data tells a different story."
-publishedDateTime: 2021-03-17T14:55:00Z
-originalUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21158179/fmcsa-driverless-truck-message-stokes-unnecessary-fear"
-webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21158179/fmcsa-driverless-truck-message-stokes-unnecessary-fear"
+title: "The future of driverless cars is now"
+excerpt: "In a series of conversations between film director Martin Scorcese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series \"Pretend It's a City,\" somehow the subject of"
+publishedDateTime: 2021-03-20T14:00:00Z
+originalUrl: "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.html"
+webUrl: "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.html"
+ampWebUrl: "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html"
+cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 119
+published: true
 
 provider:
-  name: Fleet Owner
-  domain: fleetowner.com
+  name: The Oakland Press
+  domain: theoaklandpress.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/03/16x9/Scharfsinn86_dreamstime_selfdriving_truck_highway.6052069dd112b.png?auto=format&fit=max&w=1200"
-    width: 1200
-    height: 675
+  - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/6/3e/63e37340-7e03-11eb-a419-7b053f257f3e/6042b2b313db0.image.jpg?resize=1024%2C576"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
-  - title: "The future of driverless cars is now"
-    excerpt: "In a series of conversations between film director Martin Scorcese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series \"Pretend It's a City,\" somehow the subject of"
-    publishedDateTime: 2021-03-20T14:00:00Z
-    webUrl: "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.html"
-    ampWebUrl: "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html"
-    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html"
-    type: article
-    provider:
-      name: The Oakland Press
-      domain: theoaklandpress.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/6/3e/63e37340-7e03-11eb-a419-7b053f257f3e/6042b2b313db0.image.jpg?resize=1024%2C576"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Safety concerns determine level of public support for driverless vehicles, finds study"
     excerpt: "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,"
     publishedDateTime: 2021-03-18T13:48:00Z
@@ -56,6 +42,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/60533a295e1c5.jpg"
         width: 768
         height: 511
+        isCached: true
+  - title: "FMCSA driverless truck message stokes unnecessary fear"
+    excerpt: "The FMCSA acting administrator said driverless trucks will lead to \"a major shift in the workforce,\" though a Trump-era DOT policy official said the data tells a different story."
+    publishedDateTime: 2021-03-17T14:55:00Z
+    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21158179/fmcsa-driverless-truck-message-stokes-unnecessary-fear"
+    type: article
+    provider:
+      name: Fleet Owner
+      domain: fleetowner.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/03/16x9/Scharfsinn86_dreamstime_selfdriving_truck_highway.6052069dd112b.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "FMCSA driverless truck message stokes workforce fear"
     excerpt: "Many truck-focused technology startups are currently piloting varied levels of autonomous driving solutions with fleet and OEM partners, though truly driverless trucks ... interfaces, artificial intelligence, and automated steering and braking."
@@ -114,6 +114,6 @@ related:
         height: 511
         isCached: true
 
-secured: "GASZFcdq573/WynjEKJfHaVNyMSaNDeX4Mi5uJYAL8YO/KcXGqgWR8lHJpMBsvHSTKgqOKgw7e+lyLRZfcvtbvKG7/4iZFbG2OWKPEkomtyeJgJMkT/EiERyQMk2JiROMY1W/STKkTdmOifGoT8HwJHdIwo31DabGhpGd0M1Iwr+YY5CCmBH7YX9qr6bsfRH0BPfIRBuP5XbnU+kxL5RWAlD+vKfmbBHQkDZBYLkgCtdW2O3nWGjrnan++XD1yC1vq4g0ZLtlfuvR05Zg2r93Q1ClhPIrLFGF5WOqKho6uOGY5+cBen8SPr/FHNP2KbyYQreRNmfIoye/j75ssMOF0ROhbKu9Rx6UIssYKdSJmw=;o81ixq9bSxMAethT5P/r4Q=="
+secured: "SIudfv7fe5R6c9/UxhsBin3916MseTChGQWOnXnyefzFZhCVJqAOnqYy+27U2c/G3DEv65jylU077sb5UYq7isafrae/nzS9duCMXdsbSEj04zFxMBz/jn+YB4D/XiOGDbUG6mt3NDf87r2EP3OzyVPdMSav6cSw1BHFBhTXw6fMSCtbGTwH6Z8BSrGa9pf3Pa8kZpbQn8tre7pcQTDKGU1ktdSzjJIxQZOGF32e/D82ui/Lby3BBlmRKpcsCc7vrxBwSjQCz4hm4ComPgb1u5bbRG/M3+vBNO+Cu9g7x0tgErTZQvH5UhRQwmzZDJ8nxpdG2d8jO/HNBymwAUS+T1TemUhPLlvCiKxg0+rUj4k=;oRzRRWGLJ9Hme3bvMHqw+A=="
 ---
 

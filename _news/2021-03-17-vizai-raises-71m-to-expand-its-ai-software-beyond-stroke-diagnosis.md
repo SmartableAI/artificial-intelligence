@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 699
         isCached: true
+  - title: "Writing helper, Copy.ai raises $2.9M in a round led by Craft Ventures"
+    excerpt: "Copy.ai, a startup based on GPT-3 technology, raises $2.9M in a round led by Craft Ventures, a San Francisco based venture capital firm."
+    publishedDateTime: 2021-03-20T15:49:00Z
+    webUrl: "https://techstory.in/writing-helper-copy-ai-raises-2-9m-in-a-round-led-by-craft-ventures/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2020/10/nexcopy_usb_copy_protection-2.jpg"
+        width: 350
+        height: 216
+        isCached: true
 
 secured: "ArjkKRZcqOF7WPE8S6Dv6A7kzPTC1QVicYI8ohyFmcL6+MUn30+wsYX9HYFWJc0WT0j3/D/eulyH5SqRhqfLyURXgFvgmZTAfRGFRrBKxGK/W1+4jByqTtBMBCRiigOHBVNUn/XQKezyLz/oi6jAoPpbjUL3MluFmxvBgGFYhwzIKFJyZc1u9v0qohrAxnIzv9OL8WewfykMj9beiiQxgIWFL/anbRL1xWUKphOanefKZq4eDFVo2J54Pbe9yqjpMJkpvEbaDz5ornesHJQlON5i2zdZ3oDWDvzxtdyaBQ9M/32C3skKrATVxtsBE3ifFv7tQ537AFIkF1CG6JnfBh4AT6z7ZxyLqPrsbgbzFP4J/t/jzEArubGxBFu262EntERqXaGoYP9Anfm/3UcdBeaA4xJ+s1THMUUYilzhNszwwysiPVNfcn7R70OfNjoTJlMK9wwiKHtB4TEhoTHMyzr/4WqAaO01aRuw4KN/jWMnyuLhxgBCefYdJFaLY7Ai3xfz0qRCshrUJzRWT6e9Qw==;t7WJxMu7j3c1Ob/3sFqadA=="
 ---

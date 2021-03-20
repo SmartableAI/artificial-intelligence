@@ -1,14 +1,11 @@
 ---
 category: news
 title: "iCAD Announces FDA Clearance for ProFound AI Version 3.0 for 3D Mammography"
-excerpt: "Company’s third generation AI solution offers significant improvement in algorithm specificity performance and faster processing compared to previous versions of the software Deep learning technology builds upon iCAD’s established leadership in mammography AI NASHUA,"
+excerpt: "In a reader study published in Radiology: Artificial Intelligence, ProFound AI for DBT Version ... iCAD is a global medical technology leader providing innovative cancer detection and therapy solutions. For more information, visit www.icadmed.com and ..."
 publishedDateTime: 2021-03-15T22:07:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
   name: Associated Press
@@ -24,22 +21,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "iCAD Announces FDA Clearance for ProFound AI Version 3.0 for 3D Mammography Nasdaq:ICAD"
-    excerpt: "Company's third generation AI solution offers significant improvement in algorithm specificity performance and faster processing compared to previous versions of the software<br /> Deep learning technology builds upon iCAD's established leadership in mammography AI NASHUA,"
-    publishedDateTime: 2021-03-16T14:38:00Z
-    webUrl: "https://menafn.com/1101756296/iCAD-Announces-FDA-Clearance-for-ProFound-AI-Version-30-for-3D-Mammography-NasdaqICAD"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?628141"
-        width: 375
-        height: 250
-        isCached: true
-
-secured: "YVpw1t8HLp/jpR4ffIuPw99uUnTDlZ1BHrHGukKxFZRfcN7JpwSkeMMPDG2wvxM2GyPjZMg6YSwHWaLgeWzsPfMV7mDBR1Kq++LcbnYVB3wIskV8Ti/HU9OvoUKau0XkGfwiuZMHK5fOFRdDWjoTbhQb1T5lBVrq7bG85f2zPPTVT4eDZMpbza6yXoplsp/hEa8Z9r5HLlulCvg8s3uqj/knLLZrUnwa6TC4PU+M4isb+25n284G0i+73J3iUfM4v22u1JupIrirZorAzrW5Xn2qbag1B1IIdhqmRHe87NswqICrP6cRuz4K2/CdMe02EVmjhl3YAdU7hWgK45HEnSeOqs/XY8CQvsIMGqrXmng=;STeJf3/UhsRh5w+OzMsXkg=="
+secured: "9vefW5QdLQhNhMAfEnJ0Zsbz9WCZYPp5JcpXtkyXGt0dLLO0xo2tpL4JKbOdO8GE060+4gFB+QEv1zbzxTvqTnxXgCa0V8nCTf66MVbwxvR0YFav7mWtdNWsAr3Y9jquJkIFmQ1BONN4itEkPu8DHPWaMUbFdYU/c0tdaustO+bkJFjuONKkdwxQXYiBEwBlkP41Zo832Y8vZRYpubahfZmvrmQsdxqifBc5Ie6TF0uJKAsW+5QiaDIVbfxx4RAVrm3OwvuRdSs8ZhOxn/IiNa3p56eHTWfK8iIFXFjFevSVOZC+d/1aXgFFnK1GBRP0fB6lntUXqedd0sgT6idZe4etif2gcCKdmnR7LJd3g9E=;NzaUR3paDBCZXpVgQfOCwQ=="
 ---
 

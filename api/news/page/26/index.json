@@ -2,6 +2,152 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-02-26-volvo-and-geely-call-off-merger.md",
+      "title": "Volvo and Geely call off merger",
+      "excerpt": "Both firms agree to more collaboration on electric and self-driving vehicles The Volvo 360c ... pacts with search-engine heavyweight Baidu Inc., Apple Inc.'s Taiwanese manufacturing partner ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "originalUrl": "https://gulfnews.com/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/02/25/auto-volvo_177d9e2e491_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "publishedDateTime": "2021-02-25T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-setting-up-amazon-personalize-with-aws-glue.md",
+      "title": "Setting up Amazon Personalize with AWS Glue",
+      "excerpt": "Data can be used in a variety of ways to satisfy the needs of different business units, such as marketing, sales, or product. In this post, we focus on using data to create personalized recommendations to improve end-user engagement. Most ecommerce applications consume a huge amount of customer data",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/setting-up-amazon-personalize-with-aws-glue/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/setting-up-amazon-personalize-with-aws-glue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/19/ML-1069-1.jpg",
+          "width": 480,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T13:05:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos.md",
+      "title": "NortonLifeLock’s AI-powered smartphone app blurs out sensitive information in photos",
+      "excerpt": "With some regularity, sensitive information finds its way into smartphones and other mobile devices. Much of it comes from the estimated 3.2 billion images uploaded every day — people screenshot documents like tickets,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1079201610-e1592874115155.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/amp/",
+      "publishedDateTime": "2021-02-25T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga.md",
       "title": "Driverless electric bus hits the road in Spanish city of Málaga",
       "excerpt": "The bus uses artificial intelligence to improve its “decisions ... and was developed by the Spanish company Irizar. Other driverless pilot projects already exist in Europe, but none of ...",
@@ -1018,162 +1164,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai.md",
-      "title": "Armorblox has raised $30 million to protect against phishing attacks with AI",
-      "excerpt": "Armorblox, a company developing a cybersecurity platform that leverages natural language processing, raised $30 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/armorblox.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/",
-      "publishedDateTime": "2021-02-25T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale.md",
-      "title": "Microsoft: How we deliver industry-specific cloud computing at scale",
-      "excerpt": "Microsoft is building clouds for nine priority industries by connecting and customising public cloud services for specific workloads and partner integrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/25/34c32e8e-79f4-4866-81e0-3f312dc07b23/resize/400x/0d173a80a5e76ca17f533fc8925f9e00/ms-erik-arnold-tr.jpg",
-          "width": 400,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
-      "publishedDateTime": "2021-02-25T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles.md",
-      "title": "Mobileye partners with Lohr and Transdev to develop self-driving shuttles",
-      "excerpt": "Mobileye announced that it's partnering with Lohr and Transdev to develop self-driving shuttles for public transportation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Mobileye-Transdev-Lohr-iCristal-shuttle_image1-e1614042008523.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/amp/",
-      "publishedDateTime": "2021-02-25T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

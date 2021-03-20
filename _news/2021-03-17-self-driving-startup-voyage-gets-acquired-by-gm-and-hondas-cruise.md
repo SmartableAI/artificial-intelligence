@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise purchases self-driving shuttle service Voyage"
-    excerpt: "Voyage has been offering its service to customers in retirement communities in California and Florida. Cruise, the GM-backed autonomous vehicle development company, has acquired another self-driving vehicle company called Voyage,"
-    publishedDateTime: 2021-03-15T22:27:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/cruise-voyage-purchased-self-driving/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "GM-Backed Cruise Acquires Self-Driving Start-Up Voyage"
     excerpt: "But prior to that pledge, the company had been grooming its Cruise subsidiary, which is dedicated to self-driving technology. Today, GM's Cruise announced it is buying Voyage, a self-driving start-up initially focused on using the technology for senior citizens in retirement communities."
     publishedDateTime: 2021-03-16T02:00:00Z
@@ -118,6 +102,20 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 24
+  - title: "Data mesh brings self-driving capabilities to enterprise"
+    excerpt: "Becoming a data-driven enterprise means taking data out of the sandbox of the information technology team and weaving it into daily business operations. It’s not an easy task. By its nature data is a distributed beast,"
+    publishedDateTime: 2021-03-17T21:38:00Z
+    webUrl: "https://siliconangle.com/2021/03/17/data-mesh-brings-self-driving-capabilities-to-enterprise-hpeezmeral/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/Kirk-Bourne-From-LinkedIn.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM’s Cruise acquires Voyage, a self-driving car startup that focuses on retirement communities"
     excerpt: "General Motor Co.’s majority-owned autonomous vehicle company Cruise LLC said today it has acquired self-driving car startup Voyage Auto Inc. for an undisclosed price. Founded in 2017, Palo Alto, California-based Voyage focuses on developing self-driving car technology to “supercharge” communities,"
     publishedDateTime: 2021-03-16T02:10:00Z
@@ -132,15 +130,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Cruise Automation acquires Voyage to further self-driving car goals"
-    excerpt: "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,"
-    publishedDateTime: 2021-03-17T12:21:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16471/cruise-automation-acquires-voyage-to-further-self-driving-car-goals"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "GTn3PzwfsM5vt0vxxnZK6gSsWUkz9OeZd4e/gR/v0U+bwRdbVFzZYjPUqjiTAKYcwJK7oH29QWXOHXemUfSP6ZpmkePPj7L7oo7XIzNgHb4W4F3tR1maoxp5IMPXKevfYV9FJzJLwpreRrVDtx0lY8xLnXwgf9xMOqcA7uwSfeHaS0kR3gXEQ0HxN8JMFMtxXdmHDr0aCltIukJZAF8w3z7s93CPfHoeLtvzASJhc/OLpRSgGXLPmiyKZFzTfPmJLbE+iKdJS8YzaKiuWBT88BmZqrrI49WqZJR+A5pEMvWkFnxKeN6zH5KQcx6t4IUcNJ/A0TlLHCFq/Vbyi6xb3vZw287B1EU+SBQd8UDFrHE0NADt2CpYyx3fT4hAhSccO6AIc/RjbeiDzkIvVeqEsWN4DdNRcrlYEEl4rZgaNixy08U+AeJx4jLrmQHdf9+ZHa4gr0zv0LakFHd9Ervc5M3bb+8/Qz4UOcceUYLeSGps6nA4u2a8dPE7ilZeVJb1ay64VNAE/tFWMbCeOUtR8g==;W9g+xkbTGPb6WWIg/vuV6A=="
 ---

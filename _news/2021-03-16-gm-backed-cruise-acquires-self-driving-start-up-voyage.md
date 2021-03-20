@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/03/15/gm-backed-cruise-acqui
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/15/gm-backed-cruise-acquires-self-driving-startup-voy/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: The Motley Fool
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cruise purchases self-driving shuttle service Voyage"
-    excerpt: "Voyage has been offering its service to customers in retirement communities in California and Florida. Cruise, the GM-backed autonomous vehicle development company, has acquired another self-driving vehicle company called Voyage,"
-    publishedDateTime: 2021-03-15T22:27:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/cruise-voyage-purchased-self-driving/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voyage acquired by Cruise to advance self-driving services"
     excerpt: "Self-driving starup Voyage announced it is being acquired by San Francisco-based Cruise to further develop autonomous vehicle technologies."
     publishedDateTime: 2021-03-15T23:15:00Z
@@ -118,6 +102,20 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 24
+  - title: "Data mesh brings self-driving capabilities to enterprise"
+    excerpt: "Becoming a data-driven enterprise means taking data out of the sandbox of the information technology team and weaving it into daily business operations. It’s not an easy task. By its nature data is a distributed beast,"
+    publishedDateTime: 2021-03-17T21:38:00Z
+    webUrl: "https://siliconangle.com/2021/03/17/data-mesh-brings-self-driving-capabilities-to-enterprise-hpeezmeral/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/Kirk-Bourne-From-LinkedIn.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GM’s Cruise acquires Voyage, a self-driving car startup that focuses on retirement communities"
     excerpt: "General Motor Co.’s majority-owned autonomous vehicle company Cruise LLC said today it has acquired self-driving car startup Voyage Auto Inc. for an undisclosed price. Founded in 2017, Palo Alto, California-based Voyage focuses on developing self-driving car technology to “supercharge” communities,"
     publishedDateTime: 2021-03-16T02:10:00Z
@@ -132,15 +130,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "Cruise Automation acquires Voyage to further self-driving car goals"
-    excerpt: "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,"
-    publishedDateTime: 2021-03-17T12:21:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16471/cruise-automation-acquires-voyage-to-further-self-driving-car-goals"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "hwdudswCzssQa39RWblfvatB32+5U6rgHDA7vulYjCFF0uEPeKOA3X/gr3Xdu7Lcac0Fx6wRoRGT4zAFxGm7tR2W6bn+eOrknTqffVdrExljZ0TRjTCKaWHMsbvVRIYSA2/IAaBTn3a+vXH+w5N88OngjGiPCwOAJYRF/NwLU6AVMQCv7HJfyM4Wm6eHQHUFgEjGWwN5gVzq80sAnhrbDfHbVTU+5tECiLM31LCkP3Y0ZfRBVtyn/aPVwKVbN+N40D2nnYG32UWjqa9gbhyNZf2ns+HxsFpgF5zPJERyor4sOZls2KEWzdpI5Cmqj/L7q5wlIfzN2cwYx/mAVtHvsqTqf1ZRxEGqxYFQQPYLdiMNufUg4L1NCay4my+14LXtF0fvi4pbsc4unOgv0x0q72FzO6coboyVkD10me7FPGvsn+XA0H9932m/OyMqxUrlf3fjZCvIhoTTJolKN6b9Wt+hF0w5Ov93hRizsJBmuMSkJwz680AwzjDYVf/WZyvQwGEw1U+x3ABc7JDX6tYfvQ==;MINWtkhrbuk9EXh8hyW31Q=="
 ---

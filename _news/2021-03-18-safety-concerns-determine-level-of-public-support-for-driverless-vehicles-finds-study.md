@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-03-safety-driverless-vehicles.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-safety-driverless-vehicles.amp"
 type: article
 quality: 51
-heat: 101
-published: true
+heat: -1
+published: false
 
 provider:
   name: techxplore.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The future of driverless cars is now"
+    excerpt: "In a series of conversations between film director Martin Scorcese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series \"Pretend It's a City,\" somehow the subject of"
+    publishedDateTime: 2021-03-20T14:00:00Z
+    webUrl: "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.html"
+    ampWebUrl: "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html"
+    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html"
+    type: article
+    provider:
+      name: The Oakland Press
+      domain: theoaklandpress.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/6/3e/63e37340-7e03-11eb-a419-7b053f257f3e/6042b2b313db0.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "FMCSA driverless truck message stokes unnecessary fear"
     excerpt: "The FMCSA acting administrator said driverless trucks will lead to \"a major shift in the workforce,\" though a Trump-era DOT policy official said the data tells a different story."
     publishedDateTime: 2021-03-17T14:55:00Z

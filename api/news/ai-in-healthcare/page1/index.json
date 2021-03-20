@@ -204,6 +204,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-16-icad-announces-fda-clearance-for-profound-ai-version-30-for-3d-mammography.md",
+      "title": "iCAD Announces FDA Clearance for ProFound AI Version 3.0 for 3D Mammography",
+      "excerpt": "In a reader study published in Radiology: Artificial Intelligence, ProFound AI for DBT Version ... iCAD is a global medical technology leader providing innovative cancer detection and therapy solutions. For more information, visit www.icadmed.com and ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-artificial-intelligence-ai-in-retail-and-e-commerce-market-investigation-and-growth-forecasted-until-the-end.md",
       "title": "Artificial Intelligence (AI) in Retail and E-commerce Market : Investigation and Growth Forecasted until the End",
       "excerpt": "Artificial Intelligence (AI) in Retail and E-commerce Market :Global Size, Share, Trends, Forecast, Growth, Key Players, Market Segments & Regional Analysis (Latin America, North America, Asia Pacific,",
@@ -1376,58 +1419,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts.md",
-      "title": "Artificial Intelligence (AI) in Retail Market |Global Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts",
-      "excerpt": "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-2021-02-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-2021-02-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

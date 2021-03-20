@@ -1,22 +1,22 @@
 ---
 category: news
-title: "China's SAIC partners with U.S. lidar maker Luminar on self-driving cars"
-excerpt: "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies."
-publishedDateTime: 2021-03-18T16:49:00Z
-originalUrl: "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO"
-webUrl: "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA1DO"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA1DO"
+title: "Self-Driving Cars Aiming To Change Our Most Favorite Of Car Colors"
+excerpt: "Giving consideration to the painted car colors of today and what might occur with the advent of self-driving cars."
+publishedDateTime: 2021-03-20T15:30:00Z
+originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/"
+webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/"
 type: article
-quality: 88
-heat: -1
-published: false
+quality: 89
+heat: 149
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Forbes
+  domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555336019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0RJ"
-    width: 817
-    height: 545
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60037dd0c892d0f11d613a64%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4971%26cropY1%3D181%26cropY2%3D2977"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Aiming To Change Our Most Favorite Of Car Colors"
-    excerpt: "Giving consideration to the painted car colors of today and what might occur with the advent of self-driving cars."
-    publishedDateTime: 2021-03-20T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/"
+  - title: "China's SAIC partners with U.S. lidar maker Luminar on self-driving cars"
+    excerpt: "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies."
+    publishedDateTime: 2021-03-18T16:49:00Z
+    webUrl: "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA1DO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA1DO"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Reuters
+      domain: reuters.com
+    quality: 88
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60037dd0c892d0f11d613a64%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4971%26cropY1%3D181%26cropY2%3D2977"
-        width: 1200
-        height: 675
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555336019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0RJ"
+        width: 817
+        height: 545
         isCached: true
   - title: "Bring Your Own Algorithm (BYOA) For Self-Driving Cars Is Not As Crazy As It Might Seem"
     excerpt: "Latest trend is BYOA (Bring Your Own Algorithm) which can be applied astutely to self-driving cars, surprisingly so."
@@ -110,6 +110,6 @@ related:
       domain: bizjournals.com
     quality: 1
 
-secured: "5uHI3//lPKUnwWuvP2eqIO3tj2UTGKH7W+XBBo8QcRMBfWFkGZcnfLNHEGKae+qzDIW60wKfvoy8pkq8tX+7KQO83MHA7Gos3NKTd2hcck0WPOvtwN+ocmzm5SKfFqPZgmcVQgodtgKuN3EvRmY7Pe0p4AOiBpo9RauV2lmNiWhwxDaxnX7oOzH5CF41siadY9WXqwpsHB5LkDD3+KhQ5uA0sOytllJpEK+cDoIalFro+c/7d8hakvaPirnjbBA7b4Pd4OmDLVIKvv6lIGtAcWZMbejXToP2VqdvYQnsu7GxMBpLfTgJMe3z/6VK7i0Ao3qgeaUVl8tRXnRYjTeo4Wy9qHVvIcjcnu8KaEx3RLg=;N8WpMU7bsf+sv1sy7bPeXA=="
+secured: "Z8Nv2cZgylw0Um/KFKnu59Wq9MexbeMYYCn6172ffN2zu7sIB8f4q1C+xhH+cFDlV6TfqDVI6rOkeBd4W709cD4/Yk8Dy6IvFB7oWOcEf2hn9USpT7d6IcJT2C+ZlYnUJHfxg6S2pTM8DOUtV/kL+mdZx9FkuuZ+XKmiNvAab/Zrz+LmrD3x9wCVxBLwKLALJ6SdnRCt801J5NI6IEF6jjdL/ygRfkOK4JkEDWMipw5gLwU18Era4b3EfoOZzg0mQ08+nGdJr8ofJQevwppEIigwXg7H+s8NuxKy+ywMIx1MRPBIB2MxEvEisqSsO5IYfQiYQvlPFJji32eXBPvQ+vncFn/YVkuCy7zioeGpJ9o=;Fqtuh/3qw8h/l5heNIYfbA=="
 ---
 

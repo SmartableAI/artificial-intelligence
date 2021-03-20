@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-20-self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors.md",
+      "title": "Self-Driving Cars Aiming To Change Our Most Favorite Of Car Colors",
+      "excerpt": "Giving consideration to the painted car colors of today and what might occur with the advent of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60037dd0c892d0f11d613a64%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4971%26cropY1%3D181%26cropY2%3D2977",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/",
+      "publishedDateTime": "2021-03-20T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-the-future-of-driverless-cars-is-now.md",
+      "title": "The future of driverless cars is now",
+      "excerpt": "In a series of conversations between film director Martin Scorcese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series \"Pretend It's a City,\" somehow the subject of",
+      "sourceUrl": null,
+      "webUrl": "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.html",
+      "originalUrl": "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/6/3e/63e37340-7e03-11eb-a419-7b053f257f3e/6042b2b313db0.image.jpg?resize=1024%2C576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html",
+      "cdnAmpWebUrl": "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html",
+      "publishedDateTime": "2021-03-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Oakland Press",
+        "domain": "theoaklandpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube.md",
       "title": "Help for Kids Falling Behind in Math—From AI-Powered Apps, Games and Even YouTube",
       "excerpt": "There is hope for parents during remote and hybrid learning in the form of problem solvers and virtual tutors.",
@@ -1163,111 +1258,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-how-making-a-funny-face-could-boost-the-security-of-face-unlock-features.md",
-      "title": "How Making a Funny Face Could Boost the Security of Face Unlock Features",
-      "excerpt": "Developed by DJ Lee and Zheng Sun at BY, Concurrent Two-Factor Identity Verification—or C2FIV, for short—could improve facial recognition unlock systems, like Apple's FaceID, by recording specific facial expressions or a user saying a specific phrase.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530",
-      "originalUrl": "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wmgsgpgdo3dnn2vfedxy.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530/amp",
-      "publishedDateTime": "2021-03-18T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-uk-must-avoid-complacency-and-seize-ai-opportunity.md",
-      "title": "UK Must Avoid Complacency And Seize AI Opportunity",
-      "excerpt": "While it was sold to Google, Deepmind, which recently “changed everything” by solving the protein folding problem, is testament to the UK’s AI talent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
-      "originalUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60539a75054b0d8950391878%2F0x0.jpg",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
-      "publishedDateTime": "2021-03-18T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

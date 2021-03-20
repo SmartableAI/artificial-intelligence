@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The future of driverless cars is now"
+    excerpt: "In a series of conversations between film director Martin Scorcese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series \"Pretend It's a City,\" somehow the subject of"
+    publishedDateTime: 2021-03-20T14:00:00Z
+    webUrl: "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.html"
+    ampWebUrl: "https://www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html"
+    cdnAmpWebUrl: "https://www-theoaklandpress-com.cdn.ampproject.org/c/s/www.theoaklandpress.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_6133d4ce-7e02-11eb-a779-1bfc3c2e1fc9.amp.html"
+    type: article
+    provider:
+      name: The Oakland Press
+      domain: theoaklandpress.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/theoaklandpress.com/content/tncms/assets/v3/editorial/6/3e/63e37340-7e03-11eb-a419-7b053f257f3e/6042b2b313db0.image.jpg?resize=1024%2C576"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Safety concerns determine level of public support for driverless vehicles, finds study"
     excerpt: "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,"
     publishedDateTime: 2021-03-18T13:48:00Z
