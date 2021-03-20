@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-up
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html"
 type: article
 quality: 123
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches DeepRacer Women’s League for female students to learn machine learning"
-    excerpt: "Participants can leverage AWS machine learning and AWS DeepRacer course modules and several enablement sessions planned during the event."
-    publishedDateTime: 2021-03-16T03:30:00Z
-    webUrl: "https://www.dqindia.com/aws-launches-deepracer-womens-league-female-students-learn-machine-learning/"
-    ampWebUrl: "https://www.dqindia.com/aws-launches-deepracer-womens-league-female-students-learn-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-launches-deepracer-womens-league-female-students-learn-machine-learning/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 102
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2019/11/artificial-2970158_1280_opt.jpg"
-        width: 625
-        height: 294
-        isCached: true
   - title: "AWS launches DeepRacer Women’s League to promote upskilling, diversity & inclusion in AI"
     excerpt: "AWS has launched an initiative called the AWS DeepRacer Women’s League- India 2021, to bring together women students to learn machine learning through a cloud"
     publishedDateTime: 2021-03-16T08:12:00Z
