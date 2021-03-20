@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/departures-2-google-ai-researchers-spur-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/departures-2-google-ai-researchers-spur-fallout/amp"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 34
-  - title: "Mind the gap! On the future of AI research"
-    excerpt: "Research on AI tends to analytically separate technical and social issues, viewing AI first as a technical object that only later, after it has been implemented, may have social consequences. This commentary paper discusses how some of the challenges of AI research relate to the gap between technological and social analyses,"
-    publishedDateTime: 2021-03-15T17:59:00Z
-    webUrl: "https://www.nature.com/articles/s41599-021-00750-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 19
 
 secured: "S6x9hbadWiQZI1c+HOQ0Ck0gGVSMWJbooXnwdHMW3np3Z2aHnmk318RexiLVAxOq7Qgh0cnXGp6I7XcbxdJFS2AYX54kfsWmheR1DkiaWJzDEYRmQGo94GQR7bzAhWrAel97lywXt3h3SVNDJOCtRuqgiGZjfvin0Dx6196Px67nnvsXXKuQh5sBc7jVxiwKff79vs0AWxti0ShD7+91c2MQ68YaBXJy6xkxCNjk1rJBQlEOXsDaK6t6PfV4+Mv3mbX+qJvZHMaFAHw6tXiDFVhM4T/FDq9+JglPPXMHRPBfQ7Gex8DBLLGL+5yNy4xLXZ+rgnS3y7diPFhiLWAC4ayLsKgUAYYKsa8OmuoaC0eBrJxOxrVVVSf8XJQXiNAKt/mWKCWee9xt6+ozEz26PnXhO3xaKbKRbLcdlR6sWTnXr7DQHuo/Zo+MtrwL6R7/kqKUBhgh5mHS8mVfu6EA6X/imuzjIpfK/JKpSSadfsPgA97ZWw8XIv6ABqfgXZWyp5Mg4TpFYzA7EsLJzkth1Q==;0gqBiWSuOBCOKK+p0hIZ+A=="
 ---

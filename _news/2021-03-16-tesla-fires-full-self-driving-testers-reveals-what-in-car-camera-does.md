@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-fires-self-driving-testers-camera
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-fires-self-driving-testers-camera.amp"
 type: article
 quality: 88
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM-backed Cruise acquires self-driving startup Voyage"
-    excerpt: "Voyage is a startup that spun out of online education company Udacity. Cruise itself has teamed up with Microsoft recently to help accelerate its research. Other notable self-driving partnerships include Amazon purchasing Zoox, Apple buying drive.ai and ..."
-    publishedDateTime: 2021-03-15T18:15:00Z
-    webUrl: "https://www.engadget.com/cruise-voyage-self-driving-acquisition-181356397.html"
-    ampWebUrl: "https://www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/EalVl1q6WRcEgwjY3sc7LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7fd6f550-85b9-11eb-bffa-fc7b88b7b6bf"
-        width: 1999
-        height: 1333
-        isCached: true
   - title: "Tesla's \"Full Self Driving\" Beta Is Just Laughably Bad and Potentially Dangerous"
     excerpt: "A beta version of Tesla's \"Full Self Driving\" Autopilot update has begun rolling out to certain users. And man, if you thought \"Full Self Driving\" was even close to a reality, this video of the system in action will certainly relieve you of that notion."
     publishedDateTime: 2021-03-19T16:56:00Z

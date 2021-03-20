@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-re
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Lawsuit Challenges Clearwater's Use of Scraped Social Media Images for Facial Recognition"
-    excerpt: "\"The facial recognition firm is dangerous. Its surveillance tool—used by 2,400+ policing agencies—chills free speech & endangers immigrants, protesters & communities of color. We won't be safe ..."
-    publishedDateTime: 2021-03-15T17:45:00Z
-    webUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearwaters-use-of-scraped-social-media-images-for-facial-recognition/"
-    ampWebUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearwaters-use-of-scraped-social-media-images-for-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/03/15/lawsuit-challenges-clearwaters-use-of-scraped-social-media-images-for-facial-recognition/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 32
 
 secured: "lGzya1bb4N19g8QUQYIVMb4d2eiXj0N8eWKPldRF2Mf/ZM2QNJSd4f+TxfNlME//9IyUFY0hqMkH3V26ww24qtqNTRPxGblQ+aIR6rzSIawJGpShdVW8yhYy+SvVn1atmLuCwsVBzI1jbNgp1DnwnWz1sFvcjrhyK1UBQkTQmt3HF4gp7LP55IFkY/whBvpQL7d9JTEVP+AB6blnuXQS6q5L1b9/qG70KcPpDmZPpugVeqTpjdtEQEWMIFPGac0a19qFIOvcsqDqlO+jIErt4eWryz+SclYhiAiMw1mxXYJ/o6YeEWNc5ms7k6g5lS8NmdP7KFn8lDKjl+HSguLEijN3i6mooDt3icl3wKyB14/zdnec9ZsPQvtYq37OoSksHyJPhZHZ1dfI0O2/kIrFG/IgBVKwWJGEB4YhkcwdPaldBVgPGgqyYc4QIwlcybCr0DJt1iGSWxZxYCXwc1X9FHjz5XsiIVrigiPvy3h6vaLK/+1CqmLJcO6/LGn13S4IDp6OSqy5Y93Pc8gsN5uvbA==;E9TDTpXcCJMYew7WbkcRDw=="
 ---

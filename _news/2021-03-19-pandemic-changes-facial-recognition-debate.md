@@ -43,17 +43,6 @@ related:
         width: 1024
         height: 691
         isCached: true
-  - title: "Lawsuit Challenges Clearwater's Use of Scraped Social Media Images for Facial Recognition"
-    excerpt: "\"The facial recognition firm is dangerous. Its surveillance tool—used by 2,400+ policing agencies—chills free speech & endangers immigrants, protesters & communities of color. We won't be safe ..."
-    publishedDateTime: 2021-03-15T17:45:00Z
-    webUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearwaters-use-of-scraped-social-media-images-for-facial-recognition/"
-    ampWebUrl: "https://reason.com/2021/03/15/lawsuit-challenges-clearwaters-use-of-scraped-social-media-images-for-facial-recognition/?amp"
-    cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/2021/03/15/lawsuit-challenges-clearwaters-use-of-scraped-social-media-images-for-facial-recognition/?amp"
-    type: article
-    provider:
-      name: Reason
-      domain: reason.com
-    quality: 32
 
 secured: "diZEKaZ51o5Ib3rlFNA+IqHmffd4zAQdOZqjRquIkeFT2bYUzn1iVXIjYMzlXamCPLYUzBGW6VRFEc4QDaJhtn3zRFyo7abqgImbuRD9yBCqXecAAuRxiJrBh6zYkEslSIZG99UWohhPX70dOB/r+RMr5KZHCbjQjYRyJ0QrkfSqtiIh5TzvzKrCqP6qIKouWHbr47Ltm8F4iG1B4PrpM8feiOuVc/a7s8Smdr4rJ8n2WwIZi3KIrch/dwVKGNMnLgw3u6cTNlv53f+VKJ79AlFCJrU9YaHipK+ParPM6Mlt5NB2NVIa+VFg/4NNMqlS+uAqvVB49rXgGLrsV8KPrRKBYoT55uZATV7cmQID4/g=;mi5qAfTTnFFGZK38U6Obig=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 1279
         height: 720
         isCached: true
-  - title: "GM-backed Cruise acquires self-driving startup Voyage"
-    excerpt: "Voyage is a startup that spun out of online education company Udacity. Cruise itself has teamed up with Microsoft recently to help accelerate its research. Other notable self-driving partnerships include Amazon purchasing Zoox, Apple buying drive.ai and ..."
-    publishedDateTime: 2021-03-15T18:15:00Z
-    webUrl: "https://www.engadget.com/cruise-voyage-self-driving-acquisition-181356397.html"
-    ampWebUrl: "https://www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/cruise-voyage-self-driving-acquisition-181356397.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/EalVl1q6WRcEgwjY3sc7LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzMz/https://s.yimg.com/os/creatr-uploaded-images/2021-03/7fd6f550-85b9-11eb-bffa-fc7b88b7b6bf"
-        width: 1999
-        height: 1333
-        isCached: true
   - title: "Self-driving Tesla collides with a Michigan State Police car after failing to move over"
     excerpt: "The autopilot function means the car can “steer, accelerate and brake automatically within its lane,” per Tesla’s website. It does not make the vehicle autonomous and requires supervision, per the website."
     publishedDateTime: 2021-03-17T05:12:00Z

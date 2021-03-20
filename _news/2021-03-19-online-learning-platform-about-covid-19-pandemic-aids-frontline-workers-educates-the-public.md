@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning system predicts severe COVID-19"
-    excerpt: "An advanced machine learning system can accurately predict the risk of a patient's COVID-19 advancing to severe disease or death, say researchers."
-    publishedDateTime: 2021-03-15T17:36:00Z
-    webUrl: "https://www.futurity.org/covid-19-macine-learning-diagnostics-2531992-2/"
-    type: article
-    provider:
-      name: Futurity News
-      domain: futurity.org
-    quality: 39
-    images:
-      - url: "https://www.futurity.org/wp/wp-content/uploads/2021/03/severe-COVID-19_1600.jpg"
-        width: 1600
-        height: 915
-        isCached: true
   - title: "Machine Learning System Predicts Severe COVID-19"
     excerpt: "An advanced machine learning system can accurately predict the risk of a patient's COVID-19 advancing to severe disease or death, say researchers."
     publishedDateTime: 2021-03-18T11:00:00Z
