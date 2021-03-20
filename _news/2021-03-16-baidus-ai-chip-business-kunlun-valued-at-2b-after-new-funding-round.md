@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Baidu’s AI chip unit Kunlun completes new funding, at $2 bln valuation- source"
-    excerpt: "Chinese search giant Baidu Inc BIDU.O said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion."
-    publishedDateTime: 2021-03-15T05:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0"
-    ampWebUrl: "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 80
   - title: "Baidu Chip Unit Reported At $2B Valuation; China Dominates AI, Report Finds"
     excerpt: "Baidu Inc. (NASDAQ: BIDU), one of China's largest multinational technology companies, has completed a fundraising round on its artificial intelligence (AI) chip, Kunlun,"
     publishedDateTime: 2021-03-16T09:31:00Z

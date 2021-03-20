@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 851
         isCached: true
+  - title: "Google Cloud Nvidia A100 GPU A2 VM Instances Now Generally Available"
+    excerpt: "Eight months after making its Nvidia A100 A2 VM cloud services available on Google Cloud as a beta service for customers, Google Cloud has announced that"
+    publishedDateTime: 2021-03-19T23:36:00Z
+    webUrl: "https://www.hpcwire.com/2021/03/19/google-cloud-nvidia-a100-gpu-a2-vm-instances-now-generally-available/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Google-Cloud-shutterstock-1621631572_600x.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "OxHydJyFnhDVPTTx6RkiJZJPqHkvpqA/3jyrr53Cop/aF/Zrbebkg0q0IZvE2QuD3AJ0WpWSj5d2WyYv1tkRvUOeXHavOZIiTVitfWRtRcpySYSBTW3jwhaZTNyWo3IJmTb6wU7SuT1MGHBUtC/jESe2zlF0SheHUZZc1hiidkSO/vwhF3SJL00xTUZDhZFduppcKYFp+y8301KqJ8SIL9HswoOgzwWXbxwrixLzaZvbu3Pl6jw0JIhZSVnGlHVbb/kTDWfSbuprNcvU62nrjSg+G6jVMye9kUvI+TFdlLgyV0Au3BaSiVrlGsuG55ChZTfCdenfw6CkzQ7UDpfnb89F20C401+uVeADbJuL49g=;dsQr0WEPe7SpjJHf/DqTuw=="
 ---

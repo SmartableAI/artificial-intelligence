@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-re
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pandemic changes facial recognition debate"
+    excerpt: "With masks a mandatory accessory to everyday life, the controversial use of facial recognition by law enforcement to find potential crime suspects has only heightened concerns and triggered further scrutiny due to advancements in artificial intelligence."
+    publishedDateTime: 2021-03-18T20:09:00Z
+    webUrl: "https://www.telegram.com/story/news/local/2021/03/18/pandemic-changes-facial-recognition-debate/4746010001/"
+    ampWebUrl: "https://amp.telegram.com/amp/4746010001"
+    cdnAmpWebUrl: "https://amp-telegram-com.cdn.ampproject.org/c/s/amp.telegram.com/amp/4746010001"
+    type: article
+    provider:
+      name: Telegram
+      domain: telegram.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/12/PDTF/0e045b9f-f9c0-467d-a379-4d07d06fdcdd-Coded_Bias_1_JoyinMaskStill.png?auto=webp&crop=1499,844,x0,y24&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Lawsuit Challenges Clearwater's Use of Scraped Social Media Images for Facial Recognition"
     excerpt: "\"The facial recognition firm is dangerous. Its surveillance tool—used by 2,400+ policing agencies—chills free speech & endangers immigrants, protesters & communities of color. We won't be safe ..."
     publishedDateTime: 2021-03-15T17:45:00Z

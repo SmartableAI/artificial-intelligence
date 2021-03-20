@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-hearing-aid-optimizes-so
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-hearing-aid-optimizes-sound-in-real-time/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

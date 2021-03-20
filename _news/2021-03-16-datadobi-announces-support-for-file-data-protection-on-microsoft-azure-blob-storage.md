@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy"
-    excerpt: "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning."
-    publishedDateTime: 2021-03-15T06:56:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f04e8e714d1ce6072a237%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D1%26cropY2%3D563"
-        width: 1000
-        height: 562
-        isCached: true
   - title: "Microsoft, Amazon must face facial recognition data suits"
     excerpt: "A Washington federal judge has ruled on motions to dismiss two nearly identical lawsuits against Amazon.com Inc and Microsoft Corp, rejecting the companies' bids to scrap an Illinois biometric privacy claim while asking for additional briefings before ruling on two"
     publishedDateTime: 2021-03-16T17:33:00Z
@@ -52,6 +36,31 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 86
+  - title: "AI company escapes lawsuit over use of OKCupid photos to guide facial recognition"
+    excerpt: "An Illinois federal judge has tossed a proposed class action against artificial intelligence company Clarifai Inc over its alleged unlawful use of dating profile images to train facial recognition technology, finding the court lacks jurisdiction."
+    publishedDateTime: 2021-03-17T18:55:00Z
+    webUrl: "https://www.reuters.com/article/dataprivacy-clarifai-idUSL1N2LF39D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LF39D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF39D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 79
+  - title: "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel"
+    excerpt: "The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 20.3% during the forecast period."
+    publishedDateTime: 2021-03-19T20:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
     excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital ... solutions based on Microsoft cloud, edge and AI products,\" indicated Omar Abbosh, Microsoft's corporate ..."
     publishedDateTime: 2021-03-17T22:36:00Z
@@ -80,29 +89,31 @@ related:
         width: 1013
         height: 675
         isCached: true
-  - title: "Tiberium launches two Microsoft based services leveraging Azure Sentinel and Microsoft Defender"
-    excerpt: "Tiberium launched two Microsoft based services leveraging Azure Sentinel and Microsoft Defender to offer a fully managed or hybrid delivery."
-    publishedDateTime: 2021-03-17T02:45:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/03/17/tiberium-microsoft/"
+  - title: "New Cachengo computer vision solution supports edge facial recognition deployments"
+    excerpt: "The Cachengo on-premise optimized edge service is capable of delivering AI applications like face biometrics without transmitting data to and from the cloud."
+    publishedDateTime: 2021-03-19T19:25:00Z
+    webUrl: "https://www.biometricupdate.com/202103/new-cachengo-computer-vision-solution-supports-edge-facial-recognition-deployments"
     type: article
     provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 42
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 48
     images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
+        width: 1920
+        height: 1005
         isCached: true
-  - title: "ActiveOps updates its Workware+ platform for Microsoft Azure users"
-    excerpt: "Workware+ from ActiveOps now delivers a deeper integration with Azure, bringing cloud-based Workware+ industry solutions to Microsoft users worldwide"
-    publishedDateTime: 2021-03-17T09:01:00Z
-    webUrl: "https://www.wboc.com/story/43511655/activeops-updates-its-workware-platform-for-microsoft-azure-users"
+  - title: "Facial Recognition Co. Dodges Suit Over OkCupid Photos"
+    excerpt: "A facial recognition software maker has won dismissal of proposed class claims accusing it of harvesting facial data from OkCupid dating profile photos without obtaining consent from users or making certain disclosures required under Illinois' landmark biometric privacy law."
+    publishedDateTime: 2021-03-17T21:59:00Z
+    webUrl: "https://www.law360.com/articles/1365826"
+    ampWebUrl: "https://www.law360.com/amp/articles/1365826"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1365826"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 34
+      name: Law360
+      domain: law360.com
+    quality: 39
   - title: "Microsoft extends digital innovation and energy transition deal with Spain's Repsol"
     excerpt: "Microsoft said it has renewed a strategic collaboration with Repsol that begun in 2017 to focus on accelerating the digital transformation and global energy transition of the Spanish energy and petrochemical giant."
     publishedDateTime: 2021-03-18T08:38:00Z
@@ -112,15 +123,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 28
-  - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
-    excerpt: "By making it easy to connect LoRa devices to Azure and by providing insights generated with Azure Cognitive Services and Azure AI, Webee and Semtech are simplifying IoT for our joint customers.” About Semtech Semtech Corporation is a leading supplier of ..."
-    publishedDateTime: 2021-03-17T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
 
 secured: "3qT4dDXmWHszSpP7GPVpRXDGIKU4QlzAarAgceSQEBGJe3sc+3v7sHv5fBiXBFnNPb+4qKFJxG3Mc6hljBd97Wh2BT0XWnPXIscNQQ6X3KgfRALQTNel0cJjBhq/i68YqttIMsR3h5ZUljlFcJPiX8YnN9bxq+9A/R8+lhRgU/cCNPBNIFd9LKod3b66nXicsxJnbHER7FgjDggE5TayNfSXzS/+LxheKq1nzl6proec6KmLIP9Lbk3eMr4XwJLhhiv1AP2WbhjLYHj89UuCksWKaHqD0VQbrswLjaKMACaMq5GMuEEyKibJBj5PU0tmY7DrEuzdPdr2w6tJyJU1oxEeEs2cpS4VZo7E0WRoihY=;O4/nlqJGViY4Me92Db+Ahg=="
 ---

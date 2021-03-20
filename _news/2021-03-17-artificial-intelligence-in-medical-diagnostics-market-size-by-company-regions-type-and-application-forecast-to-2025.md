@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Automatic Speech Recognition Market 2020 Top Industry Players, Regional Study, Growth Drivers, Challenges and Opportunities by 2025"
-    excerpt: "Global Automatic Speech Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth analysis of the market by value, by production capacity, by companies,"
-    publishedDateTime: 2021-03-15T14:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automatic-speech-recognition-market-2020-top-industry-players-regional-study-growth-drivers-challenges-and-opportunities-by-2025-2021-03-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Machine Learning as a Service Market Improvement, Industry Evolutionary Analysis, Orientation, Forecast To 2030 | Google Inc, IBM Corporation"
     excerpt: "tie-ups and acquisition with other Machine Learning as a Service leading establishments, financial agreements which affect the Machine Learning as a Service market in recent years are analyzed. In addition, Machine Learning as a Service company long term ..."
     publishedDateTime: 2021-03-15T08:05:00Z

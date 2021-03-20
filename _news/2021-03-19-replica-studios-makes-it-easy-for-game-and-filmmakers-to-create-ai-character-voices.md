@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 82
 published: true
 
 provider:

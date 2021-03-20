@@ -2,9 +2,9 @@
 category: news
 title: "USC scientists say artificial intelligence can compute formulas for successful vaccines against COVID variants"
 excerpt: "USC researchers are looking for ways to stay one step ahead of COVID-19 variants with the help of artificial intelligence."
-publishedDateTime: 2021-03-19T19:16:00Z
-originalUrl: "https://abc7.com/science/ai-helping-usc-scientists-study-vaccines-for-covid-19-variants/10430584/"
-webUrl: "https://abc7.com/science/ai-helping-usc-scientists-study-vaccines-for-covid-19-variants/10430584/"
+publishedDateTime: 2021-03-19T18:51:00Z
+originalUrl: "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/"
+webUrl: "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/"
 ampWebUrl: "https://abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/"
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 1080
     isCached: true
 
-secured: "DNSCHYkOJAfUTB3+w5KLffs1IFmcpTA8TrnH6I8ptgeaeokeXjuhcNJ17TUl0NcPVNnetFgIIWw6k+/jPOXPxvrzzRQPNTyzgqe4XCQmY3c/WYZEpTy19BdBLPM3OLh7T5A8jw//eYzyFraUXO9UtrJvkfIBrFwLfxYCPcusMBk/ldYqIljvRASIfRIZe2rFkFhtQ4h5PLeVHmh+QUd/1Ru+wyXgajZsnQ7tHy9KpG8pMCL0YVW7wjkY5XGttHkntr/rgWu5bdACFRNXhlsJtIcyI4UG0QzZfyxTqa8wJP5A7JhclbnOFG1P7KVxqWdLK6Yhae30NzD/P2eoyYjldyiN/kz4mnfqECof+0nl+Yg=;EjIwYQgNNLCke0697Kq9GA=="
+secured: "OQOXrSTFVBTrOGUiMSe0VUokmFtBdk3AJ671SBF/C9qkwjumn7PWXsv+JOxpewrq77+nUVvsl/4ARXunBiW/q/ZZx0DOmXfejLCVPhrsZDaHAJX3MUBclmCIX6JXPHLl+sWjVX+dOjl7iwMV+bpAxCZkoVvL8J/Q/eMtVOXIoH33fjB4DmaJuOCfbvUbZ0TR+VR0957+HmBybqtiA3AhQW+Pzp3zKhg39y49U4hl03htwG8EcohT7QSwoFTzxwUDqFsoxmBj81DtzzvuL+5/poLhi1AIkgsNqGBk8jhQgX55qi6mE4ACR/RkCMs2JfEaalMia0/JrKYhhAamsK6hpbuXN+iWYUWvCmUQkCsRgt0=;i8xTXmv2dLqUKO8szA+9vw=="
 ---
 

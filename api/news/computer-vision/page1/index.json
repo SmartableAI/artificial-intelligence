@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -315,7 +315,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ai-for-agritech-classifying-kiwifruits-using-amazon-rekognition-custom-labels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -360,22 +360,22 @@
       ]
     },
     {
-      "path": "_news/2021-03-18-ai-company-escapes-lawsuit-over-use-of-okcupid-photos-to-guide-facial-recognition.md",
-      "title": "AI company escapes lawsuit over use of OKCupid photos to guide facial recognition",
-      "excerpt": "An Illinois federal judge has tossed a proposed class action against artificial intelligence company Clarifai Inc over its alleged unlawful use of dating profile images to train facial recognition technology, finding the court lacks jurisdiction.",
+      "path": "_news/2021-03-17-microsoft-amazon-must-face-facial-recognition-data-suits.md",
+      "title": "Microsoft, Amazon must face facial recognition data suits",
+      "excerpt": "A Washington federal judge has ruled on motions to dismiss two nearly identical lawsuits against Amazon.com Inc and Microsoft Corp, rejecting the companies' bids to scrap an Illinois biometric privacy claim while asking for additional briefings before ruling on two",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/dataprivacy-clarifai-idUSL1N2LF39D",
-      "originalUrl": "https://www.reuters.com/article/dataprivacy-clarifai-idUSL1N2LF39D",
+      "webUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
+      "originalUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 166,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LF39D",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF39D",
-      "publishedDateTime": "2021-03-17T11:55:00-07:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LE215",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE215",
+      "publishedDateTime": "2021-03-16T10:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -399,7 +399,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

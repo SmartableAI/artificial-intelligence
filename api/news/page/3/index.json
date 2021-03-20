@@ -2,6 +2,91 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-17-an-autonomous-debating-system.md",
+      "title": "An autonomous debating system",
+      "excerpt": "Here we present Project Debater, an autonomous debating system that can engage in a competitive debate with humans. We provide a complete description of the system’s architecture, a thorough and systematic evaluation of its operation across a wide range of debate topics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41586-021-03215-w?error=cookies_not_supported&code=f7c4ea6f-341c-4fd6-854a-2d01222b6f5a",
+      "originalUrl": "https://www.nature.com/articles/s41586-021-03215-w",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-for-oracles-updated-autonomous-data-warehouse-no-sql-needed.md",
+      "title": "For Oracle's updated Autonomous Data Warehouse, no SQL needed",
+      "excerpt": "With drag-and-drop UIs and AutoML capabilities, the simplified data warehousing tool is designed to be accessible to data analysts and business users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
+      "originalUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/17/f1545472-64c8-47b8-8ed7-6303beeafde8/adw-oracledatabaseactions-dataload.png",
+          "width": 1800,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
+      "publishedDateTime": "2021-03-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-writing-helper-copyai-raises-29m-in-a-round-led-by-craft-ventures.md",
       "title": "Writing helper Copy.ai raises $2.9M in a round led by Craft Ventures",
       "excerpt": "Copy.ai, a startup building AI-powered copywriting tools for business customers, announced a $2.9 million round this morning. The investment was led by Craft Ventures. Other investors took part in the deal,",
@@ -234,58 +319,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-17-mobile-robot-market-competitive-landscape-forecasts-to-2028-global-industry-growth-share-size-trends.md",
-      "title": "Mobile Robot Market Competitive Landscape Forecasts to 2028: Global Industry Growth, Share, Size, Trends",
-      "excerpt": "The growth of this market can be attributed to the increasing adoption of mobile robots in the manufacturing plants. Adopting intelligent technologies such as artificial intelligence, deep learning, and mobile robotics drives the growth of the mobile robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/mobile-robot-market-competitive-landscape-forecasts-to-2028-global-industry-growth-share-size-trends-2021-03-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/mobile-robot-market-competitive-landscape-forecasts-to-2028-global-industry-growth-share-size-trends-2021-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-17-ai-hearing-aids-optimize-sound-in-real-time.md",
       "title": "AI hearing aids optimize sound in real time",
       "excerpt": "A software update is coming to an ear near you. Whisper, which develops AI-enabled hearing aids, just announced that they've rolled out the first software upgrade to their Whisper Hearing System, AI-powered hearing aids that improve over time. If you don't ...",
@@ -294,7 +327,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-hearing-aid-optimizes-sound-in-real-time/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -629,6 +662,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-microsoft-amazon-must-face-facial-recognition-data-suits.md",
+      "title": "Microsoft, Amazon must face facial recognition data suits",
+      "excerpt": "A Washington federal judge has ruled on motions to dismiss two nearly identical lawsuits against Amazon.com Inc and Microsoft Corp, rejecting the companies' bids to scrap an Illinois biometric privacy claim while asking for additional briefings before ruling on two",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
+      "originalUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LE215",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE215",
+      "publishedDateTime": "2021-03-16T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1129,108 +1206,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-how-can-you-go-global-as-a-startup.md",
-      "title": "How Can You Go Global As A Startup?",
-      "excerpt": "At an early stage of this business back in 2009, in the peak of the recession, I had the urge to go global and diversify, making my business less dependent on the U.S. economy. I did some research and learned that Mexico was investing heavily in tourism and bringing many international conferences to the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4928b88cc08f55ea58e438%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/amp/",
-      "publishedDateTime": "2021-03-16T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-three-top-ai-trends-to-watch-this-year.md",
-      "title": "Three Top AI Trends To Watch This Year",
-      "excerpt": "While businesses have started to realize tangible benefits from AI, there are still a number of yet-to-be-proven AI technologies in the early stages of the Gartner Hype Cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f62c590ff278ef5d11de2%2F0x0.jpg",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/three-top-ai-trends-to-watch-this-year/amp/",
-      "publishedDateTime": "2021-03-16T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

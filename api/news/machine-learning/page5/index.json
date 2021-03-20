@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-19-the-power-of-artificial-intelligence-ai.md",
+      "title": "The Power of Artificial Intelligence (AI)",
+      "excerpt": "By Aaron Gette, CIO, The Bay Club Company - If you’re an avid fan of HBO's Silicon Valley, as I am, you may have recently downloaded the iOS app",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
+      "originalUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/7ZAitg5M.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-deep-learning-and-future-of-healthcare.md",
+      "title": "Deep Learning and Future of Healthcare",
+      "excerpt": "Deep Learning and Future of Healthcare By Sanjib Basak, Former Director of Data Science & Artificial Intelligence, Carlson Wagonlit Travel - As Artificial Intelligence (AI) gains popularity in the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-healthcare-nid-27230-cid-212.html",
+      "originalUrl": "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-healthcare-nid-27230-cid-212.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/BYa6ufyT.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T18:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-azure-machine-learning-for-predictive-and-analytical-work.md",
       "title": "Azure Machine Learning for Predictive and Analytical Work",
       "excerpt": "Let me tell you about some unnoticed services that deserve attention of those, who want to be ahead of the game. Azure Machine Learning is a cloud service designed to carry out predictive and analytical work. Simply put, it’s an instrument that allows ...",
@@ -1321,93 +1408,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-a-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-covid-19.md",
-      "title": "A machine learning approach to identify drugs that could be repurposed to fight COVID-19",
-      "excerpt": "When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "publishedDateTime": "2021-02-15T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-library-of-deep-learning-models-and-datasets-designed-to-make-deep-learning-more-accessible-and-accelerate-ml-research.md",
-      "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
-      "excerpt": "Tensor2Tensor, or T2T for short, is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. T2T was developed by researchers and engineers in the Google Brain team and a community of users ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/tensorflow/tensor2tensor",
-      "originalUrl": "https://github.com/tensorflow/tensor2tensor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://avatars.githubusercontent.com/u/15658638?s=400&v=4",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-14T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

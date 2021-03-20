@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-19-rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges.md",
+      "title": "RAPIDS and Amazon SageMaker: Scale up and scale out to tackle ML challenges",
+      "excerpt": "In this post, we combine the powers of NVIDIA RAPIDS and Amazon SageMaker to accelerate hyperparameter optimization (HPO). HPO runs many training jobs on your dataset using different settings to find the best-performing model configuration. HPO helps data scientists reach top performance, and is applied",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/Flight-Graphicv2.jpg",
+          "width": 800,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T16:07:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-upstart-ceo-on-applying-ai-to-lending-an-enormous-market-opportunity.md",
+      "title": "Upstart CEO on applying AI to lending: 'An enormous market opportunity'",
+      "excerpt": "Upstart co-founder and CEO Dave Girouard joined Jim Cramer on \"Mad Money\" to discuss how the online lending platform is using modern technology to solve the biggest problems in the loans business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-an-enormous-market-opportunity-in-tying-ai-to-lending.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-an-enormous-market-opportunity-in-tying-ai-to-lending.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106856972-DOTCOM-MM-C-031921-jpg?v=1616194589",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more.md",
       "title": "Extra Crunch roundup: AI eats fintech, fundraising visas, no-code transition tips, more",
       "excerpt": "For this morning’s column, Alex Wilhelm interviewed Dave Girouard, CEO of Upstart, an AI-powered fintech lender that expects to see growth increase 114% this year. A forecast like that suggests ...",
@@ -54,60 +158,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-20-natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel.md",
-      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel",
-      "excerpt": "The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 20.3% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-20-uber-under-pressure-over-facial-recognition-checks-for-drivers.md",
       "title": "Uber under pressure over facial recognition checks for drivers",
       "excerpt": "Uber’s use of facial recognition technology for a driver identity system is being challenged in the UK where the App Drivers & Couriers Union (ADCU) and Worker Info Exchange (WIE) have today called for Microsoft to suspend the ride-hailing giant’s use of b2b facial recognition",
@@ -116,7 +166,7 @@
       "originalUrl": "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -375,7 +425,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -624,7 +674,7 @@
       "originalUrl": "https://www.techrepublic.com/article/job-trend-analysis-marks-growth-of-data-science-ai-roles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1128,6 +1178,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-18-entertainment-robot-toys-market-size-industry-growth-trends-price-report-and-forecast-2020-2027.md",
+      "title": "Entertainment Robot Toys Market Size, Industry Growth, Trends, Price, Report and Forecast 2020-2027",
+      "excerpt": "These robots have the ability to interact with people by singing, dancing, and by telling stories, especially to children. With the advance and developing artificial intelligence technology, growing the geriatric population, and increasing demand for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robot-toys-market-size-industry-growth-trends-price-report-and-forecast-2020-2027-2021-03-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/entertainment-robot-toys-market-size-industry-growth-trends-price-report-and-forecast-2020-2027-2021-03-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses.md",
       "title": "Adobe Acrobat Brings E-Sign and AI to Very Small Businesses",
       "excerpt": "Adobe's new tier of Acrobat Pro is aimed at micro-businesses, and comes equipped with its e-sign technology and other new capabilities, including smart web forms and an AI-powered overhaul to PDF support for mobile devices.",
@@ -1175,101 +1277,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship.md",
-      "title": "Atal Innovation Mission, AWS collaborate to accelerate Ed-tech entrepreneurship",
-      "excerpt": "The move will allow ed-tech start-up entrepreneurs and founders in all Atal Incubation Centers operating at higher educational institutions.This program will introduce the fundamentals of cloud computing such as cloud storage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship-11616080074724.html",
-      "originalUrl": "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship-11616080074724.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/03/18/600x338/aws-kMdH--621x414@LiveMint_1616080293599.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html",
-      "publishedDateTime": "2021-03-18T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-robotics-safety-system-developer-fort-robotics-raises-13m-to-tackle-workplace-automation.md",
-      "title": "Robotics safety system developer Fort Robotics raises $13M to tackle workplace automation",
-      "excerpt": "Fort Robotics, a company developing safety systems for autonomous machines, has raised $13 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/18/robotics-safety-system-developer-fort-robotics-raises-13m-to-tackle-workplace-automation/",
-      "originalUrl": "https://venturebeat.com/2021/03/18/robotics-safety-system-developer-fort-robotics-raises-13m-to-tackle-workplace-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1191254826.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/18/robotics-safety-system-developer-fort-robotics-raises-13m-to-tackle-workplace-automation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/18/robotics-safety-system-developer-fort-robotics-raises-13m-to-tackle-workplace-automation/amp/",
-      "publishedDateTime": "2021-03-18T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
