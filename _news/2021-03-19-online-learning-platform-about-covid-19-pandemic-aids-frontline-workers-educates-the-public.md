@@ -69,20 +69,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Machine learning models for diagnosing COVID-19 are not yet suitable for clinical use"
-    excerpt: "Systematic review finds that machine learning models for detecting and diagnosing COVID-19 from medical images have major flaws and biases, making them unsuitable for use in patients. However, researchers have suggested ways to remedy the problem."
-    publishedDateTime: 2021-03-15T16:05:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoc-mlm031221.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "RsIZJd8UAKIyWWO3rGNh0gJ5CkdZ4KVDkvPkYI/3Rc3PjihezJ1yUT2/S/JS1Z+YpN7Lu++7QX5Bu3UVKR+Kmg5lTkR68i5zWn9qy3yjLkRrfIIPWwdwirfLaFtcjpFaUOdm5dC3JHA/UEWHL85P1Q08Cb/xolAEuMnHVraVWvE5io1O0HCv7RDqc7qb/NtbFvVA5fDlLM001SUPhixhNTDDLpmpUMCrS7N8fwBgVdaM+lJWqLKgXbGOUnc/8lOvPWNuuL6Ut3LvkJHnCnkdmdcW8Bpchci53j68k97cQ6xzzQxYGS2QXP9N8cCLP8Rw+ALTIW3zD9kfQxi2lAeLqfLxr3En/U1ltytcta2LDNc=;3lz69KMdc5uC6/WspGc2HQ=="
 ---

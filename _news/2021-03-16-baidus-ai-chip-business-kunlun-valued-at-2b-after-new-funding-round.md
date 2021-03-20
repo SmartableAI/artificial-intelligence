@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese online search giant Baidu’s AI chip unit Kunlun completes new funding, said to be at US$2 billion valuation"
-    excerpt: "recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about US$2 billion. The fundraising, which comes as Baidu pushes forward its AI chip design plans, was led by Chinese ..."
-    publishedDateTime: 2021-03-15T15:47:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 82
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/15/a8a8db3b-e451-4f65-888f-982bc77e57b6_c78271b9.jpg?itok=rc5XR52f&v=1615794453"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Baidu Chip Unit Reported At $2B Valuation; China Dominates AI, Report Finds"
     excerpt: "Baidu Inc. (NASDAQ: BIDU), one of China's largest multinational technology companies, has completed a fundraising round on its artificial intelligence (AI) chip, Kunlun,"
     publishedDateTime: 2021-03-16T09:31:00Z

@@ -57,17 +57,6 @@ related:
         width: 533
         height: 400
         isCached: true
-  - title: "What Happens When Big Tech Comes for Fintech"
-    excerpt: "Perhaps, but I believe several challenges must be addressed as Big Tech is coming for fintech. Looking deeper at the impressive rise of neobanks, you might start asking yourself how their offers and services differ from one another."
-    publishedDateTime: 2021-03-15T15:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "FinTech firm launches Data and Compliance Summit"
     excerpt: "To register your place, visit hivera.ai/the-data-and-compliance-virtual-summit/ A message from the Editor: Thank you for reading this story on our website. While I have your attention, I also have an important request to make of you. In order for us to ..."
     publishedDateTime: 2021-03-18T13:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/adaptive-robot-leg-length-different-te
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/adaptive-robot-leg-length-different-terrain/?amp=true"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Strolling and learning: multi-terrain robots"
-    excerpt: "Autonomous robots have trouble walking, because they typically have a fixed shape and so can’t handle uneven ground or changes in density. This robot can change the shape of its inform legs as needed,"
-    publishedDateTime: 2021-03-15T16:33:00Z
-    webUrl: "https://cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/"
-    ampWebUrl: "https://cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/?amp"
-    cdnAmpWebUrl: "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/science/engineering/strolling-and-learning-multi-terrain-robots/?amp"
-    type: article
-    provider:
-      name: Cosmos
-      domain: cosmosmagazine.com
-    quality: 74
-    images:
-      - url: "https://cosmosmagazine.com/wp-content/uploads/2021/03/Picture31111.png"
-        width: 850
-        height: 478
-        isCached: true
 
 secured: "LVCEs+w7XuQUkZJu0+toz5AZ9kuFDOioYlO27Eu6/cDXS4lLwJ4ENU2VzlhuAJz9vGMnOPihNs+itwGDpCNIDgEjSkkhvlXkQ/Fy3ANCjBhhbJ06IqeTCgL0x6to2sM2I/6mnJ1HwScRQp6gZpKvwaLtynr7NTlhxcHvsM/KOv1BjTyJZXo9BiPcSvJdhLMIs+Coau1Xsf+pjp5v0Dc7e3Y28mEHvvB0n29GsnXF5aB6RoJScHFVrNz5mGesN+OKgK5c8zomtf+msrVHKI1v1w9Y0Z1ZHzV51kefeO0J2YfcbSjuPfODgVeBB1RsoOD40So3vRpFw6YjRDlHYnhlzfIjbcmzM029j8YsmdplLZY=;IIE5ilCgKnQbkmd18W5eCA=="
 ---

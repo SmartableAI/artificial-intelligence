@@ -49,17 +49,6 @@ related:
         width: 533
         height: 400
         isCached: true
-  - title: "What Happens When Big Tech Comes for Fintech"
-    excerpt: "Perhaps, but I believe several challenges must be addressed as Big Tech is coming for fintech. Looking deeper at the impressive rise of neobanks, you might start asking yourself how their offers and services differ from one another."
-    publishedDateTime: 2021-03-15T15:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15"
-    ampWebUrl: "https://www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/what-happens-when-big-tech-comes-for-fintech-2021-03-15?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Keeping Startups Alive Through FinTech Consolidation"
     excerpt: "All of the FinTech solutions in the world cannot guarantee success ... It's the viewpoint of Zeni, which recently announced the launch of its artificial intelligence (AI)-powered financial concierge service for startups. The solution links business ..."
     publishedDateTime: 2021-03-16T11:59:00Z

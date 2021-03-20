@@ -71,7 +71,7 @@ related:
   - title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
     excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
     publishedDateTime: 2021-03-18T18:33:00Z
-    webUrl: "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
+    webUrl: "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
     type: article
     provider:
       name: Forbes India

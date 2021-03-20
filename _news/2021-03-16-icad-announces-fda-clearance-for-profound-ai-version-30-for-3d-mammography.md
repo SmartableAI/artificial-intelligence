@@ -1,10 +1,10 @@
 ---
 category: news
 title: "iCAD Announces FDA Clearance for ProFound AI Version 3.0 for 3D Mammography"
-excerpt: "In a reader study published in Radiology: Artificial Intelligence, ProFound AI for DBT Version ... iCAD is a global medical technology leader providing innovative cancer detection and therapy solutions. For more information, visit www.icadmed.com and ..."
+excerpt: "Company’s third generation AI solution offers significant improvement in algorithm specificity performance and faster processing compared to previous versions of the software Deep learning technology builds upon iCAD’s established leadership in mammography AI NASHUA,"
 publishedDateTime: 2021-03-15T22:07:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
 type: article
 quality: 37
 heat: 37
@@ -39,18 +39,7 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "ICAD Stock Price Increases Over 15% Pre-Market: Why It Happened"
-    excerpt: "Investors were responding to iCAD – a global medical technology leader providing innovative cancer detection and therapy solutions – announcing ... the first 3D tomosynthesis software using artificial intelligence (AI) to be FDA cleared in December ..."
-    publishedDateTime: 2021-03-16T10:07:00Z
-    webUrl: "https://pulse2.com/icad-stock-price-nasdaq-icad-increases-over-15-pre-market-why-it-happened/"
-    ampWebUrl: "https://pulse2.com/icad-stock-price-nasdaq-icad-increases-over-15-pre-market-why-it-happened/amp/"
-    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/icad-stock-price-nasdaq-icad-increases-over-15-pre-market-why-it-happened/amp/"
-    type: article
-    provider:
-      name: Pulse 2.0
-      domain: pulse2.com
-    quality: 24
 
-secured: "akAy5psXvS1nUY8QTkDwpJBMQOqrBVpxEGB3r+xBF9XHSDv6rmoNnuJeM/3gBBupKa+Zy3dsttshObmZS2MKD6oJDQbNcGiuKf+ejjnLu8tIU9aAgTejBsxIA/yD7w+IR+twAScU8QDRzBb31ga09lb/JnXcsfu1YhC/hiEPrCa0rlOqqkkfeM//ODwyzs1vXJqmkZ+SPI/yHFXNiONZhRaG/lZHgwyT/L+iL/ZvlOyUmHoQgRrCZvMIONzDRJLwHnmJGyb8Lp14tROvWwXMpq6OZgObBA3TLvWQe1uXgWCaLYCwf/olsQYGcre6xXyb2Ic0JRDA0y991JzMZCY52CGSPFONFhKihcsYI0tUgqg=;sGGxmM7188tLxmc1fzvh5w=="
+secured: "YVpw1t8HLp/jpR4ffIuPw99uUnTDlZ1BHrHGukKxFZRfcN7JpwSkeMMPDG2wvxM2GyPjZMg6YSwHWaLgeWzsPfMV7mDBR1Kq++LcbnYVB3wIskV8Ti/HU9OvoUKau0XkGfwiuZMHK5fOFRdDWjoTbhQb1T5lBVrq7bG85f2zPPTVT4eDZMpbza6yXoplsp/hEa8Z9r5HLlulCvg8s3uqj/knLLZrUnwa6TC4PU+M4isb+25n284G0i+73J3iUfM4v22u1JupIrirZorAzrW5Xn2qbag1B1IIdhqmRHe87NswqICrP6cRuz4K2/CdMe02EVmjhl3YAdU7hWgK45HEnSeOqs/XY8CQvsIMGqrXmng=;STeJf3/UhsRh5w+OzMsXkg=="
 ---
 
