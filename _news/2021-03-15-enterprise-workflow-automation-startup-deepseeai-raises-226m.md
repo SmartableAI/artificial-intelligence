@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/15/enterprise-workflow-automation-st
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/enterprise-workflow-automation-startup-deepsee-ai-raises-22-6m/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Stroke detection startup Viz.ai raises $71M"
+    excerpt: "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke."
+    publishedDateTime: 2021-03-20T00:07:00Z
+    webUrl: "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
+        width: 725
+        height: 482
         isCached: true
   - title: "DeepSee.ai Announces $22.6M Series A Funding to Enable Enterprises to Turn Data Into Assets for “Months to Minutes” Efficiencies"
     excerpt: "DeepSee.ai, the leader in AI-powered Knowledge Process Automation, today announced it has closed $22.6 million in Series A funding led by ForgePoint Capital, with participation from previous investors AllegisCyber Capital and Signal Peak Ventures."

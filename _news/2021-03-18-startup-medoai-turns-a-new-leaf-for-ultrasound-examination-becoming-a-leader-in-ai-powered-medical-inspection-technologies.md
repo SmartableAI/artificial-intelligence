@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Startup MEDO.ai turns a new leaf for ultrasound examination, becoming a leader in AI-powered medical inspection technologies"
-excerpt: "The traditional stethoscope is an easily accessible tool, so too will be the future ultrasound device. Canada-based biotech startup MEDO.ai has developed a software platform based on AI and cloud computing technologies. When coupled with a handheld ..."
+excerpt: "The stethoscope may be the one instrument common to all medical professionals today in the 21st century. Its development process from invention to widespread use over the past 200 years is probably hard to imagine."
 publishedDateTime: 2021-03-18T02:06:00Z
-originalUrl: "https://www.digitimes.com/news/a20210317PD218.html?chid=9"
-webUrl: "https://www.digitimes.com/news/a20210317PD218.html?chid=9"
+originalUrl: "https://www.digitimes.com/news/a20210317PD218.html&chid=9"
+webUrl: "https://www.digitimes.com/news/a20210317PD218.html&chid=9"
 type: article
 quality: 10
 heat: -1
@@ -208,6 +208,6 @@ related:
       domain: nature.com
     quality: 1
 
-secured: "0q8dTfUxyI5slmoTgfBXzSCNEHUCl4T2zshcZ2O/Za5r1biGxJ9qhS6pY8pAJConl/QjLQqwvpqTnQDExDsZCLYHXZx6b6zNQ8PKF/ZrEBlWhb0x3miatTmE/1567cUVMaopxasIAsbKtuw7WTJS8HA+uoNhbRtSQbuBhIODIh8fX77+QW++drb7oxZMCcKo2175+LR8B7CKkDD2IlUnsMmoK3KX3oMZIWq1TWuGr8kRyD5Sy0xmG6weNmtaOyVUHo3DhHEWkXMvQgBRksvVCvVjNZ+E6GGj8gh72FG9P+LqdAAbkI1IUuSRnnSTYD5wSjTX193S2P2nxPcaylUxOYKVJQLCCCujBdcwKYmyfOvtwpKgUI/bdRSCQPWF5/nVR6h2+gS4mpEzAd/Qv4WZ4miYbJ7JgWjJO+6qGCWeJ2iVf3wZCsdLusJrASGH8ND+N69gMsDyDi2NqlvjdZ/RiPs0uF/myHTawoX3Q7RTSLUQ81DDJqvUEv1l0YDIzYqqj/ys0eE2GKMVE8eRhmQEhQ==;S7aiaI7dPnzzGfdvNK09kw=="
+secured: "6hk03lBBLI1LXmi4GlwYOR23faKChOMtxU8Ga51xkHeEeUCk1CBl18/j1w3emQFF9Eq1LrN/Pup4TkGr33LkeMWHxCaXexXT5YAf9PVYKwwm/T2MOBElGGp4to5CCYxQ69DpNWk5Px94Ga7XZrK20HAGy0m6BLWLgMHfcpAD8xAsSXY+rH2n5VXRAjMwhaB2sMfFhC0DnfgXzDRsxi38tW33h8bztkarvVV/1d6S0/SaP03VlyWNiAtM9p3VLF/K2v4o+CLltIPopNfqqaCl5MM8SDO+8k0JRYODF1odd02tanvWTyZXrC7W/9Yr32mZIdbUsP2qjqZfPPmCLwCwPiHLTk+ckBW0ZPH5K8aTCOI=;K863StBafCCTQEoggLe9ow=="
 ---
 

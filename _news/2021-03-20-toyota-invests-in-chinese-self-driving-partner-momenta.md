@@ -25,34 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota Is Using Artificial Intelligence To Build A New City"
-    excerpt: "Toyota is building a futuristic city in Japan, powered by artificial intelligence and robots. With dedicated roads for self-driving vehicles and test AI technologies to enable smart cities."
-    publishedDateTime: 2021-03-15T09:00:00Z
-    webUrl: "https://www.analyticsinsight.net/toyota-is-using-artificial-intelligence-to-build-a-new-city/"
+  - title: "Temasek leads $50m round of Chinese logistics startup Duckbill"
+    excerpt: "Chinese logistics startup Duckbill has received US$50 million in investment led by Singapore state-backed investment firm Temasek Holdings. Pavilion Capital, along with existing investors Future Capital,"
+    publishedDateTime: 2021-03-17T09:56:00Z
+    webUrl: "https://www.techinasia.com/temasek-leads-50m-funding-chinese-logistics-startup-duckbill"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-9.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "How a Team of Academics is Using AI to Make Data More Accessible"
-    excerpt: "How to Build Your Executive Team With Ali Ghodsi of Databricks In 2013, a team of academics at UC Berkeley was working to solve massive data challenges that were impacting the tech companies in their backyard."
-    publishedDateTime: 2021-03-17T05:33:00Z
-    webUrl: "https://www.inc.com/alexa-von-tobel/databricks-is-built-by-academics.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://www.incimages.com/uploaded_files/image/1024x576/Frame-pano_463738.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Techinasia
+      domain: techinasia.com
+    quality: 32
 
 secured: "Nqlza9akATPQRT+i92c7fwhuTb1c2OwCGTeHD2/CLauRViYF2kdchIYH3nvbofizmzXjkiXOLQOSMwjFnQCieJucCbfq6Vi1MWPxIO/11eOwo89JncTxFBVXEwsdSusGm1GB9UkzGt1FjqK4Esjvy0cTJ2CvZgPP1HW5gudFD+36qc6CWVut/wKNfgxmceKcGjnzW6cNrADSAgKyKI+YYJ+m5bYsE2mgdePycodEn2LWSRKvL9bQHm4gxXqqh9MWQSIF0UNvchbrdTLGYOUH6boPokCAy9Od3KMP6dbnRyiq2js6kh9NAoArHKBCJQ1gxT2VuT2aKPbjrTjlXq/cw6fZ+lulkqHqwQefhjoCDmg=;ikbGNnBNq4l6b6vRkyfNnQ=="
 ---

@@ -2,6 +2,40 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-02-21-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
+      "title": "IBM’s retreat from Watson highlights broader AI struggles in health",
+      "excerpt": "“You have to understand where you can insert AI and where it can be helpful” without slowing things down in the clinic. IBM’s Watson in use in an oncology department. For IBM, the retreat ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48",
+      "originalUrl": "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T20:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-voice-and-speech-recognition-market-with-segmentation-growth-opportunities-and-forecast-2021-to-2026.md",
       "title": "Voice and Speech Recognition Market with Segmentation, Growth, Opportunities and Forecast 2021 to 2026",
       "excerpt": "(MENAFN - GetNews) The global voice and speech recognition market exhibited strong growth during 2015-2020. IMARC Group expects the global voice and speech recognition market to grow at a CAGR of ...",
@@ -1140,49 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-visible-light-face-recognition-door-access-control-android-system-installed-with-turnstile.md",
-      "title": "Visible Light Face Recognition Door Access Control Android System Installed with Turnstile",
-      "excerpt": "Visible Light Facial Recognition System Facedepot-7A is able to automatically recognize and track faces in videos. After installation,System is enabled to actively collect face images and perform matching and identification upon any human activity in its 3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalsources.com/Facial-recognition/face-access-control-system-Android-1179870829p.htm",
-      "originalUrl": "https://www.globalsources.com/Facial-recognition/face-access-control-system-Android-1179870829p.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://p.globalsources.com/IMAGES/PDT/BIG/829/B1179870829.jpg",
-          "width": 360,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Sources",
-        "domain": "globalsources.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

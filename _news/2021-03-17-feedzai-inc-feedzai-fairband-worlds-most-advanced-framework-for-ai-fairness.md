@@ -21,6 +21,20 @@ topics:
   - AI in Finance
 
 related:
+  - title: "Feedzai Fairband: World’s most advanced framework for AI fairness"
+    excerpt: "Particularly in the fintech industry, there’s a risk that AI systems deny access to financial services disproportionately across people from different groups, based on race, age, place of residence, profession, or employment status. Access to banking ..."
+    publishedDateTime: 2021-03-17T08:07:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI enables privacy and fairness"
     excerpt: "Dilemmas posed to individual privacy, data sharing and fairness by uses of AI technologies were explored during the annual PI.lab conference in The Hague on the 6 th of December 2019. Many issues have been discussed. Several TNO experts contributed their ..."
     publishedDateTime: 2021-03-18T18:47:00Z
@@ -35,15 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Feedzai Fairband: World's most advanced framework for AI fairness"
-    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-    publishedDateTime: 2021-03-17T08:19:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "j7m2V0voGpR/NGMAIWJE763rFkLEco+Ke6sFQGDymtMoyNbehQEGCqm+5CxVSlfmtfgYxAnhrBwDRjqJJlyFm1vrr1wfJrSsfRXQQSDpplZNppC9k5z91kl59ybYFvdZh9wzMLAXrtgKT2QzM7Cw5ilj1UEk6eRP14vWInlD+U0t2zhwVaiKLTeyaD0FoMYrcXBLoAQcbLEPul830I7xrq7L6gdSEm5fQK34uHfGiAby6dURaJqQgIjiB3/0NEREDjwj0Td0oIemZcKL3kgBf7vKTHNdl7U1SC+WYTQKGKpI2k3hDWxrvIy94VfQaEQD25e+8jBRZW54AxakVhBa/xAvz2yesqYz29AYJgfC77Y=;9ltDLSJkTbAHCnPXj948Ew=="
 ---

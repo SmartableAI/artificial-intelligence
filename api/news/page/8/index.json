@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-11-how-to-optimize-content-for-voice-search-13-critical-factors.md",
+      "title": "How To Optimize Content For Voice Search: 13 Critical Factors",
+      "excerpt": "Tom Treanor, Treasure Data 7. Keep Your Keywords Simple When optimizing for voice recognition searching, it’s important to keep the keywords simple. When people ask their smartphone or Alexa a question, they aren’t going into detail. The software won ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049395129a5e7b7b537ae0c%2F0x0.jpg",
+          "width": 1200,
+          "height": 1213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/amp/",
+      "publishedDateTime": "2021-03-11T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-nimble-robotics-scores-50m-for-its-fulfillment-automation-tech.md",
       "title": "Nimble Robotics scores $50M for its fulfillment automation tech",
       "excerpt": "Warehouse automation company Nimble Robotics today announced that it has raised a $50 million Series A. Led by DNS Capital and GSR Ventures and featuring Accel and Reinvent Capital, the round will go toward helping the company essentially double its headcount this year.",
@@ -1135,40 +1187,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-angelini-pharma-chooses-aideas-artificial-intelligence-to-boost-its-digital-transformation-and-international-growth.md",
-      "title": "Angelini Pharma Chooses AiDEA’s Artificial Intelligence to Boost Its Digital Transformation and International Growth",
-      "excerpt": "and Mental Health (including Pain), Rare Diseases and Consumer Healthcare. Angelini's new digital vision is to reposition and elevate its Customer Engagement capabilities using Artificial Intelligence by implementing an innovative AI-Driven CRM system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210310005440/en/Angelini-Pharma-Chooses-AiDEA’s-Artificial-Intelligence-to-Boost-Its-Digital-Transformation-and-International-Growth",
-      "originalUrl": "https://www.businesswire.com/news/home/20210310005440/en/Angelini-Pharma-Chooses-AiDEA’s-Artificial-Intelligence-to-Boost-Its-Digital-Transformation-and-International-Growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

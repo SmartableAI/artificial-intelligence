@@ -26,6 +26,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Via Rideshare to implement self-driving vehicles servicing downtown Arlington, UTA"
+    excerpt: "UTA students will be able to ride the autonomous vehicles for free throughout the one-year pilot program starting Tuesday."
+    publishedDateTime: 2021-03-19T22:45:00Z
+    webUrl: "https://www.theshorthorn.com/news/via-rideshare-to-implement-self-driving-vehicles-servicing-downtown-arlington-uta/article_cc39d90e-8900-11eb-9c3e-b75353167403.html"
+    type: article
+    provider:
+      name: The Shorthorn
+      domain: theshorthorn.com
+    quality: 18
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/theshorthorn.com/content/tncms/assets/v3/editorial/b/68/b6841e68-890e-11eb-852a-fffe0d9a01e0/5f86784d6b9a5.image.jpg?resize=946%2C630"
+        width: 946
+        height: 630
+        isCached: true
+
 secured: "yNr1p42G0MtTCgjJTYjIgmeJHn2NumvOB1B5AyMgkbPTAbO+wUlvrsK+PchWyhhNuU14VWKHxoJDZZrOxYPlTnSevOiWIz7s2q5kcrKimHbYlR0KBliJXtWiq03QBs251TvDWW2rKD6D/MvRrGLNffiU+ZVErWDdYaIW41za2MP6/svgm7G67kxCBxdMVDW4F0ch3667JjPxS67boH0/oIjiEUfC9Eni1QzKaR+wqJSWdZxUkH1djqwbmH7EJw1IA3dnF1ELY+NhRipp6Fzyc+jaZ2zYsomkuuvWV4hrnEDjzCqauT23LT+/u+fwBz/dhTiwLdizpGarzuo2VC28hfO2iGYWSwFcqa3Zbv0tyXw=;30MSJcn+uNPa06N5Yu71lA=="
 ---
 

@@ -2,57 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-03-16-how-can-you-go-global-as-a-startup.md",
-      "title": "How Can You Go Global As A Startup?",
-      "excerpt": "At an early stage of this business back in 2009, in the peak of the recession, I had the urge to go global and diversify, making my business less dependent on the U.S. economy. I did some research and learned that Mexico was investing heavily in tourism and bringing many international conferences to the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4928b88cc08f55ea58e438%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/how-can-you-go-global-as-a-startup/amp/",
-      "publishedDateTime": "2021-03-16T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-16-three-top-ai-trends-to-watch-this-year.md",
       "title": "Three Top AI Trends To Watch This Year",
       "excerpt": "While businesses have started to realize tangible benefits from AI, there are still a number of yet-to-be-proven AI technologies in the early stages of the Gartner Hype Cycle.",
@@ -352,6 +301,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
+      "excerpt": "Selbyville, Delaware According to the recent research report titled 'Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -962,6 +963,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-16-artificial-intelligence-ai-in-retail-and-e-commerce-market-investigation-and-growth-forecasted-until-the-end.md",
+      "title": "Artificial Intelligence (AI) in Retail and E-commerce Market : Investigation and Growth Forecasted until the End",
+      "excerpt": "Artificial Intelligence (AI) in Retail and E-commerce Market :Global Size, Share, Trends, Forecast, Growth, Key Players, Market Segments & Regional Analysis (Latin America, North America, Asia Pacific,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-and-e-commerce-market-investigation-and-growth-forecasted-until-the-end-2021-03-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-and-e-commerce-market-investigation-and-growth-forecasted-until-the-end-2021-03-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-bmws-idrive-8-helps-drivers-using-machine-learning-and-natural-language-processing.md",
       "title": "BMW's iDrive 8 helps drivers using machine learning and natural language processing",
       "excerpt": "It’s about to get even better — think, natural language processing, gesture control and cloud-based machine learning — with the release of its latest iteration, iDrive 8, aboard the upcoming BMW iX and i4. The system’s onboard AI, BMW Intelligent ...",
@@ -1219,57 +1272,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment.md",
-      "title": "Using cameras and AI to help exoskeletons adapt to their environment",
-      "excerpt": "Researchers at Canada’s University of Waterloo are showcasing work with prostheses and exoskeletons that utilizes cameras and AI to deliver more natural human movement. The ExoNet project leverages video captured by a wearable camera,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/",
-      "originalUrl": "https://techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/exokeleton.jpg?w=1024",
-          "width": 1024,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/15/using-cameras-and-ai-to-help-exoskeletons-adapt-to-their-environment/amp/",
-      "publishedDateTime": "2021-03-15T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "Facial Recognition Co. Dodges Suit Over OkCupid Photos"
 excerpt: "A facial recognition software maker has won dismissal of proposed class claims accusing it of harvesting facial data from OkCupid dating profile photos without obtaining consent from users or making certain disclosures required under Illinois' landmark biometric privacy law."
 publishedDateTime: 2021-03-17T21:59:00Z
-originalUrl: "https://www.law360.com/articles/1365826"
-webUrl: "https://www.law360.com/articles/1365826"
+originalUrl: "https://www.law360.com/articles/1365826/facial-recognition-co-dodges-suit-over-okcupid-photos"
+webUrl: "https://www.law360.com/articles/1365826/facial-recognition-co-dodges-suit-over-okcupid-photos"
 ampWebUrl: "https://www.law360.com/amp/articles/1365826"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1365826"
 type: article
@@ -123,6 +123,6 @@ related:
       domain: telecompaper.com
     quality: 28
 
-secured: "MPRIF3bpakBQtjJUXuIVhZgoqzpAEMLfC1Jo3ed6zOtfs17Tf3AitUQ2z+prSOyTjFms/n5wKdyaMTzPU/OdFH1O9wAZJRtsf18b98T7JcLOnaHLeKgcV7cWlvagodv6lH1p1QxC9FelDeCU97RT2bSQZH6n9kWQX4Gp7Jy0iNrRl3mULAg4s+OI+hVsxxG5cIoJfXc/Lwg00ScczbLuoBKtGk1WIZn7KjdP7Wta4FbGA1N69dVEMvDzbWqaDRjE3ARaFB5dCCwV9LxQDJPFEfYHN1KzWPKXvCdChXcqcGoUB+zidogyXPPiJrGX0ZMI/rsrvRgs4+IYQ7RmHlb9miYcS39t2leiT9w5XEatbKI=;jIedjhSQh2Lxgs5uBtJKeQ=="
+secured: "x+jDBbQO/35NXMTOh5oY+zjXFM37YLDQn+shjTpYukS3hqzy4nlBX9q7jrLQNw7XowBsMCxb19eWDLE2aALEbieD4/X959PlK+u4UlwQKGpR96Boc1HeJSrnYFWiVUhZTA7fZ+DMpwg+zWTD7AjWx/PArszRlYjDUonb9c/xOm8satf+RERaEL/i4fafTzVrhpQ/Rj1ntMuAky9QZZ+xlAsWUfIEVs5G+xxgXhwj+LZVCMxHINVupbOKhwGwl2Z8Byb+qUiQdEGV8H47lH9NEu1zASfMVLstAGMvST50lgtjbbtfJ4LVdX4KjbVicLPMwD/D66zWKRv+KQ+L3W8H1WMlCi5iBRj4jwGXOThALz4=;Up1zcxsFI9OpH/BlbDzowQ=="
 ---
 

@@ -61,6 +61,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Stroke detection startup Viz.ai raises $71M"
+    excerpt: "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke."
+    publishedDateTime: 2021-03-20T00:07:00Z
+    webUrl: "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
+        width: 725
+        height: 482
+        isCached: true
   - title: "DeepSee.ai Announces $22.6M Series A Funding to Enable Enterprises to Turn Data Into Assets for “Months to Minutes” Efficiencies"
     excerpt: "DeepSee.ai, the leader in AI-powered Knowledge Process Automation, today announced it has closed $22.6 million in Series A funding led by ForgePoint Capital, with participation from previous investors AllegisCyber Capital and Signal Peak Ventures."
     publishedDateTime: 2021-03-15T12:47:00Z

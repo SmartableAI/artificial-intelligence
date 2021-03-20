@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-08-china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-us.md",
+      "title": "China Targets AI, Chips Among Seven Battlefronts in Tech Race With U.S.",
+      "excerpt": "A five-year economic plan unveiled in Beijing promises more spending, loans to bolster development of advanced technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "originalUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-308486/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "publishedDateTime": "2021-03-07T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-face-time-with-eight-mayoral-candidates.md",
       "title": "Face Time With Eight Mayoral Candidates",
       "excerpt": "This year, the candidates have spent a lot of their time on Zoom. It’s been weird. But the internet — in this case, Skype — is how I last talked with Kathryn Garcia, a wry, thoughtful former sanitation commissioner and candidate for mayor who deserves more attention than she has so far received in the race.",
@@ -111,8 +163,8 @@
       "title": "Facebook’s new AI teaches itself to see with less human help",
       "excerpt": "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1",
-      "originalUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1",
+      "webUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/",
+      "originalUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -154,7 +206,7 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1156,57 +1208,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive.md",
-      "title": "Scientists made an AI that reads your mind so it can generate portraits you’ll find attractive",
-      "excerpt": "A team of researchers recently developed a mind-reading AI that uses an individual’s personal preferences to generate portraits of attractive people who don’t exist. Computer-generated beauty truly is in the AI of the beholder.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/amp/",
-      "publishedDateTime": "2021-03-05T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/alibaba-backed-chinese-ai-firm-megvii-p
 webUrl: "https://www.techinasia.com/alibaba-backed-chinese-ai-firm-megvii-public-shanghai?ref=recommender-677794"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Alibaba-backed Chinese AI firm Megvii to go public in Shanghai"
-    excerpt: "The Alibaba-backed startup looks to issue up to 253 million class B shares for the offering, which could net it at least 6 billion yuan (US$922 million) after fees. Megvii said it will use the capital to fund research and development in robotics and visual ..."
-    publishedDateTime: 2021-03-15T07:35:00Z
-    webUrl: "https://www.techinasia.com/alibaba-backed-chinese-ai-firm-megvii-public-shanghai?ref=recommender-678435"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
   - title: "Alibaba-backed China AI company Megvii counts losses ahead of IPO"
     excerpt: "Losses for Chinese artificial intelligence startup Megvii are far outpacing revenues as the company prepares for an initial public offering of nearly $1 billion on Shanghai's STAR Market while under sanction by the U."
     publishedDateTime: 2021-03-15T12:41:00Z
