@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
+      "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
+      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published Monday. The simulations were based on 72 fatal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8lt5x61cHVw/v0/1200x796.jpg",
+          "width": 1200,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-new-toyota-tech-unit-promises-worlds-safest-drive.md",
+      "title": "New Toyota tech unit promises world's safest drive",
+      "excerpt": "The company also said it would be ready to unveil a fully self-driving prototype \"in the near ... while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/29/new-toyota-tech-unit-promises-world039s-safest-drive",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/29/new-toyota-tech-unit-promises-world039s-safest-drive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/29/1026162.JPG",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-nxp-semiconductors-takes-machine-learning-to-the-edge.md",
+      "title": "NXP Semiconductors Takes Machine Learning to the Edge",
+      "excerpt": "Only two years ago, NXP Semiconductors seemed behind in the artificial intelligence race ... compete with Nvidia in supplying the brains of driverless car prototypes. The Eindhoven, Netherlands ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21806699/nxp-semiconductors-takes-machine-learning-to-the-edge",
+      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21806699/nxp-semiconductors-takes-machine-learning-to-the-edge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2019/04/electronicdesign_22809_gettyimages_616252540_0.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-elon-musk-says-tesla-is-expanding-its-full-self-driving-beta-to-more-drivers.md",
       "title": "Elon Musk says Tesla is expanding its Full Self Driving beta to more drivers",
       "excerpt": "Tesla first introduced the FSD beta in October to vehicle owners in its Early Access Program. At the time, Musk said the company was handling the software update “very cautiousl",
@@ -142,19 +281,19 @@
     {
       "path": "_news/2021-03-06-your-self-driving-car-still-isnt-ready-smarter-roads-might-change-that.md",
       "title": "Your self-driving car still isn't ready. Smarter roads might change that",
-      "excerpt": "Washington, DC (CNN)Jaime Waydo spent years building self-driving cars at Waymo, and was quick to praise their abilities. The cars already had the experience of 300 years of average driving ...",
+      "excerpt": "which make it difficult for even advanced artificial intelligence to react appropriately to the myriad new scenarios it might encounter. A Waymo self-driving car once saw a baby crawling on a road ...",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
+      "webUrl": "https://www.kctv5.com/your-self-driving-car-still-isnt-ready-smarter-roads-might-change-that/article_d30cd523-5add-5945-a304-bb67fb5e767d.html",
+      "originalUrl": "https://www.kctv5.com/your-self-driving-car-still-isnt-ready-smarter-roads-might-change-that/article_d30cd523-5add-5945-a304-bb67fb5e767d.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210302171954-01-v2i-self-driving-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://bloximages.newyork1.vip.townnews.com/kctv5.com/content/tncms/custom/image/022e6960-5753-11eb-8d89-07ba8c1a1370.jpg",
+          "width": 820,
+          "height": 462,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -162,23 +301,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
-      "publishedDateTime": "2021-03-05T08:45:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-05T11:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "KCTV News",
+        "domain": "kctv5.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1266,163 +1396,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-01T17:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-aws-reorganizes-deepracer-league-to-encourage-more-newbies.md",
-      "title": "AWS reorganizes DeepRacer League to encourage more newbies",
-      "excerpt": "AWS launched the DeepRacer League in 2018 as a fun way to teach developers machine learning, and it’s been building on the idea ever since. Today, it announced the latest league season with two divisions: Open and Pro.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/",
-      "originalUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-01-at-4.47.14-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/amp/",
-      "publishedDateTime": "2021-03-01T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-volkswagen-and-argo-ai-plan-to-launch-a-self-driving-electric-taxi-in-2025.md",
-      "title": "Volkswagen and Argo AI Plan to Launch a Self-Driving Electric Taxi in 2025",
-      "excerpt": "Volkswagen ( OTC:VWAGY) said that it plans to launch a self-driving electric van for urban ride-hailing service in 2025. Volkswagen said on Monday that a commercial version of its ID. Buzz, an electric minivan inspired by the iconic 1960s VW Microbus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F615901%2Flarge-13019-volkswagencommercialvehiclesmovesaheadwithautonomousdrivingrdformobilityasaservice.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "publishedDateTime": "2021-03-01T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-global-self-driving-forklift-market-size-share-trends-growth-rate-competitive-landscape-covid-19-analysis-and-future-prospect-till-2026.md",
-      "title": "Global Self-driving Forklift Market Size, Share, Trends, Growth Rate, Competitive Landscape, COVID-19 Analysis and Future Prospect till 2026",
-      "excerpt": "The Global \"Self-driving Forklift Market\"report provides deep analysis of important market participants to help understand the use of leading strategies adopted in the global Self-driving Forklift ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-forklift-market-size-share-trends-growth-rate-competitive-landscape-covid-19-analysis-and-future-prospect-till-2026-2021-03-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-forklift-market-size-share-trends-growth-rate-competitive-landscape-covid-19-analysis-and-future-prospect-till-2026-2021-03-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-28T20:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

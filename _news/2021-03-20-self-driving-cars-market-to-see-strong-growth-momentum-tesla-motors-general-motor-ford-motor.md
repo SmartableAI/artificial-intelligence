@@ -29,38 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla 'fires' Full Self-Driving testers, reveals what in-car camera does"
-    excerpt: "Tesla has revoked the privileges of several drivers who were testing a new beta version of its Full Self-Driving feature because they weren't paying attention to the road."
-    publishedDateTime: 2021-03-15T20:11:00Z
-    webUrl: "https://www.foxnews.com/auto/tesla-fires-self-driving-testers-camera"
-    ampWebUrl: "https://www.foxnews.com/auto/tesla-fires-self-driving-testers-camera.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-fires-self-driving-testers-camera.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 88
-    images:
-      - url: "https://media2.foxnews.com/BrightCove/694940094001/2019/04/05/694940094001_6022995402001_6022987735001-vs.jpg"
-        width: 1279
-        height: 720
-        isCached: true
-  - title: "Tesla's \"Full Self Driving\" Beta Is Just Laughably Bad and Potentially Dangerous"
-    excerpt: "A beta version of Tesla's \"Full Self Driving\" Autopilot update has begun rolling out to certain users. And man, if you thought \"Full Self Driving\" was even close to a reality, this video of the system in action will certainly relieve you of that notion."
-    publishedDateTime: 2021-03-19T16:56:00Z
-    webUrl: "https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
-    ampWebUrl: "https://www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
-    cdnAmpWebUrl: "https://www-roadandtrack-com.cdn.ampproject.org/c/s/www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
-    type: article
-    provider:
-      name: Road & Track
-      domain: roadandtrack.com
-    quality: 69
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2021-03-18-at-4-33-42-pm-1616099640.png?crop=1.00xw:0.892xh;0,0.108xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
   - title: "Self-driving Tesla collides with a Michigan State Police car after failing to move over"
     excerpt: "The autopilot function means the car can “steer, accelerate and brake automatically within its lane,” per Tesla’s website. It does not make the vehicle autonomous and requires supervision, per the website."
     publishedDateTime: 2021-03-17T05:12:00Z
@@ -93,22 +61,6 @@ related:
         width: 541
         height: 373
         isCached: true
-  - title: "Tesla removed some drivers from its self-driving test for not paying attention"
-    excerpt: "(CNN) — Tesla has expanded its “full self-driving” software to roughly 2,000 Tesla owners, but some drivers were revoked access for not paying close enough attention to the road, according ..."
-    publishedDateTime: 2021-03-16T18:48:00Z
-    webUrl: "https://abc-7.com/news/2021/03/14/tesla-removed-some-drivers-from-its-self-driving-test-for-not-paying-attention/"
-    ampWebUrl: "https://abc-7.com/lifestyle/tech/2021/03/14/tesla-removed-some-drivers-from-its-self-driving-test-for-not-paying-attention/amp/"
-    cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/lifestyle/tech/2021/03/14/tesla-removed-some-drivers-from-its-self-driving-test-for-not-paying-attention/amp/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc-7.com
-    quality: 55
-    images:
-      - url: "https://abc-7.com/wp-content/uploads/2021/03/Tesla-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Jackson doctor duo retiring, self-driving Tesla hits police car: Top Jackson headlines March 13-18"
     excerpt: "JACKSON, MI – Two long-time OB-GYNs with thousands of successful births to their names are retiring. Here is that headline and some more you might have missed this week. Gary Farhat was delivering a baby in December at Henry Ford Allegiance Health when ..."
     publishedDateTime: 2021-03-19T13:01:00Z
@@ -125,59 +77,6 @@ related:
         width: 1300
         height: 867
         isCached: true
-  - title: "GM Subsidiary Cruise Acquires Self-Driving Car Startup Voyage"
-    excerpt: "Cruise, a majority-owned subsidiary of General Motors (GM), has scooped up self-driving vehicle startup Voyage, according to a blog post on Monday (March 15). The terms of the deal were not disclosed. “At Voyage, we’ve been laser-focused on delivering ..."
-    publishedDateTime: 2021-03-16T00:22:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/GM-Cruise-Walmart-driverless-delivery-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Tesla Removes Distracted Drivers From Self-Driving Test"
-    excerpt: "Tesla is removing some drivers from its self-driving test because they say they were not paying close enough attention to the road. About 2,000 Tesla owners are a part of the “full self-driving” beta program. It’s not clear how many test drivers were ..."
-    publishedDateTime: 2021-03-15T19:55:00Z
-    webUrl: "https://www.9and10news.com/2021/03/15/tesla-removes-distracted-drivers-from-self-driving-test/"
-    type: article
-    provider:
-      name: 9&10 News
-      domain: 9and10news.com
-    quality: 39
-    images:
-      - url: "https://wpcdn.us-midwest-1.vip.tn-cloud.net/www.9and10news.com/content/uploads/2021/03/tesla00-00-04-28still002.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Around the tracks: Stressful footage of a Tesla in full self-driving mode"
-    excerpt: "When we’re not creating it ourselves, the CarAdvice team spends a lot of time finding and consuming motoring content from all over the world. Here’s a handful of the photos, articles, videos or socia"
-    publishedDateTime: 2021-03-19T18:58:00Z
-    webUrl: "https://www.caradvice.com.au/935307/around-the-tracks-stressful-footage-of-a-tesla-in-full-self-driving-mode/"
-    type: article
-    provider:
-      name: CarAdvice
-      domain: caradvice.com.au
-    quality: 38
-    images:
-      - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/42ce5894867b7e17f63d3b75cdfb77bc.jpg"
-        width: 960
-        height: 500
-        isCached: true
-  - title: "Cruise Automation acquires Voyage to further self-driving car goals"
-    excerpt: "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,"
-    publishedDateTime: 2021-03-17T12:21:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16471/cruise-automation-acquires-voyage-to-further-self-driving-car-goals"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "l2Zc/dZzDwNRrXdFulbVQy8ERNgikJwy6TV6/TuTFnLE1WZJwdK/aos0G7kk0f4wI9GsRbc0ZhuKzLFWD7IDaDuwrmGxIyJz9nIl6GDgItAdbczOYft2sbQ3fgYmjvQtzNZDPrqdh4mm/Mpp4+Oe/7QFG94Moen72yAtF+NUkhb5Mi0LUMYegLKJhvY1wqGMDYNOOvkFJYhiMVw1dgbdJIZukTndvKqiItZ1NWHCu66OoicuKklUH2F7EoRXkG+OaXxbOtiDfwzroNruY4dgEEDkYYDmDMR4FGCrQcpqiHOIGa8zXYaUULK4jB5wA5geIS72YYaD1J15oDOw9eBmhgR5xZ2tdwqOTNFt5NRIk/k=;tDWcZ20SY9MMgbB69/5/+w=="
 ---

@@ -63,22 +63,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "OctoML raises $28M Series B for its machine learning acceleration platform"
-    excerpt: "OctoML, a Seattle-based startup that offers a machine learning acceleration platform build on top of the open-source Apache TVM compiler framework project, today announced that it has raised a $28 million Series B funding round led by Addition Captial."
-    publishedDateTime: 2021-03-17T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222422906.jpg?w=1024"
-        width: 1024
-        height: 669
-        isCached: true
   - title: "Machine learning startup OctoML raises $28M as it ramps up growth"
     excerpt: "Seattle-based OctoML, a startup that helps clients speed up the launch of their machine learning models, announced Wednesday it has raised a $28 million Series B."
     publishedDateTime: 2021-03-17T14:00:00Z

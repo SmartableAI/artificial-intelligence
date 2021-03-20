@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "ID R&D awarded patent for text-dependent voice biometrics improvement"
-    excerpt: "ID R&D has been granted a patent for text-dependent speaker recognition involving improved speed and accuracy of voice biometrics."
-    publishedDateTime: 2021-03-15T21:02:00Z
-    webUrl: "https://www.biometricupdate.com/202103/id-rd-awarded-patent-for-text-dependent-voice-biometrics-improvement"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
-        width: 768
-        height: 513
-        isCached: true
   - title: "Call center voice biometrics partnerships revealed by Auraya, Speech Technology Center, Nuance"
     excerpt: "Real estate developer to implement Speech Technology Center voice recognition Property developer Samolet Group is implementing voice biometrics from the Speech Technology Center in its call center, along with speech analytics and emotion recognition ..."
     publishedDateTime: 2021-03-16T22:53:00Z

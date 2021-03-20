@@ -37,20 +37,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Researchers Enhance Alzheimer’s Disease Classification through Artificial Intelligence"
-    excerpt: "Using an advanced AI (artificial intelligence) framework based on game theory (known ... These findings appear online in the journal Alzheimer’s Research & Therapy. Funding for this study was provided in part by the Karen Toffler Charitable Trust ..."
-    publishedDateTime: 2021-03-15T20:22:00Z
-    webUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
-    type: article
-    provider:
-      name: Boston University
-      domain: bu.edu
-    quality: 31
-    images:
-      - url: "https://www.bu.edu/hic/files/2021/03/vbk_latest-636x565.jpg"
-        width: 636
-        height: 565
-        isCached: true
 
 secured: "zrsNkHARsQcGMThN6AuYNB308pvwB+Mve7kfsY23eeV1lZ4T0gl/L5lda9Nhm08Zvj37JRc48G/MCzaEuE5a6X45y7iby74TmXfZedLSjV9DRes2aSqitJ2ZhVWCHm9xyT2n5grCaDRhJMUBdyYl53OCGF76UU1DfYmqFqLyeElwK+QPleDTLRjzTo1CdKKKUMB22O8tiIjPxWdHFQFOSBQtHLb7WUO7pwCbWhRySpkLD4DyTD2ggunL7s7D7ez6KQcsZXcsYn8fn5RhUBsAIoaHrxMyOdBfw8DegIHbya/tkG0XdDW+eqvvhXwgviFLfIx25UsU73GhkULBMpjD5y7/nHsAPIeEvck8BTp6lO4=;am6uFDgud7qutiwkr5F8Ag=="
 ---

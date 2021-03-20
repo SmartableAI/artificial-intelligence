@@ -40,20 +40,6 @@ related:
         width: 1600
         height: 1052
         isCached: true
-  - title: "Global AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Analysis"
-    excerpt: "Dublin, March 15, Mar 15, 2021 (GLOBE NEWSWIRE via COMTEX) -- Dublin, March 15, 2021 (GLOBE NEWSWIRE) -- The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ..."
-    publishedDateTime: 2021-03-15T19:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
     excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
     publishedDateTime: 2021-03-18T18:33:00Z

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "3 analytics and AI trends that will dominate 2021"
+    excerpt: "As enterprises continue to grapple with the pandemic, proving the ROI of analytics and AI, enabling intelligent automation, and leveraging data for diversity, equity, and inclusion will be critical."
+    publishedDateTime: 2021-03-16T09:00:00Z
+    webUrl: "https://www.cio.com/article/3251720/data-analytics-trends.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 37
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/01/big-data_little-girl_binary_analytics_sunglasses-100747393-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "KAR Global invests in AI startup"
     excerpt: "Carmel-based KAR Global (NYSE: KAR) has made what it is calling a strategic investment in an Israel-based artificial intelligence startup."
     publishedDateTime: 2021-03-16T21:28:00Z

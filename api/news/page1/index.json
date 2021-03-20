@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-20-help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube.md",
+      "title": "Help for Kids Falling Behind in Math—From AI-Powered Apps, Games and Even YouTube",
+      "excerpt": "There is hope for parents during remote and hybrid learning in the form of problem solvers and virtual tutors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
+      "originalUrl": "https://www.wsj.com/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-314190/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/help-for-kids-falling-behind-in-mathfrom-ai-powered-apps-games-and-even-youtube-11616245201",
+      "publishedDateTime": "2021-03-20T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-startup-leaders-heres-how-to-build-a-successful-advisory-board.md",
+      "title": "Startup Leaders, Here’s How To Build A Successful Advisory Board",
+      "excerpt": "I’m sometimes asked about the benefits and limitations of advisory boards for company CEOs, and how to get the most from that investment. I tend to give the same advice: A neglected advisory board is like an untended garden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/",
+      "originalUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6055ebf29bf087833498638c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/amp/",
+      "publishedDateTime": "2021-03-20T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-ai-weekly-with-rpa-on-the-rise-security-challenges-remain.md",
       "title": "AI Weekly: With RPA on the rise, security challenges remain",
       "excerpt": "AI is poised to impact health care dramatically, but how do you ensure it’s used equitably across all populations? Learn what’s needed. Robotic process automation (RPA) is experiencing a watershed moment.",
@@ -313,6 +416,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-19-teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous.md",
+      "title": "Tesla's \"Full Self Driving\" Beta Is Just Laughably Bad and Potentially Dangerous",
+      "excerpt": "A beta version of Tesla's \"Full Self Driving\" Autopilot update has begun rolling out to certain users. And man, if you thought \"Full Self Driving\" was even close to a reality, this video of the system in action will certainly relieve you of that notion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "originalUrl": "https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2021-03-18-at-4-33-42-pm-1616099640.png?crop=1.00xw:0.892xh;0,0.108xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "cdnAmpWebUrl": "https://www-roadandtrack-com.cdn.ampproject.org/c/s/www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "publishedDateTime": "2021-03-19T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Road & Track",
+        "domain": "roadandtrack.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-facebook-messenger-bot-answers-questions-about-whats-recyclable.md",
       "title": "Facebook Messenger Bot Answers Questions About What’s Recyclable",
       "excerpt": "Facebook and leading consumer packaged goods brands like PepsiCo, organizers say. “We’ve built a lot of the answers into the bot experience so that it can be answered by artificial intelligence ...” says Cody Marshall, chief community strategy ...",
@@ -361,48 +507,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-cornell-ai-startup-secures-1-million-in-seed-funding.md",
-      "title": "Cornell AI startup secures $1 million in seed funding",
-      "excerpt": "Iterate Labs, an Ithaca-based startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety, has obtained $1 million in",
-      "sourceUrl": null,
-      "webUrl": "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.html",
-      "originalUrl": "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/ithaca.com/content/tncms/assets/v3/editorial/d/6d/d6d20eb2-88cf-11eb-ac34-1f26f156445b/6054d0acd2f62.image.jpg",
-          "width": 670,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html",
-      "cdnAmpWebUrl": "https://www-ithaca-com.cdn.ampproject.org/c/s/www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html",
-      "publishedDateTime": "2021-03-19T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ithaca Times",
-        "domain": "ithaca.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -508,6 +612,57 @@
       "topics": [
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-resume-writing-tips-to-help-you-get-past-the-ai-gatekeepers.md",
+      "title": "Résumé-Writing Tips to Help You Get Past the A.I. Gatekeepers",
+      "excerpt": "More companies than ever are using software to screen their mountains of job applications. Getting seen by a human recruiter takes some effort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/03/business/03Resumes-illo/03Resumes-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/19/business/resume-filter-articial-intelligence.amp.html",
+      "publishedDateTime": "2021-03-19T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -673,7 +828,7 @@
       "originalUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1113,162 +1268,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify.md",
-      "title": "Explaining Bundesliga Match Facts xGoals using Amazon SageMaker Clarify",
-      "excerpt": "One of the most exciting AWS re:Invent 2020 announcements was a new Amazon SageMaker feature, purpose built to help detect bias in machine learning (ML) models and explain model predictions: Amazon SageMaker Clarify. In today’s world where predictions are made by ML algorithms at scale, it’s increasingly",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/26/ML-2433-13.png",
-          "width": 748,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T11:20:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-chinas-saic-partners-with-us-lidar-maker-luminar-on-self-driving-cars.md",
-      "title": "China's SAIC partners with U.S. lidar maker Luminar on self-driving cars",
-      "excerpt": "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO",
-      "originalUrl": "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555336019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0RJ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BA1DO",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA1DO",
-      "publishedDateTime": "2021-03-18T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-oracle-is-making-its-cloud-databases-easier-to-use.md",
-      "title": "Oracle is making its cloud databases easier to use",
-      "excerpt": "Oracle says the latest release of its cloud-based Autonomous Data Warehouse will help transform complex data transformation activities into point-and-click tasks. The Oracle Autonomous Data Warehouse is a software-as-a-service cloud data warehouse that Oracle says is designed to reduce the complexities of developing data driven applications by automating critical provisioning and configuration tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/oracle-is-making-its-cloud-databases-easier-to-use",
-      "originalUrl": "https://www.techradar.com/news/oracle-is-making-its-cloud-databases-easier-to-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use",
-      "publishedDateTime": "2021-03-18T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

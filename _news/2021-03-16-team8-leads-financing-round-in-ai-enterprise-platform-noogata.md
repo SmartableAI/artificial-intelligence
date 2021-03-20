@@ -24,6 +24,38 @@ images:
     isCached: true
 
 related:
+  - title: "Noogata raises $12M seed round for its no-code enterprise AI platform"
+    excerpt: "Noogata, a startup that offers a no-code AI solution for enterprises, today announced that it has raised a $12 million seed round led by Team8, with participation from Skylake Capital. The company, which was founded in 2019 and counts Colgate and PepsiCo among its customers,"
+    publishedDateTime: 2021-03-16T12:00:00Z
+    webUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 187
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222192913.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "OctoML raises $28M Series B for its machine learning acceleration platform"
+    excerpt: "OctoML, a Seattle-based startup that offers a machine learning acceleration platform build on top of the open-source Apache TVM compiler framework project, today announced that it has raised a $28 million Series B funding round led by Addition Captial."
+    publishedDateTime: 2021-03-17T13:00:00Z
+    webUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222422906.jpg?w=1024"
+        width: 1024
+        height: 669
+        isCached: true
   - title: "AI and big data analytics startup Noogata nets $12M"
     excerpt: "Noogata, a startup developing big data analytics and predictive modeling solutions for the enterprise, raised $12 million."
     publishedDateTime: 2021-03-16T12:00:00Z
@@ -40,53 +72,19 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Noogata raises $12M seed round for its no-code enterprise AI platform"
-    excerpt: "Noogata, a startup that offers a no-code AI solution for enterprises, today announced that it has raised a $12 million seed round led by Team8, with participation from Skylake Capital. The company, which was founded in 2019 and counts Colgate and PepsiCo among its customers,"
-    publishedDateTime: 2021-03-16T12:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
+  - title: "Torch.AI raises $30M for AI that unifies disparate enterprise data"
+    excerpt: "Torch.AI, a startup developing a platform to normalize and analyze disparate data, has raised $30 million in venture funding."
+    publishedDateTime: 2021-03-17T11:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222192913.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Solar Analytics Startup Prescinto Raises $3.5 Mn In Seed Round"
-    excerpt: "Funds raised would be used for international expansion, primarily theUS, and further IP development to deepening their moats into artificial intelligence (AI)"
-    publishedDateTime: 2021-03-18T08:15:00Z
-    webUrl: "https://www.entrepreneur.com/article/367380"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/367380"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367380"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1616054711-PuneetSinghJaggiFounderandCEOPrescinto.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Zenlytic Raises $1M for its Analytics Platform for E-Commerce Businesses that Streamlines Data Analysis with Machine Learning"
-    excerpt: "Zenlytic, cofounded by Ryan Janssen, is a no-code analytics platform made specifically for the e-commerce industry to unlock valuable insights to drive sales and marketing."
-    publishedDateTime: 2021-03-17T13:07:00Z
-    webUrl: "https://www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/"
-    ampWebUrl: "https://www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 62
-    images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/03/ryan-janssen_zenlytic-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Israeli startup Noogata looks to replace data-science teams with AI"
     excerpt: "Noogata, an Israeli AI-powered business intelligence startup, secured $12 million in Seed funding on Tuesday. The investment was led by Team8, with Skylake Capital also participating in the round. Noogata developed a platform that allows enterprises to ..."
@@ -104,22 +102,6 @@ related:
         width: 1536
         height: 1156
         isCached: true
-  - title: "Solar analytics startup Prescinto raises $3.5 mn in seed funding"
-    excerpt: "Prescinto’s AI identifies the root causes of the plant’s underperformance in real-time and helps in reducing costs of operation and maintenance. With an aim to increase clean energy without additional investment, the startup identifies and reduces the ..."
-    publishedDateTime: 2021-03-17T09:24:00Z
-    webUrl: "https://www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding-11615972554397.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding/amp-11615972554397.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding/amp-11615972554397.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/03/17/600x338/19ac9b5e-d33f-11ea-985e-0246d4273452_1596244478776_1596244559546_1615972944371.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Where AI and BI meet: Israeli startup Noogata secures Seed funding"
     excerpt: "The Team8 portfolio company helps enterprises streamline business intelligence with a no-code, no data-science team AI"
     publishedDateTime: 2021-03-19T14:20:00Z
@@ -136,35 +118,19 @@ related:
         width: 1536
         height: 1156
         isCached: true
-  - title: "NSE subsidiary invests in data analytics startup Capital Quants"
-    excerpt: "The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced investment in technology start-up Capital Quants Solutions (CQS). The latest inve"
-    publishedDateTime: 2021-03-17T10:26:00Z
-    webUrl: "https://www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/articleshow/81549269.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/amp_articleshow/81549269.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/amp_articleshow/81549269.cms"
+  - title: "Viz.ai Raises $71 Million Series C Round Led by Scale Venture Partners and Insight Partners"
+    excerpt: "Viz.ai today announced that it has raised $71 million in Series C funding, led by Scale Venture Partners and Insight Partners with participation from Greenoaks, Kleiner Perkins, Threshold Ventures, CRV,"
+    publishedDateTime: 2021-03-17T12:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-19703821.html"
     type: article
     provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 44
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
     images:
-      - url: "https://www.businessinsider.in/thumb/81549540.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
-  - title: "3 analytics and AI trends that will dominate 2021"
-    excerpt: "As enterprises continue to grapple with the pandemic, proving the ROI of analytics and AI, enabling intelligent automation, and leveraging data for diversity, equity, and inclusion will be critical."
-    publishedDateTime: 2021-03-16T09:00:00Z
-    webUrl: "https://www.cio.com/article/3251720/data-analytics-trends.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/01/big-data_little-girl_binary_analytics_sunglasses-100747393-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "BaWwVU1H25gXN3TTP+lqxWu65d74uKFggYtOjXWIA5WLg/M2RXqlcUxekGAo1LlsDwT5PzGm3rXKZYqJY/JSx9Jm0jklZysV24nhxUhi/xwfLLepd+N7VYnfNLQZjeTrgBJOHWuFR5R7vSQoSZSBy2NXXJ1Ce8TsHgVwuXYL9RLAdL7KJz18VvkhV80ssfpVO5RyU3iwVDpzq1KOnfed5R7dxxdxengwcrat12V3judIEjw5VA8evTpLHv3zzJTkIfrFgMot9LFGc8jf4RZxNn5N8fC6Ec41omfXHMYazCTLDImmTjvdpwZN1zb+EtZqXeQ4XQRKUF0+lCzX2AUw5Q7R6qytq6HMsbDZlrZuhg0+DWptRlqLPx3hYpQc97qLr83+WHgJBstf5Wrtwni2OCYehJRCz2v0i2ET/+XPig42LxYKcjR6Baiz5Q/z3grLdWJjIn9yoBlOD0nfqXKu9SkIbvy38LJPBNAQpHsZboQ2C76tE2kNUP8b0aNCaZMBZEZTlpFf7VISAjudQBC9Qw==;zd73ccl7+NkKM6T5QDq2VA=="

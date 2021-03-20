@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit
 webUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-to-2025-2021-03-17"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -29,17 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail and E-commerce Market : Investigation and Growth Forecasted until the End"
-    excerpt: "Artificial Intelligence (AI) in Retail and E-commerce Market :Global Size, Share, Trends, Forecast, Growth, Key Players, Market Segments & Regional Analysis (Latin America, North America, Asia Pacific,"
-    publishedDateTime: 2021-03-15T19:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-and-e-commerce-market-investigation-and-growth-forecasted-until-the-end-2021-03-15"
+  - title: "Gesture Recognition and Touchless Sensing Market Manufacturing Size, Share, Business Outlook, Vital Challenges and Forecast Analysis by 2031"
+    excerpt: "The New Report Gesture Recognition and Touchless Sensing Market posted through MarketResearch.Biz, covers the market panorama and its growth possibilities"
+    publishedDateTime: 2021-03-17T07:43:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/gesture-recognition-and-touchless-sensing-market-manufacturing-size-share-business-outlook-vital-challenges-and-forecast/article_19487998-753a-5b34-b31b-6c144ce3fee9.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
         width: 1200
         height: 630
         isCached: true

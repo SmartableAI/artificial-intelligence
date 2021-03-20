@@ -38,20 +38,6 @@ related:
         width: 1600
         height: 1052
         isCached: true
-  - title: "Global AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Analysis"
-    excerpt: "Dublin, March 15, Mar 15, 2021 (GLOBE NEWSWIRE via COMTEX) -- Dublin, March 15, 2021 (GLOBE NEWSWIRE) -- The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ..."
-    publishedDateTime: 2021-03-15T19:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-computer-vision-market-forecast-to-2027---covid-19-impact-and-analysis-2021-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Is Predicting Future COVID-19 Strains, Developing Treatments"
     excerpt: "Artificial intelligence in particular has emerged as a useful new tool to not only beat back the viral mutations, but to also stop them before they can spread at all. Some new strains of the COVID ..."
     publishedDateTime: 2021-03-16T17:23:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that
 webUrl: "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/"
 type: article
 quality: 69
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,44 +29,113 @@ images:
     isCached: true
 
 related:
-  - title: "AI patent intelligence platform PatSnap secures $300M"
-    excerpt: "PatSnap, a startup developing AI technologies to analyze and organize patents for R&D, has raised $300 million.Read MoreRead more on 'VentureBeat'"
-    publishedDateTime: 2021-03-16T23:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
+  - title: "Noogata raises $12M seed round for its no-code enterprise AI platform"
+    excerpt: "Noogata, a startup that offers a no-code AI solution for enterprises, today announced that it has raised a $12 million seed round led by Team8, with participation from Skylake Capital. The company, which was founded in 2019 and counts Colgate and PepsiCo among its customers,"
+    publishedDateTime: 2021-03-16T12:00:00Z
+    webUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "Startup Viz.ai Raises $71 Million in New Funding"
-    excerpt: "Viz.ai has raised $71 million in new venture-capital funding."
-    publishedDateTime: 2021-03-17T11:30:00Z
-    webUrl: "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 187
     images:
-      - url: "https://images.wsj.net/im-312633/social"
-        width: 1280
-        height: 640
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222192913.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Stroke detection startup Viz.ai raises $71M"
-    excerpt: "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke."
-    publishedDateTime: 2021-03-20T00:07:00Z
-    webUrl: "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/"
+  - title: "OctoML raises $28M Series B for its machine learning acceleration platform"
+    excerpt: "OctoML, a Seattle-based startup that offers a machine learning acceleration platform build on top of the open-source Apache TVM compiler framework project, today announced that it has raised a $28 million Series B funding round led by Addition Captial."
+    publishedDateTime: 2021-03-17T13:00:00Z
+    webUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222422906.jpg?w=1024"
+        width: 1024
+        height: 669
+        isCached: true
+  - title: "AI and big data analytics startup Noogata nets $12M"
+    excerpt: "Noogata, a startup developing big data analytics and predictive modeling solutions for the enterprise, raised $12 million."
+    publishedDateTime: 2021-03-16T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/"
+    ampWebUrl: "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/2b8ab143-423c-47d7-88d0-f31e9f51a01b-e1615408437690.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Israeli startup Noogata looks to replace data-science teams with AI"
+    excerpt: "Noogata, an Israeli AI-powered business intelligence startup, secured $12 million in Seed funding on Tuesday. The investment was led by Team8, with Skylake Capital also participating in the round. Noogata developed a platform that allows enterprises to ..."
+    publishedDateTime: 2021-03-17T10:25:00Z
+    webUrl: "https://www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/"
+    ampWebUrl: "https://www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 57
+    images:
+      - url: "https://www.geektime.com/content/images/2021/03/Noogata-Leadership-Team_credit_Doron-Lezter-1615813398-1536x1156.jpg"
+        width: 1536
+        height: 1156
+        isCached: true
+  - title: "Where AI and BI meet: Israeli startup Noogata secures Seed funding"
+    excerpt: "The Team8 portfolio company helps enterprises streamline business intelligence with a no-code, no data-science team AI"
+    publishedDateTime: 2021-03-19T14:20:00Z
+    webUrl: "https://www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/"
+    ampWebUrl: "https://www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 57
+    images:
+      - url: "https://www.geektime.com/content/images/2021/03/Noogata-Leadership-Team_credit_Doron-Lezter-1615813398-1536x1156.jpg"
+        width: 1536
+        height: 1156
+        isCached: true
+  - title: "Team8 Leads Financing Round In AI Enterprise Platform Noogata"
+    excerpt: "Noogata is the first company established within the framework of Team8 that does not deal with cybersecurity and privacy."
+    publishedDateTime: 2021-03-16T14:15:00Z
+    webUrl: "https://nocamels.com/2021/03/team8-seed-ai-enteprise-platform-noogata/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
     quality: 37
     images:
-      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
-        width: 725
-        height: 482
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/03/Noogata-Full-Team_Credit_-Nelli-Guy-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Viz.ai Raises $71 Million Series C Round Led by Scale Venture Partners and Insight Partners"
+    excerpt: "Viz.ai today announced that it has raised $71 million in Series C funding, led by Scale Venture Partners and Insight Partners with participation from Greenoaks, Kleiner Perkins, Threshold Ventures, CRV,"
+    publishedDateTime: 2021-03-17T12:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-19703821.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "xlgmRU/mGT0OJ0lPeBaviMVS3wqHTtoTo+lG8mHdY2tqsRzohqXvpMopFYDLLCkYZq83fGEIArC1yKHZ038Lj5F4Rbd9DiJYg9sv21YJ8sIxa/p38OtRM+jGW85LC2anPfiAzd4CB9rmbZOu3N9cKmNVffVxz4Fc5EwbgWLkgU5rl9geNdRE/9npG8MzeFtsEkEKQqsTqxa0nAeiAr+JGS3MPS180Ggy4J9eWUMdn+cytr/Ul6PPkmwVdY2Hy/5tRpY1EJ3KW9cW0QecImfRGLynRD+N+WHnTUm2GEGahZs3zgqnuxzpvw72WhTzqBIK0Eum77RpLmat4DYBMZstijJ8kKH4b3poWIzjPeRxK8m0FaHWEd2ePJ810WhHTPbi5tUs/evhmv7Vby99agcQy+IgRvRj93Ry8B97c+EfyIz4+uWiQP9YD9GcGwN2T53AiF392l8ADuxxvltRtcX0YSGgK6T9ArOw/GbE6TjCFLUa7l940LY3/WohlwAyeRWn39t05geN2iliXdEf5stX4Q==;+lVgfjiWoHED5nD3HIOIrQ=="

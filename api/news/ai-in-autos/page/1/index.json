@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-19-teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous.md",
+      "title": "Tesla's \"Full Self Driving\" Beta Is Just Laughably Bad and Potentially Dangerous",
+      "excerpt": "A beta version of Tesla's \"Full Self Driving\" Autopilot update has begun rolling out to certain users. And man, if you thought \"Full Self Driving\" was even close to a reality, this video of the system in action will certainly relieve you of that notion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "originalUrl": "https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2021-03-18-at-4-33-42-pm-1616099640.png?crop=1.00xw:0.892xh;0,0.108xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "cdnAmpWebUrl": "https://www-roadandtrack-com.cdn.ampproject.org/c/s/www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "publishedDateTime": "2021-03-19T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Road & Track",
+        "domain": "roadandtrack.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-chinas-saic-partners-with-us-lidar-maker-luminar-on-self-driving-cars.md",
       "title": "China's SAIC partners with U.S. lidar maker Luminar on self-driving cars",
       "excerpt": "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies.",
@@ -179,6 +222,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.md",
+      "title": "Self-driving Tesla collides with a Michigan State Police car after failing to move over",
+      "excerpt": "The autopilot function means the car can “steer, accelerate and brake automatically within its lane,” per Tesla’s website. It does not make the vehicle autonomous and requires supervision, per the website.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html",
+      "originalUrl": "https://www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZX4FKHNDTZHOBG5HFSEHKQR42M.jpg",
+          "width": 541,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html?outputType=amp",
+      "publishedDateTime": "2021-03-16T22:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Penn Live",
+        "domain": "pennlive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -393,7 +479,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/cruise-voyage-purchased-self-driving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -486,6 +572,51 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
+      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
+      "excerpt": "Bigg Boss 14 couple Jasmin Bhasin and Aly Goni recently stepped out for a dinner date in Mumbai. The couple was joined by none other than Rahul Vaidya and Disha Parmar. Mumbai, March 16 (IANS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
+      "originalUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp",
+      "cdnAmpWebUrl": "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp",
+      "publishedDateTime": "2021-03-15T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
       ]
     },
     {
@@ -1300,145 +1431,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
-      "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
-      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published Monday. The simulations were based on 72 fatal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-08/alphabet-s-waymo-says-its-tech-would-avoid-fatal-human-crashes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8lt5x61cHVw/v0/1200x796.jpg",
-          "width": 1200,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-new-toyota-tech-unit-promises-worlds-safest-drive.md",
-      "title": "New Toyota tech unit promises world's safest drive",
-      "excerpt": "The company also said it would be ready to unveil a fully self-driving prototype \"in the near ... while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/29/new-toyota-tech-unit-promises-world039s-safest-drive",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/29/new-toyota-tech-unit-promises-world039s-safest-drive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/29/1026162.JPG",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-nxp-semiconductors-takes-machine-learning-to-the-edge.md",
-      "title": "NXP Semiconductors Takes Machine Learning to the Edge",
-      "excerpt": "Only two years ago, NXP Semiconductors seemed behind in the artificial intelligence race ... compete with Nvidia in supplying the brains of driverless car prototypes. The Eindhoven, Netherlands ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21806699/nxp-semiconductors-takes-machine-learning-to-the-edge",
-      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21806699/nxp-semiconductors-takes-machine-learning-to-the-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2019/04/electronicdesign_22809_gettyimages_616252540_0.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

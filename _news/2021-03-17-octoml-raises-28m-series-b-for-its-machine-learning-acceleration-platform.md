@@ -32,74 +32,111 @@ images:
     isCached: true
 
 related:
-  - title: "OctoML raises $28M grow machine learning software used by Qualcomm, Microsoft, AMD"
-    excerpt: "It offers better performance and removes complexity, Ceze said. Amazon’s Sagemaker Neo is also based on Apache TVM, but is restricted to AWS-based deployments. The Octomizer can target any cloud and any edge device. Leadership: Ceze is a UW professor who ..."
-    publishedDateTime: 2021-03-17T06:00:00Z
-    webUrl: "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/"
-    ampWebUrl: "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/"
+  - title: "Noogata raises $12M seed round for its no-code enterprise AI platform"
+    excerpt: "Noogata, a startup that offers a no-code AI solution for enterprises, today announced that it has raised a $12 million seed round led by Team8, with participation from Skylake Capital. The company, which was founded in 2019 and counts Colgate and PepsiCo among its customers,"
+    publishedDateTime: 2021-03-16T12:00:00Z
+    webUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 132
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 187
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/10/ceze-profile-%402x-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222192913.jpg?w=1024"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "OctoML raises $28M for machine learning deployment optimization"
-    excerpt: "OctoML helps businesses accelerate and deploy AI and relies on the open-source technology Apache TVM machine learning compiler framework. The funding will be used for OctoML to continue building ..."
-    publishedDateTime: 2021-03-17T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/"
-    ampWebUrl: "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/"
+  - title: "AI and big data analytics startup Noogata nets $12M"
+    excerpt: "Noogata, a startup developing big data analytics and predictive modeling solutions for the enterprise, raised $12 million."
+    publishedDateTime: 2021-03-16T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/"
+    ampWebUrl: "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 119
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/4082218_Octo_ML_flat_side_rgb.jpg?w=1200&strip=all"
-        width: 1024
-        height: 512
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/2b8ab143-423c-47d7-88d0-f31e9f51a01b-e1615408437690.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Microsoft smart buildings bolstered by machine learning model, IoT"
-    excerpt: "(Photo by Garima Gaurav) A new machine learning model and Internet of Things (IoT) sensors and automation will enable Microsoft smart buildings to keep company employees as comfortable as possible when they return to their offices once COIVD-19 ..."
-    publishedDateTime: 2021-03-17T21:04:00Z
-    webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-smart-buildings-bolstered-by-machine-learning-model-iot/"
+  - title: "Torch.AI raises $30M for AI that unifies disparate enterprise data"
+    excerpt: "Torch.AI, a startup developing a platform to normalize and analyze disparate data, has raised $30 million in venture funding."
+    publishedDateTime: 2021-03-17T11:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 58
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
     images:
-      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/03/10173_hero.jpg"
-        width: 2095
-        height: 1293
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Machine learning startup OctoML raises $28M as it ramps up growth"
-    excerpt: "Seattle-based OctoML, a startup that helps clients speed up the launch of their machine learning models, announced Wednesday it has raised a $28 million Series B."
-    publishedDateTime: 2021-03-17T14:00:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/03/17/octoml-series-b-growth.html"
+  - title: "Israeli startup Noogata looks to replace data-science teams with AI"
+    excerpt: "Noogata, an Israeli AI-powered business intelligence startup, secured $12 million in Seed funding on Tuesday. The investment was led by Team8, with Skylake Capital also participating in the round. Noogata developed a platform that allows enterprises to ..."
+    publishedDateTime: 2021-03-17T10:25:00Z
+    webUrl: "https://www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/"
+    ampWebUrl: "https://www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/amp/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
-  - title: "AI model optimization startup OctoML raises $28M Series B round"
-    excerpt: "Machine learning acceleration startup OctoML Inc. has secured yet more funding with a new $28 million round that brings its total amount raised to $47 million. Today’s Series B round was led by Addition Capital,"
-    publishedDateTime: 2021-03-17T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/03/17/ai-model-optimization-startup-octoml-raises-28m-series-b-round/"
+      name: Geektime
+      domain: geektime.com
+    quality: 57
+    images:
+      - url: "https://www.geektime.com/content/images/2021/03/Noogata-Leadership-Team_credit_Doron-Lezter-1615813398-1536x1156.jpg"
+        width: 1536
+        height: 1156
+        isCached: true
+  - title: "Where AI and BI meet: Israeli startup Noogata secures Seed funding"
+    excerpt: "The Team8 portfolio company helps enterprises streamline business intelligence with a no-code, no data-science team AI"
+    publishedDateTime: 2021-03-19T14:20:00Z
+    webUrl: "https://www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/"
+    ampWebUrl: "https://www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/amp/"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Geektime
+      domain: geektime.com
+    quality: 57
+    images:
+      - url: "https://www.geektime.com/content/images/2021/03/Noogata-Leadership-Team_credit_Doron-Lezter-1615813398-1536x1156.jpg"
+        width: 1536
+        height: 1156
+        isCached: true
+  - title: "Team8 Leads Financing Round In AI Enterprise Platform Noogata"
+    excerpt: "Noogata is the first company established within the framework of Team8 that does not deal with cybersecurity and privacy."
+    publishedDateTime: 2021-03-16T14:15:00Z
+    webUrl: "https://nocamels.com/2021/03/team8-seed-ai-enteprise-platform-noogata/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
     quality: 37
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/4082218_Octo_ML_flat_side_rgb.jpg"
-        width: 1024
-        height: 512
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/03/Noogata-Full-Team_Credit_-Nelli-Guy-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
+  - title: "Viz.ai Raises $71 Million Series C Round Led by Scale Venture Partners and Insight Partners"
+    excerpt: "Viz.ai today announced that it has raised $71 million in Series C funding, led by Scale Venture Partners and Insight Partners with participation from Greenoaks, Kleiner Perkins, Threshold Ventures, CRV,"
+    publishedDateTime: 2021-03-17T12:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-19703821.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "xZp1l87ULe+itbjrGZ/mSxkWiuRKkfwRcGhUn1tbQ6AqnStxggkyosLO85ueiqYLSMqSUQZlOXSucM1r3jMNIBtoI6Saz7x4UFFu0pCsZyPlXyLs6339hY4+R5ooXVv5MKj8egZjub4s6AEy5R3tkKMUc1GuUX6rJdytlUqUa22qfEe06+4vsSyZul+d7JDTFQvt4sOTTD0+Df+c3bsGw6rjgorqCcRBWKNkAE+IwJxz9pW/jsb1FlBGKR57ZiGXjxsRDm7pXbcbGD8zf/pC6T1uOTH/SW1gd7k87I/0ybtbRbbakz98m+6BCfOjWHx0+eGV6rH2KjC/FSE2XJOq8KhIFAjrTgjuwiaqL6faS7yc5Wu7zwPUZ6JObxXK9yCGbNIDlxj2qYlaayicqq6hI+hipErx5qEyNToFH4oVYosIoBF5tea/H/w18ccF4YVKlDiTgbTcPNmS/ijoyG4F0TSSY92dTENlpzxKgg8wT8+b877MVk6e+0uW3E2LA8bqbKU3LQNeJLufw+0I7burhQ==;i0gAd9A8JoQ1NlvY5faWNQ=="

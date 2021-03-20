@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learnin
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/"
 type: article
 quality: 132
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/4082218_Octo_ML_flat_side_rgb.jpg?w=1200&strip=all"
         width: 1024
         height: 512
-        isCached: true
-  - title: "OctoML raises $28M Series B for its machine learning acceleration platform"
-    excerpt: "OctoML, a Seattle-based startup that offers a machine learning acceleration platform build on top of the open-source Apache TVM compiler framework project, today announced that it has raised a $28 million Series B funding round led by Addition Captial."
-    publishedDateTime: 2021-03-17T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222422906.jpg?w=1024"
-        width: 1024
-        height: 669
         isCached: true
   - title: "Microsoft smart buildings bolstered by machine learning model, IoT"
     excerpt: "(Photo by Garima Gaurav) A new machine learning model and Internet of Things (IoT) sensors and automation will enable Microsoft smart buildings to keep company employees as comfortable as possible when they return to their offices once COIVD-19 ..."

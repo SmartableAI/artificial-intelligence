@@ -45,6 +45,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Pangiam Acquires veriScan, a Biometric Facial Recognition System for Airports and Airlines"
+    excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired veriScan, an integrated biometric facial recognition system for airports and airlines, from the Metropolitan Washington Airports Authority (\"Airports Authority\")."
+    publishedDateTime: 2021-03-19T14:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pangiam-acquires-veriscan-a-biometric-facial-recognition-system-for-airports-and-airlines-1030228204"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
 
 secured: "DLDX0jG4aqIVZVefQZdgUZHjtxlWy0VVYI2VB+CHEIkW3IgcM6Hgi8ID/2ppy0+MFnnxh3fhaaxhXcMli2+0W68QEIHSd/V83EmO8OfKr5mKfyHhDX1wFN3PEMO9Xm55N6hQ6n0y2TWK8duPCgPyIN9wFkwlw/9brkBKk4uxS2d2NwPb4GkrWbUq/y+LxLTZN6LCvLxnqNqQiWqWrHT+aFD8rdyoUwGehhZtAfHqt0lISKsd9k5+SB1Y7gDHb6D67OXNuFhQUF0aK6ovQooTqljsaxn+tXWTQ/Ed6XV0Q7AATBWzAA0bSiFS/2eRdklLTBSKaO59XPEYSPxZlMPAgT7N9h6K0hh4qYa4OfZiBC0JVaI64mQ9KwToZaWBOcPl0oFgh8ET/Cw6NkrtBeRnmnv8LeaneJB73VU+4mDzLpYIIHdYs38jWvcq5g7+WtY/Zr/NKpkBM9i/P0eTnPCaln6AYHXNp4p5KkArTCLecqcyVYPR5FdnCL9c0QGK1bkjXi/mGIan9XTE2uYzPJcpcg==;BXy67VlETkl5Hi605C4WHQ=="
 ---

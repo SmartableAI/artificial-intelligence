@@ -2,6 +2,248 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-09-cloud-providers-cite-role-as-ai-inference-moves-to-edge.md",
+      "title": "Cloud providers cite role as AI inference moves to edge",
+      "excerpt": "Performing AI inference on embedded edge devices is attractive in situations where low latency is required, or where the volumes of data collected at the",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/cloud-providers-cite-role-as-ai-inference-moves-to-edge/",
+      "originalUrl": "https://www.embedded.com/cloud-providers-cite-role-as-ai-inference-moves-to-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2021/03/img20210315113645Implementing-Edge-AI-You-Still-_1_w1048_h541.jpg",
+          "width": 1048,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-how-to-liberate-marketing-from-mundane-tasks-with-ai.md",
+      "title": "How To Liberate Marketing From Mundane Tasks With AI",
+      "excerpt": "Embedded AI and automation can help with high-volume ... Auto-generate editorial text with human-like accuracy using Natural Language Generation (marketing content, product descriptions); and translate content in context. Optimize users’ ability to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/72c60a827d814069bac850c47d695dd3.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/amp/",
+      "publishedDateTime": "2021-03-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon.md",
+      "title": "Why you shouldn’t expect Tesla’s ‘Full Self Driving’ to come out of beta any time soon",
+      "excerpt": "Tesla’s recent decision to open its Full Self Driving (FSD) beta to new owners has created quite a splash in both the automobile and consumer tech markets. This is an exciting time to be a Tesla owner,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/01/Tesla-Autopilot-crash-report--796x408.jpg",
+          "width": 796,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/",
+      "publishedDateTime": "2021-03-08T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-artificial-intelligence-ai-in-retail-market-size-to-reach-usd-24-billion-by-2027.md",
+      "title": "Artificial Intelligence (AI) in Retail Market Size to reach USD 24 billion by 2027",
+      "excerpt": "Global Artificial Intelligence (AI) in Retail Market Size to reach USD 24 billion by 2027. Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-reach-usd-24-billion-by-2027-2021-03-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-reach-usd-24-billion-by-2027-2021-03-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T12:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-why-baidu-stock-jumped-206-in-february.md",
+      "title": "Why Baidu Stock Jumped 20.6% in February",
+      "excerpt": "Shares of Baidu (NASDAQ:BIDU) jumped 20.6% in February, according to data from S&P Global Market Intelligence. Excitement about the company's entry into the electri",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F616679%2Fgettyimages-1178244881.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "publishedDateTime": "2021-03-08T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-waymo-simulated-real-world-crashes-to-prove-its-self-driving-cars-can-prevent-deaths.md",
       "title": "Waymo simulated real-world crashes to prove its self-driving cars can prevent deaths",
       "excerpt": "In a bid to prove that its robot drivers are safer than humans, Waymo simulated dozens of real-world fatal crashes that took place in Arizona over nearly a decade. The Google spinoff discovered that replacing either vehicle in a two-car crash with its robot-guided minivans would nearly eliminate all deaths,",
@@ -974,233 +1216,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-global-artificial-intelligence-ai-chipsets-market-2020-to-2027-size-forecasts-with-impact-analysis-of-covid-19.md",
-      "title": "Global Artificial Intelligence (AI) Chipsets Market (2020 to 2027) - Size & Forecasts with Impact Analysis of COVID-19",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T23:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-teamsystem-cresce-nel-settore-fintech-con-modefinance.md",
-      "title": "TeamSystem cresce nel settore fintech con Modefinance",
-      "excerpt": "TeamSystem annuncia l’acquisizione della maggioranza di Modefinance, con opzione a salire fino al 100% entro il 2025",
-      "sourceUrl": null,
-      "webUrl": "https://www.lineaedp.it/news/52359/teamsystem-cresce-nel-settore-fintech-con-modefinance/",
-      "originalUrl": "https://www.lineaedp.it/news/52359/teamsystem-cresce-nel-settore-fintech-con-modefinance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lineaedp.it/files/2021/03/TeamSystem_Modefinance.png",
-          "width": 589,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T21:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "lineaedp.it",
-        "domain": "lineaedp.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-build-your-own-selfie-drone-with-computer-vision.md",
-      "title": "Build Your Own Selfie Drone With Computer Vision",
-      "excerpt": "Yes, all the processing for the selfie drone happens on a non-flying computer, because computer vision takes processing power and battery life. The software comes from CMU’s OpenPose library ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/06/30/build-your-own-selfie-drone-with-computer-vision/",
-      "originalUrl": "https://hackaday.com/2019/06/30/build-your-own-selfie-drone-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/06/Telloheader.png",
-          "width": 800,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-computer-learns-to-identify-leaves-faster-than-a-botanist.md",
-      "title": "Computer learns to identify leaves faster than a botanist",
-      "excerpt": "If a computer vision approach works on modern leaves, it could help in the classification of fossil leaves as well. “Leaf characterization builds on an 1800’s system of description that we cal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.futurity.org/computer-vision-leaves-1117682-2/",
-      "originalUrl": "https://www.futurity.org/computer-vision-leaves-1117682-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.futurity.org/wp/wp-content/uploads/2016/03/leaf_eyes_1170.jpg",
-          "width": 1170,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurity News",
-        "domain": "futurity.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-new-toyota-tech-unit-promises-worlds-safest-drive.md",
-      "title": "New Toyota tech unit promises world's safest drive",
-      "excerpt": "The company also said it would be ready to unveil a fully self-driving prototype \"in the near ... while Chinese search engine operator Baidu unveiled a partnership with local car brand Geely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/29/new-toyota-tech-unit-promises-world039s-safest-drive",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/29/new-toyota-tech-unit-promises-world039s-safest-drive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/29/1026162.JPG",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

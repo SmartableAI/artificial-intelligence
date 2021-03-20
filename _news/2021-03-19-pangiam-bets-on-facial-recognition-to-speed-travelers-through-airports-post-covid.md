@@ -9,7 +9,7 @@ ampWebUrl: "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-s
 cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Pangiam Acquires veriScan, a Biometric Facial Recognition System for Airports and Airlines"
+    excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired veriScan, an integrated biometric facial recognition system for airports and airlines, from the Metropolitan Washington Airports Authority (\"Airports Authority\")."
+    publishedDateTime: 2021-03-19T14:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pangiam-acquires-veriscan-a-biometric-facial-recognition-system-for-airports-and-airlines-1030228204"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
 
 secured: "QkkEav85tpv3otRIZnjcxDQ767wcMItzQ4HvnHKinQ3Ssa9clt+KMnSxk/YHZ7gBHR7BPdgsO3LGPgvmF68XuECinVpDlnUb6ubW7SUwdT5UeEWDjlqGPJZq0f1ih1mDweWLE6lkDjUu9a8jfq8yPw518VsKBY51U2QdbbdUMb5klo5V86lBK14ckLTAMV07jtyJLMsOe8muKRAgl/nISHISS397RBfF+tLnx0OSf1aKL3eCNoM/7rve9V2nM37EVqqut9CpDQDRe+3v/ylaOPydC5kQW8riZkx1/OMrGRUH3zixl6xFoV+JT81nOd0IodaPryQAzV5CJ1LIGQmxfDqz7ia8mIJkyUL36l4Kwuw=;boE4GYiVt/EgvdJF1YzzGw=="
 ---

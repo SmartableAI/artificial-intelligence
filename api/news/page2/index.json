@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-18-explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify.md",
+      "title": "Explaining Bundesliga Match Facts xGoals using Amazon SageMaker Clarify",
+      "excerpt": "One of the most exciting AWS re:Invent 2020 announcements was a new Amazon SageMaker feature, purpose built to help detect bias in machine learning (ML) models and explain model predictions: Amazon SageMaker Clarify. In today’s world where predictions are made by ML algorithms at scale, it’s increasingly",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/26/ML-2433-13.png",
+          "width": 748,
+          "height": 488,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T11:20:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-chinas-saic-partners-with-us-lidar-maker-luminar-on-self-driving-cars.md",
+      "title": "China's SAIC partners with U.S. lidar maker Luminar on self-driving cars",
+      "excerpt": "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO",
+      "originalUrl": "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555336019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0RJ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BA1DO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA1DO",
+      "publishedDateTime": "2021-03-18T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-oracle-is-making-its-cloud-databases-easier-to-use.md",
+      "title": "Oracle is making its cloud databases easier to use",
+      "excerpt": "Oracle says the latest release of its cloud-based Autonomous Data Warehouse will help transform complex data transformation activities into point-and-click tasks. The Oracle Autonomous Data Warehouse is a software-as-a-service cloud data warehouse that Oracle says is designed to reduce the complexities of developing data driven applications by automating critical provisioning and configuration tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "originalUrl": "https://www.techradar.com/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use",
+      "publishedDateTime": "2021-03-18T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses.md",
       "title": "Adobe Acrobat Brings E-Sign and AI to Very Small Businesses",
       "excerpt": "Adobe's new tier of Acrobat Pro is aimed at micro-businesses, and comes equipped with its e-sign technology and other new capabilities, including smart web forms and an AI-powered overhaul to PDF support for mobile devices.",
@@ -802,6 +958,57 @@
       ]
     },
     {
+      "path": "_news/2021-03-18-solar-analytics-startup-prescinto-raises-35-mn-in-seed-round.md",
+      "title": "Solar Analytics Startup Prescinto Raises $3.5 Mn In Seed Round",
+      "excerpt": "Funds raised would be used for international expansion, primarily theUS, and further IP development to deepening their moats into artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/367380",
+      "originalUrl": "https://www.entrepreneur.com/article/367380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616054711-PuneetSinghJaggiFounderandCEOPrescinto.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367380",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367380",
+      "publishedDateTime": "2021-03-18T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification.md",
       "title": "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification",
       "excerpt": "... with the Azure RTOS SDK has been optimized and granted Azure IoT PnP certification, allowing developers to quickly and seamlessly trial their proofs-of-concept and deploy their AI expertise with Azure IoT cloud. The SDK of WE-I Plus AIoT platform ...",
@@ -1049,196 +1256,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-sonoma-county-to-add-artificial-intelligence-for-fires.md",
-      "title": "Sonoma County to add artificial intelligence for fires",
-      "excerpt": "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added",
-      "sourceUrl": null,
-      "webUrl": "https://fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/",
-      "originalUrl": "https://fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox40.com/wp-content/uploads/sites/13/2021/03/GettyImages-1277918953.jpg?w=1280",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/amp/",
-      "cdnAmpWebUrl": "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/amp/",
-      "publishedDateTime": "2021-03-17T14:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX40",
-        "domain": "fox40.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-ai-for-agritech-classifying-kiwifruits-using-amazon-rekognition-custom-labels.md",
-      "title": "AI for AgriTech: Classifying Kiwifruits using Amazon Rekognition Custom Labels",
-      "excerpt": "Computer vision is a field of artificial intelligence (AI) that is gaining in popularity and interest largely due to increased access to affordable cloud-based training compute, more performant algorithms, and optimizations for scalable model deployment and inference. However, despite these advances",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ai-for-agritech-classifying-kiwifruits-using-amazon-rekognition-custom-labels/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ai-for-agritech-classifying-kiwifruits-using-amazon-rekognition-custom-labels/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/17/pexels-photo-867349.jpg",
-          "width": 799,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T14:43:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-baidus-second-listing-in-hong-kong-to-bring-in-31-billion.md",
-      "title": "Baidu’s Second Listing In Hong Kong To Bring In $3.1 Billion",
-      "excerpt": "Baidu will use some of the funds raised to further invest in artificial intelligence (AI), including its AI cloud unit and its self-driving vehicle platform Apollo. Bank of America, Citic Securities and Goldman Sachs are the joint sponsors and global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/",
-      "originalUrl": "https://www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Baidu-Hong-Kong-shares-AI-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/amp/",
-      "publishedDateTime": "2021-03-17T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live.md",
-      "title": "Responsible AI in health care starts at the top — but it’s everyone’s responsibility (VB Live)",
-      "excerpt": "In this VB live eent, learn how health care stakeholders can use AI responsibly, ethically, and equitably to ensure all populations benefit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/",
-      "originalUrl": "https://venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/business-meeting.GettyImages-607477465.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/amp/",
-      "publishedDateTime": "2021-03-17T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

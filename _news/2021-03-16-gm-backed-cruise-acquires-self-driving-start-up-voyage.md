@@ -91,6 +91,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "GM Subsidiary Cruise Acquires Self-Driving Car Startup Voyage"
+    excerpt: "Cruise, a majority-owned subsidiary of General Motors (GM), has scooped up self-driving vehicle startup Voyage, according to a blog post on Monday (March 15). The terms of the deal were not disclosed. “At Voyage, we’ve been laser-focused on delivering ..."
+    publishedDateTime: 2021-03-16T00:22:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/gm-subsidiary-cruise-acquires-self-driving-car-startup-voyage/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/GM-Cruise-Walmart-driverless-delivery-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "GM Subsidiary Cruise Buys Self-Driving Startup Voyage"
     excerpt: "The autonomous subsidiary of General Motors, Cruise, has announced it will acquire self-driving startup Voyage. Voyage had been operating self-driving prototypes in retirement communities. Cruise spokesman Ray Wert declined to comment on the cost of the deal."
     publishedDateTime: 2021-03-16T09:57:00Z
@@ -116,14 +132,14 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "GM's Cruise to buy self-driving Silicon Valley startup Voyage"
-    excerpt: "General Motors' (NYSE: GM) autonomous-driving unit Cruise has agreed to acquire Palo Alto-based self-driving transportation startup Voyage, the companies announced Monday. The acquisition will allow Voyage to expand its autonomous vehicle operations,"
-    publishedDateTime: 2021-03-15T19:16:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2021/03/15/gms-cruise-voyage-m-a.html"
+  - title: "Cruise Automation acquires Voyage to further self-driving car goals"
+    excerpt: "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,"
+    publishedDateTime: 2021-03-17T12:21:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16471/cruise-automation-acquires-voyage-to-further-self-driving-car-goals"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 4
 
 secured: "hwdudswCzssQa39RWblfvatB32+5U6rgHDA7vulYjCFF0uEPeKOA3X/gr3Xdu7Lcac0Fx6wRoRGT4zAFxGm7tR2W6bn+eOrknTqffVdrExljZ0TRjTCKaWHMsbvVRIYSA2/IAaBTn3a+vXH+w5N88OngjGiPCwOAJYRF/NwLU6AVMQCv7HJfyM4Wm6eHQHUFgEjGWwN5gVzq80sAnhrbDfHbVTU+5tECiLM31LCkP3Y0ZfRBVtyn/aPVwKVbN+N40D2nnYG32UWjqa9gbhyNZf2ns+HxsFpgF5zPJERyor4sOZls2KEWzdpI5Cmqj/L7q5wlIfzN2cwYx/mAVtHvsqTqf1ZRxEGqxYFQQPYLdiMNufUg4L1NCay4my+14LXtF0fvi4pbsc4unOgv0x0q72FzO6coboyVkD10me7FPGvsn+XA0H9932m/OyMqxUrlf3fjZCvIhoTTJolKN6b9Wt+hF0w5Ov93hRizsJBmuMSkJwz680AwzjDYVf/WZyvQwGEw1U+x3ABc7JDX6tYfvQ==;MINWtkhrbuk9EXh8hyW31Q=="

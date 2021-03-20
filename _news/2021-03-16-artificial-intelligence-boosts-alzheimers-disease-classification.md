@@ -34,20 +34,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
-  - title: "Researchers Enhance Alzheimer’s Disease Classification through Artificial Intelligence"
-    excerpt: "Using an advanced AI (artificial intelligence) framework based on game theory (known ... These findings appear online in the journal Alzheimer’s Research & Therapy. Funding for this study was provided in part by the Karen Toffler Charitable Trust ..."
-    publishedDateTime: 2021-03-15T20:22:00Z
-    webUrl: "https://www.bu.edu/hic/2021/03/15/researchers-enhance-alzheimers-disease-classification-through-artificial-intelligence/"
-    type: article
-    provider:
-      name: Boston University
-      domain: bu.edu
-    quality: 31
-    images:
-      - url: "https://www.bu.edu/hic/files/2021/03/vbk_latest-636x565.jpg"
-        width: 636
-        height: 565
-        isCached: true
 
 secured: "5rxu883pbPu+Cb2AYleCOENDscUT+uRof8rdGZ8Kj/ONa3l39eBT+fp+FjVrXL2BLnb3g7IRy8nvKRZRtiHdXjQ+rEhDdm7iu5qvNL2tz4mZw0IeeEA8CGSHjw6goa4OjQ8FVAlYhGQHpM2l6wvyKORtkcrlXIjLnEuTRlHn4KbeaY6jdXA8yGM1RXeDWJdCqTYCSpEZEdh8YX6yeA0mQ+TkhZEyHvw8VW+Pj543gdtCA5nIDz95uMn4Ujp2E8lHZpG5hIxZ3jaKvsgfqXD/LeTlYC8e9u48dQ9/iemT5fWyTsX8DJOI/PGJiI2t/SZiJRy3096AZ83QFDv8rfyEXZjjxIdlRSt7zEyy1V7HlqS9BTtRNrXGLxybRBIe3o1V14aqzDKT+2g63c6Hiv5gwU/voNqvXTNyHWHXcimL1FyzCdcf4z9dgDWdhRiiNagONpCGOqiSlm08SazhCeAR9MbK9UlWfOBVm0eLUnIWkzcd1UPZXsZDBYrABAaZncSSfSZ/31eZkefxZKbussAe/Q==;BTThgLTFrIeS96hG4DGQbg=="
 ---

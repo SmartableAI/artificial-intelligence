@@ -39,20 +39,6 @@ related:
         width: 623
         height: 432
         isCached: true
-  - title: "ID R&D awarded patent for text-dependent voice biometrics improvement"
-    excerpt: "ID R&D has been granted a patent for text-dependent speaker recognition involving improved speed and accuracy of voice biometrics."
-    publishedDateTime: 2021-03-15T21:02:00Z
-    webUrl: "https://www.biometricupdate.com/202103/id-rd-awarded-patent-for-text-dependent-voice-biometrics-improvement"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
-        width: 768
-        height: 513
-        isCached: true
 
 secured: "OwpuVozG+98CM1/VPUunZzAbFHST8vPqT2AkOc4WIb+k8ptpBf8rSKTDa88N2gjjMVrGMBV6jco9l+S6D6g7dz8Bme5TggMgxNwWn13RktNFE2dF/BJ7/YD02ojzcXO7OlkptuQ2U5PBfhh3C0GKYSCN9G+ZdzcI5cFRkuR7RTBR2pAYONfZLC0b64eULuh04mnSyNd1lTzsz1JDq685V6RsuZeaduaTup/cRF5XYefuTlwYBd+s4QkVQo91TB2AuKs/40oeiQ/xU2CFL7Phv7iO0z66r+euP04f0zzGMMzpRLvQlyHJwxN1/C3S+yegXZfuB+Fy4usJalSvvmkjxvrnfMlQx7LX5EAMVNxo+TE=;L3rmyw+uBwTuxeT1rH5BKw=="
 ---

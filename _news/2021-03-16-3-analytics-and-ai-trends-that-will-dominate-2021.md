@@ -24,147 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "AI and big data analytics startup Noogata nets $12M"
-    excerpt: "Noogata, a startup developing big data analytics and predictive modeling solutions for the enterprise, raised $12 million."
-    publishedDateTime: 2021-03-16T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/"
-    ampWebUrl: "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/amp/"
+  - title: "Diversity And Inclusion In AI"
+    excerpt: "With the increasing role that AI plays in business processes, the production of goods and the products themselves, the lack of diversity in AI and the invisibility of people of color will become a cascade of crises."
+    publishedDateTime: 2021-03-16T13:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/2b8ab143-423c-47d7-88d0-f31e9f51a01b-e1615408437690.png?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1edc985d888ccd74fb1a81%2F0x0.jpg"
         width: 1200
-        height: 600
+        height: 800
         isCached: true
-  - title: "Noogata raises $12M seed round for its no-code enterprise AI platform"
-    excerpt: "Noogata, a startup that offers a no-code AI solution for enterprises, today announced that it has raised a $12 million seed round led by Team8, with participation from Skylake Capital. The company, which was founded in 2019 and counts Colgate and PepsiCo among its customers,"
-    publishedDateTime: 2021-03-16T12:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
+  - title: "KAR Global Invests in AI Startup"
+    excerpt: "CARMEL - Carmel-based KAR Global (NYSE: KAR) has made what it is calling a strategic investment in an Israel-based artificial intelligence startup. KAR says its investment led a $15 million Series A round of funding for Ravin AI, which has developed an AI ..."
+    publishedDateTime: 2021-03-16T16:52:00Z
+    webUrl: "https://www.insideindianabusiness.com/story/43507397/kar-global-invests-in-ai-startup"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222192913.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Solar Analytics Startup Prescinto Raises $3.5 Mn In Seed Round"
-    excerpt: "Funds raised would be used for international expansion, primarily theUS, and further IP development to deepening their moats into artificial intelligence (AI)"
-    publishedDateTime: 2021-03-18T08:15:00Z
-    webUrl: "https://www.entrepreneur.com/article/367380"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/367380"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367380"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1616054711-PuneetSinghJaggiFounderandCEOPrescinto.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Zenlytic Raises $1M for its Analytics Platform for E-Commerce Businesses that Streamlines Data Analysis with Machine Learning"
-    excerpt: "Zenlytic, cofounded by Ryan Janssen, is a no-code analytics platform made specifically for the e-commerce industry to unlock valuable insights to drive sales and marketing."
-    publishedDateTime: 2021-03-17T13:07:00Z
-    webUrl: "https://www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/"
-    ampWebUrl: "https://www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 62
-    images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/03/ryan-janssen_zenlytic-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Israeli startup Noogata looks to replace data-science teams with AI"
-    excerpt: "Noogata, an Israeli AI-powered business intelligence startup, secured $12 million in Seed funding on Tuesday. The investment was led by Team8, with Skylake Capital also participating in the round. Noogata developed a platform that allows enterprises to ..."
-    publishedDateTime: 2021-03-17T10:25:00Z
-    webUrl: "https://www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/"
-    ampWebUrl: "https://www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
-    images:
-      - url: "https://www.geektime.com/content/images/2021/03/Noogata-Leadership-Team_credit_Doron-Lezter-1615813398-1536x1156.jpg"
-        width: 1536
-        height: 1156
-        isCached: true
-  - title: "Solar analytics startup Prescinto raises $3.5 mn in seed funding"
-    excerpt: "Prescinto’s AI identifies the root causes of the plant’s underperformance in real-time and helps in reducing costs of operation and maintenance. With an aim to increase clean energy without additional investment, the startup identifies and reduces the ..."
-    publishedDateTime: 2021-03-17T09:24:00Z
-    webUrl: "https://www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding-11615972554397.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding/amp-11615972554397.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding/amp-11615972554397.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/03/17/600x338/19ac9b5e-d33f-11ea-985e-0246d4273452_1596244478776_1596244559546_1615972944371.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Where AI and BI meet: Israeli startup Noogata secures Seed funding"
-    excerpt: "The Team8 portfolio company helps enterprises streamline business intelligence with a no-code, no data-science team AI"
-    publishedDateTime: 2021-03-19T14:20:00Z
-    webUrl: "https://www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/"
-    ampWebUrl: "https://www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
-    images:
-      - url: "https://www.geektime.com/content/images/2021/03/Noogata-Leadership-Team_credit_Doron-Lezter-1615813398-1536x1156.jpg"
-        width: 1536
-        height: 1156
-        isCached: true
-  - title: "NSE subsidiary invests in data analytics startup Capital Quants"
-    excerpt: "The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced investment in technology start-up Capital Quants Solutions (CQS). The latest inve"
-    publishedDateTime: 2021-03-17T10:26:00Z
-    webUrl: "https://www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/articleshow/81549269.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/amp_articleshow/81549269.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/amp_articleshow/81549269.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 44
-    images:
-      - url: "https://www.businessinsider.in/thumb/81549540.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
-  - title: "Team8 Leads Financing Round In AI Enterprise Platform Noogata"
-    excerpt: "Noogata is the first company established within the framework of Team8 that does not deal with cybersecurity and privacy."
-    publishedDateTime: 2021-03-16T14:15:00Z
-    webUrl: "https://nocamels.com/2021/03/team8-seed-ai-enteprise-platform-noogata/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
+      name: INside INdiana Business
+      domain: insideindianabusiness.com
     quality: 37
     images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/03/Noogata-Full-Team_Credit_-Nelli-Guy-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://INSIDEINDIANA.images.worldnow.com/images/20402352_G.jpeg?lastEditedDate=1613749363000"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "KAR Global invests in AI startup"
+    excerpt: "Carmel-based KAR Global (NYSE: KAR) has made what it is calling a strategic investment in an Israel-based artificial intelligence startup."
+    publishedDateTime: 2021-03-16T21:28:00Z
+    webUrl: "https://www.wishtv.com/news/inside-indiana-business/kar-global-invests-in-ai-startup/"
+    type: article
+    provider:
+      name: WISHTV8
+      domain: wishtv.com
+    quality: 37
+    images:
+      - url: "https://i1.wp.com/www.wishtv.com/wp-content/uploads/2020/01/KAR-Global-Sign-Large.jpg?fit=960%2C540&#038;ssl=1"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Provation and Iterative Scopes Announce Exclusive AI Partnership"
+    excerpt: "Provation and Iterative Scopes announced today an exclusive partnership, bringing together the premier clinical productivity and gastroenterology (GI) documentation software provider with a leading startup in Artificial Intelligence (AI) for precision GI."
+    publishedDateTime: 2021-03-17T16:42:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-north-america-software-industry-350185000884b976fc1605c4b383b12d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "PiGmkuc8VD0fI/Wqbz6KTnlX7DanJZx2uXN6uvnEhhsBBuktFnIzqNJ0GaehnuIqtOPprBr+I+2eCtZrvnB/0Rfr1Wmw5uH/tyyOrHaLkj0TcxFLiOzIdgYvRKn7VM9+4VXS5t/mLibvt+hNXDnmyiFeNNsTonjuiaNMstCDVb6vJYyJhrsh6y7FgKYS1qd2JpgVMLxGnu7efLQ9MuASGwvGnNDQeI3AycvvES6Eq1rgCbAOn3PzNbvt4nunQNzHJ9l/PxPyE1wr0sOYJh/gFnUtH89E7Rw3Otv61lK7dnKUk60y4x/dUnbs0BS6Y5Tj9BKh0Ce+nuy1khVF9dVAQgcuHFlJAKMilM7hqGB2IDlTI8BuGhG925B8D+eLUWV4G8QYKTDHVCFmy5UlSaB+hPyDTHaE8yfM2sBT//EChgY6ngoGCZg0YyWX9I5y2pGBpJo4MxFpuMSBmZ/Hq4L8BzvdP3DQ4hgB9Q+UogqZajv9SeJBbWhml7RhAwy/WF/gBbU2XDkYNm/t/mNJ+XZpeA==;WnIq5nssQpHgTQjW4RwMhw=="

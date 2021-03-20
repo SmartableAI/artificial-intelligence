@@ -2,6 +2,299 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-02-23-if-you-have-money-you-could-build-a-car.md",
+      "title": "If you have money, you could build a car.",
+      "excerpt": "New smart driving once wrote \"Xiaomi , perhaps can build a car\", mentioned that if Xiaomi one day announced the next car, it is also expected, reasonable. A week later, Xiaomi's share price soared 12% after the \"Xiaomi OK Car\" news broke the circle of friends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/you-have-money-could-build-car-joachim-nell",
+      "originalUrl": "https://www.linkedin.com/pulse/you-have-money-could-build-car-joachim-nell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH059oncFO6SA/article-cover_image-shrink_720_1280/0/1614071511418?e=1620864000&v=beta&t=rnx6LyccRHa5Og6v01KqHA_hkrPbTq5fEPEeDmwM_Ks",
+          "width": 1050,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health.md",
+      "title": "Take A Look At How Artificial Intelligence Can Improve Your Pet’s Health",
+      "excerpt": "Could artificial intelligence give us better insight into our pet's health? How can a data-driven approach help animals live healther, happier lives?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603437d924ef803c1c8288c4%2F0x0.jpg",
+          "width": 1123,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/",
+      "publishedDateTime": "2021-02-22T15:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-4-etfs-to-invest-in-robotics-artificial-intelligence.md",
+      "title": "4 ETFs to Invest in Robotics & Artificial Intelligence",
+      "excerpt": "Robots and artificial intelligence (AI) are increasingly becoming an integral part of our lives. There are so many AI enabled applications that impact our daily lives. The pandemic further accelerated automation and the trend is likely to continue,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22",
+      "originalUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22?amp",
+      "publishedDateTime": "2021-02-22T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-mschf-mounted-a-remote-control-paintball-gun-to-spot.md",
+      "title": "MSCHF mounted a remote-control paintball gun to Spot",
+      "excerpt": "I had the chance to control the robot for the first time at one of our ... Anyone in their right mind knows these little cuties will kill people sooner or later.” While early Boston Dynamics ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/",
+      "originalUrl": "https://techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/G84A2121.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/22/mschf-mounted-a-remote-control-paintball-gun-to-spot/amp/",
+      "publishedDateTime": "2021-02-22T13:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-use-ai-to-sort-through-market-moving-news.md",
+      "title": "Use AI to sort through market-moving news",
+      "excerpt": "Bloomberg helps you sort through this enormous amount of information in a manageable and comprehensive way with a tool called Key Themes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/use-ai-to-sort-through-market-moving-news/?tactic-page=467165",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/use-ai-to-sort-through-market-moving-news/?tactic-page=467165",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fusanews.png&width=800",
+          "width": 800,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T13:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-googles-voice-ai-accelerator-launches-12-startups.md",
+      "title": "Google’s Voice AI accelerator launches 12 startups",
+      "excerpt": "Google today announced the first cohort in its Google for Startups Accelerator: Voice AI, a 10-week program designed to pair startups with experts to help tackle product development, machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/",
+      "originalUrl": "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/google-assistant-e1576024709186.jpg?w=1200&strip=all",
+          "width": 1197,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/",
+      "publishedDateTime": "2021-02-22T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-watch-nasas-perseverance-rover-landing-on-mars-in-hd.md",
       "title": "Watch NASA’s Perseverance rover landing on Mars in HD",
       "excerpt": "NASA on Monday released stunning, high-definition footage of its car-sized rover landing on the Martian surface last week, the first-time that a spacecraft’s landing on Mars has been recorded in video.",
@@ -885,302 +1178,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-google-fires-top-ethical-ai-expert-margaret-mitchell.md",
-      "title": "Google fires top ethical AI expert Margaret Mitchell",
-      "excerpt": "Google has fired the co-lead of the company's ethical AI unit, Margaret Mitchell, on the heels of the removal of Timnit Gebru.  Mitchell, an ethical artificial intelligence (AI) expert who has previously worked on machine learning bias,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
-      "originalUrl": "https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/22/dce95dc8-f436-4afb-9ec1-86ef667ce31d/gebru-and-mitchell.png",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
-      "publishedDateTime": "2021-02-22T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal.md",
-      "title": "SAIC Motor Boosts Presence in Auto Chip Sector With New Horizon Robotics Deal",
-      "excerpt": "A unit of SAIC Motor has signed a cooperation deal with vehicle chip unicorn Horizon Robotics to address the scarcity of semiconductors the Chinese carmaker has been facing amid a global shortage of the key component,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
-      "originalUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal/11561475324248064.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-mind-written-couplets-add-technology-to-greetings.md",
-      "title": "'Mind-written' couplets add technology to greetings",
-      "excerpt": "\"The mind-written couplets were well-received by students as graduation gifts,\" Xu said. Luo Ruixin, a student on the team, says BCI is integrated into her daily life. She sent special couplets to her parents to show them how meaningful her research work is.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202102/22/WS60330e18a31024ad0baaa227.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202102/22/WS60330e18a31024ad0baaa227.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202102/22/60330e18a31024adbdb593dc.jpeg",
-          "width": 533,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T01:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-google-fires-second-ai-ethics-leader-as-dispute-over-research-diversity-grows.md",
-      "title": "Google fires second AI ethics leader as dispute over research, diversity grows",
-      "excerpt": "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/alphabet-google-research-int-idUSKBN2AJ2L6",
-      "originalUrl": "https://www.reuters.com/article/alphabet-google-research-int-idUSKBN2AJ2L6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210222&t=2&i=1552410683&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1J00J",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6",
-      "publishedDateTime": "2021-02-22T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-global-self-driving-cars-market-analysis-including-size-share-key-drivers-growth-opportunities-and-trends-2021-2027.md",
-      "title": "Global Self-driving Cars Market Analysis including Size, Share, Key Drivers, Growth Opportunities and Trends 2021 – 2027",
-      "excerpt": "Feb 22, 2021 (The Expresswire) -- Global “Self-driving Cars Market” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-cars-market-analysis-including-size-share-key-drivers-growth-opportunities-and-trends-2021-2027-2021-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-cars-market-analysis-including-size-share-key-drivers-growth-opportunities-and-trends-2021-2027-2021-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-21T20:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-10-ways-ai-and-machine-learning-are-improving-marketing-in-2021.md",
-      "title": "10 Ways AI And Machine Learning Are Improving Marketing In 2021",
-      "excerpt": "Starbucks set the ambitious goal of being the world’s most personalized brand by relying on predictive analytics and machine learning to create a real-time personalization experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032f3b5a9ba70101806187f%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/",
-      "publishedDateTime": "2021-02-21T17:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],
