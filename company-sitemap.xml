@@ -1615,12 +1615,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/company/anki/</loc>
-    <lastmod>2021-03-15T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/ai/company/agolo/</loc>
     <lastmod>2021-03-15T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1634,6 +1628,12 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/company/amperity/</loc>
+    <lastmod>2021-03-15T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/company/anki/</loc>
     <lastmod>2021-03-15T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
