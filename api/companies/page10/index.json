@@ -4,6 +4,153 @@
   "page": 10,
   "value": [
     {
+      "path": "_companies/tnh.health.md",
+      "title": "TNH Health",
+      "excerpt": "TNH Health creates AI-powered chatbots to help healthcare organizations engage and monitor large patient populations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tnh.health/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tnh.health/",
+      "type": "profile",
+      "name": "TNH Health",
+      "overview": "TNH Health creates AI-powered chatbots to help healthcare organizations engage and monitor large patient populations.",
+      "website": "https://tnh.health/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/tnh-digital-health/",
+        "followers": 1263
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tnh-health"
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Rio Negrinho, Sc"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=jT8f0JOdEu0"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/959546558932049920/WqoYdYdH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "TNH Health",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHdPzVaJWQMKQ/company-logo_200_200/0?e=1594857600&v=beta&t=yG7oyEeE3jwVztdO67qY21-DVWPyDIifkT1jpTZvq6g",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/trueface.ai.md",
+      "title": "Trueface.ai",
+      "excerpt": "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/trueface.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/trueface.ai/",
+      "type": "profile",
+      "name": "Trueface.ai",
+      "overview": "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns.",
+      "website": "https://trueface.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/trueface.ai",
+        "followers": 760
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/trueface-ai"
+      },
+      "twitter": {
+        "username": "trueface_ai",
+        "url": "https://twitter.com/trueface_ai",
+        "followers": 1599
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Los Angeles, CA",
+        "Los Angeles, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=j3cvmYhrgKU"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Facial Recognition",
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1186378465508900865/N_mdyxUc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Trueface.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tubularlabs.md",
+      "title": "Tubular Labs",
+      "excerpt": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tubularlabs/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tubularlabs/",
+      "type": "profile",
+      "name": "Tubular Labs",
+      "overview": "Tubular Labs is the global leader in video intelligence for the cross-platform world.",
+      "website": "https://www.reflektion.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tubular-labs"
+      },
+      "twitter": {
+        "username": "TubularLabs",
+        "url": "https://twitter.com/TubularLabs",
+        "followers": 3881
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1233451560840990720/YnqpuohP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Tubular Labs",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/ubiquity6.md",
       "title": "Ubiquity6",
       "excerpt": "Ubiquity6 is working on some of the hardest challenges in computer vision, augmented reality and mapping.",
@@ -101,7 +248,7 @@
       "twitter": {
         "username": "VianaiSystems",
         "url": "https://twitter.com/VianaiSystems",
-        "followers": 594
+        "followers": 595
       },
       "size": "11-50 employees",
       "yearFounded": 2019,
@@ -784,44 +931,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/aviso.md",
-      "title": "Aviso",
-      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
-      "type": "profile",
-      "name": "Aviso",
-      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "website": "https://www.aviso.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aviso-inc"
-      },
-      "twitter": {
-        "username": "AvisoInc",
-        "url": "https://twitter.com/AvisoInc",
-        "followers": 861
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Aviso",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/cnvrg.io.md",
       "title": "cnvrg.io",
       "excerpt": "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more.",
@@ -1414,106 +1523,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/orcam.md",
-      "title": "OrCam Technologies",
-      "excerpt": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/orcam/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/orcam/",
-      "type": "profile",
-      "name": "OrCam Technologies",
-      "overview": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
-      "website": "https://www.orcam.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/orcam",
-        "followers": 4818
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/orcam-technologies"
-      },
-      "twitter": {
-        "username": "OrCam",
-        "url": "https://twitter.com/OrCam",
-        "followers": 10526
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Jerusalem, Jerusalem Region"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=jx2zOrCTvcA"
-        }
-      ],
-      "heat": 42,
-      "tags": [
-        "Facial Recognition",
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1162985248256380928/Mw9wWZI2_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "OrCam Technologies",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/semanticmachines.md",
-      "title": "Semantic Machines",
-      "excerpt": "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/semanticmachines/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/semanticmachines/",
-      "type": "profile",
-      "name": "Semantic Machines",
-      "overview": "Developing novel deep learning NLP and AI technology to revolutionize mobile voice enabled agents.",
-      "website": "http://www.semanticmachines.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/semantic-machines/",
-        "followers": 0
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/semantic-machines"
-      },
-      "twitter": {
-        "username": "semmachines",
-        "url": "https://twitter.com/semmachines",
-        "followers": 426
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Boston and Berkeley"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=DxrJWSi_IWo"
-        }
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/624298774974828544/YC-qPtib_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Semantic Machines",
-          "isCached": true
         }
       ],
       "content": "\r\n"

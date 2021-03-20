@@ -4,59 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_companies/bigpanda.io.md",
-      "title": "BigPanda",
-      "excerpt": "BigPanda Autonomous Operations platform helps IT Ops, NOC and DevOps teams detect, investigate, and resolve IT incidents faster and more easily than ever before. Powered by Open Box Machine Learning, BigPanda correlates IT noise into insights, automates incident management, and unifies fragmented IT operations. Customers such as Intel, TiVO, Turner Broadcasting and Workday rely on BigPanda to reduce their operating costs, improve service availability and performance, and de-risk and accelerate their digital transformation initiatives. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, and Battery Ventures. Visit www.bigpanda.io for more information.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bigpanda.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/bigpanda.io/",
-      "type": "profile",
-      "name": "BigPanda",
-      "overview": "BigPanda Autonomous Operations platform helps IT Ops, NOC and DevOps teams detect, investigate, and resolve IT incidents faster and more easily than ever before. Powered by Open Box Machine Learning, BigPanda correlates IT noise into insights, automates incident management, and unifies fragmented IT operations. Customers such as Intel, TiVO, Turner Broadcasting and Workday rely on BigPanda to reduce their operating costs, improve service availability and performance, and de-risk and accelerate their digital transformation initiatives. Founded in 2012, BigPanda is backed by top-tier investors including Sequoia Capital, Mayfield, and Battery Ventures. Visit www.bigpanda.io for more information.",
-      "website": "https://www.bigpanda.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/bigpanda",
-        "followers": 5498
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/bigpanda"
-      },
-      "twitter": {
-        "username": "bigpanda",
-        "url": "https://twitter.com/bigpanda",
-        "followers": 3055
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Mountain View, CA",
-        "Mountain View, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 92,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1372971954458697731/Mz07JDOG_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "BigPanda",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE4aaa5HQ_ZOQ/company-logo_200_200/0?e=1594857600&v=beta&t=1nApzJhZx4yTSZSTWAPOlJO0dQc8JhSpc-yfK-ufTtk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/clarifyhealth.md",
       "title": "Clarify Health Solutions",
       "excerpt": "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world.",
@@ -134,7 +81,7 @@
       "twitter": {
         "username": "nurobots",
         "url": "https://www.twitter.com/nurobots",
-        "followers": 3685
+        "followers": 3686
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -195,7 +142,7 @@
       "twitter": {
         "username": "preferrednet",
         "url": "https://twitter.com/preferrednet",
-        "followers": 5485
+        "followers": 5484
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -252,7 +199,7 @@
       "twitter": {
         "username": "slyceit",
         "url": "https://twitter.com/slyceit",
-        "followers": 1049
+        "followers": 1048
       },
       "angelList": {
         "url": "https://angel.co/company/slyce"
@@ -312,7 +259,7 @@
       "twitter": {
         "username": "socureme",
         "url": "https://twitter.com/socureme",
-        "followers": 7018
+        "followers": 7019
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -404,6 +351,44 @@
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zscaler.md",
+      "title": "Zscaler",
+      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zscaler/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zscaler/",
+      "type": "profile",
+      "name": "Zscaler",
+      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "website": "https://www.zscaler.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zscaler"
+      },
+      "twitter": {
+        "username": "zscaler",
+        "url": "https://twitter.com/zscaler",
+        "followers": 9929
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/926547845867454465/yHExar4j_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zscaler",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -882,7 +867,7 @@
       "twitter": {
         "username": "dataminr",
         "url": "https://twitter.com/dataminr",
-        "followers": 14966
+        "followers": 14968
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -1048,7 +1033,7 @@
       "twitter": {
         "username": "graphcoreai",
         "url": "https://twitter.com/graphcoreai",
-        "followers": 6943
+        "followers": 6942
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1110,7 +1095,7 @@
       "twitter": {
         "username": "PonyAI_tech",
         "url": "https://twitter.com/PonyAI_tech",
-        "followers": 970
+        "followers": 971
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1218,7 +1203,7 @@
       "twitter": {
         "username": "StarshipRobots",
         "url": "https://twitter.com/StarshipRobots",
-        "followers": 10294
+        "followers": 10293
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -1482,7 +1467,7 @@
       "twitter": {
         "username": "ContentSquare",
         "url": "https://twitter.com/ContentSquare",
-        "followers": 6453
+        "followers": 6452
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1650,7 +1635,7 @@
       "twitter": {
         "username": "RethinkRobotics",
         "url": "https://twitter.com/RethinkRobotics",
-        "followers": 31272
+        "followers": 31271
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -1838,44 +1823,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
-      "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
-      },
-      "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 17218
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aptiv",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/five.ai.md",
       "title": "FiveAI",
       "excerpt": "FiveAI is developing the software to power shared, self-driving vehicle services in Europe.",
@@ -1978,6 +1925,65 @@
           "height": 400,
           "title": "Gong.io",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/insilicomedicine.md",
+      "title": "Insilico Medicine",
+      "excerpt": "Insilico Medicine, Inc is an artificial intelligence company headquartered in Rockville, with R&amp;D and management resources in Belgium, Russia, UK, Taiwan, and Korea sourced through hackathons and competitions. The company and its scientists are dedicated to extending human productive longevity and transforming every step of the drug discovery and drug development process through excellence in biomarker discovery, drug development, digital medicine, and aging research.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/insilicomedicine/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/insilicomedicine/",
+      "type": "profile",
+      "name": "Insilico Medicine",
+      "overview": "Insilico Medicine, Inc is an artificial intelligence company headquartered in Rockville, with R&amp;D and management resources in Belgium, Russia, UK, Taiwan, and Korea sourced through hackathons and competitions. The company and its scientists are dedicated to extending human productive longevity and transforming every step of the drug discovery and drug development process through excellence in biomarker discovery, drug development, digital medicine, and aging research.",
+      "website": "http://insilicomedicine.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/in-silico-medicine-inc",
+        "followers": 3413
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/insilico-medicine"
+      },
+      "twitter": {
+        "username": "InsilicoMeds",
+        "url": "https://twitter.com/InsilicoMeds",
+        "followers": 3669
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Hong Kong, China",
+        "Hong Kong , Hong Kong"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=EUr-rkXsBUs"
+        }
+      ],
+      "heat": 77,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1013451500503339014/znBZzv85_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Insilico Medicine",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHt6iNIXOSiWw/company-logo_200_200/0?e=1594857600&v=beta&t=LVcUsJmOvWzCqdeTs0Xqr38nsjOMzZYCq0MF54RImgA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
