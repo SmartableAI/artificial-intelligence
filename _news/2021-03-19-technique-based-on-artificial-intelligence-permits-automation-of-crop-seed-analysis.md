@@ -54,22 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Steps taken by Government to use Artificial Intelligence for education transformation"
-    excerpt: "CBSE has introduced Artificial Intelligence as a subject in class IX from session 19-20 and in Class-XI from session 2020-2021 in their affiliated schools."
-    publishedDateTime: 2021-03-15T23:30:00Z
-    webUrl: "https://www.thestatesman.com/india/steps-taken-government-use-artificial-intelligence-education-transformation-2-1502957517.html"
-    ampWebUrl: "https://www.thestatesman.com/india/steps-taken-government-use-artificial-intelligence-education-transformation-2-1502957517.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/india/steps-taken-government-use-artificial-intelligence-education-transformation-2-1502957517.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 67
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/03/QT-Artificial-Intelligence-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Orion to speak at NDIA National Security AI Conference and Exhibition (NSAICE)"
     excerpt: "Orion Labs, Inc., the leading voice-first, intelligent collaboration platform that empowers deskless workers, today announced Orion Labs's Chief Technology Officer and Co-Founder Greg Albrecht has been selected to speak during the NDIA"
     publishedDateTime: 2021-03-16T12:17:00Z
@@ -113,20 +97,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/cropseed.jpg"
         width: 1920
         height: 1440
-        isCached: true
-  - title: "How AI-powered communications and collaboration will change the world"
-    excerpt: "With AI-powered communications and collaboration, nearly every business will be able to accelerate innovation, improve customer experiences and empower employees to work productively, whether at home,"
-    publishedDateTime: 2021-03-16T00:38:00Z
-    webUrl: "https://www.cio.com/article/3611513/how-ai-powered-communications-and-collaboration-will-change-the-world.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 37
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/03/istock-1223789403-100880976-large.jpg"
-        width: 1199
-        height: 739
         isCached: true
   - title: "Critical evaluation of deep neural networks for wrist fracture detection | Scientific Reports"
     excerpt: "Wrist Fracture is the most common type of fracture with a high incidence rate. Conventional radiography (i.e. X-ray imaging) is used for wrist fracture detection routinely, but occasionally fracture delineation poses issues and an additional confirmation by computed tomography (CT) is needed for diagnosis."

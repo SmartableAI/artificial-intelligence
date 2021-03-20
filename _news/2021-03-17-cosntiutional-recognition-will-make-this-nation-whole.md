@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
-    excerpt: "Mar 15, 2021 (CDN Newswire via Comtex) -- A new offering by MarketsandResearch.biz entitled Global Deep Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 documents an overview of the market which has been showing steady ..."
-    publishedDateTime: 2021-03-16T00:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market Size, Development, Key Opportunity, Application and Forecast to 2026"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 19, 2021 (Market Insight Reports) -- Automotive Artificial Intelligence (AI) market report, inclusive of Covid-19 impact analysis, evaluates business status and potential ..."
     publishedDateTime: 2021-03-19T15:19:00Z

@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Around the tracks: Stressful footage of a Tesla in full self-driving mode"
-excerpt: "When we’re not creating it ourselves, the CarAdvice team spends a lot of time finding and consuming motoring content from all over the world. Here’s a handful of the photos, articles, videos or socia"
-publishedDateTime: 2021-03-19T18:58:00Z
-originalUrl: "https://www.caradvice.com.au/935307/around-the-tracks-stressful-footage-of-a-tesla-in-full-self-driving-mode/"
-webUrl: "https://www.caradvice.com.au/935307/around-the-tracks-stressful-footage-of-a-tesla-in-full-self-driving-mode/"
+title: "Tesla’s “Fully Self Driving” Beta Would Fail A Driver’s License Test"
+excerpt: "Tesla recently unrolled its autopilot beta to more users and the results are... well, incredibly dangerous, life-threatening, and scary."
+publishedDateTime: 2021-03-20T13:01:00Z
+originalUrl: "https://futurism.com/the-byte/teslas-autopilot-beta-would-fail-drivers-license-test"
+webUrl: "https://futurism.com/the-byte/teslas-autopilot-beta-would-fail-drivers-license-test"
+ampWebUrl: "https://futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp"
+cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp"
 type: article
-quality: 38
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: CarAdvice
-  domain: caradvice.com.au
+  name: Futurism
+  domain: futurism.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/42ce5894867b7e17f63d3b75cdfb77bc.jpg"
-    width: 960
-    height: 500
-    isCached: true
 
 related:
   - title: "Tesla's \"Full Self Driving\" Beta Is Just Laughably Bad and Potentially Dangerous"
@@ -41,17 +37,6 @@ related:
         width: 1200
         height: 602
         isCached: true
-  - title: "Tesla’s “Fully Self Driving” Beta Would Fail A Driver’s License Test"
-    excerpt: "Tesla recently unrolled its autopilot beta to more users and the results are... well, incredibly dangerous, life-threatening, and scary."
-    publishedDateTime: 2021-03-20T13:01:00Z
-    webUrl: "https://futurism.com/the-byte/teslas-autopilot-beta-would-fail-drivers-license-test"
-    ampWebUrl: "https://futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 69
   - title: "Tesla navigates though more skepticism over its self-driving systems"
     excerpt: "It is tough being Tesla. In a world where cars are becoming electric, just as the company initially intended when its mission began 18 years ago, Tesla is the top dog at the moment. Every car company in the world is nipping at its heels in an attempt to catch up to Elon Musk’s car"
     publishedDateTime: 2021-03-20T16:59:00Z
@@ -84,7 +69,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Around the tracks: Stressful footage of a Tesla in full self-driving mode"
+    excerpt: "When we’re not creating it ourselves, the CarAdvice team spends a lot of time finding and consuming motoring content from all over the world. Here’s a handful of the photos, articles, videos or socia"
+    publishedDateTime: 2021-03-19T18:58:00Z
+    webUrl: "https://www.caradvice.com.au/935307/around-the-tracks-stressful-footage-of-a-tesla-in-full-self-driving-mode/"
+    type: article
+    provider:
+      name: CarAdvice
+      domain: caradvice.com.au
+    quality: 38
+    images:
+      - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/42ce5894867b7e17f63d3b75cdfb77bc.jpg"
+        width: 960
+        height: 500
+        isCached: true
 
-secured: "cLp7wm05vtAlmuCwWP0mUVR7BlFPFb5MFmTF/Gp6ThCGaLsmIKYHMYau6E5iNbU0qkVtwxL1Jb/mGJgsgGA/Zx0qVcTQ3MZSwgjnN7O0p5/AsxSd7ShCbDa7YP9cd2K6vnAJfOmbAUihHZGey3GihkH/LAcDsrK2hf9fHTMd/3v3L5Ec9VJI2/vL1uXhnmRj/VXShEBAMoD7ik78yPU4Yacgk9m74mwZ47cdSmC4aqRdiO2movtlqZq/ChSbbSOHRTRl9iU9p50a45QqgTu7ffxWH5xoc9o1F5ZDiNtdUfy/atsP8Cxt2RaCnsoexDm1asGTJ+HxWbJrfz54K6VeOu3lxTJMtcElqwekT/6uNLM=;Mv54DRKRXLw0oV2A1d8AlQ=="
+secured: "2K7Os8iVx57jX8YYPYT++s7AIwbgjeM6/OtcfMx6D3dgMKr+U8/2HpUHb8lnrMhVdkFENevOVQt3W23UqPRcGAFxIq22T62tMQCMdBU2uc00iY4NTdcZSrHFzWXhAMicjRavCFKnYnkpSwlSE0bJfNql8BZ43xJ6gtRYv5jVG5BLxojeeb8sWhqDNeEp5KI9QDLHaXgzOoURs17c0+UNQ74PRNxLrKY4EIuYh6DxL1TQ3unNaIpSwn8ecWrmow86iMEP3bqTt5C5Dyi0BlFetHHDV7wsSwtqayPGEAHPcuBPWymnuR67RvIfy8WndOBs1MG6ZH5gnE2vDUo3v9RkKgJp/tuzphfdV5k2TjFOPx0ZPXWOTk/AwQEv593IEIKa2R3ee5cPBul7rMkVVvZYjBokQAtGzq4+BpnfeWbp9uBbtyR3m8uz/lWT/RK97i4bIHX2MufG0mvNdgHivfU+UC/skQN7MFsZ6qlrWrI484tChth6RQ6MyTDebHN7Uh8owbdtkIsX2HzE7F6VXB1XBg==;aU9qkcovOGe8LH+04LVm8Q=="
 ---
 

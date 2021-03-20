@@ -39,6 +39,20 @@ related:
         width: 623
         height: 432
         isCached: true
+  - title: "Face biometrics implementations expanding for vehicles, retail systems and health passes"
+    excerpt: "Facial recognition is prominent among the top news stories in the biometrics industry over the past week. Paperwork for a blockbuster facial recognition IPO has been filed by Megvii, the use of the technology by law enforcement to identify dissidents and refugees is being scrutinized,"
+    publishedDateTime: 2021-03-20T17:28:00Z
+    webUrl: "https://www.biometricupdate.com/202103/face-biometrics-implementations-expanding-for-vehicles-retail-systems-and-health-passes"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
+        width: 800
+        height: 390
+        isCached: true
 
 secured: "OwpuVozG+98CM1/VPUunZzAbFHST8vPqT2AkOc4WIb+k8ptpBf8rSKTDa88N2gjjMVrGMBV6jco9l+S6D6g7dz8Bme5TggMgxNwWn13RktNFE2dF/BJ7/YD02ojzcXO7OlkptuQ2U5PBfhh3C0GKYSCN9G+ZdzcI5cFRkuR7RTBR2pAYONfZLC0b64eULuh04mnSyNd1lTzsz1JDq685V6RsuZeaduaTup/cRF5XYefuTlwYBd+s4QkVQo91TB2AuKs/40oeiQ/xU2CFL7Phv7iO0z66r+euP04f0zzGMMzpRLvQlyHJwxN1/C3S+yegXZfuB+Fy4usJalSvvmkjxvrnfMlQx7LX5EAMVNxo+TE=;L3rmyw+uBwTuxeT1rH5BKw=="
 ---

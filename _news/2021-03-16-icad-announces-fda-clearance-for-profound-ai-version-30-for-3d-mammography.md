@@ -1,10 +1,10 @@
 ---
 category: news
 title: "iCAD Announces FDA Clearance for ProFound AI Version 3.0 for 3D Mammography"
-excerpt: "In a reader study published in Radiology: Artificial Intelligence, ProFound AI for DBT Version ... iCAD is a global medical technology leader providing innovative cancer detection and therapy solutions. For more information, visit www.icadmed.com and ..."
+excerpt: "Company’s third generation AI solution offers significant improvement in algorithm specificity performance and faster processing compared to previous versions of the software Deep learning technology builds upon iCAD’s established leadership in mammography AI NASHUA,"
 publishedDateTime: 2021-03-15T22:07:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-artificial-intelligence-health-02be71b5ac4ea26c8e70dad5319bb8db"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "9vefW5QdLQhNhMAfEnJ0Zsbz9WCZYPp5JcpXtkyXGt0dLLO0xo2tpL4JKbOdO8GE060+4gFB+QEv1zbzxTvqTnxXgCa0V8nCTf66MVbwxvR0YFav7mWtdNWsAr3Y9jquJkIFmQ1BONN4itEkPu8DHPWaMUbFdYU/c0tdaustO+bkJFjuONKkdwxQXYiBEwBlkP41Zo832Y8vZRYpubahfZmvrmQsdxqifBc5Ie6TF0uJKAsW+5QiaDIVbfxx4RAVrm3OwvuRdSs8ZhOxn/IiNa3p56eHTWfK8iIFXFjFevSVOZC+d/1aXgFFnK1GBRP0fB6lntUXqedd0sgT6idZe4etif2gcCKdmnR7LJd3g9E=;NzaUR3paDBCZXpVgQfOCwQ=="
+secured: "L++39UPIcmiRl9bx3NjhGXW1pMkhY5UgqrcD2h4MTAyB71/W37AnFVIByFOUupGNYOKac0McO4uVQiJKr/jNXl0CtKuYxM5XGz334fg1VrJmbinDbUh2i6ddfjrftpNypsnTv7lLGounpBj4u9eGcwdhZfn4vSVEGaeQjrnkWFm7qej+/AThb1HKvFfwhNsEwi/105w0An8pOfAfO92wZ+5pxB4bs2Dc2eb8e51IwB7apg4iE7w3ukKF8JotVFcnaLYP7Q4MZ8wr66m5ih+P1fyxBx/uStw4Fag+UyDkIL+QH9L6Zgl/LH9unxQ6OrkAkiPG0nMn+kjK3dp+uJqDW4Xm89i4kUxoYQUe5R8EpcA=;jKCwUI24eNJTQF5M6jvzVg=="
 ---
 

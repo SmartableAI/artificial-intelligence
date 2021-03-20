@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
-    excerpt: "Mar 15, 2021 (CDN Newswire via Comtex) -- A new offering by MarketsandResearch.biz entitled Global Deep Learning Market 2020 by Company, Regions, Type and Application, Forecast to 2025 documents an overview of the market which has been showing steady ..."
-    publishedDateTime: 2021-03-16T00:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-03-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global 3D Facial Recognition Systems Market 2021 Vital Challenges and Forecast Analysis by 2031"
     excerpt: "The latest research report provides a complete assessment of the Global 3D Facial Recognition Systems market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
     publishedDateTime: 2021-03-19T08:29:00Z

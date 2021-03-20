@@ -42,22 +42,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Credit Intelligence flags further growth with the launch of AI-based BNPL platform into Hong Kong"
-    excerpt: "ASX fintech Credit Intelligence (ASX ... Sydney (UTS), the YOZO platform leverages AI and machine learning to provide fast access to short-term cash – a key component of small business operations. Leveraging the intellectual property advantage of its ..."
-    publishedDateTime: 2021-03-15T23:43:00Z
-    webUrl: "https://stockhead.com.au/tech/credit-intelligence-flags-further-growth-with-the-launch-of-ai-based-bnpl-platform-into-hong-kong/"
-    ampWebUrl: "https://stockhead.com.au/tech/credit-intelligence-flags-further-growth-with-the-launch-of-ai-based-bnpl-platform-into-hong-kong/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/credit-intelligence-flags-further-growth-with-the-launch-of-ai-based-bnpl-platform-into-hong-kong/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 46
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2021/03/CI1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Yi06QGx3GGmVXBcBwB2GvxfKAMHONt2ct+ltbTnm0ciBJ01nLxsRxBITGeiGS2Nm7rgknz+uwX3ABOY3wOK4QhtPdHorpm9XHJzbqHB7zZu9lOJoJkXWdhtlXDe/cCw6xvLaSf+4mw2WtQbOmpKLxDcfKwpY3vfr6NVVjfw3GfZQW1/mqwuSol70xRmItMsHt9NZy1OjlezOkU6f+4xgZp66ydYPqHVX53Ld8rJlUt1w7UZOLuOojjH3d8lI19qiTKm9fxFZTD+BOJQKGH/f8dqaVstUptZzBsKgnCI5s+1Y4sF3+NIsrSe5V9RS4PZy93fWf8ckE5kxmbK2SqvaGBNGk72nWezpN5TrhOzFt33jl+3Cd2Y47wtPXWyBfs65YQkbGqFiIWHNRgFba7j7eOB4Gerk0nKgp6MAeLCkHctRlCDu0yZsDjuwRjZnQb7pigbyGHy/D0NoUb1OOSQCyYCksbL9xwVPJujieJ0EjBFqhBMfbIyunX196tGGh+CK9k16YCSlHEpqMpTk0nu80A==;79IgRw+jyZYMr+BsGts93w=="
 ---

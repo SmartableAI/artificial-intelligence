@@ -9,7 +9,7 @@ ampWebUrl: "https://www.roadandtrack.com/news/amp35878363/teslas-full-self-drivi
 cdnAmpWebUrl: "https://www-roadandtrack-com.cdn.ampproject.org/c/s/www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
 type: article
 quality: 69
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,33 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla’s “Fully Self Driving” Beta Would Fail A Driver’s License Test"
+    excerpt: "Tesla recently unrolled its autopilot beta to more users and the results are... well, incredibly dangerous, life-threatening, and scary."
+    publishedDateTime: 2021-03-20T13:01:00Z
+    webUrl: "https://futurism.com/the-byte/teslas-autopilot-beta-would-fail-drivers-license-test"
+    ampWebUrl: "https://futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 69
+  - title: "Tesla navigates though more skepticism over its self-driving systems"
+    excerpt: "It is tough being Tesla. In a world where cars are becoming electric, just as the company initially intended when its mission began 18 years ago, Tesla is the top dog at the moment. Every car company in the world is nipping at its heels in an attempt to catch up to Elon Musk’s car"
+    publishedDateTime: 2021-03-20T16:59:00Z
+    webUrl: "https://www.teslarati.com/tesla-full-self-driving-criticism/"
+    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-criticism/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-criticism/amp/"
+    type: article
+    provider:
+      name: Tesla News
+      domain: teslarati.com
+    quality: 59
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2018/12/Tesla-Semi-red-wrap-122818-Derek-Rasina-2-300x225.jpg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Tesla removed some drivers from its self-driving test for not paying attention"
     excerpt: "(CNN) — Tesla has expanded its “full self-driving” software to roughly 2,000 Tesla owners, but some drivers were revoked access for not paying close enough attention to the road, according ..."
     publishedDateTime: 2021-03-16T18:48:00Z

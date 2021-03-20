@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face biometrics implementations expanding for vehicles, retail systems and health passes"
+    excerpt: "Facial recognition is prominent among the top news stories in the biometrics industry over the past week. Paperwork for a blockbuster facial recognition IPO has been filed by Megvii, the use of the technology by law enforcement to identify dissidents and refugees is being scrutinized,"
+    publishedDateTime: 2021-03-20T17:28:00Z
+    webUrl: "https://www.biometricupdate.com/202103/face-biometrics-implementations-expanding-for-vehicles-retail-systems-and-health-passes"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
+        width: 800
+        height: 390
+        isCached: true
   - title: "Call center voice biometrics partnerships revealed by Auraya, Speech Technology Center, Nuance"
     excerpt: "Real estate developer to implement Speech Technology Center voice recognition Property developer Samolet Group is implementing voice biometrics from the Speech Technology Center in its call center, along with speech analytics and emotion recognition ..."
     publishedDateTime: 2021-03-16T22:53:00Z
