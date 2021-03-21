@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Core Scientific Achieves AWS High Performance Computing Competency Status"
-excerpt: "\"Core Scientific is humbled to be one of the first AWS Partners to achieve AWS HPC Competency status,\" said Ian Ferreira, Core Scientific Chief Product Officer of Artificial Intelligence."
-publishedDateTime: 2021-03-01T19:06:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/core-scientific-achieves-aws-high-performance-computing-competency-status/article_ca8bc4fa-a144-53ba-a80a-9624a1cccf58.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/core-scientific-achieves-aws-high-performance-computing-competency-status/article_ca8bc4fa-a144-53ba-a80a-9624a1cccf58.html"
+excerpt: "BELLEVUE, Wash., March 1, 2021 – Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner, the former COO of Microsoft, announced today that it has achieved ..."
+publishedDateTime: 2021-03-01T21:29:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/"
+webUrl: "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
+    width: 440
+    height: 440
     isCached: true
 
-secured: "viaTF590zI3KLqsFkzPPc5YwC2uB4wcuFW6pJxiUVHzLBhgq1tlOQ3ZrTIsnjoV5jVIPE9jGnDj127Kank1p743dGYfG1ehvhNcI6hWBRKWLLdXhNRMR/kjBuXasUN4o9+gOgZYDKMhjAJvb8fOUGyQ4MGQr5S80XmJX5+1W7/z9uFrjcg++P2Sri5ybyg/QtS8ibWboz/VltbaBfGU5v3SQhcsvjk8VwKKHIGjD7kOOQgXaR02a7909dcYJWf0p895N9TNjoTKC2Wcjt7xj52CGBirqQgHE1rpUEWSmE8svPCaypCkH9ThnU1Qp0xOEPkZ59YapFvWE2z2QbVdmXhEtiHHjQeKTtU3iZFS7trY=;/+dTOm6bxX4/ueuTz5Yy8w=="
+secured: "rRLa0oViyIlTduQ9E650ZTPQEJytPa/4Y8PR5lXjX9gwv+6cIImMkYyhBJ1UN/38PEEs6FOYv1cCTUQHeKs4X5IOlt20ESRxEcIwxUsFdV2JZTn/6bgvAB7FQdejrN7qOpxfg+5z4K3SInsNBVqPv7vrRPCOWSj9CLBuqP6hFeeiOV8PLZuyxmWYkXA+28innIhlihHUD5dADmWd09GqpjZiH2uhkbpvdLEFpnFESM2xTPrcecAjZcLPWl/HmQSYEbcKxWbNgeEhbvjj6mUWqSGvu6vEHkbtINjwgb18TJ/IsO4GjpioeqM0q/wBV9s6imIzLpbgRTzj5yv5Th/mEpNq10C0WAEp4VRkE6e4cPI=;fC6nQ4VdAxI44qoMm0Jq/w=="
 ---
 

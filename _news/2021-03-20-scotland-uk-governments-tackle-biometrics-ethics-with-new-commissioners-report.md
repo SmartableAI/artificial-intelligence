@@ -39,20 +39,6 @@ related:
         width: 800
         height: 390
         isCached: true
-  - title: "Call center voice biometrics partnerships revealed by Auraya, Speech Technology Center, Nuance"
-    excerpt: "Real estate developer to implement Speech Technology Center voice recognition Property developer Samolet Group is implementing voice biometrics from the Speech Technology Center in its call center, along with speech analytics and emotion recognition ..."
-    publishedDateTime: 2021-03-16T22:53:00Z
-    webUrl: "https://www.biometricupdate.com/202103/call-center-voice-biometrics-partnerships-revealed-by-auraya-speech-technology-center-nuance"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 12
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
-        width: 768
-        height: 513
-        isCached: true
 
 secured: "fEPzoGb/h6bnCZQWdOdcYQxrqJ98ZLG6ujci1gyUcTIDeoC9Dj2EXuQr1K6upp44F87ORdUyfJMmvvBlWK3cuwS0sn0+uhA8bqR/Mp52mLBbhmL3SoHnOgoClc3yxlR+rskur1T9oEoj65Yce2Xe00PSMKau0dnw0cJY6ywkZl5s4jpiRPPRGpyslQ9n68EVG8mmqwVuWorKepjZSFD4XMOX/DuejdAZYrf/P3p2tPueRtMFu6w0YuMHMdkj9I/CQXRLC1UlNKYHib39jz6yCUxPM6VqBfaX38h+lH5SeuzIQqqA32pWG/1j1j+5l6z/Rij9t4iG2yslPM8Iq16WyAAm1Xn8IF5TItPkfMvWtQlKyiWGX7pt45zrAXDPymcvdzJro7Q5qgjk9iIGvslinC91UDfI/W80QaNtHgPn9A2/ZFmq/zoBnnHeTqboeiQnHQZ7aIqMctizmJRo2z+YLK+2zeqvxtWloSydzrxMlxterT4Vvxh8p339iltkh+eiwRLgXwV1DK4/4Q4y8Wm+jw==;Edn0CWCyi5RqQyK53T9FYA=="
 ---

@@ -36,20 +36,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 24
-  - title: "SVMC nurse wins national recognition"
-    excerpt: "has been selected as a Young Professional Voice by the American Organization of Nurse Leaders. She was selected from a large pool of nursing nominees under age 40, the organization said. “This prestigious national recognition emphasizes Katharine’s ..."
-    publishedDateTime: 2021-03-16T21:50:00Z
-    webUrl: "https://www.benningtonbanner.com/community-news/svmc-nurse-wins-national-recognition/article_e682e546-86a1-11eb-bd04-bb77316da5b6.html"
-    type: article
-    provider:
-      name: Bennington Banner
-      domain: benningtonbanner.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/benningtonbanner.com/content/tncms/custom/image/4dc07452-195c-11eb-8a86-73bc81d5db6b.png"
-        width: 1200
-        height: 717
-        isCached: true
 
 secured: "lTZ2I2jWOPLVKLWraDQVjyv4VVCe11bK9xsN3ByRVRSlQoEI/sp8fIJnmtHktuMjTjERpwwwfCSKlKhicVz/NnVD3dj2P+SCoL6IVQ6IUizuqXQ+idrS+MXf3R+5tsXPPAKtU98UmmgRRD6pU7aX/SW4owJTiruXiKZNrAl8fV6ij30ugH5Ok7siAOOW9kQB8FEEMdGYsUyJCycw/dZLOnw5vPolF9l68e1fLWM1jhAZUYVLszMCv0KS0eACGWVDXGA7l1X34pftMqihAZhSElA0tmPmDhDinj26alTmT1SFo1734qfv/mQg6w6Q1/k4Wk03GoGwqXNzZWkADpwP11haGNijEKkzi24pxfL1DghOjWmFy/y9W1cYA7RNIN73k90u0scz4MMgyk++J2f6LaOPlpflrnrbSHWNq3WqVdlUVWglUv/9pGw4cEbotXuLEFMu9rp/L1kY1GeN4kiBpJLx9F8+dcj9DSSdC8XqW0wOcGNQRw1iv1O+suNKZ0Gy82gEEQWlwQuonUxRZkxo1A==;fhn7gUJK7dg9GNCfKVVfkw=="
 ---

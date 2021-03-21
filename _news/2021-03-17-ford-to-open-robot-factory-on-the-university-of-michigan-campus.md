@@ -7,7 +7,7 @@ originalUrl: "https://electronics360.globalspec.com/article/16472/ford-to-open-r
 webUrl: "https://electronics360.globalspec.com/article/16472/ford-to-open-robot-factory-on-the-university-of-michigan-campus"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,61 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Ford partners with university on robotics, new building"
-    excerpt: "The four-story building on the University of Michigan's campus brings together researchers from 23 buildings and 10 programs into one space, including researchers and engineers from the Ford Motor Co."
-    publishedDateTime: 2021-03-16T21:21:00Z
-    webUrl: "https://finance-commerce.com/2021/03/ford-partners-with-university-on-robotics-new-building/"
-    type: article
-    provider:
-      name: Finance & Commerce
-      domain: finance-commerce.com
-    quality: 54
-    images:
-      - url: "https://finance-commerce.com/files/2021/03/WEB-Robotics-AP-w.jpg"
-        width: 620
-        height: 330
-        isCached: true
-  - title: "University, Ford join in robotics effort"
-    excerpt: "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheetah -- staccato-like -- does the same on four. Meanwhile, the yellow-legged Cassie steps deliberately side-to-side."
-    publishedDateTime: 2021-03-17T02:04:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/mar/17/university-ford-join-in-robotics-effort/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 54
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/197684474_197683415-123406b7433340c997c2bd7992e09df4_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
-  - title: "University housing Ford robotics lab"
-    excerpt: "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheet"
-    publishedDateTime: 2021-03-17T06:00:00Z
-    webUrl: "https://www.journalgazette.net/business/20210317/university-housing-ford-robotics-lab"
-    type: article
-    provider:
-      name: The Journal Gazette
-      domain: journalgazette.net
-    quality: 54
-    images:
-      - url: "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210317/ARTICLE/303179982/AR/0/AR-303179982.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Ford partners with U-M on robotics research, new building"
-    excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four and the yellow-legged Cassie steps deliberately"
-    publishedDateTime: 2021-03-18T09:29:00Z
-    webUrl: "https://www.seattletimes.com/business/ford-partners-with-u-m-on-robotics-research-new-building/"
-    ampWebUrl: "https://www.seattletimes.com/business/ford-partners-with-u-m-on-robotics-research-new-building/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ford-partners-with-u-m-on-robotics-research-new-building/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 54
 
 secured: "bT57OTJ4pyUiXpyhkmYGXPRjgUyEuYfn8Wvk0L5/mF1y6oTNZlS+zpfBx7URnZWXSdi1dzOOiwyeLo05UDbWIljLGIwTAx2jLGPKHMe7QcWt0xBcHApxXeeEJxRPZuuOMotrtR17RhKVOJMV3D4wOa2MjQctJ3Zme/rbRQMSoH4AGa8ajLnJfVxdtG9TXuskTd6DXYPii8MH4suCQnGuSPUcIFh9iQq/IhCJB++45pGVkY5oBTOFZ1OAvuBV5+MHeVkAvcTjDjCYSnYdDDIf4rcA7NTLloPHgZPXlgtE9lfwLioTjlPdbnH3+Req6JTSxZcnMAf2kIDDjdiXnA+cqhYt8IYpnUIj/4pa2DXeK1Q4s01BNR4GYMtZgQ45C3ndkxIiDg5e798BmXIoaNaiJEdZv0K0LXE9A9WyE70gkaVTQoy789P2eSMt6VU3oEGc6jdBNjrDiOxnmRmkGv3Auqm/PJs+myh8N1K/LgWtxMX5x1ukOvp0hpPt3ZHtSJPSC4nUwd4f6iLAugbD7Mp2KA==;5cHWmKkTDNgOrNfrsrP1xw=="
 ---

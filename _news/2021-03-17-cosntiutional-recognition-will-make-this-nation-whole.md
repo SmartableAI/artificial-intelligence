@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "SVMC nurse wins national recognition"
-    excerpt: "has been selected as a Young Professional Voice by the American Organization of Nurse Leaders. She was selected from a large pool of nursing nominees under age 40, the organization said. “This prestigious national recognition emphasizes Katharine’s ..."
-    publishedDateTime: 2021-03-16T21:50:00Z
-    webUrl: "https://www.benningtonbanner.com/community-news/svmc-nurse-wins-national-recognition/article_e682e546-86a1-11eb-bd04-bb77316da5b6.html"
-    type: article
-    provider:
-      name: Bennington Banner
-      domain: benningtonbanner.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/benningtonbanner.com/content/tncms/custom/image/4dc07452-195c-11eb-8a86-73bc81d5db6b.png"
-        width: 1200
-        height: 717
-        isCached: true
   - title: "Facial recognition and folklore: as Kazakhstan looks to 2050, photographer Marat Dilman captures his country’s fascination with tradition"
     excerpt: "Futuristic, elaborately peculiar, and deeply engrossing, the photographs of Marat Dilman juxtapose mythology and innovation, traditional and modern ways of living in today’s Kazakhstan. Born in 1990,"
     publishedDateTime: 2021-03-18T13:48:00Z

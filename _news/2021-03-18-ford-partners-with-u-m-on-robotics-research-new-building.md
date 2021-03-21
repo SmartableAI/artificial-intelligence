@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Ford partners with university on robotics, new building"
-    excerpt: "The four-story building on the University of Michigan's campus brings together researchers from 23 buildings and 10 programs into one space, including researchers and engineers from the Ford Motor Co."
-    publishedDateTime: 2021-03-16T21:21:00Z
-    webUrl: "https://finance-commerce.com/2021/03/ford-partners-with-university-on-robotics-new-building/"
-    type: article
-    provider:
-      name: Finance & Commerce
-      domain: finance-commerce.com
-    quality: 54
-    images:
-      - url: "https://finance-commerce.com/files/2021/03/WEB-Robotics-AP-w.jpg"
-        width: 620
-        height: 330
-        isCached: true
   - title: "University, Ford join in robotics effort"
     excerpt: "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheetah -- staccato-like -- does the same on four. Meanwhile, the yellow-legged Cassie steps deliberately side-to-side."
     publishedDateTime: 2021-03-17T02:04:00Z
@@ -63,15 +49,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Ford to open robot factory on the University of Michigan campus"
-    excerpt: "Ford Motor Company will help to build a robot factory on the University of Michigan (UM) campus to test, design and develop new robots for a variety of markets. The Ford Motor Company Robotics Building is a four-story,"
-    publishedDateTime: 2021-03-17T12:27:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16472/ford-to-open-robot-factory-on-the-university-of-michigan-campus"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "0eUjtS4pg4L21bBKvN0XOQJ+gYf/QuzzYICVdrkVY66L90AXn0cTHoWjcKJSDRIyarjlgi0h/0upac14FEOwBcfH4KcU/bQawQY23P7XkI/MtIYEsh13Y3p67/zAQ63sbtxa9rcfLA7pA5AaEz4AG2Pwd8CpmmzeCFg3EaaTNwu5gQorUrVpsiQmK7AUqFwL7RZv9aEMFBHeAFr6ZIhw64HxaFNdcVwuR6wxC/SKrpeGpQeBp9SHq9iQssbehFWiRsspthSocyGmd7vQ2BWigao7afF0ZkaRumiKPXsFGP925JUL+pnpFIrl4xjMNU22X5xChpcrP+oe6VKUjlFBgYFZXLEeCc4zTbkY0X93ybM=;sHbL1+jXOUChfIaMtrqNIg=="
 ---

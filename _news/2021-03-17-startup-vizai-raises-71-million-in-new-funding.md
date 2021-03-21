@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AI patent intelligence platform PatSnap secures $300M"
-    excerpt: "PatSnap, a startup developing AI technologies to analyze and organize patents for R&D, has raised $300 million.Read MoreRead more on 'VentureBeat'"
-    publishedDateTime: 2021-03-16T23:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
   - title: "Stroke detection startup Viz.ai raises $71M"
     excerpt: "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke."
     publishedDateTime: 2021-03-20T00:07:00Z
