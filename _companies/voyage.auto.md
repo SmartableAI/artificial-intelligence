@@ -2,7 +2,7 @@
 name: "Voyage"
 overview: "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge."
 type: "profile"
-heat: 108
+heat: 92
 
 website: https://voyage.auto/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "voyage"
   url: "https://twitter.com/voyage"
-  followers: 9963
+  followers: 9965
 
 size: 51-200 employees
 yearFounded: 2017
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
 
-secured: "NnJPfrBbE6ilDlb4h/fBc3C7xbqbzrxoie3Or8xnXfPXAVoWSNruB39UWFS3g3GzWUWp4JLnsX5p4uokD5yUzuRE3zpeHZeoNQGaH/lpof3zOEqxqqDrprNz4KTHEqxbFqwIWbNvEmdvgFYjcaaJeYxfLaOnEHHNmm2mwA4st5oS/8Cf0U0TCi4aKVSmmWcFHF9PAjJGTuZ4m0cpX4u6Qzc6yl2Zuy9Qg5PGAJWOikWkLsd9uwHP45eizZbZST+NEpoOhc6nULmCyzL7mkBd3LEgZRLc61GGmkFT3/HH8buoZT31kICBmFxHgKkaZMbGO2JiyqShyU4lvp7sbW51Zp8bp6qW4683SkR3OM8F7lxUm1v7k134NeoKTe8q1Q+sDbNF2h3sgnbYioYuedfrup6AGtGYKrrLPIgGoi8dXFk=;ApAisjH0oP0Ldv3q4NMIsQ=="
+secured: "dFxWfqmZXjs2S3FVr0x4wgIWV4SWCJNjhwiWz+lBBQkPjKhS/zuCqzMtkrnFVuXGtXHPRRY4I9JDolXjtVDjs6CWTomLXLVK0IvUk1FzppKncrdQhbhgWz2D+GLC7iTmxZIr656qBRywCMX156v8xM7uskyzWXtspub/rFoCqXD3hlcf1lTBq3w2vfess8ZwxkdBlMbJYjPa13sVNMuWucK8tRZjCzWedJmQXYWrhimUUZPSy1od1cFsqiZquXH+8KQutxRSm/KTqItpQzY5yy+iscjdt+e4Z6vTJXvGcmm5PD2Cpz5UzZr8LTaDL4wuMJyexAfjMN9zzsDQ1fUTBhF5AbTba9goepFOJZCNl/Oj5XC5qKxtZ7BkWbwen7Nvnem4fyVzGxts+nqGC6j089JlIbz2/hwkCXl/4m0YULc=;JqUQtG1sPKvY22Vudo2VVQ=="
 ---
 
