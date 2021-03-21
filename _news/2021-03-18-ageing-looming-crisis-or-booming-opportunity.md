@@ -41,6 +41,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Upstart CEO on using artificial intelligence to increase access to consumer credit"
+    excerpt: "Upstart co-founder and CEO Dave Girouard said the online lending platform is among the first to apply artificial intelligence to address issues in money lending operations. He explained how his company seeks to play in a big market opportunity. Got a ..."
+    publishedDateTime: 2021-03-19T22:00:00Z
+    webUrl: "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-using-ai-to-increase-access-to-consumer-credit.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 61
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106856973-DOTCOM-MM-C-031921-SHORT-jpg?v=1616194818"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "WOCXf/W4mLicIbhi0e3sIQ1HIygG6tBeJ4h1OItd7l4bDXCAt2EMWrrHhh8B/weYl7Haevne7piEmJeTVD0+9JRWTSeWa+BJ4Xuk0vEXdaQZu09AtG95az/sl9OnEehjmAy7eXMDOI5EH6fX9CieSeooeEOZwQzfq7H7JF4ZCA+K1lAEnU/UwCWzEAYKkT2+dI1a4YGg/50LvVh8w4Xn6EAhgCW+Vazc4zB47GjQffnBOkhNDmfH6yFZ5nrgSf/vnguc59Tr+7RFJqR7TOj9d6K/B9xln4Kq1xuOuAm6xznXgUE15dxOO2wRExbPqhzrjswdU2Dj9jYVAGaVRuvTHMxNQ+dHirlM9kv/8pEn8GAgVVkRObXookFWZ1tAsdGzJnWg6UAMyhIpP5EmmjV+/p2DJZSiJI6zk4Pyh2D+ExsbtzlyOudoGn/lylekVfu71MBTyWQ0dcNXAZAGnjhmDNQCGwYbcVg4I9I4Vz2l82mwY3r3zEcV9+LIJd7AyTKq3pAmXV3XJw/pDI7fbkLwtQ==;js7RlgM0CYJQtDaLwgs6Gg=="
 ---

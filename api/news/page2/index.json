@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-19-replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices.md",
+      "title": "Replica Studios makes it easy for game and filmmakers to create AI character voices",
+      "excerpt": "AI voice technology startup Replica Studios has launched a desktop app that makes it easier for game and filmmakers to create voices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/",
+      "originalUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/replica.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/amp/",
+      "publishedDateTime": "2021-03-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-lays-uses-ai-to-create-messi-messages-bringing-the-soccer-superstar-to-your-phone.md",
       "title": "Lay's uses AI to create Messi Messages, bringing the soccer superstar to your phone",
       "excerpt": "Now you can get specialized messages from soccer legend Lionel Messi, thanks to a fun Lay's program. Anyone who has ever dreamed of getting a video message from legendary Argentine soccer star Lionel Messi is in luck.",
@@ -187,58 +238,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-travel-and-hospitality-ai-market-size-estimated-to-surpass-12-billion-mark-by-2026.md",
-      "title": "Travel and Hospitality AI Market Size Estimated to Surpass $1.2 Billion Mark by 2026",
-      "excerpt": "These robots assist customers with basic tasks such as help desks, hotel room detail, restaurants and timings, hotel maps and other related tasks. These prospects for the growth of new AI start-ups in the travel and hospitality industry has been developed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/travel-and-hospitality-ai-market-size-estimated-to-surpass-12-billion-mark-by-2026-2021-03-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/travel-and-hospitality-ai-market-size-estimated-to-surpass-12-billion-mark-by-2026-2021-03-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },

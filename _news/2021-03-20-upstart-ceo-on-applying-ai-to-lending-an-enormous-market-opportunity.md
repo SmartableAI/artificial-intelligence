@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-an-enormous-m
 webUrl: "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-an-enormous-market-opportunity-in-tying-ai-to-lending.html"
 type: article
 quality: 67
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Upstart CEO on using artificial intelligence to increase access to consumer credit"
+    excerpt: "Upstart co-founder and CEO Dave Girouard said the online lending platform is among the first to apply artificial intelligence to address issues in money lending operations. He explained how his company seeks to play in a big market opportunity. Got a ..."
+    publishedDateTime: 2021-03-19T22:00:00Z
+    webUrl: "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-using-ai-to-increase-access-to-consumer-credit.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 61
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106856973-DOTCOM-MM-C-031921-SHORT-jpg?v=1616194818"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Ageing: Looming crisis or booming opportunity?"
     excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Arathi Sethumadhavan, Project Fellow, Artificial"
     publishedDateTime: 2021-03-18T16:30:00Z

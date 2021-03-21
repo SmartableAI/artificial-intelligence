@@ -7,7 +7,7 @@ originalUrl: "https://www.tno.nl/en/focus-areas/artificial-intelligence/applicat
 webUrl: "https://www.tno.nl/en/focus-areas/artificial-intelligence/application-areas/challenges/privacy-and-ethics-in-ai/pi-lab/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Feedzai Fairband: World’s most advanced framework for AI fairness"
-    excerpt: "Particularly in the fintech industry, there’s a risk that AI systems deny access to financial services disproportionately across people from different groups, based on race, age, place of residence, profession, or employment status. Access to banking ..."
-    publishedDateTime: 2021-03-17T08:07:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
+  - title: "Feedzai Fairband: World's most advanced framework for AI fairness"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2021-03-17T08:19:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 19
   - title: "Feedzai Inc: Feedzai Fairband: World's most advanced framework for AI fairness"
     excerpt: "New patent-pending AutoML algorithm that automatically discovers less biased machine learning models with zero additional model training cost while increasing model fairness by 93%Innovation recognize"
     publishedDateTime: 2021-03-17T08:07:00Z

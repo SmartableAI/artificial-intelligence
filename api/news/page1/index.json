@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-22-ford-spokeperson-calls-teslas-full-self-driving-vaporware.md",
+      "title": "Ford spokeperson calls Tesla’s Full Self-Driving ‘vaporware’",
+      "excerpt": "Driving’ package ‘vaporware’ in a spat with a Tesla investor over the Mustang Mach-E. Press relations and communication people at legacy automakers are generally pretty careful about what they say, especially when it is about the competition,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/",
+      "originalUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-Model-Y-vs-Ford-Mustang-Mach-E-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/",
+      "publishedDateTime": "2021-03-21T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-cyberpunk-2077s-improved-police-ai-video-is-not-terribly-reassuring.md",
       "title": "Cyberpunk 2077’s ‘Improved Police AI’ Video Is Not Terribly Reassuring",
       "excerpt": "Cyberpunk 2077 is about to release its big 1.2 patch, and while it still doesn’t have a date, it should theoretically be out by the end of next week. This past week, CDPR shared some of the more prominent changes coming in the patch,",
@@ -149,7 +201,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamiewareham/2021/03/21/why-artificial-intelligence-will-always-fail-lgbtq-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -652,7 +704,7 @@
       "originalUrl": "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-an-enormous-market-opportunity-in-tying-ai-to-lending.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1180,57 +1232,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices.md",
-      "title": "Replica Studios makes it easy for game and filmmakers to create AI character voices",
-      "excerpt": "AI voice technology startup Replica Studios has launched a desktop app that makes it easier for game and filmmakers to create voices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/",
-      "originalUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/replica.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/amp/",
-      "publishedDateTime": "2021-03-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

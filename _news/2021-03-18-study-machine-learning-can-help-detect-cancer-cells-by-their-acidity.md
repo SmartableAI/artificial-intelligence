@@ -41,22 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Machine learning approach can identify cancerous single cells by detecting its pH"
-    excerpt: "Cancerous cells exhibit several key differences from healthy cells that help identify them as dangerous. For instance, the pH -- the level of acidity -- within a cancerous cell is not the same as the pH within a healthy cell."
-    publishedDateTime: 2021-03-17T00:40:00Z
-    webUrl: "https://www.news-medical.net/news/20210316/Machine-learning-approach-can-identify-cancerous-single-cells-by-detecting-its-pH.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210316/Machine-learning-approach-can-identify-cancerous-single-cells-by-detecting-its-pH.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210316/Machine-learning-approach-can-identify-cancerous-single-cells-by-detecting-its-pH.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 54
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Machine Learning Helps Identify Cancerous Cells by Measuring Their pH"
     excerpt: "A new method of machine learning has been developed to determine whether a single cell is cancerous by detecting its pH."
     publishedDateTime: 2021-03-18T12:00:00Z
