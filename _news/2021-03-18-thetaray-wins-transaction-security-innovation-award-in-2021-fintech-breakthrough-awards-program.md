@@ -40,20 +40,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Cy Wins 2021 Best Robo Advisory Platform FinTech Breakthrough Award"
-    excerpt: "The FinTech Breakthrough Awards is the premier awards program founded ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim, Managing Director at JE.. Formula E Korea E-Prix 2020 Press Conference Rolls ..."
-    publishedDateTime: 2021-03-16T11:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=437708"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Vesta Named \"Best Financial Transaction Security Company\" in 2021 By FinTech Breakthrough Awards Program"
     excerpt: "has been selected as winner of the \"Best Financial Transaction Security Company\" award in the fifth annual FinTech Breakthrough Awards program. Vesta provides an end-to-end solution using machine learning to detect and avert online fraud, including account ..."
     publishedDateTime: 2021-03-16T15:00:00Z

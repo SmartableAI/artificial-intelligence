@@ -9,7 +9,7 @@ ampWebUrl: "https://observer.com/2021/03/artificial-intelligence-predicting-covi
 cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/amp/"
 type: article
 quality: 65
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "FDA authorizes first machine learning-based COVID-19 non-diagnostic screening device"
+    excerpt: "Today, the U.S. Food and Drug Administration issued an emergency use authorization (EUA) for the first machine learning-based Coronavirus Disease 2019 (COVID-19) non-diagnostic screening device that identifies certain biomarkers that are indicative of some ..."
+    publishedDateTime: 2021-03-21T02:43:00Z
+    webUrl: "https://www.news-medical.net/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 52
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hospital-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Machine Learning System Predicts Severe COVID-19"
     excerpt: "An advanced machine learning system can accurately predict the risk of a patient's COVID-19 advancing to severe disease or death, say researchers."
     publishedDateTime: 2021-03-18T11:00:00Z

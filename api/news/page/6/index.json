@@ -2,48 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-03-15-israels-dreamed-yale-team-up-on-ai-diabetes-monitoring.md",
-      "title": "Israel's DreaMed, Yale team up on AI diabetes monitoring",
-      "excerpt": "Israeli medical software company DreaMed Diabetes said on Monday it was partnering with Yale New Haven Health System to use artificial intelligence (AI) in monitoring insulin and glucose levels in children with Type 1 diabetes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3",
-      "originalUrl": "https://www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/israels-dreamed-yale-team-up-on-ai-diabetes-monitoring-2021-3?amp",
-      "publishedDateTime": "2021-03-15T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-15-eight-ways-companies-can-leverage-ai-in-content-marketing.md",
       "title": "Eight Ways Companies Can Leverage AI In Content Marketing",
       "excerpt": "While AI hasn't yet fully developed the creative intelligence to build content from scratch, it still offers enterprises a way to improve their content marketing. Insights generated from data as well as openly sourced information from the wider internet ...",
@@ -809,6 +767,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-skt-kakao-to-cooperate-in-ai-esg-intellectual-property.md",
+      "title": "SKT, Kakao to cooperate in AI, ESG, intellectual property",
+      "excerpt": "By Kim Bo-eun SK Telecom and Kakao unveiled a partnership Sunday to co-develop technology in artificial intelligence (AI) and create a fund for environmental, social and governanc",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html?fl",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/03/133_305474.html?fl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ston.koreatimes.co.kr/web/IMAGE/upload/newsV2/images/202103/efbd269de16c42fdac94df0d9901d5fe.jpg",
+          "width": 980,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-14T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },

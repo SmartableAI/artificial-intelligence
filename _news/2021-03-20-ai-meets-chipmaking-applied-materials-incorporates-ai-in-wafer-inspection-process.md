@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Applied Materials tools use AI to catch mistakes on chips"
-    excerpt: "A new semiconductor manufacturing technology from Applied Materials uses artificial intelligence, or AI, to spot mistakes in chips more effectively, the U.S. company said on Tuesday."
-    publishedDateTime: 2021-03-16T10:41:00Z
-    webUrl: "https://www.reuters.com/article/applied-tech/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips-idUSL1N2LA2CC"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B81JO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B81JO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555065077&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0VB"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Applied Materials brings AI and big data into semiconductor inspection machines"
     excerpt: "Applied Materials has launched a new generation of optical semiconductor wafer inspection machines that incorporate AI."
     publishedDateTime: 2021-03-16T11:30:00Z

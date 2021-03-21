@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-applicatio
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/amp/"
 type: article
 quality: 71
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -101,20 +101,6 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Critical evaluation of deep neural networks for wrist fracture detection | Scientific Reports"
-    excerpt: "Wrist Fracture is the most common type of fracture with a high incidence rate. Conventional radiography (i.e. X-ray imaging) is used for wrist fracture detection routinely, but occasionally fracture delineation poses issues and an additional confirmation by computed tomography (CT) is needed for diagnosis."
-    publishedDateTime: 2021-03-16T10:58:03Z
-    webUrl: "https://www.nature.com/articles/s41598-021-85570-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 28
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-85570-2/MediaObjects/41598_2021_85570_Fig2_HTML.png"
-        width: 685
-        height: 343
         isCached: true
   - title: "Assessment of medication self-administration using artificial intelligence | Nature Medicine"
     excerpt: "Errors in medication self-administration (MSA) lead to poor treatment adherence, increased hospitalizations and higher healthcare costs. These errors are particularly common when"

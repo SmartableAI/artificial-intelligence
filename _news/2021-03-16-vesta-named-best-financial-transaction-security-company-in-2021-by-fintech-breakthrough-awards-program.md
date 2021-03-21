@@ -54,20 +54,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Cy Wins 2021 Best Robo Advisory Platform FinTech Breakthrough Award"
-    excerpt: "The FinTech Breakthrough Awards is the premier awards program founded ... Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim, Managing Director at JE.. Formula E Korea E-Prix 2020 Press Conference Rolls ..."
-    publishedDateTime: 2021-03-16T11:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=437708"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "PayNearMe Named \"Best Consumer Payment Platform\" 2 Years Running by FinTech Breakthrough"
     excerpt: "PayNearMe, the modern and reliable payments platform known for making payments easy for both businesses and customers, has been named \"Best Consumer Payment Platform\" for the second year in a row by FinTech Breakthrough,"
     publishedDateTime: 2021-03-17T12:08:00Z

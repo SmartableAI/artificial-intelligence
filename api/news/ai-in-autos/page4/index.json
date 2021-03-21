@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-02-22-heres-what-artificial-intelligence-will-look-like-in-2030.md",
-      "title": "Here’s What Artificial Intelligence Will Look Like in 2030",
-      "excerpt": "Artificial intelligence and robotics are coming into ... There is a lot of argument right now concerning driverless cars, about how Google has programmed an algorithm to hit a building before ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030",
-      "originalUrl": "https://futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://futurism.com/wp-content/uploads/2016/10/ai-600x315.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030/amp",
-      "publishedDateTime": "2021-02-21T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-02-21-a-set-of-jupyter-notebooks-to-analyze-the-performance-of-a-deepracer-model.md",
       "title": "A set of Jupyter notebooks to analyze the performance of a DeepRacer model.",
       "excerpt": "This is a set of notebooks and utilities to enable analysis of logs for AWS DeepRacer. This project is a redo of analysis solutions provided in the AWS DeepRacer Workshops repository. There are a few motivations leading a decision to reorganise the ...",
@@ -1412,6 +1368,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-self-driving-cars-wont-go-mainstream-until-we-solve-this-problem.md",
+      "title": "Self-Driving Cars Won’t Go Mainstream Until We Solve This Problem",
+      "excerpt": "There’s a major controversy that needs to be addressed before we can let our cars do all the driving for us, and it’s not a technical one. It’s ethical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60269ee58ebec1fae0b0c3cb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/",
+      "publishedDateTime": "2021-02-13T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

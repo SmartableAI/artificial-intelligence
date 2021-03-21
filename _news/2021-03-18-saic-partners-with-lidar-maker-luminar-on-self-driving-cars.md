@@ -87,22 +87,6 @@ related:
         width: 921
         height: 518
         isCached: true
-  - title: "This Rhodes College student and his business are working to improve self-driving cars"
-    excerpt: "A Rhodes College student’s company aims to make self-driving cars see the world better. As autonomous vehicle technology advances, people are raising concerns about the safety of cars driven without a human behind the wheel. Cinilope, the Memphis-based ..."
-    publishedDateTime: 2021-03-16T11:00:00Z
-    webUrl: "https://www.commercialappeal.com/story/money/2021/03/16/self-driving-cars-technology-cinilope-memphis-rhodes-college/6834196002/"
-    ampWebUrl: "https://amp.commercialappeal.com/amp/6834196002"
-    cdnAmpWebUrl: "https://amp-commercialappeal-com.cdn.ampproject.org/c/s/amp.commercialappeal.com/amp/6834196002"
-    type: article
-    provider:
-      name: Commercial Appeal
-      domain: commercialappeal.com
-    quality: 37
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/11/PMCA/02a403b6-4831-45f0-9de1-ea8dde8b7868-BK1I9641.jpg?auto=webp&crop=4817,2710,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Cruise Automation acquires Voyage to further self-driving car goals"
     excerpt: "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,"
     publishedDateTime: 2021-03-17T12:21:00Z

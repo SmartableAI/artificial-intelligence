@@ -41,6 +41,22 @@ related:
         width: 5878
         height: 3927
         isCached: true
+  - title: "FDA authorizes first machine learning-based COVID-19 non-diagnostic screening device"
+    excerpt: "Today, the U.S. Food and Drug Administration issued an emergency use authorization (EUA) for the first machine learning-based Coronavirus Disease 2019 (COVID-19) non-diagnostic screening device that identifies certain biomarkers that are indicative of some ..."
+    publishedDateTime: 2021-03-21T02:43:00Z
+    webUrl: "https://www.news-medical.net/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 52
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hospital-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
     excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
     publishedDateTime: 2021-03-18T18:33:00Z

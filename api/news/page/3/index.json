@@ -960,58 +960,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-17-another-self-driving-startup-got-gobbled-up-by-incumbents.md",
-      "title": "Another self-driving startup got gobbled up by incumbents",
-      "excerpt": "I wrote about reports that Cruise—a self-driving venture co-owned by GM and Honda—was on the verge of buying startup Voyage. Now it's official: Cruise is acquiring Voyage. Voyage's strategy was to launch its first self-driving taxi service at the Villages,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2021/03/self-driving-startup-voyage-gets-acquired-by-gm-and-hondas-cruise/",
-      "originalUrl": "https://arstechnica.com/cars/2021/03/self-driving-startup-voyage-gets-acquired-by-gm-and-hondas-cruise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/kyle_and_oliver-760x380.jpeg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-17-yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation.md",
       "title": "Yseop Launches ALIX, an Application That Instantly Shows the Power of AI Automation for Report Creation",
       "excerpt": "Press Release Yseop, a pioneer in Natural Language Generation (NLG) and world-leading AI software company, today announced the launch of ALIX, an immediate discovery application to showcase how quickly and easily financial institutions can transform and grow",
@@ -1020,7 +968,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -1207,6 +1155,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-microsoft-amazon-must-face-facial-recognition-data-suits.md",
+      "title": "Microsoft, Amazon must face facial recognition data suits",
+      "excerpt": "A Washington federal judge has ruled on motions to dismiss two nearly identical lawsuits against Amazon.com Inc and Microsoft Corp, rejecting the companies' bids to scrap an Illinois biometric privacy claim while asking for additional briefings before ruling on two",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
+      "originalUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LE215",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE215",
+      "publishedDateTime": "2021-03-16T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],
