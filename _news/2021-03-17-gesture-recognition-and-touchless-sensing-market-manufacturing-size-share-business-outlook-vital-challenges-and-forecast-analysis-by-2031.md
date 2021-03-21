@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive System and Artificial Intelligence Systems Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2031"
+    excerpt: "The major vendors covered: IDEAL.com, SAP, Ipsoft, Intel, Google, IBM, Wipro, Albert Technologies, Megvii Technology, Astute Solutions, Ada Support, IFlyTek, Microsoft ... financial services and various challenges faced by Cognitive System and Artificial ..."
+    publishedDateTime: 2021-03-21T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-and-artificial-intelligence-systems-market-2021-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2031-2021-03-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "J/9Eu4cxi5/lgRe2wyBAJ2Rl8aZxLtvMTpxOSx567TSUwfcs90aHy9oKF59hE8jTP+QbsqcXhLODksle2d1fzgIGi3lEwb7ccHdWCRcV/cxFm3WFxtGRrN8Ca/0aQlT5Xd7v0Kd3WwEm2A3a6iuN9wkR6cpHbUF8sfnFiYFVnG0a8NgyB2RS9YcA8uSm1u/R0ei13TjnHydKDOviLZGYfoHkN5Qzynp/DyODKSuRd0LmqT/IJlz5HEjT69lGcWxZail+wAACmwohh/mA+fmxoOOA/1r+rdWW3U0Hqb8Wq6E/82r6BjVmPDUGyPvy6HysGQOfVvoHY8od2Pj3FIWQYxnjotzDjk9S9m8Wb8wrwRE=;+mjLljV952ix41+UlAmv2g=="
 ---

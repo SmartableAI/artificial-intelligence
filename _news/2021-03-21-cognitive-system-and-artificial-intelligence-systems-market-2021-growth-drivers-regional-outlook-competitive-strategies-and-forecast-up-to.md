@@ -1,0 +1,63 @@
+---
+category: news
+title: "Cognitive System and Artificial Intelligence Systems Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2031"
+excerpt: "The major vendors covered: IDEAL.com, SAP, Ipsoft, Intel, Google, IBM, Wipro, Albert Technologies, Megvii Technology, Astute Solutions, Ada Support, IFlyTek, Microsoft ... financial services and various challenges faced by Cognitive System and Artificial ..."
+publishedDateTime: 2021-03-21T07:03:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cognitive-system-and-artificial-intelligence-systems-market-2021-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2031-2021-03-21"
+webUrl: "https://www.marketwatch.com/press-release/cognitive-system-and-artificial-intelligence-systems-market-2021-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2031-2021-03-21"
+type: article
+quality: 32
+heat: -1
+published: false
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "AI In Asset Management Market Business Analysis, Competitors, Regional Analysis Demographics and Forecast To 2027"
+    excerpt: "Moreover, in the business-to-business domain, fintech organizations offer the end user industries a wide range of AI supported advisor services to make automated investments which expected to propel the market growth during this forecast period."
+    publishedDateTime: 2021-03-17T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-asset-management-market-business-analysis-competitors-regional-analysis-demographics-and-forecast-to-2027-2021-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Gesture Recognition and Touchless Sensing Market Manufacturing Size, Share, Business Outlook, Vital Challenges and Forecast Analysis by 2031"
+    excerpt: "The New Report Gesture Recognition and Touchless Sensing Market posted through MarketResearch.Biz, covers the market panorama and its growth possibilities"
+    publishedDateTime: 2021-03-17T07:43:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/gesture-recognition-and-touchless-sensing-market-manufacturing-size-share-business-outlook-vital-challenges-and-forecast/article_19487998-753a-5b34-b31b-6c144ce3fee9.html"
+    type: article
+    provider:
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 0
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "334GJz6UC/NaRzlL7YZ6dAhNT2Sj3WqjVQ1o7h14dib0HhXyKf+xunze5eLyKDH29QawZF/13ammqdYwjDra1vfO/wZzpbuzBN6WKujxPGYuAMkCpPFjO85y6btHiGcmAWsVvAskfxc+dbyp85m+5u4Bt2MHisGDkwTRBpITRrsDJQxOUdPi907bBIbW2TuiTN0TeF/ri+2/wo0EZPMWAQ/+X7tzEVAG0ftFDYSRzUlYCeStpm8Fh01DLWlDkhQgAvmmL6BbxCQOyInPONV0P6RpkLFpCCDZxb9oP0+Hy9jP4v0JibKPEsy+1BlmOmtSG6m8vASONckXoiVP2TMVMYGbb4E4XoPe9DFWtamI/S8=;atEkBbM1jJ1FnQSn3yqi3g=="
+---
+

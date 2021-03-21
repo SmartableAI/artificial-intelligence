@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-a
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
 type: article
 quality: 89
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -89,22 +89,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/solvingbarre.jpg"
         width: 700
         height: 470
-        isCached: true
-  - title: "Quantum Computing and Reinforcement Learning Are Joining Forces to Make Faster AI"
-    excerpt: "Although only challenged with a “toy problem” in the study, once scaled the AI could impact real-world problems like building an efficient quantum internet."
-    publishedDateTime: 2021-03-16T14:00:00Z
-    webUrl: "https://singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/"
-    ampWebUrl: "https://singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/amp/"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/03/16/quantum-computing-and-reinforcement-learning-are-joining-forces-to-make-faster-ai/amp/"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 54
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/01/abstract-4626114_1280-AI.jpg"
-        width: 1068
-        height: 601
         isCached: true
   - title: "Examining the bias in artificial intelligence..."
     excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

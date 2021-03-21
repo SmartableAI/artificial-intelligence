@@ -85,6 +85,20 @@ related:
         width: 1920
         height: 1440
         isCached: true
+  - title: "Provation and Iterative Scopes Announce Exclusive AI Partnership"
+    excerpt: "Provation and Iterative Scopes announced today an exclusive partnership, bringing together the premier clinical productivity and gastroenterology (GI) documentation software provider with a leading startup in Artificial Intelligence (AI) for precision GI."
+    publishedDateTime: 2021-03-17T16:42:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-north-america-software-industry-350185000884b976fc1605c4b383b12d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Technique based on artificial intelligence permits automation of crop seed analysis"
     excerpt: "Developed by researchers at the University of São Paulo, the non-invasive methodology facilitates identification of immature or poor-quality seeds without destroying them or creating residues."
     publishedDateTime: 2021-03-19T15:57:00Z

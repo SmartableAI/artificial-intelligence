@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210317/AI-based-technique-de
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210317/AI-based-technique-determines-cancer-cells-by-their-acidity.aspx"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: News Medical
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning can identify cancerous cells by their acidity"
-    excerpt: "Cancerous cells exhibit several key differences from healthy cells that help identify them as dangerous. For instance, the pH—the level of acidity—within a cancerous cell is not the same as the pH within a healthy cell."
-    publishedDateTime: 2021-03-16T15:01:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/19-machinelearn.jpg"
-        width: 1536
-        height: 864
-        isCached: true
   - title: "Machine learning approach can identify cancerous single cells by detecting its pH"
     excerpt: "Cancerous cells exhibit several key differences from healthy cells that help identify them as dangerous. For instance, the pH -- the level of acidity -- within a cancerous cell is not the same as the pH within a healthy cell."
     publishedDateTime: 2021-03-17T00:40:00Z

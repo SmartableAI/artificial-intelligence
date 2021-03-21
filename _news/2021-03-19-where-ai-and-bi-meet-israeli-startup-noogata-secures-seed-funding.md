@@ -42,20 +42,6 @@ related:
         width: 1536
         height: 1156
         isCached: true
-  - title: "Team8 Leads Financing Round In AI Enterprise Platform Noogata"
-    excerpt: "Noogata is the first company established within the framework of Team8 that does not deal with cybersecurity and privacy."
-    publishedDateTime: 2021-03-16T14:15:00Z
-    webUrl: "https://nocamels.com/2021/03/team8-seed-ai-enteprise-platform-noogata/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 37
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/03/Noogata-Full-Team_Credit_-Nelli-Guy-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "7jwB3oy/FQl6J/8UJvZXiO0sZtzouhelDgy3BpnkvvtcJkPTR3QUFPhfMn1tVJla9iwGmIcsYQpmYToImx8ysQmd/tI21GJN+02aJU51CRzoFY2HVwXLP8nWgCmY71Qj7zBoN+H5bQMiUcJ/EBrIwH5XoqslMrGu3Zs5SlxxTW/Gz0AI59h0E52hIwjsMKN9GXNytWeU42XSpZURh0AkS9HobmsjUf38RhDztj3SQhgDZs1+9Wc50MPF6yWzBdLdrvia6RTItygtKT8PyBQ6BvtBuZef7n63Po4t0dLhULLLRbi+0Glwvc6uhVRXQ9o2BuOMG22uoOpt9DSz55M14ltXdI3mTG6s09rxAVFLvnBSB82TtJ3CjzJYKh+SY9dfW23qmAZa61+3TeM3joRc+7WtcD4RV9ijIH+hY8y8DDpdCNLChjNeXZZxNX/vobfXY8ut8Nje16u9xt2h3wLVQ7VspBqArr5hEIBWL2BFtxr4Z9h+XjSsBrobTg93UmYqIa4QIuwZKhi2NGXnF/OA7A==;4v3PAqHsrg73AdtPR0pHTg=="
 ---

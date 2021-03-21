@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Feedzai Fairband: World's most advanced framework for AI fairness"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2021-03-17T08:19:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
+title: "Feedzai Fairband: World’s most advanced framework for AI fairness"
+excerpt: "Particularly in the fintech industry, there’s a risk that AI systems deny access to financial services disproportionately across people from different groups, based on race, age, place of residence, profession, or employment status. Access to banking ..."
+publishedDateTime: 2021-03-17T08:07:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AI enables privacy and fairness"
@@ -43,6 +49,6 @@ related:
       domain: finanznachrichten.de
     quality: 19
 
-secured: "x5nZUZNp/8CWgwR4265BlKIIi7T20PoiL/fH1K4i13TEoFSPoCjwN1bX3jppKqjlu/Lwf97iXkeCXAlW6e1QnjFZFX2Oiivh5zZ79Vq9sTRj7cFIQUGK++Imk9r4QT2/e9FB+wYelXg7xITDytRMH/EVDpCNzTdiQI8iA0PAut3qyfeUYzSUBXFoLEpn/IJm2F4LGK6ucGKe+wfC2/+cNlqFyrNo2US3wkODULUo5zsC7FPeS/qabZ8bv9Yr7xfXO7H9TnWFE5eTEcwjnLMaDYoYeMZJkQ+09ZU1jYkLdAa3oS3wcOxYQVdvkDJafhFndmNgCA3Oxl97P0jHHyzt/ecB0ccvdvftdQC3TCSX9l8=;g5dXO36JBz22SsnQGJeLOA=="
+secured: "lw7itnxPjcJF3OHprnyCWhsohOq8LhgsItpGPT2MZJnbgHoTiZkFNFTxm4P+SWK3ht9yLdGqpehRYZJP5AKqv/IEoHkudx0z5xGNzWkRccuxBgEPMzH3immuR618SRSdXr5/Qs0kGp3ySgDXFwPXJHjbibSewGhZ21SdLpI8bkJl1XLl3eYiMVEc7cDTSljseW3uOY76omclWJmh5G/idDAoggXOAMA21pijVEANgAYhesueHGxl6QgITxMyI2fJcduLFJ6f73fPBlUKKvurBKLFVJTMtNvPKGGa5DVjdVrkkSfU1VAfSG+2veof32pA+P3dz2c4/Xyr8xQM1hzqEsp1FnTISL3SQD0cpXSOY6s=;lsK3Jn4nwVw0CXltIAsa1A=="
 ---
 

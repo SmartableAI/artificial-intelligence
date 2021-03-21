@@ -24,17 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Tiberium Announces FROST & MYTHIC – Managed security services using automation, powered by Azure Sentinel and ‘AI Bots’"
-    excerpt: "Cybersecurity innovator Tiberium launched two Microsoft based services last week leveraging Azure Sentinel and Microsoft Defender. Founded by Kiwi, Dr"
-    publishedDateTime: 2021-03-16T15:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210316005173/en/Tiberium-Announces-FROST-MYTHIC-–-Managed-security-services-using-automation-powered-by-Azure-Sentinel-and-‘AI-Bots’"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-
 secured: "tF4ug+cRAJ0yQTymfVHYLVbhFeg0qNEEd44nmntdRLuFS4KsTxPy/n2mWI5lsh2WqYXPzJ5YQfa8L8d7YbgrZJz7ipvaDf2SZttpi6xcBSnHwox6ok7wWlGO8HO5MNmZHI/lnzd6o8Suo00as9qY7Ho0w5aWoUyXujcpaCEBweeRJi1z8ldQF+VfnD5mawT50q7HV3xgdDZVk1bKtVjyrMNmMNHvUfiGNj0eGKPOKSSqsbOGyVf98KAEYeZ3o52H9BEz8NWqYliRH/DGrs4H5QUulifVZPENGKqQk5biLpXFmnKcdBFjpVrdStHXOMdzoOp0F3gUkC0/mhktMeZfQDZ0HGERXng94hfLlgVpu6A=;3Dkhf5KAVpaAseS5tNyxwQ=="
 ---
 

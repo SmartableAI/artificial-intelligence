@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Vesta Named \"Best Financial Transaction Security Company\" in 2021 By FinTech Breakthrough Awards Program"
-    excerpt: "has been selected as winner of the \"Best Financial Transaction Security Company\" award in the fifth annual FinTech Breakthrough Awards program. Vesta provides an end-to-end solution using machine learning to detect and avert online fraud, including account ..."
-    publishedDateTime: 2021-03-16T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vesta-named-best-financial-transaction-security-company-in-2021-by-fintech-breakthrough-awards-program/article_cc41f8f3-6152-5502-b45b-ad758e9ae16b.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Sensibill Recognized by FinTech Breakthrough Awards Program for “Personal Finance Innovation Award”"
     excerpt: "About FinTech Breakthrough Part of Tech Breakthrough ... with personalized insights to help their customers build healthier financial habits. The AI-powered platform enables end-users to easily track spending and manage their finances while unlocking ..."
     publishedDateTime: 2021-03-16T17:03:00Z

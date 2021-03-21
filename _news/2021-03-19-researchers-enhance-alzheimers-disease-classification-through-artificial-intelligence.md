@@ -22,22 +22,6 @@ topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "Artificial Intelligence Boosts Alzheimer’s Disease Classification"
-    excerpt: "An artificial intelligence framework could help providers classify Alzheimer's disease with enhanced accuracy, potentially leading to earlier treatment."
-    publishedDateTime: 2021-03-16T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-boosts-alzheimers-disease-classification"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png"
-        width: 690
-        height: 400
-        isCached: true
-
 secured: "zrsNkHARsQcGMThN6AuYNB308pvwB+Mve7kfsY23eeV1lZ4T0gl/L5lda9Nhm08Zvj37JRc48G/MCzaEuE5a6X45y7iby74TmXfZedLSjV9DRes2aSqitJ2ZhVWCHm9xyT2n5grCaDRhJMUBdyYl53OCGF76UU1DfYmqFqLyeElwK+QPleDTLRjzTo1CdKKKUMB22O8tiIjPxWdHFQFOSBQtHLb7WUO7pwCbWhRySpkLD4DyTD2ggunL7s7D7ez6KQcsZXcsYn8fn5RhUBsAIoaHrxMyOdBfw8DegIHbya/tkG0XdDW+eqvvhXwgviFLfIx25UsU73GhkULBMpjD5y7/nHsAPIeEvck8BTp6lO4=;am6uFDgud7qutiwkr5F8Ag=="
 ---
 

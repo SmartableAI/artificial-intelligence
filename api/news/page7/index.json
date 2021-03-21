@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-14-items-filtered-by-date-march-2021.md",
+      "title": "Items filtered by date: March 2021",
+      "excerpt": "Together, Telefónica and Microsoft will expand the use of Azure Cognitive Services for customer engagement and business processes, create new AI-powered, in-home experiences for customers, and explore the use of intelligent technologies to transform the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4464&start=6042",
+      "originalUrl": "https://www.thefastmode.com/date?limit=3&limitstart=4464&start=6042",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-13T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-companies-are-adopting-ai-for-supplier-negotiations-but-which-ones-should-the-machines-handle.md",
       "title": "Companies Are Adopting AI For Supplier Negotiations, But Which Ones Should The Machines Handle?",
       "excerpt": "Enterprise AI is moving to new domains such as negotiating. There are some distinct advantages in machines being able to negotiate.",
@@ -1209,57 +1243,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-servicenow-adds-new-ai-and-low-code-development-features.md",
-      "title": "ServiceNow adds new AI and low-code development features",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Enterprise cloud-based solutions provider ServiceNow today launched its Now Platform Quebec release ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/11/servicenow-adds-new-ai-and-low-code-development-features/",
-      "originalUrl": "https://venturebeat.com/2021/03/11/servicenow-adds-new-ai-and-low-code-development-features/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2012/12/servicenow-ipo.jpg?w=1200&strip=all",
-          "width": 640,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/11/servicenow-adds-new-ai-and-low-code-development-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/servicenow-adds-new-ai-and-low-code-development-features/amp/",
-      "publishedDateTime": "2021-03-11T14:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

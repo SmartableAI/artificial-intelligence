@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Researchers enhance quantum machine learning algorithms"
-    excerpt: "... infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications. Their findings were published in Scientific Reports. The work could help build ..."
-    publishedDateTime: 2021-03-16T13:59:00Z
-    webUrl: "https://phys.org/news/2021-03-quantum-machine-algorithms.html"
-    ampWebUrl: "https://phys.org/news/2021-03-quantum-machine-algorithms.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-quantum-machine-algorithms.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/11-researcherse.jpg"
-        width: 711
-        height: 424
-        isCached: true
-  - title: "Researchers enhance quantum machine learning algorithms"
     excerpt: "Researchers found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications."
     publishedDateTime: 2021-03-17T21:53:00Z
     webUrl: "https://www.sciencedaily.com/releases/2021/03/210316112244.htm"
