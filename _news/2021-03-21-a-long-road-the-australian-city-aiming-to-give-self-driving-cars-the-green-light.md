@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "China's SAIC partners with U.S. lidar maker Luminar on self-driving cars"
-    excerpt: "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies."
-    publishedDateTime: 2021-03-18T16:49:00Z
-    webUrl: "https://www.reuters.com/article/us-luminar-saic-idUSKBN2BA1DO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BA1DO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BA1DO"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 88
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210318&t=2&i=1555336019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2H0RJ"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Bring Your Own Algorithm (BYOA) For Self-Driving Cars Is Not As Crazy As It Might Seem"
     excerpt: "Latest trend is BYOA (Bring Your Own Algorithm) which can be applied astutely to self-driving cars, surprisingly so."
     publishedDateTime: 2021-03-18T15:30:00Z

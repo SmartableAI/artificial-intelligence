@@ -8,8 +8,8 @@ webUrl: "https://www.computerworld.com/article/3612209/oztech-job-support-for-vi
 ampWebUrl: "https://www.computerworld.com/article/3612209/oztech-job-support-for-victorians-nsw-names-ai-advisors-researchers-get-early-access-to-pawsey-supe.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3612209/oztech-job-support-for-victorians-nsw-names-ai-advisors-researchers-get-early-access-to-pawsey-supe.amp.html"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.idgesg.net/images/article/2021/02/oztech-roundup-100876243-large.jpg"
