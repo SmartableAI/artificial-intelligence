@@ -1,23 +1,27 @@
 ---
 category: news
-title: "California county to add artificial intelligence for fires | Raleigh News & Observer"
-excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
-publishedDateTime: 2021-03-17T20:35:00Z
-originalUrl: "https://www.newsobserver.com/news/technology/article250012519.html"
-webUrl: "https://www.newsobserver.com/news/technology/article250012519.html"
-ampWebUrl: "https://amp.newsobserver.com/news/technology/article250012519.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article250012519.html"
+title: "Sonoma county to use artificial intelligence against fires"
+excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will"
+publishedDateTime: 2021-03-17T22:07:00Z
+originalUrl: "https://apnews.com/article/technology-fires-california-wildfires-artificial-intelligence-bf220a3dd2704815138d40dd3aa37db2"
+webUrl: "https://apnews.com/article/technology-fires-california-wildfires-artificial-intelligence-bf220a3dd2704815138d40dd3aa37db2"
 type: article
-quality: 30
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://storage.googleapis.com/afs-prod/media/10718d1c2ef04a87873c930e52387856/3000.jpeg"
+    width: 3000
+    height: 1959
+    isCached: true
 
 related:
   - title: "Sonoma County to add artificial intelligence for fires"
@@ -84,20 +88,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Sonoma county to use artificial intelligence against fires"
-    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will"
-    publishedDateTime: 2021-03-17T22:07:00Z
-    webUrl: "https://apnews.com/article/technology-fires-california-wildfires-artificial-intelligence-bf220a3dd2704815138d40dd3aa37db2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 52
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/10718d1c2ef04a87873c930e52387856/3000.jpeg"
-        width: 3000
-        height: 1959
-        isCached: true
   - title: "Sonoma County turns to artificial intelligence for help spotting wildfires with lookout cameras"
     excerpt: "Technology will allow the network of cameras to home in on suspected wildfires and provide alerts even when no one is watching."
     publishedDateTime: 2021-03-18T02:19:00Z
@@ -156,7 +146,18 @@ related:
         width: 938
         height: 483
         isCached: true
+  - title: "California county to add artificial intelligence for fires | Raleigh News & Observer"
+    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
+    publishedDateTime: 2021-03-17T20:35:00Z
+    webUrl: "https://www.newsobserver.com/news/technology/article250012519.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/technology/article250012519.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article250012519.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 30
 
-secured: "FPjtEUwYQtJIS3K6P4M0kSzoeOZOlplrKKyGiEjFY78z2LvKAqE8M61hnhQR3n3s/Zx1hOUPdxOnVw4OLzyR/SxALUkficjlkGwnV+WZMsRPJcyBD7/k6Yk1bMOzC+Vhi98y41ybSIuoILpklW6QugUbGhxI9xkM4+ikDit5yUdeTe7zIk5klmQMru5598UawJ9QTYhHtLXtrfDy5ynh4vhWzev1IUvZ6DqgzRYHkxlqjW0B9LhqAA9aTa3RaOzaINro/uJg6IhPMSzJTmYHAatMxLtB7Rx9Xfn/xLezofRKcosBDnzIk75JJdSdQCKIu6jtiIPZDB4MGYAOQ2xPZhJub+Lj2X9UgvytNvRUm2CJcLH4RM39LaL4MmvKhhKvURfW7kxXwTH/v7TC+AUD3vkziVfKjsyAEf01GjuUyAAAWjoYNBMYH+Pc90s1CoAX5iNBr92rkJNHLozaLiGBHELD3EOcD7DL46j2+xBJk9fJlenVtjeeCI4mK/XxQxAizWvpw+JeOclpYAs0ePvu5w==;+rsyrgpZcNmJEfvT83OSQw=="
+secured: "GtUTuvq8qjWMz1XMy4m95GHp34WGDIRNHh1zwRAkmFtZEMfGZNEkaxVRKaRPhEv4nbTAlJnkpbjF+/36dQbJQxLDPRirdowuKm+zcptom1bdy4eTWR0SaieBBgA9fewkxGDSGoGnDPHucfzvIiT4LQZTCbJwyrygGIjZIRyvQC8sxWX305WtruvH9f3qWobpfyie0V4QaIU/nreAgXx0cRuW3W08Z5Xkx2iwmTPJA1BIn42jbEX9CjrKUWAFlerPdDdFy2VDT2wRCjOUObWstoo+XU7bmVyGibpDRhwEulQEhmKVGRH5NzNT0Y054CTmGjQq7+s5I/C/1ga6hzwqLKn4E0ecFB3YwtYsxALYPQc=;xLkrwXUoDZBlqMGkWBBz2g=="
 ---
 

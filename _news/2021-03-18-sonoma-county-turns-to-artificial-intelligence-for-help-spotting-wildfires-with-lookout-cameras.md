@@ -90,6 +90,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Sonoma county to use artificial intelligence against fires"
+    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will"
+    publishedDateTime: 2021-03-17T22:07:00Z
+    webUrl: "https://apnews.com/article/technology-fires-california-wildfires-artificial-intelligence-bf220a3dd2704815138d40dd3aa37db2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/10718d1c2ef04a87873c930e52387856/3000.jpeg"
+        width: 3000
+        height: 1959
+        isCached: true
   - title: "Sonoma County Selects Alchera for AI-Based Wildfire Detection"
     excerpt: "SEOUL, South Korea, March 17, 2021 /PRNewswire/ -- Korea’s leading visual recognition AI firm, Alchera Inc. (Kosdaq:347860), today announced that has been formally selected by California’s Sonoma County to provide early warning alerts of pending ..."
     publishedDateTime: 2021-03-17T13:16:00Z

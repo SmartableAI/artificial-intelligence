@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit
 webUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-to-2025-2021-03-17"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI In Asset Management Market Business Analysis, Competitors, Regional Analysis Demographics and Forecast To 2027"
+    excerpt: "Moreover, in the business-to-business domain, fintech organizations offer the end user industries a wide range of AI supported advisor services to make automated investments which expected to propel the market growth during this forecast period."
+    publishedDateTime: 2021-03-17T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-asset-management-market-business-analysis-competitors-regional-analysis-demographics-and-forecast-to-2027-2021-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Gesture Recognition and Touchless Sensing Market Manufacturing Size, Share, Business Outlook, Vital Challenges and Forecast Analysis by 2031"
     excerpt: "The New Report Gesture Recognition and Touchless Sensing Market posted through MarketResearch.Biz, covers the market panorama and its growth possibilities"
     publishedDateTime: 2021-03-17T07:43:00Z

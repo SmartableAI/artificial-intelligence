@@ -74,6 +74,20 @@ related:
         width: 1280
         height: 897
         isCached: true
+  - title: "Sonoma county to use artificial intelligence against fires"
+    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will"
+    publishedDateTime: 2021-03-17T22:07:00Z
+    webUrl: "https://apnews.com/article/technology-fires-california-wildfires-artificial-intelligence-bf220a3dd2704815138d40dd3aa37db2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 52
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/10718d1c2ef04a87873c930e52387856/3000.jpeg"
+        width: 3000
+        height: 1959
+        isCached: true
   - title: "Sonoma County turns to artificial intelligence for help spotting wildfires with lookout cameras"
     excerpt: "Technology will allow the network of cameras to home in on suspected wildfires and provide alerts even when no one is watching."
     publishedDateTime: 2021-03-18T02:19:00Z

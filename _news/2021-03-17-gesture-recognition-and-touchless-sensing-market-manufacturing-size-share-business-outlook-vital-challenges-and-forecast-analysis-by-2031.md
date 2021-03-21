@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI In Asset Management Market Business Analysis, Competitors, Regional Analysis Demographics and Forecast To 2027"
+    excerpt: "Moreover, in the business-to-business domain, fintech organizations offer the end user industries a wide range of AI supported advisor services to make automated investments which expected to propel the market growth during this forecast period."
+    publishedDateTime: 2021-03-17T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-asset-management-market-business-analysis-competitors-regional-analysis-demographics-and-forecast-to-2027-2021-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Graphics Processing Unit (GPU) Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast to 2025"
     excerpt: "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products.-As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ..."
     publishedDateTime: 2021-03-17T11:05:00Z
