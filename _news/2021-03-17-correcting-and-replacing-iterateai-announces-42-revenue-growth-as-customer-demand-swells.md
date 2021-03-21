@@ -52,34 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2021-03-17T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Intelligent Drug Discovery Market Demand, Growth, Trend, Business Opportunities, Manufacturers and Research Methodology by 2027"
-    excerpt: "The intelligent drug technology market is growing, and several pharmaceutical companies are focusing on the development of drugs using artificial intelligence ... to affect several facets of cancer therapy will affect the demand for the market."
-    publishedDateTime: 2021-03-16T18:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-drug-discovery-market-demand-growth-trend-business-opportunities-manufacturers-and-research-methodology-by-2027-2021-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "W579BzFd3ctUwb/dlbRXR6bjyp5YLao4toYYYbWcoqO9bAPFdK11P8k/j3Pzk8hYMmIBwp3U5OfTCt3BYi7sfRuO8C9D8FICatMxuSSX3zsT7BrD7Fkxgs5HLhPOf9IRmBwvppc/8LYj2zeLg75LYIri8zBOC7UKzuihhbrDo8D2sQGcvy4jIGjtEnrCqBtRne2yja3OK6E+J1vTvDcvxdYqeDwN9ArUefiNKh2lKJfZNHSJjAS+Ko6r2Psu4I7eXup121wDyu97SOkT6QXkm+Pp2WrGzCaVxyu6BTmate+3PoEYrOUnuMLdI+zICaehA/vEdBRpVDrkEE9F7siOs43Mh/Wx+KfueqAtmwQ0rE0=;+02tTxcOmu024J/9hK0kVA=="
 ---

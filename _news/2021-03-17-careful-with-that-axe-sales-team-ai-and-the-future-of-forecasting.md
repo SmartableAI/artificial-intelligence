@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-tha
 webUrl: "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Why the Future of Healthcare is Federated AI"
+    excerpt: "In this special guest feature, Akshay Sharma, Executive Vice President of Artificial Intelligence (AI) at Sharecare, highlights advancements and impact of federated AI and edge computing for the healthcare sector as it ensures data privacy and expands the ..."
+    publishedDateTime: 2021-03-16T13:01:00Z
+    webUrl: "https://insidebigdata.com/2021/03/16/why-the-future-of-healthcare-is-federated-ai/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 34
 
 secured: "H/yuW0ujnujLg5lULmWmZt2o2V66X90jy0e2Fo/PM3c6RthpItWDlW0MmXA6PyBpCJUqsQtUDaVXYh7mGNZBpXV93YuvvIzjp02+c/4yrLsRiCvSfduyD9zx4qFrmtsOmj5Z/uN4iB05pdWkBWUg4BqnkM6QukVfeFnSEyzGgMwQ3yWWRJLz9PoWNPNSGBflcCT/z+oGb/4jwC/QJWKgKXX4zPwmt/olDFHbzrdD5pPBn22SbAxHIBVJOQzVH8WxAQUytJI+L71qbcAHcMnw9wUn/Ug5CMmaooOM3A3m59xpCTP7gAntX2ur/Nkw4qeFpi4AZ+dtlyGKdWX3YnjvGJUjGy/rhtaMU4Jf1I692aU=;5gpCYNWtIwqXcYJOFNDtfQ=="
 ---

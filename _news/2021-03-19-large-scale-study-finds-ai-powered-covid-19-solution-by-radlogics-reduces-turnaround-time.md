@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/coda-lsf031921.php
 webUrl: "https://www.eurekalert.org/pub_releases/2021-03/coda-lsf031921.php"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -22,75 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AI and X-rays: Identifying the many faces of COVID-19"
-    excerpt: "A digital diagnostic tool that uses artificial intelligence and cloud computing to accurately read vast numbers of chest X-rays – faster than a radiologist can – is helping doctors identify, triage and monitor COVID-19 patients."
-    publishedDateTime: 2021-03-16T08:08:00Z
-    webUrl: "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying-the-many-faces-of-covid-19/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/02/Lunit_main-REsize-1600x1052.jpg"
-        width: 1600
-        height: 1052
-        isCached: true
-  - title: "Artificial Intelligence Is Predicting Future COVID-19 Strains, Developing Treatments"
-    excerpt: "Artificial intelligence in particular has emerged as a useful new tool to not only beat back the viral mutations, but to also stop them before they can spread at all. Some new strains of the COVID ..."
-    publishedDateTime: 2021-03-16T17:23:00Z
-    webUrl: "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/"
-    ampWebUrl: "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 65
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2021/03/GettyImages-1303550836.jpg?quality=80&strip"
-        width: 5878
-        height: 3927
-        isCached: true
-  - title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
-    excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
-    publishedDateTime: 2021-03-18T18:33:00Z
-    webUrl: "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 38
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/03/Vaccination_AI_b.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Artificial intelligence used to identify unique COVID-19 patterns in lungs"
-    excerpt: "The artificial neural network developed by Lawson Health Research Institute can detect COVID-19 patterns in lung scans that are not visible to the human eye."
-    publishedDateTime: 2021-03-19T14:52:00Z
-    webUrl: "https://blackburnnews.com/london/london-news/2021/03/19/artificial-intelligence-used-identify-unique-covid-19-patterns-lungs/"
-    type: article
-    provider:
-      name: Blackburn News
-      domain: blackburnnews.com
-    quality: 37
-    images:
-      - url: "https://blackburnnews.com/wp-content/uploads/2021/03/canstockphoto88667566-400x250.jpg"
-        width: 400
-        height: 250
-        isCached: true
-  - title: "AI, COVID-19 and the long haul"
-    excerpt: "It has been a little over a year since a worldwide COVID-19 pandemic was declared. Science has moved fast to fight the virus but preparations need to be underway for fighting future outbreaks."
-    publishedDateTime: 2021-03-18T18:15:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00328-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 17
 
 secured: "wN0+M2FnKfJwQyGOEtKU/F/AKs2hmGtDkhcD18AhpPEElLOQ5+iXMiQTDReh+FAm9yga46IcIGEFThhfqbZcnplekTx8JD+nePltr0j5CK8jixu1ZSZCePNvs1OPeo4qZ4mLaeMcFpIYGRvma/QWvSyaUWf5/qe+0ItwNH9K1FplRff2h/NrN9DIjjTlmKM/NxrK8DKDVvtFrHUdzky9lQJC20u3XqsQ10w8o/gWkSae0ZV1UAEJ/1lt/azm7cGpLEJwBbspgGwEtkYyj0XshJrAUbIIse+vl8agnd9hVQTdpe0W0CRuwIpAEFakoDQcvL7yo+dxVZFZpnBN86PLIif7QmA7Jco2uoQDqD3F2cc=;vzdrLs4KsNK5gLLOSVpbxA=="
 ---

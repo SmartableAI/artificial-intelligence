@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Graphics Processing Unit (GPU) Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast to 2025"
-    excerpt: "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products.-As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ..."
-    publishedDateTime: 2021-03-17T11:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-to-2025-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Gesture Recognition and Touchless Sensing Market Manufacturing Size, Share, Business Outlook, Vital Challenges and Forecast Analysis by 2031"
     excerpt: "The New Report Gesture Recognition and Touchless Sensing Market posted through MarketResearch.Biz, covers the market panorama and its growth possibilities"
     publishedDateTime: 2021-03-17T07:43:00Z

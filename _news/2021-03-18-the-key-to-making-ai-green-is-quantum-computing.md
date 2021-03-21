@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-a
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
 type: article
 quality: 89
-heat: 170
+heat: 160
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       - url: "https://singularityhub.com/wp-content/uploads/2021/01/abstract-4626114_1280-AI.jpg"
         width: 1068
         height: 601
-        isCached: true
-  - title: "AI for Health grantees making an impact"
-    excerpt: "Learn how our grantees and partners are addressing global health challenges with AI for Health resources and grants. We are mobilizing our efforts to support organizations responding to COVID-19 with projects for shared research,"
-    publishedDateTime: 2021-03-16T07:52:00Z
-    webUrl: "https://www.microsoft.com/en-US/ai/ai-for-health-projects"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWyvoC?ver=3bda&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true"
-        width: 1600
-        height: 600
         isCached: true
   - title: "Examining the bias in artificial intelligence..."
     excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."

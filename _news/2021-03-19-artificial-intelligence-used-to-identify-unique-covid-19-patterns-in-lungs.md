@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and X-rays: Identifying the many faces of COVID-19"
-    excerpt: "A digital diagnostic tool that uses artificial intelligence and cloud computing to accurately read vast numbers of chest X-rays – faster than a radiologist can – is helping doctors identify, triage and monitor COVID-19 patients."
-    publishedDateTime: 2021-03-16T08:08:00Z
-    webUrl: "https://news.microsoft.com/apac/features/ai-and-x-rays-identifying-the-many-faces-of-covid-19/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 89
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2021/02/Lunit_main-REsize-1600x1052.jpg"
-        width: 1600
-        height: 1052
-        isCached: true
   - title: "Artificial Intelligence Is Predicting Future COVID-19 Strains, Developing Treatments"
     excerpt: "Artificial intelligence in particular has emerged as a useful new tool to not only beat back the viral mutations, but to also stop them before they can spread at all. Some new strains of the COVID ..."
     publishedDateTime: 2021-03-16T17:23:00Z
@@ -55,6 +41,20 @@ related:
         width: 5878
         height: 3927
         isCached: true
+  - title: "Machine Learning System Predicts Severe COVID-19"
+    excerpt: "An advanced machine learning system can accurately predict the risk of a patient's COVID-19 advancing to severe disease or death, say researchers."
+    publishedDateTime: 2021-03-18T11:00:00Z
+    webUrl: "https://www.govexec.com/oversight/2021/03/machine-learning-system-predicts-severe-covid-19/172723/"
+    type: article
+    provider:
+      name: Government Executive
+      domain: govexec.com
+    quality: 39
+    images:
+      - url: "https://cdn.govexec.com/media/img/upload/2021/03/17/031421coronavirus/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
     excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
     publishedDateTime: 2021-03-18T18:33:00Z
@@ -69,19 +69,19 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Large-scale study finds AI-powered COVID-19 solution by RADlogics reduces turnaround time"
-    excerpt: "Moscow Center for Diagnostics & Telemedicine shared the results of a large-scale study (Moscow Experiment on the Computer Vision for the Analysis of Medical Images - mosmed.ai, NCT04489992) conducted by the Research and Practical Clinical Center for Diagnostics and Telemedicine Technologies of the Moscow Health Care Department."
-    publishedDateTime: 2021-03-19T15:17:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/coda-lsf031921.php"
+  - title: "Machine learning tool can predict severe illness, death from COVID-19 in patients"
+    excerpt: "Researchers developed a machine learning calculator that provides predictions of whether patients hospitalized with COVID-19 will progress to severe illness or death, according to a March 2 study published in Annals of Internal Medicine."
+    publishedDateTime: 2021-03-19T18:26:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/machine-learning-tool-can-predict-severe-illness-death-from-covid-19-in-patients.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 28
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "AI, COVID-19 and the long haul"
     excerpt: "It has been a little over a year since a worldwide COVID-19 pandemic was declared. Science has moved fast to fight the virus but preparations need to be underway for fighting future outbreaks."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/88968-singapore-bank-rolls-out-fac
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Singapore Facial Recognition Systems Markets, 2016-2019 & 2020-2026 – ResearchAndMarkets.com"
+    excerpt: "Singapore Facial Recognition Systems Market size is projected to grow at a CAGR of 17.6% during 2020-2026 Singapore’s facial recognition systems market is one of the emerging markets in the Asia Pacific region."
+    publishedDateTime: 2021-03-19T10:58:00Z
+    webUrl: "https://www.financialbuzz.com/singapore-facial-recognition-systems-markets-2016-2019-2020-2026-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 8
 
 secured: "IK48LHkMaqhoC1gjovX3X/0EiNq8ZXkZAKiXfXXGOHG7YRgXKxvhPGyTcPbo3u/4Y3RDKaK+CURuFIWxIpPJ4p+ATWCquY/iBF7Yga+4RY0tEF/MlEWFcbprmH4CFso1olcSKxLCpgB9hhE4kX8RJaKg8vz5tDDobZUAtBj1d99HYDgrAaFScmTHPs7YGugBfUsApUEdMczzQGzDrLvHTUdlhZnH+086sMhr713XVutlhyj/gOqDbwUSlcZEcEzVs9LVh2CjDwjklnQUsHDdtgTOw1bvgAl37Nkq46V9U3jHJeDSZij/bfnYVSFv5nakcQQ/3CKRsHQ1mSx/WAtRogGqi9StJy0dAUzSmTS3gtsaV7nT8/EJ24X76KbYu8F1jYKA6UyZGZclx3VKK6eFIQRN8ohHbJEQrdWR1BS06MwsOhs0kxiKnSFj8H/Cm8SgTYQjmZIPFHj8uKfXH2Yg+m/f+4lGFi0Lu52xcGx5LBYbMHj1JwTYR/In9Kt+pfFdHuDt40KTwPCDEyMvDnWvMw==;gLt7QNVTdEkQ1n1QJZaE3g=="
 ---

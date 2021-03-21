@@ -41,6 +41,15 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "Singapore Facial Recognition Systems Markets, 2016-2019 & 2020-2026 – ResearchAndMarkets.com"
+    excerpt: "Singapore Facial Recognition Systems Market size is projected to grow at a CAGR of 17.6% during 2020-2026 Singapore’s facial recognition systems market is one of the emerging markets in the Asia Pacific region."
+    publishedDateTime: 2021-03-19T10:58:00Z
+    webUrl: "https://www.financialbuzz.com/singapore-facial-recognition-systems-markets-2016-2019-2020-2026-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 8
 
 secured: "RKQDy2cGYoyv0x1VChR/dg8fgIi3t3GV3OHN3ryNS20Dp4vGBV8zuauuhM5oB6udoJw92taA4dfcYg1KM9zvMyxnM/fNq9YSMbSD8YN0AnWECPPBte0sxjn+UEPzI+jiQQOlARYOCsh7dsTG0Mi/qwx3TJ9o3RrgTAVcwJ5tbfOl7Ytn/+QdJI0eWaGNWJPSkQ+M0WRWf+EM0uFj2KNY1jxdr34fb6/oNiKZbYamNqyg4z+1lVhJ+cGtLkEjoNE7uKcJW36ayTggb4piNj8zRFJmuQfeoXfAXVOGudDMRK/Xwskf3ZGi3Tn1oy07U7jT6W6t2R9aO6BAHn4b2wTeiVibTF7wH1EoaJqPvyb3Wnk=;HsxaOARjsIdPLTaM6uooqw=="
 ---

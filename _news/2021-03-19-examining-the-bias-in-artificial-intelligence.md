@@ -115,20 +115,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "AI for Health grantees making an impact"
-    excerpt: "Learn how our grantees and partners are addressing global health challenges with AI for Health resources and grants. We are mobilizing our efforts to support organizations responding to COVID-19 with projects for shared research,"
-    publishedDateTime: 2021-03-16T07:52:00Z
-    webUrl: "https://www.microsoft.com/en-US/ai/ai-for-health-projects"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWyvoC?ver=3bda&q=90&m=6&h=600&w=1600&b=%23FFFFFFFF&l=f&o=t&aim=true"
-        width: 1600
-        height: 600
-        isCached: true
   - title: "Teaching AI what’s fair"
     excerpt: "With funding from Amazon and the National Science Foundation, Tan has been working for the last year to teach artificial intelligence algorithms how to be more fair and recognize when they’re being unfair."
     publishedDateTime: 2021-03-19T17:43:00Z

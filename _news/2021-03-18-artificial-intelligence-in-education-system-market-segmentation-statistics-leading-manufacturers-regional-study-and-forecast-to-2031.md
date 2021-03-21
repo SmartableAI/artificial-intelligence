@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Precision Medicine Market Size, Demands, Status and Application Forecast to 2025"
+    excerpt: "Mar 16, 2021 (Market Insight Reports) -- Selbyville, Delaware, The latest report on Artificial Intelligence (AI) in Precision Medicine Market now available at Market Study Report, LLC, explains the current and upcoming trends besides details related to the ..."
+    publishedDateTime: 2021-03-16T21:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-demands-status-and-application-forecast-to-2025-2021-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market Size, Development, Key Opportunity, Application and Forecast to 2026"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 19, 2021 (Market Insight Reports) -- Automotive Artificial Intelligence (AI) market report, inclusive of Covid-19 impact analysis, evaluates business status and potential ..."
     publishedDateTime: 2021-03-19T15:19:00Z
