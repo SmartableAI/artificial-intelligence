@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/entertainment-robot-toys
 webUrl: "https://www.marketwatch.com/press-release/entertainment-robot-toys-market-size-industry-growth-trends-price-report-and-forecast-2020-2027-2021-03-18"
 type: article
 quality: 70
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 29
-  - title: "Intelligent Drug Discovery Market Demand, Growth, Trend, Business Opportunities, Manufacturers and Research Methodology by 2027"
-    excerpt: "The intelligent drug technology market is growing, and several pharmaceutical companies are focusing on the development of drugs using artificial intelligence ... to affect several facets of cancer therapy will affect the demand for the market."
-    publishedDateTime: 2021-03-16T18:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-drug-discovery-market-demand-growth-trend-business-opportunities-manufacturers-and-research-methodology-by-2027-2021-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PJhas0VQbnf8QBv6dfCpo6QPYGH515BY3wA8L4sV3/Bb2S69rfw7nvixOREUPO/L9eYJdpIGVCp/WjGehvYhGGJxaE5hnjslei/j+5Qo8PBphinsxzl59zIxnYcjgJ/WVat6dZriJOIQurZ7lWSgFG4qwLRMNS4k5tr65RKILxxavDEg37/NmMzBf4X7jsfoHi27b/cFYNZfg5ASMLSk+Et5yz5b/NBLC1gXiIpNKyX5uzjdhs96/nldVKOBK9rb2ez0jsmmubhmhlMRYwLef1ZuPzdFn4beL7Cf1EeY9tAqJDq0TsgXW/nwMNy7bJEWNjaJp0c+VsHkxQp7Js6ENNqtgov841hsetSCvQsXgMM=;dCqWIyRKl9XBvf/hrsGLpA=="
 ---

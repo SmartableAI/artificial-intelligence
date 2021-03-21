@@ -59,15 +59,6 @@ related:
         width: 2048
         height: 1070
         isCached: true
-  - title: "Miami fintech Technisys brings artificial intelligence to digital banking with Kona acquisition"
-    excerpt: "Miami financial technology firm Technisys plans to elevate its digital banking platform with its acquisition of Kona, a Uruguay-based company that uses artificial intelligence technology to improve customer experiences."
-    publishedDateTime: 2021-03-16T17:24:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2021/03/16/technisys-acquires-kona-ai-digital-banking.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 22
 
 secured: "oeFreiTLmhe0HFXJQupXg6IF8S6gTJlYtR2WEWuw5Wau18tAEYNyTUMu3yGxLcbt1+dOP3ZXOTdOH05i7nnjGCJUV0GX+jw+CVwVwJe0LuV+7UZeiJ0hTjG0LyFIdSsGuktCIAtSQByXNNna4NS3g5QHu0bGLz/bKkrUCpncBoQtCV4U9f0n/r8pDXshuWX7KUP3F5g51vFBxNyEVMFcgr11gOHOKr7dIl+aukn/Ks1V9OOudw+227SaE14xQPTUbqOOXxECNdVsRZqAhPMMBnUuxDRDq8NJB2HRhjRq9IPJ4nAbDdnakW93/YRtDYemPGeWQdcRGaqopl1PqA0kQajZLs9S91RBl05WHLTUrAk=;5M0GD+r8Qj8IUINDT8rlEA=="
 ---

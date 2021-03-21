@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/health-science/covid-19-fda-gives-emergency-appr
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/covid-19-fda-gives-emergency-approval-for-machine-learning-screening-tool-662652/amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 640
     height: 428
     isCached: true
+
+related:
+  - title: "FDA authorizes first machine learning-based COVID-19 non-diagnostic screening device"
+    excerpt: "Today, the U.S. Food and Drug Administration issued an emergency use authorization (EUA) for the first machine learning-based Coronavirus Disease 2019 (COVID-19) non-diagnostic screening device that identifies certain biomarkers that are indicative of some ..."
+    publishedDateTime: 2021-03-21T02:43:00Z
+    webUrl: "https://www.news-medical.net/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 52
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hospital-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "SiWAD70iiSNcl9K/wxLc3MGyuuNkjqFFHKwQS+Wb7ceRY6x//p7lvJz3FgEkkGQvbx3nRpXlpMjlYPAdVmongcgdgJzbRJkCeMg3kLKiWXFuMlR19Em9Kjmx/XEW5mmqePATzn69p1HILWKXvbIwq8a+9xsVpkJnjRUvTOiCgG11etrOes5IC+ky37wD21+VmYZOogMZG/7DmMs3q3vVRovzcRxkj0ZpfxxQ3hAD4WK+q99k2S7DIPO6UgL3LWoiq6FO/IHjhAzqCIYB1UD4MrKiQAdCBwz+ma+h+hmJoOCKSFqfO84BHU27MAViuYQNR3uEM8tYBx8pPvEzV/YaBYFTz2iGBVNzdKEKRlmRJP4=;UFWgDcqm9ILobUSvdYeCPQ=="
 ---

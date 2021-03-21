@@ -54,22 +54,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
-  - title: "Shaping the Future of Technology through AI And Cloud Computing"
-    excerpt: "The future of the world is uncertain and not predetermined. The fact that the world is propelled by modern inventions, which did not exist a few decades ago, is a testimony to this uncertainty. However,"
-    publishedDateTime: 2021-03-16T18:56:00Z
-    webUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/"
-    ampWebUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
-    cdnAmpWebUrl: "https://www-thelondoneconomic-com.cdn.ampproject.org/c/s/www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
-    type: article
-    provider:
-      name: thelondoneconomic.com
-      domain: thelondoneconomic.com
-    quality: 59
-    images:
-      - url: "https://storage.googleapis.com/cdn.thelondoneconomic.com/wp-content/uploads/2021/03/0ca8364c-krishna-c.-mukherjee-scaled-e1615921249281.jpg"
-        width: 800
-        height: 1200
-        isCached: true
   - title: "Solving 'barren plateaus' is the key to quantum machine learning"
     excerpt: "Many machine learning algorithms on quantum computers suffer from the dreaded \"barren plateau\" of unsolvability, where they run into dead ends on optimization problems. This challenge had been relatively unstudied—until now."
     publishedDateTime: 2021-03-19T17:01:00Z

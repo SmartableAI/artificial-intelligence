@@ -23,22 +23,6 @@ images:
     height: 540
     isCached: true
 
-related:
-  - title: "KAR Global invests millions in Israel-based artificial intelligence company"
-    excerpt: "The strategic investment creates a partnership between the two companies that is expected to  bring KAR customers a new slate of automated vehicle inspection products."
-    publishedDateTime: 2021-03-16T17:03:00Z
-    webUrl: "https://www.ibj.com/articles/kar-global-invests-in-partners-with-israel-based-artificial-intelligence-company-on-inspection-tools"
-    type: article
-    provider:
-      name: Ibj.com
-      domain: ibj.com
-    quality: 35
-    images:
-      - url: "https://cdn.ibj.com/wp-content/uploads/2019/09/KAR-Global-HQ-Carmel-Indiana.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
 secured: "1knfIg9XJTFkVUrDYJrvdhLRvmDY1GZrKFEMP0d9vkV23I3N3j0rSrAnCCNGLZwUK8yi6JIkl3KAQTBmR4krOJGzNFrAz2Aw0ZjkR/Vc4bZp7Ky0fXdk5Gn0iXSOQaxVk8cQdNx3r6TK4d1Ty2eChwYuooMNVVgwKmn43LtXFKN3ojVybqSe+FW6K9I2lL0MctmgYohxBZ1zgt7FlDtM6bc/0E7EM0nbaZsmaNmcwEsgpVCLMagQABHk0EVhOR4DptAFMPW9kmi0LPCVSSpLQteS0Xp/HzVZSRlNW5zvHnNgt1AVPrekudWwAmXcMYuyOs2J6vAQoaW/zYvoiDUKf4RiX21D33THu3x8wloOVMAK4FUNCH4PzLjEorsbFN+rZjPaFxUOWi/fusHymzQedQNGh9VkQQKULTNsuDifFLAQNc3NKbtLQuOnthNqbcaSusli2pUi9iWgfaa7GEyA/cyCey3JMXypgpQrY8P7csd/pXpAy57p2SsHoaUo1HzEXHFs4v8WwxPzFxtlmTSMyA==;UhO7DNqFFiLeaylxFfpViQ=="
 ---
 

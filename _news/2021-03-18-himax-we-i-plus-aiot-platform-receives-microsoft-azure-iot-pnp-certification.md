@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/business-technolog
 webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
+    excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital ... solutions based on Microsoft cloud, edge and AI products,\" indicated Omar Abbosh, Microsoft's corporate ..."
+    publishedDateTime: 2021-03-17T22:36:00Z
+    webUrl: "https://redmondmag.com/articles/2021/03/17/microsoft-buys-the-marsden-group.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0614vsm_Steele.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "ActiveOps updates its Workware+ platform for Microsoft Azure users"
     excerpt: "Workware+ from ActiveOps now delivers a deeper integration with Azure, bringing cloud-based Workware+ industry solutions to Microsoft users worldwide"
     publishedDateTime: 2021-03-17T09:01:00Z

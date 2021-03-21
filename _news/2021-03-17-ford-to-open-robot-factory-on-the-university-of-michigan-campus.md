@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Take a look inside University of Michigan’s new Ford Motor Co. robotics complex"
-    excerpt: "The Ford Motor Company Robotics Building on University of Michigan's North Campus is a $75 million state-of-the-art facility."
-    publishedDateTime: 2021-03-16T18:19:00Z
-    webUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/"
-    ampWebUrl: "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/?outputType=amp"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 70
-    images:
-      - url: "https://www.clickondetroit.com/resizer/HmnQTMNjtSbF6rJTuexAtQI0O1I=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/JDQM34PSUJC2VO2346NJJLVEXQ.JPG"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Ford partners with university on robotics, new building"
     excerpt: "The four-story building on the University of Michigan's campus brings together researchers from 23 buildings and 10 programs into one space, including researchers and engineers from the Ford Motor Co."
     publishedDateTime: 2021-03-16T21:21:00Z
@@ -77,15 +61,17 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Ford partners with University of Michigan on robotics research, new building"
-    excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four and the yellow-legged Cassie steps deliberately side-to-side."
-    publishedDateTime: 2021-03-16T17:17:00Z
-    webUrl: "https://triblive.com/news/wire-stories/ford-partners-with-university-of-michigan-on-robotics-research-new-building/"
+  - title: "Ford partners with U-M on robotics research, new building"
+    excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four and the yellow-legged Cassie steps deliberately"
+    publishedDateTime: 2021-03-18T09:29:00Z
+    webUrl: "https://www.seattletimes.com/business/ford-partners-with-u-m-on-robotics-research-new-building/"
+    ampWebUrl: "https://www.seattletimes.com/business/ford-partners-with-u-m-on-robotics-research-new-building/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ford-partners-with-u-m-on-robotics-research-new-building/?amp=1"
     type: article
     provider:
-      name: TribLIVE.com
-      domain: triblive.com
-    quality: 31
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 54
 
 secured: "bT57OTJ4pyUiXpyhkmYGXPRjgUyEuYfn8Wvk0L5/mF1y6oTNZlS+zpfBx7URnZWXSdi1dzOOiwyeLo05UDbWIljLGIwTAx2jLGPKHMe7QcWt0xBcHApxXeeEJxRPZuuOMotrtR17RhKVOJMV3D4wOa2MjQctJ3Zme/rbRQMSoH4AGa8ajLnJfVxdtG9TXuskTd6DXYPii8MH4suCQnGuSPUcIFh9iQq/IhCJB++45pGVkY5oBTOFZ1OAvuBV5+MHeVkAvcTjDjCYSnYdDDIf4rcA7NTLloPHgZPXlgtE9lfwLioTjlPdbnH3+Req6JTSxZcnMAf2kIDDjdiXnA+cqhYt8IYpnUIj/4pa2DXeK1Q4s01BNR4GYMtZgQ45C3ndkxIiDg5e798BmXIoaNaiJEdZv0K0LXE9A9WyE70gkaVTQoy789P2eSMt6VU3oEGc6jdBNjrDiOxnmRmkGv3Auqm/PJs+myh8N1K/LgWtxMX5x1ukOvp0hpPt3ZHtSJPSC4nUwd4f6iLAugbD7Mp2KA==;5cHWmKkTDNgOrNfrsrP1xw=="
 ---

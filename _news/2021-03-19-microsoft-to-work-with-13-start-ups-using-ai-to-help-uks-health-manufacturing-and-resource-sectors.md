@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/en-gb/2021/03/19/microsoft-to-work-with
 webUrl: "https://news.microsoft.com/en-gb/2021/03/19/microsoft-to-work-with-13-start-ups-using-ai-to-help-uks-health-manufacturing-and-resource-sectors/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "13 startups selected to join Microsoft AI for Social Impact programme"
+    excerpt: "Microsoft has announced that it will work with 13 startups to develop artificial intelligence solutions under its AI for Social Impact scheme"
+    publishedDateTime: 2021-03-19T11:21:00Z
+    webUrl: "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 54
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/03/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
   - title: "Microsoft UK selects 13 start-ups for 'AI for Social Impact 2021' programme"
     excerpt: "Microsoft has selected 13 UK start-ups to join the company's 'AI for Social Impact 2021' programme. This 4-month programme, managed in partnership with the Social Tech Trust, will offer support on business development;"
     publishedDateTime: 2021-03-19T11:44:00Z

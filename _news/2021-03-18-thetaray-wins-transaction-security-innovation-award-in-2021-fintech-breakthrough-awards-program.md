@@ -25,17 +25,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Sensibill Recognized by FinTech Breakthrough Awards Program for “Personal Finance Innovation Award”"
-    excerpt: "About FinTech Breakthrough Part of Tech Breakthrough ... with personalized insights to help their customers build healthier financial habits. The AI-powered platform enables end-users to easily track spending and manage their finances while unlocking ..."
-    publishedDateTime: 2021-03-16T17:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210316005037/en/Sensibill-Recognized-by-FinTech-Breakthrough-Awards-Program-for-“Personal-Finance-Innovation-Award”"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 5
-
 secured: "HudBLeOMc/D0IlSUIAWxow1wj8B/3U+X9a22b8vNEoam4A2pxcNUJig0dLiqZcFysBDhPdasVoCcl8o4CVoyWn7V3PDJfmchd38yXvbOCHq4W5cvSTaApFb9KQqmUPm5iPVblCmlC9M6w68fTn9p9UDFATOoCD4RCgOTBAKJogOX7Ez0ZDm7B20awqmCX/NSwRr82wSPDry+GwpO6fgEfm94BxF/x7yMfUQgmAt2x9w92jKxSx6gwzTsZpJlwfKNRp5/vA5gsGdwaHVfbVGfj0+SA9G7U8yP1qUQcbRXu+oT66+wL2btwPwPcNGM/FVGBtDWeBvMf1DURdMaf/6mkFdHBzSF6osJ3ULcrjldrRY=;4ErR722+/jKpChb3JL30NQ=="
 ---
 

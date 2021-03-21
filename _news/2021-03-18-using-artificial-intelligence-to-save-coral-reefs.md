@@ -36,22 +36,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Shaping the Future of Technology through AI And Cloud Computing"
-    excerpt: "The future of the world is uncertain and not predetermined. The fact that the world is propelled by modern inventions, which did not exist a few decades ago, is a testimony to this uncertainty. However,"
-    publishedDateTime: 2021-03-16T18:56:00Z
-    webUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/"
-    ampWebUrl: "https://www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
-    cdnAmpWebUrl: "https://www-thelondoneconomic-com.cdn.ampproject.org/c/s/www.thelondoneconomic.com/tech-auto/technology/shaping-the-future-of-technology-through-ai-and-cloud-computing-258332/amp/"
-    type: article
-    provider:
-      name: thelondoneconomic.com
-      domain: thelondoneconomic.com
-    quality: 59
-    images:
-      - url: "https://storage.googleapis.com/cdn.thelondoneconomic.com/wp-content/uploads/2021/03/0ca8364c-krishna-c.-mukherjee-scaled-e1615921249281.jpg"
-        width: 800
-        height: 1200
-        isCached: true
   - title: "AI can shine digital sunlight on to company greenwashing"
     excerpt: "start ups like Arabesque and academics. Two examples emerged this week: a team at Cambridge university is building an open-source system to track ESG risks in sovereign bonds; their counterparts at King’s College London are scanning companies’ AI ..."
     publishedDateTime: 2021-03-18T17:49:00Z

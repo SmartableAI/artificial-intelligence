@@ -68,22 +68,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Tesla removed some drivers from its self-driving test for not paying attention"
-    excerpt: "(CNN) — Tesla has expanded its “full self-driving” software to roughly 2,000 Tesla owners, but some drivers were revoked access for not paying close enough attention to the road, according ..."
-    publishedDateTime: 2021-03-16T18:48:00Z
-    webUrl: "https://abc-7.com/news/2021/03/14/tesla-removed-some-drivers-from-its-self-driving-test-for-not-paying-attention/"
-    ampWebUrl: "https://abc-7.com/lifestyle/tech/2021/03/14/tesla-removed-some-drivers-from-its-self-driving-test-for-not-paying-attention/amp/"
-    cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/lifestyle/tech/2021/03/14/tesla-removed-some-drivers-from-its-self-driving-test-for-not-paying-attention/amp/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc-7.com
-    quality: 55
-    images:
-      - url: "https://abc-7.com/wp-content/uploads/2021/03/Tesla-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "cLp7wm05vtAlmuCwWP0mUVR7BlFPFb5MFmTF/Gp6ThCGaLsmIKYHMYau6E5iNbU0qkVtwxL1Jb/mGJgsgGA/Zx0qVcTQ3MZSwgjnN7O0p5/AsxSd7ShCbDa7YP9cd2K6vnAJfOmbAUihHZGey3GihkH/LAcDsrK2hf9fHTMd/3v3L5Ec9VJI2/vL1uXhnmRj/VXShEBAMoD7ik78yPU4Yacgk9m74mwZ47cdSmC4aqRdiO2movtlqZq/ChSbbSOHRTRl9iU9p50a45QqgTu7ffxWH5xoc9o1F5ZDiNtdUfy/atsP8Cxt2RaCnsoexDm1asGTJ+HxWbJrfz54K6VeOu3lxTJMtcElqwekT/6uNLM=;Mv54DRKRXLw0oV2A1d8AlQ=="
 ---

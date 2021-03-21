@@ -110,20 +110,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 29
-  - title: "Intelligent Drug Discovery Market Demand, Growth, Trend, Business Opportunities, Manufacturers and Research Methodology by 2027"
-    excerpt: "The intelligent drug technology market is growing, and several pharmaceutical companies are focusing on the development of drugs using artificial intelligence ... to affect several facets of cancer therapy will affect the demand for the market."
-    publishedDateTime: 2021-03-16T18:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/intelligent-drug-discovery-market-demand-growth-trend-business-opportunities-manufacturers-and-research-methodology-by-2027-2021-03-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "e/3z7E6SvIvvW8w44QD2b9YMfrIcpjJuARls+NZbIGg0d4HKOlkC8vif5UDirAlPQnsNl/JElhRde/BH5/61WLCCEDzMYakuCAWR1oYAI0XR6kls1k/eEQt74NQIOumXJS9MC/GOPQJie0dcckj1vlt8Pi6nPdTCQ2+lc2JaHb3o3Ep1ACENNPlStjQRLMDuDU/lDys6YEOZt7ZzsnWPn8yDy/aKeK6rH+yqUNOuV8/D3anmjJ3h2N7nB6/QWmx4A58QEaq0LVaT992Tz3SWaCtqE2rqrMdDNdNdLy9ZcFArXjhl4Vy+XZdJaiee9SvgYpQJmiLOUn2fUjPLaQIP0GtL8+qWGEic9eriDsziIac=;/eVjMMWjCH4NKzrXFHnlww=="
 ---

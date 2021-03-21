@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "13 startups selected to join Microsoft AI for Social Impact programme"
+    excerpt: "Microsoft has announced that it will work with 13 startups to develop artificial intelligence solutions under its AI for Social Impact scheme"
+    publishedDateTime: 2021-03-19T11:21:00Z
+    webUrl: "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 54
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/03/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
   - title: "Microsoft to work with 13 start-ups using AI to help UK’s health, manufacturing and resource sectors"
     excerpt: "Microsoft will work with the start-ups to develop AI solutions that can be used to improve people’s lives and the world around us."
     publishedDateTime: 2021-03-19T10:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-finte
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/amp/"
 type: article
 quality: 81
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 2048
         height: 1070
         isCached: true
-  - title: "Miami fintech Technisys brings artificial intelligence to digital banking with Kona acquisition"
-    excerpt: "Miami financial technology firm Technisys plans to elevate its digital banking platform with its acquisition of Kona, a Uruguay-based company that uses artificial intelligence technology to improve customer experiences."
-    publishedDateTime: 2021-03-16T17:24:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2021/03/16/technisys-acquires-kona-ai-digital-banking.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 22
 
 secured: "sU3wGEQHn/FGmOwmNpv0DS5jYb5kzKBLhdG+VSOAb/G5s+sX/mh9KGCUtk17+RQTxrAPUPjSjaXaDSy98Y4ixl18XhMkv5eFrag2N3/822ZfOREzIY2d6RzXb+hsw5JjPS3eNHQ0/NBvyzYaD3m2uRROjs7Um2dvS3UZur7O9rsZhLui9CQ0TDyFWEQDMnx4ni5JK3ZGM0GCjuDCUWLVPacQ5q//7qK849x1ofescvukDtcEA1KB7kwI2lOhQ2AG+YhGJF8eZ4rVI3o4GM5gBEuAaa40lHtfXOS/cyfArdpH9TSw7OKodppnQH7jB2Pf7sqV0DslYwxch+RG98LcfKPFrcjAQ2wAVhJvdKcIhbcC9Gn2AXwGTZjK0KX7gYDjlIS6F3BdvNFyflduyx/aq8+zQ40Xtz07N4iE5G0kKCTjGld3G6+tSfMutnLtPqoKh64waDrhfabw422OZyG1BmffLPR58fZhOtpofLM8naYlDSuL2yiY8bdRVxwERjX4n2+iCoH8KfwjnDZRMoGQsw==;z9mc0WIDjX2DT0o/fB3Lfg=="
 ---

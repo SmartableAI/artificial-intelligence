@@ -33,6 +33,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
+    excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital ... solutions based on Microsoft cloud, edge and AI products,\" indicated Omar Abbosh, Microsoft's corporate ..."
+    publishedDateTime: 2021-03-17T22:36:00Z
+    webUrl: "https://redmondmag.com/articles/2021/03/17/microsoft-buys-the-marsden-group.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0614vsm_Steele.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
     excerpt: "By making it easy to connect LoRa devices to Azure and by providing insights generated with Azure Cognitive Services and Azure AI, Webee and Semtech are simplifying IoT for our joint customers.” About Semtech Semtech Corporation is a leading supplier of ..."
     publishedDateTime: 2021-03-17T18:00:00Z
