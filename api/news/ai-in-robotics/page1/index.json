@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-21-soon-ai-based-robots-to-replace-financial-advisers-oracle-study.md",
+      "title": "Soon, AI-based robots to replace financial advisers: Oracle study",
+      "excerpt": "But, over the extended global lockdown, humans seem to have discovered greater faith in technology and machines, according to Oracle's Money and Machines: 2020 Global Study that was conducted across 9,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/current/corporate/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/story/434458.html",
+      "originalUrl": "https://www.businesstoday.in/current/corporate/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/story/434458.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/artificial_intelligence_505_121517094749_210321030928.jpg?size=1200:675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.businesstoday.in/lite/story/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/1/434458.html",
+      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/1/434458.html",
+      "publishedDateTime": "2021-03-21T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-ark-invest-believes-a-tesla-robotaxi-future-is-the-most-likely-scenario.md",
       "title": "Ark Invest Believes a Tesla Robotaxi Future is the Most Likely Scenario",
       "excerpt": "ARK's 2025 price target for Tesla is $3,000. ARK's 25% bear case is for Tesla at $1,500 in 2025. The 25% bull case is Tesla could be worth roughly $4,000 per share. They published their mode",
@@ -435,7 +478,7 @@
       "originalUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1386,49 +1429,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-botz-vs-robo-the-best-robotics-artificial-intelligence-etf-for-2021.md",
-      "title": "BOTZ vs. ROBO: The Best Robotics & Artificial Intelligence ETF For 2021",
-      "excerpt": "Robotics and artificial intelligence ETFs, however, have received only modest interest from investors. This group has delivered fantastic returns over the past year, but their performance during that time has trailed hotter and more attention-grabbing sectors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "originalUrl": "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/uQuPaZSc-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "publishedDateTime": "2021-03-09T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

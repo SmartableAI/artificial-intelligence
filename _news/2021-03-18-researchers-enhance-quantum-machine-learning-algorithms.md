@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "FSU researchers enhance quantum machine learning algorithms"
-    excerpt: "William Oates, the Cummins Inc. Professor in Mechanical Engineering and chair of the Department of Mechanical Engineering at the FAMU-FSU College of Engineering, and postdoctoral researcher Guanglei Xu found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications."
-    publishedDateTime: 2021-03-16T15:20:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/fsu-fre031621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/259273_web.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "FSU Researchers Report Enhanced Quantum Machine Learning Algorithms"
     excerpt: "Florida State University researchers report they have found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications. The work could help build artificial neural networks used for training computers to solve complicated,"
     publishedDateTime: 2021-03-17T15:19:00Z

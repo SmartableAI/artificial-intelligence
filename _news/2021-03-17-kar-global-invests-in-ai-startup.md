@@ -7,7 +7,7 @@ originalUrl: "https://www.wishtv.com/news/inside-indiana-business/kar-global-inv
 webUrl: "https://www.wishtv.com/news/inside-indiana-business/kar-global-invests-in-ai-startup/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "KAR Global Invests in AI Startup"
-    excerpt: "CARMEL - Carmel-based KAR Global (NYSE: KAR) has made what it is calling a strategic investment in an Israel-based artificial intelligence startup. KAR says its investment led a $15 million Series A round of funding for Ravin AI, which has developed an AI ..."
-    publishedDateTime: 2021-03-16T16:52:00Z
-    webUrl: "https://www.insideindianabusiness.com/story/43507397/kar-global-invests-in-ai-startup"
-    type: article
-    provider:
-      name: INside INdiana Business
-      domain: insideindianabusiness.com
-    quality: 37
-    images:
-      - url: "https://INSIDEINDIANA.images.worldnow.com/images/20402352_G.jpeg?lastEditedDate=1613749363000"
-        width: 960
-        height: 540
-        isCached: true
   - title: "KAR Global invests millions in Israel-based artificial intelligence company"
     excerpt: "The strategic investment creates a partnership between the two companies that is expected to  bring KAR customers a new slate of automated vehicle inspection products."
     publishedDateTime: 2021-03-16T17:03:00Z

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stampli Named \"Best Accounts Payable Solution\" in 2021 FinTech Breakthrough Awards Program"
-    excerpt: "FinTech Breakthrough, an independent market intelligence organization that recognizes the top companies, technologies and products in the global FinTech market, today announced that"
-    publishedDateTime: 2021-03-16T16:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/stampli-named-best-accounts-payable-solution-in-2021-fintech-breakthrough-awards-program/article_d8112c1b-5e08-5863-993c-332e158a1ec1.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 14
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Sensibill Recognized by FinTech Breakthrough Awards Program for “Personal Finance Innovation Award”"
     excerpt: "About FinTech Breakthrough Part of Tech Breakthrough ... with personalized insights to help their customers build healthier financial habits. The AI-powered platform enables end-users to easily track spending and manage their finances while unlocking ..."
     publishedDateTime: 2021-03-16T17:03:00Z

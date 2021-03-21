@@ -41,34 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ford partners with U-M on robotics research, new building"
-    excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four"
-    publishedDateTime: 2021-03-16T16:04:00Z
-    webUrl: "https://apnews.com/article/michigan-robotics-ann-arbor-a0fbbce999a1943ae1f9c0a4206ff2dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/123406b7433340c997c2bd7992e09df4/2081.jpeg"
-        width: 2081
-        height: 1387
-        isCached: true
-  - title: "Ford Partners With University of Michigan on Robotics"
-    excerpt: "A grand opening was held March 16 for the four-story, $75 million, 134,000-square-foot Ford Motor Co. Robotics Building at the University of Michigan."
-    publishedDateTime: 2021-03-16T15:30:00Z
-    webUrl: "https://www.ttnews.com/articles/ford-partners-university-michigan-robotics"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 54
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/ford-robot-ap-1200.jpg?itok=3ceYxqub"
-        width: 470
-        height: 246
-        isCached: true
   - title: "University, Ford join in robotics effort"
     excerpt: "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheetah -- staccato-like -- does the same on four. Meanwhile, the yellow-legged Cassie steps deliberately side-to-side."
     publishedDateTime: 2021-03-17T02:04:00Z
@@ -115,15 +87,6 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 19
-  - title: "U-M, Ford open world-class robotics complex to accelerate future of advanced, more equitable robotics and mobility"
-    excerpt: "University of Michigan’s $75 million, 134,000 square-foot Ford Robotics Building opens as a world-class, advanced robotics facility and first to co-locate an industry team - adding Ford’s mobility res"
-    publishedDateTime: 2021-03-16T15:23:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/u-m-ford-open-world-class-robotics-complex-to-accelerate-future-of-advanced-more-equitable-robotics-and-mobility/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 12
 
 secured: "/Y7lueSeSEYVhjg5Y3ywcQWxDtwe8DYETuuslGM9RnvnOdKelwm2PFh8O/YFxWBuhzGZV/qNG0UZHS7FjtZ9xIH7Ni6f2dyMD5Y9tCA0JMXaEYKCfiEC4pWd0Y01QNShFxv/KEs+5nFjxq5p1IPT6LDiFlfjGn/208Fw9auKTUjV6ms26q6IHNFgDS0aeBOOSFKw1q+wIvnG9wSWZt/sh03XUaDImv/e2fVmUTXEg63Qtgz2kn+UjCzMz4M5Bv4mRDABR0Ymawo5QCdaUwvGxZIN57R2EQtNCUD5vzEJHm0hacSx9kejWorYddUAWXFUNfUydagjtME2Jhk2wgeeem8RWbM+yTc/JuJEepO+llhRVAnLNysIivaKRzAZrzHugM9I0xFwvFrOnCGpMKRi6H83paYs57HTCa2Dj0tcNZtSHRCBxMIWMdsApceBQDN1dlGrlKP5QSG5kuVtmn3ut3tgRE2WeHZp3AptKRmNlsTczYahaVSVu/JIDJTgL5R5aqMBeFs+NyoY8rC7coWCVA==;a2euqqzZfzjl1uRy2THYZw=="
 ---

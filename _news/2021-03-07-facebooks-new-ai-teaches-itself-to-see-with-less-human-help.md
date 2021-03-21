@@ -3,8 +3,8 @@ category: news
 title: "Facebook’s new AI teaches itself to see with less human help"
 excerpt: "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels."
 publishedDateTime: 2021-03-07T12:04:00Z
-originalUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1"
-webUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1"
+originalUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
+webUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
 type: article
 
 provider:
@@ -16,7 +16,7 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
+  - Natural Language Processing
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 380
     isCached: true
 
-secured: "lmTROtdGT/VmT1/IkXd+deXtxp47EfE7pSW/HcZo1YWe5GSvDTYDMzQtoomDJ6lZjnIc3nx4UCTfLX26xNvBQQ9SLx4LFJc6/nQCLsOSG5rOp1rqWFdFPU30v7OBa67k70l33w66NEJMAYNs2SdtC9pj5YXal4blexfYVSObYz/xHohWtuORSWqyfKXhZiVTiFHNip5bl17NDVTrbpQ4w1/dNcUOkjlxwUS/kFHgCn+wLkQx8CtAN7+Qr/6/00+0F6DY+qkTss7QMfSX7mR6Fz+yGHj1DTa59r5HTRz/GOHJIAnPfTMjVTND9UvU81X0IjItwMH8noJLYsseHYm2I+Z6buRq9bLoOcJijFMNl2Y=;eaWCl5H/jDR3f+RfoFO8fg=="
+secured: "7dIkxVyn9xHOp4y/jSvrgvp/6MX0wZlo137QZV0OnUk4o010YxB6dV7TIKlgTrz8r4CY/tjDctxbsnucKQGXN19CipTFaJbDEceOkdR7rpd4tiex6laK2+RarRvtEVzqL9lc3Antvy6IpTkqg+oKlE5VqW1dXfy7v4/X3IkOq8SYeOEMsg9OXJtdzXXL4snKGSh+KY+upR00fkSjfe6HKOCJwo5JBL2aRFqvAPBtDaJNPm83G1RpLuRg3TMBWt6Z5q2ODGFmnUHCfBneWI4gu3d1zYZGzT/uHDFvhiZOs/rMjgKFaAzL6LXvZ5SUowcbTKCo/D4EDWMw6iI/VT9LiKD3YmZ7l6lBUiP3x8oTuUE=;44ccu6NrXQ9mpAhVrQgENg=="
 ---
 

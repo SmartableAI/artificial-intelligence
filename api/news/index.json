@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-21-soon-ai-based-robots-to-replace-financial-advisers-oracle-study.md",
+      "title": "Soon, AI-based robots to replace financial advisers: Oracle study",
+      "excerpt": "But, over the extended global lockdown, humans seem to have discovered greater faith in technology and machines, according to Oracle's Money and Machines: 2020 Global Study that was conducted across 9,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/current/corporate/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/story/434458.html",
+      "originalUrl": "https://www.businesstoday.in/current/corporate/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/story/434458.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/artificial_intelligence_505_121517094749_210321030928.jpg?size=1200:675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.businesstoday.in/lite/story/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/1/434458.html",
+      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/1/434458.html",
+      "publishedDateTime": "2021-03-21T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-why-artificial-intelligence-will-always-fail-lgbtq-people.md",
+      "title": "Why Artificial Intelligence Will Always Fail LGBTQ People",
+      "excerpt": "One expert in the field, anthropologist Mary L. Gray, believes AI will “always fail LGBTQ people” – and it will be up to us, to make sure it reflects the way we want our world to be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiewareham/2021/03/21/why-artificial-intelligence-will-always-fail-lgbtq-people/",
+      "originalUrl": "https://www.forbes.com/sites/jamiewareham/2021/03/21/why-artificial-intelligence-will-always-fail-lgbtq-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60548370156fb78b59a5ca77%2F0x0.jpg%3FcropX1%3D595%26cropX2%3D4256%26cropY1%3D341%26cropY2%3D2400",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-21T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-mojo-vision-will-power-its-smart-contact-lens-with-an-external-compute-pack.md",
       "title": "Mojo Vision Will Power Its Smart Contact Lens With An External Compute Pack",
       "excerpt": "The Mojo smart contact lens, due to ship within the next few years, boasts 14,000 pixels per inch packed into a sand-grain-sized display that beams directly into your eyes’ fovea, the tiny part in the center of your eye with the greatest concentration of retinal cones: your natural photoreceptors.",
@@ -1012,7 +1106,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1154,101 +1248,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid.md",
-      "title": "Pangiam Bets on Facial Recognition to Speed Travelers Through Airports Post-Covid",
-      "excerpt": "Travel tech firm Pangiam is betting this is only the beginning with the acquisition of the facial recognition system VeriScan from the Washington, D.C., airports operator. Imagine passing through ...",
-      "sourceUrl": null,
-      "webUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
-      "originalUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://skift.com/wp-content/uploads/2021/03/IMG_0310.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/",
-      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/",
-      "publishedDateTime": "2021-03-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Skift",
-        "domain": "skift.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-travel-and-hospitality-ai-market-size-estimated-to-surpass-12-billion-mark-by-2026.md",
-      "title": "Travel and Hospitality AI Market Size Estimated to Surpass $1.2 Billion Mark by 2026",
-      "excerpt": "These robots assist customers with basic tasks such as help desks, hotel room detail, restaurants and timings, hotel maps and other related tasks. These prospects for the growth of new AI start-ups in the travel and hospitality industry has been developed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/travel-and-hospitality-ai-market-size-estimated-to-surpass-12-billion-mark-by-2026-2021-03-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/travel-and-hospitality-ai-market-size-estimated-to-surpass-12-billion-mark-by-2026-2021-03-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
