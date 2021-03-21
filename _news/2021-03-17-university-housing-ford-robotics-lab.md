@@ -7,8 +7,8 @@ originalUrl: "https://www.journalgazette.net/business/20210317/university-housin
 webUrl: "https://www.journalgazette.net/business/20210317/university-housing-ford-robotics-lab"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Journal Gazette
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "University, Ford join in robotics effort"
-    excerpt: "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheetah -- staccato-like -- does the same on four. Meanwhile, the yellow-legged Cassie steps deliberately side-to-side."
-    publishedDateTime: 2021-03-17T02:04:00Z
-    webUrl: "https://www.arkansasonline.com/news/2021/mar/17/university-ford-join-in-robotics-effort/"
-    type: article
-    provider:
-      name: Arkansas Democrat-Gazette
-      domain: arkansasonline.com
-    quality: 54
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/197684474_197683415-123406b7433340c997c2bd7992e09df4_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Ford partners with U-M on robotics research, new building"
     excerpt: "Digit marches on two legs across the floor of the University of Michigan’s Ford Motor Co. Robotics Building, while Mini-Cheetah — staccato-like — does the same on four and the yellow-legged Cassie steps deliberately"
     publishedDateTime: 2021-03-18T09:29:00Z
@@ -50,6 +36,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 54
+  - title: "Ford to open robot factory on the University of Michigan campus"
+    excerpt: "Ford Motor Company will help to build a robot factory on the University of Michigan (UM) campus to test, design and develop new robots for a variety of markets. The Ford Motor Company Robotics Building is a four-story,"
+    publishedDateTime: 2021-03-17T12:27:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16472/ford-to-open-robot-factory-on-the-university-of-michigan-campus"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "iXibho4eZ69fMmVjeg6qMm3xkbK6Ayi5ZziO2OLqV9W35JmMcIiIRDuMjWIIQF/C8BpS4AsqAr4fAwx5eeq+ntJDTSc1YwUThPfRBwuN1nAdOSa+uPoIadN/5if2mJpPBE8SZDfZw1vgSYr6rFxSx/3PQwPWgBu701D8am3Qh89oGnU778se7dMRNF225p1fEQJXgI4s3yXQNyLwhmZDzASQj/47On8s5ts4JbZvdvbclSFrEZcXlMgDrn6Q9/DiTw3Id9KRuWIcC8O66Q8JA34vxtxzUJEzbMzeddJyvfbvQ42oJ4/ZVT8WFKvuM8am0afnsa+OpeIs8PY0Ae13OxoOK+04FXLOBR49igoAetnGBU7ki8zPbu6nBsIvyxO4imkilcRflX3z0RCk072ac6KmFxLNwpwXus+Wr7Fbpfv2UbFR3fPriN61vVO6h6+3MNIcBD6ubzf/eZhmK2UELgAlYf6Vo5Kv0Y8pCbd+65NqKkejyj+tPgb38VaMpger5+ZE/MJ8eENBLD/k8Jcaag==;nEJYEEWQEeHkgnhoUjSskw=="
 ---

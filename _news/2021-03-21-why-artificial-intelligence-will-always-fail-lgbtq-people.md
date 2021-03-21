@@ -36,7 +36,7 @@ related:
     provider:
       name: Mic
       domain: mic.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://imgix.bustle.com/uploads/image/2021/3/17/3507ac25-a70b-4f9f-9a4c-1737f3f36e11-mic_ai_cover_colored-01.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
         width: 1200

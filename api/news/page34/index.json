@@ -2,6 +2,109 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-02-22-why-explainability-is-the-next-step-for-ai-in-manufacturing.md",
+      "title": "Why ‘Explainability’ Is The Next Step For AI In Manufacturing",
+      "excerpt": "Now that we’ve overcome the issue of whether AI is needed or not, the new pressing question is \"why\" AI makes its decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6011c98f32810780e7c9bdc6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
+      "publishedDateTime": "2021-02-22T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-cutting-through-confusion-the-true-value-of-ai-for-sales-teams.md",
+      "title": "Cutting Through Confusion: The True Value Of AI For Sales Teams",
+      "excerpt": "More top-performing sales reps are jumping ship. Over the last decade, the sales industry has witnessed rep tenure rapidly decline from 3 years in 2010 to a mere 1.5 years in 2019. This trend has only been expedited by the remote world forged by the Covid-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602fe611a2778c1746f06424%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/amp/",
+      "publishedDateTime": "2021-02-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-motional-is-now-testing-fully-autonomous-vehicles-in-las-vegas.md",
       "title": "Motional is now testing fully autonomous vehicles in Las Vegas",
       "excerpt": "Add Motional to the very short list of companies that have tested fully autonomous vehicles on public roads. The Hyundai-Aptiv joint venture announced that it has tested its vehicles without safety drivers behind the steering wheel on public streets in Las Vegas.",
@@ -1044,110 +1147,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-ai-for-deplorable-writers-how-artificial-intelligence-will-revolutionize-writing.md",
-      "title": "AI for Deplorable Writers: How Artificial Intelligence Will Revolutionize Writing",
-      "excerpt": "When you think of artificial intelligence (AI) and automation, what comes to mind? Maybe you think of self-driving cars or robots performing mundane tasks. But not writing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEYft5BEVm1vQ/article-cover_image-shrink_600_2000/0/1613909700539?e=1620259200&v=beta&t=Mdm6I9mpKgap_kIWJIp5jVM7TbOVAazHNTtMbhv_mkY",
-          "width": 770,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-facial-recognition-sexual-predator-caught-on-cctv.md",
-      "title": "Facial recognition: Sexual predator caught on CCTV",
-      "excerpt": "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-wales-56130226",
-      "originalUrl": "https://www.bbc.com/news/av/uk-wales-56130226",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-20T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
