@@ -19,22 +19,141 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft's Innovation Happened at the Intersections at Ignite 2021"
-    excerpt: "But so far, Google has fallen short within its core platform. Similarly, Amazon Web Services (AWS) has yet to announce compatibility between Amazon SageMaker and AWS Outposts, although I expect it will do so imminently. Another big move targeted the ..."
-    publishedDateTime: 2021-03-17T00:00:00Z
-    webUrl: "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/"
-    ampWebUrl: "https://www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/microsofts-innovation-happened-at-the-intersections-at-ignite-2021/amp/"
+  - title: "Global GPU for AI Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
+    excerpt: "The global GPU for AI market report is a comprehensive research that focuses on the overall consumption structure, development trends, sales models and sales of top countries in the global GPU for AI market."
+    publishedDateTime: 2021-03-18T15:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18"
     type: article
     provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 61
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
     images:
-      - url: "https://www.cmswire.com/-/media/2b950510820e495db2657738ce677805.ashx?mw=1024"
-        width: 640
-        height: 480
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Strong Competition in Booming AI Infrastructure Market"
+    excerpt: "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,"
+    publishedDateTime: 2021-03-20T19:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/strong-competition-in-booming-ai-infrastructure-market-2021-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Machine Learning Chip Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2021 (Heraldkeepers) -- The global Machine Learning Chip market report is a comprehensive research that focuses on the overall consumption structure, development ..."
+    publishedDateTime: 2021-03-17T22:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Precision Medicine Market Size, Demands, Status and Application Forecast to 2025"
+    excerpt: "Mar 16, 2021 (Market Insight Reports) -- Selbyville, Delaware, The latest report on Artificial Intelligence (AI) in Precision Medicine Market now available at Market Study Report, LLC, explains the current and upcoming trends besides details related to the ..."
+    publishedDateTime: 2021-03-16T21:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-precision-medicine-market-size-demands-status-and-application-forecast-to-2025-2021-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence (AI) Market Size, Development, Key Opportunity, Application and Forecast to 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 19, 2021 (Market Insight Reports) -- Automotive Artificial Intelligence (AI) market report, inclusive of Covid-19 impact analysis, evaluates business status and potential ..."
+    publishedDateTime: 2021-03-19T15:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-size-development-key-opportunity-application-and-forecast-to-2026-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global 3D Facial Recognition Systems Market 2021 Vital Challenges and Forecast Analysis by 2031"
+    excerpt: "The latest research report provides a complete assessment of the Global 3D Facial Recognition Systems market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
+    publishedDateTime: 2021-03-19T08:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2021-vital-challenges-and-forecast-analysis-by-2031-2021-03-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market report based on Share, Size, Opportunities, Research Methodology and Segmentation"
+    excerpt: "In terms of market share, the natural language processing segment is projected to contribute significantly to the global artificial intelligence market in the education sector during the forecast period,"
+    publishedDateTime: 2021-03-19T17:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-report-based-on-share-size-opportunities-research-methodology-and-segmentation-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Medical Diagnostics Market Size by Company, Regions, Type and Application, Forecast to 2025"
+    excerpt: "The Artificial Intelligence in Medical Diagnostics market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
+    publishedDateTime: 2021-03-17T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-size-by-company-regions-type-and-application-forecast-to-2025-2021-03-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Education System Market Segmentation, Statistics, Leading Manufacturers, Regional Study and Forecast to 2031"
+    excerpt: "The New Report Artificial Intelligence in Education System Market posted through MarketResearch.Biz, covers the market panorama and its growth possibilities"
+    publishedDateTime: 2021-03-18T05:13:00Z
+    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/artificial-intelligence-in-education-system-market-segmentation-statistics-leading-manufacturers-regional-study-and-forecast-to/article_d3b7a621-1120-5797-9f6d-db8eecc863f1.html"
+    type: article
+    provider:
+      name: Rome News-Tribune
+      domain: northwestgeorgianews.com
+    quality: 22
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-based smartphone apps for risk assessment of skin cancer need more evaluation and better regulation"
+    excerpt: "Smartphone applications (“apps”) with artificial intelligence (AI) algorithms are increasingly used in healthcare. Widespread adoption of these apps must be supported by a robust evidence-base and app manufacturers’ claims appropriately regulated."
+    publishedDateTime: 2021-03-19T19:32:00Z
+    webUrl: "https://www.nature.com/articles/s41416-021-01302-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 1
 
 secured: "gSaE0KkKIt0+Nwdofma0K3e/dMwpFyvOYMONZR9BM2hOiwYFc958oDtK1rv0Zq/M1EegZzyE8Ek8cPQkPCqRDcbV6Rv9bf5+1AOTlNoadJcmAwmZQV4FwNIYeDKIkG4vMIeECsSGxpCQB3V3AztJo553rfLRfZm65dfaZi0jSzWcyfTSNumtAeamoKofXpsjfM205q1oxLEwxbUnQSFVv/+I6oIlCvWyBC95jbCRV6ILp3cnu/59+taPJQFrV9r965S3I1sg8fV6+FWNNA6O38t249aOre5Q7y6S27WmtdrFylaOuFr/IsWtkSsdKYt8bw+hsbd7iJyQTDApJgBkD/uARePGIdD4RMdKYBSCgiE=;55x+KvR0a4LQe/OByhdslQ=="
 ---

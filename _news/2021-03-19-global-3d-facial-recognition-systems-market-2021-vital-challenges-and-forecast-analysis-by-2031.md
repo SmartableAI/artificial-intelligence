@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Global GPU for AI Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
+    excerpt: "The global GPU for AI market report is a comprehensive research that focuses on the overall consumption structure, development trends, sales models and sales of top countries in the global GPU for AI market."
+    publishedDateTime: 2021-03-18T15:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Strong Competition in Booming AI Infrastructure Market"
+    excerpt: "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,"
+    publishedDateTime: 2021-03-20T19:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/strong-competition-in-booming-ai-infrastructure-market-2021-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Machine Learning Chip Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2021 (Heraldkeepers) -- The global Machine Learning Chip market report is a comprehensive research that focuses on the overall consumption structure, development ..."
     publishedDateTime: 2021-03-17T22:55:00Z
@@ -71,31 +99,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cloud Natural Language Processing Market Size, Share, Value, and Competitive Landscape for 2021"
-    excerpt: "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.” SHARE YOUR QUERIES:  The report demonstrates detail coverage of Cloud Natural Language Processing industry and main market trends."
-    publishedDateTime: 2021-03-17T12:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-natural-language-processing-market-size-share-value-and-competitive-landscape-for-2021-2021-03-17"
+  - title: "Artificial Intelligence in the Education Sector Market report based on Share, Size, Opportunities, Research Methodology and Segmentation"
+    excerpt: "In terms of market share, the natural language processing segment is projected to contribute significantly to the global artificial intelligence market in the education sector during the forecast period,"
+    publishedDateTime: 2021-03-19T17:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-report-based-on-share-size-opportunities-research-methodology-and-segmentation-2021-03-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cosntiutional recognition will make this nation whole"
-    excerpt: "Let me start with the question of what What is it that we are engaged in, and have been ever since John Howard made the commitment at the beginning of the 2007 federal election campaign. He told the S"
-    publishedDateTime: 2021-03-17T13:00:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/cosntiutional-recognition-will-make-this-nation-whole/news-story/c4e4d5fe0a57b61c50b55047011c9d90"
-    ampWebUrl: "https://amp.theaustralian.com.au/commentary/cosntiutional-recognition-will-make-this-nation-whole/news-story/c4e4d5fe0a57b61c50b55047011c9d90"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/commentary/cosntiutional-recognition-will-make-this-nation-whole/news-story/c4e4d5fe0a57b61c50b55047011c9d90"
+  - title: "Artificial Intelligence in Medical Diagnostics Market Size by Company, Regions, Type and Application, Forecast to 2025"
+    excerpt: "The Artificial Intelligence in Medical Diagnostics market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
+    publishedDateTime: 2021-03-17T13:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-size-by-company-regions-type-and-application-forecast-to-2025-2021-03-16"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Microsoft extends digital innovation and energy transition deal with Spain's Repsol"
+    excerpt: "Microsoft said it has renewed a strategic collaboration with Repsol that begun in 2017 to focus on accelerating the digital transformation and global energy transition of the Spanish energy and petrochemical giant."
+    publishedDateTime: 2021-03-18T08:38:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-extends-digital-innovation-and-energy-transition-deal-with-spains-repsol--1376357"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 28
   - title: "Artificial Intelligence in Education System Market Segmentation, Statistics, Leading Manufacturers, Regional Study and Forecast to 2031"
     excerpt: "The New Report Artificial Intelligence in Education System Market posted through MarketResearch.Biz, covers the market panorama and its growth possibilities"
     publishedDateTime: 2021-03-18T05:13:00Z
@@ -110,6 +150,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI-based smartphone apps for risk assessment of skin cancer need more evaluation and better regulation"
+    excerpt: "Smartphone applications (“apps”) with artificial intelligence (AI) algorithms are increasingly used in healthcare. Widespread adoption of these apps must be supported by a robust evidence-base and app manufacturers’ claims appropriately regulated."
+    publishedDateTime: 2021-03-19T19:32:00Z
+    webUrl: "https://www.nature.com/articles/s41416-021-01302-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 1
 
 secured: "d+P2Jns/0XG0gfR5bwDWlZmt4mToln+9jqQBz9/ri4OqaxPyTZFbnCdSGIHe9u9y4n+iFjR56qPo3MGWbttJFARghlnrcdIHYMp1+4RpHpjFsw0vgMjW2FFJ2V8PvZ+McSi1aK2ddvllzdt//WiSGWkMQnz4Y6oDmQ7Zg3QE/QAtMw+LbfJE9krThEg1m+DAb8zNMuoVtjgyMhFqw4x8tt+rgItEKOzUQAcGgfEn71oPRrrhqfUTC70wnWAweY2xfFg4GAgsBucV6ffUKQr9A7Fgc1cODFm7g14fU28J56s4HTFweK1V7QAU9Z8e+m1DjTTPv8OlrO3+s7lS31k7brSxBWDfBdIQAGdqg8QkmxA=;6YeSHowsgjczu0u6nIBTgw=="
 ---

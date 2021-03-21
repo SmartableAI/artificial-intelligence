@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-error
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.amp"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1920
     height: 1271
     isCached: true
+
+related:
+  - title: "Assessment of medication self-administration using artificial intelligence | Nature Medicine"
+    excerpt: "Errors in medication self-administration (MSA) lead to poor treatment adherence, increased hospitalizations and higher healthcare costs. These errors are particularly common when"
+    publishedDateTime: 2021-03-18T18:14:00Z
+    webUrl: "https://www.nature.com/articles/s41591-021-01273-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 28
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-021-01273-1/MediaObjects/41591_2021_1273_Fig2_HTML.png"
+        width: 685
+        height: 257
+        isCached: true
 
 secured: "c4aK0H1xt58C3zT2w15pdML1LrPa5B6UVbxgKMTIqjM8ddWufIYjBMr6iFxL+wPtudAZqRkAT4MuMP9OsGzNoCS3Ot2iQrr3o+7wCOe0ruwCypWpqGnC0nFbBE1IVi9pjKjKn+3YYIIT5+wJpvGR5jOU0JFype/cqVnyzPcpkn8161ykTmsdGf20G7ZCfxXv5f+IB0JL+Tahb5/4+yqTWsLtGl4HdMzZeCXT2KXb7BO389yNR7lRUpz4giuuHzIscFP/xgk0WEWuIBSZSuN1y4wtRmteRvEZG5AinxFlRizfMPDjsII7wKLnup+vM9Plx0Wko1EqCY79F+RVBRVFEzWzq+/wCCEVRfWSioxWBvca++qimdp8l11YuerCwkS1w4xWXZHNf7+GnN/3rEFzCoJHpJ/FVwtHbzaO5XyL/J0ygx5zEyfw1X695e1PnkItQRKxbSbpCUJFLKy2vYZC1Dygw4vxfAp+rwd0JmDz0AVut3EUXYOp6paSXWOHtZI7rraiEnylVdeLYgfxUC5BGQ==;2OiFC8BGXcJLJLT9ocFZkQ=="
 ---

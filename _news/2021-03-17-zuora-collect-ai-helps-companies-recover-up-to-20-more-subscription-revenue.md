@@ -24,6 +24,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Startup MEDO.ai turns a new leaf for ultrasound examination, becoming a leader in AI-powered medical inspection technologies"
+    excerpt: "The stethoscope may be the one instrument common to all medical professionals today in the 21st century. Its development process from invention to widespread use over the past 200 years is probably hard to imagine."
+    publishedDateTime: 2021-03-18T02:06:00Z
+    webUrl: "https://www.digitimes.com/news/a20210317PD218.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 10
+    images:
+      - url: "https://www.digitimes.com/NewsShow/20210317PD218_files/1_r.jpg"
+        width: 336
+        height: 335
+        isCached: true
+
 secured: "vUz/HPya4Qi+Kr2OzTV0N7ASlMrZqfFp0AZUpOkVjUx84yKdEK3WRor1iz4kqcOBHE0sCSewJGWukOcW4AxH47ZFyiNLEtBR2RPdY9FEhdn420JNZQt7fJel7UKvBViEF34Zo1qa99nps3Arvx3VyJ/iL5orYfUpZTc9HopDcOLIMHjltPbjsMBgMmEODusQzIOHS8a4H7rC2P5lMfv0pzA/aV1r0ynbvy3k3rrtheLtRYTtdDNVRMn06+ujgu5dxMftySR+JPAfM59bGs3VnfmXW1TvFGwOVwER15KqSYqR9oFvKwTKADkzmrSeK8t0Wfopsz32IMiyYD8HYoWanMPEST7z5fOsA23C6lqYVoo=;RqkkYh1A1es8Kl6AtnP15w=="
 ---
 

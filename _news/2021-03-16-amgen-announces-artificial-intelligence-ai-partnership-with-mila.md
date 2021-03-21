@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Amgen announces Artificial Intelligence (AI) Partnership with Mila"
-excerpt: "CNW/ - Amgen announced today that it has entered into a multi-year partnership with Mila – Quebec Artificial Intelligence Institute. One of the"
+excerpt: "CNW/ - Amgen announced today that it has entered into a multi-year partnership with Mila – Quebec Artificial Intelligence Institute. One of the world's leading biotechnology companies, Amgen uses cutting-edge science and technology to discover and develop innovative therapeutics,"
 publishedDateTime: 2021-03-16T13:45:00Z
-originalUrl: "https://www.newswire.ca/news-releases/amgen-announces-artificial-intelligence-ai-partnership-with-mila-808204731.html"
-webUrl: "https://www.newswire.ca/news-releases/amgen-announces-artificial-intelligence-ai-partnership-with-mila-808204731.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798"
+webUrl: "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798"
 type: article
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1456317/Amgen_Canada_Amgen_announces_Artificial_Intelligence__AI__Partne.jpg?p=facebook"
-    width: 2174
-    height: 1138
+  - url: "https://mma.prnewswire.com/media/1456317/Amgen_Canada_Amgen_announces_Artificial_Intelligence__AI__Partne.jpg"
+    width: 400
+    height: 218
     isCached: true
 
-secured: "02nnVqvtifLh97C8oG7spxug/GaEJtJKahKRxHCRaCYZaY007wzLuW/4CPFNfqehtBR0UUk1GHuDW58lobEyokpcoq0VzBt796m9/7xBqavNNa4dYX1d5mv19aZauUFNmI3U0yIMjzjZ9JCexkkgGmdF+b0pvzv8nu11c5tEdo/O2ROcw36ykdEmWaDr/g7hJuUmc3lMHZKFuQX7v8aYm3dz0RB097SwYzV6tn5S1G69I8HzFAdW6QdMOr+pYQHWbV3MrLyUbC6rHc2GYMbdYHwjftYh7RSuMp5z6sPp42ICuRBV3dpAU26KIcGqfeGABQN66ebGSEbxBfw23rX14Ma0mpq4/HQL3inzhRdqOOs=;/YBAV9PbRzYozm+8zoyt0A=="
+secured: "qWa6fxA8y0GAI4+dsciaRsl35dXE8Y9fh5jkW4lUHXqbJmntI8Br2I0ABsGcRo1EPV0KUaT6BkR8RzWK/d3Oqz9YfNXbyomoW/1pJYWspSak5Xg3P0Dcqu7ySoZX/id11fURxAW0IakAuPvGBsyRTiyrOVokPc8rjzgpu/REWu9uu7wAwxs5BIu7BOa7sx5RRtH3pGT2/gYhUqR4mB3IFtpbL+DgzPExGyrOMymtY32v2EWzOyQUumC1Pau0dANtWgH3WYiL6VCoVFFcMExf2zD4t5csliISGN6t/BF2k/xJlbgedWvS3r0b2P5aAIQWnzdyn7mZVr7KhKGl0tkS7PRzOgp8j4eHuRz0GicYU34=;DXwJGhEPfn+JLs4sxHTNDA=="
 ---
 

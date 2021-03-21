@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-21T10:01:00Z
 originalUrl: "https://www.businessinsider.com/google-recruitment-pipeline-timnit-gebru-2021-3"
 webUrl: "https://www.businessinsider.com/google-recruitment-pipeline-timnit-gebru-2021-3"
 type: article
-quality: 40
-heat: 40
+quality: 42
+heat: 42
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i.insider.com/60538768f75f09001814ea83?width=1200&format=jpeg"
@@ -27,6 +28,6 @@ images:
     height: 567
     isCached: true
 
-secured: "cRle36iijKyW6ur7b6yhjj60ZgmX7Ak5Tx5QQL17zrSpbzVRONdGL/KjHUWIFKnC+AtqS+PkEpIkXNlEcBm/Ak8U+VsLl9bU7UNBeiqYxYo2ROQW2zyz0qCOEy05QK4JN8GoUJWwUnnPozuPsACd4nKwtToZ/VO7V+T87hgN7Gw/pQKXtrXRnxhE6gQPiJenfGy08Vsqmcie/9TZeox+oFJ8xUOjuDYA9DZpRpc2KQ6w8Jt7WbXvKKZTUNDDbQto2Ua8uNHOxhGpKxAbyijzjzsIre7oDrz6AcTN7JeWPRm+dCu3L/iU8uUTByB6/NJHCMiqQH9IYKp7ZmM7oXqN8xiCWEIxaaNjjppM56lbnLA=;/yjGgJ8tbjmL7S0H5coi0w=="
+secured: "O7IMNokzELGv6XMaOONjbrEj16p4EdoiiP6y8o+4nDDgMN6HzjBQc2r6btb+wkeCUbpII1QXwhk/tYJyNgvtvPLQdmmRRu0ZW5EO5s1kiBjsbg6+sj56/8Fa3fx7imYYH+aQCZZWbmphaIJ4MxHSb5bz02DcZjxAjKS+P2nxRq2AyKkvGfUbJuFXOYV6cHR1hLJ4U73Hc7NBXfjPhl5h7ilJeBCVEfQB+0yUciFYh/eqEhEp4lJJnF6SFrIhbY2T/AmPiFnRnQn2mpeW6lnXLT8xyg4kWJRnZ6Je2oqFT/Z0886P35Y3vjQb/sElLjKQ9d5kID0LuSzkgO82KjOwVK3oUa+uEh4jqHcrCe8IIRtcduvDGlsCezYxQCOQCeud9OnKGdvUdDlQ9o6D4rVmbV4fqC1sqYktJNeshyZ32u1+mZQjMHdFc3Y2xKZB+yir/JOEU0J2TMn22b+YZONNa8ZWacR8DdKGS/ElsVIlz8ijDTnyafdRiqgy0eVXPJspAvi3KZbqVLI+2VrfbOXmew==;8rDNSXn3wdcLpRnYl7QOMw=="
 ---
 

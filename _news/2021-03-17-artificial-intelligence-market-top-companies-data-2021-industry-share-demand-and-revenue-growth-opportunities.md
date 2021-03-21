@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Cloud Natural Language Processing Market Size, Share, Value, and Competitive Landscape for 2021"
+    excerpt: "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.” SHARE YOUR QUERIES:  The report demonstrates detail coverage of Cloud Natural Language Processing industry and main market trends."
+    publishedDateTime: 2021-03-17T12:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cloud-natural-language-processing-market-size-share-value-and-competitive-landscape-for-2021-2021-03-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2021 (The Expresswire) -- The overall natural language processing market is expected to grow from USD 8.61 Billion in 2018 to USD 80.68 Billion by 2026 at a CAGR of ..."
     publishedDateTime: 2021-03-17T13:27:00Z
@@ -42,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "CORRECTING and REPLACING - Iterate.ai Announces 42% Revenue Growth as Customer Demand Swells ..."
-    excerpt: "In a release under the headline “Iterate.ai Announces 142% Revenue Growth as Customer Demand Swells for Faster Digital Innovation and Competitive Differentiation” issued earlier today by Iterate.ai, please note that the percentage should be 42%,"
-    publishedDateTime: 2021-03-16T22:52:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-colorado-4d89bc408d4a6ee586c877aadf203274"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "zi+I4g2lV80j3p6y9m8F3oXQWAGJxJPGH9UhSn08S8o9XjekCfhd55aumiT1IyImcH5qvVIucf1/vTmLbFeGJtJbkzERf/5xX6YOyiSKIHfsoUOosmVlehdlQoxiNQd+E/kL83tlj8KM5+HVQx3DMQcRXb+CHZvNvjNsvEuMvhV8QJISMEld6DP3KA56N3MWGUQkcX6kCzSjmqPUHfnsNsR2uBl+QIqnbVokGYGZdaOLKul8Opqp72gDDxjjc8t0WDjsshA2dSDEOW4Es2xOfanV+K4Y4RJtAc4m3jBHAxNRk9zp2XyYOlyR39QaJwGUmRwKYKdTtunCEuubR3GYDb2rmyK8okIKa+SWY10nHqE=;//Vtu/+z92fF3qEtBBHY6Q=="
