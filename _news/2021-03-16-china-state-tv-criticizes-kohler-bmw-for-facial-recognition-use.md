@@ -27,20 +27,6 @@ images:
 related:
   - title: "China state TV raps Kohler, BMW for using facial recognition"
     excerpt: "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for the use of facial recognition technology on visitors to their outlets in possible violation"
-    publishedDateTime: 2021-03-16T11:18:00Z
-    webUrl: "https://apnews.com/article/technology-lifestyle-beijing-china-85dafdf87c3d4798bf8e36070c9b12f4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/ed6a9f3d96ca422b84425a6269384838/3000.jpeg"
-        width: 3000
-        height: 1999
-        isCached: true
-  - title: "China state TV raps Kohler, BMW for using facial recognition"
-    excerpt: "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for the use of facial recognition technology on visitors to their outlets in possible violation"
     publishedDateTime: 2021-03-16T17:18:00Z
     webUrl: "https://apnews.com/85dafdf87c3d4798bf8e36070c9b12f4"
     type: article

@@ -55,22 +55,6 @@ related:
         width: 533
         height: 400
         isCached: true
-  - title: "Keeping Startups Alive Through FinTech Consolidation"
-    excerpt: "All of the FinTech solutions in the world cannot guarantee success ... It's the viewpoint of Zeni, which recently announced the launch of its artificial intelligence (AI)-powered financial concierge service for startups. The solution links business ..."
-    publishedDateTime: 2021-03-16T11:59:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/zeni-startup-consolidation-financial-management-457x283.jpg"
-        width: 457
-        height: 283
-        isCached: true
   - title: "Miami fintech Technisys brings artificial intelligence to digital banking with Kona acquisition"
     excerpt: "Miami financial technology firm Technisys plans to elevate its digital banking platform with its acquisition of Kona, a Uruguay-based company that uses artificial intelligence technology to improve customer experiences."
     publishedDateTime: 2021-03-16T17:24:00Z

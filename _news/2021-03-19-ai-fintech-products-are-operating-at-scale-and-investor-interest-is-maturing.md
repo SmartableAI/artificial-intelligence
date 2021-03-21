@@ -45,22 +45,6 @@ related:
         width: 1024
         height: 655
         isCached: true
-  - title: "Keeping Startups Alive Through FinTech Consolidation"
-    excerpt: "All of the FinTech solutions in the world cannot guarantee success ... It's the viewpoint of Zeni, which recently announced the launch of its artificial intelligence (AI)-powered financial concierge service for startups. The solution links business ..."
-    publishedDateTime: 2021-03-16T11:59:00Z
-    webUrl: "https://www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/"
-    ampWebUrl: "https://www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/zeni-startup-consolidation-financial-management/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/zeni-startup-consolidation-financial-management-457x283.jpg"
-        width: 457
-        height: 283
-        isCached: true
   - title: "FinTech firm launches Data and Compliance Summit"
     excerpt: "To register your place, visit hivera.ai/the-data-and-compliance-virtual-summit/ A message from the Editor: Thank you for reading this story on our website. While I have your attention, I also have an important request to make of you. In order for us to ..."
     publishedDateTime: 2021-03-18T13:00:00Z

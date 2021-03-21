@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-applicatio
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/amp/"
 type: article
 quality: 71
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Orion to speak at NDIA National Security AI Conference and Exhibition (NSAICE)"
-    excerpt: "Orion Labs, Inc., the leading voice-first, intelligent collaboration platform that empowers deskless workers, today announced Orion Labs's Chief Technology Officer and Co-Founder Greg Albrecht has been selected to speak during the NDIA"
-    publishedDateTime: 2021-03-16T12:17:00Z
-    webUrl: "https://www.lelezard.com/en/news-19701076.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 52
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Artificial Intelligence in the Education Sector Market report based on Share, Size, Opportunities, Research Methodology and Segmentation"
     excerpt: "In terms of market share, the natural language processing segment is projected to contribute significantly to the global artificial intelligence market in the education sector during the forecast period,"

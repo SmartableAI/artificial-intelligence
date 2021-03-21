@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-an-enormous-m
 webUrl: "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-an-enormous-market-opportunity-in-tying-ai-to-lending.html"
 type: article
 quality: 67
-heat: 78
+heat: 79
 published: true
 
 provider:

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.geektime.com/israeli-startup-noogata-looks-to-replace-da
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-noogata-looks-to-replace-data-science-teams-with-ai/amp/"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Geektime
@@ -26,68 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Noogata raises $12M seed round for its no-code enterprise AI platform"
-    excerpt: "Noogata, a startup that offers a no-code AI solution for enterprises, today announced that it has raised a $12 million seed round led by Team8, with participation from Skylake Capital. The company, which was founded in 2019 and counts Colgate and PepsiCo among its customers,"
-    publishedDateTime: 2021-03-16T12:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 187
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222192913.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "OctoML raises $28M Series B for its machine learning acceleration platform"
-    excerpt: "OctoML, a Seattle-based startup that offers a machine learning acceleration platform build on top of the open-source Apache TVM compiler framework project, today announced that it has raised a $28 million Series B funding round led by Addition Captial."
-    publishedDateTime: 2021-03-17T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222422906.jpg?w=1024"
-        width: 1024
-        height: 669
-        isCached: true
-  - title: "AI and big data analytics startup Noogata nets $12M"
-    excerpt: "Noogata, a startup developing big data analytics and predictive modeling solutions for the enterprise, raised $12 million."
-    publishedDateTime: 2021-03-16T12:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/"
-    ampWebUrl: "https://venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/ai-and-big-data-analytics-startup-noogata-nets-12m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/2b8ab143-423c-47d7-88d0-f31e9f51a01b-e1615408437690.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Torch.AI raises $30M for AI that unifies disparate enterprise data"
-    excerpt: "Torch.AI, a startup developing a platform to normalize and analyze disparate data, has raised $30 million in venture funding."
-    publishedDateTime: 2021-03-17T11:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 69
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Where AI and BI meet: Israeli startup Noogata secures Seed funding"
     excerpt: "The Team8 portfolio company helps enterprises streamline business intelligence with a no-code, no data-science team AI"
     publishedDateTime: 2021-03-19T14:20:00Z
@@ -117,20 +55,6 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/03/Noogata-Full-Team_Credit_-Nelli-Guy-scaled.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "Viz.ai Raises $71 Million Series C Round Led by Scale Venture Partners and Insight Partners"
-    excerpt: "Viz.ai today announced that it has raised $71 million in Series C funding, led by Scale Venture Partners and Insight Partners with participation from Greenoaks, Kleiner Perkins, Threshold Ventures, CRV,"
-    publishedDateTime: 2021-03-17T12:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-19703821.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "MaWUnWeMYE90ykXUdNzGBwnD8cwsootVKAh1zIWXAvxqM3LTKDvhd1Qxpnj1tAAsMC1Xu7DIghZskFUR57VqdUAwIWJRgZ9qOq1flIxO2iIp21vWVh1n3BP7ZieEKOYjH2exiOhpv4VjFZN71OSqhsD+YL83r5Fq28aTAzTmCWTlepTVMShiGPJvowNQf6zmTMNNstQshstsOIOSPMkO6biR06+ZLrCCzSOPXNikusYJP15uis7fq522dkC7iXC+M//k41lsPlcZ5qrtnI9XTEPOn4VhXg4QQU72rlqF/MHE6zffrccMOLNB3mLLbwGtfe4lNmJhcnywqMoLsKwRyjSekqbJ8gBDt/4m4ygfiT/dJBdoQOkDEaTnEBLvwpJZcFfk8V13r1exJpKY2b9Sib7wmMUkD1ax/6W5/WpJRbuXhCbXuKIPofxwMhXCTb10d7WQHLPRbRJroRx3WbQ/RuDY3BTNIn3qkwBnQX6LlpXsVHQWZcGJzxQu9u2I5xTQPUw3D0eTA1fg+D4tvMsnfw==;d7+yV52REdxivuDM1v3dNA=="

@@ -99,20 +99,6 @@ related:
         width: 1013
         height: 675
         isCached: true
-  - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
-    excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft's"
-    publishedDateTime: 2021-03-16T12:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-19700983.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 48
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "New Cachengo computer vision solution supports edge facial recognition deployments"
     excerpt: "The Cachengo on-premise optimized edge service is capable of delivering AI applications like face biometrics without transmitting data to and from the cloud."
     publishedDateTime: 2021-03-19T19:25:00Z

@@ -24,36 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Viz.ai Raises $71 Million in New Funding"
-    excerpt: "Viz.ai has raised $71 million in new venture-capital funding."
-    publishedDateTime: 2021-03-17T11:30:00Z
-    webUrl: "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-312633/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Stor.ai Raises $21 Million As Investors Flock To Online Grocery"
-    excerpt: "Tel Aviv-based grocery tech solution Stor.ai (formerly Self Point) has just raised $21 million in its most recent funding round."
-    publishedDateTime: 2021-03-16T16:34:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/online-grocery-investment-surge/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/online-grocery-investment-surge/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/online-grocery-investment-surge/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/online-grocery-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Cornell AI startup secures $1 million in seed funding"
     excerpt: "Iterate Labs, an Ithaca-based startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety, has obtained $1 million in"
     publishedDateTime: 2021-03-19T16:22:00Z
@@ -70,19 +40,19 @@ related:
         width: 670
         height: 377
         isCached: true
-  - title: "Stroke detection startup Viz.ai raises $71M"
-    excerpt: "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke."
-    publishedDateTime: 2021-03-20T00:07:00Z
-    webUrl: "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/"
+  - title: "Lease workflow startup secures seed funding"
+    excerpt: "The startup company’s software uses artificial intelligence to ... properly reviewing and extracting one lease contract for accurate compliance can be time consuming. THe AI embedded in Trullion automatically translates agreements into accounting ..."
+    publishedDateTime: 2021-03-16T18:36:00Z
+    webUrl: "https://www.accountingtoday.com/news/lease-accounting-workflow-startup-trullion-secures-seed-funding"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 22
     images:
-      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
-        width: 725
-        height: 482
+      - url: "https://arizent.brightspotcdn.com/dims4/default/6dded72/2147483647/strip/true/crop/4800x2520+0+90/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F45%2F7e%2Fb4fd741743b2bc5396d78af477ff%2Fact120320-vc-funding-chart-2020-1.jpeg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "vZVMfGb8hHCUcmT2qPMyQJOAM09P0/kUURV0zZPQSFx2ZMSndSRDi65EYJze/tThKIWXLbBI8e8Spnf6k6LT1G6vyBnHlKrScUCwGyV+FB8tUsOyaYTKevtwBO9gU2eR/b2HdTJp0ko13cpB7rdGUVxxrRpi8cBtpdHzkiB05cf3Nt1IAtWORQnmVlMzPfMV5Mq/d6mTv2cuz9zXMbMmtpTF38Lj0szx/c5oj1CPfoPKYiPoKGlIR56TZt+4GXCNJF5cvpF/g/2yO4e67gm0k0+U74ef2UKjW6k6Gd/0vCLs0yD3LPoxtld1uWREh96MQIdQdVYLXYEmmVwap3bJp/Z0NRGJHf+Qt7RuU6nTb5D4eXM25OeQL9GUrSyuKkF4wF630j9hJvGNrsZf7CSiA4LOK8e4r4a2OkRqNs8p+DCP9GqGt3xrsWGSPjuHHjGO7GgPaqXhFcw4gk5yzLYXqIqVjpsKYnfjZQaYFkz7uo5OWjRnFvIaWzCYhQwUgK1elshhlDoy4ArLjt+6CF3+wg==;eStl2/fVv4rjnwXVJCMfKg=="

@@ -105,20 +105,6 @@ related:
         width: 1013
         height: 675
         isCached: true
-  - title: "Datadobi Announces Support for File Data Protection on Microsoft Azure Blob Storage"
-    excerpt: "Datadobi, a global leader in unstructured data management software, today announced it has added support for Azure Blob storage in DobiProtect 5.11, enabling customers to protect their data from any NAS or cloud filesystem to Microsoft's"
-    publishedDateTime: 2021-03-16T12:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-19700983.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 48
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Facial Recognition Co. Dodges Suit Over OkCupid Photos"
     excerpt: "A facial recognition software maker has won dismissal of proposed class claims accusing it of harvesting facial data from OkCupid dating profile photos without obtaining consent from users or making certain disclosures required under Illinois' landmark biometric privacy law."
     publishedDateTime: 2021-03-17T21:59:00Z

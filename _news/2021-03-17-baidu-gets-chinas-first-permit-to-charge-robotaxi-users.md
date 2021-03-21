@@ -41,20 +41,6 @@ related:
         width: 1080
         height: 626
         isCached: true
-  - title: "Baidu to test paid robotaxi services"
-    excerpt: "The program, approved by local traffic authorities, will dispatch 35 self-driving vehicles to pilot rides in the north China city of Cangzhou, Baidu said. The company obtained clearance after completing a key requirement: 50,000 kilometers of robotaxi ..."
-    publishedDateTime: 2021-03-18T18:36:00Z
-    webUrl: "https://www.autonews.com/china/baidu-test-paid-robotaxi-services"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Baidu%20started%20testing%20robotaxis%20in%20Cangzhou%20in%20Aug%202020.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "kF48IAy19d/FaUynivP9lrszbK/BUmbMDxVoJYPf9HUJ6Y0IuReVCBbUPYRZM6A/s4j8ME2iftShKyOwqjr4dcIPkVuHshwabkauKWs4TpvYlBBfxfBM/DeaaxyzkWreg3uNxk+9leZpRZ1djJ/hqKhU1gKMeWsaaStJ/OsJOvq8JGGF5rl/ibhdsu7x7iXX8afkMqcXuUOdIdI6KDZQtQtLCX4c5w6Frkck8m6fJXO8RoKl9EWZK8skAAWqtqZ/D/uSK2kZP6dd/kg9T4tVk/U1rvuXgczsZahRgZuZlbcshXd9cUr6jHMm5ew+9AWmUQr6N+b0A+cffjd6nNUl5g+mJaAsNgmcrRPccPk80KI=;epShlB6BblgHnhhGz4R2mA=="
 ---

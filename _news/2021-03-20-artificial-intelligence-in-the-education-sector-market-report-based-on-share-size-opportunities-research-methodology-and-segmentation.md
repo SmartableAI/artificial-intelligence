@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Orion to speak at NDIA National Security AI Conference and Exhibition (NSAICE)"
-    excerpt: "Orion Labs, Inc., the leading voice-first, intelligent collaboration platform that empowers deskless workers, today announced Orion Labs's Chief Technology Officer and Co-Founder Greg Albrecht has been selected to speak during the NDIA"
-    publishedDateTime: 2021-03-16T12:17:00Z
-    webUrl: "https://www.lelezard.com/en/news-19701076.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 52
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Technique based on artificial intelligence permits automation of crop seed analysis"
     excerpt: "In Brazil, researchers affiliated with the Center for Nuclear Energy in Agriculture (CENA) and the Luiz de Queiroz College of Agriculture (ESALQ), both part of the University of São Paulo (USP), have developed a methodology based on artificial intelligence to automate and streamline seed quality analysis,"
     publishedDateTime: 2021-03-19T17:38:00Z

@@ -24,6 +24,31 @@ images:
     isCached: true
 
 related:
+  - title: "Torch.AI raises $30M for AI that unifies disparate enterprise data"
+    excerpt: "Torch.AI, a startup developing a platform to normalize and analyze disparate data, has raised $30 million in venture funding."
+    publishedDateTime: 2021-03-17T11:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AI patent intelligence platform PatSnap secures $300M"
+    excerpt: "PatSnap, a startup developing AI technologies to analyze and organize patents for R&D, has raised $300 million.Read MoreRead more on 'VentureBeat'"
+    publishedDateTime: 2021-03-16T23:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-patent-intelligence-platform-patsnap-secures-$300m-9921982"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Startup Viz.ai Raises $71 Million in New Funding"
     excerpt: "Viz.ai has raised $71 million in new venture-capital funding."
     publishedDateTime: 2021-03-17T11:30:00Z
@@ -38,52 +63,15 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Stor.ai Raises $21 Million As Investors Flock To Online Grocery"
-    excerpt: "Tel Aviv-based grocery tech solution Stor.ai (formerly Self Point) has just raised $21 million in its most recent funding round."
-    publishedDateTime: 2021-03-16T16:34:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/online-grocery-investment-surge/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/online-grocery-investment-surge/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/online-grocery-investment-surge/amp/"
+  - title: "Leawood tech startup Torch.AI raises $30M Series A round"
+    excerpt: "Leawood-based tech startup Torch.AI raised a $30 million Series A round that will create hundreds of jobs. WestCap Group led the round. The San Francisco-based growth equity firm has invested in multibillion-dollar companies such as Airbnb, iCapital and Ipreo."
+    publishedDateTime: 2021-03-17T19:25:00Z
+    webUrl: "https://www.bizjournals.com/kansascity/news/2021/03/17/torchai-leawood-tech-startup-raises-30m-series-a.html"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/online-grocery-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Cornell AI startup secures $1 million in seed funding"
-    excerpt: "Iterate Labs, an Ithaca-based startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety, has obtained $1 million in"
-    publishedDateTime: 2021-03-19T16:22:00Z
-    webUrl: "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.html"
-    ampWebUrl: "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html"
-    cdnAmpWebUrl: "https://www-ithaca-com.cdn.ampproject.org/c/s/www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html"
-    type: article
-    provider:
-      name: Ithaca Times
-      domain: ithaca.com
-    quality: 57
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/ithaca.com/content/tncms/assets/v3/editorial/d/6d/d6d20eb2-88cf-11eb-ac34-1f26f156445b/6054d0acd2f62.image.jpg"
-        width: 670
-        height: 377
-        isCached: true
-  - title: "Cornell AI startup secures $1 million in seed funding"
-    excerpt: "Iterate Labs, a startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety,"
-    publishedDateTime: 2021-03-18T15:28:00Z
-    webUrl: "https://www.miragenews.com/cornell-ai-startup-secures-1-million-in-seed-530652/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 37
-    images:
-      - url: "https://news.cornell.edu/sites/default/files/styles/breakout/public/2021-03/0318_iterate.jpg?itok=x13vdb9m"
-        width: 670
-        height: 377
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "YRWfHIZgyvafx4VoBLeXOmwyF2upxFaD+c10f170CqorAnzOGS0uUIvlje8G8/G+LS1SIHvqxh+sqof+gF+gJERpSkEIR6UQVtHAvk55Qo6ibs6pJtPlzYw5MV6RcWKmg/QCrbC0pOudj5HRDESzrU3/LbxHGIHw/fPwnF84TpQun5UhVBxVKcmoBbv/8qMwUpcmiJ6GqEtS20yC8wRIvt5371XYjLDGugsMWqphQB7DCrZZ8TBtmMG2Mgtz3xR3E+Dhqo9JU3xN0KwbdCYRMcJzDnqM29sWuGL87yZWW0us7FSJtIsuqRD8VSZa2eRTapP2h2vzHgDTaz1oUIhC4h50oU0nxM9C73pC3Igjq/hzgD9HOr1hQppaW/eBs3QBCNC1LV7eWfSeQbnUZo1Wys3v3g/CN5OAF6Pa31pB24UtVAp1xoZ++KSFAN3Txn5IDIVnIlBz01/lZzwlfQGsQI1JaPD8fR3+soDXjLLvoGp69rrbTHdH1FCsCDNqqkAUOY/0BazVCtMebMh8qvRo+g==;isVSmvxceZyBNQa3V2zS/Q=="
 ---
