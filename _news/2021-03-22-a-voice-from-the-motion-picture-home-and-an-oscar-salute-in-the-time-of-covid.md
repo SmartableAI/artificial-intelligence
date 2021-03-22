@@ -1,10 +1,10 @@
 ---
 category: news
 title: "A Voice From The Motion Picture Home, And An Oscar Salute In The Time Of Covid"
-excerpt: "At 8:45 p.m. on Thursday night came one of my favorite regular reports on the state of the entertainment industry and its denizens. That is, an emailed “blog” from lawyer and friend Robert Mirisch"
+excerpt: "Based on the Mirisch reports (which Bob has graciously allowed us to quote), recognition would be in order for having seen the residents through a year of soul-damaging isolation, never mind the ..."
 publishedDateTime: 2021-03-21T22:30:00Z
-originalUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/#!"
-webUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/#!"
+originalUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/"
+webUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/"
 ampWebUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/amp/"
 cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/amp/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 575
     isCached: true
 
-secured: "/9wZ4h9+dJpSbfLO8ojwyDBmFF6FSDq52iVDYWM+cMF9FhI9Aosz4mD7c88CJdCwliz4/ckxYJIoPqWGYbfmKY3LZ3N5CAKiUwrk/NojQ7nT3HhYCe26jpKQ29YHotMqbFiwEQorv9xE0XcT/vIPe0dmmd9hA+cVSeEMdIB3eiD5rfpOnKRMFz/iwD4TzldwellOFQFci2PvsG6vS/z//C2/yZgloPVyG47AoYkOG6vBhBPkcR8ZnxOM3qFQblGJ+01ycWdNzo5GMwgrB0lOES+yyzUZdOmdzCuA/V07umBkQXCEs/A9+/vv/kbOodJIbKzYLN77A4WAiQay1A3HmlGCeEcICyaQGnDJlKoDTNA=;LbQoZAciB/314E1R1XrsrQ=="
+secured: "ShzwOdF21DhkZ6hxWT0UYfcIHLqanxWH4yJ1GvJx0FiAFOSjTs10TNL4dSOUM755bVl2+tcSFp2c/jmUtvRaRnwW1Kma3Ejsjd4Ya4LSdj/oJ/eQN0yZUWORIUZEmwg2E4eQ40BgEWWxPMklE1/cbDAgBlrJOM8piACVrSL5d5H/W4DtuEcJzjz0L/bzkrmaWN25amTM0vsBrKhJ5JQoTfeBllzOy6al2ihcJHOyhNaq/rw205bY7LNzL5GphKBdndZelKnH8k7L8yADPeWDBFQzjA89AFk+nNM0M6VJYaLy9fj4fsxFPcfvldYUcom1Yq+x9hH25co7/DNj8ygCh1P7thFstjEomaOruJAPPEA=;K2SvQAmC1Z0L//ooEcrpKA=="
 ---
 

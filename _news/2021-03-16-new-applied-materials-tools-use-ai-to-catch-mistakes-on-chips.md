@@ -1,22 +1,17 @@
 ---
 category: news
-title: "New Applied Materials tools use AI to catch mistakes on chips"
-excerpt: "A new semiconductor manufacturing technology from Applied Materials uses artificial intelligence, or AI, to spot mistakes in chips more effectively, the U.S. company said on Tuesday."
-publishedDateTime: 2021-03-16T10:41:00Z
-originalUrl: "https://www.reuters.com/article/applied-tech/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips-idUSL1N2LA2CC"
-webUrl: "https://www.reuters.com/article/applied-tech/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips-idUSL1N2LA2CC"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B81JO"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B81JO"
+title: "New Applied Materials Tools Use AI to Catch Mistakes on Chips"
+excerpt: "A new semiconductor manufacturing technology from Applied Materials uses artificial intelligence, or AI, to spot mistakes in chips more effectively, the U.S. company said on Tuesday. Modern chip manufacturing happens in factories that cost upward of $18 billion each to build and requires hundreds of separate steps."
+publishedDateTime: 2021-03-16T07:41:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips"
 type: article
-quality: 104
-heat: 124
-published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,44 +19,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555065077&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0VB"
-    width: 817
-    height: 545
-    isCached: true
-
-related:
-  - title: "Applied Materials brings AI and big data into semiconductor inspection machines"
-    excerpt: "Applied Materials has launched a new generation of optical semiconductor wafer inspection machines that incorporate AI."
-    publishedDateTime: 2021-03-16T11:30:00Z
-    webUrl: "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/"
-    ampWebUrl: "https://venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/amat-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "AI Meets Chipmaking: Applied Materials Incorporates AI In Wafer Inspection Process"
-    excerpt: "A chip designer may have the most efficient architecture around ... The ExtractAI software essentially uses deep learning (AI) to try to better interpret the results of optical scanners, processing the optical data while using their SEMVision G7 e-beam ..."
-    publishedDateTime: 2021-03-19T17:08:00Z
-    webUrl: "https://www.anandtech.com/show/16565/applied-materials-wafer-inspection-tools-use-ai-and-big-data-to-cut-inspection-costs-by-3x"
-    type: article
-    provider:
-      name: AnandTech
-      domain: anandtech.com
-    quality: 48
-    images:
-      - url: "https://images.anandtech.com/doci/16565/Applied%20Materials_New%20Playbook%20for%20Process%20Control_678x452.jpg"
-        width: 678
-        height: 381
-        isCached: true
-
-secured: "XbBPv+C0Q9g16FTGClDe9jlgTq5y4Mh10t3I8akCNhVQvu15tY43ozUysJfDHYJCelJQUnL7SX6GvpYZyIzrIi1Jw8/fk+WLoILWErcFdlLhG1jnlWl1+MBa6jpOj9+tX00s2TdnXvHnPyn+OgFEp85R6i3V8PACGi5nMlspP2/Zhp7Mwr2vK+UtEFUNE2Fr/CkV89odQzvepOKjPUnZiGpJOACCJ0O2ZgAokjgtGUYAnHgb4QLEPNMxBEhzlXpIRCInqveNHtaLK5jk6Pt5kl5ybzBEcjw7PqU4VeCN/PN6LpCKI6mFJHJ1Gc9Ud71C7gRmHcWXC7Oorwie3IbxzfhmFVcFJJoFK+8Z6odCSHwarTAhoToGZcfBtZ51Pm583ygDFTBYVtN6c4pCpbPEkd/ve68/bIOD3fAWpISXDR227LGHTIsOTd2mH0flpHoJEQ6dZaOXsZ1d7sA/k9SaWzL3ROWL1r/25r+X0udDPsvm0ZCwmVmHg1GymLj+xzoXjihpO/s2iWgQUmsp45AOxg==;kO3uVC+GUtUaDFKddnQpig=="
+secured: "LdPRQMg6hbJ6QFWInPGDQXs5pxxVl7dlrNXeN5Dky+xzmUztQu6BwH2fPk9zBbrVTdJ3+LZ61IJnxFWFlDaGTBAhTwUT4Y2/zzYWkpeIVniS/mv+lX4z2tzODqUaPfSZ4ytqdaZaNW4p61B1PFOLESt8+wjquNPBScJfAyX9PpTCVlEEeWq8SWXm6dW3+2AOD63ExRn62y5eNHclEzPcj94DmrLknJYkLbAPws/CCV0+5sJphsZ1dZ6lAK/KYIIGccYDbjK51sRcduABUjCmt8y1ngfCIdqYMt88ZFhQ9HJ9Iw7FTxlP95wLLkRBzQdyaXN+vVOqg4Avu4AeQRcmw7xKibjmWGb/CoC4OEQjQo0AOCWMohIhYCjfpHJ95uHb8AEoPU1idQ1/+lCQg0FPXAYP/X7rJlTATQSWAOCuSU+p9e/oEGKVO0byGx/pPSuC7YAnKWhfSH6gakrdgCe1VWne+PyhIpQ/TF0h/4ntAvA3Z8e97HtbGkiAKXlkoHc9kS7hIqpl8CS26ML76O4cLA==;TZgwnRC/ZZfQigzGaBnG1w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/business-technolog
 webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "ActiveOps updates its Workware+ platform for Microsoft Azure users"
-    excerpt: "Workware+ from ActiveOps now delivers a deeper integration with Azure, bringing cloud-based Workware+ industry solutions to Microsoft users worldwide"
-    publishedDateTime: 2021-03-17T09:01:00Z
-    webUrl: "https://www.wboc.com/story/43511655/activeops-updates-its-workware-platform-for-microsoft-azure-users"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 34
   - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
     excerpt: "By making it easy to connect LoRa devices to Azure and by providing insights generated with Azure Cognitive Services and Azure AI, Webee and Semtech are simplifying IoT for our joint customers.” About Semtech Semtech Corporation is a leading supplier of ..."
     publishedDateTime: 2021-03-17T18:00:00Z

@@ -1,54 +1,20 @@
 ---
 category: news
-title: "Feedzai Fairband: World’s most advanced framework for AI fairness"
-excerpt: "Particularly in the fintech industry, there’s a risk that AI systems deny access to financial services disproportionately across people from different groups, based on race, age, place of residence, profession, or employment status. Access to banking ..."
-publishedDateTime: 2021-03-17T08:07:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
+title: "Feedzai Fairband: World's most advanced framework for AI fairness"
+excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+publishedDateTime: 2021-03-17T08:19:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
-  - AI in Finance
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "AI enables privacy and fairness"
-    excerpt: "Dilemmas posed to individual privacy, data sharing and fairness by uses of AI technologies were explored during the annual PI.lab conference in The Hague on the 6 th of December 2019. Many issues have been discussed. Several TNO experts contributed their ..."
-    publishedDateTime: 2021-03-18T18:47:00Z
-    webUrl: "https://www.tno.nl/en/focus-areas/artificial-intelligence/application-areas/challenges/privacy-and-ethics-in-ai/pi-lab/"
-    type: article
-    provider:
-      name: TNO
-      domain: www.tno.nl
-    quality: 39
-    images:
-      - url: "https://www.tno.nl/media/15294/ai-enables-privacy-and-fairness.png?anchor=center&mode=crop&width=1200&height=675&rnd=132248451720000000&overlay=overlay_1200x628.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Feedzai Inc: Feedzai Fairband: World's most advanced framework for AI fairness"
-    excerpt: "New patent-pending AutoML algorithm that automatically discovers less biased machine learning models with zero additional model training cost while increasing model fairness by 93%Innovation recognize"
-    publishedDateTime: 2021-03-17T08:07:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-03/52316527-feedzai-inc-feedzai-fairband-world-s-most-advanced-framework-for-ai-fairness-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
-
-secured: "Oe9G7BHDoMLegupnbObcBkR2DBScRsRr9S86TC3O54ViCFAVubvetnEgenBLMW148myeBzOpkKLHGDdieLPKY5Wix7YDTdruhH/7+J29dsFIegQXu7N42GmCYIJIQuNxSYcRIPJlr2GxBqjNTHT6n4rN889Uv4ivDJEDlgu6Pe5MaQFCztWY1Z60ckrDhEPs4slpewfZ0wugCv4dVxLVCl9WtYAhJSOmi13gIsmCrMy0OvzSQoy65pgGYAoW236/2zE/AN+/aRf5nM0LUe8kJwZ8UY/SvSAzJEYUVevxzN7Qx+ENuXN82NhLi7KnkdZLwZ32hT1FU2Mb0z9vqgoSlPNBGWezKddw6mA0hw5fS+w=;nkLrKYJEtEbiAowwxl6OGQ=="
+secured: "HoZvVYjVk8zSoKpMu3Ytbcyvr9GuWtHuXUlfK2bz2KlAqdu69DKXtP9culIwz8mCLTDezMJt6jslaGlkv6djvnfn8zKhOpi+GRNmLyI00bv3b4foJ+klvbWP4i92e+43enwM5iXIZZfB9igN6qsVq2E9w1HYmeb0ZRtMPf1QTfUkla+DxEBZQUCaf0MjiAMd88xVzJ34ZazMyNOl/fBayTuU7tHk00hhiHqRn9RMac4U8MfaBK0KvztYm0Ajs2UXgaAcoT/zUa7ADvg/nCDSIv4mFbD5Nzm460DZ+TLuw8VSNLq9qd0X95UQ5psg1u/3b6aW1PktB7/3fa6cV6cqmWMTzQMI7HQm6fpgJ9XLd4o=;WoZCO5WFe+4wjY1v3lZPgQ=="
 ---
 
