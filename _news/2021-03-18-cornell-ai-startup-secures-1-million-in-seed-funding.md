@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Viz.ai Raises $71 Million in New Funding"
-    excerpt: "Viz.ai has raised $71 million in new venture-capital funding."
-    publishedDateTime: 2021-03-17T11:30:00Z
-    webUrl: "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
-    images:
-      - url: "https://images.wsj.net/im-312633/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Cornell AI startup secures $1 million in seed funding"
     excerpt: "Iterate Labs, an Ithaca-based startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety, has obtained $1 million in"
     publishedDateTime: 2021-03-19T16:22:00Z
@@ -54,19 +40,21 @@ related:
         width: 670
         height: 377
         isCached: true
-  - title: "Stroke detection startup Viz.ai raises $71M"
-    excerpt: "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke."
-    publishedDateTime: 2021-03-20T00:07:00Z
-    webUrl: "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/"
+  - title: "Where AI and BI meet: Israeli startup Noogata secures Seed funding"
+    excerpt: "The Team8 portfolio company helps enterprises streamline business intelligence with a no-code, no data-science team AI"
+    publishedDateTime: 2021-03-19T14:20:00Z
+    webUrl: "https://www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/"
+    ampWebUrl: "https://www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
+      name: Geektime
+      domain: geektime.com
+    quality: 57
     images:
-      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
-        width: 725
-        height: 482
+      - url: "https://www.geektime.com/content/images/2021/03/Noogata-Leadership-Team_credit_Doron-Lezter-1615813398-1536x1156.jpg"
+        width: 1536
+        height: 1156
         isCached: true
 
 secured: "vZVMfGb8hHCUcmT2qPMyQJOAM09P0/kUURV0zZPQSFx2ZMSndSRDi65EYJze/tThKIWXLbBI8e8Spnf6k6LT1G6vyBnHlKrScUCwGyV+FB8tUsOyaYTKevtwBO9gU2eR/b2HdTJp0ko13cpB7rdGUVxxrRpi8cBtpdHzkiB05cf3Nt1IAtWORQnmVlMzPfMV5Mq/d6mTv2cuz9zXMbMmtpTF38Lj0szx/c5oj1CPfoPKYiPoKGlIR56TZt+4GXCNJF5cvpF/g/2yO4e67gm0k0+U74ef2UKjW6k6Gd/0vCLs0yD3LPoxtld1uWREh96MQIdQdVYLXYEmmVwap3bJp/Z0NRGJHf+Qt7RuU6nTb5D4eXM25OeQL9GUrSyuKkF4wF630j9hJvGNrsZf7CSiA4LOK8e4r4a2OkRqNs8p+DCP9GqGt3xrsWGSPjuHHjGO7GgPaqXhFcw4gk5yzLYXqIqVjpsKYnfjZQaYFkz7uo5OWjRnFvIaWzCYhQwUgK1elshhlDoy4ArLjt+6CF3+wg==;eStl2/fVv4rjnwXVJCMfKg=="

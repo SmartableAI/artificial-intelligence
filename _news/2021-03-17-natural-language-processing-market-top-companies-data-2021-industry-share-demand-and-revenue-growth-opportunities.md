@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Global Cloud Natural Language Processing Market Size, Share, Value, and Competitive Landscape for 2021"
-    excerpt: "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.” SHARE YOUR QUERIES:  The report demonstrates detail coverage of Cloud Natural Language Processing industry and main market trends."
-    publishedDateTime: 2021-03-17T12:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cloud-natural-language-processing-market-size-share-value-and-competitive-landscape-for-2021-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities"
-    excerpt: "“Google, Amazon and Other Prominent Market Players to Gain Competitive Edge Through Innovative Product Launches and Strategic Partnerships” In January 2017, Google launched its Cloud AutoML. It uses Google’s Cloud Vision application programming ..."
-    publishedDateTime: 2021-03-17T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "gDUDldL8UDqOHV+gyRyjmQWEP+04aWocR+Z1AVm8Pu8EynHN9D+B1PQ8yLfyKbwDWTREhtPk7STfMHJtVHs4KRgvLFGp3KTz5rflpaOgHF2Xialj5ckbfxgNfjbxSEMTOVq1Cxe8qGyMcuQCN3FNy545k6kYm/ZbZ6jfFlX5/jvNdG5JfFFeZvX3xqN4Ziwu+Joi0rTDT7KRGN+3VtiUON1HmHauiRZhyFrlWn3A4XvM0pOhn02nF2s4QjnEFxqfK8PCRyYKmnvEh+py2+ELs/xRWJjmwY2fjYHDiHWTj5XVoHB7FQUevP2h8EPL1s1FKX4eQ1BrRWF59O/unvyTMU54tGMmjgKPaJsV13Q0gsQ=;5ZEYhZw4x+JpBQU/RnlciQ=="
 ---

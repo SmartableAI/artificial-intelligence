@@ -9,7 +9,7 @@ ampWebUrl: "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-s
 cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "MWAA sells facial recognition system to Pangiam"
+    excerpt: "VeriScan, a facial-recognition system developed by the Metropolitan Washington Airports Authority, has been sold to Alexandria-based Pangiam, a security and travel services provider, the company announced Friday."
+    publishedDateTime: 2021-03-19T15:57:00Z
+    webUrl: "https://www.virginiabusiness.com/article/mwaa-sells-facial-recognition-system-to-pangiam/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 39
+    images:
+      - url: "https://www.virginiabusiness.com/wp-content/uploads/2021/03/DownloadIssue_March2021.jpg"
+        width: 288
+        height: 360
+        isCached: true
 
 secured: "kipbRJF2juWQWiRWz0AB8WsSDjxFU/vaHWfbYqcdtz8EfUFOmdR6m5eXbPGlwwqDQBrZewBxPq9mowPQPRz/7BIMMDa28ysNucZwc+RIl7I37bJ5Q3a3CMHROTnZO1I3GvDjbwSuKnL903Hx66cJ8rBmk+iBV4R32/JSlWtQYpZFVCfIPNmdOpjGeAQ3g1nx3cM9nji4VQWA55cBMW6IXt/j35MeEYRiztTBPSwSjFPT8wEvode/1aVhcap5FR+iPJ9cRwvWrprLG+dDxyCb4Ob7Ra2tHdNJ05+JVswQYSRhzBtcXOLaJ7sJa05HPe5qvE0HR21tklKIv6D1nM2tzCqQFAgR9VIumO0YBrIHYy8BHfX0O7ojV6gQ0tX7Xamh5ZNn1NyzxtbcCRA84ONE22OC2CBDZndoNoG9JGKz+K4zaoSjusd/7IEzROzd+3JRn9+zDYmzSlo4pV0C3byBSj/MbYMuwHDCRBLhzr6Vx+4GcxUmiESPckfn3f/2qkw4ENW32+Y9d0inzQkn8m8yHQ==;nIjMtsao0T/RBGUdrgkj7Q=="
 ---

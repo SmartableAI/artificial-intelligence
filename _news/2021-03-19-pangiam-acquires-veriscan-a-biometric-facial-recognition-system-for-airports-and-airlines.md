@@ -53,6 +53,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "MWAA sells facial recognition system to Pangiam"
+    excerpt: "VeriScan, a facial-recognition system developed by the Metropolitan Washington Airports Authority, has been sold to Alexandria-based Pangiam, a security and travel services provider, the company announced Friday."
+    publishedDateTime: 2021-03-19T15:57:00Z
+    webUrl: "https://www.virginiabusiness.com/article/mwaa-sells-facial-recognition-system-to-pangiam/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 39
+    images:
+      - url: "https://www.virginiabusiness.com/wp-content/uploads/2021/03/DownloadIssue_March2021.jpg"
+        width: 288
+        height: 360
+        isCached: true
 
 secured: "nyh9CWiQDXVxyDMBD+RrStWxJrprHsEbOe/4AJWSedDiHSZtURGTV51gPXZhpjeyjJp/c9HI9v7aPfin3jPTOyojG3UvOqPF8xybKiszc8ysxN6LpecsswqLN4EO8xk3yhfmCA+IGLyw8ouA7eM2KF+E/1REbxw5xp4+Ujjcui64M4tHEnjXV7jFFUh62xnmQ1TgzvoUXCJYGIuExB7il6JgfC9LBQ/j+G00wGLEOaXvmsWdQOLOgrB7Y4PTzTakIzpf3bG2UN3WNdXvvSSrYpFiC3i2saBxKM4spnMR0Zg5X9k00qeXRhKnulEAqMo/GMUrI+fQB46RSkzp3wwY41BiVPaX7PeiKnqIfOS9198=;nLvPiKeyyRtuf9w1Hr/3RA=="
 ---

@@ -2,6 +2,161 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-13-what-facial-recognition-and-the-racist-pseudoscience-of-phrenology-have-in-common.md",
+      "title": "What facial recognition and the racist pseudoscience of phrenology have in common",
+      "excerpt": "Technology commentators have panned these facial-recognition technologies as ‘literal phrenology’; they’ve also linked it to eugenics, the pseudoscience of improving the human race by ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/1-copy-24-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/",
+      "publishedDateTime": "2021-03-13T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-why-is-teslas-full-self-driving-only-level-2-autonomous.md",
+      "title": "Why Is Tesla’s Full Self-Driving Only Level 2 Autonomous?",
+      "excerpt": "A trial of Tesla’s Full Self Driving ability has been making its way round a few US cities carrying selected beta-testing Tesla owners since October 2020. But recently a series of emails between Tesla and the California Department of Motor Vehicles have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604cb18fd5d6f97db3738c30%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4800%26cropY1%3D167%26cropY2%3D2868",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/03/13/why-is-teslas-full-self-driving-only-level-2-autonomous/amp/",
+      "publishedDateTime": "2021-03-13T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-definedcrowd-ceo-daniela-braga-on-the-future-of-ai-training-data-and-women-in-tech.md",
+      "title": "DefinedCrowd CEO Daniela Braga on the future of AI, training data, and women in tech",
+      "excerpt": "Home and work AI domains will talk together. “There are some people who say when you start interlinking so many things you will have an AI that may become sentient,” Braga said, creating technology such as the personal assistant in the movie “Her ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/definedcrowd-ceo-daniela-braga-future-ai-training-data-women-tech/",
+      "originalUrl": "https://www.geekwire.com/2021/definedcrowd-ceo-daniela-braga-future-ai-training-data-women-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/DanielaBraga_DefinedCrowd_3-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/definedcrowd-ceo-daniela-braga-future-ai-training-data-women-tech/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/definedcrowd-ceo-daniela-braga-future-ai-training-data-women-tech/amp/",
+      "publishedDateTime": "2021-03-13T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box.md",
       "title": "The Chronicles Of AI Ethics: The Man, The Machine, And The Black Box",
       "excerpt": "Today, machine learning and artificial intelligence systems, trained by data, have become so effective that many of the largest and most well-respected companies in the world use them almost exclusively to make mission-critical business decisions.",
@@ -1107,161 +1262,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-pdf-document-pre-processing-with-amazon-textract-visuals-detection-and-removal.md",
-      "title": "PDF document pre-processing with Amazon Textract: Visuals detection and removal",
-      "excerpt": "Amazon Textract is a fully managed machine learning (ML) service that automatically extracts printed text, handwriting, and other data from scanned documents that goes beyond simple optical character recognition (OCR) to identify, understand, and extract data from forms and tables. Amazon Textract can",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/process-text-and-images-in-pdf-documents-with-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-text-and-images-in-pdf-documents-with-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/10/4-Grayscale.jpg",
-          "width": 800,
-          "height": 457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T13:30:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform.md",
-      "title": "Cowbell Cyber raises $20 million, aims to build out its AI-drive cyber insurance platform",
-      "excerpt": "Cowbell Cyber, an AI-driven cyber insurance provider for small and medium enterprises, said it raised $20 million in Series A funding to expand its underwriting ability. The best cyber insurance The cyber insurance industry is likely to go mainstream and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/",
-      "originalUrl": "https://www.zdnet.com/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/05/dc4e10e2-190d-44e9-88c4-9020a682ccc0/cowbell-cyber-customizedforbrokers-1.jpg",
-          "width": 2187,
-          "height": 1228,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/",
-      "publishedDateTime": "2021-03-11T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans.md",
-      "title": "Announcing Neural’s weekly AI newsletter for cyborgs and humans",
-      "excerpt": "Greetings humanoids! I could not be more excited to introduce Neural’s new weekly newsletter. Every seventh day, the cyborgs who write for Neural will send you an email full of news, analysis, opinion,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/neural-796x448.png",
-          "width": 796,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/",
-      "publishedDateTime": "2021-03-11T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

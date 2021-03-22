@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-05-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
+      "title": "Facebook’s New AI Teaches Itself to See With Less Human Help",
+      "excerpt": "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
+      "originalUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
+      "publishedDateTime": "2021-03-04T18:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025.md",
       "title": "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025",
       "excerpt": "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,",
@@ -702,11 +756,11 @@
     },
     {
       "path": "_news/2021-03-02-ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection.md",
-      "title": "AI Chip Firm Wave Computing Emerges From Chapter 11 Bankruptcy Protection",
-      "excerpt": "AI Chip Firm Wave Computing Emerges From Chapter 11 Bankruptcy Protection OAKLAND, Calif. (Reuters) - Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from ...",
+      "title": "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection",
+      "excerpt": "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS.",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-01/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-01/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection",
+      "webUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -714,23 +768,14 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T15:26:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp",
+      "publishedDateTime": "2021-03-01T15:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1420,50 +1465,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-saic-taps-chinese-chip-startup-for-self-driving-cars.md",
-      "title": "SAIC taps Chinese chip startup for self-driving cars",
-      "excerpt": "SAIC is among a list of state-backed automotive majors shifting towards startup chipmaker Horizon Robotics as a domestic substitute for global suppliers.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "originalUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/srchttp___n.sinaimg.cn_sinakd20210222ac_481_w820h461_20210222_df59-kkmphps0200711.jpgreferhttp___n.sinaimg.jpg?fit=820%2C461&ssl=1",
-          "width": 820,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "publishedDateTime": "2021-02-23T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

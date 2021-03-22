@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-22-radlogics-ai-powered-covid-19-solution-reduces-turnaround-time.md",
+      "title": "RADLogics AI-Powered COVID-19 solution reduces turnaround time",
+      "excerpt": "Moscow Center for Diagnostics & Telemedicine and RADLogics shared the results of a large-scale study (Moscow Experiment on the Computer Vision for the Analysis of Medical Images - mosmed.ai, NCT04489992) conducted by the Research and Practical Clinical Center for Diagnostics and Telemedicine Technologies of the Moscow Health Care Department.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx",
+      "publishedDateTime": "2021-03-21T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-researchers-algorithm-designs-soft-robots-that-sense.md",
+      "title": "Researchers’ algorithm designs soft robots that sense",
+      "excerpt": "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/sensor-soft-robots-placement-0322",
+      "originalUrl": "https://news.mit.edu/2021/sensor-soft-robots-placement-0322",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202103/MIT-Sensor-Placement-01-press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-21T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-this-winery-and-tomato-processor-used-artificial-intelligence-to-make-their-crops-better.md",
       "title": "This Winery And Tomato Processor Used Artificial Intelligence To Make Their Crops Better",
       "excerpt": "This company says that by combining AI and aerial imagery it can help give them inisght into the health of their crop while it is still growing.",
@@ -454,7 +548,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -959,49 +1053,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-20-usc-scientists-say-artificial-intelligence-can-compute-formulas-for-successful-vaccines-against-covid-variants.md",
-      "title": "USC scientists say artificial intelligence can compute formulas for successful vaccines against COVID variants",
-      "excerpt": "USC researchers are looking for ways to stay one step ahead of COVID-19 variants with the help of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/",
-      "originalUrl": "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/10433083_031921-kabc-coh-ai-img.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/",
-      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/",
-      "publishedDateTime": "2021-03-19T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC7",
-        "domain": "abc7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-20-uber-under-pressure-over-facial-recognition-checks-for-drivers.md",
       "title": "Uber under pressure over facial recognition checks for drivers",
       "excerpt": "Uber’s use of facial recognition technology for a driver identity system is being challenged in the UK where the App Drivers & Couriers Union (ADCU) and Worker Info Exchange (WIE) have today called for Microsoft to suspend the ride-hailing giant’s use of b2b facial recognition",
@@ -1149,21 +1200,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-19-brian-brackeen-returns-as-an-advisor-to-facial-recognition-startup-kairos-following-his-ouster-as-ceo.md",
-      "title": "Brian Brackeen returns as an advisor to facial recognition startup Kairos following his ouster as CEO",
-      "excerpt": "Brian Brackeen, the founder and former CEO of facial recognition startup Kairos, has made his way back to the company following his ouster in 2018. Brackeen is now chairing the company’s scientific advisory board,",
+      "path": "_news/2021-03-19-cornell-ai-startup-secures-1-million-in-seed-funding.md",
+      "title": "Cornell AI startup secures $1 million in seed funding",
+      "excerpt": "Iterate Labs, an Ithaca-based startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety, has obtained $1 million in",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/19/ousted-kairos-founder-returns-as-an-advisor-to-the-facial-recognition-startup/",
-      "originalUrl": "https://techcrunch.com/2021/03/19/ousted-kairos-founder-returns-as-an-advisor-to-the-facial-recognition-startup/",
+      "webUrl": "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.html",
+      "originalUrl": "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/43820546944_704c0ffc77_z.jpg?w=640",
-          "width": 640,
-          "height": 427,
+          "url": "https://bloximages.chicago2.vip.townnews.com/ithaca.com/content/tncms/assets/v3/editorial/d/6d/d6d20eb2-88cf-11eb-ac34-1f26f156445b/6054d0acd2f62.image.jpg",
+          "width": 670,
+          "height": 377,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1171,23 +1222,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/19/ousted-kairos-founder-returns-as-an-advisor-to-the-facial-recognition-startup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/ousted-kairos-founder-returns-as-an-advisor-to-the-facial-recognition-startup/amp/",
-      "publishedDateTime": "2021-03-19T09:00:00-07:00",
+      "ampWebUrl": "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html",
+      "cdnAmpWebUrl": "https://www-ithaca-com.cdn.ampproject.org/c/s/www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html",
+      "publishedDateTime": "2021-03-19T09:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Ithaca Times",
+        "domain": "ithaca.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1196,60 +1238,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud.md",
-      "title": "IBM’s Rob Thomas details key AI trends in shift to hybrid cloud",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. The last year has seen a major spike in the adoption of AI models in production environments, in part driven ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/",
-      "originalUrl": "https://venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-e1616161696853.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/ibms-rob-thomas-details-key-ai-trends-in-shift-to-hybrid-cloud/amp/",
-      "publishedDateTime": "2021-03-19T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

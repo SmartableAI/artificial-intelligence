@@ -2,6 +2,91 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-18-new-peugeot-308-hyundais-space-van-and-self-driving-tesla-crashes-police-car-your-thursday-brief.md",
+      "title": "New Peugeot 308, Hyundai’s Space-Van And Self-Driving Tesla Crashes Police Car: Your Thursday Brief",
+      "excerpt": "Plus: The sad demise of Sabine Schmitz, the GR Supra vs. the Litchfield Yaris, And More Chinese Telco Companies Banned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/",
+      "originalUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2021/03/BRIEF10-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/amp/",
+      "publishedDateTime": "2021-03-18T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-fears-of-digital-dictatorship-as-myanmar-deploys-ai.md",
+      "title": "Fears of 'digital dictatorship' as Myanmar deploys AI",
+      "excerpt": "Protesters in Myanmar fear they are being tracked with Chinese facial recognition technology, as spiralling violence and street surveillance spark fears of a \"digital dictatorship\" to replace ousted leader Aung San Suu Kyi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/myanmar-tech-protests/fears-of-digital-dictatorship-as-myanmar-deploys-ai-idUSL8N2L90EU",
+      "originalUrl": "https://www.reuters.com/article/myanmar-tech-protests/fears-of-digital-dictatorship-as-myanmar-deploys-ai-idUSL8N2L90EU",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2L90EU",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2L90EU",
+      "publishedDateTime": "2021-03-18T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-fetcherai-nabs-65m-to-match-employees-with-open-roles-using-ai.md",
       "title": "Fetcher.ai nabs $6.5M to match employees with open roles using AI",
       "excerpt": "Fetcher.ai, a recruitment platform that combines AI with human teams, today announced it has raised $6.5 million in a round led by G20 Ventures. The company, whose latest funding round brings its total to $12 million,",
@@ -1102,7 +1187,7 @@
       "originalUrl": "https://techcrunch.com/2021/03/17/gpt-3-powered-copy-ai-raises-2-9m-in-a-round-led-by-craft-ventures/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1141,92 +1226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting.md",
-      "title": "Careful With That Axe, Sales Team: AI And The Future Of Forecasting",
-      "excerpt": "Opinion-based forecasts have low predictability and accuracy, are prone to bias and manipulation and yield limited value to the B2B organizations that adopt them. Fortunately, artificial intelligence is infusing and enhancing B2B sales forecasting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting/",
-      "originalUrl": "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60512df244ca69711fa5fc51%2F0x0.png%3FcropX1%3D0%26cropX2%3D1050%26cropY1%3D121%26cropY2%3D712",
-          "width": 1050,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-5-robotics-stocks-on-the-cutting-edge.md",
-      "title": "5 Robotics Stocks on the Cutting Edge",
-      "excerpt": "Robotics stocks seem like a slam-dunk. The trend toward automation has been going on for decades now. Backed by improved artificial intelligence and exponentially greater computing power, it should continue for decades going forward as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17",
-      "originalUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-robotics-stocks-on-the-cutting-edge-2021-03-17?amp",
-      "publishedDateTime": "2021-03-17T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

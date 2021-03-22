@@ -71,15 +71,6 @@ related:
         width: 921
         height: 518
         isCached: true
-  - title: "Cruise Automation acquires Voyage to further self-driving car goals"
-    excerpt: "Cruise Automation, the autonomous division of General Motors, has acquired self-driving car startup Voyage. Terms of the deal were not disclosed. The deal furthers the consolidation of the self-driving car industry,"
-    publishedDateTime: 2021-03-17T12:21:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16471/cruise-automation-acquires-voyage-to-further-self-driving-car-goals"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
   - title: "Palo Alto-based Luminar's lidar coming to Chinese self-driving cars next year"
     excerpt: "The Palo Alto self-driving vehicle tech company said it will establish an office in Shanghai, its first in China, to support its deal with SAIC Motor Co. Ltd. The agreement with SAIC comes about two weeks after Luminar announced that the self-driving ..."
     publishedDateTime: 2021-03-18T11:52:00Z

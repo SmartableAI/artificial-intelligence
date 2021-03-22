@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-03-amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows.md",
+      "title": "Amazon launches reinforcement learning tools to manage robots’ workflows",
+      "excerpt": "Kubeflow Components, a toolkit supporting the company’s AWS RoboMaker service for orchestrating robotics workflows. Amazon says that the goal is to make it faster to experiment and manage robotics workloads from perception to controls and optimization,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
+      "originalUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/",
+      "publishedDateTime": "2021-03-03T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-a-look-at-top-robotics-funding-companies-raised-in-februarymarch-2021.md",
       "title": "A look at top robotics funding companies raised in February/March 2021",
       "excerpt": "Robots play a significant role in today's digital world. As its application is snowballing, it garners huge investors' interests. Here are the top robotics funding in February/March 2021.",
@@ -1331,58 +1385,6 @@
         "name": "The Art Newspaper",
         "domain": "theartnewspaper.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026.md",
-      "title": "Service Robotics Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026",
-      "excerpt": "The global “Service Robotics Market Size” is expected to rise with an impressive CAGR and generate the highest revenue",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

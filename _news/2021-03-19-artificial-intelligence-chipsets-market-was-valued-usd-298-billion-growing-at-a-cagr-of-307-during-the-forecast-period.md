@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-was-valued-usd-298-billion-growing-at-a-cagr-of-307-during-the-forecast-period-2021-03-19"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence (AI) Chipsets Market Emerging Technologies, Industry Demand, CAGR Status, Global Competitors and Future Scope"
+    excerpt: "Emergence of Startup Companies to Propel Market in Asia Pacific Asia Pacific is expected to dominate the global market owing to the developing economies such as South Korea, India, China. The growing acceptance of AI-based solutions will foster healthy ..."
+    publishedDateTime: 2021-03-22T05:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ksBdrSH07x7dg/caydoPAPRR61nxqYmy7VYlOkJc6ouUxe2pVJW9SE9KOQ+1r3b3p6nHk0KooaFhEuJBQ7VVb+HiodBd1hpa/BHXogQ+gf0L92yw2KGBAYVjzzOpCd+CX9ofbj7pLCg52d9EG2Q78YR0q2pZ/70sDU8gGKBsblwuTUbbbWdpTyE8glSMuDLoZeGREj2DWVayLNppz5D4SnUQ01NzVB/lYxXyyaHlQJ1YDhnuYc0gZz4aFww1IXm92ytDm0L7NIsOl2UaupI/p4VqvJwSlyXV2Lw42A7iUPx71CnxLQDsOltN7piDuA+IysxxtK3FaT4DI/zylsAnOn/DrAwxxWmxwpAI7qDFYQM=;yIz14ElpVBES9cXn6dDH/w=="
 ---

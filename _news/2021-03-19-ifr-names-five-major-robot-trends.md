@@ -53,34 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Robot Market Competitive Landscape Forecasts to 2028: Global Industry Growth, Share, Size, Trends"
-    excerpt: "The growth of this market can be attributed to the increasing adoption of mobile robots in the manufacturing plants. Adopting intelligent technologies such as artificial intelligence, deep learning, and mobile robotics drives the growth of the mobile robot ..."
-    publishedDateTime: 2021-03-17T11:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-robot-market-competitive-landscape-forecasts-to-2028-global-industry-growth-share-size-trends-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Graphics Processing Unit (GPU) Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast to 2025"
-    excerpt: "For instance, AMD, in FY2018, reported more than USD 1.2 billion of revenue owing to the demand for its datacenter GPU products.-As enterprises are undergoing digital transformation by embracing the cloud, big data and also AI, computer technology ..."
-    publishedDateTime: 2021-03-17T11:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/graphics-processing-unit-gpu-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-to-2025-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities"
     excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
     publishedDateTime: 2021-03-17T13:35:00Z
