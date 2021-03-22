@@ -73,20 +73,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "AI Can Now Debate with Humans and Sometimes Convince Them, Too"
-    excerpt: "The AI was also featured in a collaborative series ... by human debaters using crowd-sourced information. At one point, IBM Watson sifted through over 5,000 submissions from the public, all ..."
-    publishedDateTime: 2021-03-17T17:49:00Z
-    webUrl: "https://www.scientificamerican.com/podcast/episode/ai-can-now-debate-with-humans-and-sometimes-convince-them-too/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/D5F41FCE-6C69-423A-9D9A6DCB51C965AE.jpg"
-        width: 790
-        height: 496
-        isCached: true
 
 secured: "tDDjC6M+latt3Y44V2KELwz0vIEP1QSPv2t22ur2MS3uTwVpyjmV2mGND6g1i9AzaaJjQ8Q1gYuHJ5Whcq2Fhmh8QzyTzAlr3vDaRL3+7mr8zsrlAJxZXpk2lymyxhKEUIfMINh97JCbO1BTTkYVgJYRFbXJMmvU1bgXEUmJLFgVl1rE/FZ/D9u7tMRMvHyD1T7E0UnJFKd0HT8LscevCWynkm39jXMw+mNe0S+yEgorB7VcHJlGNyfMbFud20SbvD7lN8NASK0dT3XcQv4Tzk26jh8vhVsIgbfi/mtIwpU2il7IaVZai74+yVsv8RO7oc7IDmwJ//yWFkwCsLocMN71SgRhN0puAWj2pKC0gNo=;sxHR92Q7zY5hUzSUjb+eSQ=="
 ---

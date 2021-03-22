@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530/amp"
 type: article
 quality: 90
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition with smiles, winks could increase phone security: Here's how"
+    excerpt: "The new system is called Concurrent Two-Factor Identity Verification (C2FIV) and it requires both one's facial identity and a specific facial motion to gain access."
+    publishedDateTime: 2021-03-22T10:12:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 73
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/smartphone-usage-pixabay-1616407761.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Smiles, winks in face recognition could increase phone securityDeck:"
     excerpt: "As hackers find ways to unlock your phone with your face while you sleep or using a photo from social media to do the same, researchers have developed a way to strengthen security by adding facial features such as smiles and winks to the mix. D.J. Lee ..."
     publishedDateTime: 2021-03-21T12:28:00Z

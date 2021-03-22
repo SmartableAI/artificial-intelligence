@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/job-trend-analysis-m
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/job-trend-analysis-marks-growth-of-data-science-ai-roles/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1072325472.jpg?w=533"
         width: 533
         height: 400
+        isCached: true
+  - title: "Artificial Intelligence in Accounting Market Key Major Challenges, Drivers Growth, Opportunities Analysis To 2025"
+    excerpt: "To cater such needs, Shibuya Data Count provides market research reports to various business professionals across different industry verticals, such as healthcare & pharmaceutical, IT & telecom, chemicals and advanced materials, consumer goods & food ..."
+    publishedDateTime: 2021-03-22T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-key-major-challenges-drivers-growth-opportunities-analysis-to-2025-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4XeTnylYWY1uK5Wy4xi+W+J0DM8Yetg2VyB0ie/+Re3weu/0+HPPKT76Qi0HVTw6YveeBizWLRfu4TXOaxK26a0v5EqbdhZGFZO4LWJSyeiD+OtpI5e0qTfJoRMxVfrNdqZUfvHf3CqjhzI7ThjwmLegRneFg8zX5JOrC2TDx2bxulAaGYSS+mTh/+/wAz0tksPQbhV5A/mUtezOBcQ5I9un8mWs6SAyRimp2WjNmwUX9TtvdLWJHFKz+A5FKpf3CgpQc2F1fMpjmsVAwHl/tdRQY2TB/3Rk0B3aipUwZYgffWjCwz4A6B6CNvgEJMCARONG/Kni6R7FzxNqwLNZhtre711ZswaVOfhyLcio7ZY=;i1iP+xyO7bFV3nR2kFNxKA=="

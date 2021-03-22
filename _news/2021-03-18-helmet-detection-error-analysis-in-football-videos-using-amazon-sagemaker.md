@@ -43,20 +43,6 @@ related:
         width: 748
         height: 488
         isCached: true
-  - title: "Perform interactive data processing using Spark in Amazon SageMaker Studio Notebooks"
-    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). With a single click, data scientists and developers can quickly spin up Studio notebooks to explore datasets and build models. You can now use Studio notebooks to securely connect to Amazon"
-    publishedDateTime: 2021-03-17T18:49:14Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-studio-notebooks-backed-by-spark-in-amazon-emr/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/10/1-Architecture-2.jpg"
-        width: 800
-        height: 360
-        isCached: true
 
 secured: "wNs64ifDEdF4izSK1licCAgdlchxy3i7acRVzyx4akvwomzLNZe4pRezVI8O21xczApWpqoP3CZsmsEyDKfb04HaxMh1bYyIyl+hbTxgwNF7pny1CQNRlEgJRTgVZY4fuQRIBgbY7AbyxJ01mclF7tUEJ4qiI4Xgiyya8820nK9Yp4MaxvceFxaW0Ft52yOYXSbQnNxwtqNql2iFWQF02ahJiDlRB4Ow+KqbjFHrGLRMtgWpaHHMGXCdzPJgjieDIkcmtG6aw3hJH2cgQa7jv9dp+l31KGvPqDlfHjsm0eUD1PM3wNfhiYBFEkhYtHHqZ4D6RwpAyFVFXPVUB+UJNf0//A3isq06QdjY8tj/vKU=;h0xX1oWsE2ehp36wVaI71A=="
 ---

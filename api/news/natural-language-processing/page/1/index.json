@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-22-speech-to-text-apps-what-to-look-for-in-dictation-software.md",
+      "title": "Speech-to-text apps: what to look for in dictation software",
+      "excerpt": "Why strain your wrists typing on your keyboard when you could just as easily dictate your content and have a designated speech-to-text software take the notes for you? Over the years, the market has been saturated with apps and software to help you do just that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/speech-to-text-apps",
+      "originalUrl": "https://www.techradar.com/news/speech-to-text-apps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4LYCsUevcwfeMVmbm2PABJ-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/speech-to-text-apps",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/speech-to-text-apps",
+      "publishedDateTime": "2021-03-22T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation.md",
       "title": "Is TensorFlow ‘for Boomers’? PyTorch May Gain More Ground in Machine Translation",
       "excerpt": "PyTorch, the open source framework used to build machine learning models, including those used for machine translation, released its newest version, 1.8, on March 4, 2021. According to PyTorch’s official announcement,",
@@ -1440,59 +1492,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-the-cambrian-ai-landscape-qualcomm.md",
-      "title": "The Cambrian AI Landscape: Qualcomm",
-      "excerpt": "One should expect Qualcomm to produce a highly efficient platform for AI, given the company’s historical strengths in mobile, and the company’s first AI platform does not disappoint.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604106b73e13adf76daf14ee%2F0x0.jpg",
-          "width": 864,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/03/04/the-cambrian-ai-landscape-qualcomm/amp/",
-      "publishedDateTime": "2021-03-04T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

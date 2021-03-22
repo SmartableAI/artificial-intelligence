@@ -43,6 +43,22 @@ related:
         width: 800
         height: 451
         isCached: true
+  - title: "Face Recognition with smiles, winks could increase phone security: Here's how"
+    excerpt: "The new system is called Concurrent Two-Factor Identity Verification (C2FIV) and it requires both one's facial identity and a specific facial motion to gain access."
+    publishedDateTime: 2021-03-22T10:12:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 73
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/smartphone-usage-pixabay-1616407761.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gz+r94pSwkJTaLKQZASQBIr8Y9aAbfep9xmcZwd2kU/V1jg98AZ1rZIPk1yUT6E+5mOTyv4ZWLx6VWaJGEc6bB1AueTlknq7e0B6tiPKec/WV3smynkaDC9cAlJbOM39pwRAoehMxh0MyLwvRzPFxFvsoicZsqpPVdUfdPxK6YfeFVBMChGj8evHkk6JFl8/p0DPk0eumYXvpsihkuWu7ptoynOcPRD7zZ7UJ1kON0MXi6y7lFusV9M8dyGiWF2LdUG2Ac0jlJFqfpmEN9IITdqcXYehCTT2skw6FIQKCxlaua2IGFliNh3lbxtmG/qRUtoalSm6/jHE9cfDhgcym8PhgtoJqPtDRxUog6MUPVo=;HXgiHyxbyX7j8f7F3X12qw=="
 ---

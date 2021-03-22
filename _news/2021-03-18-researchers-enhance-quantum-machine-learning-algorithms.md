@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/03/210316112244.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/03/210316112244.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Researchers’ algorithm designs soft robots that sense"
-    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
-    publishedDateTime: 2021-03-22T04:11:00Z
-    webUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Sensor-Placement-01-press.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "sstcEddDwPkMBFkiLL/kX0JgDYwPRgWwmbBKdcdX7tdX2UHDgwDA03GMLGMXKQRYhiqwaYZfU6O3ss2xWB/5RS2xcLq/qCMlRGX3+QApmc8S0jSa9t+QjAjPzHwjcdb4uwUoU0Jo5qPEiBO5QoJPn13RhDtElIF3NzFGMxiETLG82U33MFYPUxoX7VsIP8es4VCjrMut/n79bHUoOhAIjUMDTJoN8TcJGO3eGjNBZq43AG2VYPg83VFEgIh9S/U9ZZ4w2sGHeULwI4UPUUdjBW40fSvGYNfv8w1xBRY2eNWTATdT72wwzWR6eBbWI4FAYExbZljMMT0yZnOWnl0OUmkU0HMsa0hBqa8Z0HNFCCE=;HT7CB0bCCjXhPWNJuJK/WQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355/amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
     quality: 41
     images:
       - url: "https://static.scientificamerican.com/sciam/cache/file/EFE03724-7526-4C0B-ABAE5AFAA2F71100.jpg"
-        width: 790
-        height: 496
-        isCached: true
-  - title: "AI Can Now Debate with Humans and Sometimes Convince Them, Too"
-    excerpt: "The AI was also featured in a collaborative series ... by human debaters using crowd-sourced information. At one point, IBM Watson sifted through over 5,000 submissions from the public, all ..."
-    publishedDateTime: 2021-03-17T17:49:00Z
-    webUrl: "https://www.scientificamerican.com/podcast/episode/ai-can-now-debate-with-humans-and-sometimes-convince-them-too/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/D5F41FCE-6C69-423A-9D9A6DCB51C965AE.jpg"
         width: 790
         height: 496
         isCached: true

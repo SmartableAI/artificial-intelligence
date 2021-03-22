@@ -9,7 +9,7 @@ ampWebUrl: "https://www.law360.com/amp/articles/1365826"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1365826"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "AI company escapes lawsuit over use of OKCupid photos to guide facial recognition"
-    excerpt: "An Illinois federal judge has tossed a proposed class action against artificial intelligence company Clarifai Inc over its alleged unlawful use of dating profile images to train facial recognition technology, finding the court lacks jurisdiction."
-    publishedDateTime: 2021-03-17T18:55:00Z
-    webUrl: "https://www.reuters.com/article/dataprivacy-clarifai-idUSL1N2LF39D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LF39D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF39D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 79
 
 secured: "x+jDBbQO/35NXMTOh5oY+zjXFM37YLDQn+shjTpYukS3hqzy4nlBX9q7jrLQNw7XowBsMCxb19eWDLE2aALEbieD4/X959PlK+u4UlwQKGpR96Boc1HeJSrnYFWiVUhZTA7fZ+DMpwg+zWTD7AjWx/PArszRlYjDUonb9c/xOm8satf+RERaEL/i4fafTzVrhpQ/Rj1ntMuAky9QZZ+xlAsWUfIEVs5G+xxgXhwj+LZVCMxHINVupbOKhwGwl2Z8Byb+qUiQdEGV8H47lH9NEu1zASfMVLstAGMvST50lgtjbbtfJ4LVdX4KjbVicLPMwD/D66zWKRv+KQ+L3W8H1WMlCi5iBRj4jwGXOThALz4=;Up1zcxsFI9OpH/BlbDzowQ=="
 ---

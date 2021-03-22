@@ -85,6 +85,17 @@ related:
         width: 900
         height: 550
         isCached: true
+  - title: "Global Cognitive Services Market Report: Trends, Forecast, Projects between 2021 and 2027"
+    excerpt: "Overview of the report A recent published report on the Cognitive Services market gives an in depth evaluation of the industry in its brief overview of the Cognitive Services market The review discusses several key aspects of the Cognitive Services"
+    publishedDateTime: 2021-03-22T11:34:00Z
+    webUrl: "https://www.openpr.com/news/2259863/global-cognitive-services-market-report-trends-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
   - title: "Robot Software Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
     excerpt: "It is a set of coded instructions that execute the robot's functions. The key factors driving the growth of the Robotic Software market are the adoption of artificial intelligence, lower labor costs, higher accuracy, higher speed, higher quality and higher ..."
     publishedDateTime: 2021-03-18T12:28:00Z

@@ -59,15 +59,6 @@ related:
         width: 647
         height: 450
         isCached: true
-  - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
-    excerpt: "By making it easy to connect LoRa devices to Azure and by providing insights generated with Azure Cognitive Services and Azure AI, Webee and Semtech are simplifying IoT for our joint customers.” About Semtech Semtech Corporation is a leading supplier of ..."
-    publishedDateTime: 2021-03-17T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 3
 
 secured: "4mT1YtWaB+Z74dnin+RsizDaif2oXTninupfp0eSWkVKjlOlKbs8ext2tyP02SYSs/H0aJ3pQojdH7jjslrQ3Cyr3Y9iR2jdui2B6n/bk8UV749MEcSH6XvkBI1Qr920qM8Ty3VGbe3ojqFPjNK5PbYB9u0rJyQTpRfQLgxEtitec7aHkJZVQbZaf0+JQ2EJcYNMWwqFkSOW2glQUqX3sLPMQZVrid8Kf2Il4dRl6HaFL6cx13LF2sB8nKik1stS8iKRvbgaE/RFzJykxg3KiRgGodIX+Z8INEjLWHl3lrPmSVdaLunA5Z80qyKqAP3PrXYlCO2kVHEHqxvF+woIs8fTd+n5AJgL1F7F/SoIzoTrxIfgUxVGL/0F+vu80qHfbw+FhF/shJ8I6ds5rmZ6ZbCsaaRq1yl49BFV48WHSDDVh9BTcdIA1bpriMxxz4DvW7g3etsKmv0FYviLJQypgFt012QPYjfK51yf0PmLWagbSKKkX+Wi//OBDVK5tftan1qFn12bR625q6/sORaCrw==;aPic09op8ulZGye5VlZY7g=="
 ---
