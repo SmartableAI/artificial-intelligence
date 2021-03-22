@@ -157,6 +157,22 @@ related:
         width: 1404
         height: 762
         isCached: true
+  - title: "Facebook took down 1.3 billion fake accounts in three months"
+    excerpt: "Facebook disabled more than 1.3 billion fake accounts in the final three months of last year as part of its efforts to tackle misinformation, the company said Monday. The tech titan revealed the"
+    publishedDateTime: 2021-03-22T19:14:00Z
+    webUrl: "https://nypost.com/2021/03/22/facebook-took-down-1-3b-fake-accounts-in-three-months/"
+    ampWebUrl: "https://nypost.com/2021/03/22/facebook-took-down-1-3b-fake-accounts-in-three-months/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/facebook-took-down-1-3b-fake-accounts-in-three-months/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/facebook-accounts-zuckerberg.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "According to Facebook’s New Wearable Device, The Future Is in Your Wrist"
     excerpt: "The wrist was chosen because it provides greater privacy over voice commands and an easier experience than pulling out a phone or a controller, and because of its location near your hands, which a majority of people are using everyday (for those born without or unable to utilize their arms or hands,"
     publishedDateTime: 2021-03-19T16:33:00Z

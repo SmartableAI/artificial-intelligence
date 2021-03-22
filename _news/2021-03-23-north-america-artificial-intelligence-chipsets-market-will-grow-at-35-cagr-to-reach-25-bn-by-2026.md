@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-22T17:15:00Z
 originalUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-chipsets-market-will-grow-at-35-cagr-to-reach-25-bn-by-2026-2021-03-22"
 webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-chipsets-market-will-grow-at-35-cagr-to-reach-25-bn-by-2026-2021-03-22"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

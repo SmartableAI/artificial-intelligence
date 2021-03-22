@@ -43,6 +43,20 @@ related:
         width: 777
         height: 518
         isCached: true
+  - title: "Researchers’ algorithm designs soft robots that sense"
+    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
+    publishedDateTime: 2021-03-22T04:11:00Z
+    webUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 69
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Sensor-Placement-01-press.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Algorithm designs soft robots that sense"
     excerpt: "There are some tasks that traditional robots — the rigid and metallic kind — simply aren’t cut out for. Soft-bodied robots, on the other hand, may be able"
     publishedDateTime: 2021-03-22T15:27:00Z
@@ -58,20 +72,6 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2021/03/MIT-Sensor-Placement-01-press_1.jpeg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Researchers' algorithm designs soft robots that sense"
-    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
-    publishedDateTime: 2021-03-22T13:55:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/miot-rad032221.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/259753_web.jpg"
-        width: 1440
-        height: 960
         isCached: true
 
 secured: "Q+Jf3XAj2bVFsn/a5ecYxwDNtb0e74j8+n0wDKC4Y8YSYPaaYCzY7iaI/XKkoxWq/vEltO2WRgthZ/TBo90grs13X8G0PSfN6qULqXiOnECfvmcCcd+KXd0TKrZZoOUvOdm6UO93NKbad3+4Ws1IJstk7ptvoHylA1RDpnkGonaFQdqv6vEbNuTuY4Mx1WVlQ8jTLMYi5/yEtxYWPICwCJw/pn+fZJzRoiidAMpsuV8mf+RNFkbNbjOOoZIt+5Klpdsxt00LE/VvVAquVdggPW/UxqN1gWD1AHjX9Oft9z+Qmctjv6PjWL4cw4ZqtrHEQML7qznQxnjALWM8Y+6J6g60vrZg0tfrKI5osbAefShn81RCmGHhFsTZA1U8+w3WbcfKiw2eMy52MM2E0OHz0KNljywIvopvfB/Pptz1RN1Vvf6PBPPKsyfyZBCM2W7jFuEILP4niLoKkhjbp+wqI/dmPZV78t69/M8itrMb4zWrXRBFNmdJj3pvjOoB5Vc/+T259RcJboAC3fm4p+GrIQ==;EsS8MmwVYVapwnQ5WuWPvg=="

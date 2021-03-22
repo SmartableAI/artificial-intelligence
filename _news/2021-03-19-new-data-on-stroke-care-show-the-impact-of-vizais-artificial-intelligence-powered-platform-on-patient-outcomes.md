@@ -1,27 +1,21 @@
 ---
 category: news
 title: "New Data on Stroke Care Show the Impact of Viz.ai’s Artificial Intelligence-Powered Platform on Patient Outcomes"
-excerpt: "Viz.ai today announced new data supporting the use of its technology to coordinate care for acute ischemic stroke, hemorrhagic stroke, and clinical trial recruitment at the 2021 International Stroke Conference. Dr. Ameer E. Hassan of the Valley Baptist ..."
-publishedDateTime: 2021-03-19T11:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-health-products-and-services-c2bc6db7e3324619aeb9aa873b9685c9"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-health-products-and-services-c2bc6db7e3324619aeb9aa873b9685c9"
+excerpt: "The first study presented by Dr. Hassan, “The Implementation of Artificial Intelligence Significantly Reduces Door-in Door-out Times in Primary Care Center Prior to Transfer,” compared the time interval between entering and leaving one of Valley ..."
+publishedDateTime: 2021-03-19T16:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210319005094/en/New-Data-on-Stroke-Care-Show-the-Impact-of-Viz.ai’s-Artificial-Intelligence-Powered-Platform-on-Patient-Outcomes"
+webUrl: "https://www.businesswire.com/news/home/20210319005094/en/New-Data-on-Stroke-Care-Show-the-Impact-of-Viz.ai’s-Artificial-Intelligence-Powered-Platform-on-Patient-Outcomes"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "How This AI Startup Plans To Shake Up The Online Fashion Industry"
@@ -41,6 +35,6 @@ related:
         height: 823
         isCached: true
 
-secured: "2CHRRRyQzE5IzUrMR+KNiX5U3C11rnB6qRL4vFFlPheMkSe/di+j8LkomOdIa4Trgmfh3aw6Z43CbeRpgR5QSf1DVbrsG3iSjC7azhSZBzXkbsErmcicvZNhAX5CUu0uy9n0bh//2AvW6TNCkB5BaNJtKr4wiV45pi+cwdQr6ZHWT/AKy1+YKPYzbR4eLVZ3yAZfP+Q6MlSa6E5eJiahJvh0/Fsf8ESSMRxrE9G+xOpA0xahiQfer0lWS42h9NgCLC1uCfhL6Fj6LCoweCRU0PSDhBUtvciuyGaqMWHZBSXt9Cn3cPetnwWQL16ZpTaj6hBn4H+A60jWcwg4iC6WeVoWpfXCJJQAjqtuR2t8dQQ=;svvTMu6DNOewUQ91XBTWiA=="
+secured: "zsByh6dPlCrnIrQi0eq30wy+mHlmD6VDKu4NOwn/tuIbYC3gzv5VZChmnVTlPDeRERQcOCxI4wotnBvFk8q3h+/TbnxzLueKYbzbp9bRzzMbnUA8cb0OAzsFWNSPs+UDshmq1xFO19bhnBDgCEnX4fumd2LLG8TAXpOvGxX0+VhTfdiFrOrmUoy5GJvYrqHCKQrXGev/7GCxGXaIyD9ryLGHwU0X4uXJV6VWczRHDt803Ln0b3JslKu1TZyboTF2gvpoL/bznpMNMpp9VtIJwh+TPDBVt5Bdcb91gYyBAipVpfiOHHgrn8qaY2jfa9nCwAopVpz0sWNOLnZXfEnnZHnfXTgPLJhNcR+M3S73F2c=;PPvcyS9wxHSYiwaNnXHFDw=="
 ---
 

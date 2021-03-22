@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-gpu-for-ai-market
 webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18"
 type: article
 quality: 71
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Enterprise Artificial Intelligence Market Research Report 2021 Market Insights, Overview, Analysis And Forecast 2021"
+    excerpt: "Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and"
+    publishedDateTime: 2021-03-22T19:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-research-report-2021-market-insights-overview-analysis-and-forecast-2021-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

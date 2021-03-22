@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Researchers' algorithm designs soft robots that sense"
+title: "Researchers’ algorithm designs soft robots that sense"
 excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
-publishedDateTime: 2021-03-22T13:55:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/miot-rad032221.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-03/miot-rad032221.php"
+publishedDateTime: 2021-03-22T04:11:00Z
+originalUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
+webUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Massachusetts Institute of Technology
+  domain: mit.edu
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/259753_web.jpg"
-    width: 1440
-    height: 960
+  - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Sensor-Placement-01-press.jpg"
+    width: 1500
+    height: 1000
     isCached: true
 
 related:
@@ -74,6 +78,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ek3nTpVaKnOmrjsY5W59q4Q3El405tFk0txg9lPIbcFmuE0loQvX2I6w50Mdp6HLv66sXMn+MNZ3QO7DDJMGlZuA6GRIN8xKPe4KUFaC3o64M9aszkxfKmH/YPjCyawn4ka/GGyNicEkvQxhLObjoIey7BZXC/71L8qNho/fv+w1FgJFOHiQ2/v43KKazsDUzYdISs1e1/NwMzHZO3O/vnJiS5v5v686X8Y5seG6Ymyk1KQZOHRk2cA97ugba6Oj5JRLKLftBoolL3RonH4qV94Q/6cUYE0vD0n+hAkCbovkpPzYD6pdzV2XoZJOjf6TmdH75DxbjYbsVxmqiAAwtfefBgwC5H0+byi1BFtab36JXy8v2+KkokNZT3iOhXWkG+1+dv+oDWWBgJ6v3O7bul76LnYfaDskDuXIy3rkI+UdMCmWUn+nDG0YfSBkyVEhBNQivM6MBHOJzvLppdpBVjekgEm5vc59UfOfBh7eI8zKGH+MnMCb0oteFeJqHgQgn85Gu0jZ0v5oDN1GRYE2cg==;0GAj5pYlcR4zuVVvJRNH8w=="
+secured: "MIPmtG75mjP+uNlGUEzQ1YAkXUMZYsxHBGtuprqrYDSuRl3C9vjbspwC7rR2BKI1HS4rTd6KBJACy8x76ofFsAQdCFNd9OKD7aeR2rYc3mpe1uT8aMoZLG678g7OPnVkNZ6rO8Z290UNLoDjvsKiG45i9tAoVjKYaX+2MBTcqkf8uQZ43k9zfrBTxJVHIBUpeknAAv/6QriyNcj38MeQU5dBWTOVF4c4r1kFHWTcDcO32yzD/NkH4msxD21GBFoLytTV8RBBr8Cdawk1AtwogVhUYhhjpicpwvM9DWgLC/eHmt1Vqjr3imJDSre8L/UuMgSIBa/SVRlsvirKxWYzCFxlzGu0iOi2Rn/e+b2mSf0=;lYnuMPlwMaLdZ+PCGK2pQQ=="
 ---
 

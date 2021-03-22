@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-05-nvidia-and-harvard-develop-ai-tool-that-speeds-up-genome-analysis.md",
+      "title": "Nvidia and Harvard develop AI tool that speeds up genome analysis",
+      "excerpt": "Nvidia and Harvard researchers say they've developed an AI tool that can dramatically speed up genome analysis.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/08/nvidia-and-harvard-develop-ai-tool-that-speeds-up-genome-analysis/",
+      "originalUrl": "https://venturebeat.com/2021/03/08/nvidia-and-harvard-develop-ai-tool-that-speeds-up-genome-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/08/nvidia-and-harvard-develop-ai-tool-that-speeds-up-genome-analysis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/08/nvidia-and-harvard-develop-ai-tool-that-speeds-up-genome-analysis/amp/",
+      "publishedDateTime": "2021-03-04T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-facebook-trains-ai-to-see-using-1-billion-public-instagram-photos.md",
       "title": "Facebook trains A.I. to ‘see’ using 1 billion public Instagram photos",
       "excerpt": "Facebook has built an AI program called \"SEER\" that can tell what it is looking at. It did this by feeding it over 1 billion public images from Instagram.",
@@ -1144,49 +1196,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-nice-actimize-xceed-financial-crime-platform-gets-finastra-push.md",
-      "title": "Nice Actimize Xceed financial crime platform gets Finastra push",
-      "excerpt": "NICE Actimize, a NICE (Nasdaq: NICE) business, and the industry leader in financial crime and compliance solutions, today announced a partnership with Finastra, one of the world’s largest providers of financial technology solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/pressarticle/86469/nice-actimize-xceed-financial-crime-platform-gets-finastra-push",
-      "originalUrl": "https://www.finextra.com/pressarticle/86469/nice-actimize-xceed-financial-crime-platform-gets-finastra-push",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

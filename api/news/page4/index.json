@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-18-singapore-bank-rolls-out-facial-recognition-for-its-atms.md",
+      "title": "Singapore bank rolls out facial recognition for its ATMs",
+      "excerpt": "It's a frustration many of us have experienced, but some banks are adding facial recognition to their machines as a card-free method of identification. Singapore-based OCBC Bank has enabled facial biometric security on eight ATMs within the island city ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html",
+      "originalUrl": "https://www.techspot.com/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/03/2021-03-18-image.jpg",
+          "width": 2048,
+          "height": 1136,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html",
+      "publishedDateTime": "2021-03-18T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-ibm-watson-announces-2021-women-leaders-in-ai-honorees.md",
       "title": "IBM Watson announces 2021 Women Leaders in AI honorees",
       "excerpt": "To build trustworthy, unbiased and useful AI for a diverse population, we need diverse leadership in AI development. But today women represent just 26% of the data and AI workforce, according to the World Economic Forum, and gains in leadership are stalling across the board. As reported on International",
@@ -344,57 +397,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-researchers-are-learning-from-white-hat-hackers-to-better-detect-bias-in-ai.md",
-      "title": "Researchers are learning from white-hat hackers to better detect bias in AI",
-      "excerpt": "Daphné Leprince-Ringuet says bug bounty programs have changed information security in the past years -- for the better. What can AI researchers learn from the experience? Read more:",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/video/researchers-are-learning-from-white-hat-hackers-to-better-detect-bias-in-ai/",
-      "originalUrl": "https://www.zdnet.com/video/researchers-are-learning-from-white-hat-hackers-to-better-detect-bias-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/r/2021/03/18/a1200401-940f-4391-be17-8034a3f4641b/thumbnail/770x578/815620be8bd96ebb73c7a8ad30a494ab/20210317-daphne-karen-bias.jpg",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

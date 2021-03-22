@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-03-13-adobes-super-resolution-tool-uses-machine-learning-to-give-users-clear-4x-image-supersampling.md",
-      "title": "Adobe's Super Resolution tool uses machine learning to give users clear 4x image supersampling",
-      "excerpt": "Adobe is taking photo upscaling to a whole new level with an AI-powered tool called Super Resolution. The feature is currently available in Camera Raw 13.2,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "originalUrl": "https://www.techspot.com/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/03/2021-03-12-image-13.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88909-adobe-super-resolution-tool-uses-machine-learning-give.html",
-      "publishedDateTime": "2021-03-12T11:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-12-intel-works-with-deci-to-speed-up-machine-learning-on-its-chips.md",
       "title": "Intel works with Deci to speed up machine learning on its chips",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more ... enable machine learning “at scale” on Intel chips, potentially enabling new applications of inference ...",
@@ -1424,6 +1372,50 @@
         "AI",
         "Machine Learning",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-conocophillips-sparks-tooling-for-seismic-hpc-cloud-aiml.md",
+      "title": "ConocoPhillips Sparks Tooling For Seismic HPC, Cloud, AI/ML",
+      "excerpt": "Seismic processing and analysis at scale take scalable HPC resources but also need an analytics backend that can scale with massive datasets. And as if",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/",
+      "originalUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/shutterstock_571864537.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/amp/",
+      "publishedDateTime": "2021-03-03T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

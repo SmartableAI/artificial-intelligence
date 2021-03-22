@@ -2,6 +2,60 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-05-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
+      "title": "Facebook’s New AI Teaches Itself to See With Less Human Help",
+      "excerpt": "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
+      "originalUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
+      "publishedDateTime": "2021-03-04T18:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-the-cambrian-ai-landscape-qualcomm.md",
       "title": "The Cambrian AI Landscape: Qualcomm",
       "excerpt": "One should expect Qualcomm to produce a highly efficient platform for AI, given the company’s historical strengths in mobile, and the company’s first AI platform does not disappoint.",
@@ -1398,58 +1452,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-tech-firms-train-voice-assistants-to-understand-atypical-speech.md",
-      "title": "Tech Firms Train Voice Assistants to Understand Atypical Speech",
-      "excerpt": "Voice assistants like Alexa and Siri often can’t understand people with dysarthria or a stutter. Their creators say that may change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
-      "originalUrl": "https://www.wsj.com/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-303573/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
-      "publishedDateTime": "2021-02-24T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

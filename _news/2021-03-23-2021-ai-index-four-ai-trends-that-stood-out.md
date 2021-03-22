@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/arunshastri/2021/03/22/2021-ai-index-four-
 ampWebUrl: "https://www.forbes.com/sites/arunshastri/2021/03/22/2021-ai-index-four-ai-trends-that-stood-out/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/03/22/2021-ai-index-four-ai-trends-that-stood-out/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058cd428a7b9e8dad831d09%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "Q6VLquVItp98mQd6DBuUkE4lnRFgYT/XrR2AjH977eWVrXYiMP03QBhY/HWDS1l4Wips0vF2YwzFcxEZPueEULB8tFBTPD5UsUI5rV0Wx3oJaFQhYqMbFVhBsS6653dpLK3tEcJgzrDzK/9bmnIJo9YnTj2IqA8XYRCyZI7QJ8oERzrAMdf+tbM+Z/cPFAaY9k8/q1x8eDz7K3yoO3/rRiFoDoPHHrJAOltMBdpRCwLnnuuzxgMaecNUQmhczkd1t20RzARFgRGBnP75Nt35ixx5tS+gk/EZYGTJHfLesfB+M/mAClJKudK7AimCc4xU+cIgwZtFeHo9SoOv7enVKx81js+sAm7y+wYH4J27oEA=;fjZduagh1Dm3JL9Nlmvvjw=="
+secured: "dDFzDXGNDFlzIm76rrtdPBN0mWdTuScAdsspxyG1pPCqGfUgl36gHEwkjn9T1jTuVnp4g65EICPsd0ZfxdO7N+QzAVnGUolGAMnqTuPFn1oE8s0HUP5Frd22jTt0/qm7MHTWzhqHySkay/A6rhd3gZZfeBzonCRwEdDbG5kVbpA4G4YLgom33nVBOCRBMPmsGyWTEAg9ZAWlPTSm1yc1jTbIEwkvmRfbIHK8CjM38fg4ob4dK95Sm99R3p784qFi62kuuPXchjpaSluC3kf2oE7ZJqpBEq6hbiKSJYPlRbukb2fCQ/ScF3/LQMri6GZ41R2MQHVEKUwURi8r42pocgDaH8VvNBimrmuHgsBJT4uqEB0bXJttjFVCKDw3u2UfM6SJvF5XVAErdYibo2DCGcZjA6FvP4paUmEINXEy/1KFSpT1yLsifW5o9XrXKQN6095xd+PQ/THJerow9kJZ5y6KOielq7+5FLO4Zd8y+ahS+Y2r1JAIUI0JkmYQn16Nxnnnpjcl1kbFRq1y8WOm0Q==;vQeM09fAVu9sA9Xd23wcfQ=="
 ---
 

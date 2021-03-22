@@ -98,6 +98,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Enterprise Artificial Intelligence Market Research Report 2021 Market Insights, Overview, Analysis And Forecast 2021"
+    excerpt: "Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and"
+    publishedDateTime: 2021-03-22T19:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-research-report-2021-market-insights-overview-analysis-and-forecast-2021-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft extends digital innovation and energy transition deal with Spain's Repsol"
     excerpt: "Microsoft said it has renewed a strategic collaboration with Repsol that begun in 2017 to focus on accelerating the digital transformation and global energy transition of the Spanish energy and petrochemical giant."
     publishedDateTime: 2021-03-18T08:38:00Z

@@ -43,6 +43,20 @@ related:
         width: 1013
         height: 675
         isCached: true
+  - title: "Repsol and Microsoft renew partnership developing AI-powered digital solutions"
+    excerpt: "The companies will co-innovate to build new AI-powered digital solutions ... including recommitting to the Azure cloud platform. “The extension of our collaboration and the supply of renewable energy undoubtedly reaffirms the vision that both companies ..."
+    publishedDateTime: 2021-03-22T16:04:00Z
+    webUrl: "https://www.chemengonline.com/repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions/"
+    type: article
+    provider:
+      name: The Magazine
+      domain: chemengonline.com
+    quality: 50
+    images:
+      - url: "https://www.chemengonline.com/wp-content/uploads/2018/10/fig2_communication-network.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Voyager Labs Partners with Microsoft to Provide AI SaaS Investigation Platforms to Empower Public Safety"
     excerpt: "Voyager Labs, a world leader in AI-based investigation solutions, is proud to announce it has partnered with Microsoft to provide"
     publishedDateTime: 2021-03-22T18:00:00Z

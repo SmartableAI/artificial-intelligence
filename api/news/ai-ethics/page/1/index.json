@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-23-2021-ai-index-four-ai-trends-that-stood-out.md",
+      "title": "2021 AI Index: Four AI Trends That Stood Out",
+      "excerpt": "Is China really winning the race for AI dominance? Are we seeing enough action on AI ethics? Should the private industry self-regulate? The 2021 AI Index gives us clues to these answers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/03/22/2021-ai-index-four-ai-trends-that-stood-out/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/03/22/2021-ai-index-four-ai-trends-that-stood-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058cd428a7b9e8dad831d09%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/03/22/2021-ai-index-four-ai-trends-that-stood-out/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/03/22/2021-ai-index-four-ai-trends-that-stood-out/amp/",
+      "publishedDateTime": "2021-03-22T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-new-book-robotics-ai-and-humanity-co-edited-by-greg-reichberg.md",
       "title": "New Book “Robotics, AI, and Humanity” Co-Edited by Greg Reichberg",
       "excerpt": "PRIO Research Professor Gregory M. Reichberg has co-edited a new volume titled \"Robotics, AI, and Humanity: Science, Ethics, and Policy\". The open-access book \"examines recent advances in how artificial intelligence (AI) and robotics have elicited ...",
@@ -401,19 +453,19 @@
     {
       "path": "_news/2021-03-16-use-of-ai-to-fight-covid-19-risks-harming-disadvantaged-groups-experts-warn.md",
       "title": "Use of AI to fight COVID-19 risks harming 'disadvantaged groups', experts warn",
-      "excerpt": "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease,",
+      "excerpt": "The Leverhulme Centre for the Future of Intelligence recently launched the UK's first Master's course for ethics in AI. For Cave and colleagues, machine learning in the COVID era should be viewed ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/uoc-uoa031521.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/uoc-uoa031521.php",
+      "webUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/covid19.jpg",
+          "width": 1920,
+          "height": 1032,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -421,13 +473,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T17:03:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp",
+      "publishedDateTime": "2021-03-15T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1466,58 +1518,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing.md",
-      "title": "Annual index finds AI is ‘industrializing’ but needs better metrics and testing",
-      "excerpt": "AI Index from Stanford University gathers data about how AI research, startups, and changes to business and government policy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/",
-      "originalUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-policy-global-map.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/",
-      "publishedDateTime": "2021-03-02T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

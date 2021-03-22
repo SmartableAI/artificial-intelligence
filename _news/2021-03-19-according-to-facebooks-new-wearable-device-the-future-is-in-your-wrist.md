@@ -169,6 +169,22 @@ related:
         width: 1404
         height: 762
         isCached: true
+  - title: "Facebook took down 1.3 billion fake accounts in three months"
+    excerpt: "Facebook disabled more than 1.3 billion fake accounts in the final three months of last year as part of its efforts to tackle misinformation, the company said Monday. The tech titan revealed the"
+    publishedDateTime: 2021-03-22T19:14:00Z
+    webUrl: "https://nypost.com/2021/03/22/facebook-took-down-1-3b-fake-accounts-in-three-months/"
+    ampWebUrl: "https://nypost.com/2021/03/22/facebook-took-down-1-3b-fake-accounts-in-three-months/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/facebook-took-down-1-3b-fake-accounts-in-three-months/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/facebook-accounts-zuckerberg.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook is developing a neural wristband for interacting with AR glasses"
     excerpt: "The wristband, detailed today, is part of a broader project by the social network to create augmented reality glasses suitable for everyday use. Facebook argues that such glasses will require the ability to not only display content but also give users an easy way to interact with that content."
     publishedDateTime: 2021-03-18T21:17:00Z

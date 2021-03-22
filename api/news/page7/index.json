@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-03-16-use-of-ai-to-fight-covid-19-risks-harming-disadvantaged-groups-experts-warn.md",
-      "title": "Use of AI to fight COVID-19 risks harming 'disadvantaged groups', experts warn",
-      "excerpt": "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-03/uoc-uoa031521.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-03/uoc-uoa031521.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-16-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
       "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
       "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
@@ -84,6 +41,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-use-of-ai-to-fight-covid-19-risks-harming-disadvantaged-groups-experts-warn.md",
+      "title": "Use of AI to fight COVID-19 risks harming 'disadvantaged groups', experts warn",
+      "excerpt": "The Leverhulme Centre for the Future of Intelligence recently launched the UK's first Master's course for ethics in AI. For Cave and colleagues, machine learning in the COVID era should be viewed ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/covid19.jpg",
+          "width": 1920,
+          "height": 1032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp",
+      "publishedDateTime": "2021-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },

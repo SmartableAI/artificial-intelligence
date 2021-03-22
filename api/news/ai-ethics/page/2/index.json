@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-03-annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing.md",
+      "title": "Annual index finds AI is ‘industrializing’ but needs better metrics and testing",
+      "excerpt": "AI Index from Stanford University gathers data about how AI research, startups, and changes to business and government policy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/",
+      "originalUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-policy-global-map.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/",
+      "publishedDateTime": "2021-03-02T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-ai-ethics-research-conference-suspends-google-sponsorship.md",
       "title": "AI ethics research conference suspends Google sponsorship",
       "excerpt": "The ACM Conference for Fairness, Accountability, and Transparency (FAccT) decided to pause its sponsorship relationship with Google.",
@@ -1418,59 +1470,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-why-developing-ai-to-defeat-us-may-be-humanitys-only-hope.md",
-      "title": "Why developing AI to defeat us may be humanity’s only hope",
-      "excerpt": "One glance at the state of things and it’s evident humanity’s evolved itself into a corner. On the one hand, we’re smart enough to create machines that learn. On the other, people are dying in Texas because elected officials want to keep the government out of Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/poorrobot-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
-      "publishedDateTime": "2021-02-18T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
