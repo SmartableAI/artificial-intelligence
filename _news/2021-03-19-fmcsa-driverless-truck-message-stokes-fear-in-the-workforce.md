@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "The future of driverless cars is now"
-    excerpt: "Like objects in your side-view mirror, driverless cars or autonomous vehicles (AVs ... consumers across the age spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among male respondents and ..."
-    publishedDateTime: 2021-03-20T14:00:00Z
-    webUrl: "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html"
-    ampWebUrl: "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html"
-    cdnAmpWebUrl: "https://www-dailytribune-com.cdn.ampproject.org/c/s/www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html"
+    excerpt: "In a series of conversations between film director Martin Scorcese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series \"Pretend It's a City,\" somehow the subject of"
+    publishedDateTime: 2021-03-20T15:00:00Z
+    webUrl: "https://www.macombdaily.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_f9f85a1d-3514-578b-888a-e3b4e3701661.html"
+    ampWebUrl: "https://www.macombdaily.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_f9f85a1d-3514-578b-888a-e3b4e3701661.amp.html"
+    cdnAmpWebUrl: "https://www-macombdaily-com.cdn.ampproject.org/c/s/www.macombdaily.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_f9f85a1d-3514-578b-888a-e3b4e3701661.amp.html"
     type: article
     provider:
-      name: Daily Tribune
-      domain: dailytribune.com
+      name: The Macomb Daily
+      domain: macombdaily.com
     quality: 59
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/dailytribune.com/content/tncms/assets/v3/editorial/5/6c/56cfd92c-ae3a-5dd0-bbe7-b7f5ebc24490/6042b86fd8efb.image.jpg?resize=1024%2C576"
+      - url: "https://bloximages.chicago2.vip.townnews.com/macombdaily.com/content/tncms/assets/v3/editorial/6/d7/6d7bdcec-2b3a-55a2-a0eb-696b603fec5f/6042b8eca60c8.image.jpg?resize=1024%2C576"
         width: 1024
         height: 576
         isCached: true
@@ -56,20 +56,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/60533a295e1c5.jpg"
         width: 768
         height: 511
-        isCached: true
-  - title: "FMCSA driverless truck message stokes workforce fear"
-    excerpt: "Many truck-focused technology startups are currently piloting varied levels of autonomous driving solutions with fleet and OEM partners, though truly driverless trucks ... interfaces, artificial intelligence, and automated steering and braking."
-    publishedDateTime: 2021-03-17T15:20:00Z
-    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21158179/are-driverless-truck-workforce-fears-warranted"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/fleetowner/image/2021/03/16x9/Scharfsinn86_dreamstime_selfdriving_truck_highway.6052069dd112b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Safety concerns determine level of public support for driverless vehicles, finds NTU study"
     excerpt: "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3612349/ibm-s-project-debater-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.amp.html"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,68 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "IBM develops artificial intelligence system that can debate humans"
+    excerpt: "Project Debater told its human counterpart, \"I heard you hold the world record in debate competition wins against humans, but I suspect you've never debated a machine. Welcome to the future.\""
+    publishedDateTime: 2021-03-18T06:06:00Z
+    webUrl: "https://www.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355"
+    ampWebUrl: "https://m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/441868"
+        width: 640
+        height: 428
+        isCached: true
+  - title: "IBM's AI debating system able to compete with expert human debaters"
+    excerpt: "IBM has developed an artificial intelligence-based system designed to engage in debates ... To carry out such tasks, Project Debater uses Watson, the IBM system that beat contestants on the game show \"Jeopardy,\" to listen to the arguments given by ..."
+    publishedDateTime: 2021-03-18T14:06:00Z
+    webUrl: "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html"
+    ampWebUrl: "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/humanai.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "An IBM AI Debates Humans—but It’s Not Yet the Deep Blue of Oratory"
+    excerpt: "In 1997 IBM’s Deep Blue became the first computer to defeat a reigning chess champion, besting titan Garry Kasparov in a six-game match. Fourteen years later IBM’s Watson defeated Jeopardy! all-stars Brad Rutter and Ken Jennings at their own game."
+    publishedDateTime: 2021-03-17T20:29:00Z
+    webUrl: "https://www.scientificamerican.com/article/an-ibm-ai-debates-humans-but-its-not-yet-the-deep-blue-of-oratory/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 41
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/EFE03724-7526-4C0B-ABAE5AFAA2F71100.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "AI Can Now Debate with Humans and Sometimes Convince Them, Too"
+    excerpt: "The AI was also featured in a collaborative series ... by human debaters using crowd-sourced information. At one point, IBM Watson sifted through over 5,000 submissions from the public, all ..."
+    publishedDateTime: 2021-03-17T17:49:00Z
+    webUrl: "https://www.scientificamerican.com/podcast/episode/ai-can-now-debate-with-humans-and-sometimes-convince-them-too/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/D5F41FCE-6C69-423A-9D9A6DCB51C965AE.jpg"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "tDDjC6M+latt3Y44V2KELwz0vIEP1QSPv2t22ur2MS3uTwVpyjmV2mGND6g1i9AzaaJjQ8Q1gYuHJ5Whcq2Fhmh8QzyTzAlr3vDaRL3+7mr8zsrlAJxZXpk2lymyxhKEUIfMINh97JCbO1BTTkYVgJYRFbXJMmvU1bgXEUmJLFgVl1rE/FZ/D9u7tMRMvHyD1T7E0UnJFKd0HT8LscevCWynkm39jXMw+mNe0S+yEgorB7VcHJlGNyfMbFud20SbvD7lN8NASK0dT3XcQv4Tzk26jh8vhVsIgbfi/mtIwpU2il7IaVZai74+yVsv8RO7oc7IDmwJ//yWFkwCsLocMN71SgRhN0puAWj2pKC0gNo=;sxHR92Q7zY5hUzSUjb+eSQ=="
 ---

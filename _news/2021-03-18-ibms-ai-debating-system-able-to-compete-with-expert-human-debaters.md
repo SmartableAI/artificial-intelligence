@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "An autonomous debating system"
-    excerpt: "Here we present Project Debater, an autonomous debating system that can engage in a competitive debate with humans. We provide a complete description of the system’s architecture, a thorough and systematic evaluation of its operation across a wide range of debate topics,"
-    publishedDateTime: 2021-03-17T16:05:00Z
-    webUrl: "https://www.nature.com/articles/s41586-021-03215-w?error=cookies_not_supported&code=f7c4ea6f-341c-4fd6-854a-2d01222b6f5a"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 102
   - title: "IBM develops artificial intelligence system that can debate humans"
     excerpt: "Project Debater told its human counterpart, \"I heard you hold the world record in debate competition wins against humans, but I suspect you've never debated a machine. Welcome to the future.\""
     publishedDateTime: 2021-03-18T06:06:00Z
@@ -51,6 +42,50 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/441868"
         width: 640
         height: 428
+        isCached: true
+  - title: "IBM’s Project Debater showcases next-gen AI-driven productivity"
+    excerpt: "I’ve been following IBM’s Watson effort since the beginning — and its initial focus on winning the game Jeopardy. This early effort was just a taste of what this platform could do. Years later, I attended the introduction of Project Debater,"
+    publishedDateTime: 2021-03-19T09:42:00Z
+    webUrl: "https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.html"
+    ampWebUrl: "https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/08/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "An IBM AI Debates Humans—but It’s Not Yet the Deep Blue of Oratory"
+    excerpt: "In 1997 IBM’s Deep Blue became the first computer to defeat a reigning chess champion, besting titan Garry Kasparov in a six-game match. Fourteen years later IBM’s Watson defeated Jeopardy! all-stars Brad Rutter and Ken Jennings at their own game."
+    publishedDateTime: 2021-03-17T20:29:00Z
+    webUrl: "https://www.scientificamerican.com/article/an-ibm-ai-debates-humans-but-its-not-yet-the-deep-blue-of-oratory/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 41
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/EFE03724-7526-4C0B-ABAE5AFAA2F71100.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "AI Can Now Debate with Humans and Sometimes Convince Them, Too"
+    excerpt: "The AI was also featured in a collaborative series ... by human debaters using crowd-sourced information. At one point, IBM Watson sifted through over 5,000 submissions from the public, all ..."
+    publishedDateTime: 2021-03-17T17:49:00Z
+    webUrl: "https://www.scientificamerican.com/podcast/episode/ai-can-now-debate-with-humans-and-sometimes-convince-them-too/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/D5F41FCE-6C69-423A-9D9A6DCB51C965AE.jpg"
+        width: 790
+        height: 496
         isCached: true
 
 secured: "w+1U7kUuBHlAbStEipznUqOY+A/eUoLHMQtd33P8ncPt7RzGGnebB6ZkbBfRJSj2VouqAJ86W3FPYrbnpB9yVfCchsrMgZ7hPcwvke1cGCdr/2vIYp+04qVDtKq7elFG1jOMeZjmHOPHjXr1YepivVQhYYgVu3Crx7j7HdPeqCKkof4T1m0tNt7g09WOc9/K4R51uwbjCnKLMPTQ0jgl2uH8Z0dWu5SiHImsncwjblduSyjwGTOL6OSP3AIF5H72agDg04j6hqjUF+ljYcIBzKLiTNk7m1DcuTuWeruAR/zEjTRBwNtwRyPPK2Ren7Y9MiOUgQxcQnrWA3tSqDinvQT4NFuRCWVwKWyX5MWiUFeF1VWzrSAdbZYF/XElrA2CSA2UR7Ws55QmQ92DUJARid242hvD0DxeUvJYtni4PM6gFRW6LOnPYVlXkhMK3gvhOOClnlaaXwu22+VsBxvvdOm73KnUnYgCMOuYW9nWQcFaF3Zd0lTmDuUU0GNH3HqUqO7NkUfct9GXli1OKfLIzQ==;6HlatT+1he5alXDwyLjbVg=="

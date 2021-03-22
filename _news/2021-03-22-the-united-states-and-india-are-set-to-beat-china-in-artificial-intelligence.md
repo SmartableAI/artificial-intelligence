@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "All about US India Artificial Intelligence Initiative (USIAI)"
+    excerpt: "US India Artificial Intelligence Initiative: Why in News? United States India Artificial Intelligence, USIAI initiative has been launched to enhance the technological relationships between the two countries. DST secretary Ashutosh Sharma in the curtain ..."
+    publishedDateTime: 2021-03-22T08:50:00Z
+    webUrl: "https://www.jagranjosh.com/general-knowledge/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1"
+    ampWebUrl: "https://m.jagranjosh.com/general-knowledge/amp/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/general-knowledge/amp/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1"
+    type: article
+    provider:
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 72
+    images:
+      - url: "https://img.jagranjosh.com/images/2021/March/2232021/AI.png"
+        width: 640
+        height: 479
+        isCached: true
   - title: "US India Artificial Intelligence (USIAI) Initiative launched"
     excerpt: "We need to further scale it up in various fields, and Artificial Intelligence (AI ... and domain-specific opportunities for R&D in healthcare, smart cities, materials, agriculture, energy, and manufacturing."
     publishedDateTime: 2021-03-18T16:44:00Z

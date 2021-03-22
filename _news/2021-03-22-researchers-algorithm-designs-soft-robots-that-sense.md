@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
 webUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "FSU Researchers Report Enhanced Quantum Machine Learning Algorithms"
-    excerpt: "Florida State University researchers report they have found a way to automatically infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications. The work could help build artificial neural networks used for training computers to solve complicated,"
-    publishedDateTime: 2021-03-17T15:19:00Z
-    webUrl: "https://insidehpc.com/2021/03/fsu-researchers-report-enhanced-quantum-machine-learning-algorithms/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/03/FSU-FAMU-Engineering.png"
-        width: 500
-        height: 560
-        isCached: true
 
 secured: "01f/Es0jhu+I02q8nywOhWnSUv/5m3sJwY50dZ6XX3ugeuq2AuDBTKKfmF6SDgfO3RFS0HF9TOTx6pDqbWX2u0M+YI1j4zXGm84OeeKBJ9mR2htkUTsY9Qhik612ykigSaBBa4fyMafkJN/0SYBIUYdpU7+v1yiwYhG3hi8gZVN4fC6JQ90NA94nIFSUGTm2Q822RZg/iaAbhlCeoQDvy0KsFUMBDQGzwnSn/nToY4couOSA3jexNbjB6UhJvhLQbshWJVCsp27gbFrz67P50sYONejPRa/IQSiTp4tzQbKeQW5k0zw2Sa2ibeCLv/zI6vXh1YYXQ/Bh4mnyIJzrD1MNQxNDaRBwVyHJgcswlypD8hzsSYAoe305SVKEGqkwWV75SpxaA5G7HbXw/ZZ0J41BLdtaikmR+Lq7bkjDGLKEuZLWnowNqieHYV0hPoj2u5SF7gJN0tKIbxMaALN854ynWLSMcuWi/IceWn6C1cbCsfH1jD6uYBqU/WsWP0ZmiGHGhvTZYlYZ7HvCwANZvg==;QJTdfxOSjTF01WnyYLJWjQ=="
 ---

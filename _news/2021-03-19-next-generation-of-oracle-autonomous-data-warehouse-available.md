@@ -73,20 +73,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Next Generation of Oracle Autonomous Data Warehouse Available"
-    excerpt: "Oracle announced a set of innovative enhancements to Oracle Autonomous Data Warehouse, the industry's first and only self-driving"
-    publishedDateTime: 2021-03-17T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/next-generation-of-oracle-autonomous-data-warehouse-available-301248970.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "Oracle updates Autonomous Data Warehouse"
     excerpt: "Tech giant Oracle has announced a number of updates that aim to make its Autonomous Data Warehouse offering easier to use for experts and novices. The strategy from the company is to reduce how many databases users turn to for modeling and data analysis,"
     publishedDateTime: 2021-03-17T19:53:00Z

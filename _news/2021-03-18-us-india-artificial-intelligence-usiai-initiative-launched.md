@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/us-india-artificial-intelligence-usia
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/us-india-artificial-intelligence-usiai-initiative-launched/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "All about US India Artificial Intelligence Initiative (USIAI)"
+    excerpt: "US India Artificial Intelligence Initiative: Why in News? United States India Artificial Intelligence, USIAI initiative has been launched to enhance the technological relationships between the two countries. DST secretary Ashutosh Sharma in the curtain ..."
+    publishedDateTime: 2021-03-22T08:50:00Z
+    webUrl: "https://www.jagranjosh.com/general-knowledge/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1"
+    ampWebUrl: "https://m.jagranjosh.com/general-knowledge/amp/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1"
+    cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/general-knowledge/amp/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1"
+    type: article
+    provider:
+      name: Rojgar Samachar
+      domain: jagranjosh.com
+    quality: 72
+    images:
+      - url: "https://img.jagranjosh.com/images/2021/March/2232021/AI.png"
+        width: 640
+        height: 479
+        isCached: true
   - title: "The United States and India are set to beat China in Artificial Intelligence"
     excerpt: "The United States and India are logical partners in diagramming the future development of artificial intelligence. The recent US India Artificial Intelligence Initiative will drive further benefits."
     publishedDateTime: 2021-03-22T06:30:00Z

@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Self-driving Tesla hits Michigan State Police car on freeway"
-    excerpt: "A Tesla on autopilot hit a Michigan State Police car early Wednesday morning, officials confirmed. The MSP car was parked with its emergency lights on while investigating a car-deer crash at 1:12 a.m."
-    publishedDateTime: 2021-03-17T15:22:00Z
-    webUrl: "https://www.mlive.com/news/jackson/2021/03/self-driving-tesla-hits-michigan-state-police-car-on-freeway.html"
-    ampWebUrl: "https://www.mlive.com/news/jackson/2021/03/self-driving-tesla-hits-michigan-state-police-car-on-freeway.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/jackson/2021/03/self-driving-tesla-hits-michigan-state-police-car-on-freeway.html?outputType=amp"
-    type: article
-    provider:
-      name: MLive
-      domain: mlive.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZX4FKHNDTZHOBG5HFSEHKQR42M.jpg"
-        width: 541
-        height: 373
-        isCached: true
 
 secured: "YBGTeGqW3H50X8KVu3YN74YNcSFHgbVEk/eIWzIE0WDm542Tc76B+rzH84O/CDKUd+jHSbx9lz4GQSO+TWNTc7EPNCOGsMDE9Do9wnmhCuDaQz/Ths9QYccCp/6DgFhDd840dheVtxd6D6xYtsVq3XioxVZzc+h3Ms0gwAYmc49yOxAmu07sShKih1ct1QqL7nSrUgwrsa2yRBE6xFiTlQc0f9GZz6Mn1DtSI8CMxFes7+kaVnnlTOXxB+HUKy6b8cfURbo5lMqzEesAm9b1TDXXw5AVgtP3qISM4L8GIhRArLJPaZh2q6uDaeplp0YbLlxeiAC5FK88zbSaGGA4D79C5JLXT4KP0w0KjXlZRkzATw6RZ/lIBzTMp6/Ow7Px99XTUidz/BAgEuMw5CAqwRDZRtos55QE+nw3Q1b4YxiEJ4+8dCltNxK8Poqz4QnGVK5DEdkAzp+MU7cEbBqJ90UWQ/d7QVau5/kzNn+B1r2f3KuF/EHS+sswhNiZ73FcWg8R3+OR9kPT4p/2AuMtAQ==;5a3cBlDchFxt5LQGUqk8/Q=="
 ---

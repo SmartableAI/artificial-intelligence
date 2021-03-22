@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/oracle-brings-autonomous-da
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/v1570817219/itpro/2018/12/oracleshutterstock_1120891736.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Next Generation of Oracle Autonomous Data Warehouse Available"
-    excerpt: "Oracle announced a set of innovative enhancements to Oracle Autonomous Data Warehouse, the industry's first and only self-driving"
-    publishedDateTime: 2021-03-17T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/next-generation-of-oracle-autonomous-data-warehouse-available-301248970.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
         isCached: true
   - title: "Next Generation of Oracle Autonomous Data Warehouse Available"
     excerpt: "Oracle announced a set of innovative enhancements to Oracle Autonomous Data Warehouse, the industry’s first and only self-driving cloud data warehouse. With this latest release, Oracle goes beyond other cloud offerings by completely transforming cloud data warehousing from a complex ecosystem of products,"

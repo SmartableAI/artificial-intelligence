@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market Strategies, Major Industry Participants, Marketing Channels and Forecast To 2025"
+    excerpt: "Mar 22, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Computer Vision Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and ..."
+    publishedDateTime: 2021-03-22T08:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-strategies-major-industry-participants-marketing-channels-and-forecast-to-2025-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobile Robot Market Overview, Merger and Acquisitions, Drivers, Restraints and Industry Forecast By 2027"
     excerpt: "The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
     publishedDateTime: 2021-03-17T22:35:00Z
@@ -48,6 +62,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Size, Share, Challenges, Strategies, Forecasts 2019 To 2027 And Industry Analysis Report"
+    excerpt: "Artificial intelligence in healthcare is estimated to significantly reduce the cost of the treatments as there would"
+    publishedDateTime: 2021-03-22T08:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-challenges-strategies-forecasts-2019-to-2027-and-industry-analysis-report-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

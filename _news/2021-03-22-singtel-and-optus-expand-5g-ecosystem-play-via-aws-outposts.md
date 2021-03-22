@@ -24,6 +24,19 @@ images:
     height: 500
     isCached: true
 
-secured: "eYYrVttqWQ0iJIDotk4NhQVNqysLoOZd5oFjz0q9qSIfmEmr53nvZ7jIHojd3duMcFlFcAPzPHd9r9eHBuZSJDglnh9gR+E9de3BQZ0Z2iLmltLL02ro5H9Tu1Q9gAjalNQdRHRxT0dufbSwupX5foBH2m+wAycENTf28ivOofAPD15Yh1CitsDeJkk7XD+JCak8m2+9ijwYUr9nXzkkM4tFG1zKyRDMbM0RpmI2Ch/0lMvb5mPvp9eFQvyq3jex7NtVQ1QzOBVO263mKNpy12SPXRPXu+UyV4Ocw3Z6vdSi1k8IDSED2HOaPZpCJwQySQ2y1bHr+lJ9QpWcpEdfwQYEjMiOiHuKHY/vBbR4WUk=;nldE3ROD3RvW8NYzOECzIA=="
+related:
+  - title: "Singtel and Optus partner AWS on telco edge"
+    excerpt: "Singtel and Optus are supporting AWS Outposts in their telco edge platforms that will enable enterprises to use AWS services for on-premise 5G applications"
+    publishedDateTime: 2021-03-22T07:27:00Z
+    webUrl: "https://www.computerweekly.com/news/252498214/Singtel-and-Optus-partner-AWS-on-telco-edge"
+    ampWebUrl: "https://www.computerweekly.com/news/252498214/Singtel-and-Optus-partner-AWS-on-telco-edge?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252498214/Singtel-and-Optus-partner-AWS-on-telco-edge?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+
+secured: "p+Y+S0k1NIfFjaT46Qwo5bGmIZEWQbmBQHpEb3BGvd8Kijq3AscZJlJ4ZTWhaMp9kEYavhyVj+yXfstND1qfTEDED+yBBP9Gm0FKIIv1rSUtggi41BdHJJa0XwSsGd3NuyaHjfM87Zc6bqbIHS3IRG/A9lBlKLj9V8dh1yHDSB6MNrdR6nwTS+StlWUOl4Tx15GztaLAG32RBFDD7DfCR9nW5r4pgmA+dXdmu5XyO+qpejTY0bbtNqaAaxHqvLvm0Lf8qfqPGNB1UOIIuur1plVlfkge9RZA82GzptkTszwq1mb4IrBwm6rVArz3VjQudWsuXoCGS5Tfkv/BOuOlJe3ZcmrCyx0yYChFprtxnUoR4lgLz6uV5eKmHS7Bwo4xcKAEspA37f/yVDi7ld65VmkUUtQMx7Nv2XYH5j0lEdZrVi+S/jextZRfzDD0MfWpdRaujeSGoaxBffOixicb9QJtSDdZqgSmUVa9lSuouPwM1kVxgcNOlh8LTi4mdopXxTMnjuTTJiv9XfHB8I8WFg==;RDxci4Mf0FcTNbjOSPflcA=="
 ---
 

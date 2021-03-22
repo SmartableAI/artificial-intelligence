@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: The Jerusalem Post Blogs
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "An autonomous debating system"
-    excerpt: "Here we present Project Debater, an autonomous debating system that can engage in a competitive debate with humans. We provide a complete description of the system’s architecture, a thorough and systematic evaluation of its operation across a wide range of debate topics,"
-    publishedDateTime: 2021-03-17T16:05:00Z
-    webUrl: "https://www.nature.com/articles/s41586-021-03215-w?error=cookies_not_supported&code=f7c4ea6f-341c-4fd6-854a-2d01222b6f5a"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 102
   - title: "IBM's AI debating system able to compete with expert human debaters"
     excerpt: "IBM has developed an artificial intelligence-based system designed to engage in debates ... To carry out such tasks, Project Debater uses Watson, the IBM system that beat contestants on the game show \"Jeopardy,\" to listen to the arguments given by ..."
     publishedDateTime: 2021-03-18T14:06:00Z
@@ -51,6 +42,50 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/humanai.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "IBM’s Project Debater showcases next-gen AI-driven productivity"
+    excerpt: "I’ve been following IBM’s Watson effort since the beginning — and its initial focus on winning the game Jeopardy. This early effort was just a taste of what this platform could do. Years later, I attended the introduction of Project Debater,"
+    publishedDateTime: 2021-03-19T09:42:00Z
+    webUrl: "https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.html"
+    ampWebUrl: "https://www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/08/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "An IBM AI Debates Humans—but It’s Not Yet the Deep Blue of Oratory"
+    excerpt: "In 1997 IBM’s Deep Blue became the first computer to defeat a reigning chess champion, besting titan Garry Kasparov in a six-game match. Fourteen years later IBM’s Watson defeated Jeopardy! all-stars Brad Rutter and Ken Jennings at their own game."
+    publishedDateTime: 2021-03-17T20:29:00Z
+    webUrl: "https://www.scientificamerican.com/article/an-ibm-ai-debates-humans-but-its-not-yet-the-deep-blue-of-oratory/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 41
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/EFE03724-7526-4C0B-ABAE5AFAA2F71100.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "AI Can Now Debate with Humans and Sometimes Convince Them, Too"
+    excerpt: "The AI was also featured in a collaborative series ... by human debaters using crowd-sourced information. At one point, IBM Watson sifted through over 5,000 submissions from the public, all ..."
+    publishedDateTime: 2021-03-17T17:49:00Z
+    webUrl: "https://www.scientificamerican.com/podcast/episode/ai-can-now-debate-with-humans-and-sometimes-convince-them-too/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/D5F41FCE-6C69-423A-9D9A6DCB51C965AE.jpg"
+        width: 790
+        height: 496
         isCached: true
 
 secured: "coPgE3eFFd1sTg0o4pnkYeDjk6RDumLB2s7tQmDYb3AlVwlcU2g2Oqp101RwRQ//0HGkim5m0RaQc6i4T9qm9cL/6MrFgqX25OrnIp07HKSrtwFa8jEusF1bRqzFYXhSo0m0q8h7akwPwgUD3xRyVNUY/yqyhlWbZvcr5eoeBl+pdbikujWUasRDCtIQpaPaEz/pTfq5s/wa72OLFki6o9/zo4X6lbIBOQvNyEF3TFo0tPLHuSb9JO16IyJaqMsiD1+t950E2ROkalPNrd+EoWJcuLeDYKDWe6F94dq9dB4gnteP0pWywYVw7IWA41UvbJF1IAp9JsbXfJ3mfBi7jQia72PgXTCS0EyUdb/uNVv3NljjyggpWgYyoI7A+GPax6A/hqK6QgdU2RyLdVYNvD0kRBltHvDednSHXx8JRoMGCmna2A6J3UA0oZOjpWI9kCG8i72D4vHZY7kxufY3Z2mRV0pDor1YBYPyD3yvlzdX0LqmSJxYJlnBJuefGU9Boq/9Rwc43Hjx4+1Fq0Jo3w==;CiHRAqSXEcurV3wtWDSFDw=="
