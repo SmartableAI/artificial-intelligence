@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/amazon-ai-camera-delivery-tracking-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-ai-camera-delivery-tracking-tech-bezos-2021-3?amp"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Amazon is using new AI-powered cameras in delivery trucks that can sense when drivers yawn. Here's how they work."
+    excerpt: "The camera system is called \"Driveri\" and manufactured by the AI and transportation startup Netradyne. Four cameras give 270 degrees of coverage: one faces out through the windshield, two face out the side windows, and one faces the driver. The cameras do ..."
+    publishedDateTime: 2021-03-22T20:13:00Z
+    webUrl: "https://www.businessinsider.com/amazon-delivery-driver-camera-ai-bezos-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/amazon-delivery-driver-camera-ai-bezos-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-delivery-driver-camera-ai-bezos-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/5f9727294743a3001216bb9c?width=1200&format=jpeg"
+        width: 999
+        height: 499
+        isCached: true
 
 secured: "uGpxUTYjOPPDUMmtCwf3QYrjFoTIhKdNdXpE+cl1sIhvGxiqyHVVPujlTVoT7fqGzrJ4mHgLEkD1WeDCimtJrvxPVJaj7/tStEPpuVGBgF2sn/8g5iro9SnBHIA4AntkMwEDaRID9pYCCSjP79mlXwcCjYKV8HcgPKSPjFFWMV+n31SOgutv8gsQc0mR3Yl6+Fw6JhR0Jc/vCioZM6yF0i0e02r0uhchL/1k/pzQudseEhrn3xk5bMWB4UUapHu/jjwV/oof/ZearoVAicVOHrIMgj0IFT/hZ+jdKjqcg+3wLe92O3hl0Xd98H8uQ2LiJo4CQXyFBh9c23KAmwYwpIPP/Pu+Hm7bA5wYPHJJ1FpQruJSFTgWYAKjJKAvjbtpYDkIIHd8wf8KS25vx/93plsQRXKla+w7HMP0RgIBRphXhicMaWs8+iBe2S7kvwXxMDNv64mgEEsGY/2LSNF68vu99g53bJc32fjYoJzGZcq7WaeIds43ja8upke+4/o3jYhRSWUoqYCfvipvV28t7Q==;ZzseiJz7SGc1gCL3I6GuEg=="
 ---

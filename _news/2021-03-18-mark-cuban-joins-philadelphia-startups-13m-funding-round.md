@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/philadelphia/news/2021/03/18/fort-robo
 webUrl: "https://www.bizjournals.com/philadelphia/news/2021/03/18/fort-robotics-philadelphia-raises-13-m-double.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - AI in Robotics
   - AI
+
+related:
+  - title: "Philadelphia’s Robotics Industry Ripe for STEM Students"
+    excerpt: "Robot makers in Philadelphia say their biggest challenge is a shortage of skilled labor, and students who finish trade school, an apprenticeship or a two-year program can qualify for jobs starting at $62,"
+    publishedDateTime: 2021-03-22T20:48:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_483185803.jpg"
+        width: 968
+        height: 630
+        isCached: true
 
 secured: "C/YpfuF7p/QWyt9qyPYdQOHnt5SiTmT6sBRz3GwI2fUQ1CFtRUExtXWQnkTkNx7hc4HA7fAcqoJv3XJk7Ljopd2Pz2dtdTqcuvRzCu7KKpfPHzI0Kr4MKppXaH3VY54FFnq6GOtHgycQEzCyKf5FH89leA1P3Lsnk1BpVUciXTNPpWwPKFhbWG96VB3vZPZdWphnkdkEkHSs3Y/f4EuOned8WTVvTEepf8N0bXs/HiJxEBjnBkGU3HxIxE+oojFw286++Gr8uv91E4wQUcEX5qDSVPoPjV/i7GNLBAzV+HHNVux7IItA9L6/NqOpCtLnQ85emOpjPyPY83kF66Czy9hTDvRwA9VpHn9RDMVjrKeDvdcig3Pi21Z9OUtRwFU9/Rh4cNTHf2yGpqOGfroai++O06HGnMdfGf9peonzQcq6ggdSTTfa9hU1O2lcv65wID9ihZHIQ62m4hs62AjhrAkaUrJG0oHt+rqQrf5VQGg2PJg0YqtK1lBhEGdY8JGWmnLTK8PbyXfTSGpZjURPDg==;DgVLL247GGrr2AYs4srVZQ=="
 ---

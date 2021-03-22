@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Understanding influence of decision-making AI"
+    excerpt: "Monash University researchers have developed a crucial framework to help provide greater transparency into the decision-making processes of"
+    publishedDateTime: 2021-03-22T21:08:00Z
+    webUrl: "https://www.miragenews.com/understanding-influence-of-decision-making-ai-532437/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
+        isCached: true
   - title: "Teaching AI what’s fair"
     excerpt: "With funding from Amazon and the National Science Foundation, Tan has been working for the last year to teach artificial intelligence algorithms how to be more fair and recognize when they’re being unfair."
     publishedDateTime: 2021-03-19T17:43:00Z

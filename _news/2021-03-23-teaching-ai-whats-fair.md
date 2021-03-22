@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Understanding influence of decision-making AI"
+    excerpt: "Monash University researchers have developed a crucial framework to help provide greater transparency into the decision-making processes of"
+    publishedDateTime: 2021-03-22T21:08:00Z
+    webUrl: "https://www.miragenews.com/understanding-influence-of-decision-making-ai-532437/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
+        isCached: true
   - title: "Teaching AI what’s fair"
     excerpt: "With funding from Amazon and the National Science Foundation, Tan has been working for the last year to teach artificial intelligence algorithms how to be more fair and recognize when they’re being unfair."
     publishedDateTime: 2021-03-19T17:43:00Z
@@ -108,6 +122,6 @@ related:
       domain: pr.com
     quality: 19
 
-secured: "o/AKvOh8yotYWOKpvuLSmx1q1sCyUSB4Si7euTpLO5BxWZYK6B1XiExYpnECSv2CZq7+sqrQZqUKN/CgJFcxkz6Q1rM15dlz//FwynqOJ+ky2C8Pohn39IdgTIoOObhT4TADC+0Ja/3dumXYdFZD4Bt7dJ5Aye+WPtFmEgSZRxoubBoeqQ2NZWOBNq6O49gLUfm6EpJGFtGCoAepVHT2Gu5TPfR0bbZ/BUyssDmJ0dVzEYElU/LvgVLhn50gg5YK0XIOtmM8jIbQxL2Tby2xSDHpK+lxcsEDgdg/AhsOTJRfcNPqjTXHIrHHXE+KwYuRDQcS2Z8VTK39I/VHn8SR7XAsWvl8m4p2Zsf/cuRjL8M=;wFMq8jO8X2pNA5ksXwrmcQ=="
+secured: "ReeQIS7pFYg2HzDeRSVtT1mUVguoca2zNitPdVQhYKRwSwRCZfRCi1H4PrZ5daTcWXKAUpASJ3U0ISofZoYHYI/hzxM8yqc6pU4wM8Hn0RBo/VlP9hR5NE2NHa7lShuGFXGPgFQyjtft85zv/cZihajU6wd9pVbPrC9TSA1KyK+KdK2t3EJpJAZ7Tu4gfRf8LseLm22yCEGiPbrCVHe57hvOs8U8Bme7rYwRt0exT9WAeaQNyk0tXS9wYdN6d4lbSZufviwpCETvaT7Aeha2E017HeymlJoD8uM9eyq4gRhs0x0YcoUQ/J7MbPc4M5idE8Z9UwhsGMTjOCa/RzeJotfA+1IqbZJeEaKixekQAfoNXW59VdIEXld8eO8+kKP6PZOIWyVBRfecjzLqq/tdqRPnafe8tEk+NMp6bARF5PqwQqaFgbeGKta9x+uOG7Je7nKGXi7uzNUkslgD/Hlc4A4uHxaO+YPZWXYrl1G0qUv6Dy1e/UOHAd9uj2KV6ArK13pZjyebzd7rbZuDYWuqOQ==;qaKjCpurBV6kUW0AlBQJMw=="
 ---
 

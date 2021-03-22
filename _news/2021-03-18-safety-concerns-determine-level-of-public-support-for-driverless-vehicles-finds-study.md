@@ -71,20 +71,6 @@ related:
         width: 720
         height: 479
         isCached: true
-  - title: "Safety concerns determine level of public support for driverless vehicles, finds NTU Singapore study"
-    excerpt: "Findings have implications for improving adoption rate of driverless vehicles When it comes to the use of driverless vehicles, an individual's"
-    publishedDateTime: 2021-03-18T03:32:00Z
-    webUrl: "https://www.miragenews.com/safety-concerns-determine-level-of-public-530322/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://news.ntu.edu.sg/News/PublishingImages/avolvoab7300.jpg"
-        width: 768
-        height: 511
-        isCached: true
 
 secured: "OFbKs7XJ/He48WKIo5Vv/BM+u4/veVM6NNpancvDU+IP5+tkplyLtlWwNHbvhoNnpE0XHYyvSRDTMFYI8ikEGpVAeRImQ4vMOrSiEXRlLCN995MtU6bZhqKSQT3ZUngqjMgLmwpU4cRgvHBDcuAejHcAQgss7ZVjHCrHfJtZOdodLAa3xczm6max0kB55zv/IFpUF76i0OT9SMD+FMQycQOyi8uBWo1GzXzEydPzraAijdahT8rqvOeAKwVX2UfRKrAmr9SK5Am8F8CZBPoDfycyLVzxo8u1U4pIaAaIWwO1yrB2aWIDHtnGZMJp2/Zj8kuaj+O4+4mXB3tvg1lp0kkPeCoWcNZZ3yFn8ouwjFI=;F11sXIsd7H31+Qh9EQetAQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-artificial-intelligence-fairness
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-artificial-intelligence-fairness.amp"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Understanding influence of decision-making AI"
+    excerpt: "Monash University researchers have developed a crucial framework to help provide greater transparency into the decision-making processes of"
+    publishedDateTime: 2021-03-22T21:08:00Z
+    webUrl: "https://www.miragenews.com/understanding-influence-of-decision-making-ai-532437/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
+        isCached: true
   - title: "Teaching AI what’s fair"
     excerpt: "With funding from Amazon and the National Science Foundation, Tan has been working for the last year to teach artificial intelligence algorithms how to be more fair and recognize when they’re being unfair."
     publishedDateTime: 2021-03-19T17:43:00Z
@@ -109,6 +123,6 @@ related:
       domain: pr.com
     quality: 19
 
-secured: "WQCiRtu9ifVdh/7MqsW/dxtoMbW9kByS2pV1J6ccs0l2Xn8YGbA0ABVYJDRF+rono1BYXNtMl+2HwEW8AUJ1qlMRrAUDExuO3oWnbQ3CrVmUCsvTGo9kWRi0rD2YtqrmZpP3vkQisF0DH6RdbhlLtELGC1BbZh170pErLj3t1ro0bndyruGIgsa2xWy1v2w33AtQTmL1WoxALxX17xLgHU1ENm2dgYnqIxmXMg/HLaTzdu9Vx1Ul3iG2mOGudlzRu+f2oegQTM7Nas9ui1L3VTSxPvXptDiEi2MdLHeIIwOPTB01FG8J+Tm3whF6pA4oZzn/a1WV5HPuxmxFrEbYXA5dk01UbHBlKd14jUJJ+r0=;MZty88LZHCBQjnNugsdwHg=="
+secured: "qXgoQHcEhHfaqjgIeJcZt8xd5RgJ2RI9vqX/dh71QjTn6CLlUi0WLOrUcfwDhWhT0cQDRKYBu1zu2CQSV7dvO2TPcV/y6wDgv/VRRrzR8PnxdmsfMKI1JISKhXm2UhUeJ9urUHbm5uYwa31gNZbzN/cOzoFSW6jKDASlCSUhqFv3ZvbtR/X4zF6ffVkkKMn9QcwmgV8en3pvnSOyruRAkdS9c0UIR/In2ckNtUgwIeC0zTZ22TsJ9eNq6uwVjxJXcQvIUtMT/rGKzv4qCN2j5ZqPDO0JUkHb+/0MXibPk8Dix6c8mNkM68y9kWjD8awv2dG1jD/G8fF1a2yUaH3GYSdKevsDP6WHSNp2Ia39I5gahkAVxMXqENXJlHxmZxYiEhr62x0cf+E7315zXYvtTbR8XfI0d79O1d4yIoxo/JWs2xtwd+xAaqcMbLsHEDncmD6CamdByRTPCXRTNVj2ocYa1qY/FXExSQSx52iivoPNhY+IPiAIrRPMZMdEa0o6JNH+hIyVIpX2Ou4UqvvmTA==;aFQ77qAcSj5RyeX22F11LA=="
 ---
 

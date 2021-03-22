@@ -40,6 +40,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Japan turns to face biometrics for safe and secure Olympics amid COVID-19"
+    excerpt: "A facial recognition system installed at the Tokyo Dome, one of the Olympic venues, has been tested and will be put to use as one of the counter-measures against the virus, The Japan News reports. Tokyo will host the Summer Olympics from July 23 to August ..."
+    publishedDateTime: 2021-03-22T21:14:00Z
+    webUrl: "https://www.biometricupdate.com/202103/japan-turns-to-face-biometrics-for-safe-and-secure-olympics-amid-covid-19"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
 
 secured: "wN0+M2FnKfJwQyGOEtKU/F/AKs2hmGtDkhcD18AhpPEElLOQ5+iXMiQTDReh+FAm9yga46IcIGEFThhfqbZcnplekTx8JD+nePltr0j5CK8jixu1ZSZCePNvs1OPeo4qZ4mLaeMcFpIYGRvma/QWvSyaUWf5/qe+0ItwNH9K1FplRff2h/NrN9DIjjTlmKM/NxrK8DKDVvtFrHUdzky9lQJC20u3XqsQ10w8o/gWkSae0ZV1UAEJ/1lt/azm7cGpLEJwBbspgGwEtkYyj0XshJrAUbIIse+vl8agnd9hVQTdpe0W0CRuwIpAEFakoDQcvL7yo+dxVZFZpnBN86PLIif7QmA7Jco2uoQDqD3F2cc=;vzdrLs4KsNK5gLLOSVpbxA=="
 ---

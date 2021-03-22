@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI is changing the way we work"
+    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
+    publishedDateTime: 2021-03-22T19:52:00Z
+    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kRK6r0IKPyDfil2kJ3JkQebe9/bvwVjboBocRevdDLb+eT35NFH04YX1Oyp3HSfQO6yr8pK9NTKx42Z/QOe1+aZTbmHKtVdORTdmCXcG55bN1d8sUR95J7jhm0FF/Aa45SrUKB8WIXsjY/emkckUMGa4MDYQOrFa8wnq++NElWvaFVpl2gDv+b9fLPJ81VKRA823BHBp6sOSxvnNebLApq3MHvSmT2pgKxeYADcC2kmNjjB0Yf++405x6NkDI0badMeoaJr3I++rxERwrTIDQskLELSGib4gUGxXBsauNyxB+Msy3DDUdqdXBtKn+KIihykQvGhcJhM+joO3I94bFGboNUk70UiY4dvPNWHhmqDyUhzGMPvAZn0RDkzeUsDr44bMUGhxVL2b8PZ60E39zmKPwRQjHNWna/aeRvuMKCMNYPBuYDjdZD221lYKpS39PVneL2UFtekMAswySVbfM0iyGISR4m/r8RZ4Pu6uYOSZAMc6nfyoq5WC6orQbAo/B0Vh4vh3vcdwPircr2j8DQ==;z3bsx/Wa4PBQJADHF+y9Ug=="
 ---

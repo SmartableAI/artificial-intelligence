@@ -9,7 +9,7 @@ ampWebUrl: "https://www.macombdaily.com/lifestyles/vitality/the-future-of-driver
 cdnAmpWebUrl: "https://www-macombdaily-com.cdn.ampproject.org/c/s/www.macombdaily.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_f9f85a1d-3514-578b-888a-e3b4e3701661.amp.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/259486_web.jpg"
         width: 720
         height: 479
-        isCached: true
-  - title: "Safety concerns determine level of public support for driverless vehicles, finds NTU Singapore study"
-    excerpt: "Findings have implications for improving adoption rate of driverless vehicles When it comes to the use of driverless vehicles, an individual's"
-    publishedDateTime: 2021-03-18T03:32:00Z
-    webUrl: "https://www.miragenews.com/safety-concerns-determine-level-of-public-530322/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://news.ntu.edu.sg/News/PublishingImages/avolvoab7300.jpg"
-        width: 768
-        height: 511
         isCached: true
 
 secured: "3hxnOFF3NpiEIZ4hNJZwKaBrDJXwASpZlhQZ8BKR0yEcQKoCocq0d/HzqQPlDq2a1IJzxj6nwJvny7ZGqY8dwNcEeNekrMeU6UzvZV0T8LPTJrK9Y0CX6ESCQf18HTkKtLZ0fzLGAGREyQ3I3l2N50f2OWzvIMhcAyrcyDBTLVoOzkIojY3z5UVuti8E7kthlcnhBmxsic3xA0wTLTzLJe+fpVmwcyfIQezlLIqwwpwT18yc0dhz51BdCNbhGOjLK7A6HClTH0c/7Crz1vt8ndbdlOtnl52P2kcJaCzP95my6hlo7MlW6tXKKnTdvPZdmfjARksjSViJLXsp5V3CFm0XmvvGJAiMFquX2P/ZgW7VuKheyhth6+InhGLCmyFHP4Y5qfi4AKUyMBfFiT/eg+8wUFCXveGerO35/vTB26IZ28X8UPAT2Xbapc3fEYOFMZwHn5dRIMlyaUJjAJSXALQdQ2lL6WVFhMGwBuzv97aRVPYl3Q+1LsPO01wM+3CrAl3yJVA1uxG3WpvGCZ8mNw==;pGmVe1lj2Z7LdHjeya1MBA=="

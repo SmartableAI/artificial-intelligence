@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210322/RADLogics-AI-Powered-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: News Medical
@@ -39,6 +39,20 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Japan turns to face biometrics for safe and secure Olympics amid COVID-19"
+    excerpt: "A facial recognition system installed at the Tokyo Dome, one of the Olympic venues, has been tested and will be put to use as one of the counter-measures against the virus, The Japan News reports. Tokyo will host the Summer Olympics from July 23 to August ..."
+    publishedDateTime: 2021-03-22T21:14:00Z
+    webUrl: "https://www.biometricupdate.com/202103/japan-turns-to-face-biometrics-for-safe-and-secure-olympics-amid-covid-19"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
         isCached: true
 
 secured: "kN0pkQ84VQUdnK8JMRLXq8L+wuPCw4V1b02PF+VDR09bg9r4FlBh8IXA9o9wu8ol+hgsHQ3Y0oAaF0d9xQH2LLorDZARJeh/N1ka5XzS/LDpKNhUh5i3/g3v1KJODp3woLO9SGUgAe+HJSROndNkvexsRn1/PxkMY/DFMuNn3zUFHKvH+to5r6jM5T7dqWaNnej0PQVBcu+2mt/utcY4oogQjw0fy8VMiT77IioF9V+Z7CZIWs4SkX1vZVdx2xexjA9aY0w5b97gzbPVGLawTSn0wAo36iW/p6K1erjtzaF4D/e1R6nYYVXLloSkHx1mhX0GyY8IsYWoLj+dHB6QA1RJVwc/6DTJ6gXmQpZGU8c=;iIh9lbH+Yv1lO9gn1jT58Q=="

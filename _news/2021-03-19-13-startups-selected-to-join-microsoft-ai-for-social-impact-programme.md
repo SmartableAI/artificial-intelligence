@@ -55,17 +55,17 @@ related:
         isCached: true
   - title: "Voyager Labs Partners with Microsoft to Provide AI SaaS Investigation Platforms to Empower Public Safety"
     excerpt: "Voyager Labs, a world leader in AI-based investigation solutions, is proud to announce it has partnered with Microsoft to provide"
-    publishedDateTime: 2021-03-22T18:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety-301252748.html"
+    publishedDateTime: 2021-03-22T21:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety-807766452.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1307116/Voyager_Labs_Logo.jpg?p=publish&p=facebook"
+      - url: "https://mma.prnewswire.com/media/1307116/Voyager_Labs_Logo.jpg?p=facebook"
         width: 704
-        height: 570
+        height: 369
         isCached: true
   - title: "Microsoft UK selects 13 start-ups for 'AI for Social Impact 2021' programme"
     excerpt: "Microsoft has selected 13 UK start-ups to join the company's 'AI for Social Impact 2021' programme. This 4-month programme, managed in partnership with the Social Tech Trust, will offer support on business development;"

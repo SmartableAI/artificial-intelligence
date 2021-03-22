@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-device-135131666.html"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hospital-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "FDA authorizes 1st machine learning COVID-19 screening tool"
+    excerpt: "The FDA authorized the first machine learning COVID-19 screening tool for emergency use to identify COVID-19-related health conditions in asymptomatic patients. According to a March 19 news release, the Tiger Tech COVID Plus Monitor will identify certain ..."
+    publishedDateTime: 2021-03-22T18:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/fda-authorizes-1st-machine-learning-covid-19-screening-tool.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
     excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"

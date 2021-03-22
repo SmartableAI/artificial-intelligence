@@ -94,6 +94,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "FDA authorizes 1st machine learning COVID-19 screening tool"
+    excerpt: "The FDA authorized the first machine learning COVID-19 screening tool for emergency use to identify COVID-19-related health conditions in asymptomatic patients. According to a March 19 news release, the Tiger Tech COVID Plus Monitor will identify certain ..."
+    publishedDateTime: 2021-03-22T18:46:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/fda-authorizes-1st-machine-learning-covid-19-screening-tool.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
     excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
     publishedDateTime: 2021-03-18T18:33:00Z

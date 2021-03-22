@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is changing the way we work"
+    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
+    publishedDateTime: 2021-03-22T19:52:00Z
+    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Examining the bias in artificial intelligence..."
     excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-03-18T23:57:00Z

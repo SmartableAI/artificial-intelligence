@@ -63,17 +63,17 @@ related:
         isCached: true
   - title: "Voyager Labs Partners with Microsoft to Provide AI SaaS Investigation Platforms to Empower Public Safety"
     excerpt: "Voyager Labs, a world leader in AI-based investigation solutions, is proud to announce it has partnered with Microsoft to provide"
-    publishedDateTime: 2021-03-22T18:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety-301252748.html"
+    publishedDateTime: 2021-03-22T21:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety-807766452.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1307116/Voyager_Labs_Logo.jpg?p=publish&p=facebook"
+      - url: "https://mma.prnewswire.com/media/1307116/Voyager_Labs_Logo.jpg?p=facebook"
         width: 704
-        height: 570
+        height: 369
         isCached: true
 
 secured: "KQEuO7NjrQYbZ29mXpYkv0TdGpHS+YfYcP/y4vCSTaa2roYMopIPXjd6Huz3FG5OhVwPWOIAfgiQveXLhe0uoWuyO4SRJVgakDFdAIzzN8wfUPDe+T9XQpTfrV1BafIcbYZC4lsEwKW3nqdRNL9c26frtazkaLxMByD+1/4kwAG6L+auCymBAGe4aO28rSHnGw5hm59BM2bmYraaD9Op8ZgWs/xUBV49BDPhI20CBhJuQqGIykLZXrp79cnhWU0dVrGOBFIJcOs9JLY14DExkJNmomR/7XIg2jLQgXkp+DqccIk1EucV5saybNcjb5nBEcMxpn1dzhdAFCdIZoKvrbKG4BHRKf5jY9GjrYpQxJE=;86Veqe8+gwV05+UZMuPMNQ=="
