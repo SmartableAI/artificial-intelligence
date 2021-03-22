@@ -78,6 +78,6 @@ related:
       domain: nature.com
     quality: 17
 
-secured: "gXsde5+ZSLkElPmfjluz9gJweGWaIAVswgTONsfE9kMKXFdNdYGJ0IpNOiAsWaGfbeFiWe4Q7buLOfi1smspXIJsAoQakXfzjL2hB3YOCZD5gIySgIpnbWK3lT/DHYRNg7Cd3ArGQkhPqrj1ysJp+H0OVTl4tDCZAcrcDY8gE9LZ5JUNu+d2pKy0vMHwpcxSb8XNpqvxlJRtFn3gh0D5J3ZnyI6iokg8f7dhUp/NHExXlmhyGpdycDL8F92JtVpjQ8mvVoGlr3AkF2RiVfz0UzBLAiS//9d4ydUfxPmChUiF982q4VoG0iMkPAqsDLKuf+E5uxk2hrKf5//tg09d7Ap983abRKR2jAh1EeqHqCM=;d/IeGMdjzxODlOaqi1p9VQ=="
+secured: "kN0pkQ84VQUdnK8JMRLXq8L+wuPCw4V1b02PF+VDR09bg9r4FlBh8IXA9o9wu8ol+hgsHQ3Y0oAaF0d9xQH2LLorDZARJeh/N1ka5XzS/LDpKNhUh5i3/g3v1KJODp3woLO9SGUgAe+HJSROndNkvexsRn1/PxkMY/DFMuNn3zUFHKvH+to5r6jM5T7dqWaNnej0PQVBcu+2mt/utcY4oogQjw0fy8VMiT77IioF9V+Z7CZIWs4SkX1vZVdx2xexjA9aY0w5b97gzbPVGLawTSn0wAo36iW/p6K1erjtzaF4D/e1R6nYYVXLloSkHx1mhX0GyY8IsYWoLj+dHB6QA1RJVwc/6DTJ6gXmQpZGU8c=;iIh9lbH+Yv1lO9gn1jT58Q=="
 ---
 
