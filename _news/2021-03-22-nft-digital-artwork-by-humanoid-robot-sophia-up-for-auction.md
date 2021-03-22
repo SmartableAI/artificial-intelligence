@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Post
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Humanoid robot Sophia to auction its own NFT artwork"
+    excerpt: "News Agency Humanoid robot Sophia to auction its own NFT artwork. Posted . Hong Kong-based Hanson Robotics' humanoid robot Sophia plans to auction nine non-fungible tokens (NFT) o"
+    publishedDateTime: 2021-03-22T17:47:00Z
+    webUrl: "https://www.reuters.com/video/watch/humanoid-robot-sophia-to-auction-its-own-id727565987"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210322&i=OVE567UJF&r=OVE567UJF&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Robot ‘humanoid’ Sophia has digital art up for sale in the first ever AI auction"
     excerpt: "“She” is a robot whose first artwork goes up for ... in the first sale of such pieces created jointly with artificial intelligence (AI). NFTs, a digital signature saved on blockchain ledgers ..."
     publishedDateTime: 2021-03-22T15:38:00Z
@@ -56,6 +70,6 @@ related:
         height: 826
         isCached: true
 
-secured: "KMxSBCJ9C7e30JCmPTMA+c2fofewZM49M8o4pmvToYRiUedihTnlF8Cwa1e5K6XiiL15nep/SL0Sc05JC7nLtwRIgTyZFlWHQljxtM1/cg2SXsvpaZ8Fwilez4FKRolfCwoEZuBIjFRZirm8J54u7qhGMm+kcv4lPUNgILidrR4URACHPmUEKttAcEo24T6LuDyZMvVB1d9G6m0QXm0FW18loNKmJB7m1n3m4VYR+bpbgKOK7Fkhi+jyMixVEKXq9CGn1qkKGgoIifazwVj+1r5BNwzs9dpBFRdeT0xbE5+1ZSmaj1kolihK02AWHVrVjBGXBUhxRzeU/IRaiOy4uYKDuqXw4vWIk3877Rt61bg=;6LsnP2jHDiqFS612yTumiQ=="
+secured: "CBmMwanXZeDfnZS1k9I2BYPPFzn3sa3xIGvAdEsM1frtpVN2YDX6Kk2+5DB2pG1fFjsqTCGXBLDovHzNYnw+9mj9xOpeEofBcQRLMcH5jl5bOIPFbvHtR2x92AmzO0rDynEg+kovLf0qS4uYzaepLiDej6gy0BwomKGngF731QtVQAEmpgHQXZCflv4jwpht11DrlmwGZoNsqOXuZ/5yl3hX3lI3zX1qNHPgDNLoA1ABHpwcJoLsMechs7L121WJ1Fbc50IYe8LYSMkYBDvY733x6w/6KMhfwrFmT/4H0dktyutsmeQmEGbd8q11jLUiT0x+8mA7SRON5a+wLhuSiCMW1XhQvXhr2Ed2x20KW87Mj6+U5zpBuuXiDLTxs8naU3akvsN3eB6FYT6ZTHfcQFHUuvWAvakd2cAJIOhrdmhRoe0/7E+Fb2Jtrzq4gs42ulubcUZDPCaFOjDGQGCFUNofVfKB3dFrZvbWSFpSdCEuB8dlwByg9sbTXyLWi5wdwzTIVLq5msrgfRbEDHBsGQ==;2IcgJuonX6GuEbBeWnircA=="
 ---
 

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Machine learning shows potential to enhance quantum information transfer"
-excerpt: "RESEARCH TRIANGLE PARK, N.C. - Army-funded researchers demonstrated a machine learning approach that corrects quantum information in systems composed of photons, improving the outlook for deploying quantum sensing and quantum communications technologies on ..."
-publishedDateTime: 2021-03-22T15:11:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/uarl-mls032221.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-03/uarl-mls032221.php"
+excerpt: "New researchers demonstrated a machine learning approach that corrects quantum information in systems composed of photons, improving the outlook for deploying quantum sensing and quantum communications technologies on the battlefield."
+publishedDateTime: 2021-03-22T16:33:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/03/210322112937.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/03/210322112937.htm"
 type: article
-quality: 38
-heat: 38
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/259799_web.jpg"
-    width: 1440
-    height: 2028
-    isCached: true
 
 related:
   - title: "Machine learning shows potential to enhance quantum information transfer (image)"
@@ -40,6 +38,6 @@ related:
         height: 2028
         isCached: true
 
-secured: "xmwJqANMZgNJqwQd9Bhwq9K0o+q6fK0CyB3nt9g/JaWsaFXbigbqtihMJaTn8erDuxyjyzxMJaLKDBVJzV+vh5IUln2ApISwv24Cvr47BvawnyWQfm/MclaRmQjcdX0SblmMWn2K5iyhgYH4XDUceW4PGvaBg6XeFhx1oUaSYN626thrkCKKVc49X3LwwT1wtzhMZ+/DtLenJutzeKjLpXoAFQaSoM3nR3FOJ/dVlo8FBdVhZ6QBogkLbr2e2O1zA8lSOJr4KJM0nOz85mkymsZFCdfGRWF7waUhs+B4AV6+KvwUkpajcvqAdPYxtKQFWwyFENfwUw9ZwReJ+TB13DqxH71aMPf6TAs98/Dyp4o=;pbR63bGykvN8B2T87elJPg=="
+secured: "9ORnKEZ0EsC4wA+aWNyTS0aqch7oJzFg0eNPqYU/gtCDitFX11LaHKNG7dmLjRztWsFB4CvoHnOBUg9OtXaz1fOWHBU85IGkrdw8NpvkTIV2rWWN7CGLNudTaEsOISdfhtbjZUvVqzmTi3fm5yxGwyy5sORY140CzTmPsIUx6mRLbbd8UxKLnovH7Ji1ryLRWL9brl26EN/yVF1hEiXP83RFs8MbpGDvpYa60diXGmRAlIx9jBSOR3SZUJk1JnZU5kZblzLFcejPk/qJJD6Kx2BhiZrBkOyqarmTNl2V6KbsydTgyu0okx3xLv7bxuOk6XtYZLgNnYJh/p+ixAndtiJPOIZGNApqJwodclEim18=;fnWJdac6tAnfmSnsrblRLA=="
 ---
 

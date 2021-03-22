@@ -59,6 +59,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Can’t argue with that: IBM scientists developing AI whose sole purpose is to debate with humans"
+    excerpt: "A new study details the advances made by an artificial intelligence (AI) program developed by scientists at IBM whose sole purpose is to best humans in debates."
+    publishedDateTime: 2021-03-22T15:55:00Z
+    webUrl: "https://www.rt.com/news/518809-ibm-developing-ai-argue-humans/"
+    ampWebUrl: "https://www.rt.com/news/518809-ibm-developing-ai-argue-humans/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/518809-ibm-developing-ai-argue-humans/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 47
+    images:
+      - url: "https://cdni.rt.com/files/2021.03/xxl/60589a56203027171a5f92ec.jpg"
+        width: 1240
+        height: 697
+        isCached: true
+  - title: "IBM’s Job Debater exhibits next-gen-AI-driven efficiency"
+    excerpt: "IBM’s Watson initiative is a brilliant example for this. Watson carries the tagline that artificial intelligence can be a gamechanger in the field of business, taking the future by storm. When it comes to a business, time, cost and risk management are of ..."
+    publishedDateTime: 2021-03-22T17:01:00Z
+    webUrl: "https://techstory.in/ibms-job-debater-exhibits-next-gen-ai-driven-efficiency/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/GettyImages-1205397116.jpg"
+        width: 730
+        height: 486
+        isCached: true
 
 secured: "w+1U7kUuBHlAbStEipznUqOY+A/eUoLHMQtd33P8ncPt7RzGGnebB6ZkbBfRJSj2VouqAJ86W3FPYrbnpB9yVfCchsrMgZ7hPcwvke1cGCdr/2vIYp+04qVDtKq7elFG1jOMeZjmHOPHjXr1YepivVQhYYgVu3Crx7j7HdPeqCKkof4T1m0tNt7g09WOc9/K4R51uwbjCnKLMPTQ0jgl2uH8Z0dWu5SiHImsncwjblduSyjwGTOL6OSP3AIF5H72agDg04j6hqjUF+ljYcIBzKLiTNk7m1DcuTuWeruAR/zEjTRBwNtwRyPPK2Ren7Y9MiOUgQxcQnrWA3tSqDinvQT4NFuRCWVwKWyX5MWiUFeF1VWzrSAdbZYF/XElrA2CSA2UR7Ws55QmQ92DUJARid242hvD0DxeUvJYtni4PM6gFRW6LOnPYVlXkhMK3gvhOOClnlaaXwu22+VsBxvvdOm73KnUnYgCMOuYW9nWQcFaF3Zd0lTmDuUU0GNH3HqUqO7NkUfct9GXli1OKfLIzQ==;6HlatT+1he5alXDwyLjbVg=="
 ---

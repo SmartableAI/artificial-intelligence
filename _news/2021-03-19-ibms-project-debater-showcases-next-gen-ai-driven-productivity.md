@@ -59,6 +59,36 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Can’t argue with that: IBM scientists developing AI whose sole purpose is to debate with humans"
+    excerpt: "A new study details the advances made by an artificial intelligence (AI) program developed by scientists at IBM whose sole purpose is to best humans in debates."
+    publishedDateTime: 2021-03-22T15:55:00Z
+    webUrl: "https://www.rt.com/news/518809-ibm-developing-ai-argue-humans/"
+    ampWebUrl: "https://www.rt.com/news/518809-ibm-developing-ai-argue-humans/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/518809-ibm-developing-ai-argue-humans/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 47
+    images:
+      - url: "https://cdni.rt.com/files/2021.03/xxl/60589a56203027171a5f92ec.jpg"
+        width: 1240
+        height: 697
+        isCached: true
+  - title: "IBM’s Job Debater exhibits next-gen-AI-driven efficiency"
+    excerpt: "IBM’s Watson initiative is a brilliant example for this. Watson carries the tagline that artificial intelligence can be a gamechanger in the field of business, taking the future by storm. When it comes to a business, time, cost and risk management are of ..."
+    publishedDateTime: 2021-03-22T17:01:00Z
+    webUrl: "https://techstory.in/ibms-job-debater-exhibits-next-gen-ai-driven-efficiency/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/GettyImages-1205397116.jpg"
+        width: 730
+        height: 486
+        isCached: true
 
 secured: "tDDjC6M+latt3Y44V2KELwz0vIEP1QSPv2t22ur2MS3uTwVpyjmV2mGND6g1i9AzaaJjQ8Q1gYuHJ5Whcq2Fhmh8QzyTzAlr3vDaRL3+7mr8zsrlAJxZXpk2lymyxhKEUIfMINh97JCbO1BTTkYVgJYRFbXJMmvU1bgXEUmJLFgVl1rE/FZ/D9u7tMRMvHyD1T7E0UnJFKd0HT8LscevCWynkm39jXMw+mNe0S+yEgorB7VcHJlGNyfMbFud20SbvD7lN8NASK0dT3XcQv4Tzk26jh8vhVsIgbfi/mtIwpU2il7IaVZai74+yVsv8RO7oc7IDmwJ//yWFkwCsLocMN71SgRhN0puAWj2pKC0gNo=;sxHR92Q7zY5hUzSUjb+eSQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.information-age.com/13-startups-selected-to-join-micro
 webUrl: "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2021/03/Safety-2-1600x1134.jpg"
         width: 1600
         height: 1134
+        isCached: true
+  - title: "Voyager Labs Partners with Microsoft to Provide AI SaaS Investigation Platforms to Empower Public Safety"
+    excerpt: "Voyager Labs, a world leader in AI-based investigation solutions, is proud to announce it has partnered with Microsoft to provide"
+    publishedDateTime: 2021-03-22T18:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety-301252748.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1307116/Voyager_Labs_Logo.jpg?p=publish&p=facebook"
+        width: 704
+        height: 570
         isCached: true
   - title: "Microsoft UK selects 13 start-ups for 'AI for Social Impact 2021' programme"
     excerpt: "Microsoft has selected 13 UK start-ups to join the company's 'AI for Social Impact 2021' programme. This 4-month programme, managed in partnership with the Social Tech Trust, will offer support on business development;"

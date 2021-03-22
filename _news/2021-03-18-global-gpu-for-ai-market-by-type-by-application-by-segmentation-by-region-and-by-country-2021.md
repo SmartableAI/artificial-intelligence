@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-gpu-for-ai-market
 webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18"
 type: article
 quality: 71
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
     excerpt: "In terms of market share, the natural language processing segment is projected to contribute significantly to the global artificial intelligence market in the education sector during the forecast period,"
     publishedDateTime: 2021-03-19T17:17:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-report-based-on-share-size-opportunities-research-methodology-and-segmentation-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Transportation Market Overview, Merger and Acquisitions, Drivers, Restraints and Industry Forecast By 2027"
+    excerpt: "The Global Artificial Intelligence in Transportation Market is projected to witness a significant increase in the revenue generation and is expected to register a CAGR of 17.2% in the forecast period of 2020-2027. The report further segments the Artificial ..."
+    publishedDateTime: 2021-03-22T17:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027-2021-03-22"
     type: article
     provider:
       name: MarketWatch

@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 691
         isCached: true
+  - title: "Uber faces more challenges over its face biometric driver ID system"
+    excerpt: "The App Drivers and Courier Union (ACDU) and Worker Info Exchange (WIE) have called on Microsoft to suspend Uber’s use of its face biometrics in the UK as part of a driver verification system which is reported to have prompted license revocation by Transport for London (TfL) with false negative biometric matches of an unknown number of the company’s drivers with darker skin,"
+    publishedDateTime: 2021-03-22T17:28:00Z
+    webUrl: "https://www.biometricupdate.com/202103/uber-faces-more-challenges-over-its-face-biometric-driver-id-system"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/22125404/Uber-fingerprint-and-facial-biometric-identification-for-drivers.png"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "diZEKaZ51o5Ib3rlFNA+IqHmffd4zAQdOZqjRquIkeFT2bYUzn1iVXIjYMzlXamCPLYUzBGW6VRFEc4QDaJhtn3zRFyo7abqgImbuRD9yBCqXecAAuRxiJrBh6zYkEslSIZG99UWohhPX70dOB/r+RMr5KZHCbjQjYRyJ0QrkfSqtiIh5TzvzKrCqP6qIKouWHbr47Ltm8F4iG1B4PrpM8feiOuVc/a7s8Smdr4rJ8n2WwIZi3KIrch/dwVKGNMnLgw3u6cTNlv53f+VKJ79AlFCJrU9YaHipK+ParPM6Mlt5NB2NVIa+VFg/4NNMqlS+uAqvVB49rXgGLrsV8KPrRKBYoT55uZATV7cmQID4/g=;mi5qAfTTnFFGZK38U6Obig=="
 ---

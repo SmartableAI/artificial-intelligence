@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355/amp"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -58,6 +58,36 @@ related:
       - url: "https://images.idgesg.net/images/article/2018/08/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Can’t argue with that: IBM scientists developing AI whose sole purpose is to debate with humans"
+    excerpt: "A new study details the advances made by an artificial intelligence (AI) program developed by scientists at IBM whose sole purpose is to best humans in debates."
+    publishedDateTime: 2021-03-22T15:55:00Z
+    webUrl: "https://www.rt.com/news/518809-ibm-developing-ai-argue-humans/"
+    ampWebUrl: "https://www.rt.com/news/518809-ibm-developing-ai-argue-humans/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/518809-ibm-developing-ai-argue-humans/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 47
+    images:
+      - url: "https://cdni.rt.com/files/2021.03/xxl/60589a56203027171a5f92ec.jpg"
+        width: 1240
+        height: 697
+        isCached: true
+  - title: "IBM’s Job Debater exhibits next-gen-AI-driven efficiency"
+    excerpt: "IBM’s Watson initiative is a brilliant example for this. Watson carries the tagline that artificial intelligence can be a gamechanger in the field of business, taking the future by storm. When it comes to a business, time, cost and risk management are of ..."
+    publishedDateTime: 2021-03-22T17:01:00Z
+    webUrl: "https://techstory.in/ibms-job-debater-exhibits-next-gen-ai-driven-efficiency/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/GettyImages-1205397116.jpg"
+        width: 730
+        height: 486
         isCached: true
 
 secured: "coPgE3eFFd1sTg0o4pnkYeDjk6RDumLB2s7tQmDYb3AlVwlcU2g2Oqp101RwRQ//0HGkim5m0RaQc6i4T9qm9cL/6MrFgqX25OrnIp07HKSrtwFa8jEusF1bRqzFYXhSo0m0q8h7akwPwgUD3xRyVNUY/yqyhlWbZvcr5eoeBl+pdbikujWUasRDCtIQpaPaEz/pTfq5s/wa72OLFki6o9/zo4X6lbIBOQvNyEF3TFo0tPLHuSb9JO16IyJaqMsiD1+t950E2ROkalPNrd+EoWJcuLeDYKDWe6F94dq9dB4gnteP0pWywYVw7IWA41UvbJF1IAp9JsbXfJ3mfBi7jQia72PgXTCS0EyUdb/uNVv3NljjyggpWgYyoI7A+GPax6A/hqK6QgdU2RyLdVYNvD0kRBltHvDednSHXx8JRoMGCmna2A6J3UA0oZOjpWI9kCG8i72D4vHZY7kxufY3Z2mRV0pDor1YBYPyD3yvlzdX0LqmSJxYJlnBJuefGU9Boq/9Rwc43Hjx4+1Fq0Jo3w==;CiHRAqSXEcurV3wtWDSFDw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope-2021-03-22"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "North America Artificial Intelligence Chipsets Market Will Grow At 35% CAGR to Reach $25 Bn by 2026"
+    excerpt: "The North America Artificial Intelligence chipsets market is set to experience a remarkable transformation over"
+    publishedDateTime: 2021-03-22T17:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-chipsets-market-will-grow-at-35-cagr-to-reach-25-bn-by-2026-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market was valued USD 29.8 billion growing at a CAGR of 30.7% during the forecast period."
     excerpt: "Straits Research Market report Provides detailed analysis of the Artificial Intelligence Chipsets market with Top Keyplayers, Product types, Application, geographical regions. Experts have studied the historical data and compared it with the current market situation."
     publishedDateTime: 2021-03-19T09:37:00Z

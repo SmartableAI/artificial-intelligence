@@ -1,31 +1,26 @@
 ---
 category: news
 title: "Use of AI to fight COVID-19 risks harming 'disadvantaged groups', experts warn"
-excerpt: "The Leverhulme Centre for the Future of Intelligence recently launched the UK's first Master's course for ethics in AI. For Cave and colleagues, machine learning in the COVID era should be viewed ..."
-publishedDateTime: 2021-03-16T00:00:00Z
-originalUrl: "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html"
-webUrl: "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp"
+excerpt: "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease,"
+publishedDateTime: 2021-03-16T00:03:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoc-uoa031521.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoc-uoa031521.php"
 type: article
-quality: 55
-heat: 55
-published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/covid19.jpg"
-    width: 1920
-    height: 1032
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "d1Vdl/1QtGP2zz9uJZ+1WugAXvysUyOTcHJrd431dSFWT7OY+OfYWfxQuz4L0E7aZl+xW6OM2yB7PjgqmoMfgcpPBds/LZrQeEgHU/2J3o1dy1FCvT9x74nxDPDG3a9zbBad/Lqi3z7RlENpm7i+2xZDjgtATTDVUGhqtF/XqQg6IcP/CDHGaRne/3y767rIBCOqCME2kyxuuyrKoRfeXK0K+yeBsSpxwd/KmJuRYXsHd+ti+x5SigFYPKHhktZWdpby224e9MG5QR2sWww+6+bMtEG8h3OwDEsqDGBSR2+sgHD18elCEuv3d09sM/VMtQNo+hEFjBiCLs8ZZAk2xR/rn5C9e51jcB/oAT84unw=;glSsHv1UNJmgIItXp79ZnQ=="
+secured: "ZOeoc/b+B5AH1H13CjrpiD/7zIeb7UR52u0CWBeIBMkmRYAI1R9kt5x7pyEDwqxpvLElm6rzsHh51n9i4VHtlIP13hHT6k4oc/XsHPWxZUY0P8c3ejkSqjIXpAlZnHXfeQ9cgpDpoRZHQVVV1R6HbK2XyeCrYHFeS/czd2x9VT/b7bmez8p36D7xPJU0JKtIVCVT0vsY7BM0q+E2QJ4DLon3I6Hi3BSGrHrIWiOl4U+WfAtQCyRWfVl8cTKaq9WHUPnXiN8HFhneBMhA9VhCB9Jb12w5G013q7KVuOlIprGvf5RTp8LURw4DhwP21Wz0awdEAuuhTBXIJJCe7cXwMLnt4QKfWBOtEGEVDrlnUMM=;HO/3TUtWA0XMdZqOizMwMQ=="
 ---
 

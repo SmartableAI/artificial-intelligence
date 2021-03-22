@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "North America Artificial Intelligence Chipsets Market Will Grow At 35% CAGR to Reach $25 Bn by 2026"
+    excerpt: "The North America Artificial Intelligence chipsets market is set to experience a remarkable transformation over"
+    publishedDateTime: 2021-03-22T17:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-chipsets-market-will-grow-at-35-cagr-to-reach-25-bn-by-2026-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ksBdrSH07x7dg/caydoPAPRR61nxqYmy7VYlOkJc6ouUxe2pVJW9SE9KOQ+1r3b3p6nHk0KooaFhEuJBQ7VVb+HiodBd1hpa/BHXogQ+gf0L92yw2KGBAYVjzzOpCd+CX9ofbj7pLCg52d9EG2Q78YR0q2pZ/70sDU8gGKBsblwuTUbbbWdpTyE8glSMuDLoZeGREj2DWVayLNppz5D4SnUQ01NzVB/lYxXyyaHlQJ1YDhnuYc0gZz4aFww1IXm92ytDm0L7NIsOl2UaupI/p4VqvJwSlyXV2Lw42A7iUPx71CnxLQDsOltN7piDuA+IysxxtK3FaT4DI/zylsAnOn/DrAwxxWmxwpAI7qDFYQM=;yIz14ElpVBES9cXn6dDH/w=="
 ---

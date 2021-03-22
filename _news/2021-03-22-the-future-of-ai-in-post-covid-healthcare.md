@@ -46,6 +46,22 @@ related:
         width: 1119
         height: 730
         isCached: true
+  - title: "FDA Clears First AI Device to Spot Hidden Signs of Covid-19"
+    excerpt: "Alongside the rapid development of vaccines, the FDA has cleared a number of COVID-19 breakthroughs for emergency use as part of the ongoing fight against the devastating virus. So far, we've seen the agency approve medical advances including lab-made monoclonal antibodies for moderate infections that risk turning more severe,"
+    publishedDateTime: 2021-03-22T17:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/367611"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/367611"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367611"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1616424777-TigerTechSolutions.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "COVID-19: FDA gives emergency approval for machine learning screening tool"
     excerpt: "The device is only meant to be used after temperature reading that does not meet a fever, and is not a substitute for a COVID-19 test."
     publishedDateTime: 2021-03-21T02:14:00Z

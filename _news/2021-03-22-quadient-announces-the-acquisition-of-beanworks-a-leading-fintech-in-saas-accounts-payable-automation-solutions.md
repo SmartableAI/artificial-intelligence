@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/quadient-announces
 webUrl: "https://markets.businessinsider.com/news/stocks/quadient-announces-the-acquisition-of-beanworks-a-leading-fintech-in-saas-accounts-payable-automation-solutions-1030230795"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Klarna Charts a Focus Beyond Fintech With Toplooks Acquisition"
-    excerpt: "That’s how you get to this very efficient ad spend ultimately, because of the AI driving many iterations to get to the best-performing ad units.” Toplooks is the latest acquisition allowing Klarna to expand the scope of its services beyond fintech."
-    publishedDateTime: 2021-03-18T00:00:00Z
-    webUrl: "https://www.apparelnews.net/news/2021/mar/18/klarna-charts-focus-beyond-fintech-toplooks-acquis/"
-    type: article
-    provider:
-      name: California Apparel News
-      domain: apparelnews.net
-    quality: 24
-    images:
-      - url: "https://apparelnews.media.clients.ellingtoncms.com/img/croppedphotos/2021/03/18/klarnayourlooksimag_web_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676"
-        width: 600
-        height: 695
-        isCached: true
   - title: "Quadient Announces the Acquisition of Beanworks, a Leading FinTech in SaaS Accounts Payable ..."
     excerpt: "A highly performing FinTech with an attractive SaaS recurring revenue model ... R&D firepower and investments in Artificial Intelligence (AI) technology, we will continue to live out our mission to support accounting teams everywhere.”"
     publishedDateTime: 2021-03-22T07:02:00Z
