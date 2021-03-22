@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/367380"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367380"
 type: article
 quality: 87
-heat: 127
+heat: 107
 published: true
 
 provider:
@@ -45,38 +45,6 @@ related:
       - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/03/ryan-janssen_zenlytic-300x300.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Solar analytics startup Prescinto raises $3.5 mn in seed funding"
-    excerpt: "Prescinto’s AI identifies the root causes of the plant’s underperformance in real-time and helps in reducing costs of operation and maintenance. With an aim to increase clean energy without additional investment, the startup identifies and reduces the ..."
-    publishedDateTime: 2021-03-17T09:24:00Z
-    webUrl: "https://www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding-11615972554397.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding/amp-11615972554397.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding/amp-11615972554397.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/03/17/600x338/19ac9b5e-d33f-11ea-985e-0246d4273452_1596244478776_1596244559546_1615972944371.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "NSE subsidiary invests in data analytics startup Capital Quants"
-    excerpt: "The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced investment in technology start-up Capital Quants Solutions (CQS). The latest inve"
-    publishedDateTime: 2021-03-17T10:26:00Z
-    webUrl: "https://www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/articleshow/81549269.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/amp_articleshow/81549269.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/amp_articleshow/81549269.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 44
-    images:
-      - url: "https://www.businessinsider.in/thumb/81549540.cms?height=275&width=412"
-        width: 412
-        height: 275
         isCached: true
   - title: "NAB runs loan deferral calls through speech analytics"
     excerpt: "NAB ran tens of thousands of outbound call recordings through speech analytics models to check that customers were given appropriate disclosures on loan repayment deferrals during Covid. Chief data officer Glenda Crisp revealed the project at the Melbourne Business School’s business analytics conference last week."

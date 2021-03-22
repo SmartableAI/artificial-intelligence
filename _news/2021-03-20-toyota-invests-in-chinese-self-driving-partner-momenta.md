@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Automobiles/Toyota-invests-in-Chi
 webUrl: "https://asia.nikkei.com/Business/Automobiles/Toyota-invests-in-Chinese-self-driving-partner-Momenta"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1024
     height: 512
     isCached: true
-
-related:
-  - title: "Temasek leads $50m round of Chinese logistics startup Duckbill"
-    excerpt: "Chinese logistics startup Duckbill has received US$50 million in investment led by Singapore state-backed investment firm Temasek Holdings. Pavilion Capital, along with existing investors Future Capital,"
-    publishedDateTime: 2021-03-17T09:56:00Z
-    webUrl: "https://www.techinasia.com/temasek-leads-50m-funding-chinese-logistics-startup-duckbill"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
 
 secured: "RsRfoHY/hFR/Wy6oIWXz6A3bYLqfnzKEqZYSYPlM8TEQxcl0Fc+is7Os5cN4b1nAW2q5pmt+xncy6ZDpTaCnRlxa1Y/wR4VZSVy1kch+HaLPjKDHa9ZSt2w8GALF/sz7WRMIkoC2irn9Wc72tAxk8COrltxvbspAGM45q9atTbjJzz+Fd/41Gjjnxgrpf5gfJJMzgvIkWJ2y7JdBOHrXQ7EaQ1AONVjffcs5V2PNYQD6shBT5J9Z4Hh2Sk2TGAwGVJUeuOsTGCww1f2SJ+KLvON/HfH/fhXllp460I7wLO4BTi86cgneHx8Fl8WDpGpufC15CxQAOWPwsF1jpaocjGgUogmMzyTCR3vpphqD3mry157y6iphgZvtlEVnePK8qpwV/jVLUpr7yTfbUjh9xNJHLAvioiHiAMieALto9N4HrTur7xC+PRN3YLhVkyySjAnSz4nyz/LpiW5gaPrpadaIBGz2Is2CwyvoLqrgY5OJMvqYPJlHwmvH4YgelNcJOkxcOxE87wb5joecVsZa8w==;f821XUmszUH9j87Q37DWog=="
 ---

@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Feedzai Fairband: World's most advanced framework for AI fairness"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2021-03-17T08:19:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
+title: "Feedzai Fairband: World’s most advanced framework for AI fairness"
+excerpt: "Particularly in the fintech industry, there’s a risk that AI systems deny access to financial services disproportionately across people from different groups, based on race, age, place of residence, profession, or employment status. Access to banking ..."
+publishedDateTime: 2021-03-17T08:07:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
-secured: "HoZvVYjVk8zSoKpMu3Ytbcyvr9GuWtHuXUlfK2bz2KlAqdu69DKXtP9culIwz8mCLTDezMJt6jslaGlkv6djvnfn8zKhOpi+GRNmLyI00bv3b4foJ+klvbWP4i92e+43enwM5iXIZZfB9igN6qsVq2E9w1HYmeb0ZRtMPf1QTfUkla+DxEBZQUCaf0MjiAMd88xVzJ34ZazMyNOl/fBayTuU7tHk00hhiHqRn9RMac4U8MfaBK0KvztYm0Ajs2UXgaAcoT/zUa7ADvg/nCDSIv4mFbD5Nzm460DZ+TLuw8VSNLq9qd0X95UQ5psg1u/3b6aW1PktB7/3fa6cV6cqmWMTzQMI7HQm6fpgJ9XLd4o=;WoZCO5WFe+4wjY1v3lZPgQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "vVicQqkt5HQqtHyQ24yWDl3mUvduKRy8kpLBBtWnmkIoYG2U5ZK7tjTsUTbN/vGIhTQgyCjoViPVTXBB005Q0IJVtE+RdGtK6Kbs1Y/DeLgjiOOv4/E/aDl2IADXFplhOfZmwAPKB2bMMIs2+NXgvCN3DObLhN0P+dmDqCMvw7nI05en+IgGQdbToXSL+nUKu687MQiPNFa1b4kb9aEZHW+9096rPyhcXsaDhvKvynoEtAl1XA7bUtVyQBQrMafSMkLnzqPnpmCNnuRq/fl/fNBMa+exS/ArXgqIo/4sfyyaZhDkxNWnpWndGXqe/X/0IKYay1WdDALJPU60MeNoKRRuy9iuhBoIGANaiCm+WSE=;XOGdchUax/O1G+8FpJ4Tgw=="
 ---
 

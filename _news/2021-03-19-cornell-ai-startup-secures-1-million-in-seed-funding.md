@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-mill
 cdnAmpWebUrl: "https://www-ithaca-com.cdn.ampproject.org/c/s/www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup Viz.ai Raises $71 Million in New Funding"
+    excerpt: "Viz.ai has raised $71 million in new venture-capital funding."
+    publishedDateTime: 2021-03-17T11:30:00Z
+    webUrl: "https://www.wsj.com/articles/startup-viz-ai-raises-71-million-in-new-funding-11615980601"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 67
+    images:
+      - url: "https://images.wsj.net/im-312633/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Cornell AI startup secures $1 million in seed funding"
     excerpt: "Iterate Labs, a startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety,"
     publishedDateTime: 2021-03-18T15:28:00Z
@@ -39,6 +53,20 @@ related:
       - url: "https://news.cornell.edu/sites/default/files/styles/breakout/public/2021-03/0318_iterate.jpg?itok=x13vdb9m"
         width: 670
         height: 377
+        isCached: true
+  - title: "Stroke detection startup Viz.ai raises $71M"
+    excerpt: "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke."
+    publishedDateTime: 2021-03-20T00:07:00Z
+    webUrl: "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
+        width: 725
+        height: 482
         isCached: true
 
 secured: "Xk19RcCQvjkLCmjCdleHTyihrXjam9V7/ENuYAVNibE3gQ7FQsD9yn2QAFKxcOWoMv7A03qpFCR1qCtkG+bhvMkxmCDmptQOdMugoVfYCpgzniXfoc3dmSxgajS6pxVV7/uxSZgKAnHDwXGbhvSAf+wdiliIZ7y8WAkgkLGfqJ5/mgelxQpUWRurMF/cizHzBl+PFMJjJFvsxSW++SVGNDG2kbO5iuoZ6mSqRuOhMC5zafIj4xcGhR5stWhbO/5Ol+qTqAIKtE6a4f34iulBcs+4/eGdq0TcdZeSnko8Rww5/jsNcgxcm9yz+VXTmfrmFvZKhD8S9xGEYg3voxSEm87ZSRPYQKh01yp+gHc6fDYPQ8YuGteJiEYvDTuyeWpfzMOxfkA0zPPhjctzwYStiTaOTyS/YP7vTKzzTP0ReMjduvGlG+ppaEfYCT++b7ZwR+bVAjZb9JOPkb7sGB1bPNB9q3iilvyMZ/v3Y3TBSmJDeP6tAHgZKdANoAlR0UXsHiSu5ck2p7j2Zj/oxXlnTA==;gFJOBwMzrKQ5o6fq1tDCFQ=="

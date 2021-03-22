@@ -57,38 +57,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Solar analytics startup Prescinto raises $3.5 mn in seed funding"
-    excerpt: "Prescinto’s AI identifies the root causes of the plant’s underperformance in real-time and helps in reducing costs of operation and maintenance. With an aim to increase clean energy without additional investment, the startup identifies and reduces the ..."
-    publishedDateTime: 2021-03-17T09:24:00Z
-    webUrl: "https://www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding-11615972554397.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding/amp-11615972554397.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/solar-analytics-startup-prescinto-raises-3-5-mn-in-seed-funding/amp-11615972554397.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 57
-    images:
-      - url: "https://images.livemint.com/img/2021/03/17/600x338/19ac9b5e-d33f-11ea-985e-0246d4273452_1596244478776_1596244559546_1615972944371.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "NSE subsidiary invests in data analytics startup Capital Quants"
-    excerpt: "The National Stock Exchange of India (NSE) subsidiary NSE Data & Analytics on Wednesday announced investment in technology start-up Capital Quants Solutions (CQS). The latest inve"
-    publishedDateTime: 2021-03-17T10:26:00Z
-    webUrl: "https://www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/articleshow/81549269.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/amp_articleshow/81549269.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/nse-subsidiary-invests-in-data-analytics-startup-capital-quants/amp_articleshow/81549269.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 44
-    images:
-      - url: "https://www.businessinsider.in/thumb/81549540.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
 
 secured: "p06FNzS2rSVIjEHqBIqMCTyLXfGkA7Y9N7JjQcoRrQqrGnMKvLvqFm5ev02kqdkkeabQHLX0EXcyamJ+R2+MTft7mEEgN6HOXZBtbsZYGRJqdYYi9eK21Kl2kOiEpE/P1nEOayYFgNWXaBX9XZCXHhlPJcNe+uFs9oiPt7LlfzDwBUEmd/yUEoRPMeGwR2FKwQuAgp8haLI2iYSFCYMcBmUsADViaNTDjBzDEthwJIFu+Y0W8aKOtQBoWigMPvC7TzNeaiXIkAvcJ3frjWyOsewFgnknQsHEDhVTAeL1k7GzNplZ6S9VDzr/2MB8eKViN1DcD0HYQQtcR7me62UDdW5LEla07KQ/2GabFH8Es9TvlS+VufvUXJTeInZjUFsek91jyo9rTpyW+CV8tY3ifPo1Rc0M9eabZqwuI0HhTZO090t79MKi31wHt5QkmlurwToEID6vxOUHvCfaweyrWorezzzPxl3RkhPHbpUz54VMCWOtd+BnqFr6luj2G3L5TmKUMK/K5iyIFr7aIb1K9A==;au55kgsQ+jRePzfckvdpmw=="
 ---
