@@ -6,9 +6,9 @@ publishedDateTime: 2021-03-22T05:14:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope-2021-03-22"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope-2021-03-22"
 type: article
-quality: 51
-heat: 61
-published: false
+quality: 76
+heat: 86
+published: true
 
 provider:
   name: MarketWatch
@@ -20,6 +20,11 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
+  - Machine Learning
+  - AI Ethics
+  - AWS AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

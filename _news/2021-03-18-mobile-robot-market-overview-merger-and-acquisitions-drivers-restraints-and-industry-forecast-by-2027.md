@@ -57,20 +57,6 @@ related:
         width: 900
         height: 550
         isCached: true
-  - title: "Speech and Voice Recognition Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities"
-    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
-    publishedDateTime: 2021-03-17T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robot Software Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
     excerpt: "It is a set of coded instructions that execute the robot's functions. The key factors driving the growth of the Robotic Software market are the adoption of artificial intelligence, lower labor costs, higher accuracy, higher speed, higher quality and higher ..."
     publishedDateTime: 2021-03-18T12:28:00Z

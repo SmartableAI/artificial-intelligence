@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning startup OctoML raises $28M as it ramps up growth"
-    excerpt: "Seattle-based OctoML, a startup that helps clients speed up the launch of their machine learning models, announced Wednesday it has raised a $28 million Series B."
-    publishedDateTime: 2021-03-17T14:00:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/03/17/octoml-series-b-growth.html"
+  - title: "Stroke detection startup Viz.ai raises $71M"
+    excerpt: "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke."
+    publishedDateTime: 2021-03-20T00:07:00Z
+    webUrl: "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 37
+    images:
+      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
+        width: 725
+        height: 482
+        isCached: true
 
 secured: "/E5DWSEge87SiEifeorcC2QyG5voOK+tJYp47F4rrDmit0NNsEjaJo1rgLryJQKahmZR8AKYiBxAzb1OqW60oj1Rc5bF1Pa9vL1T3cOxRpHUEzAIE+HEiv+MFjeqhCHgIJp4LGqTPrXRrDq7gpSFx5DS6HHAfeHxx8ISR4jAS5a7M6EyBK/xmQqOBxFXtlLFAst9uSxu6Xq5hnXZ4+fUVuHh7zQfG3k1FmwLcPBSY4pkbM+e/FUS7pKojNAekkiR/9Lnu1taiyoFPvNShMt7btJjvmGsRlUcuNUXrtJERgaMF6sLpzq3YXBlcxwmM1J2GGh9pLgXEa/gbbcnbbH5FdutSGQG0RKWARNyFwdge8c=;tWA/9IqycW4yBw/YK7qP3w=="
 ---

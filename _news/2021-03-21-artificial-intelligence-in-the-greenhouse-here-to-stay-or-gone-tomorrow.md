@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-21T16:25:00Z
 originalUrl: "https://www.greenhousegrower.com/technology/artificial-intelligence-in-the-greenhouse-here-to-stay-or-gone-tomorrow/"
 webUrl: "https://www.greenhousegrower.com/technology/artificial-intelligence-in-the-greenhouse-here-to-stay-or-gone-tomorrow/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.greenhousegrower.com/wp-content/uploads/2020/07/Luna_iUNU_featured.jpg"
@@ -24,6 +25,6 @@ images:
     height: 504
     isCached: true
 
-secured: "lC8wXFcq0AhZ0PwaKVPxxwkO4oKmS8TxAsTNqIE6epzszGTy8TCga9HIQqvqwrEG0zjRoH+1IF50OXOS+bky5+LZQDw7jaoq6C1VnmSjr/aMbMF0MevIXc/KadJnmPatXS5MN4BNRlftxcg4rpgxYwo/s0JiIZnYxQi6I6bnNOzNSU+rwOVbHRTzBT/QmSiHcaKLs8GHN33KZM8k6LQyT6JD4VIgwITUY9ATWc4ZqFd/seZ6d+vsN2WwpfOOqz8KvDclhbBUuf+vvyoX6dmzZwtwoPMeDLHG1tZPj1iJaI+5vWBX0uz78u7e0aMrVV1RO5AJGBjVkOsuVc9XhroT6z0Vf8t4ZjE5kwZ1SZz0g8Q=;qznENYbah+QJsVU0uTZD+g=="
+secured: "FP6r68zk/M+QjHyZyhEbS5ttlny1lQpovTMVdFFBEi8eurENjqIWtmu6dMHUU5ZNJ7L5wxmd2pAuSYqKepwptH+AQI+8ZDUOcJNerBSgWe4TYfJtRVHrSK1u6gf+l3Qn/rUsPzs4BD+mb8quQC0iAIXWIK0bEBw+uSblo39MonRGLaB1cQqsB3qUosVYZ+C9+Z+L1FsMCnGPFgiASQg2djK/IyN77ljaVUwJHlsRPtpaGKjIfdhbGxsgn6ndEw9WHeemMT5EYgvSsX8bg8PO9iha+YVWZ9evZlsVMmTbqgMjl42PnicZUe8ijD9da8AMUTEF5GL/egqPlF4sSlMKCc8RI9QNcu/iz6fsdVpGzJdHRd2GBGBuckZ2WskRNAiSzw4DVSl1bOfdQ/vyJxHbddCUlSyqeEBLEniQOPhY7L0BEPcj7eYz+ZBrDbFUjX1WpUorXwCmxXBUPViTUYWn1oZDNeC5ICxGbSG8mpsueKWlb/MPRU7oCZrcs9qx5ogcfeV1CCenKBA/2ORn/QNQ3g==;9leYFYRT8d9Zl4dbIsEd0A=="
 ---
 

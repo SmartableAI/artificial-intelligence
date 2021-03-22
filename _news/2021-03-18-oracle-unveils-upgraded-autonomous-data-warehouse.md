@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "For Oracle's updated Autonomous Data Warehouse, no SQL needed"
-    excerpt: "With drag-and-drop UIs and AutoML capabilities, the simplified data warehousing tool is designed to be accessible to data analysts and business users."
-    publishedDateTime: 2021-03-17T15:00:00Z
-    webUrl: "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/03/17/f1545472-64c8-47b8-8ed7-6303beeafde8/adw-oracledatabaseactions-dataload.png"
-        width: 1800
-        height: 1125
-        isCached: true
-  - title: "Oracle updates cloud data warehouse to boost access for data analysts"
-    excerpt: "along with providing a set of tools for preparing data and building machine learning models guided by AutoML, a set of open methods and processes for building AI models. Other capabilities that ..."
-    publishedDateTime: 2021-03-17T15:01:00Z
-    webUrl: "https://venturebeat.com/2021/03/17/oracle-updates-cloud-data-warehouse-to-boost-access-for-data-analysts/"
-    ampWebUrl: "https://venturebeat.com/2021/03/17/oracle-updates-cloud-data-warehouse-to-boost-access-for-data-analysts/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/oracle-updates-cloud-data-warehouse-to-boost-access-for-data-analysts/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/Oracle-ADW_BusinessModelwithStarSchema-1.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Oracle brings Autonomous Data Warehouse to the rest of us"
     excerpt: "The broadened service includes drag and drop data loading, data cleansing, data transformation, data modeling tools, and AutoML tools for business analysts and citizen data scientists. It also includes a rudimentary data catalog for data discovery."
     publishedDateTime: 2021-03-18T12:00:00Z
@@ -79,19 +47,21 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Oracle Announces Next Gen Autonomous Data Warehouse, Expands Addressable Market"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives deeper as today, Oracle announced the next generation of its Autonomous Data Warehouse, designed to make it so easy to use that even entry-level enterprises,"
-    publishedDateTime: 2021-03-17T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/03/17/oracle-announces-next-gen-autonomous-data-warehouse-expands-addressable-market/"
+  - title: "Oracle is making its cloud databases easier to use"
+    excerpt: "Oracle says the latest release of its cloud-based Autonomous Data Warehouse will help transform complex data transformation activities into point-and-click tasks. The Oracle Autonomous Data Warehouse is a software-as-a-service cloud data warehouse that Oracle says is designed to reduce the complexities of developing data driven applications by automating critical provisioning and configuration tasks."
+    publishedDateTime: 2021-03-18T16:22:00Z
+    webUrl: "https://www.techradar.com/news/oracle-is-making-its-cloud-databases-easier-to-use"
+    ampWebUrl: "https://www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 50
+      name: TechRadar
+      domain: techradar.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60510756a5c7dbcc1d3221f9%2F0x0.jpg"
-        width: 1022
-        height: 464
+      - url: "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Next Generation of Oracle Autonomous Data Warehouse Available"
     excerpt: "Oracle announced a set of innovative enhancements to Oracle Autonomous Data Warehouse, the industry's first and only self-driving"
@@ -120,20 +90,6 @@ related:
       - url: "https://www.oracle.com/oce/press/assets/CONT7DBD9D41E0A745028AEEB3FDBAA43DF0/native/og-social-adw.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Oracle Autonomous Data Warehouse release brings machine learning to the masses"
-    excerpt: "Database giant Oracle Corp. announced a new release of its cloud-based Autonomous Data Warehouse service today, adding new capabilities that analysts say will help democratize machine learning. Overall,"
-    publishedDateTime: 2021-03-17T15:00:00Z
-    webUrl: "https://siliconangle.com/2021/03/17/oracle-autonomous-data-warehouse-release-brings-machine-learning-masses/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/15382647876_176ca2baa8_z.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Oracle updates Autonomous Data Warehouse"
     excerpt: "Tech giant Oracle has announced a number of updates that aim to make its Autonomous Data Warehouse offering easier to use for experts and novices. The strategy from the company is to reduce how many databases users turn to for modeling and data analysis,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://fox40.com/news/california-connection/sonoma-county-to-add-ar
 cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/amp/"
 type: article
 quality: 57
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       - url: "https://imengine.prod.srp.navigacloud.com?uuid=EB48522B-809F-4F06-A5D5-66D58E4A0397&type=primary&q=72&width=1200"
         width: 1200
         height: 780
-        isCached: true
-  - title: "Sonoma County Selects Alchera for AI-Based Wildfire Detection"
-    excerpt: "SEOUL, South Korea, March 17, 2021 /PRNewswire/ -- Korea’s leading visual recognition AI firm, Alchera Inc. (Kosdaq:347860), today announced that has been formally selected by California’s Sonoma County to provide early warning alerts of pending ..."
-    publishedDateTime: 2021-03-17T13:16:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-wildfires-north-america-south-korea-asia-15257cc53137a0c25d91c051d56803a8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "California county to add artificial intelligence for fires"
     excerpt: "SAN FRANCISCO (AP) — Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county’s network of wildfire detection cameras ..."

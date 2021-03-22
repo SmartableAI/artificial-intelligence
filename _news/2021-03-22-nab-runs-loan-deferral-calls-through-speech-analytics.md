@@ -41,22 +41,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Zenlytic Raises $1M for its Analytics Platform for E-Commerce Businesses that Streamlines Data Analysis with Machine Learning"
-    excerpt: "Zenlytic, cofounded by Ryan Janssen, is a no-code analytics platform made specifically for the e-commerce industry to unlock valuable insights to drive sales and marketing."
-    publishedDateTime: 2021-03-17T13:07:00Z
-    webUrl: "https://www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/"
-    ampWebUrl: "https://www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/03/zenlytic-e-commece-data-analytics-platform-ryan-janssen/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 62
-    images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/03/ryan-janssen_zenlytic-300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "p06FNzS2rSVIjEHqBIqMCTyLXfGkA7Y9N7JjQcoRrQqrGnMKvLvqFm5ev02kqdkkeabQHLX0EXcyamJ+R2+MTft7mEEgN6HOXZBtbsZYGRJqdYYi9eK21Kl2kOiEpE/P1nEOayYFgNWXaBX9XZCXHhlPJcNe+uFs9oiPt7LlfzDwBUEmd/yUEoRPMeGwR2FKwQuAgp8haLI2iYSFCYMcBmUsADViaNTDjBzDEthwJIFu+Y0W8aKOtQBoWigMPvC7TzNeaiXIkAvcJ3frjWyOsewFgnknQsHEDhVTAeL1k7GzNplZ6S9VDzr/2MB8eKViN1DcD0HYQQtcR7me62UDdW5LEla07KQ/2GabFH8Es9TvlS+VufvUXJTeInZjUFsek91jyo9rTpyW+CV8tY3ifPo1Rc0M9eabZqwuI0HhTZO090t79MKi31wHt5QkmlurwToEID6vxOUHvCfaweyrWorezzzPxl3RkhPHbpUz54VMCWOtd+BnqFr6luj2G3L5TmKUMK/K5iyIFr7aIb1K9A==;au55kgsQ+jRePzfckvdpmw=="
 ---
