@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Chip Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
+    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register"
+    publishedDateTime: 2021-03-22T12:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobile Robot Market Overview, Merger and Acquisitions, Drivers, Restraints and Industry Forecast By 2027"
     excerpt: "The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
     publishedDateTime: 2021-03-17T22:35:00Z
@@ -77,6 +91,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
+    publishedDateTime: 2021-03-22T12:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IFR Names Five Major Robot Trends"
     excerpt: "According to Bieller, the following trends are driving demand for robotics technology: *Robots learn new tricks. Artificial intelligence software in combination with vision and other sensing systems, allow robots to master difficult tasks, such as bin picking."
     publishedDateTime: 2021-03-18T18:27:00Z
@@ -91,17 +119,6 @@ related:
         width: 900
         height: 550
         isCached: true
-  - title: "Robot Software Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
-    excerpt: "It is a set of coded instructions that execute the robot's functions. The key factors driving the growth of the Robotic Software market are the adoption of artificial intelligence, lower labor costs, higher accuracy, higher speed, higher quality and higher ..."
-    publishedDateTime: 2021-03-18T12:28:00Z
-    webUrl: "https://www.openpr.com/news/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
 
 secured: "dd33K5WQo/TYZzlP4F2bqRBw+4riAz6MM8c6Fh+Mk/nFulY9p/Uqz3F6zwfPW1yZ8xwrBC6zXVGBhIpn0IxFX1O1eEYEDKnhmpNbASh5apqvc3OY7yKlJJNcGghZCC2A6I9aAv9LAbfXG0OJeEKXHdr3oS/Xu84an8ncyGL6gZJRUpX6lltZphPHvyG8vfTHK8KQ4MkY1r2w+wfsTlsJ2k4wtGP/vkstBBXMQD/QHF7jKg+oJaZKCOMZJJopVjIkLsOm6aeFLuErot4f4hr9GD4ONtaXscv9SWksOxVLqYXzMCyjvWfcm/hvZseKW3AMpgsBt9Drifp3lVHHnqT8p71JtG6oJgDkVrHOdnDTD/0=;KG/qU59c++BoHeoYqeiSEQ=="
 ---

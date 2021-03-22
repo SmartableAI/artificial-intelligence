@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,79 +25,6 @@ images:
     width: 500
     height: 281
     isCached: true
-
-related:
-  - title: "The key to making AI green is quantum computing"
-    excerpt: "We’ve painted ourselves into another corner with artificial intelligence. We’re finally starting to breakthrough the usefulness barrier but we’re butting up against the limits of our our ability to responsibly meet our machines’ massive energy requirements."
-    publishedDateTime: 2021-03-17T19:41:00Z
-    webUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/quantum_generic-796x417.jpg"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Using Artificial Intelligence to Save Coral Reefs"
-    excerpt: "Coral reefs are natural protectors for coastlines against storms and erosion. Healthy coral can help prevent loss of life and property from waves, floods and storms by absorbing 97% of the energy. Tropical coral reefs cover a mere 0."
-    publishedDateTime: 2021-03-17T19:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17"
-    ampWebUrl: "https://www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Solving 'barren plateaus' is the key to quantum machine learning"
-    excerpt: "Many machine learning algorithms on quantum computers suffer from the dreaded \"barren plateau\" of unsolvability, where they run into dead ends on optimization problems. This challenge had been relatively unstudied—until now."
-    publishedDateTime: 2021-03-19T17:01:00Z
-    webUrl: "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.html"
-    ampWebUrl: "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/solvingbarre.jpg"
-        width: 700
-        height: 470
-        isCached: true
-  - title: "Examining the bias in artificial intelligence..."
-    excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-03-18T23:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210319094015-examining-the-bias-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09509427_1616147284.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Teaching AI what’s fair"
-    excerpt: "With funding from Amazon and the National Science Foundation, Tan has been working for the last year to teach artificial intelligence algorithms how to be more fair and recognize when they’re being unfair."
-    publishedDateTime: 2021-03-19T17:43:00Z
-    webUrl: "https://msutoday.msu.edu/news/2021/teaching-ai-fairness"
-    type: article
-    provider:
-      name: Michigan State University
-      domain: msu.edu
-    quality: 37
-    images:
-      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/knowmore-green-2.png?h=288&w=280&la=en&hash=0F967E9D786E14E8DFAF9881B2A010B8"
-        width: 280
-        height: 288
-        isCached: true
 
 secured: "Gj+8ewbrR1/fZYPE5Vs3NkK3qlyVB7zcj07V/2SHo+fPN0ZEEiGLbczp0swTv5GgPLsPfpy0Rx1TkmsopPBk2E1Wha99y4gzuzv1rMUOflTBtlGTbVd5DppLdvfn5AVPPTd7BhEn5rLuEhZZRqjOTYanzBUsDaz2ThyhA1wxhB+Uc1X6yYhEv3TQ5qXfyheSyL8xwiDrHMMgyr7gWvWGM2ND/lKFTm0twWwlxH0OjNnM2bMGugorU21AiwDSnozcSzXzWUgwjOg8maLry9VH3N8feSFZ4UTshb0biGPhTKOOKTTiDPvjVjXAnTvsyu+K9eX0qxPPBjzEolUTQbOeYOzLXOYpbEWdo/CGomMtovVBF/id/qa365NqYhX8ZljmpJMFOHpoxUHE3M3TZuIY5tfl//MwM9+gMvfQ2cb0nfo/xoor3oZUsgZYr0/A5sWtr0XAGjknd2yDL3QXSHqeiJSbqA33DlnUXi/gFBbyu7U1WhMDAl5kd5rDJ/W0MeAE3aQy+tEHi3NU8aJ+qAv6xg==;Gw0J3C9hD4GvkST4+N/CUA=="
 ---

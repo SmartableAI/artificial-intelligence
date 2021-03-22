@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3126460/baidu-once-see
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3126460/baidu-once-seen-chinas-answer-google-hopes-second-chance-smart"
 type: article
 quality: 60
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: South China Morning Post
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu’s Second Listing In Hong Kong To Bring In $3.1 Billion"
-    excerpt: "Baidu will use some of the funds raised to further invest in artificial intelligence (AI), including its AI cloud unit and its self-driving vehicle platform Apollo. Bank of America, Citic Securities and Goldman Sachs are the joint sponsors and global ..."
-    publishedDateTime: 2021-03-17T19:57:00Z
-    webUrl: "https://www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/"
-    ampWebUrl: "https://www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/international/2021/baidus-second-listing-in-hong-kong-to-bring-in-3-1-billion/amp/"
+  - title: "Baidu’s Homecoming Raises Questions Over The Search Giant’s Plans For Electric Vehicles"
+    excerpt: "Baidu aims to conquer smart transport, but search engines aren’t automobiles, and China’s EV sector is already fiercely competitive."
+    publishedDateTime: 2021-03-22T12:25:00Z
+    webUrl: "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/"
+    ampWebUrl: "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/amp/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 81
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Baidu-Hong-Kong-shares-AI-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60587e6d99cc7add52892f71%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "KYfjFj6LU+FeMmGDL77/kRPsL7TNtw3eHCKqhZ1D7WRYTwYdBry/kf2mQjmSKHewavok6ScVC5KOfEX1RidSdVXwbt3Q+7VFCjV2r0gQSGt5cmsrnvUr7Vm9yKwYizvQMHBixZ8U2k8tSu+95gpflgLcEbANM2494EkCGfSnwaJh/lKEuU90xxeYcpAbRXv2j+twfmfZI4EPx56osA6+SJtUWPFQroy4N8fOnSFWYh+bsWFb8jCp0V/W2P8ysIDSBuh5+lMUjyHLt79MKq3HKbFq9d84UfN9qD2wNaYrozLEMPvF8wzu9kFrQkgsyV24kKbRpfLygxQJPFo7SK7BWHlEF1YA4BTdhFRkCZyeZvk=;8lyfxG+Nk/hrN0PrJSRlTw=="

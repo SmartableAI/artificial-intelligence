@@ -59,20 +59,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "An IBM AI Debates Humans—but It’s Not Yet the Deep Blue of Oratory"
-    excerpt: "In 1997 IBM’s Deep Blue became the first computer to defeat a reigning chess champion, besting titan Garry Kasparov in a six-game match. Fourteen years later IBM’s Watson defeated Jeopardy! all-stars Brad Rutter and Ken Jennings at their own game."
-    publishedDateTime: 2021-03-17T20:29:00Z
-    webUrl: "https://www.scientificamerican.com/article/an-ibm-ai-debates-humans-but-its-not-yet-the-deep-blue-of-oratory/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 41
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/EFE03724-7526-4C0B-ABAE5AFAA2F71100.jpg"
-        width: 790
-        height: 496
-        isCached: true
 
 secured: "tDDjC6M+latt3Y44V2KELwz0vIEP1QSPv2t22ur2MS3uTwVpyjmV2mGND6g1i9AzaaJjQ8Q1gYuHJ5Whcq2Fhmh8QzyTzAlr3vDaRL3+7mr8zsrlAJxZXpk2lymyxhKEUIfMINh97JCbO1BTTkYVgJYRFbXJMmvU1bgXEUmJLFgVl1rE/FZ/D9u7tMRMvHyD1T7E0UnJFKd0HT8LscevCWynkm39jXMw+mNe0S+yEgorB7VcHJlGNyfMbFud20SbvD7lN8NASK0dT3XcQv4Tzk26jh8vhVsIgbfi/mtIwpU2il7IaVZai74+yVsv8RO7oc7IDmwJ//yWFkwCsLocMN71SgRhN0puAWj2pKC0gNo=;sxHR92Q7zY5hUzSUjb+eSQ=="
 ---

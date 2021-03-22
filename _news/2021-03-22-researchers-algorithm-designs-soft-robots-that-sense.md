@@ -45,6 +45,22 @@ related:
         width: 777
         height: 518
         isCached: true
+  - title: "Researchers' algorithm designs soft-bodied robots that sense their own positions in space"
+    excerpt: "There are some tasks that traditional robots—the rigid and metallic kind—simply aren't cut out for. Soft-bodied robots, on the other hand, may be able to interact with people more safely or slip into tight spaces with ease."
+    publishedDateTime: 2021-03-22T13:38:00Z
+    webUrl: "https://techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.html"
+    ampWebUrl: "https://techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/16-researchersa.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "01f/Es0jhu+I02q8nywOhWnSUv/5m3sJwY50dZ6XX3ugeuq2AuDBTKKfmF6SDgfO3RFS0HF9TOTx6pDqbWX2u0M+YI1j4zXGm84OeeKBJ9mR2htkUTsY9Qhik612ykigSaBBa4fyMafkJN/0SYBIUYdpU7+v1yiwYhG3hi8gZVN4fC6JQ90NA94nIFSUGTm2Q822RZg/iaAbhlCeoQDvy0KsFUMBDQGzwnSn/nToY4couOSA3jexNbjB6UhJvhLQbshWJVCsp27gbFrz67P50sYONejPRa/IQSiTp4tzQbKeQW5k0zw2Sa2ibeCLv/zI6vXh1YYXQ/Bh4mnyIJzrD1MNQxNDaRBwVyHJgcswlypD8hzsSYAoe305SVKEGqkwWV75SpxaA5G7HbXw/ZZ0J41BLdtaikmR+Lq7bkjDGLKEuZLWnowNqieHYV0hPoj2u5SF7gJN0tKIbxMaALN854ynWLSMcuWi/IceWn6C1cbCsfH1jD6uYBqU/WsWP0ZmiGHGhvTZYlYZ7HvCwANZvg==;QJTdfxOSjTF01WnyYLJWjQ=="
 ---

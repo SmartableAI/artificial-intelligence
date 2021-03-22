@@ -24,78 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "The key to making AI green is quantum computing"
-    excerpt: "We’ve painted ourselves into another corner with artificial intelligence. We’re finally starting to breakthrough the usefulness barrier but we’re butting up against the limits of our our ability to responsibly meet our machines’ massive energy requirements."
-    publishedDateTime: 2021-03-17T19:41:00Z
-    webUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/"
+  - title: "How AI Can Help Humans Expand Their Skills In The Workplace"
+    excerpt: "AI is rapidly outpacing Moore’s Law; its power and efficiency is on a recurring pace to double in fewer than 16 months, according to the researchers at OpenAI. This rapid progress is fueled by innovative algorithms (deep neural networks),"
+    publishedDateTime: 2021-03-22T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/quantum_generic-796x417.jpg"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Using Artificial Intelligence to Save Coral Reefs"
-    excerpt: "Coral reefs are natural protectors for coastlines against storms and erosion. Healthy coral can help prevent loss of life and property from waves, floods and storms by absorbing 97% of the energy. Tropical coral reefs cover a mere 0."
-    publishedDateTime: 2021-03-17T19:04:00Z
-    webUrl: "https://www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17"
-    ampWebUrl: "https://www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/using-artificial-intelligence-to-save-coral-reefs-2021-03-17?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "AI can shine digital sunlight on to company greenwashing"
-    excerpt: "start ups like Arabesque and academics. Two examples emerged this week: a team at Cambridge university is building an open-source system to track ESG risks in sovereign bonds; their counterparts at King’s College London are scanning companies’ AI ..."
-    publishedDateTime: 2021-03-18T17:49:00Z
-    webUrl: "https://www.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
-    ampWebUrl: "https://amp.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 59
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F72a3f31a-d964-4510-bd98-f90afedd51f1.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Solving 'barren plateaus' is the key to quantum machine learning"
-    excerpt: "Many machine learning algorithms on quantum computers suffer from the dreaded \"barren plateau\" of unsolvability, where they run into dead ends on optimization problems. This challenge had been relatively unstudied—until now."
-    publishedDateTime: 2021-03-19T17:01:00Z
-    webUrl: "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.html"
-    ampWebUrl: "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/solvingbarre.jpg"
-        width: 700
-        height: 470
-        isCached: true
-  - title: "Teaching AI what’s fair"
-    excerpt: "With funding from Amazon and the National Science Foundation, Tan has been working for the last year to teach artificial intelligence algorithms how to be more fair and recognize when they’re being unfair."
-    publishedDateTime: 2021-03-19T17:43:00Z
-    webUrl: "https://msutoday.msu.edu/news/2021/teaching-ai-fairness"
-    type: article
-    provider:
-      name: Michigan State University
-      domain: msu.edu
-    quality: 37
-    images:
-      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/knowmore-green-2.png?h=288&w=280&la=en&hash=0F967E9D786E14E8DFAF9881B2A010B8"
-        width: 280
-        height: 288
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff621b0bd8bb13426b2d2b0%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "kRK6r0IKPyDfil2kJ3JkQebe9/bvwVjboBocRevdDLb+eT35NFH04YX1Oyp3HSfQO6yr8pK9NTKx42Z/QOe1+aZTbmHKtVdORTdmCXcG55bN1d8sUR95J7jhm0FF/Aa45SrUKB8WIXsjY/emkckUMGa4MDYQOrFa8wnq++NElWvaFVpl2gDv+b9fLPJ81VKRA823BHBp6sOSxvnNebLApq3MHvSmT2pgKxeYADcC2kmNjjB0Yf++405x6NkDI0badMeoaJr3I++rxERwrTIDQskLELSGib4gUGxXBsauNyxB+Msy3DDUdqdXBtKn+KIihykQvGhcJhM+joO3I94bFGboNUk70UiY4dvPNWHhmqDyUhzGMPvAZn0RDkzeUsDr44bMUGhxVL2b8PZ60E39zmKPwRQjHNWna/aeRvuMKCMNYPBuYDjdZD221lYKpS39PVneL2UFtekMAswySVbfM0iyGISR4m/r8RZ4Pu6uYOSZAMc6nfyoq5WC6orQbAo/B0Vh4vh3vcdwPircr2j8DQ==;z3bsx/Wa4PBQJADHF+y9Ug=="

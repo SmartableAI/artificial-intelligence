@@ -41,20 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Machine Learning System Predicts Severe COVID-19"
-    excerpt: "An advanced machine learning system can accurately predict the risk of a patient's COVID-19 advancing to severe disease or death, say researchers."
-    publishedDateTime: 2021-03-18T11:00:00Z
-    webUrl: "https://www.govexec.com/oversight/2021/03/machine-learning-system-predicts-severe-covid-19/172723/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 39
-    images:
-      - url: "https://cdn.govexec.com/media/img/upload/2021/03/17/031421coronavirus/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "Ethequ5PRwuOJZWV9UYTK2iKbtX7fu9KogcVZfjr9ekQw5Ue+D0s9NxIG5Xf/yNFlg69i/6BOjU8W4dX9hVsz5YXnYuNINROQ9L/6w2ZyoNvMcLWW00sUeLonb5CGgwWvHQX3STOiiBGF+Yv0llAGnIFjJjfiRcc7bZw6gMtN1TEOtSBTu4ytnpW93owbOfswGtwSXRSg528uq6IU6v56mkRiV8WzRxYkX2WkYUMxCb34dlDuoOnAaOh+fvFvuNsnm8LZR4crM5Z6k5vDELnsFuM5ZH9equZofaIO/Lvv14q/HYniet9vC2psf+Ta12V2TlTwqCbX+UZtq/llMVRXBffhMHXotzw/46r2afe0Uk=;5ygHGh4Jtpr28SuvzF8yMA=="
 ---

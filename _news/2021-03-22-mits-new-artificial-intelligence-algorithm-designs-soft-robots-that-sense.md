@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/mits-new-artificial-intelligence-algorithm-
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mits-new-artificial-intelligence-algorithm-designs-soft-robots-that-sense/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -41,7 +41,23 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Researchers' algorithm designs soft-bodied robots that sense their own positions in space"
+    excerpt: "There are some tasks that traditional robots—the rigid and metallic kind—simply aren't cut out for. Soft-bodied robots, on the other hand, may be able to interact with people more safely or slip into tight spaces with ease."
+    publishedDateTime: 2021-03-22T13:38:00Z
+    webUrl: "https://techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.html"
+    ampWebUrl: "https://techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 50
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/16-researchersa.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
-secured: "M/bimdtKaHGDEmWjA65Tb49269T9oWZjyzBOqCQE+I7qYfrjix8bQykY8AGeM4ga9LySC9KxCneQMTzsxRqsCf9TVHiviQRW5PDPqyIQw73nGFmjrZgzX7A1pNPG5D49wtwGyCDCWDvK24sAqXK8NwyKHKmQN4k3x5tflPJY5Cno9nqjTx/DEyWdmQHhC0Tskzt4CpN3+SLcJ3Gv6XZUXpBoLYVFOca6y2yTptyDV4B13VO8r4Et/TNAlrNCwZ9oy24+zhP+rh+BqF2rfntnmpWys5pHhJZHdfL6YV7jokaL/MhZnPII2KDAe8SErQ7uUGIgA41W3fIkLWaa3WZB+q0lU6Ask+YjnXUm/TyBTEY=;7ECZkoSNej02uAk6oa638A=="
+secured: "5OeSqRBPon7wofuobC/fyfTsvxuKJRTNcDUyNJlkeCJKcRO29NaeN6Wx0yNNuvZvNc3Y91/UE+LpqLY042wgjsC7u96PepR26FWNnwckv4eHU7zEotvZD4PnyheZMjbLWCdboWnN9JioeBfnklrEs80O2MFeehQSPvEb+Am5+K1bhcCQQZ59H7b7p0jUmy5irzFZ88Ru/kZ5NolDnbuRF8sBMVzGazOC4ZhUdnUnGvkmP57nHu6BVax6SWnIKnOwCzMCCU4wx4tXkMX125xTe4MDlZl7IU/fQ/zmf83I96Sqzb8UfKk32dYiWN4aCK7FVqXbx6SUx7wr4fjoSxFpQtOcO6EzjBAW5XH/Ab4Zn14qyTWxFFtD1QHBoG9DDcm93fu54ppQB9JB78cud1uQLZi529PH8oUuxbQo1B7MgmpIHKyoTbLjoKuWGgQ/C4E1yMdZIbS09wQ0HyH7xgvjjFDd7pcyhBBPxF8wKcpcJor5afWBE+l0KaGWIx/y401/BvReQ9I4FYuwaPTIlJjFcg==;mUuUneR/20MuUVHT6BwMIA=="
 ---
 

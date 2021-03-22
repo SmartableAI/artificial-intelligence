@@ -89,17 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top Stock Reports for Alphabet, Facebook & The Home Depot"
-    excerpt: "Additionally, strong focus on innovation of AI techniques and the home automation space should ... (You can read the full research report on Alphabet here >>>) Facebook’s shares have gained +10.5% over the last six months against the S&P 500’s gain ..."
-    publishedDateTime: 2021-03-17T19:06:00Z
-    webUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17"
-    ampWebUrl: "https://www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/top-stock-reports-for-alphabet-facebook-the-home-depot-2021-03-17?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Facebook Unveils AR Control Device That Taps Into Your Nervous System"
     excerpt: "The Facebook Reality Labs team also is developing a contextually aware, AI-powered interface for AR ... as provide an update on its haptic glove research. Facebook emphasized that the approach ..."
     publishedDateTime: 2021-03-18T15:32:00Z

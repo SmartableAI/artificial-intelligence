@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/oracle-brings-autonomous-da
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.oracle.com/oce/press/assets/CONT7DBD9D41E0A745028AEEB3FDBAA43DF0/native/og-social-adw.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Oracle updates Autonomous Data Warehouse"
-    excerpt: "Tech giant Oracle has announced a number of updates that aim to make its Autonomous Data Warehouse offering easier to use for experts and novices. The strategy from the company is to reduce how many databases users turn to for modeling and data analysis,"
-    publishedDateTime: 2021-03-17T19:53:00Z
-    webUrl: "https://www.crn.com.au/news/oracle-updates-autonomous-data-warehouse-562293"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/larryellison.jpg"
-        width: 500
-        height: 333
         isCached: true
 
 secured: "FElFM9VOZdUXMFketkedatTXph99VrRpLZ74vtFCN9V1RICfWy3i1820bkgq2rYSdJwGUZ6kycvY4CpjJ5j6h/pFwCc54J0QO0BEI3PIGYTdTyKbsHD0BBJTSbYLm0J+uxXtiCZnVnFyH7jP07YCqSehBo24Ya3vkTB9uQCQaibiJp4zaeyl9ajN/el8FCVukJ/i6xzx5LClZP/IoixN7LflHdclIamtdDkFUzPWRKP5GaRTEmKHpVnG6KKg9BnMiBLluKr+7T018xpLNzgJBQHvJgw9LwWLEc3R6fNblzwDfDCBxNunjbSqxHzgWn7V1tKKEZsyvMMaB7Y8kUhRTV4f+CdrCrDwZJCy/YheIuDpYPNs/XQwWUPIM5oC5iKzfNfKnklq6BNI22SWvtpwDueUdy7Y3oV08F+mF7JdxFxINFzYDPRMrLTrJ1D+htbssMZxn3rBb9vGVjH7QJRmGamtze/O0ieeZuU4253Xs8naNY+26dm9I2bg5Bo2yLb4t33bGmYJ//Iw58Tr+AEV4A==;hFDJSYAlDAOxceheolTBYQ=="

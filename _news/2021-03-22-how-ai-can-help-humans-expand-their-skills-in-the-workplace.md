@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Examining the bias in artificial intelligence..."
+    excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-18T23:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210319094015-examining-the-bias-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09509427_1616147284.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "EJkmIUmkLhS2sMcIrWI18nBapF1utsUlqubIK1hpDXAglnA7Lo6sE/llddA1XVdDPbqEPREkxI86KlfqQsELpVj4JkpWZba3VjvtH1FVRsuUf1doTVqP6/51uI0yJbSnjncHlwj1Je67YTo6lvM8yfB1NVb5Dz1wWChNmhc6gw35rEbdBK1pTnYoXa8g2kn45gxsMCoNfbkf/fmr1UUkYU0/dvETu515yPa1wNYNFML9oGzocbF/My3LPwolnEMTZAhP7o7+tBO46G48EsLSOcb733i8ccYPrtWagtF3kdl0Tj0o7dHR9lEOw4cdTYT4ZIqs/I0j6uOBVrUwQF+IWD0yluM1fzwq1UK9RxsUCDk=;u0gFnOkX/QPVvR6M7ciAkQ=="
 ---

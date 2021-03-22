@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/how-to-get-a-job-at-zoox-amazon-in
 webUrl: "https://www.businessinsider.com/how-to-get-a-job-at-zoox-amazon-interview-2021-3"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "How to get a job at Amazon's white-hot self-driving startup, according to its hiring director"
+    excerpt: "Zoox's hiring director told Insider what she looks for in job applications, interviews, and follow-up notes."
+    publishedDateTime: 2021-03-22T13:44:00Z
+    webUrl: "https://www.businessinsider.com/how-to-get-a-job-at-zoox-amazon-interview-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://i.insider.com/5fd7e3e12069f400194c7b6b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "JY6eLQEE7DyCUvpSkIb1A+KAmKj8Hug80cBmBhYzHcDHisb6DT6ScrOfiKdSkP9ddypmAL2wxOTSz739jugMpfQZ6c5sy/ASDXsZGljRo20vQxoxWYV2pQsRWt5VuVOm1vo6jyIrTOfyLnLiIMAxsyoCnqJ+5OzqUx6kBE1+BzrcKB/hZo7Aei/CKBKwIWenRmgAqMyDB8uEwPsY/+B1vC42nljfg/6Y5kkzIGXMbHJyKTpE/O4+c7wsQJW2RN7Td0wjPQQkSbDvWU7cP3B51+Vm2m2nG1f7HWxxqkGAnmKTX2n9IuWqTYCbCQbQioeXgjGtm5HGJvcY23G7sI/QB8eZ5QmJC17uLCC5AdwhS4DUZrCwhFLYdzM/n4zgZarkKiR704LGk0xuHBgfg1eqkp14AWiNHpvKQ3c7FJ8Z325qAfeSiByAAneZ+pZwxOyBWPOu7seKSlOcmldFEEWM9Zx4sncoVenEiK4bMuxW72B0Qv8ELoHWLfvIVQaY9CeHe16Lq/GtDBvaUsW2kVVqlA==;qpI1J903+0IiWWJwGnHC0A=="
 ---

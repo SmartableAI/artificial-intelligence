@@ -58,22 +58,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Sonoma County adding artificial intelligence to wildfire detection camera network"
-    excerpt: "SAN FRANCISCO - Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county's network of wildfire detection cameras that ..."
-    publishedDateTime: 2021-03-17T20:44:00Z
-    webUrl: "https://www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network"
-    ampWebUrl: "https://www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network.amp"
-    cdnAmpWebUrl: "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/sonoma-county-adding-artificial-intelligence-to-wildfire-detection-camera-network.amp"
-    type: article
-    provider:
-      name: KTVU
-      domain: ktvu.com
-    quality: 52
-    images:
-      - url: "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2020/11/932/470/Screen-Shot-2020-11-14-at-3.52.18-PM.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Sonoma county to use artificial intelligence against fires"
     excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will"
     publishedDateTime: 2021-03-17T22:07:00Z
@@ -104,20 +88,6 @@ related:
         width: 1200
         height: 780
         isCached: true
-  - title: "California county to add artificial intelligence for fires"
-    excerpt: "SAN FRANCISCO (AP) — Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county’s network of wildfire detection cameras ..."
-    publishedDateTime: 2021-03-17T20:34:00Z
-    webUrl: "https://apnews.com/bf220a3dd2704815138d40dd3aa37db2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/10718d1c2ef04a87873c930e52387856/3000.jpeg"
-        width: 3000
-        height: 1959
-        isCached: true
   - title: "County will fight fire with artificial intelligence"
     excerpt: "Sonoma County, Calif., officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
     publishedDateTime: 2021-03-19T10:55:00Z
@@ -132,17 +102,6 @@ related:
         width: 938
         height: 483
         isCached: true
-  - title: "California county to add artificial intelligence for fires | Raleigh News & Observer"
-    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
-    publishedDateTime: 2021-03-17T20:35:00Z
-    webUrl: "https://www.newsobserver.com/news/technology/article250012519.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/technology/article250012519.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/technology/article250012519.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 30
 
 secured: "EBH13Q90/HNShGig3nhKMTG1+y5SRFpggx4Tig+nNfcG0ye9xSYXa7jFG70lYa0w+YmUewsHSDu1/tnvEPL44TuW03ukUCgIw5HMarYhrvICl3pQAxF9QiKppHpKwRHrq/z0IKzEiHVcXryUc3gzHg7EqaDPLPTCcYFsMaQ/omJ2neL7whfUc4HeOX8scRz1CQGQ6dUAiHU2naJ7EZvFXXYKH0frgqNhVDulCwRvj2tAV7XYkWjoU2+tsTRAG5VdHEwz+/5SZNgONX2XVpy71v9J2P2uYzBjHo57YxCmYsmYlRcLgZMwXSKyYwxWVqhBphBotSUCrEvE3n/TywlqFQNhjQyzSscyD2usgeFCW5ElXvrHXEJT9edAuK6V5MSJJjgsDOomlqF5ICDIirKgLx6AGucrGJBY7GcftYbTBHgsujv2AwivIiPQcWIYgY7BHAVXsN9Q3gjwk5J4IL3W87GgbvkND+QdaIOvZtyyFVygultSUkTYI8kB0DdPR2H0J8bAu4jwzNlsMutd0WsU7A==;ic+jebiD+IClVra/2DbL2A=="
 ---

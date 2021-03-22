@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Chip Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
+    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register"
+    publishedDateTime: 2021-03-22T12:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobile Robot Market Overview, Merger and Acquisitions, Drivers, Restraints and Industry Forecast By 2027"
     excerpt: "The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
     publishedDateTime: 2021-03-17T22:35:00Z
@@ -67,6 +81,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
+    publishedDateTime: 2021-03-22T12:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -97,17 +125,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
-  - title: "Robot Software Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
-    excerpt: "It is a set of coded instructions that execute the robot's functions. The key factors driving the growth of the Robotic Software market are the adoption of artificial intelligence, lower labor costs, higher accuracy, higher speed, higher quality and higher ..."
-    publishedDateTime: 2021-03-18T12:28:00Z
-    webUrl: "https://www.openpr.com/news/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
 
 secured: "VOQENlijWgXuRxrT/sSGjE9Adhc8CsowuTluTAwx5qplwhEvucVN+dHQWV6sbO3liKbQsuyQDh1zu7uhEWfMKhll1NRSIVCebJKjQQnSrbAayOtxBcZSXakxJDLo/Wyo6iaz2WE0m+K3jkvUA5UhtkiL/TKj8TnnV1WvJzNVs7GPDbPBAoXsldS6zIMAThiFT/pZlbFqBrxhPfP6N/XA1F9CwTuIFvKYpEWKESe/Qp8qnZ2GlV5EOfaD+lbYQkGMe/rkQjz4cSnpGw3TKtPBwOU24aDGdxS6lyyRh36gONaFaQCS983R7yNQJ1tfGzmNzwWlk2JmNzEslilCc70K+js85hopwa55Ue2jG4u+pvI=;6L7oBf9hWGQpEi4xoeP7Zg=="
 ---
