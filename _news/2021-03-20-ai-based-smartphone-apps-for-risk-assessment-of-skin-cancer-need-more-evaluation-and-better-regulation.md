@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning Chip Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2021 (Heraldkeepers) -- The global Machine Learning Chip market report is a comprehensive research that focuses on the overall consumption structure, development ..."
-    publishedDateTime: 2021-03-17T22:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Artificial Intelligence (AI) Market Size, Development, Key Opportunity, Application and Forecast to 2026"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 19, 2021 (Market Insight Reports) -- Automotive Artificial Intelligence (AI) market report, inclusive of Covid-19 impact analysis, evaluates business status and potential ..."
     publishedDateTime: 2021-03-19T15:19:00Z

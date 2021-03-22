@@ -21,149 +21,101 @@ topics:
   - AI
 
 related:
-  - title: "The Future Of AI In Post-Covid Healthcare"
-    excerpt: "Kira Radinsky, co-founder and Chairman of Diagnostic Robotics, is pioneering the use of AI in healthcare, making it more affordable and accessible."
-    publishedDateTime: 2021-03-22T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2021/03/22/the-future-of-ai-in-post-covid-healthcare/"
+  - title: "Entertainment Robot Toys Market Size, Industry Growth, Trends, Price, Report and Forecast 2020-2027"
+    excerpt: "These robots have the ability to interact with people by singing, dancing, and by telling stories, especially to children. With the advance and developing artificial intelligence technology, growing the geriatric population, and increasing demand for ..."
+    publishedDateTime: 2021-03-18T16:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/entertainment-robot-toys-market-size-industry-growth-trends-price-report-and-forecast-2020-2027-2021-03-18"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605799a02f847363b4892f71%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1484%26cropY1%3D203%26cropY2%3D1038"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Artificial intelligence is shaping the future of music — but at what cost?"
-    excerpt: "Robot DJs. Algorithmically generated death metal. Scientifically engineered soundscapes for babies. Virtual song contests featuring unprecedented collaborations between humans and machines. Welcome to the uncanny world of music and artificial intelligence ..."
-    publishedDateTime: 2021-03-18T13:00:00Z
-    webUrl: "https://www.cbc.ca/music/artificial-intelligence-is-shaping-the-future-of-music-but-at-what-cost-1.5952955"
-    ampWebUrl: "https://www.cbc.ca/amp/1.5952955"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.5952955"
+  - title: "Computer Vision Market Strategies, Major Industry Participants, Marketing Channels and Forecast To 2025"
+    excerpt: "Mar 22, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Computer Vision Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and ..."
+    publishedDateTime: 2021-03-22T08:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-strategies-major-industry-participants-marketing-channels-and-forecast-to-2025-2021-03-22"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://i.cbc.ca/1.5952981.1616010681!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/suzanne-kite.jpg"
-        width: 620
-        height: 349
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "RADLogics AI-Powered COVID-19 solution reduces turnaround time"
-    excerpt: "Moscow Center for Diagnostics & Telemedicine and RADLogics shared the results of a large-scale study (Moscow Experiment on the Computer Vision for the Analysis of Medical Images - mosmed.ai, NCT04489992) conducted by the Research and Practical Clinical Center for Diagnostics and Telemedicine Technologies of the Moscow Health Care Department."
-    publishedDateTime: 2021-03-22T05:24:00Z
-    webUrl: "https://www.news-medical.net/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx"
+  - title: "Deep Learning Chip Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
+    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register"
+    publishedDateTime: 2021-03-22T12:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-22"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial intelligence brings new vision to healthcare"
-    excerpt: "Artificial intelligence applications support doctors' diagnostic decisions, automate certain tasks, says Turkish social media expert - Anadolu Agency"
-    publishedDateTime: 2021-03-18T14:00:00Z
-    webUrl: "https://www.aa.com.tr/en/science-technology/artificial-intelligence-brings-new-vision-to-healthcare/2180566"
+  - title: "Artificial Intelligence In Healthcare Market Size, Share, Challenges, Strategies, Forecasts 2019 To 2027 And Industry Analysis Report"
+    excerpt: "Artificial intelligence in healthcare is estimated to significantly reduce the cost of the treatments as there would"
+    publishedDateTime: 2021-03-22T08:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-challenges-strategies-forecasts-2019-to-2027-and-industry-analysis-report-2021-03-22"
     type: article
     provider:
-      name: aa.com.tr
-      domain: aa.com.tr
-    quality: 56
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
-      - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2021/03/18/thumbs_b_c_b307652479790961e12ea4713cd20871.jpg?v=164045"
-        width: 864
-        height: 486
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "USC scientists say artificial intelligence can compute formulas for successful vaccines against COVID variants"
-    excerpt: "USC researchers are looking for ways to stay one step ahead of COVID-19 variants with the help of artificial intelligence."
-    publishedDateTime: 2021-03-19T18:51:00Z
-    webUrl: "https://abc7.com/covid-vaccine-coronavirus-research-variants/10430584/"
-    ampWebUrl: "https://abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/"
+  - title: "Voice Recognition Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
+    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
+    publishedDateTime: 2021-03-22T12:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-03-22"
     type: article
     provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://cdn.abcotvs.com/dip/images/10433083_031921-kabc-coh-ai-img.png"
-        width: 1920
-        height: 1080
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "A Voice From The Motion Picture Home, And An Oscar Salute In The Time Of Covid"
-    excerpt: "At 8:45 p.m. on Thursday night came one of my favorite regular reports on the state of the entertainment industry and its denizens. That is, an emailed “blog” from lawyer and friend Robert Mirisch"
-    publishedDateTime: 2021-03-21T22:30:00Z
-    webUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/#!"
-    ampWebUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/amp/"
+  - title: "IFR Names Five Major Robot Trends"
+    excerpt: "According to Bieller, the following trends are driving demand for robotics technology: *Robots learn new tricks. Artificial intelligence software in combination with vision and other sensing systems, allow robots to master difficult tasks, such as bin picking."
+    publishedDateTime: 2021-03-18T18:27:00Z
+    webUrl: "https://www.assemblymag.com/articles/96232-ifr-names-five-major-robot-trends"
     type: article
     provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 40
-    images:
-      - url: "https://deadline.com/wp-content/uploads/2056/04/mptf_campus.jpg?w=1024"
-        width: 1024
-        height: 575
-        isCached: true
-  - title: "Machine Learning System Predicts Severe COVID-19"
-    excerpt: "An advanced machine learning system can accurately predict the risk of a patient's COVID-19 advancing to severe disease or death, say researchers."
-    publishedDateTime: 2021-03-18T11:00:00Z
-    webUrl: "https://www.govexec.com/oversight/2021/03/machine-learning-system-predicts-severe-covid-19/172723/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
+      name: Assembly Mag
+      domain: assemblymag.com
     quality: 39
     images:
-      - url: "https://cdn.govexec.com/media/img/upload/2021/03/17/031421coronavirus/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
-    excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
-    publishedDateTime: 2021-03-18T18:33:00Z
-    webUrl: "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 38
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/03/Vaccination_AI_b.jpg"
+      - url: "https://www.assemblymag.com/ext/resources/images/2019/UR/universal-march-2021.jpg?height=635&t=1616092024&width=1200"
         width: 900
-        height: 600
+        height: 550
         isCached: true
-  - title: "Artificial intelligence used to identify unique COVID-19 patterns in lungs"
-    excerpt: "The artificial neural network developed by Lawson Health Research Institute can detect COVID-19 patterns in lung scans that are not visible to the human eye."
-    publishedDateTime: 2021-03-19T14:52:00Z
-    webUrl: "https://blackburnnews.com/london/london-news/2021/03/19/artificial-intelligence-used-identify-unique-covid-19-patterns-lungs/"
+  - title: "Global Cognitive Services Market Report: Trends, Forecast, Projects between 2021 and 2027"
+    excerpt: "Overview of the report A recent published report on the Cognitive Services market gives an in depth evaluation of the industry in its brief overview of the Cognitive Services market The review discusses several key aspects of the Cognitive Services"
+    publishedDateTime: 2021-03-22T11:34:00Z
+    webUrl: "https://www.openpr.com/news/2259863/global-cognitive-services-market-report-trends-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
     type: article
     provider:
-      name: Blackburn News
-      domain: blackburnnews.com
-    quality: 37
-    images:
-      - url: "https://blackburnnews.com/wp-content/uploads/2021/03/canstockphoto88667566-400x250.jpg"
-        width: 400
-        height: 250
-        isCached: true
-  - title: "AI, COVID-19 and the long haul"
-    excerpt: "It has been a little over a year since a worldwide COVID-19 pandemic was declared. Science has moved fast to fight the virus but preparations need to be underway for fighting future outbreaks."
-    publishedDateTime: 2021-03-18T18:15:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00328-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 17
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
 
 secured: "w5qYb7VvyFN98MdelJUSjx9w4wL8gc1WEet6BSXQBIy5gtaIesDw+UxqM8em6+LlUNZzKcMbMlq3IHP3HRxTgGsgGg7OmknCitJVD5U/uqu+iorAPWTCE9D30Jxr5cuhQ/cZr4kTr6OytB9dcbR34AyzPwt7wFs5pLJCZIHIZPCLcyUzgeSM6vmmJhjthVh7lbo5grXOvbfugpEix1/l7FzQTU92AUdzQcFeMqQA7z/AvkWhW0kdeb8cMuO4CC8knf5t40zBNw233cOI3VBWpW/uvxHuKIV2kvVh552K6oBYLAVblstZLdcQMfSJCQLaitWs3MB2hjdK3dYWP90azgj2iaKk8S+lEctN9aPrIh0=;h61I1lk+mfj3WmvPGRmTFw=="
 ---

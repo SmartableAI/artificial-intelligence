@@ -2,6 +2,160 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-10-optibus-picks-up-107m-for-an-ai-based-planning-and-operations-platform-aimed-at-mass-transportation.md",
+      "title": "Optibus picks up $107M for an AI-based planning and operations platform aimed at mass transportation",
+      "excerpt": "Mass transportation is a critical part of how metropolitan areas keep moving, and today a startup that has built an AI-based platform to help mass transportation work more efficiently is announcing a huge round of funding to grow its business and tackle a new set of opportunities and challenges in",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/10/optibus-picks-up-107m-for-a-planning-and-operations-platform-aimed-at-mass-transportation/",
+      "originalUrl": "https://techcrunch.com/2021/03/10/optibus-picks-up-107m-for-a-planning-and-operations-platform-aimed-at-mass-transportation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Optibus-Geospatial-Suite.png?w=680",
+          "width": 680,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/10/optibus-picks-up-107m-for-a-planning-and-operations-platform-aimed-at-mass-transportation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/optibus-picks-up-107m-for-a-planning-and-operations-platform-aimed-at-mass-transportation/amp/",
+      "publishedDateTime": "2021-03-10T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-five-ai-myths-and-misconceptions-and-the-role-of-communications.md",
+      "title": "Five AI Myths And Misconceptions And The Role Of Communications",
+      "excerpt": "It's imperative that those of us in the AI industry are honest and forthright about AI's capabilities, limitations, benefits and dangers, as well as the current state of the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/10/five-ai-myths-and-misconceptions-and-the-role-of-communications/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/10/five-ai-myths-and-misconceptions-and-the-role-of-communications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-how-fintech-is-evolving-in-2021.md",
+      "title": "How Fintech Is Evolving In 2021",
+      "excerpt": "This year is paving the way to a brighter future, and fintech is at the forefront. Here are some of the key areas in which fintech is evolving right now. For 14.2 million U.S. citizens, digital banking is their only form of money management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f52482e3813fbe2dd6ff492%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/",
+      "publishedDateTime": "2021-03-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-angelini-pharma-chooses-aideas-artificial-intelligence-to-boost-its-digital-transformation-and-international-growth.md",
       "title": "Angelini Pharma Chooses AiDEA’s Artificial Intelligence to Boost Its Digital Transformation and International Growth",
       "excerpt": "Trueblue, a leading provider of AI solutions for Operational and Analytical CRM in the Life Science industry announces that Angelini Pharma, as part of a major global digital transformation process, has chosen AiDEA,",
@@ -1028,143 +1182,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey.md",
-      "title": "AI implementations accelerated due to COVID-19 pandemic, says KMPG survey",
-      "excerpt": "Adoption of artificial intelligence accelerated during the COVID-19 pandemic, but many business leaders are concerned that AI deployments are moving too fast, according to a KPMG survey. Managing AI and ML in the Enterprise The AI and ML deployments are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/08/b82392e3-a0d3-4346-ba72-916149066bd6/kpmg-ai-report-2021b.png",
-          "width": 1351,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
-      "publishedDateTime": "2021-03-09T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-eset-rivela-che-il-42-dei-consumatori-usa-app-fintech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali.md",
-      "title": "ESET rivela che il 42% dei consumatori usa App FinTech gratuite, ma il 50% non sa che uso viene fatto dei dati personali",
-      "excerpt": "ESET ha analizzato il tema della sicurezza dei dati nel segmento consumer nell’ambito della propria ricerca globale sul settore FinTech",
-      "sourceUrl": null,
-      "webUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "originalUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/amp/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "cdnAmpWebUrl": "https://www-informazione-it.cdn.ampproject.org/c/s/www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/amp/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "publishedDateTime": "2021-03-09T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "informazione.it",
-        "domain": "informazione.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-ibm-watson-services-market-size-to-accrue-165-billion-by-2027.md",
-      "title": "IBM Watson Services Market Size to accrue $ 16.5 billion by 2027",
-      "excerpt": "Selbyville, Delaware According to the latest research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use; By Regions; Segment Forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

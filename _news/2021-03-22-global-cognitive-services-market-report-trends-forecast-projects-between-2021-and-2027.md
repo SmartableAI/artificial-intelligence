@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Robot Market Overview, Merger and Acquisitions, Drivers, Restraints and Industry Forecast By 2027"
-    excerpt: "The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
-    publishedDateTime: 2021-03-17T22:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-robot-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Size, Share, Challenges, Strategies, Forecasts 2019 To 2027 And Industry Analysis Report"
     excerpt: "Artificial intelligence in healthcare is estimated to significantly reduce the cost of the treatments as there would"
     publishedDateTime: 2021-03-22T08:14:00Z
@@ -119,6 +105,17 @@ related:
         width: 900
         height: 550
         isCached: true
+  - title: "Robot Software Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
+    excerpt: "It is a set of coded instructions that execute the robot's functions. The key factors driving the growth of the Robotic Software market are the adoption of artificial intelligence, lower labor costs, higher accuracy, higher speed, higher quality and higher ..."
+    publishedDateTime: 2021-03-18T12:28:00Z
+    webUrl: "https://www.openpr.com/news/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
+    ampWebUrl: "https://www.openpr.com/amp/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 29
 
 secured: "dd33K5WQo/TYZzlP4F2bqRBw+4riAz6MM8c6Fh+Mk/nFulY9p/Uqz3F6zwfPW1yZ8xwrBC6zXVGBhIpn0IxFX1O1eEYEDKnhmpNbASh5apqvc3OY7yKlJJNcGghZCC2A6I9aAv9LAbfXG0OJeEKXHdr3oS/Xu84an8ncyGL6gZJRUpX6lltZphPHvyG8vfTHK8KQ4MkY1r2w+wfsTlsJ2k4wtGP/vkstBBXMQD/QHF7jKg+oJaZKCOMZJJopVjIkLsOm6aeFLuErot4f4hr9GD4ONtaXscv9SWksOxVLqYXzMCyjvWfcm/hvZseKW3AMpgsBt9Drifp3lVHHnqT8p71JtG6oJgDkVrHOdnDTD/0=;KG/qU59c++BoHeoYqeiSEQ=="
 ---

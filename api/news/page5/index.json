@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-17-top-questions-to-ask-ai-vendors-in-2021-part-two.md",
+      "title": "Top Questions To Ask AI Vendors In 2021: Part Two",
+      "excerpt": "Sticking to a few hard-hitting questions can help you weed out fake AI solutions and help you refine your own requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602fe611a2778c1746f06424%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/amp/",
+      "publishedDateTime": "2021-03-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-torchai-raises-30m-for-ai-that-unifies-disparate-enterprise-data.md",
+      "title": "Torch.AI raises $30M for AI that unifies disparate enterprise data",
+      "excerpt": "Torch.AI, a startup developing a platform to normalize and analyze disparate data, has raised $30 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/",
+      "originalUrl": "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness.md",
+      "title": "Feedzai Fairband: World's most advanced framework for AI fairness",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T01:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-proven-arabia-highlights-commitment-to-ai-and-robotics-innovation-with-the-launch-of-proven-solution.md",
       "title": "Proven Arabia highlights commitment to AI and Robotics Innovation with the launch of Proven Solution",
       "excerpt": "Proven Arabia's AI and Robotics centered new tech start-up Proven Solution to help automate business operations for customers in the Middle East and around the globe",
@@ -791,10 +928,10 @@
     {
       "path": "_news/2021-03-16-cancer-therapy-how-our-cells-are-becoming-resistant-to-medication.md",
       "title": "Cancer therapy: How our cells are becoming resistant to medication",
-      "excerpt": "Human cells are constantly changing shape. Biologists know that these morphological changes reflect changes in a cell’s function but our ability to understand the meaning behind a cell’s shape has, to date,",
+      "excerpt": "In their new study Rune Linding from Humboldt-Universität zu Berlin (HU) and his colleagues have utilized artificial intelligence to learn, and interpret, changes in the morphology of cancer ...",
       "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news765031",
-      "originalUrl": "https://idw-online.de/de/news765031",
+      "webUrl": "https://idw-online.de/en/news765031",
+      "originalUrl": "https://idw-online.de/en/news765031",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -813,7 +950,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T07:45:00-07:00",
+      "publishedDateTime": "2021-03-16T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "idw",
@@ -1028,160 +1165,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-diversity-and-inclusion-in-ai.md",
-      "title": "Diversity And Inclusion In AI",
-      "excerpt": "With the increasing role that AI plays in business processes, the production of goods and the products themselves, the lack of diversity in AI and the invisibility of people of color will become a cascade of crises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1edc985d888ccd74fb1a81%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/",
-      "publishedDateTime": "2021-03-16T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform.md",
-      "title": "Noogata raises $12M seed round for its no-code enterprise AI platform",
-      "excerpt": "Noogata, a startup that offers a no-code AI solution for enterprises, today announced that it has raised a $12 million seed round led by Team8, with participation from Skylake Capital. The company, which was founded in 2019 and counts Colgate and PepsiCo among its customers,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/",
-      "originalUrl": "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 257,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222192913.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/16/noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform/amp/",
-      "publishedDateTime": "2021-03-16T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-salesforce-intros-new-ai-powered-account-based-marketing-tools.md",
-      "title": "Salesforce intros new AI-powered account-based marketing tools",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Salesforce today unveiled new AI-powered account-based marketing (ABM) capabilities within Salesforce Digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/",
-      "originalUrl": "https://venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/salesforce-intros-new-ai-powered-account-based-marketing-tools/amp/",
-      "publishedDateTime": "2021-03-16T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

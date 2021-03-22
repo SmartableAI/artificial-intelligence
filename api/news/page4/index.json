@@ -2,6 +2,159 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-18-how-this-ai-startup-plans-to-shake-up-the-online-fashion-industry.md",
+      "title": "How This AI Startup Plans To Shake Up The Online Fashion Industry",
+      "excerpt": "Celebrating its 65th birthday this year, AI (artificial intelligence) is there to stay. This Dutch tech startup is an insightful example of how AI can be used to disrupt an industry and create an impact on people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeroenkraaijenbrink/2021/03/18/how-this-ai-startup-plans-to-shake-up-the-online-fashion-industry/",
+      "originalUrl": "https://www.forbes.com/sites/jeroenkraaijenbrink/2021/03/18/how-this-ai-startup-plans-to-shake-up-the-online-fashion-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049ca82f8032bf0ffc586e3%2F0x0.jpg",
+          "width": 1200,
+          "height": 823,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeroenkraaijenbrink/2021/03/18/how-this-ai-startup-plans-to-shake-up-the-online-fashion-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeroenkraaijenbrink/2021/03/18/how-this-ai-startup-plans-to-shake-up-the-online-fashion-industry/amp/",
+      "publishedDateTime": "2021-03-18T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-solar-analytics-startup-prescinto-raises-35-mn-in-seed-round.md",
+      "title": "Solar Analytics Startup Prescinto Raises $3.5 Mn In Seed Round",
+      "excerpt": "Funds raised would be used for international expansion, primarily theUS, and further IP development to deepening their moats into artificial intelligence (AI)",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/367380",
+      "originalUrl": "https://www.entrepreneur.com/article/367380",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616054711-PuneetSinghJaggiFounderandCEOPrescinto.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367380",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367380",
+      "publishedDateTime": "2021-03-18T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-researchers-are-learning-from-white-hat-hackers-to-better-detect-bias-in-ai.md",
+      "title": "Researchers are learning from white-hat hackers to better detect bias in AI",
+      "excerpt": "Daphné Leprince-Ringuet says bug bounty programs have changed information security in the past years -- for the better. What can AI researchers learn from the experience? Read more:",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/researchers-are-learning-from-white-hat-hackers-to-better-detect-bias-in-ai/",
+      "originalUrl": "https://www.zdnet.com/video/researchers-are-learning-from-white-hat-hackers-to-better-detect-bias-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/03/18/a1200401-940f-4391-be17-8034a3f4641b/thumbnail/770x578/815620be8bd96ebb73c7a8ad30a494ab/20210317-daphne-karen-bias.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-ibm-develops-artificial-intelligence-system-that-can-debate-humans.md",
       "title": "IBM develops artificial intelligence system that can debate humans",
       "excerpt": "Project Debater told its human counterpart, \"I heard you hold the world record in debate competition wins against humans, but I suspect you've never debated a machine. Welcome to the future.\"",
@@ -1063,143 +1216,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-top-questions-to-ask-ai-vendors-in-2021-part-two.md",
-      "title": "Top Questions To Ask AI Vendors In 2021: Part Two",
-      "excerpt": "Sticking to a few hard-hitting questions can help you weed out fake AI solutions and help you refine your own requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602fe611a2778c1746f06424%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/17/top-questions-to-ask-ai-vendors-in-2021-part-two/amp/",
-      "publishedDateTime": "2021-03-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-torchai-raises-30m-for-ai-that-unifies-disparate-enterprise-data.md",
-      "title": "Torch.AI raises $30M for AI that unifies disparate enterprise data",
-      "excerpt": "Torch.AI, a startup developing a platform to normalize and analyze disparate data, has raised $30 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/",
-      "originalUrl": "https://venturebeat.com/2021/03/17/torch-ai-raises-30m-for-ai-that-unifies-disparate-enterprise-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness.md",
-      "title": "Feedzai Fairband: World's most advanced framework for AI fairness",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

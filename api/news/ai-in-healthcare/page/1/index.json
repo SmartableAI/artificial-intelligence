@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-22-the-future-of-ai-in-post-covid-healthcare.md",
-      "title": "The Future Of AI In Post-Covid Healthcare",
-      "excerpt": "Kira Radinsky, co-founder and Chairman of Diagnostic Robotics, is pioneering the use of AI in healthcare, making it more affordable and accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/03/22/the-future-of-ai-in-post-covid-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/03/22/the-future-of-ai-in-post-covid-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605799a02f847363b4892f71%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1484%26cropY1%3D203%26cropY2%3D1038",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-03-22-artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Emerging Technologies, Industry Demand, CAGR Status, Global Competitors and Future Scope",
       "excerpt": "Emergence of Startup Companies to Propel Market in Asia Pacific Asia Pacific is expected to dominate the global market owing to the developing economies such as South Korea, India, China. The growing acceptance of AI-based solutions will foster healthy ...",
@@ -217,7 +164,7 @@
       "originalUrl": "https://www.sourcesecurity.com/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -351,10 +298,10 @@
     {
       "path": "_news/2021-03-16-cancer-therapy-how-our-cells-are-becoming-resistant-to-medication.md",
       "title": "Cancer therapy: How our cells are becoming resistant to medication",
-      "excerpt": "Human cells are constantly changing shape. Biologists know that these morphological changes reflect changes in a cell’s function but our ability to understand the meaning behind a cell’s shape has, to date,",
+      "excerpt": "In their new study Rune Linding from Humboldt-Universität zu Berlin (HU) and his colleagues have utilized artificial intelligence to learn, and interpret, changes in the morphology of cancer ...",
       "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news765031",
-      "originalUrl": "https://idw-online.de/de/news765031",
+      "webUrl": "https://idw-online.de/en/news765031",
+      "originalUrl": "https://idw-online.de/en/news765031",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -373,7 +320,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T07:45:00-07:00",
+      "publishedDateTime": "2021-03-16T07:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "idw",
@@ -1422,6 +1369,58 @@
         "name": "The Hans India",
         "domain": "thehansindia.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-healthcare-revolution-in-the-platform-economy.md",
+      "title": "Healthcare Revolution In The Platform Economy",
+      "excerpt": "If there is any industry worthy of platform innovation and disruption, it’s the healthcare industry. Advancements in inpatient care, unit productivity and service accessibility can be the difference between life and death.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6037cdd68396ed5f43faa400%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/amp/",
+      "publishedDateTime": "2021-03-01T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,153 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-15-azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy.md",
+      "title": "Azure Arc Becomes The Foundation For Microsoft’s Hybrid And Multi-Cloud Strategy",
+      "excerpt": "At the recent Spring Ignite conference, Microsoft announced the general availability of Azure Arc enabled Kubernetes, and the preview of Arc enabled machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f04e8e714d1ce6072a237%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D1%26cropY2%3D563",
+          "width": 1000,
+          "height": 562,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/15/azure-arc-becomes-the-foundation-for-microsofts-hybrid-and-multi-cloud-strategy/amp/",
+      "publishedDateTime": "2021-03-14T23:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-insitro-raises-400m-for-machine-learning-drug-discovery-push.md",
+      "title": "Insitro raises $400m for machine learning drug discovery push",
+      "excerpt": "Start-up run by former Stanford professor uses AI to analyse human genetics and work out where to target drugsRead more on 'Financial Times Companies'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/insitro-raises-$400m-for-machine-learning-drug-discovery-push-9912666",
+      "publishedDateTime": "2021-03-14T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-china-poised-to-dominate-the-artificial-intelligence-ai-market.md",
+      "title": "China Poised To Dominate The Artificial Intelligence (AI) Market",
+      "excerpt": "China has extremely ambitious plans to lead the world in artificial intelligence (AI). Here, we take a look at why China is poised to lead the global AI market and introduce some of the key players in the Chinese AI space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/03/15/china-poised-to-dominate-the-artificial-intelligence-ai-market/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/03/15/china-poised-to-dominate-the-artificial-intelligence-ai-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604ef122c7a333f98300e871%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/03/15/china-poised-to-dominate-the-artificial-intelligence-ai-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/03/15/china-poised-to-dominate-the-artificial-intelligence-ai-market/amp/",
+      "publishedDateTime": "2021-03-14T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-gartners-2021-magic-quadrant-cites-glut-of-innovation-in-data-science-and-ml.md",
       "title": "Gartner’s 2021 Magic Quadrant cites ‘glut of innovation’ in data science and ML",
       "excerpt": "The report evaluates DSML platforms' scope, revenue, and growth, customer counts, market traction, and product capability scoring.",
@@ -1061,134 +1208,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-startup-news-robotics-vendor-nimble-raises-50-million-in-financing-round.md",
-      "title": "Startup News: robotics vendor Nimble raises $50 million in financing round",
-      "excerpt": "According to Nimble, its AI-powered robots intelligently pick, pack, and handle millions of products, spanning from apparel and electronics to beauty, general merchandise and grocery items. Today, Nimble robots are deployed in fulfillment centers across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_raises_50_million_in_financing_round",
-      "originalUrl": "https://www.scmr.com/article/startup_news_robotics_vendor_nimble_raises_50_million_in_financing_round",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png",
-          "width": 444,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Management Review",
-        "domain": "scmr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-adventures-with-ai-heres-what-happened-when-i-ate-a-three-course-meal-designed-by-artificial-intelligence.md",
-      "title": "Adventures with AI: Here’s what happened when I ate a three course meal designed by artificial intelligence",
-      "excerpt": "Unfortunately, since the onset of the COVID-19 pandemic, I’ve been doing a lot of the latter and almost none of the former. The model’s been trained on a gobsmacking quantity of data ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-12T134101.728-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/12/ai-generated-recipes-three-course-meal-gpt-3-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-03-12T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-financial-services-firms-accelerate-digital-first-business.md",
-      "title": "Financial services firms accelerate digital-first business",
-      "excerpt": "The financial services industry was well on its way to a digital-first future before the pandemic upended industry and commerce across the globe. The fallout from the pandemic, however — particularly the growing demand for digital only services — has pushed financial services transformation into overdrive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html",
-      "originalUrl": "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

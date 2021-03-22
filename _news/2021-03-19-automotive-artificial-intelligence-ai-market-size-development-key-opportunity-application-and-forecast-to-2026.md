@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Machine Learning Chip Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2021 (Heraldkeepers) -- The global Machine Learning Chip market report is a comprehensive research that focuses on the overall consumption structure, development ..."
-    publishedDateTime: 2021-03-17T22:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global 3D Facial Recognition Systems Market 2021 Vital Challenges and Forecast Analysis by 2031"
     excerpt: "The latest research report provides a complete assessment of the Global 3D Facial Recognition Systems market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
     publishedDateTime: 2021-03-19T08:29:00Z

@@ -2,6 +2,143 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-10-ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey.md",
+      "title": "AI implementations accelerated due to COVID-19 pandemic, says KMPG survey",
+      "excerpt": "Adoption of artificial intelligence accelerated during the COVID-19 pandemic, but many business leaders are concerned that AI deployments are moving too fast, according to a KPMG survey. Managing AI and ML in the Enterprise The AI and ML deployments are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/08/b82392e3-a0d3-4346-ba72-916149066bd6/kpmg-ai-report-2021b.png",
+          "width": 1351,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/",
+      "publishedDateTime": "2021-03-09T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-eset-rivela-che-il-42-dei-consumatori-usa-app-fintech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali.md",
+      "title": "ESET rivela che il 42% dei consumatori usa App FinTech gratuite, ma il 50% non sa che uso viene fatto dei dati personali",
+      "excerpt": "ESET ha analizzato il tema della sicurezza dei dati nel segmento consumer nell’ambito della propria ricerca globale sul settore FinTech",
+      "sourceUrl": null,
+      "webUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
+      "originalUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/amp/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
+      "cdnAmpWebUrl": "https://www-informazione-it.cdn.ampproject.org/c/s/www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/amp/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
+      "publishedDateTime": "2021-03-09T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "informazione.it",
+        "domain": "informazione.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-ibm-watson-services-market-size-to-accrue-165-billion-by-2027.md",
+      "title": "IBM Watson Services Market Size to accrue $ 16.5 billion by 2027",
+      "excerpt": "Selbyville, Delaware According to the latest research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use; By Regions; Segment Forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T10:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-introducing-a-new-api-to-stop-in-progress-workflows-in-amazon-forecast.md",
       "title": "Introducing a new API to stop in-progress workflows in Amazon Forecast",
       "excerpt": "Amazon Forecast uses machine learning (ML) to generate more accurate demand forecasts, without requiring any prior ML experience. Forecast brings the same technology used at Amazon.com to developers as a fully managed service, removing the need to manage resources or rebuild your systems. To start generating",
@@ -1077,153 +1214,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-we-need-a-humanitarian-vision-for-ai-and-robotics.md",
-      "title": "We need a humanitarian vision for AI and robotics",
-      "excerpt": "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/",
-      "originalUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2021/03/GettyImages-1183002137-scaled.jpg",
-          "width": 1600,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/",
-      "publishedDateTime": "2021-03-09T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made.md",
-      "title": "Is It Time To Question Our Assumptions About Hand-Made Vs Machine-Made?",
-      "excerpt": "The belief that something made by humans is of better quality crumbles when we confront it with the principles of Industry 4.0, which is seeing new standards of automation: historically this has always meant greater efficiency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/",
-      "originalUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60473485586d43a09b09e3f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/amp/",
-      "publishedDateTime": "2021-03-09T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic.md",
-      "title": "KPMG: AI adoption accelerated too fast during the pandemic",
-      "excerpt": "The outlook for artificial intelligence is optimistic under the Biden administration, but executives want industry regulation, a survey finds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "originalUrl": "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "publishedDateTime": "2021-03-08T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

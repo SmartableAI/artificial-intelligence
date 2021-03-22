@@ -43,21 +43,37 @@ related:
         width: 777
         height: 518
         isCached: true
-  - title: "Researchers’ algorithm designs soft robots that sense"
-    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
-    publishedDateTime: 2021-03-22T04:11:00Z
-    webUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
+  - title: "Algorithm designs soft robots that sense"
+    excerpt: "There are some tasks that traditional robots — the rigid and metallic kind — simply aren’t cut out for. Soft-bodied robots, on the other hand, may be able"
+    publishedDateTime: 2021-03-22T15:27:00Z
+    webUrl: "https://scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/"
+    ampWebUrl: "https://scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/amp/"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 59
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Sensor-Placement-01-press.jpg"
-        width: 1500
-        height: 1000
+      - url: "https://scienceblog.com/wp-content/uploads/2021/03/MIT-Sensor-Placement-01-press_1.jpeg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Researchers' algorithm designs soft robots that sense"
+    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
+    publishedDateTime: 2021-03-22T13:55:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/miot-rad032221.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/259753_web.jpg"
+        width: 1440
+        height: 960
         isCached: true
 
-secured: "riMFgxjj8OIRT5zmK1/l0bZ4SpTHX/eZDpTE5mC/v3Ejl7yJI8heZpj2/LEnQ5pTEliWOIAoZawlO6T45/7d1BJHvcdeK42Tqb+S/0iVNdOmyRtmmEj3hPncH97g30+BtYtn/oBiq+vSDvOaL7/xH27Zx5n2q9G+EbV2zNbqmPCr4ouj48vIQaCc95CCIjGAOtndVswg8JLwmV8jHALy2XSEiARcQFUywVyIaCOtTPIFbbfrWkXmUytWn4WJBJ0x1X/IuteLuylCNnXJNPrPHVu2hPP1spWZZ6n2q/XJ2BmqJ5V2DO2+YxkQR+lZHuW19dSmd1tr+amVQLlZesp6+TgLB0ANeZUZpeOLljFGsqA=;pxn1S+UmATIlzoJIbKOTyg=="
+secured: "Q+Jf3XAj2bVFsn/a5ecYxwDNtb0e74j8+n0wDKC4Y8YSYPaaYCzY7iaI/XKkoxWq/vEltO2WRgthZ/TBo90grs13X8G0PSfN6qULqXiOnECfvmcCcd+KXd0TKrZZoOUvOdm6UO93NKbad3+4Ws1IJstk7ptvoHylA1RDpnkGonaFQdqv6vEbNuTuY4Mx1WVlQ8jTLMYi5/yEtxYWPICwCJw/pn+fZJzRoiidAMpsuV8mf+RNFkbNbjOOoZIt+5Klpdsxt00LE/VvVAquVdggPW/UxqN1gWD1AHjX9Oft9z+Qmctjv6PjWL4cw4ZqtrHEQML7qznQxnjALWM8Y+6J6g60vrZg0tfrKI5osbAefShn81RCmGHhFsTZA1U8+w3WbcfKiw2eMy52MM2E0OHz0KNljywIvopvfB/Pptz1RN1Vvf6PBPPKsyfyZBCM2W7jFuEILP4niLoKkhjbp+wqI/dmPZV78t69/M8itrMb4zWrXRBFNmdJj3pvjOoB5Vc/+T259RcJboAC3fm4p+GrIQ==;EsS8MmwVYVapwnQ5WuWPvg=="
 ---
 

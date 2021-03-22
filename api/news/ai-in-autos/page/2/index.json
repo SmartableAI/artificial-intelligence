@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
-      "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
-      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company ...",
+      "title": "Alphabet’s Waymo says its tech would avoid fatal human crashes",
+      "excerpt": "The autonomous-car artificial intelligence from Alphabet Inc’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company ...",
       "sourceUrl": null,
-      "webUrl": "https://www.claimsjournal.com/news/national/2021/03/09/302450.htm",
-      "originalUrl": "https://www.claimsjournal.com/news/national/2021/03/09/302450.htm",
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.claimsjournal.com/app/uploads/2021/03/BB.Waymo_-scaled.jpg",
-          "width": 2560,
-          "height": 1698,
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/03/09/1070479.jpg",
+          "width": 1240,
+          "height": 811,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,11 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T22:15:00-08:00",
+      "publishedDateTime": "2021-03-08T22:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Claims Journal",
-        "domain": "claimsjournal.com",
+        "name": "The Star",
+        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null

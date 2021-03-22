@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-gpu-for-ai-market
 webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18"
 type: article
 quality: 71
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Machine Learning Chip Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 17, 2021 (Heraldkeepers) -- The global Machine Learning Chip market report is a comprehensive research that focuses on the overall consumption structure, development ..."
-    publishedDateTime: 2021-03-17T22:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-machine-learning-chip-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

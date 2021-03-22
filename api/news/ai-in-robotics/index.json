@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-22-the-future-of-ai-in-post-covid-healthcare.md",
-      "title": "The Future Of AI In Post-Covid Healthcare",
-      "excerpt": "Kira Radinsky, co-founder and Chairman of Diagnostic Robotics, is pioneering the use of AI in healthcare, making it more affordable and accessible.",
+      "path": "_news/2021-03-22-nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction.md",
+      "title": "NFT digital artwork by humanoid robot Sophia up for auction",
+      "excerpt": "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/03/22/the-future-of-ai-in-post-covid-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/03/22/the-future-of-ai-in-post-covid-healthcare/",
+      "webUrl": "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/",
+      "originalUrl": "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605799a02f847363b4892f71%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1484%26cropY1%3D203%26cropY2%3D1038",
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/HONGKONG-ROBOT_-1-1.jpg?quality=90&strip=all&w=1200",
           "width": 1200,
-          "height": 675,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T06:00:00-07:00",
+      "ampWebUrl": "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/amp/",
+      "publishedDateTime": "2021-03-22T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -50,8 +41,7 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
@@ -63,7 +53,7 @@
       "originalUrl": "https://scitechdaily.com/mits-new-artificial-intelligence-algorithm-designs-soft-robots-that-sense/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
