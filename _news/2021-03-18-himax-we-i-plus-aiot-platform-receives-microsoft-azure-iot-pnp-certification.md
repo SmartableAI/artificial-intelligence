@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/business-technolog
 webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft smart buildings bolstered by machine learning model, IoT"
+    excerpt: "(Photo by Garima Gaurav) A new machine learning model and Internet of Things (IoT) sensors and automation will enable Microsoft smart buildings to keep company employees as comfortable as possible when they return to their offices once COIVD-19 ..."
+    publishedDateTime: 2021-03-17T21:04:00Z
+    webUrl: "https://www.microsoft.com/itshowcase/blog/microsoft-smart-buildings-bolstered-by-machine-learning-model-iot/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
+    images:
+      - url: "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/03/10173_hero.jpg"
+        width: 2095
+        height: 1293
+        isCached: true
   - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
     excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital ... solutions based on Microsoft cloud, edge and AI products,\" indicated Omar Abbosh, Microsoft's corporate ..."
     publishedDateTime: 2021-03-17T22:36:00Z

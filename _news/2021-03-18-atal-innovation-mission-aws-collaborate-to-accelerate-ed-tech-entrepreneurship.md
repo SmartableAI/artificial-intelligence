@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/atal-innovation-mission-aws-coll
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html"
 type: article
 quality: 55
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -27,19 +27,30 @@ images:
     isCached: true
 
 related:
-  - title: "AWS, Oxford University Explore Human-Machine Collaboration With AI, Cloud Tech"
-    excerpt: "Amazon Web Services (AWS) and the University of Oxford in England have partnered to test proofs of concept for human-machine interaction in education and other research areas using artificial intelligence tools and cloud computing platforms."
-    publishedDateTime: 2021-03-19T05:01:00Z
-    webUrl: "https://www.executivegov.com/2021/03/aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech/"
+  - title: "Proven Arabia strengthens commitment to AI and robotics innovation"
+    excerpt: "As an AI-focused startup, Proven Solution will provide advanced portfolio housing AI, Robotics, Blockchain, Internet of Things (IoT), Augmented Reality and Virtual Reality (AR/VR) technologies. These innovative products and solutions can be customised to ..."
+    publishedDateTime: 2021-03-19T00:12:00Z
+    webUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation"
+    ampWebUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 50
+      name: GDPR fines
+      domain: itp.net
+    quality: 69
+  - title: "Top 10 Cool Robotics Startups To Keep an Eye on in 2021"
+    excerpt: "Robotics startups will continue to emerge and bring innovative solutions to the world. Here’s a look at the top 10 cool robotics startups in 2021 that are changing the way of interaction with robots."
+    publishedDateTime: 2021-03-18T09:00:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-cool-robotics-startups-to-keep-an-eye-on-in-2021/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/03/16/4c/f7/e1/54/af/a9/3d/74/artificial_intelligence_20210308.png"
-        width: 272
-        height: 270
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Robotics-1.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "Atal Innovation Mission, AWS collaborate to scale cloud skilling, and accelerate innovation with education technology startups in India"
     excerpt: "artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7000 Atal Tinkering Labs (ATLs) in India. AWS will also conduct Faculty Development Programs (FDPs) for the personnel in-charge at the ATLs, and provide ..."
@@ -56,6 +67,20 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
         width: 534
         height: 462
+        isCached: true
+  - title: "Provation and Iterative Scopes Announce Exclusive AI Partnership"
+    excerpt: "Provation and Iterative Scopes announced today an exclusive partnership, bringing together the premier clinical productivity and gastroenterology (GI) documentation software provider with a leading startup in Artificial Intelligence (AI) for precision GI."
+    publishedDateTime: 2021-03-17T16:42:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-north-america-software-industry-350185000884b976fc1605c4b383b12d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Atal Innovation Mission, AWS collaborate to scale cloud skilling, and accelerate innovation with education technology startups in India"
     excerpt: "artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7000 Atal Tinkering Labs (ATLs) in India. AWS will also conduct Faculty Development Programs (FDPs) for the personnel in-charge at the ATLs, and provide ..."

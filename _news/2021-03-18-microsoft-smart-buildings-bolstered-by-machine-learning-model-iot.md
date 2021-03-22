@@ -31,77 +31,52 @@ images:
     isCached: true
 
 related:
-  - title: "OctoML raises $28M grow machine learning software used by Qualcomm, Microsoft, AMD"
-    excerpt: "It offers better performance and removes complexity, Ceze said. Amazon’s Sagemaker Neo is also based on Apache TVM, but is restricted to AWS-based deployments. The Octomizer can target any cloud and any edge device. Leadership: Ceze is a UW professor who ..."
-    publishedDateTime: 2021-03-17T06:00:00Z
-    webUrl: "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/"
-    ampWebUrl: "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/"
+  - title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
+    excerpt: "... with the Azure RTOS SDK has been optimized and granted Azure IoT PnP certification, allowing developers to quickly and seamlessly trial their proofs-of-concept and deploy their AI expertise with Azure IoT cloud. The SDK of WE-I Plus AIoT platform ..."
+    publishedDateTime: 2021-03-18T08:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 132
+      name: Associated Press
+      domain: apnews.com
+    quality: 66
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/10/ceze-profile-%402x-300x300.jpg"
-        width: 300
-        height: 300
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "OctoML raises $28M for machine learning deployment optimization"
-    excerpt: "OctoML helps businesses accelerate and deploy AI and relies on the open-source technology Apache TVM machine learning compiler framework. The funding will be used for OctoML to continue building ..."
-    publishedDateTime: 2021-03-17T13:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/"
-    ampWebUrl: "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/"
+  - title: "Microsoft Buys The Marsden Group To Enhance Azure IoT Industry Support"
+    excerpt: "The Marsden Group's solution used the Microsoft Azure IoT platform to create digital ... solutions based on Microsoft cloud, edge and AI products,\" indicated Omar Abbosh, Microsoft's corporate ..."
+    publishedDateTime: 2021-03-17T22:36:00Z
+    webUrl: "https://redmondmag.com/articles/2021/03/17/microsoft-buys-the-marsden-group.aspx"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 54
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/4082218_Octo_ML_flat_side_rgb.jpg?w=1200&strip=all"
-        width: 1024
-        height: 512
+      - url: "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/introimages2014/0614vsm_Steele.jpg"
+        width: 647
+        height: 450
         isCached: true
-  - title: "OctoML raises $28M Series B for its machine learning acceleration platform"
-    excerpt: "OctoML, a Seattle-based startup that offers a machine learning acceleration platform build on top of the open-source Apache TVM compiler framework project, today announced that it has raised a $28 million Series B funding round led by Addition Captial."
-    publishedDateTime: 2021-03-17T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/"
-    ampWebUrl: "https://techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/17/octoml-raises-28m-series-b-for-its-machine-learning-acceleration-platform/amp/"
+  - title: "ActiveOps updates its Workware+ platform for Microsoft Azure users"
+    excerpt: "Workware+ from ActiveOps now delivers a deeper integration with Azure, bringing cloud-based Workware+ industry solutions to Microsoft users worldwide"
+    publishedDateTime: 2021-03-17T09:01:00Z
+    webUrl: "https://www.wboc.com/story/43511655/activeops-updates-its-workware-platform-for-microsoft-azure-users"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1222422906.jpg?w=1024"
-        width: 1024
-        height: 669
-        isCached: true
-  - title: "Machine learning startup OctoML raises $28M as it ramps up growth"
-    excerpt: "Seattle-based OctoML, a startup that helps clients speed up the launch of their machine learning models, announced Wednesday it has raised a $28 million Series B."
-    publishedDateTime: 2021-03-17T14:00:00Z
-    webUrl: "https://www.bizjournals.com/seattle/news/2021/03/17/octoml-series-b-growth.html"
+      name: WBOC
+      domain: wboc.com
+    quality: 34
+  - title: "Webee's No-Code End-to-End Solution Builder Software Powered by Microsoft Azure and Running on Semtech LoRa Devices Democratizes IoT"
+    excerpt: "By making it easy to connect LoRa devices to Azure and by providing insights generated with Azure Cognitive Services and Azure AI, Webee and Semtech are simplifying IoT for our joint customers.” About Semtech Semtech Corporation is a leading supplier of ..."
+    publishedDateTime: 2021-03-17T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210317005214/en/Webees-No-Code-End-to-End-Solution-Builder-Software-Powered-by-Microsoft-Azure-and-Running-on-Semtech-LoRa-Devices-Democratizes-IoT"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
-  - title: "AI model optimization startup OctoML raises $28M Series B round"
-    excerpt: "Machine learning acceleration startup OctoML Inc. has secured yet more funding with a new $28 million round that brings its total amount raised to $47 million. Today’s Series B round was led by Addition Capital,"
-    publishedDateTime: 2021-03-17T13:00:00Z
-    webUrl: "https://siliconangle.com/2021/03/17/ai-model-optimization-startup-octoml-raises-28m-series-b-round/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/4082218_Octo_ML_flat_side_rgb.jpg"
-        width: 1024
-        height: 512
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
 secured: "4mT1YtWaB+Z74dnin+RsizDaif2oXTninupfp0eSWkVKjlOlKbs8ext2tyP02SYSs/H0aJ3pQojdH7jjslrQ3Cyr3Y9iR2jdui2B6n/bk8UV749MEcSH6XvkBI1Qr920qM8Ty3VGbe3ojqFPjNK5PbYB9u0rJyQTpRfQLgxEtitec7aHkJZVQbZaf0+JQ2EJcYNMWwqFkSOW2glQUqX3sLPMQZVrid8Kf2Il4dRl6HaFL6cx13LF2sB8nKik1stS8iKRvbgaE/RFzJykxg3KiRgGodIX+Z8INEjLWHl3lrPmSVdaLunA5Z80qyKqAP3PrXYlCO2kVHEHqxvF+woIs8fTd+n5AJgL1F7F/SoIzoTrxIfgUxVGL/0F+vu80qHfbw+FhF/shJ8I6ds5rmZ6ZbCsaaRq1yl49BFV48WHSDDVh9BTcdIA1bpriMxxz4DvW7g3etsKmv0FYviLJQypgFt012QPYjfK51yf0PmLWagbSKKkX+Wi//OBDVK5tftan1qFn12bR625q6/sORaCrw==;aPic09op8ulZGye5VlZY7g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-co
 cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: GDPR fines
@@ -21,35 +21,79 @@ topics:
   - AI
 
 related:
-  - title: "Proven Arabia highlights commitment to AI and Robotics Innovation with the launch of Proven Solution"
-    excerpt: "Proven Arabia's AI and Robotics centered new tech start-up Proven Solution to help automate business operations for customers in the Middle East and around the globe"
-    publishedDateTime: 2021-03-17T06:01:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Proven_Arabia_highlights_commitment_to_AI_and_Robotics_Innovation_with_the_launch_of_Proven_Solution-ZAWYA20210317060133/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210317060133/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210317060133/"
+  - title: "Atal Innovation Mission, AWS collaborate to accelerate Ed-tech entrepreneurship"
+    excerpt: "The move will allow ed-tech start-up entrepreneurs and founders in all Atal Incubation Centers operating at higher educational institutions.This program will introduce the fundamentals of cloud computing such as cloud storage,"
+    publishedDateTime: 2021-03-18T15:16:00Z
+    webUrl: "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship-11616080074724.html"
+    ampWebUrl: "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
+      name: Mint
+      domain: livemint.com
+    quality: 55
     images:
-      - url: "https://images.zawya.com/pr/images/2021/zzi_2021_03_17.jpg"
-        width: 450
-        height: 675
+      - url: "https://images.livemint.com/img/2021/03/18/600x338/aws-kMdH--621x414@LiveMint_1616080293599.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Fondaction to Invest in Waste Robotics, a Company Specializing in Artificial Intelligence for Environmental Solutions"
-    excerpt: "Fondaction and Fonds LCC are joining forces to support the growth of Waste Robotics, an environmental technology startup. This joint investment will help"
-    publishedDateTime: 2021-03-18T03:57:00Z
-    webUrl: "https://wasteadvantagemag.com/fondaction-to-invest-in-waste-robotics-a-company-specializing-in-artificial-intelligence-for-environmental-solutions/"
+  - title: "Top 10 Cool Robotics Startups To Keep an Eye on in 2021"
+    excerpt: "Robotics startups will continue to emerge and bring innovative solutions to the world. Here’s a look at the top 10 cool robotics startups in 2021 that are changing the way of interaction with robots."
+    publishedDateTime: 2021-03-18T09:00:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-cool-robotics-startups-to-keep-an-eye-on-in-2021/"
     type: article
     provider:
-      name: Waste Advantage Magazine
-      domain: wasteadvantagemag.com
-    quality: 46
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
     images:
-      - url: "https://wasteadvantagemag.com/wp-content/uploads/2021/03/Fondaction.jpeg"
-        width: 651
-        height: 329
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Robotics-1.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Atal Innovation Mission, AWS collaborate to scale cloud skilling, and accelerate innovation with education technology startups in India"
+    excerpt: "artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7000 Atal Tinkering Labs (ATLs) in India. AWS will also conduct Faculty Development Programs (FDPs) for the personnel in-charge at the ATLs, and provide ..."
+    publishedDateTime: 2021-03-18T15:39:00Z
+    webUrl: "https://indiaeducationdiary.in/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    ampWebUrl: "https://indiaeducationdiary.in/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 44
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
+  - title: "Provation and Iterative Scopes Announce Exclusive AI Partnership"
+    excerpt: "Provation and Iterative Scopes announced today an exclusive partnership, bringing together the premier clinical productivity and gastroenterology (GI) documentation software provider with a leading startup in Artificial Intelligence (AI) for precision GI."
+    publishedDateTime: 2021-03-17T16:42:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-science-north-america-software-industry-350185000884b976fc1605c4b383b12d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Atal Innovation Mission, AWS collaborate to scale cloud skilling, and accelerate innovation with education technology startups in India"
+    excerpt: "artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7000 Atal Tinkering Labs (ATLs) in India. AWS will also conduct Faculty Development Programs (FDPs) for the personnel in-charge at the ATLs, and provide ..."
+    publishedDateTime: 2021-03-19T04:21:00Z
+    webUrl: "https://www.cxotoday.com/press-release/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 24
+    images:
+      - url: "https://www.cxotoday.com/ashojoac/2018/09/zoho-540x370.jpeg"
+        width: 540
+        height: 370
         isCached: true
 
 secured: "7qTwLST4BeRJZB60IVyLUGazvnA+qlIKkmtEEH1eI1wAL7Cs/40U/ptwi4F9aYaa4qltak/t7FyRPJr1UrBWsYHqJAeMSWaaC4U/s+ATBobKMwoAQSNvGT9Gua2QllGFINveQZC8CTHyix94StpuUsUXwjHYB/v7QbicQ5J35p0jfuNunp7zYHokHOSSIyZmHNyHykrtUWORhEe+fxc37K47yL30MRWCoBcNF/i7MWQFWXw7XeGjPYkBidLGS5IZF/PNQQl5nod9xknoz46tyVLDZLgbKwFRIKvBFhwBCZPSvwlaMjlJ2PORlOHBPocbZI3MQZ1iiIF34vigrM3M0gJv3JKFQNOrlFwAj4ylNMpJDpGki0IfQAhaE9/v3aF5hVHFOfSBJ0hkfXwxatoetY4CftvPn70X1o75tA2c5YmWSr40OEFF4yNoXTa2mmfrCIiWa8kdSurL1WRpXMI1CtUQBEUdQ4D7me4bYS4imaSYDv6Rhsempp/+fPscM0iddGALRaJLy84VNtMUlee1TA==;EwvYK3v4hXuADcruDyZo3w=="
