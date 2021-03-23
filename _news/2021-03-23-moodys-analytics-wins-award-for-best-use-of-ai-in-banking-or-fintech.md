@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/moodys-analytics-wins-aw
 webUrl: "https://www.marketwatch.com/press-release/moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech-2021-03-22"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 33
+  - title: "Moody's Analytics vince nella categoria 'Best Use of AI in Banking or FinTech'"
+    excerpt: "Moody's Analytics ha vinto il premio Best Use of AI in Banking or FinTech (Miglior utilizzo dell'IA nel settore bancario o FinTech) ai 2021 Global Achievement Awards for AI. Si tratta di un riconoscim"
+    publishedDateTime: 2021-03-23T11:00:00Z
+    webUrl: "https://www.ansa.it/sito/notizie/economia/business_wire/news/2021-03-23_123158117.html"
+    type: article
+    provider:
+      name: ANSA
+      domain: ansa.it
+    quality: 30
 
 secured: "o/qHnDTTccddTGk+sb84eOYg5HxERGegwUuIRw4taCGpFAA6taNS4ck6QnmmK11onTG5gPClXpRXGr/9b7mV666YWrZ9H9k3vJkfY4LY2NW1qpSZA+NhydH9PbyrTtA7sJCTSdNmHmIH+bdA+dxVBQ8tyB6mfba+pVYyXkaf8cxK2r0CiZZ5bMvbL3GPp6FBwbVrPyQy2A6HgvUPbZw4yU9tXmstWzHaWCV2dNuDWPLmbCuuj9fKjrdwVwklz5WS44zYjih4qCBbvXAqC6dz5R4F3DbCW7Bon+YOjJaaRmmQl9WHrnVzePrVVvZS9RfxQ/ckHYvB5JN6K49bwhBiM8+mlLc9JS62SV5LqMFRqTY=;3hNFwArp8i7KE4AHE5tCYQ=="
 ---

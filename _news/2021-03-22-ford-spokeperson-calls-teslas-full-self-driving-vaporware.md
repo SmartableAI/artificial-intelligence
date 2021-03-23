@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla cancels Full Self-Driving expansion ahead of major update"
+    excerpt: "Tesla is delaying an upgrade to its Full Self-Driving software until a major development can be implemented in April. A new version was supposed to be"
+    publishedDateTime: 2021-03-23T13:19:00Z
+    webUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update"
+    ampWebUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/fsd-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Watch Tesla’s Full Self-Driving Mode Steer Toward Oncoming Highway Traffic"
     excerpt: "A harrowing new video shows a Tesla, with its Full Self Driving Beta system engaged, begin to drift into multiple lanes of oncoming highway traffic before the driver slams on the brakes at the last second."
     publishedDateTime: 2021-03-22T14:48:00Z

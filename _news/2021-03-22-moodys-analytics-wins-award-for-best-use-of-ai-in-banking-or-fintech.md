@@ -56,6 +56,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 33
+  - title: "Moody's Analytics vince nella categoria 'Best Use of AI in Banking or FinTech'"
+    excerpt: "Moody's Analytics ha vinto il premio Best Use of AI in Banking or FinTech (Miglior utilizzo dell'IA nel settore bancario o FinTech) ai 2021 Global Achievement Awards for AI. Si tratta di un riconoscim"
+    publishedDateTime: 2021-03-23T11:00:00Z
+    webUrl: "https://www.ansa.it/sito/notizie/economia/business_wire/news/2021-03-23_123158117.html"
+    type: article
+    provider:
+      name: ANSA
+      domain: ansa.it
+    quality: 30
 
 secured: "IfOVaHdTEYAP3m3zSNOBIgmUgWD8cO/bkQJRBnf1DmyJoETzsbEqJHEepoA6hBVAmLOEyHcmKWY+00740OCtxaBJRJi6aqmaazplMn/8hPtxH0uetCWMNeispH4GtfaxFvP5dHgeV4RcpDl/gYV85x9worIu3d9VgkhUpoTtTTu4PXuwDgln8QL3dViU3mzo+CvepIH8XdYWGRKdALuFL1/siDI1fxgPyjMK4s/GdZiUY8hO/uJA4gbOjXiypdna2ReBKEAh02PfLAU+7ISpllRd+oJOVQzSHSPMAC9oB8ehZXP+2uuKtSTnJMfDCnJjKx1MLmSk9MHKcjZQXQHNZUAxUkFSVcXdNzGjjZc3+NQ=;YpnjQL/7D27nwilanR84dA=="
 ---

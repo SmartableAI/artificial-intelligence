@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
-excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey biometric solution."
-publishedDateTime: 2021-03-23T10:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution-1030235345"
-webUrl: "https://markets.businessinsider.com/news/stocks/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution-1030235345"
+excerpt: "VILNIUS, Lithuania, March 23, 2021 /PRNewswire/ -- Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS ..."
+publishedDateTime: 2021-03-23T10:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution/article_98771ca4-77b8-57e9-8644-271b0f7c2f30.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution/article_98771ca4-77b8-57e9-8644-271b0f7c2f30.html"
 type: article
-quality: 43
-heat: 43
+quality: 13
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1471349/megamatcher_abis_pr_4.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/9e/f9e9b0d6-a652-547e-9f1e-6e85678593ad/6059c39bb03a3.image.jpg?resize=1121%2C630"
+    width: 1121
+    height: 630
     isCached: true
 
 related:
@@ -55,6 +51,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "mYbRATmsXbBhN5fjw4woCuLVP+hZiQdBFJijBeSk2bJqsJYO9fAS/cjczsfZKfU8y3ftXas9+Xbs8XEbrX+iaQQkovtMA0f08ojHhHbd1Gfm6Oy08NT/kGxFB3egYbCuQmfDhzHCmLhpSnpqWN2yOwB7NFYyha9hDU/hRUc1vDGz/2R4sjAACxc53sUrHgRzCZ0mPwrSTQU8NnND32UYX5LSsi6PVoyuLO8EP1fQigZhaVkCLu7I2T6GOhkeNQbvLisVr+6Dv8vZbP9iRUSFXXo2XCfhEl9uJb5I2BmAD//Ds3m0v+NU6vtTWhjmp948ddrZVNn7zWoYH/EUFhXnuI4iZACPE9vWlhYkutclD80=;D8ZTNV83WJbbCdGyQVkG1g=="
+secured: "lBPM5RGNWsFO1nih3H6VxwLLeAdtj4ueKt/zyRcuMmpiMBaIL0llVBiORGaeUhiQ6Q+PIvpMktGE+ykSlrnorlbk769JEFkOVFagx+Z+d3qfioZUmVRdLyAesM17w/U3ifFDBLLjktG0GpHUoJx5tKBJoUlDsm9GeLgju7u/19wOeFBLWSCR5YKam6nlLGIhimE0PoZ+Ru+0Nw73HnNMCkuaQVal3jBs0VDOH/mbq0WpMCu/UqtjOXQGqdnnjXAplCHH9edmk5rzV+RHssvLX2ltRvsV11G9hFLDnEmKadfc9uOEItLbAwacLQhLfZSsLzP/osGolJb8pI3buH+iB1GjA9AxucOSE8mfnILW2Iw=;Zbj6ylFemm13QLG6vJob0g=="
 ---
 

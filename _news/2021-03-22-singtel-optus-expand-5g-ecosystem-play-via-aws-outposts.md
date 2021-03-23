@@ -72,6 +72,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Singtel and Optus partner with AWS for 5G edge"
+    excerpt: "Singtel and Optus to make use of AWS Outposts on MEC infrastructure to support enterprise development of low-latency 5G services."
+    publishedDateTime: 2021-03-23T12:23:00Z
+    webUrl: "https://www.lightreading.com/asia/singtel-and-optus-partner-with-aws-for-5g-edge/d/d-id/768251"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/2021/03/768251/1929.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "vhv6fcCOxBqqFlVuRpEku/YfU7/J25LLOaul1V/Q3PiT2wv/oK+URU2q0wzWkSHWauwmKXHHwlPezJbGV7RIMPDMSeY3bffPpri+9Pg0Nwu5MUevhjNCGK1gA8l/RTjIqW3IMLK+9HAGC9sdpSh60FxLf+qPp2Ee6J4vCGN9gF3jyE7n0ey+VR8G1cUC8hTo6tyCfLqWexbkDc2HyNg3KDZ92evLDJj5/GcCg5Nl0fvHbI3DME1+lL+ERvkmz1fQx6Nk6dQg0U4TG5TXWd3ImS95I4qz5BuSHfy+8jdBcJkhzwwW7Lf5Scnp1LyHgJLqwfv2Jl3ZFDMbzFwl4dK2pXDoIMlRKjrKgFj0W4ZxK9I=;oBPWFaK3U6HCNF4zyBwcAA=="
 ---

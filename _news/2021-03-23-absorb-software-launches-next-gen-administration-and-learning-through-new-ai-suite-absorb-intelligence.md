@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-23T11:19:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-north-america-calgary-artificial-intelligence-alberta-152c8084de163c83f9b48d8b4aacb625"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-north-america-calgary-artificial-intelligence-alberta-152c8084de163c83f9b48d8b4aacb625"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

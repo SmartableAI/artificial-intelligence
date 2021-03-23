@@ -89,22 +89,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook Teases New Wearable AR Tech Controlled With Your Wrists"
-    excerpt: "On Thursday, the company teased information about its “wrist-based” technology that could be combined with artificial intelligence and harnessed into wearable technology. Last year, Facebook Reality Labs unveiled Project Aria,"
-    publishedDateTime: 2021-03-18T19:18:00Z
-    webUrl: "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device"
-    ampWebUrl: "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 44
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F03%2FFacebook-Teases-New-Wearable-AR-Tech-Controlled-With-Your-Wrists-first.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1170
-        height: 780
-        isCached: true
   - title: "Facebook customizes augmented reality to the flick of a wrist"
     excerpt: "Fresh off its recent augmented reality (AR) kick, Facebook Labs has revealed plans to curate this AI software for wearable devices. Projected as a shorter-term goal than the previously announced AR glasses,"
     publishedDateTime: 2021-03-19T21:52:00Z
@@ -152,20 +136,6 @@ related:
       - url: "https://www.insidehook.com/wp-content/uploads/2021/03/facebook-wrist-wearable.jpg?resize=1200,800"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Facebook Shows Off Trick Neural Wristbands That May One Day Interface With AR Glasses"
-    excerpt: "Facebook CEO Mark Zuckerberg went on a podcast to talk about the future of augmented and virtual reality. In his discussion, he explained that he wanted to see Facebook manufacture its own hardware and thought that the platforms would be the next big thing in tech."
-    publishedDateTime: 2021-03-18T20:20:00Z
-    webUrl: "https://hothardware.com/news/facebook-reality-labs-research-shows-of-wrist-worn-neural-interface"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 17
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54580/content/facebook-reality-labs-research-shows-of-wrist-worn-neural-interface.jpg"
-        width: 708
-        height: 398
         isCached: true
 
 secured: "wWZub2LQ74Cz+rs3vtgMdHJ6VHRE6QnJuaR9yuKtEa/0n9fjEqybYCWAUFzuZnbyHC/t6YRfLxkB7ArRjJaH0BxMFmDEYLePz8SKds9JQwOIKC+GvXFGvKvWpE+afu7ffv0/IfEAxYYZ0oqb0PhenEpJvideh9pFcHoq/udzOnrEDJn92UUF8TEgVSk250kk2rI75eP1gxqT7B3MQ9qvFiclSyE4a2reMOvRD2YjMoQnYlDyBmWiILwaVG5VPmgnMY7/hGOhrV0XEEFXjnfJGCeY9hUF2E8NmxN6hk2P+uMjoJv5eQS9u1S6TXkYz4xgMCriDX6t39//Obf1gffUI6owgJEB7y+gary8jnnY7/qYxCix9jUqXdGuXvPlBZiaqiKSauT8uigNN/o0qY1jBf46XMrZlRkwPzo+66uSLn4FrPDZJhbreHLAotxar2Nr6K0B4NIdYQ+oBWTOZEowJJSoro90CmoONCcZdhklavk5w0X4XGsMP1mEmw1ezLJNOrdY1dOCYPzHuHAUqU9sSQ==;6bnDe+2UqLKLFhroVvKO6Q=="

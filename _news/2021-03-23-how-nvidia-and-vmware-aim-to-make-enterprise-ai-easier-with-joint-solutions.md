@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/maribellopez/2021/03/23/how-nvidia-and-vmw
 ampWebUrl: "https://www.forbes.com/sites/maribellopez/2021/03/23/how-nvidia-and-vmware-aim-to-make-enterprise-ai-easier-with-joint-solutions/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2021/03/23/how-nvidia-and-vmware-aim-to-make-enterprise-ai-easier-with-joint-solutions/amp/"
 type: article
-quality: 85
+quality: 87
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60590de8111ad47650833916%2F0x0.jpg"
@@ -63,6 +64,6 @@ related:
         height: 577
         isCached: true
 
-secured: "3WJJ7sTh1PPpxoog/Ls5kqbPc3A4QfycUzToq8ie4GfQREU3qDBaqsA67hsWaORwT6pFHqC4QqAXko6bu6Da1PgJOc0sccYY4KOmZgUYG9malfsrywN9i5Hy4QuCkNKIImoMQ/JQZ+Nh2yr7N+iu4Ynnlxt1qlAiagEgVLV6VA0lJv8cJptp9uUBWXP+vETabcpXIA44XFSw3tx+8Df7N2ZTSIJOXEuBADtJtevFnXC+lMoLSLXwjDhyQALOObMXudnV4qyBlxcX/UyuTiNfOwamHfBXOdoCLX05AsSmazwsRU1QcLBXGS/JjKvloXxVHzRFMyTLHZoGYLsRzIJj+BSGdnYwSnBHNcFzGnaNHCM=;oKo+dttI2137M39F/PPdcw=="
+secured: "82T6+QBwekXWj+4RNl5UCf198eDxhhpu7WcZUL7K+6rjhWhjqaxGxyVUPpFg+h4g2s3W1z2Z7v3AvrZbh4c1VhFlco/x6JlS/2sc2picbMBmv4GHzohsGfudvKWiHr5IiE5mPoRUXJ9hbDdAEJL/TIlDka0trF23ukVfhipPoE+puQKZwRUo7wRK8Uljl81YUtM7aZnkFrCjEx4wy/K/MpbbS0nWVQvBNC3n5qDsFECNCSJerCbdDrbBWdzIsfjHx3+eQ0fIwSc2EElCUHBNrwJDkNlMO0+KDJbpikAj94SyMO1jwHDKXFdTJCn8KyAIKTnp3L+hEWxBYdHy/iBIovGZvqqN+1Kdi338rWdABKCV2rUhFSDtKSgF/v8sCKGClo7+Or5KTGWRcCRxnCe+W4eF0eTdef6gr32ACaJ2KTtDDgrSCC0bHPEaq81JQ+A4E2EnhRw1JyHX55AHI+9CHqN6cgEG5UKUlnHZikjdTxGm7TvHW85z3y6KhB3vtfZUGVL95L4Pl+GgvmQ3dJKkNA==;LB15U7c9HjKe2V0JCSdzfw=="
 ---
 

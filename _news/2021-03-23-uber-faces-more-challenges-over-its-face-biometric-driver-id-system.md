@@ -41,22 +41,6 @@ related:
         width: 1024
         height: 691
         isCached: true
-  - title: "Pandemic changes facial recognition debate"
-    excerpt: "With masks a mandatory accessory to everyday life, the controversial use of facial recognition by law enforcement to find potential crime suspects has only heightened concerns and triggered further scrutiny due to advancements in artificial intelligence."
-    publishedDateTime: 2021-03-18T20:09:00Z
-    webUrl: "https://www.telegram.com/story/news/local/2021/03/18/pandemic-changes-facial-recognition-debate/4746010001/"
-    ampWebUrl: "https://amp.telegram.com/amp/4746010001"
-    cdnAmpWebUrl: "https://amp-telegram-com.cdn.ampproject.org/c/s/amp.telegram.com/amp/4746010001"
-    type: article
-    provider:
-      name: Telegram
-      domain: telegram.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/12/PDTF/0e045b9f-f9c0-467d-a379-4d07d06fdcdd-Coded_Bias_1_JoyinMaskStill.png?auto=webp&crop=1499,844,x0,y24&format=pjpg&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "SEJqpptYEgcwdvVpucvPrJSBjNo/eSoCnk9yQFMQ96FLe9iHX9eYu5I07OSd77036XsGv8ZOnBTmmqQES8G0hdYZRZPzm9c9P+rE34nw2Pnsywmxl5eaG129/BZGvrM8rdROHxHtIjQoEr/1MNXeIWWYS5LCSTWeja00RTZjauEyPWK6a/iC7Y/FwbdqYVTthdL+vaEpuK7t2O9DcYo5goTY4kKIk1i+Lfz0mmBAbSjNgvcTrnxh7WnwA9c9mHyRXCAjxdlTG6JRTYgan6iaWTrbX2kLHwpCiUlxeamNPO5ivxSUFYzICRu1hDm4LuB7N8KgCfajw0zIg7g3lDRppQHvFhA50a/iujNbcJF3UrTL0UatwfK/p+S9kb20otanDTO1XxVKw5Z9Pkobvy7/SQO28NQOl1dksey9DXc9cNFDQVDWdMfeBUAEVjZEz4ntfEQjN1u10bViPS1Kv2Yh+WxvDmWWKauKoEayFn1qLa/IF39bXSDQp8J3jhOkGDzJa77E4dZpJHXnInUb4d5Nng==;uQlMhaqLXlyEaO4ORo2ZQA=="
 ---

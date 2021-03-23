@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025"
-    excerpt: "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as"
-    publishedDateTime: 2021-03-23T07:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025-2021-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
     excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
     publishedDateTime: 2021-03-22T12:39:00Z
@@ -168,6 +154,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025"
+    excerpt: "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-03-23T12:26:00Z
+    webUrl: "https://menafn.com/1101795557/Deep-Learning-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?267162"
+        width: 414
+        height: 250
         isCached: true
 
 secured: "FQw7FSqOHPlBqzAe6CKpiI9Fgukx9UZJ9a8DjoDe3qyXcIKjB8O3FSOuGQtmWud3QyuDc+ea38uvCi7zM9SWv82oUXnYwn0PtDQOa1Av684+LymrU+R237DIf6487FSLfPcS/6CElRJi317llBAmOQ9CWSkxvj/zWN8QE5e+ozkM/azXXukUvGdBl8+egvptex0DW1xsjMchb47kbdvpmCz2FH3yhpHh2tspPc1hTuG4Zf3X9YdQUbmqpW9AMS2zDzefceD9oSMPoPAyf/4mczxKbXxMof3bzWFgim+LMSk5umW/3bAKTXoi0HBTDd3+dUQdXBc9D4e++Sjb7S4B/4htzrjtjgrMXx9VcGp7qG8=;WV6gpWxDvsdtWf9ID39pVQ=="

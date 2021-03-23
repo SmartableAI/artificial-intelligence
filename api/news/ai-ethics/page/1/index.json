@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-23-onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise.md",
+      "title": "OneTrust acquires Convercent to drive ethics and compliance in the enterprise",
+      "excerpt": "OneTrust has acquired Convercent, an ethics and compliance software platform with major enterprise clients, including Hain Celestial.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ECP-Product-Banner.jpg?w=1200&strip=all",
+          "width": 809,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/amp/",
+      "publishedDateTime": "2021-03-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-2021-ai-index-four-ai-trends-that-stood-out.md",
       "title": "2021 AI Index: Four AI Trends That Stood Out",
       "excerpt": "Is China really winning the race for AI dominance? Are we seeing enough action on AI ethics? Should the private industry self-regulate? The 2021 AI Index gives us clues to these answers.",
@@ -343,6 +395,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness.md",
+      "title": "Feedzai Fairband: World’s most advanced framework for AI fairness",
+      "excerpt": "The lack of regulation in AI Fairness, Accountability, Transparency, and Ethics (FATE) has created a worldwide problem that is expected to grow substantially over the next few years if industry leaders and governments don’t act quickly. Particularly in ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1423,101 +1518,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-how-this-ai-ethics-researcher-combines-anthropology-and-technology-to-build-human-first-solutions.md",
-      "title": "How This AI Ethics Researcher Combines Anthropology And Technology To Build Human-First Solutions",
-      "excerpt": "My work as a tech anthropologist revolves around the study of the interaction between people and digital solutions, the changing nature of technology and its impacts on society",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/how-this-ai-ethics-researcher-combines-anthropology-and-technology-to-build-human-first-solutions/",
-      "originalUrl": "https://analyticsindiamag.com/how-this-ai-ethics-researcher-combines-anthropology-and-technology-to-build-human-first-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/03/AparnaAshok_AIM.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-inside-talon-the-nationwide-network-of-ai-enabled-surveillance-cameras.md",
-      "title": "Inside 'TALON,' the Nationwide Network of AI-Enabled Surveillance Cameras",
-      "excerpt": "Hundreds of pages of emails obtained by Motherboard show how little-known company Flock has expanded from surveilling individual neighborhoods into a network of smart cameras that spans the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
-      "originalUrl": "https://www.vice.com/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/603e9a8943fa06009386247a/lede/1614715553095-flock.jpeg?crop=1xw:1xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
-      "publishedDateTime": "2021-03-03T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

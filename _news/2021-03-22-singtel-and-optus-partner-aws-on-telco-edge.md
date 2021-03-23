@@ -63,6 +63,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Singtel and Optus partner with AWS for 5G edge"
+    excerpt: "Singtel and Optus to make use of AWS Outposts on MEC infrastructure to support enterprise development of low-latency 5G services."
+    publishedDateTime: 2021-03-23T12:23:00Z
+    webUrl: "https://www.lightreading.com/asia/singtel-and-optus-partner-with-aws-for-5g-edge/d/d-id/768251"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 39
+    images:
+      - url: "https://img.lightreading.com/2021/03/768251/1929.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Singtel, Optus expand 5G ecosystem play via AWS Outposts"
     excerpt: "The MEC, leveraging the Amazon Web Services (AWS) Outposts, will enable 5G products like robotics, drones, autonomous vehicles and artificial intelligence to operate at ultralow latency, closer to the end-users. AWS Outposts is a platform that enables ..."
     publishedDateTime: 2021-03-22T12:09:00Z

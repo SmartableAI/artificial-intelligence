@@ -9,7 +9,7 @@ ampWebUrl: "https://tass.com/press-releases/1268687/amp"
 cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1268687/amp"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -22,18 +22,18 @@ topics:
 
 related:
   - title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
-    excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey biometric solution."
-    publishedDateTime: 2021-03-23T10:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution-1030235345"
+    excerpt: "VILNIUS, Lithuania, March 23, 2021 /PRNewswire/ -- Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS ..."
+    publishedDateTime: 2021-03-23T10:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution/article_98771ca4-77b8-57e9-8644-271b0f7c2f30.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 13
     images:
-      - url: "https://mma.prnewswire.com/media/1471349/megamatcher_abis_pr_4.jpg"
-        width: 400
-        height: 225
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/9e/f9e9b0d6-a652-547e-9f1e-6e85678593ad/6059c39bb03a3.image.jpg?resize=1121%2C630"
+        width: 1121
+        height: 630
         isCached: true
   - title: "Neurotechnology and TCS Selected by UIDAI to Provide Biometric De-duplication and Authentication for India's Aadhaar ID Program"
     excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition"

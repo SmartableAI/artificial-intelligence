@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025"
-excerpt: "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as"
-publishedDateTime: 2021-03-23T07:02:00Z
-originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025-2021-03-23"
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025-2021-03-23"
+excerpt: "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+publishedDateTime: 2021-03-23T12:26:00Z
+originalUrl: "https://menafn.com/1101795557/Deep-Learning-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2025"
+webUrl: "https://menafn.com/1101795557/Deep-Learning-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2025"
 type: article
-quality: 53
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Machine Learning
@@ -24,9 +20,9 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?267162"
+    width: 414
+    height: 250
     isCached: true
 
 related:
@@ -171,6 +167,6 @@ related:
         height: 630
         isCached: true
 
-secured: "UWKcfpG51+IzD9fSXfVvLRKS5PqgKOIJlAc+9SPMtNPynv+lYHZgBfwFdP+9OpSYvfDmKlIU9tequedF7y3WSkwJ1NzsOEuSkUd+lMtSxa4uHHHniTnIP1ZXkmcftczvM2yNxDPOVu4INIEII0PJXnafS4xA5VwuMopJ27VarXV06rVzIAmcaSWSE39X7tOqvufrGapqKRs6Rh1y2UzfJfZ/U+X8d2fJCnJDJZt+IFpYWqIOUm7SjSwOD4V5SUHq9v42mmlAotP804UHgm1GbeG2FPVbbLMlTO93A3rDPvYDYu8iz3qUeks+KldsW3EnYadkvH2xai2KGZxWSLZP3JQKjlVlcyr1TdZdHwQyRis=;9vx7zyt43PUfKwNjGP6rfA=="
+secured: "nOvF8LLxZH181wtJ2NNATjNoSwbUrdGN3Os6o4ifszRf7qK9q3p0x5JT9ErPFZLyUx1AfMSYHEq4wi21dv6vxDN6um12mQ5Enk0yxkC/e3dPQg06svOayPurg2i5L/XXtWy5lNLswhcwaihaVZ/Mzqtcc0i41ZQhBJP3FKy+NfFJJkRiYJ/K5CsAiefrAk8XAuZ7NCzLJzcf2a7xGCfCC/z4lDYblGxaxM/OEJiECkx5oGdsqd7REbTlIkLy5uXazUE3+UPxp96h27IlD+WwE5qf/6GqH3u1+Npmzp3UOQJ4P01aPBUQbmtQwGYRBU1gpilZrpHg6ujhdxi7IZq8FkSgMMYzN6YWpzNrmRmQbqE=;1M0rXa/zZ8Z9xXsxGk8t8g=="
 ---
 

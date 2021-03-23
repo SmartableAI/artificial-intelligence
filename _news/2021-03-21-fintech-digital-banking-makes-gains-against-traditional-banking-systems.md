@@ -56,6 +56,15 @@ related:
       name: ANSA
       domain: ansa.it
     quality: 34
+  - title: "Moody's Analytics vince nella categoria 'Best Use of AI in Banking or FinTech'"
+    excerpt: "Moody's Analytics ha vinto il premio Best Use of AI in Banking or FinTech (Miglior utilizzo dell'IA nel settore bancario o FinTech) ai 2021 Global Achievement Awards for AI. Si tratta di un riconoscim"
+    publishedDateTime: 2021-03-23T11:00:00Z
+    webUrl: "https://www.ansa.it/sito/notizie/economia/business_wire/news/2021-03-23_123158117.html"
+    type: article
+    provider:
+      name: ANSA
+      domain: ansa.it
+    quality: 30
 
 secured: "rDMPuR+EtMzGLdZRL7liFwtnTnTDbr1PotVjoQgRpNsl5Dp7VrNlv7AJOQukWYzBXSq/kKdTCawWLGPMQWYE1eYaWXP5OZ6yMTKcvt0vWtX5SQU7S74I0Ln0z1yiq9JJMxVYnaqD8iWma4WApP4J4iSiFc95q2NxOzxIm1ICTXRUgnBbF0AisV1D5D0D1QX+kkNZ9Itizf8ro10X/IeA/rgQZu3icdiHx7U/obca7nZksF9W2lPN0dS4DyyWYzCb9sjj+Q3RJd9vF7qYzuSUGNmb5j+DySW+af/HesbO2jp0XwQWhSdYozQwmNDgRyx1iaNishLZjDMkzuYbevxyk922ehNYDvr8bXTqjc6P5hPeGD5KVE9k5FBvnn+D5O+XDa4yEDyAwnI0ils8epBsJ/UV9QkhOvP/nW75Xq/Ek/N//zWm/LqXPdUR3Cc0fWNc4Q9OJ7COu8j8QZLsiajHdTQg9zesUAgLKFX5/XimVBkIq2j8zAGu45qWGUV8eVO8V7GJCHRWK+th0Ngz8mZtcw==;mY1o84z8hDSO6A5bbX7cXQ=="
 ---

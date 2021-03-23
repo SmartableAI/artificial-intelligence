@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Making a Funny Face Could Boost the Security of Face Unlock Features"
-    excerpt: "Developed by DJ Lee and Zheng Sun at BY, Concurrent Two-Factor Identity Verification—or C2FIV, for short—could improve facial recognition unlock systems, like Apple's FaceID, by recording specific facial expressions or a user saying a specific phrase."
-    publishedDateTime: 2021-03-18T19:15:00Z
-    webUrl: "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530"
-    ampWebUrl: "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 90
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wmgsgpgdo3dnn2vfedxy.jpg"
-        width: 800
-        height: 451
-        isCached: true
   - title: "Face Recognition with smiles, winks could increase phone security: Here's how"
     excerpt: "The new system is called Concurrent Two-Factor Identity Verification (C2FIV) and it requires both one's facial identity and a specific facial motion to gain access."
     publishedDateTime: 2021-03-22T10:12:00Z

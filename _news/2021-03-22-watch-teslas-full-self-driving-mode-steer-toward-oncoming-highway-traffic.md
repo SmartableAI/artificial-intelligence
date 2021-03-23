@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla cancels Full Self-Driving expansion ahead of major update"
+    excerpt: "Tesla is delaying an upgrade to its Full Self-Driving software until a major development can be implemented in April. A new version was supposed to be"
+    publishedDateTime: 2021-03-23T13:19:00Z
+    webUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update"
+    ampWebUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/fsd-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "ilQJEWzRWb99SseSu42L5907ucqJ2v3VA3LrEstqlEOryuc6V6xX8077l5MGoS58X3kxbjjq9m4LCp6cEGNr9M2remyPpjudozQ400R1b0PPDreJXR2MUJ6EkkKH4z4BYyWWL9QHtRUmjfBlXMDXdHg6v6HV7YCZ4y9WaDWPMtm8ow+MN1Q++JkCNDjuHcIJoriypcg/fE5s0aKMAJVgP50wfa04pmRlUfmsQnHAj9LVjNF11Njji8bOluBfVv0DuqOMahuM3GPoAp/tQCQAqfGh7hm2jprjLIpQ2ExIdPj9UjdyR3HSZ2X0yPXvD8gS4DjKLWXPhmUFT1tionjQe8XxTQSHZ5SxcQ7CeNXd8A+F7MdCw3NI4n1sOHjVD7ASJOpTeSQ8P6H1aNrTKMs8HpPMP4PS7cL7j6SrgWsY8F1soVNsf1csuXWGxb/eeXceCBBDuPw28OvYnAbydwH9SpGFEPoOOkeSXOpc5KWDUVHFGQOjH0wbjRjDPHFfj004z1yZsNbT3HIMhkXCowvXxA==;NJzarmg3WxpS5wsjkY5tRg=="
 ---

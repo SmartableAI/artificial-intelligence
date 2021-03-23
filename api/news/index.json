@@ -2,6 +2,367 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-23-the-robots-are-coming-for-your-office.md",
+      "title": "The robots are coming for your office",
+      "excerpt": "RPA isn’t robots in factories, which is often what we think of when it comes to automation. This is different: RPA is software. Software which uses other software, like Excel or an Oracle database. On this week’s Decoder,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/3/23/22344938/kevin-roose-robotic-automation-future-rpa",
+      "originalUrl": "https://www.theverge.com/2021/3/23/22344938/kevin-roose-robotic-automation-future-rpa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/KqRJ_DP8veWwc7mPwipHRo4iPgI=/0x0:3000x2000/1400x933/filters:focal(1196x714:1676x1194):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69011136/VRG_ILLO_Decoder_Kevin_Roose.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/23/22344938/kevin-roose-robotic-automation-future-rpa",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/23/22344938/kevin-roose-robotic-automation-future-rpa",
+      "publishedDateTime": "2021-03-23T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-75f-an-ai-powered-hvac-management-startup-nabs-475m.md",
+      "title": "75F, an AI-powered HVAC management startup, nabs $4.75M",
+      "excerpt": "F, a Burnsville, Minnesota-based startup providing AI-powered building management technologies, today announced that it raised a $4.75 million extension to its $18 million series A, bringing its total raised to $29.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/img9324_1200xx5385-3029-0-281.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/amp/",
+      "publishedDateTime": "2021-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-legal-writing-startup-clearbrief-raises-12m-from-madrona-sequoia-avvo-founder-others.md",
+      "title": "Legal writing startup Clearbrief raises $1.2M from Madrona, Sequoia, Avvo founder, others",
+      "excerpt": "New funding: Clearbrief, a new Seattle startup that has developed AI-fueled writing technology for the legal industry, raised $1.2 million. Venture capital heavyweights Sequoia Capital and Madrona Venture Group invested, in addition to Avvo founder Mark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/legal-writing-startup-clearbrief-raises-1-2m-madrona-sequoia-avvo-founder-others/",
+      "originalUrl": "https://www.geekwire.com/2021/legal-writing-startup-clearbrief-raises-1-2m-madrona-sequoia-avvo-founder-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/Copy-of-IMG_6985-3000px-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/legal-writing-startup-clearbrief-raises-1-2m-madrona-sequoia-avvo-founder-others/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/legal-writing-startup-clearbrief-raises-1-2m-madrona-sequoia-avvo-founder-others/amp/",
+      "publishedDateTime": "2021-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-the-risks-and-benefits-of-ai-in-medicine.md",
+      "title": "The Risks And Benefits Of AI In Medicine",
+      "excerpt": "There is no denying that AI is revolutionizing health care. In the past two years, the investment in AI from health care organizations has been growing exponentially. According to research conducted by Deloitte, \"75% of large organizations (annual revenue ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058fd1369baf2a8c7cd1a1b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/amp/",
+      "publishedDateTime": "2021-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for.md",
+      "title": "Nvidia GeForce RTX 3070 review: A GPU worth waiting for",
+      "excerpt": "Currently, however, this means fighting with consumers over the scant remaining supplies of cards like the RTX 3070, which are now in incredibly high demand thanks to a number of factors including COVID-related manufacturing delays and a surge in interest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for",
+      "originalUrl": "https://www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1575308947/itpro/Awards/badge-recommended-360.png",
+          "width": 361,
+          "height": 241,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for?amp",
+      "publishedDateTime": "2021-03-23T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise.md",
+      "title": "OneTrust acquires Convercent to drive ethics and compliance in the enterprise",
+      "excerpt": "OneTrust has acquired Convercent, an ethics and compliance software platform with major enterprise clients, including Hain Celestial.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ECP-Product-Banner.jpg?w=1200&strip=all",
+          "width": 809,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/onetrust-acquires-convercent-to-drive-ethics-and-compliance-in-the-enterprise/amp/",
+      "publishedDateTime": "2021-03-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-work-toward-becoming-a-technical-entrepreneur-with-this-200-hour-computer-science-training.md",
+      "title": "Work Toward Becoming a Technical Entrepreneur With This 200-Hour Computer Science Training",
+      "excerpt": "Across 212 hours, you'll dive into Python, Linux, TensorFlow, discrete math, and much more, learning from experts like Juan Galvan (4.4/5 instructor rating), Boris Paskhaver (4.6/5 rating), and Jazeb Akram (4.2/5 rating). Diving into Python, you'll get a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/367577",
+      "originalUrl": "https://www.entrepreneur.com/article/367577",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616388542-pexels-olia-danilevich-49749122.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367577",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367577",
+      "publishedDateTime": "2021-03-23T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-ai-in-healthcare-where-technology-meets-humanity.md",
       "title": "AI in Healthcare: Where Technology Meets Humanity",
       "excerpt": "Businesses across the globe are taking advantage of the transformative powers of technology. Among these technologies is Artificial Intelligence (AI), a",
@@ -462,7 +823,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech-2021-03-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -898,342 +1259,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-new-book-robotics-ai-and-humanity-co-edited-by-greg-reichberg.md",
-      "title": "New Book “Robotics, AI, and Humanity” Co-Edited by Greg Reichberg",
-      "excerpt": "PRIO Research Professor Gregory M. Reichberg has co-edited a new volume titled \"Robotics, AI, and Humanity: Science, Ethics, and Policy\". The open-access book \"examines recent advances in how artificial intelligence (AI) and robotics have elicited ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prio.org/News/Item/?x=2690",
-      "originalUrl": "https://www.prio.org/News/Item/?x=2690",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.prio.org/cdn_image/14e76b4ea704480c872484b174430a48.png",
-          "width": 1654,
-          "height": 2245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "prio.org",
-        "domain": "prio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-gartner-names-ibm-a-leader-in-2021-magic-quadrant-for-insight-engines.md",
-      "title": "Gartner Names IBM a Leader in 2021 Magic Quadrant for Insight Engines",
-      "excerpt": "Gartner has once again recognized IBM as a “Leader” in its Magic Quadrant for Insight Engines. Gartner defines the Insight Engine category as “an evolution of search technologies that provide on-demand and proactive knowledge discovery and exploration augmented by semantic and machine learning technologies.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2019/09/Blog-leadspace-Gartner-MQ-990x448.png",
-          "width": 991,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T08:36:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-what-drives-nithya-sambasivans-fight-for-fairness.md",
-      "title": "What drives Nithya Sambasivan’s fight for fairness",
-      "excerpt": "When Nithya Sambasivan was finishing her undergraduate degree in engineering, she felt slightly unsatisfied. “I wanted to know, ‘how will the technology I build impact people?’” she says. Luckily, she would soon discover the field of Human Computer Interaction (HCI) and pursue her graduate degrees. She",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/",
-      "originalUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_rgk6ZzT.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/what-drives-nithya-sambasivans-fight-for-fairness/amp/",
-      "publishedDateTime": "2021-03-22T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-fda-clears-first-ai-device-to-spot-hidden-signs-of-covid-19.md",
-      "title": "FDA clears first AI device to spot hidden signs of COVID-19",
-      "excerpt": "The latest tool to gain clearance is the first AI-based screening device designed to pinpoint lurking ... Once strapped to a person's arm, the monitor's onboard sensors start collecting pulse signals from blood flow over a period of three to five minutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/fda-clears-first-ai-covid-19-screening-device-135131666.html",
-      "originalUrl": "https://www.engadget.com/fda-clears-first-ai-covid-19-screening-device-135131666.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-03/a7c72da0-8b13-11eb-9f6e-e37be8002944",
-          "width": 1119,
-          "height": 730,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-device-135131666.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-device-135131666.html",
-      "publishedDateTime": "2021-03-22T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge.md",
-      "title": "How Azure Percept Simplifies Building And Deploying AI Models At Edge",
-      "excerpt": "Azure Percept platform attempts to simplify running AI at the edge. It’s a powerful edge computing platform for prototyping computer vision and conversational AI models and deploying them in production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058379c4bda76219b24bcfd%2F0x0.jpg",
-          "width": 1000,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/amp/",
-      "publishedDateTime": "2021-03-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021.md",
-      "title": "Why Pinterest Is a Great Artificial Intelligence Stock to Buy in 2021",
-      "excerpt": "A rtificial intelligence has the potential to dramatically change the world. As many as 70% of companies will adopt some type of AI technology by 2030, potentially boosting economic output by $13 trillion per year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22",
-      "originalUrl": "https://www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22?amp",
-      "publishedDateTime": "2021-03-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles.md",
-      "title": "Baidu’s Homecoming Raises Questions Over The Search Giant’s Plans For Electric Vehicles",
-      "excerpt": "Baidu aims to conquer smart transport, but search engines aren’t automobiles, and China’s EV sector is already fiercely competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/",
-      "originalUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60587e6d99cc7add52892f71%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/03/22/baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles/amp/",
-      "publishedDateTime": "2021-03-22T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

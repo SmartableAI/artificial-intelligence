@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-04-how-this-ai-ethics-researcher-combines-anthropology-and-technology-to-build-human-first-solutions.md",
+      "title": "How This AI Ethics Researcher Combines Anthropology And Technology To Build Human-First Solutions",
+      "excerpt": "My work as a tech anthropologist revolves around the study of the interaction between people and digital solutions, the changing nature of technology and its impacts on society",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/how-this-ai-ethics-researcher-combines-anthropology-and-technology-to-build-human-first-solutions/",
+      "originalUrl": "https://analyticsindiamag.com/how-this-ai-ethics-researcher-combines-anthropology-and-technology-to-build-human-first-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/03/AparnaAshok_AIM.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-inside-talon-the-nationwide-network-of-ai-enabled-surveillance-cameras.md",
+      "title": "Inside 'TALON,' the Nationwide Network of AI-Enabled Surveillance Cameras",
+      "excerpt": "Hundreds of pages of emails obtained by Motherboard show how little-known company Flock has expanded from surveilling individual neighborhoods into a network of smart cameras that spans the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "originalUrl": "https://www.vice.com/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/603e9a8943fa06009386247a/lede/1614715553095-flock.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "publishedDateTime": "2021-03-03T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing.md",
       "title": "Annual index finds AI is ‘industrializing’ but needs better metrics and testing",
       "excerpt": "AI Index from Stanford University gathers data about how AI research, startups, and changes to business and government policy.",
@@ -1371,105 +1466,6 @@
         "AI Ethics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "This time problems arose after disputes between panel members and Google-owned DeepMind over access to information, the WSJ reports citing unnamed sources. Panel members were also unhappy about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation.md",
-      "title": "Google’s new AI ethics lead calls for more ‘diplomatic’ conversation",
-      "excerpt": "In a video, Google VP Mariam Croak called for more \"diplomatic\" conversation. but made no mention of former Ethical AI team lead Timnit Gebru",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/",
-      "originalUrl": "https://venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/marian-croak.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/googles-new-ai-ethics-lead-calls-for-more-diplomatic-conversation/amp/",
-      "publishedDateTime": "2021-02-18T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

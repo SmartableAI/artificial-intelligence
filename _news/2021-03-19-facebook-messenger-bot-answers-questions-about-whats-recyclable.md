@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 144
 published: true
 
 provider:
@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Facebook Teases New Wearable AR Tech Controlled With Your Wrists"
-    excerpt: "On Thursday, the company teased information about its “wrist-based” technology that could be combined with artificial intelligence and harnessed into wearable technology. Last year, Facebook Reality Labs unveiled Project Aria,"
-    publishedDateTime: 2021-03-18T19:18:00Z
-    webUrl: "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device"
-    ampWebUrl: "https://hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/3/facebook-wrist-based-augmented-reality-device?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 44
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F03%2FFacebook-Teases-New-Wearable-AR-Tech-Controlled-With-Your-Wrists-first.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1170
-        height: 780
-        isCached: true
   - title: "Facebook Unveils AR Control Device That Taps Into Your Nervous System"
     excerpt: "Facebook has a team of engineers working on next-generation computing devices and interfaces. The group’s latest prototype: a wrist-based controller that uses a combination of artificial"
     publishedDateTime: 2021-03-18T22:31:00Z
@@ -156,20 +140,6 @@ related:
       - url: "https://www.insidehook.com/wp-content/uploads/2021/03/facebook-wrist-wearable.jpg?resize=1200,800"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Facebook Shows Off Trick Neural Wristbands That May One Day Interface With AR Glasses"
-    excerpt: "Facebook CEO Mark Zuckerberg went on a podcast to talk about the future of augmented and virtual reality. In his discussion, he explained that he wanted to see Facebook manufacture its own hardware and thought that the platforms would be the next big thing in tech."
-    publishedDateTime: 2021-03-18T20:20:00Z
-    webUrl: "https://hothardware.com/news/facebook-reality-labs-research-shows-of-wrist-worn-neural-interface"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 17
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54580/content/facebook-reality-labs-research-shows-of-wrist-worn-neural-interface.jpg"
-        width: 708
-        height: 398
         isCached: true
 
 secured: "kUvu2+ZqOoH5FjH9DA4KH8xfeLY9bSttonp8imqREOSZMzz7qP4OaYOzQg8EoPLTtvR+ibwSn4otF5FNxGJSE2cDxwhPl5J7taZy1GoSbhG0BOUSNcjqFWldQE08VdqNiOs94e2ojhzs5ZttA+tZmyEuKmnzIlcmSDYKZFSy+5u8R0K+p+m0M08lp6KMgbGtalsFGPR0uVY9SRCEF046ByFOfbsARcJjqJEdvkAJCq0bM4cdwKtXjuCSydn1NDEjJSnFZe7l20rOTifYzTZfRzacO0Qme+nG8sW/UEXpJ5dlDtTza5h5ubGwl8iMCKeK8MA11dHBXr7A2c6OX6+a3Vj6ZGfetEdN1WGcsoP9263gopo5Hbx4X5aOO4XTSu0s4hPvTyb21fvjwleAE7B9J7hz88WID2o3is0rm6yKvRkuVZlYV5WlZxWu/8tcZ3/3u9BmoHfJm5HoYTq70BHvWt3d9zLwTmD2NMTzdoPL4A+svFOF/y+KHaNJXIKMcZsWwZlWyF9ddpeI0FwELmo8kQ==;OKqv8trFQMoEnN8M6gwQFw=="

@@ -100,20 +100,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025"
-    excerpt: "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as"
-    publishedDateTime: 2021-03-23T07:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025-2021-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in the Education Sector Market report based on Share, Size, Opportunities, Research Methodology and Segmentation"
     excerpt: "In terms of market share, the natural language processing segment is projected to contribute significantly to the global artificial intelligence market in the education sector during the forecast period,"
     publishedDateTime: 2021-03-19T17:17:00Z
@@ -169,6 +155,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025"
+    excerpt: "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-03-23T12:26:00Z
+    webUrl: "https://menafn.com/1101795557/Deep-Learning-Market-Top-Companies-Business-Growth-And-Investment-Opportunities-Share-and-Forecasts-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?267162"
+        width: 414
+        height: 250
         isCached: true
 
 secured: "r5bYBG5ogFFGQzgsIsLlvL6tLMfRQH1CmTN4/jX5+6AIYyt2IhY78fL/eZDEATow47x6kIu7cqVg8hck7wyGso+zP/pZB31U4LOjH1fo76gMZydh7zwibY7vPxsjYwVdUzpD2Kj5RdOPNAt2BaFGIWobC3+8Dir/1Fb5GNOx2y0/Tb/ESqCjK5x+SyHS5zeuiYwOxqxAMIgjlvMtEpT4AoMemuak7JNG6kZdzXHqJ2PoPPkEzT4irMHi60oRgWo9xaaFADtMJso8mnSLZ7Fdvuzv2NT/LJlP2IqNJYk2IZSl63QZjX3janooAmaubeGF4dNin8UMTK2tHLtSvV3r8H77+4XF2A7kcqfgtQcLxGw=;yazO8G81K8IsS8mSbieh6Q=="

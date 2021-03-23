@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Items filtered by date: March 2021"
-excerpt: "Together, Telefónica and Microsoft will expand the use of Azure Cognitive Services for customer engagement and business processes, create new AI-powered, in-home experiences for customers, and explore the use of intelligent technologies to transform the ..."
+excerpt: "At present, Sunrise is rapidly deploying 5G networks for 150 cities/villages in Switzerland, which will be released in March this year. 5G will further enhance the user experience of Sunrise network,"
 publishedDateTime: 2021-03-13T20:49:00Z
-originalUrl: "https://www.thefastmode.com/date?limit=3&limitstart=4464&start=6042"
-webUrl: "https://www.thefastmode.com/date?limit=3&limitstart=4464&start=6042"
+originalUrl: "https://www.thefastmode.com/date?limit=3&limitstart=4536"
+webUrl: "https://www.thefastmode.com/date?limit=3&limitstart=4536"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "Fx8QCd/AIKAGRHEkiOHrzZSv72grsUNiUmwv5zRUa/2iKtinfrSEmzkn5YUP0YFRgPz2qfw6fRMHsfJO4laPyVSWl/MElizrhUuaAwahpZqoPKUyoKTrlKzGkEIHX1usLufcp8yVf00wIaG+Ov2QkV10lN/x3qIHud8M5JzNK7I86AOkSUwJfJcTN0JmfIgoqbyx8PN/bu5TFYz//MuSJp8XNUyFgpquIlACb0gSKTkm9j5w39KsCwZONSSaHKGws3gtxyItYQWcpC8tDrS2GXHfMfp8Yd2PM1ViU+L7RbZ2yrSSWYv4SR2f8wQ27ISqZ5i38Hxengs72OD4/VOXRaVshu/XCMX3Lzr0rljou5I=;CQMY9zNiXvGGofnJyM0D7g=="
+secured: "+qVpH8PosF5yxtUpIGmdzq6zxLmvt8rgcM/xpzxpFHqe5USlzOGSNxFfeQgE1L9OMssaunXfPY0pcGbJgbMoyFX/BxiCvaEhYKPmPYdaMxDOs4Zy2rUWvG3t03uhLbrmAz4HadbV4dm1Wd5Pug03s/7ME05POmn0MQbBTevLmSJj52N+ZoocH3YlxOS4i1+vnTcMTi7MU7Z0SyeHkO20nanaJBj1nzZY7IvjqBq/cfSGSmR2ZjcEQ+WtZflfJn7k9SM9R/rX8axJZ2LNS4kGbzMEqvkGjp/aeb4RRRW97Cu4IWkEKRo/Rk7GkrPfi/T7ov1Ei2jyvOAjDdLIOH+QHbUrL0Uhwx16L+MJZ0sTlNE=;YYnfoOjWmrjUnKqdJmbeJw=="
 ---
 
