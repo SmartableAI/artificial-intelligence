@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-22T19:52:00Z
 originalUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
 webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
@@ -56,6 +57,6 @@ related:
         height: 720
         isCached: true
 
-secured: "QoUThDtmJ61GOszjYPNQbYj3Ru9SL5rWuWwRmWRIums1Tiaa5/dQhYr0q4rDwKGyrmS4cYlUeUmmUp45MRQKl+Idbf47Np7CwA197lmizZgCdjSdhTNxJ/VsLBorUHfUGyHJgCLquXQR2TZZIwBnmS7pVp05q03zfqJKRllVvc4rir4d4/xLaHvZb9HgpuuKNqZKWcbhAsWf2NvOCK1VA+tngg+xKRozPCecuEaEKHAMF2I1u6opsRSP2hHBlaWV8devSD3ECHHqt14xYbwo0zU07YvNxAMlXNoRlAWEvA+YC9xbcdTCiqYADnYU76oO9QR/WvIx/tHt+SfM9unE7X3szYe5dy5tvcwAALRGV/w=;eSMuL8dDfqDcbJZPCF8HyA=="
+secured: "SiS3w6fj2w9EuxhwHBVS06FQYhJE2vfsSPBXv8z3+D5JlgSqsxT+qT0Bla9PsAIPN4Kiluoj/o3UDsIkkuD1JhJZS2rvE3NES9QA/wY4Zf2TnRkCFRkMqbgohzbNGiPQ4evJ6jwPXK0ItnxjO7PFPH7+5AaZkbfpbORhXo/CbH72U5jLwdTKSiD5EIrrK0GbCCeLx/yAwP/JsbSNResd395ORCBGGmlbuBbvez7kYYJJme5xD8/DLrVfIuNBhFpyv9ywFQaajfpnrMg0xzFwZqBkpjIyqeRrSqPzBalmzXg+nmH9Brswo7pe6wyfsQevlgSc6YqUHyUtxALYG83GwjraGy13Lkgt9prSU9FNW8up+9hOmObpJccY8LsZQhKgqGa0z/PEBCVbxIycGQf5YDIjAeIGT5Iih1rw2Nrfkxy+8OQsunmyTmh1QVbyXERE+EyWwMeDgVE+E/7i0csKniGgp9vcCP1miMDCFnorSficZVPy6slSsti4h0HEhS0TsER+jp8RXqU83sNkFEq98Q==;i9XmapEOMKj/vqQ+C5Rgbw=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 623
         height: 432
         isCached: true
+  - title: "Free GSMA service widens voice biometrics availability for customer authentication"
+    excerpt: "Telecom industry organization GSMA is developing a multimodal solution to address the challenge of biometric authentication in low tech environments and emerging markets. The solution B4LL (for ‘Biometrics for All’) is intended to enable digital ..."
+    publishedDateTime: 2021-03-22T22:37:00Z
+    webUrl: "https://www.biometricupdate.com/202103/free-gsma-service-widens-voice-biometrics-availability-for-customer-authentication"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/14201518/smartphone-biometric-identity-and-document-verification-640.png"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "5wJX9tjbfk87wQigAdRSdzqUqL7Bt1UPKhAZStGMPtPArOFfWi/1VvOX9+7jpsRjtpJyIroJKf0gbvqB3r0lKL8qFVFCJQyFiEjXjYsJJkkCl5hAwBm9f5fteS7LH7fgLgzZorlLrkRFLOXaSaxSpNruyeGGLv/9xxgGEM0K4Z8IVafhdjgGY+DRqKwlqJkBs0S3qRP57xFB+sjtb826tI5GJxui+Z+VsjLGaFGrKQxuGKQzqIPW2iDpY+r+3KErkZWxAqihiRt3qyi/tJ9c7bqVwhmuuA2e8d6pgHYY+Fsq+I7Zer65S3fz5axzv3qpG/ER6nNDA4c8YHNsO4+lTknezbNPNWPK22/m+H76twc=;vuV7mOQ+Dd8zjQuFvDVvew=="
 ---

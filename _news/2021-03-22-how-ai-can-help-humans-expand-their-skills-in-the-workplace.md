@@ -38,7 +38,7 @@ related:
     provider:
       name: Raconteur
       domain: raconteur.net
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
         width: 1200

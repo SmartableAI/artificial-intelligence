@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 655
         isCached: true
-  - title: "AI fintech products are operating at scale and investor interest is maturing"
-    excerpt: "Per a new dataset I spent this morning chewing on, VCs are firing cannons of capital into the AI startup world while exits reach new records."
-    publishedDateTime: 2021-03-19T15:21:00Z
-    webUrl: "https://techcrunch.com/2021/03/19/ai-fintech-products-are-operating-at-scale-and-investor-interest-is-maturing/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-ORNG.jpg?w=533"
-        width: 533
-        height: 400
-        isCached: true
 
 secured: "jsgvWRux1Wz9UMSJpsFD+dMdo7//ci7bzMPMluFXrks9Tf6qLGwSZdCmZPGiIGnnb53HuZ6+5d0Eo7HLE2z5oJtRLMPJlK0bRkwY8sTBJscXJ0MIqPmE8BQB6ThODj+F5e3Q/HWmLmoTei1a+S1knXlIJiDdDrBKO4ck/fJyBd6BJvJaAmTJoCg31L40pt7ROFlREZnWLLKNnfFbbF7d9gl51aHrlLT9wVPjPdGoiLXyQXbtzNQmQfz7AAbIQe+5zMNM8cbsPao1ivHcTDJMKlrlFmzzKzLzCjQUiy++HqGxzRgjJIMUfh62mBfN76xqNxfMWp1kUjFqEQEY4zjI72k4vwWep4vn0eKNUrbMW4Y=;s2CvrBCCt8kltdk+2dWDXw=="
 ---

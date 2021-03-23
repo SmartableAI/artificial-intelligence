@@ -29,36 +29,38 @@ images:
     isCached: true
 
 related:
-  - title: "Extra Crunch roundup: AI eats fintech, fundraising visas, no-code transition tips, more"
-    excerpt: "For this morning’s column, Alex Wilhelm interviewed Dave Girouard, CEO of Upstart, an AI-powered fintech lender that expects to see growth increase 114% this year. A forecast like that suggests ..."
-    publishedDateTime: 2021-03-19T21:38:00Z
-    webUrl: "https://techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/"
-    ampWebUrl: "https://techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/amp/"
+  - title: "Moody’s Analytics Wins Award for Best Use of AI in Banking or FinTech"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Moody’s Analytics has won Best Use of AI in Banking or FinTech at the 2021 Global Achievement Awards for AI. This award recognizes the Credit Sentiment Score™ solution ..."
+    publishedDateTime: 2021-03-22T23:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech-2021-03-22"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-908893916.jpg?w=1024"
-        width: 1024
-        height: 655
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "FinTech firm launches Data and Compliance Summit"
-    excerpt: "To register your place, visit hivera.ai/the-data-and-compliance-virtual-summit/ A message from the Editor: Thank you for reading this story on our website. While I have your attention, I also have an important request to make of you. In order for us to ..."
-    publishedDateTime: 2021-03-18T13:00:00Z
-    webUrl: "https://www.newsletter.co.uk/business/consumer/fintech-firm-launches-data-and-compliance-summit-3167699"
+  - title: "Moody’s Analytics Wins Award for Best Use of AI in Banking or FinTech"
+    excerpt: "Moody’s Analytics has won Best Use of AI in Banking or FinTech at the 2021 Global Achievement Awards for AI. This award recognizes the Credit Sentiment Score™ solution, an AI-powered tool to strengthe"
+    publishedDateTime: 2021-03-22T12:00:00Z
+    webUrl: "https://www.ansa.it/sito/notizie/economia/business_wire/news/2021-03-22_122160900.html"
     type: article
     provider:
-      name: The News Letter
-      domain: newsletter.co.uk
-    quality: 24
-    images:
-      - url: "https://www.lisburntoday.co.uk/webimg/TUFZMTI5NTEyMDM5.jpg?width=2048&enable=upscale"
-        width: 2048
-        height: 1070
-        isCached: true
+      name: ANSA
+      domain: ansa.it
+    quality: 34
+  - title: "FinTech, digital banking makes gains against traditional banking systems"
+    excerpt: "Digital banking is not a fixed concept but a spectrum, and individual banks need to decide where on that spectrum they wish to place themselves, says Paul Kayrouz"
+    publishedDateTime: 2021-03-21T14:47:00Z
+    webUrl: "https://www.arabianbusiness.com/commercial-banking/460581-fintech-digital-banking-makes-gains-against-traditional-banking-systems"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 33
 
 secured: "oeFreiTLmhe0HFXJQupXg6IF8S6gTJlYtR2WEWuw5Wau18tAEYNyTUMu3yGxLcbt1+dOP3ZXOTdOH05i7nnjGCJUV0GX+jw+CVwVwJe0LuV+7UZeiJ0hTjG0LyFIdSsGuktCIAtSQByXNNna4NS3g5QHu0bGLz/bKkrUCpncBoQtCV4U9f0n/r8pDXshuWX7KUP3F5g51vFBxNyEVMFcgr11gOHOKr7dIl+aukn/Ks1V9OOudw+227SaE14xQPTUbqOOXxECNdVsRZqAhPMMBnUuxDRDq8NJB2HRhjRq9IPJ4nAbDdnakW93/YRtDYemPGeWQdcRGaqopl1PqA0kQajZLs9S91RBl05WHLTUrAk=;5M0GD+r8Qj8IUINDT8rlEA=="
 ---

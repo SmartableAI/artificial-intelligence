@@ -121,20 +121,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 28
-  - title: "Artificial Intelligence in Education System Market Segmentation, Statistics, Leading Manufacturers, Regional Study and Forecast to 2031"
-    excerpt: "The New Report Artificial Intelligence in Education System Market posted through MarketResearch.Biz, covers the market panorama and its growth possibilities"
-    publishedDateTime: 2021-03-18T05:13:00Z
-    webUrl: "https://www.northwestgeorgianews.com/associated_press/business/artificial-intelligence-in-education-system-market-segmentation-statistics-leading-manufacturers-regional-study-and-forecast-to/article_d3b7a621-1120-5797-9f6d-db8eecc863f1.html"
-    type: article
-    provider:
-      name: Rome News-Tribune
-      domain: northwestgeorgianews.com
-    quality: 22
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI-based smartphone apps for risk assessment of skin cancer need more evaluation and better regulation"
     excerpt: "Smartphone applications (“apps”) with artificial intelligence (AI) algorithms are increasingly used in healthcare. Widespread adoption of these apps must be supported by a robust evidence-base and app manufacturers’ claims appropriately regulated."
     publishedDateTime: 2021-03-19T19:32:00Z

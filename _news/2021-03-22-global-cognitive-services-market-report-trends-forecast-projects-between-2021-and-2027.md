@@ -105,6 +105,20 @@ related:
         width: 900
         height: 550
         isCached: true
+  - title: "Artificial Intelligence in Energy Market Key Players, Competitive Landscape, Growth, Statistics, Revenue and Industry Analysis Report by 2027"
+    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
+    publishedDateTime: 2021-03-22T16:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-key-players-competitive-landscape-growth-statistics-revenue-and-industry-analysis-report-by-2027-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robot Software Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
     excerpt: "It is a set of coded instructions that execute the robot's functions. The key factors driving the growth of the Robotic Software market are the adoption of artificial intelligence, lower labor costs, higher accuracy, higher speed, higher quality and higher ..."
     publishedDateTime: 2021-03-18T12:28:00Z

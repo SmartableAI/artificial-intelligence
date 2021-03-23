@@ -42,20 +42,6 @@ related:
         width: 2880
         height: 1917
         isCached: true
-  - title: "Researchers are learning from white-hat hackers to better detect bias in AI"
-    excerpt: "Daphné Leprince-Ringuet says bug bounty programs have changed information security in the past years -- for the better. What can AI researchers learn from the experience? Read more:"
-    publishedDateTime: 2021-03-18T06:29:00Z
-    webUrl: "https://www.zdnet.com/video/researchers-are-learning-from-white-hat-hackers-to-better-detect-bias-in-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 65
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/18/a1200401-940f-4391-be17-8034a3f4641b/thumbnail/770x578/815620be8bd96ebb73c7a8ad30a494ab/20210317-daphne-karen-bias.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "AI enables privacy and fairness"
     excerpt: "Dilemmas posed to individual privacy, data sharing and fairness by uses of AI technologies were explored during the annual PI.lab conference in The Hague on the 6 th of December 2019. Many issues have been discussed. Several TNO experts contributed their ..."
     publishedDateTime: 2021-03-18T18:47:00Z

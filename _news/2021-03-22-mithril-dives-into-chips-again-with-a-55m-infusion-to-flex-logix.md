@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/22/mithril-dives-into-chips-again-wit
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/22/mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:

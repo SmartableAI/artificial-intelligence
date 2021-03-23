@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM develops artificial intelligence system that can debate humans"
-    excerpt: "Project Debater told its human counterpart, \"I heard you hold the world record in debate competition wins against humans, but I suspect you've never debated a machine. Welcome to the future.\""
-    publishedDateTime: 2021-03-18T06:06:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/441868"
-        width: 640
-        height: 428
-        isCached: true
   - title: "IBM's AI debating system able to compete with expert human debaters"
     excerpt: "IBM has developed an artificial intelligence-based system designed to engage in debates ... To carry out such tasks, Project Debater uses Watson, the IBM system that beat contestants on the game show \"Jeopardy,\" to listen to the arguments given by ..."
     publishedDateTime: 2021-03-18T14:06:00Z

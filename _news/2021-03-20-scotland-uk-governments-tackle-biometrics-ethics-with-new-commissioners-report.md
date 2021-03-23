@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Free GSMA service widens voice biometrics availability for customer authentication"
+    excerpt: "Telecom industry organization GSMA is developing a multimodal solution to address the challenge of biometric authentication in low tech environments and emerging markets. The solution B4LL (for ‘Biometrics for All’) is intended to enable digital ..."
+    publishedDateTime: 2021-03-22T22:37:00Z
+    webUrl: "https://www.biometricupdate.com/202103/free-gsma-service-widens-voice-biometrics-availability-for-customer-authentication"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/14201518/smartphone-biometric-identity-and-document-verification-640.png"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Face biometrics implementations expanding for vehicles, retail systems and health passes"
     excerpt: "Facial recognition is prominent among the top news stories in the biometrics industry over the past week. Paperwork for a blockbuster facial recognition IPO has been filed by Megvii, the use of the technology by law enforcement to identify dissidents and refugees is being scrutinized,"
     publishedDateTime: 2021-03-20T17:28:00Z

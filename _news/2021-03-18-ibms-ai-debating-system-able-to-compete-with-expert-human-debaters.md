@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: techxplore.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM develops artificial intelligence system that can debate humans"
-    excerpt: "Project Debater told its human counterpart, \"I heard you hold the world record in debate competition wins against humans, but I suspect you've never debated a machine. Welcome to the future.\""
-    publishedDateTime: 2021-03-18T06:06:00Z
-    webUrl: "https://www.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355"
-    ampWebUrl: "https://m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/jpost-tech/welcome-to-the-future-ibms-ai-system-debates-human-counterpart-662355/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/441868"
-        width: 640
-        height: 428
-        isCached: true
   - title: "IBM’s Project Debater showcases next-gen AI-driven productivity"
     excerpt: "I’ve been following IBM’s Watson effort since the beginning — and its initial focus on winning the game Jeopardy. This early effort was just a taste of what this platform could do. Years later, I attended the introduction of Project Debater,"
     publishedDateTime: 2021-03-19T09:42:00Z

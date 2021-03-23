@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-artificial-intelligence-fairness
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-artificial-intelligence-fairness.amp"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers are learning from white-hat hackers to better detect bias in AI"
-    excerpt: "Daphné Leprince-Ringuet says bug bounty programs have changed information security in the past years -- for the better. What can AI researchers learn from the experience? Read more:"
-    publishedDateTime: 2021-03-18T06:29:00Z
-    webUrl: "https://www.zdnet.com/video/researchers-are-learning-from-white-hat-hackers-to-better-detect-bias-in-ai/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 65
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/18/a1200401-940f-4391-be17-8034a3f4641b/thumbnail/770x578/815620be8bd96ebb73c7a8ad30a494ab/20210317-daphne-karen-bias.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Researchers use AI to estimate focal mechanism parameters of earthquake"
     excerpt: "The research team led by Prof. Zhang Jie from the University of Science and Technology of China (USTC) of the Chinese Academy of Sciences made progress on real-time determination of earthquake ..."
     publishedDateTime: 2021-03-22T15:39:00Z
