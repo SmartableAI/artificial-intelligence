@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-24-disney-world-tests-facial-recognition-software-at-magic-kingdom.md",
-      "title": "Disney World tests facial recognition software at Magic Kingdom",
-      "excerpt": "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,",
+      "path": "_news/2021-03-24-disney-begins-testing-facial-recognition-technology.md",
+      "title": "Disney begins testing facial recognition technology",
+      "excerpt": "ORLANDO, Fla. — Could park-goers be using facial recognition to enter Walt Disney World in the near future? A test running at the Magic Kingdom is working to determine just that. Starting March 23, guests planning to visit the Magic Kingdom have the ...",
       "sourceUrl": null,
-      "webUrl": "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/",
-      "originalUrl": "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/",
+      "webUrl": "https://www.ksdk.com/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255",
+      "originalUrl": "https://www.ksdk.com/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://media.ksdk.com/assets/WTSP/images/22bf9a3e-a23c-4571-ac7d-88ade440713b/22bf9a3e-a23c-4571-ac7d-88ade440713b_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/",
-      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/",
-      "publishedDateTime": "2021-03-23T11:14:00-07:00",
+      "ampWebUrl": "https://www.ksdk.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255",
+      "cdnAmpWebUrl": "https://www-ksdk-com.cdn.ampproject.org/c/s/www.ksdk.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255",
+      "publishedDateTime": "2021-03-23T11:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "NBC2",
-        "domain": "nbc-2.com",
+        "name": "KSDK",
+        "domain": "ksdk.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -350,7 +350,7 @@
       "originalUrl": "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -671,6 +671,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-china-state-tv-raps-kohler-bmw-for-using-facial-recognition.md",
+      "title": "China State TV Raps Kohler, BMW for Using Facial Recognition",
+      "excerpt": "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for using facial recognition to identify customers in a possible violation of privacy rules that took effect this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/aponline/2021/03/17/business/bc-as-china-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/aponline/2021/03/17/business/bc-as-china-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1402,50 +1454,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-facial-recognition-company-sued-by-california-activists.md",
-      "title": "Facial recognition company sued by California activists",
-      "excerpt": "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/",
-      "originalUrl": "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/facial-recognition-technology-sued-1.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/",
-      "publishedDateTime": "2021-03-10T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

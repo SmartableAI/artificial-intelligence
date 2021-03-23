@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 768
     height: 385
     isCached: true
-
-related:
-  - title: "Atal Innovation Mission, AWS collaborate to scale cloud skilling, and accelerate innovation with education technology startups in India"
-    excerpt: "artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7000 Atal Tinkering Labs (ATLs) in India. AWS will also conduct Faculty Development Programs (FDPs) for the personnel in-charge at the ATLs, and provide ..."
-    publishedDateTime: 2021-03-19T04:21:00Z
-    webUrl: "https://www.cxotoday.com/press-release/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 24
-    images:
-      - url: "https://www.cxotoday.com/ashojoac/2018/09/zoho-540x370.jpeg"
-        width: 540
-        height: 370
-        isCached: true
 
 secured: "N3V0jZ6u4etEf0MqdkwNeSrMn0sKKMTnwY7t+KJofLvVpqed7/cmIGsNbJvL3cq4CsUD2Dwnstwc0xfTTOCnH21fHMOJVbXPeh1JxVReghz1zGiAi+ockKB81ntgnsTKKYCiKHHP4Vxpxnv+xB01pwqNw06wOiQifGJP2Y957RDBBQ9FQ2goEN6ysW2f3d2WFzJ9fO3O5C8Dwd2ToYVvCZOP4kHc3CB7S4e69lvgHDzQZinJyISR/wZ3WkspxdGXqkdn+QDT5Zi2+CO5DmTh+Avrjuy3qFKIOaplLB89rz7NVF53vfQTguAb5ZezALBkog7y9S6uDaYV82As+ZnP6l6/3Ol0Piq5fE4My13z0VI=;vT9ypzAA9E/hJM5+cuLHDQ=="
 ---

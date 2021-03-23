@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-03-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript.md",
+      "title": "Ambarella, Inc. (AMBA) CEO Fermi Wang on Q4 2021 Results - Earnings Call Transcript",
+      "excerpt": "At the beginning of the year, we introduced our CV5 and artificial intelligence ... a global leader in driverless technology, has selected Ambarella’s CVflow family of AI processors.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "publishedDateTime": "2021-03-03T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-chinese-telecoms-firm-zte-preparing-electric-vehicle-product-line.md",
       "title": "Chinese telecoms firm ZTE preparing electric vehicle product line",
       "excerpt": "Asian technology companies, including Baidu, have announced plans to make their own cars, while Shenzhen-based dronemaker DJI is building an engineering team to work on self-driving technologies.",
@@ -1392,58 +1426,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-24T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
-      "title": "Why driverless cars are paradise on wheels for some",
-      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews",
-      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-301724/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T01:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

@@ -9,7 +9,7 @@ ampWebUrl: "https://cheddar.com/media/how-3d-machine-learning-is-transforming-th
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp"
 type: article
 quality: 76
-heat: 86
+heat: 87
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
         height: 500
         isCached: true
 
-secured: "C7TQ+VJS7gzZvUZnDkz3xubgB6BIQu6L7W9/MNyKpGEpbY/xXobhOuzrwUXLUl/gB8bxLXfb3UWLPYX6AzjuD2RSsYIXxOSGPL4Po9pjynCwVPvICDEzrdsAx/9//s69fXsaTFknxhf0oXHkRDiEV0tB7xcqS+f9yCjKMhSaZ6LZWA0FRh9QM9zSKfOmjbFoBwQXduAfifzh/hTxeuhuubJwGIOQUonWOIltF+XL2PY4oXRHQCOb3hkOo4RZMCol5i4jF4gPLx6q0wGuYWdO4QuscbV5lF16QunowL4OCB+TBVvcQcPEufK6wzlgspKd6NQPV4tnLnq41DCsHCpNDE0sQ/Xq9vJ6QO40VyUWuYA=;btH45cLTSO/5aa1WSjLCCA=="
+secured: "1jG0rqwzLfvLMPPiHltMY312unLt6uGHqGMTvZkzp6wExSNjdVTfy/C/jtWZHy2ajJtu/R8h5yap9908hCYufneCdLh23ZTRMFc1Pv25QguE0bSCKMG2NmL+w2vI9kUQjOQXHVm8553r3bih5d0yMyWRUnYgGnHcgfswHnaVSgGJgC9BNb1dlcL3vk0YHaw/FKuG0AQyM7y0owZgsHLipf9eS03WY3UQK0pFZQXF8tKRnvPxND0HpCeVBLoaWRq7FDzt/nqVzUgI1eZTLKiSIT63SICUEEsfbQNslp5feWd0peRDGhvkkeoi8MjrHXbljDDTRtTR4NPOvF5qzyrAfIWY3yputy5LuYMVL0hVg6YDAujUkTbp/DHFDqF2dBLFpY4SAvjUUksbyDyYKrhvXdkBHcrU9AEsHt1w7QS7yhQwrsg9eHRc7icupCwkO+tRRVLJgDsyTdr91/qKQVwkRT81vfQNEAwlgm/xYdHoZ0vW5ULcVaNaDHZbZ6BufUHjFXscZ2+WUgtxsWUV3TYa5A==;QhSe0wybgRAC+l77MfUF7g=="
 ---
 

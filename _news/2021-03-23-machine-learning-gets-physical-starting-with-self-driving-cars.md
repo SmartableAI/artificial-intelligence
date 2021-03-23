@@ -74,6 +74,15 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Solomon: Legal liability of self-driving cars"
+    excerpt: "Part of the challenge I have in teaching extremely bright business students in the final year of their undergraduate studies is, many of them are considering heading to law school."
+    publishedDateTime: 2021-03-23T21:49:00Z
+    webUrl: "https://www.rutlandherald.com/opinion/commentary/solomon-legal-liability-of-self-driving-cars/article_8cd4904d-2212-5c7b-acfd-33a8ba2f814b.html"
+    type: article
+    provider:
+      name: Rutland Herald
+      domain: rutlandherald.com
+    quality: 4
 
 secured: "cwEH230OF2AvjQY6SzwvpsPaMSLoELlQl5AoVmDoUY7CXPfi4LWwRn2Yu1fL2d+47H/5oF08a1B4MT+Jz2BkhrU9N72AxF+EvSh8qpYckacM15p0CuO1qdC7IQLtY02IMckpLv4XtyOeVdj/hxJpJbed03AOM3wsFMy1DhHIKysX/x19pIdBzklZhEo4+bq/Gl8BQ+O411+rlondodo3wRn3f6JMtr4ntPAUzBg3OUkt6bU9M9tGBrbIbYyERPekOcnKqV7guKrN5Lm2KolEFt+GQkE3FFYDwBe6ziqGXpx32g6fATJTyjB30SzsVoNriEn2RcQ7NL9ktng9h6Cx+T1WPg6XgkGuXaU0xuZLroE=;IirHIVnZlvzGrGj2+cAIoA=="
 ---

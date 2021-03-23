@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "FinTech startup Beanworks to be acquired by Quadient for $104 million CAD"
+    excerpt: "Vancouver-based FinTech startup Beanworks is set to be acquired by French enterprise company Quadient for $104 million CAD."
+    publishedDateTime: 2021-03-23T20:56:00Z
+    webUrl: "https://betakit.com/fintech-startup-beanworks-to-be-acquired-by-quadient-for-104-million-cad/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 23
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/03/Beanworks-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Quadient Announces the Acquisition of Beanworks, a Leading FinTech in SaaS Accounts Payable Automation Solutions"
     excerpt: "Quadient Announces the Acquisition of Beanworks, a Leading FinTech in SaaS Accounts Payable Automation SolutionsParis, March 22, 2021Quadient"
     publishedDateTime: 2021-03-22T07:08:00Z

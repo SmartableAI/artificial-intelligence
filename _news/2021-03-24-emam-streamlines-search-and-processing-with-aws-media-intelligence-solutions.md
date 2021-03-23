@@ -1,28 +1,24 @@
 ---
 category: news
 title: "eMAM streamlines search and processing with AWS Media Intelligence solutions"
-excerpt: "PRNewswire-PRWeb/ -- eMAM, Inc. (EMAM) announced that the eMAM media asset management platform is part of the launch of the AWS Media Intelligence (AWS MI)"
+excerpt: "MAM allows customers to automatically tag and transcribe media with AWS AI-powered solutions. NEW YORK (PRWEB) EMAM, Inc. (EMAM) announced that the eMAM"
 publishedDateTime: 2021-03-23T18:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions/article_9ae4aad0-bf62-58e5-a770-7c16c4facddd.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions/article_9ae4aad0-bf62-58e5-a770-7c16c4facddd.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/p20304553/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/p20304553/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20304553"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20304553"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
 
 related:
   - title: "Announcing AWS Media Intelligence Solutions"
@@ -54,6 +50,6 @@ related:
         height: 419
         isCached: true
 
-secured: "H5ebblsoxIJwHML1hTNKN9bd5kAW/8f3nGMrBbEcMm38jG2F5nIQnBGvLj/Pop2bGn9oeqjcm7A6biIm7jClJPjWL94FlCHwXF0DwRqq3cfjDCM5ai5QhuxxKDoW6oI+6LZxzU73Qtn1U/PQTjCxbjAnNd58a4n2djOP8Jq2mhNI2UBwZek2tDJg/lOGstgLSRPH2r0FP+yZbxZ8jZ56DNp8y09rplD93vJVDZ8KGgL2JvB2GCRnpTDPWF1Z2iM5kHfo+/oz+rWWD5oMGTIrv0AAfwpKYY7dgQPr9v/iT30OLmYNOHq3qYBB0XHaKNQ59O78isnqzlBACTV8ZzlqemHx1gdsg2kVVGhrH9PogNs=;1CffcjzhnZQwb2o/bWMlBg=="
+secured: "+68bG3PnVYjgMvXU5rL6VdTZBVWZ1CUesxTGAwPYAtptpJqMf7PP9/jfym06sNtzGGDmSgda6/40YmlNkwe3hcZL8JWa4LCPr6Ey6JUBJn1x43ZYsXNuHscKpeHWrMnJA20eosTGXKjesxfcuaa91u+DqfzNkc1luRuEVx0eIF1gUYTj4GqI0D+ePj3IUQSZniKvhgGOH4pYWToNlnzowv2M+8BglmQ9OPMP6c0M/AxKlFXkdNiD1O4P7OD46+IOYiPAHQgfgQKIoSL8fFnHCjnTwN2XGE54H94AFApk341L/FguFsPF+PxfKoRQCOFERrJyAXhJXnbzE14tPTMwadBCiENDtrx3rG2Qd80aw80=;VHEhdpYtVsCqVqsaJMhLzQ=="
 ---
 

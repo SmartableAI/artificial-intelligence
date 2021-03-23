@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/quadient-announces
 webUrl: "https://markets.businessinsider.com/news/stocks/quadient-announces-the-acquisition-of-beanworks-a-leading-fintech-in-saas-accounts-payable-automation-solutions-1030230795"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "FinTech startup Beanworks to be acquired by Quadient for $104 million CAD"
+    excerpt: "Vancouver-based FinTech startup Beanworks is set to be acquired by French enterprise company Quadient for $104 million CAD."
+    publishedDateTime: 2021-03-23T20:56:00Z
+    webUrl: "https://betakit.com/fintech-startup-beanworks-to-be-acquired-by-quadient-for-104-million-cad/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 23
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/03/Beanworks-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Quadient Announces the Acquisition of Beanworks, a Leading FinTech in SaaS Accounts Payable ..."
     excerpt: "A highly performing FinTech with an attractive SaaS recurring revenue model ... R&D firepower and investments in Artificial Intelligence (AI) technology, we will continue to live out our mission to support accounting teams everywhere.”"
     publishedDateTime: 2021-03-22T07:02:00Z

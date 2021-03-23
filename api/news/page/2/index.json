@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-23-artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025.md",
+      "title": "Artificial Intelligence in Education Market Outlook By Share, Size, Trends and Forecasts 2025",
+      "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence in Education Market, which has been",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-helping-newsrooms-experiment-together-with-ai.md",
+      "title": "Helping newsrooms experiment together with AI",
+      "excerpt": "In our JournalismAI report, journalists around the world told researchers they are eager to collaborate and explore the benefits of AI, especially as it applies to newsgathering, production and distribution. To facilitate their collaboration, the Google News Initiative and Polis – the journalism think",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/amp/",
+      "publishedDateTime": "2021-03-23T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-jumio-raises-150m-to-secure-onboarding-with-image-verification-ai.md",
       "title": "Jumio raises $150M to secure onboarding with image verification AI",
       "excerpt": "Jumio, an AI-powered platform for identity verification, has raised $150 million in venture capital from new and existing investors.",
@@ -355,7 +460,7 @@
       "originalUrl": "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -502,7 +607,7 @@
       "originalUrl": "https://www.pcmag.com/news/william-shatner-taps-ai-to-preserve-himself-for-future-generations",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1096,7 +1201,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1136,101 +1241,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-artificial-intelligence-are-we-doing-it-all-wrong.md",
-      "title": "Artificial intelligence: Are we doing it all wrong?",
-      "excerpt": "The artificial intelligence or \"AI\" label is slapped on almost anything electronic these days, from \"smart\" toothbrushes to cancer-curing supercomputers. If you're like me you've become jaded by the AI rubric, realizing we're still a long way from true ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/artificial-intelligence-are-we-doing-it-all-wrong/",
-      "originalUrl": "https://www.cnet.com/news/artificial-intelligence-are-we-doing-it-all-wrong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/ozUtaO5NGKws9zlp-cVIDROmRRQ=/940x0/2021/03/19/8d30f0ed-7fb6-499f-ba1b-cb0c0b67e87b/jeff-hawkins.png",
-          "width": 940,
-          "height": 940,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/artificial-intelligence-are-we-doing-it-all-wrong/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/artificial-intelligence-are-we-doing-it-all-wrong/",
-      "publishedDateTime": "2021-03-22T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-face-recognition-with-smiles-winks-could-increase-phone-security-heres-how.md",
-      "title": "Face Recognition with smiles, winks could increase phone security: Here's how",
-      "excerpt": "The new system is called Concurrent Two-Factor Identity Verification (C2FIV) and it requires both one's facial identity and a specific facial motion to gain access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "originalUrl": "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/smartphone-usage-pixabay-1616407761.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
-      "publishedDateTime": "2021-03-22T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

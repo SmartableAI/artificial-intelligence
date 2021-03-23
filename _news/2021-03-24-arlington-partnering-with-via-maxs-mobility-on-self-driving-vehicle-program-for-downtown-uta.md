@@ -25,21 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Via Rideshare to implement self-driving vehicles servicing downtown Arlington, UTA"
-    excerpt: "UTA students will be able to ride the autonomous vehicles for free throughout the one-year pilot program starting Tuesday."
-    publishedDateTime: 2021-03-19T22:45:00Z
-    webUrl: "https://www.theshorthorn.com/news/via-rideshare-to-implement-self-driving-vehicles-servicing-downtown-arlington-uta/article_cc39d90e-8900-11eb-9c3e-b75353167403.html"
+  - title: "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser"
+    excerpt: "Self-driving company TuSimple Inc. unveiled paperwork for its initial public offering Tuesday showing it has lost more than $300 million over the past three years in the race to be the first to launch fully autonomous long-haul trucks. TuSimple ..."
+    publishedDateTime: 2021-03-23T21:39:00Z
+    webUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
     type: article
     provider:
-      name: The Shorthorn
-      domain: theshorthorn.com
-    quality: 18
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/theshorthorn.com/content/tncms/assets/v3/editorial/b/68/b6841e68-890e-11eb-852a-fffe0d9a01e0/5f86784d6b9a5.image.jpg?resize=946%2C630"
-        width: 946
-        height: 630
+      - url: "https://images.wsj.net/im-315504/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Self-driving trucks won't have big impact on trucker jobs anytime soon"
+    excerpt: "From big rigs to buses, millions of American workers currently earn a living driving vehicles. Someday, self-driving systems could make their jobs obsolete. Whether the transition from human drivers to automated ones results in severe layoffs that occur in a short time frame or as smaller disruptions over decades is a simmering question,"
+    publishedDateTime: 2021-03-20T05:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-trucks-wont-have-big-impact-trucker-jobs-anytime-soon"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/WAYMO-MAIN_i_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Honda's World-First Level 3 Self-Driving Tech Won’t Hog the Passing Lane"
+    excerpt: "Tesla vehicles optioned with the $10,000 Full Self-Driving upgrade for Autopilot utilize a feature called Auto Lane Change that works similarly (you can watch a demo here), though Tesla's offering is presently capped at Level 2 and requires the driver to ..."
+    publishedDateTime: 2021-03-23T17:36:00Z
+    webUrl: "https://www.thedrive.com/tech/39904/even-the-worlds-first-production-car-with-level-3-self-driving-tech-wont-hog-the-passing-lane"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 23
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Legend-Hero-Maybe.jpg?quality=85"
+        width: 1920
+        height: 1080
         isCached: true
 
-secured: "V74+EN4LrxboR3G0dVqkvJuwUf9w4JX6ehigG/mMlVlAW/gvd7DCw1Z+zfdKFXUFOkHokKneThpbg/wDaL797nYa1mbv5bSO3VlZb4uXLuTsn4LN1K2bs4CkRYhj3V7f9R3z+vQF60PAW1h4dzU+cjhT7b1dPnL/BDSDfOve8EQbMbYez77Q0EIfhHSmpzw9B1ktg9mTKCpGJ/qFcbGjNQagsgyn+ULn06X7itSJ5Y2C/9D2UrQqr85tnuVOO+IwcZMWXtr7+4Wc7eFkjxr380udJ+NouS7Lf7FoDV6qXldRwAmJWrJTVW5uSiWsQc4HvmDVzmWizZGJMX+EE9fAkbA7ykxGEZ2GipgJhyb6T34=;dGUq0mmbIox9E6y/No6CCQ=="
+secured: "WF1XC8/boXVQq+9Je2WWBgZJnzwV4mhTEzBGPY1czk/w4VwEm2SX6YQFi0jshSq58l14KuU/zFJG+GyD6Diy3VKQ3rxQz+oPwguwGfQg1WFzPRulMWWO3oKynV5y/jHMTF7orcklDAZ4zV2IR/NaEaQXTTrhfxn2Kwl6Kafr0yQMId3ET5Cdfs3AOPsc3fpd5JPyAaPorBLIL9c7CJTlvLENAJoG48N3yGNPFVUpIToibQw1SiheGAoNDDOiUyORRQlyzTauDnUg/1fsT9LN2WqJTT2u5hOtbT3wn364Uuml0l134W03Yp3KI4Z9qMlDCzeWyfI4UmIuy6CGbPyw2QXp1ii8VW49nxyoH2FPm/SMA8pN4sFJ8jGxLXX3qrHJRHW4Tmshd73Ly3WNjZFTRn9pvWEVQUwinhc4K+iy1uNnhpJg1ynobuYiX++zLs4NxzWC83CtW84nZoucvJZJrwZVBEET7WAZooF0AYi3okV2S45uwnTDEtgSigEN5XVxUhp/9iegGJeYXFT1afU6cw==;rdOLx+SOWkjbNBnAxUwg6g=="
 ---
 

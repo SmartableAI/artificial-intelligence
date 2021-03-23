@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://wp-assets.futurism.com/2021/03/leftturn-600x315.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Tesla’s Full Self-Driving Capability: Unsafe at any Speed"
+    excerpt: "Tesla’s Full Self-Driving Capability poses perhaps the biggest challenge to automobile safety regulators since the publication of Nader’s book in 1965. Social media sites and the media are replete with images of Tesla owners sleeping, playing the ..."
+    publishedDateTime: 2021-03-23T15:43:00Z
+    webUrl: "https://www.law.com/texaslawyer/2021/03/23/teslas-full-self-driving-capability-unsafe-at-any-speed/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/401/2021/03/Tesla-Crash-Utah-Article-202103231451.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "oeTuEl2yxsjSC6B4BWGpQJLCC9RZzDkVCMLn+I+G4KWQWLQOSB758pq42BZNkjkzqWT2RYfcIHJiLKNLAxqcgDV1loC2GmG9/cuFCFPpCFZZQ3ixmss1zVJLwIRm+ydiIs+IPkJO69cUIVg1zhfvDkdInPygSSuIhvV52MX0lwAr5YN+SorSSEVTCRBtQOFsPHG2/4mNY2q+oKiEdeBZvfGFpLkfrgPjfzlSQCc7txM6jvqJBB61vPJ3/0ts9eKN+Vhk1kH3TmK9Pc6jED3HfRq0G1k431kCEj2IIi80koZ/5qPbNRy/ST8XWvkLTv/XhMSDbbQ4v8RmkwqhlQZTgSEKdwDifLHrq4JnHkKZURuJcKoido9ha5dZI3wDU9DnQFor2ypBIszZ4zPEA4s9Zq3rtMjK7z3Zd01qzsQ7gFabU7gm11WFFU2WPDCetAjO8Y+Lu//mw7rlrrxOHwhtJBpvfJiLeHFTEEawJ1WKacfv+q51Ux4gWEB8C3MvE5DG3rgMMgWwS4GO+N0SOUBR5Q==;soLJLRu2rIGvI6KC1QtqJA=="

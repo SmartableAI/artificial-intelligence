@@ -291,24 +291,33 @@
     {
       "path": "_news/2021-03-18-himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification.md",
       "title": "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "excerpt": "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification.",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8192359/himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8192359/himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification",
+      "webUrl": "https://apnews.com/press-release/globe-newswire/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T20:00:00-07:00",
+      "publishedDateTime": "2021-03-18T01:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

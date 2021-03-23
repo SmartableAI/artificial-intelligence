@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcmag.com/news/william-shatner-taps-ai-to-preserve-himse
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/william-shatner-taps-ai-to-preserve-himself-for-future-generations?amp=true"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

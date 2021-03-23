@@ -25,21 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "World's First Level 3 Self-Driving Production Car Now Available in Japan"
-    excerpt: "If you’ve been keeping up with market predictions about when a fully approved SAE level 3 automated vehicle would hit the market and which automaker would be first to do it, you might have been surprised at last week’s announcement from Honda."
-    publishedDateTime: 2021-03-19T18:55:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21158656/electronic-design-worlds-first-level-3-selfdriving-production-car-now-available-in-japan"
+  - title: "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser"
+    excerpt: "Self-driving company TuSimple Inc. unveiled paperwork for its initial public offering Tuesday showing it has lost more than $300 million over the past three years in the race to be the first to launch fully autonomous long-haul trucks. TuSimple ..."
+    publishedDateTime: 2021-03-23T21:39:00Z
+    webUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 38
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
     images:
-      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/03/Honda_Figure_1_promo.6054f2098716c.png?auto=format&fit=max&w=1200"
-        width: 1200
+      - url: "https://images.wsj.net/im-315504/social"
+        width: 1280
         height: 640
         isCached: true
+  - title: "Self-driving trucks won't have big impact on trucker jobs anytime soon"
+    excerpt: "From big rigs to buses, millions of American workers currently earn a living driving vehicles. Someday, self-driving systems could make their jobs obsolete. Whether the transition from human drivers to automated ones results in severe layoffs that occur in a short time frame or as smaller disruptions over decades is a simmering question,"
+    publishedDateTime: 2021-03-20T05:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-trucks-wont-have-big-impact-trucker-jobs-anytime-soon"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/WAYMO-MAIN_i_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Arlington partnering with Via, Maxs Mobility on self-driving vehicle program for downtown, UTA"
+    excerpt: "Arlington is expanding its self-driving vehicle program. Via Arlington customers can now select to be picked up in a self-driving vehicle for trips around Do"
+    publishedDateTime: 2021-03-23T19:19:00Z
+    webUrl: "https://fortworthbusiness.com/news/arlington-is-expanding-its-self-driving-vehicle-program/"
+    type: article
+    provider:
+      name: Fort Worth Business Press
+      domain: fortworthbusiness.com
+    quality: 12
+    images:
+      - url: "https://fortworthbusiness.com/wp-content/uploads/2021/03/Rapid-3-scaled.jpg"
+        width: 2048
+        height: 1461
+        isCached: true
 
-secured: "/APa824h8Ra34ap5GgSpNfLRaGN7c9+WHsRz5ZVE1bgR270+9DBauTl/KKySkPP2imSb1O2OvRHByY7sojn5mlZgxPxfDSXX+FlhfQceF760Ku9ibkgvEzm5oxVrMC9KljRvRdO5WtDEkpBi7JxoOLAtSYmAbdLcREPTpcoYYo6YlDv9EM+vX4bog3OAGBZASdovdby3Jddp9Aaf4HTLQm/YMR/oJvJxWJ3XpRGcwe1QLsm5USkyz8JsxhJ7PadSgZn3kmA8odlwq/c2S3mzUPkpKkgg0I+Jud+1E4r6Fi+dMjprFvkUOv5FE2xj5OLopcSNmEzYhQ1Fn2kTGaaQJzbbisoaRDFv0ejovo8EG2A=;P7uNcTmuOSzk1mm5H7as0A=="
+secured: "y3KI8IvQP/17JHtHbujsdQBZTd4Lu4+xAeyzzhQefE7v4iEWlxn2LZdjxcP72E7B8M7dA3hVsoCh8EKpsjP0+uyI846TjPpVjQkTcxd1vGVjvCcnWrN4kFBlbwXGBhx4ga+gakUTLiHdltJP/kMMCLEnuFKW360dTil+KHpmNN0/fiSxj5zzuKNAqLCAnB/Oo4yOkYUfuX5/siBovmUNIFxg7q6sEyJo3U8AXPKwh0++w8PFChjCHo7Mmvy6GQAJa1ImHmWwPSz9EU4aln38p0me3W/eLeaQI/GPkB5TEp2LyFmm50VwzcHghm3rNINo9B15+t+WH0jlJ9OYn6NTzJSDZ+EeJ4hduIfjHQ80xHrzBWJRPfjNE8lRYUoDqksVsXselRVS1rhPs2c0vZITZUfcAnhKDKuUNahJN2VouRqKxvZQE9jf6M+EGU0XW8qE7pOWpTF9ZhfkBSe1TPh7oz8ILU0+DOoMOw9qeJGq7Rv3d3VANTFmqBZrz77hviURqosDmNH867VlbGHqHQXCmg==;2VvBTEodICDH2uBw3HPKLg=="
 ---
 

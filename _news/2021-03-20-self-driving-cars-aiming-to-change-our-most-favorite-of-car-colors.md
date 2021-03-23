@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1440
         height: 753
         isCached: true
+  - title: "Solomon: Legal liability of self-driving cars"
+    excerpt: "Part of the challenge I have in teaching extremely bright business students in the final year of their undergraduate studies is, many of them are considering heading to law school."
+    publishedDateTime: 2021-03-23T21:49:00Z
+    webUrl: "https://www.rutlandherald.com/opinion/commentary/solomon-legal-liability-of-self-driving-cars/article_8cd4904d-2212-5c7b-acfd-33a8ba2f814b.html"
+    type: article
+    provider:
+      name: Rutland Herald
+      domain: rutlandherald.com
+    quality: 4
 
 secured: "lz+OaWMOiPAto1dO65BrZ0yIwrD9duA5tqTNH0Y76nKhtv3dvFoRPq80JRtncqItTgCHBwsoSiMAktnwdLDdDm4KWbCBHMIp5f/FJ546jLWFsOqrsA+tGzVOskwIDyQ/xBbPsIZ/zg8IzlXdHuD+CFFyUZsF2FHa8Ww19vLBa9OrkkgYLWoE/hflI431ya4jyVbyVdoPv82+1zK5N1zLW99D0M4hhFGd2RmA47Jv6sogPym+sCEBQypRzxpJwkbcUKxHonOQ2EV/CMCJWym7Yavwqt6ioafZXVil1UVwif8NOwtieppjmSWbLs/mUNpXYwIuwwTVHolG8jOU/X5UcKUTr1gfuZQeb+dABO8GlUHx9ATzowWcL4ie+cMjFMyO2dBkEjdGv40TESOjoVQ2uIzkRroaWYWKPbyJEdepJvFiy8iExRKuHT7gyWQ+WFZWlr5JNF4N4Vj8l38HG5BW8VM8YJu00xnBjbgCBrNjSu2wxLE6c/8vK6FFFLHOe8jvTV5Gfl2/7yik7fcxxYUWVg==;++oOH5xTt+r7CQIWTGgDmg=="
 ---

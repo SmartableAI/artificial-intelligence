@@ -2,6 +2,99 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-19-examining-the-bias-in-artificial-intelligence.md",
+      "title": "Examining the bias in artificial intelligence...",
+      "excerpt": "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20210319074015-examining-the-bias-in-artificial-intelligence/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20210319074015-examining-the-bias-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09508517_1616140084.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-alexa-what-is-union-busting-john-oliver-lobs-tough-questions-at-amazons-ai-on-tonight-show.md",
+      "title": "‘Alexa, what is union busting?’ John Oliver lobs tough questions at Amazon’s AI on ‘Tonight Show’",
+      "excerpt": "Clearly Alexa is not a British soccer fan, and she spouted off about the 1985 Chicago Bears NFL team. Fired up by his annoyance with the AI, Oliver leaned into the camera from his remote location and asked, “Alexa, how bad are Amazon working conditions?”",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/alexa-union-busting-john-oliver-lobs-tough-questions-amazons-ai-tonight-show/",
+      "originalUrl": "https://www.geekwire.com/2021/alexa-union-busting-john-oliver-lobs-tough-questions-amazons-ai-tonight-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/alexa-what-is-union-busting-john-1260x709.jpg",
+          "width": 1260,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/alexa-union-busting-john-oliver-lobs-tough-questions-amazons-ai-tonight-show/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/alexa-union-busting-john-oliver-lobs-tough-questions-amazons-ai-tonight-show/amp/",
+      "publishedDateTime": "2021-03-18T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-ceo-of-fintech-lender-now-a-billionaire-after-shares-soar-89-in-one-day.md",
       "title": "CEO Of Fintech Lender Now A Billionaire After Shares Soar 89% In One Day",
       "excerpt": "Fresh off a blockbuster earnings report that shattered Wall Street expectations, shares of AI-enabled fintech lender Upstart Holdings skyrocketed Thursday, minting a new billionaire out of Dave Girouard,",
@@ -111,8 +204,8 @@
       "title": "How Conversational AI can help efficiently disseminate Covid-19 vaccines",
       "excerpt": "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a",
       "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
-      "originalUrl": "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
+      "webUrl": "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
+      "originalUrl": "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1147,109 +1240,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-how-ai-can-transform-contact-centers-unstructured-content.md",
-      "title": "How AI Can Transform Contact Centers' Unstructured Content",
-      "excerpt": "Most businesses understand there's a lot of value lurking in their unstructured content, but they struggle with how to process it efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/how-ai-can-transform-contact-centers-unstructured-content/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/how-ai-can-transform-contact-centers-unstructured-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60520f51e51980009c63f201%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/how-ai-can-transform-contact-centers-unstructured-content/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/18/how-ai-can-transform-contact-centers-unstructured-content/amp/",
-      "publishedDateTime": "2021-03-18T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-this-powerful-supercomputer-was-built-in-just-20-weeks-with-a-bit-of-help-from-a-tiny-robot.md",
-      "title": "This powerful supercomputer was built in just 20 weeks, with a bit of help from a tiny robot",
-      "excerpt": "Nvidia announced that it would build Cambridge-1 only 20 weeks ago. Now the supercomputer is almost up and running, despite a global health crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-powerful-supercomputer-was-built-in-just-20-weeks-with-a-bit-of-help-from-a-tiny-robot/",
-      "originalUrl": "https://www.zdnet.com/article/this-powerful-supercomputer-was-built-in-just-20-weeks-with-a-bit-of-help-from-a-tiny-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/16/aa0b0c1e-9825-4f90-b227-bbe1f861bcdb/cambridge-1.jpg",
-          "width": 1200,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-powerful-supercomputer-was-built-in-just-20-weeks-with-a-bit-of-help-from-a-tiny-robot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-powerful-supercomputer-was-built-in-just-20-weeks-with-a-bit-of-help-from-a-tiny-robot/",
-      "publishedDateTime": "2021-03-18T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

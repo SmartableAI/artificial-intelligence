@@ -9,7 +9,7 @@ ampWebUrl: "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-s
 cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition executive discusses COVID-19 vaccine passports, data privacy, and surveillance"
-    excerpt: "Millions of people have received COVID-19 vaccines in recent weeks. Could vaccine passports paired with facial recognition enhance travel for passengers?"
-    publishedDateTime: 2021-03-19T04:49:00Z
-    webUrl: "https://www.techrepublic.com/videos/facial-recognition-executive-discusses-covid-19-vaccine-passports-data-privacy-and-surveillance/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 56
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/12/79b507a9-b072-4ead-b120-e5b695b5f2c2/thumbnail/770x578/ffb3306a8cfc8c340a5860f335c999f1/20210223-dallon-karen.jpg"
-        width: 770
-        height: 578
-        isCached: true
   - title: "Pangiam Acquires veriScan, a Biometric Facial Recognition System for Airports and Airlines"
     excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired veriScan, an integrated biometric facial recognition system for airports and airlines, from the Metropolitan Washington Airports Authority (\"Airports Authority\")."
     publishedDateTime: 2021-03-19T14:20:00Z

@@ -52,6 +52,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
+  - title: "Using AI to map how the brain understands sentences"
+    excerpt: "Have you ever wondered why you are able to hear a sentence and understand its meaning—given that the same words in a different order would have an entirely different meaning? New research involving neuroimaging and A."
+    publishedDateTime: 2021-03-23T20:49:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-ai-brain-sentences.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-brain-sentences.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-brain-sentences.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/usingaitomap.jpg"
+        width: 389
+        height: 238
+        isCached: true
   - title: "Researchers use AI to estimate focal mechanism parameters of earthquake"
     excerpt: "The research team led by Prof. Zhang Jie from the University of Science and Technology of China (USTC) of the Chinese Academy of Sciences made progress on real-time determination of earthquake ..."
     publishedDateTime: 2021-03-22T15:39:00Z
