@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/19/uber-under-pressure-over-facial-re
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/uber-under-pressure-over-facial-recognition-checks-for-drivers/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pandemic changes facial recognition debate"
+    excerpt: "Law enforcement agencies and private companies have a history of using facial recognition to store data, identify people of interest and unlock smart devices."
+    publishedDateTime: 2021-03-22T21:03:00Z
+    webUrl: "https://www.milforddailynews.com/story/news/state/2021/03/22/pandemic-changes-facial-recognition-debate/4794844001/"
+    ampWebUrl: "https://amp.milforddailynews.com/amp/4794844001"
+    cdnAmpWebUrl: "https://amp-milforddailynews-com.cdn.ampproject.org/c/s/amp.milforddailynews.com/amp/4794844001"
+    type: article
+    provider:
+      name: The Milford Daily News
+      domain: milforddailynews.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/22/NMLF/5b497bbb-3c77-4de9-af58-082cc28a72ba-3000.jpg?auto=webp&crop=2999,1687,x0,y164&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Uber faces more challenges over its face biometric driver ID system"
     excerpt: "The App Drivers and Courier Union (ACDU) and Worker Info Exchange (WIE) have called on Microsoft to suspend Uber’s use of its face biometrics in the UK as part of a driver verification system which is reported to have prompted license revocation by Transport for London (TfL) with false negative biometric matches of an unknown number of the company’s drivers with darker skin,"
     publishedDateTime: 2021-03-22T17:28:00Z

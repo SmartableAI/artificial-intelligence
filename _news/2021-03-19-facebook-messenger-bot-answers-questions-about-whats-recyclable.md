@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1616156138/itpro/FacebookARWristControl_FacebookBlog.png"
         width: 1422
         height: 796
-        isCached: true
-  - title: "Facebook Teases Futuristic Wrist-Based Wearable That Will Let You Control AR With Your Mind"
-    excerpt: "The Facebook Reality Labs Research team’s biggest challenge is ... Facebook has said it envisions AI as a critical part of the formula to help provide you with the right tools or commands ..."
-    publishedDateTime: 2021-03-18T23:15:00Z
-    webUrl: "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201"
-    ampWebUrl: "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zjg5furu529dadyr79at.png"
-        width: 800
-        height: 450
         isCached: true
   - title: "This Week In XR: Facebook’s Invisible Computing Research"
     excerpt: "This Week in XR is now a podcast hosted by Paramount’s Futurist Ted Schilowitz and Charlie Fink, the author of this weekly column. You can find it on podcasting platforms Spotify, iTunes, and YouTube."

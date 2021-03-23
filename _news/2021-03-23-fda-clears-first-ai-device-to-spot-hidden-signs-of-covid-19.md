@@ -60,52 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "COVID-19: FDA gives emergency approval for machine learning screening tool"
-    excerpt: "The device is only meant to be used after temperature reading that does not meet a fever, and is not a substitute for a COVID-19 test."
-    publishedDateTime: 2021-03-21T02:14:00Z
-    webUrl: "https://www.jpost.com/health-science/covid-19-fda-gives-emergency-approval-for-machine-learning-screening-tool-662652"
-    ampWebUrl: "https://m.jpost.com/health-science/covid-19-fda-gives-emergency-approval-for-machine-learning-screening-tool-662652/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/covid-19-fda-gives-emergency-approval-for-machine-learning-screening-tool-662652/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/457687"
-        width: 640
-        height: 428
-        isCached: true
-  - title: "FDA authorizes first machine learning-based COVID-19 non-diagnostic screening device"
-    excerpt: "Today, the U.S. Food and Drug Administration issued an emergency use authorization (EUA) for the first machine learning-based Coronavirus Disease 2019 (COVID-19) non-diagnostic screening device that identifies certain biomarkers that are indicative of some ..."
-    publishedDateTime: 2021-03-21T02:43:00Z
-    webUrl: "https://www.news-medical.net/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210320/FDA-authorizes-first-machine-learning-based-COVID-19-non-diagnostic-screening-device.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 52
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hospital-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
-  - title: "FDA authorizes 1st machine learning COVID-19 screening tool"
-    excerpt: "The FDA authorized the first machine learning COVID-19 screening tool for emergency use to identify COVID-19-related health conditions in asymptomatic patients. According to a March 19 news release, the Tiger Tech COVID Plus Monitor will identify certain ..."
-    publishedDateTime: 2021-03-22T18:46:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/fda-authorizes-1st-machine-learning-covid-19-screening-tool.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Artificial intelligence used to identify unique COVID-19 patterns in lungs"
     excerpt: "The artificial neural network developed by Lawson Health Research Institute can detect COVID-19 patterns in lung scans that are not visible to the human eye."
     publishedDateTime: 2021-03-19T14:52:00Z

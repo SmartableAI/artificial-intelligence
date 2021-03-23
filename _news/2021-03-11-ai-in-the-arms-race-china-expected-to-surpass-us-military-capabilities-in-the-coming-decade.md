@@ -3,8 +3,8 @@ category: news
 title: "AI in the Arms Race: China Expected to Surpass US Military Capabilities in the Coming Decade"
 excerpt: "The Chinese government’s growing demand for Artificial Intelligence (AI) has triggered a swell in tech companies moving to corner the market. Its surveillance – or more bluntly, spying – capabilities are not only on track to surpass American technology in the next five to ten years,"
 publishedDateTime: 2021-03-11T15:48:00Z
-originalUrl: "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities"
-webUrl: "https://cnsnews.com/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities"
+originalUrl: "https://cnsnews.com/index.php/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities"
+webUrl: "https://cnsnews.com/index.php/article/international/hollie-mckay/ai-arms-race-china-expected-surpass-us-military-capabilities"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "pVar7zhs/8FE2N9QMLSCoPAUYKAfZuzZZ1cCeKDmGBW3Ugzq9LHBr7jDjuMHCGDhJDAbwEwfl6F9AgNiHuJyH1YinI78OTAlEg9BPs5FtBxcpPBYxj+fGt22D0E9TT6gxRwM+y2ju/0DquCEwA/8tnhKZoaIKkreq6QWIt0Ur+TVx5eernQdd6NQnCfyl1vbcRRhBF8pl+S0tFqtMQ+gT0BKkKGUP/iz43iDREi2veIglx1oFCyNSlD/qHiS85cKSnfmQcoe/+LO7Sb0R18eJXh3S3XPuj4W6cQkNCZQiwT814WUIWMDf65HUmaGuKt4OfYtrKzQkS0yMfaJEQiHBUimKQMHKV8v9xNRn0MboTFHlJdRTzhIA7LWgflxw0m8JTkjoqIkn5tkUetbVmgOiv6HlrWN1Gn+6GvP3u96Gt2Q1ttYX0yUzJijajJxEkBVhyVmDF9HDvNDExT1LF9/FVuu9i3/ltN52pWLw4nWinv/TsSrA+7KcgxEcap58968mkxcUz5P0A+d0uMbHpax5Q==;CjRP9DkY0E+T5b3Kgyr/CA=="
+secured: "2U9zDG7XcWxLgAe626Xt5g3STuexBP6zVSQy9wMJW+yWnSqouF67RNN2UZVSXLLNzy4+6BTjvC8t4B93o4CR0TgLWO1DirEgIvoo3oQ1kgrY+dUZMBrQwR5QJJ/qmmKq1ul3qOYpL6pdnbhzvexBnzsgYKCxwll1ETpCPXnDRnrKpaSUzMjERJsx8U9I+C+GJLev5PA67s2if7B5CGQqdxxdrAu5X1DtBZRjdaMV6Kna1+SGCNU5HXgl6/0HiM0ZD+4mADcmSDhC9IV0/rtI5c9iRRrPEVp4FItCgx3e6eoWezx/E9UjSCgwRezQnsZH8C0IsruJBniJJREzUsk7wZ+nZeRkmTuHdf2wa1k68PrWu39gO3rAxDB2f4+6/J5uoE+KOg/ipa8s5kKosh0A0yrEosc4SlCaJzp4qsACXetClp/DpBBjK1CWi6lziQpCSgcVllNObS6EpwChIs0Lrc/1mKIcgPb5E54mM55OztHuHmYhxZOVakKchZqwXzyUrwiaxK9EVmHLsekDjmcKYQ==;4AKKO0yZ5jLz0P7vmYgMvg=="
 ---
 

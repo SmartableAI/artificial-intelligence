@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-23T08:20:00Z
 originalUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-global-major-companies-profile-competitive-landscape-and-key-regions-2021-2025-2021-03-23"
 webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-global-major-companies-profile-competitive-landscape-and-key-regions-2021-2025-2021-03-23"
 type: article
-quality: 42
+quality: 44
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -181,6 +182,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?267162"
         width: 414
         height: 250
+        isCached: true
+  - title: "Artificial Intelligence In Genomics Market by Offering, Technology, Functionality, Application, End-user - Global Forecasts to 2025 - ResearchAndMarke"
+    excerpt: "The \"Artificial Intelligence In Genomics Market by Offering (Software, Services),Technology (Machine Learning, Computer Vision), Functionality (Genome Sequencing, Gene Editing), Application (Diagnostics),"
+    publishedDateTime: 2021-03-23T13:10:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=441422"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "j89igaoTNMjxMHF0JxQtACMPqErMaNjjXV2VgeN9Y7zYujwPYrcdY/0giKX27jJicL+sVjdIEKfgfv1SBYru/pOjIWGBwRcO1g3+tA9N/RmNe+q5fROBm+6Bp53/9ZiTJXqY7jPjN7g/e754oTX62uO2bLxwGn1XWLU7kvOjh2sHImrFHaGv5csywzcS9g9BngPzpfLwGJiEXV5uYtPmFHpWqvWWCInhncR68gTHmNZKLq4TbwOI7Pfm7k1Hx2Xkb2iuecarbjhLCopLMMpTizVJxfV/H1i2ItVKZMkTTV+oJvPshWfmvk2gnZYYN6pJ0KpTkKw9TTG4NAKVLEqbyIYB0wbKjp1tzy0KV+UycS8=;SceTg2RHPgZ1lMBoxkM9NQ=="

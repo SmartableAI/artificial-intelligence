@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
-excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
-publishedDateTime: 2021-03-18T08:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
-webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
+excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+publishedDateTime: 2021-03-18T03:00:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8192359/himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8192359/himax-we-i-plus-aiot-platform-receives-microsoft-azure-iot-pnp-certification"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "ip5HZKeRgj6qFFS8D67+JLEz7P/BttSY25QtdiiVqgsMP8mtlYgmoFtdFO5w7mfmUPFAcWYvqBrf6CFn4DtExRRoGLPqR8ZIlM0WmW9YsXcT5waWVk0iSRkydGsHneroFcCLXmSpmMDySmrvu2VZPxG2hN2wamijKaqx10WzcoDWB1XlwmQkJz+JYsd4DNSv2PF9CY/ry/c9IlMiEIpwYOu/prFkHPlUf2lTn9QrT/lp6PJfgvOsZ5rt+terYymbJ5eCYhXFCsbChWbyqD+t7DTi9I7OjbYChmA7l4E+hyqB8Q/ptiqf6Fqv7jaWRCbeSnza4DagFwnj6GISAk3sb+pvuoaj1hheqCqN8IGyY8E=;z8LdYCHKhAxk7mnfFnGPNw=="
+secured: "evq6C+9ZsSa/KmYf6m3J+DzKggn0bx9LAEc/gLBU7Uj+bAo4wYjZwSJ9BHmoihJ7etBjRLQwSy9E0SDjlVeaGPR6+3SP1KUSWiZ1BfllnklsE2c8KrpypY55STPEv+MPw4EVqW4fWbGNSma6Z+eVlZeAgap0yMhAKLXzd4qTHUQsC83BuVOje3tGSyhQSf+RdW5OULYs3WiWG/0EXB1Uj4l9hHD7pNAG0I3uMXxogucnQJH4xx2EjqnyOx16Z8Ib+wYBeHYfjcQuoUbrn1WVoB14Adhdlnz+gSajnjdqROoh7s/UL9ErNsNagna8L8EV+QeJu5HSCG+/h3mK8LHnDekMPXnL1rqKBWhOR9uSAT8=;riTwW5D9la4hm1f9H2xJ/A=="
 ---
 

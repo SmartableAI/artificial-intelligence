@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/economy/2021/3/23/bb-chinesesearch-gia
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2021/3/23/bb-chinesesearch-giant-baidus-shares-stage-muted-hong-kong-debut"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hong Kong Forum of Artificial Intelligence and Robotics Promotes Development of Smart Industries in Hong Kong and Greater Bay Area"
+    excerpt: "The Hong Kong Productivity Council (HKPC) , with the funding support of the Innovation and Technology Fund of the HKSAR Government, joined hands with the Hong Kong Society"
+    publishedDateTime: 2021-03-22T08:30:00Z
+    webUrl: "https://www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries"
+    ampWebUrl: "https://www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 59
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2021/hkpc-photo1_0.jpg?itok=FEiPwyTP"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Hong Kong based FinTech Apoidea aims to expand regional footprint"
     excerpt: "After doubling its headcounts in 2020, Apoidea Group, a Hong Kong-based AI-driven FinTech start up, plans to double up the team again as the firm sees signs of rapid revenue growth. The FinTech aims to strengthen the team by bringing in candidates with ..."
     publishedDateTime: 2021-03-23T10:07:00Z

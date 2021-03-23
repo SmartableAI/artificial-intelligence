@@ -9,8 +9,8 @@ ampWebUrl: "https://scitechdaily.com/mits-new-artificial-intelligence-algorithm-
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mits-new-artificial-intelligence-algorithm-designs-soft-robots-that-sense/amp/"
 type: article
 quality: 72
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: SciTech Daily
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "New Algorithm Could Aid the Rise of Soft Robots for Tricky Tasks"
+    excerpt: "Soft robot development could benefit from an algorithm that optimizes sensor placement allowing such machines to better ‘understand’ their environments."
+    publishedDateTime: 2021-03-23T16:51:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12109"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12109"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12109"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 74
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12109_16165176633231094.jpg"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Researchers’ algorithm designs soft robots that sense"
+    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
+    publishedDateTime: 2021-03-22T04:11:00Z
+    webUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 69
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Sensor-Placement-01-press.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Algorithm designs soft robots that sense"
     excerpt: "There are some tasks that traditional robots — the rigid and metallic kind — simply aren’t cut out for. Soft-bodied robots, on the other hand, may be able"
     publishedDateTime: 2021-03-22T15:27:00Z
@@ -43,45 +73,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Researchers' algorithm designs soft-bodied robots that sense their own positions in space"
-    excerpt: "There are some tasks that traditional robots—the rigid and metallic kind—simply aren't cut out for. Soft-bodied robots, on the other hand, may be able to interact with people more safely or slip into tight spaces with ease."
-    publishedDateTime: 2021-03-22T13:38:00Z
-    webUrl: "https://techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/16-researchersa.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Researchers' algorithm designs soft robots that sense"
-    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
-    publishedDateTime: 2021-03-22T13:55:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/miot-rad032221.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/259753_web.jpg"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "MIT: Researchers’ Algorithm Designs Soft Robots that Sense"
-    excerpt: "both PhD students in MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). Other co-authors include MIT PhD student Lillian Chin, and professors Wojciech Matusik and Daniela Rus. Creating soft robots that complete real-world tasks has been a ..."
-    publishedDateTime: 2021-03-22T13:54:00Z
-    webUrl: "https://insidehpc.com/2021/03/mit-researchers-algorithm-designs-soft-robots-that-sense/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "5OeSqRBPon7wofuobC/fyfTsvxuKJRTNcDUyNJlkeCJKcRO29NaeN6Wx0yNNuvZvNc3Y91/UE+LpqLY042wgjsC7u96PepR26FWNnwckv4eHU7zEotvZD4PnyheZMjbLWCdboWnN9JioeBfnklrEs80O2MFeehQSPvEb+Am5+K1bhcCQQZ59H7b7p0jUmy5irzFZ88Ru/kZ5NolDnbuRF8sBMVzGazOC4ZhUdnUnGvkmP57nHu6BVax6SWnIKnOwCzMCCU4wx4tXkMX125xTe4MDlZl7IU/fQ/zmf83I96Sqzb8UfKk32dYiWN4aCK7FVqXbx6SUx7wr4fjoSxFpQtOcO6EzjBAW5XH/Ab4Zn14qyTWxFFtD1QHBoG9DDcm93fu54ppQB9JB78cud1uQLZi529PH8oUuxbQo1B7MgmpIHKyoTbLjoKuWGgQ/C4E1yMdZIbS09wQ0HyH7xgvjjFDd7pcyhBBPxF8wKcpcJor5afWBE+l0KaGWIx/y401/BvReQ9I4FYuwaPTIlJjFcg==;mUuUneR/20MuUVHT6BwMIA=="
 ---

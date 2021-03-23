@@ -61,17 +61,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Proven Arabia strengthens commitment to AI and robotics innovation"
-    excerpt: "As an AI-focused startup, Proven Solution will provide advanced portfolio housing AI, Robotics, Blockchain, Internet of Things (IoT), Augmented Reality and Virtual Reality (AR/VR) technologies. These innovative products and solutions can be customised to ..."
-    publishedDateTime: 2021-03-19T00:12:00Z
-    webUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation"
-    ampWebUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 69
   - title: "How AI is changing the way we work"
     excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
     publishedDateTime: 2021-03-22T19:52:00Z
@@ -99,20 +88,6 @@ related:
       - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Examining the bias in artificial intelligence..."
-    excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-03-18T23:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210319094015-examining-the-bias-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09509427_1616147284.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "rqtuwQWANvtF0sAcqlB3IIU2kyRiVGmuTZMncY417CGa4vGChCYUs+v7QBzKf+G9dYhPD12iAdL9AUWIR2PDgWRVNDt213PnjtBGLVUBeX1yoT84MvJuAaR4KbCWHuLQ+IKP14WgU7n42EiOeXbhtgYLGkPQM7StrWQoz5LHzE1tft/BEaLvgWnF8qip6TBa3zr6SyBEJglbDJ8WLqLS3n2FYjSY2kpKeu83SJD6P7DMgPXCdaGRB8MxA88pot5HpSsypc5+osSujchlHRPgxsB+PupZy4ydKUtlZOiPgC3m0X2vKEr5VHJ8gGDeQqPbIogNfof9kaakph5PHnXPzNTGWYt3kySQWvCte6Uvkf0=;MBDu3VFcV+UVEZrbNSqflQ=="

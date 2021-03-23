@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-algorithm-soft-bodied-robots-pos
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.amp"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -27,52 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MIT’s New Artificial Intelligence Algorithm Designs Soft Robots That Sense"
-    excerpt: "Deep-learning technique optimizes the arrangement of sensors on a robot’s body to ensure efficient operation. There are some tasks that traditional robots — the rigid and metallic kind — simply aren’t cut out for."
-    publishedDateTime: 2021-03-22T11:30:00Z
-    webUrl: "https://scitechdaily.com/mits-new-artificial-intelligence-algorithm-designs-soft-robots-that-sense/"
-    ampWebUrl: "https://scitechdaily.com/mits-new-artificial-intelligence-algorithm-designs-soft-robots-that-sense/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mits-new-artificial-intelligence-algorithm-designs-soft-robots-that-sense/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 72
-    images:
-      - url: "https://scitechdaily.com/images/Soft-Bodied-Robotic-Elephant-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
-  - title: "Algorithm designs soft robots that sense"
-    excerpt: "There are some tasks that traditional robots — the rigid and metallic kind — simply aren’t cut out for. Soft-bodied robots, on the other hand, may be able"
-    publishedDateTime: 2021-03-22T15:27:00Z
-    webUrl: "https://scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/"
-    ampWebUrl: "https://scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 59
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2021/03/MIT-Sensor-Placement-01-press_1.jpeg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Researchers' algorithm designs soft robots that sense"
-    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
-    publishedDateTime: 2021-03-22T13:55:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/miot-rad032221.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/259753_web.jpg"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "MIT: Researchers’ Algorithm Designs Soft Robots that Sense"
     excerpt: "both PhD students in MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). Other co-authors include MIT PhD student Lillian Chin, and professors Wojciech Matusik and Daniela Rus. Creating soft robots that complete real-world tasks has been a ..."
     publishedDateTime: 2021-03-22T13:54:00Z

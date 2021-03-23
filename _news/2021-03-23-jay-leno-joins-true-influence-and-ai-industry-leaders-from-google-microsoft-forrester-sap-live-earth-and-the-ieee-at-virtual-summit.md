@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Jay Leno Joins True Influence® and AI Industry Leaders from Google, Microsoft, Forrester, SAP, Live Earth, and the IEEE at Virtual Summit"
-excerpt: "We'll look at where B2B CEOs should invest in AI this year and how to avoid the \"shiny new toy syndrome.\" Lastly, we'll discuss ethics in AI and responsible marketing automation, looking at how to ensure your marketing is accurate, inclusive, valuable ..."
+excerpt: "True Influence®, the technology leader of intent-based sales and marketing solutions, today announced the second in a series of quarterly summits, the 2021"
 publishedDateTime: 2021-03-23T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/jay-leno-joins-true-influence-and-ai-industry-leaders-from-google-microsoft-forrester-sap-live-earth-and-the-ieee-at-virtual-summit-301253518.html"
-webUrl: "https://www.prnewswire.com/news-releases/jay-leno-joins-true-influence-and-ai-industry-leaders-from-google-microsoft-forrester-sap-live-earth-and-the-ieee-at-virtual-summit-301253518.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/jay-leno-joins-true-influence-and-ai-industry-leaders-from-google-microsoft-forrester-sap-live/article_e412c3ae-51a1-502d-bf5c-2e569d81f76a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_new_jersey/jay-leno-joins-true-influence-and-ai-industry-leaders-from-google-microsoft-forrester-sap-live/article_e412c3ae-51a1-502d-bf5c-2e569d81f76a.html"
 type: article
-quality: 23
-heat: 23
+quality: 3
+heat: 3
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Ethics
   - AI
   - Microsoft AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/823392/True_Influence_Logo.jpg?p=facebook"
-    width: 2404
-    height: 1261
-    isCached: true
-
-secured: "HKIul45uhvqECS7w4m33jP47hfbypnRoARq0NbReuT1bKI+uYnFzo75XhIxpe5WooCxFyv5HIUqfNcJBzciN4utFA3HHkTDkHUSguGD57SE33w3jWxWsLSxMAkFBR3TluIqM3NKd4+a0abkL1STLG2Ydj8aYYZnTVU7KA3TIFaBmWyB4oUTYUeWGZhFL+aA5l0+JUfIvFeK/onJzUDeGESIh5JGxuuF/Cu9CNu/HgYr9p0sZ3zhg9UsRUYxeZ7lDl+moreUbw7/Y8vIDhDEgyyp43iOEsgivVzaW9lIco7//ShujmSTgZxZ2DBUo/maXmO8fNVR3H8dj+ivCaFaAyXM3dAEz2rqf7+NH7OZKtBo=;rVuFP6LCgnB80iZeQvvFAw=="
+secured: "dIwiDcm9qLr4+9kAvpsNE0Gf1D8gpweHa6+AfEqHUweSBIcHv7AX2aQ4qLLxbxCahkvM5GtB5tCuolIDvVCzJqUN01Bz/YqlaAwtLGSpL4F+p4ug+bV1kiDUuHzGNK61jBDnOT6wIykgcxhflbv0a8q7eCyxp58KTeGrhIh292Oe50nl644k5HwF/HjfOuk6upuBJ0GNHhbfrxg6kaVLxuCXsk+Ad7d5ruNgV7YE1AwlugwBcRaIo8z5EV0kbcEd97lAhPfF040gEjLddsIRb9OKzU8NvV1J67msKBE7Ix1uydgwTTCyGEE7wy3wz56y267NE3nMuaP6C8jvDSMVHinjRRG5p7qKLN8PmETIV5w=;qRvRzJ99iASzPahbGF+0kw=="
 ---
 

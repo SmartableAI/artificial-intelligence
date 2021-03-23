@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/the-move-to-e-learning-i
 webUrl: "https://www.marketwatch.com/press-release/the-move-to-e-learning-is-heating-up-2021-03-23"
 type: article
 quality: 56
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -115,20 +115,6 @@ related:
       - url: "https://i.insider.com/5fd7e3e12069f400194c7b6b?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Obligo Named the Most Promising Israeli-Founded Fintech Startup in Lending and Financing for 2021"
-    excerpt: "As the only non-insurance deposit alternative, Obligo’s credit-based solution keeps landlords secure and renters accountable by combining Open Banking technology with AI-based underwriting and collection capabilities. Since launching its fintech solution ..."
-    publishedDateTime: 2021-03-23T14:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-financial-services-technology-corporate-news-23ad83bc04473cf226592105a4e8cc74"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "m7JkLxbGGQKo9IqIkBlWwbkHORvvxkU+1kSPTeZ8nku0JhnJlp8Sp9nntdKwzNZSwhxJqZWkH9R6y5Wstp2SyzjTb5WWJGFiAGMsahxL16Gn3mWOdTCpukFiHLQSJyUGt1E4cgzNUPZHb01WjJ06u1FsBw7PPKF+kQdMae0aGKG6/GRJXlI+TynpsFHdg/UgTZwEj4FJcpabAMzN3e9blMEDC0RvytMMMaG7KOKz0WhjSyYRwjdiuX9LOI2OKsNPmuFy6TSJGuZvZygzbE+pfbfXxodlBCAeB1fAMyLMwTnMKGNkQS6loMeqCpCQCAZOdT/apHeteEACev5TAOkGhdh4YNwzTmsrdLRxi2tdZF4=;/tqxJF0bnQyvT4jcjSdrdg=="

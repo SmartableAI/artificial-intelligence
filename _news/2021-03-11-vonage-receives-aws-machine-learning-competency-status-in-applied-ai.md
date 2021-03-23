@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Vonage Receives AWS Machine Learning Competency Status in Applied AI"
-excerpt: "Vonage  , a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied"
-publishedDateTime: 2021-03-10T21:39:00Z
-originalUrl: "https://www.lelezard.com/en/news-19693395.html"
-webUrl: "https://www.lelezard.com/en/news-19693395.html"
+excerpt: "Vonage (Nasdaq: VG), a global leader in cloud communications helping businesses accelerate their digital transformation, has announced that it has achieved Amazon Web Services (AWS) Machine Learning (ML) Competency status in the new Applied Artificial Intelligence (Applied AI) category."
+publishedDateTime: 2021-03-10T21:10:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-3064d60f86c6a023350feed08ec9274d"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "wJzoPLpbVCMFgXfl03o1k8KSjyfIcZAh9N5H0xrPkx8yBkkZBMYx/zTKVIZGOKUvq41b+Q6kyCChDRMVePU71ALAhbb39n/RmIAD/PH+fTpS3u6858Oy/yuNAhSypXwluBebUVCn/xhmX9LDXwXJ1FomdU/4988m4fqwA41QqsYXJPNQpuNscOZ/9W4orE7eO/tTwpOeza7i7OyX/L/F+XL1qZm+oS06T3Ra7eUy3At079HRY73z4lRRPB42U+m3JpkCaUuJDc5JMOntZyTXubbqAU8LrbTLmiuQNquUxAFm7Ue3WCCuizi5mfw3gk5g/R7Ul8Fvrm2xFpTqUmFoLutEXmRj9XKgmoT6N3agtE8=;L4DEyblsoqLsvtNhbyLjsA=="
+secured: "y4DnFNXDD0athFsMv1LeLpxiKn3JfyT78PNxPJDz6msr/2omEHVIaxLNXI2swgr/Ne4AfYY222O+vW0Q2UjmMMpze+yXkCbH6Wft7xAcW4QLMLVkiaZnviTil94RqjsO7QSV4nKyWRiQasprHm0qmkH9ND5WXl6KSnRJnglZZgv+NOhnZiwEn6i41asjegDQ7SQ0pZlOE6gIMXbEIMPUhCVrmVGbGNamEK9aZnlj64i3nQYR2H1LCSlXFlpeoPTNldo5iJlNDLCth4H2lUl5Xf3/S9EEXV0C14K+b348qNzdTD0Veui8nDNZlSbgUfK/WnHCbxBvh+LjX+LX1SCu+xn047W9AMtUyn8kNVlN4Yo=;cPEqElERERoLK1ncWOtQGw=="
 ---
 

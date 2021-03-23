@@ -61,22 +61,6 @@ related:
         width: 1422
         height: 796
         isCached: true
-  - title: "Facebook Teases Futuristic Wrist-Based Wearable That Will Let You Control AR With Your Mind"
-    excerpt: "The Facebook Reality Labs Research team’s biggest challenge is ... Facebook has said it envisions AI as a critical part of the formula to help provide you with the right tools or commands ..."
-    publishedDateTime: 2021-03-18T23:15:00Z
-    webUrl: "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201"
-    ampWebUrl: "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zjg5furu529dadyr79at.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Facebook customizes augmented reality to the flick of a wrist"
     excerpt: "Fresh off its recent augmented reality (AR) kick, Facebook Labs has revealed plans to curate this AI software for wearable devices. Projected as a shorter-term goal than the previously announced AR glasses,"
     publishedDateTime: 2021-03-19T21:52:00Z

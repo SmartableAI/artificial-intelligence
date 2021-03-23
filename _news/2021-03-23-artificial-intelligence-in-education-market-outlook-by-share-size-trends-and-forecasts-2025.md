@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23"
 type: article
 quality: 75
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -150,7 +150,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -183,6 +183,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?267162"
         width: 414
         height: 250
+        isCached: true
+  - title: "Artificial Intelligence In Genomics Market by Offering, Technology, Functionality, Application, End-user - Global Forecasts to 2025 - ResearchAndMarke"
+    excerpt: "The \"Artificial Intelligence In Genomics Market by Offering (Software, Services),Technology (Machine Learning, Computer Vision), Functionality (Genome Sequencing, Gene Editing), Application (Diagnostics),"
+    publishedDateTime: 2021-03-23T13:10:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=441422"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "r5bYBG5ogFFGQzgsIsLlvL6tLMfRQH1CmTN4/jX5+6AIYyt2IhY78fL/eZDEATow47x6kIu7cqVg8hck7wyGso+zP/pZB31U4LOjH1fo76gMZydh7zwibY7vPxsjYwVdUzpD2Kj5RdOPNAt2BaFGIWobC3+8Dir/1Fb5GNOx2y0/Tb/ESqCjK5x+SyHS5zeuiYwOxqxAMIgjlvMtEpT4AoMemuak7JNG6kZdzXHqJ2PoPPkEzT4irMHi60oRgWo9xaaFADtMJso8mnSLZ7Fdvuzv2NT/LJlP2IqNJYk2IZSl63QZjX3janooAmaubeGF4dNin8UMTK2tHLtSvV3r8H77+4XF2A7kcqfgtQcLxGw=;yazO8G81K8IsS8mSbieh6Q=="

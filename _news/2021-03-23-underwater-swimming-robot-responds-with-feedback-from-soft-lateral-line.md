@@ -7,7 +7,7 @@ originalUrl: "https://techxplore.com/news/2021-03-underwater-robot-feedback-soft
 webUrl: "https://techxplore.com/news/2021-03-underwater-robot-feedback-soft-lateral.html"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 604
     height: 481
     isCached: true
+
+related:
+  - title: "Underwater swimming robot responds with feedback from soft 'lateral line'"
+    excerpt: "Each side of the robotic fish is lined with soft artificial muscles made of rubber-like small silicone chambers. Through these pockets, the researchers pumped air alternately on each side. While the air pockets on one side expand,"
+    publishedDateTime: 2021-03-22T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/snu-usr032221.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 38
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/259926_web.jpg"
+        width: 604
+        height: 481
+        isCached: true
 
 secured: "gJ1Hys4lhXQuNw7srRPxXoeEw4mRA8DfjoW/mmyLMWq0FUIgPW77EV05F4+KGAwJxJeuim4radNeqw4MoTpOjY39A5cIgUj/wKweixA83kaPQMdn/NAkB+rpLrtMjA3oVeav4s734Wnhwz9Xh22pZvgF5oXyF7nxmATpnJHS2AIkbGe5guRLVVEr8IU46OaS5cLI7WPOztKD+UqHxgug4jS97Tsahp2xxN1fz+PWNxOUSRl+AAO7YZVo48Uj73EsCWUutFOlIPdSsj28ASorjYBkc9ubhivy2x0iYj+XpjjZZW1Asg34w385SA1wdausNFV9Kj+GYk39Kna3CYCMKGS0ronSP8JxN6fXb7NpaDQ=;gYPQ67WrHwd8WKxyJnvdMA=="
 ---

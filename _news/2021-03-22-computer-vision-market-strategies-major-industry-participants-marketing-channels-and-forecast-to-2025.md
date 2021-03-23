@@ -150,7 +150,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -183,6 +183,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?267162"
         width: 414
         height: 250
+        isCached: true
+  - title: "Artificial Intelligence In Genomics Market by Offering, Technology, Functionality, Application, End-user - Global Forecasts to 2025 - ResearchAndMarke"
+    excerpt: "The \"Artificial Intelligence In Genomics Market by Offering (Software, Services),Technology (Machine Learning, Computer Vision), Functionality (Genome Sequencing, Gene Editing), Application (Diagnostics),"
+    publishedDateTime: 2021-03-23T13:10:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=441422"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "VOQENlijWgXuRxrT/sSGjE9Adhc8CsowuTluTAwx5qplwhEvucVN+dHQWV6sbO3liKbQsuyQDh1zu7uhEWfMKhll1NRSIVCebJKjQQnSrbAayOtxBcZSXakxJDLo/Wyo6iaz2WE0m+K3jkvUA5UhtkiL/TKj8TnnV1WvJzNVs7GPDbPBAoXsldS6zIMAThiFT/pZlbFqBrxhPfP6N/XA1F9CwTuIFvKYpEWKESe/Qp8qnZ2GlV5EOfaD+lbYQkGMe/rkQjz4cSnpGw3TKtPBwOU24aDGdxS6lyyRh36gONaFaQCS983R7yNQJ1tfGzmNzwWlk2JmNzEslilCc70K+js85hopwa55Ue2jG4u+pvI=;6L7oBf9hWGQpEi4xoeP7Zg=="

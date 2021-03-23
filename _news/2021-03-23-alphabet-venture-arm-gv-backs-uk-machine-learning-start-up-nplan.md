@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Obligo Named the Most Promising Israeli-Founded Fintech Startup in Lending and Financing for 2021"
-    excerpt: "As the only non-insurance deposit alternative, Obligo’s credit-based solution keeps landlords secure and renters accountable by combining Open Banking technology with AI-based underwriting and collection capabilities. Since launching its fintech solution ..."
-    publishedDateTime: 2021-03-23T14:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-financial-services-technology-corporate-news-23ad83bc04473cf226592105a4e8cc74"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "hP6aZNyhpBQLrIPA0NoHk/BhSEi8/pdXfrloQQHGobBWbd49rjFuo1OmbJICw9h4k7kK4YmZabk9cjvaqBbPeBx9EG+98umh7GaywV/Bn+GPQHvtxe+kzjMbruDK60nf9SM/qQzPqtvQln7YGeJOW3ezePh1bjUiF6n8a9LGaiHzTq6Nuv+7XFYNQSeR99ftaJ2Tikbh34p5/Ffkx5W+onVLpxw5kCltgk0pInpX/639hjYI6wqtB0pNCAFU2+K107zqgRYwTLevGDlMky7oe+JHR+39h2ppnOYk68kEQ0PGfIb94KpwKLYQSxkvyLTL4/nPh9G43HRVxlv6BGjuBDX4y2zvaCiVKI4zTTuaytsf2w3Bs0qJW6K9c6NgUO/Qwho4j6TATupBOKMtKdl4NW3Pgw2niAnHwGkiOofNoOGPUqb60WRRaIjtHNi4z1rUS4Nx1lo0CgDY54/W7j8tCJPq/hjSe7aBO5xcfzIMJp2xRHrMlZD5yqSohsoL/zM36xWdQPAboDmATotrFulecw==;412+O2GgH5vJ1TTZRn1R4g=="
 ---

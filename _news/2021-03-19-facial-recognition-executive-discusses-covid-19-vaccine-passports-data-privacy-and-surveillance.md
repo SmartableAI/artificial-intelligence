@@ -54,6 +54,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Pangiam Acquires Facial Recognition System Developed By Airport Authority"
+    excerpt: "Pangiam, a portfolio company of the private equity firm AE Industrial Partners (AEI), last Friday said it acquired an integrated facial recognition system"
+    publishedDateTime: 2021-03-19T19:53:00Z
+    webUrl: "https://www.defensedaily.com/pangiam-acquires-facial-recognition-system-developed-airport-authority/business-financial/"
+    type: article
+    provider:
+      name: Defense Daily Network
+      domain: defensedaily.com
+    quality: 53
+    images:
+      - url: "https://www.defensedaily.com/wp-content/uploads/2018/09/img_0913-1-e1536268148765.jpg"
+        width: 480
+        height: 640
+        isCached: true
   - title: "MWAA sells facial recognition system to Pangiam"
     excerpt: "VeriScan, a facial-recognition system developed by the Metropolitan Washington Airports Authority, has been sold to Alexandria-based Pangiam, a security and travel services provider, the company announced Friday."
     publishedDateTime: 2021-03-19T15:57:00Z

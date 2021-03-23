@@ -53,6 +53,20 @@ related:
         width: 800
         height: 390
         isCached: true
+  - title: "Idemia face, ID R&D voice, Aware fingerprint biometrics score top biometric accuracy rankings"
+    excerpt: "The results show Idemia’s performance in facial recognition for masked and unmasked faces, ID R&D’s in short-duration speaker recognition, and Aware’s in proprietary fingerprint template generation and matching. Idemia achieves top accuracy results ..."
+    publishedDateTime: 2021-03-23T17:39:00Z
+    webUrl: "https://www.biometricupdate.com/202103/idemia-face-id-rd-voice-aware-fingerprint-biometrics-score-top-biometric-accuracy-rankings"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 13
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/11142614/elearning-remote-authentication-data-protection.jpg"
+        width: 820
+        height: 460
+        isCached: true
 
 secured: "fEPzoGb/h6bnCZQWdOdcYQxrqJ98ZLG6ujci1gyUcTIDeoC9Dj2EXuQr1K6upp44F87ORdUyfJMmvvBlWK3cuwS0sn0+uhA8bqR/Mp52mLBbhmL3SoHnOgoClc3yxlR+rskur1T9oEoj65Yce2Xe00PSMKau0dnw0cJY6ywkZl5s4jpiRPPRGpyslQ9n68EVG8mmqwVuWorKepjZSFD4XMOX/DuejdAZYrf/P3p2tPueRtMFu6w0YuMHMdkj9I/CQXRLC1UlNKYHib39jz6yCUxPM6VqBfaX38h+lH5SeuzIQqqA32pWG/1j1j+5l6z/Rij9t4iG2yslPM8Iq16WyAAm1Xn8IF5TItPkfMvWtQlKyiWGX7pt45zrAXDPymcvdzJro7Q5qgjk9iIGvslinC91UDfI/W80QaNtHgPn9A2/ZFmq/zoBnnHeTqboeiQnHQZ7aIqMctizmJRo2z+YLK+2zeqvxtWloSydzrxMlxterT4Vvxh8p339iltkh+eiwRLgXwV1DK4/4Q4y8Wm+jw==;Edn0CWCyi5RqQyK53T9FYA=="
 ---

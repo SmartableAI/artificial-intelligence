@@ -1,14 +1,11 @@
 ---
 category: news
 title: "Google Lens: how to master Google's super-useful AI camera app"
-excerpt: "Handy if you're abroad and trying to pick up the language on the fly – or just simply finding out the name of a place you visited. Translation is one of the most useful features of Google Lens. More than 100 languages are supported, because it feeds ..."
+excerpt: "Google Lens is what you get when you feed the giant mountains of data from other Google services into a camera app. Point your phone at a product and Google Lens will find out what it is, and how much it costs online."
 publishedDateTime: 2021-03-13T11:00:00Z
-originalUrl: "https://www.techradar.com/au/news/google-lens-how-to-master-googles-super-useful-ai-camera-app"
-webUrl: "https://www.techradar.com/au/news/google-lens-how-to-master-googles-super-useful-ai-camera-app"
+originalUrl: "https://www.techradar.com/nz/news/google-lens-how-to-master-googles-super-useful-ai-camera-app"
+webUrl: "https://www.techradar.com/nz/news/google-lens-how-to-master-googles-super-useful-ai-camera-app"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
   name: TechRadar
@@ -28,6 +25,6 @@ images:
     height: 675
     isCached: true
 
-secured: "JXhyAD/xDDampUWSqmyyeC6d7v5AlMb8ceAui2mE9CwArXXyIJeBYiSmgAIYyrFKMReppC1kvBBkKdxFGFdiHaENVUTNT+y6iKmGgzuhnAhCrer0FgHfa+XJYdyzr5OVqpEMlBgsolWsl2gQeo79SOnIzaEQ3olGOq1luMPIfAPTciQgdyEmuPCH2Sq3/Ta77ns1j/cys5gFlleCG6XOVLCc3C/CF4d7vExyAv+uEFajO3HM+IaNyMMC4D+eOe32Gj+WCIDa5UgGmCIEZL35Up0ohq89UK6N79nBVEJZ7Hc54r+/E538L7hA7EOVTiRGCZK6n3zZcsV0HaukikQCWoKN7SuVhfy1ZVSOLMirigg=;Z2DDjXmYPJqgbgCgHgOBww=="
+secured: "ELRXavihrqlt3/GRm7SvLOxcGeArUkp1pwUA+KlhX/Q2n2YoMpWN44uE/DVLrzTduWK6O4WPrw/4twFNTrZI3RBu+bODV2kO2VORChF0wUkmLPP1l4htMZeLLspXQgJiQMPAafW9IRKtJ1RYXbnn6j0qN5Lo5rW8eRkD66hlfyHu+DMhNYK1djqVNCtXNYYPmdYIJjb7T5P4vQfW6ONNTPPuku3bp1Kf3rRN9yictYWvOGjbFtsUlVje3pBKQZkDPW5bezVl84c13z61kWscluXBoSdTaf1bBlxVtZDEc8TbqIOtxl6HGRmIfsoAyH1Oo8kmFWXVP9k7u1joCZM4FgwDbpfoXMBc9JF6H2250OE=;kgGNXDUKWab+jvLNKjqqZw=="
 ---
 

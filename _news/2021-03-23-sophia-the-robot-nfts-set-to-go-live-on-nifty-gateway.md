@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NFT digital artwork by humanoid robot Sophia up for auction"
-    excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with humans."
-    publishedDateTime: 2021-03-22T16:29:00Z
-    webUrl: "https://www.reuters.com/article/us-hongkong-robot-idUKKBN2BE0HM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BE0HM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BE0HM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210322&t=2&i=1555704100&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2L0CK"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Humanoid robot Sophia to auction its own NFT artwork"
     excerpt: "News Agency Humanoid robot Sophia to auction its own NFT artwork. Posted . Hong Kong-based Hanson Robotics' humanoid robot Sophia plans to auction nine non-fungible tokens (NFT) o"
     publishedDateTime: 2021-03-22T17:47:00Z
@@ -56,6 +40,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210322&i=OVE567UJF&r=OVE567UJF&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "NFT digital artwork by humanoid robot Sophia up for auction"
+    excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with"
+    publishedDateTime: 2021-03-22T16:00:00Z
+    webUrl: "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/"
+    ampWebUrl: "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/HONGKONG-ROBOT_-1-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "NFT digital artwork by humanoid robot Sophia up for auction"
     excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with humans."
@@ -102,6 +102,6 @@ related:
         height: 826
         isCached: true
 
-secured: "HsoZuaGs5OvwvfSjDHr+RShs+p+g9yrL49OhC4vDidLVrC2V8/CTOgD82yeG0kezIrTIcjyD0qDcXJqtRpTyLA32zAvyk7hEEzVVkdxz8wCeY4mELvkcwmu/bgudRrTuo2kGpKerGdqRmXWHBznQTgaFg2SNhWmC3BN1cE4lh6Q0uPGt78wUsBj/yKDovgTinJVFCLbxHXTrL6UGS3Z3RfkK/0F9Zgc+2mwlYrEJ9+xeDvpbE1ytcH7GNwWdT6muIKHwGwUjp2HbLVkqEP/qfUxso/hHW83z70EJ4lsI04s3uIWbLKWEBp9h3kFJXSBH3N6gAuR1PLrnu+ML+kag0tRB9lBq2EC3+rZbMJXBl7g=;Xv9TYAzYY012EYhdCL72ng=="
+secured: "V5nqBCThthMYsueiuMM/ye1pNZJWQRJTGDI8Y5BbKTrtFxkRljEwvGAGROP4BBHO/Vhte/iQwwfgPW1zPGBg0dfV5HbJxOLFsAaoSBu3WabngKPFV3zZisK1ENnLJtzuTNOj61gfpd1h2sJ+SsEQI3HViqgOMUM4mcINP7HMyXbiW4gYYWsQtN8XU+7gEUknmr9o/VXcrpAdLOFJqF1umPytCJs4oSJdMh1WUW4oWe/g109Msp4pcLp+gGVbK8LfGd2n9MMvwF106SGNNRin36GcVnrNJV4i1eWxiKvTWNJI3fINsfg58JlV8VGCz7vyY2rfT10nwdh6nZEiaM0pbNNESYyYstfJ2vdzSHCLqJoaOvQBwbeYciiylE7dU12nv1hk79OLtRYOt2zbyAwae1pfsp3mmMztQouhfp+G4JpcvSXPvUtAvgw4tEr5CWuqR61Zjrnc5u6j5gdaz9gwxVWyNSisQoidFtUEJ0tI4sRbdNcKr/4YYwiP+nnPn0NSBzf3kbl3NOzg915GLeao+A==;ToxIt172Q9YJVzHtlQ2PLg=="
 ---
 

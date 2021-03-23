@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challe
 ampWebUrl: "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/07/rpa.jpg?w=1200&#038;strip=all"

@@ -54,6 +54,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "LANGUAGE I/O RAISES $5 MILLION; Female Co-Founders Position for Expansion with Venture Capital Funding and Innovative Software Solution"
+    excerpt: "Language I/O, powering meaningful conversations between global organizations and their customers, today announced it has raised"
+    publishedDateTime: 2021-03-23T14:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/n20299032/language-io-raises-5-million-female-co-founders-position-for-expansion-with-venture-capital-fundin"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20299032"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20299032"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 7
 
 secured: "YRWfHIZgyvafx4VoBLeXOmwyF2upxFaD+c10f170CqorAnzOGS0uUIvlje8G8/G+LS1SIHvqxh+sqof+gF+gJERpSkEIR6UQVtHAvk55Qo6ibs6pJtPlzYw5MV6RcWKmg/QCrbC0pOudj5HRDESzrU3/LbxHGIHw/fPwnF84TpQun5UhVBxVKcmoBbv/8qMwUpcmiJ6GqEtS20yC8wRIvt5371XYjLDGugsMWqphQB7DCrZZ8TBtmMG2Mgtz3xR3E+Dhqo9JU3xN0KwbdCYRMcJzDnqM29sWuGL87yZWW0us7FSJtIsuqRD8VSZa2eRTapP2h2vzHgDTaz1oUIhC4h50oU0nxM9C73pC3Igjq/hzgD9HOr1hQppaW/eBs3QBCNC1LV7eWfSeQbnUZo1Wys3v3g/CN5OAF6Pa31pB24UtVAp1xoZ++KSFAN3Txn5IDIVnIlBz01/lZzwlfQGsQI1JaPD8fR3+soDXjLLvoGp69rrbTHdH1FCsCDNqqkAUOY/0BazVCtMebMh8qvRo+g==;isVSmvxceZyBNQa3V2zS/Q=="
 ---

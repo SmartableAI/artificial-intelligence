@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-kee
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence kept expanding through a turbulent year, with some exceptions"
+    excerpt: "Stanford releases its latest AI statistics compilation, showing how the technology and associated opportunities fared through the turmoil of the past year."
+    publishedDateTime: 2021-03-20T23:19:00Z
+    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/20/19ddf293-651c-4f9c-9293-d4d40fb83d10/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg"
+        width: 480
+        height: 383
+        isCached: true
   - title: "Artificial intelligence kept expanding through a turbulent year, with some exceptions"
     excerpt: "The year 2020 may have been one of turmoil and uncertainty across the globe, but artificial intelligence remained on a steady course of growth and further exploration -- perhaps because of the Covid-19 crisis. Healthcare was a big area for AI investment ..."
     publishedDateTime: 2021-03-20T16:19:00Z

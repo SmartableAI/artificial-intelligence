@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-women-leading-the
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-women-leading-the-way-in-ai-innovation/"
 type: article
 quality: 87
-heat: 147
+heat: 127
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Proven Arabia strengthens commitment to AI and robotics innovation"
-    excerpt: "As an AI-focused startup, Proven Solution will provide advanced portfolio housing AI, Robotics, Blockchain, Internet of Things (IoT), Augmented Reality and Virtual Reality (AR/VR) technologies. These innovative products and solutions can be customised to ..."
-    publishedDateTime: 2021-03-19T00:12:00Z
-    webUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation"
-    ampWebUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 69
   - title: "Strong Competition in Booming AI Infrastructure Market"
     excerpt: "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,"
     publishedDateTime: 2021-03-20T19:57:00Z
@@ -98,20 +87,6 @@ related:
       - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Examining the bias in artificial intelligence..."
-    excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-03-18T23:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210319094015-examining-the-bias-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09509427_1616147284.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "5pof6np2jg+NLmkA7B1QCySr5B/u0T9xNFcweCApXYIPC9PMJui8pCs7EIzVRxecMn5otN2pH+x7qVspIIOQEbHvrnDcGbEIbYWHWvFRSDQggnY+hgvEa5MWTugFFpiLzjnnxens4TvTFp58SFBcuHltqR+Lw/twfKB/c/YZsXUWetQk2MZKB54+NYHeYiF0xfYRCRkXD4eQYQiIElm9NpFr6w2Z9DGRBrix8GJRKPjS4xqroD3gCuwIRgkIuIwZc/YeaRlA2bu+eH7g6zvRSV1YRL50+fUUvNugIW2eYiAILei7c5omuuHltkRqx8B/NOAdOFlIo4l0IAxpwyj6jU60sUWOevYQH3ETavB9hcI=;V+VNuAqjLCqztZC/VAGT1w=="

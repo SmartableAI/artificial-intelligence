@@ -1,108 +1,23 @@
 ---
 category: news
-title: "Sonoma county to use artificial intelligence against fires"
-excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will"
-publishedDateTime: 2021-03-17T22:07:00Z
-originalUrl: "https://apnews.com/article/technology-fires-california-wildfires-artificial-intelligence-bf220a3dd2704815138d40dd3aa37db2"
-webUrl: "https://apnews.com/article/technology-fires-california-wildfires-artificial-intelligence-bf220a3dd2704815138d40dd3aa37db2"
+title: "Sonoma County to Use Artificial Intelligence Against Fires"
+excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
+publishedDateTime: 2021-03-17T20:34:00Z
+originalUrl: "https://www.usnews.com/news/best-states/california/articles/2021-03-17/california-county-to-add-artificial-intelligence-for-fires"
+webUrl: "https://www.usnews.com/news/best-states/california/articles/2021-03-17/california-county-to-add-artificial-intelligence-for-fires"
 type: article
-quality: 52
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://storage.googleapis.com/afs-prod/media/10718d1c2ef04a87873c930e52387856/3000.jpeg"
-    width: 3000
-    height: 1959
-    isCached: true
-
-related:
-  - title: "Sonoma County to add artificial intelligence for fires"
-    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added"
-    publishedDateTime: 2021-03-17T21:55:00Z
-    webUrl: "https://fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/"
-    ampWebUrl: "https://fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/amp/"
-    cdnAmpWebUrl: "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/amp/"
-    type: article
-    provider:
-      name: FOX40
-      domain: fox40.com
-    quality: 57
-    images:
-      - url: "https://fox40.com/wp-content/uploads/sites/13/2021/03/GettyImages-1277918953.jpg?w=1280"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Sonoma County to add artificial intelligence for wildfires"
-    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county’s network of wildfire detection cameras that monitor California ..."
-    publishedDateTime: 2021-03-17T21:47:00Z
-    webUrl: "https://www.marinij.com/2021/03/17/california-county-to-add-artificial-intelligence-for-fires/"
-    ampWebUrl: "https://www.marinij.com/2021/03/17/california-county-to-add-artificial-intelligence-for-fires/amp/"
-    cdnAmpWebUrl: "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2021/03/17/california-county-to-add-artificial-intelligence-for-fires/amp/"
-    type: article
-    provider:
-      name: Marin Independent Journal
-      domain: marinij.com
-    quality: 57
-    images:
-      - url: "https://www.marinij.com/wp-content/uploads/2020/10/Tubbs-10.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Sonoma County to use artificial intelligence to help fight wildfires"
-    excerpt: "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added to the county’s ..."
-    publishedDateTime: 2021-03-17T23:02:00Z
-    webUrl: "https://ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/"
-    ampWebUrl: "https://ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/sonoma-county-to-use-artificial-intelligence-to-help-fight-wildfires/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 57
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2019/10/gettyimages-1183890096.jpg?w=1280"
-        width: 1280
-        height: 897
-        isCached: true
-  - title: "Sonoma County turns to artificial intelligence for help spotting wildfires with lookout cameras"
-    excerpt: "Technology will allow the network of cameras to home in on suspected wildfires and provide alerts even when no one is watching."
-    publishedDateTime: 2021-03-18T02:19:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/"
-    ampWebUrl: "https://www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/amp/"
-    cdnAmpWebUrl: "https://www-pressdemocrat-com.cdn.ampproject.org/c/s/www.pressdemocrat.com/article/news/sonoma-county-turns-to-artificial-intelligence-for-help-spotting-wildfires/amp/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 45
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=EB48522B-809F-4F06-A5D5-66D58E4A0397&type=primary&q=72&width=1200"
-        width: 1200
-        height: 780
-        isCached: true
-  - title: "County will fight fire with artificial intelligence"
-    excerpt: "Sonoma County, Calif., officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks."
-    publishedDateTime: 2021-03-19T10:55:00Z
-    webUrl: "https://www.eenews.net/climatewire/2021/03/19/stories/1063727883"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 37
-    images:
-      - url: "https://www.eenews.net/image_assets/2021/03/image_asset_112297.jpg"
-        width: 938
-        height: 483
-        isCached: true
-
-secured: "GtUTuvq8qjWMz1XMy4m95GHp34WGDIRNHh1zwRAkmFtZEMfGZNEkaxVRKaRPhEv4nbTAlJnkpbjF+/36dQbJQxLDPRirdowuKm+zcptom1bdy4eTWR0SaieBBgA9fewkxGDSGoGnDPHucfzvIiT4LQZTCbJwyrygGIjZIRyvQC8sxWX305WtruvH9f3qWobpfyie0V4QaIU/nreAgXx0cRuW3W08Z5Xkx2iwmTPJA1BIn42jbEX9CjrKUWAFlerPdDdFy2VDT2wRCjOUObWstoo+XU7bmVyGibpDRhwEulQEhmKVGRH5NzNT0Y054CTmGjQq7+s5I/C/1ga6hzwqLKn4E0ecFB3YwtYsxALYPQc=;xLkrwXUoDZBlqMGkWBBz2g=="
+secured: "gpOOAW5Ab2UKZLfg3zqHJ2bb7dQr5jcrKyznTf8EMV3wFJUPTo6DcoBq0iVwsG9HB0GhXGejF8+Pp6dfqYXF513L7utFIO8kmFbBxbqJRiNokFbhY1yRCSVcSRX9gAogpb5+7lvYHNmJJrOTbxJJWitPaMXr9/kf1wkFQ6R7lxm2df1w0NMhVwuWW0S1KwJntAdYPjo/N12JQFyQs7+G9R/CDxT9dgyua0gTkJMuu6NslGxB+iYZx1a/0Jtt/y3PGz+ee8h6tcB2nZ4HlOhpaikERcXy1JzqG/1cG/BOR4yuU3xiVkZJgcEH7REMayV4NGRyyebpff7Ji4diZyw0VDot7wlbgyPqHffZu5a1SBUZJ9n43mson5DyCPVWCVLtnP4q5kv/0ibh0cM0b1mFkSa5+fn6dQAk0Z9KcD53xJ4XYbzC7oWLdY2TUkRtHLfJ2ZnE7uHwDT/CDGjbgRNG5UiITiknd99J9995Je2WuAwVaGsMgqFtWVvDQAmdBS5DbbJq0h+jstpeRbv+4aoNfw==;DnVffNPIXgGv4ts0HufQww=="
 ---
 

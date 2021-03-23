@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Eta Compute’s Low Power AI Vision Board Accelerates Design, Test, and Deployment of Transformative Embedded Vision Solutions"
-excerpt: "Eta Compute Inc ., the leader in energy-efficient endpoint AI solutions for intelligent sensing anywhere, announced its integrated, ECM3532 AI Vision Board, the lowest power embedded vision board that helps developers accelerate time to market."
-publishedDateTime: 2021-03-10T17:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-25b8b8b0b99b48839013f83de0bf2e2b"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-25b8b8b0b99b48839013f83de0bf2e2b"
+excerpt: "The development community is invited to see the AI Vision Board in action at our free webinar with Edge Impulse on March 31. “With computer vision, devices can understand the world around them, enabling them to be more capable, safer, easier to use and ..."
+publishedDateTime: 2021-03-10T22:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210310005080/en/"
+webUrl: "https://www.businesswire.com/news/home/20210310005080/en/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "xEtTjkMv49yeHhSfHLfwLavYFqmAgefiC25yf6WSobB6vpF6R+z7ciwveyg0USddY614Tl176pu81tSKMSY20ExuyPtflqULf+zZq0FIo/pp3LjJzLd9mNFW04x7s0kVKMqIfgsMPd6Ak//H0qI3BAtfefMHOgNYewD5iHyEt+Q7SjU+fVU/HYLtPghcqp9CsovKG9zhewog7+vswsFs0C5dE3vgotPmxOflEuNMtioDvTcmC0pflXY4TMUNDGw1tZ2cENyv/gUD+mWhBc6N2Pkb/59gOkCm/m3qlLA0PhJuyF+T/G6b7N7MlXdnOmrNId6CqsycgRpYJQkaFY19+Jx7OBre9cp6jKGJKXi1rbc=;wd6oxICWCA8LxxeoYm4RKA=="
+secured: "ZK80WGon0abPMIOzNR7CmtdLYRkWCz+CXdIK4fiT5BQFRYCY7V4diCDtFm1EVswMu3CSt4fpLWHdeJmCx3dUxbrKIQl5KioeBoUlYUjoOrIe/xPWXmAUiTAhasAlEiG1rcuG1ta5gQt31bQpi2Ak9CxEFAs85QW2JnXOezvz54ujNdmxW2Q8uXPgF2ofSY5wsQSyAqKl9WYQduxMqCeA6m8MuJSGnDHHMA++VFUnq7EmtzgptIjs7nuPsAIHYAdZv7xDQtwonUfzBY04zSo9q0HVhj9pULaMZe4qpuJnfNBC1slmaaUZoGEWfno5xycSM03WYatquBHMiVq2wkSCBHbB840o6GVyXz1ujRkRbWc=;yCXibuo5stVmA/kdSWikcA=="
 ---
 

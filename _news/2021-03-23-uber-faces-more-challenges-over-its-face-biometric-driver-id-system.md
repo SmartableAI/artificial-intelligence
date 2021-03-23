@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 691
         isCached: true
+  - title: "Pandemic changes facial recognition debate"
+    excerpt: "Law enforcement agencies and private companies have a history of using facial recognition to store data, identify people of interest and unlock smart devices."
+    publishedDateTime: 2021-03-22T21:03:00Z
+    webUrl: "https://www.milforddailynews.com/story/news/state/2021/03/22/pandemic-changes-facial-recognition-debate/4794844001/"
+    ampWebUrl: "https://amp.milforddailynews.com/amp/4794844001"
+    cdnAmpWebUrl: "https://amp-milforddailynews-com.cdn.ampproject.org/c/s/amp.milforddailynews.com/amp/4794844001"
+    type: article
+    provider:
+      name: The Milford Daily News
+      domain: milforddailynews.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/22/NMLF/5b497bbb-3c77-4de9-af58-082cc28a72ba-3000.jpg?auto=webp&crop=2999,1687,x0,y164&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "SEJqpptYEgcwdvVpucvPrJSBjNo/eSoCnk9yQFMQ96FLe9iHX9eYu5I07OSd77036XsGv8ZOnBTmmqQES8G0hdYZRZPzm9c9P+rE34nw2Pnsywmxl5eaG129/BZGvrM8rdROHxHtIjQoEr/1MNXeIWWYS5LCSTWeja00RTZjauEyPWK6a/iC7Y/FwbdqYVTthdL+vaEpuK7t2O9DcYo5goTY4kKIk1i+Lfz0mmBAbSjNgvcTrnxh7WnwA9c9mHyRXCAjxdlTG6JRTYgan6iaWTrbX2kLHwpCiUlxeamNPO5ivxSUFYzICRu1hDm4LuB7N8KgCfajw0zIg7g3lDRppQHvFhA50a/iujNbcJF3UrTL0UatwfK/p+S9kb20otanDTO1XxVKw5Z9Pkobvy7/SQO28NQOl1dksey9DXc9cNFDQVDWdMfeBUAEVjZEz4ntfEQjN1u10bViPS1Kv2Yh+WxvDmWWKauKoEayFn1qLa/IF39bXSDQp8J3jhOkGDzJa77E4dZpJHXnInUb4d5Nng==;uQlMhaqLXlyEaO4ORo2ZQA=="
 ---

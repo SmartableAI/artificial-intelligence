@@ -48,17 +48,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Proven Arabia strengthens commitment to AI and robotics innovation"
-    excerpt: "As an AI-focused startup, Proven Solution will provide advanced portfolio housing AI, Robotics, Blockchain, Internet of Things (IoT), Augmented Reality and Virtual Reality (AR/VR) technologies. These innovative products and solutions can be customised to ..."
-    publishedDateTime: 2021-03-19T00:12:00Z
-    webUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation"
-    ampWebUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
-    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 69
   - title: "Strong Competition in Booming AI Infrastructure Market"
     excerpt: "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,"
     publishedDateTime: 2021-03-20T19:57:00Z
@@ -100,20 +89,6 @@ related:
       - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Examining the bias in artificial intelligence..."
-    excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-03-18T23:57:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210319094015-examining-the-bias-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09509427_1616147284.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "8osEXvUM3PJv0RAwJTxoWn30xDaj70PjoNTdoOFxLpgn49mqs7piQaSzDDTcapAKooSK47m8fyimQPlj61qcI8FV0FPvwehFhlZ9iLcKJEJsjxc9CAvL9Mo/78wbQYX/n2t1rZQ3b92a6QomgwlT7/RO8pf6iqnGP+nSA5umcB+oDFV+8tLw60SBGVY6Io133Qnj0/eVx5oNuCSs5pRHt3cGx7vzOI5u9Z9XhRGjgjAG9RGoutf5nWvrkDg+Cm/d8R2E/vQSLlxcuNmydFuMbH6I5ywj6SDMuH8G+HyLkqm4zxEbIaqS4RKYlcxSHXVOMMmlau3tQsLDRlBVHW56+0f6fUzpOS7CPnPPV3q5OUFpLZlhkwnAbfELg2XKY/HMyABJaKF+vUShU/YzWnDZaQ9fd26QFOkT8kQb9fC95PwFQUjQVmMUICAjfTEq/lIN7iYH0h6EJlBytU3DlMtm2h/IDhWAo1V5xnxf3sdqF9UZ1T4BQg9IQzbNSLdlAn40EN15ZHUXLfxl7yqhkcoDfQ==;USUnF6BbF55PLdyB0rZLqA=="

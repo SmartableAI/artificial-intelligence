@@ -1,30 +1,50 @@
 ---
 category: news
-title: "Researchers' algorithm designs soft robots that sense"
+title: "Researchers’ algorithm designs soft robots that sense"
 excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
-publishedDateTime: 2021-03-22T13:55:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/miot-rad032221.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-03/miot-rad032221.php"
+publishedDateTime: 2021-03-22T04:11:00Z
+originalUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
+webUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Massachusetts Institute of Technology
+  domain: mit.edu
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/259753_web.jpg"
-    width: 1440
-    height: 960
+  - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Sensor-Placement-01-press.jpg"
+    width: 1500
+    height: 1000
     isCached: true
 
 related:
+  - title: "New Algorithm Could Aid the Rise of Soft Robots for Tricky Tasks"
+    excerpt: "Soft robot development could benefit from an algorithm that optimizes sensor placement allowing such machines to better ‘understand’ their environments."
+    publishedDateTime: 2021-03-23T16:51:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12109"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12109"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12109"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 74
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12109_16165176633231094.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "MIT’s New Artificial Intelligence Algorithm Designs Soft Robots That Sense"
     excerpt: "Deep-learning technique optimizes the arrangement of sensors on a robot’s body to ensure efficient operation. There are some tasks that traditional robots — the rigid and metallic kind — simply aren’t cut out for."
     publishedDateTime: 2021-03-22T11:30:00Z
@@ -57,32 +77,7 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Researchers' algorithm designs soft-bodied robots that sense their own positions in space"
-    excerpt: "There are some tasks that traditional robots—the rigid and metallic kind—simply aren't cut out for. Soft-bodied robots, on the other hand, may be able to interact with people more safely or slip into tight spaces with ease."
-    publishedDateTime: 2021-03-22T13:38:00Z
-    webUrl: "https://techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-algorithm-soft-bodied-robots-positions-space.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 50
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/16-researchersa.jpg"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "MIT: Researchers’ Algorithm Designs Soft Robots that Sense"
-    excerpt: "both PhD students in MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). Other co-authors include MIT PhD student Lillian Chin, and professors Wojciech Matusik and Daniela Rus. Creating soft robots that complete real-world tasks has been a ..."
-    publishedDateTime: 2021-03-22T13:54:00Z
-    webUrl: "https://insidehpc.com/2021/03/mit-researchers-algorithm-designs-soft-robots-that-sense/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
-secured: "28pY9Q1d1TsdDXp6S2ohGakBRud7c1Z3chaV973q4IJHU1h6U3GE5GaaOWiMNT1A5l+06DN/W2fz54IRE9ydGbys7s7BbyHje7XMc52bnMHNmVZ2tW4YoDJ/+jRJEP069ZudK/PNi+WgxTJWxVkZm16JsEQChM4thglfIeihizyO6Mmf6BsmNsx14datgnbQ1k/dcgqvmnQChtmCztLOnTa956jLbujYJqCR7WgaZQqimeXL/Jdke3WdOgXcorEOAupwTAfROZ9ielakCOUo487EFJLQGFRy0ckBxKwWQGnYRmr7sGZLCync7cSbmsXK/h4YwFfkfoxEFYoMP6gbhaAGYlJOpMucWXnq+DmXkDVvT9GzqB5FIhIJJX9NoRIrQAlDpXTEa2JOfVjvNCwZ/k4nPMIskR26oeMil50gVcM3qEluYaPNHBXgCQ68NkcBj+h8Pi/kvWbkdR4gQq0rnSzBRdJ7HkKsa87r5tkzZeySwycGUclXsnLVqnf2P3My4FFWxZqn/t1f+XoPEkzLCg==;mjn6G/QAeg0DQsqok45Vfw=="
+secured: "y/sB/6p1/cu33QLrnkD+BGi0zSIqJJeIN5hw13gEQwWNgt0Boq3by0Zvo/6yHq6hwv7ZnHabK2mH6pGIcXj0zgMetwQQiiuqhm9ojrZdhOfE5slKrxWHld27iVJvmduoBaElcsdF7Y9LrkAzu4tuEbmFpqfNiFXbDk2NmHBRTzrl4OgZIs3WZ3YcjmXpOHicyHi5+DGS2synOmgRtgpCTWvwqzZ+kmPzobL3zd4WEBqjj/+r31lUCkmBRaZa/yzBj8tiSzuPEVGt+AhL1/T1MV4oS3nbMOtar+JvLiIMoIuQB/hk0+RiaEeEnjvfFsFgIwCWEcs4m9i37Li5kQ3dLMFKBJEIDLmoYTJ6cRwfBZA=;RDrh/quP1StUMu1jEbqMEw=="
 ---
 
