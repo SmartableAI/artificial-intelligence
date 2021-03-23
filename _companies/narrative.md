@@ -7,7 +7,7 @@ otherNames:
   - "Narrative Clip"
 overview: "Narrative is the company behind the Narrative Clip camera, a tiny camera and GPS that you clip on and wear. It’s an entirely new kind of digital camera with no controls. Instead, it automatically takes photos as you go. The Narrative app then seamlessly and effortlessly organizes them for you."
 type: "profile"
-heat: 50
+heat: 18
 
 website: http://getnarrative.com/
 
@@ -21,7 +21,7 @@ crunchbase:
 twitter:
   username: "getnarrative"
   url: "https://twitter.com/getnarrative"
-  followers: 23948
+  followers: 23947
 
 size: 11-50 employees
 yearFounded: 2012
@@ -46,6 +46,6 @@ images:
     isCached: true
     title: "Narrative"
 
-secured: "eRp75AixaO22FRSAVlaN2Og0EHHaG8ylhicOGkR0E3aFEA+MozgrTI/+Sm9S59hX+tgMnvfHq9jDIDE7k4bzX/jI1G/XG+xXhPbuVkNhB0CXgS+J+7G05Vp7cnRL6qpwW/HzrJoy1V2hFtNkf2A8Sac8AbJf1WOu+cBKTWIArBD/JQGUrB7pz/EwycsXluS3EpucUjB2FEc4Fc2xq8SjugFhKqZwmdktsQNxDp9GCZy5SOWpBnQSYHv9dfmrw02y+KY03Lr/QQjdKwT1h01G5UPGJL88DDOZBGG22U7CLoJTpb/NLum8ns9fjjSx3c2sKPH5ByNkDneSYJmSeoWiP+bbX+S7p3CfHiog2KipV7E9g3d+2w/nZ8ElFtug6OmxYOKysm7ijvr6+IGDOPxZjQr0v5AdEoTMd4wJwTPyTkk=;GJ3csqPHjC2Rhy+EDpBduA=="
+secured: "ML1G5TuVzSgWNDxR81pJ9b7fYfiIb3XApx3/xuVyukvQLUWl294qNXBTQgZeW2kajw8/GCIbpzPmhcyny+4BgTIYeJ/6xJVQtBrJNyFZYmf/CDvjSdKEeLNtnAARXut5nxbgj9h6X32vyLN8sg6DmJeX5SpmmKf4YRdi3WRy02kgSt/WqbH9umLG4RfvYNniyd1SoxD0NsnyNBTUE7kdcYOscEJEf7M03E+qpNO7D+TTqt5KBdTHyWfRmRcheQ6+2ZtZgw7XibA4x8OPNh/sKXGEFtjHsr1rfs4nDEyoBoK54C8AD7lb2OjhddjMxBzW4i0/RaKosnNOZ/oC0CoAxqiRl9YEZoLEyCK9c6AGXez4fRccJYSGqPMMNfuc1hnodjUKIkp0NDtnFYzpk7c6m0jU8ZHxyy0BWAf5iO43STA=;Psj7O9JSGOadb1Lm7ksgVQ=="
 ---
 

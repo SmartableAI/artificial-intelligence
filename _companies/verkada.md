@@ -2,7 +2,7 @@
 name: "Verkada"
 overview: "Verkada builds security cameras and software that detects action, identifies danger, and helps organizations keep people safe and secure."
 type: "profile"
-heat: 101
+heat: 98
 
 website: https://www.verkada.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "VerkadaHQ"
   url: "https://twitter.com/VerkadaHQ"
-  followers: 901
+  followers: 903
 
 locations:
   - San Mateo, CA
@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Verkada"
 
-secured: "a0tkzXwhCpqviaM8ObjBlcOzb/OIZnqA78btoQ3c7Ob2Vc7eG15xCE2vcUNZ6d0U05DB8kruNDcKLMGcboSk7MlNsBmBcri04q6zM+vN6FsI6b5wc6e3ijPA6sSaBV9VjKScRKq2hqrlwZFYQMnSnvGLsabIXwelZhyIjDzk7IHXu7IiSiarBp0oV1nscK5M/yDU59duAyuvm+jpoNPWyS59jXrlhn3ByOgG4YzVum0G10HedDPcRz0RBUN9q+85zenb0k0J0K/1AF23jnEsz5aczL2rziJQ97/eFHGEwh4athB8EtMGPwBJYrpZT4UfOULArwzkAXqIzLao2AqKwnuNmnwQZy288iFEZwcLR/33sq+re3i6alt/4fJg7zNDyKQPjBMsK2DBI9UYlL+2Kg==;8RPuUGg3LNomqZKsBgVn3w=="
+secured: "8FueEdcArSOlrIN4eCrvDbMBtPKJ96eMSHfrqTDoJGSiADRfzZBNPM5OfJwB4W5gXgdEzy3PkcXoPiajlfnI74upLK27YiNOFdiIBh2iO/Asz09qhsvFDZ790PPM32Yp9K8Diq7CSSawLd6WL7yFWU7XGb9xBSdFko0ZS8VDOpQVTANJH9Xd2Tdf6kFpT1F07rqmKcRKh4b8yBwzYUZlPTLA0ixPaba+RsWj7h9hP+YO7vQLGs7LoANFyOEE2SZ9Q4gfKG3u9CbaLEptSzRCq0gKqLpoyhEs6v3ZusGYV05mJKcuN0LdXnJWBC+uaidNJ1wPbPeVIBP+zW5ksiZww/MweY8c58/cLIjtiksoPbv/urY6yb0p1L0U1z3rMvUgPgzTcloE8SrxaprNXgzKyw==;mVRgb6gjScg9m88I1fZYbA=="
 ---
 
