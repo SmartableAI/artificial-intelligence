@@ -40,17 +40,6 @@ related:
         width: 640
         height: 479
         isCached: true
-  - title: "US India Artificial Intelligence (USIAI) Initiative launched"
-    excerpt: "We need to further scale it up in various fields, and Artificial Intelligence (AI ... and domain-specific opportunities for R&D in healthcare, smart cities, materials, agriculture, energy, and manufacturing."
-    publishedDateTime: 2021-03-18T16:44:00Z
-    webUrl: "https://indiaeducationdiary.in/us-india-artificial-intelligence-usiai-initiative-launched/"
-    ampWebUrl: "https://indiaeducationdiary.in/us-india-artificial-intelligence-usiai-initiative-launched/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/us-india-artificial-intelligence-usiai-initiative-launched/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 54
 
 secured: "3dYFgaYkb9hLB9N11ZyJu7df3X4lTqCVM3oTQ2UPSC6VnQE9TuCsKkDcGD5ByCrkvzgsEjaSbqDKgTTmvR8yKSV5MWtDAwF7PGQvW/lFxnZWJU9X/d+EjW+FF2dd+jfrHuVhRHx4b09/3wGUTggjMzjpM0Wge821uA3OmdqambquqD+/nCLwBl2S4vV+TtmUSRB17w5qJCShrlhYT4xLe0xl6z3MOEt2ClvliGOsMJTpioC5iMD4XNE/X+JablykX0sY2dcBhdz23yFlIotbvzZXox8ppbIXE6J4uSCuUQYZIvvEDI93sk2kTgVSioLLAPGKum275HZ6MIqp70G8QIAg6pJOeJUXkxFY2688kMM=;R9a5e+XV3cMKjPOwSByZqA=="
 ---

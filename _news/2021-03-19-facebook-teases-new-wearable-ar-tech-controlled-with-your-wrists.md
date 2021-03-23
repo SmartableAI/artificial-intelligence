@@ -90,22 +90,6 @@ related:
         height: 675
         isCached: true
   - title: "Facebook Unveils AR Control Device That Taps Into Your Nervous System"
-    excerpt: "The Facebook Reality Labs team also is developing a contextually aware, AI-powered interface for AR ... as provide an update on its haptic glove research. Facebook emphasized that the approach ..."
-    publishedDateTime: 2021-03-18T15:32:00Z
-    webUrl: "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/#!"
-    ampWebUrl: "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 44
-    images:
-      - url: "https://variety.com/wp-content/uploads/2021/03/Facebook-AR-wrist-controller.png?w=711"
-        width: 711
-        height: 400
-        isCached: true
-  - title: "Facebook Unveils AR Control Device That Taps Into Your Nervous System"
     excerpt: "Facebook has a team of engineers working on next-generation computing devices and interfaces. The group’s latest prototype: a wrist-based controller that uses a combination of artificial"
     publishedDateTime: 2021-03-18T22:31:00Z
     webUrl: "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/"

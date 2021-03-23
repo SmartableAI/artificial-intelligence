@@ -21,85 +21,15 @@ topics:
   - AI
 
 related:
-  - title: "Entertainment Robot Toys Market Size, Industry Growth, Trends, Price, Report and Forecast 2020-2027"
-    excerpt: "These robots have the ability to interact with people by singing, dancing, and by telling stories, especially to children. With the advance and developing artificial intelligence technology, growing the geriatric population, and increasing demand for ..."
-    publishedDateTime: 2021-03-18T16:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/entertainment-robot-toys-market-size-industry-growth-trends-price-report-and-forecast-2020-2027-2021-03-18"
+  - title: "Global 3D Facial Recognition Systems Market 2021 Vital Challenges and Forecast Analysis by 2031"
+    excerpt: "The latest research report provides a complete assessment of the Global 3D Facial Recognition Systems market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
+    publishedDateTime: 2021-03-19T08:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2021-vital-challenges-and-forecast-analysis-by-2031-2021-03-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market Strategies, Major Industry Participants, Marketing Channels and Forecast To 2025"
-    excerpt: "Mar 22, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Computer Vision Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and ..."
-    publishedDateTime: 2021-03-22T08:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-strategies-major-industry-participants-marketing-channels-and-forecast-to-2025-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Chip Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register"
-    publishedDateTime: 2021-03-22T12:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Size, Share, Challenges, Strategies, Forecasts 2019 To 2027 And Industry Analysis Report"
-    excerpt: "Artificial intelligence in healthcare is estimated to significantly reduce the cost of the treatments as there would"
-    publishedDateTime: 2021-03-22T08:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-challenges-strategies-forecasts-2019-to-2027-and-industry-analysis-report-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
-    excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
-    publishedDateTime: 2021-03-22T12:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market Overview, Merger and Acquisitions, Drivers, Restraints and Industry Forecast By 2027"
-    excerpt: "The Global Artificial Intelligence in Transportation Market is projected to witness a significant increase in the revenue generation and is expected to register a CAGR of 17.2% in the forecast period of 2020-2027. The report further segments the Artificial ..."
-    publishedDateTime: 2021-03-22T17:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -133,24 +63,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IFR Names Five Major Robot Trends"
-    excerpt: "According to Bieller, the following trends are driving demand for robotics technology: *Robots learn new tricks. Artificial intelligence software in combination with vision and other sensing systems, allow robots to master difficult tasks, such as bin picking."
-    publishedDateTime: 2021-03-18T18:27:00Z
-    webUrl: "https://www.assemblymag.com/articles/96232-ifr-names-five-major-robot-trends"
-    type: article
-    provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 39
-    images:
-      - url: "https://www.assemblymag.com/ext/resources/images/2019/UR/universal-march-2021.jpg?height=635&t=1616092024&width=1200"
-        width: 900
-        height: 550
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market Key Players, Competitive Landscape, Growth, Statistics, Revenue and Industry Analysis Report by 2027"
-    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
-    publishedDateTime: 2021-03-22T16:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-key-players-competitive-landscape-growth-statistics-revenue-and-industry-analysis-report-by-2027-2021-03-22"
+  - title: "Cognitive System and Artificial Intelligence Systems Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2031"
+    excerpt: "The major vendors covered: IDEAL.com, SAP, Ipsoft, Intel, Google, IBM, Wipro, Albert Technologies, Megvii Technology, Astute Solutions, Ada Support, IFlyTek, Microsoft ... financial services and various challenges faced by Cognitive System and Artificial ..."
+    publishedDateTime: 2021-03-21T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-and-artificial-intelligence-systems-market-2021-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2031-2021-03-21"
     type: article
     provider:
       name: MarketWatch
@@ -161,6 +77,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Singapore Facial Recognition Systems Markets, 2016-2019 & 2020-2026 – ResearchAndMarkets.com"
+    excerpt: "Singapore Facial Recognition Systems Market size is projected to grow at a CAGR of 17.6% during 2020-2026 Singapore’s facial recognition systems market is one of the emerging markets in the Asia Pacific region."
+    publishedDateTime: 2021-03-19T10:58:00Z
+    webUrl: "https://www.financialbuzz.com/singapore-facial-recognition-systems-markets-2016-2019-2020-2026-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 8
 
 secured: "dd33K5WQo/TYZzlP4F2bqRBw+4riAz6MM8c6Fh+Mk/nFulY9p/Uqz3F6zwfPW1yZ8xwrBC6zXVGBhIpn0IxFX1O1eEYEDKnhmpNbASh5apqvc3OY7yKlJJNcGghZCC2A6I9aAv9LAbfXG0OJeEKXHdr3oS/Xu84an8ncyGL6gZJRUpX6lltZphPHvyG8vfTHK8KQ4MkY1r2w+wfsTlsJ2k4wtGP/vkstBBXMQD/QHF7jKg+oJaZKCOMZJJopVjIkLsOm6aeFLuErot4f4hr9GD4ONtaXscv9SWksOxVLqYXzMCyjvWfcm/hvZseKW3AMpgsBt9Drifp3lVHHnqT8p71JtG6oJgDkVrHOdnDTD/0=;KG/qU59c++BoHeoYqeiSEQ=="
 ---

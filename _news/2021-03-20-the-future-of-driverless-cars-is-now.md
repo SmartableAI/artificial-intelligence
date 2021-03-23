@@ -1,27 +1,27 @@
 ---
 category: news
 title: "The future of driverless cars is now"
-excerpt: "In a series of conversations between film director Martin Scorcese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series \"Pretend It's a City,\" somehow the subject of"
-publishedDateTime: 2021-03-20T15:00:00Z
-originalUrl: "https://www.macombdaily.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_f9f85a1d-3514-578b-888a-e3b4e3701661.html"
-webUrl: "https://www.macombdaily.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_f9f85a1d-3514-578b-888a-e3b4e3701661.html"
-ampWebUrl: "https://www.macombdaily.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_f9f85a1d-3514-578b-888a-e3b4e3701661.amp.html"
-cdnAmpWebUrl: "https://www-macombdaily-com.cdn.ampproject.org/c/s/www.macombdaily.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_f9f85a1d-3514-578b-888a-e3b4e3701661.amp.html"
+excerpt: "Like objects in your side-view mirror, driverless cars or autonomous vehicles (AVs ... consumers across the age spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among male respondents and ..."
+publishedDateTime: 2021-03-20T14:00:00Z
+originalUrl: "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html"
+webUrl: "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html"
+ampWebUrl: "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html"
+cdnAmpWebUrl: "https://www-dailytribune-com.cdn.ampproject.org/c/s/www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
-  name: The Macomb Daily
-  domain: macombdaily.com
+  name: Daily Tribune
+  domain: dailytribune.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/macombdaily.com/content/tncms/assets/v3/editorial/6/d7/6d7bdcec-2b3a-55a2-a0eb-696b603fec5f/6042b8eca60c8.image.jpg?resize=1024%2C576"
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailytribune.com/content/tncms/assets/v3/editorial/5/6c/56cfd92c-ae3a-5dd0-bbe7-b7f5ebc24490/6042b86fd8efb.image.jpg?resize=1024%2C576"
     width: 1024
     height: 576
     isCached: true
@@ -41,7 +41,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Driverless vehicles to transport passengers for free across Abu Dhabi"
+    excerpt: "The Department of Municipalities and Transport (DMT) will start the trial operations of autonomous vehicles for transporting passengers in Abu Dhabi. Driverless vehicles will be piloted in two phases."
+    publishedDateTime: 2021-03-23T08:37:00Z
+    webUrl: "https://www.gulftoday.ae/news/2021/03/23/driverless-vehicles-to-transport-passengers-for-free-across-abu-dhabi"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 39
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/culture/2021/3/24/car.ashx?h=500&w=750&hash=C4440672A8CC29C2469DD6C2B64F4F9D"
+        width: 750
+        height: 500
+        isCached: true
 
-secured: "3hxnOFF3NpiEIZ4hNJZwKaBrDJXwASpZlhQZ8BKR0yEcQKoCocq0d/HzqQPlDq2a1IJzxj6nwJvny7ZGqY8dwNcEeNekrMeU6UzvZV0T8LPTJrK9Y0CX6ESCQf18HTkKtLZ0fzLGAGREyQ3I3l2N50f2OWzvIMhcAyrcyDBTLVoOzkIojY3z5UVuti8E7kthlcnhBmxsic3xA0wTLTzLJe+fpVmwcyfIQezlLIqwwpwT18yc0dhz51BdCNbhGOjLK7A6HClTH0c/7Crz1vt8ndbdlOtnl52P2kcJaCzP95my6hlo7MlW6tXKKnTdvPZdmfjARksjSViJLXsp5V3CFm0XmvvGJAiMFquX2P/ZgW7VuKheyhth6+InhGLCmyFHP4Y5qfi4AKUyMBfFiT/eg+8wUFCXveGerO35/vTB26IZ28X8UPAT2Xbapc3fEYOFMZwHn5dRIMlyaUJjAJSXALQdQ2lL6WVFhMGwBuzv97aRVPYl3Q+1LsPO01wM+3CrAl3yJVA1uxG3WpvGCZ8mNw==;pGmVe1lj2Z7LdHjeya1MBA=="
+secured: "0VcpE4pj7jBZeZfgnd7UkzD+naXqyHg4PkxEp7MjiWII0JYPM8JvZe4pze9EY07KAwx8Em6Q0hn6LSBYckTe6fezT8ZrI1Y8gKU8oSZviXegvGyWdAn5SWrkMfWl9Y6nmGD1IelXm53VC5Ry6wl4O8RX2E8C3d81IFNzgpSZTLtCWYxsxlQnRIPDm1nASdisCd8VpkAHynDnK+dascbwIya+7ZqxUJcR0Yhu+gX2w7mw1MRdZxlgvMF1iahXpBVABRcntYghyeLx2LwmuyQEotVUWpMQyHnLNt2BNoFWNy34AeiIGA+8yVx+nqWQeOBCTDP/eJvHTjaNwjcKP86hJCHuPBn9ECm756qHlbXjHXk=;6Vp9sl9ZMxor4L8EF5uPXw=="
 ---
 

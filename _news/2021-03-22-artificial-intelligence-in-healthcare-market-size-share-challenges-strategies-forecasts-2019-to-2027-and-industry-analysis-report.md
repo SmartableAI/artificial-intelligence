@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Entertainment Robot Toys Market Size, Industry Growth, Trends, Price, Report and Forecast 2020-2027"
-    excerpt: "These robots have the ability to interact with people by singing, dancing, and by telling stories, especially to children. With the advance and developing artificial intelligence technology, growing the geriatric population, and increasing demand for ..."
-    publishedDateTime: 2021-03-18T16:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/entertainment-robot-toys-market-size-industry-growth-trends-price-report-and-forecast-2020-2027-2021-03-18"
+  - title: "Artificial Intelligence in Education Market Outlook By Share, Size, Trends and Forecasts 2025"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Education Market, which has been"
+    publishedDateTime: 2021-03-23T08:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 73
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,6 +71,62 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Travel and Hospitality AI Market Size Estimated to Surpass $1.2 Billion Mark by 2026"
+    excerpt: "These robots assist customers with basic tasks such as help desks, hotel room detail, restaurants and timings, hotel maps and other related tasks. These prospects for the growth of new AI start-ups in the travel and hospitality industry has been developed ..."
+    publishedDateTime: 2021-03-19T10:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/travel-and-hospitality-ai-market-size-estimated-to-surpass-12-billion-mark-by-2026-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Retail Market Anticipated to Register a Significant CAGR over a Forecast Period 2021-2025"
+    excerpt: "Mar 22, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Artificial Intelligence in Retail Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on ..."
+    publishedDateTime: 2021-03-22T06:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-anticipated-to-register-a-significant-cagr-over-a-forecast-period-2021-2025-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025"
+    excerpt: "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as"
+    publishedDateTime: 2021-03-23T07:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025-2021-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market report based on Share, Size, Opportunities, Research Methodology and Segmentation"
+    excerpt: "In terms of market share, the natural language processing segment is projected to contribute significantly to the global artificial intelligence market in the education sector during the forecast period,"
+    publishedDateTime: 2021-03-19T17:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-report-based-on-share-size-opportunities-research-methodology-and-segmentation-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
     excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
     publishedDateTime: 2021-03-22T12:39:00Z
@@ -99,73 +155,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Industry Global Market Growth, Status and Outlook Research Report 2020"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6515304-covid-19-outbreak-global-artificial-intelligence-emotion-recognition In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the ..."
-    publishedDateTime: 2021-03-23T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
+  - title: "Enterprise Artificial Intelligence Market Global Major Companies Profile, Competitive Landscape and Key Regions 2021 2025"
+    excerpt: "Kenneth Research has published a detailed report on Enterprise Artificial Intelligence Market , which has been"
+    publishedDateTime: 2021-03-23T08:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-global-major-companies-profile-competitive-landscape-and-key-regions-2021-2025-2021-03-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Enterprise Artificial Intelligence Market Research Report 2021 Market Insights, Overview, Analysis And Forecast 2021"
-    excerpt: "Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and"
-    publishedDateTime: 2021-03-22T19:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-research-report-2021-market-insights-overview-analysis-and-forecast-2021-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "IFR Names Five Major Robot Trends"
-    excerpt: "According to Bieller, the following trends are driving demand for robotics technology: *Robots learn new tricks. Artificial intelligence software in combination with vision and other sensing systems, allow robots to master difficult tasks, such as bin picking."
-    publishedDateTime: 2021-03-18T18:27:00Z
-    webUrl: "https://www.assemblymag.com/articles/96232-ifr-names-five-major-robot-trends"
-    type: article
-    provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 39
-    images:
-      - url: "https://www.assemblymag.com/ext/resources/images/2019/UR/universal-march-2021.jpg?height=635&t=1616092024&width=1200"
-        width: 900
-        height: 550
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market Key Players, Competitive Landscape, Growth, Statistics, Revenue and Industry Analysis Report by 2027"
-    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
-    publishedDateTime: 2021-03-22T16:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-key-players-competitive-landscape-growth-statistics-revenue-and-industry-analysis-report-by-2027-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cognitive Services Market Report: Trends, Forecast, Projects between 2021 and 2027"
-    excerpt: "Overview of the report A recent published report on the Cognitive Services market gives an in depth evaluation of the industry in its brief overview of the Cognitive Services market The review discusses several key aspects of the Cognitive Services"
-    publishedDateTime: 2021-03-22T11:34:00Z
-    webUrl: "https://www.openpr.com/news/2259863/global-cognitive-services-market-report-trends-forecast"
-    ampWebUrl: "https://www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
 
 secured: "E9xqXe5jcbTqzDU89s1JmQ0p/FUIslJblZwwjpHIAICgGx0xR6JGgqYQiifP4dsqNi8PNlJdUtsLdu5Lyn9TXAxjW+wbh7vw/MkfXYldkfaJ/CiLIzq56l1f0oKdf2W8HuROyrEhiE4JQOQhIVgzjVieupTMxqRf/dmY1USa/br2Ub1g1VvGYuUjr6/qAeOyEHOIsR2BHS7w/ntgiNH8K9sI3cE3p55DnJa3c6rUG2C27eZVNJ36c3nMICljHhRxAeHZAW6maiBve9SrnzlcVC5Fhfml6PoNMDzXWW6QWMIH++3/SzuKE1bzdGfOhvApqo3G+sXz+rmchKIvFUprcAuohR44gYbFdO3KE1n3GH0=;g/lt1ev0P67KRMt+5+mC4Q=="
 ---

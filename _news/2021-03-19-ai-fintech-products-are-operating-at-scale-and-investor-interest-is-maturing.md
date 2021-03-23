@@ -61,20 +61,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 33
-  - title: "NAB runs loan deferral calls through speech analytics"
-    excerpt: "NAB ran tens of thousands of outbound call recordings through speech analytics models to check that customers were given appropriate disclosures on loan repayment deferrals during Covid. Chief data officer Glenda Crisp revealed the project at the Melbourne Business School’s business analytics conference last week."
-    publishedDateTime: 2021-03-21T20:07:00Z
-    webUrl: "https://www.itnews.com.au/news/nab-runs-loan-deferral-calls-through-speech-analytics-562285"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_nab_iStock-522790626.jpg"
-        width: 1400
-        height: 900
-        isCached: true
 
 secured: "oeFreiTLmhe0HFXJQupXg6IF8S6gTJlYtR2WEWuw5Wau18tAEYNyTUMu3yGxLcbt1+dOP3ZXOTdOH05i7nnjGCJUV0GX+jw+CVwVwJe0LuV+7UZeiJ0hTjG0LyFIdSsGuktCIAtSQByXNNna4NS3g5QHu0bGLz/bKkrUCpncBoQtCV4U9f0n/r8pDXshuWX7KUP3F5g51vFBxNyEVMFcgr11gOHOKr7dIl+aukn/Ks1V9OOudw+227SaE14xQPTUbqOOXxECNdVsRZqAhPMMBnUuxDRDq8NJB2HRhjRq9IPJ4nAbDdnakW93/YRtDYemPGeWQdcRGaqopl1PqA0kQajZLs9S91RBl05WHLTUrAk=;5M0GD+r8Qj8IUINDT8rlEA=="
 ---

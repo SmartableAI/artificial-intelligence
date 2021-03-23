@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/china-poised-dominate-artificial-in
 webUrl: "https://www.linkedin.com/pulse/china-poised-dominate-artificial-intelligence-ai-market-bernard-marr"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     height: 720
     isCached: true
 
-secured: "MJpQmc/9vi5bD59PWEfJ0H6Kwm1qaiin14DNP7fw4jZkt48WkwiGKny+ZSy/07WRikBYnJsoTJrjK1sjcjBakBq3iDbM4QxuUtmSQdiAnNXhRPC9DyvuK4Zm7Kb5eJXzJBQATHdJZAXBtyFiw0LvfXp7+DITjaesx3VDFVGFlVpOzMQOKfNDDjqaAMP9KQyvccCt0s1iQf86e10oRkM8VuT4WNpy+hK1HBlHGulRJ1WGgjxEsRWeQ27jn7HOdda9vaSAXTTCm753+Ug/GdyFo1i4DkR8626lsBJ4X0Gvu7bg44k4ZzUPR2CjNyQz8emHEJxLLpy4Qw5iv1yBMVrpG/pAj5PUFVr2HKn4A4YrotQ=;twDfaMvVzOaMVw39s12Mmg=="
+related:
+  - title: "Automotive Artificial Intelligence (AI) Market Size, Development, Key Opportunity, Application and Forecast to 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 19, 2021 (Market Insight Reports) -- Automotive Artificial Intelligence (AI) market report, inclusive of Covid-19 impact analysis, evaluates business status and potential ..."
+    publishedDateTime: 2021-03-19T15:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-size-development-key-opportunity-application-and-forecast-to-2026-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "yLdaKUzL+KWFZ2et8GAKQMj9Flcz5vtlQ7N1JJ+wMSwvYZqJrZjwWGV1Lwu1dcN2rx+y/9y8MRrpOAp7+3HsV65hAbfu1wRusZdZUbGvOqkBULDjHmyToFDB5oW5DB4Ud4lVQnljk9Ua/+ni7U4GmvO5rPh6WHfi8bgAKWdY2pskjjNZPc0hkLlxgYLP/PTjQrX4G6K+GAW16EgXIvhK1RVfbVLAI3A9SVizdBpJrf8At4vmgSEv+KtDoy4GkKbcIxhpmuVPzz1kX0vB1KYaxtJaaKsZetK1vWmmAMWV0YYb+yxketjvQXnOB9ui4CwqqqG3NVP3qp/dDADKOGVnkb+zo7zl7r0tF9K6JLWJsgvigBpWTWxU8SeY1FRsPDjXYt5n10sqm1tKnIKhBGhc6NUscpdJXGpr//CqeilUl0D/m7ow4XJlSs/23RL9Wqa+K8rBJPxZPUclV6fSDNiJlufPjWG6iZuKPuKY5+26BhsbfYzL0J7Nl+oNqLcgMiI8X0g42tmLTSlbjgnVhdPNcg==;lEsrv+k7cvRnFKDmLlNIsQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41591-021-01273-1"
 webUrl: "https://www.nature.com/articles/s41591-021-01273-1"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence system detects errors when medication is self-administered"
-    excerpt: "From swallowing pills to injecting insulin, patients frequently administer their own medication. But they don't always get it right. Improper adherence to doctors' orders is commonplace, accounting for thousands of deaths and billions of dollars in medical costs annually."
-    publishedDateTime: 2021-03-18T16:01:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-errors-medication-self-administered.amp"
+  - title: "AI-based smartphone apps for risk assessment of skin cancer need more evaluation and better regulation"
+    excerpt: "Smartphone applications (“apps”) with artificial intelligence (AI) algorithms are increasingly used in healthcare. Widespread adoption of these apps must be supported by a robust evidence-base and app manufacturers’ claims appropriately regulated."
+    publishedDateTime: 2021-03-19T19:32:00Z
+    webUrl: "https://www.nature.com/articles/s41416-021-01302-3"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/pills.jpg"
-        width: 1920
-        height: 1271
-        isCached: true
+      name: Nature
+      domain: nature.com
+    quality: 1
 
 secured: "WyZRKyXcpCDJzC8rcN0cxiURUaZR2Dj233LWF6YfV8MNtBUSexr/ls3OFnqKV9TS9QTVQMZgWd67X4UKP6W6QX97cM4LVMHZo30xUyPEofOttzwgT8nqmQ9y+h8mDM7VIWP2AjsYpNN8dA8MN/hdVAFjmu/H4R4VqiRdoSg30AbKPMybUv0N2XaVGFI+/zrsTRBti16ETlCM13OmsTCDQXr79hlXzXPV2uHeXJQ2MKwbC9HZmAClppZK8P8+GDYOXiSt8ADi3TjEZyXKq3o+HwOtRAsQreiHyzwyEHGTBpCpfZQdYU+uVU4w7apUvb5mCvOaXv1EuQedkMngitjFa7xb4V1qj+5mKTmqRb1Yyas=;EnmqAYCNh0024xwdN3mlAQ=="
 ---

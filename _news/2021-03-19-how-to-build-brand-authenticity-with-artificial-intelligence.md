@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/19/how-to-bui
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/19/how-to-build-brand-authenticity-with-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Housing crisis requires builders to embrace AI and automation"
-    excerpt: "Bringing robotics, AI and advanced manufacturing to housing construction will ... Canada has the know-how to become a global leader in 21st-century sustainable housing. We can start by addressing the affordable housing crisis in our own backyard."
-    publishedDateTime: 2021-03-21T11:01:00Z
-    webUrl: "https://www.thestar.com/business/2021/03/21/housing-crisis-requires-builders-to-embrace-ai-and-automation.html"
-    ampWebUrl: "https://www.thestar.com/amp/business/2021/03/21/housing-crisis-requires-builders-to-embrace-ai-and-automation.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2021/03/21/housing-crisis-requires-builders-to-embrace-ai-and-automation.html"
+  - title: "Helping newsrooms experiment together with AI"
+    excerpt: "In our JournalismAI report, journalists around the world told researchers they are eager to collaborate and explore the benefits of AI, especially as it applies to newsgathering, production and distribution. To facilitate their collaboration, the Google News Initiative and Polis – the journalism think"
+    publishedDateTime: 2021-03-23T08:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/"
+    ampWebUrl: "https://blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/amp/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com
-    quality: 59
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://images.thestar.com/bUXPrdMK9W2IBj9qYB3_yAZX6NY=/1200x954/smart/filters:cb(1616162816330)/https://www.thestar.com/content/dam/thestar/business/2021/03/21/housing-crisis-requires-builders-to-embrace-ai-and-automation/builder.jpg"
-        width: 1200
-        height: 954
+      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
+        width: 1000
+        height: 1000
         isCached: true
 
 secured: "g1Rgz+NESphU0k6FVl8R1KSbSA3VRAmH/+2ldqRwt64xmTWpH3eBSE7zTt5AV46rLMkdReIt0XB6wVnJ0z/7Bc5cO7k2QuaGn1hGwdCfBzvaJxvgSnULEtzQHAeiIyCZ7mkDgPaEs+D2vIFy4VZucPmLhGY122ZdRXGaxthUobFqNYCynI9NINlHvPAfSRZ2gPANwUDF0esdDqRHuq26F5TmCdQBz+SxZOHhrcCl3mC9c7p4hCXrDePYSFQcJ5P+7UzdwSv9kUF7bVuVDECuGpeqKxfhDnKiKbguxND3Qp741ERcyLbgP40DPoOk7n6OAAI8Lj79GeCizBV6/fimERZa17X2k161Y52OSg1bJ6oig1JCjKYqptig7ct0MWf7wctKUboVrWIeeCoOnBbBsriVvZMAJ7HKt0iR5Hp5hP+IrGIcBi9n3Aif5+7V6GZDa35ELEnCLxG+9WFLkHhqWiV51aaEJXTiGVVqhaN2rQiL32SJ1H79hjo/uleeDZtxzYdYuejftPvcjEbuuVet3A==;u6nGOUPjwnkAOFxi14I0aw=="

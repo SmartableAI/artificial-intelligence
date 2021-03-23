@@ -42,22 +42,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Ageing: Looming crisis or booming opportunity?"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Arathi Sethumadhavan, Project Fellow, Artificial"
-    publishedDateTime: 2021-03-18T16:30:00Z
-    webUrl: "https://europeansting.com/2021/03/18/ageing-looming-crisis-or-booming-opportunity/"
-    ampWebUrl: "https://europeansting.com/2021/03/18/ageing-looming-crisis-or-booming-opportunity/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/03/18/ageing-looming-crisis-or-booming-opportunity/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 44
-    images:
-      - url: "https://europeansting.files.wordpress.com/2021/03/old.jpeg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "mjA7G7TdUf7qg3YYmb17/KfT5eAMU5xuNlTxe9/nPaAsTAyhBKowtHmPzy+AjKjPcJHQ22UQFq+xJPF5HQaWJR0GqEuhnzSp5TVMygjLZUnn4SDDY1+p3gEyHkLwrlG8AjG3X9qdn3+Grz0sV2jhzV/P+1X7BCZH2LlF8G3QS2BBIutQl59NN/XOIHKEhn7w+M24Rs27gkxmfEtzPJUmgjxD7G6bJU9PREaZ+lQyVn62ViGBXpBSFehb32MWGNUY0MqQO47j1uPMrPjenv/NZe1MYFhJ54zFoZ1ah8OpMlb5QKlMQWJ2NOaoDcYrNp4cy20hziC/22yZnULdEqwkkdEDuev8EUQaxItVQRw3dfcQct2/PqKKFekCVwrgHej1M4uEGHIZZw/UwhMdGeZcEULQ9sYGTAwwFlCiq5ORiChp0NXTByqxoqMRWTn17VAZZKXkGEKQ3xTU0fMZKQ0BTg34WQn2nBDpuapHx175BLgcdAEF2kdf8jGlm+fVYP5E2bBgmdmMdGf4RCUx+eHelA==;bVv9X/ruNKbrV1gbnTAt0g=="
 ---

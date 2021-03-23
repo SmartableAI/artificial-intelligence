@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/moodys-analytics-wins-aw
 webUrl: "https://www.marketwatch.com/press-release/moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech-2021-03-22"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 33
-  - title: "NAB runs loan deferral calls through speech analytics"
-    excerpt: "NAB ran tens of thousands of outbound call recordings through speech analytics models to check that customers were given appropriate disclosures on loan repayment deferrals during Covid. Chief data officer Glenda Crisp revealed the project at the Melbourne Business School’s business analytics conference last week."
-    publishedDateTime: 2021-03-21T20:07:00Z
-    webUrl: "https://www.itnews.com.au/news/nab-runs-loan-deferral-calls-through-speech-analytics-562285"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_nab_iStock-522790626.jpg"
-        width: 1400
-        height: 900
-        isCached: true
 
 secured: "o/qHnDTTccddTGk+sb84eOYg5HxERGegwUuIRw4taCGpFAA6taNS4ck6QnmmK11onTG5gPClXpRXGr/9b7mV666YWrZ9H9k3vJkfY4LY2NW1qpSZA+NhydH9PbyrTtA7sJCTSdNmHmIH+bdA+dxVBQ8tyB6mfba+pVYyXkaf8cxK2r0CiZZ5bMvbL3GPp6FBwbVrPyQy2A6HgvUPbZw4yU9tXmstWzHaWCV2dNuDWPLmbCuuj9fKjrdwVwklz5WS44zYjih4qCBbvXAqC6dz5R4F3DbCW7Bon+YOjJaaRmmQl9WHrnVzePrVVvZS9RfxQ/ckHYvB5JN6K49bwhBiM8+mlLc9JS62SV5LqMFRqTY=;3hNFwArp8i7KE4AHE5tCYQ=="
 ---

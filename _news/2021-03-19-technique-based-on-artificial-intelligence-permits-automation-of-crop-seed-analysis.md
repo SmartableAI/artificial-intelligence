@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Housing crisis requires builders to embrace AI and automation"
+    excerpt: "Bringing robotics, AI and advanced manufacturing to housing construction will ... Canada has the know-how to become a global leader in 21st-century sustainable housing. We can start by addressing the affordable housing crisis in our own backyard."
+    publishedDateTime: 2021-03-21T11:01:00Z
+    webUrl: "https://www.thestar.com/business/2021/03/21/housing-crisis-requires-builders-to-embrace-ai-and-automation.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/2021/03/21/housing-crisis-requires-builders-to-embrace-ai-and-automation.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2021/03/21/housing-crisis-requires-builders-to-embrace-ai-and-automation.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 59
+    images:
+      - url: "https://images.thestar.com/bUXPrdMK9W2IBj9qYB3_yAZX6NY=/1200x954/smart/filters:cb(1616162816330)/https://www.thestar.com/content/dam/thestar/business/2021/03/21/housing-crisis-requires-builders-to-embrace-ai-and-automation/builder.jpg"
+        width: 1200
+        height: 954
+        isCached: true
   - title: "Technique based on artificial intelligence permits automation of crop seed analysis"
     excerpt: "In Brazil, researchers affiliated with the Center for Nuclear Energy in Agriculture (CENA) and the Luiz de Queiroz College of Agriculture (ESALQ), both part of the University of São Paulo (USP), have developed a methodology based on artificial intelligence to automate and streamline seed quality analysis,"
     publishedDateTime: 2021-03-19T17:38:00Z

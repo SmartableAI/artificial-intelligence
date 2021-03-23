@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605441565fafb946c9eccb40%2F0x0.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Facebook Unveils AR Control Device That Taps Into Your Nervous System"
-    excerpt: "The Facebook Reality Labs team also is developing a contextually aware, AI-powered interface for AR ... as provide an update on its haptic glove research. Facebook emphasized that the approach ..."
-    publishedDateTime: 2021-03-18T15:32:00Z
-    webUrl: "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/#!"
-    ampWebUrl: "https://variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/facebook-ar-vr-controller-device-nervous-system-1234933586/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 44
-    images:
-      - url: "https://variety.com/wp-content/uploads/2021/03/Facebook-AR-wrist-controller.png?w=711"
-        width: 711
-        height: 400
         isCached: true
   - title: "Facebook Teases New Wearable AR Tech Controlled With Your Wrists"
     excerpt: "On Thursday, the company teased information about its “wrist-based” technology that could be combined with artificial intelligence and harnessed into wearable technology. Last year, Facebook Reality Labs unveiled Project Aria,"

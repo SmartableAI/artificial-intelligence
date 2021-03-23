@@ -58,20 +58,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Bring Your Own Algorithm (BYOA) For Self-Driving Cars Is Not As Crazy As It Might Seem"
-    excerpt: "Latest trend is BYOA (Bring Your Own Algorithm) which can be applied astutely to self-driving cars, surprisingly so."
-    publishedDateTime: 2021-03-18T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/18/bring-your-own-algorithm-byoa-for-self-driving-cars-is-not-as-crazy-as-it-might-seem/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604ee04b27e649875e43d0f9%2F0x0.jpg%3FcropX1%3D105%26cropX2%3D1026%26cropY1%3D13%26cropY2%3D531"
-        width: 921
-        height: 518
-        isCached: true
 
 secured: "cwEH230OF2AvjQY6SzwvpsPaMSLoELlQl5AoVmDoUY7CXPfi4LWwRn2Yu1fL2d+47H/5oF08a1B4MT+Jz2BkhrU9N72AxF+EvSh8qpYckacM15p0CuO1qdC7IQLtY02IMckpLv4XtyOeVdj/hxJpJbed03AOM3wsFMy1DhHIKysX/x19pIdBzklZhEo4+bq/Gl8BQ+O411+rlondodo3wRn3f6JMtr4ntPAUzBg3OUkt6bU9M9tGBrbIbYyERPekOcnKqV7guKrN5Lm2KolEFt+GQkE3FFYDwBe6ziqGXpx32g6fATJTyjB30SzsVoNriEn2RcQ7NL9ktng9h6Cx+T1WPg6XgkGuXaU0xuZLroE=;IirHIVnZlvzGrGj2+cAIoA=="
 ---

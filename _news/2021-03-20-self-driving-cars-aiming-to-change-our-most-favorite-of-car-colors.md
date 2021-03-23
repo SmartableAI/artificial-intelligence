@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/0c291c072fad3d2d741af2c75a77d3a57d44e626/417_224_5887_3532/master/5887.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0ead242b6f9a5e7ddccaf59209024a6d"
         width: 600
         height: 360
-        isCached: true
-  - title: "Bring Your Own Algorithm (BYOA) For Self-Driving Cars Is Not As Crazy As It Might Seem"
-    excerpt: "Latest trend is BYOA (Bring Your Own Algorithm) which can be applied astutely to self-driving cars, surprisingly so."
-    publishedDateTime: 2021-03-18T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/18/bring-your-own-algorithm-byoa-for-self-driving-cars-is-not-as-crazy-as-it-might-seem/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 46
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604ee04b27e649875e43d0f9%2F0x0.jpg%3FcropX1%3D105%26cropX2%3D1026%26cropY1%3D13%26cropY2%3D531"
-        width: 921
-        height: 518
         isCached: true
   - title: "Machine learning gets physical, starting with self-driving cars"
     excerpt: "However, the common factor with all of these is that each machine is limited to influencing our lives through a software interface with a website or an app. In 2021, AI will go beyond this. We will see the emergence of the first physical."
