@@ -1,21 +1,27 @@
 ---
 category: news
 title: "New Data on Stroke Care Show the Impact of Viz.ai’s Artificial Intelligence-Powered Platform on Patient Outcomes"
-excerpt: "The first study presented by Dr. Hassan, “The Implementation of Artificial Intelligence Significantly Reduces Door-in Door-out Times in Primary Care Center Prior to Transfer,” compared the time interval between entering and leaving one of Valley ..."
-publishedDateTime: 2021-03-19T16:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210319005094/en/New-Data-on-Stroke-Care-Show-the-Impact-of-Viz.ai’s-Artificial-Intelligence-Powered-Platform-on-Patient-Outcomes"
-webUrl: "https://www.businesswire.com/news/home/20210319005094/en/New-Data-on-Stroke-Care-Show-the-Impact-of-Viz.ai’s-Artificial-Intelligence-Powered-Platform-on-Patient-Outcomes"
+excerpt: "Viz.ai today announced new data supporting the use of its technology to coordinate care for acute ischemic stroke, hemorrhagic stroke, and clinical trial recruitment at the 2021 International Stroke Conference."
+publishedDateTime: 2021-03-19T11:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-health-products-and-services-c2bc6db7e3324619aeb9aa873b9685c9"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-health-products-and-services-c2bc6db7e3324619aeb9aa873b9685c9"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Top Quality AI-900 Dumps - Become Azure AI Fundamentals Certified Now"
@@ -32,21 +38,7 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "How AI is changing how we work"
-    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
-    publishedDateTime: 2021-03-22T19:23:00Z
-    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "iRinCbLRnNe3B+F55RAfvCUHTaBecsbbt2dW8NsXO6wPFj7Qin1k/egDDmvOKiXFwxVrfY3GDkF63tb4AK0kfur9ITRdF63pQvwM3eZ5aemtbypM50diHpU+CjfZgzKI1etpf6K9HBHLAeD9uvZVUCitvxHaNhliXm3f2gU8SRm38vaVOcuEU3BNPAWjH5ZHOztL3YUhiOqez/FoqbK5GfyNz+5QhDMieU6scgEHIHHy+jE3dUtTlHIs8+yP+CdyopElLXj/vPiQS2uA7GN2IXCJX1j/UHKOScYFHePqJkojHyA9sr6gz3ZDJ9AOuT4CR9GzHyOWRscm45ng0ozqrK+0F7y0Yauxb5oPUaOWW1A=;eamx53FaLJ8KdXt2zjcjVw=="
+secured: "D2vcGTSyMUQQ00ZYkza1JSsKD0WAQ7pIuHK/DEW1IMVPa++1hItMjP8M7mSemESm2TC4C1JfcVhlF0h53ilAmnhgSzSxiA3sq1Jg1ibP0D9y5b8F+NSghJ9ZgIK0+4LX7z8Am5ncgU6zUbUJkUQQAvhF337LzWr4n6VVeSf8CpGzl7HOrytHUj0WSDttHzg1wd+AECWnHUtXu3ouRkkI6Zs5eHZTlpaHLf+B6Qh3DCphgw6btDFopv5XpIg/wJ/Ef0AsOckzPZuPJIXpCPygRdiHa5jPAs6j1CkuW/8haKHulR59jII2LPnbyVe4MrPyEgxnPSEIi41Z8zRYG8CyKGHrjyWIsoGvWyZcJgfo3rA=;lf3orlDLIEHC5CX/YwJykw=="
 ---
 

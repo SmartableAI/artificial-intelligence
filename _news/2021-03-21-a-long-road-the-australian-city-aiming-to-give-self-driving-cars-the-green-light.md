@@ -75,15 +75,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Palo Alto-based Luminar's lidar coming to Chinese self-driving cars next year"
-    excerpt: "The Palo Alto self-driving vehicle tech company said it will establish an office in Shanghai, its first in China, to support its deal with SAIC Motor Co. Ltd. The agreement with SAIC comes about two weeks after Luminar announced that the self-driving ..."
-    publishedDateTime: 2021-03-18T11:52:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/03/18/luminars-lidar-coming-to-chinese-self-driving-car.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 1
 
 secured: "E86I5f4U5Ebu70psdSra7Zu9KcPYqan0F/fYnB/3MYUf9BB3rQJIzrM5S++wFJft+yMeNyN1iWCQSzOp6SQu1pPiuTIdm3rPGF0nov8rRKEF9c7C63Pp32xXu9nguLnRAKs3MY2T5Nu+rZXIcqqynFTToHlIL3s4t/3p+gxOBD4nwdGT0m7Ys1ZChLkY+A3usf+WediYJLnrEHHRGSKUsTGNfWWJf48jfoE568L84GV9/zNnVSgh2jmSrOMzHV7C0671czJSieHREA702ajtUIOf9D6o/QjfeAGm+SokTM8FoVnMFhFz3LpTfmOB65xZPNFfqPeIsqoi8ZnumsqsZAIRj73GL9/jCCKyWjH/A+FESZoeBvLGWjzoSe9mR2yPBUnC+9ZFid2BDdLWFOaPxVCJN91kW7m6d6ttc1Dd1MWhhhYOHZB3zHyr47Il6hGKzyricetdTS9DnIlkSCxaxbAox0y6uAI9/Z/NXxywE1F6Vkeha7S36aRw3+1ZY/6tuC+wg/8cbX5s8/eOns7vpw==;BNEXoI8yO35wFeLZdKwQ7g=="
 ---

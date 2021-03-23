@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/19/ocbc-atms-to-
 webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/19/ocbc-atms-to-begin-offering-facial-recognition-for-transactions"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore bank rolls out facial recognition for its ATMs"
-    excerpt: "It's a frustration many of us have experienced, but some banks are adding facial recognition to their machines as a card-free method of identification. Singapore-based OCBC Bank has enabled facial biometric security on eight ATMs within the island city ..."
-    publishedDateTime: 2021-03-18T12:09:00Z
-    webUrl: "https://www.techspot.com/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88968-singapore-bank-rolls-out-facial-recognition-atms.html"
+  - title: "Using nationalism to refocus facial recognition concerns in China"
+    excerpt: "The violation of people’s biometric data privacy, as denounced by the TV show, has the public and industry watchers urging for a swifter legislative push."
+    publishedDateTime: 2021-03-22T17:55:00Z
+    webUrl: "https://www.biometricupdate.com/202103/using-nationalism-to-refocus-facial-recognition-concerns-in-china"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 106
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/03/2021-03-18-image.jpg"
-        width: 2048
-        height: 1136
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
-  - title: "Singapore Facial Recognition Systems Markets, 2016-2019 & 2020-2026 – ResearchAndMarkets.com"
-    excerpt: "Singapore Facial Recognition Systems Market size is projected to grow at a CAGR of 17.6% during 2020-2026 Singapore’s facial recognition systems market is one of the emerging markets in the Asia Pacific region."
-    publishedDateTime: 2021-03-19T10:58:00Z
-    webUrl: "https://www.financialbuzz.com/singapore-facial-recognition-systems-markets-2016-2019-2020-2026-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 8
 
 secured: "RKQDy2cGYoyv0x1VChR/dg8fgIi3t3GV3OHN3ryNS20Dp4vGBV8zuauuhM5oB6udoJw92taA4dfcYg1KM9zvMyxnM/fNq9YSMbSD8YN0AnWECPPBte0sxjn+UEPzI+jiQQOlARYOCsh7dsTG0Mi/qwx3TJ9o3RrgTAVcwJ5tbfOl7Ytn/+QdJI0eWaGNWJPSkQ+M0WRWf+EM0uFj2KNY1jxdr34fb6/oNiKZbYamNqyg4z+1lVhJ+cGtLkEjoNE7uKcJW36ayTggb4piNj8zRFJmuQfeoXfAXVOGudDMRK/Xwskf3ZGi3Tn1oy07U7jT6W6t2R9aO6BAHn4b2wTeiVibTF7wH1EoaJqPvyb3Wnk=;HsxaOARjsIdPLTaM6uooqw=="
 ---

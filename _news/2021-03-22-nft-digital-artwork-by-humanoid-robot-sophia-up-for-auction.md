@@ -1,29 +1,33 @@
 ---
 category: news
 title: "NFT digital artwork by humanoid robot Sophia up for auction"
-excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with"
-publishedDateTime: 2021-03-22T16:00:00Z
-originalUrl: "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/"
-webUrl: "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/"
-ampWebUrl: "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/amp/"
+excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with humans."
+publishedDateTime: 2021-03-22T16:29:00Z
+originalUrl: "https://www.reuters.com/article/us-hongkong-robot-idUKKBN2BE0HM"
+webUrl: "https://www.reuters.com/article/us-hongkong-robot-idUKKBN2BE0HM"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BE0HM"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BE0HM"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/HONGKONG-ROBOT_-1-1.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210322&t=2&i=1555704100&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2L0CK"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -70,6 +74,6 @@ related:
         height: 826
         isCached: true
 
-secured: "CBmMwanXZeDfnZS1k9I2BYPPFzn3sa3xIGvAdEsM1frtpVN2YDX6Kk2+5DB2pG1fFjsqTCGXBLDovHzNYnw+9mj9xOpeEofBcQRLMcH5jl5bOIPFbvHtR2x92AmzO0rDynEg+kovLf0qS4uYzaepLiDej6gy0BwomKGngF731QtVQAEmpgHQXZCflv4jwpht11DrlmwGZoNsqOXuZ/5yl3hX3lI3zX1qNHPgDNLoA1ABHpwcJoLsMechs7L121WJ1Fbc50IYe8LYSMkYBDvY733x6w/6KMhfwrFmT/4H0dktyutsmeQmEGbd8q11jLUiT0x+8mA7SRON5a+wLhuSiCMW1XhQvXhr2Ed2x20KW87Mj6+U5zpBuuXiDLTxs8naU3akvsN3eB6FYT6ZTHfcQFHUuvWAvakd2cAJIOhrdmhRoe0/7E+Fb2Jtrzq4gs42ulubcUZDPCaFOjDGQGCFUNofVfKB3dFrZvbWSFpSdCEuB8dlwByg9sbTXyLWi5wdwzTIVLq5msrgfRbEDHBsGQ==;2IcgJuonX6GuEbBeWnircA=="
+secured: "M+IcKsI4eC/6oyxySztUTaRFzmFkD3sBxnV3II9HL79LDI/Rv+C9RtRrtKDN8G/e4PLk9ooRL6xSAr5BA7vy96ZoIQOmpH91CWR1cmRZlmplPecokfraejHT2eEmev/NqJMMRlZZ+qqp/n8z2o94wKm+oAYy/oEVGO7A7qMyPQdFXR/gQbvuT74CoanWId9509OL5tFQCf3jtpT/LB7AV/z6DD+bI/+X+9g4lJ2Hn5p28sVNFQ8ByVrY4Yb1I04tZcOygjDLkjkUYE5ZDZWUAXgh2dBo357LP3OjCVSysAVOIdWIOqhIcH5bw1Lb6rfZO3lGrKQ6JNRGId6SJNJOXsa03LS5e68G/2OvnoBq2aY=;WWDvOawPAmn4BLXISyr0FA=="
 ---
 

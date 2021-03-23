@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202103/using-nationalism-to-refocu
 webUrl: "https://www.biometricupdate.com/202103/using-nationalism-to-refocus-facial-recognition-concerns-in-china"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 260
     isCached: true
+
+related:
+  - title: "OCBC ATMs to begin offering facial recognition for transactions"
+    excerpt: "Banking customers in Singapore can now use facial recognition at ATMs to check their account balance, with the feature possibly replacing ATM cards in future."
+    publishedDateTime: 2021-03-19T08:09:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/19/ocbc-atms-to-begin-offering-facial-recognition-for-transactions"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/19/1083321.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "N3AKXQUbrBaIwHvJNNi6BZRsjoroDBr49C6D206jBu/ZHFn6CMDVGOqPw6yYrTBt/wzt7SH7bMjpYD3sZTDPIrqSBOI2VJhd6YIPKmsNaCTEkwhIn4u15uJdWyHhpzcc8UT9B5fmgLSR/1Zf7Oj4M7oLT/iE5EF6ruX1Y9ZEjhTPpNfdLUyRWpO5Ar19bzl8kxAvH72L44L4Q2pD1Xpg/Gpz9C7lw1e2LXce+5LbqnltJu9pORT9dyRWFeHLje3BTZnLEOdaLn1qtrTSU5xbIEkQxaRHIaHLrvwo0LCIVI8zTr8CgZU51bX7RBxon8ZpUqS8LFyGlvBmMZ5VNQ4ZFs4IlbleBvtpEpiXuE2moEo=;GP9/PSGT55wBUsqZZizFfQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/artificial-intelligence-are-we-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/artificial-intelligence-are-we-doing-it-all-wrong/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

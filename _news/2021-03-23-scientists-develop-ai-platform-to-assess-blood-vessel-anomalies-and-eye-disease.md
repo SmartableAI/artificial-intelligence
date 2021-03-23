@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-03-scientists-ai-platform-blood-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-scientists-ai-platform-blood-vessel.amp"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1024
     height: 1024
     isCached: true
+
+related:
+  - title: "New AI platform can help assess vascular diseases"
+    excerpt: "The AI-powered platform combines machine learning and a specially-designed microfluidic chip with analysis of 2D video images of blood flow and the application of physical laws, to infer how blood flows in 3D. In tests, it accurately predicted blood flow ..."
+    publishedDateTime: 2021-03-23T04:59:00Z
+    webUrl: "https://www.news-medical.net/news/20210323/New-AI-platform-can-help-assess-vascular-diseases.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 19
 
 secured: "22+9ZelV5iwAoplEE7zSiOXh01Fkken0KV+UD1AiTnb85ztG+ssEzlgH36kacMiigQz4Y+Ual1OKfYNYw3BTt16NU+6aCXeETLUoldJuKq8XmPhyp+G0GAFlTILzvysb596LJJfNMGVUjS4K2/Dha60l/8j8Vm3q1q2XVUrHUOhuyWBvNT8JMpdzJvWexIBF4yOeuCzVhyAmFWyTLHoCHlf10N4iqzO6Q4JMzNRkJ75oyJmSCL4+fD6sE7KWtYCx5l+tXf9oMG5OySeZDy5IHJZeCDkcNYdc1YRHkWQP4iZJJavmCekGqCyq5uDtGLPsP3Q09OAkenN7R4xyQgI6fm26hAMFKdVm18tOrtEeujJI6Tuzg/OhPVKlVEGLc2f5YDYh5qugK0bQQdg3Oc5KMlQLAnRLwGjC5Nmc7KIZXcyFTwk3eKGRDlKZUlfYaTzgHT7uWQeL39ccCcyVQHA2gMCt32V8s29dHhgyLWRW7ULgl1wgVFnRLEUOJF+CT6AdoSTxLtR6irUlMZ1XVf1VgA==;8GtfslmpFBm3PzGyKE0jzg=="
 ---

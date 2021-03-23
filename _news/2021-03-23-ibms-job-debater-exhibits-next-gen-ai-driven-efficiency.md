@@ -73,6 +73,20 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "IBM Has Designed An AI System That Can Alter Your Opinions"
+    excerpt: "IBM has designed an artificial intelligence-based system that can participate in human debates and persuade the audience into thinking the system is right."
+    publishedDateTime: 2021-03-23T04:13:00Z
+    webUrl: "https://www.analyticsinsight.net/ibm-has-designed-an-ai-system-that-can-alter-your-opinions/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-22.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "Fhccl1P7iSBImTgeVh5PMya6MoYpkB4fZ1eVO/HoZS/WAXJk7LJ0+yTmUV0wiez1S8entVBEDuNVZBjC+bCE8iDkX0Dj+jjjBV4tnIxPt1lPSWjXTgcbN73di187i/wcWEdDbiror2a72+XYcVWwGIEILA/YT66Ikuhq5JjplnHXKIaZTdcYIzQnumXhPX0iQEnvlAtrMWpo6BAyeDYAJykt7VhagDZKbn6c0euq8ZcE9cgEq/2qgjoow/Vds6VA/yfZ4m8ksO1Xew4elYcd6jkKwVc/PhF0TR2cWwE2tUzADTngFXOkHl2IcS3P6PgHutGtjEQhbBLZE9V1/QsWDEOJyBqWObWHvltQtaiOj+OVOJI/TcSszmji6rY/HRSqBvgR32sXy6HnkIe1ErD/6SoGYbND+wUHlBk5zz9V/xyMjQglF0IuT+T2p8NE+2rNyXb3ClcLmgeeTmbrht4Hu/GsVFA3ODTPVESHNZE0RX6UHM5tUJ0cOCiqGuPRpM/+oErPsaXw93SxU7A9PTBvIA==;e1fS2e7xRU1jJOwD47HtVg=="
 ---

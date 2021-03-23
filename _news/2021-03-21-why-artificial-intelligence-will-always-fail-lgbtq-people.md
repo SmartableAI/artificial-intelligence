@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/jamiewareham/2021/03/21/why-artificia
 webUrl: "https://www.forbes.com/sites/jamiewareham/2021/03/21/why-artificial-intelligence-will-always-fail-lgbtq-people/"
 type: article
 quality: 82
-heat: 93
+heat: 92
 published: true
 
 provider:

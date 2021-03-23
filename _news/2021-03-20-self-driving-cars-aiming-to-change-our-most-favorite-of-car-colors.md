@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Palo Alto-based Luminar's lidar coming to Chinese self-driving cars next year"
-    excerpt: "The Palo Alto self-driving vehicle tech company said it will establish an office in Shanghai, its first in China, to support its deal with SAIC Motor Co. Ltd. The agreement with SAIC comes about two weeks after Luminar announced that the self-driving ..."
-    publishedDateTime: 2021-03-18T11:52:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/03/18/luminars-lidar-coming-to-chinese-self-driving-car.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 1
 
 secured: "lz+OaWMOiPAto1dO65BrZ0yIwrD9duA5tqTNH0Y76nKhtv3dvFoRPq80JRtncqItTgCHBwsoSiMAktnwdLDdDm4KWbCBHMIp5f/FJ546jLWFsOqrsA+tGzVOskwIDyQ/xBbPsIZ/zg8IzlXdHuD+CFFyUZsF2FHa8Ww19vLBa9OrkkgYLWoE/hflI431ya4jyVbyVdoPv82+1zK5N1zLW99D0M4hhFGd2RmA47Jv6sogPym+sCEBQypRzxpJwkbcUKxHonOQ2EV/CMCJWym7Yavwqt6ioafZXVil1UVwif8NOwtieppjmSWbLs/mUNpXYwIuwwTVHolG8jOU/X5UcKUTr1gfuZQeb+dABO8GlUHx9ATzowWcL4ie+cMjFMyO2dBkEjdGv40TESOjoVQ2uIzkRroaWYWKPbyJEdepJvFiy8iExRKuHT7gyWQ+WFZWlr5JNF4N4Vj8l38HG5BW8VM8YJu00xnBjbgCBrNjSu2wxLE6c/8vK6FFFLHOe8jvTV5Gfl2/7yik7fcxxYUWVg==;++oOH5xTt+r7CQIWTGgDmg=="
 ---

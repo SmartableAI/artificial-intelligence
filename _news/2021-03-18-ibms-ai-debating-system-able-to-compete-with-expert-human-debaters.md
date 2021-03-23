@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://cdni.rt.com/files/2021.03/xxl/60589a56203027171a5f92ec.jpg"
         width: 1240
         height: 697
+        isCached: true
+  - title: "IBM Has Designed An AI System That Can Alter Your Opinions"
+    excerpt: "IBM has designed an artificial intelligence-based system that can participate in human debates and persuade the audience into thinking the system is right."
+    publishedDateTime: 2021-03-23T04:13:00Z
+    webUrl: "https://www.analyticsinsight.net/ibm-has-designed-an-ai-system-that-can-alter-your-opinions/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-22.jpg"
+        width: 900
+        height: 500
         isCached: true
   - title: "IBM’s Job Debater exhibits next-gen-AI-driven efficiency"
     excerpt: "IBM’s Watson initiative is a brilliant example for this. Watson carries the tagline that artificial intelligence can be a gamechanger in the field of business, taking the future by storm. When it comes to a business, time, cost and risk management are of ..."

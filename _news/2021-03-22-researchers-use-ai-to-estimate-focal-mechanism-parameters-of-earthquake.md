@@ -42,6 +42,17 @@ related:
         width: 2880
         height: 1917
         isCached: true
+  - title: "Monash University researchers asking the tough questions about data in AI systems"
+    excerpt: "Topic: Innovation Researchers from Melbourne's Monash University have developed a framework they say could be used to provide greater transparency into the type of data being fed into artificial intelligence (AI) systems,"
+    publishedDateTime: 2021-03-23T04:30:00Z
+    webUrl: "https://www.zdnet.com/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "AI enables privacy and fairness"
     excerpt: "Dilemmas posed to individual privacy, data sharing and fairness by uses of AI technologies were explored during the annual PI.lab conference in The Hague on the 6 th of December 2019. Many issues have been discussed. Several TNO experts contributed their ..."
     publishedDateTime: 2021-03-18T18:47:00Z

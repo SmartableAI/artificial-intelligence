@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-I
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 968
     height: 630
     isCached: true
-
-related:
-  - title: "Mark Cuban joins Philadelphia startup's $13M funding round"
-    excerpt: "A Philadelphia startup raised $13 million from a group of investors that includes billionaire Mark Cuban and intends to use the funds to double the size of its staff."
-    publishedDateTime: 2021-03-18T13:00:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/news/2021/03/18/fort-robotics-philadelphia-raises-13-m-double.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "7c84lCqs+ZDC5D+/4eKI6g1cvtVzk+3ggWpkOD2PTbspmSzNPjgR9BSUEqnbZZoQEtWW6Zz+kzKJk8PJitcMAvUyIGAW+p4ZBwn9bgAsVbq8+K72iujBFaLmIBrFEpQiz2MmRITSqsFIwivy4xP5i7yLQ7QBJKdZi6wUsq6VSskNRkuxvAddRO1aW5EFHIq+IuH9VT34X14/j5cwnoTUKCmbcAzrgVOdVGqoCN5NnOZCwn/3Ac3dkqLV6kIWvXiYiaYIUpE3ubF7nIDWYQAbKR7W6mt642Mn7t1ABcMM55H1nuukutYRLvUD6SG4qH5em1GJCSsa1d94YmkyWmUuydYfctjJgTN6Xw2h9ZUMQxrHu4OpgC7XJBwOwzfdj7u7eFr+9tUsQMXvAofWBbF67LP/kJgOR0jnevoGwfyNsKGCxGqY/zUsEknzA37P7RAsISNO1bJvUDnIWYemITLiZagZwCeCfkWpE5LpNDbzvbbcWegP2cEziExH5CKhs62RYeg7JYynyEadaEY9yjhWNg==;qizuRg7uE3aBAVsgv+SL8g=="
 ---

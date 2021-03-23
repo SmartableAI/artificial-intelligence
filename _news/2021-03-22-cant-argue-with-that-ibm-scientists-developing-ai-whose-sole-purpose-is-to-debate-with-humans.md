@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "IBM Has Designed An AI System That Can Alter Your Opinions"
+    excerpt: "IBM has designed an artificial intelligence-based system that can participate in human debates and persuade the audience into thinking the system is right."
+    publishedDateTime: 2021-03-23T04:13:00Z
+    webUrl: "https://www.analyticsinsight.net/ibm-has-designed-an-ai-system-that-can-alter-your-opinions/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-22.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "IBM’s Job Debater exhibits next-gen-AI-driven efficiency"
     excerpt: "IBM’s Watson initiative is a brilliant example for this. Watson carries the tagline that artificial intelligence can be a gamechanger in the field of business, taking the future by storm. When it comes to a business, time, cost and risk management are of ..."
     publishedDateTime: 2021-03-22T17:01:00Z

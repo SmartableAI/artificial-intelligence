@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/entertainment-robot-toys
 webUrl: "https://www.marketwatch.com/press-release/entertainment-robot-toys-market-size-industry-growth-trends-price-report-and-forecast-2020-2027-2021-03-18"
 type: article
 quality: 70
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -124,17 +124,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
-  - title: "Robot Software Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
-    excerpt: "It is a set of coded instructions that execute the robot's functions. The key factors driving the growth of the Robotic Software market are the adoption of artificial intelligence, lower labor costs, higher accuracy, higher speed, higher quality and higher ..."
-    publishedDateTime: 2021-03-18T12:28:00Z
-    webUrl: "https://www.openpr.com/news/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
 
 secured: "PJhas0VQbnf8QBv6dfCpo6QPYGH515BY3wA8L4sV3/Bb2S69rfw7nvixOREUPO/L9eYJdpIGVCp/WjGehvYhGGJxaE5hnjslei/j+5Qo8PBphinsxzl59zIxnYcjgJ/WVat6dZriJOIQurZ7lWSgFG4qwLRMNS4k5tr65RKILxxavDEg37/NmMzBf4X7jsfoHi27b/cFYNZfg5ASMLSk+Et5yz5b/NBLC1gXiIpNKyX5uzjdhs96/nldVKOBK9rb2ez0jsmmubhmhlMRYwLef1ZuPzdFn4beL7Cf1EeY9tAqJDq0TsgXW/nwMNy7bJEWNjaJp0c+VsHkxQp7Js6ENNqtgov841hsetSCvQsXgMM=;dCqWIyRKl9XBvf/hrsGLpA=="
 ---

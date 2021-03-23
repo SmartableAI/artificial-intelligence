@@ -126,17 +126,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 30
-  - title: "Robot Software Market to 2027, Future Outlook, COVID-19 Impact Analysis, Forecast 2021-2027"
-    excerpt: "It is a set of coded instructions that execute the robot's functions. The key factors driving the growth of the Robotic Software market are the adoption of artificial intelligence, lower labor costs, higher accuracy, higher speed, higher quality and higher ..."
-    publishedDateTime: 2021-03-18T12:28:00Z
-    webUrl: "https://www.openpr.com/news/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    ampWebUrl: "https://www.openpr.com/amp/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2258551/robot-software-market-to-2027-future-outlook-covid-19-impact"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 29
 
 secured: "oMWScSH06zpKUgY8bxgTKdMSO/p0mPcXGNDGwvqSzoeU7YgVeBOqKi9IpvobJ5SKTq5ojVom3He9gyPLXGwxhkhY1mXuiACjDHXrO76LP+Evhdq7qaGJwl6avH4ugizIIZN8mjWXosmvLCCfsg6HvPMAR8RKOUjtTJNgEEEI+xi/9cZq0Gl6DT7AtfsEYJqR+mThbUqsBP0lf0PN11WwwM9Q7WF/HrPmPWS+WfueAVd9btpAI+D4acg/RLm+yvE2t8vWmIQD+0lG2Uah+aW0u0goqAC5EZ5tF8bmXgX2P2myJc8IaygIHuGiNd+NpFvDBB/sG+19TrarM5WFUHq+EgLsABLW7Y0bf2YzAGIa2Qc=;mSHhujvRQGQDUWiOLcsbGg=="
 ---

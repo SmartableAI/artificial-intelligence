@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disrupt
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
 type: article
 quality: 78
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,15 +32,103 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Girls HQ to build out AI-driven digital platform using funding from the National Science Foundation"
-    excerpt: "Charlotte-based Smart Girls HQ was awarded a $256,000 grant through the National Science Foundation's Small Business Innovation Research program that it will use to build and launch a digital platform."
-    publishedDateTime: 2021-03-22T19:25:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2021/03/22/smart-girls-hq-funding.html"
+  - title: "40 women leading the way in AI innovation"
+    excerpt: "IBM's annual list of Women Leaders in artificial intelligence includes women from 18 countries who serve in a variety of roles."
+    publishedDateTime: 2021-03-19T09:12:00Z
+    webUrl: "https://www.techrepublic.com/article/40-women-leading-the-way-in-ai-innovation/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-women-leading-the-way-in-ai-innovation/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-women-leading-the-way-in-ai-innovation/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2019/06/05/a80a4f1a-e4aa-467a-b85e-0802f7169f61/resize/1200x/83b223eeaad78cde0d4502b429298252/women.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Proven Arabia strengthens commitment to AI and robotics innovation"
+    excerpt: "As an AI-focused startup, Proven Solution will provide advanced portfolio housing AI, Robotics, Blockchain, Internet of Things (IoT), Augmented Reality and Virtual Reality (AR/VR) technologies. These innovative products and solutions can be customised to ..."
+    publishedDateTime: 2021-03-19T00:12:00Z
+    webUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation"
+    ampWebUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 69
+  - title: "Strong Competition in Booming AI Infrastructure Market"
+    excerpt: "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,"
+    publishedDateTime: 2021-03-20T19:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/strong-competition-in-booming-ai-infrastructure-market-2021-03-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "How AI is changing the way we work"
+    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
+    publishedDateTime: 2021-03-22T19:52:00Z
+    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 41
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How AI is changing how we work"
+    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
+    publishedDateTime: 2021-03-22T19:23:00Z
+    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Examining the bias in artificial intelligence..."
+    excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-18T23:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210319094015-examining-the-bias-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09509427_1616147284.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "IBM Recognizes 40 Innovative Female Leaders in Annual Women Leaders in AI Program"
+    excerpt: "... female business leaders today as part of the company’s annual Women Leaders in AI program. The women come from 18 different countries and use IBM Watson to help advance industries. This year, the women leaders include names from The Clorox Company ..."
+    publishedDateTime: 2021-03-18T13:14:00Z
+    webUrl: "https://www.unite.ai/ibm-recognizes-40-innovative-female-leaders-in-annual-women-leaders-in-ai-program/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 34
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/03/photo-1562705121-e624542c7b9b.jpeg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "8osEXvUM3PJv0RAwJTxoWn30xDaj70PjoNTdoOFxLpgn49mqs7piQaSzDDTcapAKooSK47m8fyimQPlj61qcI8FV0FPvwehFhlZ9iLcKJEJsjxc9CAvL9Mo/78wbQYX/n2t1rZQ3b92a6QomgwlT7/RO8pf6iqnGP+nSA5umcB+oDFV+8tLw60SBGVY6Io133Qnj0/eVx5oNuCSs5pRHt3cGx7vzOI5u9Z9XhRGjgjAG9RGoutf5nWvrkDg+Cm/d8R2E/vQSLlxcuNmydFuMbH6I5ywj6SDMuH8G+HyLkqm4zxEbIaqS4RKYlcxSHXVOMMmlau3tQsLDRlBVHW56+0f6fUzpOS7CPnPPV3q5OUFpLZlhkwnAbfELg2XKY/HMyABJaKF+vUShU/YzWnDZaQ9fd26QFOkT8kQb9fC95PwFQUjQVmMUICAjfTEq/lIN7iYH0h6EJlBytU3DlMtm2h/IDhWAo1V5xnxf3sdqF9UZ1T4BQg9IQzbNSLdlAn40EN15ZHUXLfxl7yqhkcoDfQ==;USUnF6BbF55PLdyB0rZLqA=="
 ---

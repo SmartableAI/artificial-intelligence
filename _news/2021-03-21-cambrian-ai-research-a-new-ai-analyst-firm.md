@@ -35,6 +35,17 @@ related:
         width: 2880
         height: 1917
         isCached: true
+  - title: "Monash University researchers asking the tough questions about data in AI systems"
+    excerpt: "Topic: Innovation Researchers from Melbourne's Monash University have developed a framework they say could be used to provide greater transparency into the type of data being fed into artificial intelligence (AI) systems,"
+    publishedDateTime: 2021-03-23T04:30:00Z
+    webUrl: "https://www.zdnet.com/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
   - title: "Researchers use AI to estimate focal mechanism parameters of earthquake"
     excerpt: "The research team led by Prof. Zhang Jie from the University of Science and Technology of China (USTC) of the Chinese Academy of Sciences made progress on real-time determination of earthquake ..."
     publishedDateTime: 2021-03-22T15:39:00Z

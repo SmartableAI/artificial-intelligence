@@ -29,99 +29,105 @@ images:
     isCached: true
 
 related:
-  - title: "Global GPU for AI Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
-    excerpt: "The global GPU for AI market report is a comprehensive research that focuses on the overall consumption structure, development trends, sales models and sales of top countries in the global GPU for AI market."
-    publishedDateTime: 2021-03-18T15:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18"
+  - title: "40 women leading the way in AI innovation"
+    excerpt: "IBM's annual list of Women Leaders in artificial intelligence includes women from 18 countries who serve in a variety of roles."
+    publishedDateTime: 2021-03-19T09:12:00Z
+    webUrl: "https://www.techrepublic.com/article/40-women-leading-the-way-in-ai-innovation/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-women-leading-the-way-in-ai-innovation/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-women-leading-the-way-in-ai-innovation/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.techrepublic.com/a/hub/i/r/2019/06/05/a80a4f1a-e4aa-467a-b85e-0802f7169f61/resize/1200x/83b223eeaad78cde0d4502b429298252/women.jpg"
         width: 1200
-        height: 630
+        height: 900
         isCached: true
-  - title: "Automotive Artificial Intelligence (AI) Market Size, Development, Key Opportunity, Application and Forecast to 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 19, 2021 (Market Insight Reports) -- Automotive Artificial Intelligence (AI) market report, inclusive of Covid-19 impact analysis, evaluates business status and potential ..."
-    publishedDateTime: 2021-03-19T15:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-size-development-key-opportunity-application-and-forecast-to-2026-2021-03-19"
+  - title: "Putting Disruptive Innovations Into Action Using Artificial Intelligence Throughout Your Business"
+    excerpt: "Robotics and automation in manufacturing would appear ... During an IEEE-Boston/IEEE-HKN (Eta Kappa Nu) Artificial Intelligence Seminar series, Dr. Washington shared tangible AI strategies that have helped Ford Motor Company maintain its legacy for disrupt ..."
+    publishedDateTime: 2021-03-22T22:10:00Z
+    webUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605911778ffe878ecb833916%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D300%26cropY1%3D50%26cropY2%3D350"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Global 3D Facial Recognition Systems Market 2021 Vital Challenges and Forecast Analysis by 2031"
-    excerpt: "The latest research report provides a complete assessment of the Global 3D Facial Recognition Systems market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
-    publishedDateTime: 2021-03-19T08:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2021-vital-challenges-and-forecast-analysis-by-2031-2021-03-18"
+  - title: "Proven Arabia strengthens commitment to AI and robotics innovation"
+    excerpt: "As an AI-focused startup, Proven Solution will provide advanced portfolio housing AI, Robotics, Blockchain, Internet of Things (IoT), Augmented Reality and Virtual Reality (AR/VR) technologies. These innovative products and solutions can be customised to ..."
+    publishedDateTime: 2021-03-19T00:12:00Z
+    webUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation"
+    ampWebUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market report based on Share, Size, Opportunities, Research Methodology and Segmentation"
-    excerpt: "In terms of market share, the natural language processing segment is projected to contribute significantly to the global artificial intelligence market in the education sector during the forecast period,"
-    publishedDateTime: 2021-03-19T17:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-report-based-on-share-size-opportunities-research-methodology-and-segmentation-2021-03-19"
+      name: GDPR fines
+      domain: itp.net
+    quality: 69
+  - title: "How AI is changing the way we work"
+    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
+    publishedDateTime: 2021-03-22T19:52:00Z
+    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market Overview, Merger and Acquisitions, Drivers, Restraints and Industry Forecast By 2027"
-    excerpt: "The Global Artificial Intelligence in Transportation Market is projected to witness a significant increase in the revenue generation and is expected to register a CAGR of 17.2% in the forecast period of 2020-2027. The report further segments the Artificial ..."
-    publishedDateTime: 2021-03-22T17:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Enterprise Artificial Intelligence Market Research Report 2021 Market Insights, Overview, Analysis And Forecast 2021"
-    excerpt: "Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and"
-    publishedDateTime: 2021-03-22T19:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-research-report-2021-market-insights-overview-analysis-and-forecast-2021-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Raconteur
+      domain: raconteur.net
     quality: 41
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "AI-based smartphone apps for risk assessment of skin cancer need more evaluation and better regulation"
-    excerpt: "Smartphone applications (“apps”) with artificial intelligence (AI) algorithms are increasingly used in healthcare. Widespread adoption of these apps must be supported by a robust evidence-base and app manufacturers’ claims appropriately regulated."
-    publishedDateTime: 2021-03-19T19:32:00Z
-    webUrl: "https://www.nature.com/articles/s41416-021-01302-3"
+  - title: "How AI is changing how we work"
+    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
+    publishedDateTime: 2021-03-22T19:23:00Z
+    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 1
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Examining the bias in artificial intelligence..."
+    excerpt: "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-18T23:57:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210319094015-examining-the-bias-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09509427_1616147284.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "IBM Recognizes 40 Innovative Female Leaders in Annual Women Leaders in AI Program"
+    excerpt: "... female business leaders today as part of the company’s annual Women Leaders in AI program. The women come from 18 different countries and use IBM Watson to help advance industries. This year, the women leaders include names from The Clorox Company ..."
+    publishedDateTime: 2021-03-18T13:14:00Z
+    webUrl: "https://www.unite.ai/ibm-recognizes-40-innovative-female-leaders-in-annual-women-leaders-in-ai-program/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 34
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/03/photo-1562705121-e624542c7b9b.jpeg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "rqtuwQWANvtF0sAcqlB3IIU2kyRiVGmuTZMncY417CGa4vGChCYUs+v7QBzKf+G9dYhPD12iAdL9AUWIR2PDgWRVNDt213PnjtBGLVUBeX1yoT84MvJuAaR4KbCWHuLQ+IKP14WgU7n42EiOeXbhtgYLGkPQM7StrWQoz5LHzE1tft/BEaLvgWnF8qip6TBa3zr6SyBEJglbDJ8WLqLS3n2FYjSY2kpKeu83SJD6P7DMgPXCdaGRB8MxA88pot5HpSsypc5+osSujchlHRPgxsB+PupZy4ydKUtlZOiPgC3m0X2vKEr5VHJ8gGDeQqPbIogNfof9kaakph5PHnXPzNTGWYt3kySQWvCte6Uvkf0=;MBDu3VFcV+UVEZrbNSqflQ=="
 ---

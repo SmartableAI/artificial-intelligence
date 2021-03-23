@@ -7,7 +7,7 @@ originalUrl: "https://www.executivegov.com/2021/03/aws-oxford-university-explore
 webUrl: "https://www.executivegov.com/2021/03/aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech/"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,54 @@ images:
     width: 272
     height: 270
     isCached: true
+
+related:
+  - title: "Atal Innovation Mission, AWS collaborate to accelerate Ed-tech entrepreneurship"
+    excerpt: "The move will allow ed-tech start-up entrepreneurs and founders in all Atal Incubation Centers operating at higher educational institutions.This program will introduce the fundamentals of cloud computing such as cloud storage,"
+    publishedDateTime: 2021-03-18T15:16:00Z
+    webUrl: "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship-11616080074724.html"
+    ampWebUrl: "https://www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/atal-innovation-mission-aws-collaborate-to-accelerate-ed-tech-entrepreneurship/amp-11616080074724.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 55
+    images:
+      - url: "https://images.livemint.com/img/2021/03/18/600x338/aws-kMdH--621x414@LiveMint_1616080293599.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Atal Innovation Mission, AWS collaborate to scale cloud skilling, and accelerate innovation with education technology startups in India"
+    excerpt: "artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7000 Atal Tinkering Labs (ATLs) in India. AWS will also conduct Faculty Development Programs (FDPs) for the personnel in-charge at the ATLs, and provide ..."
+    publishedDateTime: 2021-03-18T15:39:00Z
+    webUrl: "https://indiaeducationdiary.in/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    ampWebUrl: "https://indiaeducationdiary.in/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 44
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
+        width: 534
+        height: 462
+        isCached: true
+  - title: "Atal Innovation Mission, AWS collaborate to scale cloud skilling, and accelerate innovation with education technology startups in India"
+    excerpt: "artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7000 Atal Tinkering Labs (ATLs) in India. AWS will also conduct Faculty Development Programs (FDPs) for the personnel in-charge at the ATLs, and provide ..."
+    publishedDateTime: 2021-03-19T04:21:00Z
+    webUrl: "https://www.cxotoday.com/press-release/atal-innovation-mission-aws-collaborate-to-scale-cloud-skilling-and-accelerate-innovation-with-education-technology-startups-in-india/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 24
+    images:
+      - url: "https://www.cxotoday.com/ashojoac/2018/09/zoho-540x370.jpeg"
+        width: 540
+        height: 370
+        isCached: true
 
 secured: "kAIpTCUtB7YbJCzoaTzagSoyCH/uuOA353sV1dGKIqso6PUET4UNOrGLZhkHVeNxv6NU1BFXvDd65l7kkjrUmUMQEkrsWYa+gZxUGdajvspE1YbzMd7X5a7srJtVvWbhvClhDg0JJrlcksTNfcKO1dixttlwHng5Cnl//b6ReZSHwCciAaC0cO5AGRhXzzy9rcIlxob2RZbwvG3OU135Ivz81jZuD4qPsKVzyz9VeGKPsTWpsH9fmEGJKwtK2DWyDNvD+JPBsMkeRiBX0HO2nWP4Z7AoPOVzae548DEpzNnXtPqx3HeMfGjxRR4p8ZzIzC9y0hVz33QsWb9cy35cTcAmdqYgRFBjCjXFsvSdXGaDGVZV7p+2v2dfjg2BJ+BMpznTmyIGsY8xX56O6nPX+ifmI9j5jWK0IcbEiO/9jbZ1RdibCcb6+zUbUDzXJzoP/c3W+9+8/C/bAYYGv5Sa+gnfA/gSBXnKbrkzHjhyCz5y/oLA3QJkCkYvY9uvNNyreRG2p0kr9pbW0HSuiEuBkQ==;5OZGhJu+K/ZQupIjvVEfDQ=="
 ---

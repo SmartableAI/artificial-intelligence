@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/speech-to-text-apps"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/speech-to-text-apps"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
