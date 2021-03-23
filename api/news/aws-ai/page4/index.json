@@ -2,6 +2,115 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-17-8-databases-supporting-in-database-machine-learning.md",
+      "title": "8 databases supporting in-database machine learning",
+      "excerpt": "The CREATE MODEL command in Redshift SQL defines the data to use for training and the target column, then passes the data to Amazon SageMaker Autopilot for training via an encrypted Amazon S3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3607762/8-databases-supporting-in-database-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3607762/8-databases-supporting-in-database-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3607762/8-databases-supporting-in-database-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3607762/8-databases-supporting-in-database-machine-learning.amp.html",
+      "publishedDateTime": "2021-02-17T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-artificial-intelligence-ai-chipsets-market-growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-data-processing-options-for-aiml.md",
       "title": "Data processing options for AI/ML",
       "excerpt": "Training an accurate machine learning (ML) model requires many different steps, but none are potentially more important than data processing. Examples of processing steps include converting data to the input format expected by the ML algorithm, rescaling and normalizing, cleaning and tokenizing text,",
@@ -1315,110 +1424,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud.md",
-      "title": "As Jeff Bezos steps down, Amazon stakes its future on the cloud",
-      "excerpt": "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html",
-      "originalUrl": "https://www.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210203034029-jeff-bezos-andy-jassy-split-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html",
-      "publishedDateTime": "2021-02-04T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-using-genetic-algorithms-on-aws-for-optimization-problems.md",
-      "title": "Using genetic algorithms on AWS for optimization problems",
-      "excerpt": "Machine learning (ML)-based solutions are capable of solving complex problems, from voice recognition to finding and identifying faces in video clips or photographs. Usually, these solutions use large amounts of training data, which results in a model that processes input data and produces numeric output",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-genetic-algorithms-on-aws-for-optimization-problems/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-genetic-algorithms-on-aws-for-optimization-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/ML-1235-4.jpg",
-          "width": 728,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T09:59:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

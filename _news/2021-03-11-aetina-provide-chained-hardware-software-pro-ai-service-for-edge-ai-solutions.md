@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions"
-excerpt: "Aetina Corporation dedicated to AI solutions with the ambition to deliver a professional AI service. Today Aetina proudly introduces their"
-publishedDateTime: 2021-03-11T13:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/aetina-provide-chained-hardware--software-pro-ai-service-for-edge-ai-solutions-301245268.html"
-webUrl: "https://www.prnewswire.com/news-releases/aetina-provide-chained-hardware--software-pro-ai-service-for-edge-ai-solutions-301245268.html"
+excerpt: "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions"
+publishedDateTime: 2021-03-11T13:51:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497"
+webUrl: "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1454391/Pro_AI.jpg?p=facebook"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "mxOrLs1z+9skLC3ZRKJmtVsj1HE7ILFubLpmQ/3y8AE1g2f3t9QMogxwkwpll1BT/KRO3hXw1Er6pK7MPyZQdKo6nbJzv9a0bX1fIWXz6TNUDStks5xmvW1v6L+iI+l5F5cx+Ixc84q7D9XsU4Ixm6DZuCRLMIOXIKZ1j2r36DPLT2VZqZmf5yFq0G1YhNzOn1FwZRqZePkBGD/s7arHRLJc8CHYO3PdCB5bMPywKuUU5p3I56x4CPzXirVpHDAwb1qHeP1v8jkrgASaNMILh5QUEd2g6sHI3lDmYxV2bgzPZIWVnwQbJtq1rIWvy+2N/76m2p1/7qYu0a32HhlYRfHjc88EF2qe4KDauk8GxW0=;UqirpaqhrUqTYUwwQFotRA=="
+secured: "Eyloe2lA4+x1tYT6pwnrfYjL5ePQ7D4dUcH8C6CMbAhrxpLqKbr/6tN6OCFnzrptZ8BJE0SbceS8ROLAiQg80mDXWGVhm9Aqdi/DRTbrAhtLeyf29IkZGS/UMHW2tZ46kkx/FHn6/HERBquToT6BzfmO/ivxBRbZuBEKK386LCJM/4dU9SAiihr+jr2AMrxA8e4GcwvshHsCQQK4sh2FMEc4RQdnd8QADwju8uQooMIK3zx8xbHzHcqemSfhPiPrt9rgzAch1rjkA0T6Pygdc6nMjHg5DArC8JFUb/tnQYVrwep9T+kucLhh5kGfmuu61KGP+GxEhaOLX9CTm/GHh+4l6jFIFLPyJgnctxN/DtM=;nTXZOI7qXtDDhjUYgo1cpA=="
 ---
 

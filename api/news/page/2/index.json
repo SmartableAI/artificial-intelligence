@@ -2,6 +2,205 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-23-jumio-raises-150m-to-secure-onboarding-with-image-verification-ai.md",
+      "title": "Jumio raises $150M to secure onboarding with image verification AI",
+      "excerpt": "Jumio, an AI-powered platform for identity verification, has raised $150 million in venture capital from new and existing investors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/amp/",
+      "publishedDateTime": "2021-03-23T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-marketing-campaign-analytics-startup-sellforte-raises-478m.md",
+      "title": "Marketing campaign analytics startup Sellforte raises $4.78M",
+      "excerpt": "Sellforte, a startup developing AI technology that predicts the impact of marketing campaigns, has raised €4 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/5fff665fc52da858839a8898_Sellforte__-e1616447073344.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/amp/",
+      "publishedDateTime": "2021-03-23T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of.md",
+      "title": "Bias in facial recognition isn’t hard to discover, but it’s hard to get rid of",
+      "excerpt": "Joy Buolamwini is a researcher at the MIT Media Lab who pioneered research into bias that’s built into artificial intelligence and facial recognition. And the way she came to this work is almost a little too on the nose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of/",
+      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketplace.org/wp-content/uploads/2021/03/coded-bias-ft-img.jpg?fit=480%2C270",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of?amp",
+      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of?amp",
+      "publishedDateTime": "2021-03-22T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marketplace",
+        "domain": "marketplace.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-baidu-ceo-engineers-66-billion-comeback-after-repeated-missteps.md",
+      "title": "Baidu CEO Engineers $66 Billion Comeback After Repeated Missteps",
+      "excerpt": "In January, Baidu unveiled a new venture with Zhejiang Geely Holding Group that will produce smart EVs, prompting analysts to revalue the tech giant’s eight-year-old Apollo unit, whose self-driving software had drawn tepid interest from automakers in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-23/baidu-ceo-engineers-66-billion-comeback-after-repeated-missteps",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-23/baidu-ceo-engineers-66-billion-comeback-after-repeated-missteps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQVSnXXBLHg/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-create-forecasting-systems-faster-with-automated-workflows-and-notifications-in-amazon-forecast.md",
       "title": "Create forecasting systems faster with automated workflows and notifications in Amazon Forecast",
       "excerpt": "You can now enable notifications for workflow status changes while using Amazon Forecast, allowing you to work seamlessly without the disruption of having to check if a particular workflow has completed. Additionally, you can now automate workflows through the notifications to increase work efficiency.",
@@ -199,7 +398,7 @@
       "originalUrl": "https://www.reuters.com/video/watch/humanoid-robot-sophia-to-auction-its-own-id727565987",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1032,198 +1231,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-speech-to-text-apps-what-to-look-for-in-dictation-software.md",
-      "title": "Speech-to-text apps: what to look for in dictation software",
-      "excerpt": "Why strain your wrists typing on your keyboard when you could just as easily dictate your content and have a designated speech-to-text software take the notes for you? Over the years, the market has been saturated with apps and software to help you do just that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/speech-to-text-apps",
-      "originalUrl": "https://www.techradar.com/news/speech-to-text-apps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4LYCsUevcwfeMVmbm2PABJ-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/speech-to-text-apps",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/speech-to-text-apps",
-      "publishedDateTime": "2021-03-22T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-fortinet.md",
-      "title": "Artificial Intelligence (AI) in Cyber Security Market Next Big Thing | Major Giants BAE Systems, Cisco, Fortinet",
-      "excerpt": "Mar 22, 2021 (Market Insight Reports) -- The COVID-19 Global & China Artificial Intelligence (AI) in Cyber Security Market to witnessed good recovery in growth post first half of 2020 and is projected coverup market sizing during the forecast period (2021 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-fortinet-2021-03-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-fortinet-2021-03-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation.md",
-      "title": "Is TensorFlow ‘for Boomers’? PyTorch May Gain More Ground in Machine Translation",
-      "excerpt": "PyTorch, the open source framework used to build machine learning models, including those used for machine translation, released its newest version, 1.8, on March 4, 2021. According to PyTorch’s official announcement,",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
-      "originalUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/03/Battle-of-the-Frameworks-between-Pytorch-and-Transformer.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-all-about-us-india-artificial-intelligence-initiative-usiai.md",
-      "title": "All about US India Artificial Intelligence Initiative (USIAI)",
-      "excerpt": "US India Artificial Intelligence Initiative: Why in News? United States India Artificial Intelligence, USIAI initiative has been launched to enhance the technological relationships between the two countries. DST secretary Ashutosh Sharma in the curtain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/general-knowledge/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
-      "originalUrl": "https://www.jagranjosh.com/general-knowledge/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2021/March/2232021/AI.png",
-          "width": 640,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jagranjosh.com/general-knowledge/amp/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
-      "cdnAmpWebUrl": "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/general-knowledge/amp/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
-      "publishedDateTime": "2021-03-22T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rojgar Samachar",
-        "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

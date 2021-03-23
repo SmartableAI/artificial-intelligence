@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/facebook-accounts-zuckerberg.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Press Freedom Group Sues Facebook Over Misinformation, 'Hate Speech'"
+    excerpt: "Press freedom advocate Reporters Without Borders (RSF) is suing Facebook in France, saying the social media platform spreads misinformation. The suit was filed Monday with the Paris public prosecutor."
+    publishedDateTime: 2021-03-23T18:37:00Z
+    webUrl: "https://www.voanews.com/press-freedom/press-freedom-group-sues-facebook-over-misinformation-hate-speech"
+    ampWebUrl: "https://www.voanews.com/press-freedom/press-freedom-group-sues-facebook-over-misinformation-hate-speech?amp"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/press-freedom/press-freedom-group-sues-facebook-over-misinformation-hate-speech?amp"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 44
+    images:
+      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2021-03/AP21082125739425.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "According to Facebook’s New Wearable Device, The Future Is in Your Wrist"
     excerpt: "The wrist was chosen because it provides greater privacy over voice commands and an easier experience than pulling out a phone or a controller, and because of its location near your hands, which a majority of people are using everyday (for those born without or unable to utilize their arms or hands,"

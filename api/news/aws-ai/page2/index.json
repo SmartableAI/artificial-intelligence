@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-04-amazons-amzn-aws-selected-by-tour-strengthens-clientele.md",
+      "title": "Amazon's (AMZN) AWS Selected by TOUR, Strengthens Clientele",
+      "excerpt": "Amazon's AMZN robust cloud services portfolio is helping it gain customers. PGA TOUR— commonly known as TOUR — recently selected Amazon Web Services (“AWS”) as its official cloud provider. This highlights the efficiency and reliability of AWS’s innovative cloud products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04",
+      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04?amp",
+      "publishedDateTime": "2021-03-04T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-utilizing-xgboost-training-reports-to-improve-your-models.md",
+      "title": "Utilizing XGBoost training reports to improve your models",
+      "excerpt": "In 2019, AWS unveiled Amazon SageMaker Debugger, a SageMaker capability that enables you to automatically detect a variety of issues that may arise while a model is being trained. SageMaker Debugger captures model state data at specified intervals during a training job. With this data, SageMaker Debugger",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/utilizing-xgboost-training-reports-to-improve-your-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/utilizing-xgboost-training-reports-to-improve-your-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/23/ML-2105-5.jpg",
+          "width": 685,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T13:36:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-leopard-imaging-collaborates-with-socionext-hailo-and-aws-to-launch-edgeturing.md",
       "title": "Leopard Imaging Collaborates with Socionext, Hailo, and AWS to Launch EdgeTuring™",
       "excerpt": "FREMONT, Calif. and YOKOHAMA, Japan and TEL AVIV, Israel, March 3, 2021 /PRNewswire/ -- Leopard Imaging Inc. (Leopard Imaging), a leading global",
@@ -1302,111 +1388,6 @@
         "Natural Language Processing",
         "Facebook AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-setting-up-amazon-personalize-with-aws-glue.md",
-      "title": "Setting up Amazon Personalize with AWS Glue",
-      "excerpt": "Data can be used in a variety of ways to satisfy the needs of different business units, such as marketing, sales, or product. In this post, we focus on using data to create personalized recommendations to improve end-user engagement. Most ecommerce applications consume a huge amount of customer data",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/setting-up-amazon-personalize-with-aws-glue/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/setting-up-amazon-personalize-with-aws-glue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/19/ML-1069-1.jpg",
-          "width": 480,
-          "height": 271,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T13:05:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-amazon-rekognition-custom-labels-community-showcase.md",
-      "title": "Amazon Rekognition Custom Labels Community Showcase",
-      "excerpt": "In our Community Showcase, Amazon Web Services (AWS) highlights projects created by AWS Heroes and AWS Community Builders.&nbsp; We worked with AWS Machine Learning (ML) Heroes and AWS ML Community Builders to bring to life projects and use cases that detect custom objects with Amazon Rekognition Custom",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-custom-labels-community-showcase/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-custom-labels-community-showcase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/25/Banana-and-Apples.jpg",
-          "width": 600,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

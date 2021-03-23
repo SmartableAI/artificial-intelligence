@@ -7,7 +7,7 @@ originalUrl: "https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-contr
 webUrl: "https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-controlled-f-16s-working-as-a-team-in-virtual-dogfights"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "DARPA to test AI-controlled jets in live-fly dogfights after successful simulations"
+    excerpt: "DARPA‘s mission to develop AI fighter jets has moved a step closer to take-off. The military research agency’s algorithms took down an Air Force pilot in a virtual dogfight last year."
+    publishedDateTime: 2021-03-23T18:42:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 81
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-23T161949.714-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "DARPA tests artificial intelligent dogfighting in two-versus-one simulations"
     excerpt: "DARPA's Air Combat Evolution programme tested team dogfighting between artificial intelligence-controlled fighters in a software simulation in February."
     publishedDateTime: 2021-03-22T22:05:00Z

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-23-the-move-to-e-learning-is-heating-up.md",
-      "title": "The Move to E-learning Is Heating Up",
-      "excerpt": "Inexorable forces are propelling the growth of e-learning at a blistering pace. Online-learning markets were ignited by high education costs, business training programs and a wave of tech innovations,",
+      "path": "_news/2021-03-23-amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning.md",
+      "title": "Amazon AWS, Hugging Face team up to spread open-source deep learning",
+      "excerpt": "Amazon's vice president of machine learning, in the same interview. The partnership consists of a few parts. Hugging Face has built two new services, AutoNLP and an Accelerated Inference API, have been built upon Amazon's SageMaker suite for AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-move-to-e-learning-is-heating-up-2021-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-move-to-e-learning-is-heating-up-2021-03-23",
+      "webUrl": "https://www.zdnet.com/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 118,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/23/b303e223-69b6-4396-b744-102b4be9b771/aws-and-hugging-face-2021-for-placement.jpg",
+          "width": 971,
+          "height": 462,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T07:15:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
+      "publishedDateTime": "2021-03-23T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -51,7 +51,8 @@
       "topics": [
         "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AWS AI"
       ]
     },
     {

@@ -1301,34 +1301,34 @@
     {
       "path": "_news/2021-03-11-aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions.md",
       "title": "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions",
-      "excerpt": "Aetina Corporation dedicated to AI solutions with the ambition to deliver a professional AI service. Today Aetina proudly introduces their",
+      "excerpt": "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/aetina-provide-chained-hardware--software-pro-ai-service-for-edge-ai-solutions-301245268.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/aetina-provide-chained-hardware--software-pro-ai-service-for-edge-ai-solutions-301245268.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1454391/Pro_AI.jpg?p=facebook",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T05:30:00-08:00",
+      "publishedDateTime": "2021-03-11T05:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

@@ -105,6 +105,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Press Freedom Group Sues Facebook Over Misinformation, 'Hate Speech'"
+    excerpt: "Press freedom advocate Reporters Without Borders (RSF) is suing Facebook in France, saying the social media platform spreads misinformation. The suit was filed Monday with the Paris public prosecutor."
+    publishedDateTime: 2021-03-23T18:37:00Z
+    webUrl: "https://www.voanews.com/press-freedom/press-freedom-group-sues-facebook-over-misinformation-hate-speech"
+    ampWebUrl: "https://www.voanews.com/press-freedom/press-freedom-group-sues-facebook-over-misinformation-hate-speech?amp"
+    cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/press-freedom/press-freedom-group-sues-facebook-over-misinformation-hate-speech?amp"
+    type: article
+    provider:
+      name: Voice of America
+      domain: voanews.com
+    quality: 44
+    images:
+      - url: "https://im-media.voltron.voanews.com/Drupal/01live-166/2021-03/AP21082125739425.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "LxZ996xZ4mdXIYcJZySPno2JUqqodmAKQZqpjm1UgAwYYQV7xHxssJcM4cmZWiA1qV9KhSfKJ/FxN0nGdn0WasRWmlZP4834jp/fB1/dowTcvCCftGhgNv2BfFxNKQpptDnJzIZO531R4t+b8XJDKTTWZSIruDpcU4Mq16kreYD0vKnaeNeN5u05pgduAjVwg/AOYKCTJN5tHRo2sfHgbF+V0DiB/epW1SWjKanwIYBCBIhVDq+d+PgvAASApo4G/9UjLzPlojcA9m+jNixkhY2nr4OtUvYkIeFwIV7UuJCSG7ZMn8EMGmnzmuz+2edGPXemyZZenR7cyAtr0uvxoLmbA3L0ba7K5Zqfre+IJt+oG7UACk5F5dWwCU2sqbkWW5kZ30NI5LuCrcv1aNrQvX+BFNewgjkh7GiCaZcSDYTxwkfejV0jud8zRQPomOG+cThMc2pPqHN2yjcW9WSrk3uzy63LwsIQX78U3ORmbeZxg8q4FtIy84QBgshbXQEh6i1m7YXlHnSpn5OpxQqXSw==;FPhJMwR+ViB7NfLo5pe8dw=="
 ---

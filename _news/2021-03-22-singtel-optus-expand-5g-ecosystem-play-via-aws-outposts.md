@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Singtel and Optus expand 5G ecosystems with AWS for 5G edge computing"
+    excerpt: "The MEC, leveraging the Amazon Web Services (AWS) Outposts, will enable 5G solutions like robotics, drones, autonomous vehicles and artificial intelligence to operate at ultra-low latency, closer to the end-users. AWS Outposts is a solution that enables ..."
+    publishedDateTime: 2021-03-23T18:45:00Z
+    webUrl: "https://www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/"
+    ampWebUrl: "https://www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Singtel and Optus expand 5G ecosystem play via AWS Outposts"
     excerpt: "autonomous vehicles and artificial intelligence offerings to operate at ultra-low latency. “We’re pleased to work with a world-class cloud provider like AWS to expand Singtel’s and Optus’ 5G ecosystems and increase the adoption of edge computing by ..."
     publishedDateTime: 2021-03-22T07:52:00Z

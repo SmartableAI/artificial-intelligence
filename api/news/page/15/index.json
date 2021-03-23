@@ -2,6 +2,197 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-10-eset-utenti-non-sanno-come-vengono-utilizzati-i-dati-dalle-app-fintech.md",
+      "title": "Eset: utenti non sanno come vengono utilizzati i dati dalle App FinTech",
+      "excerpt": "Agli intervistati è stata posta una serie di domande sui temi della FinTech e della cybersecurity ... della sicurezza rivelano che molte persone potrebbero essere vulnerabili ai rischi informatici ed è nostro compito garantire che le informazioni ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bitcity.it/news/38493/eset-utenti-non-sanno-come-vengono-utilizzati-i-dati-dalle-app-fintech.html",
+      "originalUrl": "https://www.bitcity.it/news/38493/eset-utenti-non-sanno-come-vengono-utilizzati-i-dati-dalle-app-fintech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bitcity.it/immagini/2021/03/online-banking-3559760-960-720-1.jpg",
+          "width": 700,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bitcity.it/amp.php?elemento=38493",
+      "cdnAmpWebUrl": "https://www-bitcity-it.cdn.ampproject.org/c/s/www.bitcity.it/amp.php?elemento=38493",
+      "publishedDateTime": "2021-03-10T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BitCity",
+        "domain": "bitcity.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade.md",
+      "title": "Gartner: AI and data science to drive investment decisions rather than \"gut feel\" by mid-decade",
+      "excerpt": "A new Gartner report predicts that AI and data science to drive investment decisions rather than \"gut feel\" by mid-decade. \"Successful investors are purported to have a good 'gut feel'—the ability to make sound financial decisions from mostly qualitative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
+      "originalUrl": "https://www.techrepublic.com/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/10/4f53375a-fe41-4d68-b005-f5f573203e57/resize/1200x/1bbf0c5a3a320b63f4a64ba225d240a5/metamorworks-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-ai-and-data-science-to-drive-investment-decisions-rather-than-gut-feel-by-mid-decade/",
+      "publishedDateTime": "2021-03-10T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-africa-the-ethics-of-ai-to-ensure-food-security-and-development.md",
+      "title": "Africa: The Ethics of AI to Ensure Food Security and Development",
+      "excerpt": "Opinion - One year after the call for a group of international and religious organizations and important multinational companies to incorporate ethics into the design of artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://allafrica.com/stories/202103100180.html",
+      "originalUrl": "https://allafrica.com/stories/202103100180.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+          "width": 664,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T23:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AllAfrica.com",
+        "domain": "allafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026.md",
+      "title": "Robotics Process Automation in Finance Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
+      "excerpt": "Global Robotics Process Automation in Finance Market is valued approximately USD 1.10 Billion in 2019 and is anticipated to grow with a healthy growth rate of more than 33.60% over the forecast period 2019-2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful.md",
       "title": "Startup uses NLP and AI to make software security reviews less painful",
       "excerpt": "Apiiro creates user profiles and analyzes a company's code base to spot high-risk changes and replace manual risk assessments with on-the-fly analysis. Drupal at 20: Creator Dries Buytaert shares lessons from two decades as an open-source leader 40:19 ...",
@@ -456,6 +647,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
+      "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
+      "excerpt": "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "originalUrl": "https://www.wboc.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20469629_G.png?lastEditedDate=1615308422000",
+          "width": 900,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -944,237 +1178,6 @@
         "AI Hardware",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020.md",
-      "title": "The 12 most important technology partnerships in Connected & Automated Driving in 2020",
-      "excerpt": "EINPresswire.com/ -- 2020 was a turbulent year for the Auto industry but players pushed even harder to build expertise and gain market share in ADAS through technological and commercial partnerships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
-      "originalUrl": "https://www.wicz.com/story/43470970/the-12-most-important-technology-partnerships-in-connected-automated-driving-in-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20469629_G.png?lastEditedDate=1615308422000",
-          "width": 900,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup.md",
-      "title": "Using The Cloud To Bootstrap Your Autonomous Vehicles Startup",
-      "excerpt": "Cloud computing is a crucial ally when trying to get a startup underway that is focused on Autonomous Vehicles, here's the reasons why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6046bb448ea9344158a8e912%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1345%26cropY1%3D14%26cropY2%3D771",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/amp/",
-      "publishedDateTime": "2021-03-09T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-app-di-fintech-luso-dei-dati-personali-per-molti-e-un-mistero.md",
-      "title": "App di Fintech, l'uso dei dati personali per molti è un mistero",
-      "excerpt": "Che fine fanno i dati personali transitanti dalle applicazioni e piattaforme Fintech per i pagamenti digitali? Un fruitore su due di questi servizi non sa rispondere, ma ciononostante continua a usarl",
-      "sourceUrl": null,
-      "webUrl": "https://www.ictbusiness.it/cont/news/app-di-fintech-l-uso-dei-dati-personali-per-molti-e-un-mistero/45353/1.html?scroll=1",
-      "originalUrl": "https://www.ictbusiness.it/cont/news/app-di-fintech-l-uso-dei-dati-personali-per-molti-e-un-mistero/45353/1.html?scroll=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ictbusiness.it/files/2021/03/immagini_contenuti/45353/icona_t.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IctBusiness",
-        "domain": "ictbusiness.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-meet-seekout-a-profitable-diverse-hiring-startup-that-just-raised-65m.md",
-      "title": "Meet SeekOut, a profitable diverse hiring startup that just raised $65M",
-      "excerpt": "Most companies claim they want a diverse staff but at the same time, complain they don’t know how to go about recruiting more diverse candidates. Enter SeekOut — a startup that is out to give companies no excuses with its AI-powered platform.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/",
-      "originalUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2014/02/money.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/seekout-raises-65m/amp/",
-      "publishedDateTime": "2021-03-09T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-and-bengio.md",
-      "title": "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio",
-      "excerpt": "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "originalUrl": "https://www.zdnet.com/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "publishedDateTime": "2021-03-09T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

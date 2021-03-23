@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/humanoid-robot-sophia-to-aucti
 webUrl: "https://www.reuters.com/video/watch/humanoid-robot-sophia-to-auction-its-own-id727565987"
 type: article
 quality: 69
-heat: 120
+heat: 119
 published: true
 
 provider:

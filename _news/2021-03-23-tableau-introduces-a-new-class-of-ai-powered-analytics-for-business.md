@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/tableau-introduces-a-new-class-of-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/"
 type: article
-quality: 87
-heat: 127
+quality: 89
+heat: 129
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.techrepublic.com/a/hub/i/r/2020/07/09/b6ab847a-647d-4dd3-8830-b9a2e978c6c2/resize/1200x/cacbd035a68bdef28ec6012ef91f3936/cloud-security-tr.jpg"
@@ -77,6 +78,6 @@ related:
       domain: ansa.it
     quality: 30
 
-secured: "dozGCJwG2I/Q0dZ40nJe/KOoGCrS8Z5W6nLZbKB08WC2yTyFIaTKvG0tr9oCBmVirAkAreWrFmJ5fMnTpOtv3LeNw64yOXszTgJKNmJscjNjEKmwWxU1a1RA+Yt/4ktReU2NDjjA6y6UV61tOlF1E5tHZ7fz22WsoPJydEhAIEUIZYaUMFXLDP+NQDh8DWip9fj8xtWDgg9cYcaY2qoixpFaez+ZNld0zYmjA9hvDPDiavzRHhRP5v8aBpELwqbrDRvYgGiYhHiSR1wUpZk2my7KKEw155c0V2kQedj1JCUdWTQfif/CVWjtEM/g1vDIkAXW4FL7Yc+mD5fvD7IZMD7ijfMkOZGVOPNfIiY5UyI=;sb7sDlgywTpYM69eH1JnDA=="
+secured: "xvqzLDhRnIB6nB5WsgYQu8IpAEkkI6AISV6s4qUaoPHPB8sgNbTb8lEISR0B1Y9zYV8QywDtemM7bGlm7aoX0I5BifLyNqLOkLHxWp0fTy3vx9Ls/rShEALd904wiBrVQcte6agWiN8Fxj1gCO1MiOhMVOUN3jRkxq7v744ooqW8OGmy4Ltz2APOaOOHm5s7MeH2xgUL26/BqvzRnOCOkSZKhE8chtmRpMpNl1qC9A6keIG2P3joXWDM5UMNzu4tR/t31BldaecOToXThSydaf1H7ZkWTmpGMooyPRtVX0U2ucT6PSoDdiAyoIAdCaytMVlQILTzoQAjuZdKxHfd4N8wEAKvWtIViXwBGkb1tV6bT+0hDQPSTOAPacQeFUpzdbzVMe6hkbjZrI9/ITI5Jzen4bcV3kynZjAdtz1G/SKSji84cUIsw8vLftumq9CveOQ5eoc3hM5UY+2zJ9HMogbGnLi7X5sevscOczsYRiyWPwdSVykxL7yuRmcvDDbyfwJlG7Bsfpd7fuXptTAIqA==;3QvNxvtMhQWqdoOQSBmOKg=="
 ---
 

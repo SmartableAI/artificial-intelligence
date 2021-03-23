@@ -42,6 +42,22 @@ related:
         width: 1440
         height: 1027
         isCached: true
+  - title: "Prince Harry has a job working for Silicon Valley startup"
+    excerpt: "The company said on its website: “The BetterUp experience brings together world-class coaching, AI technology, and behavioral science experts to deliver change at scale — improving individual resilience, adaptability, and effectiveness. The results?"
+    publishedDateTime: 2021-03-23T18:40:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/prince-harry-has-job-working-silicon-valley-startup/4FGAEY4D4FHHHMOHVFRZST3Z5I/"
+    ampWebUrl: "https://www.wsbtv.com/news/trending/prince-harry-has-job-working-silicon-valley-startup/4FGAEY4D4FHHHMOHVFRZST3Z5I/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/prince-harry-has-job-working-silicon-valley-startup/4FGAEY4D4FHHHMOHVFRZST3Z5I/?outputType=amp"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 42
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/02-26-2021/t_958c44444be841e89f44e77b1cad70c1_name_Prince_Harry_talks_about_move_to_Califor_6038ec205661eb313d706f1d_1_Feb_26_2021_12_48_55_poster.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "VOlOltn0W8rBLX+NDkhRCP/YGaUlcscHPzhaAz4WdkMKAp3wtfXUq35C5nt3jKUPdscrRXbzsQ30xGY414qzL3DZ52HVINO9DDPvSffq0J4oMo874ZjtyevJ9PL9BUCf9i6o97duyb3jJt8EjYRVqiWtAqJnGAKeWmxioGzYL4WkQzMlZlRzY/8E4iHYSBbp0cn7RqsTPVghTQ7TdyLb176eBL+qXUNh7vRgM7iko0iXsuitlqLIb8ijlLzOuDGxaKPBkNgJIEtJK255Kzad8/XNRq2kbkK14f+8Ngi2PWFtHmgsrglflQRUQUlv+QGmDSXNFqgmywvbwxKQaSezd3cCEEDpkAun3+/IdmsBr0A=;6mgf1tas+Q1FcQLke5WFkA=="
 ---

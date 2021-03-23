@@ -42,7 +42,23 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Prince Harry has a job working for Silicon Valley startup"
+    excerpt: "The company said on its website: “The BetterUp experience brings together world-class coaching, AI technology, and behavioral science experts to deliver change at scale — improving individual resilience, adaptability, and effectiveness. The results?"
+    publishedDateTime: 2021-03-23T18:40:00Z
+    webUrl: "https://www.wsbtv.com/news/trending/prince-harry-has-job-working-silicon-valley-startup/4FGAEY4D4FHHHMOHVFRZST3Z5I/"
+    ampWebUrl: "https://www.wsbtv.com/news/trending/prince-harry-has-job-working-silicon-valley-startup/4FGAEY4D4FHHHMOHVFRZST3Z5I/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/prince-harry-has-job-working-silicon-valley-startup/4FGAEY4D4FHHHMOHVFRZST3Z5I/?outputType=amp"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 42
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/02-26-2021/t_958c44444be841e89f44e77b1cad70c1_name_Prince_Harry_talks_about_move_to_Califor_6038ec205661eb313d706f1d_1_Feb_26_2021_12_48_55_poster.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
-secured: "pZL4yYen+BKhIdRNSmmQB+UIZ6CrSaVcSIchW3CyQGuz72iJVi7SttI60XkoWjXPyP6/YwmV0QK7mGy6hwxcretyFF8FtNKWaW/fmbhNLSlLtEIx0q5wcFDkpBmln3p/2rw1/kBWCTk7lFxkr/5V4PmBj+MJ6L/EZjQPtu0mbux91+XtNUA8kIjSQYLz47Gx5nc4Fk5ad423QzgHKhyN2QPCBi9P3FMMtxpiP2fSiQr6tV24Swe28DIS5NjNMa1UANk2782xJgp9ZCTIGe15NUvyGHF4vJhEi96CJUqA0ork7sgDRMG6Nn41m8UiqYykcBY7YA8Y5XooMl+RqukoyvM0zM++8rH33ZAtoqwZQcU=;s/VsN1/Ywxv4XFvRRd5S3Q=="
+secured: "okUO5J3CoDHidfR6ecUCfO7jgYMDunZl5VtzWfyEWQK9nYtDT6LLa/bJ8GZJlO7W7Yi1KyVOX/WOyERsJEN2Zn35HxKQixtsHTFhJUzNxpGN1ybErie0SMn2Xu+Xkv9O/K/TD3mQKwNypC3C27pJhA70+d43D7N/MivtoojhXKe2dQ8Po7fDJinYPVKg30Sw7BSqMYLKTu7ySCcBdIaq0dXwyvRaTIm79nk0yhSikgv1FB6HCJGJg6gTxhw//ldcIkYnn9wW+SxMzb8JCvW7wn59rlcUo2PTx7EA6/jetqxblGKgNS4hR7QVwW6jIh8MWnfkq0PQksvx8wDwQnG8LXGcVqXaWSuAjj1YpqYRXL2m1hU9+vqZ95SIEaNVik+SQ/dRPOwA9HAbnZy63Q4iXJG78W0uQipx/dz2/+80It0TmKZJGk5XK4v3q4AI2TMGYkJ7j4aJnDLqPcIUao+TvCEZEM8ZMtp4SaeRbSIvEoYmzkkhjLpE4ynrNf9wPKTSP8kzQgIhrdpbhw1I/onTQA==;PZcmOEG7fDswlNhbXMpCsw=="
 ---
 

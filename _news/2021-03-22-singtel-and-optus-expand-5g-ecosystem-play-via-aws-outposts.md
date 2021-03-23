@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/687082/singtel-optus-expand-5g-e
 webUrl: "https://www.arnnet.com.au/article/687082/singtel-optus-expand-5g-ecosystem-play-via-aws-outposts/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Singtel and Optus expand 5G ecosystems with AWS for 5G edge computing"
+    excerpt: "The MEC, leveraging the Amazon Web Services (AWS) Outposts, will enable 5G solutions like robotics, drones, autonomous vehicles and artificial intelligence to operate at ultra-low latency, closer to the end-users. AWS Outposts is a solution that enables ..."
+    publishedDateTime: 2021-03-23T18:45:00Z
+    webUrl: "https://www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/"
+    ampWebUrl: "https://www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Singtel and Optus partner AWS on telco edge"
     excerpt: "Singtel and Optus are supporting AWS Outposts in their telco edge platforms that will enable enterprises to use AWS services for on-premise 5G applications"
     publishedDateTime: 2021-03-22T07:27:00Z

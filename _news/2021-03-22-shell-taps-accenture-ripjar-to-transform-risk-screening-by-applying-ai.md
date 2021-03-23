@@ -42,19 +42,14 @@ related:
         height: 627
         isCached: true
   - title: "Accenture and Ripjar Help Shell Transform Risk Screening by Applying Artificial Intelligence Across Its Global Supply Chain"
-    excerpt: "Accenture (NYSE: ACN) and Ripjar, a leading UK-based data intelligence company, are collaborating with Royal Dutch Shell to further enhance risk screening within its global supply chain using artificial intelligence (AI)."
-    publishedDateTime: 2021-03-22T07:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-united-kingdom-energy-and-fuel-technology-a2211a929ba3492c9e4e4628f5f94570"
+    excerpt: "Accenture and Ripjar are collaborating with Royal Dutch Shell to enhance risk screening within its supply chain using artificial intelligence."
+    publishedDateTime: 2021-03-22T12:59:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210322005033/en/Accenture-and-Ripjar-Help-Shell-Transform-Risk-Screening-by-Applying-Artificial-Intelligence-Across-Its-Global-Supply-Chain"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
 secured: "dGNqSfwhKOo6zwv27LMF96QeNGi6gD4v9ue6QYWzZjH660nD8UyH9+cbdAttfQxwqqnT4mRCoMPyNuiBzb8hI9C56X1OFULeFHxeX96JooaieWTKQyhr+sbb2sm1/fapWgginmFIP43W7ZcM+bBbAWGcVH1V+v3th6crETPiM7xB7y/3CP2mmknTFRGm14jGHNYyJamE6R4KKKdCC727QnGXXmUB9tn6AJXyxy19vzLZse6zeclCOe2mhciXxhRf03XCjfAwzdlBreh48f2V11ZWLv8qSZUtg8Jymshlhd6Pl/sE/f49DqfljY2UcEYmQ4h0U6AW1W0KrGOLdEb3Z2I71251cOQDkvhnF5eIeZM=;JpDn4C4aNR3G8YLZPzTsrQ=="
 ---

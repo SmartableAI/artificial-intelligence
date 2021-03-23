@@ -2,6 +2,216 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-20-upstart-ceo-on-applying-ai-to-lending-an-enormous-market-opportunity.md",
+      "title": "Upstart CEO on applying AI to lending: 'An enormous market opportunity'",
+      "excerpt": "Upstart co-founder and CEO Dave Girouard joined Jim Cramer on \"Mad Money\" to discuss how the online lending platform is using modern technology to solve the biggest problems in the loans business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-an-enormous-market-opportunity-in-tying-ai-to-lending.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-an-enormous-market-opportunity-in-tying-ai-to-lending.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106856972-DOTCOM-MM-C-031921-jpg?v=1616194589",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more.md",
+      "title": "Extra Crunch roundup: AI eats fintech, fundraising visas, no-code transition tips, more",
+      "excerpt": "For this morning’s column, Alex Wilhelm interviewed Dave Girouard, CEO of Upstart, an AI-powered fintech lender that expects to see growth increase 114% this year. A forecast like that suggests ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/",
+      "originalUrl": "https://techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-908893916.jpg?w=1024",
+          "width": 1024,
+          "height": 655,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/amp/",
+      "publishedDateTime": "2021-03-19T14:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-does-it-keep-covid-19-out-of-buildings-or-is-it-really-a-facial-recognition-tool.md",
+      "title": "Does it keep COVID-19 out of buildings? Or is it really a facial recognition tool?",
+      "excerpt": "Tech companies are already preparing automated safety barriers aimed to keep COVID-19 out of buildings. Some, though, may have worrisome aspects. And I'm not just talking about the foot bath.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
+      "originalUrl": "https://www.zdnet.com/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/16/3c173e31-acbb-4aa8-b06a-1c8c98911b8d/screen-shot-2021-03-16-at-3-27-05-pm.png",
+          "width": 1672,
+          "height": 830,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/does-it-keep-covid-out-of-buildings-or-is-it-really-a-facial-recognition-tool/",
+      "publishedDateTime": "2021-03-19T13:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel.md",
+      "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel",
+      "excerpt": "The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 20.3% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel-2021-03-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-uber-under-pressure-over-facial-recognition-checks-for-drivers.md",
       "title": "Uber under pressure over facial recognition checks for drivers",
       "excerpt": "Uber’s use of facial recognition technology for a driver identity system is being challenged in the UK where the App Drivers & Couriers Union (ADCU) and Worker Info Exchange (WIE) have today called for Microsoft to suspend the ride-hailing giant’s use of b2b facial recognition",
@@ -62,7 +272,7 @@
       "originalUrl": "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1014,206 +1224,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-ceo-of-fintech-lender-now-a-billionaire-after-shares-soar-89-in-one-day.md",
-      "title": "CEO Of Fintech Lender Now A Billionaire After Shares Soar 89% In One Day",
-      "excerpt": "Fresh off a blockbuster earnings report that shattered Wall Street expectations, shares of AI-enabled fintech lender Upstart Holdings skyrocketed Thursday, minting a new billionaire out of Dave Girouard,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-lender-upstart-billionaire/",
-      "originalUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/18/fintech-lender-upstart-billionaire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6053c8533b896794608942c2%2F0x0.jpg%3FcropX1%3D151%26cropX2%3D838%26cropY1%3D32%26cropY2%3D419",
-          "width": 687,
-          "height": 387,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T14:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-how-making-a-funny-face-could-boost-the-security-of-face-unlock-features.md",
-      "title": "How Making a Funny Face Could Boost the Security of Face Unlock Features",
-      "excerpt": "Developed by DJ Lee and Zheng Sun at BY, Concurrent Two-Factor Identity Verification—or C2FIV, for short—could improve facial recognition unlock systems, like Apple's FaceID, by recording specific facial expressions or a user saying a specific phrase.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530",
-      "originalUrl": "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wmgsgpgdo3dnn2vfedxy.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530/amp",
-      "publishedDateTime": "2021-03-18T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-how-conversational-ai-can-help-efficiently-disseminate-covid-19-vaccines.md",
-      "title": "How Conversational AI can help efficiently disseminate Covid-19 vaccines",
-      "excerpt": "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
-      "originalUrl": "https://www.forbesindia.com/blog/coronavirus/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/blog/wp-content/uploads/2021/03/Vaccination_AI_b.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-uk-must-avoid-complacency-and-seize-ai-opportunity.md",
-      "title": "UK Must Avoid Complacency And Seize AI Opportunity",
-      "excerpt": "While it was sold to Google, Deepmind, which recently “changed everything” by solving the protein folding problem, is testament to the UK’s AI talent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
-      "originalUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60539a75054b0d8950391878%2F0x0.jpg",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/philipsalter/2021/03/18/uk-must-avoid-complacency-and-seize-ai-opportunity/amp/",
-      "publishedDateTime": "2021-03-18T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Accenture and Ripjar Help Shell Transform Risk Screening by Applying Artificial Intelligence Across Its Global Supply Chain"
-excerpt: "Accenture (NYSE: ACN) and Ripjar, a leading UK-based data intelligence company, are collaborating with Royal Dutch Shell to further enhance risk screening within its global supply chain using artificial intelligence (AI)."
-publishedDateTime: 2021-03-22T07:59:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-united-kingdom-energy-and-fuel-technology-a2211a929ba3492c9e4e4628f5f94570"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-united-kingdom-energy-and-fuel-technology-a2211a929ba3492c9e4e4628f5f94570"
+excerpt: "Accenture and Ripjar are collaborating with Royal Dutch Shell to enhance risk screening within its supply chain using artificial intelligence."
+publishedDateTime: 2021-03-22T12:59:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210322005033/en/Accenture-and-Ripjar-Help-Shell-Transform-Risk-Screening-by-Applying-Artificial-Intelligence-Across-Its-Global-Supply-Chain"
+webUrl: "https://www.businesswire.com/news/home/20210322005033/en/Accenture-and-Ripjar-Help-Shell-Transform-Risk-Screening-by-Applying-Artificial-Intelligence-Across-Its-Global-Supply-Chain"
 type: article
-quality: 26
+quality: 6
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Shell Taps Accenture, Ripjar to Transform Risk Screening by Applying AI"
@@ -55,6 +49,6 @@ related:
         height: 627
         isCached: true
 
-secured: "qLSMMLw6hfRNCrsVNOA6kehbKDSNalpJ3vy28Ukdh86LSkyL8qaz+hgdtay/mjuDRPwsvO7XhjKeITEE3PP8YMLEBuKLPvA2d3vu6cpOhiUpf9mrGXsApWhea022UTKmUyE1SrpldgzEgzLtdn2RdVZsb+3/d/liAgvKOQJJ2o/e/BTtEc8oRyOtY8zPU3E2ORpZiHeudiBksqC2dJegRZVkLJdqY0QtbpZsBVRZRgb+mjZKwvoVS1EmPgZy7KWpygsG8q4h0aF3ejw6t5PwbS61o2qgR7n5PDD7sgA3BvNq++/xAzJPZZmMFBH6+vXX1ZtDV2YM845tkkhv3ocdvMIFKOpjP5urOLGyivfYEPk=;39JR4Tl19sm0VvH6QPtRwQ=="
+secured: "wkzBeHGVyd2NX3Ih3mMuOo2S+HYrKIwj8XCQ5KjPmw2AhQgCoqX++fkpmiqXsXqjporezfDXaSEiQleKhDYRJ4bv+/Hf1y0RbDi5iCm4Qz2RTpmgD4mW9EQ6iA28vAVw1THzKFBpiw8jFsHeAmFG9sVnEvAbVOHzZOnOXzqGHISDvj1DgJ2yHjeRerLFXRNZAz4uGlf4LILQ9uNM8GkZXXL4YOBAu+U8/yth6uhsuzk0sATtXO5Yec0VOYTLecQ+I1VOJbqeCXGqwLCs3nqVSvWqbSv3O+/zTSm9r7tCzWQ6U2hvSbXBzESSqErS3vcw6ch72g+H+yMrvN3LJ+BVEGzo4gQ2XlbPm6lQfdC4x04=;mVbkJ2+/zWzG69KpIKK8WA=="
 ---
 

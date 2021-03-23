@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-24-disney-world-tests-facial-recognition-software-at-magic-kingdom.md",
+      "title": "Disney World tests facial recognition software at Magic Kingdom",
+      "excerpt": "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,",
+      "sourceUrl": null,
+      "webUrl": "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/",
+      "originalUrl": "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/",
+      "cdnAmpWebUrl": "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/",
+      "publishedDateTime": "2021-03-23T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC2",
+        "domain": "nbc-2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of.md",
       "title": "Bias in facial recognition isn’t hard to discover, but it’s hard to get rid of",
       "excerpt": "Joy Buolamwini is a researcher at the MIT Media Lab who pioneered research into bias that’s built into artificial intelligence and facial recognition. And the way she came to this work is almost a little too on the nose.",
@@ -1391,50 +1434,6 @@
       "provider": {
         "name": "New York Post",
         "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.md",
-      "title": "Suit: Company built 'most dangerous' facial recognition AI database in nation",
-      "excerpt": "The lawsuit said Clearview AI scrapes dozens of internet sites, such as Facebook, Twitter, Google and Venmo, to gather facial photos. Scraping involves the use of computer programs to automatically scan and copy data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation",
-      "originalUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2021/03/932/470/GettyImages-1229973204.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.amp",
-      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.amp",
-      "publishedDateTime": "2021-03-10T07:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTVU",
-        "domain": "ktvu.com",
         "images": null,
         "publishers": null,
         "authors": null

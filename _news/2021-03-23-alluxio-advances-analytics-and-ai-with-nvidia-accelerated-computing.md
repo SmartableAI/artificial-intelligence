@@ -35,7 +35,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://www.techrepublic.com/a/hub/i/r/2020/07/09/b6ab847a-647d-4dd3-8830-b9a2e978c6c2/resize/1200x/cacbd035a68bdef28ec6012ef91f3936/cloud-security-tr.jpg"
         width: 1200

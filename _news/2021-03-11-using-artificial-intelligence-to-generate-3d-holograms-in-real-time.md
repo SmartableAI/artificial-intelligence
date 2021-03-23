@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Using artificial intelligence to generate 3D holograms in real-time"
-excerpt: "Despite years of hype, virtual reality headsets have yet to topple TV or computer screens as the go-to devices for video viewing. One reason: VR can make users feel sick. Nausea and eye strain can result because VR creates an illusion of 3D viewing although the user is in fact staring at a fixed-distance 2D display."
-publishedDateTime: 2021-03-10T16:05:00Z
-originalUrl: "https://phys.org/news/2021-03-artificial-intelligence-3d-holograms-real-time.html"
-webUrl: "https://phys.org/news/2021-03-artificial-intelligence-3d-holograms-real-time.html"
-ampWebUrl: "https://phys.org/news/2021-03-artificial-intelligence-3d-holograms-real-time.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-artificial-intelligence-3d-holograms-real-time.amp"
+excerpt: "Researchers have developed a way to produce holograms almost instantly. The deep learning-based method is so efficient, it could run on a smartphone, they say."
+publishedDateTime: 2021-03-10T21:07:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/03/210310121953.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/03/210310121953.htm"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/usingartific.jpg"
-    width: 1500
-    height: 1000
-    isCached: true
-
-secured: "S/I6vf0GmHwMLP/8lFpRh1IleIsDxhfEjxzkwYe7opUqDqIa5Imo07T3R+nSKpQHpjjap/fcfhx8yG6axfk5/MiZmteyetuWmgDDtt6fU55qZhwZpNxWL+2vcIMt0WEOb4u8Hb+seW91GQk+spJFkgPjp5HUneBq1VmI8dD8flQ/+CuZYwB6oNWOurUV3WALLGptwlfwmTzExUkOXuH0xv6dDFl2gqxnRU4pcLZ4qJSBecYnxq1+03tz/ASf0mg8McEfe5Zcz2+K6yD/4aU/mtZL5R8BBPNtEwISNUxprwknThtODPhsrKo6A0kpJ25pfaG9baBR4ItS3ySnA9hwl9MRV90OzrZoow0IqrPwid0=;cmTlCbrMK44+p2bbkR5s5w=="
+secured: "JeFaWo4bQLevXrpiKcCa4mrSQA5C513NwvG6K250pF+xLlF2QuuUpxkwPnqYmQ1y5+DNxCeopuL0bUu9MmDjoVpeMqAXucCsQmteOfJF8vzQx73tRB2UMkyX4QX7o9DrzMSAWM3u5lC5MAV9kZHbHPZHqGMlc/ijCWpbj+Du83aJlZ4+IKZuEh/UaA7bpjJF2L/GVvLKfRmC0+A1y7+dVyrbZgVkRM9+vEdhqvhlBbEXWl2mxUcUyegMeNDFyn2cPozGlC/mLQnFxKmlRI3fXYRPphXfHQXbzeyTeLEoZQ2PCTA99eoHYXD9+NMte7iZdTKe7JSJNw4KX4Bhq0j2Jaz0+h4ZSvNB+Leo7HlU8WU=;dvFhBURxyDHyvcRD8EKl1w=="
 ---
 

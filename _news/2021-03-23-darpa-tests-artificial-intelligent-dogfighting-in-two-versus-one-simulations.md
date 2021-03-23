@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "DARPA to test AI-controlled jets in live-fly dogfights after successful simulations"
+    excerpt: "DARPA‘s mission to develop AI fighter jets has moved a step closer to take-off. The military research agency’s algorithms took down an Air Force pilot in a virtual dogfight last year."
+    publishedDateTime: 2021-03-23T18:42:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 81
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-23T161949.714-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "DARPA Now Has AI-Controlled F-16s Working As A Team In Virtual Dogfights"
     excerpt: "Before the end of the year, it’s planned to migrate the AI technology from the virtual world and into sub-scale demonstrators."
     publishedDateTime: 2021-03-23T01:27:00Z
