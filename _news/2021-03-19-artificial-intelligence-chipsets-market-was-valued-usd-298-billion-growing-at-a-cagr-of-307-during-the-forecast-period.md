@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Service Robotics Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities"
+    excerpt: "Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role in boosting the Service Robotics Market demand in the forecast period."
+    publishedDateTime: 2021-03-22T05:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "North America Artificial Intelligence Chipsets Market Will Grow At 35% CAGR to Reach $25 Bn by 2026"
     excerpt: "The North America Artificial Intelligence chipsets market is set to experience a remarkable transformation over"
     publishedDateTime: 2021-03-22T17:15:00Z

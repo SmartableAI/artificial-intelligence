@@ -38,6 +38,20 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "Story - Artificial Intelligence, digital art"
+    excerpt: "A Doha-based artist has expressed optimism that Artificial Intelligence (AI), as well as digital art, are expected to flourish in Qatar and the region due to the burgeoning art scene and artists’ huge interest in emerging technologies. “I think ..."
+    publishedDateTime: 2021-03-19T19:28:00Z
+    webUrl: "https://www.gulf-times.com/story/687024/Story-Artificial-Intelligence-digital-art"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 37
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/3202119222842132145092.jpg"
+        width: 620
+        height: 355
+        isCached: true
 
 secured: "D2vcGTSyMUQQ00ZYkza1JSsKD0WAQ7pIuHK/DEW1IMVPa++1hItMjP8M7mSemESm2TC4C1JfcVhlF0h53ilAmnhgSzSxiA3sq1Jg1ibP0D9y5b8F+NSghJ9ZgIK0+4LX7z8Am5ncgU6zUbUJkUQQAvhF337LzWr4n6VVeSf8CpGzl7HOrytHUj0WSDttHzg1wd+AECWnHUtXu3ouRkkI6Zs5eHZTlpaHLf+B6Qh3DCphgw6btDFopv5XpIg/wJ/Ef0AsOckzPZuPJIXpCPygRdiHa5jPAs6j1CkuW/8haKHulR59jII2LPnbyVe4MrPyEgxnPSEIi41Z8zRYG8CyKGHrjyWIsoGvWyZcJgfo3rA=;lf3orlDLIEHC5CX/YwJykw=="
 ---

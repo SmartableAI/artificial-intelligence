@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/40-women-leading-the
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/40-women-leading-the-way-in-ai-innovation/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -112,20 +112,6 @@ related:
       - url: "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09509427_1616147284.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "IBM Recognizes 40 Innovative Female Leaders in Annual Women Leaders in AI Program"
-    excerpt: "... female business leaders today as part of the company’s annual Women Leaders in AI program. The women come from 18 different countries and use IBM Watson to help advance industries. This year, the women leaders include names from The Clorox Company ..."
-    publishedDateTime: 2021-03-18T13:14:00Z
-    webUrl: "https://www.unite.ai/ibm-recognizes-40-innovative-female-leaders-in-annual-women-leaders-in-ai-program/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 34
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/03/photo-1562705121-e624542c7b9b.jpeg"
-        width: 1000
-        height: 600
         isCached: true
 
 secured: "5pof6np2jg+NLmkA7B1QCySr5B/u0T9xNFcweCApXYIPC9PMJui8pCs7EIzVRxecMn5otN2pH+x7qVspIIOQEbHvrnDcGbEIbYWHWvFRSDQggnY+hgvEa5MWTugFFpiLzjnnxens4TvTFp58SFBcuHltqR+Lw/twfKB/c/YZsXUWetQk2MZKB54+NYHeYiF0xfYRCRkXD4eQYQiIElm9NpFr6w2Z9DGRBrix8GJRKPjS4xqroD3gCuwIRgkIuIwZc/YeaRlA2bu+eH7g6zvRSV1YRL50+fUUvNugIW2eYiAILei7c5omuuHltkRqx8B/NOAdOFlIo4l0IAxpwyj6jU60sUWOevYQH3ETavB9hcI=;V+VNuAqjLCqztZC/VAGT1w=="

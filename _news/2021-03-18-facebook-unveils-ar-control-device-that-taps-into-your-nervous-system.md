@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook reveals its Smart Glasses’ nerve-tracking wristband tech"
-    excerpt: "Facebook has revealed another step in its path to augmented reality Smart Glasses, a wrist-based controller that blends AI and nerve-tracking EMG to leapfrog traditional input systems. While the"
-    publishedDateTime: 2021-03-18T14:38:00Z
-    webUrl: "https://www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/"
-    ampWebUrl: "https://www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-reveals-its-smart-glasses-nerve-tracking-wristband-tech-18664390/amp/"
+  - title: "Facebook Messenger Bot Answers Questions About What’s Recyclable"
+    excerpt: "Facebook and leading consumer packaged goods brands like PepsiCo, organizers say. “We’ve built a lot of the answers into the bot experience so that it can be answered by artificial intelligence ...” says Cody Marshall, chief community strategy ..."
+    publishedDateTime: 2021-03-19T16:31:00Z
+    webUrl: "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/"
+    ampWebUrl: "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/03/frl-emg-wristbands.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facebook's upcoming AR wrist controllers will hijack your nerves"
-    excerpt: "\"I want to address why we're sharing this research,\" said Sean ... And other devices, he says, like the Facebook Portal – which sits in people's homes and uses AI tracking to move a camera ..."
-    publishedDateTime: 2021-03-18T14:00:00Z
-    webUrl: "https://newatlas.com/vr/facebook-wrist-ar-control-neuromotor/"
-    ampWebUrl: "https://newatlas.com/vr/facebook-wrist-ar-control-neuromotor/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/vr/facebook-wrist-ar-control-neuromotor/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 74
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/b97df71/2147483647/strip/true/crop/1620x1080+42+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe0%2F4c%2F229792ed40b0a8de21c235536e69%2Fclick.jpg"
-        width: 1200
-        height: 800
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054caec32d36b83b9313d2b%2F0x0.jpg"
+        width: 1199
+        height: 626
         isCached: true
   - title: "Facebook reveals wrist-based hardware for augmented reality"
     excerpt: "Facebook has unveiled a prototype for a wearable device that can be used as a control for augmented reality systems. The device is still in development at Facebook's Reality Labs (FRL) - formally Oculus Research - and is part of its work to find alternative methods of 'human-computer interaction' (HCI)."
@@ -75,35 +59,35 @@ related:
         width: 1422
         height: 796
         isCached: true
-  - title: "Facebook Lab Reveals Direction Of AR Smartglasses"
-    excerpt: "Facebook Reality Labs (FBL) takes the wraps off pioneering work on the AI and haptics needed for all day every  AR glasses. To have practical use a system a number of"
-    publishedDateTime: 2021-03-18T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2021/03/18/facebook-lab-reveals-direction-of-ar-smartglasses/"
+  - title: "Facebook Teases Futuristic Wrist-Based Wearable That Will Let You Control AR With Your Mind"
+    excerpt: "The Facebook Reality Labs Research team’s biggest challenge is ... Facebook has said it envisions AI as a critical part of the formula to help provide you with the right tools or commands ..."
+    publishedDateTime: 2021-03-18T23:15:00Z
+    webUrl: "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201"
+    ampWebUrl: "https://gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/facebook-teases-futuristic-wrist-based-wearable-that-wi-1846508201/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 64
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zjg5furu529dadyr79at.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "This Week In XR: Facebook’s Invisible Computing Research"
+    excerpt: "This Week in XR is now a podcast hosted by Paramount’s Futurist Ted Schilowitz and Charlie Fink, the author of this weekly column. You can find it on podcasting platforms Spotify, iTunes, and YouTube."
+    publishedDateTime: 2021-03-19T06:33:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2021/03/19/this-week-in-xr-facebooks-invisible-computing-research/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6052ffd96976a5b52dcffc41%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605441565fafb946c9eccb40%2F0x0.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Facebook Reveals Latest Wrist-worn Prototypes for XR Input & Haptics"
-    excerpt: "Facebook today revealed some of its latest research and vision for a wrist-worn input device that the company expects to form the basis of AR and VR interactions and haptics in the future. The device,"
-    publishedDateTime: 2021-03-18T13:59:00Z
-    webUrl: "https://www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/"
-    ampWebUrl: "https://www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/amp/"
-    cdnAmpWebUrl: "https://www-roadtovr-com.cdn.ampproject.org/c/s/www.roadtovr.com/facebook-reveals-latest-wrist-worn-controller-prototype-for-xr-input-haptics/amp/"
-    type: article
-    provider:
-      name: Road to VR
-      domain: roadtovr.com
-    quality: 44
-    images:
-      - url: "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2021/03/frl-wrist-prototype-2.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Facebook Teases New Wearable AR Tech Controlled With Your Wrists"
     excerpt: "On Thursday, the company teased information about its “wrist-based” technology that could be combined with artificial intelligence and harnessed into wearable technology. Last year, Facebook Reality Labs unveiled Project Aria,"
@@ -185,29 +169,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook is developing a neural wristband for interacting with AR glasses"
-    excerpt: "The wristband, detailed today, is part of a broader project by the social network to create augmented reality glasses suitable for everyday use. Facebook argues that such glasses will require the ability to not only display content but also give users an easy way to interact with that content."
-    publishedDateTime: 2021-03-18T21:17:00Z
-    webUrl: "https://siliconangle.com/2021/03/18/facebook-developing-neural-wristband-interacting-ar-glasses/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 23
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/facebook.png"
-        width: 708
-        height: 394
-        isCached: true
-  - title: "Facebook shows research into AI wristband with nerve signal controls"
-    excerpt: "Facebook has shown some of its research into new forms of human-computer interaction, including a wristband that can work as the controller of an augmented reality headset. The platform is being developed by Facebook Reality Labs,"
-    publishedDateTime: 2021-03-19T10:17:00Z
-    webUrl: "https://www.telecompaper.com/news/facebook-shows-research-into-ai-wristband-with-nerve-signal-controls--1376558"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "Facebook Shows Off Trick Neural Wristbands That May One Day Interface With AR Glasses"
     excerpt: "Facebook CEO Mark Zuckerberg went on a podcast to talk about the future of augmented and virtual reality. In his discussion, he explained that he wanted to see Facebook manufacture its own hardware and thought that the platforms would be the next big thing in tech."
     publishedDateTime: 2021-03-18T20:20:00Z

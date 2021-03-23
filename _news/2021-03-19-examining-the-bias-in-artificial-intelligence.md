@@ -109,20 +109,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Recognizes 40 Innovative Female Leaders in Annual Women Leaders in AI Program"
-    excerpt: "... female business leaders today as part of the company’s annual Women Leaders in AI program. The women come from 18 different countries and use IBM Watson to help advance industries. This year, the women leaders include names from The Clorox Company ..."
-    publishedDateTime: 2021-03-18T13:14:00Z
-    webUrl: "https://www.unite.ai/ibm-recognizes-40-innovative-female-leaders-in-annual-women-leaders-in-ai-program/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 34
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/03/photo-1562705121-e624542c7b9b.jpeg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "kRK6r0IKPyDfil2kJ3JkQebe9/bvwVjboBocRevdDLb+eT35NFH04YX1Oyp3HSfQO6yr8pK9NTKx42Z/QOe1+aZTbmHKtVdORTdmCXcG55bN1d8sUR95J7jhm0FF/Aa45SrUKB8WIXsjY/emkckUMGa4MDYQOrFa8wnq++NElWvaFVpl2gDv+b9fLPJ81VKRA823BHBp6sOSxvnNebLApq3MHvSmT2pgKxeYADcC2kmNjjB0Yf++405x6NkDI0badMeoaJr3I++rxERwrTIDQskLELSGib4gUGxXBsauNyxB+Msy3DDUdqdXBtKn+KIihykQvGhcJhM+joO3I94bFGboNUk70UiY4dvPNWHhmqDyUhzGMPvAZn0RDkzeUsDr44bMUGhxVL2b8PZ60E39zmKPwRQjHNWna/aeRvuMKCMNYPBuYDjdZD221lYKpS39PVneL2UFtekMAswySVbfM0iyGISR4m/r8RZ4Pu6uYOSZAMc6nfyoq5WC6orQbAo/B0Vh4vh3vcdwPircr2j8DQ==;z3bsx/Wa4PBQJADHF+y9Ug=="
 ---

@@ -41,36 +41,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Safety concerns determine level of public support for driverless vehicles, finds study"
-    excerpt: "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,"
-    publishedDateTime: 2021-03-18T13:48:00Z
-    webUrl: "https://techxplore.com/news/2021-03-safety-driverless-vehicles.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-safety-driverless-vehicles.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-safety-driverless-vehicles.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/60533a295e1c5.jpg"
-        width: 768
-        height: 511
-        isCached: true
-  - title: "Safety concerns determine level of public support for driverless vehicles, finds NTU study"
-    excerpt: "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,"
-    publishedDateTime: 2021-03-18T14:16:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/ntu-scd031721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/259486_web.jpg"
-        width: 720
-        height: 479
-        isCached: true
 
 secured: "ptiu+iZGRrLyEpWhZXncmkPQFLrUPQRPyfA1gmr6xXstI4MIU3afUuJ/ZU4PoLqyFsaK1blaz4pQDF3g5/pFKYclV/E2onE7+gaFi+3H5hCvGwPs3DST6Ht+eBAbEIwhJY6xhAiw4ydiwnd8eyErNxQaoO14SuPyn5dfoTOdmboaS3/h1y5derns/4w81qDIXgSKvrg1r21aHhZnWCuWvBmxltYrKMFWHR1j5qFtRV4SchZuuzDQJDpjMV1K+Gn2LOAKIysAi67kLdOCVWwjhUKoDBCVTvDanoOOocXd8GYvtp2cWGOvAP1EneVRINDPxb6zTkUwHTXihdDz9/Mls4TaV/2llb09nnkySd1gtNw=;DSQ03mLu41ljCSIxBVSKNA=="
 ---

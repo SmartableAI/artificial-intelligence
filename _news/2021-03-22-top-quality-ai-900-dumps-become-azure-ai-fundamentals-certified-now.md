@@ -7,8 +7,8 @@ originalUrl: "https://www.madinamerica.com/author/top-quality-ai-900-dumps/"
 webUrl: "https://www.madinamerica.com/author/top-quality-ai-900-dumps/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Mad in America
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Story - Artificial Intelligence, digital art"
+    excerpt: "A Doha-based artist has expressed optimism that Artificial Intelligence (AI), as well as digital art, are expected to flourish in Qatar and the region due to the burgeoning art scene and artists’ huge interest in emerging technologies. “I think ..."
+    publishedDateTime: 2021-03-19T19:28:00Z
+    webUrl: "https://www.gulf-times.com/story/687024/Story-Artificial-Intelligence-digital-art"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 37
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/3202119222842132145092.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "New Data on Stroke Care Show the Impact of Viz.ai’s Artificial Intelligence-Powered Platform on Patient Outcomes"
     excerpt: "Viz.ai today announced new data supporting the use of its technology to coordinate care for acute ischemic stroke, hemorrhagic stroke, and clinical trial recruitment at the 2021 International Stroke Conference."
     publishedDateTime: 2021-03-19T11:01:00Z

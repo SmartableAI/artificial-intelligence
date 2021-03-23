@@ -9,8 +9,8 @@ ampWebUrl: "https://www.macombdaily.com/lifestyles/vitality/the-future-of-driver
 cdnAmpWebUrl: "https://www-macombdaily-com.cdn.ampproject.org/c/s/www.macombdaily.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_f9f85a1d-3514-578b-888a-e3b4e3701661.amp.html"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Macomb Daily
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Safety concerns determine level of public support for driverless vehicles, finds study"
-    excerpt: "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,"
-    publishedDateTime: 2021-03-18T13:48:00Z
-    webUrl: "https://techxplore.com/news/2021-03-safety-driverless-vehicles.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-safety-driverless-vehicles.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-safety-driverless-vehicles.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 51
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/60533a295e1c5.jpg"
-        width: 768
-        height: 511
-        isCached: true
   - title: "FMCSA driverless truck message stokes fear in the workforce"
     excerpt: "Many truck-focused technology startups are currently piloting varied levels of autonomous driving solutions with fleet and OEM partners, though truly driverless trucks ... interfaces, artificial intelligence, and automated steering and braking."
     publishedDateTime: 2021-03-19T09:00:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://base.imgix.net/files/base/ebm/trucker/image/2021/03/16x9/Scharfsinn86_dreamstime_selfdriving_truck_highway.6052069dd112b.605374170780b.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Safety concerns determine level of public support for driverless vehicles, finds NTU study"
-    excerpt: "When it comes to the use of driverless vehicles, an individual's support for their adoption hinges on how safe they are, rather than their economic impact or privacy concerns stemming from the data they might collect,"
-    publishedDateTime: 2021-03-18T14:16:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/ntu-scd031721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/259486_web.jpg"
-        width: 720
-        height: 479
         isCached: true
 
 secured: "3hxnOFF3NpiEIZ4hNJZwKaBrDJXwASpZlhQZ8BKR0yEcQKoCocq0d/HzqQPlDq2a1IJzxj6nwJvny7ZGqY8dwNcEeNekrMeU6UzvZV0T8LPTJrK9Y0CX6ESCQf18HTkKtLZ0fzLGAGREyQ3I3l2N50f2OWzvIMhcAyrcyDBTLVoOzkIojY3z5UVuti8E7kthlcnhBmxsic3xA0wTLTzLJe+fpVmwcyfIQezlLIqwwpwT18yc0dhz51BdCNbhGOjLK7A6HClTH0c/7Crz1vt8ndbdlOtnl52P2kcJaCzP95my6hlo7MlW6tXKKnTdvPZdmfjARksjSViJLXsp5V3CFm0XmvvGJAiMFquX2P/ZgW7VuKheyhth6+InhGLCmyFHP4Y5qfi4AKUyMBfFiT/eg+8wUFCXveGerO35/vTB26IZ28X8UPAT2Xbapc3fEYOFMZwHn5dRIMlyaUJjAJSXALQdQ2lL6WVFhMGwBuzv97aRVPYl3Q+1LsPO01wM+3CrAl3yJVA1uxG3WpvGCZ8mNw==;pGmVe1lj2Z7LdHjeya1MBA=="

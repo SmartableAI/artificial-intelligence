@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3612349/ibm-s-project-debater-
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3612349/ibm-s-project-debater-showcases-next-gen-ai-driven-productivity.amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Computerworld
@@ -27,52 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM's AI debating system able to compete with expert human debaters"
-    excerpt: "IBM has developed an artificial intelligence-based system designed to engage in debates ... To carry out such tasks, Project Debater uses Watson, the IBM system that beat contestants on the game show \"Jeopardy,\" to listen to the arguments given by ..."
-    publishedDateTime: 2021-03-18T14:06:00Z
-    webUrl: "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/humanai.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Can’t argue with that: IBM scientists developing AI whose sole purpose is to debate with humans"
-    excerpt: "A new study details the advances made by an artificial intelligence (AI) program developed by scientists at IBM whose sole purpose is to best humans in debates."
-    publishedDateTime: 2021-03-22T15:55:00Z
-    webUrl: "https://www.rt.com/news/518809-ibm-developing-ai-argue-humans/"
-    ampWebUrl: "https://www.rt.com/news/518809-ibm-developing-ai-argue-humans/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/518809-ibm-developing-ai-argue-humans/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 47
-    images:
-      - url: "https://cdni.rt.com/files/2021.03/xxl/60589a56203027171a5f92ec.jpg"
-        width: 1240
-        height: 697
-        isCached: true
-  - title: "IBM Has Designed An AI System That Can Alter Your Opinions"
-    excerpt: "IBM has designed an artificial intelligence-based system that can participate in human debates and persuade the audience into thinking the system is right."
-    publishedDateTime: 2021-03-23T04:13:00Z
-    webUrl: "https://www.analyticsinsight.net/ibm-has-designed-an-ai-system-that-can-alter-your-opinions/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-22.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "IBM’s Job Debater exhibits next-gen-AI-driven efficiency"
     excerpt: "IBM’s Watson initiative is a brilliant example for this. Watson carries the tagline that artificial intelligence can be a gamechanger in the field of business, taking the future by storm. When it comes to a business, time, cost and risk management are of ..."
     publishedDateTime: 2021-03-22T17:01:00Z
@@ -86,6 +40,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/03/GettyImages-1205397116.jpg"
         width: 730
         height: 486
+        isCached: true
+  - title: "Deconstructing IBM’s Project Debater"
+    excerpt: "IBM’s Watson is then used to convert the opponent’s speech to ... machine playing games with a human opponent are still very much within the comfort zone of AI because of the following reasons: In games, there is a clear definition of a winner."
+    publishedDateTime: 2021-03-23T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/deconstructing-ibms-project-debater/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/AIM-Illustrations-5.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "tDDjC6M+latt3Y44V2KELwz0vIEP1QSPv2t22ur2MS3uTwVpyjmV2mGND6g1i9AzaaJjQ8Q1gYuHJ5Whcq2Fhmh8QzyTzAlr3vDaRL3+7mr8zsrlAJxZXpk2lymyxhKEUIfMINh97JCbO1BTTkYVgJYRFbXJMmvU1bgXEUmJLFgVl1rE/FZ/D9u7tMRMvHyD1T7E0UnJFKd0HT8LscevCWynkm39jXMw+mNe0S+yEgorB7VcHJlGNyfMbFud20SbvD7lN8NASK0dT3XcQv4Tzk26jh8vhVsIgbfi/mtIwpU2il7IaVZai74+yVsv8RO7oc7IDmwJ//yWFkwCsLocMN71SgRhN0puAWj2pKC0gNo=;sxHR92Q7zY5hUzSUjb+eSQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/oracle-is-making-its-cloud-databa
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 480
     height: 270
     isCached: true
-
-related:
-  - title: "Oracle unveils upgraded Autonomous Data Warehouse"
-    excerpt: "Oracle's upgraded data warehouse includes built-in data tools to help discover anomalies, outliers, and hidden patterns in loaded data, and AutoML UI for automating steps in the creation of machine learning models. Also primed for citizen data scientists ..."
-    publishedDateTime: 2021-03-18T14:15:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/358947/oracle-unveils-upgraded-autonomous-data-warehouse?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 74
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570817219/itpro/2018/12/oracleshutterstock_1120891736.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "5lXDvWvP78NjCHfJBmeLHKkke6lpc97y3EQOcobWQQYK8D6lGAF5C9gMJ6rZd0s8bUKgOMCDtYtZsjB9kyuFdIQszCEgFIGu5idEkJ24gk2odOg/Jbm/3xd/k3zatbnd5D9Suwo5kzmQp4o8LAnxJopq8aurxdt6A3dC9Fh9+3Glkk8SrHqgkYsQstcJwq3ETysvxJEg5GmxJdlKtvcEjyYgI45Nqf+FIyfFYx6+pktBmYn3BS/u4nOxHPpOjUzEEFt2zjT5ivTU6+//++/81TrxvuGUVt7xmhkbQhOD/f4yMg8IG6LqdUw2Vi5bIjwZX0yqNaAkXtxjFHbzPv/ot/Cs2QPVpRR+rmafEPxjyhU=;qWytbxNa4SvagS37K0dVBw=="
 ---

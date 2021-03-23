@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM's AI debating system able to compete with expert human debaters"
-    excerpt: "IBM has developed an artificial intelligence-based system designed to engage in debates ... To carry out such tasks, Project Debater uses Watson, the IBM system that beat contestants on the game show \"Jeopardy,\" to listen to the arguments given by ..."
-    publishedDateTime: 2021-03-18T14:06:00Z
-    webUrl: "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/humanai.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "IBM’s Project Debater showcases next-gen AI-driven productivity"
     excerpt: "I’ve been following IBM’s Watson effort since the beginning — and its initial focus on winning the game Jeopardy. This early effort was just a taste of what this platform could do. Years later, I attended the introduction of Project Debater,"
     publishedDateTime: 2021-03-19T09:42:00Z
@@ -57,35 +41,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Can’t argue with that: IBM scientists developing AI whose sole purpose is to debate with humans"
-    excerpt: "A new study details the advances made by an artificial intelligence (AI) program developed by scientists at IBM whose sole purpose is to best humans in debates."
-    publishedDateTime: 2021-03-22T15:55:00Z
-    webUrl: "https://www.rt.com/news/518809-ibm-developing-ai-argue-humans/"
-    ampWebUrl: "https://www.rt.com/news/518809-ibm-developing-ai-argue-humans/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/518809-ibm-developing-ai-argue-humans/amp/"
+  - title: "Deconstructing IBM’s Project Debater"
+    excerpt: "IBM’s Watson is then used to convert the opponent’s speech to ... machine playing games with a human opponent are still very much within the comfort zone of AI because of the following reasons: In games, there is a clear definition of a winner."
+    publishedDateTime: 2021-03-23T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/deconstructing-ibms-project-debater/"
     type: article
     provider:
-      name: RT
-      domain: rt.com
-    quality: 47
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 24
     images:
-      - url: "https://cdni.rt.com/files/2021.03/xxl/60589a56203027171a5f92ec.jpg"
-        width: 1240
-        height: 697
-        isCached: true
-  - title: "IBM Has Designed An AI System That Can Alter Your Opinions"
-    excerpt: "IBM has designed an artificial intelligence-based system that can participate in human debates and persuade the audience into thinking the system is right."
-    publishedDateTime: 2021-03-23T04:13:00Z
-    webUrl: "https://www.analyticsinsight.net/ibm-has-designed-an-ai-system-that-can-alter-your-opinions/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-22.jpg"
-        width: 900
-        height: 500
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/AIM-Illustrations-5.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "Fhccl1P7iSBImTgeVh5PMya6MoYpkB4fZ1eVO/HoZS/WAXJk7LJ0+yTmUV0wiez1S8entVBEDuNVZBjC+bCE8iDkX0Dj+jjjBV4tnIxPt1lPSWjXTgcbN73di187i/wcWEdDbiror2a72+XYcVWwGIEILA/YT66Ikuhq5JjplnHXKIaZTdcYIzQnumXhPX0iQEnvlAtrMWpo6BAyeDYAJykt7VhagDZKbn6c0euq8ZcE9cgEq/2qgjoow/Vds6VA/yfZ4m8ksO1Xew4elYcd6jkKwVc/PhF0TR2cWwE2tUzADTngFXOkHl2IcS3P6PgHutGtjEQhbBLZE9V1/QsWDEOJyBqWObWHvltQtaiOj+OVOJI/TcSszmji6rY/HRSqBvgR32sXy6HnkIe1ErD/6SoGYbND+wUHlBk5zz9V/xyMjQglF0IuT+T2p8NE+2rNyXb3ClcLmgeeTmbrht4Hu/GsVFA3ODTPVESHNZE0RX6UHM5tUJ0cOCiqGuPRpM/+oErPsaXw93SxU7A9PTBvIA==;e1fS2e7xRU1jJOwD47HtVg=="

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025"
+    excerpt: "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as"
+    publishedDateTime: 2021-03-23T07:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-top-companies-business-growth-and-investment-opportunities-share-and-forecasts-2025-2021-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9e8g8ZwHVB7MnQeanGkj+ZKe+lQkuexcoWzO/I7lylOfVpfBA6Znrx9iSGic4wc/8JGURZA96XDsgHh72mZvlWh8WoZwErcU2uuqU9k4RrXfheY+ALYb12adc6eBnAiEaOdzIyNkiullzuAKquQZMclcHADJBfOspRCUpn/hMnxr6kYsBm+nv4oD7gu8xeh+trRqHAUzArSoZEX53KwACr4trQnBXXDLQEg1C0hLUuWX9qxdySgnkp3ocwwD/5AR+cxiy0ZFOQQvGiLGnTTaFNixWl7W/69yTiBVZEWQ2F/0ejn2FULfkNaUB3a5+ei6Dx7QFLvep4qnuy8ZEt3onglAf8w9nMakI2lLLdtEbmM=;bHjhZDF0lA/qGkHIzNaobw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BE0HM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BE0HM"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210322&i=OVE567UJF&r=OVE567UJF&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "NFT digital artwork by humanoid robot Sophia up for auction"
+    excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with humans."
+    publishedDateTime: 2021-03-23T07:40:00Z
+    webUrl: "https://www.timeslive.co.za/news/sci-tech/2021-03-23-nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/"
+    ampWebUrl: "https://www.timeslive.co.za/amp/news/sci-tech/2021-03-23-nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/"
+    cdnAmpWebUrl: "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/news/sci-tech/2021-03-23-nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/"
+    type: article
+    provider:
+      name: Times LIVE
+      domain: timeslive.co.za
+    quality: 59
+    images:
+      - url: "https://lh3.googleusercontent.com/2Wiuz5a32w5OKyxR_LoQw38XPgXEws0h-qE8kSfeu4BVCV9II3M-RfVfwKDk0dglOgJItftGtA0Sjmb0NonlAy5osbSFF7NTQO4=s1000"
+        width: 1000
+        height: 666
         isCached: true
   - title: "Robot ‘humanoid’ Sophia has digital art up for sale in the first ever AI auction"
     excerpt: "“She” is a robot whose first artwork goes up for ... in the first sale of such pieces created jointly with artificial intelligence (AI). NFTs, a digital signature saved on blockchain ledgers ..."

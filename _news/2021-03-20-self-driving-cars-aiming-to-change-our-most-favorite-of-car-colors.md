@@ -61,19 +61,19 @@ related:
         width: 921
         height: 518
         isCached: true
-  - title: "SAIC partners with lidar maker Luminar on self-driving cars"
-    excerpt: "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies. Laser-based lidar sensors help detect objects ahead of and around the vehicle,"
-    publishedDateTime: 2021-03-18T13:19:00Z
-    webUrl: "https://www.autonews.com/mobility-report/saic-partners-lidar-maker-luminar-self-driving-cars"
+  - title: "Machine learning gets physical, starting with self-driving cars"
+    excerpt: "However, the common factor with all of these is that each machine is limited to influencing our lives through a software interface with a website or an app. In 2021, AI will go beyond this. We will see the emergence of the first physical."
+    publishedDateTime: 2021-03-23T06:13:00Z
+    webUrl: "https://www.wired.co.uk/article/alex-kendall-machine-learning"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 41
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Luminar_Nasdaq_0.png?h=2475ff28"
-        width: 800
-        height: 600
+      - url: "https://wi-images.condecdn.net/image/q0yQbpyAoWp/crop/1440/0.5235602094240838/f/1120wiredworldtechnology08b.jpg"
+        width: 1440
+        height: 753
         isCached: true
 
 secured: "lz+OaWMOiPAto1dO65BrZ0yIwrD9duA5tqTNH0Y76nKhtv3dvFoRPq80JRtncqItTgCHBwsoSiMAktnwdLDdDm4KWbCBHMIp5f/FJ546jLWFsOqrsA+tGzVOskwIDyQ/xBbPsIZ/zg8IzlXdHuD+CFFyUZsF2FHa8Ww19vLBa9OrkkgYLWoE/hflI431ya4jyVbyVdoPv82+1zK5N1zLW99D0M4hhFGd2RmA47Jv6sogPym+sCEBQypRzxpJwkbcUKxHonOQ2EV/CMCJWym7Yavwqt6ioafZXVil1UVwif8NOwtieppjmSWbLs/mUNpXYwIuwwTVHolG8jOU/X5UcKUTr1gfuZQeb+dABO8GlUHx9ATzowWcL4ie+cMjFMyO2dBkEjdGv40TESOjoVQ2uIzkRroaWYWKPbyJEdepJvFiy8iExRKuHT7gyWQ+WFZWlr5JNF4N4Vj8l38HG5BW8VM8YJu00xnBjbgCBrNjSu2wxLE6c/8vK6FFFLHOe8jvTV5Gfl2/7yik7fcxxYUWVg==;++oOH5xTt+r7CQIWTGgDmg=="

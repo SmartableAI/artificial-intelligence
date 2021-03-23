@@ -61,19 +61,19 @@ related:
         width: 921
         height: 518
         isCached: true
-  - title: "SAIC partners with lidar maker Luminar on self-driving cars"
-    excerpt: "SAIC Motor Corp, China's largest automaker, said Thursday it plans to begin offering self-driving vehicles in that market in 2022, in partnership with U.S. lidar maker Luminar Technologies. Laser-based lidar sensors help detect objects ahead of and around the vehicle,"
-    publishedDateTime: 2021-03-18T13:19:00Z
-    webUrl: "https://www.autonews.com/mobility-report/saic-partners-lidar-maker-luminar-self-driving-cars"
+  - title: "Machine learning gets physical, starting with self-driving cars"
+    excerpt: "However, the common factor with all of these is that each machine is limited to influencing our lives through a software interface with a website or an app. In 2021, AI will go beyond this. We will see the emergence of the first physical."
+    publishedDateTime: 2021-03-23T06:13:00Z
+    webUrl: "https://www.wired.co.uk/article/alex-kendall-machine-learning"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 41
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Luminar_Nasdaq_0.png?h=2475ff28"
-        width: 800
-        height: 600
+      - url: "https://wi-images.condecdn.net/image/q0yQbpyAoWp/crop/1440/0.5235602094240838/f/1120wiredworldtechnology08b.jpg"
+        width: 1440
+        height: 753
         isCached: true
 
 secured: "E86I5f4U5Ebu70psdSra7Zu9KcPYqan0F/fYnB/3MYUf9BB3rQJIzrM5S++wFJft+yMeNyN1iWCQSzOp6SQu1pPiuTIdm3rPGF0nov8rRKEF9c7C63Pp32xXu9nguLnRAKs3MY2T5Nu+rZXIcqqynFTToHlIL3s4t/3p+gxOBD4nwdGT0m7Ys1ZChLkY+A3usf+WediYJLnrEHHRGSKUsTGNfWWJf48jfoE568L84GV9/zNnVSgh2jmSrOMzHV7C0671czJSieHREA702ajtUIOf9D6o/QjfeAGm+SokTM8FoVnMFhFz3LpTfmOB65xZPNFfqPeIsqoi8ZnumsqsZAIRj73GL9/jCCKyWjH/A+FESZoeBvLGWjzoSe9mR2yPBUnC+9ZFid2BDdLWFOaPxVCJN91kW7m6d6ttc1Dd1MWhhhYOHZB3zHyr47Il6hGKzyricetdTS9DnIlkSCxaxbAox0y6uAI9/Z/NXxywE1F6Vkeha7S36aRw3+1ZY/6tuC+wg/8cbX5s8/eOns7vpw==;BNEXoI8yO35wFeLZdKwQ7g=="
