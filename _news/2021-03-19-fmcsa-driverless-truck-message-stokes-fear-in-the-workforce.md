@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "UAE: Driverless cars to transport passengers for free"
+    excerpt: "Driverless vehicles will transport passengers in Abu Dhabi for free as the UAE Capital trials the technology later this year. Self-driving vehicles will be piloted in two phases. The first phase includes three vehicles operating in the main area of Yas Island in the pick-up and drop-off points for hotels,"
+    publishedDateTime: 2021-03-23T07:27:00Z
+    webUrl: "https://www.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
+    ampWebUrl: "https://amp.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 59
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20210323/ARTICLE/210329629/AR/0/AR-210329629.jpg&Imageversion=default&NCS_modified=20210323082534"
+        width: 1280
+        height: 527
+        isCached: true
   - title: "Driverless vehicles to transport passengers for free across Abu Dhabi"
     excerpt: "The Department of Municipalities and Transport (DMT) will start the trial operations of autonomous vehicles for transporting passengers in Abu Dhabi. Driverless vehicles will be piloted in two phases."
     publishedDateTime: 2021-03-23T08:37:00Z

@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "UAE: Driverless cars to transport passengers for free"
+    excerpt: "Driverless vehicles will transport passengers in Abu Dhabi for free as the UAE Capital trials the technology later this year. Self-driving vehicles will be piloted in two phases. The first phase includes three vehicles operating in the main area of Yas Island in the pick-up and drop-off points for hotels,"
+    publishedDateTime: 2021-03-23T07:27:00Z
+    webUrl: "https://www.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
+    ampWebUrl: "https://amp.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 59
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20210323/ARTICLE/210329629/AR/0/AR-210329629.jpg&Imageversion=default&NCS_modified=20210323082534"
+        width: 1280
+        height: 527
+        isCached: true
   - title: "FMCSA driverless truck message stokes fear in the workforce"
     excerpt: "Many truck-focused technology startups are currently piloting varied levels of autonomous driving solutions with fleet and OEM partners, though truly driverless trucks ... interfaces, artificial intelligence, and automated steering and braking."
     publishedDateTime: 2021-03-19T09:00:00Z
@@ -56,6 +72,6 @@ related:
         height: 675
         isCached: true
 
-secured: "zSyxajKB5ataLV7orDIRsgyjN86mkYk/QtQH7qEt7O38LQymjEHUVy9htKg8keSmQ0oZ8sUfWpk6n1ACEEkH7om0bBT2yyUTaLBI+ZIco/l5GMokxo7TlpRHN8Sv7wgMublu1qrKycYmCFJWDvp6hgRPq3bQkW4dnhWjt5nsccprpy1/SVMa8qJDdTX3AQrhoPbe6sK2dKeN4nAAKVBphJTxuj7hURWVrVnsZhWL2CjjNjbG1E4LtNPTMzjw2tRI/OJjEXQFwkimduUXEsH5XYrspH++IjuVmbx+jHBN5zHH1R1OT/NIwdfCnxY+0IWsAQ0sSuqdpRb5VwEe89n5pa3MmvqXDpqBUWOFjaci8IA=;a6zybRxGqaITEPv4bfc1Wg=="
+secured: "fI/hI+ip6oqYZsRFivwjDOpPOVBmKTUfaeYvDXtdfASDck956JhjB3LVBhbji16iVoDAjsZXs8NqdiSNZy5isA5t0nI9qAC8C0Ogdxzz7znjVUPXgYNNZ1m9T4Ss/95wx/8WL2wBKV9Z+mtEZ94tbVNU7uiOjqh1hPVBUmm7OMUhnvxgFPiM3FTKPpIvCz2wSHGS1f0N6SAXh/rz6Yp/6EuZFr9DUxkXUD3AM0IAZOi8cK5csSEKZAnqj1hojXwL2QuB3NeOnMvDPGK8DB1Ecs82s/UbcwbaMksrl0uCxIh5guakV8lIs/zVFmTyfbRva2MqFZz1Al56fBELuY0HNnlGBgXLQEr8x7XK0Yac5juo8kfBowPf5owlo3L6GiFa8AYht0TPG7Xux3HdgdcMtWNXiTCgtd3rCPNmVne78qEkIrfbcL4x3mACGbJttMrRMd3u6yxVYCntNJM7VNAkHXXs3MXMFIfy+YgVKGrhgRlJ1FuQdF+Bf8nRIHu9AwI918B0WyMn+OUniWRVODaMOQ==;M+DaMfHAektA2PcZWgqvVw=="
 ---
 

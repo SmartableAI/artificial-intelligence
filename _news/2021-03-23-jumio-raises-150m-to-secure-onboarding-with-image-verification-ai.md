@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     height: 600
     isCached: true
 
-secured: "23v8escx/BX+k4MyTAHgc4MwHlDEkcNN9OZE1SC1dX81vLG4ZBu7H4zjElVpD6g33NRWiqK9QisILPtuvFw7vJNNwqFtVjpUnR14gcETU9F6jnRKFk8co+NxSzif6pwKncJhRkrbdewSqISPqvgj+dFCSafzZYDQ8Wdpq2ipLAFk7y7PNP/jfoowyBOLq6A1rAMd2lyZI2SYnqrmTkzcrdLaJdPrdsyDxOK004suzwVw9Hc8d7yOi6lKTZgHrUiiMNzpMCvmn6PpfBQX4tMonqjwnXomnCEp1DUXtRwewGiw3Th51GRTZ6jG4SZguubCfHcZ/Zl1YA0Gwpjc2T9qXsW5a373f5z7+Vo9y8v89Kc=;gMgK60ORdHqOHw0Rh0cxXA=="
+related:
+  - title: "Onboarding Shouldn't Suck: Socrates.ai and William Tincup to Rethink the Process in Upcoming Webinar"
+    excerpt: "Since launching in 2017, Socrates.ai has raised more than $26 million in funding from leading venture capital firms and been named a Gartner \"Cool\" Vendor, Top 10 Virtual Assistant Solution Providers by CIO Magazine and Hot Startup by Business Insider ..."
+    publishedDateTime: 2021-03-23T11:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20293767/onboarding-shouldnt-suck-socrates-ai-and-william-tincup-to-rethink-the-process-in-upcoming-webinar"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20293767"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20293767"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
+
+secured: "a54meVDovaD4lZEvinHaFCnVeZKPDnMpvrR6ZARejKbHWixrHAekep2wMHBbP/qkPTXkNoBe0gbqCHUbaVwr4he14QxsVq6t7BLOcES48G8O++dSExR5sKxo4in5H0Xkj9596UavgkCCwtvO6UUqeLjd9u8OIXK8xfF8qq2DEnWOT2bUgfcUl7nQg+XzHwSe4Q/65Pm4vkDkJ1Rp7YH2QozXjugyEX47l+d87WNjucxhzd21L2ic6rR0Z2lHxOChVX/QsTDdfQ7kSlXYussLRUA6b1Fk2UEZ5Vymx/LgyntfheZieEFngtm3UbjQmWTlMbkbc/gi7a1/vPYTO/0Yz5PegO93QeRdci6oBOOxhOgNB95He6a81jBymtxxAzM6Yt3q+mODCdLoI5h+4tex4KUOpNBGXHZAgBmb4BBE02viC53STPn7Y0hq19+qZ2/SCEzISl3URvQgDDjdRTcEYkWtAx2y22iu9MGEDIxZyWGujkJ7zy4WNv51aAeyriiDrJPFiWjAqonDe9UA5Im0ww==;dcDk2WMbKk2qBq1GOX1wwQ=="
 ---
 

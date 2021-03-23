@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
+    excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey biometric solution."
+    publishedDateTime: 2021-03-23T10:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution-1030235345"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/1471349/megamatcher_abis_pr_4.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "UIDAI selects Neurotechnology and TCS for biometric deduplication and authentication"
     excerpt: "TCS and Neurotechnology will deploy and maintain the new de-duplication system, which is powered by Neurotechnology's multi-modal Automatic Biometric Identification Subsystem (ABIS) and biometric SDK technologies for fingerprint,"
     publishedDateTime: 2021-03-22T10:33:00Z

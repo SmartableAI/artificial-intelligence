@@ -106,20 +106,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
-    excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
-    publishedDateTime: 2021-03-18T18:33:00Z
-    webUrl: "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 38
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/03/Vaccination_AI_b.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Artificial intelligence used to identify unique COVID-19 patterns in lungs"
     excerpt: "The artificial neural network developed by Lawson Health Research Institute can detect COVID-19 patterns in lung scans that are not visible to the human eye."
     publishedDateTime: 2021-03-19T14:52:00Z
@@ -134,15 +120,6 @@ related:
         width: 400
         height: 250
         isCached: true
-  - title: "AI, COVID-19 and the long haul"
-    excerpt: "It has been a little over a year since a worldwide COVID-19 pandemic was declared. Science has moved fast to fight the virus but preparations need to be underway for fighting future outbreaks."
-    publishedDateTime: 2021-03-18T18:15:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00328-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 17
 
 secured: "YG0V9UIkCjkHr2hMoc4+3rmHzklI58Ft5tK8477PX6n7qK6w1w+rbn1nULliHZzdeEV9Wma+W+zXh9NiQyLE5v4drLS/mxg5ug2HDkSamxVxnql9ZIE4OCnpGifC+aOPHmDlw1o+zLdKzSaMJKIUox53/QtkcQU7EK60JV9bMH1Z+tziM17zPWQF3U1j6esYCzphr/MuFhqq5tevSxWJpxx+7kUHaPoLMVApl3Fi1t5crGaPmWiOaYf7Y2o19eweAYyGMGhw2SZPpuOWsZkAwxLAGqZxNdDqyxIah4jMn8uR2CWQ7qOI/ccGwMt6OSXH95ik7JuxDU6QkXaOVSOcP85/7IPaZoeN5WjULl2OELmEeMCXN7X4H8i5tx1LH/RUk2NxDRLjXjGHTMd/UZ0iiP9Z3o352z+RUcHpRMBG5FD4o99c0scuhEjpKoSZjB1j9psaieutaV9FkhWSkaWGhq6eAf4afMSKlojrqFzJ7I8IJ8ULVYORoqV/LqavLOWPZRoE8QIgWSB3f1tTnuCsCA==;Dn42Ojr14yQ7hlnVIdgb5g=="
 ---

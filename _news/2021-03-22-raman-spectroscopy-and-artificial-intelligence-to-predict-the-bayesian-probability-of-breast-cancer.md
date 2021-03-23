@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-22T12:31:00Z
 originalUrl: "https://www.nature.com/articles/s41598-021-85758-6"
 webUrl: "https://www.nature.com/articles/s41598-021-85758-6"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-85758-6/MediaObjects/41598_2021_85758_Fig1_HTML.png"

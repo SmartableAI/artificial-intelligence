@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailytribune.com/lifestyles/vitality/the-future-of-drive
 cdnAmpWebUrl: "https://www-dailytribune-com.cdn.ampproject.org/c/s/www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "UAE: Driverless cars to transport passengers for free"
+    excerpt: "Driverless vehicles will transport passengers in Abu Dhabi for free as the UAE Capital trials the technology later this year. Self-driving vehicles will be piloted in two phases. The first phase includes three vehicles operating in the main area of Yas Island in the pick-up and drop-off points for hotels,"
+    publishedDateTime: 2021-03-23T07:27:00Z
+    webUrl: "https://www.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
+    ampWebUrl: "https://amp.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/news/uae-driverless-cars-to-transport-passengers-for-free"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 59
+    images:
+      - url: "https://images.khaleejtimes.com/storyimage/KT/20210323/ARTICLE/210329629/AR/0/AR-210329629.jpg&Imageversion=default&NCS_modified=20210323082534"
+        width: 1280
+        height: 527
+        isCached: true
   - title: "FMCSA driverless truck message stokes fear in the workforce"
     excerpt: "Many truck-focused technology startups are currently piloting varied levels of autonomous driving solutions with fleet and OEM partners, though truly driverless trucks ... interfaces, artificial intelligence, and automated steering and braking."
     publishedDateTime: 2021-03-19T09:00:00Z
@@ -56,6 +72,6 @@ related:
         height: 500
         isCached: true
 
-secured: "0VcpE4pj7jBZeZfgnd7UkzD+naXqyHg4PkxEp7MjiWII0JYPM8JvZe4pze9EY07KAwx8Em6Q0hn6LSBYckTe6fezT8ZrI1Y8gKU8oSZviXegvGyWdAn5SWrkMfWl9Y6nmGD1IelXm53VC5Ry6wl4O8RX2E8C3d81IFNzgpSZTLtCWYxsxlQnRIPDm1nASdisCd8VpkAHynDnK+dascbwIya+7ZqxUJcR0Yhu+gX2w7mw1MRdZxlgvMF1iahXpBVABRcntYghyeLx2LwmuyQEotVUWpMQyHnLNt2BNoFWNy34AeiIGA+8yVx+nqWQeOBCTDP/eJvHTjaNwjcKP86hJCHuPBn9ECm756qHlbXjHXk=;6Vp9sl9ZMxor4L8EF5uPXw=="
+secured: "nQXKkwAlfb5MLs4+jtPU2CgE7ZuJmTQRytF/v56S0XF5sj4EBJv88BXLfd47R9g3V+1xC+UiuyPtQC3KmV+BVxc3U3FCEmElTiSE+FpYSdv8EbGmpmNyx8kvbA2hjRJWOOgMcQbG3UULn5/6l5ZZlgMINTfgjYPAZp5d2FZ2h4xmgICtux2TpdUy7rzi90YxrsA1LUZvjmfn1KwfK4Nq00ZdJQmLbsLx74doV0412TUjqmnenokSF0vvX+b2rxWneOjDzgf/WQ16+ZAldQ6dm5slHCTWILx8q8dg5v4IKYMkZcn7cW7/4ETwAsNwpknWyeax4yWT/QY0+Sqja2Me6lEkj5ZdAfnCc3f8OSxJjC+AyX5p5k7Gc9/DYZ68hz/JT6mqUHRtJSX+Nl9+72xfD5nYdmcTlol3Uu9C7dSmI2WM6rvaOWgVJorJdh82gj7S6+Lf7PLetsog1yipeKvNWrGmYa8bsjuXAJnh+J+x/vVWpK5ngiA5K8q6g1bHezd9vVKnYHrF28/Mu/ujyDpLLw==;eY1szSjI8Cfj6gsBErNoxg=="
 ---
 

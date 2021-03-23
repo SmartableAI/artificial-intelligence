@@ -46,6 +46,22 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "How NVIDIA And VMware Aim To Make Enterprise AI Easier With Joint Solutions"
+    excerpt: "Companies need to spend more time creating new employee workflows, products and customer experiences to succeed in a highly competitive environment. The NVIDIA VMware collaboration supports this."
+    publishedDateTime: 2021-03-23T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/maribellopez/2021/03/23/how-nvidia-and-vmware-aim-to-make-enterprise-ai-easier-with-joint-solutions/"
+    ampWebUrl: "https://www.forbes.com/sites/maribellopez/2021/03/23/how-nvidia-and-vmware-aim-to-make-enterprise-ai-easier-with-joint-solutions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2021/03/23/how-nvidia-and-vmware-aim-to-make-enterprise-ai-easier-with-joint-solutions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60590de8111ad47650833916%2F0x0.jpg"
+        width: 1020
+        height: 680
+        isCached: true
 
 secured: "g1Rgz+NESphU0k6FVl8R1KSbSA3VRAmH/+2ldqRwt64xmTWpH3eBSE7zTt5AV46rLMkdReIt0XB6wVnJ0z/7Bc5cO7k2QuaGn1hGwdCfBzvaJxvgSnULEtzQHAeiIyCZ7mkDgPaEs+D2vIFy4VZucPmLhGY122ZdRXGaxthUobFqNYCynI9NINlHvPAfSRZ2gPANwUDF0esdDqRHuq26F5TmCdQBz+SxZOHhrcCl3mC9c7p4hCXrDePYSFQcJ5P+7UzdwSv9kUF7bVuVDECuGpeqKxfhDnKiKbguxND3Qp741ERcyLbgP40DPoOk7n6OAAI8Lj79GeCizBV6/fimERZa17X2k161Y52OSg1bJ6oig1JCjKYqptig7ct0MWf7wctKUboVrWIeeCoOnBbBsriVvZMAJ7HKt0iR5Hp5hP+IrGIcBi9n3Aif5+7V6GZDa35ELEnCLxG+9WFLkHhqWiV51aaEJXTiGVVqhaN2rQiL32SJ1H79hjo/uleeDZtxzYdYuejftPvcjEbuuVet3A==;u6nGOUPjwnkAOFxi14I0aw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://tass.com/press-releases/1268687/amp"
 cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1268687/amp"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
+    excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey biometric solution."
+    publishedDateTime: 2021-03-23T10:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution-1030235345"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/1471349/megamatcher_abis_pr_4.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Neurotechnology and TCS Selected by UIDAI to Provide Biometric De-duplication and Authentication for India's Aadhaar ID Program"
     excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition"
     publishedDateTime: 2021-03-22T10:15:00Z

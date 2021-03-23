@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-device-135131666.html"
 type: article
 quality: 87
-heat: 167
+heat: 147
 published: true
 
 provider:
@@ -106,20 +106,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "How Conversational AI can help efficiently disseminate Covid-19 vaccines"
-    excerpt: "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a"
-    publishedDateTime: 2021-03-18T18:33:00Z
-    webUrl: "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/"
-    type: article
-    provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 38
-    images:
-      - url: "https://www.forbesindia.com/blog/wp-content/uploads/2021/03/Vaccination_AI_b.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Artificial intelligence used to identify unique COVID-19 patterns in lungs"
     excerpt: "The artificial neural network developed by Lawson Health Research Institute can detect COVID-19 patterns in lung scans that are not visible to the human eye."
     publishedDateTime: 2021-03-19T14:52:00Z
@@ -134,15 +120,6 @@ related:
         width: 400
         height: 250
         isCached: true
-  - title: "AI, COVID-19 and the long haul"
-    excerpt: "It has been a little over a year since a worldwide COVID-19 pandemic was declared. Science has moved fast to fight the virus but preparations need to be underway for fighting future outbreaks."
-    publishedDateTime: 2021-03-18T18:15:00Z
-    webUrl: "https://www.nature.com/articles/s42256-021-00328-9"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 17
 
 secured: "er2Wzqr/OJPf/U0iqu5swymIrVuxqF4BGv5MGnchOhUhTXG4SmbdGWbXmi71ZBeHlrLY6DOYRPcHxZ5euOMeHl2RuGV+tPN++iMfFdznP1ct+QUU3qb4qaYlAjQUxmTk9YOoTiQYicBAjCGHbLQVPEY/sUptYQLS38Wafue4YQEEAmhd/daJQUuOSL5MjKKFOPPhJqVhpB6G4onGLYjJysGJE/LAIB9xoiUMcBQG/WY2puDWyKylehyrQgzvlsi5gO54oNmFxrMSZ8leUVCMZa6Ekwj8vx0JBiEqU5GCYJj/z5XBHiW9Ki8mxnx92FWtvX7FmZypoPSwG52vwOGiUfLfavrhYLWxsGBzcV2MA1I=;GULVRNYWXt6Ir4oCLjyhiw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/rapids-and-amazon-sa
 webUrl: "https://aws.amazon.com/blogs/machine-learning/rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 338
     isCached: true
+
+related:
+  - title: "Helmet detection error analysis in football videos using Amazon SageMaker"
+    excerpt: "The National Football League (NFL) is America’s most popular sports league. Founded in 1920, the NFL developed the model for the successful modern sports league and is committed to advancing progress in the diagnosis, prevention, and treatment of sports-related injuries. Health and safety efforts include"
+    publishedDateTime: 2021-03-18T19:39:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/helmet-detection-error-analysis-in-football-videos-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/23/ML-1904-2.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "Sa39QU2IlHkxxyRyD43hz8TBVJk4XANdxmMymq5WPsOIWA64ENgPT8o0tJZodd8gyzfdGn8D17Da4dvl9ReTqbyPk9+XPJ6V5qkMDPQ/3SzKFZieFP0RqjBzqs5JhVzfeoPK4WygRY7V0yk07ucHR7I2zuq01OPbq+ir62aGXz4DsYqKpa3g2arRTYoYp7Qw364PtaITjcW6DWe0Kb+sjO8+VSfcMGYIvjIZ8cO8EPMLpakWJ0QgP2nfSF5xd4Xdnr48PVbaDnoj0KcQMOYhvvPTxPsiMvQXxjpXILjeBGqb1OMTPw+kqx1g4z1NwKYahcDJcLSuW/0/mUR27Mn/engLd2dVh9YJziYsvWWgK5k=;EoPepMqiQ8nwTs2h6XvquQ=="
 ---
