@@ -59,6 +59,20 @@ related:
         width: 533
         height: 400
         isCached: true
+  - title: "AI Computing Hardware Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
+    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications such as autonomous driving, surveillance cameras, etc. Graphcore and a few other players offer ..."
+    publishedDateTime: 2021-03-23T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-computing-hardware-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-till-2025-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "uIPzGyHPn4KzBYsksXclBubsDyu5aOG227zP6pYg2DoRLBt7yyx/88r/COzQwe5U/iWcWv+xM8ky1268/na4cZWMAWM9I3RjgMKJk2RlAOMAhpD8ecaeyGNvzU+Ker3G63cylEYdzEmZcFw2lXIZ8mZvqb2odP/kMKp0yJPg6YZwXxmAuiSoXFXNUxNyEHZhXO45xfZAgDeX7FkfzJxekxWxFw/+iBwlWK+gC8huraDzokK2f74WELlqPmwyRNJFpaoR4Q8I8CjEpJgOJTLiUnDExsGZjsPWhg+WKkOucrIqPNK3Q4drYoL8MmD0Dmp7Kit55pO00JoB3C2Sd3MtjLSmUtmctXGLPmP8Ac4XXD8=;u+7U5Y4QS+OeeGKCgXQu+Q=="
 ---

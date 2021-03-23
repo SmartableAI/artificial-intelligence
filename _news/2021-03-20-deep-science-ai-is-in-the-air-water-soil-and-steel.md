@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI Computing Hardware Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
+    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications such as autonomous driving, surveillance cameras, etc. Graphcore and a few other players offer ..."
+    publishedDateTime: 2021-03-23T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-computing-hardware-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-till-2025-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Accounting Market Key Major Challenges, Drivers Growth, Opportunities Analysis To 2025"
     excerpt: "To cater such needs, Shibuya Data Count provides market research reports to various business professionals across different industry verticals, such as healthcare & pharmaceutical, IT & telecom, chemicals and advanced materials, consumer goods & food ..."
     publishedDateTime: 2021-03-22T11:14:00Z

@@ -2,6 +2,100 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-03-11-global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026.md",
+      "title": "Global Artificial Intelligence (AI) Accelerator market Size, Share, Value, and Competitive Landscape 2026",
+      "excerpt": "Mar 11, 2021 (Heraldkeepers) -- According to this study, over the next five years the Artificial Intelligence (AI) Accelerator market will register a xx% CAGR in terms of revenue, the global market size will reach $ xx million by 2026, from $ xx million in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-robots-learn-faster-with-quantum-technology.md",
+      "title": "Robots learn faster with quantum technology",
+      "excerpt": "Artificial intelligence is part of our modern life by enabling machines to learn useful processes such as speech recognition and digital personal assistants. A crucial question for practical applications is how fast such intelligent machines can learn.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
+      "originalUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/robotslearnf.jpg",
+          "width": 817,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-robots-faster-quantum-technology.amp",
+      "publishedDateTime": "2021-03-11T05:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-how-to-optimize-content-for-voice-search-13-critical-factors.md",
       "title": "How To Optimize Content For Voice Search: 13 Critical Factors",
       "excerpt": "Tom Treanor, Treasure Data 7. Keep Your Keywords Simple When optimizing for voice recognition searching, it’s important to keep the keywords simple. When people ask their smartphone or Alexa a question, they aren’t going into detail. The software won ...",
@@ -1092,101 +1186,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-eta-computes-low-power-ai-vision-board-accelerates-design-test-and-deployment-of-transformative-embedded-vision-solutions.md",
-      "title": "Eta Compute’s Low Power AI Vision Board Accelerates Design, Test, and Deployment of Transformative Embedded Vision Solutions",
-      "excerpt": "Eta Compute Inc ., the leader in energy-efficient endpoint AI solutions for intelligent sensing anywhere, announced its integrated, ECM3532 AI Vision Board, the lowest power embedded vision board that helps developers accelerate time to market.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-25b8b8b0b99b48839013f83de0bf2e2b",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-environment-and-nature-products-and-services-25b8b8b0b99b48839013f83de0bf2e2b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california.md",
-      "title": "Facial Recognition Tool Used by Police Faces Civil Lawsuit in California",
-      "excerpt": "A group of immigrant-rights organizations and activists on Tuesday filed a civil lawsuit in California against Clearview AI Inc., alleging the facial-recognition software provider violated their privacy rights and those of California citizens. Mijente ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "originalUrl": "https://www.wsj.com/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-309733/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179",
-      "publishedDateTime": "2021-03-10T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

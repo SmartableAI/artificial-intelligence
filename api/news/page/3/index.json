@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-19-teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous.md",
+      "title": "Tesla's \"Full Self Driving\" Beta Is Just Laughably Bad and Potentially Dangerous",
+      "excerpt": "A beta version of Tesla's \"Full Self Driving\" Autopilot update has begun rolling out to certain users. And man, if you thought \"Full Self Driving\" was even close to a reality, this video of the system in action will certainly relieve you of that notion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "originalUrl": "https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2021-03-18-at-4-33-42-pm-1616099640.png?crop=1.00xw:0.892xh;0,0.108xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "cdnAmpWebUrl": "https://www-roadandtrack-com.cdn.ampproject.org/c/s/www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
+      "publishedDateTime": "2021-03-19T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Road & Track",
+        "domain": "roadandtrack.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-facebook-messenger-bot-answers-questions-about-whats-recyclable.md",
+      "title": "Facebook Messenger Bot Answers Questions About What’s Recyclable",
+      "excerpt": "Facebook and leading consumer packaged goods brands like PepsiCo, organizers say. “We’ve built a lot of the answers into the bot experience so that it can be answered by artificial intelligence ...” says Cody Marshall, chief community strategy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054caec32d36b83b9313d2b%2F0x0.jpg",
+          "width": 1199,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2021/03/19/facebook-messenger-bot-answers-questions-about-whats-recyclable/amp/",
+      "publishedDateTime": "2021-03-19T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-cornell-ai-startup-secures-1-million-in-seed-funding.md",
       "title": "Cornell AI startup secures $1 million in seed funding",
       "excerpt": "Iterate Labs, an Ithaca-based startup with Cornell beginnings that uses wearable sensors and computer vision to drive factory production and worker safety, has obtained $1 million in",
@@ -447,7 +542,7 @@
       "originalUrl": "https://www.techrepublic.com/article/job-trend-analysis-marks-growth-of-data-science-ai-roles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -595,7 +690,7 @@
       "originalUrl": "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -992,7 +1087,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-gpu-for-ai-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1137,101 +1232,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-ibms-ai-debating-system-able-to-compete-with-expert-human-debaters.md",
-      "title": "IBM's AI debating system able to compete with expert human debaters",
-      "excerpt": "IBM has developed an artificial intelligence-based system designed to engage in debates ... To carry out such tasks, Project Debater uses Watson, the IBM system that beat contestants on the game show \"Jeopardy,\" to listen to the arguments given by ...",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/humanai.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ibm-ai-debating-expert-human.amp",
-      "publishedDateTime": "2021-03-18T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem.md",
-      "title": "AI can be unintentionally biased: Data cleaning and awareness can help prevent the problem",
-      "excerpt": "But how can organizations safeguard against systems so the AI doesn't inadvertently inject bias that affects the accuracy of results? Bias can be injected into AI by faulty algorithms, by lack of complete data on which the algorithms operate or even by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/10/27946bf8-707b-4774-8f90-fe1121ea78b4/resize/1200x/57eed99cd6ea6ce4842383677842ede0/artificial-intelligence-image.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-can-be-unintentionally-biased-data-cleaning-and-awareness-can-help-prevent-the-problem/",
-      "publishedDateTime": "2021-03-18T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

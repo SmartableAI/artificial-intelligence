@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-23-create-forecasting-systems-faster-with-automated-workflows-and-notifications-in-amazon-forecast.md",
+      "title": "Create forecasting systems faster with automated workflows and notifications in Amazon Forecast",
+      "excerpt": "You can now enable notifications for workflow status changes while using Amazon Forecast, allowing you to work seamlessly without the disruption of having to check if a particular workflow has completed. Additionally, you can now automate workflows through the notifications to increase work efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/set-notifications-and-automate-workflows-for-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/set-notifications-and-automate-workflows-for-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/22/1-2571Architecture.jpg",
+          "width": 700,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T17:06:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope.md",
       "title": "Artificial Intelligence (AI) Chipsets Market Emerging Technologies, Industry Demand, CAGR Status, Global Competitors and Future Scope",
       "excerpt": "Emergence of Startup Companies to Propel Market in Asia Pacific Asia Pacific is expected to dominate the global market owing to the developing economies such as South Korea, India, China. The growing acceptance of AI-based solutions will foster healthy ...",
@@ -1431,58 +1483,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon.md",
-      "title": "Artificial Intelligence in Retail Market May See a Big Move | Major Giants IBM, Nvidia, Amazon",
-      "excerpt": "The report brings clarity about the market key players and also about the significant contributors associated. The study elaborates factors of Global Artificial Intelligence in Retail market such as market opportunities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

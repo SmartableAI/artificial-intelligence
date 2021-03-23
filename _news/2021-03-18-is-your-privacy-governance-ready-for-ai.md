@@ -7,7 +7,7 @@ originalUrl: "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready
 webUrl: "https://hbr.org/sponsored/2021/03/is-your-privacy-governance-ready-for-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 7476
     height: 4987
     isCached: true
-
-related:
-  - title: "AI governance: Reducing risk while reaping rewards"
-    excerpt: "With AI moving from pilots to production, enterprises must establish cross-departmental oversight strategies focused on data quality, compliance, ethics, and more."
-    publishedDateTime: 2021-03-18T09:00:00Z
-    webUrl: "https://www.cio.com/article/3611590/ai-governance-reducing-risk-while-reaping-rewards.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 39
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/11/artificial_intelligence_ai_ml_machine_learning_abstract_gettyimages_by_dny59_959737582_by_kentoh_1042827860-100817845-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "tUDkq0tsAeswpNvQCSxZfrR+nwFTPRI3Z5VWCNI8n56Z7wz7C97fZQ/Y3hbYIgS4FoCGDAVFE0FSkUoXx6W6hMBU9FSv+0twbkxE1EKJoKPQafdkOPYlTRtbnWHO5GvW9Oo/ldhXj0VYHiBtsCKtP+n5Oi5j70RKQxpjXi9RYAspTpVDhpGrVqBowjW4jPrvq5RyJdxkD6vr+huST951w7epeN8kTKlW0eVjyQ8IrYEl+jQAU3J0ZeaxA70kDZ8m9d4WXN6MDVcjwrQZbHCafLhzxjm+I3tUZteo1fsv97hHh9bI9ISI5a9R6tyFNmi5Ko1hyXUbijx78Mhozptve0lJJ50JK4saAldvmEz1YIAvnrREpfmbpNMwQyRJ9AZ8AzyMF9eLZXAaLZIMpUvt+DCD6zn06Gp9w5+z5U0KjBGZeNTlQiNm0j19YDwBDhs8zOo1M6Nf3CV8S17zHcSEhg2sWEE6en07PpkGAP/cLmoxUvqwsvqLoOJjQkuXVbUbazh49syML64tgW+8d+cQag==;az0jjE6aA1FG5pOaTsBxnw=="
 ---

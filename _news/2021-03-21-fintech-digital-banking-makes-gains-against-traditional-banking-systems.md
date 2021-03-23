@@ -56,6 +56,20 @@ related:
       name: ANSA
       domain: ansa.it
     quality: 34
+  - title: "NAB runs loan deferral calls through speech analytics"
+    excerpt: "NAB ran tens of thousands of outbound call recordings through speech analytics models to check that customers were given appropriate disclosures on loan repayment deferrals during Covid. Chief data officer Glenda Crisp revealed the project at the Melbourne Business School’s business analytics conference last week."
+    publishedDateTime: 2021-03-21T20:07:00Z
+    webUrl: "https://www.itnews.com.au/news/nab-runs-loan-deferral-calls-through-speech-analytics-562285"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 24
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-14_nab_iStock-522790626.jpg"
+        width: 1400
+        height: 900
+        isCached: true
 
 secured: "rDMPuR+EtMzGLdZRL7liFwtnTnTDbr1PotVjoQgRpNsl5Dp7VrNlv7AJOQukWYzBXSq/kKdTCawWLGPMQWYE1eYaWXP5OZ6yMTKcvt0vWtX5SQU7S74I0Ln0z1yiq9JJMxVYnaqD8iWma4WApP4J4iSiFc95q2NxOzxIm1ICTXRUgnBbF0AisV1D5D0D1QX+kkNZ9Itizf8ro10X/IeA/rgQZu3icdiHx7U/obca7nZksF9W2lPN0dS4DyyWYzCb9sjj+Q3RJd9vF7qYzuSUGNmb5j+DySW+af/HesbO2jp0XwQWhSdYozQwmNDgRyx1iaNishLZjDMkzuYbevxyk922ehNYDvr8bXTqjc6P5hPeGD5KVE9k5FBvnn+D5O+XDa4yEDyAwnI0ils8epBsJ/UV9QkhOvP/nW75Xq/Ek/N//zWm/LqXPdUR3Cc0fWNc4Q9OJ7COu8j8QZLsiajHdTQg9zesUAgLKFX5/XimVBkIq2j8zAGu45qWGUV8eVO8V7GJCHRWK+th0Ngz8mZtcw==;mY1o84z8hDSO6A5bbX7cXQ=="
 ---

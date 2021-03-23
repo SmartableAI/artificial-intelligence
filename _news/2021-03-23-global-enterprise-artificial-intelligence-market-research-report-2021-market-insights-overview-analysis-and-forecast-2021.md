@@ -112,15 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft extends digital innovation and energy transition deal with Spain's Repsol"
-    excerpt: "Microsoft said it has renewed a strategic collaboration with Repsol that begun in 2017 to focus on accelerating the digital transformation and global energy transition of the Spanish energy and petrochemical giant."
-    publishedDateTime: 2021-03-18T08:38:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-extends-digital-innovation-and-energy-transition-deal-with-spains-repsol--1376357"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 28
   - title: "AI-based smartphone apps for risk assessment of skin cancer need more evaluation and better regulation"
     excerpt: "Smartphone applications (“apps”) with artificial intelligence (AI) algorithms are increasingly used in healthcare. Widespread adoption of these apps must be supported by a robust evidence-base and app manufacturers’ claims appropriately regulated."
     publishedDateTime: 2021-03-19T19:32:00Z

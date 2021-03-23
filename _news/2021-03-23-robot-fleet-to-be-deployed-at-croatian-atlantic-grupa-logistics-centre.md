@@ -3,8 +3,8 @@ category: news
 title: "Robot fleet to be deployed at Croatian Atlantic Grupa' logistics centre"
 excerpt: "Croatian artifical intelligence (AI) startup Gideon Brothers said it will deploy a fleet of autonomous mobile robots into food and distribution"
 publishedDateTime: 2021-03-22T22:04:00Z
-originalUrl: "https://www.intellinews.com/robot-fleet-to-be-deployed-at-croatian-atlantic-grupa-logistics-centre-206129/"
-webUrl: "https://www.intellinews.com/robot-fleet-to-be-deployed-at-croatian-atlantic-grupa-logistics-centre-206129/"
+originalUrl: "https://intellinews.com/index.php/robot-fleet-to-be-deployed-at-croatian-atlantic-grupa-logistics-centre-206129/?source=croatia"
+webUrl: "https://intellinews.com/index.php/robot-fleet-to-be-deployed-at-croatian-atlantic-grupa-logistics-centre-206129/?source=croatia"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 510
     isCached: true
 
-secured: "msFB/tMF1KjMcU/iK8zN2CHaKQn/NfJRBuVe3EhOCmHjfd2xbrUdZLGJu73E/nBPOqeGSCsdQhHi3oT8w+V5I5AXgWQxDBrkk1BDYEirUq6qH5OjYdzWGme/DHj84kQLNNs+9FaA4KQluJwJ66udADRA73lI6UabyWyJD1tFLM2q3hU03diTDzwuIupx5W7E0WJhSGDgT7t61AFjWDCUupBi48T+1Al5U0gZ6rljGgm299SBtbjXt6L3wez4g7funClGYoLjHvs3HSrSKUXvZxHJMFtQtF6hyS0UlV81Lrno4gEHPFfgMHlj/Tv8GKLQbfw7a3yq2jJRvUzqB30yaKDT30z374kgb65T7glZjiA=;0caMFvZsyG9jh48BPyi8kw=="
+secured: "7vdwWdKrmv/elHBu1Y3Lj3tHNROBM8MbkK/jKVrw76pjpG/8dFK+Y9dLKE2oxsTjYRK0QigVfb3fcLh2nGAkB1aJMwfw8xN81PTcxxOiozKt/5T6eZsEfxDw9MbgLpv8wOgN1Fp+alrABEXTSZtzFLb7h+o1zlZC1WHFutSwYYFrgjIuyMY1Gd3bcsxcG2IwVwrsEm5uwRvrmw2ugTmi9RT9sGFBXbrHfeF8Es+PvYRY2tTdp42PtRd2KbvCYyQqWHgOieu+XCMesD+wq5OIbdAEBUuyE5cXgE5XUZKFBkX93JzKz8Tumtxa8DNcGNy68g3GQpF9GHiq1neat8UIf1uoVss/uDPU1Tr8Q+KCBBI=;zTB/ahYD7/rxqFa0d8zKhg=="
 ---
 

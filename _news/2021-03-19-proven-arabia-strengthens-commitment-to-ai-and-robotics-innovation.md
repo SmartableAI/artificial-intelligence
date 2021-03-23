@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itp.net/emergent-tech/96707-proven-arabia-strengthens-co
 cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/96707-proven-arabia-strengthens-commitment-to-ai-and-robotics-innovation?amp"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       - url: "https://images.livemint.com/img/2021/03/18/600x338/aws-kMdH--621x414@LiveMint_1616080293599.jpg"
         width: 600
         height: 337
-        isCached: true
-  - title: "Top 10 Cool Robotics Startups To Keep an Eye on in 2021"
-    excerpt: "Robotics startups will continue to emerge and bring innovative solutions to the world. Here’s a look at the top 10 cool robotics startups in 2021 that are changing the way of interaction with robots."
-    publishedDateTime: 2021-03-18T09:00:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-cool-robotics-startups-to-keep-an-eye-on-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 54
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Robotics-1.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Atal Innovation Mission, AWS collaborate to scale cloud skilling, and accelerate innovation with education technology startups in India"
     excerpt: "artificial intelligence (AI), machine learning (ML), and virtual reality (VR), to students at more than 7000 Atal Tinkering Labs (ATLs) in India. AWS will also conduct Faculty Development Programs (FDPs) for the personnel in-charge at the ATLs, and provide ..."

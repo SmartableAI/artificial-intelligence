@@ -116,15 +116,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft extends digital innovation and energy transition deal with Spain's Repsol"
-    excerpt: "Microsoft said it has renewed a strategic collaboration with Repsol that begun in 2017 to focus on accelerating the digital transformation and global energy transition of the Spanish energy and petrochemical giant."
-    publishedDateTime: 2021-03-18T08:38:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-extends-digital-innovation-and-energy-transition-deal-with-spains-repsol--1376357"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 28
 
 secured: "yneceJ2SM5cSa707GrLmjVKqgfs22GOs0Ko4Li+EXBMw5JcJx+i5jWduJqwVvgsEYeFfJ+429GlstrRR1uyIW/T4kccsMN8Xl/K0VabEPZy86BoK0zAqhzHVIa6nykVMCx/A1T3xTulmjA0E9X3NigLogr6BPNJ97VAGsBuSwc68BGySrY6Dr6Sq54uwKg/olDE+EMC8x9jfXfs+YvaDQZYOhTqolzueKGhT+Pm+NFEkpvLnDRciWfLdiQV5tHPK8Ts6eByu0vyPriLpe/eJZJKE4+VpMttBeE/UjHOFbTtSrP4aAXF1JXGdU9KZiLmmyiLzhCy1j5cu0BI4MQAjdFvST3Lm32fy1v8uL82zvJ0=;WuxoZVZyAYQlw02DLqizsQ=="
 ---

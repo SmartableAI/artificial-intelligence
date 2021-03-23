@@ -3,8 +3,8 @@ category: news
 title: "Big and booming: Get to know Indonesia’s fintech ecosystem"
 excerpt: "Fintech is huge in Indonesia, both in terms of the number of startups in the space as well as the industry’s growth rate. Case in point: The leading mobile banking apps in the archipelago saw a 44% increase in their monthly active user growth last year compared to the same period in 2019."
 publishedDateTime: 2021-03-22T09:50:00Z
-originalUrl: "https://www.techinasia.com/big-booming-indonesias-fintech-ecosystem"
-webUrl: "https://www.techinasia.com/big-booming-indonesias-fintech-ecosystem"
+originalUrl: "https://www.techinasia.com/big-booming-indonesias-fintech-ecosystem#!"
+webUrl: "https://www.techinasia.com/big-booming-indonesias-fintech-ecosystem#!"
 type: article
 quality: 34
 heat: 34
@@ -22,6 +22,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "3HeyHfBm9SSOWXU+hkSxjph8Pi3mKA775skuF9VzdyFJK1VaJsEr1fzyN7CGNlj/NOTMHMsUHr2l1iR/L7gsSlPX0IJq4NjMm6s6TMjijEirAPTAutIg09sDf4cl9sMX4tFLnntbrn0aW8iGM8Agz0JWmCPUMJrc9IyqNeMk7lO/MqCJF9VtGkbGo6Tbh6uhAGTp4Bxa13Kw6+xxnPVJYfGivNMh9TfhALxrBGJaw24wBTINa/jZUyKrOkn7fMV3d24utQkh56kl+u64qJxtDnR4Ka0wWieENyvbHDJHsTVakc09Gy/NFv26cjRuAOtS1U862JP+pnN+zoz8GRLs55M/1q+sttoUYkv0sydd4VpdbXlkkIGtBYcRwAFDgaFpko8vVWEiuzuZiytQmVweXnDi6xE2Q99/icu6UwEe1CFrKL9EvGdvyJ8AonD6TakPbyKTtGKOoXFt9dfqBivedpE8G/GOW643KwLZnm+opdoZNNqUYmioO6Luptxp36JtAY0IV4AGksrehf4DfA+WFQ==;LZS5o1CwIRVMOBmjALvDEg=="
+secured: "F2j1VyRd7iuuHaIR7BWyXvO1RwB5WZ8eEPSV8PMDwf/yy0XDPe3b26WWdfbriVMvdwIXNVC+UUW7DQ6uLXwEXxnzngt5GBN/YeXt+jDerhYUaAocbL40Cmg8JOXnsXRkc+bXriYS8le90yMIUS40iP3KQUAI+09Kh1v0svd9kmEvo0lAVtioaieEvUWLUQ7oN0hFkCbRsLkB1i0uuBUQ1U5w7g6iK9Yabfa6yes0c7GrkX3SF3tozZLe4rWx3YHUJQTFEd3KkthfVVQ1mjh/rV4ya9aM4cHistmsGfgkoENAomUlEi1PgIxwwE+l2y9CuPqzV3RVp/oEIZA640xlkXjoOKmD857eUcrXa1bsIWGX//PsPqU1xdetSLxr2wa6CD33m7SVQwU6gGeXd4MGbvjILQvkI9ysPhpRL1MZcbgMl6NIty964XUbrmHgqiKwJS6vBpiYuG95dtOuy/5y2IECTv34XmUcgrR0RJ4AihMiBavnPpGdpRUL9mZrs5kSl+kwi1vv816Ah2XT1i3WBQ==;rxTv+vv7O/UfH6aV5+BH2A=="
 ---
 

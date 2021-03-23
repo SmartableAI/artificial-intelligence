@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-22-shell-taps-accenture-ripjar-to-transform-risk-screening-by-applying-ai.md",
+      "title": "Shell Taps Accenture, Ripjar to Transform Risk Screening by Applying AI",
+      "excerpt": "The multiyear deal builds on Accenture Ventures’ investment in Ripjar and a strategic alliance formed in 2018.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074",
+      "originalUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
+          "width": 605,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074?amp",
+      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074?amp",
+      "publishedDateTime": "2021-03-22T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hart Energy",
+        "domain": "hartenergy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-natural-language-processing-market-growing-at-a-cagr-203-key-player-microsoft-google-amazon-web-services-facebook-intel.md",
       "title": "Natural Language Processing Market Growing at a CAGR 20.3% | Key Player Microsoft, Google, Amazon Web Services, Facebook, Intel",
       "excerpt": "The global Natural Language Processing (NLP) Market size to grow from USD 11.6 billion in 2020 to USD 35.1 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 20.3% during the forecast period.",
@@ -1359,58 +1402,6 @@
         "AI in Education",
         "Microsoft AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise.md",
-      "title": "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise",
-      "excerpt": "Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday. Percept is a platform of hardware and services intended to simplify how customers use Azure artificial intelligence technologies on the edge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/ef472406-e9f6-486e-ab38-67e6271bb39b/resize/1200x/1410bf3bab3a660a5e63c96e93ddaa5f/ai-devkit.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "publishedDateTime": "2021-03-02T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

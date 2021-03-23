@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transfor
 cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Hart Energy
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Accenture and Ripjar partner with Shell to enhance supply chain risk screening using AI"
+    excerpt: "Accenture and Ripjar are collaborating with Royal Dutch Shell to enhance risk screening within its global supply chain using AI."
+    publishedDateTime: 2021-03-23T01:15:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/03/23/accenture-ripjar-shell/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 31
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Accenture and Ripjar Help Shell Transform Risk Screening by Applying Artificial Intelligence Across Its Global Supply Chain"
     excerpt: "Accenture and Ripjar are collaborating with Royal Dutch Shell to enhance risk screening within its supply chain using artificial intelligence."
     publishedDateTime: 2021-03-22T12:59:00Z
