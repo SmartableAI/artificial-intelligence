@@ -73,6 +73,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "MIT: Researchers’ Algorithm Designs Soft Robots that Sense"
+    excerpt: "both PhD students in MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). Other co-authors include MIT PhD student Lillian Chin, and professors Wojciech Matusik and Daniela Rus. Creating soft robots that complete real-world tasks has been a ..."
+    publishedDateTime: 2021-03-22T13:54:00Z
+    webUrl: "https://insidehpc.com/2021/03/mit-researchers-algorithm-designs-soft-robots-that-sense/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "28pY9Q1d1TsdDXp6S2ohGakBRud7c1Z3chaV973q4IJHU1h6U3GE5GaaOWiMNT1A5l+06DN/W2fz54IRE9ydGbys7s7BbyHje7XMc52bnMHNmVZ2tW4YoDJ/+jRJEP069ZudK/PNi+WgxTJWxVkZm16JsEQChM4thglfIeihizyO6Mmf6BsmNsx14datgnbQ1k/dcgqvmnQChtmCztLOnTa956jLbujYJqCR7WgaZQqimeXL/Jdke3WdOgXcorEOAupwTAfROZ9ielakCOUo487EFJLQGFRy0ckBxKwWQGnYRmr7sGZLCync7cSbmsXK/h4YwFfkfoxEFYoMP6gbhaAGYlJOpMucWXnq+DmXkDVvT9GzqB5FIhIJJX9NoRIrQAlDpXTEa2JOfVjvNCwZ/k4nPMIskR26oeMil50gVcM3qEluYaPNHBXgCQ68NkcBj+h8Pi/kvWbkdR4gQq0rnSzBRdJ7HkKsa87r5tkzZeySwycGUclXsnLVqnf2P3My4FFWxZqn/t1f+XoPEkzLCg==;mjn6G/QAeg0DQsqok45Vfw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BE0HM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BE0HM"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://lh3.googleusercontent.com/2Wiuz5a32w5OKyxR_LoQw38XPgXEws0h-qE8kSfeu4BVCV9II3M-RfVfwKDk0dglOgJItftGtA0Sjmb0NonlAy5osbSFF7NTQO4=s1000"
         width: 1000
         height: 666
+        isCached: true
+  - title: "Sophia the Robot NFTs Set to Go Live on Nifty Gateway"
+    excerpt: "The world-famous artificial intelligence project Sophia the Robot has created her own non-fungible tokens (NFT)."
+    publishedDateTime: 2021-03-23T15:28:00Z
+    webUrl: "https://beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
+    ampWebUrl: "https://beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
+    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
+    type: article
+    provider:
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 59
+    images:
+      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/03/bic_artwork_ai_sophia_nft_720.jpg.optimal.jpg"
+        width: 720
+        height: 432
         isCached: true
   - title: "Robot ‘humanoid’ Sophia has digital art up for sale in the first ever AI auction"
     excerpt: "“She” is a robot whose first artwork goes up for ... in the first sale of such pieces created jointly with artificial intelligence (AI). NFTs, a digital signature saved on blockchain ledgers ..."

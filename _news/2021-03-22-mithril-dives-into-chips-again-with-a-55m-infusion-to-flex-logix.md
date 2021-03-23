@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/22/mithril-dives-into-chips-again-wit
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/22/mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Flex Logix raises $55M to design AI chips for edge enterprise applications"
-    excerpt: "Flex Logix, a startup developing AI accelerator hardware, has raised $55 million to bring its chips to market."
-    publishedDateTime: 2021-03-18T21:39:00Z
-    webUrl: "https://venturebeat.com/2021/03/22/flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications/"
-    ampWebUrl: "https://venturebeat.com/2021/03/22/flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/22/flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Flex Logix Raises $55M Series D Financing As It Accelerates Market Adoption of AI Inference and eFPGA Solutions"
     excerpt: "Flex Logix ® Technologies, Inc., supplier of the fastest and most-efficient AI edge inference accelerator and the leading supplier of eFPGA IP, announced today the close of a $55 million oversubscribed Series D funding round."
     publishedDateTime: 2021-03-22T12:15:00Z

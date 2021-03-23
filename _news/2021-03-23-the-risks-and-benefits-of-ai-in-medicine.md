@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058fd1369baf2a8c7cd1a1b%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "gYWKvmmtiRvZuhS0Da72PzqEdI+HxhHzpDxMKdtrBDNUyNWPiqvq5Opm5/ivsbHwe28nh0E0GVjQUeZcwkGATPtnq29GEz9uX647Xu495GrFxnY4ueRusXost7aewrM5QGvOeuqf5BEtuSU3caNlZvIywTgv3cnOsQzsc3NRMojCXoLDLEUp45wJuFt0SKd8j5H/MpDbylDsKx6OBuUmeKpluKDHZQqBP+2xCrxZxE/MrAiWYd6gyit+CkHYnL4x1lLZv3JeghCTIUV4vMTV3fKaWvAT2xb1lB/F+af8ay7M3rEOZJ7OCvYAVm1LKg2TzdriqiFDQwQSwyusVDxKkYlKhHVfbUrjDZ8k2ntujCo=;bYoS6ExtngQ4u9eb0OVLEw=="
+secured: "JS+nlGVVKjoW/5HZTbP+Vpp8ybuAdE/dHTZseSjHOesq71yfONFvYP/DoqlvU+NDXV4ajyHhMJLgGNtQHpak1DgMess5ha4prWSe5Q+MQaLDcUe27DYVT+BrDquJ0T15VaZ5czsY/+r444Sx1xXfbV/bp+qsApzkSEWyQDFBI9fuVSf7ARG6MVuAxB/UobvHavveRAsp4hpUSHR4/WFan0agbnuqPl+eg7DZkZ1lu+0PC+2TSdjonxBKv5AT8x5ljU1gINcT7ZUW3j0uXcjeenaRWeE9PUUpkM7fVzdEGZuRZVdjfhDRj9peDiAeuwkbKF5jyqv2LO7kw0JL83yV2wxrSfl9VJAZEPRgyhXiWTvhJAP3y2MSgRW5ydgJLwVBqkAelTkBwvx/m9TJ2OwC6TC5qiHnmbIVrVqXu8brhPZTyUBtZHDJFbscni9v7UYalYWLCMcLzHWJO8ZiaziLbKt5t00M1rNw+PjACWBHHxKo0gU5BqqoZRHHv5K2gEkdcqhW6G4A/e61sMaK5s6RPg==;cIIpeQBD+Lh1tZQ/dm78TQ=="
 ---
 

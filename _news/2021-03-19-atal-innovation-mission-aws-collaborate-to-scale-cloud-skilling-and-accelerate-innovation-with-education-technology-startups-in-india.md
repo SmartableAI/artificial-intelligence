@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AWS, Oxford University Explore Human-Machine Collaboration With AI, Cloud Tech"
-    excerpt: "Amazon Web Services (AWS) and the University of Oxford in England have partnered to test proofs of concept for human-machine interaction in education and other research areas using artificial intelligence tools and cloud computing platforms."
-    publishedDateTime: 2021-03-19T05:01:00Z
-    webUrl: "https://www.executivegov.com/2021/03/aws-oxford-university-explore-human-machine-collaboration-with-ai-cloud-tech/"
+  - title: "AWS and Hugging Face Collaborate to Simplify and Accelerate Adoption of Natural Language Processing Models"
+    excerpt: "Just like computer vision a few years ago, the decade-old field of natural language processing (NLP) is experiencing a fascinating renaissance. Not a month goes by without a new breakthrough! Indeed, thanks to the scalability and cost-efficiency of cloud-based infrastructure, researchers are finally"
+    publishedDateTime: 2021-03-23T15:04:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 50
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/03/16/4c/f7/e1/54/af/a9/3d/74/artificial_intelligence_20210308.png"
-        width: 272
-        height: 270
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
 
 secured: "d4wxy/4sIrsBKV288g7jOT903WDOBFHOXsJIKp293SbfSP1siRPO0cqBxL0ak35Zzsdj0gMrpyKMjS1pBf2UkKH8n6jJNKbx+fq+kRnT9n5D7rJ2FVMvdPBWZAPB8rK/X4boxTL3yLa3SOpATGN6iCiCVbz9F6srU8TDwifgoTKCM+YHMEqqpdFmRrxCz1fJupUsUPK7Dd3FmkY+CHoyFj6MI02gJFZEBGS/qSyVwIf0bo798TKfUm88nF7a0kEA/nPA49HQVRBCVGVvSDbgaQ+nHV3bfnqdgvOOPc5+9D4S+wj3s5YaY4TDi/nS5QrHQstC4eF5CToHDppABb4AXFPOlfUs6ZKUYoTk4r0UsHY=;22z1bvWMZOyua2f+6TK9CA=="

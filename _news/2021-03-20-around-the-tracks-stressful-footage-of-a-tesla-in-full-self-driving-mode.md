@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla delays Full Self-Driving beta access, Musk promises changes next month"
+    excerpt: "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0."
+    publishedDateTime: 2021-03-23T15:35:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla's \"Full Self Driving\" Beta Is Just Laughably Bad and Potentially Dangerous"
     excerpt: "A beta version of Tesla's \"Full Self Driving\" Autopilot update has begun rolling out to certain users. And man, if you thought \"Full Self Driving\" was even close to a reality, this video of the system in action will certainly relieve you of that notion."
     publishedDateTime: 2021-03-19T16:56:00Z
@@ -67,6 +83,20 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2018/12/Tesla-Semi-red-wrap-122818-Derek-Rasina-2-300x225.jpg"
         width: 300
         height: 225
+        isCached: true
+  - title: "Self-Driving Cars Market to See Strong Growth Momentum | Tesla Motors, General Motor, Ford Motor"
+    excerpt: "Mar 19, 2021 (Market Insight Reports) -- A new business intelligence report released by HTF MI with title “Global Self-Driving Cars Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 ..."
+    publishedDateTime: 2021-03-19T19:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor-2021-03-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "cLp7wm05vtAlmuCwWP0mUVR7BlFPFb5MFmTF/Gp6ThCGaLsmIKYHMYau6E5iNbU0qkVtwxL1Jb/mGJgsgGA/Zx0qVcTQ3MZSwgjnN7O0p5/AsxSd7ShCbDa7YP9cd2K6vnAJfOmbAUihHZGey3GihkH/LAcDsrK2hf9fHTMd/3v3L5Ec9VJI2/vL1uXhnmRj/VXShEBAMoD7ik78yPU4Yacgk9m74mwZ47cdSmC4aqRdiO2movtlqZq/ChSbbSOHRTRl9iU9p50a45QqgTu7ffxWH5xoc9o1F5ZDiNtdUfy/atsP8Cxt2RaCnsoexDm1asGTJ+HxWbJrfz54K6VeOu3lxTJMtcElqwekT/6uNLM=;Mv54DRKRXLw0oV2A1d8AlQ=="

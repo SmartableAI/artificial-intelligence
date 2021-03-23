@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-finte
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/extra-crunch-roundup-ai-eats-fintech-fundraising-visas-no-code-transition-tips-more/amp/"
 type: article
 quality: 81
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 655
     isCached: true
+
+related:
+  - title: "AI fintech products are operating at scale and investor interest is maturing"
+    excerpt: "Per a new dataset I spent this morning chewing on, VCs are firing cannons of capital into the AI startup world while exits reach new records."
+    publishedDateTime: 2021-03-19T15:21:00Z
+    webUrl: "https://techcrunch.com/2021/03/19/ai-fintech-products-are-operating-at-scale-and-investor-interest-is-maturing/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 66
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-ORNG.jpg?w=533"
+        width: 533
+        height: 400
+        isCached: true
 
 secured: "sU3wGEQHn/FGmOwmNpv0DS5jYb5kzKBLhdG+VSOAb/G5s+sX/mh9KGCUtk17+RQTxrAPUPjSjaXaDSy98Y4ixl18XhMkv5eFrag2N3/822ZfOREzIY2d6RzXb+hsw5JjPS3eNHQ0/NBvyzYaD3m2uRROjs7Um2dvS3UZur7O9rsZhLui9CQ0TDyFWEQDMnx4ni5JK3ZGM0GCjuDCUWLVPacQ5q//7qK849x1ofescvukDtcEA1KB7kwI2lOhQ2AG+YhGJF8eZ4rVI3o4GM5gBEuAaa40lHtfXOS/cyfArdpH9TSw7OKodppnQH7jB2Pf7sqV0DslYwxch+RG98LcfKPFrcjAQ2wAVhJvdKcIhbcC9Gn2AXwGTZjK0KX7gYDjlIS6F3BdvNFyflduyx/aq8+zQ40Xtz07N4iE5G0kKCTjGld3G6+tSfMutnLtPqoKh64waDrhfabw422OZyG1BmffLPR58fZhOtpofLM8naYlDSuL2yiY8bdRVxwERjX4n2+iCoH8KfwjnDZRMoGQsw==;z9mc0WIDjX2DT0o/fB3Lfg=="
 ---

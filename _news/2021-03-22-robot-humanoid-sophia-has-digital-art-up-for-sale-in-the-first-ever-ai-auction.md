@@ -71,6 +71,22 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Sophia the Robot NFTs Set to Go Live on Nifty Gateway"
+    excerpt: "The world-famous artificial intelligence project Sophia the Robot has created her own non-fungible tokens (NFT)."
+    publishedDateTime: 2021-03-23T15:28:00Z
+    webUrl: "https://beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
+    ampWebUrl: "https://beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
+    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
+    type: article
+    provider:
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 59
+    images:
+      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/03/bic_artwork_ai_sophia_nft_720.jpg.optimal.jpg"
+        width: 720
+        height: 432
+        isCached: true
   - title: "Future now: humanoid robot Sophia joins auction with her own NFT artwork"
     excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with humans. A digital artwork by the Hong Kong-based Hanson Robotics humanoid,"
     publishedDateTime: 2021-03-22T07:32:00Z

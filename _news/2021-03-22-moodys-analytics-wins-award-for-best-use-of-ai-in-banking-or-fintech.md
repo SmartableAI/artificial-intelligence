@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Tableau introduces a new class of AI-powered analytics for business"
+    excerpt: "Einstein Discovery 2021.1 drops this month and will let more people do more with clicks rather than code, the company says."
+    publishedDateTime: 2021-03-23T14:59:00Z
+    webUrl: "https://www.techrepublic.com/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/07/09/b6ab847a-647d-4dd3-8830-b9a2e978c6c2/resize/1200x/cacbd035a68bdef28ec6012ef91f3936/cloud-security-tr.jpg"
+        width: 1200
+        height: 901
+        isCached: true
   - title: "Moody’s Analytics Wins Award for Best Use of AI in Banking or FinTech"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Moody’s Analytics has won Best Use of AI in Banking or FinTech at the 2021 Global Achievement Awards for AI. This award recognizes the Credit Sentiment Score™ solution ..."
     publishedDateTime: 2021-03-22T23:17:00Z
@@ -33,29 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI fintech products are operating at scale and investor interest is maturing"
-    excerpt: "Per a new dataset I spent this morning chewing on, VCs are firing cannons of capital into the AI startup world while exits reach new records."
-    publishedDateTime: 2021-03-19T15:21:00Z
-    webUrl: "https://techcrunch.com/2021/03/19/ai-fintech-products-are-operating-at-scale-and-investor-interest-is-maturing/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 66
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-ORNG.jpg?w=533"
-        width: 533
-        height: 400
-        isCached: true
-  - title: "FinTech, digital banking makes gains against traditional banking systems"
-    excerpt: "Digital banking is not a fixed concept but a spectrum, and individual banks need to decide where on that spectrum they wish to place themselves, says Paul Kayrouz"
-    publishedDateTime: 2021-03-21T14:47:00Z
-    webUrl: "https://www.arabianbusiness.com/commercial-banking/460581-fintech-digital-banking-makes-gains-against-traditional-banking-systems"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 33
   - title: "Moody's Analytics vince nella categoria 'Best Use of AI in Banking or FinTech'"
     excerpt: "Moody's Analytics ha vinto il premio Best Use of AI in Banking or FinTech (Miglior utilizzo dell'IA nel settore bancario o FinTech) ai 2021 Global Achievement Awards for AI. Si tratta di un riconoscim"
     publishedDateTime: 2021-03-23T11:00:00Z

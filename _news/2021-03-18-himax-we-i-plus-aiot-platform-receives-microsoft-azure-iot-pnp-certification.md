@@ -3,12 +3,9 @@ category: news
 title: "Himax WE-I Plus AIoT Platform Receives Microsoft Azure IoT PnP Certification"
 excerpt: "Himax Technologies, Inc. (Nasdaq: HIMX) (“Himax”), a leading supplier and fabless manufacturer of display drivers and other semiconductor products, today announced its ultralow power WE-I Plus AIoT Platform has been listed in the Azure Certified Device Catalog after receiving Microsoft Azure IoT PnP certification."
 publishedDateTime: 2021-03-18T08:02:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
+originalUrl: "https://apnews.com/press-release/globe-newswire/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
+webUrl: "https://apnews.com/press-release/globe-newswire/business-technology-products-and-services-government-regulations-asia-a993b0d04ddde4f616d8887b80476b88"
 type: article
-quality: 66
-heat: 66
-published: false
 
 provider:
   name: Associated Press
@@ -24,6 +21,6 @@ images:
     height: 450
     isCached: true
 
-secured: "B9iOS7Enk+ly7weLAc7j8D9a7/zMRJUqfK4R6ohBUvzqZ4HfD52R66SVdfpdL1M4hPxNYWBcRGzYqSxUuGvWB/5sKkkTWfJcVX8AK4gWj74BPofZN+FMnMk6mWtAcXmdq+aRvYKVAgqJZyDgda0AjNMt3vY1f5FnNb9c4PuQWllZB1+Dk1/ikDQ9GzxjwOM+ftS4xTpkOBtTWmJ3U7zmZz/Q+9n1fK6t8LAprwWlW6T36BSu3urJUGaqHi819vh3Sk9lsmiRJNE9n5xqEWUolmlHskvbDO71FoQU92wng4ip9JNAhofrPk2QBP0OEHDuf7OR7pLv0K0TiyRxEYWm07mvTkA2Whchr/6txLM5ZEU=;D8HVmNUsT1JeU7FcbLq0Lw=="
+secured: "ip5HZKeRgj6qFFS8D67+JLEz7P/BttSY25QtdiiVqgsMP8mtlYgmoFtdFO5w7mfmUPFAcWYvqBrf6CFn4DtExRRoGLPqR8ZIlM0WmW9YsXcT5waWVk0iSRkydGsHneroFcCLXmSpmMDySmrvu2VZPxG2hN2wamijKaqx10WzcoDWB1XlwmQkJz+JYsd4DNSv2PF9CY/ry/c9IlMiEIpwYOu/prFkHPlUf2lTn9QrT/lp6PJfgvOsZ5rt+terYymbJ5eCYhXFCsbChWbyqD+t7DTi9I7OjbYChmA7l4E+hyqB8Q/ptiqf6Fqv7jaWRCbeSnza4DagFwnj6GISAk3sb+pvuoaj1hheqCqN8IGyY8E=;z8LdYCHKhAxk7mnfFnGPNw=="
 ---
 

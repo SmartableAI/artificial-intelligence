@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/mits-new-artificial-intelligence-algorithm-
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mits-new-artificial-intelligence-algorithm-designs-soft-robots-that-sense/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "MIT: Researchers’ Algorithm Designs Soft Robots that Sense"
+    excerpt: "both PhD students in MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). Other co-authors include MIT PhD student Lillian Chin, and professors Wojciech Matusik and Daniela Rus. Creating soft robots that complete real-world tasks has been a ..."
+    publishedDateTime: 2021-03-22T13:54:00Z
+    webUrl: "https://insidehpc.com/2021/03/mit-researchers-algorithm-designs-soft-robots-that-sense/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "5OeSqRBPon7wofuobC/fyfTsvxuKJRTNcDUyNJlkeCJKcRO29NaeN6Wx0yNNuvZvNc3Y91/UE+LpqLY042wgjsC7u96PepR26FWNnwckv4eHU7zEotvZD4PnyheZMjbLWCdboWnN9JioeBfnklrEs80O2MFeehQSPvEb+Am5+K1bhcCQQZ59H7b7p0jUmy5irzFZ88Ru/kZ5NolDnbuRF8sBMVzGazOC4ZhUdnUnGvkmP57nHu6BVax6SWnIKnOwCzMCCU4wx4tXkMX125xTe4MDlZl7IU/fQ/zmf83I96Sqzb8UfKk32dYiWN4aCK7FVqXbx6SUx7wr4fjoSxFpQtOcO6EzjBAW5XH/Ab4Zn14qyTWxFFtD1QHBoG9DDcm93fu54ppQB9JB78cud1uQLZi529PH8oUuxbQo1B7MgmpIHKyoTbLjoKuWGgQ/C4E1yMdZIbS09wQ0HyH7xgvjjFDd7pcyhBBPxF8wKcpcJor5afWBE+l0KaGWIx/y401/BvReQ9I4FYuwaPTIlJjFcg==;mUuUneR/20MuUVHT6BwMIA=="
 ---

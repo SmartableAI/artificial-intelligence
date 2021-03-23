@@ -39,22 +39,6 @@ related:
         width: 1024
         height: 679
         isCached: true
-  - title: "Flex Logix raises $55M to design AI chips for edge enterprise applications"
-    excerpt: "Flex Logix, a startup developing AI accelerator hardware, has raised $55 million to bring its chips to market."
-    publishedDateTime: 2021-03-18T21:39:00Z
-    webUrl: "https://venturebeat.com/2021/03/22/flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications/"
-    ampWebUrl: "https://venturebeat.com/2021/03/22/flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/22/flex-logix-raises-55m-to-design-ai-chips-for-edge-enterprise-applications/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 102
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "aV2vzEQhFgKLnIRUYal9qF7MbJo3N8hPzZ0kCb/SCqDiKpbYnFWiVe/RQQs31+Js+dmDNS7yWzPYQdjEz3yaFYEpftDXOpXPFIB2je5BluiymJVEzPNTwuyprMVAnZ3yeQTEVpYml5tQuIbaErAnjgGBCDk4k3liwHQlT6sjdf9++T5zhHk9qoKXXJba1PTAlX4V9B/uGpI5vbZC9dSooq6AvUMumpxqusOs78/uAUny58FN19wXJK54OnHFFwpDz3WnTs261bkMYQVhuTA2NYhQ3PkTiRLXSwllzxhiZyKBvWobV1bO3aIYts6PgkNKJ4DFc+E2XL+xP9eP5Q7WrJnwobeWBqjfyoT/5Qj6Xg8=;d8krNFI/EFQT1fH7/pbcbQ=="
 ---

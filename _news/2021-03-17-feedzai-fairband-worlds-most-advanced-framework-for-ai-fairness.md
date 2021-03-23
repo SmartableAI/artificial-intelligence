@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Feedzai Fairband: World’s most advanced framework for AI fairness"
-excerpt: "The lack of regulation in AI Fairness, Accountability, Transparency, and Ethics (FATE) has created a worldwide problem that is expected to grow substantially over the next few years if industry leaders and governments don’t act quickly. Particularly in ..."
-publishedDateTime: 2021-03-17T08:07:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-race-and-ethnicity-human-rights-and-civil-liberties-discrimination-79fee4e60afc6d3381f5f3476eec0652"
+title: "Feedzai Fairband: World's most advanced framework for AI fairness"
+excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+publishedDateTime: 2021-03-17T08:19:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
-  - AI Ethics
+  - Machine Learning
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "6Y8oSEkM0T0VZjjEcGrJtXPo5qPhtilwr7+/QvXmbJhNM4b8cUvmGjp4ELuh3dbBurvNhk05LL02CNSqMa8tr151tRkyU9Bhukez88TphVv31XNXHmOlpgAgUj4d9/+PxlCN9ERGrDY3zxSYOFzQP7/SbquxvHKy1aj69nGMhfuw/p4E14tMrGZtezC0H/kagCoAb2+mD6IGC+HB33SqPofXT2Bh0pghj/dqLS2i7zCfVMUrXDUefyWLFnxR32KvRnolYLE/GW4KnU5QLPT4bGEbt1yL/06pg/0UYLEoVS2SfiZHYhUl7oqXKKbDKK039qH/8gBThE1yUJrEf6FkQUlYH8l+cYa41Bsj35aJreA=;3ref0JkdCKfhUbcldrcBjA=="
+secured: "LD4+tyo7oY6OSDCBI5ANaDlQPew3dqHUYq3jPP4hDEMjkWEQm7BEpY0ZDk3KsH4uF8jLwJCY5sw1s2ubJvyyMej8LZw37eRUrQ8myOr/I3zxfF1KrsB5w2g5fSC1gAMNzIl9cKrqVlIYZhCzG3PCW+6Fo0u8WJAYTpCsLNjpqQXOOAdGIP3b7fGKlwXRc0mA0PhpsVYz0LRF6CFnZgvfIhygdDcP6SYa65Qc7ReQPZYejf1c+yfLlRt/B1ZabmplwCf9cu86X6ZbOvCoDR19RfnPZe2am+L9oSsoxIrwSv7KRdE4Pc7ZcXlqRB52TYrnXYVznLc0OayjI5Cr/o1p+AfRtlGzt5J2iPWdM58RnoQ=;DbvEjxfDgFQuseIygFQptw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2021/03/nanoscale-artifi
 webUrl: "https://eandt.theiet.org/content/articles/2021/03/nanoscale-artificial-neuron-boosts-neural-network-energy-efficiency/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 450
     isCached: true
+
+related:
+  - title: "Artificial neurons help decode cortical signals"
+    excerpt: "Russian scientists have proposed a new algorithm for automatic decoding and interpreting the decoder weights, which can be used both in brain-computer interfaces and in fundamental research. The results of the study were published in the Journal of Neural Engineering."
+    publishedDateTime: 2021-03-23T15:47:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-artificial-neurons-decode-cortical.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-artificial-neurons-decode-cortical.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-neurons-decode-cortical.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/2-neuron.jpg"
+        width: 1920
+        height: 1357
+        isCached: true
 
 secured: "bm+NgI83cFaq5O0InW38lYmR3L38TQxyv0Co/bkfFZbiuO0HJdaY+bUFlOoThD85c5bAGgrp/UGRBXsEoYi4sfITXHTUkHSb2o4BcrHQdMBaFgOmtZ5LV0wb4//nPKS1O3XLDGCS5hb3dbm1ZYbmeTzqfTYTSw5fI2hEKO0NMnBTo/T8SEs5r98arWofcaKpSNl2H2o8u2ynZoS2wq1AN9KC75sYhCic6EbMQ7Zk+2UdE94O+dlWpMe0LNuCb7l53Qo+RbS2BpIhk16ogu5cGTIp9tGRepZSXye+gNkgwLcTBNJT+H6nxCXhBwXZxLt4x7CBf2p0aWihQ8a/l/dKEqMu92uTnxQtHRNS+v8U3Lk=;3xW+ZUes2bMBwtr3BN+npQ=="
 ---
