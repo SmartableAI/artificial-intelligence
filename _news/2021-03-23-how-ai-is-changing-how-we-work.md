@@ -39,6 +39,15 @@ related:
         width: 300
         height: 285
         isCached: true
+  - title: "New Data on Stroke Care Show the Impact of Viz.ai’s Artificial Intelligence-Powered Platform on Patient Outcomes"
+    excerpt: "The first study presented by Dr. Hassan, “The Implementation of Artificial Intelligence Significantly Reduces Door-in Door-out Times in Primary Care Center Prior to Transfer,” compared the time interval between entering and leaving one of Valley ..."
+    publishedDateTime: 2021-03-19T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210319005094/en/New-Data-on-Stroke-Care-Show-the-Impact-of-Viz.ai’s-Artificial-Intelligence-Powered-Platform-on-Patient-Outcomes"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "Q8VgKDQYjuYvWj2phmh/6/8AKSgXFtfffCC9tTwcPG2iXLmQQZP7H1JkS656eZcoLiH/TBFmqveL16yO+wSJ8hS53XmsptmX4ULD/x9lE+lCm/0FVlz8ayiNEDdCR7Y0+xE3lwtctgiGK/nHHELwXITo1gROIHZf/yzpCzjBBTAD3YpYttyA//IA6nNT5fxnir5XRuqsb6q22ivUj+FHZRfpGjFWtFCv5bt1xKXD26fpbVOG2qnvApSzdvUF3guM6LdSgj4N33F+E9iVJceGDolQHfZbeox8lpTRFl7iDvcx85f+mAk8KUbHV4awvsqwPZtzV3Qh5hV05hWMkMyjpHq3L+6OBaCoY0qTqWkMrxA=;FBesnj/5GVGI6DPzwIqZDA=="
 ---

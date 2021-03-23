@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-11-fintech-e-banche-mai-cosi-integrate.md",
+      "title": "Fintech e banche mai così integrate",
+      "excerpt": "La sua attività negli Stati Uniti aggiunge un milione di nuovi clienti al mese ai 90 milioni che già contano in tutto il mondo. Ci sono anche banche tradizionali che hanno sposato l’innovazione: secondo lo sguardo delle fintech, in primis c’è Bbva ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.milanofinanza.it/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
+      "originalUrl": "https://www.milanofinanza.it/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.milanofinanza.it/remote/static.milanofinanza.it/content_upload/img/2021/03/202103101818141568/fintech5-714836.jpeg",
+          "width": 1920,
+          "height": 1053,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.milanofinanza.it/amp/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
+      "cdnAmpWebUrl": "https://www-milanofinanza-it.cdn.ampproject.org/c/s/www.milanofinanza.it/amp/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
+      "publishedDateTime": "2021-03-10T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MilanoFinanza",
+        "domain": "milanofinanza.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-eta-computes-low-power-ai-vision-board-accelerates-design-test-and-deployment-of-transformative-embedded-vision-solutions.md",
       "title": "Eta Compute’s Low Power AI Vision Board Accelerates Design, Test, and Deployment of Transformative Embedded Vision Solutions",
       "excerpt": "Eta Compute Inc ., the leader in energy-efficient endpoint AI solutions for intelligent sensing anywhere, announced its integrated, ECM3532 AI Vision Board, the lowest power embedded vision board that helps developers accelerate time to market.",
@@ -1150,50 +1193,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-africa-the-ethics-of-ai-to-ensure-food-security-and-development.md",
-      "title": "Africa: The Ethics of AI to Ensure Food Security and Development",
-      "excerpt": "Opinion - One year after the call for a group of international and religious organizations and important multinational companies to incorporate ethics into the design of artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://allafrica.com/stories/202103100180.html",
-      "originalUrl": "https://allafrica.com/stories/202103100180.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
-          "width": 664,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AllAfrica.com",
-        "domain": "allafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

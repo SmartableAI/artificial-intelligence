@@ -7,8 +7,8 @@ originalUrl: "https://www.madinamerica.com/author/top-quality-ai-900-dumps/"
 webUrl: "https://www.madinamerica.com/author/top-quality-ai-900-dumps/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Mad in America
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New Data on Stroke Care Show the Impact of Viz.ai’s Artificial Intelligence-Powered Platform on Patient Outcomes"
+    excerpt: "The first study presented by Dr. Hassan, “The Implementation of Artificial Intelligence Significantly Reduces Door-in Door-out Times in Primary Care Center Prior to Transfer,” compared the time interval between entering and leaving one of Valley ..."
+    publishedDateTime: 2021-03-19T16:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210319005094/en/New-Data-on-Stroke-Care-Show-the-Impact-of-Viz.ai’s-Artificial-Intelligence-Powered-Platform-on-Patient-Outcomes"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "gMkb8fcYTuPsVg9o6l+TzsbikusYjzLfsEYol12IKJDftsJoUEH4yWeiXDm8CbhBFl1mvhH4z0C9RARh3g9ikaRDtOakDVZmMP2CmnKRKjxM/oWgiV0rGyPDwF/0wmH0jfcrdtHC0zIO4Oy9kh4ZLnsXxWuOIz7v7Rz1nj/0msYQyg+pQ3D9HQ97BW6ckSqIgZ2s9ruCzXjfZVYKrVjJZudUTzYZqM4hHL3t4L2Zj0x2RDONq8ISpPB7XA8B95vyKmGyyZR66VUDVEW9dCVugEecoyZIY4GCIiYpTzOncDOR/JyGSOkPeN7LtLqT3UIcD8Y4vmneU1EIdad/KVTbh33oqDTr3gax6QNSv0oHPqE6jPe1E2nIOQogjAwsv0UZl1BpBAoSBKihfalUbG8ymmyOIag7+xNdUg9EPGbeLGhYfFFWgdVASjwfmJIPs3XXLeBZYkdaDbUZGzFBgBMJpT/I8hUN9k9UAX5XTzwnNSWDKgOUg8Mx5VvWfqr4Er4H3yqmWwpLrw33pw6uckesYQ==;OM/OuN5MbEks1iK6ilWocQ=="
 ---
