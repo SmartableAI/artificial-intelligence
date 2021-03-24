@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Need a Ride in Arlington? You Might Be Picked Up by a Self-Driving Vehicle"
+    excerpt: "A fleet of new self-driving vehicles are now making their way around the streets of Arlington. The Arlington Rapid Pilot Program has integrated on-demand autonomous vehicle service into a transportation service. Download our NBC DFW mobile app for Apple or ..."
+    publishedDateTime: 2021-03-24T00:38:00Z
+    webUrl: "https://www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/"
+    ampWebUrl: "https://www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/?amp"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/?amp"
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 42
+    images:
+      - url: "https://i2.wp.com/media.nbcdfw.com/2021/03/FIFO-SVR52_8AM-12PM__03-23-2021_2021-03-23-12-26-01_08-32-1305.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Shenzhen city works out regulations to guide self-driving vehicles"
     excerpt: "ICVs is a notion that vehicles realize self-driving and the traffic efficiency will be greatly improved through the in-built advanced sensors, controllers and actuators, as well as the in-vehicle and inter-vehicle communication networks. The draft laws ..."
     publishedDateTime: 2021-03-24T07:32:00Z
@@ -55,7 +71,21 @@ related:
         width: 2240
         height: 1260
         isCached: true
+  - title: "City of Arlington launches on-demand self-driving shuttle service with RAPID"
+    excerpt: "The city of Arlington, Texas, and Via are now offering Via Arlington customers a choice to be picked up in a self-driving vehicle for trips around downtown and the University of Texas at Arlington (UTA). The Arlington RAPID pilot program, available to ..."
+    publishedDateTime: 2021-03-24T15:51:00Z
+    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21215713/via-transportation-city-of-arlington-launches-ondemand-selfdriving-shuttle-service-with-rapid"
+    type: article
+    provider:
+      name: Mass Transit
+      domain: masstransitmag.com
+    quality: 21
+    images:
+      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/03/16x9/via.605b5fc47a408.png?auto=format&fit=max&w=1200"
+        width: 1030
+        height: 580
+        isCached: true
 
-secured: "7yMDCp42EG6VQ8Wk3CI6/I8McG/JzZbLDuuzZi4NPSF4gQKn6r6UMSOg/KkGaBQ1V7Wy+/9IQAtH2ykp7aiBmy3DpJx4JSQlC/B4xFrMcooDCxDhxFbK1C0UVp1H3jUpEHrT6xqt7mh6Xk4QxlQcZepMcIH3iw0h7+XKUUeECeQ7/NtgKmQuYQMxYVX9ay5dY7/VW3Xrb9+OaYWKp17EopufesRVIoQU+WVtMPcw9zTBXlKFq5P6Pf+gaqmrdMj4wo5aiLkVwGR5gsO18GTxx8iz4EsbfBvHPx/ADuI6UmrEyP9PULP+01FdTf4jgOmP3TbRd39C0GF/KaJyW27Jp+pXvvobgVuZx8dZUP4CdMk=;BX/4lBTXbZyLZdfGxB42oQ=="
+secured: "SI38PkB/8HamtCoewhEqUMnR9vwhNZe/TFh89IqxCg30upePPZ4AAa6OlXtKp3XCcpemyYBM21hQAUOH+veSf/0SOrXLBNzkyfz1RH7ZqGNed8kGgMcGl5PVSXSrBmcMi9Xlpelw6UH3Mw+6O1hL8sj5eu8BR7pSx9nDeXs/yzB3KpEOhLUGUWfzVh9OI1ZFv5GVB5XsZrHEyrZuf3QNOTq814aOW/DIpHV0edv2IxkexhwEhrjoYsKYkIZpohYcnIweB47oQ2Rm0vEhZ3vGNL+krfRNozzt84rIxuVBvfHkUL3UOIigveqA0NVvTQyY476s5LyrYNn22poQ6qnabyo2zWLKrTMHSCewP/TWLLOTMe6Gp7fsy4UBnjOVY+7ZdF1dirm6m7TYEmVCo+m+g697YcWpwMFAOMj6Dd4Xml4EzNX/ho1L4plJyhNdoQG7GtHfDgvJQyoIy8osCnBDf6f7chSob7dyVWEJi8VHwt3jvjEkhTo8mmHAkpdxTftzxJivQtMiswV7MYnLL3Mq0g==;9v4AqXfi/f2e+rv1ZUJGJw=="
 ---
 

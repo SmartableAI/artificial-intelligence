@@ -2,6 +2,159 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-03-10-populus-ai-plots-expansion-with-5m-in-new-funding.md",
+      "title": "Populus AI plots expansion with $5M in new funding",
+      "excerpt": "The wave of shared electric scooters that swept through cities several years ago helped Populus AI get its start. Now, surging demand for delivery — and the pressure it places on curb space ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/",
+      "originalUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/populus-PlatformView_LiveMap.png?w=1024",
+          "width": 1024,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/amp/",
+      "publishedDateTime": "2021-03-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-israels-retrainai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market.md",
+      "title": "Israel’s Retrain.ai closes $13M to use AI to understand early signals in the changing jobs market",
+      "excerpt": "Israel’s retrain.ai, which uses AI and Machine Learning to read job boards at scale and to gain insight into where the job market is going, has closed $9M Series A led by Square Peg. Since retrain.ai’s $4M seed round last year was unannounced (led by Hetz Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
+      "originalUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/retrain.ai-founders-picture-1.jpg?w=535",
+          "width": 535,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/",
+      "publishedDateTime": "2021-03-10T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs.md",
+      "title": "New AI tool accurately diagnoses COVID-19 just by the sound of your coughs",
+      "excerpt": "Scientists from Essex University have created a COVID-19 screening tool that can accurately diagnose the virus by analyzing audio samples of coughs.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-10T134550.529-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/",
+      "publishedDateTime": "2021-03-10T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-how-the-ai-sector-can-use-nonprofits-as-an-ethical-example.md",
       "title": "How The AI Sector Can Use Nonprofits As An Ethical Example",
       "excerpt": "A future in which the nonprofit sector is the driving force of our society, where our incentives to succeed aren't guided mainly by greed and self-sustenance but rather by our ability to do good. It's a future where we are measured and rewarded by our mastery of several key balances: profit and ethics;",
@@ -1034,135 +1187,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-why-artificial-intelligence-is-the-future-of-technology.md",
-      "title": "Why Artificial Intelligence is The Future of Technology",
-      "excerpt": "Different civilizations result from intelligence ... such as driving, facial recognition, playing games, and many more. As a result, AI has been the focus of technology not only at the present but also in the future. Some of the reasons why artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/",
-      "originalUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2017/11/artificial-intelligence.jpg",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/artificial-intelligence-future-technology/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-future-technology/amp/",
-      "publishedDateTime": "2021-03-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-and-bengio.md",
-      "title": "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio",
-      "excerpt": "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/",
-      "publishedDateTime": "2021-03-09T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-botz-vs-robo-the-best-robotics-artificial-intelligence-etf-for-2021.md",
-      "title": "BOTZ vs. ROBO: The Best Robotics & Artificial Intelligence ETF For 2021",
-      "excerpt": "Robotics and artificial intelligence ETFs, however, have received only modest interest from investors. This group has delivered fantastic returns over the past year, but their performance during that time has trailed hotter and more attention-grabbing sectors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "originalUrl": "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/uQuPaZSc-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021",
-      "publishedDateTime": "2021-03-09T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

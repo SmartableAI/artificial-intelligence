@@ -7,7 +7,7 @@ originalUrl: "https://betakit.com/deloitte-spin-out-company-arteria-ai-raises-13
 webUrl: "https://betakit.com/deloitte-spin-out-company-arteria-ai-raises-13-7-million-cad-series-a-round/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Toronto AI startup Arteria to bolster roster after raising nearly $11-million"
-    excerpt: "Toronto startup Arteria AI has raised US$11-million in its first round of funding since spinning out of Deloitte LLP last year, as it plans to strengthen the sales and data-science teams behind its artificial-intelligence services for drafting,"
-    publishedDateTime: 2021-03-22T10:13:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-toronto-ai-startup-arteria-to-bolster-roster-after-raising-nearly-11/"
+  - title: "Deloitte to Help Organizations Address AI Ethics"
+    excerpt: "The thorny issue of monitoring, updating, and validating an organization's artificial intelligence (AI) model in the face of growing concern about unethical AI use is the basis for a new team-up between the Deloitte AI Institute and Chatterbox Labs,"
+    publishedDateTime: 2021-03-24T15:54:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/deloitte-help-organizations-address-ai-ethics"
     type: article
     provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 34
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
     images:
-      - url: "https://www.theglobeandmail.com/resizer/KuavgN7GfDNNAEYSMm85brgccoA=/1200x0/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/KU2XSGSDRBBNTFULI2SCBWUPDU.JPG"
-        width: 1200
-        height: 800
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/AI-B-2732x1200-030221-shutterstock_1118032799_0.jpg"
+        width: 2732
+        height: 1200
         isCached: true
   - title: "Deloitte launches new artificial intelligence research center to help advance federal work"
     excerpt: "Deloitte unveiled a new center to serve as a hub of industry, government and academia to help speed up federal adoption of AI technology."

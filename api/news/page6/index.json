@@ -2,6 +2,143 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-19-right-wing-troll-chuck-johnson-claims-he-cofounded-facial-recognition-giant-clearview-ai.md",
+      "title": "Right-Wing 'Troll' Chuck Johnson Claims He Cofounded Facial Recognition Giant Clearview AI",
+      "excerpt": "Clearview AI, the dystopian face recognition company that claims to have amassed a database of… Clearview, which has inspired controversy due to its high-powered facial recognition software ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909",
+      "originalUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lue5gnza5ewykbnt979o.png",
+          "width": 800,
+          "height": 463,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/right-wing-troll-chuck-johnson-claims-he-cofounded-faci-1846506909/amp",
+      "publishedDateTime": "2021-03-18T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-eri-improves-recovery-with-robotics.md",
+      "title": "ERI improves recovery with robotics",
+      "excerpt": "Electronics recycler ERI, headquartered in Fresno, California, is leveraging technology to improve e-scrap processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.recyclingtoday.com/article/electronics-recycler-improes-recovery-robotics-ai/",
+      "originalUrl": "https://www.recyclingtoday.com/article/electronics-recycler-improes-recovery-robotics-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.recyclingtoday.com/fileuploads/image/2021/03/19/eri-sam-web.jpg?w=736&h=414&mode=crop",
+          "width": 736,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Recycling Today",
+        "domain": "recyclingtoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-examining-the-bias-in-artificial-intelligence.md",
+      "title": "Examining the bias in artificial intelligence...",
+      "excerpt": "Watch \"Examining the bias in artificial intelligence\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/live/video/20210319074015-examining-the-bias-in-artificial-intelligence/",
+      "originalUrl": "https://www.cbsnews.com/live/video/20210319074015-examining-the-bias-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-cbsn.cbsnews.com/prod/2021/03/19/story_09508517_1616140084.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T16:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-alexa-what-is-union-busting-john-oliver-lobs-tough-questions-at-amazons-ai-on-tonight-show.md",
       "title": "‘Alexa, what is union busting?’ John Oliver lobs tough questions at Amazon’s AI on ‘Tonight Show’",
       "excerpt": "Clearly Alexa is not a British soccer fan, and she spouted off about the 1985 Chicago Bears NFL team. Fired up by his annoyance with the AI, Oliver leaned into the camera from his remote location and asked, “Alexa, how bad are Amazon working conditions?”",
@@ -1094,161 +1231,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-oracle-brings-autonomous-data-warehouse-to-the-rest-of-us.md",
-      "title": "Oracle brings Autonomous Data Warehouse to the rest of us",
-      "excerpt": "The broadened service includes drag and drop data loading, data cleansing, data transformation, data modeling tools, and AutoML tools for business analysts and citizen data scientists. It also includes a rudimentary data catalog for data discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/",
-      "originalUrl": "https://www.zdnet.com/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/18/b89dc660-6163-4316-a919-9cd06252cb8a/self-driving2.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-brings-autonomous-data-warehouse-to-the-rest-of-us/",
-      "publishedDateTime": "2021-03-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-three-ways-machine-learning-helps-tech-businesses.md",
-      "title": "Three Ways Machine Learning Helps Tech Businesses",
-      "excerpt": "Machine learning, a subcategory of artificial intelligence, has quickly proven to be a helpful tool for consumers and tech business owners. There’s AI-powered software on the market that helps leaders and marketing teams understand their audience,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db4cb496d3e0006c97ad8%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/18/three-ways-machine-learning-helps-tech-businesses/amp/",
-      "publishedDateTime": "2021-03-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-how-ai-can-transform-contact-centers-unstructured-content.md",
-      "title": "How AI Can Transform Contact Centers' Unstructured Content",
-      "excerpt": "Most businesses understand there's a lot of value lurking in their unstructured content, but they struggle with how to process it efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/how-ai-can-transform-contact-centers-unstructured-content/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/how-ai-can-transform-contact-centers-unstructured-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60520f51e51980009c63f201%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/18/how-ai-can-transform-contact-centers-unstructured-content/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/18/how-ai-can-transform-contact-centers-unstructured-content/amp/",
-      "publishedDateTime": "2021-03-18T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

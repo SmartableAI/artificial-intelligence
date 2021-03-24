@@ -9,8 +9,8 @@ ampWebUrl: "https://www.asiaone.com/business/hong-kong-forum-artificial-intellig
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Asia One
@@ -40,6 +40,20 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Hong Kong-based FinTech Apoidea Group eyes Regional Expansion with plans to Double Headcounts Two Years in a Row"
+    excerpt: "After doubling its headcounts in 2020, Apoidea Group, a Hong Kong-based AI-driven FinTech start-up, aims to double up the team again as the firm sees signs of rapid revenue growth. The FinTech firm is also eyeing on expanding its presence to Singapore ..."
+    publishedDateTime: 2021-03-24T16:02:00Z
+    webUrl: "https://hubbis.com/news/hong-kong-based-fintech-apoidea-group-eyes-regional-expansion-with-plans-to-double-headcounts-two-years-in-a-row"
+    type: article
+    provider:
+      name: Hubbis
+      domain: hubbis.com
+    quality: 3
+    images:
+      - url: "https://hubbis.com/bundles/app/home/images/icon_search.png"
+        width: 500
+        height: 500
         isCached: true
 
 secured: "1d73awGxlD/LemH7T/ZML+rBssL92iddU/4GUFTvsTwGPEczZvR7+l7qcoQbAmsFbjuE68nE3GjdKRIf9F2uLlD94UI7SDeqtbEb4F8mpZQADc0ucu8Ev0Z+MSGxaybkb0abM77/z69fN6MDJk5Z3nXt1MdIT2OtIT17W0up9g+uVfgsoo9uJRxh7z20TQoyDa3n+D4XxWEA+ikm08LZNPCqtwpXGoHiRdRTiIUnRP2blMfcN8cmuIE7tqIQPeboP6MpsYddSjFZogU51ds3mRKMu1ICDEbCNT/tojRz8brLABcj3gSlTNTQCyb6xqbOaer5P1BCfc9aY4GEpxPx6UDV2bAPP8LOPFIJzvOT9M4=;H/d3dupufnngJCY3zurfbA=="

@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-health-e
 ampWebUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-health-equity.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-health-equity.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2021/15-artificialin.jpg"
@@ -41,6 +42,6 @@ related:
         height: 632
         isCached: true
 
-secured: "n57FEo5nRvc8S/chqms4NHlEUbyLqlJzX9/eH7T2K5N+Y3DKCnfKsTxt2wnbONZ57wySxXZUdD9ui+Q1N+TtxYUYXAwiWrWx9dOuriTTGDhej5N5L8c9eu0MFtadrumIxBwAn/rGb3N9+8269tw3H4EzndTWpX3pFjRemqYlPpyzsIEcMi7BCOn7Vxn7hh7ypaP+aiT6dOz84BXK7VedV6JsTp4pGO3eWvxohWGb0FzNVgZGLtW9jnleFC/vv/GSsa2/ehVUt8hCNs2BW4GgQDsRUgOYCdNC/Aeh4ZC8D/AEuxfqXTBEEFC87PzOQBJl4mUnueSm0p1aZSvZapN+N9fsl30bZJyGilDN2Hf89jc=;P5Ugr2/DXeYtCuzHiJ3gEw=="
+secured: "dBEY9lRA2jyhM/5OWUWAXKTAh525BwDFHMDqsJ5cRq0tc7f9QJUiqJvxFttx/7rMdEEhN9izhMSuo9xgC502LFv3ayRwdjUJa1oGtSnJkWxustXILmavtWblyaKP69nFuixaSj1RLE2yWeACYipgQ9rRknMQEi93xWqFjqGA6Iu64I91BPbQkyLFK95lKJ2j+bv70SUbIKJCDfioMdvLRPK/4tqJ16eIJZRMTpAc5BsmCCjtzzi18s0Cgd8e3fpAUtT/cbkVAc2Yps+lBCMjcPsHrDWmclTIWcTEH4msfInuo5yjAi341mBGeHwaN6lF6c4S+iBCGpfe/Dr08CxFpolHuRZ13axHEgs8SNx4xzcbRXoPeb3t8XBD8ngEytvygEdzytzlb+FLzmnGxhXFghTo7o7TG0h3AnPHJLxmfRJEAAsn8dfHel6oPTy9gw8GYHWaOoFLbju0kXYuZbqD/dbvtmx/K46FCrWH/JeKUHIFt4U1n/ZozRI5AkIkbpqwCavEqL1pt11vPCS4XRMDbg==;hPm62qhbtc0W/VUCaMM2cA=="
 ---
 

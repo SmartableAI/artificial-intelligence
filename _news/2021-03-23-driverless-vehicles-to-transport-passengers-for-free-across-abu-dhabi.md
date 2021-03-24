@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 527
         isCached: true
+  - title: "Driverless vehicles to ferry passengers for free across Abu Dhabi"
+    excerpt: "The Department of Municipalities and Transport (DMT) will start the trial operations of autonomous vehicles for transporting passengers in Abu Dhabi. Driverless vehicles will be piloted in two phases."
+    publishedDateTime: 2021-03-24T17:30:00Z
+    webUrl: "https://www.gulftoday.ae/news/2021/03/23/driverless-vehicles-to-transport-passengers-for-free-across-abu-dhabi"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 39
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/culture/2021/3/24/car.ashx?h=500&w=750&hash=C4440672A8CC29C2469DD6C2B64F4F9D"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "fI/hI+ip6oqYZsRFivwjDOpPOVBmKTUfaeYvDXtdfASDck956JhjB3LVBhbji16iVoDAjsZXs8NqdiSNZy5isA5t0nI9qAC8C0Ogdxzz7znjVUPXgYNNZ1m9T4Ss/95wx/8WL2wBKV9Z+mtEZ94tbVNU7uiOjqh1hPVBUmm7OMUhnvxgFPiM3FTKPpIvCz2wSHGS1f0N6SAXh/rz6Yp/6EuZFr9DUxkXUD3AM0IAZOi8cK5csSEKZAnqj1hojXwL2QuB3NeOnMvDPGK8DB1Ecs82s/UbcwbaMksrl0uCxIh5guakV8lIs/zVFmTyfbRva2MqFZz1Al56fBELuY0HNnlGBgXLQEr8x7XK0Yac5juo8kfBowPf5owlo3L6GiFa8AYht0TPG7Xux3HdgdcMtWNXiTCgtd3rCPNmVne78qEkIrfbcL4x3mACGbJttMrRMd3u6yxVYCntNJM7VNAkHXXs3MXMFIfy+YgVKGrhgRlJ1FuQdF+Bf8nRIHu9AwI918B0WyMn+OUniWRVODaMOQ==;M+DaMfHAektA2PcZWgqvVw=="
 ---

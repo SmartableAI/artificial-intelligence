@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Disney World Testing Facial Recognition"
+    excerpt: "Resort is conducting a 30-day test using facial recognition technology to improve the guest experience. The technology captures an image of the visitor's face and then converts the image into a unique number that is then associated with the form of admission the guest used for park entry."
+    publishedDateTime: 2021-03-24T14:31:00Z
+    webUrl: "https://www.avnetwork.com/news/disney-world-testing-facial-recognition"
+    type: article
+    provider:
+      name: AV Network
+      domain: avnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/xaia55AsiS86NL6AHCCxU8-1200-80.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Psychology behind facial recognition"
+    excerpt: "Facebook profile picture forensic interactive face recognition software tasks identification Super recognisers surveillance CCTV British Journal Psychology"
+    publishedDateTime: 2021-03-24T16:41:00Z
+    webUrl: "https://www.professionalsecurity.co.uk/news/case-studies/psychology-behind-facial-recognition/"
+    type: article
+    provider:
+      name: professionalsecurity.co.uk
+      domain: professionalsecurity.co.uk
+    quality: 39
+    images:
+      - url: "https://www.professionalsecurity.co.uk/wp-content/uploads/2021/03/Frost314.jpg"
+        width: 343
+        height: 457
+        isCached: true
   - title: "Tracking dongles and facial recognition tested at Mice event"
     excerpt: "SINGAPORE - A Bluetooth tracking dongle and facial recognition tools are some of the new technologies being piloted to prepare Singapore for major events like World Economic Forum in August.. Read more at straitstimes."
     publishedDateTime: 2021-03-24T14:04:00Z

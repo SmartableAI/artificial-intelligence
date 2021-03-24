@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailytribune.com/lifestyles/vitality/the-future-of-drive
 cdnAmpWebUrl: "https://www-dailytribune-com.cdn.ampproject.org/c/s/www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
   - title: "Driverless vehicles to transport passengers for free across Abu Dhabi"
     excerpt: "The Department of Municipalities and Transport (DMT) will start the trial operations of autonomous vehicles for transporting passengers in Abu Dhabi. Driverless vehicles will be piloted in two phases."
     publishedDateTime: 2021-03-23T08:37:00Z
+    webUrl: "https://www.gulftoday.ae/news/2021/03/23/driverless-vehicles-to-transport-passengers-for-free-across-abu-dhabi"
+    type: article
+    provider:
+      name: The Gulf Today
+      domain: gulftoday.ae
+    quality: 39
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/culture/2021/3/24/car.ashx?h=500&w=750&hash=C4440672A8CC29C2469DD6C2B64F4F9D"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Driverless vehicles to ferry passengers for free across Abu Dhabi"
+    excerpt: "The Department of Municipalities and Transport (DMT) will start the trial operations of autonomous vehicles for transporting passengers in Abu Dhabi. Driverless vehicles will be piloted in two phases."
+    publishedDateTime: 2021-03-24T17:30:00Z
     webUrl: "https://www.gulftoday.ae/news/2021/03/23/driverless-vehicles-to-transport-passengers-for-free-across-abu-dhabi"
     type: article
     provider:

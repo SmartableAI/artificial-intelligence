@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/amp/business/2021/03/21/housing-crisis-requi
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/2021/03/21/housing-crisis-requires-builders-to-embrace-ai-and-automation.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,31 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Putting Disruptive Innovations Into Action Using Artificial Intelligence Throughout Your Business"
-    excerpt: "Robotics and automation in manufacturing would appear ... During an IEEE-Boston/IEEE-HKN (Eta Kappa Nu) Artificial Intelligence Seminar series, Dr. Washington shared tangible AI strategies that have helped Ford Motor Company maintain its legacy for disrupt ..."
-    publishedDateTime: 2021-03-22T22:10:00Z
-    webUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
+  - title: "Peritus.ai Releases First AI-Powered Assistant to Automate and Improve Support on Cloud-Native ..."
+    excerpt: "Peritus.ai, the AI recommendation engine for support automation, today announced the general availability of the Peritus Assistant for Cloud-Native technology forums to significantly improve support for technologies including Kubernetes and other cloud-native technologies."
+    publishedDateTime: 2021-03-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-north-america-cloud-computing-palo-alto-california-2fcaed4f263aa7af2426502a73f20cb3"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605911778ffe878ecb833916%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D300%26cropY1%3D50%26cropY2%3D350"
-        width: 300
-        height: 300
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Smart Girls HQ to build out AI-driven digital platform using funding from the National Science Foundation"
-    excerpt: "Charlotte-based Smart Girls HQ was awarded a $256,000 grant through the National Science Foundation's Small Business Innovation Research program that it will use to build and launch a digital platform."
-    publishedDateTime: 2021-03-22T19:25:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2021/03/22/smart-girls-hq-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "ryQwPMl4Vtxp8bVaMeTZ3Q9ChsWP40+pM0CUGAGp3y9G564FqCyic/7gkMsrILSnrZuIL3v92rHU23353xKLQZWfa9hhcsNBtYLb5Mi0vRaa4AiyQq2dIfdv5Z8OpsmQRyUKUd9jYsgiK2y+RxSyO1rg+RJsXVoDXT8CTjOy7ANfxQGDGpt/BoXB29URT5JMAsDoyOzmRs2r1aZLP2Iz301eN2pAqyKCJelvDTqCQtcQ7i2KxjgnKL5QlKia5ezfGV0IYzuviWR4zFiLAsMYNi23TofWv7ZJeXxRaPTIJ9wf1ic9FQlR8QkC1jQmKNcBOWeJ3qomGtCLl0QTo60NNQuQa7az0RwmWGFeZW6A6jsMljpZz1/0X1RHTCg8b2YmUeENfxKKNNGAcG6KbKABnlKO5vh6+PDs8RNek75pv8nzdqvMdt7ZcksV4wu9drQ0vJh0Rn4HIiottdKfREPUmcsEVDoX1Zg0RNmSFECcp1hEfjnx8U72GzfWQw2oKgKo2pU9DrbWla2jg6Ysup/Plw==;tAb3HMHc/KOoKpqHzRjNfQ=="
 ---

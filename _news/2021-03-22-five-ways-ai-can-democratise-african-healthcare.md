@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/8649e35f-29d2-4da0-a1cd-7eece48b7152?vi
 webUrl: "https://www.ft.com/content/8649e35f-29d2-4da0-a1cd-7eece48b7152?via=indexdotco"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,49 @@ images:
     width: 900
     height: 506
     isCached: true
+
+related:
+  - title: "AI Can Drive the Next Generation of Healthcare Innovation"
+    excerpt: "The index uses a quantitative model designed to identify equity securities in the Nasdaq US Benchmark Index (including growth and value stock) that are small and medium capitalization U.S. healthcare companies. Artificial intelligence (AI) is seen driving ..."
+    publishedDateTime: 2021-03-24T15:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24"
+    ampWebUrl: "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
+  - title: "Putting Disruptive Innovations Into Action Using Artificial Intelligence Throughout Your Business"
+    excerpt: "Robotics and automation in manufacturing would appear ... During an IEEE-Boston/IEEE-HKN (Eta Kappa Nu) Artificial Intelligence Seminar series, Dr. Washington shared tangible AI strategies that have helped Ford Motor Company maintain its legacy for disrupt ..."
+    publishedDateTime: 2021-03-22T22:10:00Z
+    webUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605911778ffe878ecb833916%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D300%26cropY1%3D50%26cropY2%3D350"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Workshop on next generation embodied intelligence this week"
+    excerpt: "Supported by the Engineering and Physical Sciences Research Council (EPSRC) and chaired by Dr Fumiya Iida, Reader in Robotics, the International Workshop on Next Generation Embodied Intelligence seeks to gain further insights into intelligence,"
+    publishedDateTime: 2021-03-22T00:00:00Z
+    webUrl: "https://cambridgenetwork.co.uk/news/workshop-next-generation-embodied-intelligence-week"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 24
+    images:
+      - url: "https://cambridgenetwork.co.uk/sites/default/files/48647677002ef0d42f38boresized.jpg"
+        width: 599
+        height: 292
+        isCached: true
 
 secured: "3ImgAkesBpF9dDkbQQyeQ7jEjC6tSnEx1OtI7X8ZdIh8Pl8w28vMowuzr1T6MUYcJBmAQZ/M99HiJ5EAGsgYIjmugWAij7aOrRp8VlasywC2L8ZGH4Wc+I79/IWqA3CE+M9o9n5ooYuIAVGXsjkQDphSyX2waKdAtvwnJS9Z7oSqkwJkMCSLMU/o5ac8SzCpittOysZswNrBgqaK0CxZMeDgHQF5U5xjrDO9MusC38Og2tOsxa9zL3DRWuo9Vq8GY9KwrLh+r74cLt3V36itCotLDuRu1ezKqx4ZZbMvUnMdBjpsDWQJloc9LEtaZAfuFqZ4c5BhlBjmshGJBkiQ3SS9ZWG/9eLMTO6SM/84zUZhZ/ntBzQ3JiRVfqqq//7bxVAdlWKs8wPSi6A8Yo0NS4LXYUZSdXNXjdUbnEgR3DLvIHJXNPBvEi6oTilDdludhq9ZSEqwGRknmQ6x+4nRBC/rizDVz/CcAwR5x97b/9NHHV4R4K6W+fGhWl7xjC9Q7MufS/iFV7XdIGQJOW3pOw==;3gc7pPffZPvKU14r41tOhQ=="
 ---

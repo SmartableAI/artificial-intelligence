@@ -21,6 +21,34 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market Overview Highlighting Major Drivers, Trends, Growth and Demand Report 2020- 2027"
+    excerpt: "Increasing need to improve food safety standards is a key factor driving growth of the global Artificial Intelligence (AI) in food and beverage market currently. The global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62."
+    publishedDateTime: 2021-03-24T14:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-overview-highlighting-major-drivers-trends-growth-and-demand-report-2020--2027-2021-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Accounting Market Key Major Challenges, Drivers Growth, Opportunities Analysis To 2025"
+    excerpt: "To cater such needs, Shibuya Data Count provides market research reports to various business professionals across different industry verticals, such as healthcare & pharmaceutical, IT & telecom, chemicals and advanced materials, consumer goods & food ..."
+    publishedDateTime: 2021-03-22T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-key-major-challenges-drivers-growth-opportunities-analysis-to-2025-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Enterprise Artificial Intelligence Market Research Report 2021 Market Insights, Overview, Analysis And Forecast 2021"
     excerpt: "Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and"
     publishedDateTime: 2021-03-22T19:45:00Z

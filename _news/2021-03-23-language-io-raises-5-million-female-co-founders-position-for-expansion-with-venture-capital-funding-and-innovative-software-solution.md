@@ -51,20 +51,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Stroke detection startup Viz.ai raises $71M"
-    excerpt: "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke."
-    publishedDateTime: 2021-03-20T00:07:00Z
-    webUrl: "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
-        width: 725
-        height: 482
-        isCached: true
 
 secured: "ZqfigTZRbVRRgGpwJDIf/Krkbe1uGe5+6+ED5FxjoacbUCGsNL08WWYXQ33M8EG+KnxThk01ol0YmKFQpM6rzr87vZ7tlDn7AbO1fCQtQ8NObRhtigeA0uwBzU/TrZqOA7D/2aPK1FCI3itq37hYowv2VAFQ1carkAAIkeMIcE8GU4s6Lbhj16MQn+U1BZ29FNUjSVPgS6AjP0Uli35NI19HmMNCsYs0ET6yjTkVrQ53NgE3qRJW0YRHyXkRAfjLEnkr8tXj3x7SWFnOJrAQFa0TzV1xkZBg1wlaXJiyrfxPHG/k61LJXqiWq2nBtOXjLjRy+EZgeK7hEzGQ4rB2oo6694jrrTE/qsn1CN3hKt8=;lAd7KHZ7WIG//6D/weGotg=="
 ---

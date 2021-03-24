@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-24-deloitte-to-help-organizations-address-ai-ethics.md",
+      "title": "Deloitte to Help Organizations Address AI Ethics",
+      "excerpt": "The thorny issue of monitoring, updating, and validating an organization's artificial intelligence (AI) model in the face of growing concern about unethical AI use is the basis for a new team-up between the Deloitte AI Institute and Chatterbox Labs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthleadersmedia.com/technology/deloitte-help-organizations-address-ai-ethics",
+      "originalUrl": "https://www.healthleadersmedia.com/technology/deloitte-help-organizations-address-ai-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthleadersmedia.com/sites/hlmp/files/AI-B-2732x1200-030221-shutterstock_1118032799_0.jpg",
+          "width": 2732,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthLeaders Media",
+        "domain": "healthleadersmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-orange-forms-ai-data-ethics-council.md",
       "title": "Orange forms AI, data ethics council",
       "excerpt": "Orange continued efforts around defining ethical principles for use of data and AI, creating an advisory body comprised of 11 independent field experts to oversee its implementation of related technologies.",
@@ -1465,59 +1508,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-uws-os-keyes-takes-on-techs-ethical-challenges-from-gender-bias-in-ai-to-facial-recognition.md",
-      "title": "UW’s Os Keyes takes on tech’s ethical challenges, from gender bias in AI to facial recognition",
-      "excerpt": "A PhD candidate with the University of Washington's Department of Human Centered Design & Engineering, Os Keyes researches the ethical and political impact that new technologies have on the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/os-keyes/",
-      "originalUrl": "https://www.geekwire.com/2021/os-keyes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/Edwards_STEMos_HERO-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/os-keyes/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/os-keyes/amp/",
-      "publishedDateTime": "2021-03-07T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

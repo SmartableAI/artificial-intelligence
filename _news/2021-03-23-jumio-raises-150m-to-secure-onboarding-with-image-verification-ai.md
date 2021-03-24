@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Feedzai raises $200M at a $1B+ valuation for AI tools to fight financial fraud"
-    excerpt: "On the heels of Jumio announcing a $150 million injection this week to continue building out its AI-based ID verification and anti-money laundering platform, another startup in the space is levelling up."
-    publishedDateTime: 2021-03-24T09:47:00Z
-    webUrl: "https://techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/"
-    ampWebUrl: "https://techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024"
-        width: 1024
-        height: 648
-        isCached: true
   - title: "Onboarding Shouldn't Suck: Socrates.ai and William Tincup to Rethink the Process in Upcoming Webinar"
     excerpt: "Since launching in 2017, Socrates.ai has raised more than $26 million in funding from leading venture capital firms and been named a Gartner \"Cool\" Vendor, Top 10 Virtual Assistant Solution Providers by CIO Magazine and Hot Startup by Business Insider ..."
     publishedDateTime: 2021-03-23T11:00:00Z

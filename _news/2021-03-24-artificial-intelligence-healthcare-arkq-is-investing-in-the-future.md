@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-ar
 ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp"
 type: article
-quality: 84
-heat: 94
+quality: 86
+heat: 96
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 related:
   - title: "AI in Healthcare: Where Technology Meets Humanity"

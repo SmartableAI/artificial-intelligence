@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/tableau-introduces-a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Alluxio Advances Analytics and AI with NVIDIA"
+    excerpt: "GPU-based processing drives higher data access throughput than a CPU-based cluster. With the separation of processing clusters for analytics and AI from data storage systems, accelerating data access allows for cost savings on agile business intelligence ..."
+    publishedDateTime: 2021-03-24T17:51:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Alluxio-Advances-Analytics-and-AI-with-NVIDIA-145945.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 39
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Moody’s Analytics Wins Award for Best Use of AI in Banking or FinTech"
     excerpt: "Moody’s Analytics has won Best Use of AI in Banking or FinTech at the 2021 Global Achievement Awards for AI. This award recognizes the Credit Sentiment Score™ solution, an AI-powered tool to strengthe"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/machine-translation-startup-langu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/machine-translation-startup-language-i-o-raises-5m/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://slator.com/assets/2020/10/Language-IO-2020-600x400-1.png"
         width: 600
         height: 400
-        isCached: true
-  - title: "Stroke detection startup Viz.ai raises $71M"
-    excerpt: "Viz.AI, a San Francisco-based care coordination startup, raised $71 million in series C funding. The company plans to use the funds to build out its platform beyond coordinating care for stroke."
-    publishedDateTime: 2021-03-20T00:07:00Z
-    webUrl: "https://medcitynews.com/2021/03/stroke-detection-startup-viz-ai-raises-71m/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 37
-    images:
-      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
-        width: 725
-        height: 482
         isCached: true
   - title: "LANGUAGE I/O RAISES $5 MILLION; Female Co-Founders Position for Expansion with Venture Capital Funding and Innovative Software Solution"
     excerpt: "Language I/O, powering meaningful conversations between global organizations and their customers, today announced it has raised"

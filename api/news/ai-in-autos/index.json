@@ -235,59 +235,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-23-putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business.md",
-      "title": "Putting Disruptive Innovations Into Action Using Artificial Intelligence Throughout Your Business",
-      "excerpt": "Robotics and automation in manufacturing would appear ... During an IEEE-Boston/IEEE-HKN (Eta Kappa Nu) Artificial Intelligence Seminar series, Dr. Washington shared tangible AI strategies that have helped Ford Motor Company maintain its legacy for disrupt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605911778ffe878ecb833916%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D300%26cropY1%3D50%26cropY2%3D350",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/",
-      "publishedDateTime": "2021-03-22T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-03-22-baidus-homecoming-raises-questions-over-the-search-giants-plans-for-electric-vehicles.md",
       "title": "Baidu’s Homecoming Raises Questions Over The Search Giant’s Plans For Electric Vehicles",
       "excerpt": "Baidu aims to conquer smart transport, but search engines aren’t automobiles, and China’s EV sector is already fiercely competitive.",
@@ -496,7 +443,7 @@
       "originalUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1431,6 +1378,58 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars.md",
+      "title": "Zoox CEO on Deal With Amazon to Make Self-Driving, Electric Cars",
+      "excerpt": "Aicha Evans, CEO of Zoox Inc, discusses working under Amazon.com Inc. and the progress of their self-driving, electric shuttles. She also shares her experience working in a predominately white male industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i98wzZk3KFYk/v5/-1x-1.jpg",
+          "width": 2342,
+          "height": 1318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

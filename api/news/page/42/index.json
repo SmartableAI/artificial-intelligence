@@ -2,6 +2,134 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-02-20-artificial-intelligence-worshipping-church-officially-shuts-down.md",
+      "title": "Artificial Intelligence-Worshipping Church Officially Shuts Down",
+      "excerpt": "Remember that artificial intelligence-worshipping church ... from his legal battles over stolen trade secrets within the self-driving car industry. Even though the Way of the Future is gone ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
+      "originalUrl": "https://futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/02/wotf-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/artificial-intelligence-worshipping-church-officially-shuts-down/amp",
+      "publishedDateTime": "2021-02-19T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology.md",
+      "title": "AI in the OR: One company is closing the gaps in surgery using technology",
+      "excerpt": "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/19/374589df-8512-4af3-aeeb-d9900f36d1a0/thumbnail/1200x675/22323cb58db91a75bc98eef8d6f6b044/20210218-exploresurgical-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "publishedDateTime": "2021-02-19T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-a-robotics-revolution-unpacking-the-actively-managed-arkq.md",
+      "title": "A Robotics Revolution? Unpacking the Actively Managed ‘ARKQ’",
+      "excerpt": "Robotics is one of the more rapidly evolving various disruptive technology themes. Investors can join the party with the ARK Autonomous Technology & Robotics ETF (CBOE: ARKQ). The actively managed ARKQ invests in companies that stand to benefit from the increased adoption and utilization of robotics and artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19",
+      "originalUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp",
+      "publishedDateTime": "2021-02-19T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-ibm-and-palantir-partner-to-help-businesses-deploy-ai-applications-and-unlock-valuable-data-across-hybrid-cloud-environments.md",
       "title": "IBM and Palantir Partner to Help Businesses Deploy AI Applications and Unlock Valuable Data Across Hybrid Cloud Environments",
       "excerpt": "IBM and Palantir Technologies have announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business, with Palantir's next-generation operations platform for building applications.",
@@ -1047,136 +1175,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-the-power-of-artificial-intelligence-ai.md",
-      "title": "The Power of Artificial Intelligence (AI)",
-      "excerpt": "By Aaron Gette, CIO, The Bay Club Company - If you’re an avid fan of HBO's Silicon Valley, as I am, you may have recently downloaded the iOS app",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
-      "originalUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/newsimages/special/7ZAitg5M.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
-      "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "publishedDateTime": "2021-02-18T22:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-robot-proof-higher-education-in-the-age-of-artificial-intelligence.md",
-      "title": "Robot-Proof: Higher Education in the Age of Artificial Intelligence",
-      "excerpt": "Robot-Proof: Higher Education in the Age of Artificial Intelligence By Joseph E. Aoun, President, Northeastern University - As advanced machines and computers become more and more proficient at picking investments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/cxoinsight/robotproof-higher-education-in-the-age-of-artificial-intelligence-nid-26425-cid-75.html",
-      "originalUrl": "https://www.cioreview.com/cxoinsight/robotproof-higher-education-in-the-age-of-artificial-intelligence-nid-26425-cid-75.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/newsimages/special/HnPaOy2U.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

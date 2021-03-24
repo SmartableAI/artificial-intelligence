@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Need a Ride in Arlington? You Might Be Picked Up by a Self-Driving Vehicle"
+    excerpt: "A fleet of new self-driving vehicles are now making their way around the streets of Arlington. The Arlington Rapid Pilot Program has integrated on-demand autonomous vehicle service into a transportation service. Download our NBC DFW mobile app for Apple or ..."
+    publishedDateTime: 2021-03-24T00:38:00Z
+    webUrl: "https://www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/"
+    ampWebUrl: "https://www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/?amp"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/?amp"
+    type: article
+    provider:
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 42
+    images:
+      - url: "https://i2.wp.com/media.nbcdfw.com/2021/03/FIFO-SVR52_8AM-12PM__03-23-2021_2021-03-23-12-26-01_08-32-1305.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Top 8 Online Resources To Get Started With Self-Driving Vehicles In 2021"
     excerpt: "Waymo, Tesla, Faraday Future etc. have made huge inroads into self-driving tech and have been riding the AI wave to take us into the future. The mobility revolution has created new jobs, such as Industrial Engineer, Perception Software Engineers ..."
     publishedDateTime: 2021-03-23T09:30:00Z
@@ -54,6 +70,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/AIM-Illustrations.jpg"
         width: 2240
         height: 1260
+        isCached: true
+  - title: "City of Arlington launches on-demand self-driving shuttle service with RAPID"
+    excerpt: "The city of Arlington, Texas, and Via are now offering Via Arlington customers a choice to be picked up in a self-driving vehicle for trips around downtown and the University of Texas at Arlington (UTA). The Arlington RAPID pilot program, available to ..."
+    publishedDateTime: 2021-03-24T15:51:00Z
+    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21215713/via-transportation-city-of-arlington-launches-ondemand-selfdriving-shuttle-service-with-rapid"
+    type: article
+    provider:
+      name: Mass Transit
+      domain: masstransitmag.com
+    quality: 21
+    images:
+      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/03/16x9/via.605b5fc47a408.png?auto=format&fit=max&w=1200"
+        width: 1030
+        height: 580
         isCached: true
 
 secured: "cdrvl6MmYiUjWM+kEShknvDpoC/XZJdXSuECKL5XqgA44/4ACpIcIgyvR9zMVwa9u8er7mI4N1deSs8Ga7Xhm3Ov0nnwokml5AfsQnmb72g/qMlacorwIO1T+X2ek1L07+yfuWmlmepCyxXJbgH2YlWAKcgGudQUNIQsFMZhIEh4mrj2GqKebxduhjqN1d4LC/aID48IOY1tzeZ9bMNDdypsPcozmCGyK9nGN3YmF5IO5JbT4w+kECsRY/p0aQU9kochtGlM43PKcRgyzT4wZdN6F6pGbX2Moig4HIRCqY/UrkcQBaO1+LioXnemppLHLN1ataT5N5RZ+MGq7BE97D41b476Itfe8LkpDkJGOy8=;3Jgm9FA+ErmKS3FBY9KzQA=="

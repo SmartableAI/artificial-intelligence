@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-22-new-google-union-condemns-investigation-of-ai-ethics-researcher.md",
+      "title": "New Google union condemns investigation of AI ethics researcher",
+      "excerpt": "A union of workers at Google and its parent company Alphabet is condemning Google's investigation of an AI ethics researcher.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
+      "originalUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.foxbusiness.com/BrightCove/854081161001/202012/226/854081161001_6218250239001_6218243109001-vs.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-union-investigation-ai-ethics-researcher.amp",
+      "publishedDateTime": "2021-01-21T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-google-union-slams-companys-treatment-of-ai-ethics-researchers.md",
       "title": "Google union slams company’s treatment of AI ethics researchers",
       "excerpt": "The Alphabet Workers Union said the actions against Margaret Mitchell and Timnit Gebru \"call into question Google’s commitment to ethics.\"",
