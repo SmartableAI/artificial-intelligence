@@ -1,18 +1,20 @@
 ---
 category: news
 title: "How blockchain and machine learning can deliver the promise of omnichannel marketing"
-excerpt: "Machine learning and blockchain can address three frictions of omnichannel marketing: data, marketing attribution, and consumer data protection."
-publishedDateTime: 2021-03-24T04:03:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/ama-hba032321.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-03/ama-hba032321.php"
+excerpt: "Researchers from University of Minnesota, New York University, University of Pennsylvania, BI Norwegian Business School, University of Michigan, National Bureau of Economic Research, and University of North Carolina published a new paper in the Journal of Marketing that examines how advances in machine learning (ML) and blockchain can address inherent frictions in omnichannel marketing and raises many questions for practice and research."
+publishedDateTime: 2021-03-24T07:17:00Z
+originalUrl: "https://phys.org/news/2021-03-blockchain-machine-omnichannel.html"
+webUrl: "https://phys.org/news/2021-03-blockchain-machine-omnichannel.html"
+ampWebUrl: "https://phys.org/news/2021-03-blockchain-machine-omnichannel.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-blockchain-machine-omnichannel.amp"
 type: article
-quality: 64
-heat: 64
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
@@ -20,11 +22,11 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/2-blockchain.jpg"
+    width: 1920
+    height: 1439
     isCached: true
 
-secured: "qyeOUs//wVtEC5895XUb0fiz6QhIRoxrWn+EvXgRf5GLT4XRDMqTSEJYKSbs+meVVsl3KmUopYcYXAvJD+I3bFnqCvanWRkIzdd9gj7AcuPU3bQ/YuHxxwpMw618ldu8YplwGfqO8OOZunl0rP1GYew7u1GXqymg9MxEIyg62F1lZu6YpvNVh4ZDP3SeVQlEbUe5VDQ/IyefEBKkYPZPH2uSy+JQNg46QO/lT2CAy9Sjx39ZSg2UD5JLeWmvKj8IZJ88zJ8Bf3Zqsg880p2mcvh2Men83F6UBi5jGcy0F1dpXuesgapPSi/UVQ9sVDAONmk70X+MhlApKmwt+tB0HQT/Cof4JfSlaGBpVgiRitw=;Qci47ubFVJ2kKbxI4f7hdw=="
+secured: "L14CE4G6+3Sp29Jn4mMkEOSmWxfd0ROM06a0PCzS7MK7BnDGSdBguE4eu1RBtuS8xv1YQ7qmzjHb6eMoTaW9oNdy96Jj/L/QmQ6484/Ab8i/zup0PxI3Qpl5EUmTx5JqkhBGofWjwbei2XlPbzvtk92slS0mV1DjCXQ/AUNBEAEHlAFOiesCf9Mvu5GB8wSz0jSAaw9OJqqivOToC+uJwauDlyaRI9qr9vPvYIaCCTKpj8NwBa1phiSS50EIob8EG4EtYAj1HO2+pAOBYvKeBYpTUDfl98B/5uq3+8s7TYvLblFvkM4ixBepBi6gyuTN64FhDNjDhNFVSt+KPT8dyTNterlB/vluYwNk+Mt/rOQ=;Lz1P6bloaoAqtNsFOjNK3g=="
 ---
 

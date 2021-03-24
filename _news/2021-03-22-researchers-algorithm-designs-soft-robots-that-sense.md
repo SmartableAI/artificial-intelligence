@@ -77,6 +77,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Deep-learning algorithm designs soft robots with sensors"
+    excerpt: "Creating soft robots has been a long-running challenge in robotics. Their rigid counterparts have a built-in advantage: a limited range of motion. Rigid robots' finite array of joints and limbs usually makes for manageable calculations by the algorithms that control mapping and motion planning."
+    publishedDateTime: 2021-03-24T06:20:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2021/03/24/deep-learning-algorithm-designs-soft-robots-sensors.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/03/24/deep-learning-algorithm-designs-soft-robots-sensors.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/03/24/deep-learning-algorithm-designs-soft-robots-sensors.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 44
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2018/february/human-robot-robotics-ai-artificial-intelligence-machine-learning-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
 
 secured: "y/sB/6p1/cu33QLrnkD+BGi0zSIqJJeIN5hw13gEQwWNgt0Boq3by0Zvo/6yHq6hwv7ZnHabK2mH6pGIcXj0zgMetwQQiiuqhm9ojrZdhOfE5slKrxWHld27iVJvmduoBaElcsdF7Y9LrkAzu4tuEbmFpqfNiFXbDk2NmHBRTzrl4OgZIs3WZ3YcjmXpOHicyHi5+DGS2synOmgRtgpCTWvwqzZ+kmPzobL3zd4WEBqjj/+r31lUCkmBRaZa/yzBj8tiSzuPEVGt+AhL1/T1MV4oS3nbMOtar+JvLiIMoIuQB/hk0+RiaEeEnjvfFsFgIwCWEcs4m9i37Li5kQ3dLMFKBJEIDLmoYTJ6cRwfBZA=;RDrh/quP1StUMu1jEbqMEw=="
 ---

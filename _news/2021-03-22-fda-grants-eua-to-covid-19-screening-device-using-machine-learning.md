@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial intelligence used to identify unique COVID-19 patterns in lungs"
-    excerpt: "The artificial neural network developed by Lawson Health Research Institute can detect COVID-19 patterns in lung scans that are not visible to the human eye."
-    publishedDateTime: 2021-03-19T14:52:00Z
-    webUrl: "https://blackburnnews.com/london/london-news/2021/03/19/artificial-intelligence-used-identify-unique-covid-19-patterns-lungs/"
-    type: article
-    provider:
-      name: Blackburn News
-      domain: blackburnnews.com
-    quality: 37
-    images:
-      - url: "https://blackburnnews.com/wp-content/uploads/2021/03/canstockphoto88667566-400x250.jpg"
-        width: 400
-        height: 250
-        isCached: true
 
 secured: "7lQYHfAPdWbcxrWufHkF8kgfDXwvQKetDrkjMX0L4FQitn08fUdkLfX9AtCqe5bTXiKbRTleOTf3wE0hCjlpqu6JnKC8w8If8zE1SSMTfPRT72f8ZSXrsIUb2B3kPPqADO/At+DrmEC/oIDFUCvu8HD8xNZnMrgt9Ya9M5mcF2myue/m7bbBFHrzHZ9udc87/QuRdwOPC/bMOBMq+nRxO9+xRwQGYmOCy4cjMSeOl32SiNgiNqi/TGAU4QaFZSTlPYAcPYzy1vobMA0Jf1RPBzPkydE47C7resHSrkUmrcnka0+NROFuBtbJ2tUMW4jW21ZCSEqyTtlXEJWCmuld7qFCJ5QEfmtQzO5CD6dvNgs=;SFHwwH/+VAC8ATGcRFFXbg=="
 ---

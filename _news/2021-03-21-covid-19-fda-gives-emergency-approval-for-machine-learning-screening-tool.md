@@ -87,6 +87,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Machine Learning for COVID Diagnosis Falls Short"
+    excerpt: "In the earliest days of the pandemic, machine learning showed exceptional promise for COVID-19 diagnosis. Reliably, early machine learning models outperformed doctors in recognizing the telltale COVID-induced pneumonia on CT scans from hospitalized patients."
+    publishedDateTime: 2021-03-22T21:42:00Z
+    webUrl: "https://www.datanami.com/2021/03/22/machine-learning-for-covid-diagnosis-falls-short/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/coronavirus_shutterstock_2_Rost9.jpg"
+        width: 821
+        height: 576
+        isCached: true
   - title: "Machine learning tool can predict severe illness, death from COVID-19 in patients"
     excerpt: "Researchers developed a machine learning calculator that provides predictions of whether patients hospitalized with COVID-19 will progress to severe illness or death, according to a March 2 study published in Annals of Internal Medicine."
     publishedDateTime: 2021-03-19T18:26:00Z

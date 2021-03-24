@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Boom in innovation for overcoming disabilities: UN"
+    excerpt: "More than one billion people worldwide currently need technology-based assistance to overcome a disability a figure expected to double in the next decade as populations age, UN data shows. Meanwhile,"
+    publishedDateTime: 2021-03-24T05:56:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/boom-innovation-overcoming-disabilities-un-289759"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/boom-innovation-overcoming-disabilities-un-289759?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/boom-innovation-overcoming-disabilities-un-289759?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 44
+    images:
+      - url: "https://img.astroawani.com/2021-03/71616562473_PwD.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "Boom in innovation for overcoming disabilities —UN"
     excerpt: "Innovations aimed at helping people overcome mobility, sight and other disabilities have exploded in recent years, and are becoming ever more integrated in regular consumer goods, the United Nations said Tuesday."
     publishedDateTime: 2021-03-23T11:46:00Z

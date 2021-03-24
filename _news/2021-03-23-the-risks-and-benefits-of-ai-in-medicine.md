@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Artificial intelligence revolution offers benefits and challenges"
+    excerpt: "University of Adelaide researchers aim to play a major role in the development of AI which is poised to reshape the global economy."
+    publishedDateTime: 2021-03-24T07:08:00Z
+    webUrl: "https://newsmaker.com.au/news/382632/artificial-intelligence-revolution-offers-benefits-and-challenges"
+    type: article
+    provider:
+      name: News Maker
+      domain: newsmaker.com.au
+    quality: 17
 
 secured: "JS+nlGVVKjoW/5HZTbP+Vpp8ybuAdE/dHTZseSjHOesq71yfONFvYP/DoqlvU+NDXV4ajyHhMJLgGNtQHpak1DgMess5ha4prWSe5Q+MQaLDcUe27DYVT+BrDquJ0T15VaZ5czsY/+r444Sx1xXfbV/bp+qsApzkSEWyQDFBI9fuVSf7ARG6MVuAxB/UobvHavveRAsp4hpUSHR4/WFan0agbnuqPl+eg7DZkZ1lu+0PC+2TSdjonxBKv5AT8x5ljU1gINcT7ZUW3j0uXcjeenaRWeE9PUUpkM7fVzdEGZuRZVdjfhDRj9peDiAeuwkbKF5jyqv2LO7kw0JL83yV2wxrSfl9VJAZEPRgyhXiWTvhJAP3y2MSgRW5ydgJLwVBqkAelTkBwvx/m9TJ2OwC6TC5qiHnmbIVrVqXu8brhPZTyUBtZHDJFbscni9v7UYalYWLCMcLzHWJO8ZiaziLbKt5t00M1rNw+PjACWBHHxKo0gU5BqqoZRHHv5K2gEkdcqhW6G4A/e61sMaK5s6RPg==;cIIpeQBD+Lh1tZQ/dm78TQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-24-fintech-startup-qraft-technologies-raises-9-mn-from-smilegate-investments.md",
+      "title": "Fintech Startup Qraft Technologies Raises $9 Mn From Smilegate Investments",
+      "excerpt": "Seoul-based fintech company Qraft Technologies, which uses artificial intelligence (AI) to create and manage exchange-traded funds (ETFs), announced on Tuesday to have closed a funding round worth $9 million. Veteran South Korea-based venture capital (VC ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/367792",
+      "originalUrl": "https://www.entrepreneur.com/article/367792",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616568382-CEO-Marcus-Kim-1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367792",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367792",
+      "publishedDateTime": "2021-03-23T23:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning.md",
       "title": "Amazon AWS, Hugging Face team up to spread open-source deep learning",
       "excerpt": "Amazon's vice president of machine learning, in the same interview. The partnership consists of a few parts. Hugging Face has built two new services, AutoNLP and an Accelerated Inference API, have been built upon Amazon's SageMaker suite for AI.",
@@ -1315,58 +1367,6 @@
         "name": "TechNode",
         "domain": "technode.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12.md",
-      "title": "Ma il Fintech in Italia è vero boom? Rappresenta lo 0,25% dei volumi del credito complessivo alle imprese, ma sulle Pmi sale all’1,2%",
-      "excerpt": "Ma è vero boom del Fintech in Italia o dobbiamo recuperare un gap rispetto a realtà più avanzate e rimboccarci le maniche per migliorare la performance e aumentare la quota di mercato? La più grande b",
-      "sourceUrl": null,
-      "webUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/",
-      "originalUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.repstatic.it/cless-mobile/main/amp/2016-v1/img/adv/businessinsider/ad_placeholder_300x250.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/amp/",
-      "cdnAmpWebUrl": "https://it-businessinsider-com.cdn.ampproject.org/c/s/it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/amp/",
-      "publishedDateTime": "2021-03-04T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider Italia",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

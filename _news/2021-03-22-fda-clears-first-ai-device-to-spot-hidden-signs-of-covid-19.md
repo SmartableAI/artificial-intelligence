@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-device-135131666.html"
 type: article
 quality: 87
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://www.medtechdive.com/user_media/cache/3f/5e/3f5eb9c5e6bab8d3733d2aa9187e61a8.jpg"
         width: 770
         height: 364
-        isCached: true
-  - title: "Artificial intelligence used to identify unique COVID-19 patterns in lungs"
-    excerpt: "The artificial neural network developed by Lawson Health Research Institute can detect COVID-19 patterns in lung scans that are not visible to the human eye."
-    publishedDateTime: 2021-03-19T14:52:00Z
-    webUrl: "https://blackburnnews.com/london/london-news/2021/03/19/artificial-intelligence-used-identify-unique-covid-19-patterns-lungs/"
-    type: article
-    provider:
-      name: Blackburn News
-      domain: blackburnnews.com
-    quality: 37
-    images:
-      - url: "https://blackburnnews.com/wp-content/uploads/2021/03/canstockphoto88667566-400x250.jpg"
-        width: 400
-        height: 250
         isCached: true
 
 secured: "er2Wzqr/OJPf/U0iqu5swymIrVuxqF4BGv5MGnchOhUhTXG4SmbdGWbXmi71ZBeHlrLY6DOYRPcHxZ5euOMeHl2RuGV+tPN++iMfFdznP1ct+QUU3qb4qaYlAjQUxmTk9YOoTiQYicBAjCGHbLQVPEY/sUptYQLS38Wafue4YQEEAmhd/daJQUuOSL5MjKKFOPPhJqVhpB6G4onGLYjJysGJE/LAIB9xoiUMcBQG/WY2puDWyKylehyrQgzvlsi5gO54oNmFxrMSZ8leUVCMZa6Ekwj8vx0JBiEqU5GCYJj/z5XBHiW9Ki8mxnx92FWtvX7FmZypoPSwG52vwOGiUfLfavrhYLWxsGBzcV2MA1I=;GULVRNYWXt6Ir4oCLjyhiw=="

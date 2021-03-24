@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-mill
 cdnAmpWebUrl: "https://www-ithaca-com.cdn.ampproject.org/c/s/www.ithaca.com/news/ithaca/cornell-ai-startup-secures-1-million-in-seed-funding/article_5b14c7f6-88cf-11eb-b126-b379abe42b6f.amp.html"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 670
     height: 377
     isCached: true
-
-related:
-  - title: "Where AI and BI meet: Israeli startup Noogata secures Seed funding"
-    excerpt: "The Team8 portfolio company helps enterprises streamline business intelligence with a no-code, no data-science team AI"
-    publishedDateTime: 2021-03-19T14:20:00Z
-    webUrl: "https://www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/"
-    ampWebUrl: "https://www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/where-ai-and-bi-meet-israeli-startup-noogata-secures-seed-funding/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
-    images:
-      - url: "https://www.geektime.com/content/images/2021/03/Noogata-Leadership-Team_credit_Doron-Lezter-1615813398-1536x1156.jpg"
-        width: 1536
-        height: 1156
-        isCached: true
 
 secured: "Xk19RcCQvjkLCmjCdleHTyihrXjam9V7/ENuYAVNibE3gQ7FQsD9yn2QAFKxcOWoMv7A03qpFCR1qCtkG+bhvMkxmCDmptQOdMugoVfYCpgzniXfoc3dmSxgajS6pxVV7/uxSZgKAnHDwXGbhvSAf+wdiliIZ7y8WAkgkLGfqJ5/mgelxQpUWRurMF/cizHzBl+PFMJjJFvsxSW++SVGNDG2kbO5iuoZ6mSqRuOhMC5zafIj4xcGhR5stWhbO/5Ol+qTqAIKtE6a4f34iulBcs+4/eGdq0TcdZeSnko8Rww5/jsNcgxcm9yz+VXTmfrmFvZKhD8S9xGEYg3voxSEm87ZSRPYQKh01yp+gHc6fDYPQ8YuGteJiEYvDTuyeWpfzMOxfkA0zPPhjctzwYStiTaOTyS/YP7vTKzzTP0ReMjduvGlG+ppaEfYCT++b7ZwR+bVAjZb9JOPkb7sGB1bPNB9q3iilvyMZ/v3Y3TBSmJDeP6tAHgZKdANoAlR0UXsHiSu5ck2p7j2Zj/oxXlnTA==;gFJOBwMzrKQ5o6fq1tDCFQ=="
 ---

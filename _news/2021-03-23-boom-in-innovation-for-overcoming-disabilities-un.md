@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gmanetwork.com/news/scitech/technology/780898/boom-in-in
 cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/780898/boom-in-innovation-for-overcoming-disabilities-un/story/?amp"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Boom in innovation for overcoming disabilities: UN"
+    excerpt: "More than one billion people worldwide currently need technology-based assistance to overcome a disability a figure expected to double in the next decade as populations age, UN data shows. Meanwhile,"
+    publishedDateTime: 2021-03-24T05:56:00Z
+    webUrl: "https://www.astroawani.com/berita-dunia/boom-innovation-overcoming-disabilities-un-289759"
+    ampWebUrl: "https://www.astroawani.com/berita-dunia/boom-innovation-overcoming-disabilities-un-289759?amp=1"
+    cdnAmpWebUrl: "https://www-astroawani-com.cdn.ampproject.org/c/s/www.astroawani.com/berita-dunia/boom-innovation-overcoming-disabilities-un-289759?amp=1"
+    type: article
+    provider:
+      name: Astro Awani
+      domain: astroawani.com
+    quality: 44
+    images:
+      - url: "https://img.astroawani.com/2021-03/71616562473_PwD.jpg"
+        width: 590
+        height: 400
+        isCached: true
   - title: "UN: Boom in innovation for overcoming disabilities"
     excerpt: "Innovations aimed at helping people overcome mobility, sight and other disabilities have exploded in recent years, and are becoming ever more integrated in regular consumer goods, the United Nations said on March 23."
     publishedDateTime: 2021-03-24T00:33:00Z
