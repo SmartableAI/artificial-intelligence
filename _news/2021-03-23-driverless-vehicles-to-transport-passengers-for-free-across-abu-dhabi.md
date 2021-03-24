@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Forget Tesla! This 1 TSX Stock Is a Better Driverless Auto Play"
-    excerpt: "The future is of automotive is more than just clean and green; it's also driverless. And Tesla isn’t the only promising company in this arena."
-    publishedDateTime: 2021-03-19T12:08:00Z
-    webUrl: "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/"
-    ampWebUrl: "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/amp/"
-    cdnAmpWebUrl: "https://www-fool-ca.cdn.ampproject.org/c/s/www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/amp/"
-    type: article
-    provider:
-      name: The Motley Fool Canada
-      domain: fool.ca
-    quality: 74
-    images:
-      - url: "https://yw553ftvhw1iqegz29fycoyw-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Self-Driving-Cars.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "The future of driverless cars is now"
     excerpt: "Like objects in your side-view mirror, driverless cars or autonomous vehicles (AVs ... consumers across the age spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among male respondents and ..."
     publishedDateTime: 2021-03-20T14:00:00Z

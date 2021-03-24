@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/google-news-initiative/help
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Build Brand Authenticity With Artificial Intelligence"
-    excerpt: "The mere mention of AI entering marketing departments triggers fears of being boxed in by rigid analytics or automated out of a job entirely."
-    publishedDateTime: 2021-03-19T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/19/how-to-build-brand-authenticity-with-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/19/how-to-build-brand-authenticity-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/19/how-to-build-brand-authenticity-with-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6053854b9ac17e52c7d1b586%2F0x0.jpg"
-        width: 866
-        height: 577
-        isCached: true
   - title: "How NVIDIA And VMware Aim To Make Enterprise AI Easier With Joint Solutions"
     excerpt: "Companies need to spend more time creating new employee workflows, products and customer experiences to succeed in a highly competitive environment. The NVIDIA VMware collaboration supports this."
     publishedDateTime: 2021-03-23T11:00:00Z

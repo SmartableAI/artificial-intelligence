@@ -7,8 +7,8 @@ originalUrl: "https://www.chemengonline.com/repsol-and-microsoft-renew-partnersh
 webUrl: "https://www.chemengonline.com/repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions/"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: The Magazine
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "13 startups selected to join Microsoft AI for Social Impact programme"
-    excerpt: "Microsoft has announced that it will work with 13 startups to develop artificial intelligence solutions under its AI for Social Impact scheme"
-    publishedDateTime: 2021-03-19T11:21:00Z
-    webUrl: "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 54
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/03/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.jpeg"
-        width: 1013
-        height: 675
-        isCached: true
   - title: "Voyager Labs Partners with Microsoft to Provide AI SaaS Investigation Platforms to Empower Public Safety"
     excerpt: "Voyager Labs, a world leader in AI-based investigation solutions, is proud to announce it has partnered with Microsoft to provide"
     publishedDateTime: 2021-03-22T21:30:00Z
@@ -53,15 +39,15 @@ related:
         width: 704
         height: 369
         isCached: true
-  - title: "Microsoft UK selects 13 start-ups for 'AI for Social Impact 2021' programme"
-    excerpt: "Microsoft has selected 13 UK start-ups to join the company's 'AI for Social Impact 2021' programme. This 4-month programme, managed in partnership with the Social Tech Trust, will offer support on business development;"
-    publishedDateTime: 2021-03-19T11:44:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-uk-selects-13-start-ups-for-ai-for-social-impact-2021-programme--1376583"
+  - title: "Egyptian govt signs MoU with Thales to develop AI-powered applications"
+    excerpt: "The Egyptian ICT ministry has signed a memorandum of understanding (MoU) with Thales for cooperation on developing artificial intelligence (AI) applications in different areas, and on building capacity and promoting innovation and research in AI."
+    publishedDateTime: 2021-03-22T09:17:00Z
+    webUrl: "https://www.telecompaper.com/news/egyptian-govt-signs-mou-with-thales-to-develop-ai-powered-applications--1376635"
     type: article
     provider:
       name: Telecompaper
       domain: telecompaper.com
-    quality: 32
+    quality: 19
 
 secured: "EVcm8ANXom3qsf1z1ZeGOBIXxfRY7kdPhM9j/7aeIy8T/e6R9wrzOwj5mDugv5nhbxTwBnutLYQMioFKoNAohz9bBzGi9Pxnt0PadRSBY7S6yhkyjsZ1MORZv+L1off0bc7/j8F8crn/ZWehCPn//H+UMuDXwSkia0A5X8Z35+xim3BQWfJ2nZGPB80wKAv1JKdqE+njdmxZVIzxxobHFKbFwFK6Urqb5W0cpTcYWGmvniH9vxdqygS/kxUbWkDxwmb+vo4XfCb9VykZtwiK5w6JdiIC3w/QALKVAGlsx1jzE5MuP/SFrEodmvUe0+lSokO2FS3fFvGAnbyvSp6qv1IOvaNZUzU16VR/rR7RD2c=;7DSzEAq6PzPWcYod5kGqpA=="
 ---

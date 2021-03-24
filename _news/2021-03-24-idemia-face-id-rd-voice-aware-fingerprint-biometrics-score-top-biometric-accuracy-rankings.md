@@ -25,33 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "Scotland, UK governments tackle biometrics ethics with new Commissioners, report"
-    excerpt: "Dr. Brian Plastow named the first Biometrics Commissioner for Scotland. UK Biometrics and Forensics Ethics Group releases annual report."
-    publishedDateTime: 2021-03-19T18:17:00Z
-    webUrl: "https://www.biometricupdate.com/202103/scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report"
+  - title: "Pangiam Acquires veriScan, a Biometric Facial Recognition System for Airports and Airlines"
+    excerpt: "Pangiam, a technology-based security and travel services provider, announced today that it has acquired veriScan, an integrated biometric facial recognition system for airports and airlines, from the Metropolitan Washington Airports Authority (\"Airports Authority\")."
+    publishedDateTime: 2021-03-19T14:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/pangiam-acquires-veriscan-a-biometric-facial-recognition-system-for-airports-and-airlines-1030228204"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+  - title: "Pangiam Acquires Facial Recognition System Developed By Airport Authority"
+    excerpt: "Pangiam, a portfolio company of the private equity firm AE Industrial Partners (AEI), last Friday said it acquired an integrated facial recognition system"
+    publishedDateTime: 2021-03-19T19:53:00Z
+    webUrl: "https://www.defensedaily.com/pangiam-acquires-facial-recognition-system-developed-airport-authority/business-financial/"
+    type: article
+    provider:
+      name: Defense Daily Network
+      domain: defensedaily.com
+    quality: 53
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
+      - url: "https://www.defensedaily.com/wp-content/uploads/2018/09/img_0913-1-e1536268148765.jpg"
+        width: 480
+        height: 640
         isCached: true
-  - title: "Free GSMA service widens voice biometrics availability for customer authentication"
-    excerpt: "Telecom industry organization GSMA is developing a multimodal solution to address the challenge of biometric authentication in low tech environments and emerging markets. The solution B4LL (for ‘Biometrics for All’) is intended to enable digital ..."
-    publishedDateTime: 2021-03-22T22:37:00Z
-    webUrl: "https://www.biometricupdate.com/202103/free-gsma-service-widens-voice-biometrics-availability-for-customer-authentication"
+  - title: "MWAA sells facial recognition system to Pangiam"
+    excerpt: "VeriScan, a facial-recognition system developed by the Metropolitan Washington Airports Authority, has been sold to Alexandria-based Pangiam, a security and travel services provider, the company announced Friday."
+    publishedDateTime: 2021-03-19T15:57:00Z
+    webUrl: "https://www.virginiabusiness.com/article/mwaa-sells-facial-recognition-system-to-pangiam/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 33
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/14201518/smartphone-biometric-identity-and-document-verification-640.png"
-        width: 640
-        height: 427
+      - url: "https://www.virginiabusiness.com/wp-content/uploads/2021/03/DownloadIssue_March2021.jpg"
+        width: 288
+        height: 360
         isCached: true
   - title: "Face biometrics implementations expanding for vehicles, retail systems and health passes"
     excerpt: "Facial recognition is prominent among the top news stories in the biometrics industry over the past week. Paperwork for a blockbuster facial recognition IPO has been filed by Megvii, the use of the technology by law enforcement to identify dissidents and refugees is being scrutinized,"
@@ -66,6 +75,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
         width: 800
         height: 390
+        isCached: true
+  - title: "IDEMIA Showcases Industry-Leading Facial Recognition Technology at DHS 2020 Biometric Technology Rally"
+    excerpt: "View original content to download multimedia: http://www.prnewswire.com/news-releases/idemia-showcases-industry-leading-facial-recognition-technology-at-dhs-2020-biometric-technology-rally-301251155.html"
+    publishedDateTime: 2021-03-22T12:05:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-covid-19-pandemic-coronavirus-pandemic-lung-disease-b3a2d297dbb2e58c53f00f0e33bc92ab"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "RaKyS9MqSYLQ+8AA9aFvGE9pZ12sN4RMAmGNJMGk8WfhC/q0GETR+GZRT9p+82LFPuCglz6DRJWe3cFK9oGNbgksTM7scbp82XYAXpLCm1lkv962prlDhurLTGzr08g+Jb1fwBieXSMsSgry4sZwCHEYjyk5OGcqGWKW++cxtAlA58NHfAqHEOTlN4UaUKrmzy8F+wz8iAayzW4aPwwVY0A9sf0zOYNU/DJn0E1DzXEyy3scGAz74O/LVtsmqjrO9yvf43YN3HHot9Jby161v/HMYGGi1w4SHDgYhicRmETsFvC3Wssq2PWVW2osfi0LIVo+rfxitGLhvyBAjcfim+IrRCyOKsKkNFL9Tiu7J4k=;4iqZ+V4jDpGymaG0wdbP6Q=="

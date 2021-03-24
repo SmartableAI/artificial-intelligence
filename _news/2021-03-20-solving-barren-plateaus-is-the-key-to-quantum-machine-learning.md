@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Solving 'barren plateaus' is the key to quantum machine learning"
+    excerpt: "Many machine learning algorithms on quantum computers suffer from the dreaded 'barren plateau' of unsolvability, where they run into dead ends on optimization problems."
+    publishedDateTime: 2021-03-21T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210319125414.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Solving 'barren plateaus' is the key to quantum machine learning"
     excerpt: "Many machine learning algorithms on quantum computers suffer from the dreaded ''barren plateau'' of unsolvability, where they run into dead ends on optimization problems."
     publishedDateTime: 2021-03-19T16:13:00Z

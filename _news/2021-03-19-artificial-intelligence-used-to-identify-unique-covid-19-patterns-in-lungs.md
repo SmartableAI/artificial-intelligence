@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FDA grants EUA to COVID-19 screening device using machine learning"
+    excerpt: "While the product gives institutions another screening tool for those without symptoms, Tiger Tech faces competition with antigen testing scaling up."
+    publishedDateTime: 2021-03-22T14:59:00Z
+    webUrl: "https://www.medtechdive.com/news/fda-grants-eua-to-covid-19-screening-device-using-machine-learning/597086/"
+    type: article
+    provider:
+      name: medtechdive.com
+      domain: medtechdive.com
+    quality: 39
+    images:
+      - url: "https://www.medtechdive.com/user_media/cache/3f/5e/3f5eb9c5e6bab8d3733d2aa9187e61a8.jpg"
+        width: 770
+        height: 364
+        isCached: true
 
 secured: "s4JBXhq3aWp/z8oU5tmAe2zTPbL9Mm1eFgG7ifzq16NEWjJFoAZYZ5j9Pq7WHxPOBx/zZNfSAf4EcQ345yooJ6H9eSlI8dWoNyVwY7s5HO/Xccg4CnR+8Qsf6F2OnS+BJGbcRrYSKRr3pJR0ktHxY5Eh9e3XYzORYF9x18q+TwiqJQKm3a+0wWMhGdIRtXTFpjUcHOdSStFDMcmZFHy+WFqrm2tHAtavk6eJMsJNbXW6jnXhs+nWeQkGp3+8DHxxGrSTjjRnPqt8Jfozt/P6/eDP1omrBZ9hgoYIY3lI4hH+GzLQeBE7EpFfgXYeLe89iSoojFg101NeWA3/enluAU1CHgVWaUx7Nn5PUPSbAzwDADbVKeKQjxp/r648tbDzo+2j9hWsJgBX7vV/W5v0Rx5UJ0XM9oDJ+9jIsoZIs4KrqjpKwOpfLzPWjSWxPT0S1fmVlGhWA35fayrm1GKnF0U3Fz5Tg1NrLQNOJwbF/L9Jy7Bp+MetFpNyqvcO7n3eWd/wSDm46cJ+f9pcBESDeA==;lxPpE4QTnoMzemimyg1bGA=="
 ---

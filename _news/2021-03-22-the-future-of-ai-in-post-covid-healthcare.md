@@ -62,6 +62,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "FDA grants EUA to COVID-19 screening device using machine learning"
+    excerpt: "While the product gives institutions another screening tool for those without symptoms, Tiger Tech faces competition with antigen testing scaling up."
+    publishedDateTime: 2021-03-22T14:59:00Z
+    webUrl: "https://www.medtechdive.com/news/fda-grants-eua-to-covid-19-screening-device-using-machine-learning/597086/"
+    type: article
+    provider:
+      name: medtechdive.com
+      domain: medtechdive.com
+    quality: 39
+    images:
+      - url: "https://www.medtechdive.com/user_media/cache/3f/5e/3f5eb9c5e6bab8d3733d2aa9187e61a8.jpg"
+        width: 770
+        height: 364
+        isCached: true
   - title: "Artificial intelligence used to identify unique COVID-19 patterns in lungs"
     excerpt: "The artificial neural network developed by Lawson Health Research Institute can detect COVID-19 patterns in lung scans that are not visible to the human eye."
     publishedDateTime: 2021-03-19T14:52:00Z

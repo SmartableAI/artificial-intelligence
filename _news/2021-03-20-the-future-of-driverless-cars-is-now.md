@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dailytribune.com/lifestyles/vitality/the-future-of-drive
 cdnAmpWebUrl: "https://www-dailytribune-com.cdn.ampproject.org/c/s/www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Daily Tribune
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Forget Tesla! This 1 TSX Stock Is a Better Driverless Auto Play"
-    excerpt: "The future is of automotive is more than just clean and green; it's also driverless. And Tesla isn’t the only promising company in this arena."
-    publishedDateTime: 2021-03-19T12:08:00Z
-    webUrl: "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/"
-    ampWebUrl: "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/amp/"
-    cdnAmpWebUrl: "https://www-fool-ca.cdn.ampproject.org/c/s/www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/amp/"
-    type: article
-    provider:
-      name: The Motley Fool Canada
-      domain: fool.ca
-    quality: 74
-    images:
-      - url: "https://yw553ftvhw1iqegz29fycoyw-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Self-Driving-Cars.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "UAE: Driverless cars to transport passengers for free"
     excerpt: "Driverless vehicles will transport passengers in Abu Dhabi for free as the UAE Capital trials the technology later this year. Self-driving vehicles will be piloted in two phases. The first phase includes three vehicles operating in the main area of Yas Island in the pick-up and drop-off points for hotels,"
     publishedDateTime: 2021-03-23T07:27:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/pangiam-acquires-v
 webUrl: "https://markets.businessinsider.com/news/stocks/pangiam-acquires-veriscan-a-biometric-facial-recognition-system-for-airports-and-airlines-1030228204"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Business Insider
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Pangiam Bets on Facial Recognition to Speed Travelers Through Airports Post-Covid"
-    excerpt: "Travel tech firm Pangiam is betting this is only the beginning with the acquisition of the facial recognition system VeriScan from the Washington, D.C., airports operator. Imagine passing through ..."
-    publishedDateTime: 2021-03-19T12:00:00Z
-    webUrl: "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/"
-    ampWebUrl: "https://skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/"
-    cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2021/03/19/pangiam-bets-on-facial-recognition-to-speed-travelers-through-airports-post-covid/amp/"
-    type: article
-    provider:
-      name: Skift
-      domain: skift.com
-    quality: 69
-    images:
-      - url: "https://skift.com/wp-content/uploads/2021/03/IMG_0310.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Pangiam Acquires Facial Recognition System Developed By Airport Authority"
     excerpt: "Pangiam, a portfolio company of the private equity firm AE Industrial Partners (AEI), last Friday said it acquired an integrated facial recognition system"
     publishedDateTime: 2021-03-19T19:53:00Z
@@ -66,6 +50,48 @@ related:
       - url: "https://www.virginiabusiness.com/wp-content/uploads/2021/03/DownloadIssue_March2021.jpg"
         width: 288
         height: 360
+        isCached: true
+  - title: "Face biometrics implementations expanding for vehicles, retail systems and health passes"
+    excerpt: "Facial recognition is prominent among the top news stories in the biometrics industry over the past week. Paperwork for a blockbuster facial recognition IPO has been filed by Megvii, the use of the technology by law enforcement to identify dissidents and refugees is being scrutinized,"
+    publishedDateTime: 2021-03-20T17:28:00Z
+    webUrl: "https://www.biometricupdate.com/202103/face-biometrics-implementations-expanding-for-vehicles-retail-systems-and-health-passes"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
+        width: 800
+        height: 390
+        isCached: true
+  - title: "IDEMIA Showcases Industry-Leading Facial Recognition Technology at DHS 2020 Biometric Technology Rally"
+    excerpt: "View original content to download multimedia: http://www.prnewswire.com/news-releases/idemia-showcases-industry-leading-facial-recognition-technology-at-dhs-2020-biometric-technology-rally-301251155.html"
+    publishedDateTime: 2021-03-22T12:05:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-covid-19-pandemic-coronavirus-pandemic-lung-disease-b3a2d297dbb2e58c53f00f0e33bc92ab"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Idemia face, ID R&D voice, Aware fingerprint biometrics score top biometric accuracy rankings"
+    excerpt: "The results show Idemia’s performance in facial recognition for masked and unmasked faces, ID R&D’s in short-duration speaker recognition, and Aware’s in proprietary fingerprint template generation and matching. Idemia achieves top accuracy results ..."
+    publishedDateTime: 2021-03-23T17:39:00Z
+    webUrl: "https://www.biometricupdate.com/202103/idemia-face-id-rd-voice-aware-fingerprint-biometrics-score-top-biometric-accuracy-rankings"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 13
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/11142614/elearning-remote-authentication-data-protection.jpg"
+        width: 820
+        height: 460
         isCached: true
 
 secured: "nyh9CWiQDXVxyDMBD+RrStWxJrprHsEbOe/4AJWSedDiHSZtURGTV51gPXZhpjeyjJp/c9HI9v7aPfin3jPTOyojG3UvOqPF8xybKiszc8ysxN6LpecsswqLN4EO8xk3yhfmCA+IGLyw8ouA7eM2KF+E/1REbxw5xp4+Ujjcui64M4tHEnjXV7jFFUh62xnmQ1TgzvoUXCJYGIuExB7il6JgfC9LBQ/j+G00wGLEOaXvmsWdQOLOgrB7Y4PTzTakIzpf3bG2UN3WNdXvvSSrYpFiC3i2saBxKM4spnMR0Zg5X9k00qeXRhKnulEAqMo/GMUrI+fQB46RSkzp3wwY41BiVPaX7PeiKnqIfOS9198=;nLvPiKeyyRtuf9w1Hr/3RA=="

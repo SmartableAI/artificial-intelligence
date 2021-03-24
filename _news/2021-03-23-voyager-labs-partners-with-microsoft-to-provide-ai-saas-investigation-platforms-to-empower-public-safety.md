@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "13 startups selected to join Microsoft AI for Social Impact programme"
-    excerpt: "Microsoft has announced that it will work with 13 startups to develop artificial intelligence solutions under its AI for Social Impact scheme"
-    publishedDateTime: 2021-03-19T11:21:00Z
-    webUrl: "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 54
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/03/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme.jpeg"
-        width: 1013
-        height: 675
-        isCached: true
   - title: "Repsol and Microsoft renew partnership developing AI-powered digital solutions"
     excerpt: "The companies will co-innovate to build new AI-powered digital solutions ... including recommitting to the Azure cloud platform. “The extension of our collaboration and the supply of renewable energy undoubtedly reaffirms the vision that both companies ..."
     publishedDateTime: 2021-03-22T16:04:00Z
@@ -53,15 +39,15 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Microsoft UK selects 13 start-ups for 'AI for Social Impact 2021' programme"
-    excerpt: "Microsoft has selected 13 UK start-ups to join the company's 'AI for Social Impact 2021' programme. This 4-month programme, managed in partnership with the Social Tech Trust, will offer support on business development;"
-    publishedDateTime: 2021-03-19T11:44:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-uk-selects-13-start-ups-for-ai-for-social-impact-2021-programme--1376583"
+  - title: "Egyptian govt signs MoU with Thales to develop AI-powered applications"
+    excerpt: "The Egyptian ICT ministry has signed a memorandum of understanding (MoU) with Thales for cooperation on developing artificial intelligence (AI) applications in different areas, and on building capacity and promoting innovation and research in AI."
+    publishedDateTime: 2021-03-22T09:17:00Z
+    webUrl: "https://www.telecompaper.com/news/egyptian-govt-signs-mou-with-thales-to-develop-ai-powered-applications--1376635"
     type: article
     provider:
       name: Telecompaper
       domain: telecompaper.com
-    quality: 32
+    quality: 19
 
 secured: "U2LQbx4tvtPa45JtCm3Nj61bPpG1Iutbd5LrWppcbMumGNjVJAjx0FNGYSKhCWmgjE4O0TUDg/4odcxGCklId6tSEF/OnA9p0yTUI6MVwgWfC8RY+aAQy8nKm6DwcEqZooKXMrxZfdlkvvlzA7Z8zb2/6rKpoE8T/3tdxRpL1uXdCkLTg2O0O/IVgjAu28lbFAJ7SYx8ylrphlBFIfV8iedJ3mMNH27IEfgWcX+W2fXcXYZOBVMT5XBNC72TwTseuuVYiTb/z3C9HBfpgYOdaJwFFG9HsBKLzQCNWrqEZGc7r7iIqgduNsJtVQYRW7YAvXkvHtC4uyBzWmWeCE27VTi0RTp3yc/WoOqSHlidckE=;LluL68wfjfLOvu1zqFgU2Q=="
 ---

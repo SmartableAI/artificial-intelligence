@@ -41,6 +41,15 @@ related:
         width: 700
         height: 470
         isCached: true
+  - title: "Solving 'barren plateaus' is the key to quantum machine learning"
+    excerpt: "Many machine learning algorithms on quantum computers suffer from the dreaded 'barren plateau' of unsolvability, where they run into dead ends on optimization problems."
+    publishedDateTime: 2021-03-21T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210319125414.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Solving 'barren plateaus' is the key to quantum machine learning (image)"
     excerpt: "A barren plateau is a trainability problem that occurs in machine learning optimization algorithms when the problem-solving space turns flat as the algorithm is run. Researchers at Los Alamos National Laboratory have developed theorems to prove that any given algorithm will avoid a barren plateau as it scales up to run on a quantum computer."
     publishedDateTime: 2021-03-19T16:13:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-device-135131666.html"
 type: article
 quality: 87
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605799a02f847363b4892f71%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1484%26cropY1%3D203%26cropY2%3D1038"
         width: 1200
         height: 675
+        isCached: true
+  - title: "FDA grants EUA to COVID-19 screening device using machine learning"
+    excerpt: "While the product gives institutions another screening tool for those without symptoms, Tiger Tech faces competition with antigen testing scaling up."
+    publishedDateTime: 2021-03-22T14:59:00Z
+    webUrl: "https://www.medtechdive.com/news/fda-grants-eua-to-covid-19-screening-device-using-machine-learning/597086/"
+    type: article
+    provider:
+      name: medtechdive.com
+      domain: medtechdive.com
+    quality: 39
+    images:
+      - url: "https://www.medtechdive.com/user_media/cache/3f/5e/3f5eb9c5e6bab8d3733d2aa9187e61a8.jpg"
+        width: 770
+        height: 364
         isCached: true
   - title: "Artificial intelligence used to identify unique COVID-19 patterns in lungs"
     excerpt: "The artificial neural network developed by Lawson Health Research Institute can detect COVID-19 patterns in lung scans that are not visible to the human eye."

@@ -47,22 +47,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "How To Build Brand Authenticity With Artificial Intelligence"
-    excerpt: "The mere mention of AI entering marketing departments triggers fears of being boxed in by rigid analytics or automated out of a job entirely."
-    publishedDateTime: 2021-03-19T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/19/how-to-build-brand-authenticity-with-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/19/how-to-build-brand-authenticity-with-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/19/how-to-build-brand-authenticity-with-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6053854b9ac17e52c7d1b586%2F0x0.jpg"
-        width: 866
-        height: 577
-        isCached: true
 
 secured: "82T6+QBwekXWj+4RNl5UCf198eDxhhpu7WcZUL7K+6rjhWhjqaxGxyVUPpFg+h4g2s3W1z2Z7v3AvrZbh4c1VhFlco/x6JlS/2sc2picbMBmv4GHzohsGfudvKWiHr5IiE5mPoRUXJ9hbDdAEJL/TIlDka0trF23ukVfhipPoE+puQKZwRUo7wRK8Uljl81YUtM7aZnkFrCjEx4wy/K/MpbbS0nWVQvBNC3n5qDsFECNCSJerCbdDrbBWdzIsfjHx3+eQ0fIwSc2EElCUHBNrwJDkNlMO0+KDJbpikAj94SyMO1jwHDKXFdTJCn8KyAIKTnp3L+hEWxBYdHy/iBIovGZvqqN+1Kdi338rWdABKCV2rUhFSDtKSgF/v8sCKGClo7+Or5KTGWRcCRxnCe+W4eF0eTdef6gr32ACaJ2KTtDDgrSCC0bHPEaq81JQ+A4E2EnhRw1JyHX55AHI+9CHqN6cgEG5UKUlnHZikjdTxGm7TvHW85z3y6KhB3vtfZUGVL95L4Pl+GgvmQ3dJKkNA==;LB15U7c9HjKe2V0JCSdzfw=="
 ---

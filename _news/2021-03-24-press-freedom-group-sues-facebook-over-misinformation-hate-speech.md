@@ -43,22 +43,6 @@ related:
         width: 1199
         height: 626
         isCached: true
-  - title: "Facebook reveals wrist-based hardware for augmented reality"
-    excerpt: "Facebook has unveiled a prototype for a wearable device that can be used as a control for augmented reality systems. The device is still in development at Facebook's Reality Labs (FRL) - formally Oculus Research - and is part of its work to find alternative methods of 'human-computer interaction' (HCI)."
-    publishedDateTime: 2021-03-19T12:54:00Z
-    webUrl: "https://www.itpro.co.uk/technology/augmented-reality-ar/358960/facebook-reveals-wrist-based-hardware-for-augmented-reality"
-    ampWebUrl: "https://www.itpro.co.uk/technology/augmented-reality-ar/358960/facebook-reveals-wrist-based-hardware-for-augmented-reality?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/augmented-reality-ar/358960/facebook-reveals-wrist-based-hardware-for-augmented-reality?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 74
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1616156138/itpro/FacebookARWristControl_FacebookBlog.png"
-        width: 1422
-        height: 796
-        isCached: true
   - title: "Facebook customizes augmented reality to the flick of a wrist"
     excerpt: "Fresh off its recent augmented reality (AR) kick, Facebook Labs has revealed plans to curate this AI software for wearable devices. Projected as a shorter-term goal than the previously announced AR glasses,"
     publishedDateTime: 2021-03-19T21:52:00Z
