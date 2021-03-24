@@ -60,6 +60,20 @@ related:
         width: 613
         height: 315
         isCached: true
+  - title: "Amazon Web Services collaborates with Hugging Face to simplify AI-based natural language processing"
+    excerpt: "Amazon Web Services Inc. partners with New York based startup, Hugging Face Inc. with the aim of accelerating and simplifying NLP models."
+    publishedDateTime: 2021-03-24T13:01:00Z
+    webUrl: "https://techstory.in/amazon-web-services-collaborates-with-hugging-face-to-simplify-ai-based-natural-language-processing/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 57
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/AWS-Hugging-Face.png"
+        width: 613
+        height: 315
+        isCached: true
 
 secured: "m7JkLxbGGQKo9IqIkBlWwbkHORvvxkU+1kSPTeZ8nku0JhnJlp8Sp9nntdKwzNZSwhxJqZWkH9R6y5Wstp2SyzjTb5WWJGFiAGMsahxL16Gn3mWOdTCpukFiHLQSJyUGt1E4cgzNUPZHb01WjJ06u1FsBw7PPKF+kQdMae0aGKG6/GRJXlI+TynpsFHdg/UgTZwEj4FJcpabAMzN3e9blMEDC0RvytMMMaG7KOKz0WhjSyYRwjdiuX9LOI2OKsNPmuFy6TSJGuZvZygzbE+pfbfXxodlBCAeB1fAMyLMwTnMKGNkQS6loMeqCpCQCAZOdT/apHeteEACev5TAOkGhdh4YNwzTmsrdLRxi2tdZF4=;/tqxJF0bnQyvT4jcjSdrdg=="
 ---

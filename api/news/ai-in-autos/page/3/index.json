@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-05-top-predictions-for-2019-artificial-intelligence-is-here.md",
+      "title": "Top Predictions for 2019: Artificial Intelligence Is Here",
+      "excerpt": "Yes, that’s a bold statement, but not far off when you think about the advances in technology with AI as its foundation, including: self-driving cars, AI that sounds like a human and insurance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.multihousingnews.com/post/top-predictions-for-2019-artificial-intelligence-is-here/",
+      "originalUrl": "https://www.multihousingnews.com/post/top-predictions-for-2019-artificial-intelligence-is-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.atre.yardi.com/1/115711/images/Adam-Blakecropped.jpg?w=300&h=225",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.multihousingnews.com/post/amp/top-predictions-for-2019-artificial-intelligence-is-here/",
+      "cdnAmpWebUrl": "https://www-multihousingnews-com.cdn.ampproject.org/c/s/www.multihousingnews.com/post/amp/top-predictions-for-2019-artificial-intelligence-is-here/",
+      "publishedDateTime": "2021-03-04T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Multi-Housing News",
+        "domain": "multihousingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-baidu-said-to-win-hong-kong-bourse-nod-for-second-listing.md",
+      "title": "Baidu Said to Win Hong Kong Bourse Nod for Second Listing",
+      "excerpt": "The tie-up is intended to help Baidu deploy its Apollo self-driving tech in more vehicles, a person familiar with the matter has said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYiS4foB8OXk/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-self-driving-truck-technology-market-to-see-booming-business-sentiments-daimler-volvo-waymo.md",
       "title": "Self-Driving Truck Technology Market to see Booming Business Sentiments | Daimler, Volvo, Waymo",
       "excerpt": "Major Highlights of the Self-Driving Truck Technology Market report released by HTF MI Market Breakdown by Applications: Transport, Mining, Military & Other Revenue and Sales Estimation -- Historical Revenue and sales volume is presented and further data is triangulated with top-down and bottom-up approaches to forecast complete market size and to estimate forecast numbers for key regions covered in the report along with classified and well recognized Types and end-use industry.",
@@ -1345,101 +1440,6 @@
       "provider": {
         "name": "Gulf News",
         "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga.md",
-      "title": "Driverless electric bus hits the road in Spanish city of Málaga",
-      "excerpt": "The bus uses artificial intelligence to improve its “decisions ... and was developed by the Spanish company Irizar. Other driverless pilot projects already exist in Europe, but none of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "originalUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "publishedDateTime": "2021-02-25T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-driverless-bus-hits-streets-of-malaga-in-southern-spain.md",
-      "title": "Driverless Bus Hits Streets Of Malaga In Southern Spain",
-      "excerpt": "A new driverless electric bus has begun operating ... he told AFP. The bus uses artificial intelligence to improve its \"decisions\" based on data recorded along the route. The 12-metre (39-foot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166",
-      "originalUrl": "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/25/the-electric-powered-vehicle-operates-autonomously-but-a.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null

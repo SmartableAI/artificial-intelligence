@@ -57,6 +57,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Disney World tests facial recognition software at Magic Kingdom"
+    excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
+    publishedDateTime: 2021-03-23T18:14:00Z
+    webUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 59
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Walt Disney World begins testing facial recognition technology"
     excerpt: "Could park-goers be using facial recognition to enter Walt Disney World in the near future? A test running at the Magic Kingdom is working to determine just that. Starting March 23, guests planning to visit the Magic Kingdom have the option to participate in trying out Disney's facial recognition technology."
     publishedDateTime: 2021-03-23T18:43:00Z

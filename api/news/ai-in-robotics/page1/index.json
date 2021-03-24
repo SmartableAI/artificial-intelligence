@@ -1355,21 +1355,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-15-the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter.md",
-      "title": "The Future Of Robots: Making Distribution Centers Safer, Speedier And Smarter",
-      "excerpt": "The fact that you can buy what you want and receive it quickly is thanks entirely to logistics — including distribution centers (DCs), which are the beating hearts of modern-day retail and ecommerce.",
+      "path": "_news/2021-03-16-retrotechtacular-6ch-industrial-robot.md",
+      "title": "Retrotechtacular: 6CH Industrial Robot",
+      "excerpt": "With this robotic arm demo video from 1975 the future really is now. Think about it, there are entire factories full of the descendants of this technology where the human workers simply feed the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/",
-      "originalUrl": "https://www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/",
+      "webUrl": "https://hackaday.com/2013/09/03/retrotechtacular-6ch-industrial-robot/",
+      "originalUrl": "https://hackaday.com/2013/09/03/retrotechtacular-6ch-industrial-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604f98b5f5960ed930ec6e9f%2F0x0.jpg",
-          "width": 874,
-          "height": 491,
+          "url": "https://hackaday.com/wp-content/uploads/2013/09/retrotechtacular-6ch-robot-arm.png",
+          "width": 640,
+          "height": 475,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1377,23 +1377,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/honeywell/2021/03/15/the-future-of-robots-making-distribution-centers-safer-speedier-and-smarter/amp/",
-      "publishedDateTime": "2021-03-15T09:57:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

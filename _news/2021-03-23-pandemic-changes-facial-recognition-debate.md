@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.milforddailynews.com/amp/4794844001"
 cdnAmpWebUrl: "https://amp-milforddailynews-com.cdn.ampproject.org/c/s/amp.milforddailynews.com/amp/4794844001"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Milford Daily News
@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Disney World tests facial recognition software at Magic Kingdom"
-    excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
-    publishedDateTime: 2021-03-23T18:14:00Z
-    webUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
-    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+  - title: "Apple tightens partner security rules, forbids facial recognition of its employees"
+    excerpt: "New rules for manufacturers working with Apple reportedly include severe limits on biometric scans of Apple staff on premises, yet encourages greater use of security cameras for factory workers."
+    publishedDateTime: 2021-03-24T13:43:00Z
+    webUrl: "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees"
+    ampWebUrl: "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees/amp/"
     type: article
     provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 59
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 70
     images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Pangiam Acquires Facial Recognition System Developed By Airport Authority"
-    excerpt: "Pangiam, a portfolio company of the private equity firm AE Industrial Partners (AEI), last Friday said it acquired an integrated facial recognition system"
-    publishedDateTime: 2021-03-19T19:53:00Z
-    webUrl: "https://www.defensedaily.com/pangiam-acquires-facial-recognition-system-developed-airport-authority/business-financial/"
-    type: article
-    provider:
-      name: Defense Daily Network
-      domain: defensedaily.com
-    quality: 53
-    images:
-      - url: "https://www.defensedaily.com/wp-content/uploads/2018/09/img_0913-1-e1536268148765.jpg"
-        width: 480
-        height: 640
+      - url: "https://photos5.appleinsider.com/gallery/40997-79270-000-Facial-scanning-xl.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Using nationalism to refocus facial recognition concerns in China"
     excerpt: "The violation of people’s biometric data privacy, as denounced by the TV show, has the public and industry watchers urging for a swifter legislative push."

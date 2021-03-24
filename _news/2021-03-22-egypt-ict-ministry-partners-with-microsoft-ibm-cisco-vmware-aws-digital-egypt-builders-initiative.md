@@ -7,7 +7,7 @@ originalUrl: "https://www.telecompaper.com/news/egypt-ict-ministry-partners-with
 webUrl: "https://www.telecompaper.com/news/egypt-ict-ministry-partners-with-microsoft-ibm-cisco-vmware-aws-digital-egypt-builders-initiative--1376636"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,36 @@ topics:
   - AWS AI
   - AI
   - Microsoft AI
+
+related:
+  - title: "Voyager Labs Partners with Microsoft to Provide AI SaaS Investigation Platforms to Empower Public Safety"
+    excerpt: "Voyager Labs, a world leader in AI-based investigation solutions, is proud to announce it has partnered with Microsoft to provide"
+    publishedDateTime: 2021-03-22T21:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety-807766452.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1307116/Voyager_Labs_Logo.jpg?p=facebook"
+        width: 704
+        height: 369
+        isCached: true
+  - title: "Scienaptic partners with Urjanet to combine the power of AI and permissioned alternative data"
+    excerpt: "Scienaptic, the world’s leading AI-powered credit decision platform provider, announced its partnership with Urjanet, the global leader in utility account aggregation. This alliance will enable Scienaptic to tap Urjanet’s global telecom and utility data to enhance its credit decisioning platform with consumer-permissioned alternative spending data."
+    publishedDateTime: 2021-03-22T16:23:00Z
+    webUrl: "https://www.cuinsight.com/press-release/scienaptic-partners-with-urjanet-to-combine-the-power-of-ai-and-permissioned-alternative-data"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 28
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
 
 secured: "VEvme1GXG9UZAXzaIsz2pkhLQBY7Ivc4S03eJde5ozflLCb4dsHTLn7hpnau8xie7NjWFrdUqSObRFRm62OcOhEAF84YOKWYuUu7AR0aRGyXWHUJCgPo7/AfjuDkWwYFl6tyBpp+sciokcDXpDYfYseiV9Ukj0RLcm8VD+etKdrPeUzUsbe2TgbcqW9M4OP8xRdtKrUObmZifElgZqxXw02mUXtVZhqq4UPjxnwA4h0TvlWx2oHwm8ZWwLMBdk2KufvhFmFCms6qOtctLWIwx1m9qiaNQymL2rN2eHlf4JcQdxCggHCMlRKQ9RLbTFs/tN1J5ARG8yYx3zei4v3hRlvcgE+kzWCJcmlX08q0W+U=;L0b3WAyNpAcxa8OAwt32yQ=="
 ---

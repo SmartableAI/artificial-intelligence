@@ -37,6 +37,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "UPDATE 2-Self-driving truck startup TuSimple files for U.S. IPO"
+    excerpt: "March 23 (Reuters) - Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the ..."
+    publishedDateTime: 2021-03-24T02:24:00Z
+    webUrl: "https://www.reuters.com/article/tusimple-ipo-idAFL4N2LL48I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving truck startup TuSimple files for public ownership"
     excerpt: "TuSimple, the self-driving truck startup backed by fleets, suppliers and manufacturers, filed on Tuesday to become a public company."
     publishedDateTime: 2021-03-23T23:09:00Z

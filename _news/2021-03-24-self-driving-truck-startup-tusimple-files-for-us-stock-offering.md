@@ -52,6 +52,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "UPDATE 2-Self-driving truck startup TuSimple files for U.S. IPO"
+    excerpt: "March 23 (Reuters) - Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the ..."
+    publishedDateTime: 2021-03-24T02:24:00Z
+    webUrl: "https://www.reuters.com/article/tusimple-ipo-idAFL4N2LL48I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving truck startup TuSimple files for public ownership"
     excerpt: "TuSimple, the self-driving truck startup backed by fleets, suppliers and manufacturers, filed on Tuesday to become a public company."
     publishedDateTime: 2021-03-23T23:09:00Z
@@ -125,6 +139,6 @@ related:
         height: 1461
         isCached: true
 
-secured: "iIqrHWGcoqSZA4NRFltE6ZduKaK7/w8f/utjclI7TPlAqBVVkMzrlG56u/BfCRdw4uWjrfe2n1YJT5SrApvdk7f0ZU7uhIgm8djDKvX/vNs9bp/BSrRnSWx0EA8Tk5zeEVCvlwUSTudjwjjOhiBbfQnY9cJhJpU3YSs2oIR67j51A7eo0cURKQcSwYpLf707v1jaIa95Q4gDMix7Z5Ck+HlJdA7169yfVo1hNT6ytZ4BBrmaqGzii/L4UOrdAaVsyPPtY+9OSJ7nuCXHSM6cblZdJZcxNDRcEh020zGkkhjo65XTXHscAs/zAuJxWcTSczZD83G5pd+taIEfIeuxurotMZlG24Vj8JQho3Tre78=;ley5vu1T30HC3o8d+PyIxA=="
+secured: "sQh02eatamvISljI19uzZzoPOiMU+j38OctAxFYAhsMrDnLFI/FE9cFxZVA1zlEdn35A3aigDt9lnqaC92IBD7MA7GuURTbRg7B+fGhLI0bskSF/Yb0lsKXelU+tPwihbGYXARY9AvH4oySIDu4k/QpctU9eM38FvSk5GAHF7LmUQrybrWhWxiJ6Qb5PkYxfLFkI42Nxpd8gKk2uY2alQZyfOMsDt65lldk6SK+dW9MsuNF0mWKXTDmcdK56Yv/s6zobggAnj9GQsbC1paWcdNT5qmS9EZzDxun/TQ2bknYm3gGKJuGIdb7IJrZSPz+GHqYDqEQ0y2qGJvPIJENtOEGLPb45UDtqOmHm8UoM49lek8d+8Z60lv30jp3VgJokXUCN5fWgpKJCBnAOIhG6HAi8DoMGxEYzm+PcqhYRLdnGzrYr5i0Zrahg2Ng2hSS6sSoBehxQN/lw1Jn5uQbX+Z5tnjs+8P9V+WC76EEto//RrUrUmFmxbcLYyVOxYtYRLLKxKjU2dYC4RpMLsstWEw==;9uXKUokCsVf60lP5nU9zHw=="
 ---
 

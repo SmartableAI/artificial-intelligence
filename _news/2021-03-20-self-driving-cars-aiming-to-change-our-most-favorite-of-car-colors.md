@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://wi-images.condecdn.net/image/q0yQbpyAoWp/crop/1440/0.5235602094240838/f/1120wiredworldtechnology08b.jpg"
         width: 1440
         height: 753
+        isCached: true
+  - title: "10 rising stars of the self-driving business share their tips for breaking into the booming industry"
+    excerpt: "DOW S&P 500 NASDAQ 100 In recent years, the self-driving vehicle industry has been one of the hottest in tech, attracting billions in funding as the engineers at Waymo, Cruise, Argo, Amazon's Zoox, and more battle to bring their tech to market and reap the ..."
+    publishedDateTime: 2021-03-24T12:53:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-stars-tips-for-getting-into-the-industry-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Solomon: Legal liability of self-driving cars"
     excerpt: "Part of the challenge I have in teaching extremely bright business students in the final year of their undergraduate studies is, many of them are considering heading to law school."

@@ -7,8 +7,8 @@ originalUrl: "https://www.madinamerica.com/author/top-quality-ai-900-dumps/"
 webUrl: "https://www.madinamerica.com/author/top-quality-ai-900-dumps/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Mad in America
@@ -38,20 +38,6 @@ related:
       - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Story - Artificial Intelligence, digital art"
-    excerpt: "A Doha-based artist has expressed optimism that Artificial Intelligence (AI), as well as digital art, are expected to flourish in Qatar and the region due to the burgeoning art scene and artists’ huge interest in emerging technologies. “I think ..."
-    publishedDateTime: 2021-03-19T19:28:00Z
-    webUrl: "https://www.gulf-times.com/story/687024/Story-Artificial-Intelligence-digital-art"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 37
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/3202119222842132145092.jpg"
-        width: 620
-        height: 355
         isCached: true
 
 secured: "gMkb8fcYTuPsVg9o6l+TzsbikusYjzLfsEYol12IKJDftsJoUEH4yWeiXDm8CbhBFl1mvhH4z0C9RARh3g9ikaRDtOakDVZmMP2CmnKRKjxM/oWgiV0rGyPDwF/0wmH0jfcrdtHC0zIO4Oy9kh4ZLnsXxWuOIz7v7Rz1nj/0msYQyg+pQ3D9HQ97BW6ckSqIgZ2s9ruCzXjfZVYKrVjJZudUTzYZqM4hHL3t4L2Zj0x2RDONq8ISpPB7XA8B95vyKmGyyZR66VUDVEW9dCVugEecoyZIY4GCIiYpTzOncDOR/JyGSOkPeN7LtLqT3UIcD8Y4vmneU1EIdad/KVTbh33oqDTr3gax6QNSv0oHPqE6jPe1E2nIOQogjAwsv0UZl1BpBAoSBKihfalUbG8ymmyOIag7+xNdUg9EPGbeLGhYfFFWgdVASjwfmJIPs3XXLeBZYkdaDbUZGzFBgBMJpT/I8hUN9k9UAX5XTzwnNSWDKgOUg8Mx5VvWfqr4Er4H3yqmWwpLrw33pw6uckesYQ==;OM/OuN5MbEks1iK6ilWocQ=="

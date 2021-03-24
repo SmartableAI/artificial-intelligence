@@ -2,6 +2,439 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-09-this-startup-wants-to-fill-the-skies-with-cargo-filled-robot-planes.md",
+      "title": "This Startup Wants to Fill the Skies With Cargo-Filled Robot Planes",
+      "excerpt": "Reliable Robotics has been flying Cessnas through a mixture of autonomy and remote control. FedEx, for one ... All autopilot systems have been designed with the pilot safeguard in mind; for Rose and Frefel, building a system that reached full autonomy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-09/reliable-robotics-builds-self-flying-planes-to-move-cargo-eventually-people",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-09/reliable-robotics-builds-self-flying-planes-to-move-cargo-eventually-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXrYo4VVSWuM/v0/1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-smartphone-based-saliva-testing-and-self-monitoring-of-blood-glucose-driving-the-digital-poct-market.md",
+      "title": "Smartphone-based Saliva Testing and Self-monitoring of Blood Glucose Driving the Digital POCT Market",
+      "excerpt": "Reportlinker.com announces the release of the report \"Smartphone-based Saliva Testing and Self-monitoring of Blood",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/g20071162/smartphone-based-saliva-testing-and-self-monitoring-of-blood-glucose-driving-the-digital-poct-mark",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/g20071162/smartphone-based-saliva-testing-and-self-monitoring-of-blood-glucose-driving-the-digital-poct-mark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20071162",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20071162",
+      "publishedDateTime": "2021-03-09T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-are-us-special-forces-quietly-using-armed-robots.md",
+      "title": "Are U.S. Special Forces Quietly Using Armed Robots?",
+      "excerpt": "While the U.S. military makes wide use of armed drones, it has been extremely cautious when it comes to fielding weaponized ground robots. Now Special Forces may have quietly crossed the line by deploying a new system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/03/09/are-us-special-forces-quietly-using-armed-robots/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/03/09/are-us-special-forces-quietly-using-armed-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604745a0c1046ba4414e2817%2F0x0.jpg",
+          "width": 1110,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/03/09/are-us-special-forces-quietly-using-armed-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/03/09/are-us-special-forces-quietly-using-armed-robots/amp/",
+      "publishedDateTime": "2021-03-09T02:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-zero-to-blockchain-il-corso-di-formazione-online-sulla-blockchain-promosso-da-acta-fintech.md",
+      "title": "Zero to Blockchain: il corso di formazione online sulla blockchain promosso da Acta Fintech",
+      "excerpt": "“ Zero to Blockchain ” è il corso di formazione online on-demand che mira a spiegare le basi della tecnologia blockchain e degli asset digitali. Lanciato diversi mesi fa da Acta Fintech, il corso di f",
+      "sourceUrl": null,
+      "webUrl": "https://it.cointelegraph.com/news/zero-to-blockchain-the-online-training-course-on-blockchain-promoted-by-acta-fintech",
+      "originalUrl": "https://it.cointelegraph.com/news/zero-to-blockchain-the-online-training-course-on-blockchain-promoted-by-acta-fintech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83NWY4MDBjMjViNzE4YjFjYTdiNDk5MWEyNjk2YzhhNS5wbmc=.png",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://it.cointelegraph.com/news/zero-to-blockchain-the-online-training-course-on-blockchain-promoted-by-acta-fintech/amp",
+      "cdnAmpWebUrl": "https://it-cointelegraph-com.cdn.ampproject.org/c/s/it.cointelegraph.com/news/zero-to-blockchain-the-online-training-course-on-blockchain-promoted-by-acta-fintech/amp",
+      "publishedDateTime": "2021-03-09T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cointelegraph Italia",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-theres-no-real-ai-revolution-without-ethics.md",
+      "title": "There's no real AI revolution without ethics",
+      "excerpt": "Tonya Hall interviews Matthew Bailey, author and CEO at AIEthics.World, about what governments and regulators need to do for AI to really benefit humankind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/theres-no-real-ai-revolution-without-ethics/",
+      "originalUrl": "https://www.zdnet.com/video/theres-no-real-ai-revolution-without-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/03/09/74a047d6-d94e-40f3-90b0-b0e8d8a00317/thumbnail/770x578/81359fad8cc8e9e806c84eab2c0c0e88/thumb.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate.md",
+      "title": "GPU and Machine Learning Identify Spots on DNA That Are Likely to Mutate",
+      "excerpt": "Now, researchers at Harvard University’s Department of Stem Cell and Regenerative Biology working with GPU manufacturer NVIDIA have developed a method of quickly and accurately identifying the wadded up DNA buried in our cells,",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
+      "originalUrl": "https://www.vice.com/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/60479eb693b426009ca958e9/lede/1615306658256-gettyimages-90739363.jpeg?crop=1xw:0.7072120559741658xh;center,center",
+          "width": 3504,
+          "height": 1971,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate",
+      "publishedDateTime": "2021-03-09T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-we-need-a-humanitarian-vision-for-ai-and-robotics.md",
+      "title": "We need a humanitarian vision for AI and robotics",
+      "excerpt": "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/",
+      "originalUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2021/03/GettyImages-1183002137-scaled.jpg",
+          "width": 1600,
+          "height": 1060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/",
+      "publishedDateTime": "2021-03-09T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made.md",
+      "title": "Is It Time To Question Our Assumptions About Hand-Made Vs Machine-Made?",
+      "excerpt": "The belief that something made by humans is of better quality crumbles when we confront it with the principles of Industry 4.0, which is seeing new standards of automation: historically this has always meant greater efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/",
+      "originalUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60473485586d43a09b09e3f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/amp/",
+      "publishedDateTime": "2021-03-09T00:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic.md",
+      "title": "KPMG: AI adoption accelerated too fast during the pandemic",
+      "excerpt": "The outlook for artificial intelligence is optimistic under the Biden administration, but executives want industry regulation, a survey finds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
+      "originalUrl": "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
+      "publishedDateTime": "2021-03-08T22:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-alphabets-waymo-says-its-tech-would-avoid-fatal-human-crashes.md",
       "title": "Alphabet’s Waymo Says Its Tech Would Avoid Fatal Human Crashes",
       "excerpt": "(Bloomberg) --The autonomous-car artificial intelligence from Alphabet Inc.’s Waymo avoided or mitigated crashes in most of a set of virtually recreated fatal accidents, according to a white paper the company published Monday. The simulations were based ...",
@@ -136,40 +569,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-aiict-introduces-new-certified-artificial-intelligence-professional-course-developed-with-aws.md",
-      "title": "AIICT introduces new Certified Artificial Intelligence Professional course developed with AWS",
-      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML) professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -792,394 +1191,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-last-mile-delivery-robotics-company-refraction-ai-raises-42m.md",
-      "title": "Last-mile delivery robotics company Refraction AI raises $4.2M",
-      "excerpt": "Ann Arbor-based Refraction AI announced today that it has raised a $4.2 million seed round. The startup, which debuted on the TechCrunch Sessions: Mobility stage back in 2019, was founded by a pair of University of Michigan professors (Matthew Johnson-Roberson — now CTO — and Ram",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/",
-      "originalUrl": "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/154024079_102529051892044_9043079890713007716_o.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/amp/",
-      "publishedDateTime": "2021-03-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-research-explores-promoting-public-trust-in-ai.md",
-      "title": "Research explores promoting public trust in AI",
-      "excerpt": "The public doesn't need to know how Artificial Intelligence works to trust it. They just need to know that someone with the necessary skillset is examining AI and has the authority to mete out sanctions if it causes or is likely to cause harm.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-explores-ai.html",
-      "originalUrl": "https://phys.org/news/2021-03-explores-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-ai.jpg",
-          "width": 1920,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-explores-ai.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-explores-ai.amp",
-      "publishedDateTime": "2021-03-08T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-google-employee-group-urges-congress-to-strengthen-whistleblower-protections-for-ai-researchers.md",
-      "title": "Google employee group urges Congress to strengthen whistleblower protections for AI researchers",
-      "excerpt": "A Google employee group wants Congress and state legislatures to strengthen whistleblower protection laws for AI ethics researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/08/google-employee-group-urges-congress-to-strengthen-whistleblower-protections-for-ai-researchers/",
-      "originalUrl": "https://venturebeat.com/2021/03/08/google-employee-group-urges-congress-to-strengthen-whistleblower-protections-for-ai-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/08/google-employee-group-urges-congress-to-strengthen-whistleblower-protections-for-ai-researchers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/08/google-employee-group-urges-congress-to-strengthen-whistleblower-protections-for-ai-researchers/amp/",
-      "publishedDateTime": "2021-03-08T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research.md",
-      "title": "Cloud Natural Language Processing (NLP) Market Analysis, Segmentation And Forecast | By Kenneth Research",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-synthetic-data-could-be-the-key-to-unlocking-ai-what-is-it.md",
-      "title": "Synthetic Data Could Be The Key To Unlocking AI — What Is It?",
-      "excerpt": "The truth is that despite the big data boom, most businesses still lack the quantity of high-quality data they need.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6042363121cbb7d95b1f446f%2F0x0.jpg",
-          "width": 820,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/amp/",
-      "publishedDateTime": "2021-03-08T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-tony-pizi-joins-fintech-studios-as-chief-information-officer.md",
-      "title": "Tony Pizi Joins FinTech Studios as Chief Information Officer",
-      "excerpt": "Tony is a superb addition to FinTech Studios and brings a depth of talent and experience to FinTech Studios and proven track record of developing and deploying new innovative technologies at scale.” — Andy Brown,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/43460577/tony-pizi-joins-fintech-studios-as-chief-information-officer",
-      "originalUrl": "https://www.wicz.com/story/43460577/tony-pizi-joins-fintech-studios-as-chief-information-officer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20462887_G.jpg?lastEditedDate=1615183267000",
-          "width": 314,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-gender-bias-in-artificial-intelligence.md",
-      "title": "Gender bias in artificial intelligence",
-      "excerpt": "To mark International Women's Day, the General Secretariat of the Council invited Malvina Nissim, Professor of Computational Linguistics at the University of Groningen, to give a lunchtime talk. Accompanying this,",
-      "sourceUrl": null,
-      "webUrl": "https://www.consilium.europa.eu/en/documents-publications/library/library-blog/posts/gender-bias-in-artificial-intelligence/?filters=1506",
-      "originalUrl": "https://www.consilium.europa.eu/en/documents-publications/library/library-blog/posts/gender-bias-in-artificial-intelligence/?filters=1506",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.consilium.europa.eu/media/48736/equality.png",
-          "width": 800,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europa",
-        "domain": "europa.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna.md",
-      "title": "Nvidia, Harvard researchers use AI to find active areas in cell DNA",
-      "excerpt": "Using a new deep learning toolkit called AtacWorks, researchers are studying how diseases and genomic variation influence specific types of cells in the human body.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/08/0e0d1f1c-d00c-4ad2-a2d0-7dd775d328e3/embargo-atacworks-image.png",
-          "width": 1190,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
-      "publishedDateTime": "2021-03-08T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

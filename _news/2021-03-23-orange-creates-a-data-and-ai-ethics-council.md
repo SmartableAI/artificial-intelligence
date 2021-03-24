@@ -7,7 +7,7 @@ originalUrl: "https://www.orange.com/en/newsroom/press-releases/2021/orange-crea
 webUrl: "https://www.orange.com/en/newsroom/press-releases/2021/orange-creates-data-and-ai-ethics-council"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Orange forms AI, data ethics council"
+    excerpt: "Orange continued efforts around defining ethical principles for use of data and AI, creating an advisory body comprised of 11 independent field experts to oversee its implementation of related technologies."
+    publishedDateTime: 2021-03-24T11:52:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg?fit=600%2C375&#038;ssl=1"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Orange appoints 11-member advisory body on data and AI ethics"
     excerpt: "Orange has announced its latest initiative to support an ethical and socially responsible development of systems based on data and artificial intelligence. A new Data and AI Ethics Council has been appointed to advise the business,"
     publishedDateTime: 2021-03-24T08:56:00Z

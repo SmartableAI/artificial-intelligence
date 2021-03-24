@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-aws-hugging-face-tea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
 type: article
 quality: 108
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     quality: 59
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/AWS-Hugging-Face.png"
+        width: 613
+        height: 315
+        isCached: true
+  - title: "Amazon Web Services collaborates with Hugging Face to simplify AI-based natural language processing"
+    excerpt: "Amazon Web Services Inc. partners with New York based startup, Hugging Face Inc. with the aim of accelerating and simplifying NLP models."
+    publishedDateTime: 2021-03-24T13:01:00Z
+    webUrl: "https://techstory.in/amazon-web-services-collaborates-with-hugging-face-to-simplify-ai-based-natural-language-processing/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 57
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/AWS-Hugging-Face.png"
         width: 613
         height: 315
         isCached: true

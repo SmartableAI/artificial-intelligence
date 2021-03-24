@@ -54,6 +54,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "UPDATE 2-Self-driving truck startup TuSimple files for U.S. IPO"
+    excerpt: "March 23 (Reuters) - Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the ..."
+    publishedDateTime: 2021-03-24T02:24:00Z
+    webUrl: "https://www.reuters.com/article/tusimple-ipo-idAFL4N2LL48I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving trucks won't have big impact on trucker jobs anytime soon"
     excerpt: "From big rigs to buses, millions of American workers currently earn a living driving vehicles. Someday, self-driving systems could make their jobs obsolete. Whether the transition from human drivers to automated ones results in severe layoffs that occur in a short time frame or as smaller disruptions over decades is a simmering question,"
     publishedDateTime: 2021-03-20T05:00:00Z

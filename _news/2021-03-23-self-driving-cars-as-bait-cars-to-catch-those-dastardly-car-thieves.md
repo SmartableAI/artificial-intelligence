@@ -77,6 +77,20 @@ related:
         width: 1440
         height: 753
         isCached: true
+  - title: "10 rising stars of the self-driving business share their tips for breaking into the booming industry"
+    excerpt: "DOW S&P 500 NASDAQ 100 In recent years, the self-driving vehicle industry has been one of the hottest in tech, attracting billions in funding as the engineers at Waymo, Cruise, Argo, Amazon's Zoox, and more battle to bring their tech to market and reap the ..."
+    publishedDateTime: 2021-03-24T12:53:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-stars-tips-for-getting-into-the-industry-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Solomon: Legal liability of self-driving cars"
     excerpt: "Part of the challenge I have in teaching extremely bright business students in the final year of their undergraduate studies is, many of them are considering heading to law school."
     publishedDateTime: 2021-03-23T21:49:00Z

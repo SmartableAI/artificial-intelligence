@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/voyager-labs-partners-
 webUrl: "https://www.prnewswire.com/in/news-releases/voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety-807766452.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,29 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Repsol and Microsoft renew partnership developing AI-powered digital solutions"
-    excerpt: "The companies will co-innovate to build new AI-powered digital solutions ... including recommitting to the Azure cloud platform. “The extension of our collaboration and the supply of renewable energy undoubtedly reaffirms the vision that both companies ..."
-    publishedDateTime: 2021-03-22T16:04:00Z
-    webUrl: "https://www.chemengonline.com/repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions/"
+  - title: "Scienaptic partners with Urjanet to combine the power of AI and permissioned alternative data"
+    excerpt: "Scienaptic, the world’s leading AI-powered credit decision platform provider, announced its partnership with Urjanet, the global leader in utility account aggregation. This alliance will enable Scienaptic to tap Urjanet’s global telecom and utility data to enhance its credit decisioning platform with consumer-permissioned alternative spending data."
+    publishedDateTime: 2021-03-22T16:23:00Z
+    webUrl: "https://www.cuinsight.com/press-release/scienaptic-partners-with-urjanet-to-combine-the-power-of-ai-and-permissioned-alternative-data"
     type: article
     provider:
-      name: The Magazine
-      domain: chemengonline.com
-    quality: 50
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 28
     images:
-      - url: "https://www.chemengonline.com/wp-content/uploads/2018/10/fig2_communication-network.jpg"
-        width: 600
-        height: 400
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
         isCached: true
-  - title: "Egyptian govt signs MoU with Thales to develop AI-powered applications"
-    excerpt: "The Egyptian ICT ministry has signed a memorandum of understanding (MoU) with Thales for cooperation on developing artificial intelligence (AI) applications in different areas, and on building capacity and promoting innovation and research in AI."
-    publishedDateTime: 2021-03-22T09:17:00Z
-    webUrl: "https://www.telecompaper.com/news/egyptian-govt-signs-mou-with-thales-to-develop-ai-powered-applications--1376635"
+  - title: "Egypt ICT Ministry partners with Microsoft, IBM, Cisco, VMware, AWS Digital Egypt Builders Initiative"
+    excerpt: "Egypt's ICT Ministry has partnered with a number of international tech firms operating in Egypt, including Microsoft, IBM, Cisco, VMware, and Amazon Web Services (AWS), under its Digital Egypt Builders Initiative (DEBI),"
+    publishedDateTime: 2021-03-22T12:17:00Z
+    webUrl: "https://www.telecompaper.com/news/egypt-ict-ministry-partners-with-microsoft-ibm-cisco-vmware-aws-digital-egypt-builders-initiative--1376636"
     type: article
     provider:
       name: Telecompaper
       domain: telecompaper.com
-    quality: 19
+    quality: 21
 
 secured: "U2LQbx4tvtPa45JtCm3Nj61bPpG1Iutbd5LrWppcbMumGNjVJAjx0FNGYSKhCWmgjE4O0TUDg/4odcxGCklId6tSEF/OnA9p0yTUI6MVwgWfC8RY+aAQy8nKm6DwcEqZooKXMrxZfdlkvvlzA7Z8zb2/6rKpoE8T/3tdxRpL1uXdCkLTg2O0O/IVgjAu28lbFAJ7SYx8ylrphlBFIfV8iedJ3mMNH27IEfgWcX+W2fXcXYZOBVMT5XBNC72TwTseuuVYiTb/z3C9HBfpgYOdaJwFFG9HsBKLzQCNWrqEZGc7r7iIqgduNsJtVQYRW7YAvXkvHtC4uyBzWmWeCE27VTi0RTp3yc/WoOqSHlidckE=;LluL68wfjfLOvu1zqFgU2Q=="
 ---

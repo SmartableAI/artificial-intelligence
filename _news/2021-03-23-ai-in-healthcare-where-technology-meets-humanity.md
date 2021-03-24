@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/ai-healthcare-where-technology
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/ai-healthcare-where-technology-meets-humanity"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1000
     height: 471
     isCached: true
+
+related:
+  - title: "VinBrain improves quality of healthcare with AI-infused solutions"
+    excerpt: "Driven by its mission to infuse AI into healthcare, VinBrain has developed AI-based healthcare solutions that help doctors make faster and better-informed decisions, improving the quality and consistency of healthcare to the public."
+    publishedDateTime: 2021-03-24T13:44:00Z
+    webUrl: "https://www.vir.com.vn/vinbrain-improves-quality-of-healthcare-with-ai-infused-solutions-83289.html"
+    type: article
+    provider:
+      name: Vietnam Investment Reviev
+      domain: vir.com.vn
+    quality: 56
+    images:
+      - url: "https://www.vir.com.vn/stores/news_dataimages/tamas/032021/24/11/0623_VinBrainAnh1.png?randTime=1616594587"
+        width: 977
+        height: 733
+        isCached: true
 
 secured: "7aj4bsx7z+v7IN7+9uSJ+aNY7zpl4oLTxgfFgyR2bhGzK97mwsu+LC3xbQgM0fqtSigr5tqkw1q7AiafuJkqMVJML7lhfeAigEkgSNvhYsirANFAYOdExs11gIg1rcmxwREDfTgX589MudFo19AlYNB3y2rZyFjedERGBNTqXTZtYzA17T4InaOu8JXUj3FEJ3oWcsx6f5rqonUp+S9bcKsII4OLdHhomLH+eYeyV/RIJ9SxWerDmIp2dhDHe7AQIehX+YO9GwEWXVoxGX5r4GqNlFCqxqaPHLaRxi0GLzJUEagh8yCX4ZA75kZ9yx9DI4ExlJ4AMTF69tt/C6Cn3rNaBu0GoRS24gASwYK7OKOxIgek/AIq2IaE2OmaGwe7nflK2mgyaji3z6LXL8k5olKwZXGXkvq3ceXERe5Dz/oH9iux/FXZSS7cgmOebRCy7lt+lQy0+2tdiIjXvYKo0HyxkCt95FZMg+yGL7ZCBJXGcUnVhlIpH1KB1qbs72eqku72zeBcaagdYoGTN1gbdA==;g1ATCHTy1wl9ikZdq5U4iQ=="
 ---

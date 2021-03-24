@@ -7,8 +7,8 @@ originalUrl: "https://www.chemengonline.com/repsol-and-microsoft-renew-partnersh
 webUrl: "https://www.chemengonline.com/repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Magazine
@@ -25,29 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Voyager Labs Partners with Microsoft to Provide AI SaaS Investigation Platforms to Empower Public Safety"
-    excerpt: "Voyager Labs, a world leader in AI-based investigation solutions, is proud to announce it has partnered with Microsoft to provide"
-    publishedDateTime: 2021-03-22T21:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/voyager-labs-partners-with-microsoft-to-provide-ai-saas-investigation-platforms-to-empower-public-safety-807766452.html"
+  - title: "Microsoft launches live transcriptions for Teams using 'cutting edge AI'"
+    excerpt: "Microsoft is rolling out its AI-powered live transcription service in Microsoft Teams, answering Zoom's recent expansion of its own live transcription feature. Competition remains fierce in the video-meeting market for live transcription functionality."
+    publishedDateTime: 2021-03-24T12:55:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
+      name: ZDNet
+      domain: zdnet.com
+    quality: 103
     images:
-      - url: "https://mma.prnewswire.com/media/1307116/Voyager_Labs_Logo.jpg?p=facebook"
-        width: 704
-        height: 369
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/24/9a2240db-6729-4900-89b4-59aeccc09dfd/teams-live-transcription.jpg"
+        width: 770
+        height: 432
         isCached: true
-  - title: "Egyptian govt signs MoU with Thales to develop AI-powered applications"
-    excerpt: "The Egyptian ICT ministry has signed a memorandum of understanding (MoU) with Thales for cooperation on developing artificial intelligence (AI) applications in different areas, and on building capacity and promoting innovation and research in AI."
-    publishedDateTime: 2021-03-22T09:17:00Z
-    webUrl: "https://www.telecompaper.com/news/egyptian-govt-signs-mou-with-thales-to-develop-ai-powered-applications--1376635"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "EVcm8ANXom3qsf1z1ZeGOBIXxfRY7kdPhM9j/7aeIy8T/e6R9wrzOwj5mDugv5nhbxTwBnutLYQMioFKoNAohz9bBzGi9Pxnt0PadRSBY7S6yhkyjsZ1MORZv+L1off0bc7/j8F8crn/ZWehCPn//H+UMuDXwSkia0A5X8Z35+xim3BQWfJ2nZGPB80wKAv1JKdqE+njdmxZVIzxxobHFKbFwFK6Urqb5W0cpTcYWGmvniH9vxdqygS/kxUbWkDxwmb+vo4XfCb9VykZtwiK5w6JdiIC3w/QALKVAGlsx1jzE5MuP/SFrEodmvUe0+lSokO2FS3fFvGAnbyvSp6qv1IOvaNZUzU16VR/rR7RD2c=;7DSzEAq6PzPWcYod5kGqpA=="
 ---

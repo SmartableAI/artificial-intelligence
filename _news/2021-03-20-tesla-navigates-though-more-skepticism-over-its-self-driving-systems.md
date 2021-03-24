@@ -70,20 +70,6 @@ related:
       name: Futurism
       domain: futurism.com
     quality: 69
-  - title: "Self-Driving Cars Market to See Strong Growth Momentum | Tesla Motors, General Motor, Ford Motor"
-    excerpt: "Mar 19, 2021 (Market Insight Reports) -- A new business intelligence report released by HTF MI with title “Global Self-Driving Cars Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 ..."
-    publishedDateTime: 2021-03-19T19:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor-2021-03-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+7SeVR/6Jxi+FwxLSmCfIAvr+2+nQHtJ+FDYv9W4xfeYGKf19Iw4T8sefhsWPvip1POrIuOekHkKkuwkCMYt7ssCZ3myvV7VJAe+NauGWOMVuGN0aKQ7J8YI7BmDUgu3i0BDc5HXSUcsxhkehg/4Cp+y32PX2dcM5uSJQIC2PxyxU26nMTghB1bcUeokC9V97fw1eQBybwTxfPasl6Xaua8vFir61f6Q4kKLQ4wTTNvO2BrY/f2bVebxoe/7mBQtgbHIucts9S/N9aAHRWx3U9uwNmBqlrX0LXthUmMmeTJnE9d1WEjohWW+/URBapQtGWnWLh9PJMTQxXsEhkI+Rgc6fx6u9QfFnBlFqodsmPU=;eel+QLlQZfIq1VQDIgeN+Q=="
 ---

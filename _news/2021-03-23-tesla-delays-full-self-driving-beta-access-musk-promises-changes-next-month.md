@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-ac
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2018/12/Tesla-Semi-red-wrap-122818-Derek-Rasina-2-300x225.jpg"
         width: 300
         height: 225
-        isCached: true
-  - title: "Self-Driving Cars Market to See Strong Growth Momentum | Tesla Motors, General Motor, Ford Motor"
-    excerpt: "Mar 19, 2021 (Market Insight Reports) -- A new business intelligence report released by HTF MI with title “Global Self-Driving Cars Market Report 2020 by Key Players, Types, Applications, Countries, Market Size, Forecast to 2026 (Based on 2020 COVID-19 ..."
-    publishedDateTime: 2021-03-19T19:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-market-to-see-strong-growth-momentum-tesla-motors-general-motor-ford-motor-2021-03-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "W7LGpa/ktnb9lP9LeV2ClzddYPAXCForeljSvf+nROsXBRq8vxTe84pIsM/PxhzhAA29VBrGcPd5pH/PsFVjACF97BiLGH0++ZDapxIqrX/+XuIF0LXZgetFVMxVVCVcCNKtVtHkUQL2G+woKw+9fhS6V9rMensSYXeL6DgEkyverbAOEsQz1j3ys+tff26MKH9S6HaaJyk8NnS8MyxDpksSz/9yDq2u71YL+1+VbiGqrawYKEUZUBEs3ckgiXeoEAsCjNJYTjkce2Y8kLrr5zZsqKcZoDjl9UHD3H5bI5x74zE5MFPHRDYX/deRUriW04a2kwilh4exLN/dWrkz6Obz5Aim5veQtrEZTzXFwXI=;WbDcsCu93BtbyBl7/UeDNw=="

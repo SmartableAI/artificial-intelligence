@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-24-microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai.md",
+      "title": "Microsoft launches live transcriptions for Teams using 'cutting edge AI'",
+      "excerpt": "Microsoft is rolling out its AI-powered live transcription service in Microsoft Teams, answering Zoom's recent expansion of its own live transcription feature. Competition remains fierce in the video-meeting market for live transcription functionality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/24/9a2240db-6729-4900-89b4-59aeccc09dfd/teams-live-transcription.jpg",
+          "width": 770,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/",
+      "publishedDateTime": "2021-03-24T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration.md",
       "title": "VMware And NVIDIA Bring A100 GPUs To vSphere 7 To Virtualize AI Acceleration",
       "excerpt": "With vSphere 7 Update 2 and NVIDIA AI Enterprise suite, the A100 GPU becomes available to VMware customers running AI workloads in the enterprise data center.",
@@ -107,49 +159,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-22-repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions.md",
-      "title": "Repsol and Microsoft renew partnership developing AI-powered digital solutions",
-      "excerpt": "The companies will co-innovate to build new AI-powered digital solutions ... including recommitting to the Azure cloud platform. “The extension of our collaboration and the supply of renewable energy undoubtedly reaffirms the vision that both companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chemengonline.com/repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions/",
-      "originalUrl": "https://www.chemengonline.com/repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chemengonline.com/wp-content/uploads/2018/10/fig2_communication-network.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Magazine",
-        "domain": "chemengonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-22-how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge.md",
       "title": "How Azure Percept Simplifies Building And Deploying AI Models At Edge",
       "excerpt": "Azure Percept platform attempts to simplify running AI at the edge. It’s a powerful edge computing platform for prototyping computer vision and conversational AI models and deploying them in production.",
@@ -231,49 +240,6 @@
       "provider": {
         "name": "Hart Energy",
         "domain": "hartenergy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-top-quality-ai-900-dumps-become-azure-ai-fundamentals-certified-now.md",
-      "title": "Top Quality AI-900 Dumps - Become Azure AI Fundamentals Certified Now",
-      "excerpt": "Pass AI-900 Certification Exam in the First Try “Why have not Azure AI Fundamentals Certification on your resume?” There was a rise in demand for Mic",
-      "sourceUrl": null,
-      "webUrl": "https://www.madinamerica.com/author/top-quality-ai-900-dumps/",
-      "originalUrl": "https://www.madinamerica.com/author/top-quality-ai-900-dumps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.madinamerica.com/wp-content/uploads/2016/01/MIA.jpg",
-          "width": 300,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-21T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mad in America",
-        "domain": "madinamerica.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1382,6 +1348,58 @@
       "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
       "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
       "publishedDateTime": "2021-03-04T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know.md",
+      "title": "Microsoft Power BI Premium: New platform and pricing, what you need to know",
+      "excerpt": "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/03/617468b2-bd5d-4d32-a5a1-6664df125a57/resize/1200x/58501250979405fa8006522308f7d8fd/power-bi-premium-dashboard-tr.jpg",
+          "width": 1200,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
+      "publishedDateTime": "2021-03-04T03:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-11-zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars.md",
+      "title": "Zoox CEO on Deal With Amazon to Make Self-Driving, Electric Cars",
+      "excerpt": "Aicha Evans, CEO of Zoox Inc, discusses working under Amazon.com Inc. and the progress of their self-driving, electric shuttles. She also shares her experience working in a predominately white male industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i98wzZk3KFYk/v5/-1x-1.jpg",
+          "width": 2342,
+          "height": 1318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-elon-musk-disappointed-with-cyberpunk-2077s-lack-of-self-driving-cars.md",
       "title": "Elon Musk Disappointed With Cyberpunk 2077’s Lack Of Self-Driving Cars",
       "excerpt": "If I were a multi-billionaire I too would like to think I wouldn’t give up my current hobby of complaining about missing features in video games, so in that sense, Elon Musk is a real role model to me.",
@@ -265,6 +317,49 @@
       "provider": {
         "name": "WBOC",
         "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-tesla-touts-self-driving-to-consumers-to-the-dmv-it-tells-a-different-tale.md",
+      "title": "Tesla touts self-driving to consumers. To the DMV, it tells a different tale",
+      "excerpt": "In official correspondence with California’s Department of Motor Vehicles, Tesla lawyers recently admitted the $10,000 option that Tesla sells as Full Self-Driving Capability is not, in fact ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving",
+      "originalUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/02d3f82/2147483647/strip/true/crop/4919x3213+0+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4c%2Fbb%2Ff572d3e343388d62dcdc9415a550%2Fla-photo-jan-4-2021-001.JPG",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-03-09/elon-musk-wants-it-both-ways-with-telsas-full-self-driving?_amp=true",
+      "publishedDateTime": "2021-03-09T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1269,101 +1364,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-top-predictions-for-2019-artificial-intelligence-is-here.md",
-      "title": "Top Predictions for 2019: Artificial Intelligence Is Here",
-      "excerpt": "Yes, that’s a bold statement, but not far off when you think about the advances in technology with AI as its foundation, including: self-driving cars, AI that sounds like a human and insurance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.multihousingnews.com/post/top-predictions-for-2019-artificial-intelligence-is-here/",
-      "originalUrl": "https://www.multihousingnews.com/post/top-predictions-for-2019-artificial-intelligence-is-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.atre.yardi.com/1/115711/images/Adam-Blakecropped.jpg?w=300&h=225",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.multihousingnews.com/post/amp/top-predictions-for-2019-artificial-intelligence-is-here/",
-      "cdnAmpWebUrl": "https://www-multihousingnews-com.cdn.ampproject.org/c/s/www.multihousingnews.com/post/amp/top-predictions-for-2019-artificial-intelligence-is-here/",
-      "publishedDateTime": "2021-03-04T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Multi-Housing News",
-        "domain": "multihousingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-baidu-said-to-win-hong-kong-bourse-nod-for-second-listing.md",
-      "title": "Baidu Said to Win Hong Kong Bourse Nod for Second Listing",
-      "excerpt": "The tie-up is intended to help Baidu deploy its Apollo self-driving tech in more vehicles, a person familiar with the matter has said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-04/baidu-said-to-win-hong-kong-bourse-approval-for-second-listing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYiS4foB8OXk/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Orange forms AI, data ethics council"
+    excerpt: "Orange continued efforts around defining ethical principles for use of data and AI, creating an advisory body comprised of 11 independent field experts to oversee its implementation of related technologies."
+    publishedDateTime: 2021-03-24T11:52:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 74
+    images:
+      - url: "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg?fit=600%2C375&#038;ssl=1"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Orange creates a Data and AI Ethics Council"
     excerpt: "Orange announces the creation of a Data and AI Ethics Council made up of 11 independent recognized experts. Chaired by Stéphane Richard, Orange’s Chairman and Chief Executive Officer, the role of this advisory and independent body is to support the company’s implementation of ethical principles governing the use of data and Artificial Intelligence technologies."
     publishedDateTime: 2021-03-23T16:19:00Z

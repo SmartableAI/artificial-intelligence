@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Nintendo Switch Update Could Use New Nvidia Chip & DLSS Rendering"
-    excerpt: "Rumours of an updated Nintendo Switch model continue to pile up, with the latest report suggesting the next model could use a new Nvidia and AI-upscaled visuals."
-    publishedDateTime: 2021-03-23T20:13:00Z
-    webUrl: "https://www.cgmagonline.com/2021/03/23/nintendo-switch-update-nvidia-dlss/"
-    type: article
-    provider:
-      name: Comics Gaming Magazine
-      domain: cgmagonline.com
-    quality: 39
-    images:
-      - url: "https://www.cgmagonline.com/wp-content/uploads/2021/03/nintendo-switch-update-could-use-new-nvidia-chip-dlss-rendering.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The rumored new Nintendo Switch might use AI to upscale images in real-time"
     excerpt: "DLSS basically uses AI to upscale images in real-time, so you end up with a higher-resolution image without the image quality hit that traditional upscaling methods bring. It’s a perfect fit for the power-constrained handheld console,"
     publishedDateTime: 2021-03-23T16:46:00Z

@@ -42,6 +42,20 @@ related:
         width: 971
         height: 462
         isCached: true
+  - title: "Amazon Web Services collaborates with Hugging Face to simplify AI-based natural language processing"
+    excerpt: "Amazon Web Services Inc. partners with New York based startup, Hugging Face Inc. with the aim of accelerating and simplifying NLP models."
+    publishedDateTime: 2021-03-24T13:01:00Z
+    webUrl: "https://techstory.in/amazon-web-services-collaborates-with-hugging-face-to-simplify-ai-based-natural-language-processing/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 57
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/AWS-Hugging-Face.png"
+        width: 613
+        height: 315
+        isCached: true
   - title: "The Move to E-learning Is Heating Up"
     excerpt: "Inexorable forces are propelling the growth of e-learning at a blistering pace. Online-learning markets were ignited by high education costs, business training programs and a wave of tech innovations,"
     publishedDateTime: 2021-03-23T14:15:00Z
