@@ -7,7 +7,7 @@ originalUrl: "https://www.bangkokpost.com/thailand/pr/2088463/ais-teams-up-with-
 webUrl: "https://www.bangkokpost.com/thailand/pr/2088463/ais-teams-up-with-thailand-ai-research-institute-showcasing-ai-platform-of-thai-speech-emotion-recognition-in-world-first-tool"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,59 @@ images:
     width: 700
     height: 467
     isCached: true
+
+related:
+  - title: "Artificial Intelligence-Emotion Recognition Industry Global Market Growth, Status and Outlook Research Report 2020"
+    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6515304-covid-19-outbreak-global-artificial-intelligence-emotion-recognition In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the ..."
+    publishedDateTime: 2021-03-23T05:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Enterprise Artificial Intelligence Market Research Report 2021 Market Insights, Overview, Analysis And Forecast 2021"
+    excerpt: "Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and"
+    publishedDateTime: 2021-03-22T19:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-research-report-2021-market-insights-overview-analysis-and-forecast-2021-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Energy Market Key Players, Competitive Landscape, Growth, Statistics, Revenue and Industry Analysis Report by 2027"
+    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
+    publishedDateTime: 2021-03-22T16:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-key-players-competitive-landscape-growth-statistics-revenue-and-industry-analysis-report-by-2027-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Singapore Facial Recognition Systems Markets, 2016-2019 & 2020-2026 – ResearchAndMarkets.com"
+    excerpt: "Singapore Facial Recognition Systems Market size is projected to grow at a CAGR of 17.6% during 2020-2026 Singapore’s facial recognition systems market is one of the emerging markets in the Asia Pacific region."
+    publishedDateTime: 2021-03-19T10:58:00Z
+    webUrl: "https://www.financialbuzz.com/singapore-facial-recognition-systems-markets-2016-2019-2020-2026-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 8
 
 secured: "NYhmkTB5hxcAavZQey/YVlD8weFlPoLv4o3v4axXoffzoLCo6DOK61QnUc5Dbjl3WvlRgvsoERfqx3uHF2TzsxXQ5ATHnWHhLiPrM1ZT938IxS9J/+hbSolTN95s6YiETo6AGugT7wCG6FEVF7/SkRmvV5kvt49Xq7N7FMzdD9uK4Tg9YVhvQ9eqHiNqnFzJsiE+FyRz2N9Zvb1dSDx6VfIhBMABBULTzK1r2rz0qq96RB1GM6X7yXbAQ+fOi5g1NOWILco4IXLC74LgX4qEm8TvPmRNZ4V9SjN7qfM5R0ET8zt6PfxWhR1gJ5vLs4vuaXXehsfgq3HNJGG0cZpzH2P3yeQ58kNiNDjmvfGlhkNoPzHlN5tMqdS7k+fVg4cof7Q9uCBBEMZK1LvRA/MU++FeoyQ++nkrGToHKEcFim3MP60NhNWZpO5qNqm3ngZP5GjtMTvL7z9Z8gqZncD0PxtUgstQhvIB32nMPcIuwZ/muO3EDAH+fP07l+hD2kfdO2LN3yOQKcw2aTd4PAE+6A==;WW5Vkot89l/+HdCCMEpfCw=="
 ---

@@ -1,32 +1,48 @@
 ---
 category: news
 title: "Walt Disney World tests facial recognition at park entry"
-excerpt: "WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission. The pilot program will be in testing Participation is optional,"
-publishedDateTime: 2021-03-23T18:32:00Z
-originalUrl: "https://www.wsbtv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-webUrl: "https://www.wsbtv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-ampWebUrl: "https://www.wsbtv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+excerpt: "Walt Disney World is testing a new technology that could match a ticket holder with their admission. WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission."
+publishedDateTime: 2021-03-24T01:21:00Z
+originalUrl: "https://www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+webUrl: "https://www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+ampWebUrl: "https://www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WSB-TV
-  domain: wsbtv.com
+  name: WPXI
+  domain: wpxi.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/cmg/JXQKC3R5RJCYLF7GJ7XCJC5DGY.jpeg"
-    width: 2560
-    height: 1707
+  - url: "https://d1hfln2sfez66z.cloudfront.net/03-24-2021/t_b580ba8e37154ad6a5916bb0e2f967c9_name_Disney_tests_facial_recognition_at_park_entry_Poster.jpg"
+    width: 960
+    height: 540
     isCached: true
 
 related:
+  - title: "Disney begins testing facial recognition software"
+    excerpt: "Park goers entering the Magic Kingdom at Walt Disney World Resort can opt-in to testing Disney’s new facial recognition software. This segment aired as part of KTLA 5 Live on March 23, 2021."
+    publishedDateTime: 2021-03-24T01:16:00Z
+    webUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-software/"
+    ampWebUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 59
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/03/download-4-1.png?w=1280"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Disney begins testing facial recognition technology"
     excerpt: "ORLANDO, Fla. — Could park-goers be using facial recognition to enter Walt Disney World in the near future? A test running at the Magic Kingdom is working to determine just that. Starting March 23, guests planning to visit the Magic Kingdom have the ..."
     publishedDateTime: 2021-03-23T18:43:00Z
@@ -75,6 +91,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Bias in facial recognition isn’t hard to discover, but it’s hard to get rid of"
+    excerpt: "Joy Buolamwini is a researcher at the MIT Media Lab who pioneered research into bias that’s built into artificial intelligence and facial recognition. And the way she came to this work is almost a little too on the nose."
+    publishedDateTime: 2021-03-23T04:08:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of?amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 57
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/coded-bias-ft-img.jpg?fit=480%2C270"
+        width: 480
+        height: 270
+        isCached: true
   - title: "See Our Guests: Walt Disney World tests facial recognition technology at park entrances"
     excerpt: "Walt Disney World is testing facial recognition technology that they hope will speed up the process of entering the theme park. Disney announced the"
     publishedDateTime: 2021-03-23T21:20:00Z
@@ -91,19 +123,19 @@ related:
         width: 1000
         height: 584
         isCached: true
-  - title: "OCBC ATMs to begin offering facial recognition for transactions"
-    excerpt: "Banking customers in Singapore can now use facial recognition at ATMs to check their account balance, with the feature possibly replacing ATM cards in future."
-    publishedDateTime: 2021-03-19T08:09:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/19/ocbc-atms-to-begin-offering-facial-recognition-for-transactions"
+  - title: "Using nationalism to refocus facial recognition concerns in China"
+    excerpt: "The violation of people’s biometric data privacy, as denounced by the TV show, has the public and industry watchers urging for a swifter legislative push."
+    publishedDateTime: 2021-03-22T17:55:00Z
+    webUrl: "https://www.biometricupdate.com/202103/using-nationalism-to-refocus-facial-recognition-concerns-in-china"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/19/1083321.jpg"
-        width: 1240
-        height: 826
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
   - title: "Walt Disney World begins testing facial recognition technology"
     excerpt: "ORLANDO, Fla. – Walt Disney World is now testing a new facial recognition technology at its Magic Kingdom theme park. The new technology captures an image of a guest’s face and converts it into a unique number, which is then associated with the form of ..."
@@ -134,6 +166,6 @@ related:
         height: 630
         isCached: true
 
-secured: "GYf5B9zlWW8FbNo0uTxBMwyNPHLpDPzICKwRqee+E4DoyXX4l+ZgBwmcZ8dE3yGgm5NzcJuVqiXRUpIlQIWSuHxHL5DKpulpSVfg7b0V3WWi2kIfREm1xsqSp3H9Uy7eqhUS4jo/uco7QGcEPJuHIOolG0/N7zCXEhjKu4MZ0q95+XJKymvRksO55BSvdHMGMUdsyubp8TYwa6GnKE+ZQZjkSNRPQUdTp5Kie+ydlxzO9YXjw4LPWSxjyjdwLg7IRk4KIKV1cxkRa7X/pGIGTV96MMxQVY6QIc01ylIdaH0Df9WkzrnmN97KcmV/+YXKTCDowyew7EZTABsbAlMTpCwNdle+LrCs+Jml5kQjmG9EBM1SsNuggTGNzwGROSKpgzKzuK4uuUwBSLZ/aIKo/DSRcs3a1raKe4C7NekFlFv4KIS3yNEc9xfNWmzx6/+HtICALrMPGqA6N8JxoAtqtg00OavwTzVRWUFtOoln9eP1oQ3zcV4qcLCbMdBNMao3YGJlBTFaptdOruDLGiPIsg==;xP60w2ACFu2hLJxLcN2auQ=="
+secured: "lUognwQU2a6595HSfb/HVfzP8ZOSlNDNN19r5maLLbkNBxnU6ZeUX2P+iWS2ZzjeO1l6TLBYgXzwsPqezMx0j4+LH8/cc5BvFdh6OV+Ik3FHUX31C7Ug2OQdfolmS79j/cYolfiuDHMNWNsonfA36PiL7StgzrA26aqWRGUt4oakaMGwNvD0MG0hvf2VwD2rnjc6ASfp3t4Mzkgq2chl5wZRid+Js47VNVXFQklKz9IUvliOgxsN02B4n+wEzvDtv4TO6qhQ5GxQjuCNWdnV5HE4lDh4PwmNqumy98EsPfWmZvKjPxNAHx4dKMd0QCPHs7R/9A14/WJgV0TCtIplF4RnTq1oEPB0xI21WtBFavc=;3vJ8fQGx1QnNNS+s5lcFXQ=="
 ---
 

@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser"
-    excerpt: "The startup lost $178 million last year, reflecting how the company is still in the early stages of developing commercially ready technology."
-    publishedDateTime: 2021-03-23T23:22:00Z
-    webUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572?mod=newsviewer_click"
+    excerpt: "Self-driving company TuSimple Inc. unveiled paperwork for its initial public offering Tuesday showing it has lost more than $300 million over the past three years in the race to be the first to launch fully autonomous long-haul trucks. TuSimple ..."
+    publishedDateTime: 2021-03-24T01:39:00Z
+    webUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
     ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
     type: article
@@ -68,7 +68,49 @@ related:
         width: 1054
         height: 635
         isCached: true
+  - title: "Self-driving trucks won't have big impact on trucker jobs anytime soon"
+    excerpt: "From big rigs to buses, millions of American workers currently earn a living driving vehicles. Someday, self-driving systems could make their jobs obsolete. Whether the transition from human drivers to automated ones results in severe layoffs that occur in a short time frame or as smaller disruptions over decades is a simmering question,"
+    publishedDateTime: 2021-03-20T05:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-trucks-wont-have-big-impact-trucker-jobs-anytime-soon"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/WAYMO-MAIN_i_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Honda's World-First Level 3 Self-Driving Tech Won’t Hog the Passing Lane"
+    excerpt: "Tesla vehicles optioned with the $10,000 Full Self-Driving upgrade for Autopilot utilize a feature called Auto Lane Change that works similarly (you can watch a demo here), though Tesla's offering is presently capped at Level 2 and requires the driver to ..."
+    publishedDateTime: 2021-03-23T17:36:00Z
+    webUrl: "https://www.thedrive.com/tech/39904/even-the-worlds-first-production-car-with-level-3-self-driving-tech-wont-hog-the-passing-lane"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 23
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Legend-Hero-Maybe.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Arlington partnering with Via, Maxs Mobility on self-driving vehicle program for downtown, UTA"
+    excerpt: "Arlington is expanding its self-driving vehicle program. Via Arlington customers can now select to be picked up in a self-driving vehicle for trips around Do"
+    publishedDateTime: 2021-03-23T19:19:00Z
+    webUrl: "https://fortworthbusiness.com/news/arlington-is-expanding-its-self-driving-vehicle-program/"
+    type: article
+    provider:
+      name: Fort Worth Business Press
+      domain: fortworthbusiness.com
+    quality: 12
+    images:
+      - url: "https://fortworthbusiness.com/wp-content/uploads/2021/03/Rapid-3-scaled.jpg"
+        width: 2048
+        height: 1461
+        isCached: true
 
-secured: "4z70cF8b8URilAMw7t6hjWXB/qEt8N/A4G4+nxCC1fgnV7Ml9x4CPzBrYSJuTx1iGnOfGd0zIYrBXO+F0obllbWLuUxrxy+jSFcmcB9muT9sWQhFuiAmtNLuFf6R9Oxgk2mXFiYlo9cyllvrab8Hbq+KTwWzE5oDYPdDboKY1AGcdJ5IoyA7MD0PL8gmLUO+cRoGasGrEvbPqstpvRXG8y1NBN8tE6tuaFQKFEq14tYvtvQf1S+Zu7SntO0Res/kkYrk52O0AzUxUK+obwHK7XyCBfuDpCdyHaS2ZarOUHlJn0MV0Ws4dj3iD64jgywEAs4xQkKu1tg9FWXWWEF5XBV1mRD5eut+wbltBMAruPE=;RijcuTU74ooh3JjPbMk9iA=="
+secured: "uAPI3L3ti8hq+hOScP0rAPUzF1z2g6KgObxtB4ZEB1ogher+QvwT5+CEZ0l4IkCSAtf7mCja2e9pdXLLWCklN0PGhMLdh2pC/W/HNPJM3tVCW1X2H75BMPW2WUPD07B84B2vWiI92riTcib23nPEa++KBmMKwlLcH4/V1jjy0+I/0vVmd8ES5TI7rzOAoFDN2noGJjISoOJPB92Sp+L2w1cTWjb9qcR4PoDcf3cF/pXSkNBTyPdhqNNaQaE1FY9K1ClkZibukYSXMIBuwdIrcsE+dbLaTa+TXUR6czda2gfQRpl3v+pxGJsl8ZMSMiSl6J33KG4VAPoJoERmrycOQWgpqhTu58idEeXk/Jb3aGWQSwAX60/VsS9pemE9r9TKSlScTkyEt9SfUo8JLHYY49AlIQpDI9jXITxvw8jMy3/1it4td4Q27LYbQv5xlH2J1qAO8phsl830KqBsJnyQu/TRpI7b4WLxJFlPXaxsxFj+7SrKmxg3qg0lc6eYlhtAh4gBpvz6N4KSGGckuXMFQw==;sPoGsYEhF3HCRtYI/WBSTQ=="
 ---
 

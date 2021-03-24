@@ -20,6 +20,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "FinTech, digital banking makes gains against traditional banking systems"
+    excerpt: "Digital banking is not a fixed concept but a spectrum, and individual banks need to decide where on that spectrum they wish to place themselves, says Paul Kayrouz"
+    publishedDateTime: 2021-03-21T14:47:00Z
+    webUrl: "https://www.arabianbusiness.com/commercial-banking/460581-fintech-digital-banking-makes-gains-against-traditional-banking-systems"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 33
+
 secured: "BINY0sOipy5fFbeOofgXkKU2DR1IQfKUAPGqLrWHOfZ7vh/Pu9Aayr+EN7KharkVBnJ4NrZF9cQMD4mc4z7tAP9dn7hEu4j/FpsooW2dBD1z95vyyC/Ir40QUSRuY169X/t5wFJBjdo3jko8cEcJHIB6iT0nFRUfKKG+wyp/u3ON6DYClCt/vxKq2g1v4WKcN1YUsgyk9bkYYd9gi6JYREOHw9st8wRWN4rJLuiYXWfbRWQ0v0uQ8PMnu5EYYB6cfMdsZZV0iLZmtO5F+PtjpxQVpMW06FnBHVNMFVrYWb2aCemImVLWehQmRV0lhkWGdyUeEISTXE74PGdkV1X60jIML5S/dmJUrLOPbWLKvek=;4V67dHF7NPfAQWzEq+cn1A=="
 ---
 

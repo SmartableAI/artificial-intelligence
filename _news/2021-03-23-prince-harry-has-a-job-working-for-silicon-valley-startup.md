@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsoctv.com/news/trending/prince-harry-has-job-working-si
 cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/trending/prince-harry-has-job-working-silicon-valley-startup/4FGAEY4D4FHHHMOHVFRZST3Z5I/?outputType=amp"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Prince Harry now a tech exec at a Silicon Valley startup"
+    excerpt: "You may now address Prince Harry by a new title: chief impact officer. That's the job the Duke of Sussex has taken at BetterUp, a San Francisco-based startup focused on coaching and mental health. BetterUp \"brings together world-class coaching,"
+    publishedDateTime: 2021-03-24T01:48:00Z
+    webUrl: "https://www.cnet.com/news/prince-harry-now-a-tech-exec-at-a-silicon-valley-startup/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/prince-harry-now-a-tech-exec-at-a-silicon-valley-startup/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/prince-harry-now-a-tech-exec-at-a-silicon-valley-startup/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 72
+    images:
+      - url: "https://www.cnet.com/a/img/eaExYdC-6NFFHgTjfNOh72-nJsY=/1200x630/2021/03/24/f0cb95d0-8388-4f28-a9a4-13369bd4bcce/gettyimages-1231537336.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Prince Harry takes a job at Silicon Valley start-up"
     excerpt: "Prince Harry has a new title: tech executive. The Duke of Sussex is the newest employee of BetterUp, a Silicon Valley start-up, the Wall Street Journal reported Tuesday. No longer a working member of the British royal family,"
     publishedDateTime: 2021-03-23T16:34:00Z

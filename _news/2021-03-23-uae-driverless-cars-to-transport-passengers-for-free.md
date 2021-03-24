@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "FMCSA driverless truck message stokes fear in the workforce"
-    excerpt: "Many truck-focused technology startups are currently piloting varied levels of autonomous driving solutions with fleet and OEM partners, though truly driverless trucks ... interfaces, artificial intelligence, and automated steering and braking."
-    publishedDateTime: 2021-03-19T09:00:00Z
-    webUrl: "https://www.trucker.com/regulations/article/21158365/are-driverless-truck-workforce-fears-warranted"
-    type: article
-    provider:
-      name: Trucker
-      domain: trucker.com
-    quality: 39
-    images:
-      - url: "https://base.imgix.net/files/base/ebm/trucker/image/2021/03/16x9/Scharfsinn86_dreamstime_selfdriving_truck_highway.6052069dd112b.605374170780b.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Driverless vehicles to transport passengers for free across Abu Dhabi"
     excerpt: "The Department of Municipalities and Transport (DMT) will start the trial operations of autonomous vehicles for transporting passengers in Abu Dhabi. Driverless vehicles will be piloted in two phases."
     publishedDateTime: 2021-03-23T08:37:00Z

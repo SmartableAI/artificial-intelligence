@@ -19,22 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "In a face off against FinTech, traditional face-to-face banks must become more bespoke than ever"
-    excerpt: "It’s true that AI, data and automation has come a long way in making customer ... customers simply want to know their money isn’t invested at the expense of others. While FinTech and financial providers are recognising this ESG trend, with financial ..."
-    publishedDateTime: 2021-03-19T08:00:00Z
-    webUrl: "https://www.cityam.com/fintech-traditional-banking-bespoke/"
-    ampWebUrl: "https://www.cityam.com/fintech-traditional-banking-bespoke/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/fintech-traditional-banking-bespoke/amp/"
+  - title: "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem"
+    excerpt: "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization."
+    publishedDateTime: 2021-03-20T19:27:00Z
+    webUrl: "https://www.padovanews.it/2021/03/20/korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem/"
+    ampWebUrl: "https://www.padovanews.it/2021/03/20/korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem/amp/"
+    cdnAmpWebUrl: "https://www-padovanews-it.cdn.ampproject.org/c/s/www.padovanews.it/2021/03/20/korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem/amp/"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 61
-    images:
-      - url: "https://www.cityam.com/wp-content/uploads/2020/04/1208404284.jpg"
-        width: 1024
-        height: 683
-        isCached: true
+      name: padovanews.it
+      domain: padovanews.it
+    quality: 39
 
 secured: "rDMPuR+EtMzGLdZRL7liFwtnTnTDbr1PotVjoQgRpNsl5Dp7VrNlv7AJOQukWYzBXSq/kKdTCawWLGPMQWYE1eYaWXP5OZ6yMTKcvt0vWtX5SQU7S74I0Ln0z1yiq9JJMxVYnaqD8iWma4WApP4J4iSiFc95q2NxOzxIm1ICTXRUgnBbF0AisV1D5D0D1QX+kkNZ9Itizf8ro10X/IeA/rgQZu3icdiHx7U/obca7nZksF9W2lPN0dS4DyyWYzCb9sjj+Q3RJd9vF7qYzuSUGNmb5j+DySW+af/HesbO2jp0XwQWhSdYozQwmNDgRyx1iaNishLZjDMkzuYbevxyk922ehNYDvr8bXTqjc6P5hPeGD5KVE9k5FBvnn+D5O+XDa4yEDyAwnI0ils8epBsJ/UV9QkhOvP/nW75Xq/Ek/N//zWm/LqXPdUR3Cc0fWNc4Q9OJ7COu8j8QZLsiajHdTQg9zesUAgLKFX5/XimVBkIq2j8zAGu45qWGUV8eVO8V7GJCHRWK+th0Ngz8mZtcw==;mY1o84z8hDSO6A5bbX7cXQ=="
 ---

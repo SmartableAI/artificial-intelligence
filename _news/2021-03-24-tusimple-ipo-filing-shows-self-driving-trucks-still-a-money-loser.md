@@ -1,15 +1,15 @@
 ---
 category: news
 title: "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser"
-excerpt: "The startup lost $178 million last year, reflecting how the company is still in the early stages of developing commercially ready technology."
-publishedDateTime: 2021-03-23T23:22:00Z
-originalUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572?mod=newsviewer_click"
+excerpt: "Self-driving company TuSimple Inc. unveiled paperwork for its initial public offering Tuesday showing it has lost more than $300 million over the past three years in the race to be the first to launch fully autonomous long-haul trucks. TuSimple ..."
+publishedDateTime: 2021-03-24T01:39:00Z
+originalUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
+webUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
 ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
 type: article
 quality: 74
-heat: 104
+heat: 134
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
         width: 1054
         height: 635
         isCached: true
+  - title: "Self-driving trucks won't have big impact on trucker jobs anytime soon"
+    excerpt: "From big rigs to buses, millions of American workers currently earn a living driving vehicles. Someday, self-driving systems could make their jobs obsolete. Whether the transition from human drivers to automated ones results in severe layoffs that occur in a short time frame or as smaller disruptions over decades is a simmering question,"
+    publishedDateTime: 2021-03-20T05:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-trucks-wont-have-big-impact-trucker-jobs-anytime-soon"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://www.autonews.com/s3/files/styles/800x600/public/WAYMO-MAIN_i_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Self-Driving Truck Developer TuSimple Files for IPO"
     excerpt: "Self-driving truck developer TuSimple is moving forward with plans to become a publicly traded company. The technology startup on March 23 announced that it had filed a registration statement with the U."
     publishedDateTime: 2021-03-23T21:45:00Z
@@ -72,7 +86,35 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Honda's World-First Level 3 Self-Driving Tech Won’t Hog the Passing Lane"
+    excerpt: "Tesla vehicles optioned with the $10,000 Full Self-Driving upgrade for Autopilot utilize a feature called Auto Lane Change that works similarly (you can watch a demo here), though Tesla's offering is presently capped at Level 2 and requires the driver to ..."
+    publishedDateTime: 2021-03-23T17:36:00Z
+    webUrl: "https://www.thedrive.com/tech/39904/even-the-worlds-first-production-car-with-level-3-self-driving-tech-wont-hog-the-passing-lane"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 23
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Legend-Hero-Maybe.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Arlington partnering with Via, Maxs Mobility on self-driving vehicle program for downtown, UTA"
+    excerpt: "Arlington is expanding its self-driving vehicle program. Via Arlington customers can now select to be picked up in a self-driving vehicle for trips around Do"
+    publishedDateTime: 2021-03-23T19:19:00Z
+    webUrl: "https://fortworthbusiness.com/news/arlington-is-expanding-its-self-driving-vehicle-program/"
+    type: article
+    provider:
+      name: Fort Worth Business Press
+      domain: fortworthbusiness.com
+    quality: 12
+    images:
+      - url: "https://fortworthbusiness.com/wp-content/uploads/2021/03/Rapid-3-scaled.jpg"
+        width: 2048
+        height: 1461
+        isCached: true
 
-secured: "tSXFfqdy3wTBqL+2QbETnm8NIFkUcBBYg2bLkuLcK0D4tkN2VdMWbiXVj432j6za4A7YU5iVOL3YY/FzjkYvSE0icdc/a+vQlbR7LKL74TeELEKPDE0wN2i9yICKL/pbhpFh51bxZu/MnDN2OUImG3O/KVsTdybt4RVqhEBkDUjrviVSUzi+8BuSfODtonatB1uQKm8msEoLzwwRm1B3k9qj1mg+aDN0bwmoGX+Tbf6ctnxRxsdv3MQMcVc8tCBCRhju3lr/3SWuBFYuPG97b2tIw3burqO86/EC/76myBCPUzFzGUQFmCYRuiHN+/du9BsocWHW92d7V+LIcDMp4MhotGJ3Z0L+F4bUSOCJqnM=;kjKHQT/4yTnrPjOiFPXheg=="
+secured: "bpXWIOu5cp4WQsjlS6oLFJVdMAorZ/CaAmOLhClweKr0T42FYjN03bJQ5DGxQxbt5QUnlEcevhX+95PoYit+Km/qP1KjXCDcL8H5/N1Ycb5rjgzN/53dyjbM70fvQ1ovbyLMogok7O2YDvU1KldcPwXf+d9C5tnUV4rEcneojoraPfG02iON3XOrZdPkMwzesJnxE3/3HBDTKTUpGzUb0iQ5SDpbj+ffyPtHHO691AEGI+nM4N0L0qDh0lBclhdpvnKv0RjCfBdOjxb1sxnmw/NVvrUTK//KznX3/7zFYJkxEBNJXRUzU0CQoSC28MoWD7abE2tt8Jzoiov554tmcMNVYIZgm+cSwFPDwcWWQv8=;4gc6Dp4zeM6yxaeQqdJB6g=="
 ---
 

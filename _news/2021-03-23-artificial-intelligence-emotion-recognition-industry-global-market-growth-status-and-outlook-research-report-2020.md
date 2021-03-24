@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global 3D Facial Recognition Systems Market 2021 Vital Challenges and Forecast Analysis by 2031"
-    excerpt: "The latest research report provides a complete assessment of the Global 3D Facial Recognition Systems market for the forecast year 2022-2031, which is beneficial for companies regardless of their size and revenue."
-    publishedDateTime: 2021-03-19T08:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-3d-facial-recognition-systems-market-2021-vital-challenges-and-forecast-analysis-by-2031-2021-03-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Enterprise Artificial Intelligence Market Research Report 2021 Market Insights, Overview, Analysis And Forecast 2021"
     excerpt: "Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and"
     publishedDateTime: 2021-03-22T19:45:00Z
@@ -56,10 +42,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive System and Artificial Intelligence Systems Market 2021 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2031"
-    excerpt: "The major vendors covered: IDEAL.com, SAP, Ipsoft, Intel, Google, IBM, Wipro, Albert Technologies, Megvii Technology, Astute Solutions, Ada Support, IFlyTek, Microsoft ... financial services and various challenges faced by Cognitive System and Artificial ..."
-    publishedDateTime: 2021-03-21T07:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-and-artificial-intelligence-systems-market-2021-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2031-2021-03-21"
+  - title: "Artificial Intelligence in Energy Market Key Players, Competitive Landscape, Growth, Statistics, Revenue and Industry Analysis Report by 2027"
+    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
+    publishedDateTime: 2021-03-22T16:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-key-players-competitive-landscape-growth-statistics-revenue-and-industry-analysis-report-by-2027-2021-03-22"
     type: article
     provider:
       name: MarketWatch
@@ -70,17 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Services Market Report: Trends, Forecast, Projects between 2021 and 2027"
-    excerpt: "Overview of the report A recent published report on the Cognitive Services market gives an in depth evaluation of the industry in its brief overview of the Cognitive Services market The review discusses several key aspects of the Cognitive Services"
-    publishedDateTime: 2021-03-22T11:34:00Z
-    webUrl: "https://www.openpr.com/news/2259863/global-cognitive-services-market-report-trends-forecast"
-    ampWebUrl: "https://www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
+  - title: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool"
+    excerpt: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool, taking Thai companies to another level to deal with current challenges AIS has joined the Thailand AI Research Institute ..."
+    publishedDateTime: 2021-03-23T10:22:00Z
+    webUrl: "https://www.bangkokpost.com/thailand/pr/2088463/ais-teams-up-with-thailand-ai-research-institute-showcasing-ai-platform-of-thai-speech-emotion-recognition-in-world-first-tool"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 11
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20210323/c1_2088463_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Singapore Facial Recognition Systems Markets, 2016-2019 & 2020-2026 – ResearchAndMarkets.com"
     excerpt: "Singapore Facial Recognition Systems Market size is projected to grow at a CAGR of 17.6% during 2020-2026 Singapore’s facial recognition systems market is one of the emerging markets in the Asia Pacific region."
     publishedDateTime: 2021-03-19T10:58:00Z

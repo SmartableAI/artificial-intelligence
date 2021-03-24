@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Prince Harry now a tech exec at a Silicon Valley startup"
+    excerpt: "You may now address Prince Harry by a new title: chief impact officer. That's the job the Duke of Sussex has taken at BetterUp, a San Francisco-based startup focused on coaching and mental health. BetterUp \"brings together world-class coaching,"
+    publishedDateTime: 2021-03-24T01:48:00Z
+    webUrl: "https://www.cnet.com/news/prince-harry-now-a-tech-exec-at-a-silicon-valley-startup/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/prince-harry-now-a-tech-exec-at-a-silicon-valley-startup/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/prince-harry-now-a-tech-exec-at-a-silicon-valley-startup/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 72
+    images:
+      - url: "https://www.cnet.com/a/img/eaExYdC-6NFFHgTjfNOh72-nJsY=/1200x630/2021/03/24/f0cb95d0-8388-4f28-a9a4-13369bd4bcce/gettyimages-1231537336.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Prince Harry has a job working for Silicon Valley startup"
     excerpt: "Prince Harry has gotten a job. He has been hired by Silicon Valley startup BetterUp. The Duke of Sussex is currently listed as chief impact officer and a member of the company’s leadership. BetterUP coaches and provides mental health services to companies,"
     publishedDateTime: 2021-03-23T16:53:00Z

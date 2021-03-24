@@ -73,6 +73,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "FDA Approves Machine Learning Tool for COVID-19 Screening"
+    excerpt: "The screening device leverages machine learning to identify certain biomarkers that may be indicative of COVID-19."
+    publishedDateTime: 2021-03-23T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/fda-approves-machine-learning-tool-for-covid-19-screening"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-181492494.jpg"
+        width: 700
+        height: 364
+        isCached: true
   - title: "Machine learning tool can predict severe illness, death from COVID-19 in patients"
     excerpt: "Researchers developed a machine learning calculator that provides predictions of whether patients hospitalized with COVID-19 will progress to severe illness or death, according to a March 2 study published in Annals of Internal Medicine."
     publishedDateTime: 2021-03-19T18:26:00Z
