@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/prince-harry-now-a-tech-exec-at
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/prince-harry-now-a-tech-exec-at-a-silicon-valley-startup/"
 type: article
 quality: 72
-heat: 102
+heat: 104
 published: true
 
 provider:

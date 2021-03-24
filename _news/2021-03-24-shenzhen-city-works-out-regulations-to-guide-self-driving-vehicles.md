@@ -85,6 +85,20 @@ related:
         width: 1030
         height: 580
         isCached: true
+  - title: "Arlington partnering with Via, Maxs Mobility on self-driving vehicle program for downtown, UTA"
+    excerpt: "Arlington is expanding its self-driving vehicle program. Via Arlington customers can now select to be picked up in a self-driving vehicle for trips around Do"
+    publishedDateTime: 2021-03-23T19:19:00Z
+    webUrl: "https://fortworthbusiness.com/news/arlington-is-expanding-its-self-driving-vehicle-program/"
+    type: article
+    provider:
+      name: Fort Worth Business Press
+      domain: fortworthbusiness.com
+    quality: 12
+    images:
+      - url: "https://fortworthbusiness.com/wp-content/uploads/2021/03/Rapid-3-scaled.jpg"
+        width: 2048
+        height: 1461
+        isCached: true
 
 secured: "cdrvl6MmYiUjWM+kEShknvDpoC/XZJdXSuECKL5XqgA44/4ACpIcIgyvR9zMVwa9u8er7mI4N1deSs8Ga7Xhm3Ov0nnwokml5AfsQnmb72g/qMlacorwIO1T+X2ek1L07+yfuWmlmepCyxXJbgH2YlWAKcgGudQUNIQsFMZhIEh4mrj2GqKebxduhjqN1d4LC/aID48IOY1tzeZ9bMNDdypsPcozmCGyK9nGN3YmF5IO5JbT4w+kECsRY/p0aQU9kochtGlM43PKcRgyzT4wZdN6F6pGbX2Moig4HIRCqY/UrkcQBaO1+LioXnemppLHLN1ataT5N5RZ+MGq7BE97D41b476Itfe8LkpDkJGOy8=;3Jgm9FA+ErmKS3FBY9KzQA=="
 ---

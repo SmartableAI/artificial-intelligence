@@ -9,7 +9,7 @@ ampWebUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-sof
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       - url: "https://imgix.bustle.com/uploads/getty/2021/3/23/7f7772a7-f046-425c-b20a-d2417f2abaac-getty-1163276945.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Walt Disney World begins testing facial recognition technology"
+    excerpt: "Walt Disney World is now testing a new facial recognition technology at its Magic Kingdom theme park. The park rolled out it’s test-system Tuesday at Walt Disney World’s Magic Kingdom in Florida. Disney says it’s looking for ways to focus on more “touchless experiences” in the parks."
+    publishedDateTime: 2021-03-24T19:11:00Z
+    webUrl: "https://www.news4jax.com/news/florida/2021/03/24/walt-disney-world-begins-testing-facial-recognition-technology/"
+    type: article
+    provider:
+      name: News4Jax
+      domain: news4jax.com
+    quality: 39
+    images:
+      - url: "https://www.news4jax.com/resizer/BtPICis_G5utxvooDoLkEAeRFxs=/1600x1082/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/NXPJ2OZZJZE6JKHB3OTJT2FP54.jpg"
+        width: 1600
+        height: 1082
         isCached: true
 
 secured: "/e4aBMqfJlj8oHP4m/QtBhcTysj4ETHKLohjaoEhqAw2Cz7c9SNozhC2S6yVeeCwC+YrvV53eJUQSJ9ipQ7hr/ZqdW7da4DWjSc+QmYfVvY9NT56DddXIQM6rVjDRNwSEscoPynoWsAjr5mXkuzH8eyNq2jzFaHIbGIET9m+sqPKpedeY8nQE76/DvSH8kJtsmi/fglzkFU6DLq/8890BOkn8xq4K+64gLWOaz1sV6o5IAmt4UK3a8fDq7OKElZ80k9mcossWZcnSC3odF44BTMU4Uz9d6chf2YRrO76WcS8XmsUT6LYcIX3YX4tUrWI4hT3sTKesVxJOHfG4b2seW14oQTj7EtlbHx+pkvjxz9HOwEbwsqVGkJGTrlHDmWAKdgM/B8andyJIkq8XxATq23yceoWwaD+uSK7NrnyQrEahrjIMaNT2h0kTEalf1okwdUj2hnt3Qpa97bedPDrxPHAdabDIi9IybBtcyquC9h/N7Cn6oDpJpR5eV9pQOI/jCNpMmepQ2FfnqcKvKHSoQ==;NLrCUIYWmhXZDg5oIyP4Iw=="

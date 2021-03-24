@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving truck startup TuSimple files to go public"
+    excerpt: "TuSimple, the self-driving truck company that is backed by a diverse consortium of strategic investors, including Volkswagen AG’s heavy-truck business The Traton Group, Navistar, Goodyear, and freight company U."
+    publishedDateTime: 2021-03-23T20:56:00Z
+    webUrl: "https://techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/"
+    ampWebUrl: "https://techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser"
     excerpt: "Self-driving company TuSimple Inc. unveiled paperwork for its initial public offering Tuesday showing it has lost more than $300 million over the past three years in the race to be the first to launch fully autonomous long-haul trucks. TuSimple ..."
     publishedDateTime: 2021-03-24T01:39:00Z
@@ -43,6 +59,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Silicon Valley self-driving truck startup Kodiak and China Hesai lidar partner up"
+    excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc and Shanghai-based lidar maker Hesai Technology Co Ltd on Wednesday announced a partnership to integrate the Chinese lidar into the autonomous trucking system."
+    publishedDateTime: 2021-03-24T11:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up-2021-03"
+    ampWebUrl: "https://www.nasdaq.com/articles/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up-2021-03?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up-2021-03?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 64
   - title: "Self-driving truck startup TuSimple files for U.S. IPO"
     excerpt: "Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. Adds details, background on TuSimple, autonomous driving ..."
     publishedDateTime: 2021-03-23T20:40:00Z
@@ -68,17 +95,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving trucks won't have big impact on trucker jobs anytime soon"
-    excerpt: "From big rigs to buses, millions of American workers currently earn a living driving vehicles. Someday, self-driving systems could make their jobs obsolete. Whether the transition from human drivers to automated ones results in severe layoffs that occur in a short time frame or as smaller disruptions over decades is a simmering question,"
-    publishedDateTime: 2021-03-20T05:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-trucks-wont-have-big-impact-trucker-jobs-anytime-soon"
+  - title: "Self-driving truck startup Kodiak and China's Hesai partner up"
+    excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc. and Shanghai-based lidar maker Hesai Technology Co. on Wednesday announced a partnership to integrate Chinese lidar technology into autonomous trucks."
+    publishedDateTime: 2021-03-24T13:03:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 24
+    quality: 39
     images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/WAYMO-MAIN_i_1.jpg"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Kodiak%20robotics%20resize.jpg"
         width: 800
         height: 600
         isCached: true
@@ -109,34 +136,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TUSIMPLE-MAIN_i_0.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Honda's World-First Level 3 Self-Driving Tech Won’t Hog the Passing Lane"
-    excerpt: "Tesla vehicles optioned with the $10,000 Full Self-Driving upgrade for Autopilot utilize a feature called Auto Lane Change that works similarly (you can watch a demo here), though Tesla's offering is presently capped at Level 2 and requires the driver to ..."
-    publishedDateTime: 2021-03-23T17:36:00Z
-    webUrl: "https://www.thedrive.com/tech/39904/even-the-worlds-first-production-car-with-level-3-self-driving-tech-wont-hog-the-passing-lane"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 23
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Legend-Hero-Maybe.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Arlington partnering with Via, Maxs Mobility on self-driving vehicle program for downtown, UTA"
-    excerpt: "Arlington is expanding its self-driving vehicle program. Via Arlington customers can now select to be picked up in a self-driving vehicle for trips around Do"
-    publishedDateTime: 2021-03-23T19:19:00Z
-    webUrl: "https://fortworthbusiness.com/news/arlington-is-expanding-its-self-driving-vehicle-program/"
-    type: article
-    provider:
-      name: Fort Worth Business Press
-      domain: fortworthbusiness.com
-    quality: 12
-    images:
-      - url: "https://fortworthbusiness.com/wp-content/uploads/2021/03/Rapid-3-scaled.jpg"
-        width: 2048
-        height: 1461
         isCached: true
 
 secured: "cAGRNA2KwTLWcowRkRItoNmFW/4+UjEm2Tu+p0erAbxOQWR41tNMZWJ/olX4rYrA+P4PnIBKuPep2sQqZKTUyMSLHHzgQKN2rz8+aBWGw8M1iDgPNbXThUxYtgpyBxh7/N2KKlPzD+FjL/x3GPcL75fiBguzDv3KUoRoZa/sIR5lQIZaehq7br2cyRipWL8Fa1nDW6cqiwEZmYED9PuruyZ0Jy5Ax7iLgQEp041T8grP7MwRzapRcpy0uVnMXN8PJIsQKxMLRSNzWc9jDJZOoX+ZcOHJxXqyakzHoFsUd8SDQmtlBbV1+qsyHDfW7zrwoT2Dy0zo45/khsjEywR/LIfKncztssXY8742M4/pIodyp17V54fPJfCMF0DHmlhsWLT1pX9I7syCXU1k2dFeoFPEKXhcorQ72nWZGW4WoiY94AhvdtmphVZMJSmuw/vrA/+OEjKpq8LRaB+uYzbaOfO/rKBEqsiylikLqn68yHguQi+zGjOxSNIn/Nadv/PAG1Fp0uOxTPwHWAcc1gdJcw==;TUTq6tbcYzsxrxZo5hEWIQ=="

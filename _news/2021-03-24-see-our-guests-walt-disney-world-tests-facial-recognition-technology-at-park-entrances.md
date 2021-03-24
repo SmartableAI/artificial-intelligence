@@ -135,6 +135,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Walt Disney World begins testing facial recognition technology"
+    excerpt: "Walt Disney World is now testing a new facial recognition technology at its Magic Kingdom theme park. The park rolled out it’s test-system Tuesday at Walt Disney World’s Magic Kingdom in Florida. Disney says it’s looking for ways to focus on more “touchless experiences” in the parks."
+    publishedDateTime: 2021-03-24T19:11:00Z
+    webUrl: "https://www.news4jax.com/news/florida/2021/03/24/walt-disney-world-begins-testing-facial-recognition-technology/"
+    type: article
+    provider:
+      name: News4Jax
+      domain: news4jax.com
+    quality: 39
+    images:
+      - url: "https://www.news4jax.com/resizer/BtPICis_G5utxvooDoLkEAeRFxs=/1600x1082/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/NXPJ2OZZJZE6JKHB3OTJT2FP54.jpg"
+        width: 1600
+        height: 1082
+        isCached: true
 
 secured: "+SUAlr2j6BDhGQomtUijuSVjAbjjNdZchgWHQsKy1+Sl7J68Huid/fZsNLEh++AslGfWb3MjFEFvMst5o9i+mr4SA0M9jKXyxElfSfZrJKKMW7q2GHORcA0nFVq/rN6ir9qFNoDH6rgFUe6A34OpeDvKv9kVt8jVbF0dSmrZTWqfdkmfqoZ0MInrSLobM1JKzs2ZZwHYZJDVuKH1Vhy0cJjDa59Zah4TURENM6VbpfCTE+vKf3yXVCQ+l/gq9FmhGh4syhQ+5fjsfvECq+uBwSHtiFTSTH0mfnLhtN6EnQL2HRyFlk3NOU9HxPbUuuUwUnOUKpH9gGF0SGGQ32afbvZLZokEW3xWEnha+0dYvzk=;HaRvEbdVV5KbyfVmtknyJA=="
 ---

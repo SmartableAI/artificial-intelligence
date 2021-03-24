@@ -7,7 +7,7 @@ originalUrl: "https://www.miragenews.com/tsu-historians-will-research-medieval-t
 webUrl: "https://www.miragenews.com/tsu-historians-will-research-medieval-texts-533421/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 710
     height: 470
     isCached: true
+
+related:
+  - title: "Tomsk State University: TSU historians will research medieval texts using AI"
+    excerpt: "TSU historians will train artificial intelligence to analyze medieval documents in German by 2022. This will help them to find the necessary examples of changes in the meaning of terms in the text arrays."
+    publishedDateTime: 2021-03-24T18:01:00Z
+    webUrl: "https://indiaeducationdiary.in/tomsk-state-university-tsu-historians-will-research-medieval-texts-using-ai/"
+    ampWebUrl: "https://indiaeducationdiary.in/tomsk-state-university-tsu-historians-will-research-medieval-texts-using-ai/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tomsk-state-university-tsu-historians-will-research-medieval-texts-using-ai/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 56
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/1226_1280-3-1024x786.jpg"
+        width: 1024
+        height: 786
+        isCached: true
 
 secured: "/Sv5imq+XDWK6taZs5WpKk3AGAHLlBJDb9sxIFYP0ePgYY5pqu3GYYRp2K/E+mwLC+VyCOa1giR2KcF0rRdS5QgqHcmyot/phJbVmaEZxKIeFe8O8wgc34px3M3BaHgXeevB6SWr6Sv3HWmEuHPBGfygYTBpnmwJN6mvW0jzYMJN6/bhbAqa+BZY/bpQGidF7rX3dDPqGsx46GqV5FnZsDWgGOUrm0kwIe6acTm0XNrf7IJYIr6Eai44F4719d+9NmyiFmXXQwXYw1LzPHdM6bVY57oEO1py3hRkANOWhlC/b1K8Gk+bo87sSi2i3rhiZdXKqiUgGCY26Ws9Uwv29CAPzxQGcvuECpme972kFK6V+UjjrD6cC2FFoUoHL2SPVWQw2GLNQZ8VihoUW8MZKz4M/g4TlQ6yNDphzPwYXC/OKHlWeoeGWXx6LoWPBd8D6WzXR3vH2tjy2ERdfg123bgsNXClNFgNZdUTIHHrFWcFQsbf9kgEFOd9JNCR2EkJqikci8KBzwiLl2nQk+1PAQ==;nH/DJJr0nF/ESySt/IXfdQ=="
 ---

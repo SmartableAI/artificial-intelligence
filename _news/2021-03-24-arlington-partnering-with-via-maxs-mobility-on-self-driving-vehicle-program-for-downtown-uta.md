@@ -25,118 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser"
-    excerpt: "Self-driving company TuSimple Inc. unveiled paperwork for its initial public offering Tuesday showing it has lost more than $300 million over the past three years in the race to be the first to launch fully autonomous long-haul trucks. TuSimple ..."
-    publishedDateTime: 2021-03-24T01:39:00Z
-    webUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
+  - title: "Self-driving vehicle service launches in Arlington"
+    excerpt: "Forget Uber. Move over, Lyft. In Arlington, you can catch a self-driving ride. The city now has a small fleet of self-driving vehicles that will"
+    publishedDateTime: 2021-03-24T14:03:00Z
+    webUrl: "https://www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/"
+    ampWebUrl: "https://www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/?outputType=amp"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 44
     images:
-      - url: "https://images.wsj.net/im-315504/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Self-driving truck startup TuSimple files for U.S. IPO"
-    excerpt: "Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. Adds details, background on TuSimple, autonomous driving ..."
-    publishedDateTime: 2021-03-23T20:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-tusimple-files-for-u.s.-ipo-2021-03-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-tusimple-files-for-u.s.-ipo-2021-03-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-startup-tusimple-files-for-u.s.-ipo-2021-03-23?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "UPDATE 2-Self-driving truck startup TuSimple files for U.S. IPO"
-    excerpt: "March 23 (Reuters) - Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the ..."
-    publishedDateTime: 2021-03-24T02:24:00Z
-    webUrl: "https://www.reuters.com/article/tusimple-ipo-idAFL4N2LL48I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/n2rLFs4Knkkc4gdEKSvA0eB_-bA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LBGOHI7EQJDWXB5OAPNGRIO4HY.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Truck Startup TuSimple Files For Public Ownership"
-    excerpt: "Self-driving truck startup TuSimple filed on Tuesday to become a public company. It is seeking to sell at least $100 million in shares. It could sell as much as $1 billion"
-    publishedDateTime: 2021-03-24T15:23:00Z
-    webUrl: "https://www.benzinga.com/news/21/03/20321459/self-driving-truck-startup-tusimple-files-for-public-ownership"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20321459"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20321459"
+  - title: "Need a Ride in Arlington? You Might Be Picked Up by a Self-Driving Vehicle"
+    excerpt: "A fleet of new self-driving vehicles are now making their way around the streets of Arlington. The Arlington Rapid Pilot Program has integrated on-demand autonomous vehicle service into a transportation service. Download our NBC DFW mobile app for Apple or ..."
+    publishedDateTime: 2021-03-24T00:38:00Z
+    webUrl: "https://www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/"
+    ampWebUrl: "https://www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/?amp"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/?amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: NBC DFW
+      domain: nbcdfw.com
+    quality: 42
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/032321-tusimple-public-filing.jpg"
-        width: 1054
-        height: 635
+      - url: "https://i2.wp.com/media.nbcdfw.com/2021/03/FIFO-SVR52_8AM-12PM__03-23-2021_2021-03-23-12-26-01_08-32-1305.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Self-driving trucks won't have big impact on trucker jobs anytime soon"
-    excerpt: "From big rigs to buses, millions of American workers currently earn a living driving vehicles. Someday, self-driving systems could make their jobs obsolete. Whether the transition from human drivers to automated ones results in severe layoffs that occur in a short time frame or as smaller disruptions over decades is a simmering question,"
-    publishedDateTime: 2021-03-20T05:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-trucks-wont-have-big-impact-trucker-jobs-anytime-soon"
+  - title: "Shenzhen city works out regulations to guide self-driving vehicles"
+    excerpt: "ICVs is a notion that vehicles realize self-driving and the traffic efficiency will be greatly improved through the in-built advanced sensors, controllers and actuators, as well as the in-vehicle and inter-vehicle communication networks. The draft laws ..."
+    publishedDateTime: 2021-03-24T07:32:00Z
+    webUrl: "https://www.globaltimes.cn/page/202103/1219294.shtml"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Global Times
+      domain: globaltimes.cn
     quality: 24
     images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/WAYMO-MAIN_i_1.jpg"
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-03-24/0bd57d96-0641-4855-9efb-f725917b018d.jpeg"
         width: 800
-        height: 600
+        height: 480
         isCached: true
-  - title: "Self-Driving Truck Developer TuSimple Files for IPO"
-    excerpt: "Self-driving truck developer TuSimple is moving forward with plans to become a publicly traded company. The technology startup on March 23 announced that it had filed a registration statement with the U."
-    publishedDateTime: 2021-03-23T21:45:00Z
-    webUrl: "https://www.ttnews.com/articles/self-driving-truck-developer-tusimple-files-ipo"
+  - title: "Top 8 Online Resources To Get Started With Self-Driving Vehicles In 2021"
+    excerpt: "Waymo, Tesla, Faraday Future etc. have made huge inroads into self-driving tech and have been riding the AI wave to take us into the future. The mobility revolution has created new jobs, such as Industrial Engineer, Perception Software Engineers ..."
+    publishedDateTime: 2021-03-23T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-online-resources-to-get-started-with-self-driving-vehicles-in-2021/"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tusimple-1200_1.jpg?itok=IN7wFywQ"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Self-driving truck startup TuSimple files for U.S. stock offering"
-    excerpt: "U.S. initial public stock offering on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the number of shares it plans to offer to investors or the price range for its offering."
-    publishedDateTime: 2021-03-24T11:34:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-tusimple-files-us-stock-offering"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TUSIMPLE-MAIN_i_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Honda's World-First Level 3 Self-Driving Tech Won’t Hog the Passing Lane"
-    excerpt: "Tesla vehicles optioned with the $10,000 Full Self-Driving upgrade for Autopilot utilize a feature called Auto Lane Change that works similarly (you can watch a demo here), though Tesla's offering is presently capped at Level 2 and requires the driver to ..."
-    publishedDateTime: 2021-03-23T17:36:00Z
-    webUrl: "https://www.thedrive.com/tech/39904/even-the-worlds-first-production-car-with-level-3-self-driving-tech-wont-hog-the-passing-lane"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 23
     images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Legend-Hero-Maybe.jpg?quality=85"
-        width: 1920
-        height: 1080
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/AIM-Illustrations.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
+  - title: "City of Arlington launches on-demand self-driving shuttle service with RAPID"
+    excerpt: "The city of Arlington, Texas, and Via are now offering Via Arlington customers a choice to be picked up in a self-driving vehicle for trips around downtown and the University of Texas at Arlington (UTA). The Arlington RAPID pilot program, available to ..."
+    publishedDateTime: 2021-03-24T15:51:00Z
+    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21215713/via-transportation-city-of-arlington-launches-ondemand-selfdriving-shuttle-service-with-rapid"
+    type: article
+    provider:
+      name: Mass Transit
+      domain: masstransitmag.com
+    quality: 21
+    images:
+      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/03/16x9/via.605b5fc47a408.png?auto=format&fit=max&w=1200"
+        width: 1030
+        height: 580
         isCached: true
 
 secured: "WF1XC8/boXVQq+9Je2WWBgZJnzwV4mhTEzBGPY1czk/w4VwEm2SX6YQFi0jshSq58l14KuU/zFJG+GyD6Diy3VKQ3rxQz+oPwguwGfQg1WFzPRulMWWO3oKynV5y/jHMTF7orcklDAZ4zV2IR/NaEaQXTTrhfxn2Kwl6Kafr0yQMId3ET5Cdfs3AOPsc3fpd5JPyAaPorBLIL9c7CJTlvLENAJoG48N3yGNPFVUpIToibQw1SiheGAoNDDOiUyORRQlyzTauDnUg/1fsT9LN2WqJTT2u5hOtbT3wn364Uuml0l134W03Yp3KI4Z9qMlDCzeWyfI4UmIuy6CGbPyw2QXp1ii8VW49nxyoH2FPm/SMA8pN4sFJ8jGxLXX3qrHJRHW4Tmshd73Ly3WNjZFTRn9pvWEVQUwinhc4K+iy1uNnhpJg1ynobuYiX++zLs4NxzWC83CtW84nZoucvJZJrwZVBEET7WAZooF0AYi3okV2S45uwnTDEtgSigEN5XVxUhp/9iegGJeYXFT1afU6cw==;rdOLx+SOWkjbNBnAxUwg6g=="

@@ -7,7 +7,7 @@ originalUrl: "https://mb.com.ph/2021/03/23/powehouse-silicon-valley-funder-inves
 webUrl: "https://mb.com.ph/2021/03/23/powehouse-silicon-valley-funder-invests-in-pinoy-fintech/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1024
     height: 806
     isCached: true
-
-related:
-  - title: "Pinoy fintech startup NextPay gets $125K investment from Y Combinator"
-    excerpt: "Philippine fintech startup NextPay has received a $125,000 investment from Silicon Valley-based “startup accelerator” Y Combinator."
-    publishedDateTime: 2021-03-23T03:16:00Z
-    webUrl: "https://www.gmanetwork.com/news/money/companies/780796/pinoy-fintech-startup-nextpay-gets-125k-investment-from-y-combinator/story/"
-    ampWebUrl: "https://www.gmanetwork.com/news/money/companies/780796/pinoy-fintech-startup-nextpay-gets-125k-investment-from-y-combinator/story/?amp"
-    cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/money/companies/780796/pinoy-fintech-startup-nextpay-gets-125k-investment-from-y-combinator/story/?amp"
-    type: article
-    provider:
-      name: GMA Network
-      domain: gmanetwork.com
-    quality: 44
-    images:
-      - url: "https://images.gmanews.tv/webpics/2021/03/IMG_1436_2021_03_23_11_05_10.jpg"
-        width: 1327
-        height: 578
-        isCached: true
 
 secured: "I+P81C8usHH4sEieNxFP1sI64zncfwYaytMgm45c+u/9l/fIPSUgMp3RfAtKc3Je69zFMnOiw47leRIjkgCedHYcMprlBTEjow04CFxc+Z4hOWQEBly5Ymg13jzumrubmcYlb9lyITE8m5YZ/cxAF2jcJ9gSBEvk8ofpgi+a+FYjP5rSdEP5wwzMLYmHr/GlZ0vLfQZ9qofbUM1ngOewgPIlA73owbXAw8nxA6hgvCZtM+9nofyiAtnh2G9HY2uFOXUInfWSvzZvsRfmJW4Y1PgVZ5OVcWwdujOKK9EPLT8C6OGnqGiS9WXNZ74i0MDTIQwl9kEVBMD+LnpwamL83desLiUpTqueTRhf32Uq7dJk7+WeyHQvnLbgC9MP3cd4Zcgdz07sG/WKLSGcLlDU6Ybr/sz2Q3ncEypZoBOh93+fGGpUt0GHii3HDcJSxjPPTeEuGBZSVFmsTH5JMSJ6UST9QuHHHQ6G82mgqO5f3cRVqMMtjY7Q1Nsh5ZU5a3wZgD/L0H1Tl5yHCTuy5UVNSw==;2eWzi50e4Xn9KTYYnFRrLA=="
 ---
