@@ -79,6 +79,6 @@ related:
       domain: knowtechie.com
     quality: 17
 
-secured: "u+mxFZvopOgzVLIYCxjVMSpr8RCsHfuU911JOFJOcCdc2ImqjYYiu5S+zeyOcU4RZPLj+BfejTQiVxs+oN0TCXvhHHwCjV+2PhUPnY5SudUG7xAJHBsdtgXtoFz0uidkTT0QMFhLsq5ftR8l9gh33yvgbAJRa+kj7F/wlTGRa0BYZNgjiL5ATJ1P3ypdkRDvTzOyT8zuZIxOA4ih+61tAMlzhjuB9+4eOQHtQBkXoPVTSonG0+KNqe0lxTBXsKkUYIEWbUXZwdwry6+Hqmu3aOjxh6vkBumrrsHzIxUyN7fUSYw+0w20fp1VIbkG1lp3nagjbB/AAclxSK5M4q+4/YTXf7BKeBr59ct6OPcAKVo=;g6pjXMSC98EnvD1yC852Lg=="
+secured: "RHuYhxKGeZSgKx6QSuYrn2bsOrdV4yx5+4/MJkbq3MOb7n9OUyHV7T3BFZlh+FBLZjnb5Qd3iW1qrkDSMv8cwV66Rbm4ph0bBPQyiMO/lQC/RDBfNDphly71+JB+j57F5K1VNnaitG3LexWJ/+izQ3Gx15JImmscfjmdMgn+jXXcdv0JiIbhZsKcQ+4T7RIdDXj9maF0xeSbdQxIrF7igx0g9avsRYWVmJcpvvo5BOn4bnlEWTN3u7H46d6YXLe+eUzX2hXNMXC/Fr4u10Ygpw59t7HRbl9QYjeIdPsNIqGVoJwQgYL/EwPKQWVYxfkftkOsp2Dil/NGXyq5wUEYQCD/LMSfnDfXrJT8M4uLGFk=;nnJ2WwQZqk0xCi9sme++zQ=="
 ---
 
