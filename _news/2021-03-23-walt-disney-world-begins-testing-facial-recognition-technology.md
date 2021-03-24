@@ -57,22 +57,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Disney World tests facial recognition software at Magic Kingdom"
-    excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
-    publishedDateTime: 2021-03-23T18:14:00Z
-    webUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
-    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 59
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Walt Disney World begins testing facial recognition technology"
     excerpt: "Could park-goers be using facial recognition to enter Walt Disney World in the near future? A test running at the Magic Kingdom is working to determine just that. Starting March 23, guests planning to visit the Magic Kingdom have the option to participate in trying out Disney's facial recognition technology."
     publishedDateTime: 2021-03-23T18:43:00Z
@@ -136,20 +120,6 @@ related:
       - url: "https://media2.fdncms.com/orlando/imager/u/original/29016677/disney_world_-_entrance_sign_-_by_inkiboo-1000.jpg"
         width: 1000
         height: 584
-        isCached: true
-  - title: "Using nationalism to refocus facial recognition concerns in China"
-    excerpt: "The violation of people’s biometric data privacy, as denounced by the TV show, has the public and industry watchers urging for a swifter legislative push."
-    publishedDateTime: 2021-03-22T17:55:00Z
-    webUrl: "https://www.biometricupdate.com/202103/using-nationalism-to-refocus-facial-recognition-concerns-in-china"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
         isCached: true
   - title: "Disney World Is Testing Out Facial Recognition For Entry To The Park"
     excerpt: "Disney World unveiled facial recognition technology at the park’s entrance Tuesday, announcing it would be testing the new technology on a completely voluntary basis over the course of the next month. “At Walt Disney World Resort, we're always looking ..."

@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market report based on Share, Size, Opportunities, Research Methodology and Segmentation"
-    excerpt: "In terms of market share, the natural language processing segment is projected to contribute significantly to the global artificial intelligence market in the education sector during the forecast period,"
-    publishedDateTime: 2021-03-19T17:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-report-based-on-share-size-opportunities-research-methodology-and-segmentation-2021-03-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Transportation Market Overview, Merger and Acquisitions, Drivers, Restraints and Industry Forecast By 2027"
     excerpt: "The Global Artificial Intelligence in Transportation Market is projected to witness a significant increase in the revenue generation and is expected to register a CAGR of 17.2% in the forecast period of 2020-2027. The report further segments the Artificial ..."
     publishedDateTime: 2021-03-22T17:15:00Z

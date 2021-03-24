@@ -81,6 +81,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Self-driving truck startup TuSimple files for U.S. stock offering"
+    excerpt: "U.S. initial public stock offering on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the number of shares it plans to offer to investors or the price range for its offering."
+    publishedDateTime: 2021-03-24T11:34:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-tusimple-files-us-stock-offering"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TUSIMPLE-MAIN_i_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Honda's World-First Level 3 Self-Driving Tech Won’t Hog the Passing Lane"
     excerpt: "Tesla vehicles optioned with the $10,000 Full Self-Driving upgrade for Autopilot utilize a feature called Auto Lane Change that works similarly (you can watch a demo here), though Tesla's offering is presently capped at Level 2 and requires the driver to ..."
     publishedDateTime: 2021-03-23T17:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-lear
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/coronavirus_shutterstock_2_Rost9.jpg"
         width: 821
         height: 576
-        isCached: true
-  - title: "Machine learning tool can predict severe illness, death from COVID-19 in patients"
-    excerpt: "Researchers developed a machine learning calculator that provides predictions of whether patients hospitalized with COVID-19 will progress to severe illness or death, according to a March 2 study published in Annals of Internal Medicine."
-    publishedDateTime: 2021-03-19T18:26:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/machine-learning-tool-can-predict-severe-illness-death-from-covid-19-in-patients.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "esbrU0q51tdqSIrHy/vWuVFm3HFXg73w4e5x30w8cjTnhS60wQXvIbm9LsnbwKz9pDhVcIx5yTniGIkl/GbamKyYetkmL1c0jQsxMMprrh50UvrqZU3R+U2+6oJT1ECt4Dt/N11yPUS9vk4XtqTnJORnvzdy6IMnZopeABnics20ydgXnJ5qP7/DsjLmq4aO6qRp6DHNCLCayNwhI7TVAlt95TYx/Jw+RDJruXPqyi9tqGCBtJ4I7JQe98ssTV+CuoxFHty7GiiZdsz32GriLlnp7gAhbeGrjDt1SZurUDj36wPiGmTb1TmajrKC+P2zEmEx3NFzgSyJMW3XqzsyfJ+Ixx3y14QN+Gl4wEql7hP0Zos6AqO/RCzwVb2XsFfsk3bd++f0/UcR/cx44lb0SwFbaJai9iOJsBLoVIa44maLyiN2X/JCssJ2tuikFN0kGQLEc5AsRpJQ5m+yFJq0dWNVxpDs3ui5lGDPFfcdPLtlTYr0iuj9s86ikF6bCq26zOMXtnOMjuvo/lDd5KpTkw==;Mx6VW12cNay6e8xICyS4tA=="

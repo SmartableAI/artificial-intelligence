@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-ac
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Around the tracks: Stressful footage of a Tesla in full self-driving mode"
-    excerpt: "When we’re not creating it ourselves, the CarAdvice team spends a lot of time finding and consuming motoring content from all over the world. Here’s a handful of the photos, articles, videos or socia"
-    publishedDateTime: 2021-03-19T18:58:00Z
-    webUrl: "https://www.caradvice.com.au/935307/around-the-tracks-stressful-footage-of-a-tesla-in-full-self-driving-mode/"
-    type: article
-    provider:
-      name: CarAdvice
-      domain: caradvice.com.au
-    quality: 38
-    images:
-      - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/42ce5894867b7e17f63d3b75cdfb77bc.jpg"
-        width: 960
-        height: 500
         isCached: true
 
 secured: "W7LGpa/ktnb9lP9LeV2ClzddYPAXCForeljSvf+nROsXBRq8vxTe84pIsM/PxhzhAA29VBrGcPd5pH/PsFVjACF97BiLGH0++ZDapxIqrX/+XuIF0LXZgetFVMxVVCVcCNKtVtHkUQL2G+woKw+9fhS6V9rMensSYXeL6DgEkyverbAOEsQz1j3ys+tff26MKH9S6HaaJyk8NnS8MyxDpksSz/9yDq2u71YL+1+VbiGqrawYKEUZUBEs3ckgiXeoEAsCjNJYTjkce2Y8kLrr5zZsqKcZoDjl9UHD3H5bI5x74zE5MFPHRDYX/deRUriW04a2kwilh4exLN/dWrkz6Obz5Aim5veQtrEZTzXFwXI=;WbDcsCu93BtbyBl7/UeDNw=="

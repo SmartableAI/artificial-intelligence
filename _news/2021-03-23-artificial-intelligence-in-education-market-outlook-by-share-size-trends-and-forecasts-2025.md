@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23"
 type: article
 quality: 75
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market report based on Share, Size, Opportunities, Research Methodology and Segmentation"
-    excerpt: "In terms of market share, the natural language processing segment is projected to contribute significantly to the global artificial intelligence market in the education sector during the forecast period,"
-    publishedDateTime: 2021-03-19T17:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-report-based-on-share-size-opportunities-research-methodology-and-segmentation-2021-03-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

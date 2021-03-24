@@ -83,20 +83,6 @@ related:
         width: 1416
         height: 829
         isCached: true
-  - title: "Teaching AI what’s fair"
-    excerpt: "With funding from Amazon and the National Science Foundation, Tan has been working for the last year to teach artificial intelligence algorithms how to be more fair and recognize when they’re being unfair."
-    publishedDateTime: 2021-03-19T17:43:00Z
-    webUrl: "https://msutoday.msu.edu/news/2021/teaching-ai-fairness"
-    type: article
-    provider:
-      name: Michigan State University
-      domain: msu.edu
-    quality: 37
-    images:
-      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/knowmore-green-2.png?h=288&w=280&la=en&hash=0F967E9D786E14E8DFAF9881B2A010B8"
-        width: 280
-        height: 288
-        isCached: true
   - title: "Teaching AI what's fair"
     excerpt: "With funding from Amazon and the National Science Foundation, researchers are teaching artificial intelligence algorithms how to be more fair and recognize when they're being unfair."
     publishedDateTime: 2021-03-22T18:04:00Z

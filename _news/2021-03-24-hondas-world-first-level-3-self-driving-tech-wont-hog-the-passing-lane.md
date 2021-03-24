@@ -96,6 +96,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Self-driving truck startup TuSimple files for U.S. stock offering"
+    excerpt: "U.S. initial public stock offering on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the number of shares it plans to offer to investors or the price range for its offering."
+    publishedDateTime: 2021-03-24T11:34:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-tusimple-files-us-stock-offering"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TUSIMPLE-MAIN_i_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Arlington partnering with Via, Maxs Mobility on self-driving vehicle program for downtown, UTA"
     excerpt: "Arlington is expanding its self-driving vehicle program. Via Arlington customers can now select to be picked up in a self-driving vehicle for trips around Do"
     publishedDateTime: 2021-03-23T19:19:00Z

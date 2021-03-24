@@ -101,20 +101,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Machine learning tool can predict severe illness, death from COVID-19 in patients"
-    excerpt: "Researchers developed a machine learning calculator that provides predictions of whether patients hospitalized with COVID-19 will progress to severe illness or death, according to a March 2 study published in Annals of Internal Medicine."
-    publishedDateTime: 2021-03-19T18:26:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/machine-learning-tool-can-predict-severe-illness-death-from-covid-19-in-patients.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "arT7PJ1iyADlBtfz8OIMHZIGNXUpmCNo075pszusSKBsnuwqLX9hHjgp4WSV3Egk3zn94tRIoEzIVRLKtgXkHmEtlvoNqCdDav5C4ege1ltQ6J+nxSYi98owdjyaek3tejKxE1haQxj4deapjXkEBdzCxwv7KwSzopY/MjP+wggnwkKXSOYtU0IkNcWl6RtG7KMg9nSXJr3ODD47+YXFRMtvDe+p15iHiza3yRFK/Ix1jd+0ZjqcCfx24AbKl2Cf6P2Rxw+fQmFne5QZpNfEniESUOxWYZTmnCbTgrWnSdEdAX/o1vZ1ORTVzWRPISBLCKgO15lWi37Bs1zDjHEDym/jNTfY9knswjRK4Dp5T3PNQxUcol8Wa/d7Brdi9JUVnoQPzamKBkn4dl/TJSQd46nJ5ZRx8m+0kMP8/ajoWQWWoMjdZrshOUKhLQhu7YJr9kISF+45357ChMcBk8l5K9zQgignVejiav36URWXOMIze7p68o/sHc9gDW8pdxRji3C89JwIXPb/pZOqNcfl0Q==;8YUZ6wU/zNAEOw+qMhZTbQ=="
 ---

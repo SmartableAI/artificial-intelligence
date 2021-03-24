@@ -84,20 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Around the tracks: Stressful footage of a Tesla in full self-driving mode"
-    excerpt: "When we’re not creating it ourselves, the CarAdvice team spends a lot of time finding and consuming motoring content from all over the world. Here’s a handful of the photos, articles, videos or socia"
-    publishedDateTime: 2021-03-19T18:58:00Z
-    webUrl: "https://www.caradvice.com.au/935307/around-the-tracks-stressful-footage-of-a-tesla-in-full-self-driving-mode/"
-    type: article
-    provider:
-      name: CarAdvice
-      domain: caradvice.com.au
-    quality: 38
-    images:
-      - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/42ce5894867b7e17f63d3b75cdfb77bc.jpg"
-        width: 960
-        height: 500
-        isCached: true
 
 secured: "+7SeVR/6Jxi+FwxLSmCfIAvr+2+nQHtJ+FDYv9W4xfeYGKf19Iw4T8sefhsWPvip1POrIuOekHkKkuwkCMYt7ssCZ3myvV7VJAe+NauGWOMVuGN0aKQ7J8YI7BmDUgu3i0BDc5HXSUcsxhkehg/4Cp+y32PX2dcM5uSJQIC2PxyxU26nMTghB1bcUeokC9V97fw1eQBybwTxfPasl6Xaua8vFir61f6Q4kKLQ4wTTNvO2BrY/f2bVebxoe/7mBQtgbHIucts9S/N9aAHRWx3U9uwNmBqlrX0LXthUmMmeTJnE9d1WEjohWW+/URBapQtGWnWLh9PJMTQxXsEhkI+Rgc6fx6u9QfFnBlFqodsmPU=;eel+QLlQZfIq1VQDIgeN+Q=="
 ---

@@ -24,6 +24,19 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Great Learning partners with JAIN to offer AI, Data Science courses"
+    excerpt: "The degrees will include MBA, MCA, and BBA with specialization in AI, Data Science, Full Stack Development, Business Analytics, Digital Marketing and E-commerce, and Cloud Computing."
+    publishedDateTime: 2021-03-24T09:33:00Z
+    webUrl: "https://www.dqindia.com/great-learning-partners-jain-offer-ai-data-science-courses/"
+    ampWebUrl: "https://www.dqindia.com/great-learning-partners-jain-offer-ai-data-science-courses/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/great-learning-partners-jain-offer-ai-data-science-courses/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 39
+
 secured: "Iu6OoVbYCL1lpSomJt+/gdk3WC6+TNDTojzvNL3WQfBB5paobdw98Kz3vSb4YecSaXDEBg1fguOUD9uLvvIHwUhDyrkgTC3y533OGv44++/gxVdnrC86V22/hWSjZtC+HwMpRFoA8R1XsLWCkLZZWdM/SypPb1xHL64LnsPOvQWvdUor8vjg1d1iKLRgHyPNG2ybPhDDVgTPcK+/NOVih+QXZ3iUCpalyM20uH+M/Rit6Z2Sg9Wc2DF7o8THLdG+XohFrGWENDqHvMtcrA3btUEYceaHBPu5lYH7WV4ghcnVj4Cjdsn0Ai3gZ5ryFxdKZaRRbw+1zrPrdUEN180QwZ5ojWYPfGictmiHPlRi++w=;/QJGacPoCOwpU4toG1BlRA=="
 ---
 

@@ -96,20 +96,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market report based on Share, Size, Opportunities, Research Methodology and Segmentation"
-    excerpt: "In terms of market share, the natural language processing segment is projected to contribute significantly to the global artificial intelligence market in the education sector during the forecast period,"
-    publishedDateTime: 2021-03-19T17:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-report-based-on-share-size-opportunities-research-methodology-and-segmentation-2021-03-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market Size – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2026"
     excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
     publishedDateTime: 2021-03-22T12:39:00Z

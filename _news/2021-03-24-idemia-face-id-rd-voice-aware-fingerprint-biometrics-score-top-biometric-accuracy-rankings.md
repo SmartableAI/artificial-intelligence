@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scotland, UK governments tackle biometrics ethics with new Commissioners, report"
-    excerpt: "Dr. Brian Plastow named the first Biometrics Commissioner for Scotland. UK Biometrics and Forensics Ethics Group releases annual report."
-    publishedDateTime: 2021-03-19T18:17:00Z
-    webUrl: "https://www.biometricupdate.com/202103/scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
   - title: "Free GSMA service widens voice biometrics availability for customer authentication"
     excerpt: "Telecom industry organization GSMA is developing a multimodal solution to address the challenge of biometric authentication in low tech environments and emerging markets. The solution B4LL (for ‘Biometrics for All’) is intended to enable digital ..."
     publishedDateTime: 2021-03-22T22:37:00Z
@@ -53,6 +39,17 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "UIDAI selects Neurotechnology and TCS for biometric deduplication and authentication"
+    excerpt: "TCS and Neurotechnology will deploy and maintain the new de-duplication system, which is powered by Neurotechnology's multi-modal Automatic Biometric Identification Subsystem (ABIS) and biometric SDK technologies for fingerprint,"
+    publishedDateTime: 2021-03-22T10:33:00Z
+    webUrl: "https://tass.com/press-releases/1268687"
+    ampWebUrl: "https://tass.com/press-releases/1268687/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1268687/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 32
   - title: "Face biometrics implementations expanding for vehicles, retail systems and health passes"
     excerpt: "Facial recognition is prominent among the top news stories in the biometrics industry over the past week. Paperwork for a blockbuster facial recognition IPO has been filed by Megvii, the use of the technology by law enforcement to identify dissidents and refugees is being scrutinized,"
     publishedDateTime: 2021-03-20T17:28:00Z
@@ -66,6 +63,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
         width: 800
         height: 390
+        isCached: true
+  - title: "Neurotechnology and TCS Selected by UIDAI to Provide Biometric De-duplication and Authentication for India's Aadhaar ID Program"
+    excerpt: "The consortium of the two companies will provide duplicate checking and authentication based on fingerprint, face and iris biometrics used for the issuance and verification of Unique Identification Numbers issued to all Indian citizens VILNIUS,"
+    publishedDateTime: 2021-03-22T10:02:00Z
+    webUrl: "https://www.fortuneita.com/2021/03/22/neurotechnology-and-tcs-selected-by-uidai-to-provide-biometric-de-duplication-and-authentication-for-indias-aadhaar-id-program/"
+    type: article
+    provider:
+      name: fortuneita
+      domain: fortuneita.com
+    quality: 11
+    images:
+      - url: "https://www.fortuneita.com/wp-content/uploads/2020/04/adnkronos_cover.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "RaKyS9MqSYLQ+8AA9aFvGE9pZ12sN4RMAmGNJMGk8WfhC/q0GETR+GZRT9p+82LFPuCglz6DRJWe3cFK9oGNbgksTM7scbp82XYAXpLCm1lkv962prlDhurLTGzr08g+Jb1fwBieXSMsSgry4sZwCHEYjyk5OGcqGWKW++cxtAlA58NHfAqHEOTlN4UaUKrmzy8F+wz8iAayzW4aPwwVY0A9sf0zOYNU/DJn0E1DzXEyy3scGAz74O/LVtsmqjrO9yvf43YN3HHot9Jby161v/HMYGGi1w4SHDgYhicRmETsFvC3Wssq2PWVW2osfi0LIVo+rfxitGLhvyBAjcfim+IrRCyOKsKkNFL9Tiu7J4k=;4iqZ+V4jDpGymaG0wdbP6Q=="

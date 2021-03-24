@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-23-75f-an-ai-powered-hvac-management-startup-nabs-475m.md",
+      "title": "75F, an AI-powered HVAC management startup, nabs $4.75M",
+      "excerpt": "F, a Burnsville, Minnesota-based startup providing AI-powered building management technologies, today announced that it raised a $4.75 million extension to its $18 million series A, bringing its total raised to $29.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/img9324_1200xx5385-3029-0-281.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/75f-an-ai-powered-hvac-management-startup-nabs-4-75m/amp/",
+      "publishedDateTime": "2021-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-legal-writing-startup-clearbrief-raises-12m-from-madrona-sequoia-avvo-founder-others.md",
       "title": "Legal writing startup Clearbrief raises $1.2M from Madrona, Sequoia, Avvo founder, others",
       "excerpt": "New funding: Clearbrief, a new Seattle startup that has developed AI-fueled writing technology for the legal industry, raised $1.2 million. Venture capital heavyweights Sequoia Capital and Madrona Venture Group invested, in addition to Avvo founder Mark ...",
@@ -408,7 +459,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -765,6 +816,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-23-pandemic-changes-facial-recognition-debate.md",
+      "title": "Pandemic changes facial recognition debate",
+      "excerpt": "Law enforcement agencies and private companies have a history of using facial recognition to store data, identify people of interest and unlock smart devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.milforddailynews.com/story/news/state/2021/03/22/pandemic-changes-facial-recognition-debate/4794844001/",
+      "originalUrl": "https://www.milforddailynews.com/story/news/state/2021/03/22/pandemic-changes-facial-recognition-debate/4794844001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/22/NMLF/5b497bbb-3c77-4de9-af58-082cc28a72ba-3000.jpg?auto=webp&crop=2999,1687,x0,y164&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.milforddailynews.com/amp/4794844001",
+      "cdnAmpWebUrl": "https://amp-milforddailynews-com.cdn.ampproject.org/c/s/amp.milforddailynews.com/amp/4794844001",
+      "publishedDateTime": "2021-03-22T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Milford Daily News",
+        "domain": "milforddailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-philadelphias-robotics-industry-ripe-for-stem-students.md",
       "title": "Philadelphia’s Robotics Industry Ripe for STEM Students",
       "excerpt": "Robot makers in Philadelphia say their biggest challenge is a shortage of skilled labor, and students who finish trade school, an apprenticeship or a two-year program can qualify for jobs starting at $62,",
@@ -816,7 +910,7 @@
       "originalUrl": "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1150,101 +1244,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-new-book-robotics-ai-and-humanity-co-edited-by-greg-reichberg.md",
-      "title": "New Book “Robotics, AI, and Humanity” Co-Edited by Greg Reichberg",
-      "excerpt": "PRIO Research Professor Gregory M. Reichberg has co-edited a new volume titled \"Robotics, AI, and Humanity: Science, Ethics, and Policy\". The open-access book \"examines recent advances in how artificial intelligence (AI) and robotics have elicited ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prio.org/News/Item/?x=2690",
-      "originalUrl": "https://www.prio.org/News/Item/?x=2690",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.prio.org/cdn_image/14e76b4ea704480c872484b174430a48.png",
-          "width": 1654,
-          "height": 2245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "prio.org",
-        "domain": "prio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-gartner-names-ibm-a-leader-in-2021-magic-quadrant-for-insight-engines.md",
-      "title": "Gartner Names IBM a Leader in 2021 Magic Quadrant for Insight Engines",
-      "excerpt": "Gartner has once again recognized IBM as a “Leader” in its Magic Quadrant for Insight Engines. Gartner defines the Insight Engine category as “an evolution of search technologies that provide on-demand and proactive knowledge discovery and exploration augmented by semantic and machine learning technologies.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2019/09/Blog-leadspace-Gartner-MQ-990x448.png",
-          "width": 991,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T08:36:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

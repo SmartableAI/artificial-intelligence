@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scotland, UK governments tackle biometrics ethics with new Commissioners, report"
-    excerpt: "Dr. Brian Plastow named the first Biometrics Commissioner for Scotland. UK Biometrics and Forensics Ethics Group releases annual report."
-    publishedDateTime: 2021-03-19T18:17:00Z
-    webUrl: "https://www.biometricupdate.com/202103/scotland-uk-governments-tackle-biometrics-ethics-with-new-commissioners-report"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
-        isCached: true
   - title: "Free GSMA service widens voice biometrics availability for customer authentication"
     excerpt: "Telecom industry organization GSMA is developing a multimodal solution to address the challenge of biometric authentication in low tech environments and emerging markets. The solution B4LL (for ‘Biometrics for All’) is intended to enable digital ..."
     publishedDateTime: 2021-03-22T22:37:00Z
@@ -53,6 +39,17 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "UIDAI selects Neurotechnology and TCS for biometric deduplication and authentication"
+    excerpt: "TCS and Neurotechnology will deploy and maintain the new de-duplication system, which is powered by Neurotechnology's multi-modal Automatic Biometric Identification Subsystem (ABIS) and biometric SDK technologies for fingerprint,"
+    publishedDateTime: 2021-03-22T10:33:00Z
+    webUrl: "https://tass.com/press-releases/1268687"
+    ampWebUrl: "https://tass.com/press-releases/1268687/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1268687/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 32
   - title: "Idemia face, ID R&D voice, Aware fingerprint biometrics score top biometric accuracy rankings"
     excerpt: "The results show Idemia’s performance in facial recognition for masked and unmasked faces, ID R&D’s in short-duration speaker recognition, and Aware’s in proprietary fingerprint template generation and matching. Idemia achieves top accuracy results ..."
     publishedDateTime: 2021-03-23T17:39:00Z
@@ -66,6 +63,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/11142614/elearning-remote-authentication-data-protection.jpg"
         width: 820
         height: 460
+        isCached: true
+  - title: "Neurotechnology and TCS Selected by UIDAI to Provide Biometric De-duplication and Authentication for India's Aadhaar ID Program"
+    excerpt: "The consortium of the two companies will provide duplicate checking and authentication based on fingerprint, face and iris biometrics used for the issuance and verification of Unique Identification Numbers issued to all Indian citizens VILNIUS,"
+    publishedDateTime: 2021-03-22T10:02:00Z
+    webUrl: "https://www.fortuneita.com/2021/03/22/neurotechnology-and-tcs-selected-by-uidai-to-provide-biometric-de-duplication-and-authentication-for-indias-aadhaar-id-program/"
+    type: article
+    provider:
+      name: fortuneita
+      domain: fortuneita.com
+    quality: 11
+    images:
+      - url: "https://www.fortuneita.com/wp-content/uploads/2020/04/adnkronos_cover.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "5wJX9tjbfk87wQigAdRSdzqUqL7Bt1UPKhAZStGMPtPArOFfWi/1VvOX9+7jpsRjtpJyIroJKf0gbvqB3r0lKL8qFVFCJQyFiEjXjYsJJkkCl5hAwBm9f5fteS7LH7fgLgzZorlLrkRFLOXaSaxSpNruyeGGLv/9xxgGEM0K4Z8IVafhdjgGY+DRqKwlqJkBs0S3qRP57xFB+sjtb826tI5GJxui+Z+VsjLGaFGrKQxuGKQzqIPW2iDpY+r+3KErkZWxAqihiRt3qyi/tJ9c7bqVwhmuuA2e8d6pgHYY+Fsq+I7Zer65S3fz5axzv3qpG/ER6nNDA4c8YHNsO4+lTknezbNPNWPK22/m+H76twc=;vuV7mOQ+Dd8zjQuFvDVvew=="

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Items filtered by date: March 2021"
-excerpt: "Amdocs Smartbot with Microsoft Cognitive Services, specifically Microsoft Language Understanding Intelligent Service and Text Analytics API, provides leading DSPs with the ability to transform how they deliver highly personalized, self-service interactions ..."
+excerpt: "At present, Sunrise is rapidly deploying 5G networks for 150 cities/villages in Switzerland, which will be released in March this year. 5G will further enhance the user experience of Sunrise network,"
 publishedDateTime: 2021-03-13T20:49:00Z
-originalUrl: "https://www.thefastmode.com/date?limit=3&limitstart=7371"
-webUrl: "https://www.thefastmode.com/date?limit=3&limitstart=7371"
+originalUrl: "https://www.thefastmode.com/date?limit=3&limitstart=4536"
+webUrl: "https://www.thefastmode.com/date?limit=3&limitstart=4536"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.thefastmode.com/img/images/OpenwaveMobility/Data_USA2.jpg"
-    width: 558
-    height: 259
+  - url: "https://www.thefastmode.com/img/images/Enea/npb.jpg"
+    width: 752
+    height: 408
     isCached: true
 
-secured: "FO99dBIeLLWF2PWsvCnbfDemQIC8eTsqhVvFHgPvHYyOZWNTG5+uZZyKUAVMGYtNdIU3hZLBrcqECdI3iZMiDWra8GvXDFLTjKI+Hyt7/zQFaR0qo75Y5XQGNYUkDvpoKRfANzVXCbU7K6Mvx3aE8kvkl5fYPGgKs2dtY6eK9WETPRt8YHSMnzjH6C6HCuJw5Lj7EUS2mV7OV+iNyPUvAb1BoJysrZJkGvftjJ28wUElNEE1DoNk1z2EibujTqwVi3a06YJkWTeHDg2Blg9lpYnT4jzhQkHVCRrY1bzyuGYl73RCJ2lDgBIW71hAe4LLryfPJdl1o5/C1E6H68Bs+8RtNu8nY2KFHrwaUF2+TwQ=;XzV3SOtqEQP4IEorAMFkQw=="
+secured: "TfD+WbtZCbdMmUA1qp9d3MvN+ya6w4ErD8EJUBeTawMAivxJdFkM+lEcvGqbiPp80DJ+BRuxu3q/R8am00XTvo/I4pNOvqJdYB87Pqe8OZKRl585rehJETAXQeo5/yqZbEUqJNZnCqWl+w3F2NABqoWw3D2jECTWPvfI+iusM7zv0vBlw2mzoLDtmvDwxZYQT+lA7bQITG61zwZAtpLpR41NiuvrhH1psZapDRBq4Df3oPoXSeIUElMeu5KgZttKg2KOQ+Glf8F+i/0CDngkspyMjye5AiBjftRAtoncLh09i2vhlkj8PNejV1kdNDEc/O83FZniVKf5lpaE5aJLfbxHh7NnuXDj9OKZo07AlzQ=;iCCF9hhi1xYsyeCRFcQ+Lw=="
 ---
 
