@@ -7,7 +7,7 @@ originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2547622/if-do
 webUrl: "https://www.defense.gov/Explore/News/Article/Article/2547622/if-dod-wants-ai-in-its-future-it-must-start-now/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 912
     isCached: true
 
-secured: "YtWbt2UF9NxB66qIAHUuwcNDzk/wXpmih/s82kevwoHfgJa4CuSC4BnEhYLUvaoWBnownq1kYCP5JRUaDZS4IJnH56d3T/dAHMUOq6ZH4OdjTBmx6cDiRVu3mi0mAGvY7Q4jKWkLiP9m3I3Ju7CE1AKmUpKOq9LpkrTvPozLFKcwbRI9pMuF8GrUuQ0PUJbF8Lp87LlKGH3qsk8SLlt4vpHTa0+7PDsFj/78TfD7rlsp+XRfl3x2TkCH1eOXoH5cwzxjQta03AE/+5PaXWCVbPWNGN9ZrBrjH7aLf6owpM4PBrzHkbm7OyrlvszIEkbJKbd3eYo0BxHpN6Sm7UKZMMG6xp23vU6cl7TbeLzqXOI=;fIMxdPSWJYjFfEeWRUuxSA=="
+related:
+  - title: "If DOD Wants AI In Its Future, It Must Start Now, Official Says"
+    excerpt: "Now is the time for decision makers, commanders and policymakers within the Defense Department to get on board with fully implementing artificial intelligence, the director of the Joint Artificial"
+    publishedDateTime: 2021-03-23T22:49:00Z
+    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2547622/if-dod-wants-ai-in-its-future-it-must-start-now-official-says/"
+    type: article
+    provider:
+      name: US Department of Defense
+      domain: defense.gov
+    quality: 37
+    images:
+      - url: "https://media.defense.gov/2020/Oct/23/2002522547/1280/1280/0/201005-A-ZZ999-001X.JPG"
+        width: 1280
+        height: 912
+        isCached: true
+
+secured: "w4VvxvDoU0hWi0v2BvMu+1hiKwQzl7uP5+XR6C6ZcyMyLxYxn6YsjF2mVD4MVaJq7ZjTyb5hPQ8A3GFXcFX0X7p+7xtAf4iVcjgb+dc7sXk9kx+eEOvUN5eo6A8IZtdoY7IbAESMAjTdWzCoQOwxZeS/mAvhkqXO/1zVtIXqN4gt8xfuAIdHVcGKS9bBLsEJ8NNKwMPQoJLbMnGrNjtMk7TX/G0ndl5Y4jrPbccP7OU0Qo0bnK/QGEtJWcDpM404ajGNEfppkCrbV16ZxKJMM4MO1mwTS/WnqFzwB3OgM4xbgNvyYQnEB6QHVmbAoAYDa5lGy2iGHGnbHIHzyPb5AxT5PmkzDcr+y3dfzionqOyZB8Fr+hepncxPNLiR3q2YM03bWOD7MVy5R7us81L1Hbjf/ojuaBlV6xGPsOF+kXgKBxXdJimoO5QU3McxdtPvoaN5Qcf0QeZoGJy1CVjBGnlaX4hXRQ5Dm8JffLOxgFCuxPNXk76rxlzCnOuGYLwi8epCf0Fwbp8mwCtKP6L3Ew==;zCqMw3bCcUIRuYK8IXIO+Q=="
 ---
 

@@ -73,22 +73,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Online learning platform about COVID-19 pandemic aids frontline workers, educates the public"
-    excerpt: "When the COVID-19 pandemic forced medical students out of classrooms and clinical rotations this time last year, the state of Georgia's only public medical school had to quickly rethink its traditional curriculum."
-    publishedDateTime: 2021-03-19T05:29:00Z
-    webUrl: "https://www.news-medical.net/news/20210319/Online-learning-platform-about-COVID-19-pandemic-aids-frontline-workers-educates-the-public.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210319/Online-learning-platform-about-COVID-19-pandemic-aids-frontline-workers-educates-the-public.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210319/Online-learning-platform-about-COVID-19-pandemic-aids-frontline-workers-educates-the-public.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 48
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Machine learning tool can predict severe illness, death from COVID-19 in patients"
     excerpt: "Researchers developed a machine learning calculator that provides predictions of whether patients hospitalized with COVID-19 will progress to severe illness or death, according to a March 2 study published in Annals of Internal Medicine."
     publishedDateTime: 2021-03-19T18:26:00Z

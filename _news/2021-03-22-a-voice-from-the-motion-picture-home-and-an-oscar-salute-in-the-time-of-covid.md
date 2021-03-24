@@ -3,8 +3,8 @@ category: news
 title: "A Voice From The Motion Picture Home, And An Oscar Salute In The Time Of Covid"
 excerpt: "At 8:45 p.m. on Thursday night came one of my favorite regular reports on the state of the entertainment industry and its denizens. That is, an emailed “blog” from lawyer and friend Robert Mirisch"
 publishedDateTime: 2021-03-21T22:30:00Z
-originalUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/"
-webUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/"
+originalUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/#!"
+webUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/#!"
 ampWebUrl: "https://deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/amp/"
 cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/03/voice-from-motion-picture-home-oscar-salute-covid-1234718629/amp/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 575
     isCached: true
 
-secured: "YWUyOvFw49OW9UJBiZWGuce+cumzjNXAwPTKoq7l3skAVONLvdzgrMUx9vik9fsUsa0zp5RZ7sZcmUQy9hHKWEITZKXFC0k6NhNgDKxItF0ksm3oShCLzcn8aB2EqUSOQtjNogj9TM0RT1bYj6DJF9wrggIiWc6FfP54gCrW6kjQKuCDsoFCbPhdeXI093TR1iFkp3h3swDqTuW2HK6FlYqkbnjoVw4ZMbVZ5Rsgr09Col58vDyvTHeCV7bn2XuuVjXHukWH+62v1VO9jYhdVAzy0BRcH6sQvq0KWZJV8Sy0pNHw6K74TmLr34ktDuIGPsLnHQPdAjq+welNxgDyqf/4tFJIbssgc2vEcJBKCOg=;S6NpLElBfqY4MBoYJNGLIA=="
+secured: "3wtGvyt9ZVngiPg3Fsmh0vwzWGjt+uSmbhqI/WPyAhSg1Hf3FlEuZTRuq9j/Zrqpg/dA/rNc5NUSPYTd6yG6wOF8Ogg/jDRnDxg3lvotKsVnvKn1zziiEmxWTrDuhC5JBAC7dQcP9KsRnQnpBXKu9AiGUqIxOl/iRcm8kH2mg+ZZz0Pi47C3WFJRyd4/2zjoKSwGf7IulU73n9JpnnsVkKKaP4F09ND7YMWMybFfoIab9cpMc+YGdRc7FN0jLtRaUHlZBksyHV3ecfu5RjpDFFS1PDvrvIgIpDkxd32biSM/u4ApGjTgVoz80w4l1gRhy57RIWhYqf9Q/GYPfV2QeCXP+VSuYzOLBUOCQc32dvs=;hp9oYYGUywz8QAkNuscc7g=="
 ---
 

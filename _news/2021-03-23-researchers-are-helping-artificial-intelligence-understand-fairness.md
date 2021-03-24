@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-artificial-intelligence-fairness
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-artificial-intelligence-fairness.amp"
 type: article
 quality: 74
-heat: 144
+heat: 145
 published: true
 
 provider:

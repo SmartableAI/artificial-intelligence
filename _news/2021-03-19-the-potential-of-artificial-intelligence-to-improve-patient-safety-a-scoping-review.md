@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-19T15:06:00Z
 originalUrl: "https://www.nature.com/articles/s41746-021-00423-6?code=1252dbf8-8284-460d-b6e9-3797af23ca7d&error=cookies_not_supported"
 webUrl: "https://www.nature.com/articles/s41746-021-00423-6?code=1252dbf8-8284-460d-b6e9-3797af23ca7d&error=cookies_not_supported"
 type: article
-quality: 32
-heat: 32
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00423-6/MediaObjects/41746_2021_423_Fig1_HTML.png"

@@ -7,7 +7,7 @@ originalUrl: "https://slator.com/machine-translation/is-tensorflow-for-boomers-p
 webUrl: "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/"
 type: article
 quality: 100
-heat: 103
+heat: 100
 published: true
 
 provider:

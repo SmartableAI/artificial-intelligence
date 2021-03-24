@@ -59,20 +59,6 @@ related:
         width: 1422
         height: 796
         isCached: true
-  - title: "This Week In XR: Facebook’s Invisible Computing Research"
-    excerpt: "This Week in XR is now a podcast hosted by Paramount’s Futurist Ted Schilowitz and Charlie Fink, the author of this weekly column. You can find it on podcasting platforms Spotify, iTunes, and YouTube."
-    publishedDateTime: 2021-03-19T06:33:00Z
-    webUrl: "https://www.forbes.com/sites/charliefink/2021/03/19/this-week-in-xr-facebooks-invisible-computing-research/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 54
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605441565fafb946c9eccb40%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facebook took down 1.3 billion fake accounts in three months"
     excerpt: "Facebook disabled more than 1.3 billion fake accounts in the final three months of last year as part of its efforts to tackle misinformation, the company said Monday. The tech titan revealed the"
     publishedDateTime: 2021-03-22T19:14:00Z

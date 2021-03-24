@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7.com/amp/covid-vaccine-coronavirus-research-variants/104
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/covid-vaccine-coronavirus-research-variants/10430584/"
 type: article
 quality: 54
-heat: 56
+heat: 54
 published: false
 
 provider:

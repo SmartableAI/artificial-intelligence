@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/amazon-delivery-driver-camera-ai-bez
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-delivery-driver-camera-ai-bezos-2021-3?amp"
 type: article
 quality: 66
-heat: 76
+heat: 77
 published: true
 
 provider:

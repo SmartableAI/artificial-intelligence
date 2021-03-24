@@ -59,22 +59,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Online learning platform about COVID-19 pandemic aids frontline workers, educates the public"
-    excerpt: "When the COVID-19 pandemic forced medical students out of classrooms and clinical rotations this time last year, the state of Georgia's only public medical school had to quickly rethink its traditional curriculum."
-    publishedDateTime: 2021-03-19T05:29:00Z
-    webUrl: "https://www.news-medical.net/news/20210319/Online-learning-platform-about-COVID-19-pandemic-aids-frontline-workers-educates-the-public.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210319/Online-learning-platform-about-COVID-19-pandemic-aids-frontline-workers-educates-the-public.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210319/Online-learning-platform-about-COVID-19-pandemic-aids-frontline-workers-educates-the-public.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 48
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "FDA authorizes 1st machine learning COVID-19 screening tool"
     excerpt: "The FDA authorized the first machine learning COVID-19 screening tool for emergency use to identify COVID-19-related health conditions in asymptomatic patients. According to a March 19 news release, the Tiger Tech COVID Plus Monitor will identify certain ..."
     publishedDateTime: 2021-03-22T18:46:00Z
