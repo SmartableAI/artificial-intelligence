@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's \"Full Self Driving\" Beta Is Just Laughably Bad and Potentially Dangerous"
-    excerpt: "A beta version of Tesla's \"Full Self Driving\" Autopilot update has begun rolling out to certain users. And man, if you thought \"Full Self Driving\" was even close to a reality, this video of the system in action will certainly relieve you of that notion."
-    publishedDateTime: 2021-03-19T16:56:00Z
-    webUrl: "https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
-    ampWebUrl: "https://www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
-    cdnAmpWebUrl: "https://www-roadandtrack-com.cdn.ampproject.org/c/s/www.roadandtrack.com/news/amp35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/"
+  - title: "Musk Says Tesla Will Wait For Progress On Full Self Driving Before Wider Rollout"
+    excerpt: "Last week, it seemed Tesla Inc (NASDAQ: TSLA) planned a wider rollout of the company's Full Self Driving Beta, an optional software upgrade that allows Tesla vehicles"
+    publishedDateTime: 2021-03-22T17:30:00Z
+    webUrl: "https://www.benzinga.com/tech/21/03/20281589/musk-says-tesla-will-wait-for-progress-on-full-self-driving-before-wider-rollout"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20281589"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20281589"
     type: article
     provider:
-      name: Road & Track
-      domain: roadandtrack.com
-    quality: 69
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 84
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2021-03-18-at-4-33-42-pm-1616099640.png?crop=1.00xw:0.892xh;0,0.108xh&resize=1200:*"
-        width: 1200
-        height: 602
+      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_5.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Tesla’s “Fully Self Driving” Beta Would Fail A Driver’s License Test"
     excerpt: "Tesla recently unrolled its autopilot beta to more users and the results are... well, incredibly dangerous, life-threatening, and scary."

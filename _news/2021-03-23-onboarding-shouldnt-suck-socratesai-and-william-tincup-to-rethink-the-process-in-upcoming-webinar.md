@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Feedzai raises $200M at a $1B+ valuation for AI tools to fight financial fraud"
+    excerpt: "On the heels of Jumio announcing a $150 million injection this week to continue building out its AI-based ID verification and anti-money laundering platform, another startup in the space is levelling up."
+    publishedDateTime: 2021-03-24T09:47:00Z
+    webUrl: "https://techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/"
+    ampWebUrl: "https://techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024"
+        width: 1024
+        height: 648
+        isCached: true
 
 secured: "ZgNEHX0UqmfK70RQAXvcUS3+vgWw3+PRpQ10daCF3TAEAuzG3zzozI/pk0XG0M6rmENjIdxMmsx5Iowlly3X5BIUpjEtdqoZA0CiiBEhK67HIfK9ES2GYmPl1E5Nn69i35mboSpasirq73qZiDNHZdtV+hZ7sA8D56Fhcv5K2524ROCvdI+8D3HJcLl68VL6hrM9cqj3vzBRh+Wk03LxVDapNT44STX7ZObMlWEIwgZ+Qe4VnT5rU6py4MIDcrMQvRENxuGStaIGmSp8cRDZvhnsymXzogNB8IAuL7WqfLdLDtRFYbqAxIlkfTFNYP3Ch9WFgiQfMdPwXB2g/okjRHnC2TJ+g9ruoYFK/CbJfU8=;ODoQzF6VUufH1rNespqXAA=="
 ---

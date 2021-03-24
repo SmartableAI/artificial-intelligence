@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media-intelligence-solutions/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Web Services debuts intelligent services"
+    excerpt: "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ..."
+    publishedDateTime: 2021-03-24T08:59:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services"
+    ampWebUrl: "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/03/AWS-MI.jpg"
+        width: 400
+        height: 333
+        isCached: true
   - title: "AWS Releases AWS Media Intelligence Solutions"
     excerpt: "SEATTLE—Amazon Web Services is now offering AWS Media Intelligence Solutions (AWS MI), which is a. AWS MI is meant to allow users to analyze media, improve content engagement rates, reduce operational costs and increase the lifetime value of media content."
     publishedDateTime: 2021-03-23T19:19:00Z

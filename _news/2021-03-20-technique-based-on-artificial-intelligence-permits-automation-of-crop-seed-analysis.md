@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Technique based on artificial intelligence permits automation of crop seed analysis"
-    excerpt: "Developed by researchers at the University of São Paulo, the non-invasive methodology facilitates identification of immature or poor-quality seeds without destroying them or creating residues."
-    publishedDateTime: 2021-03-19T15:57:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/fda-tbo031921.php"
+  - title: "Peritus.ai Releases First AI-Powered Assistant to Automate and Improve Support on Cloud-Native ..."
+    excerpt: "Peritus.ai, the AI recommendation engine for support automation, today announced the general availability of the Peritus Assistant for Cloud-Native technology forums to significantly improve support for technologies including Kubernetes and other cloud-native technologies."
+    publishedDateTime: 2021-03-23T13:02:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-north-america-cloud-computing-palo-alto-california-2fcaed4f263aa7af2426502a73f20cb3"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
+      name: Associated Press
+      domain: apnews.com
+    quality: 25
     images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "KNiSnKyQIY4MKRpzd3r4Z7cN1derUt9wGHfN9K0edcOEk4ETLScLBHS/uYiy9DNHYjqGu83a0xajIkbOXfp5lUtDGO9TeYgZSuRVw/knmEDLQ7YEp5IFEy5hstPURqc/wDs2xjvhr6zdLbInvvtUpok3oueIZhB/hagPAzZFhMbWRj0Dgaf2x5cz310zm5E42Rye6H98Ei1nMuxlXEOV/sYGdQjjlP3K6jECXmi/vbp8nl2ys9b3qiOuHZkKtB8uO3tlZ766Weo6la9/PTuR4MEBnewg+mCs+h7Fat09I8r7m8GxGd4PwdLtn9bG5rWuhwmZlpGGpRioI8OAaowHAHn7siIPyC1XAah19esUFXJSIK7T3nASlyYPbpQ0phDjV+oH+0prGxHY0k29ACzYvk2BESoM1jaS19sRVZmYR3mZTUa1iQVqhBxqiXN6pXTGVgYImJCvwVN9XOf2Z0XkioA47F1okqzHVc3QExJsuaZSvOqJ1zs+vaZ5zfJaWuKd2yA6y2cTt03JSNGJIgslGA==;yAVMg9TqqkHsq2Lf8gpc5A=="

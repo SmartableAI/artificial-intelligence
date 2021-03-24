@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210322/RADLogics-AI-Powered-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: News Medical
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Large-scale study finds AI-powered COVID-19 solution by RADlogics reduces turnaround time"
-    excerpt: "Moscow Center for Diagnostics & Telemedicine shared the results of a large-scale study (Moscow Experiment on the Computer Vision for the Analysis of Medical Images - mosmed.ai, NCT04489992) conducted by the Research and Practical Clinical Center for Diagnostics and Telemedicine Technologies of the Moscow Health Care Department."
-    publishedDateTime: 2021-03-19T15:17:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/coda-lsf031921.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 28
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Japan turns to face biometrics for safe and secure Olympics amid COVID-19"
     excerpt: "A facial recognition system installed at the Tokyo Dome, one of the Olympic venues, has been tested and will be put to use as one of the counter-measures against the virus, The Japan News reports. Tokyo will host the Summer Olympics from July 23 to August ..."
     publishedDateTime: 2021-03-22T21:14:00Z

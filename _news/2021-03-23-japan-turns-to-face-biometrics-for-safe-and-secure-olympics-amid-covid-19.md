@@ -41,20 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Large-scale study finds AI-powered COVID-19 solution by RADlogics reduces turnaround time"
-    excerpt: "Moscow Center for Diagnostics & Telemedicine shared the results of a large-scale study (Moscow Experiment on the Computer Vision for the Analysis of Medical Images - mosmed.ai, NCT04489992) conducted by the Research and Practical Clinical Center for Diagnostics and Telemedicine Technologies of the Moscow Health Care Department."
-    publishedDateTime: 2021-03-19T15:17:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/coda-lsf031921.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 28
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Iyvw3GQlYy/if5DofWeAKSvAK9m77AMJzHRGGEfj6XBBD0Et4aIV53gACYgykN6gwSnV/8tE+nrE6YxsHUSdVfCPE+K/x6RG55UPZdwV3qvH+PnyEmOewi+euJL+x4yUWv2WpiMbO3wQ7Go8/9VQgAcCcVoQX6EHLhgUyevr3IkEzvO1jSHDZetvi7oTzrkQ2DRVHvwxMa/2NiHFPbKy+ouNhOgBVg9gRR0eS95EGDios+2li8ADyrWZjfoFAR/x1nXZkJ3lRzbMylyPiTVpAdPBpwdNzFPLdrT+ZqDA+0xxGIR999ZGTHz/mwUgYA3Jagns2nBC5CMnXKR8AEbajMJYvbo4/zNTcGzDfApZFYTB/LiMQcX/N7AnYSg+WuIr4qtnPa0ch7YxAtNbWQaRJxv6lj7PtksgRfUMKgtsVSeH+s/571AcER6udPLyM7B/V05q4K/X8ITOQg88DvLgMf7bAkiB9cW0vF60Nsi5UiXWMFSVIDnqjA4l0+yNj3MLKeyT/tV+BbF3As2X7eq1Kg==;pVsYH3ufnqKrB+jdwwymmA=="
 ---

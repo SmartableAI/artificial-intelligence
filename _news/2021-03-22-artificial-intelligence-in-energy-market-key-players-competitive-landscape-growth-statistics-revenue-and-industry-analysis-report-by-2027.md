@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How the construction industry builds smarter with artificial intelligence"
+    excerpt: "With the advent of sophisticated machine learning algorithms and artificial intelligence, the construction industry is one sector to be positively impacted. Traditional processes are no longer efficient in the world of digitalization,"
+    publishedDateTime: 2021-03-22T13:42:00Z
+    webUrl: "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/construction-building-materials"
+    type: article
+    provider:
+      name: MultiBriefs
+      domain: multibriefs.com
+    quality: 38
+    images:
+      - url: "https://exclusive.multibriefs.com/images/exclusive/1102construction.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "TdhnR8b2TyAACg9JaElRw9dwKBvThivHNQCE46oJQKfK0fofLsMFQkiYG6AxakdNsuebSBHKmB+BQe1UlXCzErbn525IEzLbGxc9GhUfnQh9JUWK4XR5pRyyM0RzcTp1heInVoeSNDBNAtfz/aUBV9P390FbC5b6dHm4Aqte2uh/0/0h/GT3njty0BxkQ3FPPOk/6EqjNLmvZdl7zPdKqEQpEHIprnage/ms1lg/1Du3RJYT9xl10Nf6kC196//s2nx8ok0RAMapTUciMM7D1ywfkFF6aj4NetycTh73eqr+vW/hzW/ChHEOtxW1EDye96PFQQYeO3BorMRbTOZqoQx7gevI/wgb6w3rLyAzi2Y=;LmbCs0UmMzwz9fSDZ/xqtg=="
 ---

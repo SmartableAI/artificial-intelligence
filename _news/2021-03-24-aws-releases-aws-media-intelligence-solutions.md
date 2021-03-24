@@ -39,6 +39,22 @@ related:
         width: 800
         height: 312
         isCached: true
+  - title: "Amazon Web Services debuts intelligent services"
+    excerpt: "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ..."
+    publishedDateTime: 2021-03-24T08:59:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services"
+    ampWebUrl: "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/03/AWS-MI.jpg"
+        width: 400
+        height: 333
+        isCached: true
   - title: "eMAM streamlines search and processing with AWS Media Intelligence solutions"
     excerpt: "MAM allows customers to automatically tag and transcribe media with AWS AI-powered solutions. NEW YORK (PRWEB) EMAM, Inc. (EMAM) announced that the eMAM"
     publishedDateTime: 2021-03-23T18:00:00Z

@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
@@ -24,6 +25,6 @@ images:
     height: 390
     isCached: true
 
-secured: "fdlACNdvwpljwVWRtBPP+XsuEvjZMnyxLrALtLkh7C6BMkQQOgHfqjiD7Wk+Gqj9Iz/f08URibU4+xw/Cz66cCcbjRPFrKI3TLWBMt0/lojWciI+vP27+w/BsNTLJRwxYlqXOCv6O1Ypxm6P+NI3hTItAb11dwFYLug5iiEWCs+3cOhVw5246+CQdcfGkm1ePtY0JZKf5BUGD6STYlnyPX5O8LoTkWQpQL53hDJSmk7cFEfYFPGZFTArzY3ORZkkpB5yM9MlIQSslJ88XtS6Mo2sKYMMJUv/5SpPEblFwflAfAjB9IWq+6+w/Q041GvomCahEecsQd+/9vya1WKcYiOhtADMnZktgs7uR8e6qZU=;hPY2VrMimTZZXSkrZt9uOg=="
+secured: "NLMb/HdRD3cBOOF29HTerQhizwajVRd6Vf95SFyUo1hxkCiPSqWrcTgE5W4rmj4m0LkbuJ2iUpo3VzuGQCd2yAyzspKVybfTQ1aefFOqC+Esx12W0IvSCLcltsRYz8kjNYCv1cedE1uHo3jx5pL5yKEROnc9/HiGEXcNCTv5x5+dbObkiEvn3JBPhvBSLaEBf2Y2E1oiuEC1VVY+QRJYZ+3+lXzsydssGDX9VdLqf7FEvv1uu5oJObcaltQvyajLD+yssP/K/I36IqBZbRuNkPec6gOt3zGJJthuj6LkX/77QFoQGOjo8q09+iYbNUFgutv4ZyEMCRX9YqrW0r0ugkBSfXLnsVGrZkJrChDuwHkJqL5ZJ3ntQyh3x3s0ZQkfH6JrhuX7uIZXJnlspYhpU+hpyuWSj8mtzGmKMLfQE5opdNqPf5MCZ9r8cEnCiGSgmoonaT+NHrwYEijK1WL3hYbQllWGozRPsINrqtSUP9aLSlqNbR32fHhY32/uU+Vo9saq+Ph9ei9nyoQhkBdjgg==;TLPD9Pb9+10yx2XRowW97w=="
 ---
 

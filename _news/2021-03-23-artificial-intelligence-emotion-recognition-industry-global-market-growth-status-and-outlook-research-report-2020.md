@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How the construction industry builds smarter with artificial intelligence"
+    excerpt: "With the advent of sophisticated machine learning algorithms and artificial intelligence, the construction industry is one sector to be positively impacted. Traditional processes are no longer efficient in the world of digitalization,"
+    publishedDateTime: 2021-03-22T13:42:00Z
+    webUrl: "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/construction-building-materials"
+    type: article
+    provider:
+      name: MultiBriefs
+      domain: multibriefs.com
+    quality: 38
+    images:
+      - url: "https://exclusive.multibriefs.com/images/exclusive/1102construction.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Artificial Intelligence in Energy Market Key Players, Competitive Landscape, Growth, Statistics, Revenue and Industry Analysis Report by 2027"
     excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
     publishedDateTime: 2021-03-22T16:09:00Z

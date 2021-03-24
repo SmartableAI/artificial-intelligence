@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/amazon-delivery-driver-camera-ai-bez
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-delivery-driver-camera-ai-bezos-2021-3?amp"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Business Insider
@@ -28,24 +28,6 @@ images:
     width: 999
     height: 499
     isCached: true
-
-related:
-  - title: "Amazon driver quits, saying the final straw was the company's new AI-powered truck cameras that can sense when workers yawn or don't use a seatbelt"
-    excerpt: "But the breaking point came, he told the Thomson Reuters Foundation, when Amazon announced that it would be installing AI cameras in its fleet of vehicles. Insider reported in February that Amazon was equipping all delivery vehicles with AI camera systems ..."
-    publishedDateTime: 2021-03-19T16:24:00Z
-    webUrl: "https://www.businessinsider.com/amazon-ai-camera-delivery-tracking-tech-bezos-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/amazon-ai-camera-delivery-tracking-tech-bezos-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/amazon-ai-camera-delivery-tracking-tech-bezos-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-    images:
-      - url: "https://i.insider.com/5f7219a70ab50d00184acce5?width=1200&format=jpeg"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "ror6VhQ98Q2mLDQPZIyG94EMW+AW0viPhjVdcUn+NletyUarqe+4G2uzNL9dRqmz8vf6KLaNC1rDFg4Ev/+9GE/rp//vzfx2hQ5Wslitwl8sVQ+kcOtYSyCicC6sCO7l3W9dKbzo22Pu1ksh4a9bpIGUVIslxlYg4ulgVmPOfdC+cfqxSn0HjmmjsApZsUEN4v98K5EMiZIoOS9ojsxCgqd/iLe/swOvQPWlZdQ1alvQqcF9toIBQcD+L4evwtC2aBctBObx+J300dJ0vprWQQVwx6MREWooUKgRsti/OKHFwPGIXFIyVB0bKpV5EoxS/FcvIhp11AAXwuYLkAW1PCxPJjgZggaEAFa5QG/Jb4WMZJ0XXf2GMbYDN+LX9B2bJZgHVnGOQYcCS+9PPqrZKOriXwG0QAv5d+WdundTlJwN6px68lkOjLyoadke2MKj6x2CRUTaDGE/0mrZahOywTLj2waWgA0FIdPN2cDioj1eSH4bHSx7ybcfOuDNnLmejGJ3C//PxNkeonBZmipbmg==;dk/3cBx3tl4cIrEld/mAVA=="
 ---

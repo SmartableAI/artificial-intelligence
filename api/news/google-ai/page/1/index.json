@@ -361,6 +361,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-10-simplified-ai-on-microcontrollers.md",
+      "title": "Simplified AI On Microcontrollers",
+      "excerpt": "You can load AI onto some of the smallest microcontrollers as well. Tensorflow Lite is a popular tool for this, but getting it to work on your particular microcontroller can be a pain, unless you ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/29/simplified-ai-on-microcontrollers/",
+      "originalUrl": "https://hackaday.com/2019/11/29/simplified-ai-on-microcontrollers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/11/tensorflow-espurino-watch-main.png",
+          "width": 1204,
+          "height": 705,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-synopsys-arc-ev-processor-enables-kyocera-document-solutions-to-launch-ai-enabled-multifunctional-printer-soc.md",
       "title": "Synopsys ARC EV Processor Enables Kyocera Document Solutions to Launch AI-enabled Multifunctional Printer SoC",
       "excerpt": "The toolkit includes the MetaWare NN Compiler that analyzes neural networks trained using popular frameworks like Tensorflow or Pytorch and automatically generates the executable for the programmable CNN engine. “As new artificial intelligence ...",
@@ -1430,50 +1473,6 @@
         "Machine Learning",
         "AI in Finance",
         "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-artificial-intelligence-in-platform-as-a-service.md",
-      "title": "Artificial Intelligence in Platform as a Service",
-      "excerpt": "Artificial Intelligence in PaaS refers to the application ... utm_medium=15 Key Players Profiles in This Research Report are- AWS, TensorFlow, Rainbird AI, Bluemix, Infosys, Azure, Wipro, Meya.ai ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "originalUrl": "https://www.openpr.com/news/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/2/U223813383_g.jpg",
-          "width": 650,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "publishedDateTime": "2021-02-23T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
         "Google AI"
       ]
     }
