@@ -2,7 +2,7 @@
 name: "Boulder AI"
 overview: "Powering autonomous robots. Empowering their builders."
 type: "profile"
-heat: 50
+heat: 41
 
 website: https://www.boulderai.com
 
@@ -35,6 +35,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=UoXpoP7ibGk"
 
-secured: "8v20Hi9ddiiO2sBzHk7Fkd6fETyjNDV5gCehh0GSqQ9iNRRsSf59ba3HBu4AFtfVyFS5XEZbrwTkj/6ybgA38R35VF3+uDlolyKJTZHniJKZA0OkxZmG9+v5yZapi13z3RbbcSuUkQSlD1TIkZXdd9TdfD4rCbBH1CkHF8ObtdC0HqVZje/WomEgxXplwc6xwpYFEdtkFkNNF/zRtclRXD6oD+sPmq0QltWyV+5Tq07CBCkqqYZ7nGiD30qmL2+OpoY8UArebF81bbb8YKGWe0x1J/3w9EzJlCfgtNJbPTyfS9Nm53FCtsSaQLBocVgMBgyqNjfgHteQ1BXB+HJOwITP8U8YXgaHz4T2ADh0koFoQMCBO5ptUewISdA8dGbqo1Oo6snHpiv7PTHaSp5WtA==;r+PdjrshHV09+2ojgcoLJQ=="
+secured: "wRDA64YdXZXxSfUsFl9lXFPFO62CjwTx62UEDHCYbW2z9dxFxNYJYIKy71ZNlrD/Eh69IA/X9xhLKj2CfTtubGciyyJ5lNy8dEl/AZrBWC1hF+LI8m8jhv5C3nusLjGMlUwUhIQvnLn7W4S5r/L3nduIDz12bBhkOCiHTaU+hBE8FpkEHMMtTCMPXj1775HvZAd+xcazKxoo7TCx4VdplCKcuafXujuHlpgD2qcvHlcQ6RVPsZIZUgxkF3SaZ53o0OO5YBsTeE5BJoA5TyS6Gj8yUluTF1C6lnbSShzO0IBaKuHvJ8Wcw3IHcgiP8POTepgfqfZxxZEtuTCD1TikaSUaDIehumW+pChc/EK90QbY8S/x4YNE4wOGCwolVEe6O350gMPX3Kw52JmFeDrfag==;KsFDmTKbbdOatihUsnz09g=="
 ---
 
