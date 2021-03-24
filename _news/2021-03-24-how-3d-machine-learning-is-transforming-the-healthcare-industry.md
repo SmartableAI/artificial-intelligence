@@ -9,7 +9,7 @@ ampWebUrl: "https://cheddar.com/media/how-3d-machine-learning-is-transforming-th
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp"
 type: article
 quality: 76
-heat: 87
+heat: 86
 published: true
 
 provider:

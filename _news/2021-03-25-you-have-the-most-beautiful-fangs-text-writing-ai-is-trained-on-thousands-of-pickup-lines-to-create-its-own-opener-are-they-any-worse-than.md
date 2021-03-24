@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-24T18:07:00Z
 originalUrl: "https://www.dailymail.co.uk/sciencetech/article-9397979/AI-comes-original-pickup-lines-results-hilariously-awful.html"
 webUrl: "https://janellecshane.substack.com/p/gpt-3-tries-pickup-lines"
 type: article
-quality: 97
-heat: 107
+quality: 99
+heat: 109
 published: true
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2c7c912-2468-4adf-b37c-57d1339a2153_489x489.png"
@@ -41,6 +42,6 @@ related:
         height: 382
         isCached: true
 
-secured: "CAB4OQ0TkfLOe+WS5DoOkEqBW369xGW1EPvm7yKO4OjSAEl7p3wZdjbnYtDnfN8Vtn2juRlrUhTXWri9iPiOOhDMwpSgRI+0yWLgrHbWtkf/o8k2g3Xgv4DDR2LqGhYcTevy+q5z0DEWkNTNepS5VasGmJcPHNeAwLJ+Xbty9P6DwxbG19eUt+cPgA7Wr5aVGqufW0En7F04KN9AiNzhjJsLao1d63oOT5Kt7OMeOPjbYf1H3pAkbI5IfCha3PLkdDm2pv7X+dhIWZZtNzyV/SQcLzgleZGb125q9g8L9Tg+hkPAO3rW7FYWv9LQ4/dMVcKnepsqWi3AT/hJ0N2YITl7ZfooDnLt/FvUfCnXjps=;g0jXfKDUBaVuXol8qyyE6g=="
+secured: "IS5ZGkIo8yaFEGtoUUEndba0rpWoYaG+a0ums10j0NMfF2kX51Yis04z3guANEKJDeERDbOPYWWfe62IK0802I84mxLuYCbvdpdoeiFQIRyMAFL0w8ausWMklM1fLeXT7usQ5/0Vy54z2ZAjT7AxtGm5G1zyTG5qyxRWNSQf/Aa1ANA2jslOV0LgakhLiDbixLqm7qlBs86ULFXZYyL5M3GhCupqdIp+iVgEihD22V8c61s8HSoaq4+tUCxsXsitC4ZZ5rR/PuwL6q5nUgMXkgVFArfpdcUmqwC32CnZAFz+SyntnrZujr8BNxu+I+CDcVscqW9jJT5awsk2zXQlkld7i9uP4T0rbXrWZimRrq8u10dMBd4lWTFJ4vfrY86rwFuDrIMDAVR+cZln/bOC1rUIpxwdqJFV2U3UwL9U3kWBd+31Fm3mD995F0AdNdQtUAJx3nPdMXiD4qHtYsY61JakgCsM2M5OwyeZcrKgbv5f7Qf1s27aMEIBKA61KTXYwmiP3+NlR/EWP9hHuWrA/VNwy+5gNrZ/ww59EV/jaQw=;x/1LB3TJz54RbvNJIiAa6Q=="
 ---
 

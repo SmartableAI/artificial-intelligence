@@ -49,6 +49,20 @@ related:
         width: 800
         height: 390
         isCached: true
+  - title: "IDmission biometrics and liveness added to Enacomm stack for fintech onboarding"
+    excerpt: "Enacomm has formed a partnership agreement with IDmission to bring biometrics and other AI technologies to Enacomm’s fintech customers for end-to-end digital transformation of applications relying on identity verification. IDmission’s passive liveness ..."
+    publishedDateTime: 2021-03-24T21:46:00Z
+    webUrl: "https://www.biometricupdate.com/202103/idmission-biometrics-and-liveness-added-to-enacomm-stack-for-fintech-onboarding"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/02123142/identity-verification-integration.jpg"
+        width: 696
+        height: 392
+        isCached: true
   - title: "Idemia face, ID R&D voice, Aware fingerprint biometrics score top biometric accuracy rankings"
     excerpt: "The results show Idemia’s performance in facial recognition for masked and unmasked faces, ID R&D’s in short-duration speaker recognition, and Aware’s in proprietary fingerprint template generation and matching. Idemia achieves top accuracy results ..."
     publishedDateTime: 2021-03-23T17:39:00Z

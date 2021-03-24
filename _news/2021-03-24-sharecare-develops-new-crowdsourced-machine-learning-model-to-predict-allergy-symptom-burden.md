@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sharecare develops machine learning model to predict allergy flare-ups"
+    excerpt: "Digital health company Sharecare developed and trained a machine learning algorithm to forecast environmental allergies using smartphone and geolocation data. A March 23 news release said the study included 2,000 participants in the U.S. to gather symptom ..."
+    publishedDateTime: 2021-03-24T20:34:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/sharecare-develops-machine-learning-model-to-predict-allergy-flare-ups.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Sharecare develops new crowdsourced machine learning model to predict allergy symptom burden"
     excerpt: "What if you could develop a forecast for your allergies, just as you check the weather on your phone before heading out the door? While"
     publishedDateTime: 2021-03-23T16:00:00Z

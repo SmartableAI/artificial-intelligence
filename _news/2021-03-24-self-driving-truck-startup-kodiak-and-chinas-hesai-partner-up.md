@@ -3,8 +3,8 @@ category: news
 title: "Self-driving truck startup Kodiak and China's Hesai partner up"
 excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc. and Shanghai-based lidar maker Hesai Technology Co. on Wednesday announced a partnership to integrate Chinese lidar technology into autonomous trucks."
 publishedDateTime: 2021-03-24T13:03:00Z
-originalUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
-webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
+originalUrl: "https://www.autonews.com/technology/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
+webUrl: "https://www.autonews.com/technology/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
 type: article
 quality: 39
 heat: -1
@@ -69,15 +69,15 @@ related:
       domain: nasdaq.com
     quality: 64
   - title: "Self-driving truck startup TuSimple files for U.S. IPO"
-    excerpt: "Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. Adds details, background on TuSimple, autonomous driving ..."
-    publishedDateTime: 2021-03-23T20:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-tusimple-files-for-u.s.-ipo-2021-03-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-tusimple-files-for-u.s.-ipo-2021-03-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-startup-tusimple-files-for-u.s.-ipo-2021-03-23?amp"
+    excerpt: "Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector."
+    publishedDateTime: 2021-03-23T21:25:00Z
+    webUrl: "https://www.reuters.com/article/us-tusimple-ipo-idUSKBN2BF2TU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2TU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2TU"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Reuters
+      domain: reuters.com
     quality: 54
   - title: "UPDATE 2-Self-driving truck startup TuSimple files for U.S. IPO"
     excerpt: "March 23 (Reuters) - Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the ..."
@@ -138,6 +138,6 @@ related:
         height: 600
         isCached: true
 
-secured: "i2jXMLAN3Vfr48LiQIY7PJB4xYlWKclRZJgfA505GGKX3Y8SODoVy+bU1xotngntuUtcgsp5psWzzEP7ETG/yDT61Szo2P89SgW71KyFK8c6rPTHdLzd/JTlUECk6glfZ5m3lC1AtIHnJ7Vbgea6cig//LY85mXaFCIBjGhjvNb1SQ8CGe42snx0tiQr9B61YaazpzncqHjCIebYym7JmVf3AR7pw9HDXr/3alkrKEUT7xz5StGNYTKC4GwBUkOAvHshIkpwc0u0rDkMn0Wsjmh0CrrJD32hcAk8aamAWxj4Ea6rrs87LgNehAwN2KRp+Kv08AguYVH3WVZvum1tFIh0fXAfux1p/y4s7YnLkLCGHnXXVs9uFjVDRHtbkDXVClB4+sqBqQ+KnHnwTI1vsG38PmvsN5fHxkwupPHvSwvqtkZJLGaKcsuPMfthEtQ6Fi+Cip96uE0ijQzoIW2N6EHj5LOI3bbep/wTmTdSscoG8iCbGjsJ5NVyE0mB6udFIGGNWj0BCs1UmXj1GCM0xw==;/whhDbB+/VIMHeFWIwI6Jg=="
+secured: "5GuXi4TcqxfUkHp38ikVoBLmFeP+TKoqOpPUHVsTNTNHK/y8DoAqVf11wVKD1gu7C33Fzo/IY8ssjDTk7CbSPWPis4Hd1syXQ8UvgohSadoYWhL/NO8ePY3lZeOFlAdSF6VJ8qQKvot9nQm4ODlLWYrhLpPqRcsqxTI68E17XWp6iMhWRTxCs9SptlIAQiM5XYy75f2rOLegl3ir6ovEfHz15F0MniBki9WYE9EC8+64i3eLegNhuGhwUDZSm12K1tOJzMxFNk328pEurNsFNGR1uD2ycKXZ2qI4lp/ZS2kzs1eA0uLUCZngVc64bY/cDiz9ScSQmvm126BEXI3ZlZxxW9mEgthYf30pHXja/oo=;cK/0lLouc/AOQQbfHUuLPg=="
 ---
 

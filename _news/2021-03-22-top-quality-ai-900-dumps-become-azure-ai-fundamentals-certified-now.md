@@ -7,7 +7,7 @@ originalUrl: "https://www.madinamerica.com/author/top-quality-ai-900-dumps/"
 webUrl: "https://www.madinamerica.com/author/top-quality-ai-900-dumps/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is changing how we work"
-    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
-    publishedDateTime: 2021-03-22T19:23:00Z
-    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
+  - title: "Employees attribute AI project failure to poor data quality"
+    excerpt: "A survey from Alatian and Wakefield find that data quality issues are among the top reasons that companies fail to implement AI."
+    publishedDateTime: 2021-03-24T20:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/24/employees-attribute-ai-project-failure-to-poor-data-quality/"
+    ampWebUrl: "https://venturebeat.com/2021/03/24/employees-attribute-ai-project-failure-to-poor-data-quality/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/24/employees-attribute-ai-project-failure-to-poor-data-quality/amp/"
     type: article
     provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
 
 secured: "gMkb8fcYTuPsVg9o6l+TzsbikusYjzLfsEYol12IKJDftsJoUEH4yWeiXDm8CbhBFl1mvhH4z0C9RARh3g9ikaRDtOakDVZmMP2CmnKRKjxM/oWgiV0rGyPDwF/0wmH0jfcrdtHC0zIO4Oy9kh4ZLnsXxWuOIz7v7Rz1nj/0msYQyg+pQ3D9HQ97BW6ckSqIgZ2s9ruCzXjfZVYKrVjJZudUTzYZqM4hHL3t4L2Zj0x2RDONq8ISpPB7XA8B95vyKmGyyZR66VUDVEW9dCVugEecoyZIY4GCIiYpTzOncDOR/JyGSOkPeN7LtLqT3UIcD8Y4vmneU1EIdad/KVTbh33oqDTr3gax6QNSv0oHPqE6jPe1E2nIOQogjAwsv0UZl1BpBAoSBKihfalUbG8ymmyOIag7+xNdUg9EPGbeLGhYfFFWgdVASjwfmJIPs3XXLeBZYkdaDbUZGzFBgBMJpT/I8hUN9k9UAX5XTzwnNSWDKgOUg8Mx5VvWfqr4Er4H3yqmWwpLrw33pw6uckesYQ==;OM/OuN5MbEks1iK6ilWocQ=="

@@ -98,6 +98,20 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 33
+  - title: "RIA-Founded Fintech Introduces Next-Generation Tax Planning Tool"
+    excerpt: "FP Alpha's AI-driven Tax Snapshot can instantly read and create planning recommendations from client tax forms."
+    publishedDateTime: 2021-03-24T20:24:00Z
+    webUrl: "https://www.fa-mag.com/news/ria-founded-fintech-introduces-next-generation-tax-planning-tool-61092.html"
+    type: article
+    provider:
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 24
+    images:
+      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Banca Progetto, 800 mila euro di finanziamento alla start up fintech Young"
     excerpt: "De Silva (Banca Progetto): \"Siamo sempre felici di poter dare un aiuto concreto a progetti di giovani brillanti con una idea imprenditoriale innovativa\""
     publishedDateTime: 2021-03-23T10:35:00Z

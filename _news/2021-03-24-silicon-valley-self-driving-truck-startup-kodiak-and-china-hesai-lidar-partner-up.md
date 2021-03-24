@@ -54,15 +54,15 @@ related:
         height: 640
         isCached: true
   - title: "Self-driving truck startup TuSimple files for U.S. IPO"
-    excerpt: "Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. Adds details, background on TuSimple, autonomous driving ..."
-    publishedDateTime: 2021-03-23T20:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-tusimple-files-for-u.s.-ipo-2021-03-23"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-truck-startup-tusimple-files-for-u.s.-ipo-2021-03-23?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-truck-startup-tusimple-files-for-u.s.-ipo-2021-03-23?amp"
+    excerpt: "Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector."
+    publishedDateTime: 2021-03-23T21:25:00Z
+    webUrl: "https://www.reuters.com/article/us-tusimple-ipo-idUSKBN2BF2TU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2TU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2TU"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Reuters
+      domain: reuters.com
     quality: 54
   - title: "UPDATE 2-Self-driving truck startup TuSimple files for U.S. IPO"
     excerpt: "March 23 (Reuters) - Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the ..."
@@ -97,7 +97,7 @@ related:
   - title: "Self-driving truck startup Kodiak and China's Hesai partner up"
     excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc. and Shanghai-based lidar maker Hesai Technology Co. on Wednesday announced a partnership to integrate Chinese lidar technology into autonomous trucks."
     publishedDateTime: 2021-03-24T13:03:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
+    webUrl: "https://www.autonews.com/technology/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
     type: article
     provider:
       name: Automotive News

@@ -1,105 +1,29 @@
 ---
 category: news
 title: "Pandemic changes facial recognition debate"
-excerpt: "Law enforcement agencies and private companies have a history of using facial recognition to store data, identify people of interest and unlock smart devices."
-publishedDateTime: 2021-03-22T21:03:00Z
-originalUrl: "https://www.milforddailynews.com/story/news/state/2021/03/22/pandemic-changes-facial-recognition-debate/4794844001/"
-webUrl: "https://www.milforddailynews.com/story/news/state/2021/03/22/pandemic-changes-facial-recognition-debate/4794844001/"
-ampWebUrl: "https://amp.milforddailynews.com/amp/4794844001"
-cdnAmpWebUrl: "https://amp-milforddailynews-com.cdn.ampproject.org/c/s/amp.milforddailynews.com/amp/4794844001"
+excerpt: "BOSTON — With masks a mandatory accessory to everyday life, the controversial use of facial recognition by law enforcement to find potential crime suspects has only heightened concerns and triggered further scrutiny due to advancements in artificial ..."
+publishedDateTime: 2021-03-23T13:32:00Z
+originalUrl: "https://www.gazettenet.com/Facial-recognition-technology-39468489"
+webUrl: "https://www.gazettenet.com/Facial-recognition-technology-39468489"
 type: article
-quality: 59
-heat: 109
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: The Milford Daily News
-  domain: milforddailynews.com
+  name: Daily Hampshire Gazette
+  domain: gazettenet.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/03/22/NMLF/5b497bbb-3c77-4de9-af58-082cc28a72ba-3000.jpg?auto=webp&crop=2999,1687,x0,y164&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "http://www.gazettenet.com/getattachment/dd7adba1-03ee-4e91-adec-d0f40b428c0e/2bd9f5e8387a478380fd30922cda7d19.jpg"
+    width: 499
+    height: 325
     isCached: true
 
-related:
-  - title: "Disney World tests facial recognition software at Magic Kingdom"
-    excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
-    publishedDateTime: 2021-03-23T18:14:00Z
-    webUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
-    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 59
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Using nationalism to refocus facial recognition concerns in China"
-    excerpt: "The violation of people’s biometric data privacy, as denounced by the TV show, has the public and industry watchers urging for a swifter legislative push."
-    publishedDateTime: 2021-03-22T17:55:00Z
-    webUrl: "https://www.biometricupdate.com/202103/using-nationalism-to-refocus-facial-recognition-concerns-in-china"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
-  - title: "Disney World Testing Facial Recognition"
-    excerpt: "Resort is conducting a 30-day test using facial recognition technology to improve the guest experience. The technology captures an image of the visitor's face and then converts the image into a unique number that is then associated with the form of admission the guest used for park entry."
-    publishedDateTime: 2021-03-24T14:31:00Z
-    webUrl: "https://www.avnetwork.com/news/disney-world-testing-facial-recognition"
-    type: article
-    provider:
-      name: AV Network
-      domain: avnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xaia55AsiS86NL6AHCCxU8-1200-80.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Psychology behind facial recognition"
-    excerpt: "Facebook profile picture forensic interactive face recognition software tasks identification Super recognisers surveillance CCTV British Journal Psychology"
-    publishedDateTime: 2021-03-24T16:41:00Z
-    webUrl: "https://www.professionalsecurity.co.uk/news/case-studies/psychology-behind-facial-recognition/"
-    type: article
-    provider:
-      name: professionalsecurity.co.uk
-      domain: professionalsecurity.co.uk
-    quality: 39
-    images:
-      - url: "https://www.professionalsecurity.co.uk/wp-content/uploads/2021/03/Frost314.jpg"
-        width: 343
-        height: 457
-        isCached: true
-  - title: "Tracking dongles and facial recognition tested at Mice event"
-    excerpt: "SINGAPORE - A Bluetooth tracking dongle and facial recognition tools are some of the new technologies being piloted to prepare Singapore for major events like World Economic Forum in August.. Read more at straitstimes."
-    publishedDateTime: 2021-03-24T14:04:00Z
-    webUrl: "https://www.straitstimes.com/singapore/consumer/tracking-dongles-and-facial-recognition-tested-at-mice-event"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/03/24/yq-geoconnect-24032021.jpg?itok=HSD3-HtD"
-        width: 763
-        height: 509
-        isCached: true
-
-secured: "bvBWs3UPFirWRpn3lnXwEtTcQtXwIeKu09H0g4enoQNDOqPUedx8pGhuCXaRqzF5Py3G2Ef8JPdw3v5/rVbDXkGZDsdBcHSjZomGCwNMZUAdaB2t9c0JRqeDSL6d3kGO4HMQmDkd12jHQ+bC0MvXkHlzycVIbkjjolw+3cG1tQQW66r/Arm5qidbu4IOJi/Sgx6sjmwIeNBm2ZydTC8bBb8niHLS7f+ISAzahbLEeSY/aRVFzmKBxPvzj+pVHqzOMt1tC8vYGe51THSV7jVm4h9FkH6JGWCMY28jb5J6oZhnqJbfUvQBu+5wyljh/kNQJfNvZu63J7bM0m3zxUxtBZVMSa/Q6erHfejRkcR8K3E=;96Hhz/nR09QNOULyPprydQ=="
+secured: "+mIZFJnAufJhxYBhW/MdMnX+QS+HlxPHXM1zhOnlbyj07zARy9HoEcIzwx0vZxrusRSl9gXNCvps1rV7P9NNJs8XpkmMLj+fi65/AqZlcs1og7wrre0gjblgFkCYoPhoA4Fq/JmVlS7sj4Dua6sPjbuEPazLub1hx8NfjmyX7PulalX0JfxUxB7L45GzOxNZSH4lj2r3mxfHHfLAvYIWH5ATjTl7aagxeYRFQMRwiWZY+dYjlycRToJhacyXxO3nve2VldSjn0YUHV73FF0oCI+bPqphOJ9MR/7sOl4OD677YdbCubqM4tsP75QHAmtMYFbK9mFC5uOGtRUXEmXzS6bnOFKkvmaN/70sWs/jfoc=;cpoYtabTeV2ErE4omoV6xQ=="
 ---
 

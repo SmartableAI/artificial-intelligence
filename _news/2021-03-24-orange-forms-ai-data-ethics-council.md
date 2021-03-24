@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/orange-fo
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:

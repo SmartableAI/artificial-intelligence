@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-kendra-adds-n
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-kendra-adds-new-search-connectors-from-aws-partner-perficient-to-help-customers-search-enterprise-content-faster/"
 type: article
 quality: 64
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: AWS
@@ -27,6 +27,22 @@ images:
     width: 768
     height: 385
     isCached: true
+
+related:
+  - title: "Regology partners with Archer® to Provide Regulatory Content and Intelligence Capabilities"
+    excerpt: "Regology today announced a partnership with Archer®, a leader in the integrated risk management market, to deliver an API level integration between the companies’ platforms. The partnership is designed to make Artificial Intelligence based regulatory content and feed capabilities developed by Regology available to Archer customers."
+    publishedDateTime: 2021-03-24T18:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-0a04f8298e274608b5e1a109fd0a194e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "jj1+CgvpyBrloOdjYuxnXltFgESLwrJPq6AFcNkBTAaqL+VlosaHreEqlB+XHBv1TVNDLlvU/Vf/V4GgrKcQDNsPQtuYuTirWNZqgPDDEOXRKNAgt8mbNRKEAFhZe6uljQEayh84WwtcWPOoRjsJqyJRvZwgU4LxUD7CJNDgyMP3BjNoFikfhiz5AQL06UZ4vd0ruxSuC7FG6kb1pMwtC87R1zjN6Us6dFT9VjLA61KC544AHZwe/iAm2qeOstAe2CmvjGfIyR/5SIJtg4wId75IQn0Fj3o9GZQl22YTluB8u01EXg33oPcyXwXeiL1npLi9vkE1jjl6x7IPbZJW0KYRmhKQq3zBuVSyXVaU1Sg=;HZtNH+qolEfB7ewN/vFKYA=="
 ---

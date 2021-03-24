@@ -35,7 +35,7 @@ related:
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 97
+    quality: 99
     images:
       - url: "https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2c7c912-2468-4adf-b37c-57d1339a2153_489x489.png"
         width: 489
