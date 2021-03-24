@@ -101,15 +101,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Deep learning Enables Accurate Diagnosis of Novel Coronavirus (COVID-19) with CT images"
-    excerpt: "A deep learning-based CT diagnosis system was developed to identify patients with COVID-19. The experimental results showed that our model can accurately identify the COVID-19 patients from the healthy with an AUC of 0.99, recall (sensitivity) of 0.93 ..."
-    publishedDateTime: 2021-03-19T09:45:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9376253"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 11
 
 secured: "rpuX0qccs0xAru7KLrVPDGVjHfL35lObupSPzZZ/UEcozPVQx2Xc+s0bG7Cr4YBiIfylLfaMKWxy0o1KdGGF1fad4UKAdIMMNJ06+DM8IPZBSA8hmWnKWDTUTH4DRxb3dnCjVIdCnaUe1Ok0UmdbvQZPja1h0Azwqj/hsust6Dqcd2IarWupumhkwcLSmNRh3w9bSwMoZ6PQnWcjeKIZcejeINJYj5cYNW31sfQl9eTU0gOAYyhIBimKqmVrVV3MERhyjzafkkP0Pj/ftW5I61KJdYvdIZXBhuFUGHO00GOoPJQz4s8PiGN4afVpdBQvMyk3u9zJITNOnpO1/43rZ2FsTTBp8yQ/t/o8tvnKizE=;HtCm3Uosa6ywCbCsqwU86Q=="
 ---

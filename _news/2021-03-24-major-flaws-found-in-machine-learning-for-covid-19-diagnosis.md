@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-lear
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -105,15 +105,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Deep learning Enables Accurate Diagnosis of Novel Coronavirus (COVID-19) with CT images"
-    excerpt: "A deep learning-based CT diagnosis system was developed to identify patients with COVID-19. The experimental results showed that our model can accurately identify the COVID-19 patients from the healthy with an AUC of 0.99, recall (sensitivity) of 0.93 ..."
-    publishedDateTime: 2021-03-19T09:45:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9376253"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 11
 
 secured: "esbrU0q51tdqSIrHy/vWuVFm3HFXg73w4e5x30w8cjTnhS60wQXvIbm9LsnbwKz9pDhVcIx5yTniGIkl/GbamKyYetkmL1c0jQsxMMprrh50UvrqZU3R+U2+6oJT1ECt4Dt/N11yPUS9vk4XtqTnJORnvzdy6IMnZopeABnics20ydgXnJ5qP7/DsjLmq4aO6qRp6DHNCLCayNwhI7TVAlt95TYx/Jw+RDJruXPqyi9tqGCBtJ4I7JQe98ssTV+CuoxFHty7GiiZdsz32GriLlnp7gAhbeGrjDt1SZurUDj36wPiGmTb1TmajrKC+P2zEmEx3NFzgSyJMW3XqzsyfJ+Ixx3y14QN+Gl4wEql7hP0Zos6AqO/RCzwVb2XsFfsk3bd++f0/UcR/cx44lb0SwFbaJai9iOJsBLoVIa44maLyiN2X/JCssJ2tuikFN0kGQLEc5AsRpJQ5m+yFJq0dWNVxpDs3ui5lGDPFfcdPLtlTYr0iuj9s86ikF6bCq26zOMXtnOMjuvo/lDd5KpTkw==;Mx6VW12cNay6e8xICyS4tA=="
 ---

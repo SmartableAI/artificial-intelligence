@@ -98,7 +98,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -482,10 +482,10 @@
     {
       "path": "_news/2021-03-16-cancer-therapy-how-our-cells-are-becoming-resistant-to-medication.md",
       "title": "Cancer therapy: How our cells are becoming resistant to medication",
-      "excerpt": "In their new study Rune Linding from Humboldt-Universität zu Berlin (HU) and his colleagues have utilized artificial intelligence to learn, and interpret, changes in the morphology of cancer ...",
+      "excerpt": "Human cells are constantly changing shape. Biologists know that these morphological changes reflect changes in a cell’s function but our ability to understand the meaning behind a cell’s shape has, to date,",
       "sourceUrl": null,
-      "webUrl": "https://idw-online.de/en/news765031",
-      "originalUrl": "https://idw-online.de/en/news765031",
+      "webUrl": "https://idw-online.de/de/news765031",
+      "originalUrl": "https://idw-online.de/de/news765031",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -504,7 +504,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T07:02:00-07:00",
+      "publishedDateTime": "2021-03-16T07:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "idw",

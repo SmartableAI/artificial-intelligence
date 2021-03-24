@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How AI is changing the way we work"
+    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
+    publishedDateTime: 2021-03-22T19:52:00Z
+    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 41
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "EJkmIUmkLhS2sMcIrWI18nBapF1utsUlqubIK1hpDXAglnA7Lo6sE/llddA1XVdDPbqEPREkxI86KlfqQsELpVj4JkpWZba3VjvtH1FVRsuUf1doTVqP6/51uI0yJbSnjncHlwj1Je67YTo6lvM8yfB1NVb5Dz1wWChNmhc6gw35rEbdBK1pTnYoXa8g2kn45gxsMCoNfbkf/fmr1UUkYU0/dvETu515yPa1wNYNFML9oGzocbF/My3LPwolnEMTZAhP7o7+tBO46G48EsLSOcb733i8ccYPrtWagtF3kdl0Tj0o7dHR9lEOw4cdTYT4ZIqs/I0j6uOBVrUwQF+IWD0yluM1fzwq1UK9RxsUCDk=;u0gFnOkX/QPVvR6M7ciAkQ=="
 ---

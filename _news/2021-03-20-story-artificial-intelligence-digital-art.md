@@ -38,19 +38,19 @@ related:
         width: 300
         height: 285
         isCached: true
-  - title: "New Data on Stroke Care Show the Impact of Viz.ai’s Artificial Intelligence-Powered Platform on Patient Outcomes"
-    excerpt: "Viz.ai today announced new data supporting the use of its technology to coordinate care for acute ischemic stroke, hemorrhagic stroke, and clinical trial recruitment at the 2021 International Stroke Conference."
-    publishedDateTime: 2021-03-19T11:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-health-products-and-services-c2bc6db7e3324619aeb9aa873b9685c9"
+  - title: "How AI is changing how we work"
+    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
+    publishedDateTime: 2021-03-22T19:23:00Z
+    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "u8n9WuSVGZTCN38cid4/C5Iaigd6Bctp8SteY/ivkXi3v+SYO0XGrYJv111+6gP+XIzmtVLQf1o8l1O9//rWjCFU8Vk/0WpchiU7AyX78dDWHIhr1M4LWRacXpnCuq5rtVaoAPUrBZTTw1cvB2fP0Kzy8iO9aJWyikGZX811ihzwgNWEa85LpxC9+x+ItkmfYZyc3DNNr0eZFzt8kUldGqVXWe5E+vHFt17t7kCcSha7CZww90WAafFVN611dXoEfmcQ/K7s3RlZ4bupZ5U0vqDGPVeOpcztrdfqabzLR6+Klrmv22nilfYJ/2vbLLgJjyrk00g79i0xh6jzp8SWboF2UMjHyb8hkY8e09rikAg=;2vtSZrcsiRO2s9FpNFnZdQ=="

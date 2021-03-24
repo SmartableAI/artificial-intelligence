@@ -2,6 +2,163 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-03-05-multimodal-deep-learning-approach-for-event-detection-in-sports-using-amazon-sagemaker.md",
+      "title": "Multimodal deep learning approach for event detection in sports using Amazon SageMaker",
+      "excerpt": "Have you ever thought about how artificial intelligence could be used to detect events during live sports broadcasts? With machine learning (ML) techniques, we introduce a scalable multimodal solution for event detection on sports video data. Recent developments in deep learning show that event detection",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/multimodal-deep-learning-approach-for-event-detection-in-sports-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/multimodal-deep-learning-approach-for-event-detection-in-sports-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/06/Fig2.png",
+          "width": 800,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-05T11:53:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025.md",
+      "title": "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025",
+      "excerpt": "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-05T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees.md",
+      "title": "IDC: Ethical AI is a team sport that requires smart and strong referees",
+      "excerpt": "New research finds that the lack of responsible artificial intelligence guidelines is one of the top three barriers to wider adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
+      "originalUrl": "https://www.techrepublic.com/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/05/fb1dd7e4-3c17-4e5b-9ccd-017d2aa60e7a/resize/1200x/0f2fe69a0f1a68f01de5707589eb5521/aigovernance.jpg",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
+      "publishedDateTime": "2021-03-05T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-tom-cruise-deepfake-creator-says-public-shouldnt-be-worried-about-one-click-fakes.md",
       "title": "Tom Cruise deepfake creator says public shouldn’t be worried about ‘one-click fakes’",
       "excerpt": "When a series of spookily convincing Tom Cruise deepfakes went viral on TikTok, some suggested it was a chilling sign of things to come — harbinger of an era where AI will let anyone make fake videos of anyone else.",
@@ -1044,144 +1201,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-the-cia-once-built-a-catfish-robot-spy-named-charlie.md",
-      "title": "The CIA Once Built a Catfish Robot Spy Named Charlie",
-      "excerpt": "In the 1990s, the CIA built an unmanned underwater vehicle as part of a feasibility study. The UUV was supposed to resemble a catfish. It’s not clear if “Charlie” the catfish did any real spying during its CIA career.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/military/weapons/a35729403/cia-robotic-catfish-spy-history/",
-      "originalUrl": "https://www.popularmechanics.com/military/weapons/a35729403/cia-robotic-catfish-spy-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mzc3ndeznw-1614958652.jpeg?crop=1.00xw:0.835xh;0,0.0373xh&resize=1200:*",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popularmechanics.com/military/weapons/amp35729403/cia-robotic-catfish-spy-history/",
-      "cdnAmpWebUrl": "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/weapons/amp35729403/cia-robotic-catfish-spy-history/",
-      "publishedDateTime": "2021-03-04T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Increase in Short Interest",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the recipient of a large growth in short interest during the month of February. As of February 12th, there was short interest totalling 737,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks11.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp",
-      "publishedDateTime": "2021-03-04T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-moscow-metro-facial-id-payment-system-raises-privacy-concerns-rights-group-says.md",
-      "title": "Moscow metro facial ID payment system raises privacy concerns, rights group says",
-      "excerpt": "A new facial recognition payment system on the Moscow metro, due to be launched this year, raises concerns about privacy and human rights, a Russian digital rights group said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-russia-technology-metro-idUSKBN2AW23F",
-      "originalUrl": "https://www.reuters.com/article/us-russia-technology-metro-idUSKBN2AW23F",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553757520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2316M",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AW23F",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW23F",
-      "publishedDateTime": "2021-03-04T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

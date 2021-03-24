@@ -58,15 +58,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chipsets Market was valued USD 29.8 billion growing at a CAGR of 30.7% during the forecast period."
-    excerpt: "Straits Research Market report Provides detailed analysis of the Artificial Intelligence Chipsets market with Top Keyplayers, Product types, Application, geographical regions. Experts have studied the historical data and compared it with the current market situation."
-    publishedDateTime: 2021-03-19T09:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-was-valued-usd-298-billion-growing-at-a-cagr-of-307-during-the-forecast-period-2021-03-19"
+  - title: "AI Computing Hardware Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
+    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications such as autonomous driving, surveillance cameras, etc. Graphcore and a few other players offer ..."
+    publishedDateTime: 2021-03-23T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-computing-hardware-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-till-2025-2021-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

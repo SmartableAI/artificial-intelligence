@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-16-bmws-idrive-8-helps-drivers-using-machine-learning-and-natural-language-processing.md",
+      "title": "BMW's iDrive 8 helps drivers using machine learning and natural language processing",
+      "excerpt": "It’s about to get even better — think, natural language processing, gesture control and cloud-based machine learning — with the release of its latest iteration, iDrive 8, aboard the upcoming BMW iX and i4. The system’s onboard AI, BMW Intelligent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/bmw-i-drive-8-reveal-182829492.html",
+      "originalUrl": "https://www.engadget.com/bmw-i-drive-8-reveal-182829492.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/oIf7GOvdkboP1VYC6xf3TQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI1/https://s.yimg.com/os/creatr-uploaded-images/2021-03/8e7acf40-85b5-11eb-97fd-00042bb45f4f",
+          "width": 1999,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/bmw-i-drive-8-reveal-182829492.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/bmw-i-drive-8-reveal-182829492.html",
+      "publishedDateTime": "2021-03-15T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
       "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
       "excerpt": "Bigg Boss 14 couple Jasmin Bhasin and Aly Goni recently stepped out for a dinner date in Mumbai. The couple was joined by none other than Rahul Vaidya and Disha Parmar. Mumbai, March 16 (IANS ...",
@@ -1369,49 +1422,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade.md",
-      "title": "Deep learning: The way forward with significant value unlocking during the next decade",
-      "excerpt": "The global deep learning market, currently priced at $4.4 billion in 2020, has been projected to expand at a staggering 39.2 per cent CAGR between 2020 and 2027, to reach $44.3 billion by 2027 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
-      "originalUrl": "https://www.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.khaleejtimes.com/storyimage/KT/20210307/ARTICLE/210309353/AR/0/AR-210309353.jpg&NCS_modified=20210319110230&MaxH=225&imageVersion=16by9",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
-      "cdnAmpWebUrl": "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/corporate/deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade",
-      "publishedDateTime": "2021-03-07T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

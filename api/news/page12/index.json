@@ -2,6 +2,163 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-12-why-chip-companies-are-important-to-the-future-of-tech.md",
+      "title": "Why Chip Companies Are Important to the Future of Tech",
+      "excerpt": "Stay-at-home trends boosted sales of new PCs, data centers installed more chips to keep pace with the surging usage of cloud and AI services, and new technologies -- including driverless cars, automated factories, and 5G networks and devices -- gobbled up ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F617413%2Fgettyimages-599789122.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/12/why-chip-companies-are-important-to-future-tech/",
+      "publishedDateTime": "2021-03-12T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-elevating-security-and-efficiency-with-azure-sentinel-your-cloud-native-siem.md",
+      "title": "Elevating security and efficiency with Azure Sentinel, your cloud-native SIEM",
+      "excerpt": "Modern security operations teams are now tasked with protecting sprawling digital estates against ever evolving threats. With Azure Sentinel, the first cloud-native SIEM on a major public cloud, you can modernize security operations to stay one step ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://docs.microsoft.com/en-us/events/ignite-mar-2021/security-compliance-and-identity/sessions/od359/",
+      "originalUrl": "https://docs.microsoft.com/en-us/events/ignite-mar-2021/security-compliance-and-identity/sessions/od359/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T02:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-china-to-pour-more-money-into-chips-ai-5g-to-catch-us.md",
+      "title": "China to Pour More Money Into Chips, AI, 5G to Catch U.S.",
+      "excerpt": "Randy Abrams, head of Taiwan securities research at Credit Suisse Group AG, discusses China’s ambition to end its reliance on U.S. tech, the support that tech is receiving in China and his outlook for the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/videos/2021-03-15/china-to-pour-more-money-into-chips-ai-5g-to-catch-u-s-video",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2021-03-15/china-to-pour-more-money-into-chips-ai-5g-to-catch-u-s-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIRzeeaO_z5E/v5/-1x-1.jpg",
+          "width": 950,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-acer-nitro-5-with-144hz-display-nvidia-geforce-rtx-3060-gpu-launched-in-india.md",
       "title": "Acer Nitro 5 with 144Hz display, NVIDIA GeForce RTX 3060 GPU launched in India",
       "excerpt": "Acer Nitro 5 is the latest gaming laptop from the band in the affordable Nitro series. Priced under Rs 90,000, the Acer Nitro 5 comes with NVIDIA GeForce RTX 3060 GPU, runs on Windows 10 OS out of the box and comes with a high refresh rate display,",
@@ -1061,160 +1218,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-go-big-or-go-home-asset-wealth-managers-need-to-seize-the-day-on-ai.md",
-      "title": "Go Big Or Go Home: Asset & Wealth Managers Need To Seize The Day On AI",
-      "excerpt": "Everyone in asset and wealth management is using AI, but there are significant differences between the leaders and the laggards in how they are applying it within their organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048d0304680ea5d0de7f05a%2F0x0.jpg",
-          "width": 513,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/amp/",
-      "publishedDateTime": "2021-03-11T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-hugging-face-triples-investment-in-open-source-machine-learning-models.md",
-      "title": "Hugging Face triples investment in open source machine learning models",
-      "excerpt": "Developers have used a hub on Hugging Face to share thousands of models, and CEO and cofounder Clement Delangue told VentureBeat Hugging Face wants to become to machine learning what GitHub is to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/",
-      "originalUrl": "https://venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/amp/",
-      "publishedDateTime": "2021-03-11T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud.md",
-      "title": "‘Your Computer Is On Fire’ draws on tech history to critique AI and the cloud",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a story last year about nine books I read about AI in 2020, I called Your Computer Is On Fire a book worth ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/",
-      "originalUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/9780262539739-1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud/amp/",
-      "publishedDateTime": "2021-03-11T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -27,36 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Hong Kong Forum of Artificial Intelligence and Robotics Promotes Development of Smart Industries in Hong Kong and Greater Bay Area"
-    excerpt: "The Hong Kong Productivity Council (HKPC) , with the funding support of the Innovation and Technology Fund of the HKSAR Government, joined hands with the Hong Kong Society"
-    publishedDateTime: 2021-03-22T08:30:00Z
-    webUrl: "https://www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries"
-    ampWebUrl: "https://www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries?amp"
+  - title: "Why Analysts See More Upside To Baidu Stock Over The 200% Surge In Past Year"
+    excerpt: "U.S.-listed shares have rallied more than 200% over the past year. Analysts now see further upside for the Chinese technology giant’s shares as it lists in Hong Kong, according to a report by CNBC. What Happened: Shares of Baidu made their debut in a Hong Kong secondary listing on Tuesday,"
+    publishedDateTime: 2021-03-23T09:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year-1030235313"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year-1030235313"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/why-analysts-see-more-upside-to-baidu-stock-over-the-200-surge-in-past-year-1030235313"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 59
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2021/hkpc-photo1_0.jpg?itok=FEiPwyTP"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Hong Kong based FinTech Apoidea aims to expand regional footprint"
-    excerpt: "After doubling its headcounts in 2020, Apoidea Group, a Hong Kong-based AI-driven FinTech start up, plans to double up the team again as the firm sees signs of rapid revenue growth. The FinTech aims to strengthen the team by bringing in candidates with ..."
-    publishedDateTime: 2021-03-23T10:07:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/hong-kong-based-fintech-apoidea-aims-to-expand-regional-footprint/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
 
 secured: "7DhoxpdwZVXfNXZ3d9O/KL9MfezeGATZZv32KOK0u00Y0A4k3d7zFDyfvFqrqHxAqsM8uYW6V0Vbs1VtBoE8Hm5hww/q2OPlvdJNLhcjZBkAqSzHa0Kzi2YhVEQLnTFMoJShLolN6i281joTeZ+SAk8h5hWjc50AtbbKv7+/YHmk7M1sBQ4qSma763OyqQq8wGRna7gd53OBBB9mz3gWLZ8NEQR8CL+Cehfk1j3MRxnhgGyyY/+fABHBHqih9sYYWMxyh4gZw0z3KcyMTU7wj+hy0/w50C8liKPXsxkE89y8VDjrCpVAkzv+35shDYQa3rt5/zVBRhpt+OOGV263ra26VudamB1E2ghk2rUJ5tOc4edmjgLBK6y++d16K6I8UIOAFEF5NIb0PCBp7QvKtoyskepoWF9tLJcC78tirUdJhOk0ECcEkuBeRQz6MlVMkLeq/L3opt23L68LxsJFwmSgIfsRtjWZhLvEY+dYxI9897bEw6zm8bil7tBLcJ5Dn2IwyL9wNGULOxJlPJObbw==;dUTsxqCjpbK0dBOtxoZS1A=="
 ---

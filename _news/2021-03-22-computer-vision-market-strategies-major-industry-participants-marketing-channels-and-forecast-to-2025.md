@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Travel and Hospitality AI Market Size Estimated to Surpass $1.2 Billion Mark by 2026"
-    excerpt: "These robots assist customers with basic tasks such as help desks, hotel room detail, restaurants and timings, hotel maps and other related tasks. These prospects for the growth of new AI start-ups in the travel and hospitality industry has been developed ..."
-    publishedDateTime: 2021-03-19T10:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/travel-and-hospitality-ai-market-size-estimated-to-surpass-12-billion-mark-by-2026-2021-03-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Retail Market Anticipated to Register a Significant CAGR over a Forecast Period 2021-2025"
     excerpt: "Mar 22, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Artificial Intelligence in Retail Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on ..."
     publishedDateTime: 2021-03-22T06:23:00Z

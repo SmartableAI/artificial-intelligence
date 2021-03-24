@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-aws-hugging-face-tea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
 type: article
 quality: 108
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing"
+    excerpt: "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing - SiliconANGLE"
+    publishedDateTime: 2021-03-24T01:34:00Z
+    webUrl: "https://siliconangle.com/2021/03/23/amazon-web-services-partners-hugging-face-simplify-ai-based-natural-language-processing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 59
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/AWS-Hugging-Face.png"
+        width: 613
+        height: 315
+        isCached: true
   - title: "The Move to E-learning Is Heating Up"
     excerpt: "Inexorable forces are propelling the growth of e-learning at a blistering pace. Online-learning markets were ignited by high education costs, business training programs and a wave of tech innovations,"
     publishedDateTime: 2021-03-23T14:15:00Z

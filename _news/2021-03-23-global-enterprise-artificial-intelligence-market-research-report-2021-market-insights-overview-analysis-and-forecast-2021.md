@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-enterprise-artifi
 webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-research-report-2021-market-insights-overview-analysis-and-forecast-2021-2021-03-22"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -28,57 +28,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence-Emotion Recognition Industry Global Market Growth, Status and Outlook Research Report 2020"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6515304-covid-19-outbreak-global-artificial-intelligence-emotion-recognition In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the ..."
-    publishedDateTime: 2021-03-23T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
+  - title: "Global Cognitive Services Market Report: Trends, Forecast, Projects between 2021 and 2027"
+    excerpt: "Overview of the report A recent published report on the Cognitive Services market gives an in depth evaluation of the industry in its brief overview of the Cognitive Services market The review discusses several key aspects of the Cognitive Services"
+    publishedDateTime: 2021-03-22T11:34:00Z
+    webUrl: "https://www.openpr.com/news/2259863/global-cognitive-services-market-report-trends-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market Key Players, Competitive Landscape, Growth, Statistics, Revenue and Industry Analysis Report by 2027"
-    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
-    publishedDateTime: 2021-03-22T16:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-key-players-competitive-landscape-growth-statistics-revenue-and-industry-analysis-report-by-2027-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool"
-    excerpt: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool, taking Thai companies to another level to deal with current challenges AIS has joined the Thailand AI Research Institute ..."
-    publishedDateTime: 2021-03-23T10:22:00Z
-    webUrl: "https://www.bangkokpost.com/thailand/pr/2088463/ais-teams-up-with-thailand-ai-research-institute-showcasing-ai-platform-of-thai-speech-emotion-recognition-in-world-first-tool"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 11
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20210323/c1_2088463_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Singapore Facial Recognition Systems Markets, 2016-2019 & 2020-2026 – ResearchAndMarkets.com"
-    excerpt: "Singapore Facial Recognition Systems Market size is projected to grow at a CAGR of 17.6% during 2020-2026 Singapore’s facial recognition systems market is one of the emerging markets in the Asia Pacific region."
-    publishedDateTime: 2021-03-19T10:58:00Z
-    webUrl: "https://www.financialbuzz.com/singapore-facial-recognition-systems-markets-2016-2019-2020-2026-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 8
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
 
 secured: "cUdADSRdXNGQtxVdcPg9ZABl8gSLos2tguHfzaZFfJkL2fck3hl4UR1YhCE8+FRKZciFC1+9cpCA/GVHZwgdWrXmXvg2rmxaIYbD5z8YcmSuTDajTdmr0vSCwiqkbkS4dwt+o2+gkRBqDTWimK7Qa/FgWIMB2YtrPaoaQkGYIM9pckzsj9zJIsDRJMMVm01/mDWOYmH2uL+B4qH8fQsfTEM1JlE4XeWgR0JgE4NQrKbGxW083ASOtF6NIznrYiDw6dJpn0s4qwIPcy591LkO7v3CwK9hiTYiKcJyLmcwBE77UROW/oFA7NQiG9Zb2/4+pEPa7pv5omNUcJnSNK/4TFL/b0EUkSmliajNQuUJ+mU=;Wx1b0/zaZOcZQiouzFpnpQ=="
 ---

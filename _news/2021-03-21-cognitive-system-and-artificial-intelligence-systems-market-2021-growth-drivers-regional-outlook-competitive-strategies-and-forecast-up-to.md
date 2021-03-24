@@ -28,19 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Global Cognitive Services Market Report: Trends, Forecast, Projects between 2021 and 2027"
-    excerpt: "Overview of the report A recent published report on the Cognitive Services market gives an in depth evaluation of the industry in its brief overview of the Cognitive Services market The review discusses several key aspects of the Cognitive Services"
-    publishedDateTime: 2021-03-22T11:34:00Z
-    webUrl: "https://www.openpr.com/news/2259863/global-cognitive-services-market-report-trends-forecast"
-    ampWebUrl: "https://www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
-
 secured: "334GJz6UC/NaRzlL7YZ6dAhNT2Sj3WqjVQ1o7h14dib0HhXyKf+xunze5eLyKDH29QawZF/13ammqdYwjDra1vfO/wZzpbuzBN6WKujxPGYuAMkCpPFjO85y6btHiGcmAWsVvAskfxc+dbyp85m+5u4Bt2MHisGDkwTRBpITRrsDJQxOUdPi907bBIbW2TuiTN0TeF/ri+2/wo0EZPMWAQ/+X7tzEVAG0ftFDYSRzUlYCeStpm8Fh01DLWlDkhQgAvmmL6BbxCQOyInPONV0P6RpkLFpCCDZxb9oP0+Hy9jP4v0JibKPEsy+1BlmOmtSG6m8vASONckXoiVP2TMVMYGbb4E4XoPe9DFWtamI/S8=;atEkBbM1jJ1FnQSn3yqi3g=="
 ---
 

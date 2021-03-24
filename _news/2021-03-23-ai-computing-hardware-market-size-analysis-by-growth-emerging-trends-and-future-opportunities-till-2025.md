@@ -29,45 +29,43 @@ images:
     isCached: true
 
 related:
-  - title: "Job trend analysis marks growth of data science, AI roles"
-    excerpt: "The demand for these sought-after positions continues to grow in importance, according to analysis of job openings for March 2021 conducted by LHH."
-    publishedDateTime: 2021-03-19T09:39:00Z
-    webUrl: "https://www.techrepublic.com/article/job-trend-analysis-marks-growth-of-data-science-ai-roles/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/job-trend-analysis-marks-growth-of-data-science-ai-roles/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/job-trend-analysis-marks-growth-of-data-science-ai-roles/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Deep science: AI is in the air, water, soil and steel"
-    excerpt: "This column aims to collect some of the most relevant recent discoveries and papers — particularly in but not limited to artificial intelligence — and explain why they matter."
-    publishedDateTime: 2021-03-19T21:48:00Z
-    webUrl: "https://techcrunch.com/2021/03/19/deep-science-ai-is-in-the-air-water-soil-and-steel/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1072325472.jpg?w=533"
-        width: 533
-        height: 400
-        isCached: true
-  - title: "Artificial Intelligence in Accounting Market Key Major Challenges, Drivers Growth, Opportunities Analysis To 2025"
-    excerpt: "To cater such needs, Shibuya Data Count provides market research reports to various business professionals across different industry verticals, such as healthcare & pharmaceutical, IT & telecom, chemicals and advanced materials, consumer goods & food ..."
-    publishedDateTime: 2021-03-22T11:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-key-major-challenges-drivers-growth-opportunities-analysis-to-2025-2021-03-22"
+  - title: "Artificial Intelligence (AI) Chipsets Market Emerging Technologies, Industry Demand, CAGR Status, Global Competitors and Future Scope"
+    excerpt: "Emergence of Startup Companies to Propel Market in Asia Pacific Asia Pacific is expected to dominate the global market owing to the developing economies such as South Korea, India, China. The growing acceptance of AI-based solutions will foster healthy ..."
+    publishedDateTime: 2021-03-22T05:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope-2021-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 76
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Service Robotics Market Top Companies Data 2021, Industry Share, Demand and Revenue Growth Opportunities"
+    excerpt: "Moreover, this uptake is fueled by the advent of even more advanced technologies such as Artificial Intelligence (AI) and Machine Learning (ML). These advancements will play a central role in boosting the Service Robotics Market demand in the forecast period."
+    publishedDateTime: 2021-03-22T05:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-industry-share-demand-and-revenue-growth-opportunities-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "North America Artificial Intelligence Chipsets Market Will Grow At 35% CAGR to Reach $25 Bn by 2026"
+    excerpt: "The North America Artificial Intelligence chipsets market is set to experience a remarkable transformation over"
+    publishedDateTime: 2021-03-22T17:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-chipsets-market-will-grow-at-35-cagr-to-reach-25-bn-by-2026-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

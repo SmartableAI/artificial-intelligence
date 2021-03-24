@@ -7,7 +7,7 @@ originalUrl: "https://www.information-age.com/13-startups-selected-to-join-micro
 webUrl: "https://www.information-age.com/13-startups-selected-to-join-microsoft-ai-for-social-impact-programme-123494361/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.chemengonline.com/wp-content/uploads/2018/10/fig2_communication-network.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Microsoft to work with 13 start-ups using AI to help UK’s health, manufacturing and resource sectors"
-    excerpt: "Microsoft will work with the start-ups to develop AI solutions that can be used to improve people’s lives and the world around us."
-    publishedDateTime: 2021-03-19T10:00:00Z
-    webUrl: "https://news.microsoft.com/en-gb/2021/03/19/microsoft-to-work-with-13-start-ups-using-ai-to-help-uks-health-manufacturing-and-resource-sectors/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2021/03/Safety-2-1600x1134.jpg"
-        width: 1600
-        height: 1134
         isCached: true
   - title: "Voyager Labs Partners with Microsoft to Provide AI SaaS Investigation Platforms to Empower Public Safety"
     excerpt: "Voyager Labs, a world leader in AI-based investigation solutions, is proud to announce it has partnered with Microsoft to provide"
