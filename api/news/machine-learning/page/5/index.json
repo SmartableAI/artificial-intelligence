@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-24-way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed.md",
+      "title": "Way of using machine learning to aid mental health diagnoses developed",
+      "excerpt": "A team of researchers at the University of Birmingham have developed a way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms. The findings of the research ' Bulletin'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752.html",
+      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/02/24/1600x900/photo-1553465528-5a213ccc0c7b_1614155850021_1614155860613.jfif",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752-amp.html",
+      "publishedDateTime": "2021-02-24T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-machine-learning-aids-in-simulating-dynamics-of-interacting-atoms.md",
+      "title": "Machine learning aids in simulating dynamics of interacting atoms",
+      "excerpt": "A revolutionary machine-learning (ML) approach to simulate the motions of atoms in materials such as aluminum is described in this week's Nature Communications journal. This automated approach to \"interatomic potential development\" could transform the field of computational materials discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html",
+      "originalUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/1-19-machinelearn.jpg",
+          "width": 1027,
+          "height": 1147,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp",
+      "publishedDateTime": "2021-02-24T00:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-microsoft-launches-new-azure-arc-machine-learning-and-container-services.md",
       "title": "Microsoft launches new Azure Arc machine learning and container services",
       "excerpt": "Microsoft unveiled two new Azure Arc services aimed at data scientists and enterprises with containerized workloads.Read",
@@ -1365,85 +1451,6 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company.md",
-      "title": "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company",
-      "excerpt": "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "publishedDateTime": "2021-02-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning.md",
-      "title": "Global AI-based Drug Discovery Markets 2020-2030: Focus on Deep Learning and Machine Learning",
-      "excerpt": "The \"AI-based Drug Discovery Market: Focus on Deep Learning and Machine Learning, 2020-2030\" report has been added",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/g19721667/global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/g19721667/global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19721667",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19721667",
-      "publishedDateTime": "2021-02-18T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

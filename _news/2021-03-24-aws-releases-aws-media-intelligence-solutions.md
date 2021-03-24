@@ -55,6 +55,20 @@ related:
         width: 400
         height: 333
         isCached: true
+  - title: "EditShare Announces Support for AWS Media Intelligence Solutions"
+    excerpt: "EditShare, a technology leader that specializes in collaboration, security, and intelligent storage solutions for media creation and management, announces support for the Amazon Web"
+    publishedDateTime: 2021-03-24T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/editshare-announces-support-for-aws-media-intelligence-solutions/article_9fd79e5f-b598-5b82-9a18-158fe685730f.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "eMAM streamlines search and processing with AWS Media Intelligence solutions"
     excerpt: "MAM allows customers to automatically tag and transcribe media with AWS AI-powered solutions. NEW YORK (PRWEB) EMAM, Inc. (EMAM) announced that the eMAM"
     publishedDateTime: 2021-03-23T18:00:00Z

@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-16-how-ai-can-remedy-racial-disparities-in-healthcare.md",
+      "title": "How AI Can Remedy Racial Disparities In Healthcare",
+      "excerpt": "Examining how artificial intelligence (AI) can break down the barriers of individual bias and institutional racism in American medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ae497b1b787f71ff43a52%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8114%26cropY1%3D248%26cropY2%3D4810",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2021/02/16/how-ai-can-remedy-racial-disparities-in-healthcare/amp/",
+      "publishedDateTime": "2021-02-16T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market Insights, Growth, Share, Trends and Dynamics By 2023",
+      "excerpt": "The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market. The healthcare IT industry reports are formed by Market Research Future,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-the-worlds-struggle-against-hypertension-the-role-of-artificial-intelligence.md",
       "title": "The World’s Struggle Against Hypertension – The Role of Artificial Intelligence",
       "excerpt": "Introduction When one considers the vast array of diseases the world contends with on a daily basis, hypertension (HTN) ranks among the top being a major risk factor for heart and circulatory health.",
@@ -1275,101 +1380,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-artificial-intelligence-yields-new-ways-to-combat-the-coronavirus.md",
-      "title": "Artificial intelligence yields new ways to combat the coronavirus",
-      "excerpt": "Countering COVID-19 mutations and designing updated vaccines could occur at lightning speeds thanks to a new AI framework. USC researchers have developed a new method to counter emergent mutations of the coronavirus and hasten vaccine development to stop ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/02/210205085745.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/02/210205085745.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-how-data-and-ai-will-continue-to-change-healthcare-in-2021.md",
-      "title": "How Data And AI Will Continue To Change Healthcare In 2021",
-      "excerpt": "The growth of data, artificial intelligence (AI) and machine learning (ML) has had a particularly strong impact on healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/",
-      "publishedDateTime": "2021-02-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

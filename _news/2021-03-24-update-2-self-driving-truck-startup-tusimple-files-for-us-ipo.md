@@ -56,19 +56,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Self-driving truck startup TuSimple files for public ownership"
-    excerpt: "TuSimple, the self-driving truck startup backed by fleets, suppliers and manufacturers, filed on Tuesday to become a public company."
-    publishedDateTime: 2021-03-23T23:09:00Z
-    webUrl: "https://www.freightwaves.com/news/self-driving-truck-startup-tusimple-files-for-public-ownership"
-    ampWebUrl: "https://www.freightwaves.com/news/self-driving-truck-startup-tusimple-files-for-public-ownership/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/self-driving-truck-startup-tusimple-files-for-public-ownership/amp"
+  - title: "Self-driving Truck Startup TuSimple Files For Public Ownership"
+    excerpt: "Self-driving truck startup TuSimple filed on Tuesday to become a public company. It is seeking to sell at least $100 million in shares. It could sell as much as $1 billion"
+    publishedDateTime: 2021-03-24T15:23:00Z
+    webUrl: "https://www.benzinga.com/news/21/03/20321459/self-driving-truck-startup-tusimple-files-for-public-ownership"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20321459"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20321459"
     type: article
     provider:
-      name: freightwaves.com
-      domain: freightwaves.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 44
     images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/03/032321-TuSimple-Public-Filing.jpg"
+      - url: "https://www.benzinga.com/files/images/story/2012/032321-tusimple-public-filing.jpg"
         width: 1054
         height: 635
         isCached: true

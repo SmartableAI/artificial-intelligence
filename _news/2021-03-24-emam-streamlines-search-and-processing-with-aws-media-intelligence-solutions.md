@@ -65,6 +65,20 @@ related:
         width: 745
         height: 419
         isCached: true
+  - title: "EditShare Announces Support for AWS Media Intelligence Solutions"
+    excerpt: "EditShare, a technology leader that specializes in collaboration, security, and intelligent storage solutions for media creation and management, announces support for the Amazon Web"
+    publishedDateTime: 2021-03-24T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/editshare-announces-support-for-aws-media-intelligence-solutions/article_9fd79e5f-b598-5b82-9a18-158fe685730f.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "+68bG3PnVYjgMvXU5rL6VdTZBVWZ1CUesxTGAwPYAtptpJqMf7PP9/jfym06sNtzGGDmSgda6/40YmlNkwe3hcZL8JWa4LCPr6Ey6JUBJn1x43ZYsXNuHscKpeHWrMnJA20eosTGXKjesxfcuaa91u+DqfzNkc1luRuEVx0eIF1gUYTj4GqI0D+ePj3IUQSZniKvhgGOH4pYWToNlnzowv2M+8BglmQ9OPMP6c0M/AxKlFXkdNiD1O4P7OD46+IOYiPAHQgfgQKIoSL8fFnHCjnTwN2XGE54H94AFApk341L/FguFsPF+PxfKoRQCOFERrJyAXhJXnbzE14tPTMwadBCiENDtrx3rG2Qd80aw80=;VHEhdpYtVsCqVqsaJMhLzQ=="
 ---

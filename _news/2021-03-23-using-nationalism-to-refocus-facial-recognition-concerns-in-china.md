@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple tightens partner security rules, forbids facial recognition of its employees"
-    excerpt: "New rules for manufacturers working with Apple reportedly include severe limits on biometric scans of Apple staff on premises, yet encourages greater use of security cameras for factory workers."
-    publishedDateTime: 2021-03-24T13:43:00Z
-    webUrl: "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees"
-    ampWebUrl: "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 70
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/40997-79270-000-Facial-scanning-xl.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pandemic changes facial recognition debate"
     excerpt: "Law enforcement agencies and private companies have a history of using facial recognition to store data, identify people of interest and unlock smart devices."
     publishedDateTime: 2021-03-22T21:03:00Z
@@ -56,6 +40,36 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/22/NMLF/5b497bbb-3c77-4de9-af58-082cc28a72ba-3000.jpg?auto=webp&crop=2999,1687,x0,y164&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Disney World tests facial recognition software at Magic Kingdom"
+    excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
+    publishedDateTime: 2021-03-23T18:14:00Z
+    webUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 59
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tracking dongles and facial recognition tested at Mice event"
+    excerpt: "SINGAPORE - A Bluetooth tracking dongle and facial recognition tools are some of the new technologies being piloted to prepare Singapore for major events like World Economic Forum in August.. Read more at straitstimes."
+    publishedDateTime: 2021-03-24T14:04:00Z
+    webUrl: "https://www.straitstimes.com/singapore/consumer/tracking-dongles-and-facial-recognition-tested-at-mice-event"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 39
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/03/24/yq-geoconnect-24032021.jpg?itok=HSD3-HtD"
+        width: 763
+        height: 509
         isCached: true
 
 secured: "3ycmjpZGaVPvftzubqhv8cS8MSd/uw8rMK/J8ikj13W6jV/Vva5d0TGhgO611Ok3dz2DUEXIZ8kbMgRjBZ8WyFX7g/mDGtBFuKwqAHug7ou5JNyG/G4W9o1tm1WTUJUun+5U9Th5WnolwjiMhly4ctX1QTItzSaXvsRe+7jlt/W7IyduA6NuAg1bxk5/IESHSTENzH8OhBG+ve1ahUwcQkVkJkomWEpNY08nbaJv6nLgPz9lO16pL1aFvz9pNlnsi2jBIpOC+SHQRDYIzgNCbC2crBS05XUNukNra/BVZ/8UniUDbt/D0sRL8rSL6Tzv2JOG5hSKK5xm+0RpkdT5cQMfi0SNlUzSHKtDfZmo+h1h/4X3yuE9/nGUPQPiWmc3u+IjcKROniazKZ2B2Cq45CRA1Cz1uIpKcEZRZukkuyybDUbC4Y4P5G3DHkCPaJ+Qnq8wQ9VQ1C0VnnXQCAv8Vthf/gt7g7g8qa8wVqcNEcWxfkgizYPN/Eads6oLCdLg0BoO4IMoA22nGWwlx/+frw==;hHsUlVfR7JBWphEQ0XLZFQ=="

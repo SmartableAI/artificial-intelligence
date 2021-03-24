@@ -2,6 +2,301 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-23-marketing-campaign-analytics-startup-sellforte-raises-478m.md",
+      "title": "Marketing campaign analytics startup Sellforte raises $4.78M",
+      "excerpt": "Sellforte, a startup developing AI technology that predicts the impact of marketing campaigns, has raised €4 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/",
+      "originalUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/5fff665fc52da858839a8898_Sellforte__-e1616447073344.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/amp/",
+      "publishedDateTime": "2021-03-23T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-baidu-ceo-engineers-66-billion-comeback-after-repeated-missteps.md",
+      "title": "Baidu CEO Engineers $66 Billion Comeback After Repeated Missteps",
+      "excerpt": "In January, Baidu unveiled a new venture with Zhejiang Geely Holding Group that will produce smart EVs, prompting analysts to revalue the tech giant’s eight-year-old Apollo unit, whose self-driving software had drawn tepid interest from automakers in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-23/baidu-ceo-engineers-66-billion-comeback-after-repeated-missteps",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-23/baidu-ceo-engineers-66-billion-comeback-after-repeated-missteps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLQVSnXXBLHg/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-create-forecasting-systems-faster-with-automated-workflows-and-notifications-in-amazon-forecast.md",
+      "title": "Create forecasting systems faster with automated workflows and notifications in Amazon Forecast",
+      "excerpt": "You can now enable notifications for workflow status changes while using Amazon Forecast, allowing you to work seamlessly without the disruption of having to check if a particular workflow has completed. Additionally, you can now automate workflows through the notifications to increase work efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/set-notifications-and-automate-workflows-for-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/set-notifications-and-automate-workflows-for-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/22/1-2571Architecture.jpg",
+          "width": 700,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T17:06:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business.md",
+      "title": "Putting Disruptive Innovations Into Action Using Artificial Intelligence Throughout Your Business",
+      "excerpt": "Robotics and automation in manufacturing would appear ... During an IEEE-Boston/IEEE-HKN (Eta Kappa Nu) Artificial Intelligence Seminar series, Dr. Washington shared tangible AI strategies that have helped Ford Motor Company maintain its legacy for disrupt ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605911778ffe878ecb833916%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D300%26cropY1%3D50%26cropY2%3D350",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/",
+      "publishedDateTime": "2021-03-22T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-pandemic-changes-facial-recognition-debate.md",
+      "title": "Pandemic changes facial recognition debate",
+      "excerpt": "Law enforcement agencies and private companies have a history of using facial recognition to store data, identify people of interest and unlock smart devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.milforddailynews.com/story/news/state/2021/03/22/pandemic-changes-facial-recognition-debate/4794844001/",
+      "originalUrl": "https://www.milforddailynews.com/story/news/state/2021/03/22/pandemic-changes-facial-recognition-debate/4794844001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/22/NMLF/5b497bbb-3c77-4de9-af58-082cc28a72ba-3000.jpg?auto=webp&crop=2999,1687,x0,y164&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.milforddailynews.com/amp/4794844001",
+      "cdnAmpWebUrl": "https://amp-milforddailynews-com.cdn.ampproject.org/c/s/amp.milforddailynews.com/amp/4794844001",
+      "publishedDateTime": "2021-03-22T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Milford Daily News",
+        "domain": "milforddailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-philadelphias-robotics-industry-ripe-for-stem-students.md",
+      "title": "Philadelphia’s Robotics Industry Ripe for STEM Students",
+      "excerpt": "Robot makers in Philadelphia say their biggest challenge is a shortage of skilled labor, and students who finish trade school, an apprenticeship or a two-year program can qualify for jobs starting at $62,",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_483185803.jpg",
+          "width": 968,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP",
+      "publishedDateTime": "2021-03-22T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-researchers-are-helping-artificial-intelligence-understand-fairness.md",
       "title": "Researchers are helping artificial intelligence understand fairness",
       "excerpt": "\"What is fair?\" feels like a rhetorical question. But for Michigan State University's Pang-Ning Tan, it's a question that demands an answer as artificial intelligence systems play a growing role in deciding who gets proper health care,",
@@ -928,293 +1223,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-speech-to-text-apps-what-to-look-for-in-dictation-software.md",
-      "title": "Speech-to-text apps: what to look for in dictation software",
-      "excerpt": "Why strain your wrists typing on your keyboard when you could just as easily dictate your content and have a designated speech-to-text software take the notes for you? Over the years, the market has been saturated with apps and software to help you do just that.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/speech-to-text-apps",
-      "originalUrl": "https://www.techradar.com/news/speech-to-text-apps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4LYCsUevcwfeMVmbm2PABJ-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/speech-to-text-apps",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/speech-to-text-apps",
-      "publishedDateTime": "2021-03-22T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-fortinet.md",
-      "title": "Artificial Intelligence (AI) in Cyber Security Market Next Big Thing | Major Giants BAE Systems, Cisco, Fortinet",
-      "excerpt": "Mar 22, 2021 (Market Insight Reports) -- The COVID-19 Global & China Artificial Intelligence (AI) in Cyber Security Market to witnessed good recovery in growth post first half of 2020 and is projected coverup market sizing during the forecast period (2021 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-fortinet-2021-03-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-fortinet-2021-03-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation.md",
-      "title": "Is TensorFlow ‘for Boomers’? PyTorch May Gain More Ground in Machine Translation",
-      "excerpt": "PyTorch, the open source framework used to build machine learning models, including those used for machine translation, released its newest version, 1.8, on March 4, 2021. According to PyTorch’s official announcement,",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
-      "originalUrl": "https://slator.com/machine-translation/is-tensorflow-for-boomers-pytorch-may-gain-more-ground-in-machine-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/03/Battle-of-the-Frameworks-between-Pytorch-and-Transformer.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-all-about-us-india-artificial-intelligence-initiative-usiai.md",
-      "title": "All about US India Artificial Intelligence Initiative (USIAI)",
-      "excerpt": "US India Artificial Intelligence Initiative: Why in News? United States India Artificial Intelligence, USIAI initiative has been launched to enhance the technological relationships between the two countries. DST secretary Ashutosh Sharma in the curtain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jagranjosh.com/general-knowledge/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
-      "originalUrl": "https://www.jagranjosh.com/general-knowledge/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.jagranjosh.com/images/2021/March/2232021/AI.png",
-          "width": 640,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jagranjosh.com/general-knowledge/amp/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
-      "cdnAmpWebUrl": "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/general-knowledge/amp/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1",
-      "publishedDateTime": "2021-03-22T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rojgar Samachar",
-        "domain": "jagranjosh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-shell-taps-accenture-ripjar-to-transform-risk-screening-by-applying-ai.md",
-      "title": "Shell Taps Accenture, Ripjar to Transform Risk Screening by Applying AI",
-      "excerpt": "The multiyear deal builds on Accenture Ventures’ investment in Ripjar and a strategic alliance formed in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074",
-      "originalUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
-          "width": 605,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074?amp",
-      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074?amp",
-      "publishedDateTime": "2021-03-22T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hart Energy",
-        "domain": "hartenergy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000.md",
-      "title": "Need Another Stimulus Check? New AI-Powered Apps Can Help Save $1,000",
-      "excerpt": "Consumers don't want savings accounts--they want to save more money. New, automated savings tools help some consumers save m$1,000 more than they currently save--almost like getting an additional stimulus check.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/",
-      "originalUrl": "https://www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6053c2267e1b97b5792d4d2a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2619%26cropY1%3D243%26cropY2%3D1716",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2021/03/22/need-another-stimulus-check-new-ai-powered-apps-can-help-save-1000/amp/",
-      "publishedDateTime": "2021-03-21T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

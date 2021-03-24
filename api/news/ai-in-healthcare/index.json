@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-24-artificial-intelligence-healthcare-arkq-is-investing-in-the-future.md",
+      "title": "Artificial Intelligence. Healthcare. ‘ARKQ’ Is Investing in the Future",
+      "excerpt": "Due to its status as one of the premier avenues for accessing artificial intelligence (AI) and related equities, ARKQ is levered to an important theme in healthcare innovation – an arena where AI is increasingly prominent. Artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
+      "publishedDateTime": "2021-03-24T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-3-questions-artificial-intelligence-for-health-care-equity.md",
+      "title": "3 Questions: Artificial intelligence for health care equity",
+      "excerpt": "MIT faculty members Regina Barzilay, Fotini Christia, and Collin Stultz describe how artificial intelligence and machine learning can support fairness, personalization, and inclusiveness in health care.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/3-questions-barzilay-christia-stultz-ai-health-care-equity-0323",
+      "originalUrl": "https://news.mit.edu/2021/3-questions-barzilay-christia-stultz-ai-health-care-equity-0323",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202103/Barzilay-Stultz-Christia_V3_0.png",
+          "width": 948,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-how-3d-machine-learning-is-transforming-the-healthcare-industry.md",
       "title": "How 3D Machine Learning is Transforming the Healthcare Industry",
       "excerpt": "Paul Powers, CEO of Physna and Thangs, joins ‘Cheddar Reveals’ to discuss the advantages of 3D machine learning, and how it’s transforming the healthcare industry.",
@@ -41,50 +127,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-ai-in-healthcare-where-technology-meets-humanity.md",
-      "title": "AI in Healthcare: Where Technology Meets Humanity",
-      "excerpt": "Businesses across the globe are taking advantage of the transformative powers of technology. Among these technologies is Artificial Intelligence (AI), a",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/ai-healthcare-where-technology-meets-humanity",
-      "originalUrl": "https://www.albawaba.com/business/ai-healthcare-where-technology-meets-humanity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/Sama%20al%20Kurdi/AIHealthSector-shutterstock-22Mar2021.jpg?itok=CIsgEZu7",
-          "width": 1000,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/ai-healthcare-where-technology-meets-humanity",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/ai-healthcare-where-technology-meets-humanity",
-      "publishedDateTime": "2021-03-23T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI",
         "AI in Healthcare"
       ]
@@ -520,6 +562,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-amgen-announces-artificial-intelligence-ai-partnership-with-mila.md",
+      "title": "Amgen announces Artificial Intelligence (AI) Partnership with Mila",
+      "excerpt": "CNW/ - Amgen announced today that it has entered into a multi-year partnership with Mila – Quebec Artificial Intelligence Institute. One of the world's leading biotechnology companies, Amgen uses cutting-edge science and technology to discover and develop innovative therapeutics,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1456317/Amgen_Canada_Amgen_announces_Artificial_Intelligence__AI__Partne.jpg",
+          "width": 400,
+          "height": 218,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1300,110 +1395,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center.md",
-      "title": "Deloitte partnering with NVIDIA to launch artificial intelligence computing center",
-      "excerpt": "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "originalUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "publishedDateTime": "2021-03-03T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026.md",
-      "title": "Artificial intelligence (AI) in healthcare market growing at a sound CAGR of over 49.7% during 2019-2026.",
-      "excerpt": "The global artificial intelligence (AI) in healthcare market size is expected to reach over USD 40.2 billion by 2026 growing at a sound CAGR of over 49.7% during 2019-2026. The Artificial Intelligence (AI) in Healthcare Market is highly competitive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -2,6 +2,342 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-05-scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.md",
+      "title": "Scientists seek to enhance artificial intelligence by integrating brain cells",
+      "excerpt": "With a new grant from the U.S. Army, a team of scientists will seek to enhance artificial intelligence by integrating brain cells called astrocytes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210305/Scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210305/Scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210305/Scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210305/Scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.aspx",
+      "publishedDateTime": "2021-03-04T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-from-new-portuguese-home-ai-weiwei-plans-tribute-to-visionary-gorbachev.md",
+      "title": "From new Portuguese home, Ai Weiwei plans tribute to \"visionary\" Gorbachev",
+      "excerpt": "Ai Weiwei, the Chinese dissident whose activist art has made him Beijing's best-known critic, has swapped life in British exile for Portugal, where, in a countryside estate east of Lisbon, he is working on a monument commemorating Mikhail Gorbachev.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-art-ai-weiwei-idUSKBN2AW2DR",
+      "originalUrl": "https://www.reuters.com/article/us-art-ai-weiwei-idUSKBN2AW2DR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553764157&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH231BI",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AW2DR",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW2DR",
+      "publishedDateTime": "2021-03-04T14:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-tiktok-owner-bytedance-said-to-make-foray-into-smart-cars-with-investment-in-self-driving-start-up-qcraft.md",
+      "title": "TikTok owner ByteDance said to make foray into smart cars with investment in self-driving start-up QCraft",
+      "excerpt": "A ByteDance spokesman had no immediate comment. A representative for QCraft declined to comment. The deal, which may be announced as early as next week, follows a spate of similar investments and tie-ups between technology firms and car manufacturers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/03/05/82e8aa26-7d6d-11eb-9fc3-2f3c8e08d261_image_hires_140939.jpg?itok=11HNHV11&v=1614924586",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
+      "publishedDateTime": "2021-03-04T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-microsofts-most-impactful-announcements-at-ignite-2021.md",
+      "title": "Microsoft’s Most Impactful Announcements At Ignite 2021",
+      "excerpt": "Between pre-briefs, executive Q&As and the live event, I attended around twenty hours of Ignite 2021. Typically, Microsoft holds three focused events each year: one for developers ( Build ), channel partners ( Inspire) and end customers ( Ignite ).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604153c5909583eb1a3a7db0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2807%26cropY1%3D0%26cropY2%3D1579",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/",
+      "publishedDateTime": "2021-03-04T13:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-hondas-part-self-driving-legend-a-big-step-for-autonomous-tech.md",
+      "title": "Honda's part self-driving Legend a big step for autonomous tech",
+      "excerpt": "The Honda Motor Co. Ltd's all-new Legend sedan, equipped with level 3 autonomous driving technology, is displayed during an unveiling in Tokyo, Japan March 4, 2021. REUTERS/Issei Kato",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ",
+      "originalUrl": "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH230FT",
+          "width": 810,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-the-cia-once-built-a-catfish-robot-spy-named-charlie.md",
+      "title": "The CIA Once Built a Catfish Robot Spy Named Charlie",
+      "excerpt": "In the 1990s, the CIA built an unmanned underwater vehicle as part of a feasibility study. The UUV was supposed to resemble a catfish. It’s not clear if “Charlie” the catfish did any real spying during its CIA career.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popularmechanics.com/military/weapons/a35729403/cia-robotic-catfish-spy-history/",
+      "originalUrl": "https://www.popularmechanics.com/military/weapons/a35729403/cia-robotic-catfish-spy-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mzc3ndeznw-1614958652.jpeg?crop=1.00xw:0.835xh;0,0.0373xh&resize=1200:*",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popularmechanics.com/military/weapons/amp35729403/cia-robotic-catfish-spy-history/",
+      "cdnAmpWebUrl": "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/weapons/amp35729403/cia-robotic-catfish-spy-history/",
+      "publishedDateTime": "2021-03-04T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Mechanics",
+        "domain": "popularmechanics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Increase in Short Interest",
+      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the recipient of a large growth in short interest during the month of February. As of February 12th, there was short interest totalling 737,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks11.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp",
+      "publishedDateTime": "2021-03-04T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-moscow-metro-facial-id-payment-system-raises-privacy-concerns-rights-group-says.md",
       "title": "Moscow metro facial ID payment system raises privacy concerns, rights group says",
       "excerpt": "A new facial recognition payment system on the Moscow metro, due to be launched this year, raises concerns about privacy and human rights, a Russian digital rights group said on Thursday.",
@@ -874,336 +1210,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-b2bs-evolution-in-2021-how-ai-and-machine-learning-are-forever-changing-b2b-marketing.md",
-      "title": "B2B's Evolution In 2021: How AI And Machine Learning Are Forever Changing B2B Marketing",
-      "excerpt": "With the fog of hype surrounding AI, real-life use cases have been clouded by fermenting skepticism and exaggerated predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/04/b2bs-evolution-in-2021-how-ai-and-machine-learning-are-forever-changing-b2b-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/04/b2bs-evolution-in-2021-how-ai-and-machine-learning-are-forever-changing-b2b-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeef461f0db0412b89f465%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/04/b2bs-evolution-in-2021-how-ai-and-machine-learning-are-forever-changing-b2b-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/04/b2bs-evolution-in-2021-how-ai-and-machine-learning-are-forever-changing-b2b-marketing/amp/",
-      "publishedDateTime": "2021-03-04T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-self-driving-truck-technology-market-to-see-booming-business-sentiments-daimler-volvo-waymo.md",
-      "title": "Self-Driving Truck Technology Market to see Booming Business Sentiments | Daimler, Volvo, Waymo",
-      "excerpt": "Major Highlights of the Self-Driving Truck Technology Market report released by HTF MI Market Breakdown by Applications: Transport, Mining, Military & Other Revenue and Sales Estimation -- Historical Revenue and sales volume is presented and further data is triangulated with top-down and bottom-up approaches to forecast complete market size and to estimate forecast numbers for key regions covered in the report along with classified and well recognized Types and end-use industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-to-see-booming-business-sentiments-daimler-volvo-waymo-2021-03-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-truck-technology-market-to-see-booming-business-sentiments-daimler-volvo-waymo-2021-03-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-an-era-of-coding-robotics-and-ai-for-education.md",
-      "title": "An era of coding, robotics and A.I. for education",
-      "excerpt": "Coding, robotics and Artificial Intelligence (A.I.) are important skills of the 21st century to succeed professionally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
-      "originalUrl": "https://www.indiatvnews.com/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/ai-1614865061.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817",
-      "publishedDateTime": "2021-03-04T05:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-speech-recognition-a-new-way-of-working-for-legal-professionals.md",
-      "title": "Speech recognition: a new way of working for legal professionals",
-      "excerpt": "The time is right for legal professionals to revisit their use of cloud based speech recognition solutions, to ensure they are using the most productive, cost-efficient, services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thelawyer.com/knowledge-bank/white-paper/speech-recognition-a-new-way-of-working-for-legal-professionals/",
-      "originalUrl": "https://www.thelawyer.com/knowledge-bank/white-paper/speech-recognition-a-new-way-of-working-for-legal-professionals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thelawyer.imgix.net/content/uploads/2018/07/17091722/The-Lawyer_Careers_980x600-4-485x297.png",
-          "width": 485,
-          "height": 297,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lawyer",
-        "domain": "thelawyer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-financial-expert-daniel-calugar-comments-on-ways-that-artificial-intelligence-is-transforming-the-global-financial-service-sector.md",
-      "title": "Financial Expert Daniel Calugar Comments on Ways That Artificial Intelligence is Transforming the Global Financial Service Sector",
-      "excerpt": "Daniel Calugar, an experienced investor says that artificial intelligence will soon be an essential driver of business in the financial services industry. With an academic and professional career in computer science,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7",
-      "originalUrl": "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know.md",
-      "title": "Microsoft Power BI Premium: New platform and pricing, what you need to know",
-      "excerpt": "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/03/617468b2-bd5d-4d32-a5a1-6664df125a57/resize/1200x/58501250979405fa8006522308f7d8fd/power-bi-premium-dashboard-tr.jpg",
-          "width": 1200,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "publishedDateTime": "2021-03-04T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-dooly-raises-20-million-to-organize-sales-information-with-ai.md",
-      "title": "Dooly raises $20 million to organize sales information with AI",
-      "excerpt": "Dooly, a startup developing an AI-powered sales enablement plugin for customer relationship management software, raised $20 million.Read MoreRead",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
-      "publishedDateTime": "2021-03-04T02:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Self-driving truck startup TuSimple files for public ownership"
-excerpt: "TuSimple, the self-driving truck startup backed by fleets, suppliers and manufacturers, filed on Tuesday to become a public company."
-publishedDateTime: 2021-03-23T23:09:00Z
-originalUrl: "https://www.freightwaves.com/news/self-driving-truck-startup-tusimple-files-for-public-ownership"
-webUrl: "https://www.freightwaves.com/news/self-driving-truck-startup-tusimple-files-for-public-ownership"
-ampWebUrl: "https://www.freightwaves.com/news/self-driving-truck-startup-tusimple-files-for-public-ownership/amp"
-cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/self-driving-truck-startup-tusimple-files-for-public-ownership/amp"
+title: "Self-driving Truck Startup TuSimple Files For Public Ownership"
+excerpt: "Self-driving truck startup TuSimple filed on Tuesday to become a public company. It is seeking to sell at least $100 million in shares. It could sell as much as $1 billion"
+publishedDateTime: 2021-03-24T15:23:00Z
+originalUrl: "https://www.benzinga.com/news/21/03/20321459/self-driving-truck-startup-tusimple-files-for-public-ownership"
+webUrl: "https://www.benzinga.com/news/21/03/20321459/self-driving-truck-startup-tusimple-files-for-public-ownership"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20321459"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20321459"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: freightwaves.com
-  domain: freightwaves.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s29755.pcdn.co/wp-content/uploads/2021/03/032321-TuSimple-Public-Filing.jpg"
+  - url: "https://www.benzinga.com/files/images/story/2012/032321-tusimple-public-filing.jpg"
     width: 1054
     height: 635
     isCached: true
@@ -139,6 +139,6 @@ related:
         height: 1461
         isCached: true
 
-secured: "ZsA3+FSGWgyfYeeG/9FPzoxkH4Rdcyr8Kp67vnc8EXJxj3GaKwF/bg58N1DD9tdwY3dQ3CFhCMpUM7oDN86RWRQsPXur9eL4LL8ylJor91bdWMbRbBxB5TorI5373Ju3SxtsevYUsIMdryKCJvDk8tonQY92sIDiC7AZU+PJjFblE73RRl1bdv/JeMf3BfAvIUO6r4WmadjWoylVbKb1UiS6p/wZBUCnaaHp5s7VKv+Lv4tuL3mjatS/eU6g/tJq32Zj6MUas9sZZI9wUjnDELaITO8CnAmAsqwuziNK3DBhqzSntVtprwsKsZReZxJHxPwrmEKPFSO2J6CTDZ2/EB1HSZ8HXBRwtIdiIs0pfd34lwTXaJY+DachlNtfPn7BNQZz3dJLBdOF5PMqWrQZTJOubbb3Yun/TQCKI205GXk57BCCfX94C32iYT7fH7ZpK2birvTiQH/GUtGlpbdwI/xMpObOCGtj7z5Pac8JJoP4D8UxyUCAwQyWdJWKLqv7cJBLMXh910UuJgXZaTHE1g==;1JvRjYCy+0NnXi2NrRptaw=="
+secured: "HgA+ReiUrRWAJp9+joJ3Q8+2CRoz9NAinXsUTlOMDHAWZW4NNU/HGHAY1nE6g82r9qA5vhdGSPcC6z1W5dgtSaSytSkhTTK7/gfyeNFR3F4yxJUyoAOn6YKwY6MGmUFoJh2CfCD9DAmxNFf1+FVihx4x4v4rQTKam0Uji8cfb73qMJnCkJU88gvlOgcaSgOYXQkwJzh/92SXAB/2nE6Z2v4v9miJpbDDz0/jhnTQlb1siumzg9a5te+ZxFwVmhgtDbaI7AT3A4vQoiar65f24RoWpeWvtF/Vmvc45a3rq9eJDJJOXEphoebYgUkmiE7v9ncr0N8XB/pww5Qz4YIe/ca9W6lVDFr2of7pANCdzWY=;+FgzJXBauhYs3aGNR7tEuA=="
 ---
 

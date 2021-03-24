@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-23-ai-in-healthcare-where-technology-meets-humanity.md",
-      "title": "AI in Healthcare: Where Technology Meets Humanity",
-      "excerpt": "Businesses across the globe are taking advantage of the transformative powers of technology. Among these technologies is Artificial Intelligence (AI), a",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/ai-healthcare-where-technology-meets-humanity",
-      "originalUrl": "https://www.albawaba.com/business/ai-healthcare-where-technology-meets-humanity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/Sama%20al%20Kurdi/AIHealthSector-shutterstock-22Mar2021.jpg?itok=CIsgEZu7",
-          "width": 1000,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/ai-healthcare-where-technology-meets-humanity",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/ai-healthcare-where-technology-meets-humanity",
-      "publishedDateTime": "2021-03-23T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-03-22-gartner-names-ibm-a-leader-in-2021-magic-quadrant-for-insight-engines.md",
       "title": "Gartner Names IBM a Leader in 2021 Magic Quadrant for Insight Engines",
       "excerpt": "Gartner has once again recognized IBM as a “Leader” in its Magic Quadrant for Insight Engines. Gartner defines the Insight Engine category as “an evolution of search technologies that provide on-demand and proactive knowledge discovery and exploration augmented by semantic and machine learning technologies.”",
@@ -1419,6 +1375,57 @@
       "topics": [
         "Microsoft AI",
         "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-ibm-openpages-with-watson-wins-best-ui-innovation-at-the-risk-market-technology-awards.md",
+      "title": "IBM OpenPages with Watson wins “Best UI Innovation” at the Risk Market Technology Awards",
+      "excerpt": "As we move into the new year, it’s clear that the turbulence that defined 2020 is not going away. Even after the COVID-19 pandemic subsides, its resultant economic and social uncertainty will linger. It remains imperative for large enterprises to modernize their governance, risk and compliance (GRC)",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/openpages-wins-best-ui-innovation/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/openpages-wins-best-ui-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/IBM-OpenPages-with-Watson-UI-award-Risk-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T06:00:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "IBM AI"
       ]
     }

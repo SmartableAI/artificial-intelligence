@@ -9,8 +9,8 @@ ampWebUrl: "https://appleinsider.com/articles/21/03/24/apple-tightens-security-r
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees/amp/"
 type: article
 quality: 70
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: AppleInsider
@@ -28,37 +28,23 @@ images:
     isCached: true
 
 related:
-  - title: "Pandemic changes facial recognition debate"
-    excerpt: "Law enforcement agencies and private companies have a history of using facial recognition to store data, identify people of interest and unlock smart devices."
-    publishedDateTime: 2021-03-22T21:03:00Z
-    webUrl: "https://www.milforddailynews.com/story/news/state/2021/03/22/pandemic-changes-facial-recognition-debate/4794844001/"
-    ampWebUrl: "https://amp.milforddailynews.com/amp/4794844001"
-    cdnAmpWebUrl: "https://amp-milforddailynews-com.cdn.ampproject.org/c/s/amp.milforddailynews.com/amp/4794844001"
+  - title: "Apple reportedly bans facial scans of employees, but not factory workers"
+    excerpt: "Apple's new security guidelines reportedly increase surveillance camera use and require background checks on factory workers."
+    publishedDateTime: 2021-03-24T15:20:00Z
+    webUrl: "https://www.cnet.com/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/"
     type: article
     provider:
-      name: The Milford Daily News
-      domain: milforddailynews.com
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 73
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/22/NMLF/5b497bbb-3c77-4de9-af58-082cc28a72ba-3000.jpg?auto=webp&crop=2999,1687,x0,y164&format=pjpg&width=1200"
+      - url: "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "Using nationalism to refocus facial recognition concerns in China"
-    excerpt: "The violation of people’s biometric data privacy, as denounced by the TV show, has the public and industry watchers urging for a swifter legislative push."
-    publishedDateTime: 2021-03-22T17:55:00Z
-    webUrl: "https://www.biometricupdate.com/202103/using-nationalism-to-refocus-facial-recognition-concerns-in-china"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
+        height: 630
         isCached: true
 
-secured: "Codrot72JdyiMbvQR/7/fveKZu2p6DMOdauEFe6HaScl2ikRK90wtzws445wUn/Ju4f7iigD3D96sPZtD8vAk4y/2pOOM/uBuAHFeuOAZRuKaYv2npLpbH9JxJtufAvNzQZuYmNJ486sBui9tcXK2v+sxCbOARHoANuM1AHVvgxcx/7MHqa2UQHBJVCPX0VTX4M2qUjYH/Vpu6OAPXvws7U7+eiSCiEJjdNlcYnhbtTZLTFK7nSLZ+9oSB8AU7H/ZzOukY6hyymIVhcQwWi2OVJp36EetyrhzJPb9vEA79+0ZvTW4pIvOtHh/CoOuiq5iMfDfX0IOaYw2pte9OHiPqakjMsxjAnW8msg3+bZSlg=;TIT/h6nt9h/2UR5jO/hskw=="
+secured: "PbXeerdvG4A5xLGOPbLIZaUu3hB8tTzWKQZsKe7OUqqGlp/PgJJc59L/4ang+ndY9fCFGnhm9ks/2WbfEbUyqY57Ny54mUsGLYqgGfY6fAoA5/nSTxwpsewkukueBdDtqedoyI21EJJTun9ra5WITejnSk/jmS7Jil2IJbBg/W6PgsKnXC+UU37w9ube+hfugsMj74mfa2kzJ7UIr8r9JOcWSWa7LRSUW0dfLz3YD5PZQg1hSleKiSVlRj5A0gplA46r9Fs1yGtl0dCFHqiH3qR2OLUZP9cporrJGY0JTgsUq2B57kIgdHrgDoySczzNYiM6N19KfZWdA/0/sqhe6uQWY2PIFyxxhvE07vMzX4DhdEdm77s1g8YJ/HepC0mQPV5XJUvDROBs8Hb0+YVnRcEkmD8CgFMiTSpKhscRFXx03f+JjslfmnDDd5qowV2mGwpsW4BoaKYcQD+eJKPt1NyWUesZXg1T0b9Z773DQjOWewR48C4dkcVim86QqHrpDE9QfkOuvDyxYisQMTQRDw==;7vMZmsBFNG9t0CrxAIuptg=="
 ---
 

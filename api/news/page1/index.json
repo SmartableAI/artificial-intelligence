@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-24-apple-tightens-partner-security-rules-forbids-facial-recognition-of-its-employees.md",
-      "title": "Apple tightens partner security rules, forbids facial recognition of its employees",
-      "excerpt": "New rules for manufacturers working with Apple reportedly include severe limits on biometric scans of Apple staff on premises, yet encourages greater use of security cameras for factory workers.",
+      "path": "_news/2021-03-24-apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers.md",
+      "title": "Apple reportedly bans facial scans of employees, but not factory workers",
+      "excerpt": "Apple's new security guidelines reportedly increase surveillance camera use and require background checks on factory workers.",
       "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees",
-      "originalUrl": "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees",
+      "webUrl": "https://www.cnet.com/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
+      "originalUrl": "https://www.cnet.com/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://photos5.appleinsider.com/gallery/40997-79270-000-Facial-scanning-xl.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.cnet.com/a/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/03/24/apple-tightens-security-rules-for-partners-forbids-facial-recognition-of-its-own-employees/amp/",
-      "publishedDateTime": "2021-03-24T06:43:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-reportedly-bans-facial-scans-of-employees-but-not-factory-workers/",
+      "publishedDateTime": "2021-03-24T08:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,8 +50,232 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network.md",
+      "title": "Soft-bodied Robots More Efficient With New Deep Learning Neural Network",
+      "excerpt": "Alexander Amini is co-lead author of the research along with Andrew Spielberg, both PhD students in MIT Computer Science and Artificial Intelligence Laboratory ... The researchers developed a novel neural network architecture that can optimize sensor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network/",
+      "originalUrl": "https://www.unite.ai/soft-bodied-robots-more-efficient-with-new-deep-learning-neural-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:auto/h:auto/q:auto/https://www.unite.ai/wp-content/uploads/2021/03/artificial-intelligence-2228610__480.jpg",
+          "width": 767,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI",
-        "AI in Security"
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-intel-will-build-x86-chips-for-other-companies.md",
+      "title": "Intel will build x86 chips for other companies",
+      "excerpt": "Intel said it plans to make available its x86 processor cores, graphics, and AI technology for licensing via its new foundry business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.html",
+      "originalUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/03/bunny_with_wafer-100881923-large.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.amp.html",
+      "publishedDateTime": "2021-03-24T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-artificial-intelligence-ai-robots-market-is-set-to-develop-new-growth-story-abb-fanuc-kuka-amazon.md",
+      "title": "Artificial Intelligence (AI) Robots Market is Set to Develop New Growth Story | ABB, Fanuc, Kuka, Amazon",
+      "excerpt": "The latest research on Global Artificial Intelligence AI Robots Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "originalUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U324252805_g.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
+      "publishedDateTime": "2021-03-24T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people.md",
+      "title": "Cutting Edge Intel AI-Powered Backpack Could Replace A Guide Dog For Blind People",
+      "excerpt": "An innovative AI-powered wearable camera system holds promise in revolutionizing independent mobility for visually impaired people. Deploying state-of-the-art Intel processors and hardware to provide real-time spatial recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b2d6c972feef9ce1e1a00%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/amp/",
+      "publishedDateTime": "2021-03-24T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-artificial-intelligence-healthcare-arkq-is-investing-in-the-future.md",
+      "title": "Artificial Intelligence. Healthcare. ‘ARKQ’ Is Investing in the Future",
+      "excerpt": "Due to its status as one of the premier avenues for accessing artificial intelligence (AI) and related equities, ARKQ is levered to an important theme in healthcare innovation – an arena where AI is increasingly prominent. Artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
+      "publishedDateTime": "2021-03-24T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -293,6 +526,49 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-rovcos-robotics-spin-off-vaarst-open-for-business.md",
+      "title": "Rovco's Robotics Spin-off Vaarst Open for Business",
+      "excerpt": "Vaarst, an offshore robotics technology spin-off from ROV-services firm Rovco, was formally launched Wednesday.Vaarst says its",
+      "sourceUrl": null,
+      "webUrl": "https://www.oedigital.com/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business",
+      "originalUrl": "https://www.oedigital.com/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.oedigital.com/images/magazines/w300/OffshoreEngineer-202101-page1.png",
+          "width": 299,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.oedigital.com/amp/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business",
+      "cdnAmpWebUrl": "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business",
+      "publishedDateTime": "2021-03-24T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "oedigital.com",
+        "domain": "oedigital.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -832,7 +1108,7 @@
       "originalUrl": "https://ktla.com/5-live/disney-begins-testing-facial-recognition-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -867,21 +1143,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-24-intel-will-invest-in-factories-and-manufacture-chips-for-other-companies.md",
-      "title": "Intel will invest in factories and manufacture chips for other companies",
-      "excerpt": "Intel will invest $20 billion in new factories, launch a new foundry service to make chips for other companies, and relaunch its dev event.",
+      "path": "_news/2021-03-24-3-questions-artificial-intelligence-for-health-care-equity.md",
+      "title": "3 Questions: Artificial intelligence for health care equity",
+      "excerpt": "MIT faculty members Regina Barzilay, Fotini Christia, and Collin Stultz describe how artificial intelligence and machine learning can support fairness, personalization, and inclusiveness in health care.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/23/intel-will-invest-in-factories-and-manufacture-chips-for-other-companies/",
-      "originalUrl": "https://venturebeat.com/2021/03/23/intel-will-invest-in-factories-and-manufacture-chips-for-other-companies/",
+      "webUrl": "https://news.mit.edu/2021/3-questions-barzilay-christia-stultz-ai-health-care-equity-0323",
+      "originalUrl": "https://news.mit.edu/2021/3-questions-barzilay-christia-stultz-ai-health-care-equity-0323",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/intel-foundry-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 780,
+          "url": "https://news.mit.edu/sites/default/files/images/202103/Barzilay-Stultz-Christia_V3_0.png",
+          "width": 948,
+          "height": 632,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -889,16 +1165,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/23/intel-will-invest-in-factories-and-manufacture-chips-for-other-companies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/intel-will-invest-in-factories-and-manufacture-chips-for-other-companies/amp/",
-      "publishedDateTime": "2021-03-23T14:31:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T13:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -914,292 +1190,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing.md",
-      "title": "Singtel and Optus expand 5G ecosystems with AWS for 5G edge computing",
-      "excerpt": "The MEC, leveraging the Amazon Web Services (AWS) Outposts, will enable 5G solutions like robotics, drones, autonomous vehicles and artificial intelligence to operate at ultra-low latency, closer to the end-users. AWS Outposts is a solution that enables ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/",
-      "originalUrl": "https://www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/amp/",
-      "publishedDateTime": "2021-03-23T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-darpa-to-test-ai-controlled-jets-in-live-fly-dogfights-after-successful-simulations.md",
-      "title": "DARPA to test AI-controlled jets in live-fly dogfights after successful simulations",
-      "excerpt": "DARPA‘s mission to develop AI fighter jets has moved a step closer to take-off. The military research agency’s algorithms took down an Air Force pilot in a virtual dogfight last year.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-23T161949.714-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/",
-      "publishedDateTime": "2021-03-23T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-how-3d-machine-learning-is-transforming-the-healthcare-industry.md",
-      "title": "How 3D Machine Learning is Transforming the Healthcare Industry",
-      "excerpt": "Paul Powers, CEO of Physna and Thangs, joins ‘Cheddar Reveals’ to discuss the advantages of 3D machine learning, and how it’s transforming the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry",
-      "originalUrl": "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.chdrstatic.com/media/8b190c38-f697-45a3-97ff-467278ac1987.png?width=1200&source=backend&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp",
-      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp",
-      "publishedDateTime": "2021-03-23T11:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cheddar",
-        "domain": "cheddar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-major-flaws-found-in-machine-learning-for-covid-19-diagnosis.md",
-      "title": "Major flaws found in machine learning for COVID-19 diagnosis",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. A coalition of AI researchers and health care professionals in fields like infectious disease, radiology, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/",
-      "originalUrl": "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/NVIDIA-CLARA.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/",
-      "publishedDateTime": "2021-03-23T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields.md",
-      "title": "AI and robotics are helping optimize farms to increase productivity and crop yields",
-      "excerpt": "One company built an autonomous vehicle to help haul crops, saving work and time. Others use drones and sensors to communicate with farmers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/23/9d08ff82-5d93-4b0b-8adc-8f2f7954c771/resize/1200x/7d09cb2499883cc6c743c2997fe50167/istock-1218567273.jpg",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
-      "publishedDateTime": "2021-03-23T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-new-algorithm-could-aid-the-rise-of-soft-robots-for-tricky-tasks.md",
-      "title": "New Algorithm Could Aid the Rise of Soft Robots for Tricky Tasks",
-      "excerpt": "Soft robot development could benefit from an algorithm that optimizes sensor placement allowing such machines to better ‘understand’ their environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12109",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12109_16165176633231094.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12109",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12109",
-      "publishedDateTime": "2021-03-23T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
+        "AI in Healthcare",
         "AI"
       ]
     }

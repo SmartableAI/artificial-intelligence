@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Faculty backs new legislative framework for self-driving vehicles"
-    excerpt: "A new legislative framework for self-driving vehicles is needed and should hold them to the same standard as a \"competent and careful\" human driver, the Faculty of Advocates has said. The Faculty has published its response to the joint consultation paper on automated vehicles launched by the Scottish Law Commission and the Law Commission of England and Wales last December."
-    publishedDateTime: 2021-03-23T12:46:00Z
-    webUrl: "https://scottishlegal.com/article/faculty-backs-new-legislative-framework-for-self-driving-vehicles"
+  - title: "Self-driving vehicle service launches in Arlington"
+    excerpt: "Forget Uber. Move over, Lyft. In Arlington, you can catch a self-driving ride. The city now has a small fleet of self-driving vehicles that will"
+    publishedDateTime: 2021-03-24T14:03:00Z
+    webUrl: "https://www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/"
+    ampWebUrl: "https://www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/?outputType=amp"
     type: article
     provider:
-      name: Scottish Legal News
-      domain: scottishlegal.com
-    quality: 24
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 44
     images:
-      - url: " https://scottishlegal.com/images/cache/300x300-0357d68778f702455bdd5b509c0dca5dd6ba12efae69507e7ef85fdf4b7522dc-article.jpg "
-        width: 300
-        height: 300
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/n2rLFs4Knkkc4gdEKSvA0eB_-bA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LBGOHI7EQJDWXB5OAPNGRIO4HY.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Top 8 Online Resources To Get Started With Self-Driving Vehicles In 2021"
+    excerpt: "Waymo, Tesla, Faraday Future etc. have made huge inroads into self-driving tech and have been riding the AI wave to take us into the future. The mobility revolution has created new jobs, such as Industrial Engineer, Perception Software Engineers ..."
+    publishedDateTime: 2021-03-23T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/top-8-online-resources-to-get-started-with-self-driving-vehicles-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 23
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/AIM-Illustrations.jpg"
+        width: 2240
+        height: 1260
         isCached: true
 
 secured: "cdrvl6MmYiUjWM+kEShknvDpoC/XZJdXSuECKL5XqgA44/4ACpIcIgyvR9zMVwa9u8er7mI4N1deSs8Ga7Xhm3Ov0nnwokml5AfsQnmb72g/qMlacorwIO1T+X2ek1L07+yfuWmlmepCyxXJbgH2YlWAKcgGudQUNIQsFMZhIEh4mrj2GqKebxduhjqN1d4LC/aID48IOY1tzeZ9bMNDdypsPcozmCGyK9nGN3YmF5IO5JbT4w+kECsRY/p0aQU9kochtGlM43PKcRgyzT4wZdN6F6pGbX2Moig4HIRCqY/UrkcQBaO1+LioXnemppLHLN1ataT5N5RZ+MGq7BE97D41b476Itfe8LkpDkJGOy8=;3Jgm9FA+ErmKS3FBY9KzQA=="
