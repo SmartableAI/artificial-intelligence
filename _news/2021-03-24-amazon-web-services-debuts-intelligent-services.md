@@ -70,16 +70,19 @@ related:
         height: 720
         isCached: true
   - title: "eMAM streamlines search and processing with AWS Media Intelligence solutions"
-    excerpt: "MAM allows customers to automatically tag and transcribe media with AWS AI-powered solutions. NEW YORK (PRWEB) EMAM, Inc. (EMAM) announced that the eMAM"
+    excerpt: "PRNewswire-PRWeb/ -- eMAM, Inc. (EMAM) announced that the eMAM media asset management platform is part of the launch of the AWS Media Intelligence (AWS MI)"
     publishedDateTime: 2021-03-23T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20304553/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20304553"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20304553"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions/article_9ae4aad0-bf62-58e5-a770-7c16c4facddd.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 36
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "KxorduSpVkutlvIxEfmxGhinMjS8L1k0qGt4L7b9gv/hFCxylORKzKEctYu22scLMTOr52Q9gEZlAUSl6A4TzoEOiy/OTzdFpFVLh54GfcLIeRG8X5BGtYvbdTVHbBOAdNE/aRp9yCMf23Kkc6baPxPAEGD0yJpfkou6sO7zKceFT1dG7zAcwWmBCLRUFQ1AvlCSxTdE/Je3uS5vT6rkK3ND+1DHElQ8iXKcli73pJlWDp+nRjzHqh+xkmdG3oTfdZwz2qvtmaokvKkIcG1C5XMAXvcUhtfZ3dOguM7FsW+ST7BIClwoRgaeDNFgOhbSeC/wlQ1uAtogcIx8RuHBd8Izf8rbZD8qFhrmGCQBmozm6zvyes6ePYAlMs49jUxKf6LyysmEXWiSFWlf9UB1c1k7JMipH0KcAbnQSnBGOFK52djSU3Id1Jc1I2So0MDnxYCQbhH9pFbYH7kkcFX9wmh6zFMVkwnKI/SOdcW65MwW1MF1VoaxPLup4ykenmDLYkzSJw4ieGNj3r7sRSO57A==;EAts4npUoWZwkvD9sJ3wXg=="
 ---

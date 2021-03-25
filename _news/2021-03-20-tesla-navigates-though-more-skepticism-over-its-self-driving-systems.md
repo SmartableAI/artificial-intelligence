@@ -59,17 +59,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Tesla’s “Fully Self Driving” Beta Would Fail A Driver’s License Test"
-    excerpt: "Tesla recently unrolled its autopilot beta to more users and the results are... well, incredibly dangerous, life-threatening, and scary."
-    publishedDateTime: 2021-03-20T13:01:00Z
-    webUrl: "https://futurism.com/the-byte/teslas-autopilot-beta-would-fail-drivers-license-test"
-    ampWebUrl: "https://futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 69
 
 secured: "+7SeVR/6Jxi+FwxLSmCfIAvr+2+nQHtJ+FDYv9W4xfeYGKf19Iw4T8sefhsWPvip1POrIuOekHkKkuwkCMYt7ssCZ3myvV7VJAe+NauGWOMVuGN0aKQ7J8YI7BmDUgu3i0BDc5HXSUcsxhkehg/4Cp+y32PX2dcM5uSJQIC2PxyxU26nMTghB1bcUeokC9V97fw1eQBybwTxfPasl6Xaua8vFir61f6Q4kKLQ4wTTNvO2BrY/f2bVebxoe/7mBQtgbHIucts9S/N9aAHRWx3U9uwNmBqlrX0LXthUmMmeTJnE9d1WEjohWW+/URBapQtGWnWLh9PJMTQxXsEhkI+Rgc6fx6u9QfFnBlFqodsmPU=;eel+QLlQZfIq1VQDIgeN+Q=="
 ---

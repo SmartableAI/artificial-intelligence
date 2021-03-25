@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "TuSimple’s IPO filing reveals roadblocks for self-driving startups with Chinese ties"
+    excerpt: "While the governments of the United States and China are pushing policies for technological decoupling, private tech firms continue to tap resources from both sides. In the field of autonomous vehicles,"
+    publishedDateTime: 2021-03-25T05:15:00Z
+    webUrl: "https://techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/"
+    ampWebUrl: "https://techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/08/TuSimple-Self-Drving-Truck-5.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Self-driving truck startup TuSimple files for U.S. IPO"
     excerpt: "Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector."
     publishedDateTime: 2021-03-23T21:25:00Z

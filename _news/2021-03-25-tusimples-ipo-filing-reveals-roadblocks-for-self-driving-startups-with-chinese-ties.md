@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Self-driving truck startup Kodiak and China's Hesai partner up"
-excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc. and Shanghai-based lidar maker Hesai Technology Co. on Wednesday announced a partnership to integrate Chinese lidar technology into autonomous trucks."
-publishedDateTime: 2021-03-24T13:03:00Z
-originalUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
-webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
+title: "TuSimple’s IPO filing reveals roadblocks for self-driving startups with Chinese ties"
+excerpt: "While the governments of the United States and China are pushing policies for technological decoupling, private tech firms continue to tap resources from both sides. In the field of autonomous vehicles,"
+publishedDateTime: 2021-03-25T05:15:00Z
+originalUrl: "https://techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/"
+webUrl: "https://techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/"
+ampWebUrl: "https://techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/amp/"
 type: article
-quality: 39
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Kodiak%20robotics%20resize.jpg"
-    width: 800
-    height: 600
+  - url: "https://techcrunch.com/wp-content/uploads/2019/08/TuSimple-Self-Drving-Truck-5.jpg?w=1024"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -56,22 +62,6 @@ related:
       - url: "https://images.wsj.net/im-315504/social"
         width: 1280
         height: 640
-        isCached: true
-  - title: "TuSimple’s IPO filing reveals roadblocks for self-driving startups with Chinese ties"
-    excerpt: "While the governments of the United States and China are pushing policies for technological decoupling, private tech firms continue to tap resources from both sides. In the field of autonomous vehicles,"
-    publishedDateTime: 2021-03-25T05:15:00Z
-    webUrl: "https://techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/"
-    ampWebUrl: "https://techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/08/TuSimple-Self-Drving-Truck-5.jpg?w=1024"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Self-driving truck startup TuSimple files for U.S. IPO"
     excerpt: "Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector."
@@ -123,6 +113,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 44
+  - title: "Self-driving truck startup Kodiak and China's Hesai partner up"
+    excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc. and Shanghai-based lidar maker Hesai Technology Co. on Wednesday announced a partnership to integrate Chinese lidar technology into autonomous trucks."
+    publishedDateTime: 2021-03-24T13:03:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Kodiak%20robotics%20resize.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Self-Driving Truck Developer TuSimple Files for IPO"
     excerpt: "Self-driving truck developer TuSimple is moving forward with plans to become a publicly traded company. The technology startup on March 23 announced that it had filed a registration statement with the U."
     publishedDateTime: 2021-03-23T21:45:00Z
@@ -152,6 +156,6 @@ related:
         height: 600
         isCached: true
 
-secured: "w6HAqgo2vYIx5GDcZtVYLGV+SlnYlCs+Z1PISWimR0y404GF5Xkpf9rCv9zYldnx8msQ4giot5F4EeS8zt4NL5jca0G21dFnsRumOLGbIWqvAj3zLBC+W2/gDD9c3VMHiDBDqplt3l1nQjnRKradkbvlp+i5HGAOh86GeEWFFt5ugi5YQxptIJh6EF1ApncW0+HwVHcrlcx8A+Dg+i4GdaX9rtL61nOlwRngW+R0tPq9X5F+4pO4w8CKxbQrFEICy3JXRyjvjUNY9VzJY8gIQN9d3m1pIlEiq/QifwB7YyY3pkHyALo2P7ASB/ginlrpUGPLuljNLgRMLvRhHZkVq3hsc1XgTgh5WJvxAQOl4m+43vcs6Rh99ynaQt3ChnnhxdcvFXUWxhGGkzzlmHBKqdw7AtN5rrJwxH6C8ksSRtKLIGUUr+j20tzKvwAMLliZ6/My6c/qu1Ua5Y5gZhOdeEpmFc9uPA+0diuJyyOM/7+uYEbT4UOGLxHfAiKA88n1cIxmbp/0t4XRIlrBITLBOw==;S9TEIs7b2cwSZt4prGg0tw=="
+secured: "B0DLy0FEMdfFu+WQyykNxL236BWK4FWm8pW22DUrqmeU7IHUsGQlMg2A8BsYroEy0hIl60BmnjO1MajzMnl56cq0tJDVO61NOuiLgPhFV5/EZSDgxNr6QQkNay9bWQp1qDO708M9hITRoxBYF3rV1YWn0XyyY8PYc/XgRdGURiFcfJWlrbM09/AH7ai2z79PZacv77G035N8dk6/CeRENSywrslf6THYdFm6NZ7TS2L7DT95oc/msU+QtxaDlP0jQFqqZ0LofjqBXAKIaQRgajyhbe1i2jnlG/TfZPNalur8F1do/0U2kSBt58oNPO2AVuZFnPDmeAIOZWmCxf1wztptDK62VUxBQo3+i4P/Yg0=;tubCLaz/fRPSBD5YoeFWjw=="
 ---
 

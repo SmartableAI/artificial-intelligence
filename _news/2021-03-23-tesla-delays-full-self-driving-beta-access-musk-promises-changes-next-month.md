@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-ac
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Tesla’s “Fully Self Driving” Beta Would Fail A Driver’s License Test"
-    excerpt: "Tesla recently unrolled its autopilot beta to more users and the results are... well, incredibly dangerous, life-threatening, and scary."
-    publishedDateTime: 2021-03-20T13:01:00Z
-    webUrl: "https://futurism.com/the-byte/teslas-autopilot-beta-would-fail-drivers-license-test"
-    ampWebUrl: "https://futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/teslas-autopilot-beta-would-fail-drivers-license-test/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 69
   - title: "Tesla navigates though more skepticism over its self-driving systems"
     excerpt: "It is tough being Tesla. In a world where cars are becoming electric, just as the company initially intended when its mission began 18 years ago, Tesla is the top dog at the moment. Every car company in the world is nipping at its heels in an attempt to catch up to Elon Musk’s car"
     publishedDateTime: 2021-03-20T16:59:00Z
