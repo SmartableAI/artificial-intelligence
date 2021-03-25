@@ -7,7 +7,7 @@ originalUrl: "https://futurism.com/the-byte/try-horrible-pickup-lines-written-ai
 webUrl: "https://janellecshane.substack.com/p/gpt-3-tries-pickup-lines"
 type: article
 quality: 137
-heat: 137
+heat: 138
 published: true
 
 provider:

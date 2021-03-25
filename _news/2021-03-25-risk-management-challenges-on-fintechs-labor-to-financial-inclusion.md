@@ -1,27 +1,27 @@
 ---
 category: news
-title: "RIA-Founded Fintech Introduces Next-Generation Tax Planning Tool"
-excerpt: "FP Alpha's AI-driven Tax Snapshot can instantly read and create planning recommendations from client tax forms."
-publishedDateTime: 2021-03-24T20:24:00Z
-originalUrl: "https://www.fa-mag.com/news/ria-founded-fintech-introduces-next-generation-tax-planning-tool-61092.html"
-webUrl: "https://www.fa-mag.com/news/ria-founded-fintech-introduces-next-generation-tax-planning-tool-61092.html"
+title: "Risk management challenges on Fintechs labor to financial inclusion"
+excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
+publishedDateTime: 2021-03-25T02:04:00Z
+originalUrl: "https://www.cioreview.com/cxoinsight/risk-management-challenges-on-fintechs-labor-to-financial-inclusion-nid-33194-cid-254.html"
+webUrl: "https://www.cioreview.com/cxoinsight/risk-management-challenges-on-fintechs-labor-to-financial-inclusion-nid-33194-cid-254.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Financial Advisor
-  domain: fa-mag.com
+  name: CIOReview
+  domain: cioreview.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
-    width: 1200
-    height: 1200
+  - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
+    width: 300
+    height: 300
     isCached: true
 
 related:
@@ -112,19 +112,19 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 33
-  - title: "Risk management challenges on Fintechs labor to financial inclusion"
-    excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
-    publishedDateTime: 2021-03-25T02:04:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/risk-management-challenges-on-fintechs-labor-to-financial-inclusion-nid-33194-cid-254.html"
+  - title: "RIA-Founded Fintech Introduces Next-Generation Tax Planning Tool"
+    excerpt: "FP Alpha's AI-driven Tax Snapshot can instantly read and create planning recommendations from client tax forms."
+    publishedDateTime: 2021-03-24T20:24:00Z
+    webUrl: "https://www.fa-mag.com/news/ria-founded-fintech-introduces-next-generation-tax-planning-tool-61092.html"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
+      name: Financial Advisor
+      domain: fa-mag.com
     quality: 24
     images:
-      - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
-        width: 300
-        height: 300
+      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
+        width: 1200
+        height: 1200
         isCached: true
   - title: "Banca Progetto, 800 mila euro di finanziamento alla start up fintech Young"
     excerpt: "De Silva (Banca Progetto): \"Siamo sempre felici di poter dare un aiuto concreto a progetti di giovani brillanti con una idea imprenditoriale innovativa\""
@@ -155,6 +155,6 @@ related:
         height: 450
         isCached: true
 
-secured: "NpDHI2iVVHoPijhOQNuYU3QmYnoZJ04UfhMxEwBtzoQsIzT02GWuWoGH4D06DH+kQ9+qEn28sMFLSjZgy9ket+hHL7vPyr47yrNjSqfjEXdI6r34+Tp3VjLvTbF/mO2188wjhmgWfmf18nD3WH3dBFsJjllTfHaXW+yXgUrcOszD2DsojqrPt2d6vRrf1K2p3EUfeLAgFYP96Dh5b+c5ojsUZhV7ZvmP2c7UZ2plAAm9wZBkKSnmrfizP6TdsbWZIvi3FWMtqRXWTmV5Rk+A1L3iA5dGHWf+yAyEU32Vl8a8xCeFXNHIpYj1w4rJ9M00KzJt3fC/u3sa0kEEzEsS2lnZth0SlWRITmFAPO21XE8=;1q4IGbXDK3WGsXQE8JsMTw=="
+secured: "DvmtZRwEafRU7O15IPigpLUmyugn4WeIhCBpkgApbyC3CU7gv7HAmcgQeixuXrPdBkQ3qvBZQXWdpxTg79Fq1+z9tDt1w0ZtdFv3syhHZw1CNvzZt9anprdE+EuEkSnZc0rISWDo87GLZtHBkuH3uDgq77uwFWztSvS0D9doZWazOGuBrNL4QblbfOUmX9SDUAGzgPKfnr5ArP7zbnijLjyWqDhFsnoZjws1Ji67kFOaf2T1l8qo6PG9fz/C8nyEutB+adjXzucV2sdY9IkHLohcAjFOFNk6goeG1nn6tvrgvjBZMQMkjSJNHnlMOOvr91/Xj8tteZSSX4Jvgrdi7wUyNzdQ5CL9ckXGUtGWQRw=;E0G/UmLLr7cad0sZR039xQ=="
 ---
 

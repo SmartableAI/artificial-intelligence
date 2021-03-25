@@ -3,8 +3,8 @@ category: news
 title: "Robot butlers may take over your household chores, but it will be years before then"
 excerpt: "Other start-ups have demonstrated laundry-folding machines ... it allows machines to figure out more complex problems and reliably chat with humans. Still, robotics and AI firms say you'll have to wait quite some time before you're able to own anything ..."
 publishedDateTime: 2021-03-24T00:47:00Z
-originalUrl: "https://www.nationthailand.com/edandtech/30404047"
-webUrl: "https://www.nationthailand.com/edandtech/30404047"
+originalUrl: "https://www.nationthailand.com/noname/30404047"
+webUrl: "https://www.nationthailand.com/noname/30404047"
 type: article
 quality: 33
 heat: 33
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "5W3udeEeeAHJKDinbNFLyv5ShE/R0Y1EPzRXoLMHL1/DK5+Ci7IwBf9yyyouKwzvAzFxpg9RX/aEez/dGN7ZHfTR9mwrk1xt92XHZjILvrw00m2qvqrv/8q1KH+BV8LB1O3DfPAJHm3l4PAOPTCbo3D15DuUV1Hm/47Fa7UQ4hrAuq19evoDwzm7Uacqqwz/nKsfMER1t5d6ccltMDKsEo5fnJKdAeB4taq/hn6m1BuVuvpW4KCJu7Vu9iNElTCajmtzmIsXSvuj84duvzpIkcaWInEZjyD/KSkUmUuDSUOkFlDKKl3sqWdQTe92ztEs9vUWnVJpT+L5ikSBQT2z+5bSa9Oj+oR7Ygn6ys2gfjhiGaZ3SoNgtOQSgHZUPhBM9sKftKx0rcVAXWra8ABlrvOvN/AXnEbT0e4cKTnTXnTJrVkhAOWhyhqPimFp5hzBiCJ6ooI0hQlotWYM/Y+8xd7kK8wk0hRoSyg5+pX7gJ+TB8phEK6ui9e6n/u2+ZFhd8KaTDzdotI8VUmTSI8FKQ==;iK3seny4Q9JirTSue6CULQ=="
+secured: "vRvqCi/Z8IWajn9YGfc/E6C/jmZhHgo3SjCeSN/0/rguIWCqg8+cyMUzhObZyJIhlos3TegdRiAAvATh0zd4423d5hnzyyEfstcFiebnPLWCHCBYA8JwUCv0zwBEyN3X8pMLU3KuA5zxfTMROONH/P1BKzlUDXEaIwEw/FNf8MgT8uS5FF/URtOYNqg8zTdNx9ysdWKO5h1RuBfESODBDHp29N+JYYVta4anGH+8QWNTqw9EjNSxg3sn+8V4AV77A8c3Fqb8LiyUSMI9alHz8gLMuZWErbbeoJb2U7cYX3FJ0nGoyb7Wq3RJCXRdCRfpikMQQJckFvA7g71CVPov0P0HnYoLL/Kh+O6Pn1xUUxs=;wp/iMtjNROEffb9mVEwr9A=="
 ---
 

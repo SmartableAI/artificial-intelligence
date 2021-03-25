@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-24T09:29:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-business-size-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-03-24"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-business-size-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-03-24"
 type: article
-quality: 47
+quality: 51
 heat: -1
 published: false
 
@@ -21,6 +21,8 @@ provider:
 topics:
   - AI
   - AI in Security
+  - IBM AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

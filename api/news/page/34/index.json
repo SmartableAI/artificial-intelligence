@@ -2,6 +2,50 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-02-25-cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk.md",
+      "title": "CyberLink Partners With Vypin to Integrate Facial Recognition Into Security and Health Kiosk",
+      "excerpt": "Vypin launched the Vypin eScreener™ kiosk with the latest in automated screening technology to promote health and safety without sacrificing the employee or customer experience. CyberLink’s FaceMe® SDK powers the eScreener™ kiosk’s ability to detect whether a face mask is present or not,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk/article_e5dce1ef-86e0-5626-95b4-740685e7591b.html",
+      "originalUrl": "https://www.oaoa.com/news/business/cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk/article_e5dce1ef-86e0-5626-95b4-740685e7591b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/d/6d/d6d14fc6-56e3-5d3b-81a1-92f51b1689aa/6037b55fdb736.image.jpg?resize=1200%2C628",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-otterai-raises-50-million-for-ai-transcription.md",
       "title": "Otter.ai raises $50 million for AI transcription",
       "excerpt": "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million.",
@@ -1141,58 +1185,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products.md",
-      "title": "Amazon launches computer vision service to detect defects in manufactured products",
-      "excerpt": "Amazon today announced the general availability of Amazon Lookout for Vision, a cloud service that analyzes images using computer vision and AI to spot product or process defects and anomalies in manufactured products.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/",
-      "originalUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/amp/",
-      "publishedDateTime": "2021-02-24T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

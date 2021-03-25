@@ -10,7 +10,7 @@
       "originalUrl": "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -105,6 +105,50 @@
         "AI",
         "Machine Learning",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-boostedai-integrates-esg-data-into-machine-learning-platform-boosted-insights.md",
+      "title": "Boosted.ai Integrates ESG Data into Machine Learning Platform Boosted Insights",
+      "excerpt": "Boosted.ai, the leading distributed machine learning platform for global investment professionals ... asset owners, global banks, and financial technology companies in the world. OWL is dedicated to helping clients make a positive impact by empowering ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-toronto-financial-services-investment-management-a76cc6f13c35462199bcc4a6a7ac3727",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-toronto-financial-services-investment-management-a76cc6f13c35462199bcc4a6a7ac3727",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1165,6 +1209,41 @@
       ]
     },
     {
+      "path": "_news/2021-03-09-mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "originalUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-zero-to-blockchain-il-corso-di-formazione-online-sulla-blockchain-promosso-da-acta-fintech.md",
       "title": "Zero to Blockchain: il corso di formazione online sulla blockchain promosso da Acta Fintech",
       "excerpt": "“ Zero to Blockchain ” è il corso di formazione online on-demand che mira a spiegare le basi della tecnologia blockchain e degli asset digitali. Lanciato diversi mesi fa da Acta Fintech, il corso di f",
@@ -1280,92 +1359,6 @@
       "provider": {
         "name": "lineaedp.it",
         "domain": "lineaedp.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-artificial-intelligence-ai-is-changing-the-present-and-future-of-digital-finance-market.md",
-      "title": "Artificial Intelligence (AI) is Changing the Present and Future of Digital Finance Market",
-      "excerpt": "In recent years, with the continuous development of the financial market and the rapid growth of society, the capital market is now in the golden period. As the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/ab20044319/artificial-intelligence-ai-is-changing-the-present-and-future-of-digital-finance-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/ab20044319/artificial-intelligence-ai-is-changing-the-present-and-future-of-digital-finance-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/821ae57a8a1177930d41ba2fdfeeae2d.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20044319",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20044319",
-      "publishedDateTime": "2021-03-06T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-blockchain-fintech-get-name-checks-in-14th-five-year-plan.md",
-      "title": "Blockchain, fintech get name checks in 14th Five-Year Plan",
-      "excerpt": "Blockchain research can look forward to even more state support. Fintech will also have to worry about more aggressive oversight.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
-      "originalUrl": "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/technode.com/wp-content/uploads/2020/07/1280px-Beijing_skyline_from_northeast_4th_ring_road.jpg?fit=1280%2C576&ssl=1",
-          "width": 1280,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
-      "publishedDateTime": "2021-03-04T18:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
         "images": null,
         "publishers": null,
         "authors": null

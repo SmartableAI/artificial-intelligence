@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud?amp"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -115,6 +115,20 @@ related:
       - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "Risk management challenges on Fintechs labor to financial inclusion"
+    excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
+    publishedDateTime: 2021-03-25T02:04:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/risk-management-challenges-on-fintechs-labor-to-financial-inclusion-nid-33194-cid-254.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
+        width: 300
+        height: 300
         isCached: true
   - title: "Banca Progetto, 800 mila euro di finanziamento alla start up fintech Young"
     excerpt: "De Silva (Banca Progetto): \"Siamo sempre felici di poter dare un aiuto concreto a progetti di giovani brillanti con una idea imprenditoriale innovativa\""

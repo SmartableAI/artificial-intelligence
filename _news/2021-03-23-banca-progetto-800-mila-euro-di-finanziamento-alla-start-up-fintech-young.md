@@ -126,6 +126,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Risk management challenges on Fintechs labor to financial inclusion"
+    excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
+    publishedDateTime: 2021-03-25T02:04:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/risk-management-challenges-on-fintechs-labor-to-financial-inclusion-nid-33194-cid-254.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Obligo Named the Most Promising Israeli-Founded Fintech Startup in Lending and Financing for 2021"
     excerpt: "As the only non-insurance deposit alternative, Obligo’s credit-based solution keeps landlords secure and renters accountable by combining Open Banking technology with AI-based underwriting and collection capabilities. Since launching its fintech solution ..."
     publishedDateTime: 2021-03-23T14:12:00Z
