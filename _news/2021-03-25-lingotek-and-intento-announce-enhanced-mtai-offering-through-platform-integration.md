@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-25T01:34:00Z
 originalUrl: "https://slator.com/press-releases/lingotek-and-intento-announce-enhanced-mt-ai-offering-through-platform-integration/"
 webUrl: "https://slator.com/press-releases/lingotek-and-intento-announce-enhanced-mt-ai-offering-through-platform-integration/"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://slator.com/assets/2021/03/Intento-Logo-2021-900x600-CD.png"

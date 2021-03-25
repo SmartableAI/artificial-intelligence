@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Walt Disney World tests facial recognition at park entry"
-excerpt: "WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission. The pilot program will be in testing for the next month. Participation is optional, but those who ..."
+excerpt: "Walt Disney World is testing a new technology that could match a ticket holder with their admission. WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission."
 publishedDateTime: 2021-03-24T01:21:00Z
-originalUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-webUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-ampWebUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+originalUrl: "https://www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+webUrl: "https://www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+ampWebUrl: "https://www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WSOC-TV
-  domain: wsoctv.com
+  name: WPXI
+  domain: wpxi.com
 
 topics:
   - Computer Vision
@@ -106,6 +106,22 @@ related:
       - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/03/932/470/disney-test.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Disney World tests facial recognition software at Magic Kingdom"
+    excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
+    publishedDateTime: 2021-03-24T20:08:00Z
+    webUrl: "https://nbc-2.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 59
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Bias in facial recognition isn’t hard to discover, but it’s hard to get rid of"
     excerpt: "Joy Buolamwini is a researcher at the MIT Media Lab who pioneered research into bias that’s built into artificial intelligence and facial recognition. And the way she came to this work is almost a little too on the nose."
@@ -266,6 +282,6 @@ related:
         height: 1082
         isCached: true
 
-secured: "JzcH3zxBAiadPvC49JPDB7/2EKy7KQSBDcxy5RSHNojlHZCJjWMUjhB4HEEeFhb2IU80SZJ3Sjo5MSgWaH1tpcN0RbiglnC1c0Ff46DCq8UuiKRcTd5Mzg76IbymcjgIHFJtDtjLTlpWA+mKy67Fyj+HANxDBK/yzadu9d2aZ0LIKMDZNveOEWgnR3VtqGZOUwTWDeFFr+3McoD6ith/RW5niaHHPNauMEjXZzEfakN/+k44r6WM0IY1WpwT1e+OyaClQtiprW3EEqpC7+N2yytkIWBeZQ0sBht4J5CgyjLuMLXgi4UBMxtopaPZhCIBI/V8Z///4+lI8yCNqJKlzsx3B9SKAqRgD1vBeO9LKyWKO2m8//kgXEqT7Ta2ljBaQ3G/3SEuG+lovQwiXUyKDVrjsQyi+oT/Y3gqyehuFvQfA4y6TBEcheQ2zAW5LbH5G8kK9YWoxBVsTVmfbVgNw/mcFoA60J1Sr9fSly/d9MKrSQzvcxFi2j4jxEVCk3ScQxbDpJijQ0KeeaiHAAYJSQ==;wDFQGAMJJjFNHse40RhtsQ=="
+secured: "0JB2RR9m3TnrUNTmcqrc3Y/7MZndrEBHsI098W9VZQrzhcH/BxxH6uIvGfpQFLiPNNxsmpRzgbkIIjYzijea5FcH1zIflJbn9PplZYBg+UMd6kioR63QrcV0aSagTY8CLl5S8UCdURAHh9DTa987Qx/Oy9OXpIm0YBBTFEPrwd8JvSH8DPKl2FmzHqe+Yb0wLeyV7MiRzvqUtduFtZTK/n+NQjklztGRzEULZUXYRafmYf2QclGl9cYJyWiZI1K0l6YkAdDLfmc5Vi+XIQH0x2hx8ixjhDXkO/B2xRyXS0yCVmNh7KBwHLievrBJPnWqwEH17SwI7IuUNvTo+7r+zcONpYfBIYipG5wfM013Ibc=;QWLHB17onTExmG0XvTu2EA=="
 ---
 

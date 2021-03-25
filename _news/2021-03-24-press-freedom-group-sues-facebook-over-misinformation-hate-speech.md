@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facebook wrist computing tech can be “hands free”, only needs you think about an action"
+    excerpt: "A user can also “train” it, using AI, to sense the intention of her fingers, so that actions happen even when your hands are totally still. Facebook is deep into this research because it wants to build an interface that would make it easier for people ..."
+    publishedDateTime: 2021-03-25T07:49:00Z
+    webUrl: "https://www.techgoondu.com/2021/03/25/facebook-wrist-computing-tech-can-be-hands-free-only-needs-you-think-about-an-action/"
+    ampWebUrl: "https://www.techgoondu.com/2021/03/25/facebook-wrist-computing-tech-can-be-hands-free-only-needs-you-think-about-an-action/?amp"
+    cdnAmpWebUrl: "https://www-techgoondu-com.cdn.ampproject.org/c/s/www.techgoondu.com/2021/03/25/facebook-wrist-computing-tech-can-be-hands-free-only-needs-you-think-about-an-action/?amp"
+    type: article
+    provider:
+      name: Tech Goondu
+      domain: techgoondu.com
+    quality: 36
+    images:
+      - url: "https://www.techgoondu.com/wp-content/uploads/2021/03/EMG-Typing.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "oDOUCtsUoAin4cA8cg9KnKUm8webNUryQJQ6ekMUKAfQlMY4MppLI5xPYkbGPppH7eTqA9iz9+cj07MzVcHux0SVfYn5rmlBwPBhvhIpSvU/6+PDIkgLam0PEcyHZnIcL5/JINSZHxdHQKOBfAoSuIxZVtBf/1TOlxLSphSWOEmnZvkzmz0SCqv5PaK2+TA708mdIgiFqgIQlSOKIhaul5pTnVCUI078MIR2+ynt6th5jnjBAGKRkxQ0WYvoZ2enuonNAxM7SSeoPYXIRE/fGeD6zdPBYaw5NtDwrsCVOJvlj2Q/xZ5m+kqqRPQ9fUrjIgPlXAUvJ/PZF6Y/M4ZnxesTmW8ZC1bldUMZV7/pwlIz3Lg1rLJuvKoWcqVC13up5AJPizTwv+DnlbARsOeE4r1+ZMH8/7/6cYERcn2JSCsjQKIp+CeSZFrPop5waXNjrxsAehZ8b4ql9Q84bhpZburuyZdIMsUgKx4oziNCh9FnJ/pPUHweT7FajRWHHPyLAQznQ/CCJrEKgqsuo/F9jg==;n4lXyHxCw2bJwD12pikbAw=="
 ---

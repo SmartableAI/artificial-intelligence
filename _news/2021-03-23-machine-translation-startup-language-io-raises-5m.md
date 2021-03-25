@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/machine-translation-startup-langu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/machine-translation-startup-language-i-o-raises-5m/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 127
 published: true
 
 provider:

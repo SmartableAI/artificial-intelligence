@@ -34,7 +34,7 @@ related:
     provider:
       name: Slator
       domain: slator.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://slator.com/assets/2021/03/Intento-Logo-2021-900x600-CD.png"
         width: 900

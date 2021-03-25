@@ -24,6 +24,22 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Guidehouse Expands Financial Services Advisory & Managed Services Footprint Globally"
+    excerpt: "Guidehouse, a leading consultancy and solutions provider to the public and commercial sectors, is expanding the firm’s Financial Crime Solutions and Managed Services offerings globally, announcing a new location in Vilnius,"
+    publishedDateTime: 2021-03-25T06:28:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-corporate-news-north-america-8337832e72c348fd911655caab122263"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "cjyTxK47H5y7j9rx7/jTon52ZWvDBlxDhSwB/JG6Xp7iAv5EP6l6n3FM9X/sjopUqychYuiU+cCYnwG2b5q456Qt4qtPrlXEpVmNYtqc0D26M6RXjzlSpJUxQlbyWRBr4tNoS4XJT/56IMqu2FQN3LFzDQ6qsf3/hk6GcBAi038+6K/YDek5O9tG6sHvOG32HrZ4LsbQzC9DNY7zbphh/+Su/BGjeEvBgzoJXuF15Cs0/RbvLbThV+yO9Iuosx6Q1Aw1Oj4bUlSb5Bj66qhzlfF2UCAX7wIcAkRAMLROa1MInCxF7SqlkrGuTtcvnndzGq0VoQ2rwtnCQACfThNtCnJWdJxVCrn629J/7cnyHjIPC0drYb+I2VUKrHvy3iksOb4jdIRPlMkZcic5sAKNtlX1dZooW5iXCtv/6SPgldkbsEbHlfg2CoVfNHDHqVonJDzhG1pRlFy/VcfNgUz5tLXY+Hiej1mBvd9EjtGMB4tXcsEf0DSzuYh4SO/TbS7Mrjwbm/yZU4wgAQNIdhxxLA==;giEhnSz6xtkU5vF3X1yF3w=="
 ---
 

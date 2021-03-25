@@ -9,7 +9,7 @@ ampWebUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-sof
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
 type: article
 quality: 59
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -76,15 +76,15 @@ related:
         height: 641
         isCached: true
   - title: "Walt Disney World tests facial recognition at park entry"
-    excerpt: "WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission. The pilot program will be in testing for the next month. Participation is optional, but those who ..."
+    excerpt: "Walt Disney World is testing a new technology that could match a ticket holder with their admission. WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission."
     publishedDateTime: 2021-03-24T01:21:00Z
-    webUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-    ampWebUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+    webUrl: "https://www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+    ampWebUrl: "https://www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
     type: article
     provider:
-      name: WSOC-TV
-      domain: wsoctv.com
+      name: WPXI
+      domain: wpxi.com
     quality: 59
     images:
       - url: "https://d1hfln2sfez66z.cloudfront.net/03-24-2021/t_b580ba8e37154ad6a5916bb0e2f967c9_name_Disney_tests_facial_recognition_at_park_entry_Poster.jpg"
@@ -106,6 +106,22 @@ related:
       - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/03/932/470/disney-test.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Disney World tests facial recognition software at Magic Kingdom"
+    excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
+    publishedDateTime: 2021-03-24T20:08:00Z
+    webUrl: "https://nbc-2.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    type: article
+    provider:
+      name: NBC2
+      domain: nbc-2.com
+    quality: 59
+    images:
+      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Bias in facial recognition isn’t hard to discover, but it’s hard to get rid of"
     excerpt: "Joy Buolamwini is a researcher at the MIT Media Lab who pioneered research into bias that’s built into artificial intelligence and facial recognition. And the way she came to this work is almost a little too on the nose."
