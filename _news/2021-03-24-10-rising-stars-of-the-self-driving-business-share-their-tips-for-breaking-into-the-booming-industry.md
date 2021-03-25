@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Aiming To Change Our Most Favorite Of Car Colors"
-    excerpt: "Giving consideration to the painted car colors of today and what might occur with the advent of self-driving cars."
-    publishedDateTime: 2021-03-20T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/20/self-driving-cars-aiming-to-change-our-most-favorite-of-car-colors/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60037dd0c892d0f11d613a64%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4971%26cropY1%3D181%26cropY2%3D2977"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Self-Driving Cars As Bait Cars To Catch Those Dastardly Car Thieves"
     excerpt: "Shifting gears, we might ponder the future of cars and how the nature of a bait car activity might take place once there are self-driving cars prevalent on our roadways. Today’s interesting question is this: Might AI-based true self-driving cars be used ..."
     publishedDateTime: 2021-03-23T14:30:00Z
@@ -61,22 +45,6 @@ related:
         width: 1199
         height: 837
         isCached: true
-  - title: "'A long road': the Australian city aiming to give self-driving cars the green light"
-    excerpt: "Ipswich is an ideal place to trial technology to bring fully self-driving cars to Australian cities. But the project has had to overcome a lot of road bumps While the trials of self-driving car technology have so far all included drivers, Ipswich’s ..."
-    publishedDateTime: 2021-03-20T18:03:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/mar/21/a-long-road-the-australian-city-aiming-to-give-self-driving-cars-the-green-light"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/mar/21/a-long-road-the-australian-city-aiming-to-give-self-driving-cars-the-green-light"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/21/a-long-road-the-australian-city-aiming-to-give-self-driving-cars-the-green-light"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 53
-    images:
-      - url: "https://i.guim.co.uk/img/media/0c291c072fad3d2d741af2c75a77d3a57d44e626/417_224_5887_3532/master/5887.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0ead242b6f9a5e7ddccaf59209024a6d"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Machine learning gets physical, starting with self-driving cars"
     excerpt: "However, the common factor with all of these is that each machine is limited to influencing our lives through a software interface with a website or an app. In 2021, AI will go beyond this. We will see the emergence of the first physical."
     publishedDateTime: 2021-03-23T06:13:00Z
@@ -91,15 +59,6 @@ related:
         width: 1440
         height: 753
         isCached: true
-  - title: "Solomon: Legal liability of self-driving cars"
-    excerpt: "Part of the challenge I have in teaching extremely bright business students in the final year of their undergraduate studies is, many of them are considering heading to law school."
-    publishedDateTime: 2021-03-23T21:49:00Z
-    webUrl: "https://www.rutlandherald.com/opinion/commentary/solomon-legal-liability-of-self-driving-cars/article_8cd4904d-2212-5c7b-acfd-33a8ba2f814b.html"
-    type: article
-    provider:
-      name: Rutland Herald
-      domain: rutlandherald.com
-    quality: 4
 
 secured: "pDzJK8pz/FrKQGGBe4etPqMsFHEgjXkr4DA8B2kb8gmTuqIx9dVDXWm//0kKFaAMJaJZzLWMKqdKDXVRRkDgL9C7w9OoK1Hg7QlNFlVwqqTc50QbSdC9HnTYpQy1M1Er7A4l0RMgjTXRvKrKu6aBwrCAwMY9wpHCXRKdHJvbmUsjhJofV5QEGxG1kQJEv3S1ijFPX8fBJpIC9gimywUeSU7+uljuqkNbS3CN2JMNZTPkj/o2kdYG1jpxZAdAf5PvvKIhLHbh0WkPDNZwpZn8uQi2Qv/ns1WiC3V612fHvJNolLRgiFAnOw6+MoC3P6ls8YJeYBI2LOVIJgpFI2YmrTLrPAli3LfRn+xXl58tpWX/c7TW6nAZYO8FqFFZ9ncvFNkszqzxvTdqJnv+BNMOA3yhJXz08rUBrkjHud9CU8oxzs5gbW+7Pyq3egx9PdgXIFMU/e1DIYdDn6PPPt3h56VSUXfkDN19uhOOBPijzaNC6oBi8f5GbAPoRqkPpzSK85yTlapmiKjDN+WG4j+2jw==;g2L4VSv1Vqc4ZoqneBiZGg=="
 ---

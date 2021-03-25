@@ -41,6 +41,22 @@ related:
         width: 800
         height: 312
         isCached: true
+  - title: "AWS rolls out New Media Intelligence Solutions"
+    excerpt: "AWS AI services that work with AWS MI include Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. These enable AWS ..."
+    publishedDateTime: 2021-03-25T08:36:00Z
+    webUrl: "https://www.rapidtvnews.com/2021032560166/aws-rolls-out-new-media-intelligence-solutions.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2021032560166/aws-rolls-out-new-media-intelligence-solutions.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021032560166/aws-rolls-out-new-media-intelligence-solutions.amp.html"
+    type: article
+    provider:
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 59
+    images:
+      - url: "https://www.rapidtvnews.com/images/2021/March_2021/AWS.png"
+        width: 570
+        height: 450
+        isCached: true
   - title: "AWS Releases AWS Media Intelligence Solutions"
     excerpt: "SEATTLE—Amazon Web Services is now offering AWS Media Intelligence Solutions (AWS MI), which is a. AWS MI is meant to allow users to analyze media, improve content engagement rates, reduce operational costs and increase the lifetime value of media content."
     publishedDateTime: 2021-03-23T19:19:00Z

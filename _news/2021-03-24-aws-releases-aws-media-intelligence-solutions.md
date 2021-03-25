@@ -55,6 +55,22 @@ related:
         width: 400
         height: 333
         isCached: true
+  - title: "AWS rolls out New Media Intelligence Solutions"
+    excerpt: "AWS AI services that work with AWS MI include Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. These enable AWS ..."
+    publishedDateTime: 2021-03-25T08:36:00Z
+    webUrl: "https://www.rapidtvnews.com/2021032560166/aws-rolls-out-new-media-intelligence-solutions.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2021032560166/aws-rolls-out-new-media-intelligence-solutions.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021032560166/aws-rolls-out-new-media-intelligence-solutions.amp.html"
+    type: article
+    provider:
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 59
+    images:
+      - url: "https://www.rapidtvnews.com/images/2021/March_2021/AWS.png"
+        width: 570
+        height: 450
+        isCached: true
   - title: "EditShare Announces Support for AWS Media Intelligence Solutions"
     excerpt: "EditShare, a technology leader that specializes in collaboration, security, and intelligent storage solutions for media creation and management, announces support for the Amazon Web"
     publishedDateTime: 2021-03-24T13:00:00Z

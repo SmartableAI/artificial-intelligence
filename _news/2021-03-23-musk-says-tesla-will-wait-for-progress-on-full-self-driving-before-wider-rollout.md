@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla navigates though more skepticism over its self-driving systems"
-    excerpt: "It is tough being Tesla. In a world where cars are becoming electric, just as the company initially intended when its mission began 18 years ago, Tesla is the top dog at the moment. Every car company in the world is nipping at its heels in an attempt to catch up to Elon Musk’s car"
-    publishedDateTime: 2021-03-20T16:59:00Z
-    webUrl: "https://www.teslarati.com/tesla-full-self-driving-criticism/"
-    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-criticism/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-criticism/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2018/12/Tesla-Semi-red-wrap-122818-Derek-Rasina-2-300x225.jpg"
-        width: 300
-        height: 225
-        isCached: true
 
 secured: "61SHpwg3SNbm8s4VQxatp2i82yu0h1g/NhZCH2Vd+y+hApyyCSKi9bZkrDfeqhQvDkQTpomTcDYBz1aOriI0COavdtCea5A988KoRcQUn4q+DVAwRksuznx1V/jTE6imFQIur5ERvOiT8QPvwtl/EQWyC/lCvCDvx3UcrZ3gr9Mohe5xSHbXaYD2eJ7DjxiPEGxy7lu3SYDZwU9vBuv6rp85/61iW94sFdhwBrLhUYa4TXDgpZ5khDtjW0/ODfc9H5E2MOAblYNYrwgK5ZuXj0fJkAmIlIx5p/p2IghsLnjOOQv8ieLXr4SdsbNPmWC+R4CW06U7OCKiiqiQoNb9kX3odg+IKQYwcPmzgZ6wscw=;9ViS02ClmtTXACh/kBlDNg=="
 ---

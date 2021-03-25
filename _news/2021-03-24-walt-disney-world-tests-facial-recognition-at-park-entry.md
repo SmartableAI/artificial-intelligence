@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Walt Disney World tests facial recognition at park entry"
-excerpt: "Walt Disney World is testing a new technology that could match a ticket holder with their admission. WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission."
+excerpt: "WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission. The pilot program will be in testing for the next month. Participation is optional, but those who ..."
 publishedDateTime: 2021-03-24T01:21:00Z
-originalUrl: "https://www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-webUrl: "https://www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-ampWebUrl: "https://www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
-cdnAmpWebUrl: "https://www-wpxi-com.cdn.ampproject.org/c/s/www.wpxi.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+originalUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+webUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+ampWebUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WPXI
-  domain: wpxi.com
+  name: WSOC-TV
+  domain: wsoctv.com
 
 topics:
   - Computer Vision
@@ -282,6 +282,6 @@ related:
         height: 1082
         isCached: true
 
-secured: "0JB2RR9m3TnrUNTmcqrc3Y/7MZndrEBHsI098W9VZQrzhcH/BxxH6uIvGfpQFLiPNNxsmpRzgbkIIjYzijea5FcH1zIflJbn9PplZYBg+UMd6kioR63QrcV0aSagTY8CLl5S8UCdURAHh9DTa987Qx/Oy9OXpIm0YBBTFEPrwd8JvSH8DPKl2FmzHqe+Yb0wLeyV7MiRzvqUtduFtZTK/n+NQjklztGRzEULZUXYRafmYf2QclGl9cYJyWiZI1K0l6YkAdDLfmc5Vi+XIQH0x2hx8ixjhDXkO/B2xRyXS0yCVmNh7KBwHLievrBJPnWqwEH17SwI7IuUNvTo+7r+zcONpYfBIYipG5wfM013Ibc=;QWLHB17onTExmG0XvTu2EA=="
+secured: "3yZiL55FneqEcdX6/aAYhbeL5s/FnenN6MPnIQqJMO7xIK2MUAHgQzHhWW2cTps/Q27+ibaBeZDdAN7UyU3VJVzlrwFX1ZdJGCmLanbs65133lDePu9fx17c3Q90NyjlcZloE88/Yt77Cce4jnhuu3oq2YMiwwHVzQwwxBeLMaj5st9IC5nLp6tYDj2JFqMwroC1EZm1p+AMIGL9oMn4j3i2KjsRB8J06yIOn4Ma1OSA+dhH1KOuD+zmmtrYL7V47vys1QvpeXm9o048zyCiEUm6hgogeYa12wZRMAX+EJNYdC6lIoPSMSLXOSV6XvP8ewDk9j5ZfnSbaoMcmR0hKtlprMr8qK63i7K6IgZQM80=;FiNCL3a2CYbPZ0DK7E5L5w=="
 ---
 

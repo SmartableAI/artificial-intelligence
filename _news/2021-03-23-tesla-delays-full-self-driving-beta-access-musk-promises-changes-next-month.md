@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-ac
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_5.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Tesla navigates though more skepticism over its self-driving systems"
-    excerpt: "It is tough being Tesla. In a world where cars are becoming electric, just as the company initially intended when its mission began 18 years ago, Tesla is the top dog at the moment. Every car company in the world is nipping at its heels in an attempt to catch up to Elon Musk’s car"
-    publishedDateTime: 2021-03-20T16:59:00Z
-    webUrl: "https://www.teslarati.com/tesla-full-self-driving-criticism/"
-    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-criticism/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-criticism/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2018/12/Tesla-Semi-red-wrap-122818-Derek-Rasina-2-300x225.jpg"
-        width: 300
-        height: 225
         isCached: true
 
 secured: "W7LGpa/ktnb9lP9LeV2ClzddYPAXCForeljSvf+nROsXBRq8vxTe84pIsM/PxhzhAA29VBrGcPd5pH/PsFVjACF97BiLGH0++ZDapxIqrX/+XuIF0LXZgetFVMxVVCVcCNKtVtHkUQL2G+woKw+9fhS6V9rMensSYXeL6DgEkyverbAOEsQz1j3ys+tff26MKH9S6HaaJyk8NnS8MyxDpksSz/9yDq2u71YL+1+VbiGqrawYKEUZUBEs3ckgiXeoEAsCjNJYTjkce2Y8kLrr5zZsqKcZoDjl9UHD3H5bI5x74zE5MFPHRDYX/deRUriW04a2kwilh4exLN/dWrkz6Obz5Aim5veQtrEZTzXFwXI=;WbDcsCu93BtbyBl7/UeDNw=="
