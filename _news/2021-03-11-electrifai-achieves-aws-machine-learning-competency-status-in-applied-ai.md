@@ -1,25 +1,27 @@
 ---
 category: news
 title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-excerpt: "one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS ..."
-publishedDateTime: 2021-03-10T22:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-1030170557"
-webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-1030170557"
+excerpt: "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to ..."
+publishedDateTime: 2021-03-11T00:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
   - Machine Learning
 
-secured: "/jY+tDRQmntsPWKbcZShOcgQvL7M7+N2X2jnRbEG1G+QyrcW/M9MCXN/wA0D4UmYOrZ07E6sr1KCJqdynXOjLfTMbem9IQpDAWXBXRp75LNybFuuCN/qomnAglmGCpdTs9QgtZkiQqYWDCzhE0PoWxIVnO8dzwsXIBCtEfyj7EAIENaZeZX5R3cM2qoVGSS1fMW919ckDpKhRtdbEaivZeTDu2AAWzNR/nRJ/SaSFdE2SSZ3j6CLjTdO/vjZXBHgkvqJMGuvzloytDAuZzsfR8l23eIS+7o6nDiMpMmD360YJUb9iul+JW5gcdyiQZHyb/+6KTpI67MmOtNibsU6IVP3v5BYwAYMdTZkNmVZdMQ=;Il4Ai0WxSAQFSEU10Yubfg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
+
+secured: "RsdGObtKwOeXdzbRvmn/tsrDWY9R4hsX+/lz03D4bFLgcKkU4DkHc2W3HW7UWeLggwfhvc/vmtGpxgotcld63OkhCQH1726vv39VfgkLTIkvRdNuFK9SW8k/4f6km7uXIbqcfUFiYp3tm1nFrWlYtek1XtGQ00gSPp/OTuLGNJRaaGurolpGFBFk6WSwjJmZJ5ApBwyJf17TTQxq5epcxf5JZ4LDqolDT28kpxBWTnWYB4eUNVA50FIxrCFcQIziyLzWbtN+LZlPlVNn1VaauP2/KQSAIC0tWsowrjWEGvnI06hA11mzaMdT1wjfBF9UBn3Dq3N12X1eztIuu50egQUwXElj8cpLDsMZdKUOsWs=;x1ZJx4c7ElM3xpBQikOFiw=="
 ---
 

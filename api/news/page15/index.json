@@ -107,6 +107,85 @@
       ]
     },
     {
+      "path": "_news/2021-03-11-tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations.md",
+      "title": "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations",
+      "excerpt": "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations",
+      "originalUrl": "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T16:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
+      "title": "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI",
+      "excerpt": "Amazon SageMaker brings AI/ML capabilities that fit seamlessly into any AWS environment. ElectrifAi is designed to enhance Amazon SageMaker's capabilities by accelerating a client's time-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-watson-powered-robot-mans-concierge-position-at-hilton-hotel.md",
       "title": "Watson-powered robot mans concierge position at Hilton Hotel",
       "excerpt": "The service may be powered by IBM’s Watson, but it’s also delivered by ... but one thing’s clear: AI is getting plenty of attention these days. AlphaGo beat a top human player at GO for ...",
@@ -244,85 +323,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
-      "title": "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI",
-      "excerpt": "one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-1030170557",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-1030170557",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T14:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations.md",
-      "title": "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations",
-      "excerpt": "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations",
-      "originalUrl": "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T14:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {

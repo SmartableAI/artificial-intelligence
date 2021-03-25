@@ -1,45 +1,23 @@
 ---
 category: news
 title: "Regology partners with Archer® to Provide Regulatory Content and Intelligence Capabilities"
-excerpt: "Regology today announced a partnership with Archer®, a leader in the integrated risk management market, to deliver an API level integration between the companies’ platforms. The partnership is designed to make Artificial Intelligence based regulatory content and feed capabilities developed by Regology available to Archer customers."
-publishedDateTime: 2021-03-24T18:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-0a04f8298e274608b5e1a109fd0a194e"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-0a04f8298e274608b5e1a109fd0a194e"
+excerpt: "The partnership is designed to make Artificial Intelligence based regulatory content ... Regology covered industries include energy, financial services, healthcare, infrastructure, manufacturing, real estate, technology, telecommunications, transportation ..."
+publishedDateTime: 2021-03-24T23:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210324005840/en/Regology-partners-with-Archer®-to-Provide-Regulatory-Content-and-Intelligence-Capabilities"
+webUrl: "https://www.businesswire.com/news/home/20210324005840/en/Regology-partners-with-Archer®-to-Provide-Regulatory-Content-and-Intelligence-Capabilities"
 type: article
-quality: 14
-heat: -1
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Amazon Kendra adds new search connectors from AWS Partner, Perficient, to help customers search enterprise content faster"
-    excerpt: "Today, Amazon Kendra is making nine new search connectors available in the Amazon Kendra connector library developed by Perficient, an AWS Partner. These include search connectors for IBM Case Manager, Adobe Experience Manger, Atlassian Jira and Confluence, and many others. Improving the Enterprise Search"
-    publishedDateTime: 2021-03-24T16:16:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-kendra-adds-new-search-connectors-from-aws-partner-perficient-to-help-customers-search-enterprise-content-faster/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 64
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
-
-secured: "ldLuKt/HZv3RKGDu6pIntLO7aW1F+nq3Gcb7Z7c2DQbTv+CKqNkdmlo8YE0QBjkotvS5qg2TlCEcKFStv4Ikq/rOkjYrxU3UkTx9PFSZFiymNfZpApw+MkjXkZOFqSLK/YEhcYerb14aq8NMh1EiDe4QoKstN5zcQkGrgchRgs4kfDw5OXCtieOQyqSthcKEbuOS60QvzWSMQs32cmqtA4Y4OEi806JTWt/7F1Emi9+wOuZ/8Pg8IKXVtZmNFiJekyNVyXR6ojbjnBw7sJpDS2D26OFx4oF4HfW6gfvHDGHZq40wEMIejgH6UIynpCNZfG6PjAnsT7ozD0vzkhvx8aSGetp40QtcVDpTHoJizqw=;s68To628ZnmSXG5WERCyxA=="
+secured: "5Ds5OIDSPqmf9wcd8ZXsJBOsZ7MhdpMAO4RTeUWCH92iqgSPEWaS9OZUY9mW9LJjWm6btbnZb8jrK1EIDbyNDbEH1oKyu6GMlb5nIgOgr5XkvbV4uvOGxGAFY/HALdRjQ4j3MlYwkxx1Mf+lAKujzHJv81yqeN+lsEP5cTfUrJFeCC5euPzbi9LEwwwdSqSigShLd8WqYwe8DTY1Lf2luWrDcsIT0/D9DQHXYJa6RmppFoAM13RcEUj0w2cFsK04AxbLy7m5ffO9XnHOODdTTkx7r1vC7rJTDt6Q2M8v7P6kyOBDqP1V2LC7TSVdAANxNqrBRcmisbl+JBnkRB18fgUwDKuVN3eNQPsVOfXTZ6Y=;dAy6ocpN3vPJVetcbY19GA=="
 ---
 

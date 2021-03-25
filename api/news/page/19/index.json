@@ -2,26 +2,35 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2021-03-09-aiict-introduces-new-certified-artificial-intelligence-professional-course-developed-with-aws.md",
-      "title": "AIICT introduces new Certified Artificial Intelligence Professional course developed with AWS",
-      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML) professionals.",
+      "path": "_news/2021-03-09-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes.md",
+      "title": "Waymo says their autonomous-car AI would avoid fatal human crashes",
+      "excerpt": "Alphabet’s self-driving car unit Waymo is claiming that its artificial intelligence could have avoided or mitigated the majority of a set of fatal accidents. In a white paper published Monday ...",
       "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/",
-      "originalUrl": "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/",
+      "webUrl": "https://thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes",
+      "originalUrl": "https://thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/waymo_120518getty_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T16:49:00-08:00",
+      "ampWebUrl": "https://thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/542222-waymo-says-their-autonomous-car-ai-would-avoid-fatal-human-crashes?amp",
+      "publishedDateTime": "2021-03-08T16:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,7 +40,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Autos",
         "AI"
       ]
     },

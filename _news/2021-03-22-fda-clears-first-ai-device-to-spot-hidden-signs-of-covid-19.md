@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/fda-clears-first-ai-covid-19-screening-device-135131666.html"
 type: article
 quality: 87
-heat: 119
+heat: 117
 published: true
 
 provider:
