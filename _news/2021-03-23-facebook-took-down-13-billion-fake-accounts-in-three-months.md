@@ -59,6 +59,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "CMU, Oxford & Facebook Cross-Lingual Vision-Language Model Achieves New SOTA in Zero-Shot Setting"
+    excerpt: "A research team from CMU, Oxford and Facebook AI proposes a vision-language model that, when trained on a source language, can be applied to different languages without additional annotated training data."
+    publishedDateTime: 2021-03-24T16:50:00Z
+    webUrl: "https://syncedreview.com/2021/03/24/cmu-oxford-facebook-cross-lingual-vision-language-model-achieves-new-sota-in-zero-shot-setting/"
+    ampWebUrl: "https://syncedreview.com/2021/03/24/cmu-oxford-facebook-cross-lingual-vision-language-model-achieves-new-sota-in-zero-shot-setting/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/03/24/cmu-oxford-facebook-cross-lingual-vision-language-model-achieves-new-sota-in-zero-shot-setting/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 31
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/03/image-32-1.png?resize=950%2C334&ssl=1"
+        width: 950
+        height: 334
+        isCached: true
 
 secured: "aeRAiRPFuVqIneu3ZIMA5OuYfZHTi+4ze0i9WAOg4kc3CFnQEwVlAQ8qOybFKH0zvuLNHFk6oiCI/KaDVNvaZ1gko8mRz3vROGqqFKGcaQ1d8OXC4jcq0v2Anhbvo078cFqTFh51SsmYet+le7jL+TfsfqZ3tYBACYWBSVavqJjZH/aB0oFxw8WQg1qO9Tttj/er2SJkrbCA4ZSQz9+fJELDUp+6VEwWpO9UdVJIDW31uF8Y28yIom/ZKjH9jaD/IMmgkaZwQdSY0aEwDoChHC8sIi5ERrUKudwKuZA0Y2CBwlKg9syv/pJ015WLUwnu9wqg8nb/ja/GA/Gx0XQqyX2Vx2U8YdmOGwL1d09ask9UC2eFvzpKQsxBFczKk0cnL5zR+QloYYqY4slIlHpcPhxDmySkqytBc3iMLmLMkqEY2TusMkl4xgIfrw9Wz8hSUz7Zky3lAeQJMkn00KKWLDPzbTBKLYQVK9N2eoK8dJlcaquTxTbFUlZKV8ngtlsduXHp62B5WJVtiWE1XVMBLQ==;PQBWcD+unvMaT2JVsHOwyg=="
 ---

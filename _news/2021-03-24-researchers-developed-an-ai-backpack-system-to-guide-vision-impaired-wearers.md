@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Researchers design an AI-powered backpack for the visually impaired"
+    excerpt: "They used Intel’s Movidius computing chip because it was small and powerful enough to run advanced AI functions with low latency. The next step is to raise funds and expand testing. They hope to one day unleash an open-source, AI-based, visual-assistance ..."
+    publishedDateTime: 2021-03-25T17:10:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/03/25/innovations-ai-backpack-blind/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/03/25/innovations-ai-backpack-blind/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/03/25/innovations-ai-backpack-blind/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 59
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "6jOmc8vl9knQzJbYrDauG6ZzgWP3cnfIhW9qySdik3ADNmJ3dqfgKql8J0Dwq2Dx+TTyfx2BTdaW81cg29a0fFzUh/cD8+giENFuA/B7AR6MOZ7KHiahTu0IbFHsoXB90lZyE1vXBNX1nP42mQQjyxn6wx6gWXl9Jl7kHoHFVj8Jov2qL+Gl9qrFJAbYqaqe99O1hFrFKkvI4E5IS+TXEH175GeoWOg0WWcCkILyusvlH2YBtWCiy/aMDpRrLpr07LL/QjVZHcSmI4Jg6/h+3tq4uFG6zmvkrbGQKQmxDKhCCxP0PwAW2j5qqHKEd57mrz+BBHTVSRxEcjazzRroblguKTy9oiieFXTGvMAmSQUIZsYDemcnFFADq5mGqbXm2ZeyBQGXd80s7AbL/rYLZEAS3IyulegwqAQZLGN9ZIAkDT5dX8WRlsh2MVCOvuWPqc3fU64F9grv1T/LF+rgrTj+LnoH7cVWYNM9dQnfpViTEmQkFAaROL7sAyjrNglZe1MbLgMzx9sA2c+vSLe49w==;ct+bEPByJAZDj4a7evrtRA=="
 ---

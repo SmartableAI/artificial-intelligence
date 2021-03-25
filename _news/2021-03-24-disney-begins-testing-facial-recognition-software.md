@@ -9,7 +9,7 @@ ampWebUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-sof
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
 type: article
 quality: 59
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -186,6 +186,22 @@ related:
       - url: "https://media2.fdncms.com/orlando/imager/u/original/29016677/disney_world_-_entrance_sign_-_by_inkiboo-1000.jpg"
         width: 1000
         height: 584
+        isCached: true
+  - title: "Disney testing facial recognition technology for entry to Magic Kingdom in Walt Disney World"
+    excerpt: "Disney's Magic Kingdom theme park in Orlando is testing out facial recognition technology that converts a guest's face into a unique number ID that's linked to their admission ticket. On its ..."
+    publishedDateTime: 2021-03-25T16:18:00Z
+    webUrl: "https://abc7.com/travel/disney-testing-facial-recognition-technology-for-entry-to-walt-disney-world/10447573/"
+    ampWebUrl: "https://abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 48
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10446172_032421-kabc-4pm-disney-tech-vid.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Using nationalism to refocus facial recognition concerns in China"
     excerpt: "The violation of people’s biometric data privacy, as denounced by the TV show, has the public and industry watchers urging for a swifter legislative push."

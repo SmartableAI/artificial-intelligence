@@ -2,6 +2,40 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-03-02-ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection.md",
+      "title": "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection",
+      "excerpt": "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp",
+      "publishedDateTime": "2021-03-01T15:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-overlooked-c3ai-stock-looks-attractive-on-the-pullback.md",
       "title": "Overlooked C3.ai Stock Looks Attractive on the Pullback",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As I write this, C3.ai (NYSE:AI) stock has lost a third of its value in 12",
@@ -1163,60 +1197,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-way-beyond-alphazero-berkeley-and-google-work-shows-robotics-may-be-the-deepest-machine-learning-of-all.md",
-      "title": "Way beyond AlphaZero: Berkeley and Google work shows robotics may be the deepest machine learning of all",
-      "excerpt": "With no well-specified rewards and state transitions that take place in a myriad of ways, training a robot via reinforcement learning represents perhaps the most complex arena for machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/way-beyond-alphazero-berkeley-and-google-work-shows-robotics-may-be-the-deepest-machine-learning-of-all/",
-      "originalUrl": "https://www.zdnet.com/article/way-beyond-alphazero-berkeley-and-google-work-shows-robotics-may-be-the-deepest-machine-learning-of-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/01/26135994-0bce-49f3-b230-159d559ab89b/levine-et-al-2021-robot-grasping.png",
-          "width": 1602,
-          "height": 1450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/way-beyond-alphazero-berkeley-and-google-work-shows-robotics-may-be-the-deepest-machine-learning-of-all/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/way-beyond-alphazero-berkeley-and-google-work-shows-robotics-may-be-the-deepest-machine-learning-of-all/",
-      "publishedDateTime": "2021-03-01T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

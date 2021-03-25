@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-03-05-elon-musk-signals-big-update-for-full-self-driving.md",
+      "title": "Elon Musk Signals Big Update for ‘Full Self-Driving’",
+      "excerpt": "Elon Musk indicates that a major update to Full Self-Driving could arrive in April, and that FSD will be offered more widely. Full Self-Driving is expected to be offered by Tesla on a subscription ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoweek.com/news/technology/a35725519/elon-musk-updates-full-self-driving/",
+      "originalUrl": "https://www.autoweek.com/news/technology/a35725519/elon-musk-updates-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fsd2-1614871154.jpg?crop=1.00xw:0.893xh;0,0.107xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoweek.com/news/technology/amp35725519/elon-musk-updates-full-self-driving/",
+      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp35725519/elon-musk-updates-full-self-driving/",
+      "publishedDateTime": "2021-03-04T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoweek",
+        "domain": "autoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.md",
       "title": "Scientists seek to enhance artificial intelligence by integrating brain cells",
       "excerpt": "With a new grant from the U.S. Army, a team of scientists will seek to enhance artificial intelligence by integrating brain cells called astrocytes.",
@@ -1159,57 +1202,6 @@
         "AI Hardware",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights.md",
-      "title": "Intel assists NFL hopefuls with 3D athlete tracking and AI insights",
-      "excerpt": "A partnership with the human performance company EXOS aims to help college football stars hone their game ahead of the NFL draft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/",
-      "originalUrl": "https://www.techrepublic.com/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2015/09/08/cd03451e-854e-4c47-b1fc-da34eea51941/resize/1200x/0d7805f6515eedcf7ed954e3d8578047/bucs.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/",
-      "publishedDateTime": "2021-03-04T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

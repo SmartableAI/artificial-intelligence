@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-ac
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_5.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Self-driving Tesla crashes into Florida deputy’s cruiser; underage teen cited"
+    excerpt: "Two teens say they were not driving a Tesla in the wrong direction in Flagler County because it was on autopilot."
+    publishedDateTime: 2021-03-25T17:07:00Z
+    webUrl: "https://www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/"
+    ampWebUrl: "https://www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/?outputType=amp"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 56
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/2CBNPQGD4NAERJKYEET4FITK7E.PNG"
+        width: 945
+        height: 531
         isCached: true
 
 secured: "W7LGpa/ktnb9lP9LeV2ClzddYPAXCForeljSvf+nROsXBRq8vxTe84pIsM/PxhzhAA29VBrGcPd5pH/PsFVjACF97BiLGH0++ZDapxIqrX/+XuIF0LXZgetFVMxVVCVcCNKtVtHkUQL2G+woKw+9fhS6V9rMensSYXeL6DgEkyverbAOEsQz1j3ys+tff26MKH9S6HaaJyk8NnS8MyxDpksSz/9yDq2u71YL+1+VbiGqrawYKEUZUBEs3ckgiXeoEAsCjNJYTjkce2Y8kLrr5zZsqKcZoDjl9UHD3H5bI5x74zE5MFPHRDYX/deRUriW04a2kwilh4exLN/dWrkz6Obz5Aim5veQtrEZTzXFwXI=;WbDcsCu93BtbyBl7/UeDNw=="

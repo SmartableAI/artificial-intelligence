@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-lea
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.amp.html"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

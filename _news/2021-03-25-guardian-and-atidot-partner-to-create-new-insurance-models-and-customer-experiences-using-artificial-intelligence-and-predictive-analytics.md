@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
-excerpt: "The collaboration is focused on creating a platform that deploys artificial intelligence and machine learning to power data driven decision-making that helps make insurance products and services easier for consumers to understand and buy. “Guardian and ..."
-publishedDateTime: 2021-03-25T15:08:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-insurance-industry-financial-services-life-insurance-providers-3041166b36706f01eff5ac6dfc68d873"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-insurance-industry-financial-services-life-insurance-providers-3041166b36706f01eff5ac6dfc68d873"
+excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"
+publishedDateTime: 2021-03-25T15:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/guardian-and-atidot-partner-to-create-new-insurance-models-and-customer-experiences-using-artificial-intelligence/article_cd0a9935-7170-55a5-b422-8e6111b3f4be.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/guardian-and-atidot-partner-to-create-new-insurance-models-and-customer-experiences-using-artificial-intelligence/article_cd0a9935-7170-55a5-b422-8e6111b3f4be.html"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/56/256551aa-52cd-54e4-9cea-205d8acc2b6b/605ca61c95499.image.jpg"
+    width: 1000
+    height: 1000
     isCached: true
 
 related:
@@ -101,6 +101,6 @@ related:
       domain: ansa.it
     quality: 30
 
-secured: "KzPZ+Gm4B6I0GtsUd+4dHSuzURcPfmGBmHRFuF/UDIIDftLXYy6bfOLGkvfN48nHyLlybG+X4Hmhc4i2YXbVBzhGI3wqX6EvV3Xwi6/Nxfk5pRrKZvgTgukR+po+EqARcZ0y2drUkUP9RBdW4i21N9lGrLY/Ley080PFkNhZ39eLIx+TtlefgegNAiyMLWmNUzU5ZT4UjFXD4Re3jwwK7saN03tlGTnhhzk/GWEFhfxJZimmcyDBIMY9j3wb7MwX/IuZw1XpGK55QIgbin9RBfsIs5aiRBbmnr82l5j+T6d72cu0MRTaUliUS3AWPxKN/eDVxWW0oNS2+XrEZf4D3jZVMj1D//hRzQVFWd8+rlQ=;rdjcefKMroQABgFiNFtE5Q=="
+secured: "vF+eP3WyavMjJ2M9ocmO4qPKwm69dBSdZF0VpvpQeQaSNwtm+PSmWKTZBwaE5mr38Rb5OcgweDEc3Oqo5pzHQi5zZe4uDNiGTWCV5vvnymDrZEkqXdZeDkA/KUqDSm1Oij+IyLRK3OXisqyN18UXJV4OIE5dUT5d1AoiaHzBQpsLlNdgoTRqRAKaku5O3Ccg0eLGheWK7894v1WzIaxtE5nwd2+es4IjwuSj8Ohpwhzo8LDPaj/m6+8GdW/fSMdJ71Zq+f6iiUqppHVBTBcWwKcHcS0ouMAsKPwZe+q/GgUgAcAgprUuyJ8ezTPoynhTinUINDwhYBdc/zkEFnQ63n+f+tx0SSngBJ2ujfJzLek=;UU3LHmQ79bhLhv9pahaJig=="
 ---
 

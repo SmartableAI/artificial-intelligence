@@ -201,6 +201,22 @@ related:
         width: 1000
         height: 584
         isCached: true
+  - title: "Disney testing facial recognition technology for entry to Magic Kingdom in Walt Disney World"
+    excerpt: "Disney's Magic Kingdom theme park in Orlando is testing out facial recognition technology that converts a guest's face into a unique number ID that's linked to their admission ticket. On its ..."
+    publishedDateTime: 2021-03-25T16:18:00Z
+    webUrl: "https://abc7.com/travel/disney-testing-facial-recognition-technology-for-entry-to-walt-disney-world/10447573/"
+    ampWebUrl: "https://abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
+    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
+    type: article
+    provider:
+      name: ABC7
+      domain: abc7.com
+    quality: 48
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10446172_032421-kabc-4pm-disney-tech-vid.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Using nationalism to refocus facial recognition concerns in China"
     excerpt: "The violation of people’s biometric data privacy, as denounced by the TV show, has the public and industry watchers urging for a swifter legislative push."
     publishedDateTime: 2021-03-22T17:55:00Z
@@ -328,6 +344,6 @@ related:
         height: 1082
         isCached: true
 
-secured: "uTOe1lEsMvjGj0z/4ZwuK1cU9QITZogRlgTmEcyLP6BFs3Ipwl3kLKUXrgDayLM/ESoKSp7kXhHn3NxxZOoUCM08TW7Rtg3BpWFDn5c5ooe1nSfr0kZlf6sVagFZj8p1kiqNoQWPClRTnYhrYo5eb5JASr/D0sKhatpfkLRh99VBCec3FagJqkL50BGsj8F3758VXopKYplReRBTq5QDpdlnoRr18+1oDtLs2mnAoS6Xf80DDXosf67YA+nV//LIjWT7gql/AhjIWXISulyu2LNHKBT6qlBDHw08SfnhCqvuy173z1Er5xBFDxG1KQlu3EyEZT9tQtRp7PbUwg3BveCZIpsJcVlwpWp5vPAVyY0=;EBS8QJB9TRlXTW5NLISDAQ=="
+secured: "mhdtn6X4qUpMLnxSStB3HSThzSwLQLeFiimgDDPm1bIjrkejio4PK4Mq2ErRmUS79beNPZ93jfkoSYM8kcHxjT8kAextSVB+M2QNplZLGJZNrb/iup80EbYMyX6M9xJ0XQiHlAqwlHB9+wf2OAD5Bq5lIkC1/sxxuxjd37ua2dy2JfAo7+hmEDO0QOkhEhSada0zjeCdJDXC93XPvLbZvjj25JIAYPU+pgljBaDcGQ1uKvp1xhQxwTllCc03/UKujrphw+PJeU8xpg+aOLLU2mN0FPliu6m7HpgcQDNQamB+zojn5qk0xrquuP1dIYqbfg8Mz1uYam+H+jtEY4rLYkZiCkGEU6b9Gufw0i5MCOWDJsnfdP1w0Z3ktfhAS0wr5t9+FFHTtLuLvuBDE3Nz7kCwNH/aI2TzI5d6UUNiUDnz1b9BG3Zw0lDphbv1i77p/JM1S00OVsaK33soW5tUSRNfzAfiDI0/PEGffGtvigCSC/BYK2txG0GODlIHisdUCvQGLNpbmgeody7iwz7cqQ==;Guz/rQT/73rF/veBQGZ45g=="
 ---
 

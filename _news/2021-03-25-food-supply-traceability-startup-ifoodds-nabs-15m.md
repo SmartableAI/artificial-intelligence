@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/24/food-supply-traceability-startup-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/24/food-supply-traceability-startup-ifoodds-nabs-15m/amp/"
 type: article
 quality: 72
-heat: 83
+heat: 84
 published: true
 
 provider:

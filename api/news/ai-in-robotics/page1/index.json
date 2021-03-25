@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-25-logistics-firm-cargo-cove-jumps-on-automation-trend-adds-invia-robotics-solutions.md",
+      "title": "Logistics firm Cargo Cove jumps on automation trend, adds inVia Robotics solutions",
+      "excerpt": "Cargo Cove is the latest logistics company to move toward automation in its warehouse, adding AI-powered software and eventually autonomous robots to its Jacksonville facility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/logistics-firm-cargo-cove-jumps-on-automation-trend-adds-invia-robotics-solutions",
+      "originalUrl": "https://www.freightwaves.com/news/logistics-firm-cargo-cove-jumps-on-automation-trend-adds-invia-robotics-solutions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/03/inVia-Robotics-cropped.jpg",
+          "width": 1387,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/logistics-firm-cargo-cove-jumps-on-automation-trend-adds-invia-robotics-solutions/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/logistics-firm-cargo-cove-jumps-on-automation-trend-adds-invia-robotics-solutions/amp",
+      "publishedDateTime": "2021-03-25T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-the-latest-artist-selling-nfts-its-a-robot.md",
       "title": "The Latest Artist Selling NFTs? It’s a Robot.",
       "excerpt": "An artwork that sold for nearly $700,000 was the latest in the frenzied market for digital art — and possibly the first created in part by a non-human.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.nytimes.com/2021/03/25/arts/sophia-robot-nft.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1333,49 +1376,6 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-university-housing-ford-robotics-lab.md",
-      "title": "University housing Ford robotics lab",
-      "excerpt": "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheet",
-      "sourceUrl": null,
-      "webUrl": "https://www.journalgazette.net/business/20210317/university-housing-ford-robotics-lab",
-      "originalUrl": "https://www.journalgazette.net/business/20210317/university-housing-ford-robotics-lab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210317/ARTICLE/303179982/AR/0/AR-303179982.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Journal Gazette",
-        "domain": "journalgazette.net",
         "images": null,
         "publishers": null,
         "authors": null

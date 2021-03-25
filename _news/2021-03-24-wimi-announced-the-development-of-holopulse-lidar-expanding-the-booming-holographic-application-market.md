@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Lidar + AI vision - WIMI Hologram Cloud, Apple and Sony's Ambition in Unmanned Driving Solutions"
+    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report \"Lidar + AI vision - WIMI"
+    publishedDateTime: 2021-03-25T16:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20343159/lidar-ai-vision-wimi-hologram-cloud-apple-and-sonys-ambition-in-unmanned-driving-solutions"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20343159"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20343159"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 26
   - title: "WIMI Announced the Development of 'HoloPulse LiDAR', Expanding the Booming Holographic Application Market"
     excerpt: "MobiusTrend, the fintech market research organization, recently released a research report \"WIMI Announced the Development"
     publishedDateTime: 2021-03-23T16:01:00Z

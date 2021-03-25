@@ -2,21 +2,25 @@
 category: news
 title: "Baidu’s AI chip unit Kunlun completes new funding, at $2 bln valuation- source"
 excerpt: "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion."
-publishedDateTime: 2021-03-15T05:32:00Z
-originalUrl: "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15"
-webUrl: "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15"
-ampWebUrl: "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15?amp"
+publishedDateTime: 2021-03-15T03:42:00Z
+originalUrl: "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY"
+webUrl: "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2LD1CY"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2LD1CY"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "TCsH1vOLtnJ67/GZK/Ilw87H/LTnarK/B9vs/VGoWErFp2gaDwlIx3nGMdwS/ZW3udrz2MRCtNt3Zx/DJNOzomj0rGAXOEqGWyA4SgO4fEUIl0XV44zjbYx/e+0biMqzISNlVhBmZNwQ7ts3AtUqta46NjWrloW4RRMKmvpYTVUOJT+B1ijMFcQMi7d4//ZjlPiWWLU2q6bJKqHDIDT1sZBcAM7TJU5+BbMJUEp2+Iwi+2vAsjc02QWhHpx1kjtWF15QAH2El+xmPYxcLV5v5Nq/lMKMXPJjQAHM3UG+7JXAYLPEcMQaoX0j++u1JGmkBS92nuwm1AJhYOQZkx2jjnK3QfGhosUvrsypshXjl73j1pBqv1EystqgX3NGBiDxzbdkqQhlHDKzg4GLf5r8F+Hv9e1izYAU1aBlNyLE/LLVorWyBHYTAlaeb3JYrBDIS7JcH/vh2n9gIISSMJnIpQBPW4fe4Bj/PH4es9YNhXuGZDGqJ123+J2ApiK7Ipsvv8hfXdCGmpvdYUVfwwMHPQ==;ATPn+6tgbt6ApdktZ0stMg=="
+secured: "e57Lwf+OrHdwmDYWAFaQsXKACa/8vM0i2eA3LQu4ppRIm/TUZTk36vzOxmki5zx1js/8G0l9i+lnxUBNI7De/5UhZclFVkmok0LOz6jL6BALtz5h19qhYqM3zgz6UcMnyenzmMaRtkLpfvh/oXCyEu1b1hQ6bp1CL+iTc0/DL2/uSIP7E0B3r4OotZP3gBHevEoPp+qdFlnRqcDX25h9JpBRa//0JLhRGapE4t2RZmEOxJY0j63hHYq1fC0ys7TOJiDFj6yjpxi07fSOG37kV3ZslzGJvDjRNNgIbbddVamOz1ly7ctztTsJez2A5dFB+7saQzHZtbM+wBore2n9TN8/PnHRVG5Aj51T11Ikj4k=;KQuf0Jps7abXBKlOX2ENnA=="
 ---
 

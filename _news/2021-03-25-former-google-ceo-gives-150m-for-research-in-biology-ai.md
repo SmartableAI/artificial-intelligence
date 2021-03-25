@@ -1,31 +1,30 @@
 ---
 category: news
 title: "Former Google CEO gives $150M for research in biology, AI"
-excerpt: "(AP Photo/Susan Walsh) Former Google CEO Eric Schmidt and his wife, Wendy, have given $150 million to a research institute to establish ... WASHINGTON (AP) — The CEOs of social media giants Facebook, Twitter and Google face a new grilling by Congress ..."
-publishedDateTime: 2021-03-25T13:34:00Z
-originalUrl: "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/"
-webUrl: "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/"
-ampWebUrl: "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/"
-cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/"
+excerpt: "Former Google CEO Eric Schmidt and his wife, Wendy, have given $150 million to a research institute to establish a “new era of biology” aimed at battling diseases with a mix of data and life science studies."
+publishedDateTime: 2021-03-25T13:33:00Z
+originalUrl: "https://www.chron.com/news/article/Former-Google-CEO-gives-150M-for-research-in-16052237.php"
+webUrl: "https://www.chron.com/news/article/Former-Google-CEO-gives-150M-for-research-in-16052237.php"
+ampWebUrl: "https://www.chron.com/news/amp/Former-Google-CEO-gives-150M-for-research-in-16052237.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Former-Google-CEO-gives-150M-for-research-in-16052237.php"
 type: article
-quality: 59
-heat: 59
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Everything Lubbock
-  domain: everythinglubbock.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/03/8adcfd4080564d8c8922b92c2e69196e.jpg?w=1280"
-    width: 1280
-    height: 853
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "h+3w2M5Dnk7i3W8Lnc9lCKCu13MUttQgrSVIyBARdLgmtisn7xo+6vLe6P9b4Qtg1kxeZ+hjJgDl8g/Th9ORnmloANUt20dnuI93y5qG3RmrFd5OdDqhrcPt/ZFO7JWC52jFpigsr8FTRmqKevhyS3vJdGb7GdFQtq89JOM823b8myikyGXp7Bw0HWFRBslebDe1XLFTGJFt6n1atH78UkOVNRKpl47xSc4W0gYX66xzXBQNY/VSmz5torH4oGoD01dBFx657/32PNjwAzTgccji9bJeOvBD/OJfZRd4uD3jAC13UajUsqeb0/yOTM9Ft3j3CJ/sq9fPV9yfzF8xfM4q0TlA2QVti3SLzSfvBU0=;u6I1mmfdiqmeMP1+QMa+fw=="
+secured: "3KyDCsM6eO9H82jVZFMRlU0wJ4c/ECm5oMoeWtGvFThOf9hbM3cAbozh3yLzPVV9MwhVElpKX49yM/+tA9DfFLczvO2vCV3z1Lw+bCqRd5DdaRIdVG6D/G9P3eO/nf1xoJHw0y72qfUKWbriY1R0E45opGdLt+oftR7TABHkC2noCkn8e+FfEV3dXYPjS1E4DG0D12xURFooNjbZhhcZMJPNOlb0YYWeL5tPWHq8PQQWmutb0A8i/QmsA6m3YMHAvshYu+Yo6KYzVJZ/FS5PMqQ/Lnm18KHI64/NUcWfwtx06gskNtcqRNZTN/q+f1WhdqgK/rXcJ89+FwqQ9Ga57roqDAi1ObOZNhcT8rY4WDc=;sbfZ/TBINchfQ2UIQtTNng=="
 ---
 

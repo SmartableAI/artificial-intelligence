@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Kongsberg Geospatial and Sentient Vision Systems partner to integrate Artificial Intelligence sensor analysis capabilities for UAS operators"
-excerpt: "Kongsberg Geospatial, developer of the TerraLens Geospatial SDK, announced today that it has partnered with Sentient Vision Systems to enable real-time analysis of"
-publishedDateTime: 2021-03-25T12:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kongsberg-geospatial-and-sentient-vision-systems-partner-to-integrate-artificial-intelligence-sensor-analysis-capabilities-for/article_015421dd-a307-5dc9-a16c-f7d06c2383fa.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kongsberg-geospatial-and-sentient-vision-systems-partner-to-integrate-artificial-intelligence-sensor-analysis-capabilities-for/article_015421dd-a307-5dc9-a16c-f7d06c2383fa.html"
+excerpt: "enabled computer vision system that provides automated object detection. Kongsberg MIDAStm (Modular ISR Data Analysis and Storage) provides a simple, powerful tool for reviewing and comparing real-time, near real-time and historical sensor data ..."
+publishedDateTime: 2021-03-25T13:04:00Z
+originalUrl: "https://www.lelezard.com/en/news-19717482.html"
+webUrl: "https://www.lelezard.com/en/news-19717482.html"
 type: article
-quality: 2
-heat: 2
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "7Cova3LfhTuAcQaZIIxwQQTF+o4vRlPJqsin509Ef9KniYVG9u9sCiyzC6oUpl4HkX3KoZpMrrvNMKTUG9Apb64faKWs4lgSihakvrfolFYT1zsYWLKv3Upa6bk6lqoV10TSckOOuE/gx8f+T9MPQ2OcL99W2LmBLp2jBF7kJIlRw7qiVKo+VFF3V69lF8ch/6exU8dUnqio0AcYmhhvN63Ign61wkh0cd2VVsN+s4vRhOpuzFR47MJpPn+l1gQdjPoNk7v+OCTnqKDx0gtpdCfEB+C5IHdRfhJVmJdNcV879vi8cSg74JmIWzuYdeRy0k6dPCc79WrLKHZ9Bgl3q9WfX8eqOKIlFcRiV+8CTZU=;N6Q8oHSfHRRbqht3wJnqzg=="
+secured: "9PIy66gUTJvMJ5N6zU7B/5wb+nPSvqnoTPpBHY6FLLhy3G164z3sLNjOsZOA+QAW6yu4jItbvz/dsRRL6OgcGFqINHkjoT4tnUATSLuQ0lNh3jYkMptgPTtelZGACF8bDxglbuSX+DgJZVfRXjcuRioVPF444txVDescYmTVKvRbH+17gzWLKtFMvcXSCzLmdVla6lSPJ5bjsMAYj4G98tqiYr5w+JU358WrRld704df1Z9Ylvkt0F1bGk7qKUpOK9ZIwN7MBGt0+mpqepqAczxLDbiOL9YJLTzbA1a5XBC2jPNmq+/JqLgRQNG9TSOYQlzEGFvBpUfgFmebk+tllZUX+6vc6EQugpUhhu0EvsM=;7jtoWPq3JEPQcOVEFSecjA=="
 ---
 

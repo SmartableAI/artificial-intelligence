@@ -92,18 +92,18 @@ related:
       domain: ansa.it
     quality: 30
   - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
-    excerpt: "The collaboration is focused on creating a platform that deploys artificial intelligence and machine learning to power data driven decision-making that helps make insurance products and services easier for consumers to understand and buy. “Guardian and ..."
-    publishedDateTime: 2021-03-25T15:08:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-insurance-industry-financial-services-life-insurance-providers-3041166b36706f01eff5ac6dfc68d873"
+    excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"
+    publishedDateTime: 2021-03-25T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/guardian-and-atidot-partner-to-create-new-insurance-models-and-customer-experiences-using-artificial-intelligence/article_cd0a9935-7170-55a5-b422-8e6111b3f4be.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 3
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/56/256551aa-52cd-54e4-9cea-205d8acc2b6b/605ca61c95499.image.jpg"
+        width: 1000
+        height: 1000
         isCached: true
 
 secured: "Dl34sodFiPQge96oj9KRtHxNacNiCFGmVwxAwO0XssUKpdL2OqOAHPwbt/eKiKPxLOyozo/xj6/FYyntwIkSatDYplEpy+1EnSBP01HmKDAymVw9Pe8bDM8Sh0a6JaUpwVIaotC+d2TqbzHDAcBS/GDu4ozUZc/WQrYGIpBBB/JvfC71X0kYSaE6HLPIX3XjC9TI1VQd4drQ2EWUjMrhp64JB7QTwhTnlHo8GshHUIuvZ//53vin2ITnG6lNER2kt5xwziur2d4Ma4WQlhCLA6qZmF3wyAybJG/FlMZodccA2RMX7IWRgv0+Qf7q2kJYdF2p/GTEL5+YG856yxFvmXhzxs+Q6MUCqAzKHQt5KRkQSu+wdjdsIykeM+SjibVN6HEmRcEtfS7qHCiAJDjv+IfdixqKZf7sw45LuDMi2zMxkzOUPI0aS9IWrDbBkayY5RLPCeqB2jh52MTP5GeEhMB1+J/CldfsNkTtqWyhLPO+dU0QjYEpjXw5wvF8bVs6UwqvVTUJtZ3D9quTdInZqQ==;EdicZi98YtaTy97la/B/bw=="

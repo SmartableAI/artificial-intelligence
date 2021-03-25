@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "ZZL2buTqY8cJiBrPCQ77GmICeSN0yvuO1EJ7BPHc2ORE3UUd/eijej/sVtnbmHTPayVW3h8yPj2OTRXJFQAr4A3/GUvKAaHoqs5ZSF3akr+BwfxkkR/Toszo1RB9NqtfAM9s9JXlrC5jQjb+Q9OObAdjea1KotRHe4UsGsDgqinn8E3x24l6wj2RKziX1zfgdU9gc7OeNMFrgf47FaIiWaQVeGL5aEtyhYtgcRrUvR7jDCGeKC+ZVOocjBfX5tyL1TAhmSAckJJ8ohqntOT8N3SRxrjR7G1SYH5k+Se+K0emQxLk4Ph7faoFNqtg0CpS6fLWjJKTVoZupFQsC+d/rm63MZkREclSQx1pajvAJ3U=;Yi4Lh0ozrcDmZJ1/WOVLNA=="
+secured: "OWrh7h1wegBymzt23kCtUqcSSIBdi3Khnh27Uo9ClHnD7p0DXLLwtg0+cNZgTyafqh8IMrG8qirAQ8v7vxCS//pHD8wV74mfmyeDj/P1Z/ZVyzU5UIUFHwsaq9U+aEo4fV9fDqr6czgP4nU1nMhxwii2rkhEMPZLjLtrI0XC/kScqffW3pGdVQ7WV6MuMCgO4fxdhmXx59gb/mEPkPxBKGcFp837RfRPdOlwMOLTIG21pUe4sFjDq/a1ePW+6cGP2RPn/MV6Fe8g55JC532rK++0guGiTv73knSQKFmwaeCstcB7SfEx6+Pi/Ie9pnsu9mAcVWWtwr267An+NSw1OkCPGBjDL0hggyIcqbdOEv4MshXUUGViR5adLDNnAvgJBp1WZRZQEikbxqpP/4RsERTQvZu3JCka8X650DsRhI8YbhEDLiSR62stBgGP9X4bVPpcvGvyJTUmvqKb5Pa3N+u4xq4oGql2bJ2SbHOZk4qt6YWK8Ffeyidx1hMw+qKjtz0EE4ZQ6qQiycFV3bL5gg==;izmdoL0xeqJITqyOiO/n3g=="
 ---
 
