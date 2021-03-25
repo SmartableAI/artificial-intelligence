@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Diana Shapiro Joins Dynam.AI Senior Management Team as Chief Revenue Officer"
-excerpt: "Ms. Shapiro joins the Dynam.AI team with over 25 years of executive leadership experience in novel CleanTech, FinTech, and MedTech companies. She will lead the Dynam.AI business development, strategic partnerships, and marketing efforts to expand market ..."
-publishedDateTime: 2021-03-25T13:06:00Z
-originalUrl: "https://www.lelezard.com/en/news-19717532.html"
-webUrl: "https://www.lelezard.com/en/news-19717532.html"
+excerpt: "Dynam.AI, the AI solutions leader for complex computer vision and machine learning challenges, announced that Diana Shapiro"
+publishedDateTime: 2021-03-25T12:35:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/n20337296/diana-shapiro-joins-dynam-ai-senior-management-team-as-chief-revenue-officer"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/n20337296/diana-shapiro-joins-dynam-ai-senior-management-team-as-chief-revenue-officer"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20337296"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20337296"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "3pCM/tm+mKSdNW3ouduBKf+Wzy9GLvjlDiRWi94Z3tdbmvnzhwllHYTAE2q5vtTr7NnDZ25b5YvgREU//ezW0uVjI8JI/Gd32c8vLGc2mRGx98Dt8mLg+lLXr0pqD3vXyLfzkkx+KhzH3Tw6gygtWTkCshg87q5N0uthIGswj8wEm8EAhVH+X6OQlxu5T9bjqGpgRbIvTqOCIq9KAO39VYY/pfsbMZa03TlvB/eBO9FNGHGD8wsd5SlJzAkTbGyUhxPC6H0WRbo2UynEuctCU+CwKl6TCgYFwtT+rFGaOU2pu6hF8cRw6CvmLiafcNzNukHlfgLPbs9eAzivLTiKeUMGw+B9cnM8hlmqwj5eIKM=;klbNBRfEzFZCe9HQNC9/mg=="
+secured: "raWN4ky27ffsubFW6Q2mGmaE/dP2h9EhKzYLnu9m5/v/2QUMoM74eRNmjhZELONXaXRTtarDC78oBB+c5mDM/1MLE/nMWBUiwO1NMjd5AyqaLT7Y0qXTB+sJn3XSaIZR0Kt8BrvoxdSmnm+m69mIg2hr6eXSmPhjrwc7bPQTpOgtGx0J7dlbBnT3FRUFWEmeOmN4tLUeymJes5pSFi89CJFgO/hmAWeryHF8c17CViV3jxzAYphFcAHbqIFCPAIvrcOk9x80g+xxYhpbClr5s8H45kdncUDJLNX4h/R+bovngmOl/Uh3GJy6H5Q3Laqui4s8exyQlWPWTIvAKN6Fj1QdvHErfdLbPCrJhAmD3BQ=;xGELkGKowC7YVzfITyidyQ=="
 ---
 

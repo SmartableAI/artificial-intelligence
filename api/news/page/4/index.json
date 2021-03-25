@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-23-create-forecasting-systems-faster-with-automated-workflows-and-notifications-in-amazon-forecast.md",
+      "title": "Create forecasting systems faster with automated workflows and notifications in Amazon Forecast",
+      "excerpt": "You can now enable notifications for workflow status changes while using Amazon Forecast, allowing you to work seamlessly without the disruption of having to check if a particular workflow has completed. Additionally, you can now automate workflows through the notifications to increase work efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/set-notifications-and-automate-workflows-for-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/set-notifications-and-automate-workflows-for-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/22/1-2571Architecture.jpg",
+          "width": 700,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T17:06:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-philadelphias-robotics-industry-ripe-for-stem-students.md",
+      "title": "Philadelphia’s Robotics Industry Ripe for STEM Students",
+      "excerpt": "Robot makers in Philadelphia say their biggest challenge is a shortage of skilled labor, and students who finish trade school, an apprenticeship or a two-year program can qualify for jobs starting at $62,",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html",
+      "originalUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_483185803.jpg",
+          "width": 968,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP",
+      "publishedDateTime": "2021-03-22T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-researchers-are-helping-artificial-intelligence-understand-fairness.md",
       "title": "Researchers are helping artificial intelligence understand fairness",
       "excerpt": "\"What is fair?\" feels like a rhetorical question. But for Michigan State University's Pang-Ning Tan, it's a question that demands an answer as artificial intelligence systems play a growing role in deciding who gets proper health care,",
@@ -302,7 +397,7 @@
       "originalUrl": "https://www.zdnet.com/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -342,7 +437,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1119,92 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-hong-kong-forum-of-artificial-intelligence-and-robotics-promotes-development-of-smart-industries-in-hong-kong-and-greater-bay-area.md",
-      "title": "Hong Kong Forum of Artificial Intelligence and Robotics Promotes Development of Smart Industries in Hong Kong and Greater Bay Area",
-      "excerpt": "The Hong Kong Productivity Council (HKPC) , with the funding support of the Innovation and Technology Fund of the HKSAR Government, joined hands with the Hong Kong Society",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries",
-      "originalUrl": "https://www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2021/hkpc-photo1_0.jpg?itok=FEiPwyTP",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/hong-kong-forum-artificial-intelligence-and-robotics-promotes-development-smart-industries?amp",
-      "publishedDateTime": "2021-03-22T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-shell-taps-accenture-ripjar-to-transform-risk-screening-by-applying-ai.md",
-      "title": "Shell Taps Accenture, Ripjar to Transform Risk Screening by Applying AI",
-      "excerpt": "The multiyear deal builds on Accenture Ventures’ investment in Ripjar and a strategic alliance formed in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074",
-      "originalUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
-          "width": 605,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074?amp",
-      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/shell-taps-accenture-ripjar-transform-risk-screening-applying-ai-193074?amp",
-      "publishedDateTime": "2021-03-22T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hart Energy",
-        "domain": "hartenergy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

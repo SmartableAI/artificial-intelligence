@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Chipotle Invests in Self-Driving Cars"
+    excerpt: "In February 2020, Nuro was the first to obtain a U.S. Department of Transportation exemption, and in April 2020, it became the second self-driving car company to receive a driverless testing permit in California. In October, Nuro started testing its ..."
+    publishedDateTime: 2021-03-25T14:05:00Z
+    webUrl: "https://www.qsrmagazine.com/fast-casual/chipotle-invests-self-driving-cars"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2020-11/Chipotledigital.jpg?itok=7mOnuKZ1"
+        width: 765
+        height: 446
         isCached: true
 
 secured: "H6zZRG2xc/cXok7KiqA+P6SvYxivdLAAgxIaflvMTyOVZOIiX98O2DAoHBmT0wjtGq35YaEJ1tnroZ+a0Bu8Ncj6kUjSkPT6KULaTcaDTt1NnHmn/fN5vosk0sWhhJoirHMkN6FQhST2JcB6Gh6Xes6ykwO/pjdjPtIamVosbaelzP/LpjwWUjxyh/dwAxVhb2YG0LH6w9u8imDl+LvIh2WCBKRKk67uzveGpNDbQ6aZNN1ijRO5LRlgYHm1k7rJ7+ca6rwktyT2E+8SBdI6LuazmMqMJQVv1B1xGhzGbD7+r6mgHpvo7HXaAHo1RKyhsddqBArViwitjIcy+c84Epvc5BN1FUWPrkHMdk+p7AmU5kUI+s2P0gnY10sHN5zM0fKuxo+hJ6BCZjHPbE6fDfm2fL4yWdQcLAW7Hg3MJtevmtVlw2/+ncVEhd9uGwF3SCT5VLU+pAhpieYr6ccFNWDxre8m5PMAZ5450gz0jV61tOZkGC8vTM6AWNobilKFpLeFTKF/3jmoIqfAF2iPZg==;YNuhXqtYnQJcQDzl1hVQdg=="

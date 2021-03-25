@@ -9,7 +9,7 @@ ampWebUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-sof
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
 type: article
 quality: 59
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -312,6 +312,20 @@ related:
       - url: "https://www.news4jax.com/resizer/BtPICis_G5utxvooDoLkEAeRFxs=/1600x1082/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/NXPJ2OZZJZE6JKHB3OTJT2FP54.jpg"
         width: 1600
         height: 1082
+        isCached: true
+  - title: "Disney tests facial-recognition technology at Magic Kingdom"
+    excerpt: "Disney is testing out new facial-recognition technology at its Magic Kingdom Park in Florida. The company says it's continuing to look for ways to make the park safer, with a focus on touchless experiences."
+    publishedDateTime: 2021-03-25T15:21:00Z
+    webUrl: "https://westchester.news12.com/disney-tests-facial-recognition-technology-at-magic-kingdom"
+    type: article
+    provider:
+      name: News 12 New Jersey
+      domain: news12.com
+    quality: 24
+    images:
+      - url: "https://img.chdrstatic.com/media/6845aea1-04fa-4c99-85f0-de109fa097a7.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "/e4aBMqfJlj8oHP4m/QtBhcTysj4ETHKLohjaoEhqAw2Cz7c9SNozhC2S6yVeeCwC+YrvV53eJUQSJ9ipQ7hr/ZqdW7da4DWjSc+QmYfVvY9NT56DddXIQM6rVjDRNwSEscoPynoWsAjr5mXkuzH8eyNq2jzFaHIbGIET9m+sqPKpedeY8nQE76/DvSH8kJtsmi/fglzkFU6DLq/8890BOkn8xq4K+64gLWOaz1sV6o5IAmt4UK3a8fDq7OKElZ80k9mcossWZcnSC3odF44BTMU4Uz9d6chf2YRrO76WcS8XmsUT6LYcIX3YX4tUrWI4hT3sTKesVxJOHfG4b2seW14oQTj7EtlbHx+pkvjxz9HOwEbwsqVGkJGTrlHDmWAKdgM/B8andyJIkq8XxATq23yceoWwaD+uSK7NrnyQrEahrjIMaNT2h0kTEalf1okwdUj2hnt3Qpa97bedPDrxPHAdabDIi9IybBtcyquC9h/N7Cn6oDpJpR5eV9pQOI/jCNpMmepQ2FfnqcKvKHSoQ==;NLrCUIYWmhXZDg5oIyP4Iw=="

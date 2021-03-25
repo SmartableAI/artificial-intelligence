@@ -59,6 +59,20 @@ related:
         width: 1440
         height: 753
         isCached: true
+  - title: "Chipotle Invests in Self-Driving Cars"
+    excerpt: "In February 2020, Nuro was the first to obtain a U.S. Department of Transportation exemption, and in April 2020, it became the second self-driving car company to receive a driverless testing permit in California. In October, Nuro started testing its ..."
+    publishedDateTime: 2021-03-25T14:05:00Z
+    webUrl: "https://www.qsrmagazine.com/fast-casual/chipotle-invests-self-driving-cars"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2020-11/Chipotledigital.jpg?itok=7mOnuKZ1"
+        width: 765
+        height: 446
+        isCached: true
 
 secured: "pDzJK8pz/FrKQGGBe4etPqMsFHEgjXkr4DA8B2kb8gmTuqIx9dVDXWm//0kKFaAMJaJZzLWMKqdKDXVRRkDgL9C7w9OoK1Hg7QlNFlVwqqTc50QbSdC9HnTYpQy1M1Er7A4l0RMgjTXRvKrKu6aBwrCAwMY9wpHCXRKdHJvbmUsjhJofV5QEGxG1kQJEv3S1ijFPX8fBJpIC9gimywUeSU7+uljuqkNbS3CN2JMNZTPkj/o2kdYG1jpxZAdAf5PvvKIhLHbh0WkPDNZwpZn8uQi2Qv/ns1WiC3V612fHvJNolLRgiFAnOw6+MoC3P6ls8YJeYBI2LOVIJgpFI2YmrTLrPAli3LfRn+xXl58tpWX/c7TW6nAZYO8FqFFZ9ncvFNkszqzxvTdqJnv+BNMOA3yhJXz08rUBrkjHud9CU8oxzs5gbW+7Pyq3egx9PdgXIFMU/e1DIYdDn6PPPt3h56VSUXfkDN19uhOOBPijzaNC6oBi8f5GbAPoRqkPpzSK85yTlapmiKjDN+WG4j+2jw==;g2L4VSv1Vqc4ZoqneBiZGg=="
 ---

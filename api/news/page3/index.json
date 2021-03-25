@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-23-new-algorithm-could-aid-the-rise-of-soft-robots-for-tricky-tasks.md",
+      "title": "New Algorithm Could Aid the Rise of Soft Robots for Tricky Tasks",
+      "excerpt": "Soft robot development could benefit from an algorithm that optimizes sensor placement allowing such machines to better ‘understand’ their environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12109",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12109_16165176633231094.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12109",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12109",
+      "publishedDateTime": "2021-03-23T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-tesla-delays-full-self-driving-beta-access-musk-promises-changes-next-month.md",
+      "title": "Tesla delays Full Self-Driving beta access, Musk promises changes next month",
+      "excerpt": "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "publishedDateTime": "2021-03-23T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models.md",
       "title": "AWS and Hugging Face Collaborate to Simplify and Accelerate Adoption of Natural Language Processing Models",
       "excerpt": "Just like computer vision a few years ago, the decade-old field of natural language processing (NLP) is experiencing a fascinating renaissance. Not a month goes by without a new breakthrough! Indeed, thanks to the scalability and cost-efficiency of cloud-based infrastructure, researchers are finally",
@@ -115,7 +210,7 @@
       "originalUrl": "https://www.techrepublic.com/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -167,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -524,7 +619,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1162,101 +1257,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-create-forecasting-systems-faster-with-automated-workflows-and-notifications-in-amazon-forecast.md",
-      "title": "Create forecasting systems faster with automated workflows and notifications in Amazon Forecast",
-      "excerpt": "You can now enable notifications for workflow status changes while using Amazon Forecast, allowing you to work seamlessly without the disruption of having to check if a particular workflow has completed. Additionally, you can now automate workflows through the notifications to increase work efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/set-notifications-and-automate-workflows-for-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/set-notifications-and-automate-workflows-for-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/22/1-2571Architecture.jpg",
-          "width": 700,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T17:06:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-philadelphias-robotics-industry-ripe-for-stem-students.md",
-      "title": "Philadelphia’s Robotics Industry Ripe for STEM Students",
-      "excerpt": "Robot makers in Philadelphia say their biggest challenge is a shortage of skilled labor, and students who finish trade school, an apprenticeship or a two-year program can qualify for jobs starting at $62,",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html",
-      "originalUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_483185803.jpg",
-          "width": 968,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/Philadelphias-Robotics-Industry-Looking-for-STEM-Students.html?AMP",
-      "publishedDateTime": "2021-03-22T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

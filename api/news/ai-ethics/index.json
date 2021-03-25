@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-25-datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai.md",
+      "title": "DataRobot CEO calls for ‘a new era of democratization of AI’",
+      "excerpt": "DataRobots CEO makes case for approach to building and maintaining AI models that reduces dependencies on data science teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/",
+      "originalUrl": "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/amp/",
+      "publishedDateTime": "2021-03-25T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-deloitte-to-help-organizations-address-ai-ethics.md",
       "title": "Deloitte to Help Organizations Address AI Ethics",
       "excerpt": "The thorny issue of monitoring, updating, and validating an organization's artificial intelligence (AI) model in the face of growing concern about unethical AI use is the basis for a new team-up between the Deloitte AI Institute and Chatterbox Labs,",
@@ -96,7 +148,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1457,58 +1509,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind.md",
-      "title": "AI ethics: How Salesforce is helping developers build products with ethical use and privacy in mind",
-      "excerpt": "Salesforce's Ethics by Design program is designed to put ethics and privacy at the center how technology, specifically AI, is developed and used.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
-      "originalUrl": "https://www.zdnet.com/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/06/f61cca19-4238-495b-b284-c0ffc577482d/ehu-pgoldman-square-385.jpg",
-          "width": 385,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind/",
-      "publishedDateTime": "2021-03-07T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

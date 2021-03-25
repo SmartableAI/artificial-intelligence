@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-lear
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -105,10 +105,24 @@ related:
         width: 821
         height: 576
         isCached: true
+  - title: "There Are Issues with the COVID-19 Diagnosis Machine Learning Algorithms"
+    excerpt: "A COVID-19 diagnosing machine learning model has issues — meaning these models are only as good as the datasets used to create them. Healthcare professionals and AI experts alike are warning about some issues they’ve identified in a machine learning ..."
+    publishedDateTime: 2021-03-25T15:13:00Z
+    webUrl: "https://www.commercialintegrator.com/blogs/there-are-issues-with-the-covid-19-diagnosis-machine-learning-algorithms/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 38
+    images:
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2021/03/AdobeStock_333090694-1000x500-1.jpeg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19"
     excerpt: "Preventive Intervention • Public Health Technology Type(s) natural language processing objective • Artificial Intelligence Sample Characteristic - Environment anthropogenic environment Sample Characte"
     publishedDateTime: 2021-03-25T13:32:00Z
-    webUrl: "https://www.nature.com/articles/s41597-021-00878-y?sf244173310=1"
+    webUrl: "https://www.nature.com/articles/s41597-021-00878-y"
     type: article
     provider:
       name: Nature

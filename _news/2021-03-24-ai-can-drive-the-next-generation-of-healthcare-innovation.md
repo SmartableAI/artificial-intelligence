@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24?amp"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdbbb2c33-0140-454f-9d2e-2cc0955ecb41.jpg?source=next-opengraph&fit=scale-down&width=900"
         width: 900
         height: 506
+        isCached: true
+  - title: "Artificial Intelligence Detects Medication Administration Errors"
+    excerpt: "A new system uses artificial intelligence to detect errors in patients' medication self-administration methods."
+    publishedDateTime: 2021-03-25T14:48:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-detects-medication-administration-errors"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-115029066.jpg"
+        width: 686
+        height: 402
         isCached: true
   - title: "AI-based structure-function correlation in age-related macular degeneration"
     excerpt: "Sensitive and robust outcome measures of retinal function are pivotal for clinical trials in age-related macular degeneration (AMD). A recent development is the implementation of artificial intelligence (AI) to infer results of psychophysical examinations based on findings derived from multimodal imaging."

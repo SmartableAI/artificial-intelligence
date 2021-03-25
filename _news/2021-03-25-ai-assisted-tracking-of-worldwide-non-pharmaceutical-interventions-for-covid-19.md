@@ -3,8 +3,8 @@ category: news
 title: "AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19"
 excerpt: "Preventive Intervention • Public Health Technology Type(s) natural language processing objective • Artificial Intelligence Sample Characteristic - Environment anthropogenic environment Sample Characte"
 publishedDateTime: 2021-03-25T13:32:00Z
-originalUrl: "https://www.nature.com/articles/s41597-021-00878-y?sf244173310=1"
-webUrl: "https://www.nature.com/articles/s41597-021-00878-y?sf244173310=1"
+originalUrl: "https://www.nature.com/articles/s41597-021-00878-y"
+webUrl: "https://www.nature.com/articles/s41597-021-00878-y"
 type: article
 quality: 33
 heat: -1
@@ -114,7 +114,21 @@ related:
         width: 821
         height: 576
         isCached: true
+  - title: "There Are Issues with the COVID-19 Diagnosis Machine Learning Algorithms"
+    excerpt: "A COVID-19 diagnosing machine learning model has issues — meaning these models are only as good as the datasets used to create them. Healthcare professionals and AI experts alike are warning about some issues they’ve identified in a machine learning ..."
+    publishedDateTime: 2021-03-25T15:13:00Z
+    webUrl: "https://www.commercialintegrator.com/blogs/there-are-issues-with-the-covid-19-diagnosis-machine-learning-algorithms/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 38
+    images:
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2021/03/AdobeStock_333090694-1000x500-1.jpeg"
+        width: 1000
+        height: 500
+        isCached: true
 
-secured: "+o8Rekh8dKTpsIRvMB/rLD8G5rHoh7qvV2xbHnPrx86wPsZoUq1aqGx0OzHoKlwZT9YiEVs/1c+ihSkqvkk2Ugq3e7onX+sKVNcRiMpEkCdknNfOE7y+JC+xEt+cyCO0fTJ3Xe+REBEyrOFIKlOCK3Mrpiy+aPMZ3eUXz/QmdFq7GMip3lEAF9Dk14AwitVY+whAjqDfDYtZRtL1KQm3W4qbzqAoMjjs6KJz4ow0ZASRcsrBBnYDHDjOhrMUjhdsZOvUod0L1+FeirtqlhaXTJcMYaj6s6pQ0CU0lei2b7JMDak6O4L5cEU5NNryAMXICCKQcv9REOP7EtuRrrZRFES0lkXpPEygTGkpxV3kf1o=;hpXUkTLkbrSnuP2x1Yct4g=="
+secured: "opPPZFpzaxXdzNTT9feVbQOhU5uL8NmaB/FNCk4UP0SruxUs0Ak3BGjdgZTGpD7sssLEXMvSKPY3wFfCi9xuLsDGp5NFAEYNzmnNvpQyS8eAUm3bO/YGnBQuwq+ZkfnDXeNPZy1unKyIfpVclwprIemOeSQh9Xhhx/8schacKpNRQ1H9Yfgkrr/PNfT5BMjxgFrQEAaO9iIJOox63ZN9nJdiN1vKJyofIiZB8KOB0JorCfQij0924S7AdGvELE3M8fuMpiH/m6vX4UpqgrdpNA1rMAPGpNsSboKwDse8FtdsvGqAmUPJNwW8Zr4jBZZ7/6yBwDrJJ1n3/V9lePeb/BNes9/ao8EFFE+CvOKze+0=;45i/tuGHQWCDWH3U1zqGCQ=="
 ---
 

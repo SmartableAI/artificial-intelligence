@@ -66,6 +66,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Artificial Intelligence Detects Medication Administration Errors"
+    excerpt: "A new system uses artificial intelligence to detect errors in patients' medication self-administration methods."
+    publishedDateTime: 2021-03-25T14:48:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-detects-medication-administration-errors"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-115029066.jpg"
+        width: 686
+        height: 402
+        isCached: true
   - title: "Workshop on next generation embodied intelligence this week"
     excerpt: "Supported by the Engineering and Physical Sciences Research Council (EPSRC) and chaired by Dr Fumiya Iida, Reader in Robotics, the International Workshop on Next Generation Embodied Intelligence seeks to gain further insights into intelligence,"
     publishedDateTime: 2021-03-22T00:00:00Z

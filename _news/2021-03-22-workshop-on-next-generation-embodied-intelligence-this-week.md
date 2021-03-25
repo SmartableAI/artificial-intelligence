@@ -66,6 +66,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Artificial Intelligence Detects Medication Administration Errors"
+    excerpt: "A new system uses artificial intelligence to detect errors in patients' medication self-administration methods."
+    publishedDateTime: 2021-03-25T14:48:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-detects-medication-administration-errors"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-115029066.jpg"
+        width: 686
+        height: 402
+        isCached: true
   - title: "AI-based structure-function correlation in age-related macular degeneration"
     excerpt: "Sensitive and robust outcome measures of retinal function are pivotal for clinical trials in age-related macular degeneration (AMD). A recent development is the implementation of artificial intelligence (AI) to infer results of psychophysical examinations based on findings derived from multimodal imaging."
     publishedDateTime: 2021-03-25T11:39:00Z

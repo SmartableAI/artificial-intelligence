@@ -87,6 +87,20 @@ related:
       name: ANSA
       domain: ansa.it
     quality: 30
+  - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
+    excerpt: "The collaboration is focused on creating a platform that deploys artificial intelligence and machine learning to power data driven decision-making that helps make insurance products and services easier for consumers to understand and buy. “Guardian and ..."
+    publishedDateTime: 2021-03-25T15:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-insurance-industry-financial-services-life-insurance-providers-3041166b36706f01eff5ac6dfc68d873"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "WhxS+Gybjjqlh2/atHT3dG2nEvs+izav0/7UtuhNSd5hXcomTZlWiDxTgpA5IhMMm0JtgJVVjkpySORzcUaJn7mI+awgZBM8fISRF0GRdTh8RSMjEColLJpPWQFSaCG0Etn1bCftan4IqnGOAGOg4IeT/phYOuUPCXI5HZU3y5ry4+/4rmAl0BbLYZLkAajE1aAfkfByag154oEwXysZY2Xq9OcwTsxjNS7cOWawiE0vUBJfUakqsINHZYeUxWSdDELggyppVIUx7YWfwFP3qPkyqBZsPuXBD/xHEIGIjP8b9i99B8eHlljgUK82mWEWnRn4rF3JBCVJF1d/8qfwK3hOlTxFjBB0cYSZhJj0Jcw=;t3Md64dHuBo5wgtMB7di7g=="
 ---

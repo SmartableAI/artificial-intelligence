@@ -155,19 +155,19 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "SF Express Selects Self-Driving Truck Company Plus for China's First Commercial Freight Pilot Using Supervised Autonomous Trucks"
-    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China's first commercial freight pilot to demonstrate how supervised autonomous trucks improve"
-    publishedDateTime: 2021-03-25T13:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-19717827.html"
+  - title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
+    publishedDateTime: 2021-03-25T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
     images:
-      - url: "https://www.lelezard.com/img/theme/lezard2.png"
-        width: 500
-        height: 414
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "5/mBkCzct1dfZWk4eD06oLUYcNbDzmL9UzQ57iCdQhyh0Le+JddfvuSylxPYAZFv+dhZjdAyR8c5iudW6yMV0Eld8FkEyHBhkzthYS71kT5i1OMzFloynYpeGH+iSanBnStVQYC2ZqtEy4S6jfMEaoydfjOMr/mLKoIda68ECpXdb1rF17nLxSKfkz4AcsZQeVWshBX5KVfIYPWIF2CcJ7qE9B/S2oV7djknDfs45wubn6OQ15bX6mxCRo6tbYxvY/diSJ6FdMNeBJhGJM/LwOLPPQh4Kq8p75j/XAr/bLzownE+2Ni/DwPO5sGc6OLAZ+VUhlQxSPbLQ/3ANENw+1SsarmuGnSPmYYEbQAMCdA3YkkjDmXsipkE5C9r25o5;yAL/jMnzieiORYE76jLbjw=="

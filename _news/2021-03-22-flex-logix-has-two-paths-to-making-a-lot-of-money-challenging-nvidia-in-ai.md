@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/flex-logix-has-two-paths-to-making-a-lot-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/03/22/6809777c-9d67-473c-a4d5-fbf5115e4c50/2020-10-linley-fall-1-inferx-x1-chip-final-slide-4.jpg"

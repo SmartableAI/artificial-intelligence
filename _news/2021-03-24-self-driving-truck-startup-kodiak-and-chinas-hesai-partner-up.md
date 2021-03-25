@@ -151,19 +151,19 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "SF Express Selects Self-Driving Truck Company Plus for China's First Commercial Freight Pilot Using Supervised Autonomous Trucks"
-    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China's first commercial freight pilot to demonstrate how supervised autonomous trucks improve"
-    publishedDateTime: 2021-03-25T13:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-19717827.html"
+  - title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
+    publishedDateTime: 2021-03-25T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
     images:
-      - url: "https://www.lelezard.com/img/theme/lezard2.png"
-        width: 500
-        height: 414
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "w6HAqgo2vYIx5GDcZtVYLGV+SlnYlCs+Z1PISWimR0y404GF5Xkpf9rCv9zYldnx8msQ4giot5F4EeS8zt4NL5jca0G21dFnsRumOLGbIWqvAj3zLBC+W2/gDD9c3VMHiDBDqplt3l1nQjnRKradkbvlp+i5HGAOh86GeEWFFt5ugi5YQxptIJh6EF1ApncW0+HwVHcrlcx8A+Dg+i4GdaX9rtL61nOlwRngW+R0tPq9X5F+4pO4w8CKxbQrFEICy3JXRyjvjUNY9VzJY8gIQN9d3m1pIlEiq/QifwB7YyY3pkHyALo2P7ASB/ginlrpUGPLuljNLgRMLvRhHZkVq3hsc1XgTgh5WJvxAQOl4m+43vcs6Rh99ynaQt3ChnnhxdcvFXUWxhGGkzzlmHBKqdw7AtN5rrJwxH6C8ksSRtKLIGUUr+j20tzKvwAMLliZ6/My6c/qu1Ua5Y5gZhOdeEpmFc9uPA+0diuJyyOM/7+uYEbT4UOGLxHfAiKA88n1cIxmbp/0t4XRIlrBITLBOw==;S9TEIs7b2cwSZt4prGg0tw=="

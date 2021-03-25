@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/tableau-introduces-a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
       name: ANSA
       domain: ansa.it
     quality: 30
+  - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
+    excerpt: "The collaboration is focused on creating a platform that deploys artificial intelligence and machine learning to power data driven decision-making that helps make insurance products and services easier for consumers to understand and buy. “Guardian and ..."
+    publishedDateTime: 2021-03-25T15:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-insurance-industry-financial-services-life-insurance-providers-3041166b36706f01eff5ac6dfc68d873"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Dl34sodFiPQge96oj9KRtHxNacNiCFGmVwxAwO0XssUKpdL2OqOAHPwbt/eKiKPxLOyozo/xj6/FYyntwIkSatDYplEpy+1EnSBP01HmKDAymVw9Pe8bDM8Sh0a6JaUpwVIaotC+d2TqbzHDAcBS/GDu4ozUZc/WQrYGIpBBB/JvfC71X0kYSaE6HLPIX3XjC9TI1VQd4drQ2EWUjMrhp64JB7QTwhTnlHo8GshHUIuvZ//53vin2ITnG6lNER2kt5xwziur2d4Ma4WQlhCLA6qZmF3wyAybJG/FlMZodccA2RMX7IWRgv0+Qf7q2kJYdF2p/GTEL5+YG856yxFvmXhzxs+Q6MUCqAzKHQt5KRkQSu+wdjdsIykeM+SjibVN6HEmRcEtfS7qHCiAJDjv+IfdixqKZf7sw45LuDMi2zMxkzOUPI0aS9IWrDbBkayY5RLPCeqB2jh52MTP5GeEhMB1+J/CldfsNkTtqWyhLPO+dU0QjYEpjXw5wvF8bVs6UwqvVTUJtZ3D9quTdInZqQ==;EdicZi98YtaTy97la/B/bw=="
 ---

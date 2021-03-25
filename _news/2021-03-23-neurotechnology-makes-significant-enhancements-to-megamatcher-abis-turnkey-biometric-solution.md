@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
-excerpt: "VILNIUS, Lithuania, March 23, 2021 /PRNewswire/ -- Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS ..."
-publishedDateTime: 2021-03-23T10:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution/article_98771ca4-77b8-57e9-8644-271b0f7c2f30.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/neurotechnology-makes-significant-enhancements-to-megamatcher-abis-turnkey-biometric-solution/article_98771ca4-77b8-57e9-8644-271b0f7c2f30.html"
+excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey biometric solution."
+publishedDateTime: 2021-03-23T10:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-eastern-europe-6d0bd9a8bc0ffe9159a33c0c10341a11"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-eastern-europe-6d0bd9a8bc0ffe9159a33c0c10341a11"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/9e/f9e9b0d6-a652-547e-9f1e-6e85678593ad/6059c39bb03a3.image.jpg?resize=1121%2C630"
-    width: 1121
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -63,6 +63,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "LOoIZwUQ4sJhCzqgMWDbiQjzt935rWXR0TjdiDwpQASWQIvQLLU3znUv2lTzXuvjrIb5uzmMB/a8XWun1ERn9Dp3nsCXPFdASRG413U7ynp8M+oXwBsNTQc6dk/+PrlmvWsHkBjusSXlaHIqtFF3gb7qtYmWLzV0LwpxVxVXrtNKA9aHUIvZ03GxY5bQ9PZajsoSUST5dm5Kb2yBpO5bkYJs1Fi2fBaGWpkeNtD80n1/+U11WWa3tkiTBERoM90epI0SRMGBZv91/+NVt0Yif7IlN5a0KFbI5wIpHpGmr63an8mL4f2Uep90Le32/LiakpCrYkE42rP6/0JmDuc3348SWn0kcPdVpbMZD0iSgtdmLCJfxet5Qd8AKlzCS52oVqHuvaI2orp+EyiPXUktzmnRqi40FRcvXrknrCYLC5KJ+xW7rdk1qUYSbT4xjHUFnEzP/Wps5O3rpOmkIJ4cLmhZ3g/pNdGAJDaIgIa6cZ4XqYrEOxksSmhq/pU5V9uZEFMvH4n8OVO6k95LVfhm8g==;Jq3axXy1vG6i37RtJLg38A=="
+secured: "mLi2kyPwrvloMSrdiWfWZLJMacazSpa0iNrt+mZ4IjTq5n36G/L361mXM4EgK9u3TAcvNWkfbl7NeRl5AQ4pNrifexoQn9+XlMQgQYIUJsd+7Uc3LYhzfjcyZfnd0DawbDgqNivK7CEANRzI10P9xilo29bUeItBtUat/MugaIJsR7mVuZi6IaG2SBP/TMQcbgQ6h7vFqaFyXlIpDly/Wcmy7msL+1RXcKQ1R36ZWNT3GrvIFZNFxaSAMyoZYKRPG3QIDEgsfUee7aybaxQPLwuUKkWo/jgX5U+d2gSYjH9HmY1SNy/cbK6BD1vJD99BS8RIJ+86xytSzpp7SlLEYhra7I99CKMQPFOtYxjI1Qc=;cPwT3d7J5EVR1n7DoS80cw=="
 ---
 

@@ -313,6 +313,20 @@ related:
         width: 1600
         height: 1082
         isCached: true
+  - title: "Disney tests facial-recognition technology at Magic Kingdom"
+    excerpt: "Disney is testing out new facial-recognition technology at its Magic Kingdom Park in Florida. The company says it's continuing to look for ways to make the park safer, with a focus on touchless experiences."
+    publishedDateTime: 2021-03-25T15:21:00Z
+    webUrl: "https://westchester.news12.com/disney-tests-facial-recognition-technology-at-magic-kingdom"
+    type: article
+    provider:
+      name: News 12 New Jersey
+      domain: news12.com
+    quality: 24
+    images:
+      - url: "https://img.chdrstatic.com/media/6845aea1-04fa-4c99-85f0-de109fa097a7.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "QNoI8+HTr+kIMlu0g4i+NgbP2y5y1hCWcR6SA53CDqvIvSUNy9GnLn+sLck+TuGJ6PVZMsTmMCGqXMSkIwQkUc5hhxiV8H4e5a10TSIZYscJ43m/m2rXCZwCsV/3XX0wFb++IFHM6gpc10G4vk2SDHlKuvX5owuqzOtyCvBEWpbwbeSGFwyRC5nqWqkqFE3s1hZd0p6y2KgZ6+5UWbRHlSjtPIidPJuFxvMJwsBuxmsxgX2Yt3uSvEGFTepzBglE8kGfS4sZ8flFcf94AR7hfbB12m5KCsbfYvCxVQQ3lQgaf1Rw1gBhbiDMRu+RQ+BtZDj5ehHrbU4p6X6hw+sSOon0a5NGIt0toB1X6Vf0vx7EvIaBb8rZvw1bJlnUkr4aVA/yKrR04V8kZXoxnyR+XG2cR+d2fB4xevmXfwitUkdAGw3LzMohZZWLo3s46hlmK5Q6vCq3c7lzbNRvdx+PtHTb/PK+BXh6XkB9XMIKxCFL3jrJlVBFNqw2DHMnR61yCrLy/GAkqzDqYUanso1+2Q==;kxgEZcCkmLQ/kX5yuSzF5A=="
 ---

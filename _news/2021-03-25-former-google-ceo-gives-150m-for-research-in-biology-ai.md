@@ -1,31 +1,31 @@
 ---
 category: news
 title: "Former Google CEO gives $150M for research in biology, AI"
-excerpt: "Off-duty trooper arrested in domestic incident Saratoga Lake neighbors angry about felling of woodlands Cuomo ethics commissioners block subpoena to governor's office The center, which will be named after the Schmidts, will collaborate with experts from ..."
-publishedDateTime: 2021-03-25T13:35:00Z
-originalUrl: "https://www.timesunion.com/news/article/Former-Google-CEO-gives-150M-for-research-in-16052237.php"
-webUrl: "https://www.timesunion.com/news/article/Former-Google-CEO-gives-150M-for-research-in-16052237.php"
-ampWebUrl: "https://www.timesunion.com/news/amp/Former-Google-CEO-gives-150M-for-research-in-16052237.php"
-cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Former-Google-CEO-gives-150M-for-research-in-16052237.php"
+excerpt: "(AP Photo/Susan Walsh) Former Google CEO Eric Schmidt and his wife, Wendy, have given $150 million to a research institute to establish ... WASHINGTON (AP) — The CEOs of social media giants Facebook, Twitter and Google face a new grilling by Congress ..."
+publishedDateTime: 2021-03-25T13:34:00Z
+originalUrl: "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/"
+webUrl: "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/"
+ampWebUrl: "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/"
+cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Everything Lubbock
+  domain: everythinglubbock.com
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/03/8adcfd4080564d8c8922b92c2e69196e.jpg?w=1280"
+    width: 1280
+    height: 853
     isCached: true
 
-secured: "afrNVavB/EjRLTsIE9Ff/bf8LcHhDDALksp/EsEpewovg+efL3q25mpXDeoRNfUPZMannsIl8O8e0lAA5ixJ/dGqJDp96dLRQZOKLsrW+VnPHEq9YkRaX9Qtwy13arXFcXOn6yD8C5c+KVNUkZ/uPgRpg++B7NQV7/YUUKDFYGGwBYiAJhPetun6dnKuTXq2btN5/Q9PVYrWpAWSpRdeBr3fmYOgcb+Gfm6dd5yKqyMF4KkAdJCVH+PsVC8oKzJbiIkgrIwSFmtOpxM5AIRG9qQQ2Amc0ot6TwEmorBjo4jG4jVNzuOtDF7D7ZjY1gg/ijLEHhgq8IZbZuKg0Cn2Je0SSczgKufwYgF4zBYQBVU=;Azfdmu1YmdAYUnii5iZ41w=="
+secured: "h+3w2M5Dnk7i3W8Lnc9lCKCu13MUttQgrSVIyBARdLgmtisn7xo+6vLe6P9b4Qtg1kxeZ+hjJgDl8g/Th9ORnmloANUt20dnuI93y5qG3RmrFd5OdDqhrcPt/ZFO7JWC52jFpigsr8FTRmqKevhyS3vJdGb7GdFQtq89JOM823b8myikyGXp7Bw0HWFRBslebDe1XLFTGJFt6n1atH78UkOVNRKpl47xSc4W0gYX66xzXBQNY/VSmz5torH4oGoD01dBFx657/32PNjwAzTgccji9bJeOvBD/OJfZRd4uD3jAC13UajUsqeb0/yOTM9Ft3j3CJ/sq9fPV9yfzF8xfM4q0TlA2QVti3SLzSfvBU0=;u6I1mmfdiqmeMP1+QMa+fw=="
 ---
 

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "SF Express Selects Self-Driving Truck Company Plus for China's First Commercial Freight Pilot Using Supervised Autonomous Trucks"
-excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China's first commercial freight pilot to demonstrate how supervised autonomous trucks improve"
-publishedDateTime: 2021-03-25T13:44:00Z
-originalUrl: "https://www.lelezard.com/en/news-19717827.html"
-webUrl: "https://www.lelezard.com/en/news-19717827.html"
+title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
+publishedDateTime: 2021-03-25T13:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/theme/lezard2.png"
-    width: 500
-    height: 414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -166,6 +166,6 @@ related:
         height: 600
         isCached: true
 
-secured: "FZDVUzoDTs9U/UrlooXzW5XEsulMrYS4agq0JErEwimFDnIkvA7og/zHerkh4MDo8yuxkow2C435ddWcx2LT800xDviR8yRfCnY7umClMCqR62apcdfeNFX4U+QhGvNA3XlBj/dikYtz8UqPTyHgeNEKjgQdQZEn+eI0+mHgP5qhVrqWDTyBjWJbFYoyIJwdEfroVJKY2vKuU0IxIdFrJiCjuS7PJNn01Cbixn+kLapZG3LiWmK1oSP53Epp/6AKbwEVhG+iO3mK3nOA0Llz8Rao6nB9xoy5ZyZhe5Qqrs9UJokHqtF7GgKkJrC9fQiXw6/N5xxqNRBdBkylWSuPBMl9W1IyXm78ejPUIadnWmw=;pXmWJ7f1LjF8kGK/SS3KcQ=="
+secured: "WCmBBSpagYqwUlOHRAvcqAif99XYu08ZxyN69ga1cc55iivWNR1ONEdJwgoO/+DsQ5CnCNXreRxbOquf8b1lvf07SWlsFt5wifvD5+Omh0qmLu44iEnBK8sipc40boURYtogstemU8B+mCZeUVccglYdg3B/vasvifTFZ2BMRcv64gJydtmCfLLlBAQUpNgFwP5UDgi5aqq1XpZR3GDOFtrw/aSs927wTjX1AyBgSDe941Hl/ZgXwEqts7i8AxiBJg4Vz9MQ2nuc3XCxdRolG9gRBJSDE8q2AAZMMujZIuymDL7288g4AbjZWKADXzUe4UZ2vie5P9M1dhpb7qAJyy/So2jMyHOFE3Fk1hjpDfE=;6zJr29qgUgJzN6GlKmNghA=="
 ---
 
