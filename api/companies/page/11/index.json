@@ -4,6 +4,52 @@
   "page": 11,
   "value": [
     {
+      "path": "_companies/niramai.md",
+      "title": "Niramai Health Analytix",
+      "excerpt": "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/niramai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/niramai/",
+      "type": "profile",
+      "name": "Niramai Health Analytix",
+      "overview": "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®",
+      "website": "http://www.niramai.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/niramai-health-analytix"
+      },
+      "twitter": {
+        "username": "niramaianalytix",
+        "url": "https://twitter.com/niramaianalytix",
+        "followers": 844
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Rich Jerk Headquarters, USA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3mx-g-RJoKg"
+        }
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/755680998478741504/NpmYIAXx_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Niramai Health Analytix",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/noodle.ai.md",
       "title": "Noodle.ai",
       "excerpt": "Noodle.ai is your source for Enterprise AI®. We’re on a mission to create a world without waste. We believe in AI for radical efficiency and extraordinary good. We push the limits of data science to give business leaders a view into the past and future, so that they can stop wasting time and resources now, helping you plan, make, and move goods and resources for manufacturers and complex supply chains.",
@@ -224,6 +270,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/reflektion.md",
+      "title": "Reflektion",
+      "excerpt": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reflektion/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/reflektion/",
+      "type": "profile",
+      "name": "Reflektion",
+      "overview": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
+      "website": "https://www.reflektion.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/reflektion"
+      },
+      "twitter": {
+        "username": "ReflektionInc",
+        "url": "https://twitter.com/ReflektionInc",
+        "followers": 1435
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Mateo, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/910264575034933248/rJvYegtU_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Reflektion",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/sentifi.md",
       "title": "Sentifi",
       "excerpt": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
@@ -243,7 +327,7 @@
       "twitter": {
         "username": "sentifi",
         "url": "https://twitter.com/sentifi",
-        "followers": 4827
+        "followers": 4826
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -378,38 +462,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/knewton.md",
-      "title": "Knewton",
-      "excerpt": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/knewton/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/knewton/",
+      "path": "_companies/appannie.md",
+      "title": "App Annie",
+      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/appannie/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/appannie/",
       "type": "profile",
-      "name": "Knewton",
-      "overview": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
-      "website": "https://www.knewton.com/",
+      "name": "App Annie",
+      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+      "website": "https://www.appannie.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/knewton"
+        "url": "https://www.crunchbase.com/organization/app-annie"
       },
       "twitter": {
-        "username": "Knewton",
-        "url": "https://twitter.com/Knewton",
-        "followers": 14578
+        "username": "appannie",
+        "url": "https://twitter.com/appannie",
+        "followers": 96393
       },
       "yearFounded": 0,
       "locations": [
-        "Hoboken, NJ"
+        "San Francisco, CA"
       ],
       "topics": [
         "AI",
-        "AI in Education"
+        "AI in Marketing"
       ],
-      "heat": 32,
+      "heat": 31,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1224388356089491457/7ucoRe_G_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Knewton",
+          "title": "App Annie",
           "isCached": true
         }
       ],
@@ -491,7 +575,7 @@
       "twitter": {
         "username": "KabbageInc",
         "url": "https://twitter.com/KabbageInc",
-        "followers": 27306
+        "followers": 27305
       },
       "size": "501-1,000 employees",
       "yearFounded": 2009,
@@ -709,7 +793,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 16735
+        "followers": 16731
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -1008,82 +1092,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/6sense.md",
-      "title": "6sense",
-      "excerpt": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/6sense/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/6sense/",
-      "type": "profile",
-      "name": "6sense",
-      "overview": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
-      "website": "https://www.6sense.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/6sense"
-      },
-      "twitter": {
-        "username": "6senseInc",
-        "url": "https://twitter.com/6senseInc",
-        "followers": 18904
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1280217113278517248/cvplgUVY_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "6sense",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/appannie.md",
-      "title": "App Annie",
-      "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/appannie/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/appannie/",
-      "type": "profile",
-      "name": "App Annie",
-      "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
-      "website": "https://www.appannie.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/app-annie"
-      },
-      "twitter": {
-        "username": "appannie",
-        "url": "https://twitter.com/appannie",
-        "followers": 96396
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "App Annie",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/chumenwenwen.md",
       "title": "Mobvoi",
       "excerpt": "Healthcare Enterprise Analytics Platform powering healthy lives and better care by unlocking actionable insights from all the world’s healthcare data",
@@ -1164,7 +1172,7 @@
       "twitter": {
         "username": "sbreurope",
         "url": "https://twitter.com/sbreurope",
-        "followers": 16606
+        "followers": 16604
       },
       "yearFounded": 0,
       "locations": [
@@ -1211,7 +1219,7 @@
       "twitter": {
         "username": "textio",
         "url": "https://twitter.com/textio",
-        "followers": 7682
+        "followers": 7681
       },
       "size": "51-200 employees",
       "yearFounded": 2014,

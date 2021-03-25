@@ -4,6 +4,327 @@
   "page": 6,
   "value": [
     {
+      "path": "_companies/neurala.md",
+      "title": "Neurala",
+      "excerpt": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/neurala/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/neurala/",
+      "type": "profile",
+      "name": "Neurala",
+      "overview": "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines.",
+      "website": "https://www.neurala.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/neurala/",
+        "followers": 3462
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/neurala"
+      },
+      "twitter": {
+        "username": "neurala",
+        "url": "https://twitter.com/neurala",
+        "followers": 2052
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2006,
+      "locations": [
+        "Boston, MA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-bQYzR5kARM"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1295751627484405762/7zWWPBD2_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Neurala",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHj-t_lzUSj7Q/company-logo_200_200/0?e=1594857600&v=beta&t=ATn4G31yQyk8l6qSKWyCAxsEEgo41rJgaQB9gd2ioEU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/pathai.md",
+      "title": "PathAI",
+      "excerpt": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/pathai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/pathai/",
+      "type": "profile",
+      "name": "PathAI",
+      "overview": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
+      "website": "http://Pathai.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/pathai"
+      },
+      "twitter": {
+        "username": "Path_AI",
+        "url": "https://twitter.com/Path_AI",
+        "followers": 1023
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Fremont, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=cUeScCtTng4"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/872157578364583937/mXsacVHf_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "PathAI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/people.ai.md",
+      "title": "people.ai",
+      "excerpt": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/people.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/people.ai/",
+      "type": "profile",
+      "name": "people.ai",
+      "overview": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
+      "website": "https://people.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/people.ai",
+        "followers": 5568
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/people-ai"
+      },
+      "twitter": {
+        "username": "ppl_ai",
+        "url": "https://twitter.com/ppl_ai",
+        "followers": 1516
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "people.ai",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_200_200/0?e=1594857600&v=beta&t=xUGGT3HKPtEDdlL-EkldUHNT897W-AcUvmaGaG67E84",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/pony.ai.md",
+      "title": "Pony.ai",
+      "excerpt": "Spearheading the future of mobility by building the safest and most reliable technology for autonomous vehicles.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/pony.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/pony.ai/",
+      "type": "profile",
+      "name": "Pony.ai",
+      "overview": "Spearheading the future of mobility by building the safest and most reliable technology for autonomous vehicles.",
+      "website": "https://www.pony.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/pony-ai/",
+        "followers": 7911
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/pony-ai"
+      },
+      "twitter": {
+        "username": "PonyAI_tech",
+        "url": "https://twitter.com/PonyAI_tech",
+        "followers": 970
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Fremont, CA",
+        "Fremont, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 58,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1058155354767339521/Ru2uRRKv_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Pony.ai",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQETvNK0jzsxDQ/company-logo_200_200/0?e=1594857600&v=beta&t=MidEOPuGZvQhEd3gxL909WdTCA7wzg3FYtvCr9_0ejo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/primaalab.md",
+      "title": "Primaa",
+      "excerpt": "Promobot is an autonomous robot for business. It is designed to work in places of increased concentration of people",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/primaalab/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/primaalab/",
+      "type": "profile",
+      "name": "Primaa",
+      "overview": "Promobot is an autonomous robot for business. It is designed to work in places of increased concentration of people",
+      "website": "https://www.primaalab.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/primaa/",
+        "followers": 174
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/primaa"
+      },
+      "twitter": {
+        "username": "primaalab",
+        "url": "https://twitter.com/primaalab",
+        "followers": 34
+      },
+      "size": "11-50 employees",
+      "yearFounded": 0,
+      "locations": [
+        "Paris, France",
+        "Paris, Ile-de-France"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3CQMfhc6Atc"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Primaa",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFAvxJrcc60nQ/company-logo_200_200/0?e=1594857600&v=beta&t=WuFBqfuhiv5YwK47gF0IWMs5P1d6zY_bg8EjOmvG-Rs",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/promo-bot.ai.md",
+      "title": "Promobot",
+      "excerpt": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/promo-bot.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/promo-bot.ai/",
+      "type": "profile",
+      "name": "Promobot",
+      "overview": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
+      "website": "https://promo-bot.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/promobot"
+      },
+      "twitter": {
+        "username": "promobot",
+        "url": "https://twitter.com/promobot",
+        "followers": 563
+      },
+      "yearFounded": 2015,
+      "locations": [
+        "Warminster Heights, PA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=7Ju3aMH-fyk"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1287728520580534272/Su_3X8uA_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Promobot",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/reply.ai.md",
       "title": "Reply.ai",
       "excerpt": "Reply.ai makes customer service faster and smarter by automating repetitive processes and delivering instant and personalized attention on messaging channels.",
@@ -281,6 +602,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/squirrelai.md",
+      "title": "Squirrel AI Learning",
+      "excerpt": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/squirrelai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/squirrelai/",
+      "type": "profile",
+      "name": "Squirrel AI Learning",
+      "overview": "Squirrel AI Learning is the first pure-play AI-powered adaptive education provider in China.",
+      "website": "https://www.squirrelai.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/yixue-squirrel-ai"
+      },
+      "twitter": {
+        "username": "SquirrelAI_Edu",
+        "url": "https://twitter.com/SquirrelAI_Edu",
+        "followers": 476
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Shanghai"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1259155145327288320/aN-PCWqc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Squirrel AI Learning",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/standard.ai.md",
       "title": "Standard Cognition",
       "excerpt": "Improving the retail checkout experience, by removing it entirely.",
@@ -429,6 +788,44 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/vectra.ai.md",
+      "title": "Vectra",
+      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
+      "type": "profile",
+      "name": "Vectra",
+      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "website": "https://vectra.ai",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/vectra-networks"
+      },
+      "twitter": {
+        "username": "Vectra_AI",
+        "url": "https://twitter.com/Vectra_AI",
+        "followers": 2553
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Vectra",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/voyage.auto.md",
       "title": "Voyage",
       "excerpt": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
@@ -534,76 +931,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/anomali.md",
-      "title": "Anomali",
-      "excerpt": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anomali/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/anomali/",
+      "path": "_companies/6sense.md",
+      "title": "6sense",
+      "excerpt": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/6sense/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/6sense/",
       "type": "profile",
-      "name": "Anomali",
-      "overview": "Anomali delivers earlier detection and identification of adversaries in your organizations network.",
-      "website": "https://www.anomli.com",
+      "name": "6sense",
+      "overview": "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth.",
+      "website": "https://www.6sense.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/threatstream"
+        "url": "https://www.crunchbase.com/organization/6sense"
       },
       "twitter": {
-        "username": "Anomali",
-        "url": "https://twitter.com/Anomali",
-        "followers": 8781
+        "username": "6senseInc",
+        "url": "https://twitter.com/6senseInc",
+        "followers": 18904
       },
       "yearFounded": 0,
       "locations": [
-        "Redwood City, CA"
+        "San Francisco"
       ],
       "topics": [
         "AI",
-        "AI in Security"
+        "AI in Marketing"
       ],
-      "heat": 57,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/704208076216233984/GCReHMVS_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1280217113278517248/cvplgUVY_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Anomali",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/metabiota.md",
-      "title": "Metabiota",
-      "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/metabiota/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/metabiota/",
-      "type": "profile",
-      "name": "Metabiota",
-      "overview": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
-      "website": "https://www.metabiota.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/metabiota"
-      },
-      "twitter": {
-        "username": "metabiota",
-        "url": "https://twitter.com/metabiota",
-        "followers": 1359
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1369897181419696128/lLkpj0NP_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Metabiota",
+          "title": "6sense",
           "isCached": true
         }
       ],
@@ -925,7 +1284,7 @@
       "twitter": {
         "username": "anki",
         "url": "https://twitter.com/anki",
-        "followers": 26642
+        "followers": 26644
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -1009,44 +1368,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aptiv.md",
-      "title": "Aptiv",
-      "excerpt": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aptiv/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aptiv/",
-      "type": "profile",
-      "name": "Aptiv",
-      "overview": "Aptiv is a global technology company that develops safer, greener, and more connected solutions, which enable the future of mobility.",
-      "website": "https://www.aptiv.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aptiv"
-      },
-      "twitter": {
-        "username": "Aptiv",
-        "url": "https://twitter.com/Aptiv",
-        "followers": 17228
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Dublin, Ireland"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/937902359866257408/yU2l2KqH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aptiv",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1189,293 +1510,6 @@
           "height": 400,
           "title": "Tetra",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aurorainnovation.md",
-      "title": "Aurora Innovation",
-      "excerpt": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aurorainnovation/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aurorainnovation/",
-      "type": "profile",
-      "name": "Aurora Innovation",
-      "overview": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
-      "website": "https://aurorainnovation.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/aurora-innovation-ab",
-        "followers": 702
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aurora-innovation"
-      },
-      "size": "51-200 employees",
-      "yearFounded": 1996,
-      "locations": [
-        "Uppsala"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/827102291647926272/X9sEbeNi_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aurora Innovation",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_Zuj21ezXcQ/company-logo_200_200/0?e=1594857600&v=beta&t=Qm8VOi9xOQgYsyZNFs4Kr2rggwCriin5UcWWzHUZ22s",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aviso.md",
-      "title": "Aviso",
-      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
-      "type": "profile",
-      "name": "Aviso",
-      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "website": "https://www.aviso.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aviso-inc"
-      },
-      "twitter": {
-        "username": "AvisoInc",
-        "url": "https://twitter.com/AvisoInc",
-        "followers": 862
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Aviso",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/axyon.ai.md",
-      "title": "Axyon AI",
-      "excerpt": "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/axyon.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/axyon.ai/",
-      "type": "profile",
-      "name": "Axyon AI",
-      "overview": "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading.",
-      "website": "https://axyon.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/axyon-ai/",
-        "followers": 807
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/axyon-ai-srl"
-      },
-      "twitter": {
-        "username": "axyonai",
-        "url": "https://twitter.com/axyonai",
-        "followers": 136
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Modena, Italy"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/672071098951831552/oEH_Tw4x_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Axyon AI",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFvW39zAmPs5g/company-logo_200_200/0?e=1594857600&v=beta&t=kI5CD2vgr4BAYNPoC6jfprrH4GfylJbX_cZlL32sVlY",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/bash.ai.md",
-      "title": "Bash.ai",
-      "excerpt": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/bash.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/bash.ai/",
-      "type": "profile",
-      "name": "Bash.ai",
-      "overview": "Currently, majority of the software or technologies used in the HR function facilitate only non- employee facing activities (backend functions).",
-      "website": "http://bash.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/bash.ai/",
-        "followers": 171
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/bash-ai"
-      },
-      "twitter": {
-        "username": "letsbashit",
-        "url": "https://twitter.com/letsbashit",
-        "followers": 55
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Gurugram, Haryana"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=AtqYoCjw3gA"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/872382295134666752/dyQF2x9K_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Bash.ai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/beaconcure.md",
-      "title": "BeaconCure",
-      "excerpt": "AI-Driven Robots for Food Service, Retail, & Health Care",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/beaconcure/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/beaconcure/",
-      "type": "profile",
-      "name": "BeaconCure",
-      "overview": "AI-Driven Robots for Food Service, Retail, & Health Care",
-      "website": "https://www.beaconcure.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/beaconcure"
-      },
-      "twitter": {
-        "username": "beaconcure",
-        "url": "https://www.twitter.com/beaconcure",
-        "followers": 33
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Tel Aviv-Yafo, Israel"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=kag2mOw2Tj0"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1302975699662376960/ne6HT3Ec_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "BeaconCure",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/biofourmis.md",
-      "title": "Biofourmis",
-      "excerpt": "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/biofourmis/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/biofourmis/",
-      "type": "profile",
-      "name": "Biofourmis",
-      "overview": "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain.",
-      "website": "http://www.biofourmis.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/biofourmis/",
-        "followers": 4137
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/biofourmis-pte-ltd"
-      },
-      "twitter": {
-        "username": "biofourmis",
-        "url": "https://twitter.com/biofourmis",
-        "followers": 621
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Singapore, Singapore",
-        "Boston, MA",
-        "Boston, Massachusetts"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ui5HSwZJcvw"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1262823251643977730/41pmXE41_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Biofourmis",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQEpYGJwOi05CA/company-logo_200_200/0?e=1594857600&v=beta&t=knev6GUHkP2EPBLuHT2modcQRTosoG1rFvWV_S0cbvE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"

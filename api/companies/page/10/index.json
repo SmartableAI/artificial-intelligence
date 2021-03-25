@@ -4,6 +4,129 @@
   "page": 10,
   "value": [
     {
+      "path": "_companies/ubiquity6.md",
+      "title": "Ubiquity6",
+      "excerpt": "Ubiquity6 is working on some of the hardest challenges in computer vision, augmented reality and mapping.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/ubiquity6/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/ubiquity6/",
+      "type": "profile",
+      "name": "Ubiquity6",
+      "overview": "Ubiquity6 is working on some of the hardest challenges in computer vision, augmented reality and mapping.",
+      "website": "http://ubiquity6.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/ubiquity6/",
+        "followers": 2548
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ubiquity6"
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1171929635975622658/twdYPRkV_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Ubiquity6",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGVtKvDt4hdcg/company-logo_200_200/0?e=1594857600&v=beta&t=iHDvtZAhTUYS8GnDicLVVI8qQ0IArx6Zndr4YJacY1g",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/ucare.ai.md",
+      "title": "Ucare.ai",
+      "excerpt": "UCare.ai is a Singapore-based Artificial Intelligence-powered healthcare startup.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/ucare.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/ucare.ai/",
+      "type": "profile",
+      "name": "Ucare.ai",
+      "overview": "UCare.ai is a Singapore-based Artificial Intelligence-powered healthcare startup.",
+      "website": "http://www.ucare.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ucare-io"
+      },
+      "yearFounded": 0,
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=9A5bFTeS1uw"
+        }
+      ],
+      "heat": 50,
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/vian.ai.md",
+      "title": "Vianai",
+      "excerpt": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vian.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/vian.ai/",
+      "type": "profile",
+      "name": "Vianai",
+      "overview": "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI.",
+      "website": "https://www.vian.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/vianai/",
+        "followers": 2550
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/vianai"
+      },
+      "twitter": {
+        "username": "VianaiSystems",
+        "url": "https://twitter.com/VianaiSystems",
+        "followers": 594
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2019,
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1171969525803184128/cFAPYNRR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Vianai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/vicarious.md",
       "title": "Vicarious",
       "excerpt": "Vicarious is developing artificial general intelligence for robots. By combining insights from generative probabilistic models and systems neuroscience, our architecture trains faster, adapts more readily, and generalizes more broadly than AI approaches commonly used today.",
@@ -504,82 +627,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/collectivei.md",
-      "title": "Collective[i]",
-      "excerpt": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collectivei/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/collectivei/",
-      "type": "profile",
-      "name": "Collective[i]",
-      "overview": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "website": "https://www.collectivei.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/collective-i"
-      },
-      "twitter": {
-        "username": "collectivei",
-        "url": "https://twitter.com/collectivei",
-        "followers": 1143
-      },
-      "yearFounded": 0,
-      "locations": [
-        "New York, NY"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1362805529077252097/6FpjDO2k_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Collective[i]",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/reflektion.md",
-      "title": "Reflektion",
-      "excerpt": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reflektion/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/reflektion/",
-      "type": "profile",
-      "name": "Reflektion",
-      "overview": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "website": "https://www.reflektion.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/reflektion"
-      },
-      "twitter": {
-        "username": "ReflektionInc",
-        "url": "https://twitter.com/ReflektionInc",
-        "followers": 1436
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/910264575034933248/rJvYegtU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Reflektion",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1323,7 +1370,7 @@
       "twitter": {
         "username": "lilthq",
         "url": "https://twitter.com/lilthq",
-        "followers": 5760
+        "followers": 5759
       },
       "size": "2-10 employees",
       "yearFounded": 2015,
@@ -1377,7 +1424,7 @@
       "twitter": {
         "username": "LuminousAI",
         "url": "https://twitter.com/LuminousAI",
-        "followers": 1057
+        "followers": 1058
       },
       "size": "2-10 employees",
       "yearFounded": 2018,
@@ -1520,52 +1567,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/niramai.md",
-      "title": "Niramai Health Analytix",
-      "excerpt": "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/niramai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/niramai/",
-      "type": "profile",
-      "name": "Niramai Health Analytix",
-      "overview": "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®",
-      "website": "http://www.niramai.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/niramai-health-analytix"
-      },
-      "twitter": {
-        "username": "niramaianalytix",
-        "url": "https://twitter.com/niramaianalytix",
-        "followers": 844
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Rich Jerk Headquarters, USA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=3mx-g-RJoKg"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/755680998478741504/NpmYIAXx_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Niramai Health Analytix",
-          "isCached": true
         }
       ],
       "content": "\r\n"

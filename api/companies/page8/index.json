@@ -4,6 +4,268 @@
   "page": 8,
   "value": [
     {
+      "path": "_companies/eyediagnosis.net.md",
+      "title": "IDx",
+      "excerpt": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/eyediagnosis.net/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/eyediagnosis.net/",
+      "type": "profile",
+      "name": "IDx",
+      "overview": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
+      "website": "https://www.eyediagnosis.net/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/idxtechnologiesinc",
+        "followers": 1172
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/idx-2"
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Coralville, Iowa"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=jmGvEYv3I2E"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE8hiaDfXNeSg/company-logo_200_200/0?e=1594857600&v=beta&t=bM7iA8YTbzNxDDcP4_h3jtQNJbMwGVJNPz_ehNa7PBo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/fdna.md",
+      "title": "FDNA",
+      "excerpt": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fdna/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/fdna/",
+      "type": "profile",
+      "name": "FDNA",
+      "overview": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+      "website": "https://www.fdna.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/fdna",
+        "followers": 1151
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/fdna-inc"
+      },
+      "twitter": {
+        "username": "FDNA",
+        "url": "https://twitter.com/FDNA",
+        "followers": 6422
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Boston, MA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=qUDQnRMJOcw"
+        }
+      ],
+      "heat": 50,
+      "tags": [
+        "Cancer"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "FDNA",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/foodvisor.io.md",
+      "title": "Foodvisor",
+      "excerpt": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/foodvisor.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/foodvisor.io/",
+      "type": "profile",
+      "name": "Foodvisor",
+      "overview": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
+      "website": "http://www.foodvisor.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/foodvisor/",
+        "followers": 1553
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/foodvisor"
+      },
+      "twitter": {
+        "username": "foodvisor_app",
+        "url": "https://twitter.com/foodvisor_app",
+        "followers": 1202
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Paris, Ile de France"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=H77GQBirQkM"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/805813676926205953/s_f8nCWI_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Foodvisor",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE50pGtmP_m4w/company-logo_200_200/0?e=1594857600&v=beta&t=E5Q9aENJAMmjFQNvwyYhVq2fVhLG3-n-jTdZU7S--iA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/freedomrobotics.ai.md",
+      "title": "Freedom Robotics",
+      "excerpt": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/freedomrobotics.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/freedomrobotics.ai/",
+      "type": "profile",
+      "name": "Freedom Robotics",
+      "overview": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
+      "website": "https://www.freedomrobotics.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/freedomrobotics/",
+        "followers": 277
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/freedom-robotics"
+      },
+      "twitter": {
+        "username": "FRDMROBOTICS",
+        "url": "https://twitter.com/FRDMROBOTICS",
+        "followers": 516
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1153450184526852097/B_tcgtrN_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Freedom Robotics",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEicfD2VUSuFQ/company-logo_200_200/0?e=1594857600&v=beta&t=OUFYSMVpyrQOq1KKei-sPYD-i7j1l-CfIeVlQb2Tics",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/gatik.ai.md",
+      "title": "Gatik",
+      "excerpt": "Gatik creates autonomous solutions to tackle expensive urban logistics for businesses. Focusing on B2B cargo delivery, Gatik uses Level 4 automated light trucks and vans to ensure goods are transported efficiently and affordably in city environments between business locations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gatik.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/gatik.ai/",
+      "type": "profile",
+      "name": "Gatik",
+      "overview": "Gatik creates autonomous solutions to tackle expensive urban logistics for businesses. Focusing on B2B cargo delivery, Gatik uses Level 4 automated light trucks and vans to ensure goods are transported efficiently and affordably in city environments between business locations.",
+      "website": "http://www.gatik.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/gatik_ai/",
+        "followers": 712
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/gatik-ai"
+      },
+      "twitter": {
+        "username": "gatik_ai",
+        "url": "https://twitter.com/gatik_ai",
+        "followers": 590
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Palo Alto, CA",
+        "Palo Alto, California"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 50,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1258570166067032065/0toyO4-y_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Gatik",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/geenee.me.md",
       "title": "Geenee",
       "excerpt": "GEENEE is an advanced video and image recognition platform that uses patented technology to deliver dynamic, curated content into the moments of daily life.",
@@ -1238,277 +1500,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS7cPoXEKZLw/company-logo_200_200/0?e=1594857600&v=beta&t=wqA8W5HJQ9WiWeS1xvkHFslIZdwQ-JgmTJEXpfNOtY0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/movidius.md",
-      "title": "Movidius",
-      "excerpt": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/movidius/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/movidius/",
-      "type": "profile",
-      "name": "Movidius",
-      "overview": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
-      "website": "http://www.movidius.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/movidius",
-        "followers": 20091
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/movidius"
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2005,
-      "locations": [
-        "Santa Clara, CA",
-        "Santa Clara, California"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=hD3RYGJgH4A"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Movidius",
-          "isCached": false
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHMBK9DktdgOg/company-logo_200_200/0?e=1594857600&v=beta&t=J53cwyA96-njplV5LC0dIsGYTIxT-3S1GU5SFLHhTj0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/mythic-ai.md",
-      "title": "Mythic",
-      "excerpt": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mythic-ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mythic-ai/",
-      "type": "profile",
-      "name": "Mythic",
-      "overview": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
-      "website": "https://www.mythic-ai.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/isocline",
-        "followers": 214
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/isocline"
-      },
-      "twitter": {
-        "username": "mythicinc",
-        "url": "https://twitter.com/mythicinc",
-        "followers": 708
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Austin, TX",
-        "Austin, TX"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=q59k-4c-hbk"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mythic",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/narrativa.md",
-      "title": "Narrativa",
-      "excerpt": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/narrativa/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/narrativa/",
-      "type": "profile",
-      "name": "Narrativa",
-      "overview": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
-      "website": "http://www.narrativa.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/9329868",
-        "followers": 341
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/narrative-visualization"
-      },
-      "twitter": {
-        "username": "NarrativaAI",
-        "url": "https://twitter.com/NarrativaAI",
-        "followers": 728
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Shipping worldwide",
-        "Madrid, Boadilla del Monte"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Cztoxp9-4ZA"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1347122063409106948/I5YSeFYF_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Narrativa",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/narrativescience.md",
-      "title": "Narrative Science",
-      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/narrativescience/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/narrativescience/",
-      "type": "profile",
-      "name": "Narrative Science",
-      "overview": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
-      "website": "https://narrativescience.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/narrative-science/",
-        "followers": 6514
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/narrative-science"
-      },
-      "twitter": {
-        "username": "narrativesci",
-        "url": "https://twitter.com/narrativesci",
-        "followers": 7257
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Chicago, IL",
-        "Chicago, Illinois"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ],
-      "heat": 50,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1273232294472552448/mJf_dZwh_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Narrative Science",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_200_200/0?e=1594857600&v=beta&t=7IP2KNX7zXrRKHszLb9OM4Swx2khf4ekiOTic0exGPk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/nutrino.md",
-      "title": "Nutrino",
-      "excerpt": "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/nutrino/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/nutrino/",
-      "type": "profile",
-      "name": "Nutrino",
-      "overview": "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier.",
-      "website": "https://www.nutrinohealth.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/nutrino",
-        "followers": 1309
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/nutrino"
-      },
-      "twitter": {
-        "username": "NutrinoCo",
-        "url": "https://twitter.com/NutrinoCo",
-        "followers": 7
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Tel-Aviv, ."
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=ynhELhRZO1s"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/647537901971095552/Y083_A7n_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Nutrino",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHfQMuGfVS0Qg/company-logo_200_200/0?e=1594857600&v=beta&t=qqSHyIcWry498ipimTh7vDWuHL91JalI05MndO4-Ofg",
           "width": 400,
           "height": 400,
           "title": "logo",
