@@ -9,8 +9,8 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-n
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/amp/"
 type: article
 quality: 83
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Web
@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why Artificial Intelligence Will Always Fail LGBTQ People"
-    excerpt: "One expert in the field, anthropologist Mary L. Gray, believes AI will “always fail LGBTQ people” – and it will be up to us, to make sure it reflects the way we want our world to be."
-    publishedDateTime: 2021-03-21T09:00:00Z
-    webUrl: "https://www.forbes.com/sites/jamiewareham/2021/03/21/why-artificial-intelligence-will-always-fail-lgbtq-people/"
+  - title: "The Trevor Project Launches New AI Tool To Support Crisis Counselor Training"
+    excerpt: "NEW YORK, March 24, 2021 /PRNewswire/ -- The Trevor Project, the world's largest suicide prevention and crisis intervention organization for lesbian, gay, bisexual, transgender, queer & questioning (LGBTQ) young people ... about real-life feelings and ..."
+    publishedDateTime: 2021-03-24T13:06:00Z
+    webUrl: "https://www.thetrevorproject.org/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 134
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60548370156fb78b59a5ca77%2F0x0.jpg%3FcropX1%3D595%26cropX2%3D4256%26cropY1%3D341%26cropY2%3D2400"
-        width: 1200
-        height: 675
+      - url: "https://www.thetrevorproject.org/wp-content/uploads/2021/02/aapi-hate-crime-hp-1880x840.jpg"
+        width: 1880
+        height: 840
         isCached: true
 
 secured: "6cgL4W/5XV1liIsIX3cSTnLoa+wjE5Oi6spKtL7XLmgvLU/zP64ARnassIC0ONqWNi1ZRH6nURmGyEYmjBT+XUatxcRTmBG2Ixhov18cKd/HOy0cckdpb2e8BRE8LdnyDKD1fiMk0R3yxULZDnskIgzjrVpxNraVd4Z0IWz0Xof7MYazlceYVyxkNOH29yOYFtAOtUpF2We54VbsLV+r2Q3MsNbPyaX6envrq3YkJ1/O9a6+S0xzGhBsilqh2QdKBGTChpya9RC2SzflF949Ia5ZwtvQjfbsD5TDvG0Hcsdhu4XQ0bk4oGAKCZ986DnQmlp1o7NPcz0njs1WXYCOOmROCgdpRKWT8/tyXPAbEoubWechjgwmz3yC7mLg5X/lC3E+fL+FmDZddXPdg57XEt802WlgBs6+WVWaozgo3tO9qKe8EP5UPtHHRLvaBDlBw/HQdY/Wyif5+tY+oQSWCADTS6YGNFE1D7lAe03khD+nf4UijWEB2RK9xyp6fJVo1b8gSnb5XMmNNC9ZHipn9w==;B37hqYm2A9BDltzk+cDIGw=="

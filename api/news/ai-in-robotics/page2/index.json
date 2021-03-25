@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-17-ford-partners-with-university-on-robotics-new-building.md",
+      "title": "Ford partners with university on robotics, new building",
+      "excerpt": "The four-story building on the University of Michigan's campus brings together researchers from 23 buildings and 10 programs into one space, including researchers and engineers from the Ford Motor Co.",
+      "sourceUrl": null,
+      "webUrl": "https://finance-commerce.com/2021/03/ford-partners-with-university-on-robotics-new-building/",
+      "originalUrl": "https://finance-commerce.com/2021/03/ford-partners-with-university-on-robotics-new-building/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://finance-commerce.com/files/2021/03/WEB-Robotics-AP-w.jpg",
+          "width": 620,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance & Commerce",
+        "domain": "finance-commerce.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-empathetic-robots-are-killing-off-the-worlds-call-center-industry.md",
+      "title": "Empathetic Robots Are Killing Off the World’s Call-Center Industry",
+      "excerpt": "Some local industry executives insist the situation isn’t as dire as many predict. AI is a long way from replacing humans for more complicated voice calls or chats, says Jonatha",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-16/artificial-intelligence-chatbots-threaten-call-center-industry-human-operators",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-16/artificial-intelligence-chatbots-threaten-call-center-industry-human-operators",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idVvrWAi0HgA/v0/1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex.md",
       "title": "Take a look inside University of Michigan’s new Ford Motor Co. robotics complex",
       "excerpt": "The Ford Motor Company Robotics Building on University of Michigan's North Campus is a $75 million state-of-the-art facility.",
@@ -1313,101 +1408,6 @@
       "provider": {
         "name": "City A.M.",
         "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ais-impact-on-businessesand-jobs.md",
-      "title": "AI’s Impact on Businesses—and Jobs",
-      "excerpt": "And start the retraining ... What kinds of AI innovation are you seeing? DR. LEE: Well, I’m based in China, and as you know, China’s the world’s factory. So I would say in the past year, the most exciting things I’ve seen are robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ais-impact-on-businessesand-jobs-11615234143",
-      "originalUrl": "https://www.wsj.com/articles/ais-impact-on-businessesand-jobs-11615234143",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-307944/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ais-impact-on-businessesand-jobs-11615234143",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ais-impact-on-businessesand-jobs-11615234143",
-      "publishedDateTime": "2021-03-08T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-roborock-s7-review-setting-the-bar-again-on-robot-mopping.md",
-      "title": "Roborock S7 Review: Setting The Bar Again, On Robot Mopping!",
-      "excerpt": "The S7 is the latest line of robot vacuums from Roborock, after having the S6 series the last couple of years. The main upgrade with the Roborock S7 this",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review",
-      "originalUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/03/Roborock-S7-Review-Featured-AM-AH.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/roborock-s7-robot-vacuum-review/amp",
-      "publishedDateTime": "2021-03-08T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
         "images": null,
         "publishers": null,
         "authors": null

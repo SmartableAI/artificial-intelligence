@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/871c50f7-24a3-4d66-bac5-57aa5d70596b"
 webUrl: "https://www.ft.com/content/871c50f7-24a3-4d66-bac5-57aa5d70596b"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "TUC urges new laws to rein-in artificial intelligence"
+    excerpt: "The TUC has sounded the alarm over what it describes as ‘huge gaps’ in UK employment law over the use of artificial intelligence at work. New legal protections were needed as workers could be “hired and fired by algorithm” the trade union body said in a report published today (25 March)."
+    publishedDateTime: 2021-03-25T13:31:00Z
+    webUrl: "https://www.personneltoday.com/hr/tuc-urges-new-laws-to-rein-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Personnel Today
+      domain: personneltoday.com
+    quality: 37
+    images:
+      - url: "https://www.personneltoday.com/wp-content/uploads/sites/8/2021/03/shutterstock_768710794.jpg"
+        width: 635
+        height: 357
+        isCached: true
 
 secured: "kM9NYxVQ90XmgdNmlfhXhAcDF1qcMWyYkKyN8fE4xmJVJ3kTKdfcQrXUUIZBADyCc3TmOxYzv7Knsa5E8Tm6Bce2/uq5E/MocL9pzltR5XxDWO60MI4Yk9uA+4/KyTidR/5vTGU0+O3wvXQPiZOroenEXDTGCbNHe00G2vucIF7cmjaDQlNLBt/AF6Ch1F13o+MFCXufylzrs7dVb+JfhfhYQsEQRXrayK5U2zBTu/gmS0tqxrMWNPT1fbN8tdU8h6FTCa1P/S+cb5CPsFt/yXAaPklboaZ7s67dUWgEGXeEtPNQ9T4njWbvA/IAQAir9hUDL1ZaQOKM1ozU4JJwNbLjlw0LkaBfZAhxHPxx41wfAhsXkSym9ChQUy2mRYQIdiR0a3w4m5B/KvDhl7QwMWYiZ0n5v52bcnVfe7eIbNFnJMbBNKgRsSMrk+elrJ4IAs9Jz6DyrerDEyMzxAj7G/hNvvh++1jKG5sobst8iPWI5EAGb0tyMmEtbTFJf9fjyz3JHdCtvY5cv4TC0fY7Ig==;kQt3WuMRpLzOJpFoMIAmFg=="
 ---

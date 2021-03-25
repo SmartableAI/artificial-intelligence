@@ -2,6 +2,342 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-16-machine-learning-can-identify-cancerous-cells-by-their-acidity.md",
+      "title": "Machine learning can identify cancerous cells by their acidity",
+      "excerpt": "Cancerous cells exhibit several key differences from healthy cells that help identify them as dangerous. For instance, the pH—the level of acidity—within a cancerous cell is not the same as the pH within a healthy cell.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/19-machinelearn.jpg",
+          "width": 1536,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-cancerous-cells-acidity.amp",
+      "publishedDateTime": "2021-03-16T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-cancer-therapy-how-our-cells-are-becoming-resistant-to-medication.md",
+      "title": "Cancer therapy: How our cells are becoming resistant to medication",
+      "excerpt": "Human cells are constantly changing shape. Biologists know that these morphological changes reflect changes in a cell’s function but our ability to understand the meaning behind a cell’s shape has, to date,",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news765031",
+      "originalUrl": "https://idw-online.de/de/news765031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/corona_idw.png",
+          "width": 615,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub.md",
+      "title": "Google uses machine learning to fix your bad sleeping habits with new Nest Hub",
+      "excerpt": "Udall said Google made this feature work through \"science and machine learning\". Google partnered with the American Academy of Sleep Medicine for the new tech and it was trained using more than 100,000 nights of sleep from over 15,000 people. Google said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
+      "originalUrl": "https://www.zdnet.com/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/16/62077372-1d79-4e40-818c-7af79731467a/google-nest-hub.jpg",
+          "width": 1100,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
+      "publishedDateTime": "2021-03-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-researchers-enhance-quantum-machine-learning-algorithms.md",
+      "title": "Researchers enhance quantum machine learning algorithms",
+      "excerpt": "... infer parameters used in an important quantum Boltzmann machine algorithm for machine learning applications. Their findings were published in Scientific Reports. The work could help build ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-03-quantum-machine-algorithms.html",
+      "originalUrl": "https://phys.org/news/2021-03-quantum-machine-algorithms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/11-researcherse.jpg",
+          "width": 711,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-03-quantum-machine-algorithms.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-quantum-machine-algorithms.amp",
+      "publishedDateTime": "2021-03-16T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-amgen-announces-artificial-intelligence-ai-partnership-with-mila.md",
+      "title": "Amgen announces Artificial Intelligence (AI) Partnership with Mila",
+      "excerpt": "CNW/ - Amgen announced today that it has entered into a multi-year partnership with Mila – Quebec Artificial Intelligence Institute. One of the world's leading biotechnology companies, Amgen uses cutting-edge science and technology to discover and develop innovative therapeutics,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/amgen-announces-artificial-intelligence-ai-partnership-with-mila-1030214798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1456317/Amgen_Canada_Amgen_announces_Artificial_Intelligence__AI__Partne.jpg",
+          "width": 400,
+          "height": 218,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-new-5g-and-ai-studio-opens-as-part-of-collaboration-with-ibm-samsung-and-m1.md",
+      "title": "New 5G and AI studio opens as part of collaboration with IBM, Samsung and M1",
+      "excerpt": "The studio will support Industry 4.0 use cases for everything from autonomous vehicles to collaborative robots and 3D augmented reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/new-5g-and-ai-studio-opens-as-part-of-collaboration-with-ibm-samsung-and-m1/",
+      "originalUrl": "https://www.techrepublic.com/article/new-5g-and-ai-studio-opens-as-part-of-collaboration-with-ibm-samsung-and-m1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/16/3d54902c-e25a-42f2-a5a2-499d539dcd55/resize/1200x/44106328a937c60ae06c6177073353c8/ibm-samsung-studio-industry-4-0.jpg",
+          "width": 1200,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-5g-and-ai-studio-opens-as-part-of-collaboration-with-ibm-samsung-and-m1/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-5g-and-ai-studio-opens-as-part-of-collaboration-with-ibm-samsung-and-m1/",
+      "publishedDateTime": "2021-03-16T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-diversity-and-inclusion-in-ai.md",
+      "title": "Diversity And Inclusion In AI",
+      "excerpt": "With the increasing role that AI plays in business processes, the production of goods and the products themselves, the lack of diversity in AI and the invisibility of people of color will become a cascade of crises.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1edc985d888ccd74fb1a81%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/16/diversity-and-inclusion-in-ai/amp/",
+      "publishedDateTime": "2021-03-16T06:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-noogata-raises-12m-seed-round-for-its-no-code-enterprise-ai-platform.md",
       "title": "Noogata raises $12M seed round for its no-code enterprise AI platform",
       "excerpt": "Noogata, a startup that offers a no-code AI solution for enterprises, today announced that it has raised a $12 million seed round led by Team8, with participation from Skylake Capital. The company, which was founded in 2019 and counts Colgate and PepsiCo among its customers,",
@@ -896,334 +1232,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-fusion-tests-self-driving-fiat-ducato-europes-favorite-camper-van.md",
-      "title": "Fusion tests self-driving Fiat Ducato, Europe's favorite camper van",
-      "excerpt": "Europe's ubiquitous camper van and motorhome base vehicle, the Fiat Ducato took a step toward camping future last year when it rolled out in all-electric guise. Now it takes another step, albeit a less official one,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/",
-      "originalUrl": "https://newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/44c0ec9/2147483647/strip/true/crop/4644x3096+430+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc4%2F90%2Fe576f6254e69a690715eb825efd2%2Ffusion-processing-autonomous-van-4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/autonomous-fiat-ducato-fusion-level-4/?amp=true",
-      "publishedDateTime": "2021-03-15T17:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-advanced-prosthetic-hands-are-closer-than-ever-to-the-real-thing.md",
-      "title": "Advanced Prosthetic Hands Are Closer Than Ever to the Real Thing",
-      "excerpt": "Image source: Guy Hotson) Earlier this year, researchers in Baltimore demonstrated a mind-controlled prosthetic hand. The robotic hand was wired to an electrode array containing 128 sensors, about the size of a credit card, which was attached to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
-      "originalUrl": "https://www.designnews.com/medical/advanced-prosthetic-hands-are-closer-ever-real-thing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/HandOnBrain.png",
-          "width": 1318,
-          "height": 712,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-retrotechtacular-6ch-industrial-robot.md",
-      "title": "Retrotechtacular: 6CH Industrial Robot",
-      "excerpt": "With this robotic arm demo video from 1975 the future really is now. Think about it, there are entire factories full of the descendants of this technology where the human workers simply feed the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2013/09/03/retrotechtacular-6ch-industrial-robot/",
-      "originalUrl": "https://hackaday.com/2013/09/03/retrotechtacular-6ch-industrial-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2013/09/retrotechtacular-6ch-robot-arm.png",
-          "width": 640,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-use-of-ai-to-fight-covid-19-risks-harming-disadvantaged-groups-experts-warn.md",
-      "title": "Use of AI to fight COVID-19 risks harming 'disadvantaged groups', experts warn",
-      "excerpt": "The Leverhulme Centre for the Future of Intelligence recently launched the UK's first Master's course for ethics in AI. For Cave and colleagues, machine learning in the COVID era should be viewed ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/covid19.jpg",
-          "width": 1920,
-          "height": 1032,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-covid-disadvantaged-groups-experts.amp",
-      "publishedDateTime": "2021-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-sherpa-raises-85m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services.md",
-      "title": "Sherpa raises $8.5M to expand from conversational AI to B2B privacy-first federated learning services",
-      "excerpt": "Sherpa, a startup from Bilbao, Spain that was an early mover in building a voice-based digital assistant and predictive search for Spanish-speaking audiences, has raised some more funding to double down on a newer focus for the startup,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/",
-      "originalUrl": "https://techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-931422334.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/15/sherpa-raises-8-5m-to-expand-from-conversational-ai-to-b2b-privacy-first-federated-learning-services/amp/",
-      "publishedDateTime": "2021-03-15T16:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-new-machine-learning-technique-could-quicken-the-pace-of-drug-discovery.md",
-      "title": "New machine learning technique could quicken the pace of drug discovery",
-      "excerpt": "Assessing that stickiness is a key hurdle in the drug discovery and screening process. New research combining chemistry and machine learning could lower that hurdle. The new technique, dubbed DeepBAR, quickly calculates the binding affinities between drug ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210315/New-machine-learning-technique-could-quicken-the-pace-of-drug-discovery.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210315/New-machine-learning-technique-could-quicken-the-pace-of-drug-discovery.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210315/New-machine-learning-technique-could-quicken-the-pace-of-drug-discovery.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210315/New-machine-learning-technique-could-quicken-the-pace-of-drug-discovery.aspx",
-      "publishedDateTime": "2021-03-15T15:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-cruise-purchases-self-driving-shuttle-service-voyage.md",
-      "title": "Cruise purchases self-driving shuttle service Voyage",
-      "excerpt": "Voyage has been offering its service to customers in retirement communities in California and Florida. Cruise, the GM-backed autonomous vehicle development company, has acquired another self-driving vehicle company called Voyage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/cruise-voyage-purchased-self-driving/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/cruise-voyage-purchased-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-voyage-purchased-self-driving/",
-      "publishedDateTime": "2021-03-15T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

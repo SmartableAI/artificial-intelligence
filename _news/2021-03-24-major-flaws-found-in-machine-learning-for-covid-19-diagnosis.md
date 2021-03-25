@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-lear
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/coronavirus_shutterstock_2_Rost9.jpg"
         width: 821
         height: 576
+        isCached: true
+  - title: "AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19"
+    excerpt: "Preventive Intervention • Public Health Technology Type(s) natural language processing objective • Artificial Intelligence Sample Characteristic - Environment anthropogenic environment Sample Characte"
+    publishedDateTime: 2021-03-25T13:32:00Z
+    webUrl: "https://www.nature.com/articles/s41597-021-00878-y?sf244173310=1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 33
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00878-y/MediaObjects/41597_2021_878_Fig1_HTML.png"
+        width: 685
+        height: 256
         isCached: true
 
 secured: "esbrU0q51tdqSIrHy/vWuVFm3HFXg73w4e5x30w8cjTnhS60wQXvIbm9LsnbwKz9pDhVcIx5yTniGIkl/GbamKyYetkmL1c0jQsxMMprrh50UvrqZU3R+U2+6oJT1ECt4Dt/N11yPUS9vk4XtqTnJORnvzdy6IMnZopeABnics20ydgXnJ5qP7/DsjLmq4aO6qRp6DHNCLCayNwhI7TVAlt95TYx/Jw+RDJruXPqyi9tqGCBtJ4I7JQe98ssTV+CuoxFHty7GiiZdsz32GriLlnp7gAhbeGrjDt1SZurUDj36wPiGmTb1TmajrKC+P2zEmEx3NFzgSyJMW3XqzsyfJ+Ixx3y14QN+Gl4wEql7hP0Zos6AqO/RCzwVb2XsFfsk3bd++f0/UcR/cx44lb0SwFbaJai9iOJsBLoVIa44maLyiN2X/JCssJ2tuikFN0kGQLEc5AsRpJQ5m+yFJq0dWNVxpDs3ui5lGDPFfcdPLtlTYr0iuj9s86ikF6bCq26zOMXtnOMjuvo/lDd5KpTkw==;Mx6VW12cNay6e8xICyS4tA=="

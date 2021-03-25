@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/amp
 cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,36 @@ images:
     height: 380
     isCached: true
 
-secured: "NULKlIYIbmOjGTTROdeObJE3yfr7g+0W5WL/7YE/mgOeFLdHaAp59dRbKDXV/vmHKF/52zk1w3ilM7TxJiPiY92BVM5pZwzBE8wsrco7rVmQkOrN1zMZFS8n244uhpCGX5IH1LUVrAlyE1ij25Y5LMNU/LByeLhgrlT/OXuGo2jeN5Brzy7OUTpzyHHQ2ufRil233JellSDBqT/0WSgK4DYO+JRnBcUxekf10nupnRohr41zTMmcxSmYMigEi4k31hrWEsDWNP6s7Igr0U44gVE0zcs/n1g63Mf4ofwOwjYSM3ZZKH4M77yrI6dbomJGa7L32izYz3rqoXwODqmvGwqEKdBUItqepRSK4qeGOwE=;R/lntp1j/TDVHSD8IwrJyA=="
+related:
+  - title: "Artificial Intelligence-Emotion Recognition Industry Global Market Growth, Status and Outlook Research Report 2020"
+    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6515304-covid-19-outbreak-global-artificial-intelligence-emotion-recognition In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the ..."
+    publishedDateTime: 2021-03-23T05:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool"
+    excerpt: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool, taking Thai companies to another level to deal with current challenges AIS has joined the Thailand AI Research Institute ..."
+    publishedDateTime: 2021-03-23T10:22:00Z
+    webUrl: "https://www.bangkokpost.com/thailand/pr/2088463/ais-teams-up-with-thailand-ai-research-institute-showcasing-ai-platform-of-thai-speech-emotion-recognition-in-world-first-tool"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 11
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20210323/c1_2088463_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
+
+secured: "ZqdpsG4fomTvwMYaTolHszlrqxQGHc5MifuBhxmdZsOCb55xTGVCGsHT0aZAm+Cv29VDsLJzPkO7J6I+j3VcK/XGkMtl59iEG67QDRAdHhEG1cIikHap8/LDSL2pzaIeDPSA67SQe8jz+HNb2nzN9tjYO9hcFVVUs1FNxVkGE+DANavPBFEkUmOGxvdhh+vNf/lkTMm0jdb79MxsHMfML+LMUkMGdqQ5e63Szr+lXcwwOdJikYpP8mUZyC16NzxwI3Jk/xa2+cJDYRk4GBfAzEIYZRHDUOARpSLwLiMnBjzuVili+26Lkm2Kdm0TNelABzQxpnpBT3buMG1JBhWeiNjHDDcP+dA3GP3CCtVzjE2y8hv9bUZNnLsg08tK7Qnp7VrSZ2SqOOVLePuE0yafFaBcgtLcZ5WWwpGP6An0f+jlv/Y+DhnPnnOpzqr4u2bg4efveD8RKAD9Xhjnqdp0Wwqx6LJnzkr/K9JJemvbV9tR13NdhuqqKjNBV+FGvYBhJ2BpEKTvd3Tfv//e/2+SOw==;kt4ORADv5J9dYy7vesu/yw=="
 ---
 

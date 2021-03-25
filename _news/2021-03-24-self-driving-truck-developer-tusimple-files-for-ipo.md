@@ -35,7 +35,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 74
+    quality: 174
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024"
         width: 1024
@@ -51,7 +51,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 74
+    quality: 174
     images:
       - url: "https://images.wsj.net/im-315504/social"
         width: 1280
@@ -150,6 +150,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TUSIMPLE-MAIN_i_0.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "SF Express Selects Self-Driving Truck Company Plus for China's First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China's first commercial freight pilot to demonstrate how supervised autonomous trucks improve"
+    publishedDateTime: 2021-03-25T13:44:00Z
+    webUrl: "https://www.lelezard.com/en/news-19717827.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
+    images:
+      - url: "https://www.lelezard.com/img/theme/lezard2.png"
+        width: 500
+        height: 414
         isCached: true
 
 secured: "uAPI3L3ti8hq+hOScP0rAPUzF1z2g6KgObxtB4ZEB1ogher+QvwT5+CEZ0l4IkCSAtf7mCja2e9pdXLLWCklN0PGhMLdh2pC/W/HNPJM3tVCW1X2H75BMPW2WUPD07B84B2vWiI92riTcib23nPEa++KBmMKwlLcH4/V1jjy0+I/0vVmd8ES5TI7rzOAoFDN2noGJjISoOJPB92Sp+L2w1cTWjb9qcR4PoDcf3cF/pXSkNBTyPdhqNNaQaE1FY9K1ClkZibukYSXMIBuwdIrcsE+dbLaTa+TXUR6czda2gfQRpl3v+pxGJsl8ZMSMiSl6J33KG4VAPoJoERmrycOQWgpqhTu58idEeXk/Jb3aGWQSwAX60/VsS9pemE9r9TKSlScTkyEt9SfUo8JLHYY49AlIQpDI9jXITxvw8jMy3/1it4td4Q27LYbQv5xlH2J1qAO8phsl830KqBsJnyQu/TRpI7b4WLxJFlPXaxsxFj+7SrKmxg3qg0lc6eYlhtAh4gBpvz6N4KSGGckuXMFQw==;sPoGsYEhF3HCRtYI/WBSTQ=="

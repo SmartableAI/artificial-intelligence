@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-f
 ampWebUrl: "https://techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/amp/"
 type: article
-quality: 74
-heat: 164
+quality: 174
+heat: 274
 published: true
 
 provider:
@@ -41,7 +41,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 74
+    quality: 174
     images:
       - url: "https://images.wsj.net/im-315504/social"
         width: 1280
@@ -155,7 +155,21 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "SF Express Selects Self-Driving Truck Company Plus for China's First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China's first commercial freight pilot to demonstrate how supervised autonomous trucks improve"
+    publishedDateTime: 2021-03-25T13:44:00Z
+    webUrl: "https://www.lelezard.com/en/news-19717827.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
+    images:
+      - url: "https://www.lelezard.com/img/theme/lezard2.png"
+        width: 500
+        height: 414
+        isCached: true
 
-secured: "PzAPktz7z4zXmEbNy/2PmOfeNT6Xwdhl3UowWigI40zqoyBWkQ8nE/cLCkHdUWbezRF6k0vsiD5xYg1K+1jdDOaAKOGWyC81WfzSG1XBtoMYEMz7mf8mwpD684JIS0heC5dirO4nU1sZcXfY8c0PgSUpttL3iiV2qIUWgt6G/pPX4zL4sBEVK/jIO7HUlb8J+tLgw+HYBaL8ySso8+m0CVIAb6+wInk8ltybM6y2Z2ctRkY1Di091T57fkkYdmmPQG0Tk9Vjlt20k23K8blBsP+r/171/3zCdss+/t2pPP9DxXdDM4VV5aIWRELdJ1NN0OG+mOzjkAJmXi4QdBezkh2MEV3TawP9LjppJ0GDBgo=;dhkrCR/ZVo5Ids45Y6odnw=="
+secured: "5/mBkCzct1dfZWk4eD06oLUYcNbDzmL9UzQ57iCdQhyh0Le+JddfvuSylxPYAZFv+dhZjdAyR8c5iudW6yMV0Eld8FkEyHBhkzthYS71kT5i1OMzFloynYpeGH+iSanBnStVQYC2ZqtEy4S6jfMEaoydfjOMr/mLKoIda68ECpXdb1rF17nLxSKfkz4AcsZQeVWshBX5KVfIYPWIF2CcJ7qE9B/S2oV7djknDfs45wubn6OQ15bX6mxCRo6tbYxvY/diSJ6FdMNeBJhGJM/LwOLPPQh4Kq8p75j/XAr/bLzownE+2Ni/DwPO5sGc6OLAZ+VUhlQxSPbLQ/3ANENw+1SsarmuGnSPmYYEbQAMCdA3YkkjDmXsipkE5C9r25o5;yAL/jMnzieiORYE76jLbjw=="
 ---
 

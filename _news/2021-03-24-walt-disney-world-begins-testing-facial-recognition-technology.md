@@ -91,6 +91,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Disney is testing facial recognition at Walt Disney World"
+    excerpt: "Walt Disney World started testing out facial recognition technology software in the Magic Kingdom, which could change the way you enter the park. Per WESH, the new technology will capture an image of a guest’s face."
+    publishedDateTime: 2021-03-25T06:00:00Z
+    webUrl: "https://www.deseret.com/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world"
+    ampWebUrl: "https://www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world"
+    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world"
+    type: article
+    provider:
+      name: deseret
+      domain: deseret.com
+    quality: 59
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/q45zCE4UrFXeuPy83ZOAi7TPFlo=/0x0:4116x2741/1400x1050/filters:focal(1729x1042:2387x1700):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69023404/AP20332570049737.0.jpg"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Disney World testing facial recognition software"
     excerpt: "Walt Disney World is testing facial recognition technology at the Orlando-area theme park. The test will take place at the park entrance over the next month. Disney says the technology captures an image of a guest’s face and converts it into a unique number,"
     publishedDateTime: 2021-03-24T17:12:00Z
@@ -298,6 +314,6 @@ related:
         height: 1082
         isCached: true
 
-secured: "ge85bBu8vmVbirN/F/Xr+sfAbITsBo8sQ6q9wOCIGQ3Y4O1oQDxLLg6Im/Yxjcrp9yGpiw7Ksq2MlYjVc9C6Gyip3rD3sefoiJSj5FBllaEswSN0ZBkPFYYFlJ9El+PG9lfWwIb9GazmoPttypL9TmEtkwkvXbW5csHEFDjhn8C23yXrKaTu5GHX/VDMFnNIe6U/eNHXxO5MHKQ33HuSHEBe0W1X/eeB8A12DbLwMo8oi0++BFdatzazhZs96eJ/H1nJ+UqPkQuVph0KvPNjRSJpbo5Rh3YwwDI+t1xD35t7pw4me59RLERZON1E0jARnItTsjj8LhCqOeyxonHRx0ucrCE/XqZmYa/d0v0qLKI=;T8U27IJcwC8NRy1MmgnWJA=="
+secured: "WAGSmyPMe5wMIgNgLbrYNC4UQN/zNDPfJ7syTSOt81peSO10jiIufROOHLaTvT+yKDfc472myZkV/LUq0cMTi514YYTJgpB9ITASTFnPkPXYiZZ9blhTDmRpDU2xd6aMqAmnCLUU3SWmHnsz1SVUFNvFmNQF6x7gwH7yzU2TQCz+jjwDDDmDhZxMwZb4LqRBQz8vGbNt/TFJ4MUv2rW5pYB7SPO8CanQoYc+TX437jXq2Qrfp7TQBJjzWokBL3/OxaS2T+EmBLnUAU1K0fRZtF6EWsA4e5p1HSDQimYEo4wMJcgAMVwB7YUBirPGx4xa+8jHIJclZlULXUxTJJuB2CJFcnuiG45F0AHtJbMisyaPr4rxb+EJdZKqupFWaDE2go//hEnET7JPNfETXRLsPETeQwxV8OrahCnnsUCDk4isC1JerccGRZixE2O/zAwOaur3pro3kyVSj8I8lYTvmFYyvaCmm++5ccURtKA0FoRwNTRdjqiE8RCWQ/ugdZFF6XchNs85KNNe5NFR7BKAsw==;SeEjJlyEyjownJZwYOZGGg=="
 ---
 

@@ -35,7 +35,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 74
+    quality: 174
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024"
         width: 1024
@@ -51,7 +51,7 @@ related:
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 74
+    quality: 174
     images:
       - url: "https://images.wsj.net/im-315504/social"
         width: 1280
@@ -150,6 +150,20 @@ related:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tusimple-1200_1.jpg?itok=IN7wFywQ"
         width: 470
         height: 246
+        isCached: true
+  - title: "SF Express Selects Self-Driving Truck Company Plus for China's First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China's first commercial freight pilot to demonstrate how supervised autonomous trucks improve"
+    publishedDateTime: 2021-03-25T13:44:00Z
+    webUrl: "https://www.lelezard.com/en/news-19717827.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
+    images:
+      - url: "https://www.lelezard.com/img/theme/lezard2.png"
+        width: 500
+        height: 414
         isCached: true
 
 secured: "sQh02eatamvISljI19uzZzoPOiMU+j38OctAxFYAhsMrDnLFI/FE9cFxZVA1zlEdn35A3aigDt9lnqaC92IBD7MA7GuURTbRg7B+fGhLI0bskSF/Yb0lsKXelU+tPwihbGYXARY9AvH4oySIDu4k/QpctU9eM38FvSk5GAHF7LmUQrybrWhWxiJ6Qb5PkYxfLFkI42Nxpd8gKk2uY2alQZyfOMsDt65lldk6SK+dW9MsuNF0mWKXTDmcdK56Yv/s6zobggAnj9GQsbC1paWcdNT5qmS9EZzDxun/TQ2bknYm3gGKJuGIdb7IJrZSPz+GHqYDqEQ0y2qGJvPIJENtOEGLPb45UDtqOmHm8UoM49lek8d+8Z60lv30jp3VgJokXUCN5fWgpKJCBnAOIhG6HAi8DoMGxEYzm+PcqhYRLdnGzrYr5i0Zrahg2Ng2hSS6sSoBehxQN/lw1Jn5uQbX+Z5tnjs+8P9V+WC76EEto//RrUrUmFmxbcLYyVOxYtYRLLKxKjU2dYC4RpMLsstWEw==;9uXKUokCsVf60lP5nU9zHw=="

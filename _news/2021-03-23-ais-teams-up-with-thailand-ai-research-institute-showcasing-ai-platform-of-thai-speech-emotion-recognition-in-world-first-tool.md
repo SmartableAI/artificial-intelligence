@@ -7,7 +7,7 @@ originalUrl: "https://www.bangkokpost.com/thailand/pr/2088463/ais-teams-up-with-
 webUrl: "https://www.bangkokpost.com/thailand/pr/2088463/ais-teams-up-with-thailand-ai-research-institute-showcasing-ai-platform-of-thai-speech-emotion-recognition-in-world-first-tool"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 700
     height: 467
     isCached: true
+
+related:
+  - title: "Artificial Intelligence-Emotion Recognition Industry Global Market Growth, Status and Outlook Research Report 2020"
+    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6515304-covid-19-outbreak-global-artificial-intelligence-emotion-recognition In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the ..."
+    publishedDateTime: 2021-03-23T05:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Zim engineers get global recognition"
+    excerpt: "ZIMBABWEAN engineer and acting Ziscosteel board chair, Engineer Martin Manuwha has received a special award from the Federation of African Engineering Organizations (FAEO) in recognition for his distinct contribution and support to the engineering field in Africa and the world at large."
+    publishedDateTime: 2021-03-25T11:20:00Z
+    webUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/"
+    ampWebUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
+    cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
+    type: article
+    provider:
+      name: Chronicle
+      domain: chronicle.co.zw
+    quality: 44
+    images:
+      - url: "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2021/03/kanuu-680x380.jpg"
+        width: 680
+        height: 380
+        isCached: true
 
 secured: "NYhmkTB5hxcAavZQey/YVlD8weFlPoLv4o3v4axXoffzoLCo6DOK61QnUc5Dbjl3WvlRgvsoERfqx3uHF2TzsxXQ5ATHnWHhLiPrM1ZT938IxS9J/+hbSolTN95s6YiETo6AGugT7wCG6FEVF7/SkRmvV5kvt49Xq7N7FMzdD9uK4Tg9YVhvQ9eqHiNqnFzJsiE+FyRz2N9Zvb1dSDx6VfIhBMABBULTzK1r2rz0qq96RB1GM6X7yXbAQ+fOi5g1NOWILco4IXLC74LgX4qEm8TvPmRNZ4V9SjN7qfM5R0ET8zt6PfxWhR1gJ5vLs4vuaXXehsfgq3HNJGG0cZpzH2P3yeQ58kNiNDjmvfGlhkNoPzHlN5tMqdS7k+fVg4cof7Q9uCBBEMZK1LvRA/MU++FeoyQ++nkrGToHKEcFim3MP60NhNWZpO5qNqm3ngZP5GjtMTvL7z9Z8gqZncD0PxtUgstQhvIB32nMPcIuwZ/muO3EDAH+fP07l+hD2kfdO2LN3yOQKcw2aTd4PAE+6A==;WW5Vkot89l/+HdCCMEpfCw=="
 ---

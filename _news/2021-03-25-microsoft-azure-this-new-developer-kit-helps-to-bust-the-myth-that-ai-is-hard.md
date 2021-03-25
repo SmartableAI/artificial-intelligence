@@ -1,0 +1,51 @@
+---
+category: news
+title: "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard"
+excerpt: "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses. The Azure Percept Development Kit (DK) comprises vision (right), optional audio (left) and developer board (middle) modules."
+publishedDateTime: 2021-03-25T12:02:00Z
+originalUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
+type: article
+quality: 115
+heat: 125
+published: true
+
+provider:
+  name: TechRepublic
+  domain: techrepublic.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - Microsoft AI
+
+images:
+  - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/24/881b5d95-5a36-492b-91c6-03087e801b34/resize/1200x/efc8fa0fcda5e9be0b335fc3b931788b/azure-percept-vision-models.jpg"
+    width: 1200
+    height: 1169
+    isCached: true
+
+related:
+  - title: "Repsol and Microsoft renew partnership developing AI-powered digital solutions"
+    excerpt: "The companies will co-innovate to build new AI-powered digital solutions ... including recommitting to the Azure cloud platform. “The extension of our collaboration and the supply of renewable energy undoubtedly reaffirms the vision that both companies ..."
+    publishedDateTime: 2021-03-22T16:04:00Z
+    webUrl: "https://www.chemengonline.com/repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions/"
+    type: article
+    provider:
+      name: The Magazine
+      domain: chemengonline.com
+    quality: 50
+    images:
+      - url: "https://www.chemengonline.com/wp-content/uploads/2018/10/fig2_communication-network.jpg"
+        width: 600
+        height: 400
+        isCached: true
+
+secured: "bcUrmrrHceGSMO8ym4+TUcvbCfBBRbItRB3NRd4yR6G29fs3m3kw9fxomocdBr9bED2BjjTMs2is11t1hLyFWgmeXj9SmUZh3fjc3yVxE9Xy0VC96PZaXO+cZ35si0T1JTqaaEWDLIRDS+jnDY7pp3D1z70lDMi46PfSx97YdPLEhIt7cnfKUdbtYu4uPvHrMZRnsr6VVI9xr1M8YAkQgeue9p6zGNROLOeu1aJCqiTu5h/zQ/MC8cios4GaMUum4QnQgqpSCrerbEY9sj1795vpDlxCpQsGoHZ1Z5E6NHOI5dyGxcB2NieqM/+KPTNCYKxhxQgLh8LSLhBi4LmBQIN6ADDk40sMZ0S+iFTZn4g=;sjhiCZDRsOWsigUPt3mAvQ=="
+---
+

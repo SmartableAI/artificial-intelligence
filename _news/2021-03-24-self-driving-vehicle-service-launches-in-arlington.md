@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chipotle invests in self-driving delivery company Nuro"
+    excerpt: "Chipotle Mexican Grill has invested in a robotics company that operates a fleet of self-driving delivery vehicles."
+    publishedDateTime: 2021-03-25T12:40:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/chipotle-invests-self-driving-delivery-company-nuro"
+    ampWebUrl: "https://www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
+    cdnAmpWebUrl: "https://www-restaurantbusinessonline-com.cdn.ampproject.org/c/s/www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 44
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-03/background/400x600/Nuro-Shutterstock_1616675375.jpg?hY1FEGOKg9dyRqNux1KxGDPzYVMlUWRw"
+        width: 400
+        height: 210
+        isCached: true
   - title: "Need a Ride in Arlington? You Might Be Picked Up by a Self-Driving Vehicle"
     excerpt: "A fleet of new self-driving vehicles are now making their way around the streets of Arlington. The Arlington Rapid Pilot Program has integrated on-demand autonomous vehicle service into a transportation service. Download our NBC DFW mobile app for Apple or ..."
     publishedDateTime: 2021-03-24T00:38:00Z

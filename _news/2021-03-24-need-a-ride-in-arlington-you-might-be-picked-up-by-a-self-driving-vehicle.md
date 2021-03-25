@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chipotle invests in self-driving delivery company Nuro"
+    excerpt: "Chipotle Mexican Grill has invested in a robotics company that operates a fleet of self-driving delivery vehicles."
+    publishedDateTime: 2021-03-25T12:40:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/chipotle-invests-self-driving-delivery-company-nuro"
+    ampWebUrl: "https://www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
+    cdnAmpWebUrl: "https://www-restaurantbusinessonline-com.cdn.ampproject.org/c/s/www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 44
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-03/background/400x600/Nuro-Shutterstock_1616675375.jpg?hY1FEGOKg9dyRqNux1KxGDPzYVMlUWRw"
+        width: 400
+        height: 210
+        isCached: true
   - title: "Shenzhen city works out regulations to guide self-driving vehicles"
     excerpt: "ICVs is a notion that vehicles realize self-driving and the traffic efficiency will be greatly improved through the in-built advanced sensors, controllers and actuators, as well as the in-vehicle and inter-vehicle communication networks. The draft laws ..."
     publishedDateTime: 2021-03-24T07:32:00Z

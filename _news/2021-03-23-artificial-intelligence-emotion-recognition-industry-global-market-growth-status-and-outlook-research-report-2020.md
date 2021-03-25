@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -28,47 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Strong Competition in Booming AI Infrastructure Market"
-    excerpt: "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,"
-    publishedDateTime: 2021-03-20T19:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/strong-competition-in-booming-ai-infrastructure-market-2021-03-20"
+  - title: "Zim engineers get global recognition"
+    excerpt: "ZIMBABWEAN engineer and acting Ziscosteel board chair, Engineer Martin Manuwha has received a special award from the Federation of African Engineering Organizations (FAEO) in recognition for his distinct contribution and support to the engineering field in Africa and the world at large."
+    publishedDateTime: 2021-03-25T11:20:00Z
+    webUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/"
+    ampWebUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
+    cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Chronicle
+      domain: chronicle.co.zw
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2021/03/kanuu-680x380.jpg"
+        width: 680
+        height: 380
         isCached: true
-  - title: "How the construction industry builds smarter with artificial intelligence"
-    excerpt: "With the advent of sophisticated machine learning algorithms and artificial intelligence, the construction industry is one sector to be positively impacted. Traditional processes are no longer efficient in the world of digitalization,"
-    publishedDateTime: 2021-03-22T13:42:00Z
-    webUrl: "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/construction-building-materials"
+  - title: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool"
+    excerpt: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool, taking Thai companies to another level to deal with current challenges AIS has joined the Thailand AI Research Institute ..."
+    publishedDateTime: 2021-03-23T10:22:00Z
+    webUrl: "https://www.bangkokpost.com/thailand/pr/2088463/ais-teams-up-with-thailand-ai-research-institute-showcasing-ai-platform-of-thai-speech-emotion-recognition-in-world-first-tool"
     type: article
     provider:
-      name: MultiBriefs
-      domain: multibriefs.com
-    quality: 38
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 11
     images:
-      - url: "https://exclusive.multibriefs.com/images/exclusive/1102construction.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Artificial Intelligence in Energy Market Key Players, Competitive Landscape, Growth, Statistics, Revenue and Industry Analysis Report by 2027"
-    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
-    publishedDateTime: 2021-03-22T16:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-key-players-competitive-landscape-growth-statistics-revenue-and-industry-analysis-report-by-2027-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://static.bangkokpost.com/media/content/20210323/c1_2088463_700.jpg"
+        width: 700
+        height: 467
         isCached: true
 
 secured: "P6nhvZ56nvqAY2fCt5H3NHOPSpEtf3pP2VgoDvm3vQEwlB79GV0Ic3LHjK/60WZYJo9JigdjK2RaC5t6e9LjVVswA2NyInrELm5Hjq8TsJE6RB7FdseusgOA/ljEpKXZvfqFGcFlCQVWqsiG35a3xPAlG/aQqVjGMRykF1kZgDVdhVCMKQqn7lvkwZWlAPF+rwg7hK649hSy/Ul+PyK5wOwXCfIZ/QeGdZoho3SG+dSKlXjviJ3GZFuqJ5ctPXzTmItq9KcFc6AHUSKC/ty/giikJdnSfdHl2oCYQf6UnjogdFO2ELRCzei11t+T5tOE1SzXqcCcSym2nZJ6CdlwrR1E0kVEIjwWPT6q9jG6G6k=;k4UKk4mQCvQRgOvmURGpkg=="

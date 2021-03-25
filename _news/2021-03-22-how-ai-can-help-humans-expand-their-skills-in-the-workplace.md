@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/22/how-ai-can-help-humans-expand-their-skills-in-the-workplace/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How AI can Improve Transparency in the Cybersecurity Industry"
+    excerpt: "The world's tech behemoths, such as Google, Amazon, and Facebook, are becoming more transparent about their AI research. The need to recruit top-tier talent, including AI researchers from academia, is one good reason for this. Fremont, CA: AI has rapidly ..."
+    publishedDateTime: 2021-03-25T13:43:00Z
+    webUrl: "https://www.cioapplications.com/news/how-ai-can-improve-transparency-in-the-cybersecurity-industry-nid-7426.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 39
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/3ofm450308dtyft.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "EJkmIUmkLhS2sMcIrWI18nBapF1utsUlqubIK1hpDXAglnA7Lo6sE/llddA1XVdDPbqEPREkxI86KlfqQsELpVj4JkpWZba3VjvtH1FVRsuUf1doTVqP6/51uI0yJbSnjncHlwj1Je67YTo6lvM8yfB1NVb5Dz1wWChNmhc6gw35rEbdBK1pTnYoXa8g2kn45gxsMCoNfbkf/fmr1UUkYU0/dvETu515yPa1wNYNFML9oGzocbF/My3LPwolnEMTZAhP7o7+tBO46G48EsLSOcb733i8ccYPrtWagtF3kdl0Tj0o7dHR9lEOw4cdTYT4ZIqs/I0j6uOBVrUwQF+IWD0yluM1fzwq1UK9RxsUCDk=;u0gFnOkX/QPVvR6M7ciAkQ=="
 ---

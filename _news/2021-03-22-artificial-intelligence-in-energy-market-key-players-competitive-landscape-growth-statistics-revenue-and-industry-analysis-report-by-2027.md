@@ -28,48 +28,59 @@ images:
     isCached: true
 
 related:
-  - title: "Strong Competition in Booming AI Infrastructure Market"
-    excerpt: "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,"
-    publishedDateTime: 2021-03-20T19:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/strong-competition-in-booming-ai-infrastructure-market-2021-03-20"
+  - title: "Artificial Intelligence (AI) in Food and Beverage Market Overview Highlighting Major Drivers, Trends, Growth and Demand Report 2020- 2027"
+    excerpt: "Increasing need to improve food safety standards is a key factor driving growth of the global Artificial Intelligence (AI) in food and beverage market currently. The global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62."
+    publishedDateTime: 2021-03-24T14:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-overview-highlighting-major-drivers-trends-growth-and-demand-report-2020--2027-2021-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence-Emotion Recognition Industry Global Market Growth, Status and Outlook Research Report 2020"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6515304-covid-19-outbreak-global-artificial-intelligence-emotion-recognition In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the ..."
-    publishedDateTime: 2021-03-23T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
+  - title: "Artificial Intelligence in Accounting Market Key Major Challenges, Drivers Growth, Opportunities Analysis To 2025"
+    excerpt: "To cater such needs, Shibuya Data Count provides market research reports to various business professionals across different industry verticals, such as healthcare & pharmaceutical, IT & telecom, chemicals and advanced materials, consumer goods & food ..."
+    publishedDateTime: 2021-03-22T11:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-key-major-challenges-drivers-growth-opportunities-analysis-to-2025-2021-03-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "How the construction industry builds smarter with artificial intelligence"
-    excerpt: "With the advent of sophisticated machine learning algorithms and artificial intelligence, the construction industry is one sector to be positively impacted. Traditional processes are no longer efficient in the world of digitalization,"
-    publishedDateTime: 2021-03-22T13:42:00Z
-    webUrl: "https://exclusive.multibriefs.com/content/how-the-construction-industry-builds-smarter-with-artificial-intelligence/construction-building-materials"
+  - title: "Global Enterprise Artificial Intelligence Market Research Report 2021 Market Insights, Overview, Analysis And Forecast 2021"
+    excerpt: "Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation. Product values and"
+    publishedDateTime: 2021-03-22T19:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-enterprise-artificial-intelligence-market-research-report-2021-market-insights-overview-analysis-and-forecast-2021-2021-03-22"
     type: article
     provider:
-      name: MultiBriefs
-      domain: multibriefs.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
-      - url: "https://exclusive.multibriefs.com/images/exclusive/1102construction.jpg"
-        width: 630
-        height: 420
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Global Cognitive Services Market Report: Trends, Forecast, Projects between 2021 and 2027"
+    excerpt: "Overview of the report A recent published report on the Cognitive Services market gives an in depth evaluation of the industry in its brief overview of the Cognitive Services market The review discusses several key aspects of the Cognitive Services"
+    publishedDateTime: 2021-03-22T11:34:00Z
+    webUrl: "https://www.openpr.com/news/2259863/global-cognitive-services-market-report-trends-forecast"
+    ampWebUrl: "https://www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
 
 secured: "TdhnR8b2TyAACg9JaElRw9dwKBvThivHNQCE46oJQKfK0fofLsMFQkiYG6AxakdNsuebSBHKmB+BQe1UlXCzErbn525IEzLbGxc9GhUfnQh9JUWK4XR5pRyyM0RzcTp1heInVoeSNDBNAtfz/aUBV9P390FbC5b6dHm4Aqte2uh/0/0h/GT3njty0BxkQ3FPPOk/6EqjNLmvZdl7zPdKqEQpEHIprnage/ms1lg/1Du3RJYT9xl10Nf6kC196//s2nx8ok0RAMapTUciMM7D1ywfkFF6aj4NetycTh73eqr+vW/hzW/ChHEOtxW1EDye96PFQQYeO3BorMRbTOZqoQx7gevI/wgb6w3rLyAzi2Y=;LmbCs0UmMzwz9fSDZ/xqtg=="
 ---

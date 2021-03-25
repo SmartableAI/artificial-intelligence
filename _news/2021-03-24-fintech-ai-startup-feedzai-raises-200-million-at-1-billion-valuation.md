@@ -8,7 +8,7 @@ webUrl: "https://www.pymnts.com/fraud-prevention/2021/fintech-ai-startup-feedzai
 ampWebUrl: "https://www.pymnts.com/fraud-prevention/2021/fintech-ai-startup-feedzai-raises-200-million-at-1-billion-valuation/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2021/fintech-ai-startup-feedzai-raises-200-million-at-1-billion-valuation/amp/"
 type: article
-quality: 57
+quality: 61
 heat: -1
 published: false
 
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
+  - AI Ethics
 
 images:
   - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/shutterstock_1137164627-1-457x274.jpg"
@@ -170,6 +172,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Atuu2Fu3DFEPyo++wPJw/xHVZuHEZHRTU5NuI/uUi612c0QGPeMjx1U0lB67rGwD7z8kCPbTb6Pyyp12/9gQmNEfsbJ3LA9xG7MpeR/enYsaFEY186L/cvNCeUnjjZJdH8a5WPAInwJXdq/DT7fM4Uicox+XgR5n5W7A0cFT22rLypCrot8rFUIpUtvNUn3TKMloLovgdgIdAHfdC4qrjajoYSfHnR5u5lIoY8zDWY5Sop9PTv8O0UQp2fN1/zLHTtzRpXEBlU00K2OpP/ruYE1AVMIAJZjk5nnHgh82U8udDksFUdUHqJqJqjVt+5yJmZgh6T6xZxd4v/08IHC/8KZ5IrSelczhcuiiZgZf5Y8=;+T7xEGFCZmZV3rWhS+jatQ=="
+secured: "MlI3ICF0slEyyBH+6Npld5dhx5HY4mpsER1fxtGkjEaRy+CsAwb0jIQm4b3x1hDqxBJhzyo7qEgFqsloJt1syDHHCPJ3/IRQb+Z/T0J2Qs4Vg9thxPqR8/FCfWxzxDDhm8GOxsDAiZjzai/WXocHavMc/NsoNldFSFe/EfPDlP4+VrnVMqCLO2yHtRIp6SY24vlyW04U/t3OCDekFGNyfvGr9vppLOCZiFuw7qCnOhpGvdoW2uC/X2qKMhgOs0/idSjyGPeOdZ+65beGB2IDn8Omay2u3sYxjLMMsprXLUDxiWfgCuMdqJasqIoReiu+1WkDBoItKGyFiJMDiCPbq9N6EVvyvEkJ9QiJwzj57ZXvO7GovLkCqQk1nPk5vUa/0lFjB36Ythd0x2euFQhRrwQhpU8Sgu4rMIPgNGm6lMWTDXLaFDn2eT5hEiW00Ongfwlm0orTezH9gUYfM9lRW4E7ndONggmtoAn827GHf6dTMA0EtbcI/5rRDwqkN+h+LUaroYsIDCfz/S7uQ+OB3g==;QdSuJuZyRss2ZY61E68pkw=="
 ---
 

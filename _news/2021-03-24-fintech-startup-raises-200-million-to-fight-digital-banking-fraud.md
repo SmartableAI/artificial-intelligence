@@ -73,7 +73,7 @@ related:
     provider:
       name: pymnts.com
       domain: pymnts.com
-    quality: 57
+    quality: 61
     images:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/shutterstock_1137164627-1-457x274.jpg"
         width: 457

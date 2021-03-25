@@ -101,6 +101,20 @@ related:
         width: 821
         height: 576
         isCached: true
+  - title: "AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19"
+    excerpt: "Preventive Intervention • Public Health Technology Type(s) natural language processing objective • Artificial Intelligence Sample Characteristic - Environment anthropogenic environment Sample Characte"
+    publishedDateTime: 2021-03-25T13:32:00Z
+    webUrl: "https://www.nature.com/articles/s41597-021-00878-y?sf244173310=1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 33
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00878-y/MediaObjects/41597_2021_878_Fig1_HTML.png"
+        width: 685
+        height: 256
+        isCached: true
 
 secured: "rpuX0qccs0xAru7KLrVPDGVjHfL35lObupSPzZZ/UEcozPVQx2Xc+s0bG7Cr4YBiIfylLfaMKWxy0o1KdGGF1fad4UKAdIMMNJ06+DM8IPZBSA8hmWnKWDTUTH4DRxb3dnCjVIdCnaUe1Ok0UmdbvQZPja1h0Azwqj/hsust6Dqcd2IarWupumhkwcLSmNRh3w9bSwMoZ6PQnWcjeKIZcejeINJYj5cYNW31sfQl9eTU0gOAYyhIBimKqmVrVV3MERhyjzafkkP0Pj/ftW5I61KJdYvdIZXBhuFUGHO00GOoPJQz4s8PiGN4afVpdBQvMyk3u9zJITNOnpO1/43rZ2FsTTBp8yQ/t/o8tvnKizE=;HtCm3Uosa6ywCbCsqwU86Q=="
 ---

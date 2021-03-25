@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-launches-live-tra
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 770
     height: 432
     isCached: true
-
-related:
-  - title: "Repsol and Microsoft renew partnership developing AI-powered digital solutions"
-    excerpt: "The companies will co-innovate to build new AI-powered digital solutions ... including recommitting to the Azure cloud platform. “The extension of our collaboration and the supply of renewable energy undoubtedly reaffirms the vision that both companies ..."
-    publishedDateTime: 2021-03-22T16:04:00Z
-    webUrl: "https://www.chemengonline.com/repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions/"
-    type: article
-    provider:
-      name: The Magazine
-      domain: chemengonline.com
-    quality: 50
-    images:
-      - url: "https://www.chemengonline.com/wp-content/uploads/2018/10/fig2_communication-network.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "QBQxL6rjA2750uzkr2U+K1zkx06aN2Go5UwSLiswsd5zuTf1p8GNZ/tq1+BL3+cmh1FBbmOFNOeFgvdLLB4huzhy4dvEKjvMopUZsCVODhDPEZr2xY3djVESwicNo57mB7FQmZqbCssS0ExTPWs2+Fb0HXQp8UvswNlDcn0qurTOz0RXYgQ4WJuXoB/X4VF45opQkq/XSVr5rgtpTUh1XiyRQgvR/RIPm9geAilmDHivikaWBc8qJ0POiwKkflqPXd0PV8IpyjHHLotiM087CS18Y3EeL91XQyD5hnR4r28kdU9O/k2D10P2Y4jRAq2GwQyix72uX3oUNxiwgkmyxlIBFj2fz/Dr0M20k76VhL3DALs1aqQbYyxO10VCqC60Zb31IBolbrLAvSa78ObZ0u3dDJEO6dQUZsE2YeSKBZogg5cuA32VRoAmBmMDLcfyOmQvjVLmY+fgFpnZ1mGx7sdsuXnd2psgiIiQNhLe+qsMWmoQsAR5EoAhXlIYnREjPoehUZCUTc/Ur3EmHkQICQ==;fKYidmp7au29CCemKBqxmw=="
 ---

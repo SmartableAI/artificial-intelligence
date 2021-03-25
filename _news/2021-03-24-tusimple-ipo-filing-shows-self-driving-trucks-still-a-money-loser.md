@@ -8,7 +8,7 @@ webUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-tru
 ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
 type: article
-quality: 74
+quality: 174
 heat: -1
 published: false
 
@@ -41,7 +41,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 74
+    quality: 174
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024"
         width: 1024
@@ -155,7 +155,21 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "SF Express Selects Self-Driving Truck Company Plus for China's First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China's first commercial freight pilot to demonstrate how supervised autonomous trucks improve"
+    publishedDateTime: 2021-03-25T13:44:00Z
+    webUrl: "https://www.lelezard.com/en/news-19717827.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
+    images:
+      - url: "https://www.lelezard.com/img/theme/lezard2.png"
+        width: 500
+        height: 414
+        isCached: true
 
-secured: "ApJ0So9NYPVSKVO4dF1KoCuYhrmyCGC+VA20fbgMcV/KM7AXa5rsdNdk7cGffCxGmldMxDrsTHUe3g9mJS3H+nLjJHUdiM1EAw3YzBJzy2TxfR+Uxh1uol1A/PwkgY51c4XMc8NFEfsWeV8Upxmk+U4L+xpunio0EGcI0ZFB0da6jYo1nOy0cGh/HRC7SLoymPolEn9sXSNFBzVh2O3JKIBd7skf/dkTMb15QBsUYlVhcQH+eX9Gadu1taRqvzs63jhs8pHigsDn4O86s/otTX7rHU3wCtY8DmfQNRvd53f+ejZ9AghLUINf7hAbKhWvi8EKEa4Rs2KrYPD8+Aa/9u2w+xJpQLPdc+UivEj+3ZlAP/yY47jm8TbBGPtES8b0Gw5ulkMeQmKO4L802cUm/OUxbGIgYdJraUYBRXtjv8it1wURYPwz17znI+y6xSLiZoqa8ywThMxKWrDSfdTvukFa8Sdfeu3P5LPC6XJT5f8H5riumlNWqJx9wYVWLAAw3C6x2v0TtYxem8eaPKcAZg==;my7hkFUCeQ5qYKsJeIqEBg=="
+secured: "zqGp+RI2b8Uh2tGi78F0MT9WZv9WjaUrWV0RxAJa6DPhy4xk9Og07nc/XwSeku1PCWKMKqCpE6OwoDWJLwqMWGBQG0RXtslEfsP0Sg8oTLiNf/eto+krOEml245pV5iVnN6PkyAC8QNxUKs5otn5dAL736mNOaou1fLpeBZlp1mmEQLkcQ/jzXoqPlSjrQBjqm1xZMZk2/SOSGZSdXKS+3cDUK6pjQB83rmVL1OV5FAvbcrZwKgbZVUiG4IPHnloGmluOadKMU4Y/frbhbN5U3EVRKHKfnqrW3E2a4+IbEs22226edzeetzSZfr/SPsPvVzk0XFPmrWot6dXv7RMDgfsKGMGZmRlUz6iFZ5hgWlUD+DTQOT/ew9ql2J8bd/HbWKVACg7RpMJIppN856rsuV5trMVK4lT2RZ95aGBQjDRyWbYAWMou+co2v5x2v64EfiiWbBZZRZ0jEQsmZK2dJLbxgdqdAp+QtM70uQ0Tj+MsfYZM1KoO10jZrmRdEg+wUrQ+hA436k84ObuWKfmXf0J/3pV8dwmS7Fx6E98aSc=;bQVeSZDx8jdZdyafiBfKow=="
 ---
 
