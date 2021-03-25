@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
-    excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of Microsoft, announced it will provide AiDANT,"
-    publishedDateTime: 2021-03-25T15:46:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974"
+    excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of"
+    publishedDateTime: 2021-03-25T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service/article_c206b737-ac69-5f0a-be66-50489d991c91.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/89/b8970e9f-a869-5c25-afab-1da10b378232/605c9b6e665fc.image.jpg?resize=648%2C360"
+        width: 648
+        height: 360
         isCached: true
 
 secured: "/1dx8VwGaZz6kt3CUw8/X2eMJhs93pMbWnEqEnm0zXrwrY3P+F47CS+x6xiTjdga5KUFzdK7wmXiLkk6dGhOHmFDOPZqUuzpfM7xUtdOVd01BiEEkjqb2crd4nf7Srg7dCvxukekhkTpvMWKMiRlqDDIx0ADKVjg54xOEP1+L8R7j91YslqWYLtqF8WzHX1xBxL5tq0eOAi1O42u3tWRysnNqF/40dG2K1tX9BEH8yTleTdMpQnFieiQ4LWuwYRfOFY3F41JhgtYGHxPn0vB/d3JwiCSjb6Cw3zWaF3sF4qA4YTfL4mt1xKq8/6t2syR6H3wWnAxNslcNBwI0lbTCc6cySQOYQj3vj+qzlDO5Bo=;MQZbO0yNjPmmAoxtUvleBg=="

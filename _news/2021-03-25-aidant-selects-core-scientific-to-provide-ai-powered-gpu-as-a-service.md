@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
-excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of Microsoft, announced it will provide AiDANT,"
-publishedDateTime: 2021-03-25T15:46:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974"
+excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of"
+publishedDateTime: 2021-03-25T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service/article_c206b737-ac69-5f0a-be66-50489d991c91.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service/article_c206b737-ac69-5f0a-be66-50489d991c91.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/89/b8970e9f-a869-5c25-afab-1da10b378232/605c9b6e665fc.image.jpg?resize=648%2C360"
+    width: 648
+    height: 360
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 354
         isCached: true
 
-secured: "WIMK9WLBDgegOIG/WKw/zHLnWg2J/CaIhOZA5Outa6+jIco5qjBmknPuvPNxo6i+jkvzQlyN5rziET2eJ5TjNthg7YSJha6WDtFyYmWbzONtnWKnFTbhX2d0aFlCq4JLPDrU/iYXkYVefnehqPbph1DvMkNevHYxCW9KDuidlvmSogMhz94nB++YMdPbsDJpp1irVFP4n0tnKiUKR2P0HL5Ek0NtOLfhdp2y/BL8OVcd3p5gusBJdtVeITNOrDuJ0R5Rch48c1HhhdDOq0Q3wcvcY22FgIo+BfHcljhAZ/9hsa1EwAEloWYPgvJeZb+RcJuWz5m9TvhSS8Oen2W3yKNCQI/q+A3bawyFFq0TS6A=;eLGk0IztD+D+Pb2L2SCYDA=="
+secured: "FRIs+wGPR2zmjs9cOC/McOE5pbvfQbh5pUcUsfOsbmQlouCFeJ9felgmsmGfZra8MKAvvMssbGmrZ/J+dxhiddI1ZipO5Q+SfpB3c8Bt4cNp0vDzjsMW8eC/whHtGcrd/leof6G9ZD753K4blCe3fotjfHaF5yO7jfwYm7FRVcpal88xf16YhnBejzGAWEWlHhZL6SpeXjNb72C0bouGcEA2G/owHJUBvKrleKb+Bye/4qJxvfmM8hU0vSKnnJiBY9k94fX/LfwYifeH+lMDq8lNj4fvFQ+5M88ogUN/kigsmDbIN6qZ4ouo8Yc/IS6n2ALQbkwkVVsLe3XeYjxCRyU/H0EBX4Z53s3Fk/+hK/g=;M7IjfJegEGBYJJFgEVJvaw=="
 ---
 

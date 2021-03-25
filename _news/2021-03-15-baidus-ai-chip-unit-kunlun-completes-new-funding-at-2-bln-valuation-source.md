@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Baidu’s AI chip unit Kunlun completes new funding, at $2 bln valuation- source"
-excerpt: "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion."
+excerpt: "The fundraising, which comes as the company pushes forward with AI chip design and manufacturing ambitions, was led by Chinese private equity firm CITIC Private Equity Funds Management (CPE), the source said. Other investors include IDG Capital ..."
 publishedDateTime: 2021-03-15T03:42:00Z
-originalUrl: "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY"
-webUrl: "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY"
+originalUrl: "https://www.reuters.com/article/china-baidu/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-bln-valuation-source-idUSL4N2LD1CY"
+webUrl: "https://www.reuters.com/article/china-baidu/baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-bln-valuation-source-idUSL4N2LD1CY"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2LD1CY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2LD1CY"
 type: article
@@ -21,6 +21,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "e57Lwf+OrHdwmDYWAFaQsXKACa/8vM0i2eA3LQu4ppRIm/TUZTk36vzOxmki5zx1js/8G0l9i+lnxUBNI7De/5UhZclFVkmok0LOz6jL6BALtz5h19qhYqM3zgz6UcMnyenzmMaRtkLpfvh/oXCyEu1b1hQ6bp1CL+iTc0/DL2/uSIP7E0B3r4OotZP3gBHevEoPp+qdFlnRqcDX25h9JpBRa//0JLhRGapE4t2RZmEOxJY0j63hHYq1fC0ys7TOJiDFj6yjpxi07fSOG37kV3ZslzGJvDjRNNgIbbddVamOz1ly7ctztTsJez2A5dFB+7saQzHZtbM+wBore2n9TN8/PnHRVG5Aj51T11Ikj4k=;KQuf0Jps7abXBKlOX2ENnA=="
+secured: "v8APHMI9uncSR0oHwuhF46AV4lG84DKWPZJz/AttaVnCqyAdSQ/QiElHSFkgrjj+hHGbZt9XaG6VzpOw0Kp4VPW+CGS02FHByDMa1UJpIDkJWNdSYtjHSiRYBxixyF8Rg6EVfw4EF4RR6Ny2IJQy5JqEXWkvkLO0MQsDbqq7Ue4NjOzPL3AE75Y8CGz8MihEFRz9xl1qrolY+h7fzxa4ZNUMMVaA7wcqXOeuayXd8ZAlp3qkICPY7TI6PbRfXJnrlmaARJob4wAJrk3tuGW9aARc/MoBwYVlOCF3PqWaB5rACZQDb+MIZl3kvoOX9zpyJnraIIAaZbnc6ym10quecq6Q+QwLojC5d/MmzkRovPI=;MNFfGffPNYWRZEeqXc6pdw=="
 ---
 
