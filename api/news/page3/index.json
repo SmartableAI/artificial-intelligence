@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-23-legal-writing-startup-clearbrief-raises-12m-from-madrona-sequoia-avvo-founder-others.md",
+      "title": "Legal writing startup Clearbrief raises $1.2M from Madrona, Sequoia, Avvo founder, others",
+      "excerpt": "New funding: Clearbrief, a new Seattle startup that has developed AI-fueled writing technology for the legal industry, raised $1.2 million. Venture capital heavyweights Sequoia Capital and Madrona Venture Group invested, in addition to Avvo founder Mark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/legal-writing-startup-clearbrief-raises-1-2m-madrona-sequoia-avvo-founder-others/",
+      "originalUrl": "https://www.geekwire.com/2021/legal-writing-startup-clearbrief-raises-1-2m-madrona-sequoia-avvo-founder-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/Copy-of-IMG_6985-3000px-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/legal-writing-startup-clearbrief-raises-1-2m-madrona-sequoia-avvo-founder-others/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/legal-writing-startup-clearbrief-raises-1-2m-madrona-sequoia-avvo-founder-others/amp/",
+      "publishedDateTime": "2021-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-the-risks-and-benefits-of-ai-in-medicine.md",
       "title": "The Risks And Benefits Of AI In Medicine",
       "excerpt": "There is no denying that AI is revolutionizing health care. In the past two years, the investment in AI from health care organizations has been growing exponentially. According to research conducted by Deloitte, \"75% of large organizations (annual revenue ...",
@@ -313,7 +364,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1198,58 +1249,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge.md",
-      "title": "How Azure Percept Simplifies Building And Deploying AI Models At Edge",
-      "excerpt": "Azure Percept platform attempts to simplify running AI at the edge. It’s a powerful edge computing platform for prototyping computer vision and conversational AI models and deploying them in production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058379c4bda76219b24bcfd%2F0x0.jpg",
-          "width": 1000,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/22/how-azure-percept-simplifies-building-and-deploying-ai-models-at-edge/amp/",
-      "publishedDateTime": "2021-03-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

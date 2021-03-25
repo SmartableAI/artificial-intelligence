@@ -181,6 +181,20 @@ related:
         width: 1263
         height: 705
         isCached: true
+  - title: "Disney tests new facial recognition technology"
+    excerpt: "Disney is testing out new facial recognition technology. Disney says it's looking for ways to focus on more touchless experiences in the parks. The technology converts a guest's face and gives a unique number ID,"
+    publishedDateTime: 2021-03-24T13:07:00Z
+    webUrl: "https://www.ktnv.com/now-trending/disney-tests-new-facial-recognition-technology"
+    type: article
+    provider:
+      name: KTNV Las Vegas
+      domain: ktnv.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/ac15c0b/2147483647/strip/true/crop/1015x533+74+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F410%2Fb9cd621bb5cc43d8b6bdc641d1acdca8%2F410e1f74cd8f4971b399abb2e71848e1%2Fposter_09681a7be839427787fe1597efb4eee0.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Disney World Testing Facial Recognition"
     excerpt: "Resort is conducting a 30-day test using facial recognition technology to improve the guest experience. The technology captures an image of the visitor's face and then converts the image into a unique number that is then associated with the form of admission the guest used for park entry."
     publishedDateTime: 2021-03-24T14:31:00Z

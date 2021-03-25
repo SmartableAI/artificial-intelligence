@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23"
 type: article
 quality: 75
-heat: 185
+heat: 195
 published: true
 
 provider:
@@ -137,6 +137,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Security Market: Trends 2021: Business Size & Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research"
+    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been"
+    publishedDateTime: 2021-03-24T09:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-business-size-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-03-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

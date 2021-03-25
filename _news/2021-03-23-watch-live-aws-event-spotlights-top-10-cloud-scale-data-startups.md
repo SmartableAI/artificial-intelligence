@@ -24,6 +24,22 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "Free to focus on innovation, AWS Startups ecosystem thrives on data"
+    excerpt: "Well-versed in cloud-scale data management, a new string of mavericks are providing faster insights for data enterprises already own. With such a large market opportunity, what’s the playbook for enterprises,"
+    publishedDateTime: 2021-03-24T23:00:00Z
+    webUrl: "https://siliconangle.com/2021/03/24/free-to-focus-on-innovation-aws-startups-ecosystem-thrives-on-datacubeoncloudawsstartups-cubeoncloudawsstartups/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/Mike-Feinstein-Michael-Skok-Ben-Haines-AWS-Startup-Showcase-2021.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "WBkhdjbXeVWRnBuG3qYhNQFHNwxhW0muM/MEdesL35htacFfcZaiBB0CSQ/J6oQg6REGxFno1lHtMC+PkhSX/sJ25WTfXPPZRYG8E30TO9uRN28AxCddxNqccThNwj6Qn+cQorpB7orRWPo5bs4aC4ZIK3MaRbYnXNVbl1khoBwv5kk0XD96MM4dsXOB9koPRO27BLLLLbiun3vBqb6XUqYwYfO7bLRp1k5nhe8355TuO/6qnIc1KGRnJON84fEGOl+XaOsLPPERTmxrKXIbL88zYG1mKj0zFuvQ9Lp6RV24CEBKzfcoXQove2xihhM2q7jP9G+FLf+eIHc1Q9FACoYKSoKm+bt1S/u4x3FqVFH7O18p6gKPNhrATT5Boa6eOQnNMjT/p1beabOa++K+RGip2edK0/2fTZ5xkK5uWGf9cvfAbgxKbnUPcrPNrPcEj0duD3YyE8amkBpZk2ddWIXuy8GVfh9QKrSV9NcEVrwd9kFObrb/7cNN3pSJpgt0hjtKdO0oWuo2r5alhFZ2Cw==;QyWIiE/81bzeG5elyBSwFw=="
 ---
 

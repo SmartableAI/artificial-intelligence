@@ -3,8 +3,8 @@ category: news
 title: "Self-driving truck startup Kodiak and China's Hesai partner up"
 excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc. and Shanghai-based lidar maker Hesai Technology Co. on Wednesday announced a partnership to integrate Chinese lidar technology into autonomous trucks."
 publishedDateTime: 2021-03-24T13:03:00Z
-originalUrl: "https://www.autonews.com/technology/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
-webUrl: "https://www.autonews.com/technology/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
+originalUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
+webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
 type: article
 quality: 39
 heat: -1
@@ -57,17 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Silicon Valley self-driving truck startup Kodiak and China Hesai lidar partner up"
-    excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc and Shanghai-based lidar maker Hesai Technology Co Ltd on Wednesday announced a partnership to integrate the Chinese lidar into the autonomous trucking system."
-    publishedDateTime: 2021-03-24T11:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up-2021-03"
-    ampWebUrl: "https://www.nasdaq.com/articles/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up-2021-03?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up-2021-03?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
   - title: "Self-driving truck startup TuSimple files for U.S. IPO"
     excerpt: "Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector."
     publishedDateTime: 2021-03-23T21:25:00Z
@@ -109,6 +98,15 @@ related:
         width: 1054
         height: 635
         isCached: true
+  - title: "Silicon Valley Self-Driving Truck Startup Kodiak and China Hesai Lidar Partner Up"
+    excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc and Shanghai-based lidar maker Hesai Technology Co Ltd on Wednesday announced a partnership to integrate the Chinese lidar into the autonomous trucking system."
+    publishedDateTime: 2021-03-24T11:40:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-03-24/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 44
   - title: "Self-Driving Truck Developer TuSimple Files for IPO"
     excerpt: "Self-driving truck developer TuSimple is moving forward with plans to become a publicly traded company. The technology startup on March 23 announced that it had filed a registration statement with the U."
     publishedDateTime: 2021-03-23T21:45:00Z
@@ -138,6 +136,6 @@ related:
         height: 600
         isCached: true
 
-secured: "zjoovXAeNMmhvwYOZe9EVPbAR3yBWORKi5Jcp8xw4UTWm1ppypYrdiPlkzBDOzyIrjkRjvtJlFRNYAfaoI+d9WzOUx0xXGj8eTQ0hoxDoxf086KbctBSPqmdBDx6dYV+MXTwZtAWUF8HPDJu95Ou5bdJql3LHE8Jqcj4Z44qa4RzvwN5oRa+MQRqkcdoDM6/pcdmqhAaLLt2F4FYMDm+qBN5oPLBxHduzKsYXzO8kAlt/VtijOjTrYaTukO7BKTPuuCTm8bqssriPtEZoqpKmPNL6INe1EBY/7VD41oywVwOTQkptET0Y8q9yY8jJYed4bYqF1W7zKs1zcSdBLNeGCVQHO7PYnoJF5dFp+Ilh8AFvIjQH7jKGkgEPCHDUpHkXXT/N3KoJfKVcYlD4dzrg23X8/VyqoCYeG40HcffFJMMJwGLvtE7ceOoZ7kbLkfq2Ufx5Vr/Qu8hyItfE4y7USafheyM/fSnu+q0yMvakqbl3fiQWhY49GABNY4SGU2JtiPQ6JBXtX8kMluFvtlZPw==;/Q6DxUAxQCP9uLwE/WHefA=="
+secured: "uu+NcVW4Z+NSI2RGi/qRW0PAO/mBuKhHVK3lbh7WimqR7FY08xHDXCQEzJClMJPTZq6aeRysNu8xo5MEBxiwH/YNXTpqhxZ2sFIhEahJiGq2IMOVcYtr9ghgMW7SPCvHkYUqRb/Ymq3ekXcIkvBYiEEnwYY0SmlipqAX5oiIhFJ8TRjbndlyBzUz/LqdgCMTt+tncUNhD5qdC78iYA6D3CKPwyj9S0xkMEUjGpj0IaLqRElGy6fnwDyecDFIhBANu++hLvJ5k0kw5ONq1CHKV0Vs+OqgelHUzpNPBvDKq+G1X7vWSG4VoS0dBkk9GWrrkIlagI+HHFJu5gRPqcQpCYvqORyCva89bIby+mwXKsE=;2CqiAGANM+fFo21VFxvpzQ=="
 ---
 

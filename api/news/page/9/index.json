@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-03-17-ford-partners-with-university-on-robotics-new-building.md",
+      "title": "Ford partners with university on robotics, new building",
+      "excerpt": "The four-story building on the University of Michigan's campus brings together researchers from 23 buildings and 10 programs into one space, including researchers and engineers from the Ford Motor Co.",
+      "sourceUrl": null,
+      "webUrl": "https://finance-commerce.com/2021/03/ford-partners-with-university-on-robotics-new-building/",
+      "originalUrl": "https://finance-commerce.com/2021/03/ford-partners-with-university-on-robotics-new-building/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://finance-commerce.com/files/2021/03/WEB-Robotics-AP-w.jpg",
+          "width": 620,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance & Commerce",
+        "domain": "finance-commerce.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation.md",
       "title": "Yseop Launches ALIX, an Application That Instantly Shows the Power of AI Automation for Report Creation",
       "excerpt": "Press Release Yseop, a pioneer in Natural Language Generation (NLG) and world-leading AI software company, today announced the launch of ALIX, an immediate discovery application to showcase how quickly and easily financial institutions can transform and grow",
@@ -1171,50 +1214,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds.md",
-      "title": "Baidu Chip Unit Reported At $2B Valuation; China Dominates AI, Report Finds",
-      "excerpt": "Baidu Inc. (NASDAQ: BIDU), one of China's largest multinational technology companies, has completed a fundraising round on its artificial intelligence (AI) chip, Kunlun,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/21/03/20188295/baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds",
-      "originalUrl": "https://www.benzinga.com/news/21/03/20188295/baidu-chip-unit-reported-at-2b-valuation-china-dominates-ai-report-finds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/baidus_ai_chip_1.jpg",
-          "width": 2080,
-          "height": 1170,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20188295",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20188295",
-      "publishedDateTime": "2021-03-16T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-sof
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
 type: article
 quality: 59
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -166,6 +166,20 @@ related:
       - url: "https://www.clickorlando.com/resizer/tcC83M24V4OjyVVWIgTt8ssikL0=/1263x705/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/P32QBJIFMJGRNEWHT7UCLL5P5Y.jpg"
         width: 1263
         height: 705
+        isCached: true
+  - title: "Disney tests new facial recognition technology"
+    excerpt: "Disney is testing out new facial recognition technology. Disney says it's looking for ways to focus on more touchless experiences in the parks. The technology converts a guest's face and gives a unique number ID,"
+    publishedDateTime: 2021-03-24T13:07:00Z
+    webUrl: "https://www.ktnv.com/now-trending/disney-tests-new-facial-recognition-technology"
+    type: article
+    provider:
+      name: KTNV Las Vegas
+      domain: ktnv.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/ac15c0b/2147483647/strip/true/crop/1015x533+74+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F410%2Fb9cd621bb5cc43d8b6bdc641d1acdca8%2F410e1f74cd8f4971b399abb2e71848e1%2Fposter_09681a7be839427787fe1597efb4eee0.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Disney World Is Testing Out Facial Recognition For Entry To The Park"
     excerpt: "Disney World unveiled facial recognition technology at the park’s entrance Tuesday, announcing it would be testing the new technology on a completely voluntary basis over the course of the next month. “At Walt Disney World Resort, we're always looking ..."
