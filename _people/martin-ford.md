@@ -3,7 +3,7 @@ name: "Martin Ford"
 bio: "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology."
 location: Silicon Valley, CA
 type: "profile"
-heat: 57
+heat: 93
 
 website: https://t.co/NRuuR6oILg
 
@@ -25,6 +25,6 @@ images:
     isCached: true
     title: "Martin Ford"
 
-secured: "DXF7mht1seuB83pI286FB5EeW9DR529Golkbh0KUUTFMd7afuyH4PdU3nPgQnmepL66NemRBuo5uhSoZCvjptgceHbuRhiAPQNZBYr/V0JZfFXYVb4Fes9i+VPSu+ubMb2yXWYnvPkltM9loEKFGk/0qzpbdpXuKmQR5f2DZlF1b3YfcZ1twMpz8mEx5b1UlMG8XMkhndXHv30TAdbeqipHA6K+5R0AUqSaaJdUADibjXMCc0bKIjwUOwPFXvZPkgiuIJvCBGxd4imThh7025XhVlgeRoZ+6wJdxora6WriswVb+fjfTXsGzk+s3WYhaIICvD0hGYc1xH+8cWBbUAim83Y4xeLXtfen2DDvq5cW75XJutQ7lkq1HyJTFLoBLns035vuDep+qL6Ogq8O/LkGCcGV7X2iEhIadAnUk8UM=;2l81VZHzrlxK2uaNFjMjUg=="
+secured: "DYnJMg0xuYqSYSK3GFSUkoaLN99dJt17LaoGDs9cKm3iH/tODTpuJjUIhVprsbEeUlu3jv/L64JR/SgXOquJlEWwkaJtnZDLSkQ+GZM27ONlqiQ5lZ/uP6wjznwzI7QmgJWerq0lCN5tFvnQeqi7V0AOwXPsHdNPb7O/2uK1AUyGD+KYYWkSHI1JcBBGhoA5lfYw3/ZJF+e2fnSH0vRBYAX6nYL25e6ceLXiyuKvck8KCkLvk/1INVE0XSevpEkpFmFUuC3/jll+Qx5gmQCUTA4jJ36ftwpWDvANMSoTmDrUL6K01NMos2d33QEbMoZwnZ91iQXuWRbdzggkQsSduLQf+ET9TaHZzSmyhdWdz/XmLvPlInBgSGDdVuH0R9z3/P6+74/UGIMJwc8Pmj0aemDBdyVQYaMsgSE5G9HrBN8=;AmuIQB/+J6hD0m+iIX3ljA=="
 ---
 
