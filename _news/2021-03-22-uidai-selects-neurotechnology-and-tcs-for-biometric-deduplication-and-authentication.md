@@ -35,20 +35,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Face biometrics implementations expanding for vehicles, retail systems and health passes"
-    excerpt: "Facial recognition is prominent among the top news stories in the biometrics industry over the past week. Paperwork for a blockbuster facial recognition IPO has been filed by Megvii, the use of the technology by law enforcement to identify dissidents and refugees is being scrutinized,"
-    publishedDateTime: 2021-03-20T17:28:00Z
-    webUrl: "https://www.biometricupdate.com/202103/face-biometrics-implementations-expanding-for-vehicles-retail-systems-and-health-passes"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/02143553/biometric-digital-identity-verification-for-fraud-prevention-small.jpg"
-        width: 800
-        height: 390
-        isCached: true
   - title: "IDmission biometrics and liveness added to Enacomm stack for fintech onboarding"
     excerpt: "Enacomm has formed a partnership agreement with IDmission to bring biometrics and other AI technologies to Enacomm’s fintech customers for end-to-end digital transformation of applications relying on identity verification. IDmission’s passive liveness ..."
     publishedDateTime: 2021-03-24T21:46:00Z

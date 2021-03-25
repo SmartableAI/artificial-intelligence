@@ -7,7 +7,7 @@ originalUrl: "https://www.bisnow.com/national/news/employer/robots-take-over-rea
 webUrl: "https://www.bisnow.com/national/news/employer/robots-take-over-real-estate-how-ai-and-automation-may-impact-cre-108196"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,52 @@ images:
     width: 803
     height: 547
     isCached: true
+
+related:
+  - title: "How Artificial Intelligence Is Impacting Multifamily Real Estate"
+    excerpt: "Having smart units for the multifamily industry adds a unique selling point for any real estate professional or owner."
+    publishedDateTime: 2021-03-25T10:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/25/how-artificial-intelligence-is-impacting-multifamily-real-estate/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/25/how-artificial-intelligence-is-impacting-multifamily-real-estate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/25/how-artificial-intelligence-is-impacting-multifamily-real-estate/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b6c4a8bb8792c4d59b1f3%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
+  - title: "How AI is changing the way we work"
+    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
+    publishedDateTime: 2021-03-22T19:52:00Z
+    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 41
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How AI is changing how we work"
+    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
+    publishedDateTime: 2021-03-22T19:23:00Z
+    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 39
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "3yFU5Df2zIMNYAexWH2h2HMtwWjgJgkM9FUierYWS7Bgh56lestzD5Wpcs/dT+oOzAuKZf/009IJbrv63rH8fvhmJZ/AnYrcC+ZkgIc30J6/s5s0MgnaxTKmP7BDYt2rA8GttWDLOwqAo1Or3KZYjITmDUNnBXP9smuIJkYiLGamcPNPk1ISYmwNfaO7MwDFfZc1bd9AFlKwKdEqCTMjGhaNVybtK7Fq89OeGhnfHNgz8cowH3TJVejztq6OwjhLP5TdfHSlEksfz/MvaPMszeqmRQEod7FXQOzkzALEdgmH5BUNhlbQbajOxCiBpzRYqOnaQ7opZ75SJOKLjsAxq/+0pxh88GH307yzPNQBYz5nSbMtD8bhzAQelRJHxxtpp9k7N42hT58H/kerxzrOHLrTDThXqcP3BXvDVVVtUCod0pVBu09Mfl9o2WOBlJP93cEPAdJ3+JxCIlVw8sriGXJ2FPHkqsq1ubPMeBKRBdL89pSyR0Rhb6Nk0/DmqbmxFXrx/jsnojytGFXmru59ng==;zOL7znM7l5k+/G4jjLCJpg=="
 ---

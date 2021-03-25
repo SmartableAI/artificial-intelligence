@@ -75,6 +75,22 @@ related:
         width: 1024
         height: 648
         isCached: true
+  - title: "FinTech AI Startup Feedzai Raises $200 Million At $1 Billion Valuation"
+    excerpt: "FinTech artificial intelligence (AI) firm Feedzai raised $200 million in a Series D funding round that gives the Silicon Valley startup a valuation topping $1B."
+    publishedDateTime: 2021-03-24T10:59:00Z
+    webUrl: "https://www.pymnts.com/fraud-prevention/2021/fintech-ai-startup-feedzai-raises-200-million-at-1-billion-valuation/"
+    ampWebUrl: "https://www.pymnts.com/fraud-prevention/2021/fintech-ai-startup-feedzai-raises-200-million-at-1-billion-valuation/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2021/fintech-ai-startup-feedzai-raises-200-million-at-1-billion-valuation/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/shutterstock_1137164627-1-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Cybersecurity Fintech Raises $2M"
     excerpt: "“While the fraudsters are mounting an AI arms-race, FiVerity has enabled banks and credit unions to stay ahead of the hackers and their cyber fraud schemes,” said Adrian Mendoza, founder and general partner with Mendoza Ventures. “We’ve seen ..."
     publishedDateTime: 2021-03-23T14:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2260935/robotics-market-to-grow-at-a-cagr
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2260935/robotics-market-to-grow-at-a-cagr-of-4-91-until-2026"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.openpr.com/U/3/U325291057_g.jpg"
         width: 400
         height: 300
+        isCached: true
+  - title: "Singapore Facial Recognition Systems Market 2020-2026: Market Size is Projected to Grow at a CAGR of 17.6%"
+    excerpt: "DUBLIN, March 24, 2021 /PRNewswire/ -- The \"Singapore Facial Recognition Systems Market (2020-2026): Market Forecast by Component Types (Hardware, Software & Software Tools), by Applications (Law Enforcement, Physical Security, Border Control and ..."
+    publishedDateTime: 2021-03-25T11:45:00Z
+    webUrl: "https://www.lelezard.com/en/news-19715864.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "JIY+1iCNtdEcdumV2D2WX+edc1hs8Zb6NINsxt+c7jDUlHeJNMVaY98W0xP79qOjs7PBQbHEBjRxMtYYulgc2IVp6sLCgcE8Z/qcywldhHNIBH002/KcWN54qyUyw6R/2S1TMav94M7euGcgCt1GbIAhiYp9n2N/vireg4FO9W/HRpYVsYMirW68f1ZvKUXMSHxlL3IQwHxiN9gT3pTX0kEH4BebqtDSiAx9LhWX9Q8WhgfeYrF1qSK6kifAPtiYMYTde5vbQ84kyiIaVZXT9bePNAB14M3JqMId9FH1tuzdVfrhWDdZDLzeQULNGJwPGw4a6//GE39/QjtI0rPcUz1MYx34XsheSSgIwUNg2UmRWGRUqEuMev42j6ux4M+GOjoaQx5Lr4G2O6Z2FN6O+SqXkqBuH/vFh/PDx7KcG/iah9w5AeDMtPzcsPbks+szNZO8SdtlViF+4gVjXuLD/tr+/kzY4YV5WGmXZOlGWk5eqo9nWY9SUH3AeFOgHnzRhJfqYXp9koXvDFkobxMImw==;J6DVxJ6rQsYNychjV4YvxQ=="

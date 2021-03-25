@@ -61,33 +61,33 @@ related:
         isCached: true
   - title: "Disney World tests facial recognition software at Magic Kingdom"
     excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
-    publishedDateTime: 2021-03-23T18:14:00Z
-    webUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
-    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    publishedDateTime: 2021-03-23T18:13:00Z
+    webUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+    ampWebUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
     type: article
     provider:
-      name: NBC2
-      domain: nbc-2.com
+      name: ABC7
+      domain: abc-7.com
     quality: 59
     images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
+      - url: "https://abc-7.com/wp-content/uploads/2021/03/disney-face.jpg"
         width: 1200
         height: 675
         isCached: true
   - title: "Walt Disney World begins testing facial recognition technology"
     excerpt: "Could park-goers be using facial recognition to enter Walt Disney World in the near future? A test running at the Magic Kingdom is working to determine just that. Starting March 23, guests planning to visit the Magic Kingdom have the option to participate in trying out Disney's facial recognition technology."
-    publishedDateTime: 2021-03-23T18:43:00Z
-    webUrl: "https://www.wtsp.com/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
-    ampWebUrl: "https://www.wtsp.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
+    publishedDateTime: 2021-03-23T22:43:00Z
+    webUrl: "https://www.wfmynews2.com/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
+      name: WFMY News2
+      domain: wfmynews2.com
     quality: 59
     images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/22bf9a3e-a23c-4571-ac7d-88ade440713b/22bf9a3e-a23c-4571-ac7d-88ade440713b_1140x641.jpg"
+      - url: "https://media.wfmynews2.com/assets/WTSP/images/22bf9a3e-a23c-4571-ac7d-88ade440713b/22bf9a3e-a23c-4571-ac7d-88ade440713b_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -138,6 +138,22 @@ related:
       - url: "https://www.marketplace.org/wp-content/uploads/2021/03/coded-bias-ft-img.jpg?fit=480%2C270"
         width: 480
         height: 270
+        isCached: true
+  - title: "Disney World begins testing facial recognition technology: Here’s how it works"
+    excerpt: "Disney said the technology will capture an image of a guest’s face and convert it into a unique number, which will then be used for park entry."
+    publishedDateTime: 2021-03-25T11:04:00Z
+    webUrl: "https://www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/"
+    ampWebUrl: "https://www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/?outputType=amp"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 55
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/03-23-2021/t_6cc242d47b6a4653bcf66739186e5dbe_name_GettyImages_1226596757_scaled.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "See Our Guests: Walt Disney World tests facial recognition technology at park entrances"
     excerpt: "Walt Disney World is testing facial recognition technology that they hope will speed up the process of entering the theme park. Disney announced the"
@@ -282,6 +298,6 @@ related:
         height: 1082
         isCached: true
 
-secured: "3yZiL55FneqEcdX6/aAYhbeL5s/FnenN6MPnIQqJMO7xIK2MUAHgQzHhWW2cTps/Q27+ibaBeZDdAN7UyU3VJVzlrwFX1ZdJGCmLanbs65133lDePu9fx17c3Q90NyjlcZloE88/Yt77Cce4jnhuu3oq2YMiwwHVzQwwxBeLMaj5st9IC5nLp6tYDj2JFqMwroC1EZm1p+AMIGL9oMn4j3i2KjsRB8J06yIOn4Ma1OSA+dhH1KOuD+zmmtrYL7V47vys1QvpeXm9o048zyCiEUm6hgogeYa12wZRMAX+EJNYdC6lIoPSMSLXOSV6XvP8ewDk9j5ZfnSbaoMcmR0hKtlprMr8qK63i7K6IgZQM80=;FiNCL3a2CYbPZ0DK7E5L5w=="
+secured: "nh2gzPh8gYDUAndvKrLk/YV0iZUH7N6n09baUs7n8jCuF9gLtV3uztZ6kfiz/cOVKp4Xp8GDZiBREZvrjNs/hqgo3zoF602CP2ORUFBwZah2NhcqF1x63bFaJ8Xx0Fqh5pmvmSAgh/oKwZVsHLi+E7HVMrhFZw55/QVBzPo3dpsEbIMKvQK/O/8yP/f3VTGzC7owboPeMN0TDUogXso53ujvh/9iyS+is7fS9n3UqKnd6UfwUd0lqtvpOjhQsx+qCyRq66WFY3dyOVjcxqskCQ/QsqVET1CkWZH4RrABcjXeILxVK+pH44+8RBUOhrna0wzA0Ls6GxVF30JfRGg0Sj0bO0rX1bXEID+XKrox/2uyeGsplZ5QqxC1OYrBLyO0l3ulPlACXNUFFK4TreVV6bBxNvf18mKdMi43UVBrdtEDW3a2mwHa6EdYRjrMoqXE1yZU4/U71xlQxZ6VNMZwMR6aHRs6C8oTOiXJPuc3AQLfKn7WZPnySSMgW+038tDBznVo83CUGa18KdpvhquBzA==;EaQf4Uu2uMjL8XM6kRMYFA=="
 ---
 

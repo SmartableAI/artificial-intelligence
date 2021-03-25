@@ -52,6 +52,20 @@ related:
       name: GMA Network
       domain: gmanetwork.com
     quality: 24
+  - title: "UN: Boom In Innovation For Overcoming Disabilities"
+    excerpt: "GENEVA:  Innovations aimed at helping people overcome mobility, sight and other disabilities have exploded in recent years, and are becoming ever more integrated in regular consumer goods, the United Nations said yesterday."
+    publishedDateTime: 2021-03-25T11:25:00Z
+    webUrl: "https://menafn.com/1101805784/UN-Boom-In-Innovation-For-Overcoming-Disabilities"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-03/24/KO_5967884c-7image_story.jpeg"
+        width: 840
+        height: 690
+        isCached: true
 
 secured: "CRwLkWvF/4dylTdTvXs2/RwlnfVRpmNMox6MuHxnjlIomPdjGceIQVDGjiejdU+sqSvTLrssSvi4F+mRJDWZW8zQU4UsphTdVUCtQLWFgzyy1fLl76sPltlP1MNhA4wgBb0jHBvc1Wfyfnr/QKDzH6hgy4vmfnaHPoAQIyERaTb0KWwg6sVbGV0I/GOBsEbD/isArU5Vx/sO9IN+XOmlAGJxUdlJWIBLnv2J/JYXYbjFG5SXj7PJTj5zpPD6K5G3VS0UMdJcKjiB4AHuJ+7QRgdK7J7+jGko01klYZD+KQEIyJz0Ui80yhlpNRVFzVgh4fj2oVBP/Jhkt187WNY/K5TJViD8DlCK314/R7+HpYhmPM6nKwl/XjjZ1A/3e183OBJoHGUvEoBO7moRW6wNUj9p6NaWnxIqgsYYaMOKE7YlmKLIGAFhDUiAvaW/GwDieRkBByo5GagXBosf39sRu4yxpbJGROFRzH9l6NRr43B6yR2WzSKRc/JEQArya0kLkGDVJGqXYcfLv2YtJS5MFQ==;XaI/CCRxmno4I2M0UNXlUQ=="
 ---

@@ -59,33 +59,33 @@ related:
         isCached: true
   - title: "Disney World tests facial recognition software at Magic Kingdom"
     excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
-    publishedDateTime: 2021-03-23T18:14:00Z
-    webUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
-    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    publishedDateTime: 2021-03-23T18:13:00Z
+    webUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+    ampWebUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
+    cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
     type: article
     provider:
-      name: NBC2
-      domain: nbc-2.com
+      name: ABC7
+      domain: abc-7.com
     quality: 59
     images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
+      - url: "https://abc-7.com/wp-content/uploads/2021/03/disney-face.jpg"
         width: 1200
         height: 675
         isCached: true
   - title: "Walt Disney World begins testing facial recognition technology"
     excerpt: "Could park-goers be using facial recognition to enter Walt Disney World in the near future? A test running at the Magic Kingdom is working to determine just that. Starting March 23, guests planning to visit the Magic Kingdom have the option to participate in trying out Disney's facial recognition technology."
-    publishedDateTime: 2021-03-23T18:43:00Z
-    webUrl: "https://www.wtsp.com/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
-    ampWebUrl: "https://www.wtsp.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
+    publishedDateTime: 2021-03-23T22:43:00Z
+    webUrl: "https://www.wfmynews2.com/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
+    ampWebUrl: "https://www.wfmynews2.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
+    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
     type: article
     provider:
-      name: WTSP
-      domain: wtsp.com
+      name: WFMY News2
+      domain: wfmynews2.com
     quality: 59
     images:
-      - url: "https://media.wtsp.com/assets/WTSP/images/22bf9a3e-a23c-4571-ac7d-88ade440713b/22bf9a3e-a23c-4571-ac7d-88ade440713b_1140x641.jpg"
+      - url: "https://media.wfmynews2.com/assets/WTSP/images/22bf9a3e-a23c-4571-ac7d-88ade440713b/22bf9a3e-a23c-4571-ac7d-88ade440713b_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -152,6 +152,22 @@ related:
       - url: "https://www.marketplace.org/wp-content/uploads/2021/03/coded-bias-ft-img.jpg?fit=480%2C270"
         width: 480
         height: 270
+        isCached: true
+  - title: "Disney World begins testing facial recognition technology: Here’s how it works"
+    excerpt: "Disney said the technology will capture an image of a guest’s face and convert it into a unique number, which will then be used for park entry."
+    publishedDateTime: 2021-03-25T11:04:00Z
+    webUrl: "https://www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/"
+    ampWebUrl: "https://www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/?outputType=amp"
+    type: article
+    provider:
+      name: WFTV
+      domain: wftv.com
+    quality: 55
+    images:
+      - url: "https://d1hfln2sfez66z.cloudfront.net/03-23-2021/t_6cc242d47b6a4653bcf66739186e5dbe_name_GettyImages_1226596757_scaled.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "See Our Guests: Walt Disney World tests facial recognition technology at park entrances"
     excerpt: "Walt Disney World is testing facial recognition technology that they hope will speed up the process of entering the theme park. Disney announced the"

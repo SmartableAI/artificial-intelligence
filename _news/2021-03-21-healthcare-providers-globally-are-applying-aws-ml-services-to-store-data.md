@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/healthcare-providers-globally-are-appl
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 575
     height: 338
     isCached: true
+
+related:
+  - title: "How Enterprises are Optimizing the Success of Cognitive AI in Healthcare?"
+    excerpt: "AI is now known for its ability to speed up processes, streamline procedures and, of course, crunch large amounts of data faster than a person could ever have done. But when it comes to structures that can think about themselves?"
+    publishedDateTime: 2021-03-25T11:53:00Z
+    webUrl: "https://www.cioapplications.com/news/how-enterprises-are-optimizing-the-success-of-cognitive-ai-in-healthcare-nid-7424.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 53
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/n57d4450308tyrty.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "LrSit8rZUqdaDSjd0kszMwcMX0m+NxIKI0fznosL+uGHWTNXEzvyMw3B4lPPcW7Gl98Z8gVnlBfp9yNfYkq74OAzlB5QMCaBsuZ55xNBSy5Jd0CsZx4LsfmDE1UqjrqIB19XKIqa6UqI9lDE2xOjsMS73CO1gCm8qpMe2i6ek7DPvcnux5Lei9+6QIoz7EJKjnP4PFRdpfp2GzjEtedVdMBWa9lp+Stwh3ViE4AT6Xq81Yui7gTOuN39DqTd0OYxG814H7ZyKPx6wsOQmYgTMJO2hl2kNp8sskIrKjTipAnux2rBlRjoATb5NLULRwrY8mbyu8Jqq5tG0chAlFdiwcUHHqYc97fqUYxnipNQf28a/D8fwimDJuq+K0DCqOVF3R7AYyw4UjbsYW4Fc1Ju8XrysjFJSZFteRumy2oVOev+MCDyBcqhvh5as9KcoVpTWj5iacuyx0WYNOfB+MDqqvQbsH77z9s74fL+gCvEyZCXMeZ35m/hBPK+3IZkcG2E52Bxh58z4E2Bpdi8tVM0+w==;ubCeJzCh1j0S5GFr0LFSHQ=="
 ---

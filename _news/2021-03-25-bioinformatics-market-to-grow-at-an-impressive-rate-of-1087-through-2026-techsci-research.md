@@ -43,6 +43,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Singapore Facial Recognition Systems Market 2020-2026: Market Size is Projected to Grow at a CAGR of 17.6%"
+    excerpt: "DUBLIN, March 24, 2021 /PRNewswire/ -- The \"Singapore Facial Recognition Systems Market (2020-2026): Market Forecast by Component Types (Hardware, Software & Software Tools), by Applications (Law Enforcement, Physical Security, Border Control and ..."
+    publishedDateTime: 2021-03-25T11:45:00Z
+    webUrl: "https://www.lelezard.com/en/news-19715864.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "wHsOq/M6Nfe0rMtOe/wVX788z3g8pys9bd0lHyR8b1d1y+tk13AgtDSNlVqXN2fP+rlOwYHaPAYKLmmH9C065MjxtffBXQSSgfcyiUFuUMqMYuAG1Qvh4+GABoWH/weX3xjAy3W7vKI+2Imf8PohGpJ+JHOMJuxXsW4Aj6IB0Edu1rQ3HwK43oZlwfN3pjCq1Ho0TTQtcpJchPnqDS3IYTc3saOj636ii2jSHbZD9yTE6mXJ8yL99RHLAK5D6P2cOxJ1E/IDz1hg+JeLUmNJqeZdbPTW1ULJ74uC5obcaaktWOhjaNMy0Gmslfl1DfJO4v7eabYOKKVsAriN3Lvsqt+t0Mk2YsnuEqxpkT2/mvLh/Tx1hOK2p7a04YS0yFh9TCFV5X6MT0eKX96dKKvEyXhX36DyDRZ7YuzJf5pZsh2SQc3w7Su5PjASpd6hPd9D1roLW85r418Ic3CNPyLHeEKb9r06NC+AezZXAzvWI4tu5/2MZ0e1gExlWtY7Z67HoTPRibzZLxFWyMAaf+gONw==;mkGOcVs6csDP+K1D2AO48g=="
 ---

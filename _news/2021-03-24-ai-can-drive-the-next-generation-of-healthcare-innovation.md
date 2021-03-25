@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24?amp"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdbbb2c33-0140-454f-9d2e-2cc0955ecb41.jpg?source=next-opengraph&fit=scale-down&width=900"
         width: 900
         height: 506
+        isCached: true
+  - title: "AI-based structure-function correlation in age-related macular degeneration"
+    excerpt: "Sensitive and robust outcome measures of retinal function are pivotal for clinical trials in age-related macular degeneration (AMD). A recent development is the implementation of artificial intelligence (AI) to infer results of psychophysical examinations based on findings derived from multimodal imaging."
+    publishedDateTime: 2021-03-25T11:39:00Z
+    webUrl: "https://www.nature.com/articles/s41433-021-01503-3"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-021-01503-3/MediaObjects/41433_2021_1503_Fig1_HTML.png"
+        width: 587
+        height: 685
         isCached: true
   - title: "Workshop on next generation embodied intelligence this week"
     excerpt: "Supported by the Engineering and Physical Sciences Research Council (EPSRC) and chaired by Dr Fumiya Iida, Reader in Robotics, the International Workshop on Next Generation Embodied Intelligence seeks to gain further insights into intelligence,"

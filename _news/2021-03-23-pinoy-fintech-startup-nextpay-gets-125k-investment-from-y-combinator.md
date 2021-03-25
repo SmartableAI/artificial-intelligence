@@ -43,6 +43,17 @@ related:
         width: 300
         height: 296
         isCached: true
+  - title: "Y Combinator Gives FinTech NextPay $125K Boost"
+    excerpt: "Philippine FinTech platform NextPay got $125,000 in pre-seed funding from Silicon Valley startup accelerator Y Combinator (YC)."
+    publishedDateTime: 2021-03-23T20:27:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2021/y-combinator-gives-fintech-nextpay-125k-boost/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2021/y-combinator-gives-fintech-nextpay-125k-boost/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/y-combinator-gives-fintech-nextpay-125k-boost/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 24
 
 secured: "GNBaWna/YQY1QyCeq1+MOZPNd8tshrzms448Ja5Vf04l4SYn03pkZGNfGou6aEEtRgMy+a5RuQ2OJWmdkxF5xU1NeAlhno9Z3aMkep8XDscRtVUDmCrHGli7nxmlFBhrTGL7JQtIQrTY5nMMT5t76nPzRUwTgCbpu4tudQKTH36X88BlLC0HelnheizfsLknWlsxH2C4DiZQk70qsZyKp4wez9II6B4stzeRxqUqqYOCPDtyHB3ATzYkluPKDO2KpDo+bim0FIHdQTlxTAWZz8l2hQyWm0HK8DXBAo20JzcvUOjlzIkLkrMsagF/VLWzm902FGf0TCemLk0C02Ha5a4d2wAJD1BSkbUzPJISzFc=;8TAopO5acowO/hrx944x1A=="
 ---
