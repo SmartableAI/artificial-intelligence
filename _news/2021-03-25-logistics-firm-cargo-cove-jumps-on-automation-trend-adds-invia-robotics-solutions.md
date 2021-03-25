@@ -9,8 +9,8 @@ ampWebUrl: "https://www.freightwaves.com/news/logistics-firm-cargo-cove-jumps-on
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/logistics-firm-cargo-cove-jumps-on-automation-trend-adds-invia-robotics-solutions/amp"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: freightwaves.com
@@ -27,20 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Startup News: AMR vendor ForwardX Robotics lands $38 million in additional funding"
-    excerpt: "ForwardX Robotics, a leading developer of artificial intelligence (AI)-powered autonomous mobile robots (AMRs) for warehousing and manufacturing environments, announced it has closed its Series B funding by raising another round of more than $38 million led by CDH Investments’s VGC,"
-    publishedDateTime: 2021-03-25T17:06:00Z
-    webUrl: "https://www.scmr.com/article/startup_news_amr_vendor_forwardx_robotics_lands_38_million_in_additional_fu"
+  - title: "4 Robotics Stocks to Buy to Invest in Innovation"
+    excerpt: "Often, investing in robotics is connected to investing in artificial intelligence. Robots can learn, adapt to new data and become more productive and efficient. There are multiple uses of robotics ..."
+    publishedDateTime: 2021-03-25T20:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/4-robotics-stocks-to-buy-to-invest-in-innovation-1030247414"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/4-robotics-stocks-to-buy-to-invest-in-innovation-1030247414"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4-robotics-stocks-to-buy-to-invest-in-innovation-1030247414"
     type: article
     provider:
-      name: Supply Chain Management Review
-      domain: scmr.com
-    quality: 48
-    images:
-      - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
-        width: 444
-        height: 333
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
 
 secured: "HcoAjR1N7F5zjrj3EmdiYN8xjmf2ImygvmoqxkY18rn4tYzvQKQOR7gA5FXDnKjru0ZrEeKNJUJ9JmMjqSvLcNcjHBf4/00Lu94MC6pF6djTYX6K9FjXb9NIicilI2smsAmbVNogjZh9j0ViGOsAiF+MxQu3xCUjTOC4ulxkO1cVLdD7QmOQGPg8xX7ZAorf/yQBA6K598mlZLWF0KsLvfWFPOp1LJUZXyajLvRi1Ev5UJ0p/Rw+FRlitVeH+rPwDQ8QQdtO1wTLbZAFscHPZ3xywgFxZMr9sU+Bvwc5fxl40GoBqlKb1Cji9tyS6+dYrYf1IV5UpVfL9sz7sjtVGCwJpcvbkREq6VMgJijgaBAs2LL17RVYpcDn3TRvoucHtFaLJbyYbsZP9tibFtQkgBesn42BPuSNZGGHToJwGO7tYJYIVQaaeNdDHHjf+D7wEhBqJF1YENVu+26ifivUIfbz3FGkj1VoOf//dQtFgUOAH1u1PRSvuxBF/ht3hW+fo8uOP6h1afyNuHAlAxRw+Q==;43nwIBB6ZRkwGC7uDzWduw=="
 ---

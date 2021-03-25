@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-revi
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for?amp"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI makes Nvidia’s GPU Technology Conference a must-attend event"
+    excerpt: "There will be new jobs in data analytics, data sciences, AI architecture, ethics for AI and business analysis, to name just a few. GTC is the single event where every aspect of AI is represented ..."
+    publishedDateTime: 2021-03-25T20:38:00Z
+    webUrl: "https://siliconangle.com/2021/03/25/ai-makes-nvidia-gpu-technology-conference-must-attend-event/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/09/jensenhuangchina2017.png"
+        width: 794
+        height: 456
+        isCached: true
   - title: "Nvidia may be about to launch a $3,000 GPU that puts the RTX 3090 in the shade"
     excerpt: "That would arguably deliver the most powerful mining GPU the world has ever known, and probably the most expensive too. The shiny AI-focused A100 is a $10,000 graphics card and was the first Ampere GPU to see the light of day. But when you price a graphics ..."
     publishedDateTime: 2021-03-23T12:22:00Z

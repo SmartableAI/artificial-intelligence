@@ -43,6 +43,20 @@ related:
         width: 361
         height: 241
         isCached: true
+  - title: "AI makes Nvidia’s GPU Technology Conference a must-attend event"
+    excerpt: "There will be new jobs in data analytics, data sciences, AI architecture, ethics for AI and business analysis, to name just a few. GTC is the single event where every aspect of AI is represented ..."
+    publishedDateTime: 2021-03-25T20:38:00Z
+    webUrl: "https://siliconangle.com/2021/03/25/ai-makes-nvidia-gpu-technology-conference-must-attend-event/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/09/jensenhuangchina2017.png"
+        width: 794
+        height: 456
+        isCached: true
 
 secured: "Rrw4w+JarALtjhn9WQfXWa3/x/js08+nEYGlmcIsjVmYl5oQx6WmK5OjoN9lSGKr5hnVJP+Rv5N8k1hyAy4ri8au5+X82yGrJTuupqwvmZmNMsKKZoT71jdafa8PQZms6oAAe4KhmcjlcqmC6bgG0Lu0BG2uxTDehEVjaZwe8Ru6F6lpf91WRS6I5u01fkdq9iY6x/ot73Kl30gP8Tl+NguWIeCJyQzW6AIy7X1TKXDSIem5CkvYXrJBfKWV2iqxzAxCwDIQo+ithYv5f9y26tS3GCrDPeBRA+IPGnNCEhxB0H4YfdQ41HoOzXNuaUiTprxZJWPn1Jlbl97ICw/mHZ4LpQz8yQuR54fMvxsH9CgNby4qqbNujHXkDNK7QMNLzXTSccnwUk9OzkTTnAb9yc0AuaclWErwFfbScbP1FIafd7/XVojA6KXAoHgg0mn8L3quNe2/11d4k9lDnHHKGt3qFnZl5H8ed8dXkMdljawJX+vpCJ0wmlYdpcduUh94YxD39HylDNyqkqwWxso7Gg==;OW/4bjGkVUZd77uEnZIOEw=="
 ---

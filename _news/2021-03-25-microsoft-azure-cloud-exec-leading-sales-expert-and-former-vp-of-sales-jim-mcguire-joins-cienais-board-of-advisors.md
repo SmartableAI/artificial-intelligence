@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 1169
         isCached: true
+  - title: "Azure Percept Is Microsoft’s Long-Awaited Answer to Advancing Robotics and Edge AI"
+    excerpt: "Microsoft announced Azure Percept, an end-to-end edge Artificial Intelligence (AI) platform that includes hardware accelerators integrated with Azure AI and Internet of Things (IoT) services. Azure Percept is able to run deep learning-based machine vision workloads at the edge without connection to the cloud."
+    publishedDateTime: 2021-03-25T21:27:00Z
+    webUrl: "https://www.abiresearch.com/market-research/product/7779227-azure-percept-is-microsofts-long-awaited-a/"
+    type: article
+    provider:
+      name: ABI Research
+      domain: abiresearch.com
+    quality: 75
   - title: "Repsol and Microsoft renew partnership developing AI-powered digital solutions"
     excerpt: "The companies will co-innovate to build new AI-powered digital solutions ... including recommitting to the Azure cloud platform. “The extension of our collaboration and the supply of renewable energy undoubtedly reaffirms the vision that both companies ..."
     publishedDateTime: 2021-03-22T16:04:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/humanoid-robot-sophia-to-aucti
 webUrl: "https://www.reuters.com/video/watch/humanoid-robot-sophia-to-auction-its-own-id727565987"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://s32659.pcdn.co/wp-content/uploads/2021/03/bic_artwork_ai_sophia_nft_720.jpg.optimal.jpg"
         width: 720
         height: 432
+        isCached: true
+  - title: "AI humanoid Sophia sells self-portrait NFT for more than $688,000 at auction"
+    excerpt: "Sophia the robot made her debut in 2016 and now has sold her first 'painting.' The humanoid auctioned of a self-portrait NFT that sold for $688,888, along with a hand-painted version of the digital piece."
+    publishedDateTime: 2021-03-25T21:18:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9399763/NFT-artwork-humanoid-robot-sells-auction-nearly-700-000.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9399763/amp/NFT-artwork-humanoid-robot-sells-auction-nearly-700-000.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9399763/amp/NFT-artwork-humanoid-robot-sells-auction-nearly-700-000.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 56
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/03/25/21/40948438-0-image-a-10_1616707075267.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Robot ‘humanoid’ Sophia has digital art up for sale in the first ever AI auction"
     excerpt: "“She” is a robot whose first artwork goes up for ... in the first sale of such pieces created jointly with artificial intelligence (AI). NFTs, a digital signature saved on blockchain ledgers ..."

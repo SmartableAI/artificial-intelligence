@@ -9,7 +9,7 @@ ampWebUrl: "https://www.macrumors.com/2021/03/25/apple-ai-acquisitions-2016-to-2
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/03/25/apple-ai-acquisitions-2016-to-2020/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 857
     isCached: true
 
-secured: "/9zS8RID1NjXC1axmKWoB5hjtw7byLldIRz4SwgaRRp1PJENy8e9XnggNhvbXXYhcexpmn/24uuTRMNl+k/Lo2LBcbheB0x9eAK99C9fwL10n3aGUPHaO0yrRY68a+JW4V3Yvb+255jr7Wf5TQTJHI0e0aZYvOJNw5UEX06sgAUwX3G2z1iNBKljCCG94BGnBFN65XET43zBeRFhPcMR3fGulokYyG2kxD0p8mhFTha8J9tL/Np/k+r03KqXOVEYQg7HQX2L3ghLNYBWP1cLBeAZBlyll8SFZGZxJS01aQuEpJoDVfCdEnX4+fxawOCJH09rEpgRfOidLkiDP8q/OLwPTfd6lM0mcKGgaxJOmDc=;vvBfmNGRklzoPqahUY2mzA=="
+related:
+  - title: "Apple was leading buyer of AI companies between 2016 and 2020"
+    excerpt: "Apple was the top acquirer of artificial intelligence companies from 2016 to 2020, beating out companies like Facebook, Google, and Microsoft."
+    publishedDateTime: 2021-03-25T21:03:00Z
+    webUrl: "https://appleinsider.com/articles/21/03/25/apple-was-leading-buyer-of-ai-companies-between-2016-and-2020"
+    ampWebUrl: "https://appleinsider.com/articles/21/03/25/apple-was-leading-buyer-of-ai-companies-between-2016-and-2020/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/03/25/apple-was-leading-buyer-of-ai-companies-between-2016-and-2020/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/41038-79364-Siri-xl.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "qZZZqSofsBnrgdHiKDk5rYq7RE+hAquYz72QokclRGVDt8YlxqcOxsv1FiRWDQYscKcUdpEZ7bUntUoDnKFvkMhbSVL5CznzvjgVHjIFHGdlJaXHf/ePWG1B90S3KImhRSvMEaMw2MNfq59J1E6m8GK0CnkJaMHJlWK8G76RcK3Ck4x0MOmYpx+LVxltW+5XLIYmLqSKPPNZsZa3ZJb7QA4G5au5TKX8nPxCXHrm/RDuRVozSBET4ARAOf/dE7S+pUwwtUXh+w70IFrlrs0BAH73i0a9WaDDj6NMsTTcNfp/aaMk/nkeeQym1JxpbdushwUeI0H5S/amxV2s3NT1iHkCiCmQH+FgFXTP6g7PabrFvMgdEOGEbZ/FITH+0ubUr730vDneEg+21dKmK226X6cXMpadQjtE8nOmrv8vNtH28zVtKaB53dDrkVdPoUtblUN1IlYVLZ2Ge9D0oRDZrXqjd0zAuV4YNfg8IK5B4LTDy1Gp3NqpBmayGXT/UtPwsCtcw59JOK+VMSIG/4jdTg==;Xl4I2iztun0Azwl9DFcTAQ=="
 ---
 

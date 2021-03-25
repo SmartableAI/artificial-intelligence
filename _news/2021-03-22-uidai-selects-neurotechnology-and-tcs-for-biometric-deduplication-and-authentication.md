@@ -49,6 +49,20 @@ related:
         width: 696
         height: 392
         isCached: true
+  - title: "SAFR face biometrics deployed to support gambling safety program in South Australia"
+    excerpt: "A hotel group among the largest in South Australia is deploying SAFR face biometrics to identify patrons banned from gaming areas."
+    publishedDateTime: 2021-03-25T21:46:00Z
+    webUrl: "https://www.biometricupdate.com/202103/safr-face-biometrics-deployed-to-support-gambling-safety-program-in-south-australia"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/23173651/biometrics-ai-casino-gaming.jpg"
+        width: 650
+        height: 350
+        isCached: true
   - title: "Idemia face, ID R&D voice, Aware fingerprint biometrics score top biometric accuracy rankings"
     excerpt: "The results show Idemia’s performance in facial recognition for masked and unmasked faces, ID R&D’s in short-duration speaker recognition, and Aware’s in proprietary fingerprint template generation and matching. Idemia achieves top accuracy results ..."
     publishedDateTime: 2021-03-23T17:39:00Z

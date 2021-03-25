@@ -87,6 +87,22 @@ related:
         width: 720
         height: 432
         isCached: true
+  - title: "AI humanoid Sophia sells self-portrait NFT for more than $688,000 at auction"
+    excerpt: "Sophia the robot made her debut in 2016 and now has sold her first 'painting.' The humanoid auctioned of a self-portrait NFT that sold for $688,888, along with a hand-painted version of the digital piece."
+    publishedDateTime: 2021-03-25T21:18:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9399763/NFT-artwork-humanoid-robot-sells-auction-nearly-700-000.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9399763/amp/NFT-artwork-humanoid-robot-sells-auction-nearly-700-000.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9399763/amp/NFT-artwork-humanoid-robot-sells-auction-nearly-700-000.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 56
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/03/25/21/40948438-0-image-a-10_1616707075267.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Future now: humanoid robot Sophia joins auction with her own NFT artwork"
     excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with humans. A digital artwork by the Hong Kong-based Hanson Robotics humanoid,"
     publishedDateTime: 2021-03-22T07:32:00Z
