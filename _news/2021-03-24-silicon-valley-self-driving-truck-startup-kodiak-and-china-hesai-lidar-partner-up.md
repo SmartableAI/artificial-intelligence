@@ -8,20 +8,21 @@ webUrl: "https://www.reuters.com/article/us-auto-autonomous-kodiak-hesai-idUSKBN
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG1I6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG1I6"
 type: article
-quality: 182
-heat: 212
+quality: 184
+heat: 214
 published: true
 
 provider:
   name: U.S. News & World Report
   domain: usnews.com
   images:
-    - url: "/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556046692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1CU"
@@ -77,6 +78,6 @@ related:
         height: 600
         isCached: true
 
-secured: "tgySRSk8ZXc+JyMrHEY7cNLBeyXA7MGClnPunywIdTWlpXPCtRopZoS2wTQsWONJSBVm6OjdilIj0LqqqfpqsuoUpFxED7/ePEbknmsuaySJAq+a+VRKE29reiNqKKYcPZDQLZaEtzWuTF7b9S1QZ5n9wEFA08+iI18PQ90NO991ybe5TQC1N9T0erZoqv9KZ/3jGRKm+Vg5h/BqZ8exjeKYQ+EisBmlxyGWeU+M12AuteSrB/5vCOYelQ7TH95RdurfcnESGHCDyUpXt23BXXjlL96MFGj+avaVpPSlX9lR9qIOrZyUfteaFSzACUnQ2OY1QtF+rat1ZXu6fdJ6kZUWe2w/n8/Erb+tAQhmFxo=;s9AhjEqOcMGpdNap/QXeew=="
+secured: "h+a2u7Az1H7hucuiwQCHqOo/pbLmMHeBNbBtVkIepJaFaxl/QlsNVVlwcnG+7WCW4c83zej+vYp98s2faqzqJS/PZXNpA1E4rsz2xjKyxN6r1GD3kKHAEyjNTQcP+uFg/Ai1Ud32BlMjg6cr1+KbFVIvnN41hvrkdSGZGlTLituAYtHUzuYF6/zeZNFvq/pbfRXU9vAxPhqIRgYbFxUCuDk+fSAcdVhx9yNx3sxa2QXYymcHcR6wFX8UHsfz9moWB4oGnqy0Gg4xlGVrNhw8ghiZyM4nYi1CEbVY7JbNQhrAg1EEEZkV0Rd+ZF45fwpGo/DN95HJibblMTTLF6saPFfDZDDtY2MeORKgNqvjMsLAu0EiCUmWRjfiUVtM0CBC9jInuZt/NJfnl0vs65unz0Kyr7naz1sM4PY/yU+PSk7neZ6DwNeGC1eq0LCWJOyY66lErPgxwzOG+HFu+junAvQlQtF8s1QKiI3lNODSyRFX7QAg89OGl9OoxjY7aaswwhafEv/oAS1SjxNRfPKl1qzCdXNYTTM1AhVHaC+bXBI=;8TdZkzs/kk0bIjvOxZhZcQ=="
 ---
 

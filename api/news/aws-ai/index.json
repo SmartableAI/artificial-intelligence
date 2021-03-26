@@ -1043,6 +1043,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-12-aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.md",
+      "title": "AIICT with AWS offers new Certified Artificial Intelligence Professional course",
+      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new Certified Artificial Intelligence Professional course, jointly developed with Amazon Web Services (AWS). The new course is aimed at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itwire.com/freelancer-sp-720/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.html",
+      "originalUrl": "https://www.itwire.com/freelancer-sp-720/aiict-with-aws-offers-new-certified-artificial-intelligence-professional-course.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itwire.com/media/k2/items/cache/e750cc282c5a3b7cf7d307fee6b8d38d_M.jpg",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T07:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-pdf-document-pre-processing-with-amazon-textract-visuals-detection-and-removal.md",
       "title": "PDF document pre-processing with Amazon Textract: Visuals detection and removal",
       "excerpt": "Amazon Textract is a fully managed machine learning (ML) service that automatically extracts printed text, handwriting, and other data from scanned documents that goes beyond simple optical character recognition (OCR) to identify, understand, and extract data from forms and tables. Amazon Textract can",
@@ -1379,17 +1422,17 @@
     {
       "path": "_news/2021-03-09-aiict-introduces-new-certified-artificial-intelligence-professional-course-developed-with-aws.md",
       "title": "AIICT introduces new Certified Artificial Intelligence Professional course developed with AWS",
-      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML ...",
+      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML) professionals.",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/138360/aiict-introduces-new-certified-artificial/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/138360/aiict-introduces-new-certified-artificial/",
+      "webUrl": "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_4.png",
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_3.png",
           "width": 300,
           "height": 250,
           "title": null,
@@ -1401,54 +1444,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T03:49:00-08:00",
+      "publishedDateTime": "2021-03-08T16:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-cloud-providers-cite-role-as-ai-inference-moves-to-edge.md",
-      "title": "Cloud providers cite role as AI inference moves to edge",
-      "excerpt": "Performing AI inference on embedded edge devices is attractive in situations where low latency is required, or where the volumes of data collected at the",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/cloud-providers-cite-role-as-ai-inference-moves-to-edge/",
-      "originalUrl": "https://www.embedded.com/cloud-providers-cite-role-as-ai-inference-moves-to-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/03/img20210315113645Implementing-Edge-AI-You-Still-_1_w1048_h541.jpg",
-          "width": 1048,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
+        "name": "ARN",
+        "domain": "arnnet.com.au",
         "images": null,
         "publishers": null,
         "authors": null

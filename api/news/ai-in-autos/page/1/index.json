@@ -106,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-24-silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up.md",
+      "title": "Silicon Valley Self-Driving Truck Startup Kodiak and China Hesai Lidar Partner Up",
+      "excerpt": "Silicon Valley self-driving truck startup Kodiak Robotics Inc and Shanghai-based lidar maker Hesai Technology Co Ltd on Wednesday announced a partnership to integrate the Chinese lidar into the autonomous trucking system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-auto-autonomous-kodiak-hesai-idUSKBN2BG1I6",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-24/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556046692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1CU",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BG1I6",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG1I6",
+      "publishedDateTime": "2021-03-24T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser.md",
       "title": "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser",
       "excerpt": "Self-driving company TuSimple Inc. unveiled paperwork for its initial public offering Tuesday showing it has lost more than $300 million over the past three years in the race to be the first to launch fully autonomous long-haul trucks. TuSimple ...",
@@ -218,7 +270,7 @@
       "originalUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1406,58 +1458,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-baidu-seeks-up-to-us36-billion-in-hong-kong-share-sale-as-fundraising-in-city-reaches-a-record-in-first-two-months-of-the-year.md",
-      "title": "Baidu seeks up to US$3.6 billion in Hong Kong share sale as fundraising in city reaches a record in first two months of the year",
-      "excerpt": "Baidu has signed strategic agreements with 10 carmakers to power their passenger vehicles with the Apollo self-driving technologies. It also plans to use some of the proceeds on upgrading its Baidu mobile app and related ecosystem, which had 544 million ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
-      "originalUrl": "https://www.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/12/28193f29-27ac-4509-948e-ebbd7962e2e1_5740b6b8.jpg?itok=SqDO47bL&v=1615521028",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/banking-finance/article/3125127/baidu-seeks-us36-billion-hong-kong-share-sale-fundraising",
-      "publishedDateTime": "2021-03-11T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -35,7 +35,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 182
+    quality: 184
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210324&t=2&i=1556046692&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2N1CU"
         width: 816

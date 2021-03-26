@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Domo Expands AWS Relationship | Morningstar"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2021-03-24T17:53:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210324005755/domo-expands-aws-relationship"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 21
+
 secured: "Mps8ezv8Rr93tOxsTuljjFxipcztw/ivXlGzU62LeSlZQth41bvxvAj4juE5PTLbJQw9q7dSm/UtJcXnghS6C+7KBNAwGQh/71ro8GLReP4G5WoFHEBOP/vi3cc2IRIV+8Mh5QE4hCXnVpiy53NjH15JslfpmIi65LX6xa64dOY/WjjMAvaCKhUIIRyPndm5G7F32g8qnsAG8sCh0uDFaHuzfeNJrVXwV4Bjs1X6kNztqK6UGU19ru5iZQhFqQN4zga81hmS1xMJjOAX12OBaBLeeDvit9ovooBuEOoZ4ZO9BNp0OqHiQ1dKO7uJSt91IfO6WB2Uo2j0yF984+0Kh0NVCUQvLeoWN5RyKbPuFUQ=;NPLJFZZGSvp/60b0BG0TcQ=="
 ---
 

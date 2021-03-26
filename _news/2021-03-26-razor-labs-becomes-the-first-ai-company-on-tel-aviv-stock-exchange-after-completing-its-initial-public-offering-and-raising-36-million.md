@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Razor Labs Becomes the First AI Company on Tel Aviv Stock Exchange After Completing its Initial Public Offering And Raising $36 Million"
-excerpt: "Razor Labs ( (ticker: TASE:RZR) the leading developer of AI solutions for industrial manufacturing processes, announces the successful completion of its Initial Public Offering, making it the first Artificial"
-publishedDateTime: 2021-03-26T13:56:00Z
-originalUrl: "https://www.lelezard.com/en/news-19719870.html"
-webUrl: "https://www.lelezard.com/en/news-19719870.html"
+excerpt: "Razor Labs (  (ticker: TASE:RZR) the leading developer of AI solutions for industrial manufacturing processes, announces the successful completion of its Initial Public Offering, making it the first Artificial Intelligence (AI) company to go public on the Israeli stock exchange."
+publishedDateTime: 2021-03-26T13:38:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/razor-labs-becomes-the-first-ai-company-on-tel-aviv-stock-exchange-after-completing-its/article_c580ea44-532c-52d0-a7e1-889890178829.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/razor-labs-becomes-the-first-ai-company-on-tel-aviv-stock-exchange-after-completing-its/article_c580ea44-532c-52d0-a7e1-889890178829.html"
 type: article
 quality: 5
 heat: 5
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/d/5e/d5e316e2-28d9-5326-aa3f-0ee64a147db9/605de9899c5c8.image.jpg?resize=1000%2C610"
+    width: 1000
+    height: 610
     isCached: true
 
-secured: "t2JgzoIIs30ZsSQ/sXuSkmChCXmrrd0Ew2jVUCrl0u4IZ/0tjsS/3z3t0nxTRZLTVje0dE2rZmJJg3Om+tQ1r3WkxzCkthB9jD99pbBlLeTimpFBaXPGEf7WL4PMNMsmtmqtXh/Y/1VyhtW1P4PqUxEyB+AMcnceoKilaM/Hb0DxWyc+yWolkhCJYorWTI3D7RkRwjF0aoJaWE6iIVyX7nS0FQyYKGWi4OGj3VsyHHa2ohlRc1sv9fE6LnwoGRgajLf0eWWp3/ymr5pBwmyJRo8DtC3hXP9LjASqxKp/+5ToIoqxIaQ5CB7QUqDO6rK7nYLvA4HzPlydeeSXXfoVXdJ6hXbzdLwhdAAqNMBPk0M=;pGrV+1oLcqWRRBmBBHhVtw=="
+secured: "pKz6wN6dWz5EsbS8YIz3MzzPqWK1UvZV0fZwzU433qTm4z/cF9LGdmBg6yTjIsp0OnLRdUKB/oThKz9flpNkivTMGATx1OlL4aGOM1kYDWUQEgik+alO15zwlJbvRvbCDTomstt9VW1wM3+YBsxove3sQcz/rXaacWS+lXA6/81MC0fPydO5YMbf5eXhxbArxGGeMHvMbfGWAM+Z62dt2VwH1IVRwEQYjpCsgJou/H9aHypeg+5zfRYlnLHCKjj9q+bMWHm0wT8LwT5JXYt6B+Q6t3z/SQT/0pPQHLd+Zu9Z4LktrwlGt7//gfcm6lSvXjy+78/3yB3BRdcYSbr/4z7CyJgoSB79g4+YXRUwDGM=;b/siggd8bTQ1LspLxgWNQQ=="
 ---
 

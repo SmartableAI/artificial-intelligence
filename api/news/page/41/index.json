@@ -2,6 +2,57 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-02-23-use-ai-to-sort-through-market-moving-news.md",
+      "title": "Use AI to sort through market-moving news",
+      "excerpt": "Bloomberg helps you sort through this enormous amount of information in a manageable and comprehensive way with a tool called Key Themes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/use-ai-to-sort-through-market-moving-news/?tactic-page=467165",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/use-ai-to-sort-through-market-moving-news/?tactic-page=467165",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fusanews.png&width=800",
+          "width": 800,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T13:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-googles-voice-ai-accelerator-launches-12-startups.md",
       "title": "Google’s Voice AI accelerator launches 12 startups",
       "excerpt": "Google today announced the first cohort in its Google for Startups Accelerator: Voice AI, a 10-week program designed to pair startups with experts to help tackle product development, machine learning,",
@@ -1126,58 +1177,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-global-self-driving-cars-market-analysis-including-size-share-key-drivers-growth-opportunities-and-trends-2021-2027.md",
-      "title": "Global Self-driving Cars Market Analysis including Size, Share, Key Drivers, Growth Opportunities and Trends 2021 – 2027",
-      "excerpt": "Feb 22, 2021 (The Expresswire) -- Global “Self-driving Cars Market” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-cars-market-analysis-including-size-share-key-drivers-growth-opportunities-and-trends-2021-2027-2021-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-cars-market-analysis-including-size-share-key-drivers-growth-opportunities-and-trends-2021-2027-2021-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-21T20:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

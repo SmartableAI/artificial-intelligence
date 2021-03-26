@@ -2,6 +2,40 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-10-eset-rivela-che-il-42-dei-consumatori-usa-app-fintech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali.md",
+      "title": "ESET rivela che il 42% dei consumatori usa App FinTech gratuite, ma il 50% non sa che uso viene fatto dei dati personali",
+      "excerpt": "ESET ha analizzato il tema della sicurezza dei dati nel segmento consumer nell’ambito della propria ricerca globale sul settore FinTech",
+      "sourceUrl": null,
+      "webUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
+      "originalUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/amp/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
+      "cdnAmpWebUrl": "https://www-informazione-it.cdn.ampproject.org/c/s/www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/amp/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
+      "publishedDateTime": "2021-03-09T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "informazione.it",
+        "domain": "informazione.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-ibm-watson-services-market-size-to-accrue-165-billion-by-2027.md",
       "title": "IBM Watson Services Market Size to accrue $ 16.5 billion by 2027",
       "excerpt": "Selbyville, Delaware According to the latest research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use; By Regions; Segment Forecast,",
@@ -1040,49 +1074,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-aiict-introduces-new-certified-artificial-intelligence-professional-course-developed-with-aws.md",
-      "title": "AIICT introduces new Certified Artificial Intelligence Professional course developed with AWS",
-      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/138360/aiict-introduces-new-certified-artificial/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/138360/aiict-introduces-new-certified-artificial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_4.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },

@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-03-08-elon-musk-says-tesla-is-expanding-its-full-self-driving-beta-to-more-drivers.md",
+      "title": "Elon Musk says Tesla is expanding its Full Self Driving beta to more drivers",
+      "excerpt": "Tesla first introduced the FSD beta in October to vehicle owners in its Early Access Program. At the time, Musk said the company was handling the software update “very cautiousl",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/elon-musk-says-tesla-is-expanding-its-full-self-driving-beta-to-more-drivers/ar-BB1ekSRo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 321,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/-WR3wnR8gKXZNakvetGBZC7uzKA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68925715/acastro_180524_1777_tesla_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta",
+      "publishedDateTime": "2021-03-07T09:10:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta",
+        "domain": "theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-us.md",
       "title": "China Targets AI, Chips Among Seven Battlefronts in Tech Race With U.S.",
       "excerpt": "A five-year economic plan unveiled in Beijing promises more spending, loans to bolster development of advanced technologies.",
@@ -1167,58 +1210,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025.md",
-      "title": "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025",
-      "excerpt": "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-05T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

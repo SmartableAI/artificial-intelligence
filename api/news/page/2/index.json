@@ -1087,7 +1087,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-24/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -1110,7 +1110,7 @@
         "domain": "usnews.com",
         "images": [
           {
-            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1126,7 +1126,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {

@@ -2,6 +2,50 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-02-12-generate-positivity-with-machine-learning.md",
+      "title": "Generate Positivity With Machine Learning",
+      "excerpt": "If you’re new to Tensorflow, though, we have featured some projects that can do reliable object recognition using little more than a Raspberry Pi and a camera.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "originalUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/08/atltvhead-main.png",
+          "width": 1185,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-israel-automotive-industry-report-2017-2030-by-goldstein-market-intelligence.md",
       "title": "Israel Automotive Industry Report 2017-2030 by Goldstein Market Intelligence",
       "excerpt": "According to the Goldstein Market Intelligence, Israel automotive market is anticipated to grow at a CAGR of 7.0% during the forecast period. Israeli automakers are focusing on enhancing the technologies and human interaction with vehicles.",
@@ -1137,59 +1181,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming.md",
-      "title": "Bowery CTO Injong Rhee on the grand challenge of AI for indoor farming",
-      "excerpt": "Bowery has opened what it calls ones of the largest indoor farming R&D operations in the world to tackle challenges using machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/",
-      "originalUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Bowery-Farming_LEDS_Photo-Cred-Courtesy-of-Bowery-Farming.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/amp/",
-      "publishedDateTime": "2021-02-11T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

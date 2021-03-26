@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/community/gretna/student-journalists-earn-recogn
 webUrl: "https://omaha.com/community/gretna/student-journalists-earn-recognition/article_eec6dbad-b1c4-5c5b-8413-3a46c4b82601.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Area Students Earn All-State Speech Recognition"
-    excerpt: "Several area high school students have earned the highest possible honor in speech competitions. The Iowa High School Speech Association announced All-State nominations from individual performances. The following area students were honored: Johanna Leonard,"
-    publishedDateTime: 2021-03-25T08:48:00Z
-    webUrl: "https://www.kniakrls.com/2021/03/25/area-students-earn-all-state-speech-recognition/"
+  - title: "Two Top Tampa Bay Top Workplaces earn national recognition"
+    excerpt: "Two Tampa Bay companies that have routinely topped the Tampa Bay Times Top Workplaces lists can add a new distinction to their mantel. They’re now two of the top companies to work at nationally, according to a new ranking."
+    publishedDateTime: 2021-03-26T15:00:00Z
+    webUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/"
+    ampWebUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
     type: article
     provider:
-      name: KNIA-KRLS
-      domain: kniakrls.com
-    quality: 19
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 44
+    images:
+      - url: "https://www.tampabay.com/resizer/UZoq5LDsa2lXcp2UmICszQUswgU=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/T3OTOREYRFAX5EJUWKNCEAQ4MQ.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "46KLETyo/UcwhrnTeAEjM7btjmmx598kr7y4jXP0gY8dmP5ES81eq+gOHGy5wIAIbiaAHZKcfb2SnAv0elxAQLu1jBA1gujJ9CrDpjbZsapC0VJoDhvyVjKPVxLPGP/1AWABeME/viNjJVBBBR8zjwAAzO0DF9rCWIKr8/pD4ClZzwaJqrMpqRDU74ivZBplynKEI49gQe4SiYzcc08FQVvifVb+5rzCw96BNEbRqMCnJx9N89HWQECt9gESu0fl1fG+/vdp5VUP2hje6uTk3kATcC81dwBaEjI2rBaWy2729deDQkwh+3JSiQLBFvUWk4ISlYCfEaHUJe8UL1I9jc63lkefMwUSiH3HOzBX2tk=;2hLO9tN6q8qrMCW9V2eZPQ=="
 ---

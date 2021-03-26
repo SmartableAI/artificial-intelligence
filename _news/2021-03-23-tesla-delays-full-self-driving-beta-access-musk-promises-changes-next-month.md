@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Underage teen gets in Tesla’s back seat and claims it was self-driving after being pulled over by police"
+    excerpt: "Both girls claimed that no one was driving the vehicle and that the Tesla was self-driving. While Tesla does sell a “Full Self-Driving package,” the feature-complete version of the package is ..."
+    publishedDateTime: 2021-03-26T13:44:00Z
+    webUrl: "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/"
+    ampWebUrl: "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 87
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-driver-back-seat.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Musk Says Tesla Will Wait For Progress On Full Self Driving Before Wider Rollout"
     excerpt: "Last week, it seemed Tesla Inc (NASDAQ: TSLA) planned a wider rollout of the company's Full Self Driving Beta, an optional software upgrade that allows Tesla vehicles"
     publishedDateTime: 2021-03-22T17:30:00Z

@@ -2,6 +2,57 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-02-24-heres-why-your-saas-startup-should-buy-not-build.md",
+      "title": "Here’s why your SaaS startup should buy, not build",
+      "excerpt": "Creating a great business is about figuring out what makes your business great, then executing that as well as you possibly can.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/",
+      "originalUrl": "https://thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design10-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/amp/",
+      "publishedDateTime": "2021-02-24T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
       "title": "Why driverless cars are paradise on wheels for some",
       "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
@@ -1097,58 +1148,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-proposed-framework-could-reduce-energy-consumption-of-federated-learning.md",
-      "title": "Proposed framework could reduce energy consumption of federated learning",
-      "excerpt": "In a new paper, AI and machine learning researchers propose a federated learning framework desgined to minimize environmental impact.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/",
-      "originalUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/federated_learning.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/amp/",
-      "publishedDateTime": "2021-02-23T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

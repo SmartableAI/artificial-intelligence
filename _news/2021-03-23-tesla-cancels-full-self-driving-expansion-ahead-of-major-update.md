@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Underage teen gets in Tesla’s back seat and claims it was self-driving after being pulled over by police"
+    excerpt: "Both girls claimed that no one was driving the vehicle and that the Tesla was self-driving. While Tesla does sell a “Full Self-Driving package,” the feature-complete version of the package is ..."
+    publishedDateTime: 2021-03-26T13:44:00Z
+    webUrl: "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/"
+    ampWebUrl: "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 87
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-driver-back-seat.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla delays Full Self-Driving beta access, Musk promises changes next month"
     excerpt: "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0."
     publishedDateTime: 2021-03-23T15:35:00Z

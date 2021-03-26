@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-03-06-facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025.md",
+      "title": "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025",
+      "excerpt": "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-05T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees.md",
       "title": "IDC: Ethical AI is a team sport that requires smart and strong referees",
       "excerpt": "New research finds that the lack of responsible artificial intelligence guidelines is one of the top three barriers to wider adoption.",
@@ -1148,49 +1200,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-the-cia-once-built-a-catfish-robot-spy-named-charlie.md",
-      "title": "The CIA Once Built a Catfish Robot Spy Named Charlie",
-      "excerpt": "In the 1990s, the CIA built an unmanned underwater vehicle as part of a feasibility study. The UUV was supposed to resemble a catfish. It’s not clear if “Charlie” the catfish did any real spying during its CIA career.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/military/weapons/a35729403/cia-robotic-catfish-spy-history/",
-      "originalUrl": "https://www.popularmechanics.com/military/weapons/a35729403/cia-robotic-catfish-spy-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mzc3ndeznw-1614958652.jpeg?crop=1.00xw:0.835xh;0,0.0373xh&resize=1200:*",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popularmechanics.com/military/weapons/amp35729403/cia-robotic-catfish-spy-history/",
-      "cdnAmpWebUrl": "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/weapons/amp35729403/cia-robotic-catfish-spy-history/",
-      "publishedDateTime": "2021-03-04T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
