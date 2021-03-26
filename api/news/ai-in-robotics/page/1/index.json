@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-26-how-yandex-plans-to-expand-its-autonomous-robot-delivery-service.md",
+      "title": "How Yandex plans to expand its autonomous robot delivery service",
+      "excerpt": "Yandex plans to expand its autonomous delivery service to the U.S. and elsewhere. Here's how it hopes to accomplish this.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
+      "originalUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/YandexRover_delivery_robot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
+      "publishedDateTime": "2021-03-26T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-sophia-the-robot-nft-sales-rake-in-1-million.md",
+      "title": "Sophia the Robot NFT Sales Rake in $1 Million",
+      "excerpt": "Sophia the Robot has created and sold her own non-fungible tokens (NFT). Sales reached just over $1 million when all was said and done.",
+      "sourceUrl": null,
+      "webUrl": "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/",
+      "originalUrl": "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s32659.pcdn.co/wp-content/uploads/2021/03/bic_artwork_ai_sophia_nft_720.jpg.optimal.jpg",
+          "width": 720,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/",
+      "cdnAmpWebUrl": "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/",
+      "publishedDateTime": "2021-03-26T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https//beincrypto.com",
+        "domain": "beincrypto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-4-robotics-stocks-to-buy-to-invest-in-innovation.md",
       "title": "4 Robotics Stocks to Buy to Invest in Innovation",
       "excerpt": "Often, investing in robotics is connected to investing in artificial intelligence. Robots can learn, adapt to new data and become more productive and efficient. There are multiple uses of robotics ...",
@@ -685,58 +781,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-23-humanoid-robot-sophia-to-auction-its-own-nft-artwork.md",
-      "title": "Humanoid robot Sophia to auction its own NFT artwork",
-      "excerpt": "News Agency Humanoid robot Sophia to auction its own NFT artwork. Posted . Hong Kong-based Hanson Robotics' humanoid robot Sophia plans to auction nine non-fungible tokens (NFT) o",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/humanoid-robot-sophia-to-auction-its-own-id727565987",
-      "originalUrl": "https://www.reuters.com/video/watch/humanoid-robot-sophia-to-auction-its-own-id727565987",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210322&i=OVE567UJF&r=OVE567UJF&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T10:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-22-flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai.md",
       "title": "Flex Logix has two paths to making a lot of money challenging Nvidia in AI",
       "excerpt": "Twenty-eight years ago, Tate helped create a chip company called Rambus. Its technology is in every DRAM memory part that ships today. Tate thinks AI can be an even bigger market over time. Tate's personal investment vehicle, the Tate Family Trust ...",
@@ -1343,50 +1387,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-nses-buying-spree-continues-with-investment-in-machine-learning-start-up.md",
-      "title": "NSE’s buying spree continues with investment in machine learning start-up",
-      "excerpt": "The investment by the countrys largest stock exchange has been done through its subsidiary NSE Data & Analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/articleshow/81550775.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/articleshow/81550775.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-107203,msid-81550728/nse.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/stocks/news/nses-buying-spree-continues-with-investment-in-machine-learning-start-up/amp_articleshow/81550775.cms",
-      "publishedDateTime": "2021-03-17T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

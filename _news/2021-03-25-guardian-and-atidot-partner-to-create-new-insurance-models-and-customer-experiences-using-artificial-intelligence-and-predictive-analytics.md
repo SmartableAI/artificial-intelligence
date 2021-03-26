@@ -114,6 +114,20 @@ related:
       name: ANSA
       domain: ansa.it
     quality: 30
+  - title: "Aunalytics launches Daybreak for Financial Services"
+    excerpt: "Mid-sized banks and credit unions now have access to actionable data, enriched with Smart Features, to enhance customer relationships and deliver the right products and services, to the right people,"
+    publishedDateTime: 2021-03-26T13:40:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Aunalytics-launches-Daybreak-for-Financial-Services-145979.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 24
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
 
 secured: "bwTzUBp6XAPPqDeqEF+RRW4LNY7Z4BDujdk2/9oU27BF/BWqJ9ua0DhY33QOziWAEucnrZtYGtn9TXSMb/vhlpYbphqhioZCstoI9HIP7CiCn3swhvZceuXSMGCoDaM+ZgNEHY4kAKrpXdvsSt5LVcyzOWNMMBbFfwStAha1Z6BTRkoeYhWidlfZhWJxZQe/WWTdLJI21QR/gz0RpbLiP7wAdfgS5falqgcNXoluYWX3QlQXpM01mhNyh13RcvVMJu7XCYGtosKthRKmeOo+az/dR5CZaVuei+mx3VQo7zQmekRYxB8JsDlb4jEyCfmnoZ5abDqZ/RXcdkYXkySHzBIYmzu3UKflZ/RMbOBgneDCZHWrUUUAK9ycKgj9WbWie+YCJMGwSsvtifW6P9dSoB0pNjLXmJ0xVBJcFWLOo6Kz5/WJFGh4QUR8MImUKFJhEtyRolNUNrIWg1joDmxf0Bj1x59X5okCUZ+1gAPwqxjMxBNm4l1VQVZ+ksN/faGEAqe8Gk8/oZL2Hb7mmgp2iw==;WHUwIV7g3jIaxmmEwVVRoQ=="
 ---

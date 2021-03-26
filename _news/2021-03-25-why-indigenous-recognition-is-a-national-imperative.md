@@ -51,6 +51,20 @@ related:
         width: 760
         height: 760
         isCached: true
+  - title: "Local recognition for Lane"
+    excerpt: "Composer Liz Lane has been announced as Lydbrook Band's 2020 'Bandsperson of the Year' — the first non-playing recipient in the award's history. The Trefor Evans Memorial Cup is usually presented at the band's annual Christmas Concert,"
+    publishedDateTime: 2021-03-26T12:00:00Z
+    webUrl: "https://www.4barsrest.com/news/44484/local-recognition-for-lane"
+    type: article
+    provider:
+      name: 4barsrest.com
+      domain: 4barsrest.com
+    quality: 24
+    images:
+      - url: "https://www.4barsrest.com/gallery/ib/2021/LizLane2021-1985881108.jpg"
+        width: 730
+        height: 488
+        isCached: true
 
 secured: "Dj9IiSr+EOhI9plbCLpQ0M8Y54V9fZB1slLYrDnb3/UdLvbRfl3zkbgP9Oh7sxZIosKVuIO9YtlVkEool28ks1fBHQ9is9mNbSPigr2bLQDk7RytWx/m1bHXhRpbeM/WuPCwKzi0sS0WSttKKV/59GY0XAXjE8F6/GbovBv7ryCGjZYBOgtTm93ZHRd++POXXRnynorq9yOvIpIwWbfE7gF8YaqjnnP1gQwubv4uFS4VISh/7EP7gSVuZE47mKLEJ38wgCApSF5eqHk3kHv511pUeE67iWknx0EHFJk0euzKcfamy27bcS5+gZ7S+LAkpEwAqWDP28tI/MY8Bf5icOi21gDEbL9eVGWWfQ63HuAHsLG+v4dZ+v9VbTgz2sSeHd+vMDiPrrbYfgdAFxM2fbEG06c1vV+aim8ECk8Liq8RebjBrS78YkiBwHFgs7sOQrzf5fBB82TDTo7fvM0N++4z80OMBBFza29Njypsuh6OcNAoY4Us2CS7IGB6OSYk+i8H00nusYpbjOKh93Nzrg==;ud9fr3tCQPnqSDSSE1D+WA=="
 ---

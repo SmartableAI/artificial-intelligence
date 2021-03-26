@@ -34,20 +34,6 @@ related:
         width: 704
         height: 369
         isCached: true
-  - title: "Scienaptic partners with Urjanet to combine the power of AI and permissioned alternative data"
-    excerpt: "Scienaptic, the world’s leading AI-powered credit decision platform provider, announced its partnership with Urjanet, the global leader in utility account aggregation. This alliance will enable Scienaptic to tap Urjanet’s global telecom and utility data to enhance its credit decisioning platform with consumer-permissioned alternative spending data."
-    publishedDateTime: 2021-03-22T16:23:00Z
-    webUrl: "https://www.cuinsight.com/press-release/scienaptic-partners-with-urjanet-to-combine-the-power-of-ai-and-permissioned-alternative-data"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 28
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
 
 secured: "VEvme1GXG9UZAXzaIsz2pkhLQBY7Ivc4S03eJde5ozflLCb4dsHTLn7hpnau8xie7NjWFrdUqSObRFRm62OcOhEAF84YOKWYuUu7AR0aRGyXWHUJCgPo7/AfjuDkWwYFl6tyBpp+sciokcDXpDYfYseiV9Ukj0RLcm8VD+etKdrPeUzUsbe2TgbcqW9M4OP8xRdtKrUObmZifElgZqxXw02mUXtVZhqq4UPjxnwA4h0TvlWx2oHwm8ZWwLMBdk2KufvhFmFCms6qOtctLWIwx1m9qiaNQymL2rN2eHlf4JcQdxCggHCMlRKQ9RLbTFs/tN1J5ARG8yYx3zei4v3hRlvcgE+kzWCJcmlX08q0W+U=;L0b3WAyNpAcxa8OAwt32yQ=="
 ---

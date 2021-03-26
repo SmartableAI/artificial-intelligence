@@ -25,128 +25,158 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla cancels Full Self-Driving expansion ahead of major update"
-    excerpt: "Tesla is delaying an upgrade to its Full Self-Driving software until a major development can be implemented in April. A new version was supposed to be"
-    publishedDateTime: 2021-03-23T13:19:00Z
-    webUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update"
-    ampWebUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
+  - title: "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser"
+    excerpt: "Self-driving company TuSimple Inc. unveiled paperwork for its initial public offering Tuesday showing it has lost more than $300 million over the past three years in the race to be the first to launch fully autonomous long-haul trucks. TuSimple ..."
+    publishedDateTime: 2021-03-24T01:39:00Z
+    webUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
+    ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 89
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/fsd-.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://images.wsj.net/im-315504/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Tesla delays Full Self-Driving beta access, Musk promises changes next month"
-    excerpt: "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0."
-    publishedDateTime: 2021-03-23T15:35:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
+  - title: "TuSimple’s IPO filing reveals roadblocks for self-driving startups with Chinese ties"
+    excerpt: "While the governments of the United States and China are pushing policies for technological decoupling, private tech firms continue to tap resources from both sides. In the field of autonomous vehicles,"
+    publishedDateTime: 2021-03-25T05:15:00Z
+    webUrl: "https://techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/"
+    ampWebUrl: "https://techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 67
     images:
-      - url: "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2019/08/TuSimple-Self-Drving-Truck-5.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Self-driving truck startup TuSimple files for U.S. IPO"
+    excerpt: "Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector."
+    publishedDateTime: 2021-03-23T21:25:00Z
+    webUrl: "https://www.reuters.com/article/us-tusimple-ipo-idUSKBN2BF2TU"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2TU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2TU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+  - title: "UPDATE 2-Self-driving truck startup TuSimple files for U.S. IPO"
+    excerpt: "March 23 (Reuters) - Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the ..."
+    publishedDateTime: 2021-03-24T02:24:00Z
+    webUrl: "https://www.reuters.com/article/tusimple-ipo-idAFL4N2LL48I"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
         isCached: true
-  - title: "Musk Says Tesla Will Wait For Progress On Full Self Driving Before Wider Rollout"
-    excerpt: "Last week, it seemed Tesla Inc (NASDAQ: TSLA) planned a wider rollout of the company's Full Self Driving Beta, an optional software upgrade that allows Tesla vehicles"
-    publishedDateTime: 2021-03-22T17:30:00Z
-    webUrl: "https://www.benzinga.com/tech/21/03/20281589/musk-says-tesla-will-wait-for-progress-on-full-self-driving-before-wider-rollout"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20281589"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20281589"
+  - title: "Self-driving trucks: A 10 billion-mile proof case for Plus"
+    excerpt: "Autonomous trucking startup Plus is beginning production of Level 4 software this year as it works toward 10 billion miles of on-road testing."
+    publishedDateTime: 2021-03-25T20:52:00Z
+    webUrl: "https://www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus"
+    ampWebUrl: "https://www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus/amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 84
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 44
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_5.jpg"
-        width: 1100
-        height: 619
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/03/032521-Plus-SF-Truck-1.jpg"
+        width: 4000
+        height: 2671
         isCached: true
-  - title: "Tesla Pseudo LIDAR Using Just Cameras And Imminent Acceleration of Self Driving Improvement"
-    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
-    publishedDateTime: 2021-03-25T23:45:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
+  - title: "10 rising stars of the self-driving business share their tips for breaking into the booming industry"
+    excerpt: "DOW S&P 500 NASDAQ 100 In recent years, the self-driving vehicle industry has been one of the hottest in tech, attracting billions in funding as the engineers at Waymo, Cruise, Argo, Amazon's Zoox, and more battle to bring their tech to market and reap the ..."
+    publishedDateTime: 2021-03-24T12:53:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-stars-tips-for-getting-into-the-industry-2021-3"
     type: article
     provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 66
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2017/12/7180bfad19f2195c59f8a445e080234a-1024x632.jpeg"
-        width: 1024
-        height: 632
-        isCached: true
-  - title: "Watch Tesla’s Full Self-Driving Mode Steer Toward Oncoming Highway Traffic"
-    excerpt: "A harrowing new video shows a Tesla, with its Full Self Driving Beta system engaged, begin to drift into multiple lanes of oncoming highway traffic before the driver slams on the brakes at the last second."
-    publishedDateTime: 2021-03-22T14:48:00Z
-    webUrl: "https://futurism.com/the-byte/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic"
-    ampWebUrl: "https://futurism.com/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2021/03/leftturn-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Tesla’s Full Self-Driving Capability: Unsafe at any Speed"
-    excerpt: "Tesla’s Full Self-Driving Capability poses perhaps the biggest challenge to automobile safety regulators since the publication of Nader’s book in 1965. Social media sites and the media are replete with images of Tesla owners sleeping, playing the ..."
-    publishedDateTime: 2021-03-23T15:43:00Z
-    webUrl: "https://www.law.com/texaslawyer/2021/03/23/teslas-full-self-driving-capability-unsafe-at-any-speed/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 39
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/401/2021/03/Tesla-Crash-Utah-Article-202103231451.jpg"
-        width: 620
-        height: 372
+      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "S. Korea to invest 1.1 trillion in Level 4 self-driving technology"
-    excerpt: "South Korea plans to spend 1.1 trillion won by 2027 to support 84 projects in hastening its Level 4 self-driving vehicle development while boosting related technologies. At Level 4, the vehicle does not require"
-    publishedDateTime: 2021-03-23T23:10:00Z
-    webUrl: "https://www.econotimes.com/S-Korea-to-invest-11-trillion-in-Level-4-self-driving-technology-1604977"
+  - title: "Waymo Provides Look Inside Self-Driving Truck Testing"
+    excerpt: "Autonomous vehicle developer Waymo offered a look inside the day-to-day testing of its self-driving trucks on public roads through a virtual ride-along event for members of the press."
+    publishedDateTime: 2021-03-25T15:15:00Z
+    webUrl: "https://www.ttnews.com/articles/waymo-provides-look-inside-self-driving-truck-testing"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 39
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/waymo-virtual-phoenix-1200.jpg?itok=UEAuO5XM"
+        width: 470
+        height: 246
+        isCached: true
+  - title: "Self-Driving Truck Developer TuSimple Files for IPO"
+    excerpt: "Self-driving truck developer TuSimple is moving forward with plans to become a publicly traded company. The technology startup on March 23 announced that it had filed a registration statement with the U."
+    publishedDateTime: 2021-03-23T21:45:00Z
+    webUrl: "https://www.ttnews.com/articles/self-driving-truck-developer-tusimple-files-ipo"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
     quality: 24
     images:
-      - url: "https://s1.econotimes.com/assets/uploads/2021032387e542db94f94cd19_th_1024x0.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tusimple-1200_1.jpg?itok=IN7wFywQ"
+        width: 470
+        height: 246
         isCached: true
-  - title: "No, Self-Driving Tesla Was Not on Autopilot When It Took Wrong Turn or Backed Into Flagler Sheriff’s Patrol Car"
-    excerpt: "Two girls, 15 and 14, were in the Tesla. No adults were. The Tesla can be self-driving. But the girls were driving illegally. This afternoon, the Flagler County Sheriff’s Office issued a release ..."
-    publishedDateTime: 2021-03-25T20:45:00Z
-    webUrl: "https://flaglerlive.com/161956/tesla-deputy-crash/"
+  - title: "Self-driving truck startup TuSimple files for U.S. stock offering"
+    excerpt: "U.S. initial public stock offering on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the number of shares it plans to offer to investors or the price range for its offering."
+    publishedDateTime: 2021-03-24T11:34:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-tusimple-files-us-stock-offering"
     type: article
     provider:
-      name: Flagler Live
-      domain: flaglerlive.com
-    quality: 19
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: "https://flaglerlive.com/wp-content/uploads/self-driving-vehicle-1.jpg"
-        width: 1000
-        height: 537
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TUSIMPLE-MAIN_i_0.jpg"
+        width: 800
+        height: 600
         isCached: true
+  - title: "Honda's World-First Level 3 Self-Driving Tech Won’t Hog the Passing Lane"
+    excerpt: "Tesla vehicles optioned with the $10,000 Full Self-Driving upgrade for Autopilot utilize a feature called Auto Lane Change that works similarly (you can watch a demo here), though Tesla's offering is presently capped at Level 2 and requires the driver to ..."
+    publishedDateTime: 2021-03-23T17:36:00Z
+    webUrl: "https://www.thedrive.com/tech/39904/even-the-worlds-first-production-car-with-level-3-self-driving-tech-wont-hog-the-passing-lane"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 23
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Legend-Hero-Maybe.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "SF Express Selects Self-Driving Truck Company Plus for Chinas First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
+    publishedDateTime: 2021-03-25T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "WF1XC8/boXVQq+9Je2WWBgZJnzwV4mhTEzBGPY1czk/w4VwEm2SX6YQFi0jshSq58l14KuU/zFJG+GyD6Diy3VKQ3rxQz+oPwguwGfQg1WFzPRulMWWO3oKynV5y/jHMTF7orcklDAZ4zV2IR/NaEaQXTTrhfxn2Kwl6Kafr0yQMId3ET5Cdfs3AOPsc3fpd5JPyAaPorBLIL9c7CJTlvLENAJoG48N3yGNPFVUpIToibQw1SiheGAoNDDOiUyORRQlyzTauDnUg/1fsT9LN2WqJTT2u5hOtbT3wn364Uuml0l134W03Yp3KI4Z9qMlDCzeWyfI4UmIuy6CGbPyw2QXp1ii8VW49nxyoH2FPm/SMA8pN4sFJ8jGxLXX3qrHJRHW4Tmshd73Ly3WNjZFTRn9pvWEVQUwinhc4K+iy1uNnhpJg1ynobuYiX++zLs4NxzWC83CtW84nZoucvJZJrwZVBEET7WAZooF0AYi3okV2S45uwnTDEtgSigEN5XVxUhp/9iegGJeYXFT1afU6cw==;rdOLx+SOWkjbNBnAxUwg6g=="
 ---

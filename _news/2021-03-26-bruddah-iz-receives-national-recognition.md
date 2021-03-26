@@ -43,6 +43,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Local recognition for Lane"
+    excerpt: "Composer Liz Lane has been announced as Lydbrook Band's 2020 'Bandsperson of the Year' — the first non-playing recipient in the award's history. The Trefor Evans Memorial Cup is usually presented at the band's annual Christmas Concert,"
+    publishedDateTime: 2021-03-26T12:00:00Z
+    webUrl: "https://www.4barsrest.com/news/44484/local-recognition-for-lane"
+    type: article
+    provider:
+      name: 4barsrest.com
+      domain: 4barsrest.com
+    quality: 24
+    images:
+      - url: "https://www.4barsrest.com/gallery/ib/2021/LizLane2021-1985881108.jpg"
+        width: 730
+        height: 488
+        isCached: true
   - title: "Why Indigenous recognition is a national imperative"
     excerpt: "An Indigenous family friend passed on a copy of Close the Gap Campaign Report 2021 - Leadership and Legacy Through Crises: Keeping Our Mob Safe prepared by the Lowitja Institute, while my mother-in-law gave me a copy of Fire Country by Indigenous land management expert Victor Steffensen."
     publishedDateTime: 2021-03-25T07:00:00Z

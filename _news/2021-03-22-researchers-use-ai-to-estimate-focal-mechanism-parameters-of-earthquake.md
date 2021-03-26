@@ -83,20 +83,6 @@ related:
         width: 1416
         height: 829
         isCached: true
-  - title: "Teaching AI what's fair"
-    excerpt: "With funding from Amazon and the National Science Foundation, researchers are teaching artificial intelligence algorithms how to be more fair and recognize when they're being unfair."
-    publishedDateTime: 2021-03-22T18:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/msu-taw032221.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/259835_web.jpg"
-        width: 1440
-        height: 958
-        isCached: true
 
 secured: "B0GfXyTSQ/bULlJyO9yfIeT7g5bnPUcWzAtUO9eo9VXRwEAJQR5p3sKcqeFbLw5Ne6tv74t5UpDv97TOaO9NtFbLs98UoE9/+eUkGl29PV9CZE5vWonNBhltsJreeKC/vGveP3pU14X1Jj/sQvva5vLphL4to5yVUULFGX5nUWrk7zgBk3WU4iCIiNv/uHcsgcpaFgbqZ9DFWmihkRzuXCQM5+Yrwf0LNanicgU3goWS6a2NbP0hx3sLTNTLODhR+tzIKSls9xIStu8OyuXFIuhMyCrMGJcuLhuwaTxen5MI3ZzbJXRFy/ZEJL6Ua0M4+hICBD5vetVMMyp7UDhbWh3xDpk2NR/z7bBf/w5yHAt/JEBQqNNV9/hLNO8SWe16QukAl2VWw5mOMwtfIiW6RhVRkq13+gKdrVQQwf70VtyUUOS2y1QICJd0QA2Mlq6bVkWZmQGDevl5VswAyCNw69XhVBXBSwx24YF/SmKgcT6ZybTr8U/xVtQsVqjP/soWtdd7xzwCQ+VWwmrYUiOzrA==;Ws9MDJzWgJd3wNgaNNyjKg=="
 ---

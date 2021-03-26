@@ -9,7 +9,7 @@ ampWebUrl: "https://cheddar.com/media/how-3d-machine-learning-is-transforming-th
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "The 2021 Healthcare Industry: Digital Transformation Leads to New Growth Strategies for Stakeholders"
+    excerpt: "The \"Developing Innovative ROI Streams and Patient-centric Virtual Care Approaches will Shape the Global Healthcare"
+    publishedDateTime: 2021-03-26T13:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20358124/the-2021-healthcare-industry-digital-transformation-leads-to-new-growth-strategies-for-stakeholder"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20358124"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20358124"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "1jG0rqwzLfvLMPPiHltMY312unLt6uGHqGMTvZkzp6wExSNjdVTfy/C/jtWZHy2ajJtu/R8h5yap9908hCYufneCdLh23ZTRMFc1Pv25QguE0bSCKMG2NmL+w2vI9kUQjOQXHVm8553r3bih5d0yMyWRUnYgGnHcgfswHnaVSgGJgC9BNb1dlcL3vk0YHaw/FKuG0AQyM7y0owZgsHLipf9eS03WY3UQK0pFZQXF8tKRnvPxND0HpCeVBLoaWRq7FDzt/nqVzUgI1eZTLKiSIT63SICUEEsfbQNslp5feWd0peRDGhvkkeoi8MjrHXbljDDTRtTR4NPOvF5qzyrAfIWY3yputy5LuYMVL0hVg6YDAujUkTbp/DHFDqF2dBLFpY4SAvjUUksbyDyYKrhvXdkBHcrU9AEsHt1w7QS7yhQwrsg9eHRc7icupCwkO+tRRVLJgDsyTdr91/qKQVwkRT81vfQNEAwlgm/xYdHoZ0vW5ULcVaNaDHZbZ6BufUHjFXscZ2+WUgtxsWUV3TYa5A==;QhSe0wybgRAC+l77MfUF7g=="
 ---

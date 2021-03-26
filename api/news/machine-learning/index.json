@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-26-amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis.md",
+      "title": "Amazon's new machine learning tool will help businesses spot flagging KPIs",
+      "excerpt": "Lookout for Metrics is a fully-managed machine learning tool for monitoring business metrics and tackling dips in business performance. Lookout for Metrics identifies unexpected changes in data that might indicate critical performance issues Amazon Web ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
+      "originalUrl": "https://www.techrepublic.com/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/01/27/f524b8d4-9104-449a-b199-d7e9396df797/resize/1200x/d776754e229fc11435f9be597d33bd78/istock-670517478.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
+      "publishedDateTime": "2021-03-26T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-aws-launches-machine-learning-service-to-monitor-business-performance.md",
       "title": "AWS launches machine learning service to monitor business performance",
       "excerpt": "Amazon Web Services (AWS) has announced the general availability of Lookout for Metrics, a new Machine Learning (ML) service to help businesses monitor their performance.",
@@ -246,7 +298,7 @@
       "originalUrl": "https://cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1393,58 +1445,6 @@
         "name": "Medical Xpress",
         "domain": "medicalxpress.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub.md",
-      "title": "Google uses machine learning to fix your bad sleeping habits with new Nest Hub",
-      "excerpt": "Udall said Google made this feature work through \"science and machine learning\". Google partnered with the American Academy of Sleep Medicine for the new tech and it was trained using more than 100,000 nights of sleep from over 15,000 people. Google said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
-      "originalUrl": "https://www.zdnet.com/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/16/62077372-1d79-4e40-818c-7af79731467a/google-nest-hub.jpg",
-          "width": 1100,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-machine-learning-to-fix-your-bad-sleeping-habits-with-new-nest-hub/",
-      "publishedDateTime": "2021-03-16T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

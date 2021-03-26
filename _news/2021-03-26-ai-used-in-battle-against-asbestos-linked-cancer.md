@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-asbestos-linked-cancer.amp
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-asbestos-linked-cancer.amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI study on aggressive form of cancer could improve patient outcomes"
+    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI ... These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer. It has long been appreciated that asbestos causes ..."
+    publishedDateTime: 2021-03-26T13:05:00Z
+    webUrl: "https://www.news-medical.net/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "AI used in battle against asbestos-linked cancer, says new research"
     excerpt: "“Using AI to interrogate genomic ‘big data’, this initial work ... chemotherapy was the only licenced choice for patients with mesothelioma. However, treatment options start to become limited once people stop responding to their treatment."
     publishedDateTime: 2021-03-26T11:47:00Z
@@ -43,7 +59,27 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "Prospection is Using Machine Learning to Improve Patient Outcomes"
+    excerpt: "A health analytics company, Prospection combines AI and predictive data analysis to help improve patient outcomes. Machine learning tools can be used to spot major and minor trends in patient data that would be impossible to identify with the naked eye."
+    publishedDateTime: 2021-03-23T09:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/ac20292692/prospection-is-using-machine-learning-to-improve-patient-outcomes"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20292692"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20292692"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+  - title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
+    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer."
+    publishedDateTime: 2021-03-26T11:43:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210326/3730438.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 29
 
-secured: "xcjrr4e1OWlDW3pLBaJFJRoF9iQ3AvHy8PUbNScvFgErs804OANoep5C2M9Md2/MPaofnA8ZQb+2+l/J4bLUXXOqCi/Rqn9h9BfZg7MSwxGd2KkRd/GOrEvVdd4RDUDBRVytRVbTW8i8W4bB7UyFje3hNYeCH7qTCaSd8ZJemzVv3ofLqPwlj/pHRnSpBKLlpkPesXlltr8LjLWdTTr+GuyijC5w6Qfi++S6Eip5z+AOGlMGaMLeeqIhpO5IcpBlWs/eRH4x5vJJzB/e+J3ONd20J80GBg/Z6k0Q+iKh3qiOm/L91Lsy1O5/O8OiA/DIp8zR+SH3Ggc+mkL2ney3xyhyWA5Mcmz8sOH4cRR9b+E=;u9/jTyFHh2qcWRaHkHsLwg=="
+secured: "uQ9uLUWksELlwbJbxXQjhiAsCckhevAfrp53wZ7CusfWZvmqXAv1wXxl3Dac5Th1i1m6K2VD15gJ/BhYi1SDhEv9R61A5Qz4ml4QrawiNwC8p/zjhZQ+rAbJwWBFEIGb1i3bhX9car0zCwnLUq0Ccf400GCBd4ggMkeiYjKDJs+uh659CP11IkDqXFPTAum6fLtvktlG1eBN0er5G7Mn1elUP5K625Zi6x4rZWGe3p2cFe8ARZFSr8H9oFiDugvACCNuv1o1UbMjcIMBMYeshjjihXKNp9AvW6NygJkvZOb5mspxllXVluDd9xh7q8XdzrXG6byLJ4O86hYR78m3uKxMQgCFLvm5x+oQwSKfA0/efH6nCDkApzlG+gkDF/vk5GnxsaNb3+VmHbkwFhHVLSRyLtaQ3D4rkYIH8KAdPJHsu7ItVLnyxFirb+xaRZ7nITS8RlFdzUyIUxliUVsR4mCmG5TtsZyVZmt0CLuqJ5WtUaUMkk7y7tbZVTEYXmgRPa6GIkk+brUKCW+nmjqwLQ==;7O+ljhujNvSASHLIVxlzSQ=="
 ---
 

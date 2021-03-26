@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-star
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "NAB runs loan deferral calls through speech analytics"
-    excerpt: "NAB ran tens of thousands of outbound call recordings through speech analytics models to check that customers were given appropriate disclosures on loan repayment deferrals during Covid. Chief data officer Glenda Crisp revealed the project at the Melbourne Business School’s business analytics conference last week."
-    publishedDateTime: 2021-03-21T20:07:00Z
-    webUrl: "https://www.itnews.com.au/news/nab-runs-loan-deferral-calls-through-speech-analytics-562285"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 24
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_nab_iStock-522790626.jpg"
-        width: 1400
-        height: 900
-        isCached: true
 
 secured: "LNSECNK/7JUjYEnHWPk4HWymmB78VOQUpde0+vd4hbeEo0MbKdIav65mL1dOKi56LFwV5JgJP64t2PkxsuUOrHgpKxmOkiGZtIYYc1JHbFQAtYg1RYnpKPFVXc2lMfdci/LRsGqicMOPhrabGf8hBe29pXpnezJ86aKerLultLhGipZa7URy/vLhIVybr1V8cj2A3K2CTo5O4dRlV2LQoIckzTj1mPal5yyW8CGBTjHZptktmcDhy5Sg6X20FNpKPWB8hVrLQHME9bMl+9cor96msfKfxJp5e0kPkfovbeGewtHdbtQpW7gvViH1U5fiSyFk3Y8Jc1UG6JWBGBLNdTT6GdtcIdAvF9Mo7N4P1u4=;Gd6LVisInsNJNt6g5C9+JA=="
 ---

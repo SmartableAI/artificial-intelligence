@@ -100,6 +100,20 @@ related:
       name: ANSA
       domain: ansa.it
     quality: 30
+  - title: "Aunalytics launches Daybreak for Financial Services"
+    excerpt: "Mid-sized banks and credit unions now have access to actionable data, enriched with Smart Features, to enhance customer relationships and deliver the right products and services, to the right people,"
+    publishedDateTime: 2021-03-26T13:40:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Aunalytics-launches-Daybreak-for-Financial-Services-145979.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 24
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
     excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"
     publishedDateTime: 2021-03-25T15:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -136,20 +136,6 @@ related:
       - url: "https://flaglerlive.com/wp-content/uploads/self-driving-vehicle-1.jpg"
         width: 1000
         height: 537
-        isCached: true
-  - title: "Arlington partnering with Via, Maxs Mobility on self-driving vehicle program for downtown, UTA"
-    excerpt: "Arlington is expanding its self-driving vehicle program. Via Arlington customers can now select to be picked up in a self-driving vehicle for trips around Do"
-    publishedDateTime: 2021-03-23T19:19:00Z
-    webUrl: "https://fortworthbusiness.com/news/arlington-is-expanding-its-self-driving-vehicle-program/"
-    type: article
-    provider:
-      name: Fort Worth Business Press
-      domain: fortworthbusiness.com
-    quality: 12
-    images:
-      - url: "https://fortworthbusiness.com/wp-content/uploads/2021/03/Rapid-3-scaled.jpg"
-        width: 2048
-        height: 1461
         isCached: true
 
 secured: "w38uFhzNAaZGWR9KH1kDwumlYTO7XEDGNIO/JX3q6m37kEbMZFdxFDckz+GTDe0LpfGEn/g2/2n8983JZ0SgFKACr/rcMB40+h/BX45UKwFN5txy+9YS5oMatWHXta6zqa24W8mUMREK2KYdhjyfL3ephWwSJ8/wuSIpq62qcyJeas04Nc4KOeRZuxlqI1aGQ6qfXNWp1LgJODhOl+yyU7iJyWMqB3/2MzsHetH5nQvGPItlZg61fuP10tYC8y5fAbLzHDtR45q5DiK7+peBo9ciFNMef26jCZSNAXb4qvybvnfVpO5tL5PpjnD43wdcSMviSXW/1YOrGOPfxOy6PjlxDe1TYgwsGTuzSoaOq3j8CE8T5Vg03tNwUgZPVVBZNr7/xqA+vaz+AV3GSm9E0mNXr3oWDcFJ8urGs5sezRtBkt0gwZ8e2Y2MmBs9u+BvJSh/axFTk82dAvZZz11xHPbMAzBMysTJTQirbFT6+ZnctM2VJBkQ0tX6dQ4dDgNkdIs3ZOHtfvJgCkdpFImbNA==;4/y0bkJ1iVahK75kZ6h4mQ=="

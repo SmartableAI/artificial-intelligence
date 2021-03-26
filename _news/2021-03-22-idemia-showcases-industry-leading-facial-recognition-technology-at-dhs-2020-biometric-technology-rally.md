@@ -25,6 +25,56 @@ images:
     isCached: true
 
 related:
+  - title: "ENACOMM partners with biometric & AI technology company IDmission"
+    excerpt: "FinTech enablement company ENACOMM has announced partnering with IDmission, a global leader in biometric and AI technology providing end-to-end digital transformations for applications relying on ID and identity verifications. Through the collaboration ..."
+    publishedDateTime: 2021-03-26T12:07:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/enacomm-partners-with-biometric-ai-technology-company-idmission/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/03/enacomm.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Noopl Partners with Neuroscience AI Company Chatable"
+    excerpt: "Noopl, the industry-changing startup focused on breakthrough innovation and technology integration in the consumer audio space, has partnered with Chatable, a pioneering neuroscience-based AI company. Noopl's initial consumer product, now featuring ..."
+    publishedDateTime: 2021-03-25T09:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20333633/noopl-partners-with-neuroscience-ai-company-chatable"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20333633"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20333633"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
+  - title: "UIDAI selects Neurotechnology and TCS for biometric deduplication and authentication"
+    excerpt: "TCS and Neurotechnology will deploy and maintain the new de-duplication system, which is powered by Neurotechnology's multi-modal Automatic Biometric Identification Subsystem (ABIS) and biometric SDK technologies for fingerprint,"
+    publishedDateTime: 2021-03-22T10:33:00Z
+    webUrl: "https://tass.com/press-releases/1268687"
+    ampWebUrl: "https://tass.com/press-releases/1268687/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1268687/amp"
+    type: article
+    provider:
+      name: TASS
+      domain: tass.com
+    quality: 32
+  - title: "Scienaptic partners with Urjanet to combine the power of AI and permissioned alternative data"
+    excerpt: "Scienaptic, the world’s leading AI-powered credit decision platform provider, announced its partnership with Urjanet, the global leader in utility account aggregation. This alliance will enable Scienaptic to tap Urjanet’s global telecom and utility data to enhance its credit decisioning platform with consumer-permissioned alternative spending data."
+    publishedDateTime: 2021-03-22T16:23:00Z
+    webUrl: "https://www.cuinsight.com/press-release/scienaptic-partners-with-urjanet-to-combine-the-power-of-ai-and-permissioned-alternative-data"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 28
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
   - title: "FinTech Company ENACOMM Strikes Partnership with Leader in Biometric and AI Technology IDmission"
     excerpt: "thanks to a new partnership between FinTech enablement company ENACOMM and IDmission, a global leader in biometric and AI technology providing end-to-end digital transformations for applications relying on ID and identity verifications. ENACOMM customers ..."
     publishedDateTime: 2021-03-24T13:34:00Z
@@ -39,6 +89,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "IDmission biometrics and liveness added to Enacomm stack for fintech onboarding"
+    excerpt: "Enacomm has formed a partnership agreement with IDmission to bring biometrics and other AI technologies to Enacomm’s fintech customers for end-to-end digital transformation of applications relying on identity verification. IDmission’s passive liveness ..."
+    publishedDateTime: 2021-03-24T21:46:00Z
+    webUrl: "https://www.biometricupdate.com/202103/idmission-biometrics-and-liveness-added-to-enacomm-stack-for-fintech-onboarding"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/02123142/identity-verification-integration.jpg"
+        width: 696
+        height: 392
+        isCached: true
   - title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
     excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey biometric solution."
     publishedDateTime: 2021-03-23T10:03:00Z
@@ -52,6 +116,34 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Idemia face, ID R&D voice, Aware fingerprint biometrics score top biometric accuracy rankings"
+    excerpt: "The results show Idemia’s performance in facial recognition for masked and unmasked faces, ID R&D’s in short-duration speaker recognition, and Aware’s in proprietary fingerprint template generation and matching. Idemia achieves top accuracy results ..."
+    publishedDateTime: 2021-03-23T17:39:00Z
+    webUrl: "https://www.biometricupdate.com/202103/idemia-face-id-rd-voice-aware-fingerprint-biometrics-score-top-biometric-accuracy-rankings"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 13
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/11142614/elearning-remote-authentication-data-protection.jpg"
+        width: 820
+        height: 460
+        isCached: true
+  - title: "Neurotechnology and TCS Selected by UIDAI to Provide Biometric De-duplication and Authentication for India's Aadhaar ID Program"
+    excerpt: "The consortium of the two companies will provide duplicate checking and authentication based on fingerprint, face and iris biometrics used for the issuance and verification of Unique Identification Numbers issued to all Indian citizens VILNIUS,"
+    publishedDateTime: 2021-03-22T10:02:00Z
+    webUrl: "https://www.fortuneita.com/2021/03/22/neurotechnology-and-tcs-selected-by-uidai-to-provide-biometric-de-duplication-and-authentication-for-indias-aadhaar-id-program/"
+    type: article
+    provider:
+      name: fortuneita
+      domain: fortuneita.com
+    quality: 11
+    images:
+      - url: "https://www.fortuneita.com/wp-content/uploads/2020/04/adnkronos_cover.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "ENACOMM, Inc.: FinTech Company ENACOMM Strikes Partnership with Leader in Biometric and AI Technology IDmission"
     excerpt: "TULSA, OK / ACCESSWIRE / March 24, 2021 / Banks, credit unions, credit card and payments companies of all sizes are now able to take advantage of the most modern identity solutions available, thanks t"

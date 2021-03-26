@@ -24,78 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers are helping artificial intelligence understand fairness"
-    excerpt: "\"What is fair?\" feels like a rhetorical question. But for Michigan State University's Pang-Ning Tan, it's a question that demands an answer as artificial intelligence systems play a growing role in deciding who gets proper health care,"
-    publishedDateTime: 2021-03-22T19:15:00Z
-    webUrl: "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-artificial-intelligence-fairness.amp"
+  - title: "What's Up With Apple: Ad Tracking, AI Investments, Blazing Fast Chip"
+    excerpt: "According to a Wall Street Journal report, Google plans to increase its use of a “tool that infers whether an ad interaction led to online spending or subscription without identifying individual users."
+    publishedDateTime: 2021-03-26T12:20:00Z
+    webUrl: "https://247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/"
+    ampWebUrl: "https://247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 74
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 76
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/teachingaiwh.jpg"
-        width: 2880
-        height: 1917
+      - url: "https://247wallst.com/wp-content/uploads/2020/08/imageForEntry2-Qrj.jpg?w=400"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Monash University researchers asking the tough questions about data in AI systems"
-    excerpt: "Topic: Innovation Researchers from Melbourne's Monash University have developed a framework they say could be used to provide greater transparency into the type of data being fed into artificial intelligence (AI) systems,"
-    publishedDateTime: 2021-03-23T04:30:00Z
-    webUrl: "https://www.zdnet.com/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-asking-the-tough-questions-about-data-used-in-ai-systems/"
+  - title: "What you need to know about soaring enterprise machine learning investments"
+    excerpt: "The second wave of enterprise AI/ML adoption is growing rapidly. We expect it to crest in 2021, as many organisations have been increasing investment."
+    publishedDateTime: 2021-03-24T10:32:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/mar/24/what-you-need-to-know-about-soaring-enterprise-machine-learning-investments/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
-  - title: "Using AI to map how the brain understands sentences"
-    excerpt: "Have you ever wondered why you are able to hear a sentence and understand its meaning—given that the same words in a different order would have an entirely different meaning? New research involving neuroimaging and A."
-    publishedDateTime: 2021-03-23T20:49:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-ai-brain-sentences.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-brain-sentences.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-brain-sentences.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/usingaitomap.jpg"
-        width: 389
-        height: 238
-        isCached: true
-  - title: "Researchers use AI to estimate focal mechanism parameters of earthquake"
-    excerpt: "The research team led by Prof. Zhang Jie from the University of Science and Technology of China (USTC) of the Chinese Academy of Sciences made progress on real-time determination of earthquake ..."
-    publishedDateTime: 2021-03-22T15:39:00Z
-    webUrl: "https://phys.org/news/2021-03-ai-focal-mechanism-parameters-earthquake.html"
-    ampWebUrl: "https://phys.org/news/2021-03-ai-focal-mechanism-parameters-earthquake.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-ai-focal-mechanism-parameters-earthquake.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/earthquak.jpg"
-        width: 1920
-        height: 1274
-        isCached: true
-  - title: "Understanding influence of decision-making AI"
-    excerpt: "Monash University researchers have developed a crucial framework to help provide greater transparency into the decision-making processes of"
-    publishedDateTime: 2021-03-22T21:08:00Z
-    webUrl: "https://www.miragenews.com/understanding-influence-of-decision-making-ai-532437/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
     quality: 39
     images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/03/tim-mossholder-SQx_fBfq6pw-unsplash.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "ReeQIS7pFYg2HzDeRSVtT1mUVguoca2zNitPdVQhYKRwSwRCZfRCi1H4PrZ5daTcWXKAUpASJ3U0ISofZoYHYI/hzxM8yqc6pU4wM8Hn0RBo/VlP9hR5NE2NHa7lShuGFXGPgFQyjtft85zv/cZihajU6wd9pVbPrC9TSA1KyK+KdK2t3EJpJAZ7Tu4gfRf8LseLm22yCEGiPbrCVHe57hvOs8U8Bme7rYwRt0exT9WAeaQNyk0tXS9wYdN6d4lbSZufviwpCETvaT7Aeha2E017HeymlJoD8uM9eyq4gRhs0x0YcoUQ/J7MbPc4M5idE8Z9UwhsGMTjOCa/RzeJotfA+1IqbZJeEaKixekQAfoNXW59VdIEXld8eO8+kKP6PZOIWyVBRfecjzLqq/tdqRPnafe8tEk+NMp6bARF5PqwQqaFgbeGKta9x+uOG7Je7nKGXi7uzNUkslgD/Hlc4A4uHxaO+YPZWXYrl1G0qUv6Dy1e/UOHAd9uj2KV6ArK13pZjyebzd7rbZuDYWuqOQ==;qaKjCpurBV6kUW0AlBQJMw=="

@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence in Digital Pathology, Upcoming Webinar Hosted by Xtalks"
-excerpt: "Which artificial intelligence method will work best with your image data? Image analysis is an essential part of digital pathology, from research and discovery of targets and biomarkers to understanding the tumor microenvironment to development of novel therapeutics."
+excerpt: "Which artificial intelligence method will work best with your image data? Image analysis is an essential part of digital"
 publishedDateTime: 2021-03-19T12:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks/article_63ced69d-f0a5-53a5-8b72-e31cf1eeaab7.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks/article_63ced69d-f0a5-53a5-8b72-e31cf1eeaab7.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20252581"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20252581"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "i+6TBIqy/q6N1U6ouuPYLf3q90ViAArvhfiJMhEFHD7ThJV0eT0ftyxk4L7+icwaUPxGUnoK+AVXENb/7OgngWqo05AL4W2Zf2oDAYOsRkny+kdcrRBukIk8LLcSOIizOMnfmXFmsAnovpoJrIRpez1YQJbwc9D6lV2Ig5U1gt/Nlh8+Oj4O0HwCLvdl2zL1NPg7z4cC99cbC00T9C6fChyBAAPLhgbcic7vPadfu9Zl6ULqJ23FdnVbjjiXPc1rBsa1Wb7ZsuYY4sLCG2BXZijYcfKc1Isa5R0SalZPsD1YB8genVHlOdWr8DGhwZbiblR1ofmdf/exqgZOisAIZJI+0LqYg8lSTGRpfZYxFco=;HUVg6zQnCKMGvk5lN9AyTQ=="
+secured: "C9QZ17y1fYjl7QuVUJPismDQ3W5qR2kF3RCfff+qqxCkxjJJSZ+75Yp8UIzNhpZrQq268xS7jx7A7fiFUMB5b267JY2ORRUSFcOON1pmt0lAy1Yj7PZt7PXH2ir/fsQveMLRX18oxNRs/BXHaDIovYZar8moqXMHR+pKoR62JPc2u5iH0T+GWG3kG56QOdZST9WMC/x+8XgpVn7CleFpuduhbhHeNof/vU2fIjAuM2KXR8thDOxc51JWUQfwlPOgAOvxvOS6seHmjgCADlJjp+hSnKwg2rneokhdHIM5PNidWUkdoemRgNHsYwNvddB+ycqCdZ3for5z+CjjYA/sXRFgvpjFuSBApbwkFYCzx3g=;qNN8BTujYaLwI14BHvnzzQ=="
 ---
 

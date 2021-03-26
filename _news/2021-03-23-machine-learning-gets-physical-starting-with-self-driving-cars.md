@@ -42,20 +42,6 @@ related:
         width: 1199
         height: 837
         isCached: true
-  - title: "10 rising stars of the self-driving business share their tips for breaking into the booming industry"
-    excerpt: "DOW S&P 500 NASDAQ 100 In recent years, the self-driving vehicle industry has been one of the hottest in tech, attracting billions in funding as the engineers at Waymo, Cruise, Argo, Amazon's Zoox, and more battle to bring their tech to market and reap the ..."
-    publishedDateTime: 2021-03-24T12:53:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-stars-tips-for-getting-into-the-industry-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
-    images:
-      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Chipotle Invests in Self-Driving Cars"
     excerpt: "In February 2020, Nuro was the first to obtain a U.S. Department of Transportation exemption, and in April 2020, it became the second self-driving car company to receive a driverless testing permit in California. In October, Nuro started testing its ..."
     publishedDateTime: 2021-03-25T14:05:00Z

@@ -2,6 +2,343 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-11-pdf-document-pre-processing-with-amazon-textract-visuals-detection-and-removal.md",
+      "title": "PDF document pre-processing with Amazon Textract: Visuals detection and removal",
+      "excerpt": "Amazon Textract is a fully managed machine learning (ML) service that automatically extracts printed text, handwriting, and other data from scanned documents that goes beyond simple optical character recognition (OCR) to identify, understand, and extract data from forms and tables. Amazon Textract can",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/process-text-and-images-in-pdf-documents-with-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-text-and-images-in-pdf-documents-with-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/10/4-Grayscale.jpg",
+          "width": 800,
+          "height": 457,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T13:30:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform.md",
+      "title": "Cowbell Cyber raises $20 million, aims to build out its AI-drive cyber insurance platform",
+      "excerpt": "Cowbell Cyber, an AI-driven cyber insurance provider for small and medium enterprises, said it raised $20 million in Series A funding to expand its underwriting ability. The best cyber insurance The cyber insurance industry is likely to go mainstream and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/",
+      "originalUrl": "https://www.zdnet.com/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/05/dc4e10e2-190d-44e9-88c4-9020a682ccc0/cowbell-cyber-customizedforbrokers-1.jpg",
+          "width": 2187,
+          "height": 1228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cowbell-cyber-raises-20-million-aims-to-build-out-its-ai-drive-cyber-insurance-platform/",
+      "publishedDateTime": "2021-03-11T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-image-recognition-market-outlook-regional-growth-analysis-by-2025-with-predominant-players-honeywell-ltu-technologies-catchoom-panasonic.md",
+      "title": "Image Recognition Market Outlook, Regional Growth Analysis By 2025 With Predominant Players: Honeywell, LTU Technologies, Catchoom, Panasonic, Toshiba",
+      "excerpt": "QR/Barcode Recognition, Object Recognition, Optical Character Recognition, and Pattern Recognition. The 'object recognition segment dominated the market in 2016 and it is anticipated to lead the ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101739023/Image-Recognition-Market-Outlook-Regional-Growth-Analysis-By-2025-With-Predominant-Players-Honeywell-LTU-Technologies-Catchoom-Panasonic-Toshiba",
+      "originalUrl": "https://menafn.com/1101739023/Image-Recognition-Market-Outlook-Regional-Growth-Analysis-By-2025-With-Predominant-Players-Honeywell-LTU-Technologies-Catchoom-Panasonic-Toshiba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?675238",
+          "width": 375,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans.md",
+      "title": "Announcing Neural’s weekly AI newsletter for cyborgs and humans",
+      "excerpt": "Greetings humanoids! I could not be more excited to introduce Neural’s new weekly newsletter. Every seventh day, the cyborgs who write for Neural will send you an email full of news, analysis, opinion,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/neural-796x448.png",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/",
+      "publishedDateTime": "2021-03-11T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.md",
+      "title": "Self-driving robot delivery startup raises $4.2 million to expand in Ann Arbor",
+      "excerpt": "Ann Arbor-based delivery robot developer Refraction AI has raised $4.2 million in seed funding. The company in 2019 created the REV-1 robot, a lightweight, self-driving robot that delivers food and groceries to Ann Arbor residents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html",
+      "originalUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZNWLS3BI7ZEDVFLTNKGYKWCJLQ.JPG",
+          "width": 6192,
+          "height": 4128,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/ann-arbor/2021/03/self-driving-robot-delivery-startup-raises-42-million-to-expand-in-ann-arbor.html?outputType=amp",
+      "publishedDateTime": "2021-03-11T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MLive",
+        "domain": "mlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-incentives-for-buying-microsoft-devices-boosted-by-automation.md",
+      "title": "Incentives for buying Microsoft devices boosted by automation",
+      "excerpt": "Microsoft is using automation to reboot its incentives program for buying Microsoft Surface devices and other Microsoft devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/itshowcase/blog/incentives-for-buying-microsoft-devices-boosted-by-automation/",
+      "originalUrl": "https://www.microsoft.com/itshowcase/blog/incentives-for-buying-microsoft-devices-boosted-by-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/itshowcase/blog/uploads/prod/2021/03/10115_wordpress-hero.jpg",
+          "width": 2300,
+          "height": 1294,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-11T12:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-where-is-snowflake-going.md",
+      "title": "Where is Snowflake going?",
+      "excerpt": "The IPO got our attention. Given the huge expectations around the company, how will Snowflake differentiate itself in a landscape of data lakehouses and all-encompassing cloud analytic portfolios?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/where-is-snowflake-going/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/where-is-snowflake-going/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/where-is-snowflake-going/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/where-is-snowflake-going/",
+      "publishedDateTime": "2021-03-11T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-exclusive-imax-ceo-and-ai-founder-launch-company-to-make-your-tv-obsolete.md",
       "title": "Exclusive: IMAX CEO And AI Founder Launch Company To Make Your TV Obsolete",
       "excerpt": "IMAX AI is a new joint venture between IMAX and Maximus studio. The company, which launched in March 2020, will combine IMAX's technology and data library with Maximus's machine learning to build TVs that can display live programs,",
@@ -859,352 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-robots-learn-faster-with-quantum-technology.md",
-      "title": "Robots learn faster with quantum technology",
-      "excerpt": "Artificial intelligence is part of our modern life by enabling machines to learn useful processes such as speech recognition and digital personal assistants. A crucial question for practical applications is how fast such intelligent machines can learn.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
-      "originalUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/robotslearnf.jpg",
-          "width": 817,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-robots-faster-quantum-technology.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-robots-faster-quantum-technology.amp",
-      "publishedDateTime": "2021-03-11T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-how-to-optimize-content-for-voice-search-13-critical-factors.md",
-      "title": "How To Optimize Content For Voice Search: 13 Critical Factors",
-      "excerpt": "Tom Treanor, Treasure Data 7. Keep Your Keywords Simple When optimizing for voice recognition searching, it’s important to keep the keywords simple. When people ask their smartphone or Alexa a question, they aren’t going into detail. The software won ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049395129a5e7b7b537ae0c%2F0x0.jpg",
-          "width": 1200,
-          "height": 1213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/03/11/how-to-optimize-content-for-voice-search-13-critical-factors/amp/",
-      "publishedDateTime": "2021-03-11T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-nimble-robotics-scores-50m-for-its-fulfillment-automation-tech.md",
-      "title": "Nimble Robotics scores $50M for its fulfillment automation tech",
-      "excerpt": "Warehouse automation company Nimble Robotics today announced that it has raised a $50 million Series A. Led by DNS Capital and GSR Ventures and featuring Accel and Reinvent Capital, the round will go toward helping the company essentially double its headcount this year.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/",
-      "originalUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/unnamed-8.png?w=1024",
-          "width": 1024,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/11/nimble-robotics-scores-50m-for-its-fulfillment-automation-tech/amp/",
-      "publishedDateTime": "2021-03-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-robots-and-bees-high-tech-vertical-strawberry-farm-in-nj-raises-50-million-in-series-a-round.md",
-      "title": "Robots And Bees: High-Tech, Vertical Strawberry Farm In N.J. Raises $50 Million In Series A Round",
-      "excerpt": "When Oishii, a high-tech, vertical farm in New Jersey, introduced its $50-a-box Omakase strawberry in 2018, the fruit quickly became the darling of New York's Michelin star chefs. Today, March 11, the company is announcing it has raised $50 million in a Series A round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/",
-      "originalUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049476501afb1330c558c46%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robindschatz/2021/03/11/robots-and-bees-vertical-strawberry-farm-in-nj-raises-50-million/amp/",
-      "publishedDateTime": "2021-03-11T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-cisco-adds-real-time-translation-to-webex-video-meetings.md",
-      "title": "Cisco Adds Real-Time Translation to Webex Video Meetings",
-      "excerpt": "Audio is automatically translated into text for each participant using a choice of over 100 different languages.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
-      "originalUrl": "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/c/cisco-adds/cisco-adds-real-time-translation-to-webex-video-meetings_b818.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-worldwide-ai-in-computer-vision-industry-to-2027-rise-in-demand-for-automating-processes-across-industries-presents-opportunities-researchandmarke.md",
-      "title": "Worldwide AI in Computer Vision Industry to 2027 - Rise in Demand for Automating Processes Across Industries Presents Opportunities - ResearchAndMarke",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global Analysis By Component and End-User\" report has been added to ResearchAndMarkets.com's offering. According to this report the global AI in computer ...",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=435674",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=435674",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026.md",
-      "title": "Global Computer Vision Development market Size, Share, Value, and Competitive Landscape 2026",
-      "excerpt": "Mar 11, 2021 (Heraldkeepers) -- According to this latest study, the 2021 growth of Computer Vision Development will have significant change from previous year. By the most conservative estimates of global Computer Vision Development market size (most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-development-market-size-share-value-and-competitive-landscape-2026-2021-03-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-11T00:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

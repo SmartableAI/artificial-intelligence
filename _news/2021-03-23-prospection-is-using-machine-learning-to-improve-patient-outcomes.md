@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20292692"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20292692"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,65 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "AI study on aggressive form of cancer could improve patient outcomes"
+    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI ... These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer. It has long been appreciated that asbestos causes ..."
+    publishedDateTime: 2021-03-26T13:05:00Z
+    webUrl: "https://www.news-medical.net/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "AI used in battle against asbestos-linked cancer"
+    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI) to study an aggressive form of cancer, which could improve patient outcomes."
+    publishedDateTime: 2021-03-26T10:00:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-ai-asbestos-linked-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-asbestos-linked-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-asbestos-linked-cancer.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
+        width: 2880
+        height: 1616
+        isCached: true
+  - title: "AI used in battle against asbestos-linked cancer, says new research"
+    excerpt: "“Using AI to interrogate genomic ‘big data’, this initial work ... chemotherapy was the only licenced choice for patients with mesothelioma. However, treatment options start to become limited once people stop responding to their treatment."
+    publishedDateTime: 2021-03-26T11:47:00Z
+    webUrl: "https://starctmag.com/health/ai-used-in-battle-against-asbestos-linked-cancer-says-new-research-19385-2021/"
+    ampWebUrl: "https://starctmag.com/health/ai-used-in-battle-against-asbestos-linked-cancer-says-new-research-19385-2021/?amp"
+    cdnAmpWebUrl: "https://starctmag-com.cdn.ampproject.org/c/s/starctmag.com/health/ai-used-in-battle-against-asbestos-linked-cancer-says-new-research-19385-2021/?amp"
+    type: article
+    provider:
+      name: StarMag
+      domain: starctmag.com
+    quality: 57
+    images:
+      - url: "https://starctmag.com/wp-content/uploads/2021/03/AI-used-in-battle-against-asbestos-linked-cancer-says-new-research.jpg"
+        width: 770
+        height: 433
+        isCached: true
+  - title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
+    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer."
+    publishedDateTime: 2021-03-26T11:43:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210326/3730438.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 29
 
 secured: "irkeLxQxo2TYVJLzsFk4OgLmPJJyyk74c3B5U5R4IYcGgIgl/h0saYPBFuWjNJc2wfx543dkGcIgiejhWbMWNUQl9iHjywASA+g2pOlNb4M5guLn04WaKKRzj8lzANLOyUCyUnlJ2hVgWbvjtd1BiM+umDRuT9QlAieqgWr5VaZsgXgul3pytWy+ES1tVRHs4SB7d5OLr9ylyTX5ClH99kQ0xJ04UsdxDbdAHiq4VLAz3gVC/7J2FYuphs4fZ0wctoUgnHfw7Hybo80GyxvM/GHVvMHOIab3MqXyDWlFQb95MMJDdLle5LvQcGrVGZK3uxpJZuCMG7xChHdLsDUVZZgDCyyG62vX577WvlB8FcQ=;g59/Y+GgKg4+HBgb91mo1A=="
 ---

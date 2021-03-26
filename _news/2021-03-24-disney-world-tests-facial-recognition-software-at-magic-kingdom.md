@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Disney World tests facial recognition software at Magic Kingdom"
-excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
-publishedDateTime: 2021-03-23T18:13:00Z
-originalUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
-webUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+excerpt: "ORLANDO, Fla. – Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance."
+publishedDateTime: 2021-03-23T18:18:00Z
+originalUrl: "https://abc-7.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+webUrl: "https://abc-7.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
 ampWebUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
 cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
 type: article
@@ -355,6 +355,6 @@ related:
         height: 675
         isCached: true
 
-secured: "hWDzTsfoIxboxn9aSzeiBhuJYO8Yfu2Y1DCIWrOGVY47R1m2E94JMs+QJ3ml8pdrU66AxV6596lMMfqcpMovUF+PMCstk5ZnLHAgNkqD69dtChOe3DmkgeGeQ7Kx3Vh2lfZMTpwjP5vYF6DMjlQqaPDQef923wqpHyKKltR713IKb6iWTj6wPx9E5vR2pXrJhmInCUMe6fY6pLKkIV3UdsoaV4Xr0A9qS3Bd8cgg2GlT+mYX3YGOhcFBki44PinWgbp2I/CCFDQ36WFbuTzvAoKrE3ZGHS1RHM7sQz8fZBlNEGvxPrwDdxqaBS2ni4NSw287FJg3qYbSqT9dgX6+Elb2I/2pTJMaGnvTKIZJ4U0wPhCtM8L9pTqvYC1BR7ycrHd72fYsZVNZ7XCJNXBTebGa3npIDq9C4ZRy6BiH7X1m8YkS0bg+qejbw3MryPTEsxaceGWIB1dfBHH5ioCIRRZyUToxB2uJwLIJa26eqsFJM/+86wmGtGGWAEjZlpVu5KA/RQfMzWp9lOGuQELDIw==;lHMDk1Dj7oYLfZ+4wUIhtQ=="
+secured: "+yJYlm0PDyz8sizomuklL5r9o06SbZdfRAl9bg0p71b2NpR5NrbIiUVagpuBZ2+Xpb2JUpLIFV8zfj2hw+pKuSQqrEw2gW9pTZm4WcZ/oXIlfeAuQJjo65/s4D2N+WgH1H6nmO6VjL+qtkF7c9/75C+SvzFAwecAf0ZxscBKQP8GpTfUUwtPkOoqZM30y5b0irW3F9tALshLFsy+/FBPZn4Pc5rPT4EJmSg2ZGWXR9WTWdoP1RKV+Ygz9TF7YtivXksn9rhZd3xlQE+EXdNcVvsjHpDcn/Qj8Hu82rrPF6X/iMtAwGCH8D+2EhuelGMZE0rNGMlD6Fs6TWqAYlUy2hwg4b9jVZuPhWVAMX695ic=;6V2zLt0S+qNyjoWvGuc6Wg=="
 ---
 

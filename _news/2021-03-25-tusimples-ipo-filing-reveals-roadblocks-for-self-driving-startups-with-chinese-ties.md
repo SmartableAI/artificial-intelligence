@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup TuSimple files to go public"
-    excerpt: "TuSimple, the self-driving truck company that is backed by a diverse consortium of strategic investors, including Volkswagen AG’s heavy-truck business The Traton Group, Navistar, Goodyear, and freight company U."
-    publishedDateTime: 2021-03-23T20:56:00Z
-    webUrl: "https://techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/"
-    ampWebUrl: "https://techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 174
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser"
     excerpt: "Self-driving company TuSimple Inc. unveiled paperwork for its initial public offering Tuesday showing it has lost more than $300 million over the past three years in the race to be the first to launch fully autonomous long-haul trucks. TuSimple ..."
     publishedDateTime: 2021-03-24T01:39:00Z
@@ -88,44 +72,49 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Truck Startup TuSimple Files For Public Ownership"
-    excerpt: "Self-driving truck startup TuSimple filed on Tuesday to become a public company. It is seeking to sell at least $100 million in shares. It could sell as much as $1 billion"
-    publishedDateTime: 2021-03-24T15:23:00Z
-    webUrl: "https://www.benzinga.com/news/21/03/20321459/self-driving-truck-startup-tusimple-files-for-public-ownership"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20321459"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20321459"
+  - title: "Self-driving trucks: A 10 billion-mile proof case for Plus"
+    excerpt: "Autonomous trucking startup Plus is beginning production of Level 4 software this year as it works toward 10 billion miles of on-road testing."
+    publishedDateTime: 2021-03-25T20:52:00Z
+    webUrl: "https://www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus"
+    ampWebUrl: "https://www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus/amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: freightwaves.com
+      domain: freightwaves.com
     quality: 44
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/032321-tusimple-public-filing.jpg"
-        width: 1054
-        height: 635
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/03/032521-Plus-SF-Truck-1.jpg"
+        width: 4000
+        height: 2671
         isCached: true
-  - title: "Silicon Valley Self-Driving Truck Startup Kodiak and China Hesai Lidar Partner Up"
-    excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc and Shanghai-based lidar maker Hesai Technology Co Ltd on Wednesday announced a partnership to integrate the Chinese lidar into the autonomous trucking system."
-    publishedDateTime: 2021-03-24T11:40:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-03-24/silicon-valley-self-driving-truck-startup-kodiak-and-china-hesai-lidar-partner-up"
+  - title: "10 rising stars of the self-driving business share their tips for breaking into the booming industry"
+    excerpt: "DOW S&P 500 NASDAQ 100 In recent years, the self-driving vehicle industry has been one of the hottest in tech, attracting billions in funding as the engineers at Waymo, Cruise, Argo, Amazon's Zoox, and more battle to bring their tech to market and reap the ..."
+    publishedDateTime: 2021-03-24T12:53:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-stars-tips-for-getting-into-the-industry-2021-3"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 44
-  - title: "Self-driving truck startup Kodiak and China's Hesai partner up"
-    excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc. and Shanghai-based lidar maker Hesai Technology Co. on Wednesday announced a partnership to integrate Chinese lidar technology into autonomous trucks."
-    publishedDateTime: 2021-03-24T13:03:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-kodiak-and-chinas-hesai-partner"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 39
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Kodiak%20robotics%20resize.jpg"
-        width: 800
+      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
+        width: 1200
         height: 600
+        isCached: true
+  - title: "Waymo Provides Look Inside Self-Driving Truck Testing"
+    excerpt: "Autonomous vehicle developer Waymo offered a look inside the day-to-day testing of its self-driving trucks on public roads through a virtual ride-along event for members of the press."
+    publishedDateTime: 2021-03-25T15:15:00Z
+    webUrl: "https://www.ttnews.com/articles/waymo-provides-look-inside-self-driving-truck-testing"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 39
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/waymo-virtual-phoenix-1200.jpg?itok=UEAuO5XM"
+        width: 470
+        height: 246
         isCached: true
   - title: "Self-Driving Truck Developer TuSimple Files for IPO"
     excerpt: "Self-driving truck developer TuSimple is moving forward with plans to become a publicly traded company. The technology startup on March 23 announced that it had filed a registration statement with the U."
@@ -155,6 +144,43 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Honda's World-First Level 3 Self-Driving Tech Won’t Hog the Passing Lane"
+    excerpt: "Tesla vehicles optioned with the $10,000 Full Self-Driving upgrade for Autopilot utilize a feature called Auto Lane Change that works similarly (you can watch a demo here), though Tesla's offering is presently capped at Level 2 and requires the driver to ..."
+    publishedDateTime: 2021-03-23T17:36:00Z
+    webUrl: "https://www.thedrive.com/tech/39904/even-the-worlds-first-production-car-with-level-3-self-driving-tech-wont-hog-the-passing-lane"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 23
+    images:
+      - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Legend-Hero-Maybe.jpg?quality=85"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Arlington partnering with Via, Maxs Mobility on self-driving vehicle program for downtown, UTA"
+    excerpt: "Arlington is expanding its self-driving vehicle program. Via Arlington customers can now select to be picked up in a self-driving vehicle for trips around Do"
+    publishedDateTime: 2021-03-23T19:19:00Z
+    webUrl: "https://fortworthbusiness.com/news/arlington-is-expanding-its-self-driving-vehicle-program/"
+    type: article
+    provider:
+      name: Fort Worth Business Press
+      domain: fortworthbusiness.com
+    quality: 12
+    images:
+      - url: "https://fortworthbusiness.com/wp-content/uploads/2021/03/Rapid-3-scaled.jpg"
+        width: 2048
+        height: 1461
+        isCached: true
+  - title: "SF Express Selects Self-Driving Truck Company Plus for Chinas First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
+    publishedDateTime: 2021-03-25T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "EjNRFvhL6mRI4s98sZ8R102aYvVU5B2wyp8ZWbA2e913E0JXPoY3qfUIcJGzUaks0Yf9Srbuecmef/PvqmlFiMLDlp4gO99iZCiCqZ4OXALg4XCwkweg+wJxERzIhbDFvxAItj4VuIwRs76UXsdt6EnoXNBP2yM8lKRstjwaKW/+qciilhuGc7qzGH6UIoYpe17Tq8wJbM0Y+CcgSUPhN3s1VB50V6ubgCneohWYAnVu69L7wSOxdbCQFnhv4ixp9c7B1Qhn24V9+/HQ4TwtXwVWVLMatcz47kAAvtK0/79gUMmhVd7cdGhphFxBB9pyMPiq8XC7V30y0IjLVwijJSeyycGudkTFqzkBKzaJOt60Qro4DYaCbSR+4so1wjou1kHmTi0EUwUk8WaBubD92IeS8vLuUYLNXANcitXlEp84Krd4fxLv/mfbItvPy74jy2HgnV4NlynvMw70BKZ5vmEgBktTSUq2a4et7CO7LHUe7rl4AQx1BxWOnHNrN2mykL2C8XqhAP6KuNF2vDTxAQ==;wYqvbwiiNI4ZDEhzG08mZg=="
 ---

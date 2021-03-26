@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-artificial-intelligence-fairness
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-artificial-intelligence-fairness.amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -83,20 +83,6 @@ related:
       - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
         width: 1416
         height: 829
-        isCached: true
-  - title: "Teaching AI what's fair"
-    excerpt: "With funding from Amazon and the National Science Foundation, researchers are teaching artificial intelligence algorithms how to be more fair and recognize when they're being unfair."
-    publishedDateTime: 2021-03-22T18:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/msu-taw032221.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/259835_web.jpg"
-        width: 1440
-        height: 958
         isCached: true
 
 secured: "i/2my1vAxERe0GV3M7NlZC2vgIUhiX1C8NkqtRvENNZccQ48zfYFrnZktyFmN5t9UwyydxK02OG2xC2QX0AnFMrMV4qM6F8JbQegK06lYjdBvntSB9DqyGOG7TWYluSZ64PgVK7cBnBVENI/klOCsA02JrrVmVFpnqAWTxABAcyWG41QbdxuGmsVTul7FT2fGj6EwAd1ds28SBh+YpIwI+tUDIOgwx4BXdTyWXxnmHUC7zIZwjwFgAdVVz0Pkp7flALtOUSOLs9pW791AqWgdw0N2u+VJ3gOk3YRW7/CDeKW/5czXnLG3hFNTGBw1G57JPYBbCb6LYQRcvri1V1XDfdJMgdDbQ4adWuxbUlhM0dhU/dxanCO4w4OUk8H4dI+Sz52xsyFyQ1gpDRAIk4w0jycW3XKJiWePD/3/z1jjglh4WV0cKSvXWrFt53N6X7CdVkmar4Bm+ZZ2oiaJgeTZp8LlDGqFydXi9TAjiCKtbJY8ZTjzY/2sbcTSZNrCyuULUHUDLUNuca+lV+Mhl8w5A==;ePx4qLjT5wrThF+5nWmtMg=="

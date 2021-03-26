@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-09-mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "originalUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-deep-learning-was-top-in-demand-skill-of-2020-list-of-most-popular-nanodegree-programs.md",
       "title": "Deep Learning was Top In-demand Skill of 2020, List of Most Popular Nanodegree Programs",
       "excerpt": "The shift towards deep learning and data engineering is an indication of the country's growing interest in artificial intelligence and big data Udacity has released the list of the most popular Nanodegree programs in India in 2020. The data is based on the ...",
@@ -1372,49 +1407,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-qsrs-optimize-with-machine-learning-as-yum-brands-acquires-ai-company.md",
-      "title": "QSRs Optimize With Machine Learning As Yum! Brands Acquires AI Company",
-      "excerpt": "Yum! Brands, which owns KFC, Taco Bell, Pizza Hut and other multinational restaurant chains, will acquire AI analytics company Kvantum, Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/yum-brands-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
-      "publishedDateTime": "2021-03-02T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
         "images": null,
         "publishers": null,
         "authors": null

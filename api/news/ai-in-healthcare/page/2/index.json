@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-06-ai-reveals-current-drugs-that-may-help-combat-alzheimers.md",
+      "title": "AI reveals current drugs that may help combat Alzheimer’s",
+      "excerpt": "New treatments for Alzheimer’s disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/",
+      "originalUrl": "https://scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2021/03/iStock-sudok1-945x630-1-e1615042402287.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/amp/",
+      "publishedDateTime": "2021-03-05T22:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market to reach US$ 107,797.82 million by 2027 – Arterys, Alphabet, Nuance Communications, Intel",
+      "excerpt": "According to our new research study on “ Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 – COVID-19 Impact and Global Analysis – by Component, Application, and End User,” the market is expected to reach US$ 107,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T19:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-artificial-intelligence-in-healthcare-market-worth-452-billion-by-2026-at-a-cagr-of-449.md",
       "title": "Artificial Intelligence in Healthcare Market worth $45.2 billion by 2026, at a CAGR of 44.9%",
       "excerpt": "According to the new market research report on the “Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware, Software, Services), Techno",
@@ -1327,101 +1422,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-ai-startup-founders-reveal-the-artificial-intelligence-trends-for-2021.md",
-      "title": "AI startup founders reveal the artificial intelligence trends for 2021",
-      "excerpt": "From AI's increased use across industry to the challenge of data, 16 AI startup founders reveal the artificial intelligence trends for 2021",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/ai-startup-founders-reveal-the-artificial-intelligence-trends-for-2021-123493833/",
-      "originalUrl": "https://www.information-age.com/ai-startup-founders-reveal-the-artificial-intelligence-trends-for-2021-123493833/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/02/ai-startup-founders-reveal-the-wider-industry-trends-developing-in-ai.jpeg",
-          "width": 1080,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T04:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome.md",
-      "title": "AI will have a huge impact on your healthcare. But there are still big obstacles to overcome",
-      "excerpt": "There’s a lot of excitement about the potential impact of artificial intelligence on healthcare diagnostics, but the big impact for now is likely to be on operational processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
-      "originalUrl": "https://www.zdnet.com/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2021/02/11/b9c22bef-9731-4ea4-88f9-15260cf0c16e/thumbnail/1200x675/8dcbc6f6917a1e071119b1cd6b255f84/healthcare-robotics-pandemic-600af5e7e9e3792d42ab254e-1-feb-11-2021-20-47-55-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
-      "publishedDateTime": "2021-02-17T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],
