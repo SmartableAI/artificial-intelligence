@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Disney World tests facial recognition software at Magic Kingdom"
-excerpt: "ORLANDO, Fla. – Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance."
-publishedDateTime: 2021-03-23T18:18:00Z
-originalUrl: "https://abc-7.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
-webUrl: "https://abc-7.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
+publishedDateTime: 2021-03-23T18:13:00Z
+originalUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+webUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
 ampWebUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
 cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
 type: article
@@ -355,6 +355,6 @@ related:
         height: 675
         isCached: true
 
-secured: "lr4QQzaNp2Lgu979iFkUXK+xvDwlzZAwVZiKsL+dsnn6LYHHesU59J7z/Znx4VTaHValS2Qi3NX35oOPEQR5xm0try+mcUaPTRqA9qsM05tNaIWMidQY5qtgzOAhKnSXNoPoGEOCflY2aCZ3GFFvoqDx5ZQ0YdsBpuTNFAc8Q4/YHcs1Al6dT+7kxmRHMmFBsd09vVYxa2EA7qhBIFLGjltyhNqYAeJ+pGz6XIypesTyP5m3RYgJAgvjDRFW3cLi93wjCWFPVKl7y+wUa/9N5dE4mM0fw8+VFyXVuOlDcq1uhxRM4RAqPGUThmsnjHECh3XvpM7TVIxt2WQhmqns+88O+gqSJ63RydS4Y9alzwj5Kz9NA1w3yCvu2AWYUh5zFUWW3+BpKCgoLMb1JBzWYOAksPACgam4TAfv0fE/anZDgbFsOEc/aTdr4RRS14s0K5sauNbHLBMXyVXbBAVhhlHlL0hpWVKMYavXiKH3AyjVxNgkP3R8b1NR8vE6/i45+Y7qW5E7PflBmyhPZslubQ==;Y1tC03MyNbr7UDj8CiNWGQ=="
+secured: "xnMYPjbpmKRVMJ7tAdBwV38oQqVCv7Px8qvOXBNGhCA5tJDIx9eQ8XPh8qNVp+0V/wQt87Yl1v93IowVebxWsH/zHpe1k2r9x/fAQvUWUY+M0LCT3NRjk3Xj931HaUo7JJfs8mAWmKODabpUXSpP4Cq+QBfaTJ0PusZe06+SBs25GQ/g6G+D5SrnTK42PZHWSyrhIUs3Bt2aHF2TscbJ0O/tLTFaFW3qFbQeQncb1iEwR37lQY0vDOgNQdJNKoQ+OSwqBMSMM8sssQptMN486GsXinTi1UuTQ1rB20vRwoGImFAzNM3bHtG+WtFkpMR4tEeRN1IFNi7yNCW625/nFQasFcs0Cpu3xknKwKL0RfU=;GyiQtEnmPeNSHgPc8bRudQ=="
 ---
 

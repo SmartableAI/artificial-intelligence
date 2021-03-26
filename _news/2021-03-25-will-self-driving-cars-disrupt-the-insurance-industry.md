@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

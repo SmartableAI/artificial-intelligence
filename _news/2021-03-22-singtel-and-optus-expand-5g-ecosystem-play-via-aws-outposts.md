@@ -66,20 +66,6 @@ related:
         width: 780
         height: 442
         isCached: true
-  - title: "Singtel, Optus to Develop 5G Solutions on MEC with AWS Outposts"
-    excerpt: "The MEC, leveraging the Amazon Web Services (AWS) Outposts, will enable 5G solutions like robotics, drones, autonomous vehicles and artificial intelligence to operate at ultra-low latency, closer to the end-users. AWS Outposts is a solution that enables ..."
-    publishedDateTime: 2021-03-21T23:59:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/19333-singtel-optus-to-develop-5g-solutions-on-mec-with-aws-outposts"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 39
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/6d3dcd99d5ced27b3bfa3cedbc881690.jpg?t=20210323_005457"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Singtel and Optus partner with AWS for 5G edge"
     excerpt: "Singtel and Optus to make use of AWS Outposts on MEC infrastructure to support enterprise development of low-latency 5G services."
     publishedDateTime: 2021-03-23T12:23:00Z

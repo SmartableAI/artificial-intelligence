@@ -74,6 +74,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "FinTech company ENACOMM strikes partnership with leader in biometric and AI technology IDmission"
+    excerpt: "Banks, credit unions, credit card and payments companies of all sizes are now able to take advantage of the most modern identity solutions available, thanks to a new partnership between FinTech enablement company ENACOMM and IDmission,"
+    publishedDateTime: 2021-03-25T02:03:00Z
+    webUrl: "https://www.cuinsight.com/press-release/fintech-company-enacomm-strikes-partnership-with-leader-in-biometric-and-ai-technology-idmission"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 26
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
   - title: "IDEMIA Showcases Industry-Leading Facial Recognition Technology at DHS 2020 Biometric Technology Rally"
     excerpt: "View original content to download multimedia: http://www.prnewswire.com/news-releases/idemia-showcases-industry-leading-facial-recognition-technology-at-dhs-2020-biometric-technology-rally-301251155.html"
     publishedDateTime: 2021-03-22T12:05:00Z

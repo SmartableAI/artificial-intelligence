@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Avvir raises $10M for AI that spots construction site errors"
+    excerpt: "Avvir, a startup applying AI to monitor construction projects for errors, has raised $10 million in venture capital."
+    publishedDateTime: 2021-03-26T16:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/"
+    ampWebUrl: "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/01/91e28747-bc1b-43dd-bf95-6650cec819f1.png?w=1200&strip=all"
+        width: 1200
+        height: 789
+        isCached: true
 
 secured: "ZgNEHX0UqmfK70RQAXvcUS3+vgWw3+PRpQ10daCF3TAEAuzG3zzozI/pk0XG0M6rmENjIdxMmsx5Iowlly3X5BIUpjEtdqoZA0CiiBEhK67HIfK9ES2GYmPl1E5Nn69i35mboSpasirq73qZiDNHZdtV+hZ7sA8D56Fhcv5K2524ROCvdI+8D3HJcLl68VL6hrM9cqj3vzBRh+Wk03LxVDapNT44STX7ZObMlWEIwgZ+Qe4VnT5rU6py4MIDcrMQvRENxuGStaIGmSp8cRDZvhnsymXzogNB8IAuL7WqfLdLDtRFYbqAxIlkfTFNYP3Ch9WFgiQfMdPwXB2g/okjRHnC2TJ+g9ruoYFK/CbJfU8=;ODoQzF6VUufH1rNespqXAA=="
 ---

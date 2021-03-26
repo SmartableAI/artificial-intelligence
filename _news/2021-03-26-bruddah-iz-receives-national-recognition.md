@@ -43,6 +43,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Danville Utilities receives national recognition"
+    excerpt: "Danville Utilities has earned a “Platinum” level designation as a Reliable Public Power Provider (RP3) from the American Public Power Association for providing customers with reliable and safe electric service."
+    publishedDateTime: 2021-03-26T15:46:00Z
+    webUrl: "https://www.chathamstartribune.com/news/article_6a01475a-8e4a-11eb-90f0-2716a67d70fa.html"
+    type: article
+    provider:
+      name: Chatham Star Tribune
+      domain: chathamstartribune.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/chathamstartribune.com/content/tncms/assets/v3/editorial/6/23/6235a728-bfa1-11ea-a2dd-4f5884047391/603fbac656bbe.image.jpg?resize=470%2C245"
+        width: 470
+        height: 245
+        isCached: true
   - title: "Local recognition for Lane"
     excerpt: "Composer Liz Lane has been announced as Lydbrook Band's 2020 'Bandsperson of the Year' — the first non-playing recipient in the award's history. The Trefor Evans Memorial Cup is usually presented at the band's annual Christmas Concert,"
     publishedDateTime: 2021-03-26T12:00:00Z

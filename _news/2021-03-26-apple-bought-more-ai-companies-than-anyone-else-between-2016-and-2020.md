@@ -9,7 +9,7 @@ ampWebUrl: "https://9to5mac.com/2021/03/25/apple-bought-more-ai-companies-than-a
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/03/25/apple-bought-more-ai-companies-than-anyone-else-between-2016-and-2020/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Was Top Acquirer of AI Companies From 2016 - 2020 [Report]"
+    excerpt: "U.S. tech giants dominated artificial intelligence acquisitions from 2016 to 2020 with Apple leading the race."
+    publishedDateTime: 2021-03-25T20:44:00Z
+    webUrl: "https://www.iclarified.com/80258/apple-was-top-acquirer-of-ai-companies-from-2016-2020-report"
+    ampWebUrl: "https://www.iclarified.com/80258/apple-was-top-acquirer-of-ai-companies-from-2016-2020-report/amp"
+    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/80258/apple-was-top-acquirer-of-ai-companies-from-2016-2020-report/amp"
+    type: article
+    provider:
+      name: iClarified
+      domain: iclarified.com
+    quality: 59
+    images:
+      - url: "https://www.iclarified.com/images/news/80258/80258/80258-640.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Apple Bought the Most AI Companies From 2016 to 2020"
     excerpt: "Apple is the leading buyer of companies in the global artificial intelligence space, according to data shared today by GlobalData. From 2016 to"
     publishedDateTime: 2021-03-25T17:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.nfcw.com/2021/03/25/371360/abu-dhabi-theme-parks-roll-
 webUrl: "https://www.nfcw.com/2021/03/25/371360/abu-dhabi-theme-parks-roll-out-face-recognition-for-access-and-payments/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 760
     isCached: true
 
-secured: "OMfPj4LjMGbBLWikaaTCZIQt328irxsDESJrZZnfvkpSyBiTpB/RigY7zZez351HiTOEkj5U95QKGWxCsTsCei2k65KYsEt+Jnataa8l4SKQEnU6gjRQXugV3rcCsZ+d86zEjnw4w/ICdkQWjEAtBEAnm2F5npp3dW/lyEGknimkhrxK1g3C5eksOaIpP23UN3J2uAPqXZ/U7lj2K0D5OjMEWQkw5JVgkH/QGmug/Z2T86sjeofdYA9S/mG4YaQTrR0GFBL3lBuoMmziGbwfLH/ycpvkh0LYNKB5+XAVjcvWu9/S3iChw174Le9PKi+2VOCONp1TGfeVEeh9pLN1bA2EshRl1FicJBA355a43d8=;wqpF248wrGnIfGwdzTPUeA=="
+related:
+  - title: "Abu Dhabi’s Yas Island Theme Park Implements Facial Recognition"
+    excerpt: "People visiting Abu Dhabi’s Yas Island can use facial recognition technology to access the resort’s theme parks and make contactless payments."
+    publishedDateTime: 2021-03-26T17:25:00Z
+    webUrl: "https://www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/"
+    ampWebUrl: "https://www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/shutterstock_683167603-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+
+secured: "XcdaidCMkZLyrLyPMu0rq/c6ZfW+kWg7Oy09Wqu2PDmdtjICFHlsrsN5lN6EFJ4cBCtpE0Klfoh9yICP4ih5zJcJAZD2p2JcPwRz/krYePOZfeLLSgrYydQENTKYlHO6CIIi/CZwIdsahDvNsfSzlZp4v6zOIlapEBVetR6Xk/M3J+xXOudNDvcA9xC8A4D8fTMVpAD910N9nxsDsyQ+iVT2L3kq92GZJ81byC/j7a4C6RFN8faAkckSLceBN+WD2zA/E4Y5dbIYiQh498d6nq8+0Hna5y9C935qmSgPdt4YtgAeahyJaHS6qv0eCRvgBTqseNZTsHtYYMjIg47PjUc7NStGjWWawwoTiKuEmvsOBy6r3e5YBAtPrjaVsnEP6HoiKD7f1bMyXp0jqJcyXR6/7yMnaRhw3dqdRequ1tFNm++pcZ5HtyJ7UsG1HkhWBYresPTo68wX6tuWeiIh9dhMfVHbF/HBSzprolKVBujcpNcGxiEE1JiVLjB0CtVXMENVNeB/GB/RejxO+vicgQ==;rxLu+POWtz97RuiR8cWb/w=="
 ---
 

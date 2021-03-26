@@ -96,20 +96,6 @@ related:
         width: 686
         height: 402
         isCached: true
-  - title: "Workshop on next generation embodied intelligence this week"
-    excerpt: "Supported by the Engineering and Physical Sciences Research Council (EPSRC) and chaired by Dr Fumiya Iida, Reader in Robotics, the International Workshop on Next Generation Embodied Intelligence seeks to gain further insights into intelligence,"
-    publishedDateTime: 2021-03-22T00:00:00Z
-    webUrl: "https://cambridgenetwork.co.uk/news/workshop-next-generation-embodied-intelligence-week"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 24
-    images:
-      - url: "https://cambridgenetwork.co.uk/sites/default/files/48647677002ef0d42f38boresized.jpg"
-        width: 599
-        height: 292
-        isCached: true
 
 secured: "aSisUZJZoAn6QRMpX5GgHthGyFt39/m+kWMw6GdThrBf4ZRuK+KAgMR7bKd/JQCEsOW2gkmR4YXfbSTpBtIlzDVKbNWjDrtHsr2RMfw/klnAFGCkKRwWmSy4ik1EgZvakRcEoqA2qmMWPZ5qQM8FJQUnQiaecf7dkZtN9d+Z0HMzo7FVMEGALa+LhPP+vBDewIDnGbrS0MosXUYxQ2x9iHF4xkVrSjA8NBk3xwTcnmI81EByPRo9b9X9RGwawNTDGG5DaNILZZ3siNfTOTBHbMuRIDOHCgXX66UdjWNS1MpT2HUPQ1vB1n8rdLuh6i+C8rlrVkuGaAlnGZ+1xHew1NDPS8fJUKFC+SuFYjlKJr+DXXPjiRRIjPIh0w0jFx/xyj7boQVE7J9eazPUuKSD5irP1li2QNoFtxoMgCa3Uv9jMA3ZpsXK1S373Evxpg9A6s0LtrdDWYGWm6dDv4nwSioBLegvuQzdeuHC+6d7Y03E3mpI2kke0pk9Xgf6mU6LvDwcGRAleHxg7fYGdrR/PA==;KeknB8n64Tr+bjtFmlCrSA=="
 ---

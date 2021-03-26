@@ -89,6 +89,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "FinTech company ENACOMM strikes partnership with leader in biometric and AI technology IDmission"
+    excerpt: "Banks, credit unions, credit card and payments companies of all sizes are now able to take advantage of the most modern identity solutions available, thanks to a new partnership between FinTech enablement company ENACOMM and IDmission,"
+    publishedDateTime: 2021-03-25T02:03:00Z
+    webUrl: "https://www.cuinsight.com/press-release/fintech-company-enacomm-strikes-partnership-with-leader-in-biometric-and-ai-technology-idmission"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 26
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
   - title: "IDmission biometrics and liveness added to Enacomm stack for fintech onboarding"
     excerpt: "Enacomm has formed a partnership agreement with IDmission to bring biometrics and other AI technologies to Enacomm’s fintech customers for end-to-end digital transformation of applications relying on identity verification. IDmission’s passive liveness ..."
     publishedDateTime: 2021-03-24T21:46:00Z

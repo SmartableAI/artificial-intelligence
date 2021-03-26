@@ -57,6 +57,20 @@ related:
         width: 760
         height: 760
         isCached: true
+  - title: "Danville Utilities receives national recognition"
+    excerpt: "Danville Utilities has earned a “Platinum” level designation as a Reliable Public Power Provider (RP3) from the American Public Power Association for providing customers with reliable and safe electric service."
+    publishedDateTime: 2021-03-26T15:46:00Z
+    webUrl: "https://www.chathamstartribune.com/news/article_6a01475a-8e4a-11eb-90f0-2716a67d70fa.html"
+    type: article
+    provider:
+      name: Chatham Star Tribune
+      domain: chathamstartribune.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/chathamstartribune.com/content/tncms/assets/v3/editorial/6/23/6235a728-bfa1-11ea-a2dd-4f5884047391/603fbac656bbe.image.jpg?resize=470%2C245"
+        width: 470
+        height: 245
+        isCached: true
   - title: "Why Indigenous recognition is a national imperative"
     excerpt: "An Indigenous family friend passed on a copy of Close the Gap Campaign Report 2021 - Leadership and Legacy Through Crises: Keeping Our Mob Safe prepared by the Lowitja Institute, while my mother-in-law gave me a copy of Fire Country by Indigenous land management expert Victor Steffensen."
     publishedDateTime: 2021-03-25T07:00:00Z

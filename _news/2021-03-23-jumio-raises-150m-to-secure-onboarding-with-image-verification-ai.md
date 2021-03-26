@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Avvir raises $10M for AI that spots construction site errors"
+    excerpt: "Avvir, a startup applying AI to monitor construction projects for errors, has raised $10 million in venture capital."
+    publishedDateTime: 2021-03-26T16:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/"
+    ampWebUrl: "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/01/91e28747-bc1b-43dd-bf95-6650cec819f1.png?w=1200&strip=all"
+        width: 1200
+        height: 789
+        isCached: true
   - title: "Onboarding Shouldn't Suck: Socrates.ai and William Tincup to Rethink the Process in Upcoming Webinar"
     excerpt: "Since launching in 2017, Socrates.ai has raised more than $26 million in funding from leading venture capital firms and been named a Gartner \"Cool\" Vendor, Top 10 Virtual Assistant Solution Providers by CIO Magazine and Hot Startup by Business Insider ..."
     publishedDateTime: 2021-03-23T11:00:00Z

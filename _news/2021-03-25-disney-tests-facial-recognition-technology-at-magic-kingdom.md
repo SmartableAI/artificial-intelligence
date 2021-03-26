@@ -58,9 +58,9 @@ related:
         height: 641
         isCached: true
   - title: "Disney World tests facial recognition software at Magic Kingdom"
-    excerpt: "ORLANDO, Fla. – Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance."
-    publishedDateTime: 2021-03-23T18:18:00Z
-    webUrl: "https://abc-7.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+    excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
+    publishedDateTime: 2021-03-23T18:13:00Z
+    webUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
     ampWebUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
     cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
     type: article
@@ -355,6 +355,6 @@ related:
         height: 1082
         isCached: true
 
-secured: "sk0zlmumszy1XIhuScQUPz7ScDvW3aQrAHGcNORJ9QfyOdqKJiexnPN/NIIrQppOezUxNACmAAPOf5oU/WQlpFkOOEBLAThGrBpZv6DZb2QzIfkUGpkOfPGyJNAOVtsmM/x9OA/jj1XIxMNjhXoGBxuCLLNKIo0I95l7LHOFGi2W8mT/UIFg2mX79lWiOVpNeLf1ICWn71UC/LLq6f2oTsP4MdYE+ON+LOGdPtcXM72d5rknmXg1ovTdRlEwFXnqnY0qsJ36kOQaq6cFEGzdKcsYzk73K/3/x0VAZWs5WzwtKFaxkdkF3ax5iZlOKWRdN5hG4hoRwSuUd5ghBFdrtFA29rz4KzOLyK0yYZK02Sg=;lQO9seGy1TAzDeTvpPat9w=="
+secured: "nfzoNEr/aLI3N+boMKH3v8xS+wfmi40SKXQNiROGbraM99/U7R45P2bb7dOC1HNTcHmSENTC0tKBkMorkJDirgexLAqEsfkXvogVwxT1jlAvDdd6YWUtZ03LxGK7fgaE8MP1A9g0jR2hM8DdhOfq9D/r+vrRX20woAme0W3ELrK6V9Ax3zektMQjstwVV+sidmPccice2NlMO1VPI6g1ax3CCln0dE+UFH1JnRTGo/jnzDfYyUNVxXtq9VQhENCdXy2nyU8D1juHblvCd7A2s43PI0KU91X7q4SkQVtTJ3sC3dcYWDCMtg9aEIiE5Ny6wRfxkEz/+B6K0TMsyHSy601BZfkcDGmpwcxZzzr6wctj6NABh73WoWgRyro27Px7bRtpBfEXYIMxbo0bE+Db46BycxYSvXs4CFwWCvZEr0/yF/3fSbCkewHgT9lY6QgnAKJ0uFeEDMKuvUFJpKA6db32GIXqqH3lFSEur3F/w5payVxXlbYTypXL+0fRyiqz/xDS/ncD45kBfXhAoQcDWQ==;JOg13+fqTADBWzBgWfC1yA=="
 ---
 

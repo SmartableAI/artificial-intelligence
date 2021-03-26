@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24?amp"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41433-021-01503-3/MediaObjects/41433_2021_1503_Fig1_HTML.png"
         width: 587
         height: 685
-        isCached: true
-  - title: "Workshop on next generation embodied intelligence this week"
-    excerpt: "Supported by the Engineering and Physical Sciences Research Council (EPSRC) and chaired by Dr Fumiya Iida, Reader in Robotics, the International Workshop on Next Generation Embodied Intelligence seeks to gain further insights into intelligence,"
-    publishedDateTime: 2021-03-22T00:00:00Z
-    webUrl: "https://cambridgenetwork.co.uk/news/workshop-next-generation-embodied-intelligence-week"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 24
-    images:
-      - url: "https://cambridgenetwork.co.uk/sites/default/files/48647677002ef0d42f38boresized.jpg"
-        width: 599
-        height: 292
         isCached: true
 
 secured: "7M4MeChk/xQDOHKS6xWpMkxkhZD1w0HNSaWOwvUzdLiBgUOBc0BcpZWeBQ+/m4lrUtG8tf3bOJmbfuLhyqkJmknPdotps1PfLgzQswaWIAU0F0WnwnICzBNnKvorUajc9No222VkY+qYY3OKkV5D5nnhaLc6ObiceAfWv7+A5vHqOE4hJFb1wuxkesUvWUEBS73qilozdjS0TsgGqNPG5cnrh+IOHOpJSLmDoxA639kr0SPFR6tn8Fsy8QdRaHe+j3j0POj5QK81jJUNz1V9uGCG+U/vSVaHTt8ibUgRGy4rf+dTa7mL12KsAb6iQUC1xMN48QCGEmr5jzMqI77VFrtrOa010ayb/7aPmzZ5e35aB2Cq2U9SmHtQaWxOyOLkcx7OqTcMHyiOFdss2X+d3Day3pvaZlxlqWbCqCo41wWIpJNnVYDLTs75oWseV8/o7pofk402Jmx/LLgGTjfFzMDq7MVfHSqbRp9ukNY0ioNKPbKxEj9BG0tZqnsdU4FZLZJ+AMDCXxnoWpBsMZ0jlQ==;MYOFsEmgNrF5QSZevs8E4A=="
