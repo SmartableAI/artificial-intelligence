@@ -4,143 +4,69 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/insitro.md",
-      "title": "Insitro",
-      "excerpt": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/insitro/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/insitro/",
+      "path": "_companies/actioniq.md",
+      "title": "ActionIQ",
+      "excerpt": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/actioniq/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/actioniq/",
       "type": "profile",
-      "name": "Insitro",
-      "overview": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
-      "website": "http://www.insitro.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/insitro/",
-        "followers": 2353
-      },
+      "name": "ActionIQ",
+      "overview": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
+      "website": "https://www.actioniq.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/insitro"
+        "url": "https://www.crunchbase.com/organization/actioniq"
       },
       "twitter": {
-        "username": "insitro",
-        "url": "https://twitter.com/insitro",
-        "followers": 2635
+        "username": "ActionIQinc",
+        "url": "https://twitter.com/ActionIQinc",
+        "followers": 1141
       },
-      "size": "11-50 employees",
-      "yearFounded": 2018,
+      "yearFounded": 0,
       "locations": [
-        "South San Francisco, CA"
+        "Mountain View, CA"
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "AI in Marketing"
       ],
-      "heat": 138,
-      "tags": [
-        "Biotech"
-      ],
+      "heat": 143,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1263571535463399445/ylMy1iIp_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1308162295256809475/DaNzK3jh_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Insitro",
+          "title": "ActionIQ",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/scale.md",
-      "title": "Scale",
-      "excerpt": "The Data Platform for AI: High quality training and validation data for AI applications.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/scale/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/scale/",
+      "path": "_companies/h2o.ai.md",
+      "title": "H2O.ai",
+      "excerpt": "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/h2o.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/h2o.ai/",
       "type": "profile",
-      "name": "Scale",
-      "otherNames": [
-        "Scale.ai"
-      ],
-      "overview": "The Data Platform for AI: High quality training and validation data for AI applications.",
-      "website": "https://www.scale.com",
+      "name": "H2O.ai",
+      "overview": "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai.",
+      "website": "https://www.h2o.ai",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/scaleai/",
-        "followers": 6279
+        "url": "https://www.linkedin.com/company/0xdata",
+        "followers": 52786
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/scale-2"
+        "url": "https://www.crunchbase.com/organization/h2o-2"
       },
       "twitter": {
-        "username": "scale_ai",
-        "url": "https://twitter.com/scale_ai",
-        "followers": 8331
+        "username": "h2oai",
+        "url": "https://twitter.com/h2oai",
+        "followers": 21474
       },
       "size": "51-200 employees",
-      "yearFounded": 2016,
+      "yearFounded": 2012,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ],
-      "heat": 138,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1272685852963901441/nrmsBoMo_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Scale",
-          "isCached": true
-        },
-        {
-          "url": "https://scale.com/static/global/facebook-card.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Scale AI Facebook Banner",
-          "isCached": false
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFV0-qtFzCsfg/company-logo_200_200/0?e=1594857600&v=beta&t=QxrQmXZ7I97h6sAuOEbWQxOWsGLxx6fhegPl_b0LhFE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sentinelone.md",
-      "title": "SentinelOne",
-      "excerpt": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sentinelone/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/sentinelone/",
-      "type": "profile",
-      "name": "SentinelOne",
-      "overview": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
-      "website": "https://www.sentinelone.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/2886771",
-        "followers": 28543
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sentinel"
-      },
-      "twitter": {
-        "username": "SentinelOne",
-        "url": "https://twitter.com/SentinelOne",
-        "followers": 11238
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Mountain View, CA",
-        "Mountain View, California"
+        "Mountain View, CA"
       ],
       "funding": {
         "status": "Late Stage Venture"
@@ -148,17 +74,20 @@
       "topics": [
         "AI"
       ],
-      "heat": 138,
+      "heat": 143,
+      "tags": [
+        "Open Source"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1195190599214780416/5D8xm_lm_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1024818828809629699/m8X9zY2c_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "SentinelOne",
+          "title": "H2O.ai",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEw-a3g3SOsvg/company-logo_200_200/0?e=1594857600&v=beta&t=FR07UQ27QgcTP7P7FjmDc6SmAQnvsU76Xj9Swb0HMIU",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHwh1xsjx_5CQ/company-logo_200_200/0?e=1587600000&v=beta&t=aRwC2WzcJ0TEw7AQmmVQn-QUJIXDFDbbGxMsi05QDoo",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -168,100 +97,128 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/datarobot.md",
-      "title": "DataRobot",
-      "excerpt": "DataRobot powers the AI-driven enterprise. Its breakthrough invention of automated machine learning empowers users throughout the organization to consistently make business decisions unmatched in simplicity, speed, and accuracy. The DataRobot platform evaluates hundreds of cutting-edge machine learning algorithms to discover, deploy, and customize the best machine learning models for every situation. DataRobot delivers the most accurate insights at scale, providing the fastest path to data science success for organizations of all sizes.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/datarobot/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/datarobot/",
-      "type": "profile",
-      "name": "DataRobot",
-      "overview": "DataRobot powers the AI-driven enterprise. Its breakthrough invention of automated machine learning empowers users throughout the organization to consistently make business decisions unmatched in simplicity, speed, and accuracy. The DataRobot platform evaluates hundreds of cutting-edge machine learning algorithms to discover, deploy, and customize the best machine learning models for every situation. DataRobot delivers the most accurate insights at scale, providing the fastest path to data science success for organizations of all sizes.",
-      "website": "https://datarobot.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/datarobot/",
-        "followers": 49687
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/datarobot"
-      },
-      "twitter": {
-        "username": "DataRobot",
-        "url": "https://twitter.com/DataRobot",
-        "followers": 17588
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Boston, MA",
-        "Boston, Massachusetts"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
+      "path": "_companies/collections/ai-companies-in-san-francisco.md",
+      "title": "San Francisco AI Companies",
+      "excerpt": "List of AI companies in San Francisco.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/ai-companies-in-san-francisco/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/collections/ai-companies-in-san-francisco/",
+      "type": "collection",
+      "name": "San Francisco AI Companies",
+      "overview": "List of AI companies in San Francisco.",
+      "yearFounded": 0,
       "topics": [
-        "AI",
-        "Machine Learning"
+        "AI"
       ],
-      "heat": 135,
-      "images": [
+      "topItems": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1087388998992125955/lplfj6G3_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "DataRobot",
-          "isCached": true
+          "path": "",
+          "title": "Affirm",
+          "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+          "type": "profile",
+          "name": "Affirm",
+          "overview": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 149,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1328845027519332354/TdQpAQ6K_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Affirm",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFwkhtULTjL1A/company-logo_200_200/0?e=1594857600&v=beta&t=FM0oMpF-rNvN1sBeBYtCiQQNywAdoyLXVBUO8EtUxEw",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/affirm.md",
-      "title": "Affirm",
-      "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/affirm/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/affirm/",
-      "type": "profile",
-      "name": "Affirm",
-      "overview": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
-      "website": "https://www.affirm.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/affirm/",
-        "followers": 28762
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/affirm"
-      },
-      "twitter": {
-        "username": "Affirm",
-        "url": "https://twitter.com/Affirm",
-        "followers": 11410
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "videos": [
+          "path": "",
+          "title": "Algolia",
+          "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+          "type": "profile",
+          "name": "Algolia",
+          "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ],
+          "heat": 114,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1001802575505707009/iEEMVN5L_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Algolia",
+              "isCached": true
+            }
+          ]
+        },
         {
-          "url": "https://www.youtube.com/watch?v=Ex1KJSLIoKU"
+          "path": "",
+          "title": "Anki",
+          "excerpt": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
+          "type": "profile",
+          "name": "Anki",
+          "overview": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Robotics"
+          ],
+          "heat": 31,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1287810463980556288/gEbM3DSA_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Anki",
+              "isCached": true
+            },
+            {
+              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0",
+              "width": 400,
+              "height": 400,
+              "title": "logo",
+              "isCached": false
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "App Annie",
+          "excerpt": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+          "type": "profile",
+          "name": "App Annie",
+          "overview": "The Mobile Performance Standard. Our mission is to provide the mobile data and analytics companies need to deliver winning consumer experiences.",
+          "yearFounded": 0,
+          "topics": [
+            "AI",
+            "AI in Marketing"
+          ],
+          "heat": 31,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "App Annie",
+              "isCached": true
+            }
+          ]
         }
       ],
-      "heat": 132,
+      "size": 41,
+      "heat": 136,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1328845027519332354/TdQpAQ6K_400x400.jpg",
@@ -269,59 +226,57 @@
           "height": 400,
           "title": "Affirm",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/argo.ai.md",
-      "title": "Argo AI",
-      "excerpt": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/argo.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/argo.ai/",
+      "path": "_companies/skydio.md",
+      "title": "Skydio",
+      "excerpt": "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/skydio/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/skydio/",
       "type": "profile",
-      "name": "Argo AI",
-      "overview": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
-      "website": "https://argo.ai",
+      "name": "Skydio",
+      "overview": "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!",
+      "website": "https://www.skydio.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/argo-ai/",
-        "followers": 23051
+        "url": "https://www.linkedin.com/company/skydio/",
+        "followers": 6085
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/argo-ai"
+        "url": "https://www.crunchbase.com/organization/skydio"
       },
       "twitter": {
-        "username": "argoai",
-        "url": "https://twitter.com/argoai",
-        "followers": 4867
+        "username": "SkydioHQ",
+        "url": "https://twitter.com/SkydioHQ",
+        "followers": 10586
       },
-      "size": "501-1,000 employees",
-      "yearFounded": 2016,
+      "size": "51-200 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Pittsburgh, PA",
-        "Pittsburgh, Pennsylvania"
+        "Redwood City, CA",
+        "Redwood City, California"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Robotics"
       ],
-      "heat": 132,
-      "tags": [
-        "Autonomous Vehicles"
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=gsfkGlSajHQ"
+        }
       ],
+      "heat": 135,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1344320855015378944/RzI2FvL8_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1230238514735747072/0GHbZeZS_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Argo AI",
+          "title": "Skydio",
           "isCached": true
         }
       ],
@@ -391,50 +346,54 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/deepl.md",
-      "title": "DeepL",
-      "excerpt": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/deepl/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/deepl/",
+      "path": "_companies/dataminr.md",
+      "title": "Dataminr",
+      "excerpt": "Dataminr is the world's real-time information discovery company that turns information chaos into opportunity. Our ability to find and deliver information faster than any traditional source has completely revolutionized how critical, relevant and actionable information reaches the News, Finance, Public Sector, Corporate Security and PR &amp; Communications industries.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/dataminr/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/dataminr/",
       "type": "profile",
-      "name": "DeepL",
-      "overview": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
-      "website": "http://www.deepl.com/",
+      "name": "Dataminr",
+      "overview": "Dataminr is the world's real-time information discovery company that turns information chaos into opportunity. Our ability to find and deliver information faster than any traditional source has completely revolutionized how critical, relevant and actionable information reaches the News, Finance, Public Sector, Corporate Security and PR &amp; Communications industries.",
+      "website": "https://www.dataminr.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/dataminr",
+        "followers": 38135
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/linguee"
+        "url": "https://www.crunchbase.com/organization/dataminr"
       },
       "twitter": {
-        "username": "deeplcom",
-        "url": "https://twitter.com/deeplcom",
-        "followers": 9421
+        "username": "dataminr",
+        "url": "https://twitter.com/dataminr",
+        "followers": 15028
       },
-      "yearFounded": 0,
+      "size": "201-500 employees",
+      "yearFounded": 2009,
       "locations": [
-        "Cologne, Germany"
+        "New York, NY",
+        "New York, NY"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
-        }
+        "AI"
       ],
       "heat": 132,
-      "tags": [
-        "Natural Language Generation"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/960519710809972736/NJWxM0QH_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1279878313851396103/q8fdV_jh_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "DeepL",
+          "title": "Dataminr",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE4xkg2wK6Wfg/company-logo_200_200/0?e=1594857600&v=beta&t=Csauhxxy10Snpz1kZQ8ZgS-I5rMYcTtLyrRO1pLukQA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -478,6 +437,217 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/zymergen.md",
+      "title": "Zymergen",
+      "excerpt": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zymergen/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zymergen/",
+      "type": "profile",
+      "name": "Zymergen",
+      "overview": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
+      "website": "https://www.zymergen.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/zymergen-inc-/",
+        "followers": 10307
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zymergen"
+      },
+      "twitter": {
+        "username": "zymergen",
+        "url": "https://twitter.com/zymergen",
+        "followers": 6372
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Emeryville, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=658kvYgrJBE"
+        }
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/975742186871402496/9hiwI9SS_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Zymergen",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFVJWz7dfMRiw/company-logo_200_200/0?e=1594857600&v=beta&t=rhBDRCG7z5wL4oYEWBCdYg_mi_C6R5CsTQCu49nbr6k",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tempus.md",
+      "title": "Tempus",
+      "excerpt": "Tempus is a technology company that is building the world’s largest library of molecular and clinical data and an operating system to make that data accessible and useful, in an effort to bring the power of artificial intelligence to healthcare.  We enable physicians to make real time, data driven decisions and deliver personalized care for patients through our interactive analytical and machine learning platform. Our goal is for each patient to benefit from the treatment of others who came before by providing the health care industry with tools that learn as we gather more data. For more information, visit tempus.com and on Twitter (@TempusLabs).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tempus/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tempus/",
+      "type": "profile",
+      "name": "Tempus",
+      "otherNames": [
+        "Tempus Labs"
+      ],
+      "overview": "Tempus is a technology company that is building the world’s largest library of molecular and clinical data and an operating system to make that data accessible and useful, in an effort to bring the power of artificial intelligence to healthcare.  We enable physicians to make real time, data driven decisions and deliver personalized care for patients through our interactive analytical and machine learning platform. Our goal is for each patient to benefit from the treatment of others who came before by providing the health care industry with tools that learn as we gather more data. For more information, visit tempus.com and on Twitter (@TempusLabs).",
+      "website": "https://www.tempus.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/tempus-health",
+        "followers": 12290
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tempus-3"
+      },
+      "twitter": {
+        "username": "tempuslabs",
+        "url": "https://www.twitter.com/tempuslabs",
+        "followers": 3830
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Chicago, IL"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Vq12pj50s0w"
+        }
+      ],
+      "heat": 127,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1154066113317285889/IFoETg00_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Tempus",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsYEwltlLFzw/company-logo_200_200/0?e=1594857600&v=beta&t=4QibS8tNUJadb3fhRviDqj8MlZMxXO17PKnIg-Fmte8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/lemonade.md",
+      "title": "Lemonade",
+      "excerpt": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lemonade/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/lemonade/",
+      "type": "profile",
+      "name": "Lemonade",
+      "overview": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
+      "website": "https://www.lemonade.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/lemonade-inc-/",
+        "followers": 36367
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lemonade"
+      },
+      "twitter": {
+        "username": "lemonade_inc",
+        "url": "https://twitter.com/lemonade_inc",
+        "followers": 25492
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "New York, NY",
+        "New York"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 124,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lemonade",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_200_200/0?e=1594857600&v=beta&t=SGGHzBtUehaMv5O9f5mvqU-528KrG0WiLzDMO2oh4cA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/activecampaign.md",
+      "title": "ActiveCampaign",
+      "excerpt": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/activecampaign/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/activecampaign/",
+      "type": "profile",
+      "name": "ActiveCampaign",
+      "overview": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
+      "website": "https://www.activecampaign.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/activecampaign"
+      },
+      "twitter": {
+        "username": "ActiveCampaign",
+        "url": "https://twitter.com/ActiveCampaign",
+        "followers": 11037
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Chicago, IL"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ],
+      "heat": 121,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1367134206250336256/XNuHXDE8_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "ActiveCampaign",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/matterport.md",
       "title": "Matterport",
       "excerpt": "Matterport is the world leader in immersive 3D technology, offering a platform for prosumers and professionals to easily capture, edit and share 3D models of physical spaces. These navigable virtual tours are presented in Matterport's proprietary photo-realistic digital media format.",
@@ -508,7 +678,7 @@
       "topics": [
         "AI"
       ],
-      "heat": 130,
+      "heat": 121,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1215468656437497856/NtIW2QxI_400x400.jpg",
@@ -519,64 +689,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQGO97yudv33Uw/company-logo_200_200/0?e=1594857600&v=beta&t=F1LjZMvpHjobO7wSLzuRyXFAiLMPdzdTWh8oncIVKmA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/recursionpharma.md",
-      "title": "Recursion Pharmaceuticals",
-      "excerpt": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/recursionpharma/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/recursionpharma/",
-      "type": "profile",
-      "name": "Recursion Pharmaceuticals",
-      "overview": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
-      "website": "https://www.recursionpharma.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/recursion-pharmaceuticals",
-        "followers": 6053
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/recursion-pharmaceuticals"
-      },
-      "twitter": {
-        "username": "RecursionPharma",
-        "url": "https://twitter.com/RecursionPharma",
-        "followers": 3927
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Salt Lake City, Utah"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
-        }
-      ],
-      "heat": 127,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/925897897165639683/jI8YvBfC_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Recursion Pharmaceuticals",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFavbiUUsfvSg/company-logo_200_200/0?e=1594857600&v=beta&t=X4DgJQniVYQVIS5GiuZtueDApYAoKbYf1eeeTETZ-Lk",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -608,7 +720,7 @@
       "twitter": {
         "username": "tusimpleai",
         "url": "https://twitter.com/tusimpleai",
-        "followers": 3088
+        "followers": 3090
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -622,7 +734,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 124,
+      "heat": 121,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1242299407015370752/INroGsOX_400x400.jpg",
@@ -642,430 +754,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019.md",
-      "title": "Forbes AI 50: America’s Most Promising Artificial Intelligence Companies in 2019",
-      "excerpt": "To be included on the list, companies needed to show that techniques like machine learning, natural language processing, or computer vision are a core part of their business model and future success.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019/",
-      "type": "collection",
-      "name": "Forbes AI 50: America’s Most Promising Artificial Intelligence Companies in 2019",
-      "overview": "To be included on the list, companies needed to show that techniques like machine learning, natural language processing, or computer vision are a core part of their business model and future success.",
-      "yearFounded": 0,
-      "topics": [
-        "AI"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Nuro",
-          "excerpt": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-          "type": "profile",
-          "name": "Nuro",
-          "overview": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Autos"
-          ],
-          "heat": 102,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1229514752763650048/0Zx0XHTR_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Nuro",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Aurora Innovation",
-          "excerpt": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
-          "type": "profile",
-          "name": "Aurora Innovation",
-          "overview": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
-          "yearFounded": 0,
-          "topics": [
-            "AI"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/827102291647926272/X9sEbeNi_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Aurora Innovation",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_Zuj21ezXcQ/company-logo_200_200/0?e=1594857600&v=beta&t=Qm8VOi9xOQgYsyZNFs4Kr2rggwCriin5UcWWzHUZ22s",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Uptake Technologies",
-          "excerpt": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
-          "type": "profile",
-          "name": "Uptake Technologies",
-          "overview": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
-          "yearFounded": 0,
-          "topics": [
-            "AI"
-          ],
-          "heat": 58,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/938090041146036225/nHB1EQ6B_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Uptake Technologies",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Lemonade",
-          "excerpt": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
-          "type": "profile",
-          "name": "Lemonade",
-          "overview": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
-          "yearFounded": 0,
-          "topics": [
-            "AI"
-          ],
-          "heat": 145,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Lemonade",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_200_200/0?e=1594857600&v=beta&t=SGGHzBtUehaMv5O9f5mvqU-528KrG0WiLzDMO2oh4cA",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        }
-      ],
-      "size": 50,
-      "heat": 122,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1229514752763650048/0Zx0XHTR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Nuro",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/activecampaign.md",
-      "title": "ActiveCampaign",
-      "excerpt": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/activecampaign/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/activecampaign/",
+      "path": "_companies/anduril.md",
+      "title": "Anduril Industries",
+      "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anduril/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/anduril/",
       "type": "profile",
-      "name": "ActiveCampaign",
-      "overview": "ActiveCampaign is the Customer Experience Automation (CXA) category leader.",
-      "website": "https://www.activecampaign.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/activecampaign"
-      },
-      "twitter": {
-        "username": "ActiveCampaign",
-        "url": "https://twitter.com/ActiveCampaign",
-        "followers": 11038
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Chicago, IL"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 121,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1367134206250336256/XNuHXDE8_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "ActiveCampaign",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aurora.tech.md",
-      "title": "Aurora",
-      "excerpt": "Aurora works at the intersection of rigorous engineering and applied machine learning to address one of the most challenging, important, and interesting opportunities of our generation: transforming the way people and goods move.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aurora.tech/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aurora.tech/",
-      "type": "profile",
-      "name": "Aurora",
-      "overview": "Aurora works at the intersection of rigorous engineering and applied machine learning to address one of the most challenging, important, and interesting opportunities of our generation: transforming the way people and goods move.",
-      "website": "https://aurora.tech/",
+      "name": "Anduril Industries",
+      "overview": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+      "website": "https://www.anduril.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/aurora-inc./",
-        "followers": 21206
+        "url": "https://www.linkedin.com/company/18293159/",
+        "followers": 3835
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aurora-6292"
+        "url": "https://www.crunchbase.com/organization/anduril-industries"
       },
       "twitter": {
-        "username": "aurora_inno",
-        "url": "https://twitter.com/aurora_inno",
-        "followers": 9688
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Palo Alto, CA",
-        "Palo Alto, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=4J742uB60NY"
-        }
-      ],
-      "heat": 121,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1357414086250741760/a5gK81Bu_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aurora",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/baidu.md",
-      "title": "Baidu",
-      "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/baidu/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/baidu/",
-      "type": "profile",
-      "name": "Baidu",
-      "overview": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
-      "website": "http://ai.baidu.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/baidu-inc/",
-        "followers": 209798
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/baidu"
-      },
-      "twitter": {
-        "username": "BaiduResearch",
-        "url": "https://twitter.com/BaiduResearch",
-        "followers": 54347
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 2000,
-      "locations": [
-        "Beijing"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 117,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/938436175366209536/BdWf35Wt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Baidu",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1594857600&v=beta&t=rv-BLIGYTnAtAPcouS-hsXcM5b7Bb7dAYmS5MBR9p8Q",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/intel.md",
-      "title": "Intel",
-      "excerpt": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/intel/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/intel/",
-      "type": "profile",
-      "name": "Intel",
-      "overview": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
-      "website": "https://www.intel.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/intel-corporation/",
-        "followers": 1659869
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/intel"
-      },
-      "twitter": {
-        "username": "IntelAI",
-        "url": "https://twitter.com/IntelAI",
-        "followers": 25716
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 1968,
-      "locations": [
-        "Santa Clara, CA",
-        "Santa Clara, California"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision"
-      ],
-      "heat": 117,
-      "tags": [
-        "Autonomous Vehicles",
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1301225939049750528/sjI3AxEY_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Intel",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEQxLTTAA1tTA/company-logo_200_200/0?e=1594857600&v=beta&t=U_52l9T9eym9XCO00umDVjcgsFMfJ8Gfde0exSv24rk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/owkin.md",
-      "title": "OWKIN",
-      "excerpt": "Owkin was co-founded in 2016 by Thomas Clozel, MD, a clinical research doctor and former assistant professor in clinical hematology and Gilles Wainrib, PhD, a pioneer in the field of Artificial Intelligence in biology.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/owkin/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/owkin/",
-      "type": "profile",
-      "name": "OWKIN",
-      "overview": "Owkin was co-founded in 2016 by Thomas Clozel, MD, a clinical research doctor and former assistant professor in clinical hematology and Gilles Wainrib, PhD, a pioneer in the field of Artificial Intelligence in biology.",
-      "website": "https://owkin.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/owkin",
-        "followers": 3729
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/owkin-2"
-      },
-      "twitter": {
-        "username": "owkinscience",
-        "url": "https://www.twitter.com/owkinscience",
-        "followers": 2299
+        "username": "anduriltech",
+        "url": "https://twitter.com/anduriltech",
+        "followers": 7912
       },
       "size": "51-200 employees",
-      "yearFounded": 2016,
+      "yearFounded": 2017,
       "locations": [
-        "New York, NY"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=JSdUHfUR5gg"
-        }
-      ],
-      "heat": 117,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/998741520852205568/d8fjQqUY_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "OWKIN",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQH2IrRbnYGE9Q/company-logo_200_200/0?e=1594857600&v=beta&t=_AOUBHvB83m3DnQ4sjUKF3s26fFbWJF3ORo8TLhL78A",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/skydio.md",
-      "title": "Skydio",
-      "excerpt": "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/skydio/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/skydio/",
-      "type": "profile",
-      "name": "Skydio",
-      "overview": "Slyce is the leader in #visualsearch and image recognition technology. We help brands and retailers make game-changing mobile apps. Visit our site for a demo!",
-      "website": "https://www.skydio.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/skydio/",
-        "followers": 6085
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/skydio"
-      },
-      "twitter": {
-        "username": "SkydioHQ",
-        "url": "https://twitter.com/SkydioHQ",
-        "followers": 10585
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Redwood City, CA",
-        "Redwood City, California"
+        "Orange County, CA"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -1074,67 +787,269 @@
         "AI",
         "AI in Robotics"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=gsfkGlSajHQ"
-        }
-      ],
       "heat": 117,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1230238514735747072/0GHbZeZS_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Skydio",
+          "title": "Anduril Industries",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_200_200/0?e=1594857600&v=beta&t=cpjZPYvxdx8xJ4VVxW6oBbWJzNU_lg7GjSOlhGpSEUg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/insitro.md",
+      "title": "Insitro",
+      "excerpt": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/insitro/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/insitro/",
+      "type": "profile",
+      "name": "Insitro",
+      "overview": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
+      "website": "http://www.insitro.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/insitro/",
+        "followers": 2353
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/insitro"
+      },
+      "twitter": {
+        "username": "insitro",
+        "url": "https://twitter.com/insitro",
+        "followers": 2636
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "South San Francisco, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 117,
+      "tags": [
+        "Biotech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1263571535463399445/ylMy1iIp_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Insitro",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/feedzai.md",
-      "title": "Feedzai",
-      "excerpt": "Feedzai is AI. We’re coding the future of commerce with a leading platform powered by artificial intelligence and big data. Founded and developed by data scientists and aerospace engineers, Feedzai has one critical mission: make commerce safe. The world’s largest banks, payment providers and retailers use Feedzai’s machine learning technology to manage risks associated with banking and shopping, whether it’s in person, online or via mobile devices.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/feedzai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/feedzai/",
+      "path": "_companies/algolia.md",
+      "title": "Algolia",
+      "excerpt": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/algolia/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/algolia/",
       "type": "profile",
-      "name": "Feedzai",
-      "overview": "Feedzai is AI. We’re coding the future of commerce with a leading platform powered by artificial intelligence and big data. Founded and developed by data scientists and aerospace engineers, Feedzai has one critical mission: make commerce safe. The world’s largest banks, payment providers and retailers use Feedzai’s machine learning technology to manage risks associated with banking and shopping, whether it’s in person, online or via mobile devices.",
-      "website": "https://feedzai.com/",
+      "name": "Algolia",
+      "overview": "Our mission is to enable every developer and product team to build consumer-grade search for their users that is easy to implement, engaging, and high-performing. With Algolia, consumers are able to easily find and discover what they want across web, mobile, and voice.",
+      "website": "https://www.algolia.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/feedzai",
-        "followers": 19521
+        "url": "https://www.linkedin.com/company/algolia",
+        "followers": 12683
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/feedzai"
+        "url": "https://www.crunchbase.com/organization/algolia"
       },
       "twitter": {
-        "username": "feedzai",
-        "url": "https://twitter.com/feedzai",
-        "followers": 2739
+        "username": "algolia",
+        "url": "https://twitter.com/algolia",
+        "followers": 16738
       },
       "size": "201-500 employees",
-      "yearFounded": 2009,
+      "yearFounded": 2012,
       "locations": [
-        "San Mateo, CA"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
       "funding": {
         "status": "Late Stage Venture"
       },
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=vDsOQ58TrI0"
+        }
       ],
       "heat": 114,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/997213460776665088/KwaiDTTw_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1001802575505707009/iEEMVN5L_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Feedzai",
+          "title": "Algolia",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/grammarly.md",
+      "title": "Grammarly",
+      "excerpt": "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/grammarly/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/grammarly/",
+      "type": "profile",
+      "name": "Grammarly",
+      "overview": "Grammarly’s digital writing assistant helps more than 20 million people write more clearly and effectively every day. In building a product that scales across multiple platforms and devices, Grammarly works to empower users whenever and wherever they communicate.",
+      "website": "http://grammarly.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/grammarly",
+        "followers": 23828
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/grammarly"
+      },
+      "twitter": {
+        "username": "grammarly",
+        "url": "https://twitter.com/grammarly",
+        "followers": 193173
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=N8_AvBRhIGE"
+        }
+      ],
+      "heat": 114,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1145736912193196033/ytFWK30j_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Grammarly",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/navya.tech.md",
+      "title": "NAVYA",
+      "excerpt": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/navya.tech/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/navya.tech/",
+      "type": "profile",
+      "name": "NAVYA",
+      "overview": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
+      "website": "https://navya.tech",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/navya_group/",
+        "followers": 15758
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/navya-technology"
+      },
+      "twitter": {
+        "username": "NAVYA_Group",
+        "url": "https://twitter.com/NAVYA_Group",
+        "followers": 8810
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "VILLEURBANNE, Auvergne Rhône-Alpes"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Af45fT7nrBA"
+        }
+      ],
+      "heat": 114,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1281262142952521729/pVAmt4Ko_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "NAVYA",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/fetchrobotics.md",
+      "title": "Fetch Robotics",
+      "excerpt": "Headquartered in San Jose, CA, Fetch Robotics is the pioneer of On-Demand Automation — the only solution that deploys safe, reliable, and versatile Autonomous Mobile Robots (AMRs) for the warehousing and intralogistics markets in just hours. The result is demonstrable improvements in throughput, efficiency and productivity within both commercial and industrial environments — all while working alongside people.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fetchrobotics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/fetchrobotics/",
+      "type": "profile",
+      "name": "Fetch Robotics",
+      "overview": "Headquartered in San Jose, CA, Fetch Robotics is the pioneer of On-Demand Automation — the only solution that deploys safe, reliable, and versatile Autonomous Mobile Robots (AMRs) for the warehousing and intralogistics markets in just hours. The result is demonstrable improvements in throughput, efficiency and productivity within both commercial and industrial environments — all while working alongside people.",
+      "website": "http://fetchrobotics.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/fetch-robotics/",
+        "followers": 12155
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/fetch-robotics"
+      },
+      "twitter": {
+        "username": "fetchrobotics",
+        "url": "https://twitter.com/fetchrobotics",
+        "followers": 7365
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "San Jose, CA",
+        "San Jose, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/530610645922627585/yuttxu7l_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Fetch Robotics",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHiwjKZmD2YAA/company-logo_200_200/0?e=1594857600&v=beta&t=jHfH7EYkWdt4W-WkVPZINLzdX18h0pgH8aAEmxaXzL8",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFf4Lf05VenpQ/company-logo_200_200/0?e=1594857600&v=beta&t=Z3KYnqVA2iCUZf_xBP4sK2NWowBUlHt06P7TaPrIz7M",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1163,7 +1078,7 @@
       "twitter": {
         "username": "gong_io",
         "url": "https://twitter.com/gong_io",
-        "followers": 5986
+        "followers": 5987
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -1184,7 +1099,7 @@
           "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
         }
       ],
-      "heat": 114,
+      "heat": 110,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1278341256020545541/Ynk-PJtL_400x400.jpg",
@@ -1197,54 +1112,50 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/preferred-networks.jp.md",
-      "title": "Preferred Networks",
-      "excerpt": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/preferred-networks.jp/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/preferred-networks.jp/",
+      "path": "_companies/baidu.md",
+      "title": "Baidu",
+      "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/baidu/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/baidu/",
       "type": "profile",
-      "name": "Preferred Networks",
-      "overview": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
-      "website": "https://www.preferred-networks.jp/en/",
+      "name": "Baidu",
+      "overview": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
+      "website": "http://ai.baidu.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/preferred-networks-inc-/",
-        "followers": 1435
+        "url": "https://www.linkedin.com/company/baidu-inc/",
+        "followers": 209798
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/preferred-networks"
+        "url": "https://www.crunchbase.com/organization/baidu"
       },
       "twitter": {
-        "username": "preferrednet",
-        "url": "https://twitter.com/preferrednet",
-        "followers": 5504
+        "username": "BaiduResearch",
+        "url": "https://twitter.com/BaiduResearch",
+        "followers": 54348
       },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
+      "size": "10,001+ employees",
+      "yearFounded": 2000,
       "locations": [
-        "Tokyo, Japan",
-        "Chiyoda-ku, Tokyo"
+        "Beijing"
       ],
       "topics": [
         "AI",
-        "AI in Robotics",
-        "AI in Autos"
+        "Computer Vision"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=cldaGudHP3I"
-        }
+      "heat": 106,
+      "tags": [
+        "Autonomous Vehicles"
       ],
-      "heat": 114,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/938436175366209536/BdWf35Wt_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Preferred Networks",
+          "title": "Baidu",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1594857600&v=beta&t=rv-BLIGYTnAtAPcouS-hsXcM5b7Bb7dAYmS5MBR9p8Q",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1254,109 +1165,52 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/zoox.md",
-      "title": "Zoox",
-      "excerpt": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zoox/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/zoox/",
+      "path": "_companies/starship.xyz.md",
+      "title": "Starship Technologies",
+      "excerpt": "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/starship.xyz/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/starship.xyz/",
       "type": "profile",
-      "name": "Zoox",
-      "overview": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
-      "website": "https://zoox.com/",
+      "name": "Starship Technologies",
+      "overview": "Starship Technologies builds self-driving local delivery robots. We are disrupting a 2-trillion-dollar local deliveries industry.",
+      "website": "https://www.starship.xyz/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/zoox-inc/",
-        "followers": 34477
+        "url": "https://www.linkedin.com/company/starshiptechnologies/",
+        "followers": 7181
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zoox"
+        "url": "https://www.crunchbase.com/organization/starship-technologies"
       },
       "twitter": {
-        "username": "zoox",
-        "url": "https://twitter.com/zoox",
-        "followers": 17241
+        "username": "StarshipRobots",
+        "url": "https://twitter.com/StarshipRobots",
+        "followers": 10317
       },
-      "size": "1,001-5,000 employees",
+      "size": "201-500 employees",
       "yearFounded": 2014,
       "locations": [
-        "Foster City, CA",
-        "Foster City, California"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Autos",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Autos"
       ],
-      "heat": 114,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
+      "heat": 106,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1278198998164070400/cPxyXqbm_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1361342237032914947/TWWEcUbD_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Zoox",
+          "title": "Starship Technologies",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEgbqUNpxBKXA/company-logo_200_200/0?e=1594857600&v=beta&t=Qz3F_9WWnSE1yL6RemembLAt5DXfYKEVUdN7elFlHAw",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/fetchrobotics.md",
-      "title": "Fetch Robotics",
-      "excerpt": "Headquartered in San Jose, CA, Fetch Robotics is the pioneer of On-Demand Automation — the only solution that deploys safe, reliable, and versatile Autonomous Mobile Robots (AMRs) for the warehousing and intralogistics markets in just hours. The result is demonstrable improvements in throughput, efficiency and productivity within both commercial and industrial environments — all while working alongside people.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/fetchrobotics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/fetchrobotics/",
-      "type": "profile",
-      "name": "Fetch Robotics",
-      "overview": "Headquartered in San Jose, CA, Fetch Robotics is the pioneer of On-Demand Automation — the only solution that deploys safe, reliable, and versatile Autonomous Mobile Robots (AMRs) for the warehousing and intralogistics markets in just hours. The result is demonstrable improvements in throughput, efficiency and productivity within both commercial and industrial environments — all while working alongside people.",
-      "website": "http://fetchrobotics.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/fetch-robotics/",
-        "followers": 12155
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fetch-robotics"
-      },
-      "twitter": {
-        "username": "fetchrobotics",
-        "url": "https://twitter.com/fetchrobotics",
-        "followers": 7363
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "San Jose, CA",
-        "San Jose, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/530610645922627585/yuttxu7l_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Fetch Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFf4Lf05VenpQ/company-logo_200_200/0?e=1594857600&v=beta&t=Z3KYnqVA2iCUZf_xBP4sK2NWowBUlHt06P7TaPrIz7M",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGMNJJGnygaVw/company-logo_200_200/0?e=1594857600&v=beta&t=7BXWvzxajwGYusLrhXJnBwisK8JNKlwAsnakP8ngDr0",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1425,109 +1279,55 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/navya.tech.md",
-      "title": "NAVYA",
-      "excerpt": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/navya.tech/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/navya.tech/",
+      "path": "_companies/rethinkrobotics.md",
+      "title": "Rethink Robotics",
+      "excerpt": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rethinkrobotics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/rethinkrobotics/",
       "type": "profile",
-      "name": "NAVYA",
-      "overview": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
-      "website": "https://navya.tech",
+      "name": "Rethink Robotics",
+      "overview": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "website": "https://www.rethinkrobotics.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/navya_group/",
-        "followers": 15758
+        "url": "https://www.linkedin.com/company/rethink-robotics/",
+        "followers": 17933
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/navya-technology"
+        "url": "https://www.crunchbase.com/organization/rethink-robotics"
       },
       "twitter": {
-        "username": "NAVYA_Group",
-        "url": "https://twitter.com/NAVYA_Group",
-        "followers": 8811
+        "username": "RethinkRobotics",
+        "url": "https://twitter.com/RethinkRobotics",
+        "followers": 31307
       },
-      "size": "201-500 employees",
-      "yearFounded": 2014,
+      "size": "11-50 employees",
+      "yearFounded": 2018,
       "locations": [
-        "VILLEURBANNE, Auvergne Rhône-Alpes"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Af45fT7nrBA"
-        }
-      ],
-      "heat": 102,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1281262142952521729/pVAmt4Ko_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "NAVYA",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/nuro.ai.md",
-      "title": "Nuro",
-      "excerpt": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/nuro.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/nuro.ai/",
-      "type": "profile",
-      "name": "Nuro",
-      "overview": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-      "website": "https://nuro.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/nuro-inc./",
-        "followers": 14545
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/nuro-2"
-      },
-      "twitter": {
-        "username": "nurobots",
-        "url": "https://www.twitter.com/nurobots",
-        "followers": 3740
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Mountain View, CA"
+        "Bochum, Germany"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Robotics"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=XKXbacNQGI8"
+          "url": "https://www.youtube.com/watch?v=DSy-NXSldz0"
         }
       ],
       "heat": 102,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1229514752763650048/0Zx0XHTR_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1184131997708488704/OS_GZKiw_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Nuro",
+          "title": "Rethink Robotics",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGDfXIKeQnw_g/company-logo_200_200/0?e=1594857600&v=beta&t=dK_2lwjgeDcNJ0MjuT9b9_9-2sOEatkl0GxfTMA52SI",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1537,55 +1337,175 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/affectiva.md",
-      "title": "Affectiva",
-      "excerpt": "Affectiva, an MIT Media Lab spin-off, is the pioneer in Emotion AI, the next frontier of artificial intelligence. Affectiva’s mission is to bring emotional intelligence to the digital world with our emotion recognition technology that senses and analyzes facial expressions and emotion. Our patented software is built on an emotion AI science platform that uses computer vision, deep learning and the world’s largest emotion data repository of more than 4.9 million faces analyzed from 75 countries, amounting to more than 50 billion emotion data points.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/affectiva/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/affectiva/",
+      "path": "_companies/verkada.md",
+      "title": "Verkada",
+      "excerpt": "Verkada builds security cameras and software that detects action, identifies danger, and helps organizations keep people safe and secure.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/verkada/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/verkada/",
       "type": "profile",
-      "name": "Affectiva",
-      "overview": "Affectiva, an MIT Media Lab spin-off, is the pioneer in Emotion AI, the next frontier of artificial intelligence. Affectiva’s mission is to bring emotional intelligence to the digital world with our emotion recognition technology that senses and analyzes facial expressions and emotion. Our patented software is built on an emotion AI science platform that uses computer vision, deep learning and the world’s largest emotion data repository of more than 4.9 million faces analyzed from 75 countries, amounting to more than 50 billion emotion data points.",
-      "website": "https://www.affectiva.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/722122",
-        "followers": 17739
-      },
+      "name": "Verkada",
+      "overview": "Verkada builds security cameras and software that detects action, identifies danger, and helps organizations keep people safe and secure.",
+      "website": "https://www.verkada.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/affectiva"
+        "url": "https://www.crunchbase.com/organization/verkada"
       },
       "twitter": {
-        "username": "affectiva",
-        "url": "https://twitter.com/affectiva",
-        "followers": 11403
+        "username": "VerkadaHQ",
+        "url": "https://twitter.com/VerkadaHQ",
+        "followers": 920
       },
-      "size": "51-200 employees",
-      "yearFounded": 2009,
+      "yearFounded": 0,
       "locations": [
-        "Boston, MA",
-        "Boston, Massachusetts"
+        "San Mateo, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/910630995350609920/QfH__s7U_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Verkada",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/deepl.md",
+      "title": "DeepL",
+      "excerpt": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/deepl/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/deepl/",
+      "type": "profile",
+      "name": "DeepL",
+      "overview": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
+      "website": "http://www.deepl.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/linguee"
+      },
+      "twitter": {
+        "username": "deeplcom",
+        "url": "https://twitter.com/deeplcom",
+        "followers": 9421
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Cologne, Germany"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Healthcare"
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
+        }
+      ],
+      "heat": 98,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/960519710809972736/NJWxM0QH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "DeepL",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/zscaler.md",
+      "title": "Zscaler",
+      "excerpt": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/zscaler/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/zscaler/",
+      "type": "profile",
+      "name": "Zscaler",
+      "overview": "Secure, simplify, and transform IT with the world's largest cloud security platform. Join us at #ZenithLive: https://t.co/BABEthjTgO 🚀",
+      "website": "https://www.zscaler.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/zscaler"
+      },
+      "twitter": {
+        "username": "zscaler",
+        "url": "https://twitter.com/zscaler",
+        "followers": 9969
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
       ],
       "heat": 98,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1280148929808646144/rFMnY8_q_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/926547845867454465/yHExar4j_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Affectiva",
+          "title": "Zscaler",
           "isCached": true
-        },
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/argo.ai.md",
+      "title": "Argo AI",
+      "excerpt": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/argo.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/argo.ai/",
+      "type": "profile",
+      "name": "Argo AI",
+      "overview": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
+      "website": "https://argo.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/argo-ai/",
+        "followers": 23051
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/argo-ai"
+      },
+      "twitter": {
+        "username": "argoai",
+        "url": "https://twitter.com/argoai",
+        "followers": 4866
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Pittsburgh, PA",
+        "Pittsburgh, Pennsylvania"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 93,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHdgG2Rpte8yg/company-logo_200_200/0?e=1594857600&v=beta&t=ltljFWKLor6yxVPpeeyIWSkDtHiamTxXwAvV9QrJYFE",
+          "url": "https://pbs.twimg.com/profile_images/1344320855015378944/RzI2FvL8_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "logo",
-          "isCached": false
+          "title": "Argo AI",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1630,7 +1550,7 @@
           "url": "https://www.youtube.com/watch?v=Gh-Tff7DdzU"
         }
       ],
-      "heat": 98,
+      "heat": 93,
       "tags": [
         "Europe"
       ],
@@ -1672,7 +1592,7 @@
       "twitter": {
         "username": "qctrlHQ",
         "url": "https://twitter.com/qctrlHQ",
-        "followers": 2850
+        "followers": 2852
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1691,7 +1611,7 @@
           "url": "https://www.youtube.com/watch?v=Ez300fBAfY8"
         }
       ],
-      "heat": 98,
+      "heat": 93,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1067192828151754753/pJVi1G-6_400x400.jpg",
