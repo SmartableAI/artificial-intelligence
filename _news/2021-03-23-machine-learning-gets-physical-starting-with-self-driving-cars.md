@@ -42,6 +42,20 @@ related:
         width: 1199
         height: 837
         isCached: true
+  - title: "Self Driving Car Insurance: What You Need To Know"
+    excerpt: "Just like previous generations of cars, this new generation of vehicles comes with questions. The big question pertains to self-driving car insurance and how it will work."
+    publishedDateTime: 2021-03-26T16:48:00Z
+    webUrl: "https://www.caranddriver.com/car-insurance/a35950852/self-driving-car-insurance/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 39
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-vehicles-stand-outside-of-a-brooklyn-showroom-and-news-photo-1616776857.?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Chipotle Invests in Self-Driving Cars"
     excerpt: "In February 2020, Nuro was the first to obtain a U.S. Department of Transportation exemption, and in April 2020, it became the second self-driving car company to receive a driverless testing permit in California. In October, Nuro started testing its ..."
     publishedDateTime: 2021-03-25T14:05:00Z

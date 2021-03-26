@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/23/22344938/kevin-roose
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/23/22344938/kevin-roose-robotic-automation-future-rpa"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1400
     height: 933
     isCached: true
+
+related:
+  - title: "When Robots are Unsafe"
+    excerpt: "Industrial robots are used to separate workers from dangerous tasks—but what do we do when robots are the problem? Here, Claudia Jarret, US country manager at EU Automation, explains why a culture shift is needed if manufacturers are to guarantee safety in their robots."
+    publishedDateTime: 2021-03-26T17:51:00Z
+    webUrl: "https://www.automation.com/en-us/articles/march-2021/when-robots-are-unsafe"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 39
+    images:
+      - url: "https://www.automation.com/getmedia/5a4824e3-8ec6-439a-909a-915f6cb8a2af/EU-Automation-robots-feature-March-26-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "ipmmIDcRTYj41Z27t+4leOIUncmXPl0UaM6nO0yjdE/6xZG9tAmqk6XHKWloXtPseMnEZHuLBwjPOm3iQvaqj041Cv1A1mIdK9VDRh++/YGOj2eSrs6+uEF0GI8kwmUPWB+FAIssUOZk80Gksw33H2uj3/yVYiOx/E34T/OkzOYnso2yLdb8ft4wHfO1fiJKwaYsZPXm1L1mU/ZM6Iym9HqKheVKgr2/6FfZZvEazPXkaPin8qlkF9FvZNdl0a/Jv2nPbaCRFF4oeauWNiMlRpQD2erb9QbvakmV52YEGs7sLv8YxD9/0PIVoi69RaAiQYky5lB5Vt0EoT1bn6ELVVVFojLI8LLC70uZcu/FNUlHn+7uzIEaDcYJzDMpJqwHDZqpXCXlBTX9sTJ3tsG8KTJ0vdppBMGW5WgxGdvUFCDfn/CLPlwkK2Er7a53UeWKQuBxsjBDvj1jjJ6mQtk5pJohoBIVj0Hywr0o4oNqA2DbXrHhIQZM1l5hPD1JesnjN1229YV+zJrcYl2dEVRw4Q==;sZApu06oz7NpAFargWrZcw=="
 ---

@@ -172,15 +172,20 @@ related:
         width: 2048
         height: 1461
         isCached: true
-  - title: "SF Express Selects Self-Driving Truck Company Plus for Chinas First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+  - title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
     excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
-    publishedDateTime: 2021-03-25T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks/"
+    publishedDateTime: 2021-03-25T13:01:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_248f1a3f-69be-5714-b053-cfd8c5293b5e.html"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 0
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/7c/d7c1349c-db0d-5974-95fb-42f98f8c374f/605c89c1b0efa.image.jpg?resize=943%2C630"
+        width: 943
+        height: 630
+        isCached: true
 
 secured: "JLAgyK4/V9gcl5obsjpNaQ/+Yb8agnZe3hoeCcfZL2mMwQdYgh7rAcXTkDtIOplXh3LGwWWT3V1ISXFLJPY/V1lsTXWqDxQFem6467Wg0oq51sSbIoafvjR0OT+lLeJxwsZfJ8ZLFLN6Fed7M04oV0dSqI0adKKS0SAHxH6BeyeQq/UG2MPCxLKG9CcFrzX3yocbeX/F3KbugL0AsATncmiTtvqiOHEUGUwCzRFOy8YD4y58TkdM5Gs/7e5YNe2W8p87vFADKs391/9s9jTg63scp/+zAe92MQewiuCoM+B6RCldVs9ZCsA5/vC3AgYuU11fCWDNX+CrwRzkhegg2oJ7y6Un2lkyOdHRWj9yxnE=;NWF2z99oP6mnASLyj51Qnw=="
 ---

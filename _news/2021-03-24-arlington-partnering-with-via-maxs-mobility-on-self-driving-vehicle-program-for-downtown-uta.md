@@ -168,15 +168,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "SF Express Selects Self-Driving Truck Company Plus for Chinas First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+  - title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
     excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
-    publishedDateTime: 2021-03-25T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks/"
+    publishedDateTime: 2021-03-25T13:01:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_248f1a3f-69be-5714-b053-cfd8c5293b5e.html"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 0
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/7c/d7c1349c-db0d-5974-95fb-42f98f8c374f/605c89c1b0efa.image.jpg?resize=943%2C630"
+        width: 943
+        height: 630
+        isCached: true
 
 secured: "WF1XC8/boXVQq+9Je2WWBgZJnzwV4mhTEzBGPY1czk/w4VwEm2SX6YQFi0jshSq58l14KuU/zFJG+GyD6Diy3VKQ3rxQz+oPwguwGfQg1WFzPRulMWWO3oKynV5y/jHMTF7orcklDAZ4zV2IR/NaEaQXTTrhfxn2Kwl6Kafr0yQMId3ET5Cdfs3AOPsc3fpd5JPyAaPorBLIL9c7CJTlvLENAJoG48N3yGNPFVUpIToibQw1SiheGAoNDDOiUyORRQlyzTauDnUg/1fsT9LN2WqJTT2u5hOtbT3wn364Uuml0l134W03Yp3KI4Z9qMlDCzeWyfI4UmIuy6CGbPyw2QXp1ii8VW49nxyoH2FPm/SMA8pN4sFJ8jGxLXX3qrHJRHW4Tmshd73Ly3WNjZFTRn9pvWEVQUwinhc4K+iy1uNnhpJg1ynobuYiX++zLs4NxzWC83CtW84nZoucvJZJrwZVBEET7WAZooF0AYi3okV2S45uwnTDEtgSigEN5XVxUhp/9iegGJeYXFT1afU6cw==;rdOLx+SOWkjbNBnAxUwg6g=="
 ---

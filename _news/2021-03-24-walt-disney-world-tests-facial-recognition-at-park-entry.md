@@ -188,9 +188,9 @@ related:
         height: 584
         isCached: true
   - title: "Disney testing facial recognition technology for entry to Magic Kingdom in Walt Disney World"
-    excerpt: "Disney's Magic Kingdom theme park in Orlando is testing out facial recognition technology that converts a guest's face into a unique number ID that's linked to their admission ticket. On its ..."
-    publishedDateTime: 2021-03-25T16:18:00Z
-    webUrl: "https://abc7.com/travel/disney-testing-facial-recognition-technology-for-entry-to-walt-disney-world/10447573/"
+    excerpt: "It's a new way to walk into Disney World -- not with a ticket, but by showing your face. Disney's Magic Kingdom theme park in Orlando is testing out facial recognition technology that converts a guest's face into a unique number ID that's linked to their admission ticket."
+    publishedDateTime: 2021-03-25T16:19:00Z
+    webUrl: "https://abc7.com/disney-parks-walt-world-facial-technology/10447573/"
     ampWebUrl: "https://abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
     cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
     type: article

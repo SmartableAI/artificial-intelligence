@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Disney testing facial recognition technology for entry to Magic Kingdom in Walt Disney World"
-excerpt: "Disney's Magic Kingdom theme park in Orlando is testing out facial recognition technology that converts a guest's face into a unique number ID that's linked to their admission ticket. On its ..."
-publishedDateTime: 2021-03-25T16:18:00Z
-originalUrl: "https://abc7.com/travel/disney-testing-facial-recognition-technology-for-entry-to-walt-disney-world/10447573/"
-webUrl: "https://abc7.com/travel/disney-testing-facial-recognition-technology-for-entry-to-walt-disney-world/10447573/"
+excerpt: "It's a new way to walk into Disney World -- not with a ticket, but by showing your face. Disney's Magic Kingdom theme park in Orlando is testing out facial recognition technology that converts a guest's face into a unique number ID that's linked to their admission ticket."
+publishedDateTime: 2021-03-25T16:19:00Z
+originalUrl: "https://abc7.com/disney-parks-walt-world-facial-technology/10447573/"
+webUrl: "https://abc7.com/disney-parks-walt-world-facial-technology/10447573/"
 ampWebUrl: "https://abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
 cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
 type: article
@@ -355,6 +355,6 @@ related:
         height: 675
         isCached: true
 
-secured: "SbTatXM4Uvk59OkTK993Pvs739iRQWtTda1hlsNzgao4Xy5bZCxp0lNAFu5xMa0Qskmt59DZjEKcopQEg7egr8WaeSKtHT1X/4IruowFVDFqW6KZNqnQeHP5mceN9RWktcUWWyOmgRPeOldns64IszX9ocuubP0dJEzpBnUPz9dF/BrrfEB5rG/5NX/MT6aMy/TIDvvfIh3XDGNmh46qjg81ehcCR7AmBFxnB49CY+opoWjbC9jQxTqmOrZckOVYK3ZR0zAT8CHV/M4G9qHo0ZXxTBafr+tcit5UTQGiy1dz82RG/fvMTSkltMovGw/ZThch+OWyJ8fz3RBxMGGUqzjkLFkKitvq8FHjtk6Vj8I=;QirIvMpr4IMZD1MkL4Hyjw=="
+secured: "f2roan4aa1LzsYYALYpx31IWdMhBlFo3ozO8MEc9gd23w6mrqPjkC+IoMr0CJ7OtB69kjt+3MjjL48x0cJ/3vMGniuA44WlrWQcTXl0HYkJrMy1yiuaYx74Sy5OO2WpI5FVzkkB1Sxfh9xl2miDBltklgijU1LquWEDSBmIQOq4YnGZMH8jAbeQRpgnoyhyrwn6Jfx6KEJJeor5lLcqzD9yXeqtYfe1YZqTNLJxYpb/e/6v4+NztfvVhrKy45ggFplAdAw65cSzL7OyZQOrS9QGu1he7cMxHpcYF7QoM6qokHERAkDp6aM0xNfhcimZ0XNt5os0Y+f+0QktYStL8CRHj15P81OP+mr7BTPuaKRg=;IVqfF/0nbtAi90mW8L9ECw=="
 ---
 

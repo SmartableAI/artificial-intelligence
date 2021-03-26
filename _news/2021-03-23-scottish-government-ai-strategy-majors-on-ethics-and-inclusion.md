@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/news/252498284/Scottish-government-AI
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252498284/Scottish-government-AI-strategy-majors-on-ethics-and-inclusion?amp=1"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Computer Weekly
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Scotland launches AI strategy with a focus on ethics and inclusion"
+    excerpt: "The Scottish government has set out plans to focus on ethics and inclusion in its use of artificial intelligence (AI) within the public sector, publishing an AI strategy that maps out a set of new bodies and governance structures."
+    publishedDateTime: 2021-03-26T19:02:00Z
+    webUrl: "https://www.globalgovernmentforum.com/scotland-launches-ai-strategy-focus-ethics-and-inclusion/"
+    type: article
+    provider:
+      name: globalgovernmentforum.com
+      domain: globalgovernmentforum.com
+    quality: 54
+    images:
+      - url: "https://www.globalgovernmentforum.com/wp-content/uploads/37407189716_83392ff039_k-620x414.jpg"
+        width: 620
+        height: 414
+        isCached: true
   - title: "Trust and ethics placed at heart of Scotland's artificial intelligence strategy"
     excerpt: "The strategy will lead to the creation of an ‘AI Playbook’, which will be a practical guide to how AI is done in"
     publishedDateTime: 2021-03-24T17:23:00Z

@@ -19,20 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Pandemic changes facial recognition debate"
-    excerpt: "BOSTON — With masks a mandatory accessory to everyday life, the controversial use of facial recognition by law enforcement to find potential crime suspects has only heightened concerns and triggered further scrutiny due to advancements in artificial ..."
-    publishedDateTime: 2021-03-23T13:32:00Z
-    webUrl: "https://www.gazettenet.com/Facial-recognition-technology-39468489"
+  - title: "Philly airport screening international travelers using facial recognition technology"
+    excerpt: "The Simplified Arrival system has processed 66 million people at other U.S. airports, flagging more than 500 imposters"
+    publishedDateTime: 2021-03-26T18:49:00Z
+    webUrl: "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/"
+    ampWebUrl: "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/"
+    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/"
     type: article
     provider:
-      name: Daily Hampshire Gazette
-      domain: gazettenet.com
-    quality: 39
-    images:
-      - url: "http://www.gazettenet.com/getattachment/dd7adba1-03ee-4e91-adec-d0f40b428c0e/2bd9f5e8387a478380fd30922cda7d19.jpg"
-        width: 499
-        height: 325
-        isCached: true
+      name: PhillyVoice
+      domain: phillyvoice.com
+    quality: 47
 
 secured: "dwmtYruib8cVEvroTmV0LS+lhz3TuYtryEJ4mEQQZXMtIHorG2HfZaxA23BKXv3V1Zn8A/F7buFVtPDg63NoSSZu3e6o8itUSmYOTGegOF164qjC5MDsVG0jxUkKJwFoteYBbfvAsyTBdJvGNSTLLwYREpoqmHM0B5/yF9plKTcnHPNT6wAyU+NEb5bFbj+QmsYZn5DQiu8X/hwMD9NWr3mciPksZJqRuIYmo2Ycn9E8xfcRvRvLGELZYRkqssgtglbEVQVZAucWP7GSRcfnGbb8JRQ2RaaNw0FLTe4Xzgfi6yT2sx/DhdskLongjm8HdJ8OBz+oALVoIOQaYWaT8UTQyj4WIVuzgw4pspH74S0=;5nnUeNJpRDrxrQe4jRNLHA=="
 ---

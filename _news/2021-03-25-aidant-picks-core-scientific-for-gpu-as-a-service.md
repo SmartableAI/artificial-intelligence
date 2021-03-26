@@ -1,13 +1,13 @@
 ---
 category: news
 title: "AiDANT Picks Core Scientific for GPU-as-a-Service"
-excerpt: "BELLEVUE, Wash., March 25, 2021 – Core Scientific, an infrastructure and software solutions provider for artificial intelligence and blockchain, announced it will provide AiDANT, an AI computer vision technology company, full access to high performance NVIDIA RTX servers in an as-a-service model. AiDANT leverages deep learning to notify users when a certain condition is met […]"
-publishedDateTime: 2021-03-25T16:40:00Z
-originalUrl: "https://insidehpc.com/tag/gpu-as-a-service/"
-webUrl: "https://insidehpc.com/tag/gpu-as-a-service/"
+excerpt: "Core Scientific, an infrastructure and software solutions provider for artificial intelligence and blockchain, announced it will provide AiDANT, an AI computer vision technology company, full access to high performance NVIDIA RTX servers in an as-a-service model."
+publishedDateTime: 2021-03-25T15:07:00Z
+originalUrl: "https://insidehpc.com/2021/03/aidant-picks-core-scientific-for-gpu-as-a-service/"
+webUrl: "https://insidehpc.com/2021/03/aidant-picks-core-scientific-for-gpu-as-a-service/"
 type: article
-quality: 54
-heat: 64
+quality: 34
+heat: -1
 published: false
 
 provider:
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://insidehpc.com/wp-content/uploads/2020/03/IHPC-Panasas_Storage2020-03-12_16-36-00.jpg"
-    width: 273
-    height: 354
-    isCached: true
 
 related:
   - title: "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
@@ -39,7 +33,23 @@ related:
         width: 648
         height: 360
         isCached: true
+  - title: "Dahua releases a new update to their Intelligent Video Surveillance Server to provide accurate AI functions"
+    excerpt: "As the saying goes, ‘There is always room for improvement.’ This year, Dahua Technology, a video-centric smart IoT solution and service provider, is once again utilising"
+    publishedDateTime: 2021-03-24T10:14:00Z
+    webUrl: "https://www.sourcesecurity.com/news/dahua-releases-update-intelligent-video-surveillance-co-4261-ga-npr.1616578853.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-releases-update-intelligent-video-surveillance-co-4261-ga-npr.1616578853.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-releases-update-intelligent-video-surveillance-co-4261-ga-npr.1616578853.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 41
+    images:
+      - url: "https://www.sourcesecurity.com/img/news/612/dahua-global-virtual-innovation-centre-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
 
-secured: "/1dx8VwGaZz6kt3CUw8/X2eMJhs93pMbWnEqEnm0zXrwrY3P+F47CS+x6xiTjdga5KUFzdK7wmXiLkk6dGhOHmFDOPZqUuzpfM7xUtdOVd01BiEEkjqb2crd4nf7Srg7dCvxukekhkTpvMWKMiRlqDDIx0ADKVjg54xOEP1+L8R7j91YslqWYLtqF8WzHX1xBxL5tq0eOAi1O42u3tWRysnNqF/40dG2K1tX9BEH8yTleTdMpQnFieiQ4LWuwYRfOFY3F41JhgtYGHxPn0vB/d3JwiCSjb6Cw3zWaF3sF4qA4YTfL4mt1xKq8/6t2syR6H3wWnAxNslcNBwI0lbTCc6cySQOYQj3vj+qzlDO5Bo=;MQZbO0yNjPmmAoxtUvleBg=="
+secured: "YePx8qDRnM/IExRxoga9ZZsgNAhVFKnW6AvPziTc/3YHP8xee94FfinEucVCZqLJ+gfRg88ujrgl53Ta6FGcTk5U64ro120e2CnujI8xKSH6PuSGOyOJvfH8tQGzcGVjPlA2V6dvYZVcdkKQj6rCcXhu1GQDD4Opig5gcmsd4A8cNzHga/9Esu8hftWWG7xuKTs4RIeWYX8rcQGmPPeAeXis8ZZahem35sJRZN0yNEOol6uFCxAGoM1qiXldMCiM7bCo3pIxANMAmcOLPrV/yj3qMamf2mYUGmeITUMywhHRc0rvS2BfVQsNc8QnDBc05WHXWHQezmB9gGgMAYwhqBkG2M6ydnF7ltlQdwzY62U=;zQDvsvkPu6u5cO7N4dFs5Q=="
 ---
 

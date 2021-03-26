@@ -1,22 +1,28 @@
 ---
 category: news
-title: "SF Express Selects Self-Driving Truck Company Plus for Chinas First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
 excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
-publishedDateTime: 2021-03-25T13:00:00Z
-originalUrl: "https://www.financialbuzz.com/sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks/"
-webUrl: "https://www.financialbuzz.com/sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks/"
+publishedDateTime: 2021-03-25T13:01:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_248f1a3f-69be-5714-b053-cfd8c5293b5e.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_248f1a3f-69be-5714-b053-cfd8c5293b5e.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/7c/d7c1349c-db0d-5974-95fb-42f98f8c374f/605c89c1b0efa.image.jpg?resize=943%2C630"
+    width: 943
+    height: 630
+    isCached: true
 
 related:
   - title: "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser"
@@ -177,6 +183,6 @@ related:
         height: 1461
         isCached: true
 
-secured: "EIQ+WSwSyArY78iQ8NItz6kh/u87/Qg7u4CE81Ts59SWkgR62Loz1EpZQBi8KCiIIxAMtj9AXdMVR/bij6qgEakJUo6hCQive8Yb9LXIsYeRwJS7FcK7xSy1I85EN/h78uyRxyeA4eItzJyCNU8Sqi2uLZQee1OKbVxrJiWmc3FUyH6dFN0TV4R6+NTVEJ1qi/4Q9E49Nhi39h8gktYTwWJ0KGvucmtWKxUKZOOEfEiVKdQ+ZDoK0kIzYXkFJ9Pp2ifqSJBYyU6Ix6w8Dc2qH11w4Kcvom9QB/rYk747+GKmlU5eil4CLmXPX8Mx9N5SfIIDTwhEmXW7+OTOG/CwbD8uSrH1MZggyAyS56Ht+H4NMUoypH/QOO5cnx174LWJ1Lo9Gpq8FG9GvCwwvLK9D/cI5gwE9rcH0meyT8WpuQRdCyIWcv5a+i+7JnvgBuBbN3Kch2EKKMGBLQT3SR8RTQjCkvSHFaWh7qnCqmfDIMbccg9/IHfsTY5Dcd2t833YwjU30t2ibJ6GCTviygmuiA==;9QQULFZYgxqdeSQ9BI5KWw=="
+secured: "Z8Cw/9fx7g4DUc7uf5rc5SjjPwnF+N4JWuNqZKrUFWAfhUgnUSIIYPU9488Z5uBsg3MQL9O8HD4UIoSES8dh4+R3MFCmH2PNn+9p35IInYz+1bI9d5FIknYDwoOCd4nxeWCNYUds4hfYFrd3C2RTvxx2vOANfF1c74N+FpbTAA8PKwD52xn8hVQGjmbpPmpdzA3RSn7TxXrJih8SBkHGdC8vfj9PlHbKPTxhwJ++QeXbv1zuXzFxlVzdAh4imvu05z6EIT8OMfkuvAATZa35pTa+w2+dT5bVEEgvaz4GqXiH9Nox9j7pVTg8QWJ8zGn1DU3KR3MEkxhn2a1Ubb9Q1rRUWHTFbVWUbIqy3s5NvO8=;Jf6EQPBhc85fZsxT8LsUaw=="
 ---
 

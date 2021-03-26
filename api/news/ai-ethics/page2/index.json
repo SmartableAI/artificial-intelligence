@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-08-ethics-by-design-salesforces-approach-for-positive-ai-and-product-development.md",
+      "title": "Ethics by Design: Salesforce's approach for positive AI and product development",
+      "excerpt": "Paula Goldman, Chief Ethical and Humane Use Officer for Salesforce, talks with ZDNet about how companies can develop technology, specifically AI, with ethical use and privacy in mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/ethics-by-design-salesforces-approach-for-positive-ai-and-product-development/",
+      "originalUrl": "https://www.zdnet.com/video/ethics-by-design-salesforces-approach-for-positive-ai-and-product-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/03/06/28c1630a-e889-4479-85f5-a59ef81dd7a3/thumbnail/770x578/19da9fcdb681973da5d39cc507cb6708/20210305-goldman-bill.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-07T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-ai-ethics-how-salesforce-is-helping-developers-build-products-with-ethical-use-and-privacy-in-mind.md",
       "title": "AI ethics: How Salesforce is helping developers build products with ethical use and privacy in mind",
       "excerpt": "Salesforce's Ethics by Design program is designed to put ethics and privacy at the center how technology, specifically AI, is developed and used.",
@@ -1420,58 +1472,6 @@
         "name": "Channel NewsAsia Singapore",
         "domain": "channelnewsasia.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-has-fired-another-ai-ethics-leader.md",
-      "title": "Google has fired another AI ethics leader",
-      "excerpt": "In December, Google pushed out AI ethics researcher Timnit Gebru, sparking a response from the team calling for her to be reinstated at a higher level. Instead of doing that, Google announced Dr ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/margaret-mitchell-google-ai-233309349.html",
-      "originalUrl": "https://www.engadget.com/margaret-mitchell-google-ai-233309349.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/naX1T3yFSQkJPMhj1CchlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMzM0/https://s.yimg.com/os/creatr-images/2020-03/3eb8aac0-66cd-11ea-affd-8698022e16d8",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/margaret-mitchell-google-ai-233309349.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/margaret-mitchell-google-ai-233309349.html",
-      "publishedDateTime": "2021-02-19T16:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

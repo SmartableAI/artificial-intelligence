@@ -39,6 +39,20 @@ related:
         width: 650
         height: 350
         isCached: true
+  - title: "ID R&D face biometrics and passive liveness support ambitious Latin American payments startup"
+    excerpt: "ID R&D biometric software was chosen by Payface to meet its demands for speed, user convenience, and security of payment information and users biometric data."
+    publishedDateTime: 2021-03-26T19:05:00Z
+    webUrl: "https://www.biometricupdate.com/202103/id-rd-face-biometrics-and-passive-liveness-support-ambitious-latin-american-payments-startup"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 13
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/25172351/ID-RD-SDK-for-on-device-passive-biometric-liveness-Payface-scaled.jpg"
+        width: 2048
+        height: 1536
+        isCached: true
 
 secured: "3dt21I0dH8KKUbm901gC/yMYWdcx0Xxt8yWJBP3SKcaGzbQ4nTzEtY58xXZW5nKdkHfZKDI9KpZ7sJ0HKTsh+dm1hY6o9GSdn8lg3EwfuxU0/CadqePXW05ACZXJSKVdNq4GekOk1nUXJwOYG4HkmMTyjG3NR0gq8/C8NqKLOraZx5m23eIOGtkbHotlPvi8UzKNRCnL+w+STfIflGDCHq+5QtZV+1YKMj1JPYv41KOljeyp1j/DtKjb/G3aFvvClkCYe4SIwurBjcStIHCojgEmMPs//6NB8Vc/gaWnrp3eZXELBlmBougRLg5jC/9kwjcQej0QE+aVwpzlnTo+r6mEJEtLmYS80tLp0hvHjvTYJAccu5dUFTE5zT+wUXB/mFVzR69HOWGaQ5ZSXF3S3ULCWxdU61Yoam3LkIdB/2esEeRlAATq+penuBYz7eijVxlWaSDm7ip1e3LsBmMSgKPBycSWCJMr7OX4NH8r4IA1zNxaGjs5820RaGQC0nSjrXFbAsKRzvmUVOhA53G9wg==;jEm3QNlPkUATGqWoaL7RBw=="
 ---
