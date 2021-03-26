@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "How Human AI and Machine Learning Technologies Are Leading the Fight Against Money Laundering and Financial Crime in 2021 and Beyond"
+    excerpt: "The COVID-19 pandemic has exposed widespread vulnerabilities as compliance teams seek to manage remote employees spread across the world; regulators and governments are tightening restrictions; and technology is advancing at breakneck speed in a bid to keep pace with the increasingly sophisticated methods being used by financial criminals."
+    publishedDateTime: 2021-03-25T11:29:00Z
+    webUrl: "https://internationalbanker.com/technology/how-human-ai-and-machine-learning-technologies-are-leading-the-fight-against-money-laundering-and-financial-crime-in-2021-and-beyond/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 23
+    images:
+      - url: "https://internationalbanker.com/wp-content/uploads/2021/03/Human-AI.png"
+        width: 1081
+        height: 650
+        isCached: true
 
 secured: "+LP/iFu53YDJ5bIIHdAl0E38ZCFbvmsEiTy9Obiv/mKCyWAG3E+scenuxB6YGp3abjgtjaZXdbNi09X0DZrdXtUl0g3iDEIV/9r93Lj0MQB7NzXUL+Sk7pW3aYE0fkczoRyu0sLXINBVVhFMu6hscPRrDCZOIyo7Up1r9uUD8az+zK4rmAwDnVb2Vy7n0Iar6mha6FY5NlH8ZC/zhLXO5AaI9wi+Xu7AadBzGcnCZLDtI+dxhaIrOdk3EkWuaA21hRKgMWNUGHI/M7tcMkNHfRwKA1yBkaP+i9O6qUqHYYp61X6B1681vEh06JTuK/p2WcNqcMJdvGA0n4KmY5rJYz2uyWrTEbRnaDFTKc1mBUI=;suQofTflUzoHxU3uvrKtFQ=="
 ---

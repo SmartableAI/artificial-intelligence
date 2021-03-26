@@ -59,20 +59,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Five ways AI can democratise African healthcare"
-    excerpt: "Although the potential for artificial intelligence to transform healthcare in lower income countries has been much hyped, the technology is proving genuinely useful in helping Africa overcome difficulties in tackling diseases."
-    publishedDateTime: 2021-03-22T04:00:00Z
-    webUrl: "https://www.ft.com/content/8649e35f-29d2-4da0-a1cd-7eece48b7152?via=indexdotco"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdbbb2c33-0140-454f-9d2e-2cc0955ecb41.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Artificial Intelligence Detects Medication Administration Errors"
     excerpt: "A new system uses artificial intelligence to detect errors in patients' medication self-administration methods."
     publishedDateTime: 2021-03-25T14:48:00Z

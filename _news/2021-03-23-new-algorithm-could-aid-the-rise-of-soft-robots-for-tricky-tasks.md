@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12109"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12109"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://scitechdaily.com/images/Soft-Bodied-Robotic-Elephant-777x518.jpg"
         width: 777
         height: 518
-        isCached: true
-  - title: "Researchers’ algorithm designs soft robots that sense"
-    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
-    publishedDateTime: 2021-03-22T04:11:00Z
-    webUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Sensor-Placement-01-press.jpg"
-        width: 1500
-        height: 1000
         isCached: true
   - title: "Algorithm designs soft robots that sense"
     excerpt: "There are some tasks that traditional robots — the rigid and metallic kind — simply aren’t cut out for. Soft-bodied robots, on the other hand, may be able"

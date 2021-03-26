@@ -9,7 +9,7 @@ ampWebUrl: "https://cheddar.com/media/how-3d-machine-learning-is-transforming-th
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-3d-machine-learning-is-transforming-the-healthcare-industry.amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "In 2021, Machine Learning Is Set To Transform These 5 Industries"
-    excerpt: "Machine learning is enabling industrial shifts for increased efficiency. In 2021, the following industries are predicted to adopt machine learning."
-    publishedDateTime: 2021-03-22T04:15:00Z
-    webUrl: "https://www.analyticsinsight.net/in-2021-machine-learning-is-set-to-transform-these-5-industries/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Machine-Learning-5.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "The 2021 Healthcare Industry: Digital Transformation Leads to New Growth Strategies for Stakeholders"
     excerpt: "The \"Developing Innovative ROI Streams and Patient-centric Virtual Care Approaches will Shape the Global Healthcare"
     publishedDateTime: 2021-03-26T13:08:00Z

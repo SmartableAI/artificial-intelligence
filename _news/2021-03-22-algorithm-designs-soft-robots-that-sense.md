@@ -59,20 +59,6 @@ related:
         width: 777
         height: 518
         isCached: true
-  - title: "Researchers’ algorithm designs soft robots that sense"
-    excerpt: "MIT researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to complete tasks as efficiently as possible."
-    publishedDateTime: 2021-03-22T04:11:00Z
-    webUrl: "https://news.mit.edu/2021/sensor-soft-robots-placement-0322"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Sensor-Placement-01-press.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Deep-learning algorithm designs soft robots with sensors"
     excerpt: "Creating soft robots has been a long-running challenge in robotics. Their rigid counterparts have a built-in advantage: a limited range of motion. Rigid robots' finite array of joints and limbs usually makes for manageable calculations by the algorithms that control mapping and motion planning."
     publishedDateTime: 2021-03-24T06:20:00Z

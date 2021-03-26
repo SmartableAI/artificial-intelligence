@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-26T18:09:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2021/03/210326085230.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/03/210326085230.htm"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "AI study on aggressive form of cancer could improve patient outcomes"

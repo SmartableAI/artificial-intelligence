@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "In 2021, Machine Learning Is Set To Transform These 5 Industries"
-    excerpt: "Machine learning is enabling industrial shifts for increased efficiency. In 2021, the following industries are predicted to adopt machine learning."
-    publishedDateTime: 2021-03-22T04:15:00Z
-    webUrl: "https://www.analyticsinsight.net/in-2021-machine-learning-is-set-to-transform-these-5-industries/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Machine-Learning-5.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "FUj9oNpz37W9a3lSfeEWutydQUqf3igcqQ4iptVedhCT/+/PsQ7aY22XGAGVPHddQREnAc2Q0SXaw8JBq1+nsG595pmheXMm4zdGbeOjdAP2TghJ6IomaJLswckxuZr3qDuP3XfQgS8f5/W1Fhkop1Ekbf6EtFyZudPYfh0K89865P+4jwvkfGDSGm6XqpX2lwXdZEeqGXjBDQCl5KvuQGz9Hsj4IkmIxw5yVBDtoFUkfeG/6Cb4Bugh7lvjIspTfJIM5pn/jW7adEnT/6peHI1ES3roxQg4ep+4ZHFyiuEl34wSGNNebCZMc9hXgIumbTyF1jpRUwdoeqG/OMahaEwOosT1/t2pVgMvBviPnoc=;TrDDYTyaPliteynO4YkM0Q=="
 ---

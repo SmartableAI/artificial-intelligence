@@ -52,16 +52,16 @@ related:
         height: 1020
         isCached: true
   - title: "UN: Boom In Innovation For Overcoming Disabilities"
-    excerpt: "GENEVA:  Innovations aimed at helping people overcome mobility, sight and other disabilities have exploded in recent years, and are becoming ever more integrated in regular consumer goods, the United Nations said yesterday."
-    publishedDateTime: 2021-03-25T11:25:00Z
-    webUrl: "https://menafn.com/1101805784/UN-Boom-In-Innovation-For-Overcoming-Disabilities"
+    excerpt: "More than one billion people worldwide currently need technology-based assistance to overcome a disability-a figure expected to double in the next decade as populations age, UN data shows."
+    publishedDateTime: 2021-03-24T18:35:00Z
+    webUrl: "https://kashmirobserver.net/2021/03/24/un-boom-in-innovation-for-overcoming-disabilities/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Kashmir Observer
+      domain: kashmirobserver.net
     quality: 24
     images:
-      - url: "https://menafn.com/updates/pr/2021-03/24/KO_5967884c-7image_story.jpeg"
+      - url: "https://kashmirobserver.net/wp-content/uploads/2021/03/Innovations-Disability.jpeg"
         width: 840
         height: 690
         isCached: true

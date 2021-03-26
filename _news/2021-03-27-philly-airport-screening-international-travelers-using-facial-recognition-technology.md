@@ -8,8 +8,8 @@ webUrl: "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-reco
 ampWebUrl: "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/"
 cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Japan Airlines to trial facial recognition technology at Tokyo airports"

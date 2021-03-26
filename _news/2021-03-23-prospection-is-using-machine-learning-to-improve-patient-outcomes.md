@@ -77,7 +77,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 47
+    quality: 49
   - title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
     excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer."
     publishedDateTime: 2021-03-26T11:43:00Z

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Report: Apple’s been snapping up AI firms to improve Siri"
+    excerpt: "Apple was the leading buyer of AI companies between 2016 and 2020, and many of the acquisitions were focused on Siri, according to research by GlobalData."
+    publishedDateTime: 2021-03-26T21:39:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/header-image-tim-cook-Apple-financials-1-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Apple bought more AI companies than anyone else between 2016 and 2020"
     excerpt: "Once in a while, Apple announces the acquisition of another company or startup, but now, new research from GlobalData shows that Apple is in fact investing heavily in artificial intelligence. The research reveals that Apple has acquired more AI companies than anyone else between 2016 and 2020."
     publishedDateTime: 2021-03-26T00:14:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/41038-79364-Siri-xl.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Apple on AI shopping spree to make Siri smarter"
+    excerpt: "Apple is reportedly on an AI shopping spree. According to GlobalData, a market research firm, Apple bought over twenty companies between 2016 and 2020. In addition to the company, Google, Facebook and Microsoft also occupies the leading positions in the ..."
+    publishedDateTime: 2021-03-26T17:15:00Z
+    webUrl: "https://techstory.in/apple-on-ai-shopping-spree-to-make-siri-smarter/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/1_prK8C_jaJbhdkReGNd_rqg-scaled.jpeg"
+        width: 2560
+        height: 1706
         isCached: true
 
 secured: "0EmdE2btjPu4OLd8P4T8h+YAPwRLuGrkkKn2qJFQwramZ1T259MU7pEsIlm+Ea4c9vDr1hn7AoFP+qQ08bGuYLjC6eVQvXKnaLu68u/hRiPAA04hsXYSh8wktQC2yT1p9wowJ/VgSHcRRxAhR16vJS6Taotw+m+VrdXFt9ep4uImFVynF1VTDg2bPX4KXREE3nPnrPXGxat7NOTKTqnxfRkOGzilYnmNiYuxfZUOewGWpbJdgOcDtsKMvyrSLBxn0anIOUAxHpBofJMThQAqtbSk0jrJf/DiEzjcsmNZzSNvfWoBnmSPyD1N+IWvy6Vn4x+3ECe50zkrXoveIa6GKJDdSROt8GASEkpw6uxqmbOQeq2jAJlFZPG1HSLELQoR3WlbCVGx7jkBt5jePKNtFRztn9ZjMqaNG1NJM+cX4dApsLOhCtnZwumjcc/6Jr1wUTnpHzk1cssWaW780HHqhrI5AnJCKqmrfkG8IJSazYUHXc9hWzRWDj2yFBmuixqcaGdb0zw8TI0p6qXAPW5jsw==;hzIieJd+YYOhmFPKgZjFgA=="

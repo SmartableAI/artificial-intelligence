@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-aws-hugging-face-tea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
 type: article
 quality: 108
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AWS partners with Hugging Face to democratize access to NLP models"
+    excerpt: "AWS is collaborating with Hugging Face to aid in making NLP simpler to train and optimize on AWS. Thanks to the new HuggingFace estimator in the SageMaker SDK, customers can easily train, fine-tune, and optimize Hugging Face models built with TensorFlow ..."
+    publishedDateTime: 2021-03-25T17:45:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145972"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 56
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
         isCached: true
 
 secured: "kpj4fBZOPXAHJ/aTA4+4gPymmVI1f6a3BksK7TL1jXKPxc5bvhuwTk2wlg1Ll2x9IbvjarTs2mhhg4BgeehMcP1Wdi8BU9RqDWnyR7yUgh1LD4mGcZJz8dzdmhD/wkRqFAbUOjN90g2xkX2oi03oBhzcZmuWucgnjAq8GtF2nT/XzIwVVkyawa7Vdwke3BpDZpB8nojfQPXoxbqvZqSiivyCL8iKft7VFTig8Bn5nYLW4bV6T9mX68pM+41MIyItXZ8i4XyOWo6Ykyi6f30o0Cf59wFSqmQxoITg+mwVKvmBpPx0Ko5rr8bOlRfkOET5/3CPB/ogPmkYDs60CFkGaEUkZUSqwWe7ExNUCCPU9Twq6dadY/IBfEnwj6AIHjVxkiS5EAs6f53h7P7cbhQiuNzFsth0vlXKQDUwvasjpfBjDO+9VOpTik4/0ha7JJ/0rJCKhwfOA4d3JmBGcdQQ9lBezPJROUVfNm/tzR3papkVjJc/Pk6VQuMyPwgCDEHeBXc4tmLPbMtgpOioCDT+yg==;ARe5YMIDQLiITS9EgphhrQ=="

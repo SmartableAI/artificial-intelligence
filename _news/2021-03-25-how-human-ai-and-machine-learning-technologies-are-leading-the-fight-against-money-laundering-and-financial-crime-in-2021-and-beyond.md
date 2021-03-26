@@ -1,0 +1,47 @@
+---
+category: news
+title: "How Human AI and Machine Learning Technologies Are Leading the Fight Against Money Laundering and Financial Crime in 2021 and Beyond"
+excerpt: "The COVID-19 pandemic has exposed widespread vulnerabilities as compliance teams seek to manage remote employees spread across the world; regulators and governments are tightening restrictions; and technology is advancing at breakneck speed in a bid to keep pace with the increasingly sophisticated methods being used by financial criminals."
+publishedDateTime: 2021-03-25T11:29:00Z
+originalUrl: "https://internationalbanker.com/technology/how-human-ai-and-machine-learning-technologies-are-leading-the-fight-against-money-laundering-and-financial-crime-in-2021-and-beyond/"
+webUrl: "https://internationalbanker.com/technology/how-human-ai-and-machine-learning-technologies-are-leading-the-fight-against-money-laundering-and-financial-crime-in-2021-and-beyond/"
+type: article
+quality: 23
+heat: -1
+published: false
+
+provider:
+  name: International Banker
+  domain: internationalbanker.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://internationalbanker.com/wp-content/uploads/2021/03/Human-AI.png"
+    width: 1081
+    height: 650
+    isCached: true
+
+related:
+  - title: "8 ways AI is transforming talent management in 2021"
+    excerpt: "Human resources teams are increasingly relying on AI in talent management to improve recruitment, on-boarding, and employee retention."
+    publishedDateTime: 2021-03-25T20:15:00Z
+    webUrl: "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/"
+    ampWebUrl: "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/christina-wocintechchat-com-mxOdUd1BQIM-unsplash.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+
+secured: "AdsTuzDFcMuOD0d6FC2hBQaQyPU5zcStZjq65Ek6Y4D1KYG2V1q3wnP5IQ5TJDkZ9Ex0JadUOLrZOIjJ3Baw3W6y7dofE0j/mPjP6dO8IEo9nRgYH2YJEGyu8FHjIROVToDLEFh8RlZMnTbS7NUyq54SC6oL3KgzrpmPRkXugZ2ZVOXGaogBXD0xHRLb6sFraiXV7e7mdw2lXjPWf2yVv25RWaEWTBLEZAC5KLx1yyz6Gn/+tq1xaZ493eTUXHxZ7A7UZeN4uvrELcOkKyhkaCONrzNEpAAIeiCZdGDSRHdf9LsgIUiVfvldtVGwqhPjTsqi0uW13D3+rxcOGNLRQT9cj4PU9G4E7FQjHhw+ZR8=;WwFXbIxRthVEE4SvitLqdg=="
+---
+

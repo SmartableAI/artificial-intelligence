@@ -74,6 +74,20 @@ related:
         width: 613
         height: 315
         isCached: true
+  - title: "AWS partners with Hugging Face to democratize access to NLP models"
+    excerpt: "AWS is collaborating with Hugging Face to aid in making NLP simpler to train and optimize on AWS. Thanks to the new HuggingFace estimator in the SageMaker SDK, customers can easily train, fine-tune, and optimize Hugging Face models built with TensorFlow ..."
+    publishedDateTime: 2021-03-25T17:45:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145972"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 56
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
 
 secured: "m7JkLxbGGQKo9IqIkBlWwbkHORvvxkU+1kSPTeZ8nku0JhnJlp8Sp9nntdKwzNZSwhxJqZWkH9R6y5Wstp2SyzjTb5WWJGFiAGMsahxL16Gn3mWOdTCpukFiHLQSJyUGt1E4cgzNUPZHb01WjJ06u1FsBw7PPKF+kQdMae0aGKG6/GRJXlI+TynpsFHdg/UgTZwEj4FJcpabAMzN3e9blMEDC0RvytMMMaG7KOKz0WhjSyYRwjdiuX9LOI2OKsNPmuFy6TSJGuZvZygzbE+pfbfXxodlBCAeB1fAMyLMwTnMKGNkQS6loMeqCpCQCAZOdT/apHeteEACev5TAOkGhdh4YNwzTmsrdLRxi2tdZF4=;/tqxJF0bnQyvT4jcjSdrdg=="
 ---

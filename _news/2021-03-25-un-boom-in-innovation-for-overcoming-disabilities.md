@@ -1,25 +1,25 @@
 ---
 category: news
 title: "UN: Boom In Innovation For Overcoming Disabilities"
-excerpt: "GENEVA:  Innovations aimed at helping people overcome mobility, sight and other disabilities have exploded in recent years, and are becoming ever more integrated in regular consumer goods, the United Nations said yesterday."
-publishedDateTime: 2021-03-25T11:25:00Z
-originalUrl: "https://menafn.com/1101805784/UN-Boom-In-Innovation-For-Overcoming-Disabilities"
-webUrl: "https://menafn.com/1101805784/UN-Boom-In-Innovation-For-Overcoming-Disabilities"
+excerpt: "More than one billion people worldwide currently need technology-based assistance to overcome a disability-a figure expected to double in the next decade as populations age, UN data shows."
+publishedDateTime: 2021-03-24T18:35:00Z
+originalUrl: "https://kashmirobserver.net/2021/03/24/un-boom-in-innovation-for-overcoming-disabilities/"
+webUrl: "https://kashmirobserver.net/2021/03/24/un-boom-in-innovation-for-overcoming-disabilities/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Kashmir Observer
+  domain: kashmirobserver.net
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-03/24/KO_5967884c-7image_story.jpeg"
+  - url: "https://kashmirobserver.net/wp-content/uploads/2021/03/Innovations-Disability.jpeg"
     width: 840
     height: 690
     isCached: true
@@ -67,6 +67,6 @@ related:
         height: 1020
         isCached: true
 
-secured: "WZyWRtgdUppz1ZHiSX2AMpI3UhXNUFWysWb6GrWzRh284khSviDUwtRIgFLaVhqBPxt/ys/kO9BVPlgRNHE8GlwRTrm1AKX59pGPciX3uA9KuUf2eHpt1lmMyzAgvaOACG5LWfNvmmcReolwofRdR9gOgisTaddV24pMh6i6zdhTZ61mGB2JKRKcnGTWFeKHc2De967/CIKoS9UX7yK+gcJuBsoS6QRVZa2VqCOGRj0x8YM9U25Za5t8IJ64uo+nGSzVnACi+ny1byjuB9mlHtpyxm2sqFVE6XVBZbHe2fPpgvtkl+ZwjMMnzBrDaP5eeIG0ePlVxWlXKFYXQELoDgzLZNkhNX3wnznCkZdFls0=;S3J91TBCXr9gTxcQaFQVMQ=="
+secured: "4ayHAZwuuyo7GaCx+aCk9K9Xj4ZpdGPjTcW8kXFUEpfKQ1yuSqz1NCVwFAmMi5q1/2VhLjh476GLKBD1K9T0kwsAbpghJo/Im+ifzQ9tXLNTwiuzlfiF9BOgrxUZsEwJiEBCUuaLcaBHcvH27H4TuAHwKKp1IQD86DPI5xrpJSsstids49TTWwRSbbUv6SQuFbrfemHHVYTj0rWfpXUm0CUwyKq01UxKa1eEjn+bwXzCtc+QmEh40tLFkJk3zbwIBaPSQKfrPd/8v7gHUMPGSbKzorBIchM8GeI0QIrhLwGz1WAxjNyG3JrVfFJE9k8y6MCzhZFrYCeBt+yoC1vnDhcwdloMGpNrzKY+8RXO61A=;o4m9F6ayOXUwCjWw4ETmdQ=="
 ---
 

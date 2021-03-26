@@ -66,7 +66,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 47
+    quality: 49
   - title: "Prospection is Using Machine Learning to Improve Patient Outcomes"
     excerpt: "A health analytics company, Prospection combines AI and predictive data analysis to help improve patient outcomes. Machine learning tools can be used to spot major and minor trends in patient data that would be impossible to identify with the naked eye."
     publishedDateTime: 2021-03-23T09:40:00Z
