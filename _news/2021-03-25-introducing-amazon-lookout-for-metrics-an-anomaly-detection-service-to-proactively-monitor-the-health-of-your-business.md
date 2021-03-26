@@ -43,6 +43,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AWS launches Lookout for Metrics to help companies monitor their operations"
+    excerpt: "Amazon Lookout for Metrics, a machine learning service designed to help enterprises detect and respond to important business events such as a sudden jump in user sign-ups. With the service, AWS is looking to address a number of technical challenges that normally make such business monitoring difficult."
+    publishedDateTime: 2021-03-25T22:18:00Z
+    webUrl: "https://siliconangle.com/2021/03/25/aws-launches-lookout-metrics-help-companies-monitor-operations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/aws-1.png"
+        width: 790
+        height: 440
+        isCached: true
 
 secured: "vN75vyTDtsYyC3SbSkUhljyfE9Tff8YjGhrtHIraScOyBWipP+5ST2wNdTcIQrFvYs5olF8T/4vTrE1JlcMulVHkb9aRFZmy5TStSAHZt+7N6X3PKG92ldj4fKdcGn7cXfBYfcBZKaNFn+ctHlj2te8+ZXBLvR7+6MM9cYeKz2Vos+cjFydoZaT4pPxFVW0ApfmNy42bKVC3lk+Z/xQe5+Xg2HgEXyt9MzjpSsltEIEIAsRVmCQAWgZoQJWAcClgIxXT0IAjQVjl8H9YsLChaiKVdlOwAhxs7pAvC69sJCsxnFFzyTKnDN3amYwYabEnP9zCCVAwI81lwiMRR9/HBG+oZ/cIEur3aXHfE8p61mM=;dnVVCHIQ2G9JPtAZIkHq7g=="
 ---

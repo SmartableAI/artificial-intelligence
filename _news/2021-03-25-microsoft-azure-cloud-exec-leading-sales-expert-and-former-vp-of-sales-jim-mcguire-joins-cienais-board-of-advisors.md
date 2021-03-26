@@ -51,6 +51,20 @@ related:
       name: ABI Research
       domain: abiresearch.com
     quality: 75
+  - title: "Microsoft – Microsoft Teams now offers AI-powered live meeting transcriptions"
+    excerpt: "Microsoft Teams has got a new AI-powered feature that makes it easier to zone out during endless online meetings. The app has launched a live transcription tool that creates a wri"
+    publishedDateTime: 2021-03-25T18:22:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-microsoft-teams-now-offers-ai-powered-live-meeting-transcriptions/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 53
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/transcript-gif.gif"
+        width: 800
+        height: 448
+        isCached: true
   - title: "Repsol and Microsoft renew partnership developing AI-powered digital solutions"
     excerpt: "The companies will co-innovate to build new AI-powered digital solutions ... including recommitting to the Azure cloud platform. “The extension of our collaboration and the supply of renewable energy undoubtedly reaffirms the vision that both companies ..."
     publishedDateTime: 2021-03-22T16:04:00Z

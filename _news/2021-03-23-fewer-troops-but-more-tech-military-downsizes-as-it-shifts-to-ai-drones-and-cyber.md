@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Fewer troops, but more tech: Military downsizes as it shifts to AI, drones and cyber"
-excerpt: "New defense plans for the next decade come with a strong focus on new technologies, pitching a leaner but more effective armed forces."
-publishedDateTime: 2021-03-23T16:45:00Z
-originalUrl: "https://www.zdnet.com/article/fewer-troops-but-more-tech-military-downsizes-as-it-shifts-to-ai-drones-and-cyber/"
-webUrl: "https://www.zdnet.com/article/fewer-troops-but-more-tech-military-downsizes-as-it-shifts-to-ai-drones-and-cyber/"
+excerpt: "These include new threats ranging from the spread of terror through cyberspace, to novel AI-infused war capabilities, through the rapid modernization of the Russian and Chinese military. The announcement comes off the back of the government's recently ..."
+publishedDateTime: 2021-03-23T16:44:00Z
+originalUrl: "https://www.zdnet.com/index.php/article/fewer-troops-but-more-tech-military-downsizes-as-it-shifts-to-ai-drones-and-cyber/"
+webUrl: "https://www.zdnet.com/index.php/article/fewer-troops-but-more-tech-military-downsizes-as-it-shifts-to-ai-drones-and-cyber/"
 type: article
 quality: 60
 heat: 60
@@ -27,6 +27,6 @@ images:
     height: 578
     isCached: true
 
-secured: "jY/Y6HchjvMhvykYsJCBOAO/Nl8l9yh9XOrhMTIfjNCe9XdnvkA9tsF77QoEYfYHRzNmiDFJqiayhLkf4pCiQhydTBy5sjb9CMIE1vPm0dBZ9+Djiz9xhmc8534usqJZAz3YeC+0J13h0wKfepuC0Amy518NVlfdLYSIzLBnxZ6nEBHiBJCY/U/NE+rIYQ647IwDxli1sC5VQvhwJT4zc6GlyfmWuEMpe5RC0iO9ChFbf8qHxQ8WALm52G+hEHp0GpAqccWP7YZHeSbGEGH4MTq7AT6ePR617EZ6a6SZX4BHUI5w3PWMRxq/BK1DEL4SXxbLNHig/+Jyk4WxlEmy0VrGxcDv0CxcxF480i7RHXIjAFt+tWIm8yuquPXAtW34L96YgXpShC0Tc0UjM+hvPrf6EX3nbZWwTbYiNGpgyJYEdmo1TDUnElV7M6BDG1YZnAbQhy+kv4/EzeDM74a6wnGQWQUzPc7F7usW5lfn6vChIhdDHXpYN0e3+vSmQxYyZOgIsngbMCi815PFaWY1xQ==;8dapStyl+hLbC6lbFLjJJA=="
+secured: "zYnoeAPp2bsLNoiWpT/A4WigpEHwzU+MXnje9lT0NJ+O+lbJK87KbIwBwz9CkL3EuQmujJ+dfdKy+E8hklnmjiDozOkktIyWlNn0R7yDmJrW2UB7sdADiTjl8gFiBV5Szyw6mUI2AXpBdLdaR+qKecSIvNgZ2oYpbVM5wINfRnow2FbVcw+s5ZUalzhPuqCjTuIQkCJ6aqygple46mAItzPuhXirZ7Ii8sOn5JGaBSD8wBc+hZjSBd7Wv2Kl9BCIv8QfnqDhTbNVRsRvH4jk0J4+kNzL8GYrfl+LSfeQnquXmRVNlV7ILCZIJPVj2wZ3sV9nkfTZ5/xd54hStzIC0x9Ymc47/AAX7vHt9WvGNmY=;SlDOfRHdWCH7RZ4ZGgEinQ=="
 ---
 

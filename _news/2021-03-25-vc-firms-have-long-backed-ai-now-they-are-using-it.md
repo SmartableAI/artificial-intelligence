@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/vc-firms-have-long-backed-ai-now-th
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vc-firms-have-long-backed-ai-now-they-are-using-it-11616670000"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

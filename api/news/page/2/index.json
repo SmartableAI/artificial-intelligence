@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-24-ai-can-drive-the-next-generation-of-healthcare-innovation.md",
+      "title": "AI Can Drive the Next Generation of Healthcare Innovation",
+      "excerpt": "The index uses a quantitative model designed to identify equity securities in the Nasdaq US Benchmark Index (including growth and value stock) that are small and medium capitalization U.S. healthcare companies. Artificial intelligence (AI) is seen driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24?amp",
+      "publishedDateTime": "2021-03-24T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-intel-will-build-x86-chips-for-other-companies.md",
       "title": "Intel will build x86 chips for other companies",
       "excerpt": "Intel said it plans to make available its x86 processor cores, graphics, and AI technology for licensing via its new foundry business.",
@@ -804,6 +838,57 @@
       ]
     },
     {
+      "path": "_news/2021-03-24-realnetworks-launches-ai-robocall-blocker-aims-to-lead-the-charge-in-battle-against-spam-calls.md",
+      "title": "RealNetworks launches AI robocall blocker, aims to ‘lead the charge’ in battle against spam calls",
+      "excerpt": "The tech: Called KONTXT for VOICE, the software uses AI models that are trained to predict whether an inbound call is spam based on an analysis of voice and intent. Two “major” telecom companies are using early versions of the product. It builds off ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/realnetworks-launches-ai-robocall-blocker-aims-lead-charge-battle-spam-calls/",
+      "originalUrl": "https://www.geekwire.com/2021/realnetworks-launches-ai-robocall-blocker-aims-lead-charge-battle-spam-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/image004-1-630x517.png",
+          "width": 630,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/realnetworks-launches-ai-robocall-blocker-aims-lead-charge-battle-spam-calls/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/realnetworks-launches-ai-robocall-blocker-aims-lead-charge-battle-spam-calls/amp/",
+      "publishedDateTime": "2021-03-23T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-nyts-kevin-roose-robots-and-ai-have-potential-to-replace-white-collar-jobs.md",
       "title": "NYT's Kevin Roose: Robots and AI have potential to replace white-collar jobs",
       "excerpt": "Consulting firm McKinsey predicts automation will take over the workplace with 45 million U.S. workers displaced by 2030. Kevin Roose, a columnist at The New York Times, says \"robots will be the ones to climb the corporate ladder.",
@@ -917,7 +1002,7 @@
       "originalUrl": "https://www.cnet.com/news/prince-harry-now-a-tech-exec-at-a-silicon-valley-startup/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1103,101 +1188,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-enable-feature-reuse-across-accounts-and-teams-using-amazon-sagemaker-feature-store.md",
-      "title": "Enable feature reuse across accounts and teams using Amazon SageMaker Feature Store",
-      "excerpt": "Amazon SageMaker Feature Store is a new capability of Amazon SageMaker that helps data scientists and machine learning (ML) engineers securely store, discover, and share curated data used in training and prediction workflows. As organizations build data-driven applications using ML, they’re constantly",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-feature-reuse-across-accounts-and-teams-using-amazon-sagemaker-feature-store/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-feature-reuse-across-accounts-and-teams-using-amazon-sagemaker-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/18/1-FeatureStore.jpg",
-          "width": 800,
-          "height": 430,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T13:14:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing.md",
-      "title": "Singtel and Optus expand 5G ecosystems with AWS for 5G edge computing",
-      "excerpt": "The MEC, leveraging the Amazon Web Services (AWS) Outposts, will enable 5G solutions like robotics, drones, autonomous vehicles and artificial intelligence to operate at ultra-low latency, closer to the end-users. AWS Outposts is a solution that enables ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/",
-      "originalUrl": "https://www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/amp/",
-      "publishedDateTime": "2021-03-23T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media-intelligence-solutions/"
 type: article
 quality: 89
-heat: 140
+heat: 139
 published: true
 
 provider:

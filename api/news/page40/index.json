@@ -2,6 +2,110 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-02-23-global-face-recognition-device-market-business-opportunities-and-challenges-report-2031-cloudwalk-aurora-insigma-group.md",
+      "title": "Global Face Recognition Device Market Business Opportunities and Challenges Report 2031| Cloudwalk, Aurora, Insigma Group",
+      "excerpt": "Feb 22, 2021 (WiredRelease via Comtex) -- The latest research report provides a complete assessment of the Global Face Recognition Device market for the forecast year 2022-2031, which is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-business-opportunities-and-challenges-report-2031-cloudwalk-aurora-insigma-group-2021-02-22?tesla=y&tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-business-opportunities-and-challenges-report-2031-cloudwalk-aurora-insigma-group-2021-02-22?tesla=y&tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T22:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-gab-mewe-telegram-discord-trump-fans-extremists-find-new-outlets-after-facebook-twitter-bans.md",
+      "title": "Gab, MeWe, Telegram, Discord: Trump fans, extremists find new outlets after Facebook, Twitter bans",
+      "excerpt": "While exclusion from major platforms has limited US conspiracy and extremist movements’ large-scale recruitment capacity, embers smoulder under the ashes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "originalUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/23/76fd2332-7592-11eb-8b9d-76c80a88a6d4_image_hires_133619.jpg?itok=apblQkMr&v=1614058588",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "publishedDateTime": "2021-02-22T22:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-iiit-hyderabad-offers-certificate-online-course-on-artificial-intelligence-and-machine-learning.md",
       "title": "IIIT Hyderabad Offers Certificate Online Course on Artificial Intelligence and Machine Learning",
       "excerpt": "IIIT Hyderabad is currently offering a certificate online course on artificial intelligence and machine learning for technology professionals",
@@ -1087,109 +1191,6 @@
         "AI",
         "AI in Finance",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-why-explainability-is-the-next-step-for-ai-in-manufacturing.md",
-      "title": "Why ‘Explainability’ Is The Next Step For AI In Manufacturing",
-      "excerpt": "Now that we’ve overcome the issue of whether AI is needed or not, the new pressing question is \"why\" AI makes its decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6011c98f32810780e7c9bdc6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
-      "publishedDateTime": "2021-02-22T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-cutting-through-confusion-the-true-value-of-ai-for-sales-teams.md",
-      "title": "Cutting Through Confusion: The True Value Of AI For Sales Teams",
-      "excerpt": "More top-performing sales reps are jumping ship. Over the last decade, the sales industry has witnessed rep tenure rapidly decline from 3 years in 2010 to a mere 1.5 years in 2019. This trend has only been expedited by the remote world forged by the Covid-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602fe611a2778c1746f06424%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/amp/",
-      "publishedDateTime": "2021-02-22T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

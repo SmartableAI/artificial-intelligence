@@ -2,6 +2,93 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-17-conlan-scientific-named-top-aiml-development-solutions-provider-for-financial-sector-in-washington-dc-in-2021.md",
+      "title": "Conlan Scientific Named Top AI/ML Development Solutions Provider for Financial Sector in Washington DC in 2021",
+      "excerpt": "Conlan Scientific, a fast-growing nationally recognized authority in delivering AI/ML-based Financial Data Science solutions, proudly announced today that Clutch Research had recognized it as a top leader in Artificial Intelligence/Machine Learning Development firms for its expertise in supporting the financial sector in the Washington D.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-e76857d70069e6cf37e48cc12acd6b7a",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-e76857d70069e6cf37e48cc12acd6b7a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex.md",
+      "title": "Take a look inside University of Michigan’s new Ford Motor Co. robotics complex",
+      "excerpt": "The Ford Motor Company Robotics Building on University of Michigan's North Campus is a $75 million state-of-the-art facility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/",
+      "originalUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.clickondetroit.com/resizer/HmnQTMNjtSbF6rJTuexAtQI0O1I=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/JDQM34PSUJC2VO2346NJJLVEXQ.JPG",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/?outputType=amp",
+      "publishedDateTime": "2021-03-16T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-microsoft-amazon-must-face-facial-recognition-data-suits.md",
       "title": "Microsoft, Amazon must face facial recognition data suits",
       "excerpt": "A Washington federal judge has ruled on motions to dismiss two nearly identical lawsuits against Amazon.com Inc and Microsoft Corp, rejecting the companies' bids to scrap an Illinois biometric privacy claim while asking for additional briefings before ruling on two",
@@ -1121,101 +1208,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips.md",
-      "title": "New Applied Materials Tools Use AI to Catch Mistakes on Chips",
-      "excerpt": "A new semiconductor manufacturing technology from Applied Materials uses artificial intelligence, or AI, to spot mistakes in chips more effectively, the U.S. company said on Tuesday. Modern chip manufacturing happens in factories that cost upward of $18 billion each to build and requires hundreds of separate steps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance.md",
-      "title": "ByteDance team to develop AI chips as China aims for self-reliance",
-      "excerpt": "Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company's job postings and a source familiar with the situation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7",
-      "originalUrl": "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555034618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0DM",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B80P7",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B80P7",
-      "publishedDateTime": "2021-03-15T23:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

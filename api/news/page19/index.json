@@ -2,6 +2,93 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-09-vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises.md",
+      "title": "VMware and Nvidia launch GPU virtualization platform for enterprises",
+      "excerpt": "VMware and Nvidia deliver on promise to enable GPUs to run multiple workloads using VMware vSphere virtual machine software.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
+      "originalUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/NVIDIA-VMwareAI-ReadyPlatform.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
+      "publishedDateTime": "2021-03-09T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "originalUrl": "https://www.financialbuzz.com/mathworks-named-a-leader-in-the-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform.md",
       "title": "Ibex Medical Analytics raises $38M for its AI-powered cancer diagnostic platform",
       "excerpt": "Israel-based Ibex Medical Analytics, which has an AI-driven imaging technology to detect cancer cells in biopsies more efficiently, has raised a $38 million Series B financing round led by Octopus Ventures and 83North.",
@@ -280,40 +367,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-aiict-introduces-new-certified-artificial-intelligence-professional-course-developed-with-aws.md",
-      "title": "AIICT introduces new Certified Artificial Intelligence Professional course developed with AWS",
-      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/138360/aiict-introduces-new-certified-artificial/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/138360/aiict-introduces-new-certified-artificial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T03:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -975,6 +1028,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-09-aiict-introduces-new-certified-artificial-intelligence-professional-course-developed-with-aws.md",
+      "title": "AIICT introduces new Certified Artificial Intelligence Professional course developed with AWS",
+      "excerpt": "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML) professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/",
+      "originalUrl": "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_3.png",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T16:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-study-people-trust-ai-more-than-other-humans-when-it-comes-to-managing-their-money.md",
       "title": "Study: People trust AI more than other humans when it comes to managing their money",
       "excerpt": "Two-thirds of people say that they are more likely to trust artificial intelligence than humans when it comes to managing their finances, according to a US study conducted in 14 countries.",
@@ -1057,102 +1153,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-how-to-liberate-marketing-from-mundane-tasks-with-ai.md",
-      "title": "How To Liberate Marketing From Mundane Tasks With AI",
-      "excerpt": "Embedded AI and automation can help with high-volume ... Auto-generate editorial text with human-like accuracy using Natural Language Generation (marketing content, product descriptions); and translate content in context. Optimize users’ ability to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/72c60a827d814069bac850c47d695dd3.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/how-to-liberate-marketing-from-mundane-tasks-with-ai/amp/",
-      "publishedDateTime": "2021-03-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon.md",
-      "title": "Why you shouldn’t expect Tesla’s ‘Full Self Driving’ to come out of beta any time soon",
-      "excerpt": "Tesla’s recent decision to open its Full Self Driving (FSD) beta to new owners has created quite a splash in both the automobile and consumer tech markets. This is an exciting time to be a Tesla owner,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/01/Tesla-Autopilot-crash-report--796x408.jpg",
-          "width": 796,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/",
-      "publishedDateTime": "2021-03-08T13:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

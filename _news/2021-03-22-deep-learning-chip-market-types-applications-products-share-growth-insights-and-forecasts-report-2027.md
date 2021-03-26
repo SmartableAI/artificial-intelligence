@@ -185,6 +185,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
+    excerpt: "Kenneth Research has published a detailed report on Speech and Voice Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-03-25T23:05:00Z
+    webUrl: "https://menafn.com/1101807678/Speech-and-Voice-Recognition-Market-Size-Analysis-by-Growth-Emerging-Trends-and-Future-Opportunities-Till-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?212595"
+        width: 437
+        height: 250
+        isCached: true
   - title: "Artificial Intelligence In Genomics Market by Offering, Technology, Functionality, Application, End-user - Global Forecasts to 2025 - ResearchAndMarke"
     excerpt: "The \"Artificial Intelligence In Genomics Market by Offering (Software, Services),Technology (Machine Learning, Computer Vision), Functionality (Genome Sequencing, Gene Editing), Application (Diagnostics),"
     publishedDateTime: 2021-03-23T13:10:00Z

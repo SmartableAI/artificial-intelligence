@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-22-face-recognition-with-smiles-winks-could-increase-phone-security-heres-how.md",
+      "title": "Face Recognition with smiles, winks could increase phone security: Here's how",
+      "excerpt": "The new system is called Concurrent Two-Factor Identity Verification (C2FIV) and it requires both one's facial identity and a specific facial motion to gain access.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
+      "originalUrl": "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/smartphone-usage-pixabay-1616407761.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
+      "publishedDateTime": "2021-03-22T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-22-speech-to-text-apps-what-to-look-for-in-dictation-software.md",
+      "title": "Speech-to-text apps: what to look for in dictation software",
+      "excerpt": "Why strain your wrists typing on your keyboard when you could just as easily dictate your content and have a designated speech-to-text software take the notes for you? Over the years, the market has been saturated with apps and software to help you do just that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/speech-to-text-apps",
+      "originalUrl": "https://www.techradar.com/news/speech-to-text-apps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4LYCsUevcwfeMVmbm2PABJ-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/speech-to-text-apps",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/speech-to-text-apps",
+      "publishedDateTime": "2021-03-22T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-artificial-intelligence-ai-in-cyber-security-market-next-big-thing-major-giants-bae-systems-cisco-fortinet.md",
       "title": "Artificial Intelligence (AI) in Cyber Security Market Next Big Thing | Major Giants BAE Systems, Cisco, Fortinet",
       "excerpt": "Mar 22, 2021 (Market Insight Reports) -- The COVID-19 Global & China Artificial Intelligence (AI) in Cyber Security Market to witnessed good recovery in growth post first half of 2020 and is projected coverup market sizing during the forecast period (2021 ...",
@@ -1133,110 +1229,6 @@
         "AI",
         "AI in Security",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges.md",
-      "title": "RAPIDS and Amazon SageMaker: Scale up and scale out to tackle ML challenges",
-      "excerpt": "In this post, we combine the powers of NVIDIA RAPIDS and Amazon SageMaker to accelerate hyperparameter optimization (HPO). HPO runs many training jobs on your dataset using different settings to find the best-performing model configuration. HPO helps data scientists reach top performance, and is applied",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/12/Flight-Graphicv2.jpg",
-          "width": 800,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T16:07:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-upstart-ceo-on-applying-ai-to-lending-an-enormous-market-opportunity.md",
-      "title": "Upstart CEO on applying AI to lending: 'An enormous market opportunity'",
-      "excerpt": "Upstart co-founder and CEO Dave Girouard joined Jim Cramer on \"Mad Money\" to discuss how the online lending platform is using modern technology to solve the biggest problems in the loans business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-an-enormous-market-opportunity-in-tying-ai-to-lending.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/03/19/upstart-ceo-on-an-enormous-market-opportunity-in-tying-ai-to-lending.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106856972-DOTCOM-MM-C-031921-jpg?v=1616194589",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
