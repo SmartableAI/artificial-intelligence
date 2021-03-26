@@ -39,6 +39,20 @@ related:
         width: 991
         height: 449
         isCached: true
+  - title: "IBM Positioned as a Leader in 2021 Gartner Magic Quadrant for Insight Engines"
+    excerpt: "IBM Watson Discovery, an AI-powered search and text-analytics service, uses advanced natural language processing (NLP) to help companies find new insights from complex enterprise documents and data. \"The majority of data does not fit neatly into a database."
+    publishedDateTime: 2021-03-26T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-2021-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "RqPwSg+hTNKEdaB8iGhNbHd64bCNz/y4ibivteeARJ+iEI6w8AEnmZmKLp6t6GlXtZfWgu3zAvUmFRRCpNqPscp6HabcTBl7eo4e91kM4Zmj2DkzQY4eCk1LgYnOZK8NAQgKrYnDX/YfzPkOF2hWYe4cLdKrhTyfaPvPx7wYKFtPigwj6NINpmmIyMqVAY4hOLXc2TJQ1OJVLiKJM2o0IhhPToy2nVi8fBn2aPVWeWckHCVwipyBkLpq7d5cSQ0AF+xxAbdNa9xhECaqeKllvdp7GD8WfARRcfl8LgxE7QO+sSNIIxpeGCTucOm/sIg7dwHRIym6NwwW/uJUibr42ef1iRG+ZqbsytMkDTn/73Rju/26V+v5unkPzkpVE+pSSIiic0B3bezwDo1N3mQeTCl/7wEwBw9YVhKpKmGYjf0jVzjrzZi0a6wE9m3sl72XZHSggRqJ3FwrchiuLlnYanY9ef0It11OHXEKRO1xC6je18SqSYMn9RKHAMJbdyVIz1NDtZ02JDSbwx4l1aobOw==;YawtgNnro+TY81wWdLZO+A=="
 ---

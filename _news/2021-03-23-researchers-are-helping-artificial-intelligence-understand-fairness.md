@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-artificial-intelligence-fairness
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-artificial-intelligence-fairness.amp"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -98,15 +98,6 @@ related:
         width: 1440
         height: 958
         isCached: true
-  - title: "Cambrian-AI Research: A New AI Analyst Firm"
-    excerpt: "Founded by industry veteran Karl Freund, Cambrian-AI Research provides marketing assistance and consulting to semiconductor and cloud service firms, as well as potential investors in AI."
-    publishedDateTime: 2021-03-21T07:03:00Z
-    webUrl: "https://www.pr.com/press-release/833120"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 19
 
 secured: "i/2my1vAxERe0GV3M7NlZC2vgIUhiX1C8NkqtRvENNZccQ48zfYFrnZktyFmN5t9UwyydxK02OG2xC2QX0AnFMrMV4qM6F8JbQegK06lYjdBvntSB9DqyGOG7TWYluSZ64PgVK7cBnBVENI/klOCsA02JrrVmVFpnqAWTxABAcyWG41QbdxuGmsVTul7FT2fGj6EwAd1ds28SBh+YpIwI+tUDIOgwx4BXdTyWXxnmHUC7zIZwjwFgAdVVz0Pkp7flALtOUSOLs9pW791AqWgdw0N2u+VJ3gOk3YRW7/CDeKW/5czXnLG3hFNTGBw1G57JPYBbCb6LYQRcvri1V1XDfdJMgdDbQ4adWuxbUlhM0dhU/dxanCO4w4OUk8H4dI+Sz52xsyFyQ1gpDRAIk4w0jycW3XKJiWePD/3/z1jjglh4WV0cKSvXWrFt53N6X7CdVkmar4Bm+ZZ2oiaJgeTZp8LlDGqFydXi9TAjiCKtbJY8ZTjzY/2sbcTSZNrCyuULUHUDLUNuca+lV+Mhl8w5A==;ePx4qLjT5wrThF+5nWmtMg=="
 ---

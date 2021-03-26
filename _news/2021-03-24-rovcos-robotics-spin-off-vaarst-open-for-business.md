@@ -9,7 +9,7 @@ ampWebUrl: "https://www.oedigital.com/amp/news/486296-rovco-s-robotics-spin-off-
 cdnAmpWebUrl: "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vaarst to drive the future of marine robotics through data focus"
+    excerpt: "The company is a technology spin-off of Rovco which was founded in 2015 and has invested heavily in real-time artificial intelligence-based 3D vision and autonomy systems. Future plans will see Vaarst take its offering to the wider industrial robotics ..."
+    publishedDateTime: 2021-03-26T00:05:00Z
+    webUrl: "https://www.hellenicshippingnews.com/vaarst-to-drive-the-future-of-marine-robotics-through-data-focus/"
+    ampWebUrl: "https://www.hellenicshippingnews.com/vaarst-to-drive-the-future-of-marine-robotics-through-data-focus/amp/"
+    cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/vaarst-to-drive-the-future-of-marine-robotics-through-data-focus/amp/"
+    type: article
+    provider:
+      name: Hellenic Shipping News Worldwide
+      domain: hellenicshippingnews.com
+    quality: 74
+    images:
+      - url: "https://www.hellenicshippingnews.com/wp-content/uploads/2021/03/Vaarst-SubSLAM-X2-3D-imaging-technology.jpg"
+        width: 600
+        height: 279
+        isCached: true
   - title: "Vaarst launches to drive the future of marine robotics through data focus"
     excerpt: "Launching today, robotics technology player Vaarst will give offshore and marine robotics new capabilities through retrofitted artificial intelligence and autonomy."
     publishedDateTime: 2021-03-24T13:50:00Z

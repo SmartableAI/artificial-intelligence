@@ -9,7 +9,7 @@ ampWebUrl: "https://www.macrumors.com/2021/03/25/apple-ai-acquisitions-2016-to-2
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/03/25/apple-ai-acquisitions-2016-to-2020/amp/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple bought more AI companies than anyone else between 2016 and 2020"
+    excerpt: "Once in a while, Apple announces the acquisition of another company or startup, but now, new research from GlobalData shows that Apple is in fact investing heavily in artificial intelligence. The research reveals that Apple has acquired more AI companies than anyone else between 2016 and 2020."
+    publishedDateTime: 2021-03-26T00:14:00Z
+    webUrl: "https://9to5mac.com/2021/03/25/apple-bought-more-ai-companies-than-anyone-else-between-2016-and-2020/"
+    ampWebUrl: "https://9to5mac.com/2021/03/25/apple-bought-more-ai-companies-than-anyone-else-between-2016-and-2020/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/03/25/apple-bought-more-ai-companies-than-anyone-else-between-2016-and-2020/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 57
+    images:
+      - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/09/Tim-Cook-stock-award.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Apple was leading buyer of AI companies between 2016 and 2020"
     excerpt: "Apple was the top acquirer of artificial intelligence companies from 2016 to 2020, beating out companies like Facebook, Google, and Microsoft."
     publishedDateTime: 2021-03-25T21:03:00Z

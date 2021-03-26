@@ -37,6 +37,20 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "A Nutrition Label for AI"
+    excerpt: "Now IBM is developing something called AI FactSheets, which it describes as a nutrition label for deep learning that explains how models work and that can also detect bias. AI FactSheets is a new addition to Watson Open Scale that will provide a plain ..."
+    publishedDateTime: 2021-03-25T23:26:00Z
+    webUrl: "https://www.datanami.com/2021/03/25/a-nutrition-label-for-ai/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Nutrition-Facts.png"
+        width: 366
+        height: 314
+        isCached: true
 
 secured: "pdg4SOezydR7t3QUNzmO+AzPHozuU/vk/qKheMnZKY0bI/HD8a9I4tsI3In+2Zc8Q9sXf4s/FHNJbRbg0Lp0MdyCY0mlMRcrXDwmOyzLuiqy9wZiEaQB9WvJmQbITRYsb0uCzOfb/vRXtqyNM6udK2unf9YT/GWQYKa2dzO+uPhqeujvyhx7LPR2gonLZbKTMXudxw++ZOAC/lkrujZyD34sB+vZO4LFLeNc0ZJHDCfGOUCUXCYbd4/uJ5aAvS860eCUwen8emwPaMexawKIyFkPVJWvY77jmxuz7JRyEQy06yfqieWPOHR2xUwSF+BZmUudL0BOxsqi2CGbZc3z7giU6ziU+y3ZXU+xQxJHbkI=;1Hnaqh2+qJv11w4zk6TOmw=="
 ---

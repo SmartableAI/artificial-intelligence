@@ -98,15 +98,6 @@ related:
         width: 1440
         height: 958
         isCached: true
-  - title: "Cambrian-AI Research: A New AI Analyst Firm"
-    excerpt: "Founded by industry veteran Karl Freund, Cambrian-AI Research provides marketing assistance and consulting to semiconductor and cloud service firms, as well as potential investors in AI."
-    publishedDateTime: 2021-03-21T07:03:00Z
-    webUrl: "https://www.pr.com/press-release/833120"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 19
 
 secured: "njznUgfJXa+qAfO4dBxYQxL2+32ykhwukxAktBRqEZiuF6+VSEhrblxa1vBKdfDYaKMuzCMjuVmom6ZZnmNai9Is1kQeJJBCw9aMwsAXfIrgpnfcmfPP8cMY9kwyAxZbSGPrHsxqOX1JKes9QzdjomPWOHraCuNn4j7MBSgXMxOuw6RneQaiMH/M+bC1yA6YvE0nSEVWRD3H8mChbIB24PP56FeOWoEVVK95kLRbfU22c30NzHYP4BPirBdC6r8vqUAxmByKFzJKqIkQM3FF+itUZMtHkjJn1biH6AtDyXdpoXDKt1vUcnuPwrNMK4J72iFX82Cv5L+JcCxGQY1dbYqdUknjHzBVYanChzamYcjmw7WVkPVk10uhVgdSwySGa5pCNr2D+9LUwXthIgRXrZlkKD43Ig9UhQ1uQbO/+2CaS9mcKy+n2n4p6OExSD7g5HRMegXe8eeLhwkPMPU4gGwq9UDl145SlJpYLNBPHcqknauFay25ldQMfX3ryd2t0SPAhp892HJKGFEhaGOSNw==;ruEGCeah1R//KcbZ1n0mnw=="
 ---

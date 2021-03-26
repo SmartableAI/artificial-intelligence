@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/j5alrvQaKo4vpYQk"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/j5alrvQaKo4vpYQk"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 761
     height: 428
     isCached: true
-
-related:
-  - title: "Egypt Air and IBM collaborate to modernise duty free shopping"
-    excerpt: "By adopting IBM Cloud, EGYPTAIR will also leverage IBM Watson Assistant to create an AI virtual agent to help transform their travellers’ shopping experience. With the Covid-19 pandemic, the airlines industry started to look for new technologies to ..."
-    publishedDateTime: 2021-03-21T08:45:00Z
-    webUrl: "https://www.biztechafrica.com/article/egypt-air-and-ibm-collaborate-modernise-duty-free-/16496/"
-    type: article
-    provider:
-      name: BiztechAfrica
-      domain: biztechafrica.com
-    quality: 39
-    images:
-      - url: "https://www.biztechafrica.com/media/images/stories/Screen_Shot_2021-03-21_at_12.20.04_PM.png"
-        width: 410
-        height: 270
-        isCached: true
 
 secured: "aodNXKmF9p+7hJLdmeRh11UlF6jN43FlPcWOgO8sWJX6v+ySY9dspoY5UClEDJdB2kqHODg/SzrUqyfwDxgh2IgLe2znol55rFFoR1y6KSGYhYPD6DYWhAblpVqqRgSrNB58L5mUOCgX9O885YQFmUO4X/HGjVMWKj72VcsXIFgLQ1OEuTQu84f3JT4wqA32MES1uhQKy/aAziS3m/7simGK8fGltcs3oJsQxf7i1W/dMFBMw9fTcAL6VgK75pP64j7vUaZfKtf3pSnwykoxulz9mLFgHnLT3v7G7bglJ8nAHD4EhNcfjHLyhROTXRyWlty3FyHYqkTO8ec1GPkV9qdzkTUoNVM9xXHbOhu08TxfNngsS5L2GgoX90brS0aagtTqyFbCaWPxbO5w+bqHogerLf1qHNWZJPzse8GXs3zD5/FdC97VSyvngdy6KuKAArLlcvl6GptFYUsWCDl1uhDcPujOcC2bAwV7pVEuLo9pZ1hZlfDW5XOBD6UPuUh6g7weIPKHszEVQigfqpQBnQ==;L3QvP/veQbex/uzBji9b1A=="
 ---

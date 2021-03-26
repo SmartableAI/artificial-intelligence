@@ -8,7 +8,7 @@ webUrl: "https://syncedreview.com/2021/03/24/cmu-oxford-facebook-cross-lingual-v
 ampWebUrl: "https://syncedreview.com/2021/03/24/cmu-oxford-facebook-cross-lingual-vision-language-model-achieves-new-sota-in-zero-shot-setting/amp/"
 cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/03/24/cmu-oxford-facebook-cross-lingual-vision-language-model-achieves-new-sota-in-zero-shot-setting/amp/"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/03/image-32-1.png?resize=950%2C334&ssl=1"

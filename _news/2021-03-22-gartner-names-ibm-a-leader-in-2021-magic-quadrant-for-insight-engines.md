@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-m
 webUrl: "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/"
 type: article
 quality: 102
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Positioned as a Leader in 2021 Gartner Magic Quadrant for Insight Engines"
+    excerpt: "IBM Watson Discovery, an AI-powered search and text-analytics service, uses advanced natural language processing (NLP) to help companies find new insights from complex enterprise documents and data. \"The majority of data does not fit neatly into a database."
+    publishedDateTime: 2021-03-26T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-2021-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM Positioned as a Leader in 2021 Gartner Magic Quadrant for Insight Engines"
     excerpt: "IBM Watson Discovery, an AI-powered search and text-analytics service, uses advanced natural language processing (NLP) to help companies find new insights from complex enterprise documents and data. \"The majority of data does not fit neatly into a database."
     publishedDateTime: 2021-03-25T12:00:00Z

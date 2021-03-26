@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Disney World tests facial recognition software at Magic Kingdom"
-excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
-publishedDateTime: 2021-03-23T18:13:00Z
-originalUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
-webUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+excerpt: "ORLANDO, Fla. – Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance."
+publishedDateTime: 2021-03-23T18:18:00Z
+originalUrl: "https://abc-7.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+webUrl: "https://abc-7.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
 ampWebUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
 cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
 type: article
@@ -355,6 +355,6 @@ related:
         height: 675
         isCached: true
 
-secured: "QNoI8+HTr+kIMlu0g4i+NgbP2y5y1hCWcR6SA53CDqvIvSUNy9GnLn+sLck+TuGJ6PVZMsTmMCGqXMSkIwQkUc5hhxiV8H4e5a10TSIZYscJ43m/m2rXCZwCsV/3XX0wFb++IFHM6gpc10G4vk2SDHlKuvX5owuqzOtyCvBEWpbwbeSGFwyRC5nqWqkqFE3s1hZd0p6y2KgZ6+5UWbRHlSjtPIidPJuFxvMJwsBuxmsxgX2Yt3uSvEGFTepzBglE8kGfS4sZ8flFcf94AR7hfbB12m5KCsbfYvCxVQQ3lQgaf1Rw1gBhbiDMRu+RQ+BtZDj5ehHrbU4p6X6hw+sSOon0a5NGIt0toB1X6Vf0vx7EvIaBb8rZvw1bJlnUkr4aVA/yKrR04V8kZXoxnyR+XG2cR+d2fB4xevmXfwitUkdAGw3LzMohZZWLo3s46hlmK5Q6vCq3c7lzbNRvdx+PtHTb/PK+BXh6XkB9XMIKxCFL3jrJlVBFNqw2DHMnR61yCrLy/GAkqzDqYUanso1+2Q==;kxgEZcCkmLQ/kX5yuSzF5A=="
+secured: "+1GQV8I+CMMRH01Oy26MEA7zAbsqsF+HHxqCByHrv0UEh+Co+9JzbHBzHibedaJUjliYK8JDmLdnmv2qGnWBdaAXxo/PuDWFLSw4mHzdUmy3jHc6If5lwRVkts21OtltP0pNrywYcEGMAA1XEsX/dSCPZVF38PGIDB2YLNNIUBVLRpt0A/bhlEhjYNTyU6FT+f9wJ1Pi6a2/pK2ExO7fYBEcQr2dl+VLZfDbydDMq9eJKR3TmFhNkPM8A8rBTca/oYIBXSTg9RIuWCw3e8Niy+UlIQeyNvHXAJXxU7FmzFGi3abYcxvQ27uGfsvoE9NccceOyH2VzmMc8dhawuGcUw0UzPfxsgGgz3RhVitNPWc=;c5z1KrortMB2pWJDZmEakw=="
 ---
 

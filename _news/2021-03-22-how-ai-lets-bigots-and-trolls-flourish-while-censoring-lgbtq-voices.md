@@ -7,7 +7,7 @@ originalUrl: "https://www.mic.com/p/how-ai-lets-bigots-trolls-flourish-while-cen
 webUrl: "https://www.mic.com/p/how-ai-lets-bigots-trolls-flourish-while-censoring-lgbtq-voices-66661864"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Why Artificial Intelligence Will Always Fail LGBTQ People"
-    excerpt: "One expert in the field, anthropologist Mary L. Gray, believes AI will “always fail LGBTQ people” – and it will be up to us, to make sure it reflects the way we want our world to be."
-    publishedDateTime: 2021-03-21T09:00:00Z
-    webUrl: "https://www.forbes.com/sites/jamiewareham/2021/03/21/why-artificial-intelligence-will-always-fail-lgbtq-people/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 82
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60548370156fb78b59a5ca77%2F0x0.jpg%3FcropX1%3D595%26cropX2%3D4256%26cropY1%3D341%26cropY2%3D2400"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "UR6vcY0Xnn8LbJqM+cU0tpomfobalJbz0uevIQMwBVc88kf8gDjTzSkqiHD1SjgVj12nd5hKv2/uczJxiL7IlKkdRBu7onPY7c08gcwW858QdB1QZblWgmyEKkMyG/zEBmZULZooGKmZalcPaKXQcBhsQB1rXiX8pSyMDzT23Td1VGc4919PktGgXOA02IZjGPUQPGz+ZdEPc5yfxfZ/HkStxeeoONBtK6S0WLyf4ENSyK86RzHrt9TCogSwUiArvwFbd60HxDqtqhDc0MsSvCPoCzq4KdZe9gASb7NlUYG5zmI4/I8AFxJIxsHak8Ph/cr1HzK6lcAGFoUluLIyBHdHNZRVhFmq75U6S5YQ7H4=;jN4QUP3M2w18xLBnyCWvxQ=="
 ---
