@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kongs
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kongsberg-geospatial-and-sentient-vision-systems-partner-to-integrate-artificial-intelligence-sensor-analysis-capabilities-for/article_015421dd-a307-5dc9-a16c-f7d06c2383fa.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Kongsberg Geospatial and Sentient Vision Systems partner to integrate Artificial Intelligence sensor analysis for Drones"
+    excerpt: "Integrating autonomous detection for EO and IR video into Kongsberg Geospatial MIDAS will enhance ISR operator mission success"
+    publishedDateTime: 2021-03-25T14:04:00Z
+    webUrl: "https://www.wboc.com/story/43553630/kongsberg-geospatial-and-sentient-vision-systems-partner-to-integrate-artificial-intelligence-sensor-analysis-for-drones"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 14
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20530904_G.jpg?lastEditedDate=1616666641000"
+        width: 900
+        height: 450
+        isCached: true
 
 secured: "wLoi9rNcdt3u8uY422+U6hhsNd1u1NzOCrsYRT6dsWGOnT2RhyksL4QZs0J0zKHcKnlLV5MMwzAQiJCo9C4ePCJCu6da4m/y9aXftMK9FqyWu2S6lfI5yRrsWK2FhuQn9eR565uG3G2T9ggZaL5YHYkNG8J7P1jRoVbhImkVNdR+lRbB7iT1iuC4Qa8Pf3pG/m/B135MI9CQrRcTan6LElKhvKzDvvtdEHm7jk/j2jiPbi5JkjQWFJJqfkriJ4OcbRMiG8SmsM6PQc1nRCEovtofwofem/rLkghCT9x2GjIZVC+t6AtbcmnKFG88KMxuPq6bMYb0T7h8Va0G6qgWo5vd2FSr65fUsUR+5Y219Lo=;CzJQitWHLXpf4O4Stcdeyw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-emerging-technologies-industry-demand-cagr-status-global-competitors-and-future-scope-2021-03-22"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Research, Consumption, Companies, Industry Report, Analysis and Future Demand By 2025"
+    excerpt: "Mar 25, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Artificial Intelligence in Manufacturing Market which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis ..."
+    publishedDateTime: 2021-03-26T00:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-consumption-companies-industry-report-analysis-and-future-demand-by-2025-2021-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

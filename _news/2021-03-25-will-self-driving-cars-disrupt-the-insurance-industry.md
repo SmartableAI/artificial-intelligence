@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Why Caretaking Robots Will Revolutionize The Childcare Industry"
+    excerpt: "Artificial intelligence, clever robots, and computer automation have already become key features of the human experience. The products we enjoy, the social media services we use and the websites we view are not only heavily curated by intelligent algorithms but they are often created by them,"
+    publishedDateTime: 2021-03-26T09:14:00Z
+    webUrl: "https://techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/"
+    ampWebUrl: "https://techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/03/Caretaking-Robots.png"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Neurala Announces Collaboration with FLIR Systems to Deliver Industry-First AI-Powered Industrial Cameras for Industry 4.0"
     excerpt: "Neurala, the leader in vision AI software, announced a collaboration with FLIR Systems Inc. to deliver a full software and hardware stack AI-based industrial imaging solution. Neurala’s vision AI software unlocks the power of deep learning with no-AI-expertise-required,"
     publishedDateTime: 2021-03-25T06:29:00Z

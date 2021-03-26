@@ -8,8 +8,8 @@ webUrl: "https://scroll.in/reel/990484/ok-computer-review-artificial-intelligenc
 ampWebUrl: "https://amp.scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling"
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/156708-wqvgytpvzv-1616656345.jpg"
@@ -26,6 +27,6 @@ images:
     height: 315
     isCached: true
 
-secured: "H+P4JjEM6BUjgrm9wG3if4QWNUavhGZ2S3JaQQ9G7MT6NsQpKz5y58XHY6rkLHWOlMhI2bKpPlWGXa8bzMTquBq1PpEWyxLiKBHyRNHIldghIXoImZGTHdRtUUgvbKDVQZvxR9kAdgoXccMQs5L3O5oiEat73pKEvbz9ARl4Hb1FBmSPvfQ1pU9+t/QgKbJca2pS9TOubwfhrGYQNX5mLvPeGvQrIbaZ0/wM0qQ9ny0xEBwkcr+zEnfTmC8o074HO7RWUkI6BVPtsmXosh9NmFhm8KdvseYUjKyex8EoBWQEY4z4RMFuH1q/agXDrPdBpz1Iwe7+ZpVhdXclT4t4mixzY5XNw5OtQdtW9pT/BgE=;pMqqcIZ9Yv8Zp2C51+0xyA=="
+secured: "Ot9fbrInn03479YhEuTF1FiTNLz7J5tVMlRuUfCpELg0Em7cTcx+qRcYSLt5lsFo/YSPX/0TA0a07VjKm97tSLNHLYF/0V/T57QNLCp5RdOO0sTKEBGklYSadGb98I2Ggq1qo9G7R41TCfR5ov81jB+suET5RdzsopW2tsd8sn/OFX0eJFS80EvTKyFJ+P9YyjuL+rFPTJX2WMlG7CM8fKWOiHhuzMJWxVhpahEby0n/F1ytl/Z+hF3Cyf5IMDXiShaoSaPwM4KNF78/YaHBbjyz3KY5BgU1/rSR0S2fvV/wBvi7IfD4unHIM9cPSokSU5wayG3BR984Bdy+6YU9o0ao7ViVB6Gu+bWxGObhDwa50LjmHdrMGhi4q00wiY6Tm1FkuabyIt/n6hU9uFzB5slmLA0nN5U9Yi9vK6Uw53Y7QRPaLm5FkgW8l0Z70h4zEXSpt9F0dxxAaksMS8DjYflDYidlXEPyCbTpmCJ9v1HtiK3iQuv/bQdfuHYO84R2PT3MavUsiv3skoIh6cWbRQ==;6pG9PhK1rD/7/6MdnCXfzA=="
 ---
 

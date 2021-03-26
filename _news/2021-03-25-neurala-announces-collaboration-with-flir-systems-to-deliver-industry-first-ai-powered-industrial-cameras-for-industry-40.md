@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Why Caretaking Robots Will Revolutionize The Childcare Industry"
+    excerpt: "Artificial intelligence, clever robots, and computer automation have already become key features of the human experience. The products we enjoy, the social media services we use and the websites we view are not only heavily curated by intelligent algorithms but they are often created by them,"
+    publishedDateTime: 2021-03-26T09:14:00Z
+    webUrl: "https://techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/"
+    ampWebUrl: "https://techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/03/Caretaking-Robots.png"
+        width: 700
+        height: 400
+        isCached: true
 
 secured: "8/eC6sTb84F0EMM4jG6pD2gJ6k5Aq8M3R4z1u82QCbIsKrKwBMdJRou1sFE+v8WDYNySIZMY1aGp1ZcqP8i9GYwLHcCuazmsabjNiunMuwxIVvKl4VTLRnNm7w5Es/n8QbN1nTJC3zefeLfX7yoHGI//KmhBqzOQAw0gsj6HFdhPTPxGlX3oX7oHyOru/xcPxlj+Q6jvmuUcK8i86B4u9nElXy0JZYoZp88aHcNBHrfrQIXVqGoUXoH6wZR8Vdx5jmVvU66L8MbUbXJWLuQ0wCfdvERc4UXA7SqbCo8emfP4MPjyfTrlOgy1fxHxuV2BkdX0pNfPMPwJjfsIoOsJXbko93tkxP6Sjt36zMsImXI=;3r5JM44X/MefOL9+lAxXFg=="
 ---

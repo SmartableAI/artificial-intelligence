@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Research, Consumption, Companies, Industry Report, Analysis and Future Demand By 2025"
+    excerpt: "Mar 25, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Artificial Intelligence in Manufacturing Market which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis ..."
+    publishedDateTime: 2021-03-26T00:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-consumption-companies-industry-report-analysis-and-future-demand-by-2025-2021-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "57Xa+DCp36Y2VPjWtT3vHfB+HkgR5U+NQzK9v+qKnJBj5S/2SZiUBqtUKUmW45/H1F6O4nydft9H10dODOD6/aLifjxbgj0Y1xiDxyPTekc+KzqHS53tBi3RlR7UTVhRa7vCjJFPdrQtbe7lKaSfy7ChJbUDwDHCC0Dp0R+Yd6esW+R1UJ+8csswloWBEcfTChqNU+Mp8BSQ3zXeNmgYBDH7kRx86HCWZdXwb2scdBptDhi3fsTTchEwhg/N/pFGALbqtVIWVwYerWRp18tXQvzaS2eNINfxYqpKd8f9Tsd1+is7C6b4nka6A1aaY4db+/evGXWiTMirYKOhBzPNyhhNTlSkdkj/X9NsZgjK/SA=;WNGOb28366fLzTKpI7gPsA=="
 ---

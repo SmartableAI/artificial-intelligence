@@ -86,6 +86,20 @@ related:
       name: ANSA
       domain: ansa.it
     quality: 34
+  - title: "This Mumbai-based Social Analytics Startup Uses AI To Optimise Customer Engagement"
+    excerpt: "Locobuzz enables brands to forge strong relationships with their customers using artificial intelligence, machine learning, big data and analytics."
+    publishedDateTime: 2021-03-26T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/this-mumbai-based-social-analytics-startup-uses-ai-to-optimise-customer-engagement/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Story-of-Locobuzz.png"
+        width: 1600
+        height: 1280
+        isCached: true
   - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
     excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"
     publishedDateTime: 2021-03-25T15:00:00Z

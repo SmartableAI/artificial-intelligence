@@ -78,6 +78,20 @@ related:
       name: ANSA
       domain: ansa.it
     quality: 34
+  - title: "This Mumbai-based Social Analytics Startup Uses AI To Optimise Customer Engagement"
+    excerpt: "Locobuzz enables brands to forge strong relationships with their customers using artificial intelligence, machine learning, big data and analytics."
+    publishedDateTime: 2021-03-26T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/this-mumbai-based-social-analytics-startup-uses-ai-to-optimise-customer-engagement/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Story-of-Locobuzz.png"
+        width: 1600
+        height: 1280
+        isCached: true
   - title: "Moody's Analytics vince nella categoria 'Best Use of AI in Banking or FinTech'"
     excerpt: "Moody's Analytics ha vinto il premio Best Use of AI in Banking or FinTech (Miglior utilizzo dell'IA nel settore bancario o FinTech) ai 2021 Global Achievement Awards for AI. Si tratta di un riconoscim"
     publishedDateTime: 2021-03-23T11:00:00Z
