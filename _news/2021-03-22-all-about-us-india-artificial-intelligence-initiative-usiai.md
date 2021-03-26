@@ -9,7 +9,7 @@ ampWebUrl: "https://m.jagranjosh.com/general-knowledge/amp/all-about-us-india-ar
 cdnAmpWebUrl: "https://m-jagranjosh-com.cdn.ampproject.org/c/s/m.jagranjosh.com/general-knowledge/amp/all-about-us-india-artificial-intelligence-initiative-usiai-1616403169-1"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "All you need to know about the US India Artificial Intelligence initiative"
+    excerpt: "The U.S.-India AI Initiative will provide an opportunity for key stakeholder groups to share experiences, identify new R&D areas and opportunities."
+    publishedDateTime: 2021-03-26T06:13:00Z
+    webUrl: "https://www.dqindia.com/need-know-us-india-artificial-intelligence-initiative/"
+    ampWebUrl: "https://www.dqindia.com/need-know-us-india-artificial-intelligence-initiative/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/need-know-us-india-artificial-intelligence-initiative/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 57
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2017/05/blockchain.jpg"
+        width: 1000
+        height: 542
+        isCached: true
   - title: "The United States and India are set to beat China in Artificial Intelligence"
     excerpt: "The United States and India are logical partners in diagramming the future development of artificial intelligence. The recent US India Artificial Intelligence Initiative will drive further benefits."
     publishedDateTime: 2021-03-22T06:30:00Z

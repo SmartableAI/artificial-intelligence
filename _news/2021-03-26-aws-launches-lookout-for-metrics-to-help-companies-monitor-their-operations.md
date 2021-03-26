@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces General Availability of Amazon Lookout for Metrics"
-    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-    publishedDateTime: 2021-03-25T19:33:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-science-amazoncom-inc-corporate-news-e2e67e8b05e14f69af7bc3cc29d03ed9"
+  - title: "AWS launches machine learning service to monitor business performance"
+    excerpt: "Amazon Web Services (AWS) has announced the general availability of Lookout for Metrics, a new Machine Learning (ML) service to help businesses monitor their performance."
+    publishedDateTime: 2021-03-26T07:45:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/aws-launches-machine-learning-service-to-monitor-business-performance-4ef75536-78e6-45c2-ac2c-407bc1d85a67"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
+      name: IOL News
+      domain: iol.co.za
+    quality: 56
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Introducing Amazon Lookout for Metrics: An anomaly detection service to proactively monitor the health of your business"
-    excerpt: "Anomalies are unexpected changes in data, which could point to a critical issue. An anomaly could be a technical glitch on your website, or an untapped business opportunity. It could be a new marketing channel with exceedingly high customer conversions. As businesses produce more data than ever before,"
-    publishedDateTime: 2021-03-25T19:16:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-lookout-for-metrics-an-anomaly-detection-service-to-proactively-monitor-the-health-of-your-business/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 50
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/25/1-Architecture2616.jpg"
-        width: 700
-        height: 354
+      - url: "https://image-prod.iol.co.za/resize/3000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9e3c3dfa-9ddd-5a12-b98a-28ef9b164ac7&operation=CROP&offset=0x236&resize=3000x1688"
+        width: 650
+        height: 366
         isCached: true
 
 secured: "OMQNeHRR6quEK/8gAIXjaUyvErMFSN74XQ6PfoCnOkTi4mUARQMM3oIQrli9sn7/kMYgPBkQID/ucxY3ytDxtKVCDY4K4nFincqrjYkRnVZanEcIlqTC3yoLWn7XYg+OU5xX4hzjkriQRneadaSeBLzlHhll8DKNBIph5/6xhNYrWmMEmOawt54Nwv1qXbneJ7RnHgQeAakEP/Lgs5p9C5UfunDj8UMQ/FWJgalptNzaaNdk2B9f5TR4if4xfN1gXBJK5yII6SowAHeOaM4WZ5lTxVjAY+CHRBtm/Se5yWHHo7mQtwkEBQ83e8/TFvliS8cHwTDwHSVA/HWrDkO/l9p9x0XHIC1MQeoHs1vAJDAnRRC2JPg0M488BovmB6fFCIejZ/rzRwqc+VSUlZHS5WjfHAv4TXPjZpwqMLpRNCwofbzMNCa0VNJK88HIkoBeWhxS3dUxDoCxA2yNfq18xP+M2G4UGDBkMAf1eDoI18boRnc/cHYwTxnHnP6hI/NN/Smz/JVtF0/8u5e5cci6vA==;wAtqZwKSBZ70O8iGH1lkoQ=="

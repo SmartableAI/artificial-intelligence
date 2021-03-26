@@ -40,6 +40,22 @@ related:
         width: 640
         height: 479
         isCached: true
+  - title: "All you need to know about the US India Artificial Intelligence initiative"
+    excerpt: "The U.S.-India AI Initiative will provide an opportunity for key stakeholder groups to share experiences, identify new R&D areas and opportunities."
+    publishedDateTime: 2021-03-26T06:13:00Z
+    webUrl: "https://www.dqindia.com/need-know-us-india-artificial-intelligence-initiative/"
+    ampWebUrl: "https://www.dqindia.com/need-know-us-india-artificial-intelligence-initiative/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/need-know-us-india-artificial-intelligence-initiative/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 57
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2017/05/blockchain.jpg"
+        width: 1000
+        height: 542
+        isCached: true
 
 secured: "3dYFgaYkb9hLB9N11ZyJu7df3X4lTqCVM3oTQ2UPSC6VnQE9TuCsKkDcGD5ByCrkvzgsEjaSbqDKgTTmvR8yKSV5MWtDAwF7PGQvW/lFxnZWJU9X/d+EjW+FF2dd+jfrHuVhRHx4b09/3wGUTggjMzjpM0Wge821uA3OmdqambquqD+/nCLwBl2S4vV+TtmUSRB17w5qJCShrlhYT4xLe0xl6z3MOEt2ClvliGOsMJTpioC5iMD4XNE/X+JablykX0sY2dcBhdz23yFlIotbvzZXox8ppbIXE6J4uSCuUQYZIvvEDI93sk2kTgVSioLLAPGKum275HZ6MIqp70G8QIAg6pJOeJUXkxFY2688kMM=;R9a5e+XV3cMKjPOwSByZqA=="
 ---

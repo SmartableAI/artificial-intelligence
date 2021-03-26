@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud?amp"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -109,15 +109,6 @@ related:
         width: 1024
         height: 726
         isCached: true
-  - title: "FinTech, digital banking makes gains against traditional banking systems"
-    excerpt: "Digital banking is not a fixed concept but a spectrum, and individual banks need to decide where on that spectrum they wish to place themselves, says Paul Kayrouz"
-    publishedDateTime: 2021-03-21T14:47:00Z
-    webUrl: "https://www.arabianbusiness.com/commercial-banking/460581-fintech-digital-banking-makes-gains-against-traditional-banking-systems"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 33
   - title: "RIA-Founded Fintech Introduces Next-Generation Tax Planning Tool"
     excerpt: "FP Alpha's AI-driven Tax Snapshot can instantly read and create planning recommendations from client tax forms."
     publishedDateTime: 2021-03-24T20:24:00Z

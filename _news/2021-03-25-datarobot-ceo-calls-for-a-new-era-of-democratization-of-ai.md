@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -119,15 +119,6 @@ related:
         width: 1024
         height: 726
         isCached: true
-  - title: "FinTech, digital banking makes gains against traditional banking systems"
-    excerpt: "Digital banking is not a fixed concept but a spectrum, and individual banks need to decide where on that spectrum they wish to place themselves, says Paul Kayrouz"
-    publishedDateTime: 2021-03-21T14:47:00Z
-    webUrl: "https://www.arabianbusiness.com/commercial-banking/460581-fintech-digital-banking-makes-gains-against-traditional-banking-systems"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 33
   - title: "Risk management challenges on Fintechs labor to financial inclusion"
     excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
     publishedDateTime: 2021-03-25T02:04:00Z
