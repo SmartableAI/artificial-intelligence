@@ -9,7 +9,7 @@ ampWebUrl: "https://9to5mac.com/2021/03/25/apple-bought-more-ai-companies-than-a
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/03/25/apple-bought-more-ai-companies-than-anyone-else-between-2016-and-2020/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

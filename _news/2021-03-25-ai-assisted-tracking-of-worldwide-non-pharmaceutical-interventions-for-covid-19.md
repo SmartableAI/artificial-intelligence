@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "300+ COVID-19 Machine Learning Models Have Been Developed – None Is Suitable for Detecting or Diagnosing"
+    excerpt: "Researchers have found that out of the more than 300 COVID-19 machine learning models described in scientific papers in 2020, none of them is suitable for detecting or diagnosing COVID-19 from standard medical imaging,"
+    publishedDateTime: 2021-03-24T10:37:00Z
+    webUrl: "https://scitechdaily.com/300-covid-19-machine-learning-models-have-been-developed-none-is-suitable-for-detecting-or-diagnosing/"
+    ampWebUrl: "https://scitechdaily.com/300-covid-19-machine-learning-models-have-been-developed-none-is-suitable-for-detecting-or-diagnosing/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/300-covid-19-machine-learning-models-have-been-developed-none-is-suitable-for-detecting-or-diagnosing/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 42
+    images:
+      - url: "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg"
+        width: 777
+        height: 518
+        isCached: true
   - title: "FDA Approves Machine Learning Tool for COVID-19 Screening"
     excerpt: "The screening device leverages machine learning to identify certain biomarkers that may be indicative of COVID-19."
     publishedDateTime: 2021-03-23T13:30:00Z

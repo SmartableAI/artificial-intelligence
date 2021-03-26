@@ -7,8 +7,8 @@ originalUrl: "https://www.dcvelocity.com/articles/49989-a-look-into-the-future-o
 webUrl: "https://www.dcvelocity.com/articles/49989-a-look-into-the-future-of-robotics"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: DC Velocity
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "What role does human-robot interaction play in the future of AI?"
+    excerpt: "Professor Guo and her team’s work brings attention to an important question – what role does human-robot interaction play in the future of AI? Should projects such as hers continue and become more widespread,"
+    publishedDateTime: 2021-03-26T04:02:00Z
+    webUrl: "https://thestute.com/2021/03/26/what-role-does-human-robot-interaction-play-in-the-future-of-ai/"
+    type: article
+    provider:
+      name: Facebook | The Stute
+      domain: thestute.com
+    quality: 34
   - title: "Taking a quantum leap into the future of financial services"
     excerpt: "The race for quantum supremacy may grab headlines, but it feels removed from our daily lives. Quantum computing – the ability to solve incredibly complex problems exponentially faster than today’s supercomputers can – sounds great for answering larger-than-life questions,"
     publishedDateTime: 2021-03-26T03:36:00Z

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-02-artificial-intelligence-technology-solutions-announces-executive-team-expansion.md",
+      "title": "Artificial Intelligence Technology Solutions Announces Executive Team Expansion",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that Garett Parsons has appointed Steven Reinharz as CEO, CFO and Se",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210302005458/en/Artificial-Intelligence-Technology-Solutions-Announces-Executive-Team-Expansion",
+      "originalUrl": "https://www.businesswire.com/news/home/20210302005458/en/Artificial-Intelligence-Technology-Solutions-Announces-Executive-Team-Expansion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-fuji-and-motus-ventures-collaborating-on-robotics-and-ai.md",
       "title": "FUJI and Motus Ventures Collaborating on Robotics and AI",
       "excerpt": "Motus Ventures, an early stage venture capital firm and business accelerator investing in deep technology businesses, announced today that FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation,",
@@ -1329,49 +1363,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-autel-robotics-evo-drone-review_.md",
-      "title": "Autel Robotics EVO Drone Review_",
-      "excerpt": "The Autel Robotics EVO Drone gives you a high quality ... Like the DJI Mavic Pro Quadcopter, you’re getting a pretty impressive range of control distance with this “follow me” drone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetreview.com/autel-robotics-evo-drone-review",
-      "originalUrl": "https://www.gadgetreview.com/autel-robotics-evo-drone-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gadgetreview.com/wp-content/uploads/2021/02/Autel-Robotics-EVO-Drone-Review.jpg",
-          "width": 2112,
-          "height": 1188,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadget Review",
-        "domain": "gadgetreview.com",
         "images": null,
         "publishers": null,
         "authors": null

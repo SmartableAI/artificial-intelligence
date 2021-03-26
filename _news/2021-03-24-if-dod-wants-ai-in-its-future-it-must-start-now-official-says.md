@@ -38,6 +38,20 @@ related:
         width: 1280
         height: 912
         isCached: true
+  - title: "If DOD wants AI in its future, it must start now, official says"
+    excerpt: "Now is the time for decision makers, commanders and policymakers within the Defense Department to get on board with fully implementing artificial intelligence, the director of the Joint Artificial Intelligence Center said."
+    publishedDateTime: 2021-03-25T17:47:00Z
+    webUrl: "https://www.aerotechnews.com/blog/2021/03/25/if-dod-wants-ai-in-its-future-it-must-start-now-official-says/"
+    type: article
+    provider:
+      name: Aerotech New
+      domain: aerotechnews.com
+    quality: 37
+    images:
+      - url: "https://www.aerotechnews.com/wp-content/uploads/2021/03/dod-ai3.jpg"
+        width: 602
+        height: 514
+        isCached: true
 
 secured: "YD1Ilj+nM1/J5A6EwEBNkrlxf31GXUccpDvXkNktm8ZgLwm7wuJ/vZD8R4wpkApTAskFaOzWm01+7ug86x41KOIkjNHdk8Vk1Xq7TQLlGoo3i/IdjGIFr30sbSfPxYzECI+3huvkPGqx3pNOHaa2qqUKKkadf6Ehhu+3/RHgZ6RsV7gVd/y72g+f3HFRkKWhY5B9s7uFzf8XjfE/An9761hKZV6fpJmhbAkoGVK0fGfEpvXmIw84GZAJD65p43siE5KfqF3cxOVPBedBs843ZV9Ght5EsRDosdbq2Yd9jzrseTt8nUTAYHxKESU2CwwRMsPFe1tpBdrQjEu9aLeHLzuXO5eC9YSC9PLMKqWSQT9jW+285s3xAMiAqD+8BOH3n81gX3QS0RHTvZUW0ZshPekAzAUc8z3Qb3m38Hq5jRUgAopxC/rOnb85CqwbU/7Nox+Ydqkt6aBg/fDc7ExW8bsiJzdNAJnPVwEFQ7CuRQFJvIgf/trZhcb8pdc73mndFRo2Ajkau6zC9uFveqdAUw==;40L9cVKKBoIMCs7HHHgNQA=="
 ---

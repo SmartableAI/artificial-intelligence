@@ -39,6 +39,15 @@ related:
         width: 953
         height: 635
         isCached: true
+  - title: "What role does human-robot interaction play in the future of AI?"
+    excerpt: "Professor Guo and her team’s work brings attention to an important question – what role does human-robot interaction play in the future of AI? Should projects such as hers continue and become more widespread,"
+    publishedDateTime: 2021-03-26T04:02:00Z
+    webUrl: "https://thestute.com/2021/03/26/what-role-does-human-robot-interaction-play-in-the-future-of-ai/"
+    type: article
+    provider:
+      name: Facebook | The Stute
+      domain: thestute.com
+    quality: 34
 
 secured: "d3dec9+yC7g7tEa3U/JJ4su76GOzNhn0TJNsuZAloS70rDm1kS4NQJqBJziQSlVDTLzDnHSVBsDDR4lf31GBCtRoNxSOvNE+v6dlpVzKGtQATLsYZlbjZTt+FyR4T2vu3yZS2IBGHcDYBDCsCNPBmGVML0Ez4XHDZoRFvYZ3jVNTIRrDgQHggxxKuhaCKN0eaFJsdc9FEq4olcfPlxs9gpDRo2OyD74DxFStG/SPMj61nzkWPsKzbGyCAH/yDPRToEW6nr75iqV4Ia10wINqYkxmQGG4r61sZiFfWLEaRSI0tI0Rj+W9C72EeioT63K26pdarXNtv9lFsz5Rt1lFC7Vf2FrSW0VovbsEBY8JGv8=;6VGh73A2DccKwE+82bWVtw=="
 ---

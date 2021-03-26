@@ -2,6 +2,103 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-03-10-researchers-accelerate-sparse-inference-on-xnnpack-and-tensorflow-lite-for-realtime-apps.md",
+      "title": "Researchers accelerate sparse inference on XNNPack and TensorFlow Lite for realtime apps",
+      "excerpt": "XNNPack and TensorFlow Lite now support efficient inference of sparse networks. Researchers demonstrated substantial speedups in inference times on realtime gesture detection and background blur apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/researchers-accelerate-sparse-inference-on-xnnpack-and-tensorflow-lite-for-realtime-apps/",
+      "originalUrl": "https://www.neowin.net/news/researchers-accelerate-sparse-inference-on-xnnpack-and-tensorflow-lite-for-realtime-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/03/1615353472_google_ai_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T17:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.md",
+      "title": "Plus Using Nvidia Orin AI Chip for Self Driving Semi Truck in 2022",
+      "excerpt": "Intelligent Holographic Nanostructures Can Reach 400 EXAFlops and Beyond Human Brain Neural Density Tesla China Car Sales Strong in February Space Tourism and Industry to Get to Colonization Critical Mass Space Tourism and Industry to Get to Colonization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html",
+      "originalUrl": "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nextbigfuture.com/wp-content/uploads/2021/03/plusnvidiaselfdriving.jpg",
+          "width": 903,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp",
+      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp",
+      "publishedDateTime": "2021-03-09T16:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NextBigFuture",
+        "domain": "nextbigfuture.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-visionnav-at-ltt-2021-driverless-industrial-vehicles-with-latest-vision-technology-renovating-factory-intralogistics.md",
       "title": "VisionNav at LTT 2021: Driverless Industrial Vehicles with Latest Vision Technology Renovating Factory Intralogistics",
       "excerpt": "Behind the innovative products and solutions VisionNav showcased at Logis-Tech Tokyo 2021 (LTT 2021) is a driverless story of how the company helps its customers quickly upgrade intralogistics not even to the COVID pandemic.",
@@ -1068,92 +1165,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-assessing-regulatory-fairness-through-machine-learning.md",
-      "title": "Assessing regulatory fairness through machine learning",
-      "excerpt": "The perils of machine learning – using computers to identify and analyze data patterns, such as in facial recognition software – have made headlines",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/",
-      "originalUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2021/03/AI_policymaking.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/",
-      "publishedDateTime": "2021-03-09T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-google-open-sources-automl-algorithm-model-search.md",
-      "title": "Google Open-Sources AutoML Algorithm Model Search",
-      "excerpt": "A team from Google Research has open-sourced Model Search, an automated machine learning (AutoML) platform for designing deep-learning models.Experimental results show that the system produces ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/03/google-model-search/",
-      "originalUrl": "https://www.infoq.com/news/2021/03/google-model-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/03/google-model-search/en/headerimage/google-model-search-header-1614468411315.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -25,21 +25,32 @@ images:
     isCached: true
 
 related:
-  - title: "'Healthcare providers globally are applying AWS ML services to store data'"
-    excerpt: "Biotechnology companies have accelerated their use of cloud computing, machine learning (ML), and analytics for advancing research and development..More than 100,000 customers use AWS for ML today, right from creating a more personalized customer experience to developing personalized pharmaceuticals."
-    publishedDateTime: 2021-03-21T13:01:00Z
-    webUrl: "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data-11616328938337.html"
-    ampWebUrl: "https://www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/healthcare-providers-globally-are-applying-aws-ml-services-to-store-data/amp-11616328938337.html"
+  - title: "Artificial Intelligence. Healthcare. ‘ARKQ’ Is Investing in the Future"
+    excerpt: "Due to its status as one of the premier avenues for accessing artificial intelligence (AI) and related equities, ARKQ is levered to an important theme in healthcare innovation – an arena where AI is increasingly prominent. Artificial intelligence (AI ..."
+    publishedDateTime: 2021-03-24T13:27:00Z
+    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24"
+    ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 91
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
+  - title: "AI in Healthcare: Where Technology Meets Humanity"
+    excerpt: "Businesses across the globe are taking advantage of the transformative powers of technology. Among these technologies is Artificial Intelligence (AI), a"
+    publishedDateTime: 2021-03-23T09:45:00Z
+    webUrl: "https://www.albawaba.com/business/ai-healthcare-where-technology-meets-humanity"
+    ampWebUrl: "https://www.albawaba.com/amp/business/ai-healthcare-where-technology-meets-humanity"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/ai-healthcare-where-technology-meets-humanity"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 76
     images:
-      - url: "https://images.livemint.com/img/2021/03/21/600x338/Rahul_Sharma_AWS_high-res_1616328978603_1616329009988.jpg"
-        width: 575
-        height: 338
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/Sama%20al%20Kurdi/AIHealthSector-shutterstock-22Mar2021.jpg?itok=CIsgEZu7"
+        width: 1000
+        height: 471
         isCached: true
 
 secured: "RZG6+nonIjjFPeEs9+gyfLa/wIbko4hdeu/+cbX7Gjg7ua70rxM5ZVQvml6fPCnQGO3W5yzLL7HY6xlwNcTgOtgHcb8je68gaLQfAaBFexgylj15ecx7nHiYRdnqMoywynxjLlQOn2eQduwANQ9vbPfn7JU9bfyFxIHGGdLqRRbX4r7D8TynBeK98oU0Ey7bJA3o3jTyg7j3NwkkCaJrCpSzyOE468ZI1WuloZG5FllSKxWQUCgx2BMlIrw+6kmx3gl6k1De4HOmuo+pUYShgJxWkAjnCMy3nc8f31HIZNIVEBmMwA7OFPhWBRKMWLigFVCfMpdPmqoH6N2W19deZGzzg0qu7QrGw+DV/LNTCBxOWfbEsfbkv7AoxbGAlEo36ERCy7gYwQApD1cMVh8TL8wJ/brYqddjId96+91ELEGlC1MBZMJ7mh80TjxMYH6a7N5fbfaHAOHPl3Wh0deRAsge1HvVOr+ibPpIsmL/09H+m02PKVPgS7Owo4Hn8BMRxH+NX3JUv9J4CpfRJUTxVw==;RHROM7zX7va8FGOZpAF34A=="

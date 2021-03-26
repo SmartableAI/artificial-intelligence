@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-22-ai-could-enable-swarm-warfare-for-tomorrows-fighter-jets.md",
+      "title": "AI Could Enable 'Swarm Warfare' for Tomorrow's Fighter Jets",
+      "excerpt": "A Pentagon project is testing scenarios involving multiple aircraft that could change the dynamics of air combat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-enable-swarm-warfare-fighter-jets/",
+      "originalUrl": "https://www.wired.com/story/ai-enable-swarm-warfare-fighter-jets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/605543347d3068f6d196ea9b/master/pass/business_swarm_1164695326.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-enable-swarm-warfare-fighter-jets/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-enable-swarm-warfare-fighter-jets/amp",
+      "publishedDateTime": "2021-03-22T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-22-mithril-dives-into-chips-again-with-a-55m-infusion-to-flex-logix.md",
       "title": "Mithril dives into chips again with a $55M infusion to Flex Logix",
       "excerpt": "The once untouchable semiconductor sector continues to attract fervent attention from VCs. The latest news this morning is that Ajay Royan of Mithril Capital has led a $55 million Series D round of financing into Flex Logix,",
@@ -164,7 +215,7 @@
       "originalUrl": "https://www.indiatvnews.com/technology/news-face-recognition-with-smiles-winks-could-increase-phone-security-692710",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -1174,49 +1225,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-the-future-of-driverless-cars-is-now.md",
-      "title": "The future of driverless cars is now",
-      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous vehicles (AVs ... consumers across the age spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among male respondents and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html",
-      "originalUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailytribune.com/content/tncms/assets/v3/editorial/5/6c/56cfd92c-ae3a-5dd0-bbe7-b7f5ebc24490/6042b86fd8efb.image.jpg?resize=1024%2C576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html",
-      "cdnAmpWebUrl": "https://www-dailytribune-com.cdn.ampproject.org/c/s/www.dailytribune.com/lifestyles/vitality/the-future-of-driverless-cars-is-now/article_80b687c0-b6bb-5760-854d-0df7404c0b3a.amp.html",
-      "publishedDateTime": "2021-03-20T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Tribune",
-        "domain": "dailytribune.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

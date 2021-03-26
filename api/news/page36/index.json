@@ -2,6 +2,92 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-02-25-waterbridge-invests-in-nymble-labs-building-a-robot-that-can-cook-food.md",
+      "title": "WaterBridge Invests In Nymble Labs Building A Robot That Can Cook Food",
+      "excerpt": "It uses artificial intelligence (AI) and machine ... is another consumer kitchen startup Rotimatic, which is a roti cooking bot, which looks like a box but it is a robot. Rotimatic is available ...",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/",
+      "originalUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/amp/",
+      "publishedDateTime": "2021-02-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products.md",
+      "title": "Amazon launches computer vision service to detect defects in manufactured products",
+      "excerpt": "Amazon today announced the general availability of Amazon Lookout for Vision, a cloud service that analyzes images using computer vision and AI to spot product or process defects and anomalies in manufactured products.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/",
+      "originalUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/amp/",
+      "publishedDateTime": "2021-02-24T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.md",
       "title": "Using machine learning to identify blood biomarkers for early diagnosis of autism",
       "excerpt": "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,",
@@ -1098,109 +1184,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-cloud-observability-startup-opscruise-emerges-from-stealth.md",
-      "title": "Cloud observability startup OpsCruise emerges from stealth",
-      "excerpt": "OpsCruise, a cloud availability startup leveraging AI to detect performance anomolies, emerged from stealth with venture backing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/",
-      "originalUrl": "https://venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/federated_learning.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/amp/",
-      "publishedDateTime": "2021-02-24T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing.md",
-      "title": "Blueshift raises $30M for its AI-based, integrated approach to marketing",
-      "excerpt": "The concept of the “marketing cloud” — sold by the likes of Salesforce, Oracle and Adobe — has become a standard way for large tech companies to package together and sell marketing tools to businesses that want to improve how they use digital channels to grow their business.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/",
-      "originalUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1010660260.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/amp/",
-      "publishedDateTime": "2021-02-24T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

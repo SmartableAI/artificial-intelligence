@@ -24,6 +24,17 @@ images:
     height: 1200
     isCached: true
 
+related:
+  - title: "Invision AI, Thales and Metrolinx are Successfully Reshaping the Future of Autonomous Rail"
+    excerpt: "Thales, a global leader in high technology solutions, Invision AI, a Toronto-based technology start-up and Metrolinx, the regional transportation agency for the Province of Ontario, have joined forces to help shape the future of transit technology with support from the Ontario government,"
+    publishedDateTime: 2021-03-26T05:52:00Z
+    webUrl: "https://www.newswiretoday.com/news/175079/Invision-AI-Thales-and-Metrolinx-are-Successfully-Reshaping-the-Future-of-Autonomous-Rail/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 7
+
 secured: "9QzacU4048epMKLVb6og9zdvc/OFJXL2Cvzwva0wJ2EnDILEMxd0BLZfgjZu9+R5BdTBzkvyoHhtcXYzYk9r3h2cMR6e3Qtlw6JJUvolYRwYjfcS6v8GAfIN5PoCBj16YP1qgc+3UlWzGxmYnK0DRoKmnF2wGyfgZ0LRu/ebz4sRFoo4qS9K4MbYLFEAo+yAbrhUHwkZf0DuNTB0U05KfIlGNQBBfleRpUW1THjRMp9dksVHWT7sFJp1t56nMxRfYDP3fpWBSIy8fT7vkDQQPsrAY4SdS/D74papMhhEeAqL9aOrhl0laKAlbL3sGI3bQYTVa+GRA5y2XC0kCJcPQuM0ag2uv4c6A4HMD53W+Oxu+71q1hTOtnIFDK1n8wkr3AARBLEuXX0xcykKEKqJa109m1IrkTRHmpUfR81DEURv8bJyME+xIntxGFyz2mPfjtblgORzzEIa8KeB8JWtGXlgahoIL3DaKjfi+dRMQPoHEB9ItccDIiT6F5FOleQxYimvpYl5Op9gn2NsTiOihQ==;FK/Bby7bKeZi06xD0I0Krg=="
 ---
 

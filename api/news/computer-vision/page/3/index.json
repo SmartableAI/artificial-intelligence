@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-28-facebook-doesnt-seem-to-mind-that-facial-recognition-glasses-would-endanger-women.md",
+      "title": "Facebook doesn't seem to mind that facial recognition glasses would endanger women",
+      "excerpt": "Facebook is considering building facial recognition capabilities into its smart glasses – which would make life easy for stalkers Last modified on Sat 27 Feb 2021 09.02 EST Sign up for the Week ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2021/feb/27/facebook-facial-recognition-glasses-would-endanger-women",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2021/feb/27/facebook-facial-recognition-glasses-would-endanger-women",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/962e222e3e9d5dd61acba784516658205c0e460e/0_371_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ec13c44eb5a720fa35ba8589255deeaa",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/feb/27/facebook-facial-recognition-glasses-would-endanger-women",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/feb/27/facebook-facial-recognition-glasses-would-endanger-women",
+      "publishedDateTime": "2021-02-27T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-how-one-state-managed-to-actually-write-rules-on-facial-recognition.md",
       "title": "How One State Managed to Actually Write Rules on Facial Recognition",
       "excerpt": "Massachusetts is one of the first states to put legislative guardrails around the use of facial recognition technology in criminal investigations.",
@@ -1321,49 +1373,6 @@
       "provider": {
         "name": "Times Union",
         "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-uae-approves-facial-recognition-in-some-key-sectors-how-the-technology-is-changing-our-world.md",
-      "title": "UAE approves facial recognition in some key sectors: How the technology is changing our world",
-      "excerpt": "UAE Cabinet has announced a decision to allow use of facial recognition in certain sectors With today's facial recognition kits, lightning-speed computations based on a spaghetti of codes and ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/special-reports/uae-approves-facial-recognition-in-some-key-sectors-how-the-technology-is-changing-our-world-1.1613489780323",
-      "originalUrl": "https://gulfnews.com/special-reports/uae-approves-facial-recognition-in-some-key-sectors-how-the-technology-is-changing-our-world-1.1613489780323",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/02/16/today-s-facial-recognition-_177abb68216_large.jpg",
-          "width": 750,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/special-reports/uae-approves-facial-recognition-in-some-key-sectors-how-the-technology-is-changing-our-world-1.1613489780323",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/special-reports/uae-approves-facial-recognition-in-some-key-sectors-how-the-technology-is-changing-our-world-1.1613489780323",
-      "publishedDateTime": "2021-02-16T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
         "images": null,
         "publishers": null,
         "authors": null
