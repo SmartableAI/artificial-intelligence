@@ -39,6 +39,20 @@ related:
         width: 600
         height: 657
         isCached: true
+  - title: "Informatica Wins Industry Accolades for Cloud Innovation, AI, and Data Privacy Excellence"
+    excerpt: "Informatica, the enterprise cloud data management leader, announced a Gold and several Silver wins in the Globee 17th Annual 2021 Cyber Security Global Excellence Awards. Informatica was the Gold award winner in the Privacy Solutions category,"
+    publishedDateTime: 2021-03-26T10:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-19717475.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 30
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "fLlSGlG4YlD2KSvzV7ysJMwmb/m1DJ8sNIKPUYQbGJkXZWj2FGwBeYgG+rZht1Y9Ev57vcdstKprS95WyPeRVq+OABRqRVVFGLZvFyAFI3Qdj1fBd5VL3kkDFciAPERvvsf3/jI0XYVnp2Y90iikEXmDJYc6moNVg+9hKkgxbW3g7D5VZUXgGiwZmf4U8a5Ye2gyFjKr5ZxpOornbkZK9/dWzYQPvjebsvA+r7JmTgBsM92Qh3NoeT49VEo+e0CdGJcuv2verMNmaIXLT5u35XqTqML0plfvWPWCGlGHoC4lkAFed98CjHmdDFXH92m3H0fafPaoPdmLmmwlat4QLckl0dxw21k/peQufH/30zA=;sOlnu05ik3uGcO2XhZyPGQ=="
 ---

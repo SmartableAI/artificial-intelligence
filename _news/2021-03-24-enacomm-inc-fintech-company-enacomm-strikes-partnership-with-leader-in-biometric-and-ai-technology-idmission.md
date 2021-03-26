@@ -48,9 +48,9 @@ related:
         height: 450
         isCached: true
   - title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
-    excerpt: "VILNIUS, Lithuania, March 23, 2021 /PRNewswire/ -- Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS ..."
+    excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey biometric solution."
     publishedDateTime: 2021-03-23T10:03:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-eastern-europe-6d0bd9a8bc0ffe9159a33c0c10341a11/gallery/fa93857d0cdf15af54ea942035d88193"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-eastern-europe-6d0bd9a8bc0ffe9159a33c0c10341a11"
     type: article
     provider:
       name: Associated Press

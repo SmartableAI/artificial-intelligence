@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla delays Full Self-Driving beta access, Musk promises changes next month"
-    excerpt: "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0."
-    publishedDateTime: 2021-03-23T15:35:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
+  - title: "Self-driving Tesla smashes into police car as teen blames ‘autopilot’"
+    excerpt: "Two teenagers blamed the “autopilot” function of the Tesla they were in when it crashed into a police car. But police in Florida’s Palm Coast say there’s more to the story. The crash took place last week after police pulled over the 2018 Tesla ..."
+    publishedDateTime: 2021-03-25T22:27:00Z
+    webUrl: "https://7news.com.au/travel/driving/self-driving-tesla-smashes-into-police-car-as-teen-blames-autopilot-c-2441165"
+    ampWebUrl: "https://7news.com.au/travel/driving/self-driving-tesla-smashes-into-police-car-as-teen-blames-autopilot-c-2441165.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/travel/driving/self-driving-tesla-smashes-into-police-car-as-teen-blames-autopilot-c-2441165.amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
+      name: 7news
+      domain: 7news.com.au
+    quality: 59
     images:
-      - url: "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Musk Says Tesla Will Wait For Progress On Full Self Driving Before Wider Rollout"
-    excerpt: "Last week, it seemed Tesla Inc (NASDAQ: TSLA) planned a wider rollout of the company's Full Self Driving Beta, an optional software upgrade that allows Tesla vehicles"
-    publishedDateTime: 2021-03-22T17:30:00Z
-    webUrl: "https://www.benzinga.com/tech/21/03/20281589/musk-says-tesla-will-wait-for-progress-on-full-self-driving-before-wider-rollout"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20281589"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20281589"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 84
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_5.jpg"
-        width: 1100
-        height: 619
+      - url: "https://images.s.7news.com.au/publication/C-2441165/7c3306b2a546f9d44761167ae47d47936d6cb3fd-16x9-x0y54w1024h576.jpg?imwidth=1024"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "Tc8e+/vzatY2D7kJGenNf2E9vMe++7cJ+nCD8tDo+0f0XqaL18uHZ54wX53PezOk1NZWhFeAmRXKUYFEl7zO+5TlZYYo1pXwPbGWasZPhSvc/lAx5nv4tgOHeW1aiY97DFN285irQrHEShktHj0hiw3QkAZbD4v3fhBFGvWBae3PdgMTAvy6T3VJLQCux/cUQOOk6vxedx7ezqasQZxS5w+3xxiIvUJzpDOAVjCYoZDJhCO5S2crH/RQl5is3oqkUK3FT4652Ni83DFOIjguU++633/qoN72sKNpmUOhql4I4tO55tkePu6cK6+sIV20AETMG3Hdsp7YILj1/cnfhqzNnQ0EbUlcRkvniT/C+9ZyfHsMPlXUZBjtGVOt8XsWQ51gYNVcdeWmVtt+c0uc7CxdvLdfuHlOQ1p6cFjxRjJA5wPkwpQ3KtCdp+bihCKIEKrOOxFU6b1O0xXgj58qmDlBN86/ocbjJsgGucSbXB+u61IT+/Wdu/i6XbkIlk9ibN8TzJSwUqCxQWeq+1XWWg==;xkwZIjmk1IMKEH6dJFaWEg=="

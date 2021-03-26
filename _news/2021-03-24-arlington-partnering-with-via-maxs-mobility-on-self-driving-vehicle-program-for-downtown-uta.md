@@ -25,95 +25,127 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving vehicle service launches in Arlington"
-    excerpt: "Forget Uber. Move over, Lyft. In Arlington, you can catch a self-driving ride. The city now has a small fleet of self-driving vehicles that will"
-    publishedDateTime: 2021-03-24T14:03:00Z
-    webUrl: "https://www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/"
-    ampWebUrl: "https://www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/?outputType=amp"
+  - title: "Tesla cancels Full Self-Driving expansion ahead of major update"
+    excerpt: "Tesla is delaying an upgrade to its Full Self-Driving software until a major development can be implemented in April. A new version was supposed to be"
+    publishedDateTime: 2021-03-23T13:19:00Z
+    webUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update"
+    ampWebUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 44
+      name: Fox News
+      domain: foxnews.com
+    quality: 89
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/n2rLFs4Knkkc4gdEKSvA0eB_-bA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LBGOHI7EQJDWXB5OAPNGRIO4HY.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/fsd-.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Tesla delays Full Self-Driving beta access, Musk promises changes next month"
+    excerpt: "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0."
+    publishedDateTime: 2021-03-23T15:35:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 86
+    images:
+      - url: "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Chipotle invests in self-driving delivery company Nuro"
-    excerpt: "Chipotle Mexican Grill has invested in a robotics company that operates a fleet of self-driving delivery vehicles."
-    publishedDateTime: 2021-03-25T12:40:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/chipotle-invests-self-driving-delivery-company-nuro"
-    ampWebUrl: "https://www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
-    cdnAmpWebUrl: "https://www-restaurantbusinessonline-com.cdn.ampproject.org/c/s/www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
+  - title: "Musk Says Tesla Will Wait For Progress On Full Self Driving Before Wider Rollout"
+    excerpt: "Last week, it seemed Tesla Inc (NASDAQ: TSLA) planned a wider rollout of the company's Full Self Driving Beta, an optional software upgrade that allows Tesla vehicles"
+    publishedDateTime: 2021-03-22T17:30:00Z
+    webUrl: "https://www.benzinga.com/tech/21/03/20281589/musk-says-tesla-will-wait-for-progress-on-full-self-driving-before-wider-rollout"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20281589"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20281589"
     type: article
     provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 44
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 84
     images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-03/background/400x600/Nuro-Shutterstock_1616675375.jpg?hY1FEGOKg9dyRqNux1KxGDPzYVMlUWRw"
-        width: 400
-        height: 210
+      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_5.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Need a Ride in Arlington? You Might Be Picked Up by a Self-Driving Vehicle"
-    excerpt: "A fleet of new self-driving vehicles are now making their way around the streets of Arlington. The Arlington Rapid Pilot Program has integrated on-demand autonomous vehicle service into a transportation service. Download our NBC DFW mobile app for Apple or ..."
-    publishedDateTime: 2021-03-24T00:38:00Z
-    webUrl: "https://www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/"
-    ampWebUrl: "https://www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/?amp"
-    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/tech/need-a-ride-in-arlington-you-might-be-picked-up-by-a-self-driving-vehicle/2586900/?amp"
+  - title: "Tesla Pseudo LIDAR Using Just Cameras And Imminent Acceleration of Self Driving Improvement"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2021-03-25T23:45:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
     type: article
     provider:
-      name: NBC DFW
-      domain: nbcdfw.com
-    quality: 42
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 66
     images:
-      - url: "https://i2.wp.com/media.nbcdfw.com/2021/03/FIFO-SVR52_8AM-12PM__03-23-2021_2021-03-23-12-26-01_08-32-1305.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
-        width: 1200
-        height: 675
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2017/12/7180bfad19f2195c59f8a445e080234a-1024x632.jpeg"
+        width: 1024
+        height: 632
         isCached: true
-  - title: "Shenzhen city works out regulations to guide self-driving vehicles"
-    excerpt: "ICVs is a notion that vehicles realize self-driving and the traffic efficiency will be greatly improved through the in-built advanced sensors, controllers and actuators, as well as the in-vehicle and inter-vehicle communication networks. The draft laws ..."
-    publishedDateTime: 2021-03-24T07:32:00Z
-    webUrl: "https://www.globaltimes.cn/page/202103/1219294.shtml"
+  - title: "Watch Tesla’s Full Self-Driving Mode Steer Toward Oncoming Highway Traffic"
+    excerpt: "A harrowing new video shows a Tesla, with its Full Self Driving Beta system engaged, begin to drift into multiple lanes of oncoming highway traffic before the driver slams on the brakes at the last second."
+    publishedDateTime: 2021-03-22T14:48:00Z
+    webUrl: "https://futurism.com/the-byte/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic"
+    ampWebUrl: "https://futurism.com/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic/amp"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
+      name: Futurism
+      domain: futurism.com
+    quality: 57
+    images:
+      - url: "https://wp-assets.futurism.com/2021/03/leftturn-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Tesla’s Full Self-Driving Capability: Unsafe at any Speed"
+    excerpt: "Tesla’s Full Self-Driving Capability poses perhaps the biggest challenge to automobile safety regulators since the publication of Nader’s book in 1965. Social media sites and the media are replete with images of Tesla owners sleeping, playing the ..."
+    publishedDateTime: 2021-03-23T15:43:00Z
+    webUrl: "https://www.law.com/texaslawyer/2021/03/23/teslas-full-self-driving-capability-unsafe-at-any-speed/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/401/2021/03/Tesla-Crash-Utah-Article-202103231451.jpg"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "S. Korea to invest 1.1 trillion in Level 4 self-driving technology"
+    excerpt: "South Korea plans to spend 1.1 trillion won by 2027 to support 84 projects in hastening its Level 4 self-driving vehicle development while boosting related technologies. At Level 4, the vehicle does not require"
+    publishedDateTime: 2021-03-23T23:10:00Z
+    webUrl: "https://www.econotimes.com/S-Korea-to-invest-11-trillion-in-Level-4-self-driving-technology-1604977"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
     quality: 24
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-03-24/0bd57d96-0641-4855-9efb-f725917b018d.jpeg"
-        width: 800
-        height: 480
+      - url: "https://s1.econotimes.com/assets/uploads/2021032387e542db94f94cd19_th_1024x0.jpeg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "Top 8 Online Resources To Get Started With Self-Driving Vehicles In 2021"
-    excerpt: "Waymo, Tesla, Faraday Future etc. have made huge inroads into self-driving tech and have been riding the AI wave to take us into the future. The mobility revolution has created new jobs, such as Industrial Engineer, Perception Software Engineers ..."
-    publishedDateTime: 2021-03-23T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-online-resources-to-get-started-with-self-driving-vehicles-in-2021/"
+  - title: "No, Self-Driving Tesla Was Not on Autopilot When It Took Wrong Turn or Backed Into Flagler Sheriff’s Patrol Car"
+    excerpt: "Two girls, 15 and 14, were in the Tesla. No adults were. The Tesla can be self-driving. But the girls were driving illegally. This afternoon, the Flagler County Sheriff’s Office issued a release ..."
+    publishedDateTime: 2021-03-25T20:45:00Z
+    webUrl: "https://flaglerlive.com/161956/tesla-deputy-crash/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 23
+      name: Flagler Live
+      domain: flaglerlive.com
+    quality: 19
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/AIM-Illustrations.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
-  - title: "City of Arlington launches on-demand self-driving shuttle service with RAPID"
-    excerpt: "The city of Arlington, Texas, and Via are now offering Via Arlington customers a choice to be picked up in a self-driving vehicle for trips around downtown and the University of Texas at Arlington (UTA). The Arlington RAPID pilot program, available to ..."
-    publishedDateTime: 2021-03-24T15:51:00Z
-    webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21215713/via-transportation-city-of-arlington-launches-ondemand-selfdriving-shuttle-service-with-rapid"
-    type: article
-    provider:
-      name: Mass Transit
-      domain: masstransitmag.com
-    quality: 21
-    images:
-      - url: "https://img.masstransitmag.com/files/base/cygnus/mass/image/2021/03/16x9/via.605b5fc47a408.png?auto=format&fit=max&w=1200"
-        width: 1030
-        height: 580
+      - url: "https://flaglerlive.com/wp-content/uploads/self-driving-vehicle-1.jpg"
+        width: 1000
+        height: 537
         isCached: true
 
 secured: "WF1XC8/boXVQq+9Je2WWBgZJnzwV4mhTEzBGPY1czk/w4VwEm2SX6YQFi0jshSq58l14KuU/zFJG+GyD6Diy3VKQ3rxQz+oPwguwGfQg1WFzPRulMWWO3oKynV5y/jHMTF7orcklDAZ4zV2IR/NaEaQXTTrhfxn2Kwl6Kafr0yQMId3ET5Cdfs3AOPsc3fpd5JPyAaPorBLIL9c7CJTlvLENAJoG48N3yGNPFVUpIToibQw1SiheGAoNDDOiUyORRQlyzTauDnUg/1fsT9LN2WqJTT2u5hOtbT3wn364Uuml0l134W03Yp3KI4Z9qMlDCzeWyfI4UmIuy6CGbPyw2QXp1ii8VW49nxyoH2FPm/SMA8pN4sFJ8jGxLXX3qrHJRHW4Tmshd73Ly3WNjZFTRn9pvWEVQUwinhc4K+iy1uNnhpJg1ynobuYiX++zLs4NxzWC83CtW84nZoucvJZJrwZVBEET7WAZooF0AYi3okV2S45uwnTDEtgSigEN5XVxUhp/9iegGJeYXFT1afU6cw==;rdOLx+SOWkjbNBnAxUwg6g=="

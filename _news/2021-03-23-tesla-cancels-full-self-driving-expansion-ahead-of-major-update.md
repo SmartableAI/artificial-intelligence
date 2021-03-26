@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: Fox News
@@ -31,21 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Ford spokeperson calls Tesla’s Full Self-Driving ‘vaporware’"
-    excerpt: "Driving’ package ‘vaporware’ in a spat with a Tesla investor over the Mustang Mach-E. Press relations and communication people at legacy automakers are generally pretty careful about what they say, especially when it is about the competition,"
-    publishedDateTime: 2021-03-21T17:13:00Z
-    webUrl: "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/"
-    ampWebUrl: "https://electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/21/ford-spokeperson-tesla-full-self-driving-vaporware/amp/"
+  - title: "Tesla delays Full Self-Driving beta access, Musk promises changes next month"
+    excerpt: "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0."
+    publishedDateTime: 2021-03-23T15:35:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
+      name: CNET
+      domain: cnet.com
+    quality: 86
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/07/Tesla-Model-Y-vs-Ford-Mustang-Mach-E-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
         width: 1200
-        height: 628
+        height: 630
+        isCached: true
+  - title: "Musk Says Tesla Will Wait For Progress On Full Self Driving Before Wider Rollout"
+    excerpt: "Last week, it seemed Tesla Inc (NASDAQ: TSLA) planned a wider rollout of the company's Full Self Driving Beta, an optional software upgrade that allows Tesla vehicles"
+    publishedDateTime: 2021-03-22T17:30:00Z
+    webUrl: "https://www.benzinga.com/tech/21/03/20281589/musk-says-tesla-will-wait-for-progress-on-full-self-driving-before-wider-rollout"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20281589"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20281589"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 84
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_5.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Tesla Pseudo LIDAR Using Just Cameras And Imminent Acceleration of Self Driving Improvement"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2021-03-25T23:45:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 66
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2017/12/7180bfad19f2195c59f8a445e080234a-1024x632.jpeg"
+        width: 1024
+        height: 632
         isCached: true
   - title: "Watch Tesla’s Full Self-Driving Mode Steer Toward Oncoming Highway Traffic"
     excerpt: "A harrowing new video shows a Tesla, with its Full Self Driving Beta system engaged, begin to drift into multiple lanes of oncoming highway traffic before the driver slams on the brakes at the last second."
@@ -76,6 +108,48 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/401/2021/03/Tesla-Crash-Utah-Article-202103231451.jpg"
         width: 620
         height: 372
+        isCached: true
+  - title: "S. Korea to invest 1.1 trillion in Level 4 self-driving technology"
+    excerpt: "South Korea plans to spend 1.1 trillion won by 2027 to support 84 projects in hastening its Level 4 self-driving vehicle development while boosting related technologies. At Level 4, the vehicle does not require"
+    publishedDateTime: 2021-03-23T23:10:00Z
+    webUrl: "https://www.econotimes.com/S-Korea-to-invest-11-trillion-in-Level-4-self-driving-technology-1604977"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 24
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2021032387e542db94f94cd19_th_1024x0.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
+  - title: "No, Self-Driving Tesla Was Not on Autopilot When It Took Wrong Turn or Backed Into Flagler Sheriff’s Patrol Car"
+    excerpt: "Two girls, 15 and 14, were in the Tesla. No adults were. The Tesla can be self-driving. But the girls were driving illegally. This afternoon, the Flagler County Sheriff’s Office issued a release ..."
+    publishedDateTime: 2021-03-25T20:45:00Z
+    webUrl: "https://flaglerlive.com/161956/tesla-deputy-crash/"
+    type: article
+    provider:
+      name: Flagler Live
+      domain: flaglerlive.com
+    quality: 19
+    images:
+      - url: "https://flaglerlive.com/wp-content/uploads/self-driving-vehicle-1.jpg"
+        width: 1000
+        height: 537
+        isCached: true
+  - title: "Arlington partnering with Via, Maxs Mobility on self-driving vehicle program for downtown, UTA"
+    excerpt: "Arlington is expanding its self-driving vehicle program. Via Arlington customers can now select to be picked up in a self-driving vehicle for trips around Do"
+    publishedDateTime: 2021-03-23T19:19:00Z
+    webUrl: "https://fortworthbusiness.com/news/arlington-is-expanding-its-self-driving-vehicle-program/"
+    type: article
+    provider:
+      name: Fort Worth Business Press
+      domain: fortworthbusiness.com
+    quality: 12
+    images:
+      - url: "https://fortworthbusiness.com/wp-content/uploads/2021/03/Rapid-3-scaled.jpg"
+        width: 2048
+        height: 1461
         isCached: true
 
 secured: "w38uFhzNAaZGWR9KH1kDwumlYTO7XEDGNIO/JX3q6m37kEbMZFdxFDckz+GTDe0LpfGEn/g2/2n8983JZ0SgFKACr/rcMB40+h/BX45UKwFN5txy+9YS5oMatWHXta6zqa24W8mUMREK2KYdhjyfL3ephWwSJ8/wuSIpq62qcyJeas04Nc4KOeRZuxlqI1aGQ6qfXNWp1LgJODhOl+yyU7iJyWMqB3/2MzsHetH5nQvGPItlZg61fuP10tYC8y5fAbLzHDtR45q5DiK7+peBo9ciFNMef26jCZSNAXb4qvybvnfVpO5tL5PpjnD43wdcSMviSXW/1YOrGOPfxOy6PjlxDe1TYgwsGTuzSoaOq3j8CE8T5Vg03tNwUgZPVVBZNr7/xqA+vaz+AV3GSm9E0mNXr3oWDcFJ8urGs5sezRtBkt0gwZ8e2Y2MmBs9u+BvJSh/axFTk82dAvZZz11xHPbMAzBMysTJTQirbFT6+ZnctM2VJBkQ0tX6dQ4dDgNkdIs3ZOHtfvJgCkdpFImbNA==;4/y0bkJ1iVahK75kZ6h4mQ=="

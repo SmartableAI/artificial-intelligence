@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23"
 type: article
 quality: 75
-heat: 205
+heat: 215
 published: true
 
 provider:
@@ -183,6 +183,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Military Market by Offering, Technology, Application, Installation Type, Platform and Region - Global Forecast to 2025"
+    excerpt: "The \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type, Platform, Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-03-26T11:56:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 20
+    images:
+      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
+        width: 344
+        height: 344
         isCached: true
   - title: "Speech and Voice Recognition Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
     excerpt: "Kenneth Research has published a detailed report on Speech and Voice Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"

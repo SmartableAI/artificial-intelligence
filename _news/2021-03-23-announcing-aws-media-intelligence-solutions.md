@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media
 webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media-intelligence-solutions/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
     images:
       - url: "https://www.rapidtvnews.com/images/2021/March_2021/AWS.png"
         width: 570
+        height: 450
+        isCached: true
+  - title: "Amazon and Red Hat Announce General Availability of Red Hat OpenShift Service on AWS (ROSA)"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ:AMZN) and Red Hat, the world’s leading provider of enterprise open source solutions, announced the general availability of Red Hat OpenShift Service on AWS (ROSA),"
+    publishedDateTime: 2021-03-24T21:15:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-99c14ec38d5f4ce285f18306004d5d69"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 44
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
   - title: "AWS Releases AWS Media Intelligence Solutions"

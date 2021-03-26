@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "No, Self-Driving Tesla Was Not on Autopilot When It Took Wrong Turn or Backed Into Flagler Sheriff’s Patrol Car"
-    excerpt: "Two girls, 15 and 14, were in the Tesla. No adults were. The Tesla can be self-driving. But the girls were driving illegally. This afternoon, the Flagler County Sheriff’s Office issued a release ..."
-    publishedDateTime: 2021-03-25T20:45:00Z
-    webUrl: "https://flaglerlive.com/161956/tesla-deputy-crash/"
+  - title: "Self-driving Tesla crashes into Florida deputy’s cruiser; underage teen cited"
+    excerpt: "Two teens say they were not driving a Tesla in the wrong direction in Flagler County because it was on autopilot."
+    publishedDateTime: 2021-03-25T17:07:00Z
+    webUrl: "https://www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/"
+    ampWebUrl: "https://www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/?outputType=amp"
     type: article
     provider:
-      name: Flagler Live
-      domain: flaglerlive.com
-    quality: 19
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 56
     images:
-      - url: "https://flaglerlive.com/wp-content/uploads/self-driving-vehicle-1.jpg"
-        width: 1000
-        height: 537
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/2CBNPQGD4NAERJKYEET4FITK7E.PNG"
+        width: 945
+        height: 531
         isCached: true
 
 secured: "MlXD/2Eq17G5X+KKbnEqLGp9faaoff4lXILzr38qSsUnblwud4FxDvspAnlPWLo50CW0vcu6bzsPqr6LrPzJqwFJhhjxHN3Z7iMKuVyCVYYW7w2hhpMIJ5ETF7xUvPDaSb6xKykuSSrJ7+gUxRGX5STzEa6NaYhuvQwfu2YBEh0bXuTHeU2xxG0yTUFTbvZ5S5cBSXn3v4PMe7Q2Qhp2ukWmirFiRBj29RPAnf8LPi4hn8MOi9al55PiqEcU6O4Ma4oRa0HBz+Q7SBsrNHUjZubG9r+vsQtOVugMN4sMapRawW67uUblSujNPPecQXAek+hnYh3B2S9oCLyX8ey7xiyZ21Xd/WuN+OOgW5S8krLKZQzbMpSBOY5CNtus+PHTBHLWaVDzSAYyAykiN49OYZc8NnFu3UB4Eu4jMTPnQJlSXNGPUOriYlbepCwrBjd4756ALialqShq5KKgYWuDmtGYrkNN9O6Xj0bX3TeXB1anBVZxPhVMurN8UKupkFT7xAR/GZDBnvYuIuNLM6vFqg==;iH4sL979AicNctDfatKrZg=="

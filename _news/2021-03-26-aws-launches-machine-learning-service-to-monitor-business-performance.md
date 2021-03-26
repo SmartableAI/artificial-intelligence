@@ -2,17 +2,19 @@
 category: news
 title: "AWS launches machine learning service to monitor business performance"
 excerpt: "Amazon Web Services (AWS) has announced the general availability of Lookout for Metrics, a new Machine Learning (ML) service to help businesses monitor their performance."
-publishedDateTime: 2021-03-26T07:45:00Z
-originalUrl: "https://www.iol.co.za/technology/software-and-internet/aws-launches-machine-learning-service-to-monitor-business-performance-4ef75536-78e6-45c2-ac2c-407bc1d85a67"
-webUrl: "https://www.iol.co.za/technology/software-and-internet/aws-launches-machine-learning-service-to-monitor-business-performance-4ef75536-78e6-45c2-ac2c-407bc1d85a67"
+publishedDateTime: 2021-03-26T10:32:00Z
+originalUrl: "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms"
+webUrl: "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms"
+ampWebUrl: "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms"
+cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms"
 type: article
-quality: 56
-heat: 66
-published: false
+quality: 76
+heat: 86
+published: true
 
 provider:
-  name: IOL News
-  domain: iol.co.za
+  name: Gadgets Now
+  domain: gadgetsnow.com
 
 topics:
   - Machine Learning
@@ -20,9 +22,9 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://image-prod.iol.co.za/resize/3000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9e3c3dfa-9ddd-5a12-b98a-28ef9b164ac7&operation=CROP&offset=0x236&resize=3000x1688"
-    width: 650
-    height: 366
+  - url: "https://static.toiimg.com/thumb/msid-81706224,width-800,resizemode-4/81706224.jpg"
+    width: 800
+    height: 534
     isCached: true
 
 related:
@@ -41,6 +43,6 @@ related:
         height: 440
         isCached: true
 
-secured: "eElkn+cVq2vV3yj8QLBlEpX9aZHsulG/oByhkvn0Ah2AKZXRLLuVeyiqLCPveO6DtePolaT/l2TpVFQUNq1YZ+HiVLAUEcEyrB/fjSerN+q4WAB+3ErgxqVIdZqTiVFCH5A/LvqFg/N+heMu0FeUSvtuNZgMHs/NYnMW7ErZgLViUt8/FK6LzOMBkMWbIRSmsO/M+25z+xCL/zO4zd43k8P1AzljgOopbQJotohC1XgxElltvQTLjnDxgQ5H0SYecNylTwn/5D5BrX5KSlH7P0vyMdy75Zs6hTnFMlHJq8De+bW3qtqq9VhF7DafCZO4wngtNuCgd7w7aHdqFPLsFQSAXA6GDVYOpn3VtBR3eqCSW8RQXzkoOzq5unHpTIiLnfS1LoSSeadNcwEK222Q+Ob9G5GrbW5GGBDMvtO5aEDPNDYyqCxYpynN8QzMMzAQedk9DMBpxgnmJ22a/zICluT1aavsT2O3RLI7hmrd5+qegZUq2OpXkUgx2Ol+ynit3GQ9BBKms6VFhcV2jc7kpg==;usc+6gVVw8zFacwZYRDJQg=="
+secured: "+c9AThZ5rznY7guoUFLLSGlHpS2qBIC8BJ+/DfYByk2yUGRVcZPTrxCjUbSuGXyWq9CdqWGmtnquqXeCIpzdomd0lt8723jSL2BkivQGYQJcb++EB3N8lQjMYT0uddUJdjqM8fslq11u77ERXyQLrqXTLpQ7gR6FFyIKU0WNFDdxhifP7Gs58Aj4foxn5Y/IOJiSGampsC6y7L66DVjzyt58sYk2gUYsJYIgoTRKQxvIQYVdFBjOGYsGh8bMKTaM97iVWJjUSMdRVAHpcbRj4k5GhNqYi7tpn54b9OwIspR/Z2AAK7DyMt8rGm5i65tf9O3uQxm3gU+LHkAKuwLpe5N60woZif7nOylBqckJGfg=;TpqDju7qg2/VD1CmwyiXpg=="
 ---
 

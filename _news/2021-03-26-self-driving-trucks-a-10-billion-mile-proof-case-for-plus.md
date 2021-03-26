@@ -26,17 +26,6 @@ images:
     height: 2671
     isCached: true
 
-related:
-  - title: "SF Express Selects Self-Driving Truck Company Plus for Chinas First Commercial Freight Pilot Using Supervised Autonomous Trucks"
-    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
-    publishedDateTime: 2021-03-25T13:00:00Z
-    webUrl: "https://www.financialbuzz.com/sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
-
 secured: "u8bP9cULk6Yv/sAt03onHDYtZD1ZQ7wtel8kWLRPDRFv2a9XOc1JafxR9PBGKLCzQ061Z8k2ob3tk0HM0Ayn8uTbxj6ny0OnfLq5Dw0QVMJ1Za3I7y4O5oNCh2QYi4AvvVDWE6JyOKdhQRPhjhSs7B4V5bQoPJex7IbOuKb/YOvFVJNdTsGnRCVVrvUch+yJzv3s7Gutxs8wbIUPychHLm3BXxw7KYfH6jHR7Jb2brj/BvuZKHIkDkCxJwBlvNrY/x+14ear4n44pcf/axaRTkyhpKg5sdXZxSucJrg29Z7akj5cNLFDcUQjySDS7q6Obp1NUZ1YSS9QsY2TMRr1bpVxlJA02oM9SLFetNixXlU=;Zi48RRCfhLmIhZ44FrKrBw=="
 ---
 

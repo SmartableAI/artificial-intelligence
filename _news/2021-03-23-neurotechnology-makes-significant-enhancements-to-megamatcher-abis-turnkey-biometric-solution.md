@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
-excerpt: "VILNIUS, Lithuania, March 23, 2021 /PRNewswire/ -- Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS ..."
+excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey biometric solution."
 publishedDateTime: 2021-03-23T10:03:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-eastern-europe-6d0bd9a8bc0ffe9159a33c0c10341a11/gallery/fa93857d0cdf15af54ea942035d88193"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-eastern-europe-6d0bd9a8bc0ffe9159a33c0c10341a11/gallery/fa93857d0cdf15af54ea942035d88193"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-eastern-europe-6d0bd9a8bc0ffe9159a33c0c10341a11"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-eastern-europe-6d0bd9a8bc0ffe9159a33c0c10341a11"
 type: article
 quality: 13
 heat: -1
@@ -63,6 +63,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "AgqCYCbOpWUh4virGytLmnTN4w/z9y6FaHbG9kT4aOi/AIvwerOeYk7dyII/LggURMwAbra7g2BmVY9qyyEoJ9V4MU25HLq5WVtJqeVW5/J6LTscsZ0jvKAFn8chPMBJF2I7Ha/IczgrX4DYW6PVFxqzTSErsLLywhy9MBaHF5Twtqmr/yCcC4oLu9C3CTveaU47z8iQVhr/pQPuGYU0jhpwQEchUlbmOgi/S9FXyDOOqQy33iBhIfvrtjenQCAZ+4dE3pS3HOcNrfgivTdnrdtKo4F+F4pbT9CYoEy9k5vB9g6f9VE142MS2ClmJiscRn+BS8KkLcMmIknmW6MUdf9xF+4nc9IAe+309gi+l8I=;AnA0Bb1PtXVf6RR0F949Jw=="
+secured: "2hLjRYTgSbLPoCknvxEzOqX+tM5LKWCXFSaWyGYg6Fk+bnlsWky43zJRd0omfyt0tghIe3kKoO6Pl+XJen1oyJSftRX245bEE15N9E1xuVGNsLRICsn2uxw7idLjL/kNApLrm1jSSnAmpmbUmnSBfXUJH/CgWC4mA8JlsyiULC7UHubY3XaimObioGVmoXzgnZ6J425BL7UTA48KW4E/J5Premta5Uk22R0iV+ZwR8SPAGsh0xu9hoYYK63b31QFzIfJwWRWeJVCjSGeiH+y7s9qkyf9dWlE9A1rMuldOkP9a/6btP21TETARNYYF0iAs8QxffJHdjVG0JMjkTZGCGR3jRxZ6qJ5g9YUTIUhGd0=;iuo51k+NTxvDAjB3cJywoQ=="
 ---
 

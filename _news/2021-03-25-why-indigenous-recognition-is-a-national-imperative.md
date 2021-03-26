@@ -35,6 +35,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Bruddah Iz receives national recognition"
+    excerpt: "Driven primarily by Iz’s angelic voice and ukulele playing, the song is melancholic and joyous at once,” the registry states. “Taken from Iz’s album “Facing Future” — the first Hawaiian album ever certified platinum — this single was an ..."
+    publishedDateTime: 2021-03-26T10:05:00Z
+    webUrl: "https://www.westhawaiitoday.com/2021/03/26/entertainment/bruddah-iz-receives-national-recognition/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2021/03/26/entertainment/bruddah-iz-receives-national-recognition/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2021/03/26/entertainment/bruddah-iz-receives-national-recognition/amp/"
+    type: article
+    provider:
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 44
+    images:
+      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/03/web1_IZ-Surfboard_1200px-1-.jpg"
+        width: 760
+        height: 760
+        isCached: true
 
 secured: "Dj9IiSr+EOhI9plbCLpQ0M8Y54V9fZB1slLYrDnb3/UdLvbRfl3zkbgP9Oh7sxZIosKVuIO9YtlVkEool28ks1fBHQ9is9mNbSPigr2bLQDk7RytWx/m1bHXhRpbeM/WuPCwKzi0sS0WSttKKV/59GY0XAXjE8F6/GbovBv7ryCGjZYBOgtTm93ZHRd++POXXRnynorq9yOvIpIwWbfE7gF8YaqjnnP1gQwubv4uFS4VISh/7EP7gSVuZE47mKLEJ38wgCApSF5eqHk3kHv511pUeE67iWknx0EHFJk0euzKcfamy27bcS5+gZ7S+LAkpEwAqWDP28tI/MY8Bf5icOi21gDEbL9eVGWWfQ63HuAHsLG+v4dZ+v9VbTgz2sSeHd+vMDiPrrbYfgdAFxM2fbEG06c1vV+aim8ECk8Liq8RebjBrS78YkiBwHFgs7sOQrzf5fBB82TDTo7fvM0N++4z80OMBBFza29Njypsuh6OcNAoY4Us2CS7IGB6OSYk+i8H00nusYpbjOKh93Nzrg==;ud9fr3tCQPnqSDSSE1D+WA=="
 ---

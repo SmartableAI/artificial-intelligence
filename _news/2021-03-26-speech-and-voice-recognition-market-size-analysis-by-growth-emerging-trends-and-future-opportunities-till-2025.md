@@ -193,6 +193,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Military Market by Offering, Technology, Application, Installation Type, Platform and Region - Global Forecast to 2025"
+    excerpt: "The \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type, Platform, Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-03-26T11:56:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 20
+    images:
+      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
+        width: 344
+        height: 344
+        isCached: true
   - title: "Artificial Intelligence In Genomics Market by Offering, Technology, Functionality, Application, End-user - Global Forecasts to 2025 - ResearchAndMarke"
     excerpt: "The \"Artificial Intelligence In Genomics Market by Offering (Software, Services),Technology (Machine Learning, Computer Vision), Functionality (Genome Sequencing, Gene Editing), Application (Diagnostics),"
     publishedDateTime: 2021-03-23T13:10:00Z
