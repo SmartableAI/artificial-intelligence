@@ -36,7 +36,7 @@ related:
     provider:
       name: 9to5Mac
       domain: 9to5mac.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/09/Tim-Cook-stock-award.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200

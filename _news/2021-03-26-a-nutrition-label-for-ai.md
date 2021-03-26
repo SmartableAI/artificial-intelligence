@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-25T23:26:00Z
 originalUrl: "https://www.datanami.com/2021/03/25/a-nutrition-label-for-ai/"
 webUrl: "https://www.datanami.com/2021/03/25/a-nutrition-label-for-ai/"
 type: article
-quality: 39
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI Ethics
+  - Natural Language Processing
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Nutrition-Facts.png"
@@ -49,6 +51,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "cGbAAULIwryr2znySvS7veP6zb2HeZCW3dFOV5bdF9o/oMDWzF+H9834WXRGnawRXXO9ugpDKSZb4NtkifqubgyW98DZDrCbprJQu5hP8oV3IYTgiHxyxaA6dWmLBSlL2B1Ro4OgnJnPAxZqktegMT+KqwYQ7GFVvoDLlmMJ3xMZTNniSeubNwKdIAr3/OTPacK0lUP3TyFzrOV/TflGbRGOglja8cfKGt7q9IZBxjxFmm5u64WpLMCO/HpqyDpEJQBnDUKqdlrbUBgj9DT6jltJnQBr9sqK4Vj4EB835DIT5Fa8fsQn095EQT3uqf4E+fnT7BRjPK0d6QhH2X3C4jJLJkNs0Qf4/7PRt1RZVxQ=;Y83WjT4mr0vJbAGNrGPppg=="
+secured: "QmH7zWTGFPysEZADTfA7UM9rpM+pUeFd6iMz3Y89ovmP21+dpxs2NkmwY7eTsRxKq1jMFLpHcFRx+D9v4VNSstlaT/7WuFXFUyZVTRLJGuFy++rv+/KCQJLS9sRAbDZO6p3WV2acMQoYS9XOalAep7B2QiiPFdYSSL6jzVF+sBxRbSmUOtPam7COgznXQHsrRgHGMPRm/p4IJGOicb2kGNHZJvvntekUg1WDBwPJVcrlgP0kGBEoryqNFnso0/boLWSWyBwmRVndMBynNYiBEUuK4fvDYkidjdulmZD5JuXlmf3Pn38dp8BIsyABJbY7CuJCxbQ9avlqo4p8gtVaJNR9xgElfbhLl1QpMpSGQ/bq/30RgnD9U3sIDGD0LnW+8a5Kbi90pyFumAIegWsuK4B+bRNSoI5SWAbCKNQHESN/7w+TS+02SKahSjuVpLE8+hZPtJSAwT+SlSQIyPbVpmpHEjcX6M/JDft9zZUod07IXT2M6A1SJv++CyBcPn4MXimINuwJNq5O22AMpsRlsA==;zi2eJp12Abv8MaJNzRiuqg=="
 ---
 

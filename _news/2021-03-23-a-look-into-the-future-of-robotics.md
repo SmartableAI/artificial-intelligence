@@ -7,7 +7,7 @@ originalUrl: "https://www.dcvelocity.com/articles/49989-a-look-into-the-future-o
 webUrl: "https://www.dcvelocity.com/articles/49989-a-look-into-the-future-of-robotics"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 953
     height: 635
     isCached: true
+
+related:
+  - title: "Taking a quantum leap into the future of financial services"
+    excerpt: "The race for quantum supremacy may grab headlines, but it feels removed from our daily lives. Quantum computing – the ability to solve incredibly complex problems exponentially faster than today’s supercomputers can – sounds great for answering larger-than-life questions,"
+    publishedDateTime: 2021-03-26T03:36:00Z
+    webUrl: "https://www.finchannel.com/society/lifestyle/2-epaper-the-financial/80437-taking-a-quantum-leap-into-the-future-of-financial-services"
+    type: article
+    provider:
+      name: The Financial
+      domain: finchannel.com
+    quality: 24
+    images:
+      - url: "http://www.bbk.ac.uk/news/toddlers-who-use-touchscreens-may-be-more-distractible/@@images/cde4ad53-6ff5-4e6c-8f74-78a8f217ade8.png"
+        width: 660
+        height: 440
+        isCached: true
 
 secured: "Fyl13evYptho7oisKAKb2l804EOOx+gILcMnmoAXCV94g+BWXpYaa77+n0R9JR9O4C0+tC2Z4OyVvTpgsWV8PgrROBYmPpfhi5izRRWR61IsV1fQ0JDoJf1gsvWA489tCFloZOo+gnxrfV21P8ncMF7szZeeIPnWPYZlZD1pz8XaW5uRDuKfk2vViohVIEXmsN9tSysffsfNSAA3Ol9jPiVSV/Z788E1DYbTQImZoiUr9VwoL8+bTF4Gc1amwZl9ijUGRqFolops3JeNpajAbNnny27z23GALceBCZwXoLCaChvKMYj6Uvjai9jO0XSAZsHL5SiA32hip5wdFEcvu/9T2ONwGI6p+QMQ/u/IXr2K5h0M8kX8mFqC1Iwi8roGZ1b2+/itZ7XYaB35RsbuFl83Z/Cc3gzQliA1+cDU1s9FoMdqaDQa3a90ddq8HnIEPaSiJIzrZiZQoLW5Ze380c3PHOMsfr5QuDoy/9/hltAShkGjLJcYxVnGpB8DTPo5ZYusbP+h2k0G2Zqk9xOT4g==;QO70e2k3VWMJ5u2Ty5iiXQ=="
 ---

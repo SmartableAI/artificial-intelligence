@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24?amp"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -36,6 +36,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605911778ffe878ecb833916%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D300%26cropY1%3D50%26cropY2%3D350"
         width: 300
         height: 300
+        isCached: true
+  - title: "Watch: DEMOvation startups lean on AI and machine learning to advance the industry"
+    excerpt: "Four financial service and mobility startups participated in the fourth annual DEMOvation Challenge at the 2021 Auto Finance Innovation Summit last week. Auto Finance Risk Summit, the premier event for risk and compliance in auto finance, returns May 11-12 ..."
+    publishedDateTime: 2021-03-24T14:55:00Z
+    webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
+    ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
+    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
+    type: article
+    provider:
+      name: Auto Finance News
+      domain: autofinancenews.net
+    quality: 70
+    images:
+      - url: "https://www.autofinancenews.net/wp-content/uploads/2017/10/favicon-1.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "Five ways AI can democratise African healthcare"
     excerpt: "Although the potential for artificial intelligence to transform healthcare in lower income countries has been much hyped, the technology is proving genuinely useful in helping Africa overcome difficulties in tackling diseases."

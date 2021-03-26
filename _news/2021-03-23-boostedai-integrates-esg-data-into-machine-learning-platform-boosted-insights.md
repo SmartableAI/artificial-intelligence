@@ -2,17 +2,17 @@
 category: news
 title: "Boosted.ai Integrates ESG Data into Machine Learning Platform Boosted Insights"
 excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals ... asset owners, global banks, and financial technology companies in the world. OWL is dedicated to helping clients make a positive impact by empowering ..."
-publishedDateTime: 2021-03-23T12:31:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-financial-services-investment-management-a76cc6f13c35462199bcc4a6a7ac3727"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-toronto-financial-services-investment-management-a76cc6f13c35462199bcc4a6a7ac3727"
+publishedDateTime: 2021-03-23T12:59:00Z
+originalUrl: "https://www.lelezard.com/en/news-19712541.html"
+webUrl: "https://www.lelezard.com/en/news-19712541.html"
 type: article
 quality: 52
 heat: 72
 published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Finance
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -50,6 +50,6 @@ related:
       domain: businesswire.com
     quality: 30
 
-secured: "skAjLNn+DhRWgf1lyaDyVAy2sJrkIexcUXh+KMO0JLIT5Jj2loHKPsrTZfj76bhmRI0ZEGiKlCAM7ubAO7LBFZ6mdJI++l/4IjtgwCVAHj7x+29PmHt+w5tb0ybidNIuX20IRZlSCub8gcbDrxUZlor4nqEXKjz6KhT+SX2qV3vS74fdK5erCww2XoOYNyleGh+kmVRp6/UAOHldlMIVOtFKBWaDIU6YmywTXxHPnFVaMAXbnsGKH3Jd7adWGE4UvL9pyQhy/rLT+NpwkXps3Pbao6KiRibJbEzGsXevp5DH1Msbt4L033YuUqQ0WoW/IST52zrooS6reMDHbNwxN5FP2rnr4nvbVI8JgFUBC4M=;CaYdh0TS43SHUZnm6UbXBg=="
+secured: "famKLqt8BknXQD48LYVKrg8Mn+WYHZnl5qtoKuMlNQSocvBgmj665xLmskR+yfd4o60JLO3o13aVT3oaMNUudTOY+LApwkq0fS1G0fRVFSlFfrkHmHqlAwWSa4qIT62hutCtQ24hom6wHtZaNnFc29r1POuvzCigXFqQdDKQNY+KDrb1/u6J4X2Z57P70Xdb3uT+bxGs92TBvMwScae3qXvfWUh1Mwvr3JKo7Ah8TVVLRA6w0I3hVuPURug9N0mX1n96wztQQLeFW4iRPOYVSCBxiNwX/p0p4SI+5xnY9XDJQ2P+VtvXLdBnYx8TCXAOgyp9H0vaB2vrn+PXeL/i/z282rQBJCRJhmdSRwrRyXA=;DvmocT6hqeYPpiud7Xcn2g=="
 ---
 

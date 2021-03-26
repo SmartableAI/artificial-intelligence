@@ -52,6 +52,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Watch: DEMOvation startups lean on AI and machine learning to advance the industry"
+    excerpt: "Four financial service and mobility startups participated in the fourth annual DEMOvation Challenge at the 2021 Auto Finance Innovation Summit last week. Auto Finance Risk Summit, the premier event for risk and compliance in auto finance, returns May 11-12 ..."
+    publishedDateTime: 2021-03-24T14:55:00Z
+    webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
+    ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
+    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
+    type: article
+    provider:
+      name: Auto Finance News
+      domain: autofinancenews.net
+    quality: 70
+    images:
+      - url: "https://www.autofinancenews.net/wp-content/uploads/2017/10/favicon-1.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Artificial Intelligence Detects Medication Administration Errors"
     excerpt: "A new system uses artificial intelligence to detect errors in patients' medication self-administration methods."
     publishedDateTime: 2021-03-25T14:48:00Z

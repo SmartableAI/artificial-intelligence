@@ -1,34 +1,30 @@
 ---
 category: news
-title: "Putting Disruptive Innovations Into Action Using Artificial Intelligence Throughout Your Business"
-excerpt: "Robotics and automation in manufacturing would appear ... During an IEEE-Boston/IEEE-HKN (Eta Kappa Nu) Artificial Intelligence Seminar series, Dr. Washington shared tangible AI strategies that have helped Ford Motor Company maintain its legacy for disrupt ..."
-publishedDateTime: 2021-03-22T22:10:00Z
-originalUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/"
-webUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/"
-ampWebUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
+title: "Watch: DEMOvation startups lean on AI and machine learning to advance the industry"
+excerpt: "Four financial service and mobility startups participated in the fourth annual DEMOvation Challenge at the 2021 Auto Finance Innovation Summit last week. Auto Finance Risk Summit, the premier event for risk and compliance in auto finance, returns May 11-12 ..."
+publishedDateTime: 2021-03-24T14:55:00Z
+originalUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
+webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
+ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
+cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
 type: article
-quality: 78
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Auto Finance News
+  domain: autofinancenews.net
 
 topics:
-  - AI in Robotics
+  - AI in Finance
   - AI
-  - AI in Autos
+  - Machine Learning
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605911778ffe878ecb833916%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D300%26cropY1%3D50%26cropY2%3D350"
-    width: 300
-    height: 300
+  - url: "https://www.autofinancenews.net/wp-content/uploads/2017/10/favicon-1.png"
+    width: 512
+    height: 512
     isCached: true
 
 related:
@@ -43,21 +39,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Watch: DEMOvation startups lean on AI and machine learning to advance the industry"
-    excerpt: "Four financial service and mobility startups participated in the fourth annual DEMOvation Challenge at the 2021 Auto Finance Innovation Summit last week. Auto Finance Risk Summit, the premier event for risk and compliance in auto finance, returns May 11-12 ..."
-    publishedDateTime: 2021-03-24T14:55:00Z
-    webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
-    ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
-    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
+  - title: "Putting Disruptive Innovations Into Action Using Artificial Intelligence Throughout Your Business"
+    excerpt: "Robotics and automation in manufacturing would appear ... During an IEEE-Boston/IEEE-HKN (Eta Kappa Nu) Artificial Intelligence Seminar series, Dr. Washington shared tangible AI strategies that have helped Ford Motor Company maintain its legacy for disrupt ..."
+    publishedDateTime: 2021-03-22T22:10:00Z
+    webUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/"
+    ampWebUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
     type: article
     provider:
-      name: Auto Finance News
-      domain: autofinancenews.net
-    quality: 70
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://www.autofinancenews.net/wp-content/uploads/2017/10/favicon-1.png"
-        width: 512
-        height: 512
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605911778ffe878ecb833916%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D300%26cropY1%3D50%26cropY2%3D350"
+        width: 300
+        height: 300
         isCached: true
   - title: "Five ways AI can democratise African healthcare"
     excerpt: "Although the potential for artificial intelligence to transform healthcare in lower income countries has been much hyped, the technology is proving genuinely useful in helping Africa overcome difficulties in tackling diseases."
@@ -116,6 +112,6 @@ related:
         height: 292
         isCached: true
 
-secured: "8osEXvUM3PJv0RAwJTxoWn30xDaj70PjoNTdoOFxLpgn49mqs7piQaSzDDTcapAKooSK47m8fyimQPlj61qcI8FV0FPvwehFhlZ9iLcKJEJsjxc9CAvL9Mo/78wbQYX/n2t1rZQ3b92a6QomgwlT7/RO8pf6iqnGP+nSA5umcB+oDFV+8tLw60SBGVY6Io133Qnj0/eVx5oNuCSs5pRHt3cGx7vzOI5u9Z9XhRGjgjAG9RGoutf5nWvrkDg+Cm/d8R2E/vQSLlxcuNmydFuMbH6I5ywj6SDMuH8G+HyLkqm4zxEbIaqS4RKYlcxSHXVOMMmlau3tQsLDRlBVHW56+0f6fUzpOS7CPnPPV3q5OUFpLZlhkwnAbfELg2XKY/HMyABJaKF+vUShU/YzWnDZaQ9fd26QFOkT8kQb9fC95PwFQUjQVmMUICAjfTEq/lIN7iYH0h6EJlBytU3DlMtm2h/IDhWAo1V5xnxf3sdqF9UZ1T4BQg9IQzbNSLdlAn40EN15ZHUXLfxl7yqhkcoDfQ==;USUnF6BbF55PLdyB0rZLqA=="
+secured: "WQ7gZ4F4vIQcqHMv9kvbT2cUX67/TrITq8czJ1KNpzeK2iP0sK6ZRyspFOxdzImtAkTQcEGxXkSCS9V7Qcr7I0flUaU9y5cxFToCt85dnzV4NVqr11ru2vUsqqS7+OaQzQQbHzRMiRk+tCQ0RFkH5RUexj0f5/aRIp36X8PqW3EuaVcOm1G6FteohpbR5IH76pArKKrfN7gNrPfNrveDQteSbyl1XnxuLG6jhNhPFCmUO5tclEU8QPHbSVOJXAhBQEOWmL54r05EYhRLMXUjnZFeLrID6yh3pWZ3V/bKqayBc5d7F61qQdQ4p9pRmgRymd+f4fDja3KMIPXQkN1KlF4RCrNLh/Aeescj3dFWCgk=;rJhr3dZuAhdCuBfYww5YiA=="
 ---
 

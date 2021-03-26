@@ -8,8 +8,8 @@ webUrl: "https://9to5mac.com/2021/03/25/apple-bought-more-ai-companies-than-anyo
 ampWebUrl: "https://9to5mac.com/2021/03/25/apple-bought-more-ai-companies-than-anyone-else-between-2016-and-2020/amp/"
 cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/03/25/apple-bought-more-ai-companies-than-anyone-else-between-2016-and-2020/amp/"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 79
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/09/Tim-Cook-stock-award.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
@@ -59,6 +60,6 @@ related:
         height: 630
         isCached: true
 
-secured: "doHA/clseO/rFdf2hMjr2/8vPXZR7u8ft+b1As7cx2A2c2s/olcwQSlb/mDVaUoooHpaiNO1l6ZqGfpJJ5/eWogogA6jn3zIfxQ9Citr8H0gZkghdgGuXAwkdKTCBAWyO9Pue3D24Qa4op6IkWDes0jdoUCWx0ZGAp+iZa5UI8zS1xzBuk88AzSjCrV1Gz1v+tlx40r0gyWzT23keCV8QNxV5aW4qB/pHvF8zYGJ4z1n+4JSLbzTJJGigJ2f50ClsPWepZLXMbC4H8P2lla7yRYp8Pu+sLy0OaF9izmmwXFVPoONwnTZz+J0y7bnOlONWE4S2KzOD4MBRj+NbouoIOCXmraun0qzRAEQrfDVgII=;l3gi2cneKd7ilWIvPBwRAA=="
+secured: "H4HD7Wx0FWh5BR2iax4tYPPBkPJuwN8iQZd61aXA2b6x1SgXcnI/cuQplQtZbwyDFRoBhXUSp8zE6n8XM0KAoXg5NhyzLI4pNF8YhmYyf5OTSIWjjPg0hKh8XKMTDzY+yqn2pBpDEpHjUqiKQH4BSH48ALZGi3s2Ecamtn+sI7cStSKc7KyItI+f/8+un5y4hMaNMYjKw2H5Kc4y3SXoH6UhF4AK/8s+AWO7jczvxyhzahgXqBWec5L9a4SIMA45rwreRj5kJWUGjZyZFrDyWNuTcPNiTFxL6nZVSa9hndQoyiLMAc9v9zHkaZJw9IrOrTP671OJXqM1YnGBUFp3JjWotIsXarcX1e2ZOHqBhpHr1hDH6CPXIgueod3NhNkNuZ8pqo4jAGO3pIDfVnX40KUTxcQwj9iV9kLccDI7VHKoJsDOQOFlpv1zTgq+xvT/zow+7Aok/KqZ6Ph5XkS0s69DkFx8RoBMGo3J6G5ejaklMYIYMKwMIaUymorer/9Q8iVkH6M0T9YLdgmxzIdLuA==;eZwq6G8SV1YweXvoWwPzVg=="
 ---
 
