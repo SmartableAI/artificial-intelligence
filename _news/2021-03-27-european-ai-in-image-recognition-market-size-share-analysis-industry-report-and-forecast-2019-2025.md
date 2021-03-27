@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Transportation Market Overview, Merger and Acquisitions, Drivers, Restraints and Industry Forecast By 2027"
-    excerpt: "The Global Artificial Intelligence in Transportation Market is projected to witness a significant increase in the revenue generation and is expected to register a CAGR of 17.2% in the forecast period of 2020-2027. The report further segments the Artificial ..."
-    publishedDateTime: 2021-03-22T17:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-overview-merger-and-acquisitions-drivers-restraints-and-industry-forecast-by-2027-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025"
     excerpt: "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as"
     publishedDateTime: 2021-03-23T07:02:00Z
@@ -106,6 +92,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Neural Networks Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
+    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
+    publishedDateTime: 2021-03-25T13:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

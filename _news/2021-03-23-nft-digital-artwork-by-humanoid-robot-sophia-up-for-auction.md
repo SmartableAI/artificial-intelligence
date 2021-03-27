@@ -43,20 +43,6 @@ related:
         width: 720
         height: 432
         isCached: true
-  - title: "Humanoid robot Sophia to auction its own NFT artwork"
-    excerpt: "News Agency Humanoid robot Sophia to auction its own NFT artwork. Posted . Hong Kong-based Hanson Robotics' humanoid robot Sophia plans to auction nine non-fungible tokens (NFT) o"
-    publishedDateTime: 2021-03-22T17:47:00Z
-    webUrl: "https://www.reuters.com/video/watch/humanoid-robot-sophia-to-auction-its-own-id727565987"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210322&i=OVE567UJF&r=OVE567UJF&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Sophia the Robot NFTs Set to Go Live on Nifty Gateway"
     excerpt: "The world-famous artificial intelligence project Sophia the Robot has created her own non-fungible tokens (NFT)."
     publishedDateTime: 2021-03-23T15:28:00Z

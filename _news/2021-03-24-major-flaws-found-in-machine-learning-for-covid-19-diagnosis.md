@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-lear
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-181492494.jpg"
         width: 700
         height: 364
-        isCached: true
-  - title: "FDA authorizes 1st machine learning COVID-19 screening tool"
-    excerpt: "The FDA authorized the first machine learning COVID-19 screening tool for emergency use to identify COVID-19-related health conditions in asymptomatic patients. According to a March 19 news release, the Tiger Tech COVID Plus Monitor will identify certain ..."
-    publishedDateTime: 2021-03-22T18:46:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/fda-authorizes-1st-machine-learning-covid-19-screening-tool.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
-        width: 400
-        height: 300
         isCached: true
   - title: "Machine Learning for COVID Diagnosis Falls Short"
     excerpt: "In the earliest days of the pandemic, machine learning showed exceptional promise for COVID-19 diagnosis. Reliably, early machine learning models outperformed doctors in recognizing the telltale COVID-induced pneumonia on CT scans from hospitalized patients."

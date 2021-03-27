@@ -25,46 +25,32 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence-Emotion Recognition Industry Global Market Growth, Status and Outlook Research Report 2020"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6515304-covid-19-outbreak-global-artificial-intelligence-emotion-recognition In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the ..."
-    publishedDateTime: 2021-03-23T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
+  - title: "Three AI And Tech Trends That Will Transform Fashion Industry"
+    excerpt: "Apparel designers and brands are embracing the latest technology to get an edge in the fast-paced world of fashion. From machine learning to 3D virtual models, find out how technology is transforming the fashion industry."
+    publishedDateTime: 2021-03-26T04:25:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605d6f8f415056893e35fb08%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1925%26cropY1%3D0%26cropY2%3D1083"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Zim engineers get global recognition"
-    excerpt: "ZIMBABWEAN engineer and acting Ziscosteel board chair, Engineer Martin Manuwha has received a special award from the Federation of African Engineering Organizations (FAEO) in recognition for his distinct contribution and support to the engineering field in Africa and the world at large."
-    publishedDateTime: 2021-03-25T11:20:00Z
-    webUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/"
-    ampWebUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
-    cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
+  - title: "MIPS 2021 names formative AI and distributed cloud among mega trends for video industry"
+    excerpt: "Milestone Systems reveals at the annual conference that they are expecting a successful year with people becoming more accepting of intelligent sensors and video technology"
+    publishedDateTime: 2021-03-23T09:57:00Z
+    webUrl: "https://www.itp.net/96841-mips-2021-names-formative-ai-and-distributed-cloud-among-mega-trends-for-video-industry"
+    ampWebUrl: "https://www.itp.net/96841-mips-2021-names-formative-ai-and-distributed-cloud-among-mega-trends-for-video-industry?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/96841-mips-2021-names-formative-ai-and-distributed-cloud-among-mega-trends-for-video-industry?amp"
     type: article
     provider:
-      name: Chronicle
-      domain: chronicle.co.zw
-    quality: 44
-    images:
-      - url: "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2021/03/kanuu-680x380.jpg"
-        width: 680
-        height: 380
-        isCached: true
-  - title: "Neural Network Software Market Size, Share 2021, Impressive Industry Growth Report 2027"
-    excerpt: "Neural network software is useful for simulating, researching, developing and applying artificial neural networks, which are various software concepts adopted in biological neural networks. Neural networks are also defined as artificial neural networks ..."
-    publishedDateTime: 2021-03-26T09:47:00Z
-    webUrl: "https://www.openpr.com/news/2262380/neural-network-software-market-size-share-2021-impressive"
-    ampWebUrl: "https://www.openpr.com/amp/2262380/neural-network-software-market-size-share-2021-impressive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262380/neural-network-software-market-size-share-2021-impressive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
+      name: GDPR fines
+      domain: itp.net
     quality: 31
 
 secured: "NYhmkTB5hxcAavZQey/YVlD8weFlPoLv4o3v4axXoffzoLCo6DOK61QnUc5Dbjl3WvlRgvsoERfqx3uHF2TzsxXQ5ATHnWHhLiPrM1ZT938IxS9J/+hbSolTN95s6YiETo6AGugT7wCG6FEVF7/SkRmvV5kvt49Xq7N7FMzdD9uK4Tg9YVhvQ9eqHiNqnFzJsiE+FyRz2N9Zvb1dSDx6VfIhBMABBULTzK1r2rz0qq96RB1GM6X7yXbAQ+fOi5g1NOWILco4IXLC74LgX4qEm8TvPmRNZ4V9SjN7qfM5R0ET8zt6PfxWhR1gJ5vLs4vuaXXehsfgq3HNJGG0cZpzH2P3yeQ58kNiNDjmvfGlhkNoPzHlN5tMqdS7k+fVg4cof7Q9uCBBEMZK1LvRA/MU++FeoyQ++nkrGToHKEcFim3MP60NhNWZpO5qNqm3ngZP5GjtMTvL7z9Z8gqZncD0PxtUgstQhvIB32nMPcIuwZ/muO3EDAH+fP07l+hD2kfdO2LN3yOQKcw2aTd4PAE+6A==;WW5Vkot89l/+HdCCMEpfCw=="

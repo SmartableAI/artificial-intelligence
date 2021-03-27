@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Disney World tests facial recognition software at Magic Kingdom"
-excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
-publishedDateTime: 2021-03-23T18:13:00Z
-originalUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
-webUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+excerpt: "ORLANDO, Fla. – Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance."
+publishedDateTime: 2021-03-23T18:18:00Z
+originalUrl: "https://abc-7.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
+webUrl: "https://abc-7.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
 ampWebUrl: "https://abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
 cdnAmpWebUrl: "https://abc--7-com.cdn.ampproject.org/c/s/abc-7.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
 type: article
@@ -219,20 +219,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Using nationalism to refocus facial recognition concerns in China"
-    excerpt: "The violation of people’s biometric data privacy, as denounced by the TV show, has the public and industry watchers urging for a swifter legislative push."
-    publishedDateTime: 2021-03-22T17:55:00Z
-    webUrl: "https://www.biometricupdate.com/202103/using-nationalism-to-refocus-facial-recognition-concerns-in-china"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "Walt Disney World begins testing facial recognition technology"
     excerpt: "ORLANDO, Fla. – Walt Disney World is now testing a new facial recognition technology at its Magic Kingdom theme park. The new technology captures an image of a guest’s face and converts it into a unique number, which is then associated with the form of ..."
     publishedDateTime: 2021-03-23T15:47:00Z
@@ -371,6 +357,6 @@ related:
         height: 675
         isCached: true
 
-secured: "QU13taaRObKO2D4HnoilQupsV0gCH4pbdYmmQi5SMlySZuGiOJzwm1jerG/oH/fPFA8KkKXZkgWjEuBqUt29DgFfd0bXRs86efHY+6WVv250XqYd7ruqcvojDW5PK66SHPWKi3i9juchkHES41yfIAh25EVdm3Dk70K4QgI9dXfczdkNz/BCbtYLP5+Hhy5UZD+RCP5RxfsrllS0AcQRhT7+grSj7UWHrBbv7SnKdmPEkAN2yIV1Fbzj0IlfV1E0wOpLhxTrskrzhHWDiOBdwwZOZ1lbL5kIC6Ir3+OXQ1ky51mR/ZMMzW1xbsMG5t8lGI3osVqJqPh6gaQKAMUwxr3wD1z3P1qvBXTleJDuOKsJhHkr92vtFDv4d8u6cClV0q4I6AVOqDaOeJO9FshbYUOvHE9wOrHh+RTKFlttOONm607bZKCIV+ZoGcC4QG1kqOZk609rywHWOqGviK077u879GXuA4nk1KK19C0mR6ROvV8bZoHUheRRq5UZ/Es+asxI7RSspbuLAfs00qglkQ==;fnRLC5t8Q86b/kD9KnrLcg=="
+secured: "r3Ym7oMj7oPv0+ze3dR6FbQlg2YswEsJt/PXYqBirIiNb/YOXu6ibipFXzM8BWlhxEUgdR9DGX4v+BULGOxc3xyR/zH3ilfBSmHW+gsPLsb+RRH8dk2qCqhUTVznIyO/6UZN17IoIjkOBk15TlzoI7gBZ+wIZ+hGJxnfXf092CmatS8LWqD3TTinTDtdBrWEiOfHxzWzE5YMicaJgo3PDPNZm4dqToAhax8Kwycv443QnXlrpPL9RIDdTApRrM6ZM1UskfiHw9wVJT081d8yAvaUgFlLosxwmkg2A7Qc6liO+gt/sFtVxL/aSEBC7rx2m8Hxidgnl9g4shR6+G8ZEk9AzIX/1g+gsZPMU0eAcPg=;TjJGarB9Hm3UzUPHZHvUjA=="
 ---
 

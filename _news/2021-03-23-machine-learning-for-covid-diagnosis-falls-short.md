@@ -71,20 +71,6 @@ related:
         width: 700
         height: 364
         isCached: true
-  - title: "FDA authorizes 1st machine learning COVID-19 screening tool"
-    excerpt: "The FDA authorized the first machine learning COVID-19 screening tool for emergency use to identify COVID-19-related health conditions in asymptomatic patients. According to a March 19 news release, the Tiger Tech COVID Plus Monitor will identify certain ..."
-    publishedDateTime: 2021-03-22T18:46:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/fda-authorizes-1st-machine-learning-covid-19-screening-tool.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "There Are Issues with the COVID-19 Diagnosis Machine Learning Algorithms"
     excerpt: "A COVID-19 diagnosing machine learning model has issues — meaning these models are only as good as the datasets used to create them. Healthcare professionals and AI experts alike are warning about some issues they’ve identified in a machine learning ..."
     publishedDateTime: 2021-03-25T15:13:00Z

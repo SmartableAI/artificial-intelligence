@@ -76,22 +76,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Musk Says Tesla Will Wait For Progress On Full Self Driving Before Wider Rollout"
-    excerpt: "Last week, it seemed Tesla Inc (NASDAQ: TSLA) planned a wider rollout of the company's Full Self Driving Beta, an optional software upgrade that allows Tesla vehicles"
-    publishedDateTime: 2021-03-22T17:30:00Z
-    webUrl: "https://www.benzinga.com/tech/21/03/20281589/musk-says-tesla-will-wait-for-progress-on-full-self-driving-before-wider-rollout"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20281589"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20281589"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 84
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_5.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Tesla’s Full Self-Driving Capability: Unsafe at any Speed"
     excerpt: "Tesla’s Full Self-Driving Capability poses perhaps the biggest challenge to automobile safety regulators since the publication of Nader’s book in 1965. Social media sites and the media are replete with images of Tesla owners sleeping, playing the ..."
     publishedDateTime: 2021-03-23T15:43:00Z

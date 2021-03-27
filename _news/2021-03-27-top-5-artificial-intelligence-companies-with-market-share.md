@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-27T08:07:00Z
 originalUrl: "https://www.analyticsinsight.net/top-5-artificial-intelligence-companies-with-market-share/"
 webUrl: "https://www.analyticsinsight.net/top-5-artificial-intelligence-companies-with-market-share/"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - IBM AI
   - AWS AI
+  - AI in Healthcare
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies1-scaled.jpg"
@@ -60,6 +61,6 @@ related:
         height: 675
         isCached: true
 
-secured: "JGElnAzIbmc8wOCKTjkQSSN3fBgo6bu9FHkvq8VJ2w8XF2qVule+62moWpM27fOU3wH17kYKyTiKBGkA+eO1PqkZV5EOF8yIx9l7iZKBr41ZE2dZeCcgF7TiomVik0ZLfrYOVJS12SY6d+8mTFCSD7aRP4CKB4Mq55wLs0cPHU8j4qI56YPV/SNKuktA6o1IzUyPrFJny4IbqBlJm8J00scCe11/8++6/4rhwmZtdaONP9+YnXwserDKIHdbZ2IRUxaiG7R1HEX6ohgl7Uus5Uj2ot7kMam/J5XWpVXE5wwLZQJDcnxhfR8pozHtnM02HQGNxm2r0m73TE1Se6skDpnN19FgoNIkOrt/7iwEv6U=;p9KExjghzkjkwM3PX2Efyw=="
+secured: "2g0S694DrMHrtQ+bh+yVOhHrPXqFfGN9dBNte2QddE6xOVhlidHAsGE9oaxbGCdsjRX87e+PtRzaaKvhpRKpJ/068KcAozgVbMR0d7mFin/zLrNAA1LEr0vssnnXtjq8yFCnVqlrZNBZTth2G0pTHd2hDvmzLikXexJ3gdhrD8ky2Qp8klvS+p+SRSK/KZzV53jyq7hhc7kk3b7j5r3MW0nOFpHEUxPFe0PMHPdR7zNPoK/Zv/tXv0INUBBBNLMeiToF+T285EWoFhINYA7zd7V4JuBji+XSqHSRkiqgXtEtEMCN4get6Efw7/CNiOy6BVzc9S7aU+4o+6OMF8g410yqKbdf4G+21SlTQjqvA+Fj4k3q+IVC9AgjxUcLD2QZYEVqNZ0E1hpwV7JbKNjNw2dWQNUe+ja9qWZT48nx2FbVhe8hj7FyAt9QA2idthDZriwk2sQNYqjc0Uv2BpC7c9XDdOKHptV1aBbzJFUXoKYtsfuflBfJTpbyOO23sG+fSTz5BihIJ6vtJHOpO0meRA==;TgLAKMN0Zx2eLlFTfH49Kw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -30,21 +30,30 @@ images:
     isCached: true
 
 related:
-  - title: "2021 AI Index: Four AI Trends That Stood Out"
-    excerpt: "Is China really winning the race for AI dominance? Are we seeing enough action on AI ethics? Should the private industry self-regulate? The 2021 AI Index gives us clues to these answers."
-    publishedDateTime: 2021-03-22T17:07:00Z
-    webUrl: "https://www.forbes.com/sites/arunshastri/2021/03/22/2021-ai-index-four-ai-trends-that-stood-out/"
-    ampWebUrl: "https://www.forbes.com/sites/arunshastri/2021/03/22/2021-ai-index-four-ai-trends-that-stood-out/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/03/22/2021-ai-index-four-ai-trends-that-stood-out/amp/"
+  - title: "MIPS 2021 names formative AI and distributed cloud among mega trends for video industry"
+    excerpt: "Milestone Systems reveals at the annual conference that they are expecting a successful year with people becoming more accepting of intelligent sensors and video technology"
+    publishedDateTime: 2021-03-23T09:57:00Z
+    webUrl: "https://www.itp.net/96841-mips-2021-names-formative-ai-and-distributed-cloud-among-mega-trends-for-video-industry"
+    ampWebUrl: "https://www.itp.net/96841-mips-2021-names-formative-ai-and-distributed-cloud-among-mega-trends-for-video-industry?amp"
+    cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/96841-mips-2021-names-formative-ai-and-distributed-cloud-among-mega-trends-for-video-industry?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: GDPR fines
+      domain: itp.net
+    quality: 31
+  - title: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool"
+    excerpt: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool, taking Thai companies to another level to deal with current challenges AIS has joined the Thailand AI Research Institute ..."
+    publishedDateTime: 2021-03-23T10:22:00Z
+    webUrl: "https://www.bangkokpost.com/thailand/pr/2088463/ais-teams-up-with-thailand-ai-research-institute-showcasing-ai-platform-of-thai-speech-emotion-recognition-in-world-first-tool"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 11
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058cd428a7b9e8dad831d09%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://static.bangkokpost.com/media/content/20210323/c1_2088463_700.jpg"
+        width: 700
+        height: 467
         isCached: true
 
 secured: "htBDzf9ZDqdwLU07U/g5fJp6O3Q8PvaqAlsTfM1joAp7LNPXOr83f3qmZj/u6XOJSjf74A00Xh58Fq8h+kVFNBmhF7GhOOX91pdH2lruOl1kyfuKkMynmTXKeGJ8Z1kopmbHDz9AvmLJXXTtsFvWzbEsjSXHLntD4vK9EEdLJ9lOK9AQeb3DqBMy6B8nd6slky4dyawApFVM3+cOPJ3Jt4td8KWd4LmvYfaF0hEUQ+ce2dkDavoFJOEFFmVpolPI8u7yVW9fYP/NuP7RugVxESz3Qgo0vsR4nVhC0QbZ3a4Ic6eBxGQAMdjorRAcfGuxwYJu25cNABuqcCMVl5uhxSC7g1jWOraMVq6kx6f2piigZr727wa0aGpkyZt1xqvpEniqz43dk5HiF7NQp17gHKLt4jkrWVgxbpAFTkunMA3sFP4uG8pSS1bNbDS0T+YBgrOSkKEN2zmiwIckCx8vZtDXP+2kgCUexl2jhx2MVb2/RFRtTz9aQNOX+2avHjUTgztOBNWJURoLxdKZ1qThhg==;VS+y1Pwkip3BIgbxB257uA=="

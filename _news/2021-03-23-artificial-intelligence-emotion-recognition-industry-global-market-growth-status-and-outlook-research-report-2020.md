@@ -44,6 +44,17 @@ related:
         width: 680
         height: 380
         isCached: true
+  - title: "Machine learning as a Service Market 2021: Global Industry Analysis Report to 2027"
+    excerpt: "Machine learning as a Service MLaaS market is estimated to grow from USD 613 4 million in 2016 to USD 3755 0 million by 2021 at a CAGR of 43 during the forecast period Machine learning is a computing technique"
+    publishedDateTime: 2021-03-27T10:14:00Z
+    webUrl: "https://www.openpr.com/news/2262830/machine-learning-as-a-service-market-2021-global-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 33
   - title: "Neural Network Software Market Size, Share 2021, Impressive Industry Growth Report 2027"
     excerpt: "Neural network software is useful for simulating, researching, developing and applying artificial neural networks, which are various software concepts adopted in biological neural networks. Neural networks are also defined as artificial neural networks ..."
     publishedDateTime: 2021-03-26T09:47:00Z
@@ -55,20 +66,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
-  - title: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool"
-    excerpt: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool, taking Thai companies to another level to deal with current challenges AIS has joined the Thailand AI Research Institute ..."
-    publishedDateTime: 2021-03-23T10:22:00Z
-    webUrl: "https://www.bangkokpost.com/thailand/pr/2088463/ais-teams-up-with-thailand-ai-research-institute-showcasing-ai-platform-of-thai-speech-emotion-recognition-in-world-first-tool"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 11
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20210323/c1_2088463_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "P6nhvZ56nvqAY2fCt5H3NHOPSpEtf3pP2VgoDvm3vQEwlB79GV0Ic3LHjK/60WZYJo9JigdjK2RaC5t6e9LjVVswA2NyInrELm5Hjq8TsJE6RB7FdseusgOA/ljEpKXZvfqFGcFlCQVWqsiG35a3xPAlG/aQqVjGMRykF1kZgDVdhVCMKQqn7lvkwZWlAPF+rwg7hK649hSy/Ul+PyK5wOwXCfIZ/QeGdZoho3SG+dSKlXjviJ3GZFuqJ5ctPXzTmItq9KcFc6AHUSKC/ty/giikJdnSfdHl2oCYQf6UnjogdFO2ELRCzei11t+T5tOE1SzXqcCcSym2nZJ6CdlwrR1E0kVEIjwWPT6q9jG6G6k=;k4UKk4mQCvQRgOvmURGpkg=="
 ---
