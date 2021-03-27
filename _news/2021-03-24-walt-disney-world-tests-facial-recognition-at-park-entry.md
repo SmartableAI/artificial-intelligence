@@ -3,18 +3,18 @@ category: news
 title: "Walt Disney World tests facial recognition at park entry"
 excerpt: "WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission. The pilot program will be in testing for the next month. Participation is optional, but those who ..."
 publishedDateTime: 2021-03-24T01:21:00Z
-originalUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-webUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-ampWebUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
-cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+originalUrl: "https://www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+webUrl: "https://www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+ampWebUrl: "https://www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: WSOC-TV
-  domain: wsoctv.com
+  name: KIRO-TV
+  domain: kiro7.com
 
 topics:
   - Computer Vision
@@ -373,6 +373,6 @@ related:
         height: 675
         isCached: true
 
-secured: "nh2gzPh8gYDUAndvKrLk/YV0iZUH7N6n09baUs7n8jCuF9gLtV3uztZ6kfiz/cOVKp4Xp8GDZiBREZvrjNs/hqgo3zoF602CP2ORUFBwZah2NhcqF1x63bFaJ8Xx0Fqh5pmvmSAgh/oKwZVsHLi+E7HVMrhFZw55/QVBzPo3dpsEbIMKvQK/O/8yP/f3VTGzC7owboPeMN0TDUogXso53ujvh/9iyS+is7fS9n3UqKnd6UfwUd0lqtvpOjhQsx+qCyRq66WFY3dyOVjcxqskCQ/QsqVET1CkWZH4RrABcjXeILxVK+pH44+8RBUOhrna0wzA0Ls6GxVF30JfRGg0Sj0bO0rX1bXEID+XKrox/2uyeGsplZ5QqxC1OYrBLyO0l3ulPlACXNUFFK4TreVV6bBxNvf18mKdMi43UVBrdtEDW3a2mwHa6EdYRjrMoqXE1yZU4/U71xlQxZ6VNMZwMR6aHRs6C8oTOiXJPuc3AQLfKn7WZPnySSMgW+038tDBznVo83CUGa18KdpvhquBzA==;EaQf4Uu2uMjL8XM6kRMYFA=="
+secured: "VuK24oytSl7yimCtGeghf5+XG2p1n6Yu9buJDS0k75qnQekQmZ8NDNE4hh0PnyveFC39yr6Dfcw/SQ3GERSOK3HbgG2N+WYxAOw8NIll6LSoGXF1bcjI+m4kPUSbvFg1J2HhMTv+rijK5ARrGS2Owx72/iZOFuFVLFB5OPY7eREtUma50ED0xcQtVnRZTrTSr1WBbsn8WM4GCtJkVO4a6hl/aZqBzl3Esq9ay7IDK+9pWwZAczfOxnvIwne2FxmtBqfd9085HR/VIKGt4n8GXLY0JIgeRM87w8wNsiYXJwuVoCcIOpooSrDQoDNVRCplIi+Fgs01RbB7gt6Ycpdn0f/XIDqCGI1qEsSrkQn53pk=;xotoX87IfzCKgXCJyoP7MQ=="
 ---
 

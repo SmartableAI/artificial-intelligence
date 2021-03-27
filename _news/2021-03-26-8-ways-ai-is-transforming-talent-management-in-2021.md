@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

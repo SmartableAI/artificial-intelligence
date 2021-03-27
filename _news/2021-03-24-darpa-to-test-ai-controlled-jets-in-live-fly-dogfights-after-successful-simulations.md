@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-do
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/"
 type: article
 quality: 81
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 796
     height: 417
     isCached: true
-
-related:
-  - title: "DARPA Now Has AI-Controlled F-16s Working As A Team In Virtual Dogfights"
-    excerpt: "Before the end of the year, it’s planned to migrate the AI technology from the virtual world and into sub-scale demonstrators."
-    publishedDateTime: 2021-03-23T01:27:00Z
-    webUrl: "https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-controlled-f-16s-working-as-a-team-in-virtual-dogfights"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 36
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Air-Combat-Evolution-AI-dogfight.jpg?quality=85"
-        width: 2313
-        height: 1301
-        isCached: true
 
 secured: "fgqEoVU52C3zk0iMnVzjJl8PJ40j9kpEqYFeyi9Z6QlUfRliaIbwUDhk+hPyz8vznCsbsAKJupkJpo4usLPvHrrWLxTElaLXLXwplJL13oeR/SKrfnPfBqXtTE46A9e3WFWIeaEzjFMpLr/xABoZhzEWoJtsmKs/G1jWGqeTPQ9+x1IJds4EKaKdHkNSIJti5KkldAF5MpKaEFqCK1JssvoOc9IhNT6cIo2G/C/42bymuKpaaEAMffdjJbZnLF+2Zn8OAaBI7Lg71haP9FDTeMwiZXWC+d39CX/IX33xTLEB+RcLaSLHH8zkJPtZb6Vw9lZ1vqqn4HQNA/bfsSNU0AxBxp84qtTdXThFbjTebLh/t1bfo6avfViQyunLxOTjgdcXUOwX3EhFos7kF6vdbrbWHPIvQT9kcFPHUlt3w5xXZ9CoSR5eRMB/2KcMEXyyb0TmfF1qfWAsk54/yrAvCtprOR3QP4OfvPo5X0Sv2dSgnTXmtA4DZ0Zg2N4GCfPV2N7yiOWJon9SQSWUEByy1w==;jhGpybQcorl3c5HyCCr0Sw=="
 ---
