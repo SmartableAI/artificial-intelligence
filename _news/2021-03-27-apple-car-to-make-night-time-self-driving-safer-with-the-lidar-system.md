@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Self Driving Car Insurance: What You Need To Know"
-excerpt: "Just like previous generations of cars, this new generation of vehicles comes with questions. The big question pertains to self-driving car insurance and how it will work."
-publishedDateTime: 2021-03-26T16:48:00Z
-originalUrl: "https://www.caranddriver.com/car-insurance/a35950852/self-driving-car-insurance/"
-webUrl: "https://www.caranddriver.com/car-insurance/a35950852/self-driving-car-insurance/"
+title: "Apple Car to make night-time self-driving safer with the LiDAR system"
+excerpt: "However, there is still low general public trust in autonomous (self-driving) electric vehicles (EV) at the moment."
+publishedDateTime: 2021-03-27T06:21:00Z
+originalUrl: "https://technosports.co.in/2021/03/27/apple-car-to-make-night-time-self-driving-safer-with-the-lidar-system/"
+webUrl: "https://technosports.co.in/2021/03/27/apple-car-to-make-night-time-self-driving-safer-with-the-lidar-system/"
 type: article
-quality: 39
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Car and Driver
-  domain: caranddriver.com
+  name: TechnoSports
+  domain: technosports.co.in
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-vehicles-stand-outside-of-a-brooklyn-showroom-and-news-photo-1616776857.?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*"
-    width: 1200
-    height: 602
+  - url: "https://i1.wp.com/technosports.co.in/wp-content/uploads/2021/03/R10be2c045982da7320853570409294d6.jpg?fit=1091%2C587&#038;ssl=1"
+    width: 1091
+    height: 587
     isCached: true
 
 related:
@@ -55,6 +55,20 @@ related:
         width: 1440
         height: 753
         isCached: true
+  - title: "Self Driving Car Insurance: What You Need To Know"
+    excerpt: "Just like previous generations of cars, this new generation of vehicles comes with questions. The big question pertains to self-driving car insurance and how it will work."
+    publishedDateTime: 2021-03-26T16:48:00Z
+    webUrl: "https://www.caranddriver.com/car-insurance/a35950852/self-driving-car-insurance/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 39
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-vehicles-stand-outside-of-a-brooklyn-showroom-and-news-photo-1616776857.?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Chipotle Invests in Self-Driving Cars"
     excerpt: "In February 2020, Nuro was the first to obtain a U.S. Department of Transportation exemption, and in April 2020, it became the second self-driving car company to receive a driverless testing permit in California. In October, Nuro started testing its ..."
     publishedDateTime: 2021-03-25T14:05:00Z
@@ -69,21 +83,7 @@ related:
         width: 765
         height: 446
         isCached: true
-  - title: "Apple Car to make night-time self-driving safer with the LiDAR system"
-    excerpt: "However, there is still low general public trust in autonomous (self-driving) electric vehicles (EV) at the moment."
-    publishedDateTime: 2021-03-27T06:21:00Z
-    webUrl: "https://technosports.co.in/2021/03/27/apple-car-to-make-night-time-self-driving-safer-with-the-lidar-system/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/technosports.co.in/wp-content/uploads/2021/03/R10be2c045982da7320853570409294d6.jpg?fit=1091%2C587&#038;ssl=1"
-        width: 1091
-        height: 587
-        isCached: true
 
-secured: "CX+Y3jgM9mQr5b/WKnkXiu/+RhigJ0ASAvc7utHITA0wwgYtaUpgQx+uHHf9K6PAcPRAV1RH12+vazeKAzkKt2k9vAn/wLNEYsoPFkJewHQ82DBWx1DNzqT/C0j4jllllgw9TtlZYosrNrwxqriWVx0b6IWye+VHhB6k/W+0jHsPlRzZI+C5Qu7gg7iE+K83JBGUN4x2dEX3T/egpvQ8gCUyiMy12uU6cr56zxrNQFpkRA2KV6dagAL0h0ooA4mjzIOZryf5hmMg70n3pepQoCN4TeQHOyFEfz9tDHwtvddQXlRjmTGC0jcwXDjfHcLoIaCSZORQ1qqrZcPLEfL/CJWRVKspM0AuanRF/VUvq5ZHKZqPL9OOy4gLrOIgtXz9tCK07ASJeOTJzEptscl0CgCFecSoIdeoCyUFXD22eQ0r7Bl1BQenEWkoIYoZ7hV6n7Cv/syENws4NHizw1XK8/8bAJBe/6QCxw8KoseFncVzst2RTJ/K0C9mkQobvwfJvKaBxfmo51jTRDXo11Csuw==;SeYfWNzXpnZASM05K82bhA=="
+secured: "8ZN4dOTqu8ot36zJmGVANaspDo8YmY7zoTvt0N6z1TcdxV42nIYlfCmypXct/F5t7Xn0tn3CWbmhvImetUoI1xM7uRejAge4ojqV9rFL8WgAarrsV70dFj0TabzxxfNzihTtVPqEhCOPPTst56k5HXyj1M9ll9JFDr+tKWeaLtKV7T2X3bJ1LL18tqz6J1CPTC6ZwVV53WaD07+R824feiv/QNS27EVbaMEKr1Ww64r5MFGf3va3uP3QNVIn8goMyuCRQczOv1cRoiCtcKbBMXv6Az1v+KrXiDzpaq9qFZhXqDaGUmDRk5vBHzyDy1UeYQUmdlypzyssPhOErEiDYb75/X2G5oUpK60vAROUsSw=;fqOrN8oOZzGylIkX+sSBBQ=="
 ---
 

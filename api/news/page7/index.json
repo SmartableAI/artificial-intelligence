@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-20-startup-leaders-heres-how-to-build-a-successful-advisory-board.md",
+      "title": "Startup Leaders, Here’s How To Build A Successful Advisory Board",
+      "excerpt": "I’m sometimes asked about the benefits and limitations of advisory boards for company CEOs, and how to get the most from that investment. I tend to give the same advice: A neglected advisory board is like an untended garden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/",
+      "originalUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6055ebf29bf087833498638c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonyounger/2021/03/20/startup-leaders-heres-how-to-build-a-successful-advisory-board/amp/",
+      "publishedDateTime": "2021-03-20T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-20-ai-weekly-with-rpa-on-the-rise-security-challenges-remain.md",
+      "title": "AI Weekly: With RPA on the rise, security challenges remain",
+      "excerpt": "AI is poised to impact health care dramatically, but how do you ensure it’s used equitably across all populations? Learn what’s needed. Robotic process automation (RPA) is experiencing a watershed moment.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
+      "originalUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/07/rpa.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/with-rpa-on-the-rise-security-challenges-remain/amp/",
+      "publishedDateTime": "2021-03-19T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-rapids-and-amazon-sagemaker-scale-up-and-scale-out-to-tackle-ml-challenges.md",
       "title": "RAPIDS and Amazon SageMaker: Scale up and scale out to tackle ML challenges",
       "excerpt": "In this post, we combine the powers of NVIDIA RAPIDS and Amazon SageMaker to accelerate hyperparameter optimization (HPO). HPO runs many training jobs on your dataset using different settings to find the best-performing model configuration. HPO helps data scientists reach top performance, and is applied",
@@ -1130,94 +1234,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-in-a-face-off-against-fintech-traditional-face-to-face-banks-must-become-more-bespoke-than-ever.md",
-      "title": "In a face off against FinTech, traditional face-to-face banks must become more bespoke than ever",
-      "excerpt": "It’s true that AI, data and automation has come a long way in making customer ... customers simply want to know their money isn’t invested at the expense of others. While FinTech and financial providers are recognising this ESG trend, with financial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/fintech-traditional-banking-bespoke/",
-      "originalUrl": "https://www.cityam.com/fintech-traditional-banking-bespoke/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2020/04/1208404284.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/fintech-traditional-banking-bespoke/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/fintech-traditional-banking-bespoke/amp/",
-      "publishedDateTime": "2021-03-19T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-security-safety-things-offers-ai-based-cameras-to-transform-healthcare-operations-at-lower-costs.md",
-      "title": "Security & Safety Things offers AI based cameras to transform healthcare operations at lower costs",
-      "excerpt": "In the past year, hospitals, elder-care and other healthcare facilities have found themselves overwhelmed with new patients, COVID-19 regulations and other side effects of the pandemic.As",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/security-safety-things-gmbh-bosch-highlight-iot-platform-smart-cameras-ces-2021-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/security-safety-offers-ai-based-cameras-co-1538138049-ga-npr.1616082729.html",
-      "publishedDateTime": "2021-03-18T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Security"
       ]
     }
   ],

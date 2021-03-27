@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansi
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://www.nextbigfuture.com/wp-content/uploads/2017/12/7180bfad19f2195c59f8a445e080234a-1024x632.jpeg"
         width: 1024
         height: 632
-        isCached: true
-  - title: "Watch Tesla’s Full Self-Driving Mode Steer Toward Oncoming Highway Traffic"
-    excerpt: "A harrowing new video shows a Tesla, with its Full Self Driving Beta system engaged, begin to drift into multiple lanes of oncoming highway traffic before the driver slams on the brakes at the last second."
-    publishedDateTime: 2021-03-22T14:48:00Z
-    webUrl: "https://futurism.com/the-byte/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic"
-    ampWebUrl: "https://futurism.com/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2021/03/leftturn-600x315.jpg"
-        width: 600
-        height: 315
         isCached: true
   - title: "Tesla’s Full Self-Driving Capability: Unsafe at any Speed"
     excerpt: "Tesla’s Full Self-Driving Capability poses perhaps the biggest challenge to automobile safety regulators since the publication of Nader’s book in 1965. Social media sites and the media are replete with images of Tesla owners sleeping, playing the ..."

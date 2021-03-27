@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2020-11/Chipotledigital.jpg?itok=7mOnuKZ1"
         width: 765
         height: 446
+        isCached: true
+  - title: "Apple Car to make night-time self-driving safer with the LiDAR system"
+    excerpt: "However, there is still low general public trust in autonomous (self-driving) electric vehicles (EV) at the moment."
+    publishedDateTime: 2021-03-27T06:21:00Z
+    webUrl: "https://technosports.co.in/2021/03/27/apple-car-to-make-night-time-self-driving-safer-with-the-lidar-system/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 24
+    images:
+      - url: "https://i1.wp.com/technosports.co.in/wp-content/uploads/2021/03/R10be2c045982da7320853570409294d6.jpg?fit=1091%2C587&#038;ssl=1"
+        width: 1091
+        height: 587
         isCached: true
 
 secured: "H6zZRG2xc/cXok7KiqA+P6SvYxivdLAAgxIaflvMTyOVZOIiX98O2DAoHBmT0wjtGq35YaEJ1tnroZ+a0Bu8Ncj6kUjSkPT6KULaTcaDTt1NnHmn/fN5vosk0sWhhJoirHMkN6FQhST2JcB6Gh6Xes6ykwO/pjdjPtIamVosbaelzP/LpjwWUjxyh/dwAxVhb2YG0LH6w9u8imDl+LvIh2WCBKRKk67uzveGpNDbQ6aZNN1ijRO5LRlgYHm1k7rJ7+ca6rwktyT2E+8SBdI6LuazmMqMJQVv1B1xGhzGbD7+r6mgHpvo7HXaAHo1RKyhsddqBArViwitjIcy+c84Epvc5BN1FUWPrkHMdk+p7AmU5kUI+s2P0gnY10sHN5zM0fKuxo+hJ6BCZjHPbE6fDfm2fL4yWdQcLAW7Hg3MJtevmtVlw2/+ncVEhd9uGwF3SCT5VLU+pAhpieYr6ccFNWDxre8m5PMAZ5450gz0jV61tOZkGC8vTM6AWNobilKFpLeFTKF/3jmoIqfAF2iPZg==;YNuhXqtYnQJcQDzl1hVQdg=="

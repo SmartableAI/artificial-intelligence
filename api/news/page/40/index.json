@@ -2,6 +2,103 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-02-24-artificial-intelligence-in-platform-as-a-service.md",
+      "title": "Artificial Intelligence in Platform as a Service",
+      "excerpt": "Artificial Intelligence in PaaS refers to the application ... utm_medium=15 Key Players Profiles in This Research Report are- AWS, TensorFlow, Rainbird AI, Bluemix, Infosys, Azure, Wipro, Meya.ai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "originalUrl": "https://www.openpr.com/news/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U223813383_g.jpg",
+          "width": 650,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2247468/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "publishedDateTime": "2021-02-23T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-the-5-things-everyone-should-know-about-cloud-ai-according-to-a-sequoia-capital-partner.md",
+      "title": "The 5 things everyone should know about cloud AI, according to a Sequoia Capital partner",
+      "excerpt": "Sequoia Capital investor Konstantine Buhler discusses how the impact of artificial intelligence will unfold over the next decade in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2",
+      "originalUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/603465e9d920880018591685?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2?amp",
+      "publishedDateTime": "2021-02-23T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-finesse-says-fashiontech-will-disrupt-apparel-industry-the-way-fintech-roiled-banks.md",
       "title": "Finesse Says ‘FashionTech’ Will Disrupt Apparel Industry The Way FinTech Roiled Banks",
       "excerpt": "Finesse, a Los Angeles fashion platform, is using tech and data to produce trendy clothes that people want at a fraction of the cost.",
@@ -1071,92 +1168,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-robot-making-a-mechanical-mind.md",
-      "title": "Robot: Making A Mechanical Mind",
-      "excerpt": "Robot came from an old Czech word for drudgery and servitude. Though in his play – like so very many robo-dystopias to come – the writer showed that a mind we create to serve us isn’t necessarily a mind we can control. Read a transcript of this ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefriday.com/articles/robot-making-a-mechanical-mind/",
-      "originalUrl": "https://www.sciencefriday.com/articles/robot-making-a-mechanical-mind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sciencefriday.com/wp-content/uploads/2021/02/ScienceDiction_Horiz_robot-min.png",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Friday",
-        "domain": "sciencefriday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-hey-siriwhy-dont-you-understand-more-people-like-me.md",
-      "title": "Hey Siri—Why Don’t You Understand More People Like Me?",
-      "excerpt": "Lawrence’s own experiences being misinterpreted because of her Trinidadian accent inspired her to study how voice recognition systems embed “accent bias.” Linguistic studies have found that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.motherjones.com/media/2021/02/digital-assistants-accents-english-race-google-siri-alexa/",
-      "originalUrl": "https://www.motherjones.com/media/2021/02/digital-assistants-accents-english-race-google-siri-alexa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motherjones.com/wp-content/uploads/2021/01/462_Accents_2000.jpg?w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mother Jones",
-        "domain": "motherjones.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

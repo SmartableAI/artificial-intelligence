@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Apple Car to make night-time self-driving safer with the LiDAR system"
+    excerpt: "However, there is still low general public trust in autonomous (self-driving) electric vehicles (EV) at the moment."
+    publishedDateTime: 2021-03-27T06:21:00Z
+    webUrl: "https://technosports.co.in/2021/03/27/apple-car-to-make-night-time-self-driving-safer-with-the-lidar-system/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 24
+    images:
+      - url: "https://i1.wp.com/technosports.co.in/wp-content/uploads/2021/03/R10be2c045982da7320853570409294d6.jpg?fit=1091%2C587&#038;ssl=1"
+        width: 1091
+        height: 587
+        isCached: true
 
 secured: "W1xjqXNHruljSeGhcE1akplViCOaCzxakE1XLFssbORi7+WRlI8Us51vHtRTuQx5veNs66u72FWozKenjQ9SWVmiH57ug4UgvRy8dDP3Fayq+4hP36Y7u3XAfIboBfr2KsKEUKKMEi7pT/qRyXiSTUmx8yoBZkqBf5D1Kfxb2rnvzaVstI7WxZMJAWVOikhZGOsuaB/oGUeUp9/zaWCvUh6ZmwGQdpyG3/1eF2Js1oDGdh9csFCN4AR7Pb35pDXZ4HTBJvPbGnQ0Tl4WJX4ni1mPc/VR6H6cydGd+6hfnk0DbsZh8sQYlxZqCcQdiSqXXvayxCv6TrpWbirTWHFE6M//cq/b/+a3mRjDZa5Rn3SJLGBs43FRum8IqYBA4IiEgh/p2z4Oi4xlzp3i7BAS2pFONAVpxfEFqEyVyZUdLeW0RCAWooFvPP62wxFFvF2DTCD0/2pUofcRjLUOM7TUnUwFCaCot8OUChED5JoGt0Y8qbEBH2Fbag9v4hA2Hga/diG2Z3uOB3mJDQiOy8XJyg==;gMkyLXEwnkImEFhrUc/Zbg=="
 ---

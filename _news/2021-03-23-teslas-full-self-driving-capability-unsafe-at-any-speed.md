@@ -105,22 +105,6 @@ related:
         width: 1024
         height: 632
         isCached: true
-  - title: "Watch Tesla’s Full Self-Driving Mode Steer Toward Oncoming Highway Traffic"
-    excerpt: "A harrowing new video shows a Tesla, with its Full Self Driving Beta system engaged, begin to drift into multiple lanes of oncoming highway traffic before the driver slams on the brakes at the last second."
-    publishedDateTime: 2021-03-22T14:48:00Z
-    webUrl: "https://futurism.com/the-byte/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic"
-    ampWebUrl: "https://futurism.com/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2021/03/leftturn-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "S. Korea to invest 1.1 trillion in Level 4 self-driving technology"
     excerpt: "South Korea plans to spend 1.1 trillion won by 2027 to support 84 projects in hastening its Level 4 self-driving vehicle development while boosting related technologies. At Level 4, the vehicle does not require"
     publishedDateTime: 2021-03-23T23:10:00Z

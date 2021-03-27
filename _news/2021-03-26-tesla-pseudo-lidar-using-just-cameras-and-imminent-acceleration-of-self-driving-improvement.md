@@ -92,22 +92,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Watch Tesla’s Full Self-Driving Mode Steer Toward Oncoming Highway Traffic"
-    excerpt: "A harrowing new video shows a Tesla, with its Full Self Driving Beta system engaged, begin to drift into multiple lanes of oncoming highway traffic before the driver slams on the brakes at the last second."
-    publishedDateTime: 2021-03-22T14:48:00Z
-    webUrl: "https://futurism.com/the-byte/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic"
-    ampWebUrl: "https://futurism.com/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/watch-tesla-self-driving-steer-toward-oncoming-highway-traffic/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2021/03/leftturn-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tesla’s Full Self-Driving Capability: Unsafe at any Speed"
     excerpt: "Tesla’s Full Self-Driving Capability poses perhaps the biggest challenge to automobile safety regulators since the publication of Nader’s book in 1965. Social media sites and the media are replete with images of Tesla owners sleeping, playing the ..."
     publishedDateTime: 2021-03-23T15:43:00Z
