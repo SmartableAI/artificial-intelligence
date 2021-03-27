@@ -2,6 +2,49 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2021-01-19-global-contactless-biometrics-technology-market-analysis-2020-2026-voice-recognition-hand-geometrypalm-vein-recognition-iris-recognition.md",
+      "title": "Global Contactless Biometrics Technology Market Analysis 2020-2026: Voice Recognition, Hand Geometry/Palm Vein Recognition, Iris Recognition, Facial R",
+      "excerpt": "The \"Global Contactless Biometrics Technology Market Analysis 2020\" report has been added to ResearchAndMarkets.com's offering. The Global Contactless Biometrics Technology market is expected to reach $22.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=407414",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=407414",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/25/mark/20210125427284.jpg",
+          "width": 580,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T01:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-providing-voice-ai-solutions-addressing-language-barrier.md",
       "title": "Providing Voice AI Solutions & Addressing Language Barrier",
       "excerpt": "Vernacular.ai has recently raised $5.1 million in its Series A round from Kalaari Capital and Exfinity Ventures",
@@ -1091,49 +1134,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-researchandmarketscom.md",
-      "title": "Healthcare Artificial Intelligence Market, 2027 - Market is Expected to Grow at a CAGR of 41.4% - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.4% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2021-01-18/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-re",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2021-01-18/healthcare-artificial-intelligence-market-2027-market-is-expected-to-grow-at-a-cagr-of-414-re",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-18T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

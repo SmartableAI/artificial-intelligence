@@ -661,24 +661,33 @@
     {
       "path": "_news/2021-03-19-artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks.md",
       "title": "Artificial Intelligence in Digital Pathology, Upcoming Webinar Hosted by Xtalks",
-      "excerpt": "Which artificial intelligence method will work best with your image data? Image analysis is an essential part of digital",
+      "excerpt": "Which artificial intelligence method will work best with your image data? Image analysis is an essential part of digital pathology, from research and discovery of targets and biomarkers to understanding the tumor microenvironment to development of novel therapeutics.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks/article_63ced69d-f0a5-53a5-8b72-e31cf1eeaab7.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks/article_63ced69d-f0a5-53a5-8b72-e31cf1eeaab7.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20252581",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20252581",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-19T05:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null

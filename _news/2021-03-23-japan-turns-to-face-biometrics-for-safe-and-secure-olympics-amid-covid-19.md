@@ -25,21 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "RADLogics AI-Powered COVID-19 solution reduces turnaround time"
-    excerpt: "Moscow Center for Diagnostics & Telemedicine and RADLogics shared the results of a large-scale study (Moscow Experiment on the Computer Vision for the Analysis of Medical Images - mosmed.ai, NCT04489992) conducted by the Research and Practical Clinical Center for Diagnostics and Telemedicine Technologies of the Moscow Health Care Department."
-    publishedDateTime: 2021-03-22T05:24:00Z
-    webUrl: "https://www.news-medical.net/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210322/RADLogics-AI-Powered-COVID-19-solution-reduces-turnaround-time.aspx"
+  - title: "Free GSMA service widens voice biometrics availability for customer authentication"
+    excerpt: "Telecom industry organization GSMA is developing a multimodal solution to address the challenge of biometric authentication in low tech environments and emerging markets. The solution B4LL (for ‘Biometrics for All’) is intended to enable digital ..."
+    publishedDateTime: 2021-03-22T22:37:00Z
+    webUrl: "https://www.biometricupdate.com/202103/free-gsma-service-widens-voice-biometrics-availability-for-customer-authentication"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/14201518/smartphone-biometric-identity-and-document-verification-640.png"
+        width: 640
+        height: 427
+        isCached: true
+  - title: "SAFR face biometrics deployed to support gambling safety program in South Australia"
+    excerpt: "A hotel group among the largest in South Australia is deploying SAFR face biometrics to identify patrons banned from gaming areas."
+    publishedDateTime: 2021-03-25T21:46:00Z
+    webUrl: "https://www.biometricupdate.com/202103/safr-face-biometrics-deployed-to-support-gambling-safety-program-in-south-australia"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/23173651/biometrics-ai-casino-gaming.jpg"
+        width: 650
+        height: 350
+        isCached: true
+  - title: "ID R&D face biometrics and passive liveness support ambitious Latin American payments startup"
+    excerpt: "ID R&D biometric software was chosen by Payface to meet its demands for speed, user convenience, and security of payment information and users biometric data."
+    publishedDateTime: 2021-03-26T19:05:00Z
+    webUrl: "https://www.biometricupdate.com/202103/id-rd-face-biometrics-and-passive-liveness-support-ambitious-latin-american-payments-startup"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 13
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/25172351/ID-RD-SDK-for-on-device-passive-biometric-liveness-Payface-scaled.jpg"
+        width: 2048
+        height: 1536
         isCached: true
 
 secured: "Iyvw3GQlYy/if5DofWeAKSvAK9m77AMJzHRGGEfj6XBBD0Et4aIV53gACYgykN6gwSnV/8tE+nrE6YxsHUSdVfCPE+K/x6RG55UPZdwV3qvH+PnyEmOewi+euJL+x4yUWv2WpiMbO3wQ7Go8/9VQgAcCcVoQX6EHLhgUyevr3IkEzvO1jSHDZetvi7oTzrkQ2DRVHvwxMa/2NiHFPbKy+ouNhOgBVg9gRR0eS95EGDios+2li8ADyrWZjfoFAR/x1nXZkJ3lRzbMylyPiTVpAdPBpwdNzFPLdrT+ZqDA+0xxGIR999ZGTHz/mwUgYA3Jagns2nBC5CMnXKR8AEbajMJYvbo4/zNTcGzDfApZFYTB/LiMQcX/N7AnYSg+WuIr4qtnPa0ch7YxAtNbWQaRJxv6lj7PtksgRfUMKgtsVSeH+s/571AcER6udPLyM7B/V05q4K/X8ITOQg88DvLgMf7bAkiB9cW0vF60Nsi5UiXWMFSVIDnqjA4l0+yNj3MLKeyT/tV+BbF3As2X7eq1Kg==;pVsYH3ufnqKrB+jdwwymmA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/03/25/arts/sophia-robot-nft.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/25/arts/sophia-robot-nft.amp.html"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

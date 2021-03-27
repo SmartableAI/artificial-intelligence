@@ -2,9 +2,9 @@
 category: news
 title: "Your self-driving car still isn't ready. Smarter roads might change that"
 excerpt: "which make it difficult for even advanced artificial intelligence to react appropriately to the myriad new scenarios it might encounter. A Waymo self-driving car once saw a baby crawling on a road ..."
-publishedDateTime: 2021-03-05T16:45:00Z
-originalUrl: "https://edition.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html"
-webUrl: "https://edition.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html"
+publishedDateTime: 2021-03-06T01:44:00Z
+originalUrl: "https://www.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html"
+webUrl: "https://www.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/cars/cavnue-self-driving-lanes/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/cars/cavnue-self-driving-lanes/index.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 619
     isCached: true
 
-secured: "a37J6TJnlgMplBcnXvJ5OsV7d6dfFi+zopxm3MSVHdYRecnV/KFnApEmObbmJ5cib7RntOxBahWJr0fTgN82/s0Jc0MZm6CxenXSS7U6/XcTJtg22vMydJzcR7rTZpkul84h9usNgvEI8UTrFsk9yKF0wUC6zf9qzrDwjK4Wiuu10CEMkO8ZC+F/YMjOf/2hdl88dJH7N0tHL0XnGyjDbbXwF1C25kp8bOxfu1J5EPCAme7qk4VWVg3S/GFyLXfH8qC0Igj377N03X0mfxavD/uQAJt7ZjirGLGrPbHj1q8nNWqME1y2hxw/PEP38v30DmTPY/q7zqDqT9B2jEDrzOkAu4OoR4p/BT7vB2t3Xps=;hsgOQDd3ySYgX0AkV3fMFw=="
+secured: "TU21IuZ06vnauZj26AoKksUvaugo6SjR9lrU/Pq/Ms93Gb5E9uYHjx6JZIKj3lYZW1RyNR1acX/v2RAYjbPl1hfMG9niuvw7XVj6Yihru4Q3wlXdSbutoe0y0oMsvWTgXbjydZCUN5TL+MFIKbKLG77bmz0uu5rcctj6QgVBHqNcOzVujX6ZB6GsU+v4/Wj71cNf8QxYhXe2sr1VUsOV/jOsjuhSQqau3PlqfExQZBkZAKvDvSjUw9m2wBfuvxtcP5TJgiOsNX1AthdLDrVmIhvZ+FBRnYz4TCfA7Rvt4XoCG7N0BW84pAnL2g9EOD9cMsPezGgL7wpa3Plq/yfRmKuXFob/290LXJujxhZA4bg=;s6l/FBtKMD/xjNF0ns5SMw=="
 ---
 

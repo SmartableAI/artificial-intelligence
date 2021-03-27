@@ -72,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Retail Market Anticipated to Register a Significant CAGR over a Forecast Period 2021-2025"
-    excerpt: "Mar 22, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Artificial Intelligence in Retail Market , which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on ..."
-    publishedDateTime: 2021-03-22T06:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-anticipated-to-register-a-significant-cagr-over-a-forecast-period-2021-2025-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market Size, Share, Challenges, Strategies, Forecasts 2019 To 2027 And Industry Analysis Report"
     excerpt: "Artificial intelligence in healthcare is estimated to significantly reduce the cost of the treatments as there would"
     publishedDateTime: 2021-03-22T08:14:00Z
@@ -104,6 +90,20 @@ related:
     excerpt: "Selbyville, Delaware, Global Voice Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2026. Voice Recognition Market Report also covers top key players,"
     publishedDateTime: 2021-03-22T12:39:00Z
     webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-size-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2026-2021-03-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Computing Hardware Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
+    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications such as autonomous driving, surveillance cameras, etc. Graphcore and a few other players offer ..."
+    publishedDateTime: 2021-03-23T00:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-computing-hardware-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-till-2025-2021-03-22"
     type: article
     provider:
       name: MarketWatch
@@ -179,6 +179,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market Research, Consumption, Companies, Industry Report, Analysis and Future Demand By 2025"
+    excerpt: "Mar 25, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Artificial Intelligence in Manufacturing Market which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis ..."
+    publishedDateTime: 2021-03-26T00:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-consumption-companies-industry-report-analysis-and-future-demand-by-2025-2021-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

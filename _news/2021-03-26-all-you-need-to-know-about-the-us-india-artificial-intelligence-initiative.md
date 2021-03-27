@@ -43,20 +43,6 @@ related:
         width: 640
         height: 479
         isCached: true
-  - title: "The United States and India are set to beat China in Artificial Intelligence"
-    excerpt: "The United States and India are logical partners in diagramming the future development of artificial intelligence. The recent US India Artificial Intelligence Initiative will drive further benefits."
-    publishedDateTime: 2021-03-22T06:30:00Z
-    webUrl: "https://www.analyticsinsight.net/the-united-states-and-india-are-set-to-beat-china-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 34
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-20.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "1/5OCgeQbsGNxgRMGHfw1pnSs3kRPSLf2xB3MyWdI2L8c0DkL1eIWvGZdMBhPgt5XolUtQTwnB6TPuSYqtUezFcyGIR75NLVvkiIS0Rwe4P/1l4C8n7c2oLI571+TaX0mk9mkH2Dk6fqxFCdKNpdtLPbS56A8u3St1PqLzYwLKqvntGLKVj42Iq3WbHKfBhIYs9vHZtdHeBB6ov7oDlfOpDwrgEVV+c+NepntFgAe2q2B4OPyDIDakN5pIsp4PKwpjniw8xgBrX6Anj6froSlu6Izi1yHU9taXJ/IrmkBTzJzXNeKieW5qMRN/FdpIUhfmrHooDoxYLrXxiEn+MQCu5eaVPrzcXu7agKMWtQpamxYweg2CaqguCym9G5l7XrRkRB7lee0cnJNvfFpnudvpj4FJdsIXbTf0Fu7vesjkMjIGUbVmejy00dbRhO3TSv6YNNiGZC2tM8/RU8XUQU0jSfM8Bc+KljvgEoHJ9OuX0oUtqim/thqo6Xs3orXSnXwusWIS15u7dwqJ+1mnKmkg==;GxFWP9vAvePeq80kYi5NQA=="
 ---

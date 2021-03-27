@@ -39,6 +39,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Japan turns to face biometrics for safe and secure Olympics amid COVID-19"
+    excerpt: "A facial recognition system installed at the Tokyo Dome, one of the Olympic venues, has been tested and will be put to use as one of the counter-measures against the virus, The Japan News reports. Tokyo will host the Summer Olympics from July 23 to August ..."
+    publishedDateTime: 2021-03-22T21:14:00Z
+    webUrl: "https://www.biometricupdate.com/202103/japan-turns-to-face-biometrics-for-safe-and-secure-olympics-amid-covid-19"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
   - title: "ID R&D face biometrics and passive liveness support ambitious Latin American payments startup"
     excerpt: "ID R&D biometric software was chosen by Payface to meet its demands for speed, user convenience, and security of payment information and users biometric data."
     publishedDateTime: 2021-03-26T19:05:00Z

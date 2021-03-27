@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market Size, Share 2021, Impressive Industry Growth Report 2027"
+    excerpt: "Neural network software is useful for simulating, researching, developing and applying artificial neural networks, which are various software concepts adopted in biological neural networks. Neural networks are also defined as artificial neural networks ..."
+    publishedDateTime: 2021-03-26T09:47:00Z
+    webUrl: "https://www.openpr.com/news/2262380/neural-network-software-market-size-share-2021-impressive"
+    ampWebUrl: "https://www.openpr.com/amp/2262380/neural-network-software-market-size-share-2021-impressive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262380/neural-network-software-market-size-share-2021-impressive"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
   - title: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool"
     excerpt: "AIS teams up with Thailand AI Research Institute showcasing AI platform of Thai Speech Emotion Recognition in world-first tool, taking Thai companies to another level to deal with current challenges AIS has joined the Thailand AI Research Institute ..."
     publishedDateTime: 2021-03-23T10:22:00Z

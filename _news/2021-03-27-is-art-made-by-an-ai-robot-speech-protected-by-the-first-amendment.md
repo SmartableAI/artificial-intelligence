@@ -9,7 +9,7 @@ ampWebUrl: "https://reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-spee
 cdnAmpWebUrl: "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/?amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

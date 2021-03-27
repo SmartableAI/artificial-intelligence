@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-fi
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/amp/"
 type: article
 quality: 76
-heat: 77
+heat: 76
 published: true
 
 provider:

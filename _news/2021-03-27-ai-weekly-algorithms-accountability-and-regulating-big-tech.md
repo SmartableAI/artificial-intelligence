@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-
 ampWebUrl: "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/facebook-google-twitter-logos.png?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "b39rYCYWj2mewuDqbD1roxdDHm7DqeK0/1P8SNRCPbvS71LPpqUPnQA7kEJX2OCoxFAhZQWUYGziDGisr2MCG3diwc0QsFn29B6QCW564VLjHjE7h4lizXkCqh1nyeukGQoAy+piIl84MMhauOthJjyxyfdRiLPs5ruHDAi3cciSeFwVcB9QulqsYdgII5L/qSzKY8/0yUdY4fTMroAArJdy2nOgOWMP1Mi64e7yJOedo1RnozrRyVF7AREVEP5ENOBF/gtBBeUdYasYm/45SVMjV8GiVg8ibwHJVyPoA2hiM1JNIglNEQTnzkYdJKvr7oqsA0nrxxM8CtJaGyIrAnmYmZFAax7e+qqP1ce5aE4=;8Ik+jV23nO6VsRtWAuXLWQ=="
+secured: "s8QmBz54vJ3+7bGYqajdhs950zAlixpoQCsL+SvXRnRek1uu17Ik/wsNr3tyPwOeAcH1AB78YcSVVeLjo+3Tu2Nld95UdLtUvohXFU06XHDiG2Yh48zW4vh3C97198x+aEwzAVSC+ZECy1XrXba6eWYF8uzdpqy5roY4mX4ptp7WdSJBTCY1T1cjK91sh3e75cafQgWabRZjbXfFX6or/Q2eln7DCzrDQ+ZkF4KR3Tl/VRyzen5vqUCyCIkyzd3jA/a2sG+C3L44qkS0npJjZiYk82nANJlLWL0l86OJp2wsPN/Ukm+nRKry3IhPaEBWZMjciplZkq9Gw/FsQHDvbP0zwZGTtVYVsAI24OgR+iCRVxqBsRqyC4e5WfBe/JA3LKPFSV+LpoCLthfey1Uf671gPMA45dAvhFlvFbKc9/vYdMfsWKz2iLYJtwzuiiM+UhCalXXHaWWoBO4FLA6nO/QPoo2ljcAgWlA020qXTuGrKnoc9Y/SuFTpxB0JTRHZC+QzPmiG0Ujll8D24VGW+w==;xn3MF4tjl5oDIzhqagT5Sg=="
 ---
 

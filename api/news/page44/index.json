@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-02-20-visible-light-face-recognition-door-access-control-android-system-installed-with-turnstile.md",
+      "title": "Visible Light Face Recognition Door Access Control Android System Installed with Turnstile",
+      "excerpt": "Visible Light Facial Recognition System Facedepot-7A is able to automatically recognize and track faces in videos. After installation,System is enabled to actively collect face images and perform matching and identification upon any human activity in its 3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalsources.com/Facial-recognition/face-access-control-system-Android-1179870829p.htm",
+      "originalUrl": "https://www.globalsources.com/Facial-recognition/face-access-control-system-Android-1179870829p.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p.globalsources.com/IMAGES/PDT/BIG/829/B1179870829.jpg",
+          "width": 360,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Sources",
+        "domain": "globalsources.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest.md",
       "title": "Google names exec to oversee responsible AI research after staff unrest",
       "excerpt": "Alphabet Inc's Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing ...",
@@ -1105,57 +1148,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
       "publishedDateTime": "2021-02-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-alexa-what-does-the-smart-home-teach-us-about-ai.md",
-      "title": "Alexa, What Does The Smart Home Teach Us About AI?",
-      "excerpt": "We don’t often get a real glimpse of the future before it happens, but I believe that's what the smart home grants business leaders for the future of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ebe9ecc4962fb6150f91a%2F0x0.jpg",
-          "width": 752,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
-      "publishedDateTime": "2021-02-19T04:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

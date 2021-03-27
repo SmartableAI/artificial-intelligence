@@ -7,7 +7,7 @@ originalUrl: "https://www.dailymail.co.uk/sciencetech/article-9397979/AI-comes-o
 webUrl: "https://janellecshane.substack.com/p/gpt-3-tries-pickup-lines"
 type: article
 quality: 99
-heat: 110
+heat: 109
 published: true
 
 provider:

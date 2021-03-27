@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-08-as-ai-tech-speeds-up-so-should-designed-in-gender-diversity.md",
+      "title": "As AI Tech Speeds Up, So Should Designed-In Gender Diversity",
+      "excerpt": "These are the steps we need to take right now to make sure bias-free AI is developed by people representative of the whole of society and any given company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/03/08/as-ai-tech-speeds-up-so-should-designed-in-gender-diversity/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/03/08/as-ai-tech-speeds-up-so-should-designed-in-gender-diversity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e407dcd02f3bb0484d74e%2F0x0.jpg",
+          "width": 1075,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/03/08/as-ai-tech-speeds-up-so-should-designed-in-gender-diversity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/03/08/as-ai-tech-speeds-up-so-should-designed-in-gender-diversity/amp/",
+      "publishedDateTime": "2021-03-08T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-ethics-by-design-salesforces-approach-for-positive-ai-and-product-development.md",
       "title": "Ethics by Design: Salesforce's approach for positive AI and product development",
       "excerpt": "Paula Goldman, Chief Ethical and Humane Use Officer for Salesforce, talks with ZDNet about how companies can develop technology, specifically AI, with ethical use and privacy in mind.",
@@ -1428,49 +1480,6 @@
       "provider": {
         "name": "Voice of America",
         "domain": "voanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-fires-second-ai-ethics-leader-as-dispute-over-research-diversity-grows.md",
-      "title": "Google fires second AI ethics leader as dispute over research, diversity grows",
-      "excerpt": "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/news/business/google-fires-second-ai-ethics-leader-as-dispute-over-research--diversity-grows-14241808",
-      "originalUrl": "https://www.channelnewsasia.com/news/business/google-fires-second-ai-ethics-leader-as-dispute-over-research--diversity-grows-14241808",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14241806/16x9/991/557/210d071416f159aa8c2ab4f365aff4f4/Nr/file-photo--the-google-sign-is-shown-on-one-of--the-company-s-office-buildings-in-irvine--california-1.jpg",
-          "width": 991,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T19:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
         "images": null,
         "publishers": null,
         "authors": null
