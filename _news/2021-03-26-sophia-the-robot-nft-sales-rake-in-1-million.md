@@ -9,7 +9,7 @@ ampWebUrl: "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/
 cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
 type: article
 quality: 76
-heat: 107
+heat: 106
 published: true
 
 provider:

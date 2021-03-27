@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Computing Hardware Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
-    excerpt: "More recently, the AI boom has sparked a stream of startup hardware companies developing more specialized chips, which are optimized for specific applications such as autonomous driving, surveillance cameras, etc. Graphcore and a few other players offer ..."
-    publishedDateTime: 2021-03-23T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-computing-hardware-market-size-analysis-by-growth-emerging-trends-and-future-opportunities-till-2025-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market Top Companies, Business Growth And Investment Opportunities, Share and Forecasts 2025"
     excerpt: "Kenneth Research has published a detailed report on Deep Learning Market, which has been categorized by market size as"
     publishedDateTime: 2021-03-23T07:02:00Z

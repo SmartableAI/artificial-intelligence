@@ -24,6 +24,22 @@ images:
     height: 1281
     isCached: true
 
+related:
+  - title: "Don’t Arm Robots in Policing"
+    excerpt: "Proposed New York City Law a Model for Regulation Elected officials and local authorities across the United States and around the world should consider"
+    publishedDateTime: 2021-03-27T16:56:00Z
+    webUrl: "https://www.pressenza.com/2021/03/dont-arm-robots-in-policing/"
+    type: article
+    provider:
+      name: PRESSENZA
+      domain: pressenza.com
+    quality: 39
+    images:
+      - url: "https://cdn77.pressenza.com/wp-content/uploads/2021/03/lossy-page1-462px-Bio-inspired_Big_Dog_quadruped_robot_is_being_developed_as_a_mule_that_can_traverse_difficult_terrain.tiff.jpg"
+        width: 462
+        height: 553
+        isCached: true
+
 secured: "XsGO+ySpgVvnCRlc/BG3H0dkPYV1hxix9eaZAdwTNOSVSqKLGfIUW+BUff67SlkoUzjMC5E80eyr/sinIAcf+1ED5wJkFrqUaWfXKzERUhfWS1uG6i9lfGziTzxjUTC0Jp0jbbyyGkM0Fd4xu64rPNioGIYhRZDAktJhqMuCGc88SF2tcuyTqTcxjoTRWLZpeogR5PcfcLpjAx2ong6tGoSip+5gNMjDmeMKELpsWw0+EdbHu7FXt2dEoOJx1Imga3jUuiMHWLODoJcG3vi7YH3lLAqRombDhFztLY7fXe1Ok/V+MfkhYHBqsY/nhAGQAfSIBlqsKnafQ1wCt7sWeR69B/4vSESxg8c5538LSQPFGJ5XCJIEaBGeuRjz8pazX/eSrMvJsVTCRjDRU4/ttCwCBMIaqt6WFXhg1qmD5g4BrcayYlHGNnPk5KlZ/d6okQ5sNW2jSAntq3l7N4fqyK6eOM13pr6Jha9Wl7XpJWCpraTSqE6qsU6GUDBUfIUm0TVQttO/mzY43jmWIVIigA==;68mwn0ieJIhGX2YOisWfgw=="
 ---
 

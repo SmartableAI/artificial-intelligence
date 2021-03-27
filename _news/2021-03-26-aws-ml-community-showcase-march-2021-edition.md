@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ml-community-sho
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-ml-community-showcase-march-2021-edition/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:

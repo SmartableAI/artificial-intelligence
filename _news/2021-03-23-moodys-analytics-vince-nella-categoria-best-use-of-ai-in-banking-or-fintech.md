@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 901
         isCached: true
-  - title: "Moody’s Analytics Wins Award for Best Use of AI in Banking or FinTech"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Moody’s Analytics has won Best Use of AI in Banking or FinTech at the 2021 Global Achievement Awards for AI. This award recognizes the Credit Sentiment Score™ solution ..."
-    publishedDateTime: 2021-03-22T23:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/moodys-analytics-wins-award-for-best-use-of-ai-in-banking-or-fintech-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Alluxio Advances Analytics and AI with NVIDIA Accelerated Computing"
     excerpt: "This is the case for both analytics pipelines and AI / Machine Learning (ML) pipelines. Benefits from GPU acceleration for an end-to-end pipeline are limited if data access dominates the execution time. GPU-based processing drives higher data access ..."
     publishedDateTime: 2021-03-23T12:02:00Z

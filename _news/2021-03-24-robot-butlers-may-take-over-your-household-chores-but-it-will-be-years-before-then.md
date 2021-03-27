@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Robot butlers may take over your household chores, but it will be years before then"
+    excerpt: "For at least a decade, robotics and AI firms have flexed their ability to create machines that can complete various practical household tasks. Last month, Boston Dynamics showed its Spot robot dog picking up clothing."
+    publishedDateTime: 2021-03-27T16:00:00Z
+    webUrl: "https://www.detroitnews.com/story/tech/2021/03/27/robot-butlers-may-take-over-your-household-chores-but-years-before-then/7001216002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 13
+
 secured: "+VqAA3FloawVMOBPsZ/jr7hO914VtyHbfmNVG0+07LE4WB1Mr376hHI5pUjRAHeaewNhvxSecQSLmC1yppYo3BAtGQEcL+DFpgjCuqrlMt/RQJ8LE+d5AYurwDw6ZQrvgUUA22944R+3SYdlgQnVL5h7NlwBOWJEOLx/CEf8hHxXSDLkQUNOyc6sMa9dIeHJLCzBQewCHVACQY6yfEX4FGDBIs+Q9gFpVLJYk8PbS9ESe5o+O6cPxeQUcCuNo0A6fMtlFbWDi78DJjfUS1s3w7u6Wtdr6yJDiqdm8eHCkzQ5HJSxrOk8mCY0qth6fRRUveeoexTsPayyykU7pAsVKtpbqrYQA9BLoNKfe2IjPkuzWznDtvNOVHry01EFivWS6IiAX4qjRiS7vtsrsu/qdfG/QXyIH8E7/hKpCnJYX/JuaptSOhYupEkIEg56KssLaExr7x+aG/D3ptammjMgsFyMX4dNIz4pftg1zWI31fJE4AepQuvlPILf0/GZYkHKWat7opiGHNvk2jYIO4FKoQ==;J+UCPNCnthwoYQVaKdtdDg=="
 ---
 
