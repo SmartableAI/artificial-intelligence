@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-02-24-natural-language-processing-services-in-ai-annotation.md",
+      "title": "Natural Language Processing Services in AI Annotation",
+      "excerpt": "AI applications can be developed with the help of natural language processing (NLP) using machine learning or deep learning. NLP helps machines (mainly computer system) understand, analyze, manipulate, and potentially generate the human language or the ...",
+      "sourceUrl": null,
+      "webUrl": "https://arcticstartup.com/natural-language-processing-services-in-ai-annotation/",
+      "originalUrl": "https://arcticstartup.com/natural-language-processing-services-in-ai-annotation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arcticstartup.com/wp-content/uploads/2021/02/Text-Classification.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T01:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArcticStartup",
+        "domain": "arcticstartup.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed.md",
       "title": "Way of using machine learning to aid mental health diagnoses developed",
       "excerpt": "A team of researchers at the University of Birmingham have developed a way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms. The findings of the research ' Bulletin'.",
@@ -1099,57 +1142,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency-in-countering-china-on-artificial-intelligence.md",
-      "title": "US-China tech war: Former Google CEO Eric Schmidt stresses ‘urgency’ in countering China on artificial intelligence",
-      "excerpt": "The US is ‘one or two years ahead of China, not five or 10’ and ‘the Chinese are well ahead in areas like face recognition,’ said former Google CEO Eric Schmidt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
-      "originalUrl": "https://www.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/24/2fff5d14-7601-11eb-8b9d-76c80a88a6d4_image_hires_040002.jpg?itok=uiLCMS6u&v=1614110412",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
-      "publishedDateTime": "2021-02-23T11:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -31,20 +31,6 @@ related:
       name: Centreforaviation.com
       domain: centreforaviation.com
     quality: 34
-  - title: "Harqen’s AI-Powered Evaluation Technology Likely Better at Making Hiring or College Admission Recommendations Than Humans"
-    excerpt: "Harqen.AI, a leading provider of AI-powered evaluation technologies for both corporate recruiting and college admission processes, today announced preliminary findings about the accuracy of the company’s AI technology by acclaimed Purdue University researcher and Industrial and Organizational (I/O) Psychologist Michael A."
-    publishedDateTime: 2021-03-22T20:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-higher-education-a0eab25410959ecba9bddcac28602a55"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "vno4GXFJf+CpPEkp+X5+EwhYPAaP5HzA2Jf+BFWolGV4VYy1IRFpUpRj/SK+TP665EJ4kNGwX2pE4jQlHOlkvOOD/HlU91jbu4qg0JC2toDbbs4D5ojJTcqzajzCr7KxmSTt1CzbGX3jXLJTUJjDAWGBL9vRYtpISVM5duZu8bnQNqgUhFhD0q7LqOMCOL6It8fY2kAZ9S3ndYDt43YoF4/iWm0BeRwXx1MJ7L6IwxWxxAE4X4Uia7Qg7kMQ0DLNhU0F9E+0SWL3rrAZL+ZUHCInfUCvXPHrrtKlT9Zu5MluMeW37eaNmkx/f1vEJWXUfkTrV7MrBWbWARZA3zTlh2ryV/D97hNmrjcUTmXafI4PlCp2vzRojpPlegGfAEaMwm28tMLGGreLa079pKe3mlo/Ok0bc4X/3RgTqwOfgHyQ53jSGxkn4dKmQ3ZaMosD9/VA6cK+h7UMayAMLQOxhDXDGsfzUNA3+lfoE7Qp1DfzfTjyRUP+kzGiukLn4PPUIFeESGwezv0SvLmnqFncqQ==;DS4PxK9nY5OjyldH+uPFnw=="
 ---

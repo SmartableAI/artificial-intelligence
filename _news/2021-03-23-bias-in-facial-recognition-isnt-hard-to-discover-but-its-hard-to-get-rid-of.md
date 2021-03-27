@@ -172,6 +172,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Walt Disney World Testing Facial Recognition Tech For Park Entry"
+    excerpt: "Disney’s taking touchless to a new level with its facial recognition pilot program. Would you be willing to participate?"
+    publishedDateTime: 2021-03-27T12:10:00Z
+    webUrl: "https://www.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    ampWebUrl: "https://amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    cdnAmpWebUrl: "https://amp-travelawaits-com.cdn.ampproject.org/c/s/amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    type: article
+    provider:
+      name: travelawaits
+      domain: travelawaits.com
+    quality: 59
+    images:
+      - url: "https://img.travelawaits.com/filter:centercrop/quill/5/9/2/7/0/a/59270a9ea0fff8df8eb37756170ca02ffc3572c5.jpg?w=300&h=300"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Disney World begins testing facial recognition technology: Here’s how it works"
     excerpt: "Disney said the technology will capture an image of a guest’s face and convert it into a unique number, which will then be used for park entry."
     publishedDateTime: 2021-03-25T11:04:00Z

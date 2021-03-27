@@ -9,7 +9,7 @@ ampWebUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-sof
 cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
 type: article
 quality: 59
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -154,6 +154,22 @@ related:
       - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Walt Disney World Testing Facial Recognition Tech For Park Entry"
+    excerpt: "Disney’s taking touchless to a new level with its facial recognition pilot program. Would you be willing to participate?"
+    publishedDateTime: 2021-03-27T12:10:00Z
+    webUrl: "https://www.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    ampWebUrl: "https://amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    cdnAmpWebUrl: "https://amp-travelawaits-com.cdn.ampproject.org/c/s/amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    type: article
+    provider:
+      name: travelawaits
+      domain: travelawaits.com
+    quality: 59
+    images:
+      - url: "https://img.travelawaits.com/filter:centercrop/quill/5/9/2/7/0/a/59270a9ea0fff8df8eb37756170ca02ffc3572c5.jpg?w=300&h=300"
+        width: 300
+        height: 300
         isCached: true
   - title: "Bias in facial recognition isn’t hard to discover, but it’s hard to get rid of"
     excerpt: "Joy Buolamwini is a researcher at the MIT Media Lab who pioneered research into bias that’s built into artificial intelligence and facial recognition. And the way she came to this work is almost a little too on the nose."

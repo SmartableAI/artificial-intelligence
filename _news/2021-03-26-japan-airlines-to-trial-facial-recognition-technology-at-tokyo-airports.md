@@ -30,20 +30,6 @@ related:
       name: PhillyVoice
       domain: phillyvoice.com
     quality: 49
-  - title: "Harqen’s AI-Powered Evaluation Technology Likely Better at Making Hiring or College Admission Recommendations Than Humans"
-    excerpt: "Harqen.AI, a leading provider of AI-powered evaluation technologies for both corporate recruiting and college admission processes, today announced preliminary findings about the accuracy of the company’s AI technology by acclaimed Purdue University researcher and Industrial and Organizational (I/O) Psychologist Michael A."
-    publishedDateTime: 2021-03-22T20:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-higher-education-a0eab25410959ecba9bddcac28602a55"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "dwmtYruib8cVEvroTmV0LS+lhz3TuYtryEJ4mEQQZXMtIHorG2HfZaxA23BKXv3V1Zn8A/F7buFVtPDg63NoSSZu3e6o8itUSmYOTGegOF164qjC5MDsVG0jxUkKJwFoteYBbfvAsyTBdJvGNSTLLwYREpoqmHM0B5/yF9plKTcnHPNT6wAyU+NEb5bFbj+QmsYZn5DQiu8X/hwMD9NWr3mciPksZJqRuIYmo2Ycn9E8xfcRvRvLGELZYRkqssgtglbEVQVZAucWP7GSRcfnGbb8JRQ2RaaNw0FLTe4Xzgfi6yT2sx/DhdskLongjm8HdJ8OBz+oALVoIOQaYWaT8UTQyj4WIVuzgw4pspH74S0=;5nnUeNJpRDrxrQe4jRNLHA=="
 ---

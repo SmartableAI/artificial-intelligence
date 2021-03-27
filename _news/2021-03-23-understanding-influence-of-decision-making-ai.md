@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers are helping artificial intelligence understand fairness"
-    excerpt: "\"What is fair?\" feels like a rhetorical question. But for Michigan State University's Pang-Ning Tan, it's a question that demands an answer as artificial intelligence systems play a growing role in deciding who gets proper health care,"
-    publishedDateTime: 2021-03-22T19:15:00Z
-    webUrl: "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-artificial-intelligence-fairness.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-artificial-intelligence-fairness.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/teachingaiwh.jpg"
-        width: 2880
-        height: 1917
-        isCached: true
   - title: "Monash University researchers asking the tough questions about data in AI systems"
     excerpt: "Topic: Innovation Researchers from Melbourne's Monash University have developed a framework they say could be used to provide greater transparency into the type of data being fed into artificial intelligence (AI) systems,"
     publishedDateTime: 2021-03-23T04:30:00Z
@@ -52,22 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "Using AI to map how the brain understands sentences"
-    excerpt: "Have you ever wondered why you are able to hear a sentence and understand its meaning—given that the same words in a different order would have an entirely different meaning? New research involving neuroimaging and A."
-    publishedDateTime: 2021-03-23T20:49:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-ai-brain-sentences.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-brain-sentences.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-brain-sentences.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/usingaitomap.jpg"
-        width: 389
-        height: 238
-        isCached: true
 
 secured: "Vxj/vYNxO27ILn65XoZkwjIHimlI+Hhp+GomMROC1TWFjo6ijfHVdsQU9NCgPfqa7SlEvv/pu6gjmCzYTEWAbNkMu5DujEeY7aekkgajmC7/zusxFB9a9P3sxk4O3zY134AjyLZS9Za/Mv8BZYyM8ABLoYUNsPumCDrY48HnhbYY05fxzyWjD/Ye/zu2ApK8GEmY9bzQv8fPxT/B6gNuFAKWaJ/laukVkq35fe6yzblbEUhYCRRZrEoppyfH/7fewpX09/abK4Z/UO0i2Cbt+U69lHuzUMcCw7zEkPgpTHsI7B4h2RyTAk+W2BL4vtK2h6UOCGW8bIuM1dPG7yErUHWkuSt3OtzH9Tx7Y2Gh9ig=;hxq6k2ElQdg72GzWI1En9g=="
 ---

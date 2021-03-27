@@ -155,6 +155,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Walt Disney World Testing Facial Recognition Tech For Park Entry"
+    excerpt: "Disney’s taking touchless to a new level with its facial recognition pilot program. Would you be willing to participate?"
+    publishedDateTime: 2021-03-27T12:10:00Z
+    webUrl: "https://www.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    ampWebUrl: "https://amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    cdnAmpWebUrl: "https://amp-travelawaits-com.cdn.ampproject.org/c/s/amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    type: article
+    provider:
+      name: travelawaits
+      domain: travelawaits.com
+    quality: 59
+    images:
+      - url: "https://img.travelawaits.com/filter:centercrop/quill/5/9/2/7/0/a/59270a9ea0fff8df8eb37756170ca02ffc3572c5.jpg?w=300&h=300"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Bias in facial recognition isn’t hard to discover, but it’s hard to get rid of"
     excerpt: "Joy Buolamwini is a researcher at the MIT Media Lab who pioneered research into bias that’s built into artificial intelligence and facial recognition. And the way she came to this work is almost a little too on the nose."
     publishedDateTime: 2021-03-23T04:08:00Z
@@ -357,6 +373,6 @@ related:
         height: 675
         isCached: true
 
-secured: "r3Ym7oMj7oPv0+ze3dR6FbQlg2YswEsJt/PXYqBirIiNb/YOXu6ibipFXzM8BWlhxEUgdR9DGX4v+BULGOxc3xyR/zH3ilfBSmHW+gsPLsb+RRH8dk2qCqhUTVznIyO/6UZN17IoIjkOBk15TlzoI7gBZ+wIZ+hGJxnfXf092CmatS8LWqD3TTinTDtdBrWEiOfHxzWzE5YMicaJgo3PDPNZm4dqToAhax8Kwycv443QnXlrpPL9RIDdTApRrM6ZM1UskfiHw9wVJT081d8yAvaUgFlLosxwmkg2A7Qc6liO+gt/sFtVxL/aSEBC7rx2m8Hxidgnl9g4shR6+G8ZEk9AzIX/1g+gsZPMU0eAcPg=;TjJGarB9Hm3UzUPHZHvUjA=="
+secured: "Xa2e8dC0o1RQTGRaAKnyMzaeWtLMHdFnn860qOk3cTQXqqxZtB6oBkOujzGQLStC3G6iC4DacVgkppYVRe6biCuwOPuFqZOrlU0Ga5p6eb+bINhsb3c6M2yolSvlg69b58WcK5dCVOOn+C/ufSl9Gb22BiwxzuWDsrdPCRp5ggObj+YShy5qAZy3L9Y6qFtdVQayYq5ZaacsFPwRfIyZUxh4hFLeZERnuGjqZBy1qQQwbt3c+ql3rukDU47/CMhKdXw/uSSAiuNymFwZH+eElvXBxee/nj9Itjeisx6tpax33WlVcSxPlh+BNVyOOQCqrnwZuZsLskqj6suWGNH/BnhetrSZlNki18iMXd5G689AsVnN42qvDmzMnhICREyOoHyl2/GnwTw+16q8K20bytoNKxAH1ixce58Ckxr6VY93vL5mDWOZV0m8qJaUpCbjqpAHQLch8f2mSAUZvPL4RSpZAUmvxFwp8DDubw1gmCbg5u3i3x4e09i2hkkXoL2NI9e5+Q0GqvgizDvwyJZ39Q==;X2b6vwQKHYapbGwtQEF5gw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/25/how-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/25/how-artificial-intelligence-is-impacting-multifamily-real-estate/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -44,34 +44,6 @@ related:
       - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2021%2F03%2F6055734c74152-ee3f2db4-d5cc-4c4f-868d-b17bc98ff518.jpeg&width=1200&sign=Lpq1k4ZDgFEZNENK5qy8gEeVuLEJtCakgjSVmPKu990"
         width: 803
         height: 547
-        isCached: true
-  - title: "How AI is changing the way we work"
-    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
-    publishedDateTime: 2021-03-22T19:52:00Z
-    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 41
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How AI is changing how we work"
-    excerpt: "The long-term impact of the robot revolution on the human workforce has been overstated: the truth is AI is changing jobs, not stealing them"
-    publishedDateTime: 2021-03-22T19:23:00Z
-    webUrl: "https://www.raconteur.net/technology/artificial-intelligence/ai-changing-work/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 39
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2021/03/ai-.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "rj3B2T7d0e8nsob/dcLJm0AV+OAqgFFX5QXRkXB5xrJEY+c2OzWhAqn8qwG93t/10q1jaQPMsHDvP2WVg5Yudbqm7/UW0Mepeb1Nmhp10JEczyPdmsECMxssWX3G7Aj10GZrMH7ZLu5tnFfDC5U7O5GkVg9N70B4B1gly6gfZ1UXvwgVAMxeZu9p1rzaQro3TCcvozR6jtnGInhdz1PiADTEZAj99qNoruRiliaIZy7crH/pc6JhS6wlQVAM6fx3nEspnDN1iE+d5Qocu1upp7rPNW4FnyaH+NTtcnwRWnlN6Vb20W7ZoXxqZ7LAZRnC5NJyKnNfLf4M1jUDpABceYEgXmwJu6zAoPd54qkO7r+LSn6zRec4QxjpZZY/UJ4PzgsSh/W9hCPp13fW/QQ1UHf4sMy27GHHet0R+9ohxIgN9CbQIbiI4Td4j6992xIhnvkT4Bk7idoNVt6xK0bmHseYSU2UqOPbPp+C6zUIzXYtRRt7DFlJpobWNVoWmLMHhRcsgZYbwX4cZ767Bsv7Zw==;p/+3CTXTa6bIJ9P/4d+Z3A=="

@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-18-openais-sam-altman-artificial-intelligence-will-generate-enough-wealth-to-pay-each-adult-13500-a-year.md",
+      "title": "OpenAI's Sam Altman: Artificial Intelligence will generate enough wealth to pay each adult $13,500 a year",
+      "excerpt": "Artificial intelligence will create so much wealth that every adult in the United States could be paid $13,500 per year from ... also be taxed and pay in cash, Altman said. All citizens over ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/03/17/openais-altman-ai-will-make-wealth-to-pay-all-adults-13500-a-year.html",
+      "originalUrl": "https://www.cnbc.com/2021/03/17/openais-altman-ai-will-make-wealth-to-pay-all-adults-13500-a-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106171845-1570607954954gettyimages-1164572727.jpeg?v=1615999998",
+          "width": 4928,
+          "height": 3280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/17/openais-altman-ai-will-make-wealth-to-pay-all-adults-13500-a-year.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/17/openais-altman-ai-will-make-wealth-to-pay-all-adults-13500-a-year.html",
+      "publishedDateTime": "2021-03-17T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-webees-no-code-end-to-end-solution-builder-software-democratizes-iot.md",
       "title": "Webee’s No-Code End-to-End Solution Builder Software Democratizes IoT",
       "excerpt": "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective.",
@@ -1126,49 +1177,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-university-ford-join-in-robotics-effort.md",
-      "title": "University, Ford join in robotics effort",
-      "excerpt": "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheetah -- staccato-like -- does the same on four. Meanwhile, the yellow-legged Cassie steps deliberately side-to-side.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arkansasonline.com/news/2021/mar/17/university-ford-join-in-robotics-effort/",
-      "originalUrl": "https://www.arkansasonline.com/news/2021/mar/17/university-ford-join-in-robotics-effort/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/197684474_197683415-123406b7433340c997c2bd7992e09df4_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
-          "width": 600,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T19:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arkansas Democrat-Gazette",
-        "domain": "arkansasonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
