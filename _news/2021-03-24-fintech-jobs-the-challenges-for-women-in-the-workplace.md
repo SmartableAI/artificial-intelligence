@@ -41,20 +41,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Powehouse Silicon Valley funder invests in Pinoy fintech"
-    excerpt: "NextPay Founders Don Pansacola and Aldrich Tan Silicon Valley-based startup accelerator Y Combinator invested $125,000 in homegrown fintech startup NextPay, an all-in-one digital banking solutions provider expanding its services to financially-underserved businesses in the Philippines."
-    publishedDateTime: 2021-03-23T03:23:00Z
-    webUrl: "https://mb.com.ph/2021/03/23/powehouse-silicon-valley-funder-invests-in-pinoy-fintech/"
-    type: article
-    provider:
-      name: Manila Bulletin
-      domain: mb.com.ph
-    quality: 24
-    images:
-      - url: "https://mb.com.ph/wp-content/uploads/2021/03/NextPay_Founders_A-1-1024x806.jpg"
-        width: 1024
-        height: 806
-        isCached: true
 
 secured: "kfN+8ytR1GJ4AC+InJN99O2fmHViE0BeqhXF/Uj4SOv8CBAhsaFzoPqJkGaJbctPnBFgHzEfzlWrN+t9JTvlKKriu8gIRfFtwEnjcKUVYj89xJmAlXeKCcgBWMnAqfL+41LF15MuOuftSqbigZ8CiuFPA+NiVETCiYYHGUrb0Egq0fcX91eTHkOnV7a4RctAsDR5ylqtK/WoQGoWCy6OaYd5Y5FJY5wAtc2knpC6wYHFKj8dKboreZQc9zkLfYNiLi0G7+R+7W0SjmqCfaxOqPlnrU/gV/zs9/xHnrk4tN5YmuUumHoGoZF1Y1WGeJB86puGUv/esPv0yZRSV9IZizg7JXP99kr9b5+3H/DYhes=;f9/M+V8dFhYR5iuzpeSFAA=="
 ---

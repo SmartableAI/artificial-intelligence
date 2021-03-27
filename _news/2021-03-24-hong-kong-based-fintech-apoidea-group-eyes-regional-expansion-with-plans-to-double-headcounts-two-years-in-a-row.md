@@ -39,15 +39,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Hong Kong-based fintech Apoidea Group eyes on regional expansion with plans to double headcounts two years in a row"
-    excerpt: "After doubling its headcounts in 2020, Apoidea Group (\"Apoidea\"), a Hong Kong-based AI-driven fintech startup, aims to double up the team"
-    publishedDateTime: 2021-03-23T03:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hong-kong-based-fintech-apoidea-group-eyes-on-regional-expansion-with-plans-to-double-headcounts-two-years-in-a-row-1030234244"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 12
 
 secured: "+oe5Ks5e9aTBAMJBfKOU9HaXONdrs9EcvRNIk986DIQgvanJixCiLrhiIo20bRbc9Oreth5Shde3TeuK/5wy/G3qBEL4ER2AwkLWEmVcR6fBzKpBiZKRTHkI1veFl/h0EOOX4qaNXIXNrZCUvjBda3ZrnV2BfCiOZ5e8oP7rRKR5hCSRLlYhXDKGNXQq+ufk4YjbLx1iQXt+XkaopyXRECZZ18Efej4dxtniWNZCXnp72XTXw4k1k+QUusG0SXyVVNh1uDDrDNnwN3gsDbugKARyEoKWD9mnW018qcB8RWswN+d2ZN6v+N8zPkdBenhxy/PZUf6SuAPHhteqNJqrZHCnECpY1dVjL1B8+JDRWmQ=;uK4TGTWlanb0ZcZEhr9jGQ=="
 ---

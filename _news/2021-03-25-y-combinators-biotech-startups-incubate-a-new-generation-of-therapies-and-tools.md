@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/24/y-combinators-biotech-startups-inc
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/y-combinators-biotech-startups-incubate-a-new-generation-of-therapies-and-tools/amp/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pinoy fintech startup NextPay gets $125K investment from Y Combinator"
-    excerpt: "Philippine fintech startup NextPay has received a $125,000 investment from Silicon Valley-based “startup accelerator” Y Combinator."
-    publishedDateTime: 2021-03-23T03:16:00Z
-    webUrl: "https://www.gmanetwork.com/news/money/companies/780796/pinoy-fintech-startup-nextpay-gets-125k-investment-from-y-combinator/story/"
-    ampWebUrl: "https://www.gmanetwork.com/news/money/companies/780796/pinoy-fintech-startup-nextpay-gets-125k-investment-from-y-combinator/story/?amp"
-    cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/money/companies/780796/pinoy-fintech-startup-nextpay-gets-125k-investment-from-y-combinator/story/?amp"
-    type: article
-    provider:
-      name: GMA Network
-      domain: gmanetwork.com
-    quality: 44
-    images:
-      - url: "https://images.gmanews.tv/webpics/2021/03/IMG_1436_2021_03_23_11_05_10.jpg"
-        width: 1327
-        height: 578
-        isCached: true
   - title: "Y Combinator Gives FinTech NextPay $125K Boost"
     excerpt: "Philippine FinTech platform NextPay got $125,000 in pre-seed funding from Silicon Valley startup accelerator Y Combinator (YC)."
     publishedDateTime: 2021-03-23T20:27:00Z

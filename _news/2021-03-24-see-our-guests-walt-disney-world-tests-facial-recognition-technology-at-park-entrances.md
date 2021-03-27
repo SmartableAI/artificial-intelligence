@@ -187,22 +187,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Bias in facial recognition isn’t hard to discover, but it’s hard to get rid of"
-    excerpt: "Joy Buolamwini is a researcher at the MIT Media Lab who pioneered research into bias that’s built into artificial intelligence and facial recognition. And the way she came to this work is almost a little too on the nose."
-    publishedDateTime: 2021-03-23T04:08:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/bias-in-facial-recognition-isnt-hard-to-discover-but-its-hard-to-get-rid-of?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 57
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/coded-bias-ft-img.jpg?fit=480%2C270"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Disney World begins testing facial recognition technology: Here’s how it works"
     excerpt: "Disney said the technology will capture an image of a guest’s face and convert it into a unique number, which will then be used for park entry."
     publishedDateTime: 2021-03-25T11:04:00Z
