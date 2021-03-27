@@ -34,17 +34,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "UIDAI selects Neurotechnology and TCS for biometric deduplication and authentication"
-    excerpt: "TCS and Neurotechnology will deploy and maintain the new de-duplication system, which is powered by Neurotechnology's multi-modal Automatic Biometric Identification Subsystem (ABIS) and biometric SDK technologies for fingerprint,"
-    publishedDateTime: 2021-03-22T10:33:00Z
-    webUrl: "https://tass.com/press-releases/1268687"
-    ampWebUrl: "https://tass.com/press-releases/1268687/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/press-releases/1268687/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 32
   - title: "Scienaptic partners with Urjanet to combine the power of AI and permissioned alternative data"
     excerpt: "Scienaptic, the world’s leading AI-powered credit decision platform provider, announced its partnership with Urjanet, the global leader in utility account aggregation. This alliance will enable Scienaptic to tap Urjanet’s global telecom and utility data to enhance its credit decisioning platform with consumer-permissioned alternative spending data."
     publishedDateTime: 2021-03-22T16:23:00Z
@@ -142,20 +131,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/11142614/elearning-remote-authentication-data-protection.jpg"
         width: 820
         height: 460
-        isCached: true
-  - title: "Neurotechnology and TCS Selected by UIDAI to Provide Biometric De-duplication and Authentication for India's Aadhaar ID Program"
-    excerpt: "The consortium of the two companies will provide duplicate checking and authentication based on fingerprint, face and iris biometrics used for the issuance and verification of Unique Identification Numbers issued to all Indian citizens VILNIUS,"
-    publishedDateTime: 2021-03-22T10:02:00Z
-    webUrl: "https://www.fortuneita.com/2021/03/22/neurotechnology-and-tcs-selected-by-uidai-to-provide-biometric-de-duplication-and-authentication-for-indias-aadhaar-id-program/"
-    type: article
-    provider:
-      name: fortuneita
-      domain: fortuneita.com
-    quality: 11
-    images:
-      - url: "https://www.fortuneita.com/wp-content/uploads/2020/04/adnkronos_cover.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "ENACOMM, Inc.: FinTech Company ENACOMM Strikes Partnership with Leader in Biometric and AI Technology IDmission"
     excerpt: "TULSA, OK / ACCESSWIRE / March 24, 2021 / Banks, credit unions, credit card and payments companies of all sizes are now able to take advantage of the most modern identity solutions available, thanks t"

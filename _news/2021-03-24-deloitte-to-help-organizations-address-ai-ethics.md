@@ -7,8 +7,8 @@ originalUrl: "https://www.healthleadersmedia.com/technology/deloitte-help-organi
 webUrl: "https://www.healthleadersmedia.com/technology/deloitte-help-organizations-address-ai-ethics"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: HealthLeaders Media
@@ -39,15 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Deloitte launches new artificial intelligence research center to help advance federal work"
-    excerpt: "Deloitte unveiled a new center to serve as a hub of industry, government and academia to help speed up federal adoption of AI technology."
-    publishedDateTime: 2021-03-22T11:00:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2021/03/22/deloitte-debuts-new-research-center-on-federal-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 7
 
 secured: "I2WGntVPbd9mXPbfD0nsEjxzFrGDFjKbiOvBY9LePWbI4jWyrW94ZrK4d7OtrClFx2E9g6s+W4U5Uf/O0ZgbJdcF0VIz/Kedai69pX5vuy9+/QkPjxgRnKKm+cR3hgmFn+h7KbmrjYLREpKrcMh+7fKsbIHlLErr8UywnYdfxxU3gmVnfSfNkjjh6wPNsnl72VBHxSiLaMOosJgQccOTQtfXZvR4r4lfxzqs8LywxZ+w8wxd5VE4FqG+xBb0lZOd/zGD0ag8fkoRVbcQd770FIj6nqsykJgMa8tO6yQchgothBW+eVlnUj0elI/WsoMYmIrt7grxiv+DZFTiX8/63TQS1ibt13qe0BK4Z3Pc3iY=;eXdgA8OZDJHgY/e+J7jxsw=="
 ---

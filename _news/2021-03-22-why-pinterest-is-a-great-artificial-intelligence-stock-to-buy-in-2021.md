@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-pinterest-is-a-great-artificial-intelligence-stock-to-buy-in-2021-2021-03-22?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "The Pinterest of Game Design: Why Ludo AI might have your next big game idea"
-    excerpt: "JetPlay wants to offer you the game ideas machine. That’s the promising prospect from the startup behind Ludo AI – the world’s first true AI platform for games concepting and ideation. Ludo promises to make the games concepting process simple ..."
-    publishedDateTime: 2021-03-22T10:54:00Z
-    webUrl: "https://www.mcvuk.com/business-news/the-pinterest-of-game-design-why-ludo-ai-might-have-your-next-big-game-idea/"
-    ampWebUrl: "https://www.mcvuk.com/business-news/the-pinterest-of-game-design-why-ludo-ai-might-have-your-next-big-game-idea/"
-    cdnAmpWebUrl: "https://www-mcvuk-com.cdn.ampproject.org/c/s/www.mcvuk.com/business-news/the-pinterest-of-game-design-why-ludo-ai-might-have-your-next-big-game-idea/"
-    type: article
-    provider:
-      name: MCV UK
-      domain: mcvuk.com
-    quality: 54
-    images:
-      - url: "https://www.mcvuk.com/wp-content/uploads/Ludo-logo-v1.2-1.png"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "If You Like Shares + Tech, Here are Best AI Stocks to Buy"
     excerpt: "Artificial intelligence is developing constantly. Organizations are taking a look at the best AI stocks for investment purposes in 2021. If you’re looking at investing in AI stocks, here are top AI companies to invest in for great revenues."
     publishedDateTime: 2021-03-25T06:30:00Z

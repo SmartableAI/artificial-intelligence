@@ -43,6 +43,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Disney begins testing facial recognition technology at Magic Kingdom"
+    excerpt: "CONTROVERSIAL. MICHELLE: IT’S TECHNOLOGY THAT’S BEEN AROUND A WHILE. FACIAL RECOGNITION THE IMAGE OF YOUR FACE IS CAPTURED, THEN THAT IMAGE IS ASSIGNED A UNIQUE NUMBER THAT IDENTIFIES YOU. AND IT’S TECHNOLOGY DISNEY NOW TESTING AS A WAY TO GE GUESTS ..."
+    publishedDateTime: 2021-03-23T21:01:00Z
+    webUrl: "https://www.wesh.com/article/disney-facial-recognition-technology-magic-kingdom/35914380"
+    ampWebUrl: "https://www.wesh.com/amp/article/disney-facial-recognition-technology-magic-kingdom/35914380"
+    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/disney-facial-recognition-technology-magic-kingdom/35914380"
+    type: article
+    provider:
+      name: WESH
+      domain: wesh.com
+    quality: 59
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap20184708236272.jpg?crop=1.00xw:0.846xh;0,0.0978xh&resize=1200:*"
+        width: 1024
+        height: 577
+        isCached: true
   - title: "Disney World tests facial recognition software at Magic Kingdom"
     excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
     publishedDateTime: 2021-03-23T18:13:00Z

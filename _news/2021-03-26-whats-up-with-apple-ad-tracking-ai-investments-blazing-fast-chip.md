@@ -9,7 +9,7 @@ ampWebUrl: "https://247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad
 cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 97
 published: true
 
 provider:

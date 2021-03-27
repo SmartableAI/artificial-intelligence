@@ -37,22 +37,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "The Pinterest of Game Design: Why Ludo AI might have your next big game idea"
-    excerpt: "JetPlay wants to offer you the game ideas machine. That’s the promising prospect from the startup behind Ludo AI – the world’s first true AI platform for games concepting and ideation. Ludo promises to make the games concepting process simple ..."
-    publishedDateTime: 2021-03-22T10:54:00Z
-    webUrl: "https://www.mcvuk.com/business-news/the-pinterest-of-game-design-why-ludo-ai-might-have-your-next-big-game-idea/"
-    ampWebUrl: "https://www.mcvuk.com/business-news/the-pinterest-of-game-design-why-ludo-ai-might-have-your-next-big-game-idea/"
-    cdnAmpWebUrl: "https://www-mcvuk-com.cdn.ampproject.org/c/s/www.mcvuk.com/business-news/the-pinterest-of-game-design-why-ludo-ai-might-have-your-next-big-game-idea/"
-    type: article
-    provider:
-      name: MCV UK
-      domain: mcvuk.com
-    quality: 54
-    images:
-      - url: "https://www.mcvuk.com/wp-content/uploads/Ludo-logo-v1.2-1.png"
-        width: 1920
-        height: 960
-        isCached: true
 
 secured: "kzrcbRkNDJQqNWz+dTISutzc4ndxF4k8wpWHym7CsBZVb7tNuQGmCzxIkUvlrsK8x2HhkOcnwW4tYwSPesZD11lAvR/69egapGd024E/ICNp2jir4j06PdaT8hJ0d9tTshEjCZptqg25nt7z7tznEy2I8IX8IOkocoeScJThkkbEDo96OcJjR34fLOZDFtYLtxAAqmabZ4uDKsUlPXrD02nDlxND7EID/Jirdcd6kUqINAClag0rrXjnsJC5CuqANnc6RmB/CPkJN/Mlc+dLDyodu6/iSJ8DFupu/g483OdRe+AeKk3BEZHrhRJfr1zA+q15JJfAougHNicqwr6BXZu9b3zmwHFXGld1MGoPa9RkSF9aMlAfH2DOvSH44YplSaE8UH1FnW/8lbi1UFzLRQ6VmD659PAuL8773IlKP4yTDR1+1gQaGDR2Z4zLDTfCrtZweB2vl2Pdtp4Yz2knNM3+0q9zoVyYKyaTfH927JEAhVgqFd+/BfauemoiqoYdNvM85XPugLgAiNXl+W/m7g==;gwnA1lQLFVgTDoGFNZdE1g=="
 ---

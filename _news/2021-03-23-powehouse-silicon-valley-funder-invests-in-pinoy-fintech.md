@@ -55,20 +55,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Will boosting the UK Government's role in fintech drive tangible change?"
-    excerpt: "Incoming Finextra Contributor Lord Chris Holmes, Member of the UK House of Lords, recognises the role fintech will play into the future of UK financial services and is loudly championing its cause. Welcome to Finextra."
-    publishedDateTime: 2021-03-22T09:30:00Z
-    webUrl: "https://www.finextra.com/the-long-read/167/will-boosting-the-uk-governments-role-in-fintech-drive-tangible-change"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 23
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/167.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "I+P81C8usHH4sEieNxFP1sI64zncfwYaytMgm45c+u/9l/fIPSUgMp3RfAtKc3Je69zFMnOiw47leRIjkgCedHYcMprlBTEjow04CFxc+Z4hOWQEBly5Ymg13jzumrubmcYlb9lyITE8m5YZ/cxAF2jcJ9gSBEvk8ofpgi+a+FYjP5rSdEP5wwzMLYmHr/GlZ0vLfQZ9qofbUM1ngOewgPIlA73owbXAw8nxA6hgvCZtM+9nofyiAtnh2G9HY2uFOXUInfWSvzZvsRfmJW4Y1PgVZ5OVcWwdujOKK9EPLT8C6OGnqGiS9WXNZ74i0MDTIQwl9kEVBMD+LnpwamL83desLiUpTqueTRhf32Uq7dJk7+WeyHQvnLbgC9MP3cd4Zcgdz07sG/WKLSGcLlDU6Ybr/sz2Q3ncEypZoBOh93+fGGpUt0GHii3HDcJSxjPPTeEuGBZSVFmsTH5JMSJ6UST9QuHHHQ6G82mgqO5f3cRVqMMtjY7Q1Nsh5ZU5a3wZgD/L0H1Tl5yHCTuy5UVNSw==;2eWzi50e4Xn9KTYYnFRrLA=="
 ---

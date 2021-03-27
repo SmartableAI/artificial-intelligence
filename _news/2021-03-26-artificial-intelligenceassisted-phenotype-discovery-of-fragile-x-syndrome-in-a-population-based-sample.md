@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-26T00:00:00Z
 originalUrl: "https://www.nature.com/articles/s41436-021-01144-7"
 webUrl: "https://www.nature.com/articles/s41436-021-01144-7"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41436-021-01144-7/MediaObjects/41436_2021_1144_Fig1_HTML.png"

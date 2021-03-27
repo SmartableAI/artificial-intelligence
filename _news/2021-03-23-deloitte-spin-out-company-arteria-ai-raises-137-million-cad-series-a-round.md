@@ -39,15 +39,6 @@ related:
         width: 2732
         height: 1200
         isCached: true
-  - title: "Deloitte launches new artificial intelligence research center to help advance federal work"
-    excerpt: "Deloitte unveiled a new center to serve as a hub of industry, government and academia to help speed up federal adoption of AI technology."
-    publishedDateTime: 2021-03-22T11:00:00Z
-    webUrl: "https://www.bizjournals.com/washington/news/2021/03/22/deloitte-debuts-new-research-center-on-federal-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 7
 
 secured: "qjPsKAhGx/7k0J8lBMvdYPcOdqHj/aIG5eO8S5lEzWopA1XtICo16PVHpoKutk8jq8RCBqi4+Z3kb8IDrQk7aps23HDJ5K8jzSqrg5smE46S7jUoXnTuiI+hYw0PBucrPGpJe4rGtpZQ5SYQ/XbtE59EJuJt9WlUGjoX2SwjFZN+b/APdIGJdWZBaEduOcM548p+zbSE28a3/p7x1XSFTupvMo8QM7/8T3UbKKULtBfpe1guvdhS9ZMScqk6EXE6HqBegdXoZNTC+vQ7b14jMlCMBbC62qcZfHeJ7NQ72IRoMkvGsxyozFQA+hUQZ45knY0sNikYSMKGV2SRxyDoYXdgeK19X9hSS6AAe0/VMyA=;9RrHjGMrA5srit/UaTDCSg=="
 ---
