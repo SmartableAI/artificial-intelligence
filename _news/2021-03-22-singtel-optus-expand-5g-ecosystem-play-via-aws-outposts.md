@@ -35,31 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Singtel and Optus expand 5G ecosystem play via AWS Outposts"
-    excerpt: "autonomous vehicles and artificial intelligence offerings to operate at ultra-low latency. “We’re pleased to work with a world-class cloud provider like AWS to expand Singtel’s and Optus’ 5G ecosystems and increase the adoption of edge computing by ..."
-    publishedDateTime: 2021-03-22T07:52:00Z
-    webUrl: "https://www.arnnet.com.au/article/687082/singtel-optus-expand-5g-ecosystem-play-via-aws-outposts/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/bill_chang_singtel_channel_asia.jpg"
-        width: 800
-        height: 500
-        isCached: true
-  - title: "Singtel and Optus partner AWS on telco edge"
-    excerpt: "Singtel and Optus are supporting AWS Outposts in their telco edge platforms that will enable enterprises to use AWS services for on-premise 5G applications"
-    publishedDateTime: 2021-03-22T07:27:00Z
-    webUrl: "https://www.computerweekly.com/news/252498214/Singtel-and-Optus-partner-AWS-on-telco-edge"
-    ampWebUrl: "https://www.computerweekly.com/news/252498214/Singtel-and-Optus-partner-AWS-on-telco-edge?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252498214/Singtel-and-Optus-partner-AWS-on-telco-edge?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
   - title: "Singtel and Optus use AWS for 5G edge computing"
     excerpt: "Singtel and Optus have expanded their 5G ecosystems by enabling its enterprises and start-up customers to develop 5G solutions on their multi-access edge compute (MEC)"
     publishedDateTime: 2021-03-22T12:39:00Z

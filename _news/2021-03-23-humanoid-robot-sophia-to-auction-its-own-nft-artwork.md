@@ -123,20 +123,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Future now: humanoid robot Sophia joins auction with her own NFT artwork"
-    excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with humans. A digital artwork by the Hong Kong-based Hanson Robotics humanoid,"
-    publishedDateTime: 2021-03-22T07:32:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/culture/2021/03/22/future-now-humanoid-robot-sophia-joins-auction-with-her-own-nft-artwork"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 38
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/22/1086367.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "ZMKd0r8/a7mm3mibkzuoRdV5ioy4v0xHWXP7hc0jlyXALd1pUV4vzZ5iIdqY+MQaCeGH0ZEltR/z51bWTjBgzVEnQjn3XMNRH0e9UxEscBhdJzZarALGzyGyKHWoxQWV8fbJx92pPdBMt7xqkBYi7N9+StLFoOKpSclwPhCmd0JqjpVYjwQxHiLsPEYvPeMypaOI+dq+Q4FqbKEOQUOsSTLA4gx/LVzr7czZNT+HOhVMXQIswtoDGNVwD9n6ovgtHXlGiesj20EX3q6FX12WJoUadF96LCB+QqaU61Y2rTJ5mQryxpqkVVA8Cmsz+90suSrs5+MbsOqj5MixadsUnIQIFjV4eV/EqES4JmvNrgQ=;WdRw4bIrBvgMTxdeyZ9qFA=="
 ---

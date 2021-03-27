@@ -9,7 +9,7 @@ ampWebUrl: "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/
 cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
 type: article
 quality: 76
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -119,20 +119,6 @@ related:
       - url: "https://i.inews.co.uk/content/uploads/2021/03/PRI_187508351.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Future now: humanoid robot Sophia joins auction with her own NFT artwork"
-    excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with humans. A digital artwork by the Hong Kong-based Hanson Robotics humanoid,"
-    publishedDateTime: 2021-03-22T07:32:00Z
-    webUrl: "https://www.thestar.com.my/lifestyle/culture/2021/03/22/future-now-humanoid-robot-sophia-joins-auction-with-her-own-nft-artwork"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 38
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/22/1086367.jpg"
-        width: 1240
-        height: 826
         isCached: true
 
 secured: "/YvR306mNgOhbTLexQzoYIsOSe059aeUWXL4K2wHEWHZa26cH5giwuQzXiz0d+BOK9PelQNDVhQrovhRIYRKf31viWHh5PIbMmgm6UwricDize8/zHRZsnvk7XVEM4dt94HN6axqBy2LNvphR/g3DYuKoFDjemPfUFYDFgVYxhp2RnIH+ysOfAs2A9hISXMb/10NsPRKThawwh+x4JOMRrckNVDpYo+y8QnBETGjiAVsVUlVGEKuRQEEVFYvWqQTxrEsTRIJxyyKn5HJe7VwHAdldcsZ4KHxMfPyg3F6qb40h8vy9lzKTq/lK1NcmXDWIAGs2TpAgVe1rbgZR5k5Ug8E81ajTSiwXTm86Ol9W/M1fuQbQrmE5uGpij6nu9LlmZN/IOXlanq50Z6N0bTPJwv19wtFvoRJYuRWrffLZGvqADBO9QwXQ4GIVOor7Grlxi336Oy41fmbOpjHyqLmL2rQS+aBJyot14+CU0cJ/5u0FhsRSZMoFnMrMjsAdnTqQIBJBzf3dCFnKZqb66B+Ag==;WWQPB5cObVoVjjWHCijJqA=="
