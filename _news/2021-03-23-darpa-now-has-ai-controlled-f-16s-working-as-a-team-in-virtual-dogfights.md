@@ -40,20 +40,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "DARPA tests artificial intelligent dogfighting in two-versus-one simulations"
-    excerpt: "DARPA's Air Combat Evolution programme tested team dogfighting between artificial intelligence-controlled fighters in a software simulation in February."
-    publishedDateTime: 2021-03-22T22:05:00Z
-    webUrl: "https://www.flightglobal.com/fixed-wing/darpa-tests-artificial-intelligent-dogfighting-in-two-versus-one-simulations/142993.article"
-    type: article
-    provider:
-      name: Flightglobal
-      domain: flightglobal.com
-    quality: 19
-    images:
-      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/1024x536/8/2/3/77823_daraacescrimmage1cdarpavideoscreenshot_150317.jpg"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "S/Fo4aLpkpLrUChLqI0BsKn2nL5Uqu6Pi5SDc/Xyjkvzj1sBcVeGvRE/aVL3ZDGWBTehl2QDRGcBK8h4zK2YiEOvj9faJ5Z7YpKPL8BZ4I0Z+yPaR1LlIw56ImBZfdLl9QZQXSOsYrHJgVsWh9mAetK0vAUPrJjnX+x9rQ0ZA9GhjjvpYEL4kVaJmB60kfApZnck28QXYbNGiVHW1+0RS/jQYL7bZMixXA/a/1uqjI6HrfWRZGBmgJ8yoIh+kRurvTdyErXJAt7mZ6G0KrgsUMcryzWqMofVwLlXF+MYBJ2985kWjOpA7XzxTJUcw34NG8hfJ7PzVq19IEao3aht7I8y2GHUTvlWgBwUbZXBRH8=;XYVMDvg3KSHTcjuGepZ/Kg=="
 ---

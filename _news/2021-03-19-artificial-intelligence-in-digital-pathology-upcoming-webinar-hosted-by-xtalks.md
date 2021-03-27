@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence in Digital Pathology, Upcoming Webinar Hosted by Xtalks"
-excerpt: "Which artificial intelligence method will work best with your image data? Image analysis is an essential part of digital"
+excerpt: "Which artificial intelligence method will work best with your image data? Image analysis is an essential part of digital pathology, from research and discovery of targets and biomarkers to understanding the tumor microenvironment to development of novel therapeutics."
 publishedDateTime: 2021-03-19T12:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20252581"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20252581"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks/article_63ced69d-f0a5-53a5-8b72-e31cf1eeaab7.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks/article_63ced69d-f0a5-53a5-8b72-e31cf1eeaab7.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "IpyTpqJAp99QMRu5OJqyd8jWREPVoSugZQNSTWGtsgRX9lJxSxiYwU5i6grIelExV5f0UAHYp0SVjTVUQUzQYmUrcqrwsC/ThwcZV0I+4smeaKz4cXCrX5iT1xeZsk0X2cwj18tIP/r7m6nwR/RvJ+kWYKpe07bAxcXvVbl7X+3HkRsmJTDuY5VdP47l+cBzsvNRh2ysSQdpwBl+pF0KDRraN6HxONzwKL71P6e7wTwM91Mkuj7qUBNvu9gti4R2G+1BuBTiOqhxV34S2YmfWEjL9zi/wJop0Kcm6ajAsLaHNaCPL7cJr0OGXx7lIBvuFxYNvDikFrVkZsGiNh2bcKa7WCX1vK3kZjL0go3XFJU=;FSQazsno+Iv5sBXZ4J+Luw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "0nA162Y5E6XXyHRW92QvMKVADYlYvU80zZYePlc+dowdd1pKE/XkIaL10HLn5Qm/ozSNrrsEoodNOF5or/dUYV65aa9nwe7YrgUVdVrFfzrxvdPlPhM8SSQ9MAEKGQqaFUB5knA3XxyZwBPLJO4NHRT+rEqoeSqThhVHbEZHAmqH3/WfwFuPGU+Tm8138a3v0JdjwJoAEMLCKBPd5dBiVMtPJUVyv7YfCnlVpAv9Dx1HLtB0VhO3rWckAy7812meGWwwK5iLISNHXrIklIomAHAQEsR62oRMeVlUQ9EYiG1wN0uekRB09Sac9ho5PJFA9l2qMk30uJYPMUq6Eu+kCbe9WjqpSfgeP6LFTqgqS+M=;FYGk6l13PcKLEWscVN10EQ=="
 ---
 

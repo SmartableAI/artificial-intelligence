@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-do
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/23/darpa-tests-ai-algorithm-dogfight-simulation-military-autonomous-weapons/amp/"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Air-Combat-Evolution-AI-dogfight.jpg?quality=85"
         width: 2313
         height: 1301
-        isCached: true
-  - title: "DARPA tests artificial intelligent dogfighting in two-versus-one simulations"
-    excerpt: "DARPA's Air Combat Evolution programme tested team dogfighting between artificial intelligence-controlled fighters in a software simulation in February."
-    publishedDateTime: 2021-03-22T22:05:00Z
-    webUrl: "https://www.flightglobal.com/fixed-wing/darpa-tests-artificial-intelligent-dogfighting-in-two-versus-one-simulations/142993.article"
-    type: article
-    provider:
-      name: Flightglobal
-      domain: flightglobal.com
-    quality: 19
-    images:
-      - url: "https://d3lcr32v2pp4l1.cloudfront.net/Pictures/1024x536/8/2/3/77823_daraacescrimmage1cdarpavideoscreenshot_150317.jpg"
-        width: 1024
-        height: 536
         isCached: true
 
 secured: "fgqEoVU52C3zk0iMnVzjJl8PJ40j9kpEqYFeyi9Z6QlUfRliaIbwUDhk+hPyz8vznCsbsAKJupkJpo4usLPvHrrWLxTElaLXLXwplJL13oeR/SKrfnPfBqXtTE46A9e3WFWIeaEzjFMpLr/xABoZhzEWoJtsmKs/G1jWGqeTPQ9+x1IJds4EKaKdHkNSIJti5KkldAF5MpKaEFqCK1JssvoOc9IhNT6cIo2G/C/42bymuKpaaEAMffdjJbZnLF+2Zn8OAaBI7Lg71haP9FDTeMwiZXWC+d39CX/IX33xTLEB+RcLaSLHH8zkJPtZb6Vw9lZ1vqqn4HQNA/bfsSNU0AxBxp84qtTdXThFbjTebLh/t1bfo6avfViQyunLxOTjgdcXUOwX3EhFos7kF6vdbrbWHPIvQT9kcFPHUlt3w5xXZ9CoSR5eRMB/2KcMEXyyb0TmfF1qfWAsk54/yrAvCtprOR3QP4OfvPo5X0Sv2dSgnTXmtA4DZ0Zg2N4GCfPV2N7yiOWJon9SQSWUEByy1w==;jhGpybQcorl3c5HyCCr0Sw=="

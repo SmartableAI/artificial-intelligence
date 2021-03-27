@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24?amp"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Putting Disruptive Innovations Into Action Using Artificial Intelligence Throughout Your Business"
-    excerpt: "Robotics and automation in manufacturing would appear ... During an IEEE-Boston/IEEE-HKN (Eta Kappa Nu) Artificial Intelligence Seminar series, Dr. Washington shared tangible AI strategies that have helped Ford Motor Company maintain its legacy for disrupt ..."
-    publishedDateTime: 2021-03-22T22:10:00Z
-    webUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/"
-    ampWebUrl: "https://www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karenpanetta/2021/03/22/putting-disruptive-innovations-into-action-using-artificial-intelligence-throughout-your-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605911778ffe878ecb833916%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D300%26cropY1%3D50%26cropY2%3D350"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Watch: DEMOvation startups lean on AI and machine learning to advance the industry"
     excerpt: "Four financial service and mobility startups participated in the fourth annual DEMOvation Challenge at the 2021 Auto Finance Innovation Summit last week. Auto Finance Risk Summit, the premier event for risk and compliance in auto finance, returns May 11-12 ..."
     publishedDateTime: 2021-03-24T14:55:00Z

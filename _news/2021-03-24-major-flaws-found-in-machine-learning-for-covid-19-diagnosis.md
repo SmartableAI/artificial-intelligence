@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-lear
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-181492494.jpg"
         width: 700
         height: 364
-        isCached: true
-  - title: "Machine Learning for COVID Diagnosis Falls Short"
-    excerpt: "In the earliest days of the pandemic, machine learning showed exceptional promise for COVID-19 diagnosis. Reliably, early machine learning models outperformed doctors in recognizing the telltale COVID-induced pneumonia on CT scans from hospitalized patients."
-    publishedDateTime: 2021-03-22T21:42:00Z
-    webUrl: "https://www.datanami.com/2021/03/22/machine-learning-for-covid-diagnosis-falls-short/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/coronavirus_shutterstock_2_Rost9.jpg"
-        width: 821
-        height: 576
         isCached: true
   - title: "There Are Issues with the COVID-19 Diagnosis Machine Learning Algorithms"
     excerpt: "A COVID-19 diagnosing machine learning model has issues — meaning these models are only as good as the datasets used to create them. Healthcare professionals and AI experts alike are warning about some issues they’ve identified in a machine learning ..."
