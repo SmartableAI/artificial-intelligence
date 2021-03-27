@@ -46,22 +46,6 @@ related:
         height: 432
         isCached: true
   - title: "NFT digital artwork by humanoid robot Sophia up for auction"
-    excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with"
-    publishedDateTime: 2021-03-22T16:00:00Z
-    webUrl: "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/"
-    ampWebUrl: "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/HONGKONG-ROBOT_-1-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "NFT digital artwork by humanoid robot Sophia up for auction"
     excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with humans."
     publishedDateTime: 2021-03-23T07:40:00Z
     webUrl: "https://www.timeslive.co.za/news/sci-tech/2021-03-23-nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/"
@@ -108,20 +92,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/03/25/21/40948438-0-image-a-10_1616707075267.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Robot ‘humanoid’ Sophia has digital art up for sale in the first ever AI auction"
-    excerpt: "“She” is a robot whose first artwork goes up for ... in the first sale of such pieces created jointly with artificial intelligence (AI). NFTs, a digital signature saved on blockchain ledgers ..."
-    publishedDateTime: 2021-03-22T15:38:00Z
-    webUrl: "https://inews.co.uk/news/world/robot-humanoid-sophia-digital-art-sale-ai-auction-hanson-robotics-924852"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 49
-    images:
-      - url: "https://i.inews.co.uk/content/uploads/2021/03/PRI_187508351.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "ZMKd0r8/a7mm3mibkzuoRdV5ioy4v0xHWXP7hc0jlyXALd1pUV4vzZ5iIdqY+MQaCeGH0ZEltR/z51bWTjBgzVEnQjn3XMNRH0e9UxEscBhdJzZarALGzyGyKHWoxQWV8fbJx92pPdBMt7xqkBYi7N9+StLFoOKpSclwPhCmd0JqjpVYjwQxHiLsPEYvPeMypaOI+dq+Q4FqbKEOQUOsSTLA4gx/LVzr7czZNT+HOhVMXQIswtoDGNVwD9n6ovgtHXlGiesj20EX3q6FX12WJoUadF96LCB+QqaU61Y2rTJ5mQryxpqkVVA8Cmsz+90suSrs5+MbsOqj5MixadsUnIQIFjV4eV/EqES4JmvNrgQ=;WdRw4bIrBvgMTxdeyZ9qFA=="

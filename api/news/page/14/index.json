@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-03-15-alibaba-backed-ai-startup-megvii-files-for-ipo-in-shanghai.md",
+      "title": "Alibaba-Backed AI Startup Megvii Files for IPO in Shanghai",
+      "excerpt": "Citic Securities Co. is the sponsor of the listing. Megvii is one of the world’s largest AI startups, specializing in areas such as facial recognition. The eight-year-old firm gained fame in part because of China’s obsession with security, which in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-12/alibaba-backed-chinese-ai-startup-megvii-files-for-shanghai-ipo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ia640Sm27PHY/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-14T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-baidus-ai-chip-unit-kunlun-completes-new-funding-at-2-bln-valuation-source.md",
       "title": "Baidu’s AI chip unit Kunlun completes new funding, at $2 bln valuation- source",
       "excerpt": "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion.",
@@ -1173,40 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-financial-services-firms-accelerate-digital-first-business.md",
-      "title": "Financial services firms accelerate digital-first business",
-      "excerpt": "The financial services industry was well on its way to a digital-first future before the pandemic upended industry and commerce across the globe. The fallout from the pandemic, however — particularly the growing demand for digital only services — has pushed financial services transformation into overdrive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html",
-      "originalUrl": "https://www.bizjournals.com/sacramento/news/2021/03/12/financial-services-firms-accelerate-digital-first.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

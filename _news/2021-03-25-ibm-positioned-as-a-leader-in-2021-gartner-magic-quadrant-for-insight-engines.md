@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gartner Names IBM a Leader in 2021 Magic Quadrant for Insight Engines"
-    excerpt: "Gartner has once again recognized IBM as a “Leader” in its Magic Quadrant for Insight Engines. Gartner defines the Insight Engine category as “an evolution of search technologies that provide on-demand and proactive knowledge discovery and exploration augmented by semantic and machine learning technologies.”"
-    publishedDateTime: 2021-03-22T15:36:27Z
-    webUrl: "https://www.ibm.com/blogs/watson/2021/03/ibm-gartner-leader-2021-magic-quadrant-insight-engines/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 102
-    images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2019/09/Blog-leadspace-Gartner-MQ-990x448.png"
-        width: 991
-        height: 449
-        isCached: true
   - title: "IBM Positioned as a Leader in 2021 Gartner Magic Quadrant for Insight Engines"
     excerpt: "IBM Watson Discovery, an AI-powered search and text-analytics service, uses advanced natural language processing (NLP) to help companies find new insights from complex enterprise documents and data. \"The majority of data does not fit neatly into a database."
     publishedDateTime: 2021-03-26T00:43:00Z

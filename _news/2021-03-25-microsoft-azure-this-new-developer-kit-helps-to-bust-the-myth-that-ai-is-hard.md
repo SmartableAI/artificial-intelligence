@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
 type: article
 quality: 115
-heat: 175
+heat: 165
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/transcript-gif.gif"
         width: 800
         height: 448
-        isCached: true
-  - title: "Repsol and Microsoft renew partnership developing AI-powered digital solutions"
-    excerpt: "The companies will co-innovate to build new AI-powered digital solutions ... including recommitting to the Azure cloud platform. “The extension of our collaboration and the supply of renewable energy undoubtedly reaffirms the vision that both companies ..."
-    publishedDateTime: 2021-03-22T16:04:00Z
-    webUrl: "https://www.chemengonline.com/repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions/"
-    type: article
-    provider:
-      name: The Magazine
-      domain: chemengonline.com
-    quality: 50
-    images:
-      - url: "https://www.chemengonline.com/wp-content/uploads/2018/10/fig2_communication-network.jpg"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "jB8sSyY2+liM+Nln3dyUYt3CMWcOLoqU3f0f7Z4aKcCItVVXoWXA1uUoOLoch389QI8AAfUzp8l2RWzxz0aRkLLN4b212THfyTBae/My/TIZ4R2gzP7deAfuoFzUJQ9u04JC1Zi3sTVDnj7ZY6AHXzzqL9bv9yklUZOivBvINvda4dbx+a39M87RQpbmfPodIdbkcuaAVrxRU1WH4pEbLdKuMv1KynyGPgfKG1i/cOsroloxZgpSA90cMwajlj+OMP+iwbp4Mdx99Ycl7JZ3Ha/fJcwWlaaXAkKrzl4PDkQTmjBVqy82R4CpLafXiRT3VZM9mog0sL3uHvZmzzOSxe15tyMqaWNXE4EcZqcoSbDYe3l+8b+lCIHPCgS5VSQ8iTPdf/KaZ1ATB4B958B0rnHnRFM68s0QpfYs4mU5979qQ35FYn7r0YqCpOXwCT8S0qFCYUC7mI4aYC0SBjXm8gGux/RpRmbDtQ9itdrFfwHqVZ2dfFcO6K9kydgEAf2Ewemb6mV/HWFF26zy3OJPnw==;LK76zMRVfAaBn/fIkFIrYw=="

@@ -68,22 +68,6 @@ related:
         width: 389
         height: 238
         isCached: true
-  - title: "Researchers use AI to estimate focal mechanism parameters of earthquake"
-    excerpt: "The research team led by Prof. Zhang Jie from the University of Science and Technology of China (USTC) of the Chinese Academy of Sciences made progress on real-time determination of earthquake ..."
-    publishedDateTime: 2021-03-22T15:39:00Z
-    webUrl: "https://phys.org/news/2021-03-ai-focal-mechanism-parameters-earthquake.html"
-    ampWebUrl: "https://phys.org/news/2021-03-ai-focal-mechanism-parameters-earthquake.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-ai-focal-mechanism-parameters-earthquake.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/earthquak.jpg"
-        width: 1920
-        height: 1274
-        isCached: true
 
 secured: "Vxj/vYNxO27ILn65XoZkwjIHimlI+Hhp+GomMROC1TWFjo6ijfHVdsQU9NCgPfqa7SlEvv/pu6gjmCzYTEWAbNkMu5DujEeY7aekkgajmC7/zusxFB9a9P3sxk4O3zY134AjyLZS9Za/Mv8BZYyM8ABLoYUNsPumCDrY48HnhbYY05fxzyWjD/Ye/zu2ApK8GEmY9bzQv8fPxT/B6gNuFAKWaJ/laukVkq35fe6yzblbEUhYCRRZrEoppyfH/7fewpX09/abK4Z/UO0i2Cbt+U69lHuzUMcCw7zEkPgpTHsI7B4h2RyTAk+W2BL4vtK2h6UOCGW8bIuM1dPG7yErUHWkuSt3OtzH9Tx7Y2Gh9ig=;hxq6k2ElQdg72GzWI1En9g=="
 ---

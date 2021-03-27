@@ -161,6 +161,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Top 10 best countries to start a fintech"
+    excerpt: "Fintech in the financial services market has been adopted quickly by certain demographics that for years have been underserved by the incumbent institutions. The US is also a world leader in technology and particularly AI innovations, which means its ..."
+    publishedDateTime: 2021-03-27T09:34:00Z
+    webUrl: "https://www.fintechmagazine.com/top10/top-10-best-countries-start-fintech/usa"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "n9ENicTIIQXbxLXIYpNSuKEq3t+RPIoUm6XuFkeo6RoAkCigp7dYNu2jlxuw0vAhS4GJ2Tg8lev8NxCzkM5z2vijRgaCcEq+7jD6WmGng01F8fH2qdv6nHJ29j8d/GPtIwsNsHJ61aqyykj+t4X4Telxqn70MNdjgRolLfcH4PxAMSl1WmpzBLEhH3cSdCUXbYMtI2isyF/SwnT8k2XafMTJJ2jyUgFJgkXPHMv51Q/t4bAV2xczQLyOFfSPopJXh4zOQuIfE0bO8lI8T7zKSJstQZ0XxpVnjMaXJRRPrqOXjbrDuBnW34eDB0DgUaef8oZIxb1yg+GwlewXF334iyXrargWv1QVOVnbDkugC3hkBj71KLDmBBADMp1n7Jzf8dqrLRT+3IWMDVSU0HJNTFz7xLQ2h0efzMMv0bpc4cg09THm1hxTvSwsfExJyMlybygUI1oIl5DqB5TzdRdZ6lUde6BGGFZ2YLKmkluSUvrrEtTxrBSUVpBjP5ctqyZr3FdpJAA9MtVe1ZyRBBvYzQ==;Vy3ZIYchbWV9NJeeOq+lCg=="
 ---

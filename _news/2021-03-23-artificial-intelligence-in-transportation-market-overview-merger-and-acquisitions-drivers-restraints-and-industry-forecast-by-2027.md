@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "European AI in Image Recognition Market Size, Share, Analysis, Industry Report and Forecast 2019-2025"
+    excerpt: "The European AI in image recognition market is estimated to grow at a CAGR of over 27 during the forecast period Europe has a huge potential for the growth of AI owing to an advanced economy and significant investment The"
+    publishedDateTime: 2021-03-27T08:18:00Z
+    webUrl: "https://www.openpr.com/news/2262802/european-ai-in-image-recognition-market-size-share-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/3/U327813450_g.jpg"
+        width: 800
+        height: 904
+        isCached: true
   - title: "Speech and Voice Recognition Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2026"
     excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
     publishedDateTime: 2021-03-23T15:51:00Z

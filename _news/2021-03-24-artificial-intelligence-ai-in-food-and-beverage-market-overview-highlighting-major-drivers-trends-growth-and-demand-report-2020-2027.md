@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Energy Market Key Players, Competitive Landscape, Growth, Statistics, Revenue and Industry Analysis Report by 2027"
-    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
-    publishedDateTime: 2021-03-22T16:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-key-players-competitive-landscape-growth-statistics-revenue-and-industry-analysis-report-by-2027-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7SyYwcX4Lv27kP04ImcixdfV14wd8XWedpi655efBC6IwSlr9h3NgwGq9cjas0fteC0zpc43/pSbmU6EvBqcdI8b5yIvHJ7OobJRbvE1k6iz/1mKTTjuRCHG7wZOZGDgjCgLU5bercsqmn7+SdwLMuOBWwtJmD0rE3toVm8LYRyI8otiKJ9P1uTHpbZtUUVVAZVmVmxkPVmTGTpJo4C2xuhkuRA0MKQHbzD+ODFDyY/VlMs5E8KcZfnjYla5p65I5JTA62AmSnTctgII2BX0YnvfWlaJeSxltDmjLUPZSKFZJccAbDAvDxvLjd+YUjJpwhoshc5sU6bx2iAQcISj/uoVGQf70S5pQqT56TIXzTE=;PMrzbms9rVLiCmeZ6Xptww=="
 ---

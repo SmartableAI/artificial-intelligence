@@ -84,6 +84,15 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Amazon and Red Hat Announce GA of Red Hat OpenShift Service on AWS"
+    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
+    publishedDateTime: 2021-03-25T18:03:00Z
+    webUrl: "https://insidehpc.com/2021/03/amazon-and-red-hat-announce-ga-of-red-hat-openshift-service-on-aws/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "szJdLx+cnGcAQlmJRoVnzpUbpsG5wlShcfQYQeL+HzY3JZ/lgwS5k97Xob6h+KQwmP8kvOcQX7cyAQDyf8RRpa4vH7h//VZU7VAY1GYCNUByOhI3l8RdRXxWQWzcIXikWQHzosuI202m/1cGN7y8N/w7HQIwEwpiZALjjx+lldUpZnwFrWxHFyBldiTV3X6YOoOlZsh/zceIOpbcGdNDmkGn7oTpn1gpyUkNO4jG1oYwZBH2hDv5/7l8CVFZwnXmQiMF1YuoigEkPkeZDDZBBknD/vUGVXUqObA6zX02xMgLkTTWqg57oLsxRg0mYaXkXxXVPBLLsufITEcfQQA/Pur/llJoPPgtttWPIDsjxZzA7kbCzKW9ByXllIYJNd7O2o/NxZ0dxpJyMEDSzXJX6E/rJw1Xl1vNgLZzJYZ7XMFJ9/u1MOUH/EZILYMkXC+FZ8gC84j3TvQkIfxFY6puxSTqhKP2NxwJJpk4SQDBC+T/0XpdEejR+k7ai48cPoKHVg9ejq/FIFHhvm8Z0Sq4kg==;aDIc5KnXf4YTcQP3AkxuXg=="
 ---

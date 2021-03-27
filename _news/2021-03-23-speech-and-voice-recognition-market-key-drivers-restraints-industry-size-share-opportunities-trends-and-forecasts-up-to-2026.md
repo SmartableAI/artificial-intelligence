@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "European AI in Image Recognition Market Size, Share, Analysis, Industry Report and Forecast 2019-2025"
+    excerpt: "The European AI in image recognition market is estimated to grow at a CAGR of over 27 during the forecast period Europe has a huge potential for the growth of AI owing to an advanced economy and significant investment The"
+    publishedDateTime: 2021-03-27T08:18:00Z
+    webUrl: "https://www.openpr.com/news/2262802/european-ai-in-image-recognition-market-size-share-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/3/U327813450_g.jpg"
+        width: 800
+        height: 904
+        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market Research, Consumption, Companies, Industry Report, Analysis and Future Demand By 2025"
     excerpt: "Mar 25, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Artificial Intelligence in Manufacturing Market which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis ..."
     publishedDateTime: 2021-03-26T00:22:00Z

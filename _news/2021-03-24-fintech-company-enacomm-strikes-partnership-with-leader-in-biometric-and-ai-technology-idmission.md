@@ -50,20 +50,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "Scienaptic partners with Urjanet to combine the power of AI and permissioned alternative data"
-    excerpt: "Scienaptic, the world’s leading AI-powered credit decision platform provider, announced its partnership with Urjanet, the global leader in utility account aggregation. This alliance will enable Scienaptic to tap Urjanet’s global telecom and utility data to enhance its credit decisioning platform with consumer-permissioned alternative spending data."
-    publishedDateTime: 2021-03-22T16:23:00Z
-    webUrl: "https://www.cuinsight.com/press-release/scienaptic-partners-with-urjanet-to-combine-the-power-of-ai-and-permissioned-alternative-data"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 28
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
   - title: "FinTech company ENACOMM strikes partnership with leader in biometric and AI technology IDmission"
     excerpt: "Banks, credit unions, credit card and payments companies of all sizes are now able to take advantage of the most modern identity solutions available, thanks to a new partnership between FinTech enablement company ENACOMM and IDmission,"
     publishedDateTime: 2021-03-25T02:03:00Z

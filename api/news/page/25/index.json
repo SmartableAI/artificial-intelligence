@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-03-05-sas-named-a-leader-in-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "SAS named a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "SAS is recognized as a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms. 1 This is the eighth consecutive year for SAS to be recognized as a Leader in this Magic Quadrant.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sas-named-a-leader-in-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms-1030152217",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sas-named-a-leader-in-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms-1030152217",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1450029/SAS_Gartner.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know.md",
       "title": "Microsoft Power BI Premium: New platform and pricing, what you need to know",
       "excerpt": "The power of Microsoft's Power BI isn't just that ... manage it through local experiences and use Cognitive Services automated machine learning, then you probably need Power BI Premium,\" said ...",
@@ -1124,57 +1176,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging.md",
-      "title": "Snapcommerce raises $85M for AI-powered ecommerce messaging",
-      "excerpt": "Toronto, Canada-based ecommerce startup Snapcommerce today announced that it raised $85 million in a funding round led by Inovia Capital and Lion Capital, bringing its total venture capital raised to over $100 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/",
-      "originalUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/husshen_SnapTravel.jpg?w=1200&strip=all",
-          "width": 1050,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/amp/",
-      "publishedDateTime": "2021-03-03T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

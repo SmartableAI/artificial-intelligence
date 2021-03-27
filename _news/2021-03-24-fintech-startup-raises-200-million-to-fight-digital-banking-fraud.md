@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud?amp"
 type: article
 quality: 104
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -165,6 +165,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Top 10 best countries to start a fintech"
+    excerpt: "Fintech in the financial services market has been adopted quickly by certain demographics that for years have been underserved by the incumbent institutions. The US is also a world leader in technology and particularly AI innovations, which means its ..."
+    publishedDateTime: 2021-03-27T09:34:00Z
+    webUrl: "https://www.fintechmagazine.com/top10/top-10-best-countries-start-fintech/usa"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "kxbwdz2AR+7XEbIQ13xxey/RzswFelEifD3j377s8lZnVGVlF4WRCvFXkxC9E8iFo8YI0SvV1rQ2w+KBLAJT0U1H9mtueSZPam8IcpzyleDtziaVs7eFOp65RJwH79l25LeWCMfB4RNJyDzOMe18HErrOda8GhE1gzC9/LefgR17nf/2rtZ1+nNYTY2jhYOsiO3FSjKimhLKMDNKbzS7xOSqCzLnQimVQwrVxq/H1Ukec9ebWZagU70bAQCNAcfNN4JjhQd7IA8kCiwpnDXvvIaF9F8vEU2OEQ339IuvXFnBnLirlNBqvMatcJwAd2DWlA9TQwcXVmqTKyDQzqKrj0gDsKiJwscv0vZ2OPrA7qk=;c8GuGWbu7u+DQ6tANNbrHw=="
 ---

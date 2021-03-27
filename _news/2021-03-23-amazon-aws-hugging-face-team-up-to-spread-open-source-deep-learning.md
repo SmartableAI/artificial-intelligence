@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-aws-hugging-face-tea
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
 type: article
 quality: 108
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "Amazon and Red Hat Announce GA of Red Hat OpenShift Service on AWS"
+    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
+    publishedDateTime: 2021-03-25T18:03:00Z
+    webUrl: "https://insidehpc.com/2021/03/amazon-and-red-hat-announce-ga-of-red-hat-openshift-service-on-aws/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 19
 
 secured: "kpj4fBZOPXAHJ/aTA4+4gPymmVI1f6a3BksK7TL1jXKPxc5bvhuwTk2wlg1Ll2x9IbvjarTs2mhhg4BgeehMcP1Wdi8BU9RqDWnyR7yUgh1LD4mGcZJz8dzdmhD/wkRqFAbUOjN90g2xkX2oi03oBhzcZmuWucgnjAq8GtF2nT/XzIwVVkyawa7Vdwke3BpDZpB8nojfQPXoxbqvZqSiivyCL8iKft7VFTig8Bn5nYLW4bV6T9mX68pM+41MIyItXZ8i4XyOWo6Ykyi6f30o0Cf59wFSqmQxoITg+mwVKvmBpPx0Ko5rr8bOlRfkOET5/3CPB/ogPmkYDs60CFkGaEUkZUSqwWe7ExNUCCPU9Twq6dadY/IBfEnwj6AIHjVxkiS5EAs6f53h7P7cbhQiuNzFsth0vlXKQDUwvasjpfBjDO+9VOpTik4/0ha7JJ/0rJCKhwfOA4d3JmBGcdQQ9lBezPJROUVfNm/tzR3papkVjJc/Pk6VQuMyPwgCDEHeBXc4tmLPbMtgpOioCDT+yg==;ARe5YMIDQLiITS9EgphhrQ=="
 ---

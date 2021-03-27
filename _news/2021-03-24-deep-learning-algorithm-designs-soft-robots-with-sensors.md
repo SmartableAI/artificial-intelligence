@@ -43,22 +43,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Algorithm designs soft robots that sense"
-    excerpt: "There are some tasks that traditional robots — the rigid and metallic kind — simply aren’t cut out for. Soft-bodied robots, on the other hand, may be able"
-    publishedDateTime: 2021-03-22T15:27:00Z
-    webUrl: "https://scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/"
-    ampWebUrl: "https://scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 59
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2021/03/MIT-Sensor-Placement-01-press_1.jpeg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "VqTWmlALo5kCW+ajYLDZz4h5sbvuTXnVpLDDQY4NX1Z7g8szAwmSnrxHfBNuzc19LzI/lnGfyKiy4byunWWwmvo9+b3e27fqEDXuGi/GGAIvTZS/ZDJ8tw2+SQ7++6piF33vIfOrvD2j0EpyYtDsPag7kLWPy/EyDIjVg2PuwXl7jMI1ku4ADAD9Y4sx67FObPeMWsvoHMCXd+6b+60A042/f2/97RkHGwXFFgYOp9copEICfV3sv/gCZaxylzhcHlCCsa2LRT8Z80roYzuIgTTHwioXiroNqKEow54bJwgi7VVfh/+kPKtU9dn3Uaquw3f7QjOIpE/9W6VZKv13hZ45Dm7YLSN6432R6zRnH+MN+O3trFOdq0lRCQo7fB8BORt5zJVKn7QNPFdc1z5SfBMiNvOO1cuekiyUcz5GF1o3Ruy0CEG5nLWI7xQSAIFVTkt5+sb7gyJouMHZqVZcYx8NjU7Ed0vhi8wRFb8fSSzPPwwPQBy4ygCPgL59l2lvxREdCzG+i29j83N/lqQQmQ==;dmYGP5UduCHFJjKR2Qjdjw=="
 ---

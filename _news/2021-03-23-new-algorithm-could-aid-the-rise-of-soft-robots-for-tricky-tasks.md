@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12109"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12109"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Algorithm designs soft robots that sense"
-    excerpt: "There are some tasks that traditional robots — the rigid and metallic kind — simply aren’t cut out for. Soft-bodied robots, on the other hand, may be able"
-    publishedDateTime: 2021-03-22T15:27:00Z
-    webUrl: "https://scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/"
-    ampWebUrl: "https://scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521831/algorithm-designs-soft-robots-that-sense/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 59
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2021/03/MIT-Sensor-Placement-01-press_1.jpeg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Deep-learning algorithm designs soft robots with sensors"
     excerpt: "Creating soft robots has been a long-running challenge in robotics. Their rigid counterparts have a built-in advantage: a limited range of motion. Rigid robots' finite array of joints and limbs usually makes for manageable calculations by the algorithms that control mapping and motion planning."
     publishedDateTime: 2021-03-24T06:20:00Z

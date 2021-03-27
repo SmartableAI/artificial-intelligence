@@ -2,6 +2,58 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-02-11-aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey.md",
+      "title": "AWS and NHL partner to turn game data into new ways of experiencing hockey",
+      "excerpt": "Soon-to-be Amazon CEO Andy Jassy has touted the partnership will bring an entirely new perspective and layer of fan involvement to the game of hockey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "originalUrl": "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/11/e12be20c-fc14-4f39-a5c7-2b6bd2de23c1/nhl-aws.jpg",
+          "width": 2089,
+          "height": 1183,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "publishedDateTime": "2021-02-10T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-how-to-design-ai-into-your-applications.md",
       "title": "How to design AI into your applications",
       "excerpt": "3 conscious experience design principles that will help you integrate ‘living’ AI into your applications and how to implement them. AI is in nearly every application nowadays. A frequently ...",
@@ -1120,58 +1172,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-chinese-search-giant-baidu-looks-to-launch-ai-chip-company.md",
-      "title": "Chinese Search Giant Baidu Looks to Launch AI Chip Company",
-      "excerpt": "Image source: Getty Images. Baidu is already heavily involved in AI and AI chips. Its AI-based platform-as-a-service serves numerous customers in China, including banks and economic development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612596%2Fartificial-intelligence-ai-neural-network-machine-learning-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "publishedDateTime": "2021-02-10T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

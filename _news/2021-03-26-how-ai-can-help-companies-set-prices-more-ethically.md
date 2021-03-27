@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Top 5 Artificial Intelligence Companies with Market Share"
+    excerpt: "In 2019, Microsoft funded the US$1 billion to the AI-research lab OpenAI, to research and explore the possibilities for amalgamation of GPT-3 and Microsoft Azure, for developing super-computing capabilities. Facebook has reformed from a social network site ..."
+    publishedDateTime: 2021-03-27T08:07:00Z
+    webUrl: "https://www.analyticsinsight.net/top-5-artificial-intelligence-companies-with-market-share/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 43
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies1-scaled.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "gwv7bIa+41ZzmiTVTdfsUbLJoWd2jXhh/duT3VQOuNb2wGiE2yx9SmcHaKQV595w9tz2ldpTlz3qZUoZvfgCb3zVC1HAtgNuUFWeOxVDHYVQnmPs+mwl3vxtARu5glU44/IzmYqAlZaxswuWzwK4YUVZeMVICsKiPMCrB1QiFYpJK6PGJfjCtL2Uv/DanNYCpjHW3HVpSalE2gwFDfO/ygzfYGIfSeHs557F3S7dfeHH7UwY5sNeOswb1T0ZHs3Iuf8r4+x+qgkA/CHxTBTaVLYbW22V4PMEh0SaHiev9QmMzEi71i4kGSBDAzlXTPWOHQLR5KYgL5zQExFWaOFlBKZP0TteTYZUmGROf6Nu+mjwNaZUHOf4hB/E8toPchnV2WXEBhXmzwsCkwUbmHqVx0T0DI6R23/+Wo/h1+wkA95CAmzTKK4NNaIZcMlQOBhz8KMPzGI66LGpgVe2/anfMtIhOPqHBBZa6Zm5y1aDQ3zmffxB7eL0Mun0ZYldzHOB+i1vO9/15XoH1dweUwq8Ew==;KtWOiNQZFJZ+IbHmgwRwPA=="
 ---

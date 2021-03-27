@@ -9,7 +9,7 @@ ampWebUrl: "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/
 cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
 type: article
 quality: 76
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210322&i=OVE567UJF&r=OVE567UJF&t=2"
         width: 960
         height: 540
-        isCached: true
-  - title: "NFT digital artwork by humanoid robot Sophia up for auction"
-    excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with"
-    publishedDateTime: 2021-03-22T16:00:00Z
-    webUrl: "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/"
-    ampWebUrl: "https://nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/22/nft-digital-artwork-by-humanoid-robot-sophia-up-for-auction/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/HONGKONG-ROBOT_-1-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "NFT digital artwork by humanoid robot Sophia up for auction"
     excerpt: "Robot artist Sophia, whose first artwork goes up for auction on Wednesday, says she draws inspiration for her work from people and is open to future creative partnerships with humans."
@@ -105,20 +89,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/03/25/21/40948438-0-image-a-10_1616707075267.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Robot ‘humanoid’ Sophia has digital art up for sale in the first ever AI auction"
-    excerpt: "“She” is a robot whose first artwork goes up for ... in the first sale of such pieces created jointly with artificial intelligence (AI). NFTs, a digital signature saved on blockchain ledgers ..."
-    publishedDateTime: 2021-03-22T15:38:00Z
-    webUrl: "https://inews.co.uk/news/world/robot-humanoid-sophia-digital-art-sale-ai-auction-hanson-robotics-924852"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 49
-    images:
-      - url: "https://i.inews.co.uk/content/uploads/2021/03/PRI_187508351.jpg"
-        width: 2500
-        height: 1667
         isCached: true
 
 secured: "/YvR306mNgOhbTLexQzoYIsOSe059aeUWXL4K2wHEWHZa26cH5giwuQzXiz0d+BOK9PelQNDVhQrovhRIYRKf31viWHh5PIbMmgm6UwricDize8/zHRZsnvk7XVEM4dt94HN6axqBy2LNvphR/g3DYuKoFDjemPfUFYDFgVYxhp2RnIH+ysOfAs2A9hISXMb/10NsPRKThawwh+x4JOMRrckNVDpYo+y8QnBETGjiAVsVUlVGEKuRQEEVFYvWqQTxrEsTRIJxyyKn5HJe7VwHAdldcsZ4KHxMfPyg3F6qb40h8vy9lzKTq/lK1NcmXDWIAGs2TpAgVe1rbgZR5k5Ug8E81ajTSiwXTm86Ol9W/M1fuQbQrmE5uGpij6nu9LlmZN/IOXlanq50Z6N0bTPJwv19wtFvoRJYuRWrffLZGvqADBO9QwXQ4GIVOor7Grlxi336Oy41fmbOpjHyqLmL2rQS+aBJyot14+CU0cJ/5u0FhsRSZMoFnMrMjsAdnTqQIBJBzf3dCFnKZqb66B+Ag==;WWQPB5cObVoVjjWHCijJqA=="

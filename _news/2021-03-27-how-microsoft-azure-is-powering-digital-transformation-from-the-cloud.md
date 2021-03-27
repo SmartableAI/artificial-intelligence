@@ -86,20 +86,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Repsol and Microsoft renew partnership developing AI-powered digital solutions"
-    excerpt: "The companies will co-innovate to build new AI-powered digital solutions ... including recommitting to the Azure cloud platform. “The extension of our collaboration and the supply of renewable energy undoubtedly reaffirms the vision that both companies ..."
-    publishedDateTime: 2021-03-22T16:04:00Z
-    webUrl: "https://www.chemengonline.com/repsol-and-microsoft-renew-partnership-developing-ai-powered-digital-solutions/"
-    type: article
-    provider:
-      name: The Magazine
-      domain: chemengonline.com
-    quality: 50
-    images:
-      - url: "https://www.chemengonline.com/wp-content/uploads/2018/10/fig2_communication-network.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "XUahhuvXTGmgd4uElaNY+ZVZiWYwEeVW1bhZBXOy3xYX499OYQMoFH3OVTszjL5Y+XdDpcuFLBLp67dhO9FDrGmyljP5gIytJ3+HXlsaP6p3k+oPuOf8+YKSI+fQTrKfmAq5+nLdutiEuUz7OyYDmQ8mazcAH8G/ueyqkHDragdjs5wvPdEG+skJldfuXFuHkuEw2rcmFunea92DIkkiYkGpUMrqLLyMau2177zrIRFohVJM/n2m1tw3NLDKaNjRWd0HVUAkcg0zcHFNTEiNXpecN0QNbsMqzdpBUwzE8f0eqyNN3XucD3X7/UZG5P/Q0XdYsHDROA1Nj5hBJ6pfkLac2Q8gdIc3S0VpfOH1XZ/a9tNOlzyAUk8x6qQkAx2+5M4Dk6LsriVwAVX6q/jt6lClGpybNmdCaX0sE8Us4j7PhD2oVAo9BF5Am/uXO/KNJtAeufg91tUpodPESvOu4GD6ywVwIjXMD1WAkqkDETxJjDKeOkrxUkTQwQ0Gg9SOXw+OCFCbPfwAS2hf6qEfoQ==;phlmi223VRyx+p+2l9alsA=="
 ---

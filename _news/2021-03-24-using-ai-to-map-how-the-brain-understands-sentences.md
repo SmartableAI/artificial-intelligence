@@ -54,22 +54,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "Researchers use AI to estimate focal mechanism parameters of earthquake"
-    excerpt: "The research team led by Prof. Zhang Jie from the University of Science and Technology of China (USTC) of the Chinese Academy of Sciences made progress on real-time determination of earthquake ..."
-    publishedDateTime: 2021-03-22T15:39:00Z
-    webUrl: "https://phys.org/news/2021-03-ai-focal-mechanism-parameters-earthquake.html"
-    ampWebUrl: "https://phys.org/news/2021-03-ai-focal-mechanism-parameters-earthquake.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-ai-focal-mechanism-parameters-earthquake.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/earthquak.jpg"
-        width: 1920
-        height: 1274
-        isCached: true
   - title: "Understanding influence of decision-making AI"
     excerpt: "Monash University researchers have developed a crucial framework to help provide greater transparency into the decision-making processes of"
     publishedDateTime: 2021-03-22T21:08:00Z
