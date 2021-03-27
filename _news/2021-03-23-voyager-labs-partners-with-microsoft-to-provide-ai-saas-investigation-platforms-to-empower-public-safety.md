@@ -24,17 +24,6 @@ images:
     height: 369
     isCached: true
 
-related:
-  - title: "Egypt ICT Ministry partners with Microsoft, IBM, Cisco, VMware, AWS Digital Egypt Builders Initiative"
-    excerpt: "Egypt's ICT Ministry has partnered with a number of international tech firms operating in Egypt, including Microsoft, IBM, Cisco, VMware, and Amazon Web Services (AWS), under its Digital Egypt Builders Initiative (DEBI),"
-    publishedDateTime: 2021-03-22T12:17:00Z
-    webUrl: "https://www.telecompaper.com/news/egypt-ict-ministry-partners-with-microsoft-ibm-cisco-vmware-aws-digital-egypt-builders-initiative--1376636"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 21
-
 secured: "U2LQbx4tvtPa45JtCm3Nj61bPpG1Iutbd5LrWppcbMumGNjVJAjx0FNGYSKhCWmgjE4O0TUDg/4odcxGCklId6tSEF/OnA9p0yTUI6MVwgWfC8RY+aAQy8nKm6DwcEqZooKXMrxZfdlkvvlzA7Z8zb2/6rKpoE8T/3tdxRpL1uXdCkLTg2O0O/IVgjAu28lbFAJ7SYx8ylrphlBFIfV8iedJ3mMNH27IEfgWcX+W2fXcXYZOBVMT5XBNC72TwTseuuVYiTb/z3C9HBfpgYOdaJwFFG9HsBKLzQCNWrqEZGc7r7iIqgduNsJtVQYRW7YAvXkvHtC4uyBzWmWeCE27VTi0RTp3yc/WoOqSHlidckE=;LluL68wfjfLOvu1zqFgU2Q=="
 ---
 

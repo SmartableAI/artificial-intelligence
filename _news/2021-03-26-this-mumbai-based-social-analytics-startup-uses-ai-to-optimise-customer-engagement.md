@@ -82,15 +82,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Moody’s Analytics Wins Award for Best Use of AI in Banking or FinTech"
-    excerpt: "Moody’s Analytics has won Best Use of AI in Banking or FinTech at the 2021 Global Achievement Awards for AI. This award recognizes the Credit Sentiment Score™ solution, an AI-powered tool to strengthe"
-    publishedDateTime: 2021-03-22T12:00:00Z
-    webUrl: "https://www.ansa.it/sito/notizie/economia/business_wire/news/2021-03-22_122160900.html"
-    type: article
-    provider:
-      name: ANSA
-      domain: ansa.it
-    quality: 34
   - title: "Moody's Analytics vince nella categoria 'Best Use of AI in Banking or FinTech'"
     excerpt: "Moody's Analytics ha vinto il premio Best Use of AI in Banking or FinTech (Miglior utilizzo dell'IA nel settore bancario o FinTech) ai 2021 Global Achievement Awards for AI. Si tratta di un riconoscim"
     publishedDateTime: 2021-03-23T11:00:00Z

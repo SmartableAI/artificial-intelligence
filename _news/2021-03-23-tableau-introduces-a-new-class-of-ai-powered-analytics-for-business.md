@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/tableau-introduces-a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/"
 type: article
 quality: 89
-heat: 179
+heat: 169
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Moody’s Analytics Wins Award for Best Use of AI in Banking or FinTech"
-    excerpt: "Moody’s Analytics has won Best Use of AI in Banking or FinTech at the 2021 Global Achievement Awards for AI. This award recognizes the Credit Sentiment Score™ solution, an AI-powered tool to strengthe"
-    publishedDateTime: 2021-03-22T12:00:00Z
-    webUrl: "https://www.ansa.it/sito/notizie/economia/business_wire/news/2021-03-22_122160900.html"
-    type: article
-    provider:
-      name: ANSA
-      domain: ansa.it
-    quality: 34
   - title: "This Mumbai-based Social Analytics Startup Uses AI To Optimise Customer Engagement"
     excerpt: "Locobuzz enables brands to forge strong relationships with their customers using artificial intelligence, machine learning, big data and analytics."
     publishedDateTime: 2021-03-26T09:30:00Z

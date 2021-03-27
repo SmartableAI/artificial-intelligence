@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Accounting Market Key Major Challenges, Drivers Growth, Opportunities Analysis To 2025"
-    excerpt: "To cater such needs, Shibuya Data Count provides market research reports to various business professionals across different industry verticals, such as healthcare & pharmaceutical, IT & telecom, chemicals and advanced materials, consumer goods & food ..."
-    publishedDateTime: 2021-03-22T11:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-key-major-challenges-drivers-growth-opportunities-analysis-to-2025-2021-03-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Energy Market Key Players, Competitive Landscape, Growth, Statistics, Revenue and Industry Analysis Report by 2027"
     excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. The global Artificial Intelligence in energy market is expected to reach a market size of USD 20."
     publishedDateTime: 2021-03-22T16:09:00Z
@@ -70,17 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Services Market Report: Trends, Forecast, Projects between 2021 and 2027"
-    excerpt: "Overview of the report A recent published report on the Cognitive Services market gives an in depth evaluation of the industry in its brief overview of the Cognitive Services market The review discusses several key aspects of the Cognitive Services"
-    publishedDateTime: 2021-03-22T11:34:00Z
-    webUrl: "https://www.openpr.com/news/2259863/global-cognitive-services-market-report-trends-forecast"
-    ampWebUrl: "https://www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259863/global-cognitive-services-market-report-trends-forecast"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
 
 secured: "cUdADSRdXNGQtxVdcPg9ZABl8gSLos2tguHfzaZFfJkL2fck3hl4UR1YhCE8+FRKZciFC1+9cpCA/GVHZwgdWrXmXvg2rmxaIYbD5z8YcmSuTDajTdmr0vSCwiqkbkS4dwt+o2+gkRBqDTWimK7Qa/FgWIMB2YtrPaoaQkGYIM9pckzsj9zJIsDRJMMVm01/mDWOYmH2uL+B4qH8fQsfTEM1JlE4XeWgR0JgE4NQrKbGxW083ASOtF6NIznrYiDw6dJpn0s4qwIPcy591LkO7v3CwK9hiTYiKcJyLmcwBE77UROW/oFA7NQiG9Zb2/4+pEPa7pv5omNUcJnSNK/4TFL/b0EUkSmliajNQuUJ+mU=;Wx1b0/zaZOcZQiouzFpnpQ=="
 ---

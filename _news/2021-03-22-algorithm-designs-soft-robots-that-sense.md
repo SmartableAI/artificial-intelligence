@@ -43,22 +43,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "MIT’s New Artificial Intelligence Algorithm Designs Soft Robots That Sense"
-    excerpt: "Deep-learning technique optimizes the arrangement of sensors on a robot’s body to ensure efficient operation. There are some tasks that traditional robots — the rigid and metallic kind — simply aren’t cut out for."
-    publishedDateTime: 2021-03-22T11:30:00Z
-    webUrl: "https://scitechdaily.com/mits-new-artificial-intelligence-algorithm-designs-soft-robots-that-sense/"
-    ampWebUrl: "https://scitechdaily.com/mits-new-artificial-intelligence-algorithm-designs-soft-robots-that-sense/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/mits-new-artificial-intelligence-algorithm-designs-soft-robots-that-sense/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 72
-    images:
-      - url: "https://scitechdaily.com/images/Soft-Bodied-Robotic-Elephant-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
   - title: "Deep-learning algorithm designs soft robots with sensors"
     excerpt: "Creating soft robots has been a long-running challenge in robotics. Their rigid counterparts have a built-in advantage: a limited range of motion. Rigid robots' finite array of joints and limbs usually makes for manageable calculations by the algorithms that control mapping and motion planning."
     publishedDateTime: 2021-03-24T06:20:00Z

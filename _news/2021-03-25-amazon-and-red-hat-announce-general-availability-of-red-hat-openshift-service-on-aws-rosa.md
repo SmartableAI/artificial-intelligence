@@ -71,6 +71,20 @@ related:
         width: 570
         height: 450
         isCached: true
+  - title: "AWS Announces General Availability of Amazon Lookout for Metrics"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Metrics, a new fully managed service that detects anomalies in metrics and helps determine their root cause."
+    publishedDateTime: 2021-03-25T19:32:00Z
+    webUrl: "https://www.argus-press.com/news/national/article_3c36c6f7-164c-5f58-9466-3f3ef9186d1a.html"
+    type: article
+    provider:
+      name: Argus-Press
+      domain: argus-press.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/argus-press.com/content/tncms/custom/image/bdf824b4-27a0-11e8-a78f-67fc2c3cc6dd.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS Releases AWS Media Intelligence Solutions"
     excerpt: "SEATTLE—Amazon Web Services is now offering AWS Media Intelligence Solutions (AWS MI), which is a. AWS MI is meant to allow users to analyze media, improve content engagement rates, reduce operational costs and increase the lifetime value of media content."
     publishedDateTime: 2021-03-23T19:19:00Z

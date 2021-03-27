@@ -24,17 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Accenture and Ripjar Help Shell Transform Risk Screening by Applying Artificial Intelligence Across Its Global Supply Chain"
-    excerpt: "Accenture and Ripjar are collaborating with Royal Dutch Shell to enhance risk screening within its supply chain using artificial intelligence."
-    publishedDateTime: 2021-03-22T12:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210322005033/en/Accenture-and-Ripjar-Help-Shell-Transform-Risk-Screening-by-Applying-Artificial-Intelligence-Across-Its-Global-Supply-Chain"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 6
-
 secured: "KlT/WRsAA9skx+jVI+NdlTMkcHwCffrqAMagdbIxVFWVZL+szhJqDf2GRRdKdobt2n14+3tttXGdRKjnmWC9tPUyL9Ct2lZJrEByGjyz5aYUzFq4yTNn1iNoqz0u9Ds7USJqVMu47ESIWIqOV5h9Km50qvDOvep0qUwRHR+yQPyza9s1zL7nuO2/ktGoHutS2AV7ZZzrSE2HbGrBIltjNoJBlJ1wr+jLTeBoRWw80RTUjUUHO97xGqXGtMmO33CUq0eTbxNNnlbEkLppDLOSW/I/NqhvLIcZCFW+tf+a+8rbw8nk0tGyf/W1jWVKg945a30zfNr8dd5KMvdinAVvB31OcyWkz20QoIJPcYfZ8j8=;POQIMb3VPEinmXQl2Jc7hw=="
 ---
 

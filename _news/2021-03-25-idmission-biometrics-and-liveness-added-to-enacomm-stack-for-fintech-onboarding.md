@@ -92,20 +92,6 @@ related:
         width: 792
         height: 266
         isCached: true
-  - title: "IDEMIA Showcases Industry-Leading Facial Recognition Technology at DHS 2020 Biometric Technology Rally"
-    excerpt: "View original content to download multimedia: http://www.prnewswire.com/news-releases/idemia-showcases-industry-leading-facial-recognition-technology-at-dhs-2020-biometric-technology-rally-301251155.html"
-    publishedDateTime: 2021-03-22T12:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-covid-19-pandemic-coronavirus-pandemic-lung-disease-b3a2d297dbb2e58c53f00f0e33bc92ab"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
     excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey biometric solution."
     publishedDateTime: 2021-03-23T10:03:00Z

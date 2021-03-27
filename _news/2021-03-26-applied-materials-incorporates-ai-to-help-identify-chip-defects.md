@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Applied Materials Enlists AI to Extract Defects From Chips"
-excerpt: "The world's largest semiconductor gear maker said its Enlight process control system with ExtractAI technology serves as \"a search engine\" for potential flaws on the surface of chips."
+title: "Applied Materials Incorporates AI to Help Identify Chip Defects"
+excerpt: "Applied Materials said it would give its customers the ability to pinpoint more of the abnormalities that can ruin advanced memory and logic chips. Applied Materials said the Extract AI technology at the heart of the Enlight system will allow its customers ..."
 publishedDateTime: 2021-03-26T00:00:00Z
-originalUrl: "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips"
-webUrl: "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips"
+originalUrl: "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-incorporates-ai-to-help-identify-chip-defects"
+webUrl: "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-incorporates-ai-to-help-identify-chip-defects"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electronic Design
@@ -25,10 +25,10 @@ images:
     isCached: true
 
 related:
-  - title: "Applied Materials Incorporates AI to Help Identify Chip Defects"
-    excerpt: "Applied Materials said it would give its customers the ability to pinpoint more of the abnormalities that can ruin advanced memory and logic chips. Applied Materials said the Extract AI technology at the heart of the Enlight system will allow its customers ..."
+  - title: "Applied Materials Enlists AI to Extract Defects From Chips"
+    excerpt: "The world's largest semiconductor gear maker said its Enlight process control system with ExtractAI technology serves as \"a search engine\" for potential flaws on the surface of chips."
     publishedDateTime: 2021-03-26T00:00:00Z
-    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-incorporates-ai-to-help-identify-chip-defects"
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips"
     type: article
     provider:
       name: Electronic Design
@@ -68,6 +68,6 @@ related:
         height: 663
         isCached: true
 
-secured: "4hIit2IgeJmF1tZX2aFDNnk/aUGxVQC+8JASJ0Lx19jSqzltrE+pLRByUkSYHZykBxZbpMTm2QieWFhtIf/ySkYkLowHwWv1OmrQ5zhtHOkMxWgCF1QN7hZWWQpzHAOQjgLcxD3PtX4opxdJWpgKGP5JRY8abqzmBbPNERsS7ZqRuENPiRhhgLajsznCFnG2kg6hhAt0yPV/BfEiImJCOC7ApJud6VqRc3AqxZVsycIRkV7WlAGBq/+EA9xMxh/QyEvGNoxcuHWFzprPTsAcR7PwJm8CWoTgufbfa6sYPz9PMcnIkxK4GSRtwPyTr56KIUi8IlxHy8gd6TdCDy7lgkbsfs6EVOZoNYc35KDJ7Di25U+23Ff+/Pj7ief+vEN0j/xUsO0YimIAEoeMt/qwSx7+W1ac6PAr7bLMIAhaKiZEfPG2HwuQ6X//LuPSByjbOe/C81iqE+LAw5049KSCavyzRIcespadPZjujbqjGB599y5zh+fvxLfDFzWhiES7NeLkFR3Zf7r7WnGW1QKYKA==;SCobWposJtRhcerC8WoiQQ=="
+secured: "d7xo0sjNzcxgIofFMRxh7j4K7vITglVqV5H0e6TuDdcXa27zxupiR+KJ/GguTvF3CfGNkGUbFU2N6NhFz8yKtyZiVWKECSeBlUoHVJd6D+R3jjnHYJqPj7yOceLntFOU3J3e5hXZ3dePGqV3UFssT6oCmcX2X8QGl5TAO5rqyol19Ezrd9arxgRVJO8O/CA1GnfoASwScmCqPlPb0Pj4jv9U6d+L2T6AQHqSlB1/h5kiioqJZrxOnlJXs+Fn+B/eV4SuBz4QuvwUF9QUh0Xrmv4kDzA97rOC7vGqJeIHVle9t825t2W6LjXQR2s/EZE1/KDtfCdvdq40ihGCvE5VDbgkep+dkldWsFoXqM36OOE=;W1Ibxdk49Xmjbb7yDky5pw=="
 ---
 

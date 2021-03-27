@@ -57,6 +57,20 @@ related:
         width: 570
         height: 450
         isCached: true
+  - title: "AWS Announces General Availability of Amazon Lookout for Metrics"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Metrics, a new fully managed service that detects anomalies in metrics and helps determine their root cause."
+    publishedDateTime: 2021-03-25T19:32:00Z
+    webUrl: "https://www.argus-press.com/news/national/article_3c36c6f7-164c-5f58-9466-3f3ef9186d1a.html"
+    type: article
+    provider:
+      name: Argus-Press
+      domain: argus-press.com
+    quality: 54
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/argus-press.com/content/tncms/custom/image/bdf824b4-27a0-11e8-a78f-67fc2c3cc6dd.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon and Red Hat Announce General Availability of Red Hat OpenShift Service on AWS (ROSA)"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ:AMZN) and Red Hat, the world’s leading provider of enterprise open source solutions, announced the general availability of Red Hat OpenShift Service on AWS (ROSA),"
     publishedDateTime: 2021-03-24T21:15:00Z
