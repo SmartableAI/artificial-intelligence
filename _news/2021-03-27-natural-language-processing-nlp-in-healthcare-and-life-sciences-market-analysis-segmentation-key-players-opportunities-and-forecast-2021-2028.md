@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2262865/natural-language-processing-nlp-i
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
 type: article
 quality: 53
-heat: 53
-published: false
+heat: 83
+published: true
 
 provider:
   name: openpr.com
@@ -26,6 +26,52 @@ images:
     width: 450
     height: 300
     isCached: true
+
+related:
+  - title: "European AI in Image Recognition Market Size, Share, Analysis, Industry Report and Forecast 2019-2025"
+    excerpt: "The European AI in image recognition market is estimated to grow at a CAGR of over 27 during the forecast period Europe has a huge potential for the growth of AI owing to an advanced economy and significant investment The"
+    publishedDateTime: 2021-03-27T08:18:00Z
+    webUrl: "https://www.openpr.com/news/2262802/european-ai-in-image-recognition-market-size-share-analysis"
+    ampWebUrl: "https://www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 44
+    images:
+      - url: "https://cdn.openpr.com/U/3/U327813450_g.jpg"
+        width: 800
+        height: 904
+        isCached: true
+  - title: "Speech and Voice Recognition Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2026"
+    excerpt: "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion"
+    publishedDateTime: 2021-03-23T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-key-drivers-restraints-industry-size-share-opportunities-trends-and-forecasts-up-to-2026-2021-03-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
+    excerpt: "Kenneth Research has published a detailed report on Speech and Voice Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2021-03-25T23:05:00Z
+    webUrl: "https://menafn.com/1101807678/Speech-and-Voice-Recognition-Market-Size-Analysis-by-Growth-Emerging-Trends-and-Future-Opportunities-Till-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 2
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?212595"
+        width: 437
+        height: 250
+        isCached: true
 
 secured: "HPmGv+b5+nN9Q0bgTjzukL4gRLNW8LG/glZLS2pOF6mmvptLdwua+H1vHgXQfeP6GpvhoSBajnUaTsnWNQf+mV+rWhgfk6mQOUwxVN1lY27X8c5nJtP2zgUIKHRbuZ6xa2eQzDLjv26U9kpIY7DreQsQaaq8VMhVt8jGEJVQxU9RAZDZvlW3asMPh3YOwO9VJo/4llKUWx4h92d8NKOQ8eVoEvmCO6ur1OoXJFQmL8bI2WyhqxQrZBpIPIdfkIC3BKgDSopXnIccaTeiUAEMpmUKAFaTLvSbnQYdkJjUfvd3yvVAFsForUD49wsdqM/Lf3GihJXNmDxCDBdayeB2xyc7WK60Peo5Lw2GJeJIsIwHBM+jYMyP3OhasEpODwdo0MWTnFXwj6ehQW7Skxkr7fOooIbdNiZc1gKjsUWyuBMpvU1NCB0oLQ7r5qX+2V4iIj7KWKPY0Fb3CSbDE2FeBIH3VFe0xNnroj7r4N+frM6lF53I31Qw+Ji7fk5B9VINjjVEzpbOGmv5wXwYbVJR/w==;zWI4OGL+usO/MNvC3oLZEw=="
 ---

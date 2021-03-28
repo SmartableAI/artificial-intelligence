@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "LGN, which helps companies deploy AI at scale, raises $2M"
-    excerpt: "LGN, a startup specializing in technologies that help companies to deploy AI and machine learning at scale, has raised $2 million."
-    publishedDateTime: 2021-03-23T09:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/"
-    ampWebUrl: "https://venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&strip=all"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "How AI Can Help Companies Set Prices More Ethically"
     excerpt: "Using AI and data-driven tools ... This power raises a question: Should ethics and societal values factor into these prices — and how? Companies should consider what they’re selling, who ..."
     publishedDateTime: 2021-03-26T12:05:00Z

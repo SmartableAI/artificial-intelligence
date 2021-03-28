@@ -105,7 +105,7 @@
       "originalUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -146,6 +146,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-27-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-analysis-segmentation-key-players-opportunities-and-forecast-2021-2028.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Analysis, Segmentation, Key Players, Opportunities And Forecast 2021-2028",
+      "excerpt": "It Intelligence Markets one of the world s leading market research firms has rolled out a new report on Natural Language Processing NLP in Healthcare and Life Sciences market The report is integrated with crucial insights on the market which",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2262865/natural-language-processing-nlp-in-healthcare-and-life",
+      "originalUrl": "https://www.openpr.com/news/2262865/natural-language-processing-nlp-in-healthcare-and-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U327650672_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life",
+      "publishedDateTime": "2021-03-27T06:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -583,6 +627,57 @@
       ]
     },
     {
+      "path": "_news/2021-03-26-avvir-raises-10m-for-ai-that-spots-construction-site-errors.md",
+      "title": "Avvir raises $10M for AI that spots construction site errors",
+      "excerpt": "Avvir, a startup applying AI to monitor construction projects for errors, has raised $10 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/",
+      "originalUrl": "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/01/91e28747-bc1b-43dd-bf95-6650cec819f1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 789,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/",
+      "publishedDateTime": "2021-03-26T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-how-yandex-plans-to-expand-its-autonomous-robot-delivery-service.md",
       "title": "How Yandex plans to expand its autonomous robot delivery service",
       "excerpt": "Yandex plans to expand its autonomous delivery service to the U.S. and elsewhere. Here's how it hopes to accomplish this.",
@@ -643,7 +738,7 @@
       "originalUrl": "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -815,6 +910,49 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-how-ai-can-help-companies-set-prices-more-ethically.md",
+      "title": "How AI Can Help Companies Set Prices More Ethically",
+      "excerpt": "Using AI and data-driven tools ... This power raises a question: Should ethics and societal values factor into these prices — and how? Companies should consider what they’re selling, who ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically?ab=hero-main-image",
+      "originalUrl": "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically?ab=hero-main-image",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/03/Mar21_26_843275898.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
+      "publishedDateTime": "2021-03-26T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -1048,151 +1186,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-three-ai-and-tech-trends-that-will-transform-fashion-industry.md",
-      "title": "Three AI And Tech Trends That Will Transform Fashion Industry",
-      "excerpt": "Apparel designers and brands are embracing the latest technology to get an edge in the fast-paced world of fashion. From machine learning to 3D virtual models, find out how technology is transforming the fashion industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605d6f8f415056893e35fb08%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1925%26cropY1%3D0%26cropY2%3D1083",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/",
-      "publishedDateTime": "2021-03-25T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-applied-materials-enlists-ai-to-extract-defects-from-chips.md",
-      "title": "Applied Materials Enlists AI to Extract Defects From Chips",
-      "excerpt": "The world's largest semiconductor gear maker said its Enlight process control system with ExtractAI technology serves as \"a search engine\" for potential flaws on the surface of chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
-      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/03/Applied_Materials_Enlight_system.605cdb6e9aa47.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-navigating-the-hype-around-artificial-intelligence.md",
-      "title": "Navigating the hype around artificial intelligence",
-      "excerpt": "Video Module Navigating the hype around artificial intelligence. Posted . Investing in Artificial Intelligence is very much on-trend, with one recent report predicting deep learni",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH",
-      "originalUrl": "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210325&i=RCV009JNH&r=RCV009JNH&t=2",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

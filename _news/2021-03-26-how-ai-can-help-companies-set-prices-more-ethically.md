@@ -9,8 +9,8 @@ ampWebUrl: "https://hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-mor
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Harvard Business Review
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "LGN, which helps companies deploy AI at scale, raises $2M"
-    excerpt: "LGN, a startup specializing in technologies that help companies to deploy AI and machine learning at scale, has raised $2 million."
-    publishedDateTime: 2021-03-23T09:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/"
-    ampWebUrl: "https://venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/lgn-which-helps-companies-deploy-ai-at-scale-raises-2m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&strip=all"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Top 5 Artificial Intelligence Companies with Market Share"
     excerpt: "In 2019, Microsoft funded the US$1 billion to the AI-research lab OpenAI, to research and explore the possibilities for amalgamation of GPT-3 and Microsoft Azure, for developing super-computing capabilities. Facebook has reformed from a social network site ..."
     publishedDateTime: 2021-03-27T08:07:00Z

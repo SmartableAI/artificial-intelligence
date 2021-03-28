@@ -2,6 +2,197 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-02-27-edge-ai-market-size-share-trends-analysis-report-with-growth-forecast-2020-2027.md",
+      "title": "Edge AI Market Size, Share & Trends Analysis Report With Growth Forecast 2020-2027",
+      "excerpt": "The global Edge AI market report scope includes detailed study covering underlying factors influencing the industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-share-trends-analysis-report-with-growth-forecast-2020-2027-2021-02-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-market-size-share-trends-analysis-report-with-growth-forecast-2020-2027-2021-02-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-26T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-ibm-watson-why-is-healthcare-ai-so-tough.md",
+      "title": "IBM Watson: Why Is Healthcare AI So Tough?",
+      "excerpt": "A pivotal event for AI happened when IBM’s Watson beat two all-time champions of Jeopardy! in 2011. This showed that the technology was far from being experimental. IBM would soon go on to make Watson the centerpiece of its AI strategy. And a big part of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603af91362e4efd26de6913e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1713%26cropY1%3D87%26cropY2%3D1050",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/amp/",
+      "publishedDateTime": "2021-02-26T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-a-dog-with-a-data-driven-nose-how-these-mu-students-are-paving-the-way-in-robotics.md",
+      "title": "A 'dog' with a data-driven nose: How these MU students are paving the way in robotics",
+      "excerpt": "Even with remote control, the robot has autonomous actions ... \"It still blows my mind that we have the opportunity to do something like this,\" said Bowen, 20. \"Once the novelty wears off ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.columbiatribune.com/story/news/education/campus/2021/02/26/missouri-mu-engineering-robot-dog-robotics-automation-next-technological-revolution-college/6823678002/",
+      "originalUrl": "https://www.columbiatribune.com/story/news/education/campus/2021/02/26/missouri-mu-engineering-robot-dog-robotics-automation-next-technological-revolution-college/6823678002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/26/NCDT/c0715b5a-bd3f-4d14-9f35-1e7a8df57266-DSC_6947.jpg?auto=webp&crop=5199,2924,x1,y429&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.columbiatribune.com/amp/6823678002",
+      "cdnAmpWebUrl": "https://amp-columbiatribune-com.cdn.ampproject.org/c/s/amp.columbiatribune.com/amp/6823678002",
+      "publishedDateTime": "2021-02-26T15:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Columbia Daily Tribune",
+        "domain": "columbiatribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-hundreds-of-amazon-drivers-agree-that-they-deserve-a-union-in-an-informal-driver-led-survey.md",
+      "title": "Hundreds of Amazon Drivers Agree That They Deserve a Union in an Informal Driver-Led Survey",
+      "excerpt": "In just a few short years, Amazon’s warehouse workers have gone from suffering in silence to jobsite walkouts in Minnesota and more recently a full-blown union vote in Alabama. Now it seems another segment of Amazon’s workforce is taking its first steps towards advocating for better conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/hundreds-of-amazon-drivers-agree-that-they-deserve-a-un-1846340730",
+      "originalUrl": "https://gizmodo.com/hundreds-of-amazon-drivers-agree-that-they-deserve-a-un-1846340730",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-26T15:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-tensorflow-a-cheat-sheet.md",
       "title": "TensorFlow: A cheat sheet",
       "excerpt": "TensorFlow is an open source software library developed by Google for numerical computation with data flow graphs. This TensorFlow guide covers why the library matters, how to use it, and more.",
@@ -1009,197 +1200,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-the-world-needs-democratic-ai-principles.md",
-      "title": "The World Needs Democratic AI Principles",
-      "excerpt": "Artificial intelligence (AI) encompasses a nearly limitless set of possibilities and the rapid integration of AI into every facet of human life offers great promise. It is also a disruptive force ...",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2021/02/the-world-needs-democratic-ai-principles/",
-      "originalUrl": "https://thediplomat.com/2021/02/the-world-needs-democratic-ai-principles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2021/02/sizes/td-story-s-2/thediplomat-2021-02-26-6.jpg",
-          "width": 600,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028.md",
-      "title": "Artificial Intelligence in Security Market Statistics and Research Analysis Detailed in Latest Research Report 2021-2028",
-      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban.md",
-      "title": "Facebook Mulls 2021 Launch Of Facial Recognition Glasses With Ray-Ban",
-      "excerpt": "A Facebook executive confirmed that the social media giant could release facial recognition glasses this year in partnership with Luxottica, the maker of Ray-Ban.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/",
-      "originalUrl": "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/ray-bans-facebook-facial-recognition-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/",
-      "publishedDateTime": "2021-02-26T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-why-machine-learning-strategies-fail.md",
-      "title": "Why machine learning strategies fail",
-      "excerpt": "Most companies are still trying to figure out how to make AI work. A recent survey looks at some of the barriers to machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/cloud-machine-learning-strategy.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
-      "publishedDateTime": "2021-02-26T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
       ]
     }
   ],

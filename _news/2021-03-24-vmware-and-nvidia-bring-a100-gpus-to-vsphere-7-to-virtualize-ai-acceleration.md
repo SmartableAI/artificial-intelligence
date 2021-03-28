@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/03/23/vmware-and-nvid
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/03/23/vmware-and-nvidia-bring-a100-gpus-to-vsphere-7-to-virtualize-ai-acceleration/amp/"
 type: article
 quality: 103
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1000
     height: 525
     isCached: true
+
+related:
+  - title: "How NVIDIA And VMware Aim To Make Enterprise AI Easier With Joint Solutions"
+    excerpt: "Companies need to spend more time creating new employee workflows, products and customer experiences to succeed in a highly competitive environment. The NVIDIA VMware collaboration supports this."
+    publishedDateTime: 2021-03-23T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/maribellopez/2021/03/23/how-nvidia-and-vmware-aim-to-make-enterprise-ai-easier-with-joint-solutions/"
+    ampWebUrl: "https://www.forbes.com/sites/maribellopez/2021/03/23/how-nvidia-and-vmware-aim-to-make-enterprise-ai-easier-with-joint-solutions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2021/03/23/how-nvidia-and-vmware-aim-to-make-enterprise-ai-easier-with-joint-solutions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60590de8111ad47650833916%2F0x0.jpg"
+        width: 1020
+        height: 680
+        isCached: true
 
 secured: "q3RsA1I5+xQFYby24Otmly+uQTTc1AX5yAmUlZAt7J/FZ+LZ2y8aFiuFcaf2G5nc6n7+VLWopvt+lT1S8rOyDwDeui43JDit2kefsbh15HRJ1lbn73vIrshGm9U4IGjpXB6OAuu6IRAJ+k6G1jJY/1edNuVvmSFkVqW2O/PQgdsEsob9rxTFXDpheiwAx7IVetDe/s56ftotJFBufEC5ydkIZAIy7BarcD15awS1XdHD/dCrzuApar3Ep6NPcs+miHeRmshk+x6sY0U/US+7Sfo/7nRSEHeHVA8jyLvFGQlFGHEl9XCNYWBX82S0X62ldcKJa+1bgJZ9FQakLA9juq9LlKUvYVTtLhBGjevHbdjH5LqhF4XhkRbp81qsnNRauvxQMKkZns8G6z9rYIvU6homF2pAFn1n/sdogZ21ZV2wstgxo23ukwQeafWb8o9fPELNxsF+eAfbA/Jb78r+fMFqDcpUVCcGjJLehFQJN+7tTSLktMdMFSvQ1L+LV0dgTRLoq46zrDUTAd74d80xMg==;ThEd2+XaTASw/fXnkfhCzQ=="
 ---

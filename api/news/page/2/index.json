@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-26-three-ai-and-tech-trends-that-will-transform-fashion-industry.md",
+      "title": "Three AI And Tech Trends That Will Transform Fashion Industry",
+      "excerpt": "Apparel designers and brands are embracing the latest technology to get an edge in the fast-paced world of fashion. From machine learning to 3D virtual models, find out how technology is transforming the fashion industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605d6f8f415056893e35fb08%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1925%26cropY1%3D0%26cropY2%3D1083",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/",
+      "publishedDateTime": "2021-03-25T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-applied-materials-enlists-ai-to-extract-defects-from-chips.md",
+      "title": "Applied Materials Enlists AI to Extract Defects From Chips",
+      "excerpt": "The world's largest semiconductor gear maker said its Enlight process control system with ExtractAI technology serves as \"a search engine\" for potential flaws on the surface of chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
+      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/03/Applied_Materials_Enlight_system.605cdb6e9aa47.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-navigating-the-hype-around-artificial-intelligence.md",
+      "title": "Navigating the hype around artificial intelligence",
+      "excerpt": "Video Module Navigating the hype around artificial intelligence. Posted . Investing in Artificial Intelligence is very much on-trend, with one recent report predicting deep learni",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH",
+      "originalUrl": "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210325&i=RCV009JNH&r=RCV009JNH&t=2",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-4-robotics-stocks-to-buy-to-invest-in-innovation.md",
       "title": "4 Robotics Stocks to Buy to Invest in Innovation",
       "excerpt": "Often, investing in robotics is connected to investing in artificial intelligence. Robots can learn, adapt to new data and become more productive and efficient. There are multiple uses of robotics ...",
@@ -1099,152 +1244,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts.md",
-      "title": "Artificial Intelligence Could Have Helped Alleviate Suffering From Texas Blackouts",
-      "excerpt": "While debates as to the root causes of the recent failure of the Texas power grid are likely to go on for months, energy experts contend that the introduction of artificial intelligence (AI) into the management of the grid could have alleviated some of the worst effects of the power shutdown.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/",
-      "originalUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b7edbbed55be5d6f63f2f%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/amp/",
-      "publishedDateTime": "2021-03-24T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-global-artificial-intelligence-chip-market-to-reach-1142-billion-by-2027-covid-impact-trends-and-forecast.md",
-      "title": "Global Artificial Intelligence Chip Market to Reach $114.2 Billion by 2027: COVID impact, Trends and Forecast",
-      "excerpt": "As a result, the COVID-19 is seen to be driving the AI (chipsets) demand for some end-use industries.” Competitive Scenario Some of the major Artificial Intelligence Chip players holding high market share include NVIDIA COPORATION, ALPHABET INC., APPLE ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2261323/global-artificial-intelligence-chip-market-to-reach-114-2",
-      "originalUrl": "https://www.openpr.com/news/2261323/global-artificial-intelligence-chip-market-to-reach-114-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U324484228_g.jpg",
-          "width": 800,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2261323/global-artificial-intelligence-chip-market-to-reach-114-2",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2261323/global-artificial-intelligence-chip-market-to-reach-114-2",
-      "publishedDateTime": "2021-03-24T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-fintech-startup-raises-200-million-to-fight-digital-banking-fraud.md",
-      "title": "Fintech startup raises $200 million to fight digital banking fraud",
-      "excerpt": "Artificial intelligence (AI) and machine learning are the future. Meanwhile, cyber crime, money laundering and online financial fraud are becoming bigger problems by the day. To help combat these rising issues, fintech startup Feedzai has raised $200 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud",
-      "originalUrl": "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570814930/itpro/2015/12/mobile_banking.jpg",
-          "width": 1000,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud?amp",
-      "publishedDateTime": "2021-03-24T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

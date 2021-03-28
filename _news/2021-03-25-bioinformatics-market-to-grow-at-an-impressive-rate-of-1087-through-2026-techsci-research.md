@@ -43,6 +43,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period | ARC"
+    excerpt: "pune, India, Thu, 25 Mar 2021 02:19:22 / Comserve Inc. / -- the global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. Global Wearable ..."
+    publishedDateTime: 2021-03-25T02:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-is-expected-to-grow-at-noteworthy-cagr-around-27-throughout-the-forecast-period-arc-2021-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Singapore Facial Recognition Systems Market 2020-2026: Market Size is Projected to Grow at a CAGR of 17.6%"
     excerpt: "DUBLIN, March 24, 2021 /PRNewswire/ -- The \"Singapore Facial Recognition Systems Market (2020-2026): Market Forecast by Component Types (Hardware, Software & Software Tools), by Applications (Law Enforcement, Physical Security, Border Control and ..."
     publishedDateTime: 2021-03-25T11:45:00Z

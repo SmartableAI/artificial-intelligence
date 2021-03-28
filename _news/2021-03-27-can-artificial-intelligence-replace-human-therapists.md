@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/can-artificial-intelligence-replace
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
