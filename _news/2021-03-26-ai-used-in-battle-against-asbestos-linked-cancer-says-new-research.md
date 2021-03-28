@@ -58,6 +58,20 @@ related:
         width: 2880
         height: 1616
         isCached: true
+  - title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
+    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI) to study an aggressive form of cancer, which could improve patient outcomes."
+    publishedDateTime: 2021-03-26T09:10:00Z
+    webUrl: "https://www.aninews.in/news/science/researchers-use-artificial-intelligence-in-battle-against-asbestos-linked-cancer20210326164008/"
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 49
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/ai_oct10_asdfhhasdfhdsf_mXMGzvD.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "AI used in battle against asbestos-linked cancer"
     excerpt: "\"Using AI to interrogate genomic 'big data', this initial work shows ... chemotherapy was the only licenced choice for patients with mesothelioma. However, treatment options start to become limited once people stop responding to their treatment."
     publishedDateTime: 2021-03-26T18:09:00Z
@@ -67,15 +81,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
-    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer."
-    publishedDateTime: 2021-03-26T11:43:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210326/3730438.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 29
 
 secured: "E9Q8be8y7QkyoCtK2j6qHl7DIKioSp3BRaE6dLt3P8hclnk6wHY8mrJKw6ge17LJozfqEmAedp55tLHBHDxvl/+wCozI64qdPOElgfAIaXoIAer64O9klCMEv1T4dUEnL/rEdtsFT2v2i/9CPYE3DQ80hGI8GkvgAfGLH+3dfn8XFTQjJxvSL+hscI/mjgvCvraiDB6U8Rt3lrYnuVHtkQrF3zdHZj9Wh3Gz7gYORjwk8lfvB7SeD3VLP7qM4Lcy8R1QptbtzewXpe6BZLi1mOycg1X3jz3HVwLpy/K3Dnvt1TNy16Lf4ECdvYjF5kFBUChzwMn03194uo/pzJ1DpMWxgmspuGLKJng19zwVzLM=;ofuJobIIMzUlBeNVa7Wb0w=="
 ---

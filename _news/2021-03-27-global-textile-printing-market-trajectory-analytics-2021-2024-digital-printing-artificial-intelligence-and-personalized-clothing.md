@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tableau introduces a new class of AI-powered analytics for business"
-    excerpt: "Einstein Discovery 2021.1 drops this month and will let more people do more with clicks rather than code, the company says."
-    publishedDateTime: 2021-03-23T14:59:00Z
-    webUrl: "https://www.techrepublic.com/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 89
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2020/07/09/b6ab847a-647d-4dd3-8830-b9a2e978c6c2/resize/1200x/cacbd035a68bdef28ec6012ef91f3936/cloud-security-tr.jpg"
-        width: 1200
-        height: 901
-        isCached: true
   - title: "Alluxio Advances Analytics and AI with NVIDIA"
     excerpt: "GPU-based processing drives higher data access throughput than a CPU-based cluster. With the separation of processing clusters for analytics and AI from data storage systems, accelerating data access allows for cost savings on agile business intelligence ..."
     publishedDateTime: 2021-03-24T17:51:00Z
@@ -68,20 +52,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Story-of-Locobuzz.png"
         width: 1600
         height: 1280
-        isCached: true
-  - title: "Aunalytics launches Daybreak for Financial Services"
-    excerpt: "Mid-sized banks and credit unions now have access to actionable data, enriched with Smart Features, to enhance customer relationships and deliver the right products and services, to the right people,"
-    publishedDateTime: 2021-03-26T13:40:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Aunalytics-launches-Daybreak-for-Financial-Services-145979.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 24
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
         isCached: true
   - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
     excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"

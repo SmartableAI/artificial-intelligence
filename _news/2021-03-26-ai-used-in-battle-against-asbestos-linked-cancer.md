@@ -59,6 +59,20 @@ related:
         width: 770
         height: 433
         isCached: true
+  - title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
+    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI) to study an aggressive form of cancer, which could improve patient outcomes."
+    publishedDateTime: 2021-03-26T09:10:00Z
+    webUrl: "https://www.aninews.in/news/science/researchers-use-artificial-intelligence-in-battle-against-asbestos-linked-cancer20210326164008/"
+    type: article
+    provider:
+      name: Asian News International
+      domain: aninews.in
+    quality: 49
+    images:
+      - url: "https://aniportalimages.s3.amazonaws.com/media/details/ai_oct10_asdfhhasdfhdsf_mXMGzvD.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "AI used in battle against asbestos-linked cancer"
     excerpt: "\"Using AI to interrogate genomic 'big data', this initial work shows ... chemotherapy was the only licenced choice for patients with mesothelioma. However, treatment options start to become limited once people stop responding to their treatment."
     publishedDateTime: 2021-03-26T18:09:00Z
@@ -68,15 +82,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
-    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer."
-    publishedDateTime: 2021-03-26T11:43:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210326/3730438.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 29
 
 secured: "uQ9uLUWksELlwbJbxXQjhiAsCckhevAfrp53wZ7CusfWZvmqXAv1wXxl3Dac5Th1i1m6K2VD15gJ/BhYi1SDhEv9R61A5Qz4ml4QrawiNwC8p/zjhZQ+rAbJwWBFEIGb1i3bhX9car0zCwnLUq0Ccf400GCBd4ggMkeiYjKDJs+uh659CP11IkDqXFPTAum6fLtvktlG1eBN0er5G7Mn1elUP5K625Zi6x4rZWGe3p2cFe8ARZFSr8H9oFiDugvACCNuv1o1UbMjcIMBMYeshjjihXKNp9AvW6NygJkvZOb5mspxllXVluDd9xh7q8XdzrXG6byLJ4O86hYR78m3uKxMQgCFLvm5x+oQwSKfA0/efH6nCDkApzlG+gkDF/vk5GnxsaNb3+VmHbkwFhHVLSRyLtaQ3D4rkYIH8KAdPJHsu7ItVLnyxFirb+xaRZ7nITS8RlFdzUyIUxliUVsR4mCmG5TtsZyVZmt0CLuqJ5WtUaUMkk7y7tbZVTEYXmgRPa6GIkk+brUKCW+nmjqwLQ==;7O+ljhujNvSASHLIVxlzSQ=="
 ---

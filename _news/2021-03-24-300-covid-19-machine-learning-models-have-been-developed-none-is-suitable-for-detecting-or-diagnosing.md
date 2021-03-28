@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "FDA Approves Machine Learning Tool for COVID-19 Screening"
-    excerpt: "The screening device leverages machine learning to identify certain biomarkers that may be indicative of COVID-19."
-    publishedDateTime: 2021-03-23T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/fda-approves-machine-learning-tool-for-covid-19-screening"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-181492494.jpg"
-        width: 700
-        height: 364
-        isCached: true
   - title: "There Are Issues with the COVID-19 Diagnosis Machine Learning Algorithms"
     excerpt: "A COVID-19 diagnosing machine learning model has issues — meaning these models are only as good as the datasets used to create them. Healthcare professionals and AI experts alike are warning about some issues they’ve identified in a machine learning ..."
     publishedDateTime: 2021-03-25T15:13:00Z

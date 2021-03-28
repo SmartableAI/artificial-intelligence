@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud?amp"
 type: article
 quality: 104
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
         width: 600
         height: 332
         isCached: true
-  - title: "Cybersecurity Fintech Raises $2M"
-    excerpt: "“While the fraudsters are mounting an AI arms-race, FiVerity has enabled banks and credit unions to stay ahead of the hackers and their cyber fraud schemes,” said Adrian Mendoza, founder and general partner with Mendoza Ventures. “We’ve seen ..."
-    publishedDateTime: 2021-03-23T14:49:00Z
-    webUrl: "https://www.bankerandtradesman.com/cybersecurity-fintech-raises-2m/"
-    type: article
-    provider:
-      name: Banker & Tradesman
-      domain: bankerandtradesman.com
-    quality: 39
-    images:
-      - url: "https://www.bankerandtradesman.com/wp-content/uploads/2017/05/iStock-585806700-1024x726.jpg"
-        width: 1024
-        height: 726
-        isCached: true
   - title: "RIA-Founded Fintech Introduces Next-Generation Tax Planning Tool"
     excerpt: "FP Alpha's AI-driven Tax Snapshot can instantly read and create planning recommendations from client tax forms."
     publishedDateTime: 2021-03-24T20:24:00Z
@@ -136,20 +122,6 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Obligo Named the Most Promising Israeli-Founded Fintech Startup in Lending and Financing for 2021"
-    excerpt: "As the only non-insurance deposit alternative, Obligo’s credit-based solution keeps landlords secure and renters accountable by combining Open Banking technology with AI-based underwriting and collection capabilities. Since launching its fintech solution ..."
-    publishedDateTime: 2021-03-23T14:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-financial-services-technology-corporate-news-23ad83bc04473cf226592105a4e8cc74"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Top 10 best countries to start a fintech"
     excerpt: "Fintech in the financial services market has been adopted quickly by certain demographics that for years have been underserved by the incumbent institutions. The US is also a world leader in technology and particularly AI innovations, which means its ..."

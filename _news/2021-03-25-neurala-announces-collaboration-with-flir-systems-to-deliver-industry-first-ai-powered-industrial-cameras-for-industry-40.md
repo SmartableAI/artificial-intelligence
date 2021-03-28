@@ -56,6 +56,20 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Self Driving Car Insurance: What You Need To Know"
+    excerpt: "Just like previous generations of cars, this new generation of vehicles comes with questions. The big question pertains to self-driving car insurance and how it will work."
+    publishedDateTime: 2021-03-26T16:48:00Z
+    webUrl: "https://www.caranddriver.com/car-insurance/a35950852/self-driving-car-insurance/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 39
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-vehicles-stand-outside-of-a-brooklyn-showroom-and-news-photo-1616776857.?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
 
 secured: "8/eC6sTb84F0EMM4jG6pD2gJ6k5Aq8M3R4z1u82QCbIsKrKwBMdJRou1sFE+v8WDYNySIZMY1aGp1ZcqP8i9GYwLHcCuazmsabjNiunMuwxIVvKl4VTLRnNm7w5Es/n8QbN1nTJC3zefeLfX7yoHGI//KmhBqzOQAw0gsj6HFdhPTPxGlX3oX7oHyOru/xcPxlj+Q6jvmuUcK8i86B4u9nElXy0JZYoZp88aHcNBHrfrQIXVqGoUXoH6wZR8Vdx5jmVvU66L8MbUbXJWLuQ0wCfdvERc4UXA7SqbCo8emfP4MPjyfTrlOgy1fxHxuV2BkdX0pNfPMPwJjfsIoOsJXbko93tkxP6Sjt36zMsImXI=;3r5JM44X/MefOL9+lAxXFg=="
 ---

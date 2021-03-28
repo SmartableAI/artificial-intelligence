@@ -2,6 +2,126 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-05-sources-tiktok-owner-makes-automotive-bet-with-investment-in-qcraft.md",
+      "title": "Sources: TikTok owner makes automotive bet with investment in QCraft",
+      "excerpt": "The development follows other tech giants making their own bets in the self-driving space, such as Baidu and Tencent. China, the world’s biggest vehicle market, is looking to have smart cars that have some measure of automation account for over half of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft#!",
+      "originalUrl": "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T23:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-ai-projects-yield-little-business-value-so-far.md",
+      "title": "AI projects yield little business value so far",
+      "excerpt": "Although growing numbers of organisations are working with artificial intelligence (AI ... would lead to fleets of thousands of small, driverless vehicles “coordinated in an orchestra of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far",
+      "originalUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/AI-projects-yield-little-business-value-so-far?amp=1",
+      "publishedDateTime": "2021-03-04T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-elon-musk-signals-big-update-for-full-self-driving.md",
+      "title": "Elon Musk Signals Big Update for ‘Full Self-Driving’",
+      "excerpt": "Elon Musk indicates that a major update to Full Self-Driving could arrive in April, and that FSD will be offered more widely. Full Self-Driving is expected to be offered by Tesla on a subscription ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoweek.com/news/technology/a35725519/elon-musk-updates-full-self-driving/",
+      "originalUrl": "https://www.autoweek.com/news/technology/a35725519/elon-musk-updates-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fsd2-1614871154.jpg?crop=1.00xw:0.893xh;0,0.107xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoweek.com/news/technology/amp35725519/elon-musk-updates-full-self-driving/",
+      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp35725519/elon-musk-updates-full-self-driving/",
+      "publishedDateTime": "2021-03-04T15:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoweek",
+        "domain": "autoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-tiktok-owner-bytedance-said-to-make-foray-into-smart-cars-with-investment-in-self-driving-start-up-qcraft.md",
       "title": "TikTok owner ByteDance said to make foray into smart cars with investment in self-driving start-up QCraft",
       "excerpt": "A ByteDance spokesman had no immediate comment. A representative for QCraft declined to comment. The deal, which may be announced as early as next week, follows a spate of similar investments and tie-ups between technology firms and car manufacturers,",
@@ -1319,155 +1439,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-driverless-bus-hits-streets-in-southern-spain.md",
-      "title": "Driverless bus hits streets in southern Spain",
-      "excerpt": "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
-      "originalUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/02/27/bus.jpg?itok=DnMiwaar",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
-      "publishedDateTime": "2021-02-26T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-aurora-acquires-a-second-lidar-company-in-push-to-bring-self-driving-trucks-to-the-road.md",
-      "title": "Aurora acquires a second lidar company in push to bring self-driving trucks to the road",
-      "excerpt": "Aurora, the autonomous vehicle company that recently closed its acquisition of Uber’s self-driving subsidiary, has snapped up another startup.  This time, Aurora is buying OURS Technology, the second lidar startup it has acquired in less than two years.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/26/aurora-acquires-a-second-lidar-company-in-push-to-bring-self-driving-trucks-to-the-road/",
-      "originalUrl": "https://techcrunch.com/2021/02/26/aurora-acquires-a-second-lidar-company-in-push-to-bring-self-driving-trucks-to-the-road/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/Project-Switch-Wafer.jpg?w=1024",
-          "width": 1024,
-          "height": 561,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/26/aurora-acquires-a-second-lidar-company-in-push-to-bring-self-driving-trucks-to-the-road/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/26/aurora-acquires-a-second-lidar-company-in-push-to-bring-self-driving-trucks-to-the-road/amp/",
-      "publishedDateTime": "2021-02-26T10:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks.md",
-      "title": "Aurora Buys Chip Startup To Cut Laser Lidar Costs For Robot Cars And Trucks",
-      "excerpt": "The self-driving tech developer is acquiring Silicon Valley startup OURS Technology to integrate its lidar sensor into a single chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/",
-      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60385e3c8ad3227117d6102c%2F0x0.jpg",
-          "width": 1200,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/amp/",
-      "publishedDateTime": "2021-02-26T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware",
-        "AI in Autos"
       ]
     }
   ],

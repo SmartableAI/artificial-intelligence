@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon AWS, Hugging Face team up to spread open-source deep learning"
-    excerpt: "Amazon's vice president of machine learning, in the same interview. The partnership consists of a few parts. Hugging Face has built two new services, AutoNLP and an Accelerated Inference API, have been built upon Amazon's SageMaker suite for AI."
-    publishedDateTime: 2021-03-23T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/"
+  - title: "AWS and Hugging Face Collaborate to Simplify and Accelerate Adoption of Natural Language Processing Models"
+    excerpt: "Just like computer vision a few years ago, the decade-old field of natural language processing (NLP) is experiencing a fascinating renaissance. Not a month goes by without a new breakthrough! Indeed, thanks to the scalability and cost-efficiency of cloud-based infrastructure, researchers are finally"
+    publishedDateTime: 2021-03-23T15:04:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 108
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/03/23/b303e223-69b6-4396-b744-102b4be9b771/aws-and-hugging-face-2021-for-placement.jpg"
-        width: 971
-        height: 462
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
   - title: "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing"
     excerpt: "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing - SiliconANGLE"
@@ -70,29 +68,6 @@ related:
         width: 613
         height: 315
         isCached: true
-  - title: "The Move to E-learning Is Heating Up"
-    excerpt: "Inexorable forces are propelling the growth of e-learning at a blistering pace. Online-learning markets were ignited by high education costs, business training programs and a wave of tech innovations,"
-    publishedDateTime: 2021-03-23T14:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/the-move-to-e-learning-is-heating-up-2021-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon and Red Hat Announce GA of Red Hat OpenShift Service on AWS"
-    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-    publishedDateTime: 2021-03-25T18:03:00Z
-    webUrl: "https://insidehpc.com/2021/03/amazon-and-red-hat-announce-ga-of-red-hat-openshift-service-on-aws/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 19
 
 secured: "Sw4d24ZHHvvkNbQaCrRqLgGnysi+WHeTDCDdEtVqIN1Hdrvqv1Sa2lbQDea8OUMUsOd6DJw9uDsTreMPC5YO4w35YPpHHEhm4KArIsSN6AZvfrLh2/bFQUR6q8h5xElJzu7pGQ68pOhjmWe4+3gPQWTMtwIZFvN6fiM0ZRA2Q2kHMd6+azvO8Poq456dElQXongTRJdQVoKSCrcZHkm7k+2LCwxpqh9M7IxTZool1424kZhzCuIepfAl5qCSTeuB/papbhASbsf4hyXCqaABUW979jWwNg9kPqKjNAYp8gKVUpFg+loiORJrmkP4uvtXzo5aibpSt0iZ5Xq99Kq3JWs62Ew/4tZi4MgxhuzQUlU=;8x2WrYfm7bS8Qb0DhsKGuQ=="
 ---

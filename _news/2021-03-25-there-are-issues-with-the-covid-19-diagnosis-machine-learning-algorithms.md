@@ -57,20 +57,6 @@ related:
         width: 777
         height: 518
         isCached: true
-  - title: "FDA Approves Machine Learning Tool for COVID-19 Screening"
-    excerpt: "The screening device leverages machine learning to identify certain biomarkers that may be indicative of COVID-19."
-    publishedDateTime: 2021-03-23T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/fda-approves-machine-learning-tool-for-covid-19-screening"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-181492494.jpg"
-        width: 700
-        height: 364
-        isCached: true
   - title: "AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19"
     excerpt: "Preventive Intervention • Public Health Technology Type(s) natural language processing objective • Artificial Intelligence Sample Characteristic - Environment anthropogenic environment Sample Characte"
     publishedDateTime: 2021-03-25T13:32:00Z

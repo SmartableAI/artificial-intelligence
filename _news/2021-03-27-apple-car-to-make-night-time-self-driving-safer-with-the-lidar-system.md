@@ -7,7 +7,7 @@ originalUrl: "https://technosports.co.in/2021/03/27/apple-car-to-make-night-time
 webUrl: "https://technosports.co.in/2021/03/27/apple-car-to-make-night-time-self-driving-safer-with-the-lidar-system/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,68 +23,6 @@ images:
     width: 1091
     height: 587
     isCached: true
-
-related:
-  - title: "Self-Driving Cars As Bait Cars To Catch Those Dastardly Car Thieves"
-    excerpt: "Shifting gears, we might ponder the future of cars and how the nature of a bait car activity might take place once there are self-driving cars prevalent on our roadways. Today’s interesting question is this: Might AI-based true self-driving cars be used ..."
-    publishedDateTime: 2021-03-23T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/23/self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60061cb0d96d6a22f3a3edb3%2F0x0.jpg%3FcropX1%3D384%26cropX2%3D5467%26cropY1%3D0%26cropY2%3D3547"
-        width: 1199
-        height: 837
-        isCached: true
-  - title: "Scavenger Hunts Via Self-Driving Cars"
-    excerpt: "People use conventional cars for undertaking driving-based scavenger hunts, so it is worth assessing how this might occur in an era of self-driving cars."
-    publishedDateTime: 2021-03-27T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff10626b5c1af8e4e22c948%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5753%26cropY1%3D493%26cropY2%3D3730"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Self Driving Car Insurance: What You Need To Know"
-    excerpt: "Just like previous generations of cars, this new generation of vehicles comes with questions. The big question pertains to self-driving car insurance and how it will work."
-    publishedDateTime: 2021-03-26T16:48:00Z
-    webUrl: "https://www.caranddriver.com/car-insurance/a35950852/self-driving-car-insurance/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 39
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-vehicles-stand-outside-of-a-brooklyn-showroom-and-news-photo-1616776857.?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
-  - title: "Chipotle Invests in Self-Driving Cars"
-    excerpt: "In February 2020, Nuro was the first to obtain a U.S. Department of Transportation exemption, and in April 2020, it became the second self-driving car company to receive a driverless testing permit in California. In October, Nuro started testing its ..."
-    publishedDateTime: 2021-03-25T14:05:00Z
-    webUrl: "https://www.qsrmagazine.com/fast-casual/chipotle-invests-self-driving-cars"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2020-11/Chipotledigital.jpg?itok=7mOnuKZ1"
-        width: 765
-        height: 446
-        isCached: true
 
 secured: "8ZN4dOTqu8ot36zJmGVANaspDo8YmY7zoTvt0N6z1TcdxV42nIYlfCmypXct/F5t7Xn0tn3CWbmhvImetUoI1xM7uRejAge4ojqV9rFL8WgAarrsV70dFj0TabzxxfNzihTtVPqEhCOPPTst56k5HXyj1M9ll9JFDr+tKWeaLtKV7T2X3bJ1LL18tqz6J1CPTC6ZwVV53WaD07+R824feiv/QNS27EVbaMEKr1Ww64r5MFGf3va3uP3QNVIn8goMyuCRQczOv1cRoiCtcKbBMXv6Az1v+KrXiDzpaq9qFZhXqDaGUmDRk5vBHzyDy1UeYQUmdlypzyssPhOErEiDYb75/X2G5oUpK60vAROUsSw=;fqOrN8oOZzGylIkX+sSBBQ=="
 ---

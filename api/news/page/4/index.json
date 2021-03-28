@@ -2,6 +2,146 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-24-reports-indicate-nintendo-switch-upgrade-will-use-new-nvidia-chips-to-achieve-4k-output.md",
+      "title": "Reports Indicate Nintendo Switch Upgrade Will Use New Nvidia Chips to Achieve 4K Output",
+      "excerpt": "Replacing the current Nvidia Tegra X1+ SoC will be something similar to what’s found with the Geforce RTX 20 and RTX 30 line of chips where Deep Learning Super-Sampling (DLSS) utilizes AI to ...",
+      "sourceUrl": null,
+      "webUrl": "https://hypebeast.com/2021/3/nintendo-switch-4k-nvidia-chip-upscale-news",
+      "originalUrl": "https://hypebeast.com/2021/3/nintendo-switch-4k-nvidia-chip-upscale-news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F03%2Fnintendo-switch-4k-nvidia-chip-upscale-news-01.jpg?quality=95&w=1170&cbr=1&q=90&fit=max",
+          "width": 1170,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hypebeast.com/2021/3/nintendo-switch-4k-nvidia-chip-upscale-news?amp=1",
+      "cdnAmpWebUrl": "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/3/nintendo-switch-4k-nvidia-chip-upscale-news?amp=1",
+      "publishedDateTime": "2021-03-24T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hypebeast",
+        "domain": "hypebeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-robotics-market-to-grow-at-a-cagr-of-491-until-2026.md",
+      "title": "Robotics Market to Grow at a CAGR of 4.91 % until 2026",
+      "excerpt": "Increase in the demand for automated systems and safety concerns for different online platforms to boost the global robotics market through 2026 According to TechSci Research report Global Robotics Market By Component Hardware and Software By Type Articulated Cartesian SCARA",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2260935/robotics-market-to-grow-at-a-cagr-of-4-91-until-2026",
+      "originalUrl": "https://www.openpr.com/news/2260935/robotics-market-to-grow-at-a-cagr-of-4-91-until-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U324568725_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2260935/robotics-market-to-grow-at-a-cagr-of-4-91-until-2026",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2260935/robotics-market-to-grow-at-a-cagr-of-4-91-until-2026",
+      "publishedDateTime": "2021-03-24T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-artificial-intelligence-in-security-market-trends-2021-business-size-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research.md",
+      "title": "Artificial Intelligence in Security Market: Trends 2021: Business Size & Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research",
+      "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-business-size-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-03-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-business-size-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-03-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-24T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "IBM AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-is-coffee-good-for-us-maybe-machine-learning-can-help-figure-it-out.md",
       "title": "Is Coffee Good for Us? Maybe Machine Learning Can Help Figure It Out.",
       "excerpt": "The advice from research on coffee, and nutrition more generally, always seems to be changing. Processing vast amounts of data could help us pin it down.",
@@ -106,7 +246,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/educational-robot-market-size-applications-new-technology-upcoming-trends-demand-and-forecast-till-2025-2021-03-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -659,7 +799,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -798,6 +938,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-23-tesla-delays-full-self-driving-beta-access-musk-promises-changes-next-month.md",
+      "title": "Tesla delays Full Self-Driving beta access, Musk promises changes next month",
+      "excerpt": "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "publishedDateTime": "2021-03-23T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models.md",
       "title": "AWS and Hugging Face Collaborate to Simplify and Accelerate Adoption of Natural Language Processing Models",
       "excerpt": "Just like computer vision a few years ago, the decade-old field of natural language processing (NLP) is experiencing a fascinating renaissance. Not a month goes by without a new breakthrough! Indeed, thanks to the scalability and cost-efficiency of cloud-based infrastructure, researchers are finally",
@@ -806,7 +998,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1048,199 +1240,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-scottish-government-ai-strategy-majors-on-ethics-and-inclusion.md",
-      "title": "Scottish government AI strategy majors on ethics and inclusion",
-      "excerpt": "The Scottish government has announced an artificial intelligence strategy that involves the creation of a Scottish AI Alliance to be drawn from across society, including trade unions and companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252498284/Scottish-government-AI-strategy-majors-on-ethics-and-inclusion",
-      "originalUrl": "https://www.computerweekly.com/news/252498284/Scottish-government-AI-strategy-majors-on-ethics-and-inclusion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252498284/Scottish-government-AI-strategy-majors-on-ethics-and-inclusion?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252498284/Scottish-government-AI-strategy-majors-on-ethics-and-inclusion?amp=1",
-      "publishedDateTime": "2021-03-23T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning.md",
-      "title": "Amazon AWS, Hugging Face team up to spread open-source deep learning",
-      "excerpt": "Amazon's vice president of machine learning, in the same interview. The partnership consists of a few parts. Hugging Face has built two new services, AutoNLP and an Accelerated Inference API, have been built upon Amazon's SageMaker suite for AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/23/b303e223-69b6-4396-b744-102b4be9b771/aws-and-hugging-face-2021-for-placement.jpg",
-          "width": 971,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning/",
-      "publishedDateTime": "2021-03-23T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-machine-translation-startup-language-io-raises-5m.md",
-      "title": "Machine translation startup Language I/O raises $5M",
-      "excerpt": "Language I/O, a startup developing machine translation software for domain-specific use cases, has raised $5 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/23/machine-translation-startup-language-i-o-raises-5m/",
-      "originalUrl": "https://venturebeat.com/2021/03/23/machine-translation-startup-language-i-o-raises-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/software-developer.GettyImages-1197071217.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/23/machine-translation-startup-language-i-o-raises-5m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/machine-translation-startup-language-i-o-raises-5m/amp/",
-      "publishedDateTime": "2021-03-23T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-tesla-cancels-full-self-driving-expansion-ahead-of-major-update.md",
-      "title": "Tesla cancels Full Self-Driving expansion ahead of major update",
-      "excerpt": "Tesla is delaying an upgrade to its Full Self-Driving software until a major development can be implemented in April. A new version was supposed to be",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update",
-      "originalUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/fsd-.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp",
-      "publishedDateTime": "2021-03-23T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

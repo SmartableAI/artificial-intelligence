@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/educational-robot-market
 webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-size-applications-new-technology-upcoming-trends-demand-and-forecast-till-2025-2021-03-24"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
         width: 344
         height: 344
-        isCached: true
-  - title: "Artificial Intelligence In Genomics Market by Offering, Technology, Functionality, Application, End-user - Global Forecasts to 2025 - ResearchAndMarke"
-    excerpt: "The \"Artificial Intelligence In Genomics Market by Offering (Software, Services),Technology (Machine Learning, Computer Vision), Functionality (Genome Sequencing, Gene Editing), Application (Diagnostics),"
-    publishedDateTime: 2021-03-23T13:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=441422"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "y4HjWhDMuNWgFwhLqDINggliwrcXK+bnuQk8zguEM0r1l2JFWcfj7QZjmq67qkfy4feUdQWkpa9zWapDA5zC/wgBRQvkp2gQdTd1nGI6Tzyd/ZYsK5AC0qdTIigLcSxqAWq5SHIdpF/Rn+uLu9UTKd70pw7H5OOin2uTvVe5W023rRNIzfGvcQv8nCCObzZVSxaRn2LRjwhOFGDjJHe3qUB0cx3DHtkSRZKrtSQuvz1pbKjati/dx8n8phD3THcuAqYfKvtu8NbA0QkTw6tYU3pOsnKunWCU/jVPG4s7k1WxE8x3MK83sgYviqa1yZtXOOVlTyklV6GpylfHQWGiA2F/5XcvIvreLhlixpBeSYE=;2DZilDe0ep48Tu6X4lxNVg=="

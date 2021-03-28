@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Genomics Market by Offering, Technology, Functionality, Application, End-user - Global Forecasts to 2025 - ResearchAndMarke"
-    excerpt: "The \"Artificial Intelligence In Genomics Market by Offering (Software, Services),Technology (Machine Learning, Computer Vision), Functionality (Genome Sequencing, Gene Editing), Application (Diagnostics),"
-    publishedDateTime: 2021-03-23T13:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=441422"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "TZP1CTOl4Hwa4f5FqjP8vniPmEAWFwIOGg48wOVL+vaazXjCfO/RMyCDaa5+9CfNkW9DxGXhLYiK+WG19gzZlF/XD0R0Utu0Yvj/z4J1ycYDUezg6UyMHIOK1oDaZUChCFVPxM6dOm6i9LYtIQhNpPDpg4USklOnsgS6XIE6jhg6hus0zQs5pYucQOU0IuGI6WgzQn8k1mqhmCESQ/fp7kW1jMaejrtbnd0p1iZ1NbwySvTj7DqmhL3Xz8mFH7TzASBRZfzuvcG9Lac4lg0JoYWmYqdnVXMdDLerQSAeJyFQLHpdCuXkWMkueEqSIuBIjd89ITEAFEurOmKXJzlIZAO8e+R3SwBw2wVJaJIJVuI=;8VIMTpaZgNpluAqYEW2A0Q=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Self Driving Car Insurance: What You Need To Know"
+    excerpt: "Just like previous generations of cars, this new generation of vehicles comes with questions. The big question pertains to self-driving car insurance and how it will work."
+    publishedDateTime: 2021-03-26T16:48:00Z
+    webUrl: "https://www.caranddriver.com/car-insurance/a35950852/self-driving-car-insurance/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 39
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-vehicles-stand-outside-of-a-brooklyn-showroom-and-news-photo-1616776857.?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Neurala Announces Collaboration with FLIR Systems to Deliver Industry-First AI-Powered Industrial Cameras for Industry 4.0"
     excerpt: "Neurala, the leader in vision AI software, announced a collaboration with FLIR Systems Inc. to deliver a full software and hardware stack AI-based industrial imaging solution. Neurala’s vision AI software unlocks the power of deep learning with no-AI-expertise-required,"
     publishedDateTime: 2021-03-25T06:29:00Z

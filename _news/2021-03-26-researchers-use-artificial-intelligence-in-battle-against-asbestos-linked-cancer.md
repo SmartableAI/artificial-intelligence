@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
-excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer."
-publishedDateTime: 2021-03-26T11:43:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20210326/3730438.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20210326/3730438.html"
+excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI) to study an aggressive form of cancer, which could improve patient outcomes."
+publishedDateTime: 2021-03-26T09:10:00Z
+originalUrl: "https://www.aninews.in/news/science/researchers-use-artificial-intelligence-in-battle-against-asbestos-linked-cancer20210326164008/"
+webUrl: "https://www.aninews.in/news/science/researchers-use-artificial-intelligence-in-battle-against-asbestos-linked-cancer20210326164008/"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Asian News International
+  domain: aninews.in
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://aniportalimages.s3.amazonaws.com/media/details/ai_oct10_asdfhhasdfhdsf_mXMGzvD.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "AI study on aggressive form of cancer could improve patient outcomes"
@@ -77,6 +83,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "n5z1MTtQ309ZqwEzQU4GNiqtQ5RSuD1lq8iELUAOdpWmxzIZ4xOKu01mmrsv0vG9/s/OtKRxl9izeC8h+46WX/qIwjRC8pxV/L1LscaWIk1vT8KkGqrhqyBIDiGyHWg7PcnG+9zv5QhcmQ8Q5b1HIIK/flnkv7P82vdsLRzFw5kTHMPyFUC9eh04tCpuWG4qIyUdgqO/XWbznrGhSsl/ioC/l1FTRNGH3ZZ81TW/105h0pbW6iaQclVNRe4U0g5L0+jVUeuTiUlRAPhjY0OcjdkbkzdgaIi8aozB889/x+rkA7zRxwGRG+WBSHKpK0EwPvyijbwWljpfEKTCfmNaDWrUC92UcsTPVQdDBnSMWvc=;6VuRUS/cI3AsxJWQxjwpsA=="
+secured: "fUg1dCH0YkeCrEWLTiqW3Xb44rC4odGk1wwadEOQYBw97YlySI+sfFJszDWJPSok6iCSW8yPsAn2lt/Jfwdud5JH9OzdLEJYu7XiM9tto+6u7b53w6IBsBUT9Jry6cmmxwfVacyze15rji6442DSU/8OoDHSv6WPEfB9VYfYnUaQWtlrS6+e+BS59dzzT3GW+qxAQTU1yFDztVNdS6H+lbikD6cdo/sPOE8deywMzI+AAvKstTH2QuFoLBqzMH2x2MtPtzS7UbgvMEJ5q3cxL8lMU6bqucgwdQQ61PyfmxCn8wkIaRuZch+5MjxRypPv8e1Cg780TUZkfNao2xWVF5qSuMk5YIq0YHKfStgNgXw=;rf0OOHEy/0IsXCZTsKLCew=="
 ---
 

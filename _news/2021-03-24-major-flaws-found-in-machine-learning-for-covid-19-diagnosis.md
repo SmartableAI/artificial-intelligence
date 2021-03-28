@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/23/major-flaws-found-in-machine-lear
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/major-flaws-found-in-machine-learning-for-covid-19-diagnosis/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg"
         width: 777
         height: 518
-        isCached: true
-  - title: "FDA Approves Machine Learning Tool for COVID-19 Screening"
-    excerpt: "The screening device leverages machine learning to identify certain biomarkers that may be indicative of COVID-19."
-    publishedDateTime: 2021-03-23T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/fda-approves-machine-learning-tool-for-covid-19-screening"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-181492494.jpg"
-        width: 700
-        height: 364
         isCached: true
   - title: "There Are Issues with the COVID-19 Diagnosis Machine Learning Algorithms"
     excerpt: "A COVID-19 diagnosing machine learning model has issues — meaning these models are only as good as the datasets used to create them. Healthcare professionals and AI experts alike are warning about some issues they’ve identified in a machine learning ..."

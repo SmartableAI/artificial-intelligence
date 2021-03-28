@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Underage teen gets in Tesla’s back seat and claims it was self-driving after being pulled over by police"
+    excerpt: "Both girls claimed that no one was driving the vehicle and that the Tesla was self-driving. While Tesla does sell a “Full Self-Driving package,” the feature-complete version of the package is ..."
+    publishedDateTime: 2021-03-26T13:44:00Z
+    webUrl: "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/"
+    ampWebUrl: "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 87
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-driver-back-seat.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla Pseudo LIDAR Using Just Cameras And Imminent Acceleration of Self Driving Improvement"
+    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
+    publishedDateTime: 2021-03-25T23:45:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 66
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2017/12/7180bfad19f2195c59f8a445e080234a-1024x632.jpeg"
+        width: 1024
+        height: 632
+        isCached: true
   - title: "Self-driving Tesla smashes into police car as teen blames ‘autopilot’"
     excerpt: "Two teenagers blamed the “autopilot” function of the Tesla they were in when it crashed into a police car. But police in Florida’s Palm Coast say there’s more to the story. The crash took place last week after police pulled over the 2018 Tesla ..."
     publishedDateTime: 2021-03-25T22:27:00Z
@@ -42,6 +74,34 @@ related:
       - url: "https://images.s.7news.com.au/publication/C-2441165/7c3306b2a546f9d44761167ae47d47936d6cb3fd-16x9-x0y54w1024h576.jpg?imwidth=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Tesla’s Full Self-Driving Capability: Unsafe at any Speed"
+    excerpt: "Tesla’s Full Self-Driving Capability poses perhaps the biggest challenge to automobile safety regulators since the publication of Nader’s book in 1965. Social media sites and the media are replete with images of Tesla owners sleeping, playing the ..."
+    publishedDateTime: 2021-03-23T15:43:00Z
+    webUrl: "https://www.law.com/texaslawyer/2021/03/23/teslas-full-self-driving-capability-unsafe-at-any-speed/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/401/2021/03/Tesla-Crash-Utah-Article-202103231451.jpg"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "No, Self-Driving Tesla Was Not on Autopilot When It Took Wrong Turn or Backed Into Flagler Sheriff’s Patrol Car"
+    excerpt: "Two girls, 15 and 14, were in the Tesla. No adults were. The Tesla can be self-driving. But the girls were driving illegally. This afternoon, the Flagler County Sheriff’s Office issued a release ..."
+    publishedDateTime: 2021-03-25T20:45:00Z
+    webUrl: "https://flaglerlive.com/161956/tesla-deputy-crash/"
+    type: article
+    provider:
+      name: Flagler Live
+      domain: flaglerlive.com
+    quality: 19
+    images:
+      - url: "https://flaglerlive.com/wp-content/uploads/self-driving-vehicle-1.jpg"
+        width: 1000
+        height: 537
         isCached: true
 
 secured: "Tc8e+/vzatY2D7kJGenNf2E9vMe++7cJ+nCD8tDo+0f0XqaL18uHZ54wX53PezOk1NZWhFeAmRXKUYFEl7zO+5TlZYYo1pXwPbGWasZPhSvc/lAx5nv4tgOHeW1aiY97DFN285irQrHEShktHj0hiw3QkAZbD4v3fhBFGvWBae3PdgMTAvy6T3VJLQCux/cUQOOk6vxedx7ezqasQZxS5w+3xxiIvUJzpDOAVjCYoZDJhCO5S2crH/RQl5is3oqkUK3FT4652Ni83DFOIjguU++633/qoN72sKNpmUOhql4I4tO55tkePu6cK6+sIV20AETMG3Hdsp7YILj1/cnfhqzNnQ0EbUlcRkvniT/C+9ZyfHsMPlXUZBjtGVOt8XsWQ51gYNVcdeWmVtt+c0uc7CxdvLdfuHlOQ1p6cFjxRjJA5wPkwpQ3KtCdp+bihCKIEKrOOxFU6b1O0xXgj58qmDlBN86/ocbjJsgGucSbXB+u61IT+/Wdu/i6XbkIlk9ibN8TzJSwUqCxQWeq+1XWWg==;xkwZIjmk1IMKEH6dJFaWEg=="

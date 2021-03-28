@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scottish government AI strategy majors on ethics and inclusion"
-    excerpt: "The Scottish government has announced an artificial intelligence strategy that involves the creation of a Scottish AI Alliance to be drawn from across society, including trade unions and companies."
-    publishedDateTime: 2021-03-23T14:02:00Z
-    webUrl: "https://www.computerweekly.com/news/252498284/Scottish-government-AI-strategy-majors-on-ethics-and-inclusion"
-    ampWebUrl: "https://www.computerweekly.com/news/252498284/Scottish-government-AI-strategy-majors-on-ethics-and-inclusion?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252498284/Scottish-government-AI-strategy-majors-on-ethics-and-inclusion?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
   - title: "Scotland launches AI strategy with a focus on ethics and inclusion"
     excerpt: "The Scottish government has set out plans to focus on ethics and inclusion in its use of artificial intelligence (AI) within the public sector, publishing an AI strategy that maps out a set of new bodies and governance structures."
     publishedDateTime: 2021-03-26T19:02:00Z

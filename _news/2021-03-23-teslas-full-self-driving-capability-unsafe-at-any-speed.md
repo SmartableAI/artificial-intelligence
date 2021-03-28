@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla cancels Full Self-Driving expansion ahead of major update"
-    excerpt: "Tesla is delaying an upgrade to its Full Self-Driving software until a major development can be implemented in April. A new version was supposed to be"
-    publishedDateTime: 2021-03-23T13:19:00Z
-    webUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update"
-    ampWebUrl: "https://www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/tesla-cancels-full-self-driving-expansion-update.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 89
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/fsd-.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Underage teen gets in Tesla’s back seat and claims it was self-driving after being pulled over by police"
     excerpt: "Both girls claimed that no one was driving the vehicle and that the Tesla was self-driving. While Tesla does sell a “Full Self-Driving package,” the feature-complete version of the package is ..."
     publishedDateTime: 2021-03-26T13:44:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-driver-back-seat.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla delays Full Self-Driving beta access, Musk promises changes next month"
-    excerpt: "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0."
-    publishedDateTime: 2021-03-23T15:35:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 86
-    images:
-      - url: "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tesla Pseudo LIDAR Using Just Cameras And Imminent Acceleration of Self Driving Improvement"
     excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
@@ -89,19 +57,37 @@ related:
         width: 1024
         height: 632
         isCached: true
-  - title: "S. Korea to invest 1.1 trillion in Level 4 self-driving technology"
-    excerpt: "South Korea plans to spend 1.1 trillion won by 2027 to support 84 projects in hastening its Level 4 self-driving vehicle development while boosting related technologies. At Level 4, the vehicle does not require"
-    publishedDateTime: 2021-03-23T23:10:00Z
-    webUrl: "https://www.econotimes.com/S-Korea-to-invest-11-trillion-in-Level-4-self-driving-technology-1604977"
+  - title: "Self-driving Tesla smashes into police car as teen blames ‘autopilot’"
+    excerpt: "Two teenagers blamed the “autopilot” function of the Tesla they were in when it crashed into a police car. But police in Florida’s Palm Coast say there’s more to the story. The crash took place last week after police pulled over the 2018 Tesla ..."
+    publishedDateTime: 2021-03-25T22:27:00Z
+    webUrl: "https://7news.com.au/travel/driving/self-driving-tesla-smashes-into-police-car-as-teen-blames-autopilot-c-2441165"
+    ampWebUrl: "https://7news.com.au/travel/driving/self-driving-tesla-smashes-into-police-car-as-teen-blames-autopilot-c-2441165.amp"
+    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/travel/driving/self-driving-tesla-smashes-into-police-car-as-teen-blames-autopilot-c-2441165.amp"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 24
+      name: 7news
+      domain: 7news.com.au
+    quality: 59
     images:
-      - url: "https://s1.econotimes.com/assets/uploads/2021032387e542db94f94cd19_th_1024x0.jpeg"
+      - url: "https://images.s.7news.com.au/publication/C-2441165/7c3306b2a546f9d44761167ae47d47936d6cb3fd-16x9-x0y54w1024h576.jpg?imwidth=1024"
         width: 1024
-        height: 768
+        height: 576
+        isCached: true
+  - title: "Self-driving Tesla crashes into Florida deputy’s cruiser; underage teen cited"
+    excerpt: "Two teens say they were not driving a Tesla in the wrong direction in Flagler County because it was on autopilot."
+    publishedDateTime: 2021-03-25T17:07:00Z
+    webUrl: "https://www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/"
+    ampWebUrl: "https://www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/?outputType=amp"
+    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/?outputType=amp"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 56
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/2CBNPQGD4NAERJKYEET4FITK7E.PNG"
+        width: 945
+        height: 531
         isCached: true
   - title: "No, Self-Driving Tesla Was Not on Autopilot When It Took Wrong Turn or Backed Into Flagler Sheriff’s Patrol Car"
     excerpt: "Two girls, 15 and 14, were in the Tesla. No adults were. The Tesla can be self-driving. But the girls were driving illegally. This afternoon, the Flagler County Sheriff’s Office issued a release ..."

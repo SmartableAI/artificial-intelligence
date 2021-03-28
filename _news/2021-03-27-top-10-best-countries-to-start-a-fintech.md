@@ -99,20 +99,6 @@ related:
         width: 600
         height: 332
         isCached: true
-  - title: "Cybersecurity Fintech Raises $2M"
-    excerpt: "“While the fraudsters are mounting an AI arms-race, FiVerity has enabled banks and credit unions to stay ahead of the hackers and their cyber fraud schemes,” said Adrian Mendoza, founder and general partner with Mendoza Ventures. “We’ve seen ..."
-    publishedDateTime: 2021-03-23T14:49:00Z
-    webUrl: "https://www.bankerandtradesman.com/cybersecurity-fintech-raises-2m/"
-    type: article
-    provider:
-      name: Banker & Tradesman
-      domain: bankerandtradesman.com
-    quality: 39
-    images:
-      - url: "https://www.bankerandtradesman.com/wp-content/uploads/2017/05/iStock-585806700-1024x726.jpg"
-        width: 1024
-        height: 726
-        isCached: true
   - title: "RIA-Founded Fintech Introduces Next-Generation Tax Planning Tool"
     excerpt: "FP Alpha's AI-driven Tax Snapshot can instantly read and create planning recommendations from client tax forms."
     publishedDateTime: 2021-03-24T20:24:00Z
@@ -140,20 +126,6 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Obligo Named the Most Promising Israeli-Founded Fintech Startup in Lending and Financing for 2021"
-    excerpt: "As the only non-insurance deposit alternative, Obligo’s credit-based solution keeps landlords secure and renters accountable by combining Open Banking technology with AI-based underwriting and collection capabilities. Since launching its fintech solution ..."
-    publishedDateTime: 2021-03-23T14:12:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-financial-services-technology-corporate-news-23ad83bc04473cf226592105a4e8cc74"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "XubAFDeUPHs8/xBEKJe3diVemb3h5xVAnr7FT/PoUAMegwHjVEuD9eihmbxPgYli5Cb6pPNJJjlohXIYDK8GZ1ZNeZpxICNwrCQEp0iYegxXT2PmxLOUF0h6zFzPcHrw3HiySgCcemy945dRfXz0KTTmJ8myk2khFXSl23EoSCtqLL/Qgerl4nFFUVtKfWPgjM4CJxP4aTBX7sqnNkqggGIk0y7x73LpTi/nPfI9SwrIAMv7gfQwtCN9mQwOIUsLwqcrViZoOU2WjKRZ0EeQfQg53TJF7HI5lLPM7tyv8ntcL3Dbk1bL5SlzPzvYAZlngn2US2FeXSqbpL/8tZkpACVzJHfNUtlKmNQ5Wyk0P+Y=;FkY0qMyxo7bhyd4b67nTIg=="
