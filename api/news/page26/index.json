@@ -2,110 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2021-03-04-ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12.md",
-      "title": "Ma il Fintech in Italia è vero boom? Rappresenta lo 0,25% dei volumi del credito complessivo alle imprese, ma sulle Pmi sale all’1,2%",
-      "excerpt": "Ma è vero boom del Fintech in Italia o dobbiamo recuperare un gap rispetto a realtà più avanzate e rimboccarci le maniche per migliorare la performance e aumentare la quota di mercato? La più grande b",
-      "sourceUrl": null,
-      "webUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/",
-      "originalUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.repstatic.it/cless-mobile/main/amp/2016-v1/img/adv/businessinsider/ad_placeholder_300x250.png",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/amp/",
-      "cdnAmpWebUrl": "https://it-businessinsider-com.cdn.ampproject.org/c/s/it.businessinsider.com/ma-il-fintech-in-italia-e-vero-boom-rappresenta-lo-025-dei-volumi-del-credito-complessivo-alle-imprese-ma-sulle-pmi-sale-all12/amp/",
-      "publishedDateTime": "2021-03-04T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider Italia",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-fintech-tools-to-help-you-master-money-mindfulness-in-2021.md",
-      "title": "Fintech Tools To Help You Master Money Mindfulness In 2021",
-      "excerpt": "Mindfulness” is one of those zeitgeisty words that has invaded everything from beauty routines to breakfast cereal. Myriad brands promise mindful solutions to eating, exercising and using technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/",
-      "originalUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2021/03/getty_bounced-check_030321-568x322.jpg",
-          "width": 660,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp",
-      "publishedDateTime": "2021-03-04T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-04-baidu-said-to-win-hong-kong-bourse-nod-for-second-listing.md",
       "title": "Baidu Said to Win Hong Kong Bourse Nod for Second Listing",
       "excerpt": "The tie-up is intended to help Baidu deploy its Apollo self-driving tech in more vehicles, a person familiar with the matter has said.",
@@ -1138,6 +1034,109 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-how-tytocare-uses-ai-to-improve-diagnostic-care.md",
+      "title": "How TytoCare uses AI to improve diagnostic care",
+      "excerpt": "TytoCare, a startup developing an AI-powered telehealth platform, raised $50 million in venture capital backing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/",
+      "originalUrl": "https://venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/1200x630.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/amp/",
+      "publishedDateTime": "2021-03-03T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market to reach US$ 107,797.82 million by 2027 – Arterys, Alphabet, Nuance Communications, Intel",
+      "excerpt": "According to our new research study on “ Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 – COVID-19 Impact and Global Analysis – by Component, Application, and End User,” the market is expected to reach US$ 107,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T19:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

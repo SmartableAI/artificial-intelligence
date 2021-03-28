@@ -43,22 +43,6 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "Self-driving truck startup TuSimple files to go public"
-    excerpt: "TuSimple, the self-driving truck company that is backed by a diverse consortium of strategic investors, including Volkswagen AG’s heavy-truck business The Traton Group, Navistar, Goodyear, and freight company U."
-    publishedDateTime: 2021-03-23T20:56:00Z
-    webUrl: "https://techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/"
-    ampWebUrl: "https://techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 174
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Self-driving truck startup Kodiak and China's Hesai partner up"
     excerpt: "Silicon Valley self-driving truck startup Kodiak Robotics Inc. and Shanghai-based lidar maker Hesai Technology Co. on Wednesday announced a partnership to integrate Chinese lidar technology into autonomous trucks."
     publishedDateTime: 2021-03-24T13:03:00Z

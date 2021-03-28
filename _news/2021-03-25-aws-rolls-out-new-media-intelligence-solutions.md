@@ -43,20 +43,6 @@ related:
         width: 400
         height: 333
         isCached: true
-  - title: "AWS Releases AWS Media Intelligence Solutions"
-    excerpt: "SEATTLE—Amazon Web Services is now offering AWS Media Intelligence Solutions (AWS MI), which is a. AWS MI is meant to allow users to analyze media, improve content engagement rates, reduce operational costs and increase the lifetime value of media content."
-    publishedDateTime: 2021-03-23T19:19:00Z
-    webUrl: "https://www.tvtechnology.com/equipment/aws-releases-aws-media-intelligence-solutions"
-    type: article
-    provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/vvRV4iVHmPqNJN9cFE7FYd-1200-80.png"
-        width: 745
-        height: 419
-        isCached: true
   - title: "EditShare Announces Support for AWS Media Intelligence Solutions"
     excerpt: "EditShare, a technology leader that specializes in collaboration, security, and intelligent storage solutions for media creation and management, announces support for the Amazon Web"
     publishedDateTime: 2021-03-24T13:00:00Z

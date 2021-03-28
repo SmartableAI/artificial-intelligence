@@ -81,6 +81,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "AI might prove helpful against asbestos-linked cancer"
+    excerpt: "These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer ... genomics research led by the University of Leicester used artificial intelligence (AI) to study an aggressive form of cancer, which could be helpful in ..."
+    publishedDateTime: 2021-03-28T12:00:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/268257780/ai-might-prove-helpful-against-asbestos-linked-cancer"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1616932784.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "E9Q8be8y7QkyoCtK2j6qHl7DIKioSp3BRaE6dLt3P8hclnk6wHY8mrJKw6ge17LJozfqEmAedp55tLHBHDxvl/+wCozI64qdPOElgfAIaXoIAer64O9klCMEv1T4dUEnL/rEdtsFT2v2i/9CPYE3DQ80hGI8GkvgAfGLH+3dfn8XFTQjJxvSL+hscI/mjgvCvraiDB6U8Rt3lrYnuVHtkQrF3zdHZj9Wh3Gz7gYORjwk8lfvB7SeD3VLP7qM4Lcy8R1QptbtzewXpe6BZLi1mOycg1X3jz3HVwLpy/K3Dnvt1TNy16Lf4ECdvYjF5kFBUChzwMn03194uo/pzJ1DpMWxgmspuGLKJng19zwVzLM=;ofuJobIIMzUlBeNVa7Wb0w=="
 ---

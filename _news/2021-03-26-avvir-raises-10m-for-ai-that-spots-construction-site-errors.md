@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spot
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/avvir-raises-10m-for-ai-that-spots-construction-site-errors/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     width: 1200
     height: 789
     isCached: true
+
+related:
+  - title: "Avvir raises $10M for AI that spots construction site errors"
+    excerpt: "Avvir, a startup applying AI to monitor construction projects for errors, has raised $10 million in venture capital.Read MoreRead more on"
+    publishedDateTime: 2021-03-27T14:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/avvir-raises-$10m-for-ai-that-spots-construction-site-errors-9958261"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/avvir-raises-$10m-for-ai-that-spots-construction-site-errors-9958261"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/avvir-raises-$10m-for-ai-that-spots-construction-site-errors-9958261"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
 
 secured: "WClccLWnp3XAb0nptlosfATfvKHzQNDLuqXqS2xh0fdqjQhqCyIhtIDyT8U/WDusahocLNg4DSrP8HTjSyui6myxmC4iPeYbplC+nUjcaDKrHxWq0O1OoR+ZyN1Gv51lYhy1sr5SoCWDhVuaNeWUReA3uPtulw37ashws6dPvNvd1ax4wLjiMhwTTSeU4DkcJ46rCrrnmyuxXBp+r2Nt22aw0kaHoe6OpIvIRjuNsnL+gzgy6+dAC5ePnNT/kgAR+jNQxyrbPAOLu24znbGDJ4w7ywLNeM9Ozv8R7n+8Fya3E8h0K+Y2BIcmbiOt0wYeB1+LFYrVWmdBYtuq13fgOCHOrxkUmDSp6roDybkz1dvLaJGCWReJe6jlsqRZGT9tRIat9CHK6U3vuvYePGv5ihLcXX277x8S/q3M9+NIIFXEYEUR9CPgZSc5f219B9SvBoYtbMtsi8ZBmbYlAKHhZ/AgDZpRk5kNK9oKvbxJCepdKnCvwQLAndIRwg+ScZHvFDESny3P05pRLQacQyunow==;fxWYHfNEihO4PHunw6z2cA=="
 ---

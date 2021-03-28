@@ -43,22 +43,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Disney begins testing facial recognition technology at Magic Kingdom"
-    excerpt: "CONTROVERSIAL. MICHELLE: IT’S TECHNOLOGY THAT’S BEEN AROUND A WHILE. FACIAL RECOGNITION THE IMAGE OF YOUR FACE IS CAPTURED, THEN THAT IMAGE IS ASSIGNED A UNIQUE NUMBER THAT IDENTIFIES YOU. AND IT’S TECHNOLOGY DISNEY NOW TESTING AS A WAY TO GE GUESTS ..."
-    publishedDateTime: 2021-03-23T21:01:00Z
-    webUrl: "https://www.wesh.com/article/disney-facial-recognition-technology-magic-kingdom/35914380"
-    ampWebUrl: "https://www.wesh.com/amp/article/disney-facial-recognition-technology-magic-kingdom/35914380"
-    cdnAmpWebUrl: "https://www-wesh-com.cdn.ampproject.org/c/s/www.wesh.com/amp/article/disney-facial-recognition-technology-magic-kingdom/35914380"
-    type: article
-    provider:
-      name: WESH
-      domain: wesh.com
-    quality: 59
-    images:
-      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/ap20184708236272.jpg?crop=1.00xw:0.846xh;0,0.0978xh&resize=1200:*"
-        width: 1024
-        height: 577
-        isCached: true
   - title: "Walt Disney World begins testing facial recognition technology"
     excerpt: "Could park-goers be using facial recognition to enter Walt Disney World in the near future? A test running at the Magic Kingdom is working to determine just that. Starting March 23, guests planning to visit the Magic Kingdom have the option to participate in trying out Disney's facial recognition technology."
     publishedDateTime: 2021-03-23T22:43:00Z
@@ -198,20 +182,6 @@ related:
     quality: 39
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/ac15c0b/2147483647/strip/true/crop/1015x533+74+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F410%2Fb9cd621bb5cc43d8b6bdc641d1acdca8%2F410e1f74cd8f4971b399abb2e71848e1%2Fposter_09681a7be839427787fe1597efb4eee0.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Disney World Is Testing Out Facial Recognition For Entry To The Park"
-    excerpt: "Disney World unveiled facial recognition technology at the park’s entrance Tuesday, announcing it would be testing the new technology on a completely voluntary basis over the course of the next month. “At Walt Disney World Resort, we're always looking ..."
-    publishedDateTime: 2021-03-23T20:36:00Z
-    webUrl: "https://www.romper.com/entertainment/disney-world-is-testing-out-facial-recognition-for-entry-to-the-park"
-    type: article
-    provider:
-      name: Romper
-      domain: romper.com
-    quality: 39
-    images:
-      - url: "https://imgix.bustle.com/uploads/getty/2021/3/23/7f7772a7-f046-425c-b20a-d2417f2abaac-getty-1163276945.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
         width: 1200
         height: 630
         isCached: true

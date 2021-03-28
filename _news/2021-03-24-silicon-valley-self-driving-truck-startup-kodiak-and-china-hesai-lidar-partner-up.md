@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BG1I6"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BG1I6"
 type: article
 quality: 184
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup TuSimple files to go public"
-    excerpt: "TuSimple, the self-driving truck company that is backed by a diverse consortium of strategic investors, including Volkswagen AG’s heavy-truck business The Traton Group, Navistar, Goodyear, and freight company U."
-    publishedDateTime: 2021-03-23T20:56:00Z
-    webUrl: "https://techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/"
-    ampWebUrl: "https://techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/23/self-driving-truck-startup-tusimple-files-to-go-public/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 174
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Self-driving Truck Startup TuSimple Files For Public Ownership"
     excerpt: "Self-driving truck startup TuSimple filed on Tuesday to become a public company. It is seeking to sell at least $100 million in shares. It could sell as much as $1 billion"
     publishedDateTime: 2021-03-24T15:23:00Z

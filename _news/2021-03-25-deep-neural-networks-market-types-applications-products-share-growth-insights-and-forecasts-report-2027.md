@@ -29,35 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Educational Robot Market Size, Applications, New Technology, Upcoming Trends, Demand and Forecast till 2025"
-    excerpt: "Get a sample copy of this Report: https://www.imarcgroup.com/educational-robot-market/requestsample The growing trend of digitization, along with the rising utilization of artificial intelligence (AI) and machine learning (ML) technologies in the education ..."
-    publishedDateTime: 2021-03-24T06:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-size-applications-new-technology-upcoming-trends-demand-and-forecast-till-2025-2021-03-24"
+  - title: "Artificial Intelligence (AI) In Sports Market Value Projected To Reach US$ 3,555.9 Million By 2027: Acumen Research And Consulting"
+    excerpt: "The Global Artificial Intelligence (AI) in Sports Market is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and reach the market value of over US$ 3,555.9 Mn by 2027. Artificial intelligence in sports is estimated to experience prominent growth over the forecast period from 2020 to 2027."
+    publishedDateTime: 2021-03-26T00:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting-2021-03-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Military Market by Offering, Technology, Application, Installation Type, Platform and Region - Global Forecast to 2025"
-    excerpt: "The \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type, Platform, Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-03-26T11:56:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
-    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
-    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 20
-    images:
-      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
-        width: 344
-        height: 344
         isCached: true
 
 secured: "wie8h8eDkgPBXgD96EEUrCiFMsMVKEnmoGEcAZvGvZSOhchncq3TS1yXzfUFtP63/zeCVkgzHmFXGvZdVT+TlytWsbfIT5G50MAXv8PHxxmaSc1FQl2PgmesXFIArQ3OfDaQM95EuOYv8Q55URmWqRtAD6RZaMNWBrXphuIYdP8LUeSaANAin0aDKXgH65lVU3FwLVIma9skzSR/lha5G0sI0svocPbFY24Ig19GQge8WU/OWj06ze5HiTrUpf/zSeTMYVKMpa3MwVqBTNS2dbnDolIzVWQPNFitXbzPVT97UuBJSSDoUnsW5WGJeTqRYUcqskfX8dQ+mxGIJhSh3WrEPYkLOKkTz/9E7veKIjY=;BihXv3hgbVo2v2SIG4XjVA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-healt
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-artificial-intelligence-health-equity.amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "3 Questions: Artificial intelligence for health care equity"
-    excerpt: "MIT faculty members Regina Barzilay, Fotini Christia, and Collin Stultz describe how artificial intelligence and machine learning can support fairness, personalization, and inclusiveness in health care."
-    publishedDateTime: 2021-03-23T20:15:00Z
-    webUrl: "https://news.mit.edu/2021/3-questions-barzilay-christia-stultz-ai-health-care-equity-0323"
+  - title: "6 Awesome Health Apps for Virtual Care"
+    excerpt: "and the pandemic has only solidified the need for telehealth and remote healthcare. So, these apps are likely here to stay. Tech companies have more than met the moment, building and harnessing artificial intelligence (AI) and high-tech algorithms to ..."
+    publishedDateTime: 2021-03-24T20:43:00Z
+    webUrl: "https://www.healthcentral.com/article/health-apps-bring-medical-care-to-you"
+    ampWebUrl: "https://www.healthcentral.com/amp/article/health-apps-bring-medical-care-to-you"
+    cdnAmpWebUrl: "https://www-healthcentral-com.cdn.ampproject.org/c/s/www.healthcentral.com/amp/article/health-apps-bring-medical-care-to-you"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
+      name: HealthCentral
+      domain: healthcentral.com
+    quality: 44
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202103/Barzilay-Stultz-Christia_V3_0.png"
-        width: 948
-        height: 632
+      - url: "https://images.ctfassets.net/yixw23k2v6vo/0blNrk9dnuUPBFhSk1CKY/81ca3da06d8f5c4e5add211c5af303c1/iStock-1220059468.jpg"
+        width: 2400
+        height: 1600
         isCached: true
 
 secured: "dBEY9lRA2jyhM/5OWUWAXKTAh525BwDFHMDqsJ5cRq0tc7f9QJUiqJvxFttx/7rMdEEhN9izhMSuo9xgC502LFv3ayRwdjUJa1oGtSnJkWxustXILmavtWblyaKP69nFuixaSj1RLE2yWeACYipgQ9rRknMQEi93xWqFjqGA6Iu64I91BPbQkyLFK95lKJ2j+bv70SUbIKJCDfioMdvLRPK/4tqJ16eIJZRMTpAc5BsmCCjtzzi18s0Cgd8e3fpAUtT/cbkVAc2Yps+lBCMjcPsHrDWmclTIWcTEH4msfInuo5yjAi341mBGeHwaN6lF6c4S+iBCGpfe/Dr08CxFpolHuRZ13axHEgs8SNx4xzcbRXoPeb3t8XBD8ngEytvygEdzytzlb+FLzmnGxhXFghTo7o7TG0h3AnPHJLxmfRJEAAsn8dfHel6oPTy9gw8GYHWaOoFLbju0kXYuZbqD/dbvtmx/K46FCrWH/JeKUHIFt4U1n/ZozRI5AkIkbpqwCavEqL1pt11vPCS4XRMDbg==;hPm62qhbtc0W/VUCaMM2cA=="

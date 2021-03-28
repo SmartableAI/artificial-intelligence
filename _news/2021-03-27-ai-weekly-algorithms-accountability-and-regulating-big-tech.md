@@ -1,36 +1,28 @@
 ---
 category: news
 title: "AI Weekly: Algorithms, accountability, and regulating Big Tech"
-excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. This week, Facebook CEO Mark Zuckerberg, Google CEO Sundar Pichai, and Twitter CEO Jack Dorsey went back to Congress,"
-publishedDateTime: 2021-03-26T20:38:00Z
-originalUrl: "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/"
-webUrl: "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/"
-ampWebUrl: "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/"
+excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. This week, Facebook CEO Mark ..."
+publishedDateTime: 2021-03-27T14:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-weekly--algorithms--accountability--and-regulating-big-tech-9959051"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-weekly--algorithms--accountability--and-regulating-big-tech-9959051"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-weekly--algorithms--accountability--and-regulating-big-tech-9959051"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-weekly--algorithms--accountability--and-regulating-big-tech-9959051"
 type: article
-quality: 91
-heat: 91
-published: true
+quality: 67
+heat: 67
+published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Facebook AI
   - AI
-  - AI Ethics
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/04/facebook-google-twitter-logos.png?w=1200&strip=all"
-    width: 1200
-    height: 600
-    isCached: true
-
-secured: "s8QmBz54vJ3+7bGYqajdhs950zAlixpoQCsL+SvXRnRek1uu17Ik/wsNr3tyPwOeAcH1AB78YcSVVeLjo+3Tu2Nld95UdLtUvohXFU06XHDiG2Yh48zW4vh3C97198x+aEwzAVSC+ZECy1XrXba6eWYF8uzdpqy5roY4mX4ptp7WdSJBTCY1T1cjK91sh3e75cafQgWabRZjbXfFX6or/Q2eln7DCzrDQ+ZkF4KR3Tl/VRyzen5vqUCyCIkyzd3jA/a2sG+C3L44qkS0npJjZiYk82nANJlLWL0l86OJp2wsPN/Ukm+nRKry3IhPaEBWZMjciplZkq9Gw/FsQHDvbP0zwZGTtVYVsAI24OgR+iCRVxqBsRqyC4e5WfBe/JA3LKPFSV+LpoCLthfey1Uf671gPMA45dAvhFlvFbKc9/vYdMfsWKz2iLYJtwzuiiM+UhCalXXHaWWoBO4FLA6nO/QPoo2ljcAgWlA020qXTuGrKnoc9Y/SuFTpxB0JTRHZC+QzPmiG0Ujll8D24VGW+w==;xn3MF4tjl5oDIzhqagT5Sg=="
+secured: "JVyt9rXjMcl1A5VJPXrYYEzFjJh66H7sPjRX0t0riJg2Rjslbu8RRBbwIqYcL3WNGAwTzhklcU+uNScxuUYmYVWSNnNh+QwKqrgEFwUWOjlf8x0U2ISNrbWOH5cdyesUTh0X00kG4300vDyKVHTqVlV8gpw7BZmInQ0rRGhkA5C4fWaTIbOgxmdjLu+Nqezi5iQ4UcBq8udEKoaeRrH/VnKoyaiMAJcJxCWXvZPZ0kt9fkiZ57c254qqZjQxwxqC86Auw1eLFJFG6gXXH7dcjiOH/f8Cw+fbWq6Go38CideQ31ZbQrkC8ac6uwXoPeh3ameGwO3NSxPrxLyxy43H4AKtu9bA1P28AdFJubY9P6k=;04JSAzTsKvOyHmKfM5ZylA=="
 ---
 
