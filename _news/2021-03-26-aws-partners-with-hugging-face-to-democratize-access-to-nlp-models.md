@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing"
-    excerpt: "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing - SiliconANGLE"
-    publishedDateTime: 2021-03-24T01:34:00Z
-    webUrl: "https://siliconangle.com/2021/03/23/amazon-web-services-partners-hugging-face-simplify-ai-based-natural-language-processing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 59
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/AWS-Hugging-Face.png"
-        width: 613
-        height: 315
-        isCached: true
   - title: "Amazon Web Services collaborates with Hugging Face to simplify AI-based natural language processing"
     excerpt: "Amazon Web Services Inc. partners with New York based startup, Hugging Face Inc. with the aim of accelerating and simplifying NLP models."
     publishedDateTime: 2021-03-24T13:01:00Z

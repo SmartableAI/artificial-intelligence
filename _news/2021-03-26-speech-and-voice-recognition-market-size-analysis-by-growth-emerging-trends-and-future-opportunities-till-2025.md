@@ -41,6 +41,20 @@ related:
         width: 800
         height: 904
         isCached: true
+  - title: "AI in Energy and Utilities Market Forecast to Reach $4.5 Billion by 2026"
+    excerpt: "AI in Energy and Utilities Market Segment Analysis - By Application ... SE (France), AppOrchid Inc. (U.S), Zen Robotics Ltd. (Finland) and others. DeepMind, a startup acquired by Google, will add artificial intelligence to the electricity system of UK ..."
+    publishedDateTime: 2021-03-28T13:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-energy-and-utilities-market-forecast-to-reach-45-billion-by-2026-2021-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "North American AI in Healthcare Market Trends 2019 | Segmentation, Outlook, Industry Report to 2025"
     excerpt: "The North American AI in healthcare market is estimated to grow significantly at a CAGR of 50.4% during the forecast period. The North American market for AI in healthcare is analyzed based on countries such as the US and Canada. The factors that are ..."
     publishedDateTime: 2021-03-27T09:05:00Z

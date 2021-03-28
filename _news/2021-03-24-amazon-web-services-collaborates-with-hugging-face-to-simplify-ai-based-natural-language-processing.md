@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/amazon-web-services-collaborates-with-hugging
 webUrl: "https://techstory.in/amazon-web-services-collaborates-with-hugging-face-to-simplify-ai-based-natural-language-processing/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing"
-    excerpt: "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing - SiliconANGLE"
-    publishedDateTime: 2021-03-24T01:34:00Z
-    webUrl: "https://siliconangle.com/2021/03/23/amazon-web-services-partners-hugging-face-simplify-ai-based-natural-language-processing/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 59
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/AWS-Hugging-Face.png"
-        width: 613
-        height: 315
-        isCached: true
   - title: "AWS partners with Hugging Face to democratize access to NLP models"
     excerpt: "AWS is collaborating with Hugging Face to aid in making NLP simpler to train and optimize on AWS. Thanks to the new HuggingFace estimator in the SageMaker SDK, customers can easily train, fine-tune, and optimize Hugging Face models built with TensorFlow ..."
     publishedDateTime: 2021-03-25T17:45:00Z

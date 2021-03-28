@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Disney begins testing facial recognition software"
-    excerpt: "Park goers entering the Magic Kingdom at Walt Disney World Resort can opt-in to testing Disney’s new facial recognition software. This segment aired as part of KTLA 5 Live on March 23, 2021."
-    publishedDateTime: 2021-03-24T01:16:00Z
-    webUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-software/"
-    ampWebUrl: "https://ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/5-live/disney-begins-testing-facial-recognition-software/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 59
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/03/download-4-1.png?w=1280"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Walt Disney World tests facial recognition at park entry"
-    excerpt: "WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission. The pilot program will be in testing for the next month. Participation is optional, but those who ..."
-    publishedDateTime: 2021-03-24T01:21:00Z
-    webUrl: "https://www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-    ampWebUrl: "https://www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
-    type: article
-    provider:
-      name: KIRO-TV
-      domain: kiro7.com
-    quality: 59
-    images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/03-24-2021/t_b580ba8e37154ad6a5916bb0e2f967c9_name_Disney_tests_facial_recognition_at_park_entry_Poster.jpg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Disney is testing facial recognition at Walt Disney World"
     excerpt: "Walt Disney World started testing out facial recognition technology software in the Magic Kingdom, which could change the way you enter the park. Per WESH, the new technology will capture an image of a guest’s face."
     publishedDateTime: 2021-03-25T06:00:00Z
@@ -167,20 +135,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Psychology behind facial recognition"
-    excerpt: "Facebook profile picture forensic interactive face recognition software tasks identification Super recognisers surveillance CCTV British Journal Psychology"
-    publishedDateTime: 2021-03-24T16:41:00Z
-    webUrl: "https://www.professionalsecurity.co.uk/news/case-studies/psychology-behind-facial-recognition/"
-    type: article
-    provider:
-      name: professionalsecurity.co.uk
-      domain: professionalsecurity.co.uk
-    quality: 39
-    images:
-      - url: "https://www.professionalsecurity.co.uk/wp-content/uploads/2021/03/Frost314.jpg"
-        width: 343
-        height: 457
-        isCached: true
   - title: "Tracking dongles and facial recognition tested at Mice event"
     excerpt: "SINGAPORE - A Bluetooth tracking dongle and facial recognition tools are some of the new technologies being piloted to prepare Singapore for major events like World Economic Forum in August.. Read more at straitstimes."
     publishedDateTime: 2021-03-24T14:04:00Z
@@ -223,15 +177,6 @@ related:
         width: 1600
         height: 1082
         isCached: true
-  - title: "Okayama University research: Studying Parkinson's disease with face-recognition software"
-    excerpt: "Stock quotes by finanzen.net OKAYAMA, Japan, March 28, 2021 /PRNewswire/ -- Researchers at Okayama University report in Brain Supplement that artificial-intelligence technology can detect facial characteristics of Parkinson's disease."
-    publishedDateTime: 2021-03-28T12:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/okayama-university-research-studying-parkinson-s-disease-with-face-recognition-software-1030252264"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
   - title: "Disney tests facial-recognition technology at Magic Kingdom"
     excerpt: "Disney is testing out new facial-recognition technology at its Magic Kingdom Park in Florida. The company says it's continuing to look for ways to make the park safer, with a focus on touchless experiences."
     publishedDateTime: 2021-03-25T15:16:00Z

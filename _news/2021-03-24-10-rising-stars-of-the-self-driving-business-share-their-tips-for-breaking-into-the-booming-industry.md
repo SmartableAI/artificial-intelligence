@@ -29,109 +29,76 @@ images:
     isCached: true
 
 related:
-  - title: "TuSimple IPO Filing Shows Self-Driving Trucks Still a Money-Loser"
-    excerpt: "Self-driving company TuSimple Inc. unveiled paperwork for its initial public offering Tuesday showing it has lost more than $300 million over the past three years in the race to be the first to launch fully autonomous long-haul trucks. TuSimple ..."
-    publishedDateTime: 2021-03-24T01:39:00Z
-    webUrl: "https://www.wsj.com/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
+  - title: "Will Self-Driving Cars Disrupt The Insurance Industry?"
+    excerpt: "Automated vehicles are rapidly advancing in capability, altering the risks and liabilities traditionally associated with driving. These changes will disrupt the $300B auto insurance market and the wider P&C insurance industry."
+    publishedDateTime: 2021-03-25T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 174
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://images.wsj.net/im-315504/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "TuSimple’s IPO filing reveals roadblocks for self-driving startups with Chinese ties"
-    excerpt: "While the governments of the United States and China are pushing policies for technological decoupling, private tech firms continue to tap resources from both sides. In the field of autonomous vehicles,"
-    publishedDateTime: 2021-03-25T05:15:00Z
-    webUrl: "https://techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/"
-    ampWebUrl: "https://techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/tusimple-overseas-roadblocks/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 67
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/08/TuSimple-Self-Drving-Truck-5.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "UPDATE 2-Self-driving truck startup TuSimple files for U.S. IPO"
-    excerpt: "March 23 (Reuters) - Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the ..."
-    publishedDateTime: 2021-03-24T02:24:00Z
-    webUrl: "https://www.reuters.com/article/tusimple-ipo-idAFL4N2LL48I"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605799f7019e55638773bbe1%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 900
         isCached: true
-  - title: "Self-driving trucks: A 10 billion-mile proof case for Plus"
-    excerpt: "Autonomous trucking startup Plus is beginning production of Level 4 software this year as it works toward 10 billion miles of on-road testing."
-    publishedDateTime: 2021-03-25T20:52:00Z
-    webUrl: "https://www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus"
-    ampWebUrl: "https://www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus/amp"
+  - title: "Why Caretaking Robots Will Revolutionize The Childcare Industry"
+    excerpt: "Artificial intelligence, clever robots, and computer automation have already become key features of the human experience. The products we enjoy, the social media services we use and the websites we view are not only heavily curated by intelligent algorithms but they are often created by them,"
+    publishedDateTime: 2021-03-26T09:14:00Z
+    webUrl: "https://techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/"
+    ampWebUrl: "https://techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/amp/"
     type: article
     provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 44
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
     images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/03/032521-Plus-SF-Truck-1.jpg"
-        width: 4000
-        height: 2671
+      - url: "https://techbullion.com/wp-content/uploads/2021/03/Caretaking-Robots.png"
+        width: 700
+        height: 400
         isCached: true
-  - title: "Waymo Provides Look Inside Self-Driving Truck Testing"
-    excerpt: "Autonomous vehicle developer Waymo offered a look inside the day-to-day testing of its self-driving trucks on public roads through a virtual ride-along event for members of the press."
-    publishedDateTime: 2021-03-25T15:15:00Z
-    webUrl: "https://www.ttnews.com/articles/waymo-provides-look-inside-self-driving-truck-testing"
+  - title: "Self Driving Car Insurance: What You Need To Know"
+    excerpt: "Just like previous generations of cars, this new generation of vehicles comes with questions. The big question pertains to self-driving car insurance and how it will work."
+    publishedDateTime: 2021-03-26T16:48:00Z
+    webUrl: "https://www.caranddriver.com/car-insurance/a35950852/self-driving-car-insurance/"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
+      name: Car and Driver
+      domain: caranddriver.com
     quality: 39
     images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/waymo-virtual-phoenix-1200.jpg?itok=UEAuO5XM"
-        width: 470
-        height: 246
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-vehicles-stand-outside-of-a-brooklyn-showroom-and-news-photo-1616776857.?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*"
+        width: 1200
+        height: 602
         isCached: true
-  - title: "Self-driving truck startup TuSimple files for U.S. stock offering"
-    excerpt: "U.S. initial public stock offering on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the number of shares it plans to offer to investors or the price range for its offering."
-    publishedDateTime: 2021-03-24T11:34:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-tusimple-files-us-stock-offering"
+  - title: "The 2021 Healthcare Industry: Digital Transformation Leads to New Growth Strategies for Stakeholders"
+    excerpt: "The \"Developing Innovative ROI Streams and Patient-centric Virtual Care Approaches will Shape the Global Healthcare"
+    publishedDateTime: 2021-03-26T13:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20358124/the-2021-healthcare-industry-digital-transformation-leads-to-new-growth-strategies-for-stakeholder"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20358124"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20358124"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TUSIMPLE-MAIN_i_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
-    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
-    publishedDateTime: 2021-03-25T13:01:00Z
-    webUrl: "https://www.oaoa.com/news/business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_aba170bb-a072-5119-bc8b-cd7abf3d06e3.html"
+  - title: "Neurala Announces Collaboration with FLIR Systems to Deliver Industry-First AI-Powered Industrial Cameras for Industry 4.0"
+    excerpt: "Neurala, the leader in vision AI software, announced a collaboration with FLIR Systems Inc. to deliver a full software and hardware stack AI-based industrial imaging solution. Neurala’s vision AI software unlocks the power of deep learning with no-AI-expertise-required,"
+    publishedDateTime: 2021-03-25T06:29:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-photographic-equipment-and-supplies-manufacturing-dd7012907e8f429d960e311e77b26b61"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/3/26/326de4bf-2747-50fa-831c-614420f2486d/605c8d5c72b5f.image.jpg?resize=943%2C630"
-        width: 943
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "pDzJK8pz/FrKQGGBe4etPqMsFHEgjXkr4DA8B2kb8gmTuqIx9dVDXWm//0kKFaAMJaJZzLWMKqdKDXVRRkDgL9C7w9OoK1Hg7QlNFlVwqqTc50QbSdC9HnTYpQy1M1Er7A4l0RMgjTXRvKrKu6aBwrCAwMY9wpHCXRKdHJvbmUsjhJofV5QEGxG1kQJEv3S1ijFPX8fBJpIC9gimywUeSU7+uljuqkNbS3CN2JMNZTPkj/o2kdYG1jpxZAdAf5PvvKIhLHbh0WkPDNZwpZn8uQi2Qv/ns1WiC3V612fHvJNolLRgiFAnOw6+MoC3P6ls8YJeYBI2LOVIJgpFI2YmrTLrPAli3LfRn+xXl58tpWX/c7TW6nAZYO8FqFFZ9ncvFNkszqzxvTdqJnv+BNMOA3yhJXz08rUBrkjHud9CU8oxzs5gbW+7Pyq3egx9PdgXIFMU/e1DIYdDn6PPPt3h56VSUXfkDN19uhOOBPijzaNC6oBi8f5GbAPoRqkPpzSK85yTlapmiKjDN+WG4j+2jw==;g2L4VSv1Vqc4ZoqneBiZGg=="

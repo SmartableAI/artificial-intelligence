@@ -3,27 +3,25 @@ category: news
 title: "Rovco's Robotics Spin-off Vaarst Open for Business"
 excerpt: "Vaarst, an offshore robotics technology spin-off from ROV-services firm Rovco, was formally launched Wednesday.Vaarst says its"
 publishedDateTime: 2021-03-24T11:45:00Z
-originalUrl: "https://www.oedigital.com/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business"
-webUrl: "https://www.oedigital.com/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business"
-ampWebUrl: "https://www.oedigital.com/amp/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business"
-cdnAmpWebUrl: "https://www-oedigital-com.cdn.ampproject.org/c/s/www.oedigital.com/amp/news/486296-rovco-s-robotics-spin-off-vaarst-open-for-business"
+originalUrl: "https://www.marinetechnologynews.com/news/rovco-robotics-vaarst-business-609360"
+webUrl: "https://www.marinetechnologynews.com/news/rovco-robotics-vaarst-business-609360"
 type: article
-quality: 74
-heat: 94
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: oedigital.com
-  domain: oedigital.com
+  name: marinetechnologynews.com
+  domain: marinetechnologynews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.oedigital.com/images/magazines/w300/OffshoreEngineer-202101-page1.png"
-    width: 299
-    height: 385
+  - url: "https://images.marinetechnologynews.com/images/maritime/w800/credit-vaarst-121339.jpg"
+    width: 698
+    height: 931
     isCached: true
 
 related:
@@ -53,6 +51,6 @@ related:
       domain: roboticstomorrow.com
     quality: 33
 
-secured: "dfMEWcqv2zZXk7ePuCuomUeeewxr70H9xUVPtQcy4QrxNWlCkRRKYHtCE5E2Soy2jTKZVsufXZxa5iu/dVErY0RR5IlIRHS9tYKLoapvHHkQ9jIPdm0mwLg3RASlj0+rFy9s3RH6bfMFYnNo0vBQF/IabvRGrUboqYUxpzcPoKXwjxkNJwEyew3cTaJaXMm3Ns2x+zeSWVHFpP1kZBgpClHz2sRsg44oh8oNstezm8wweRhOoy6yJYWaia/mTQBliHgQSM3oB5OOg2YYuwBbDCVY39PWhn6WV/9SjCEae66YesxcT6Xqk/IOwR4m7So9d97IM3n7LUla6fvtAPrnMQ2ryAeIgXGb14Ce64ELJpWXrGxRmU0SsKmBmcI4XQwf5ejSgX+T9Bhp1dcOuJWvywZTqCkJ7IuJO9Xg+kpDlkvJGK39181LR6y6loEGhSxAqSXZZC+xCsc+lHVPZC2EeN15g5WaliSURfUAaehjQA6+YMm+EmSG9UMg0QEjy+8yF8XmGM8uxKllMb4SMxq08A==;+m5gD//glRFfkhnoHeM7ww=="
+secured: "PFrYyAVHdIoOQpTZVOcX/fyHO09rwJmVAqYhneZZRfUsqjCvmPBTKkVfGth7bv3SVHBJpsMZNsLWAOPTKPzvINzwJ//tzjsA5U9aR3um+JQXZ8vQMhIr4Ro6+pzYsmRQjyzuvYFFqGx+ubgOfLei/r+dnBHHjSB7kcLV1vcsOL7JK4BDlwmvsb+I1qY2LIXrZFD+CefLV7O0vk/xCHByYWdZfoTBiH4+5Ewq7THrT01TR2crcU5K2BzWVAAyDC8t0IpdWGXOJ4pZuO4U1rc76CQ4bQ3N5vMJfwU6z1mMbZXVCvSnS/7WSosKhkEyH0C/U/CQHUSpGLovryZLik9JOtPimWcaXoWkfvg6xHA8EQY=;lajRIGZADGKOmAZUCxQiPg=="
 ---
 
