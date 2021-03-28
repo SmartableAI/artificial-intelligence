@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antid
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -29,33 +29,6 @@ images:
     width: 1200
     height: 716
     isCached: true
-
-related:
-  - title: "The Risks And Benefits Of AI In Medicine"
-    excerpt: "There is no denying that AI is revolutionizing health care. In the past two years, the investment in AI from health care organizations has been growing exponentially. According to research conducted by Deloitte, \"75% of large organizations (annual revenue ..."
-    publishedDateTime: 2021-03-23T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058fd1369baf2a8c7cd1a1b%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Artificial intelligence revolution offers benefits and challenges"
-    excerpt: "University of Adelaide researchers aim to play a major role in the development of AI which is poised to reshape the global economy."
-    publishedDateTime: 2021-03-24T07:08:00Z
-    webUrl: "https://newsmaker.com.au/news/382632/artificial-intelligence-revolution-offers-benefits-and-challenges"
-    type: article
-    provider:
-      name: News Maker
-      domain: newsmaker.com.au
-    quality: 17
 
 secured: "C9f7ECJ2J9Nk2PR3hthSs3U5zV8AXk8CFKdeCLg1i4L0MYYfnk0prYyaJG/ji+SSlMDTyqmi9cr4Yj0tV7LnA1iOu8jjAoC55mrey8y2HkJffOUdjC5tg+SqQaffu3niPstjtE6Lc1nH9OPdmfn9HXOrApNG4BZJdhdNm3eSvzqEqt2Qs2bz3Ge3TNDiJ0xnJfQJrgLuLaDDfci5I33EJn7h4rB+culGAPS8EPTIYoiuSGnKxMEYpmlnPivAL8Yyeju2FuFB9px8RRaSCCt+58RwnOqtjPOfe2xvK7T8qcoi1kGB+uXGQFKvivRrAomo6JASZQTwoKlGN9S7IydIoN/Tj8lh2oQfyYMXwmO+B2bB67I7HvP06tNEemtAC+IPihZMDmmys7bD+5v6niS1ke9aT4yDa64CY2364SjarseOYuO0Lu47eVMPbcp9u3sr/AfgpG62t22b7EVgzTZ77CnWI35jevk8irP5jJ5af5LJM7ZgBZhryQtbzJWovLvoMGfOqgU2yCQbLeZZuRyQGg==;Wu5sAnndG8zNV2lT1l3HXw=="
 ---

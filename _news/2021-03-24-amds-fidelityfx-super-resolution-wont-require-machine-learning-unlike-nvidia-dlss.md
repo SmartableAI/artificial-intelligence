@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/amds-fidelityfx-super-resolution-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amds-fidelityfx-super-resolution-wont-require-machine-learning-unlike-nvidia-dlss"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMD's DLSS-alternative doesn't need machine learning to work"
-    excerpt: "There's been no word as to an exact release date but, at some point in 2021 those harbouring an RDNA2 graphics card will be able to enjoy the new, resolution-based performance improving tech—with no need for machine learning."
-    publishedDateTime: 2021-03-23T12:34:00Z
-    webUrl: "https://www.pcgamer.com/amd-fsr-fidelity-fx-super-resolution-announcement/"
-    ampWebUrl: "https://www.pcgamer.com/amp/amd-fsr-fidelity-fx-super-resolution-announcement/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/amd-fsr-fidelity-fx-super-resolution-announcement/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ugfW9iTupwHYrTDro6MRbE-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Nintendo Switch Update Could Use New Nvidia Chip & DLSS Rendering"
     excerpt: "Rumours of an updated Nintendo Switch model continue to pile up, with the latest report suggesting the next model could use a new Nvidia and AI-upscaled visuals."
     publishedDateTime: 2021-03-23T20:13:00Z

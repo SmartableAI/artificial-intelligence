@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boom in innovation for overcoming disabilities —UN"
-    excerpt: "Innovations aimed at helping people overcome mobility, sight and other disabilities have exploded in recent years, and are becoming ever more integrated in regular consumer goods, the United Nations said Tuesday."
-    publishedDateTime: 2021-03-23T11:46:00Z
-    webUrl: "https://www.gmanetwork.com/news/scitech/technology/780898/boom-in-innovation-for-overcoming-disabilities-un/story/"
-    ampWebUrl: "https://www.gmanetwork.com/news/scitech/technology/780898/boom-in-innovation-for-overcoming-disabilities-un/story/?amp"
-    cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/technology/780898/boom-in-innovation-for-overcoming-disabilities-un/story/?amp"
-    type: article
-    provider:
-      name: GMA Network
-      domain: gmanetwork.com
-    quality: 24
   - title: "UN: Boom in innovation for overcoming disabilities"
     excerpt: "Innovations aimed at helping people overcome mobility, sight and other disabilities have exploded in recent years, and are becoming ever more integrated in regular consumer goods, the United Nations said on March 23."
     publishedDateTime: 2021-03-24T00:33:00Z

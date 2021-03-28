@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using deep learning to predict temporomandibular joint disc perforation based on magnetic resonance imaging"
-    excerpt: "The goal of this study was to develop a deep learning-based algorithm to predict temporomandibular joint (TMJ) disc perforation based on the findings of magnetic resonance imaging (MRI) and to validate its performance through comparison with previously reported results."
-    publishedDateTime: 2021-03-23T11:21:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-86115-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 21
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-86115-3/MediaObjects/41598_2021_86115_Fig1_HTML.png"
-        width: 685
-        height: 680
-        isCached: true
   - title: "Adversarial Binary Mutual Learning for Semi-Supervised Deep Hashing"
     excerpt: "Hashing is a popular search algorithm for its compact binary representation and efficient Hamming distance calculation. Benefited from the advance of deep learning, deep hashing methods have achieved promising performance."
     publishedDateTime: 2021-03-24T10:32:00Z

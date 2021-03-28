@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 901
         isCached: true
-  - title: "Alluxio Advances Analytics and AI with NVIDIA Accelerated Computing"
-    excerpt: "This is the case for both analytics pipelines and AI / Machine Learning (ML) pipelines. Benefits from GPU acceleration for an end-to-end pipeline are limited if data access dominates the execution time. GPU-based processing drives higher data access ..."
-    publishedDateTime: 2021-03-23T12:02:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-scott-mcclellan-cloud-computing-open-source-software-b37172100a5402dda830de1c753045a5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "This Mumbai-based Social Analytics Startup Uses AI To Optimise Customer Engagement"
     excerpt: "Locobuzz enables brands to forge strong relationships with their customers using artificial intelligence, machine learning, big data and analytics."
     publishedDateTime: 2021-03-26T09:30:00Z

@@ -3,23 +3,23 @@ category: news
 title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
 excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
 publishedDateTime: 2021-03-25T13:01:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_248f1a3f-69be-5714-b053-cfd8c5293b5e.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_248f1a3f-69be-5714-b053-cfd8c5293b5e.html"
+originalUrl: "https://www.oaoa.com/news/business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_aba170bb-a072-5119-bc8b-cd7abf3d06e3.html"
+webUrl: "https://www.oaoa.com/news/business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_aba170bb-a072-5119-bc8b-cd7abf3d06e3.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/7c/d7c1349c-db0d-5974-95fb-42f98f8c374f/605c89c1b0efa.image.jpg?resize=943%2C630"
+  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/3/26/326de4bf-2747-50fa-831c-614420f2486d/605c8d5c72b5f.image.jpg?resize=943%2C630"
     width: 943
     height: 630
     isCached: true
@@ -183,6 +183,6 @@ related:
         height: 1461
         isCached: true
 
-secured: "sF4Htc29hBw1BjknBnn2QkfIsl+AYdcTqU4POvzR5/lGot3C4VHLbiBiqvPVzrImI0yl/KCBMYm3ROZapsV/JiZ1z3pL901IwcGD/gh5M6tFqv83o5dpJ5BvIEzn5DzXa68QBAPV+9VcoMpl2ngIFR+Ign8O5Gp4lPG/wWkO8RMS/WGRN519G38h6w1qQS4kA/3urejPgtbbBRHraZp4zRaub6nvbPi1SFpE22WfdJm+YM74JC7Y3kceSB/dPhu12dZBDbk2qdOx5tflyUrblgcGxLKenSRpkEKjS9AsbVsIoq5EgDTYwI6nQn3OWyz1lAoTLEqRQYVNdMnzE2+4cb98ZzrjPeNBV4A/NLH4Y6eC2bcgjyDeQqcbxPLHeblvXjqo92pTRzMAEAC+b8aznAJ2r4DvEbuwn3+VXMVJ+gROx++xfyBA4fFeYirO3hKuzHPmkmDnBrmoYRgn3T8l4G1w7CH6Eo9nYsA4D+o3e3KPMR1WqFw/9A3yAD0Aql811TINh4Z4YOnvOK0hGL7RuQ==;Z51MjB2ytfEET7PURu3WqQ=="
+secured: "7bLNhG5CrwoyHquoLkiMUBURgpJ5eViQHs2i7YZhxU1VcOuhSNyxnJScFgOc6WRdrufSuRy7aHSbjAE8Sv3tgd7z4FU0DVz1osXLGQL/ShjZ8C+fluB8GplJ8xWAZUTq0jXfUrp35SlJAGBr0dw4yX2h8fksXcAk3YZHCm7FNAx8nvz0r8f8PWfMLHJDka3Lxy2LNAo7rJt6Q2Ay9Y3L2XqZ6jDnchP6tCn/LgsOM9cKo42s1RfJjIsxLGbr3s4ARaot5r72nb7VrXW6ZIbINeJy6/m+cm80a5EH6Lee1fNCkt0Gfc97sNmxq67oUqGZmWmFGqp9aEoDrD/DBF5DigRdQLjkkMjH3hTfMzR1xkU=;ghi8m2Cuszj0u1Blv8FQzw=="
 ---
 

@@ -1,27 +1,28 @@
 ---
 category: news
 title: "Domo Expands AWS Relationship"
-excerpt: "To learn more, visit here. Domo and Amazon SageMaker Make Machine Learning Accessible Across the Enterprise Also, at Domopalooza, Domo and AWS shared how Freddy’s Frozen Custard & Steakburgers ..."
-publishedDateTime: 2021-03-24T17:54:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/domo-expands-aws-relationship/article_82360b0f-db45-54d1-a3d9-115c2fd08832.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/domo-expands-aws-relationship/article_82360b0f-db45-54d1-a3d9-115c2fd08832.html"
+excerpt: "Today at Domopalooza, Domo (Nasdaq: DOMO) announced deeper support for Amazon Web Services (AWS) to help customers more easily transform their business by leveraging data available from both their Amazon Redshift cloud data warehouse as well as their subscription from AWS Data Exchange."
+publishedDateTime: 2021-03-24T17:35:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-data-management-computing-and-information-technology-united-states-7fb2758fdf604ef28f5419c42e3527cf"
+webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-data-management-computing-and-information-technology-united-states-7fb2758fdf604ef28f5419c42e3527cf"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AWS AI
+  - Machine Learning
   - AI
+  - AWS AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/custom/image/da68c2f8-c3ab-11e5-94c7-b366ea8ae93c.jpg"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +36,6 @@ related:
       domain: morningstar.com
     quality: 21
 
-secured: "Mps8ezv8Rr93tOxsTuljjFxipcztw/ivXlGzU62LeSlZQth41bvxvAj4juE5PTLbJQw9q7dSm/UtJcXnghS6C+7KBNAwGQh/71ro8GLReP4G5WoFHEBOP/vi3cc2IRIV+8Mh5QE4hCXnVpiy53NjH15JslfpmIi65LX6xa64dOY/WjjMAvaCKhUIIRyPndm5G7F32g8qnsAG8sCh0uDFaHuzfeNJrVXwV4Bjs1X6kNztqK6UGU19ru5iZQhFqQN4zga81hmS1xMJjOAX12OBaBLeeDvit9ovooBuEOoZ4ZO9BNp0OqHiQ1dKO7uJSt91IfO6WB2Uo2j0yF984+0Kh0NVCUQvLeoWN5RyKbPuFUQ=;NPLJFZZGSvp/60b0BG0TcQ=="
+secured: "1FHEsm1/Qog3idxeZWaFr67Q6BJsB7EmclPhhCHklhMjkYmDCokg9XBkedsVPlWXvOPH+/S40/a7stglaKH8ALdfSlKs0gWRBs/Q5wK1rRpQlSHsEbfEM4UtpZpvnEFiPHl/lmps9STZc+5gGWzKeDzvPCxl1ZYcTfGIUmwKedUvV+wN9CULYQoa48dZ0T6xDvHGjPEtd86dn/CANe19G1fxpoOZwbJZ9zo9/hJDBKhHXVxAB6quAy4Z/JXkBUuSL/4Rieekm8FzZvXFIa2SpfbJskaTOmrUCvMHQUYintmYjEyL6bM85aKLzvG4bK4pUDyfWBQRdxUuCoNILBc7zXBYcN3qHmGUUMIGaINBBnA=;V1fWtKH7GHpH2cG1qI5fVg=="
 ---
 

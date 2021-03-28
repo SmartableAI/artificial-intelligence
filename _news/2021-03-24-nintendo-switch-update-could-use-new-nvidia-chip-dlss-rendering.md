@@ -41,22 +41,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "AMD's DLSS-alternative doesn't need machine learning to work"
-    excerpt: "There's been no word as to an exact release date but, at some point in 2021 those harbouring an RDNA2 graphics card will be able to enjoy the new, resolution-based performance improving tech—with no need for machine learning."
-    publishedDateTime: 2021-03-23T12:34:00Z
-    webUrl: "https://www.pcgamer.com/amd-fsr-fidelity-fx-super-resolution-announcement/"
-    ampWebUrl: "https://www.pcgamer.com/amp/amd-fsr-fidelity-fx-super-resolution-announcement/"
-    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/amd-fsr-fidelity-fx-super-resolution-announcement/"
-    type: article
-    provider:
-      name: PC Gamer
-      domain: pcgamer.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ugfW9iTupwHYrTDro6MRbE-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "B7AprTalAEVctjz66XLjMuUOwDv56n+ylXAD6Vxkn8qRMpgqwIMgwaT9Oqs2mtXI6ikA91MleEx4j30duNA8dkhLW0JWXJlaKH4W3a0LhhchQJfBVK5wauq/MtnimSqQVD7wzYIhAXknf/PLDgrZFdii/3+Rx3km+LhlMiN1dZCi7F9G8AQWOU2PndKM0barPnm7axFCVPhto/gTrsfMlZLVUAnpBqho/IWPBE0hMnkO6vonKRWBbPCXpm9IfQHBiVi54qIztSoMxw7b75urD3grv2nuYoJ5ZFgdofLW9WGV4YVRRyAMkUW2wPKXpm6nEcxIxhTYP3fnWIJ3xpU6WsBp0pmiQk3jrsFIteT/WfY=;24ey2nlSXUID/8DldYPcEw=="
 ---

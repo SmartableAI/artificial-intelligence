@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Boosted.ai Integrates ESG Data into Machine Learning Platform Boosted Insights"
-    excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals ... asset owners, global banks, and financial technology companies in the world. OWL is dedicated to helping clients make a positive impact by empowering ..."
-    publishedDateTime: 2021-03-23T12:59:00Z
-    webUrl: "https://www.lelezard.com/en/news-19712541.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 52
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Lingotek and Intento Announce Enhanced MT/AI Offering Through Platform Integration"
     excerpt: "With the new Intento connector, Lingotek users can take control over their machine translation requirements by deploying Intento’s MT Hub in their workflow."
     publishedDateTime: 2021-03-25T01:34:00Z
@@ -42,6 +28,20 @@ related:
       name: Slator
       domain: slator.com
     quality: 35
+    images:
+      - url: "https://slator.com/assets/2021/03/Intento-Logo-2021-900x600-CD.png"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "Lingotek and Intento Announce Partnership and New Platform Integration"
+    excerpt: "Intento helps global companies procure and utilize the best-fit cognitive AI services. The Intento AI Hub connects AI models trained on multiple platforms (such as Amazon, Google AutoML, or Microsoft Cognitive Services) with many enterprise software systems."
+    publishedDateTime: 2021-03-25T01:33:00Z
+    webUrl: "https://slator.com/press-releases/lingotek-and-intento-announce-partnership-and-new-platform-integration/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
     images:
       - url: "https://slator.com/assets/2021/03/Intento-Logo-2021-900x600-CD.png"
         width: 900

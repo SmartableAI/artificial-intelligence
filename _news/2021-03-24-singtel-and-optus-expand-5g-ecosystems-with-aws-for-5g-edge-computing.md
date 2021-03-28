@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-e
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/edge/singtel-and-optus-expand-5g-ecosystems-with-aws-for-5g-edge-computing-41113/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Singtel and Optus partner with AWS for 5G edge"
-    excerpt: "Singtel and Optus to make use of AWS Outposts on MEC infrastructure to support enterprise development of low-latency 5G services."
-    publishedDateTime: 2021-03-23T12:23:00Z
-    webUrl: "https://www.lightreading.com/asia/singtel-and-optus-partner-with-aws-for-5g-edge/d/d-id/768251"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 39
-    images:
-      - url: "https://img.lightreading.com/2021/03/768251/1929.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "oCUmDOWoZP5B2unhV45Y8JZ4VfeTiYl8qadedfGGSPhaNYXt9ScPkhcZH2G/ycNq3QcNcu1afd4j7THVffsitNBly0os8B0HKkHiYEeysVDtZdJpO8Bz+4VpO37sCHQi2rrqEXIy+Gnqnrzo7GD4oiZCyQ1peYl7B2qdAtTk7dATkOM7BG37a5elkWPWv824O4YWfnaiio3Xj7kgFeEPwUB4Jk+JRVIiedX6M4QbmwW/wv6BKCdTCQOsOclpA5VP8BAf+aXWNgHjMp6PN79ROFtAKQy4gUL1117uJoM+mTPtd7dtEhXUykEUiKIBmJabsrwD7ROM+TXk+1KrYROSef3w7Uys/h5Oy6HLUBdvSqA=;uk+NyO6bWnwBJ4xC7SVwDQ=="
 ---
