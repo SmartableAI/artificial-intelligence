@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driv
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tusimple-ipo-filing-shows-self-driving-trucks-still-a-money-loser-11616535572"
 type: article
 quality: 174
-heat: 284
+heat: 274
 published: true
 
 provider:
@@ -143,20 +143,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TUSIMPLE-MAIN_i_0.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Honda's World-First Level 3 Self-Driving Tech Won’t Hog the Passing Lane"
-    excerpt: "Tesla vehicles optioned with the $10,000 Full Self-Driving upgrade for Autopilot utilize a feature called Auto Lane Change that works similarly (you can watch a demo here), though Tesla's offering is presently capped at Level 2 and requires the driver to ..."
-    publishedDateTime: 2021-03-23T17:36:00Z
-    webUrl: "https://www.thedrive.com/tech/39904/even-the-worlds-first-production-car-with-level-3-self-driving-tech-wont-hog-the-passing-lane"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 23
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Legend-Hero-Maybe.jpg?quality=85"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Arlington partnering with Via, Maxs Mobility on self-driving vehicle program for downtown, UTA"
     excerpt: "Arlington is expanding its self-driving vehicle program. Via Arlington customers can now select to be picked up in a self-driving vehicle for trips around Do"

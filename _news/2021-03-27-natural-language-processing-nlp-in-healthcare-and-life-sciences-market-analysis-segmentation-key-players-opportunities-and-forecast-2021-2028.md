@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2262865/natural-language-processing-nlp-i
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
 type: article
 quality: 53
-heat: 74
+heat: 73
 published: true
 
 provider:

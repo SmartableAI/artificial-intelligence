@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boosted.ai Integrates ESG Data into Machine Learning Platform Boosted Insights"
-    excerpt: "NEW YORK & TORONTO--(BUSINESS WIRE)--Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced that environmental, social and governance (ESG) data from OWL Analytics will be available within Boosted ..."
-    publishedDateTime: 2021-03-23T17:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210323005373/en/Boosted.ai-Integrates-ESG-Data-into-Machine-Learning-Platform-Boosted-Insights"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
   - title: "Lingotek and Intento Announce Partnership and New Platform Integration"
     excerpt: "Intento helps global companies procure and utilize the best-fit cognitive AI services. The Intento AI Hub connects AI models trained on multiple platforms (such as Amazon, Google AutoML, or Microsoft Cognitive Services) with many enterprise software systems."
     publishedDateTime: 2021-03-25T01:33:00Z

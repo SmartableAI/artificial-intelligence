@@ -57,6 +57,17 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "The 2021 Healthcare Industry: Digital Transformation Leads to New Growth Strategies for Stakeholders"
+    excerpt: "The \"Developing Innovative ROI Streams and Patient-centric Virtual Care Approaches will Shape the Global Healthcare"
+    publishedDateTime: 2021-03-26T13:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20358124/the-2021-healthcare-industry-digital-transformation-leads-to-new-growth-strategies-for-stakeholder"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20358124"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20358124"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
   - title: "Neurala Announces Collaboration with FLIR Systems to Deliver Industry-First AI-Powered Industrial Cameras for Industry 4.0"
     excerpt: "Neurala, the leader in vision AI software, announced a collaboration with FLIR Systems Inc. to deliver a full software and hardware stack AI-based industrial imaging solution. Neurala’s vision AI software unlocks the power of deep learning with no-AI-expertise-required,"
     publishedDateTime: 2021-03-25T06:29:00Z

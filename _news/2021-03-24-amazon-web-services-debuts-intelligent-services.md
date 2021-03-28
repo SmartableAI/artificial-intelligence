@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvbeurope.com/media-management/amazon-web-services-debut
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "eMAM streamlines search and processing with AWS Media Intelligence solutions"
-    excerpt: "PRNewswire-PRWeb/ -- eMAM, Inc. (EMAM) announced that the eMAM media asset management platform is part of the launch of the AWS Media Intelligence (AWS MI)"
-    publishedDateTime: 2021-03-23T18:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/emam-streamlines-search-and-processing-with-aws-media-intelligence-solutions/article_9ae4aad0-bf62-58e5-a770-7c16c4facddd.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 36
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
         width: 1280

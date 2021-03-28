@@ -29,9 +29,9 @@ images:
 
 related:
   - title: "How AI Can Help Companies Set Prices More Ethically"
-    excerpt: "Using AI and data-driven tools ... This power raises a question: Should ethics and societal values factor into these prices — and how? Companies should consider what they’re selling, who ..."
+    excerpt: "Using AI and data-driven tools, companies can change the price of a good or service based on who is buying, when they’re shopping, and myriad other factors. This power raises a question: Should ethics and societal values factor into these prices — and how?"
     publishedDateTime: 2021-03-26T12:05:00Z
-    webUrl: "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically?ab=hero-main-image"
+    webUrl: "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically"
     ampWebUrl: "https://hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically"
     cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically"
     type: article

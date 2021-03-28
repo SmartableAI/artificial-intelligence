@@ -67,20 +67,6 @@ related:
         width: 696
         height: 392
         isCached: true
-  - title: "Idemia face, ID R&D voice, Aware fingerprint biometrics score top biometric accuracy rankings"
-    excerpt: "The results show Idemia’s performance in facial recognition for masked and unmasked faces, ID R&D’s in short-duration speaker recognition, and Aware’s in proprietary fingerprint template generation and matching. Idemia achieves top accuracy results ..."
-    publishedDateTime: 2021-03-23T17:39:00Z
-    webUrl: "https://www.biometricupdate.com/202103/idemia-face-id-rd-voice-aware-fingerprint-biometrics-score-top-biometric-accuracy-rankings"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 13
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/11142614/elearning-remote-authentication-data-protection.jpg"
-        width: 820
-        height: 460
-        isCached: true
   - title: "ENACOMM, Inc.: FinTech Company ENACOMM Strikes Partnership with Leader in Biometric and AI Technology IDmission"
     excerpt: "TULSA, OK / ACCESSWIRE / March 24, 2021 / Banks, credit unions, credit card and payments companies of all sizes are now able to take advantage of the most modern identity solutions available, thanks t"
     publishedDateTime: 2021-03-24T13:11:00Z

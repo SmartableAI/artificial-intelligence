@@ -154,20 +154,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Honda's World-First Level 3 Self-Driving Tech Won’t Hog the Passing Lane"
-    excerpt: "Tesla vehicles optioned with the $10,000 Full Self-Driving upgrade for Autopilot utilize a feature called Auto Lane Change that works similarly (you can watch a demo here), though Tesla's offering is presently capped at Level 2 and requires the driver to ..."
-    publishedDateTime: 2021-03-23T17:36:00Z
-    webUrl: "https://www.thedrive.com/tech/39904/even-the-worlds-first-production-car-with-level-3-self-driving-tech-wont-hog-the-passing-lane"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 23
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Legend-Hero-Maybe.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
     excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
     publishedDateTime: 2021-03-25T13:01:00Z

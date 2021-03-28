@@ -140,20 +140,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Honda's World-First Level 3 Self-Driving Tech Won’t Hog the Passing Lane"
-    excerpt: "Tesla vehicles optioned with the $10,000 Full Self-Driving upgrade for Autopilot utilize a feature called Auto Lane Change that works similarly (you can watch a demo here), though Tesla's offering is presently capped at Level 2 and requires the driver to ..."
-    publishedDateTime: 2021-03-23T17:36:00Z
-    webUrl: "https://www.thedrive.com/tech/39904/even-the-worlds-first-production-car-with-level-3-self-driving-tech-wont-hog-the-passing-lane"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 23
-    images:
-      - url: "https://api.thedrive.com/wp-content/uploads/2021/03/Legend-Hero-Maybe.jpg?quality=85"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Arlington partnering with Via, Maxs Mobility on self-driving vehicle program for downtown, UTA"
     excerpt: "Arlington is expanding its self-driving vehicle program. Via Arlington customers can now select to be picked up in a self-driving vehicle for trips around Do"
     publishedDateTime: 2021-03-23T19:19:00Z

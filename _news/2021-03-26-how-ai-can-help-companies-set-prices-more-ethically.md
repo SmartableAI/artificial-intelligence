@@ -1,10 +1,10 @@
 ---
 category: news
 title: "How AI Can Help Companies Set Prices More Ethically"
-excerpt: "Using AI and data-driven tools ... This power raises a question: Should ethics and societal values factor into these prices — and how? Companies should consider what they’re selling, who ..."
+excerpt: "Using AI and data-driven tools, companies can change the price of a good or service based on who is buying, when they’re shopping, and myriad other factors. This power raises a question: Should ethics and societal values factor into these prices — and how?"
 publishedDateTime: 2021-03-26T12:05:00Z
-originalUrl: "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically?ab=hero-main-image"
-webUrl: "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically?ab=hero-main-image"
+originalUrl: "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically"
+webUrl: "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically"
 ampWebUrl: "https://hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically"
 type: article
@@ -42,6 +42,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "MhpsLgozvvalvgx+oYNQxTJZImGkxI2tRKsw1Z9Q7bBhChuscEfknX76DueRo1eZ8JDNCJnCOzsFhD7sPaEd96joN7pPb1XeavMbQW1zwVKx29J+6Kvyjq4re5GtyHHHux6mWzrTkuYhDCOepa0igNSuMGDqjg6NKk7Xb2PMZhiS+4R+AuMJPRVDvPT+AbxEPYd1H7P2vFS/Eef80jVsA4w5zUIUD1UqlmS6RDI6iApJ0ujlOIK2dBXdeOqh3PpbXnyWBmfuMXAjyoWJBVaWFe4cp9LrN5RuxmOW70my7yiLj3U7a6sB1QpkqyKzBb0XIhcaSKoQsJk83SqKYGJGwwCFZxvbsx/LHdkNJPRmqlPl1sH1GYXgSam1/QNwbTxLfjA+qHS1jFTLk7xKca5xIqd/jyEm6IF1gXOMucIr2UPsd02MMwS3SNnYqVs0dzaK4i4pzmK9OQSvJBfJA3UI4gXXowiS3PGW6ePhj+cB/RWdT/No+y6p/Q3EbLaFqkFrHL1n2kKkP/6kVmAQ0KDnrg==;Kt02iYy2KNHvwojecGPvyQ=="
+secured: "7szWzURcv5kiBnSE9/c0+0d1kAqGEC6m569UAsa0lydfTqQxgNsJa5+1dtrgoQ2gsydBLG66Cv4xuLD5llwGzJfzUE3ziP0j/qpRo0bD+YGx5j9CCQ+bQdifS3jjTZtIGkFcifEK1igBamz52POiOdy+4cqdui/7Bfu2FUQsevaotueLfW2PlcQllJUoppJe21mHdEudkzlPyaW66wGVihXdNkud2MuENbEbGGws5dVSnsh/rNntq6EQyQQfmBNAQyo7x2x7SeRhvIN2zAbf0kez74EOvi02DRl7ktfHZoqBPl3WPuAbtAGzYpEs8xZiC8iCqXtXQfOVSTyQZumkqsl+Dvp4nFZ+Ye4ugAubBBY=;VwaSyh6v9T4bv81sfxAD3A=="
 ---
 

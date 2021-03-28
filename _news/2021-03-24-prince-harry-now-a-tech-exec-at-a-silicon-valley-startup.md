@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/prince-harry-now-a-tech-exec-at
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/prince-harry-now-a-tech-exec-at-a-silicon-valley-startup/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Prince Harry has a job working for Silicon Valley startup"
-    excerpt: "The company said on its website: “The BetterUp experience brings together world-class coaching, AI technology, and behavioral science experts to deliver change at scale — improving individual resilience, adaptability, and effectiveness. The results?"
-    publishedDateTime: 2021-03-23T18:40:00Z
-    webUrl: "https://www.wsbtv.com/news/trending/prince-harry-has-job-working-silicon-valley-startup/4FGAEY4D4FHHHMOHVFRZST3Z5I/"
-    ampWebUrl: "https://www.wsbtv.com/news/trending/prince-harry-has-job-working-silicon-valley-startup/4FGAEY4D4FHHHMOHVFRZST3Z5I/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/trending/prince-harry-has-job-working-silicon-valley-startup/4FGAEY4D4FHHHMOHVFRZST3Z5I/?outputType=amp"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 42
-    images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/02-26-2021/t_958c44444be841e89f44e77b1cad70c1_name_Prince_Harry_talks_about_move_to_Califor_6038ec205661eb313d706f1d_1_Feb_26_2021_12_48_55_poster.jpg"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "zARmvTq2EXP+fIr9nKVmDqZ36pJBfOZjwQXBq6IujHNfHUaPpKRB9iTI7hWCboaVTWIvxuIvorXFdivl8TnBwnGVjno41kk53itCO5JYEwcqY9IydilwxUpfrsgi7r13MtuC6K9tFSAXLjoaPYcgitShDLYj3/2p8sYFC9DpZBlfkJqBJ3ClG0Pogy+pM5uBkydTw0G/jZYSH2eYieM1jpFbaY8RiUIfv1ApGOh8+zZex9CLfQUgNfTiTohAZLBLCbXXWqyi8UO5PaBPAFAbmWSR67LzeVrCyHhHWqjhKtQLlTCQ8FyGxqBXo94gxYGIP5HI6xQg1hSy7E5HPkFLbaFU7zlvQiVSNIiG9k8pUY4qEN46sNGFKi/5IgMlbUjG33PYgS0RiP1MU6dBf1b8fFkFzSEvUrNyFCxqSANiP20M/0gtAUg2iS5lhleviasUTDKH6WqsM08mBsdEa7T6D1mVii3nfeLPe03g9bRMRO6mU+Gy12qknTmvNg4hFzdqLQzRvmQkMKAs97hiMXOsUw==;5EVeFa4fGCqmm/tX9NKezA=="
 ---

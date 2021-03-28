@@ -70,6 +70,17 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "The 2021 Healthcare Industry: Digital Transformation Leads to New Growth Strategies for Stakeholders"
+    excerpt: "The \"Developing Innovative ROI Streams and Patient-centric Virtual Care Approaches will Shape the Global Healthcare"
+    publishedDateTime: 2021-03-26T13:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20358124/the-2021-healthcare-industry-digital-transformation-leads-to-new-growth-strategies-for-stakeholder"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20358124"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20358124"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "8/eC6sTb84F0EMM4jG6pD2gJ6k5Aq8M3R4z1u82QCbIsKrKwBMdJRou1sFE+v8WDYNySIZMY1aGp1ZcqP8i9GYwLHcCuazmsabjNiunMuwxIVvKl4VTLRnNm7w5Es/n8QbN1nTJC3zefeLfX7yoHGI//KmhBqzOQAw0gsj6HFdhPTPxGlX3oX7oHyOru/xcPxlj+Q6jvmuUcK8i86B4u9nElXy0JZYoZp88aHcNBHrfrQIXVqGoUXoH6wZR8Vdx5jmVvU66L8MbUbXJWLuQ0wCfdvERc4UXA7SqbCo8emfP4MPjyfTrlOgy1fxHxuV2BkdX0pNfPMPwJjfsIoOsJXbko93tkxP6Sjt36zMsImXI=;3r5JM44X/MefOL9+lAxXFg=="
 ---
