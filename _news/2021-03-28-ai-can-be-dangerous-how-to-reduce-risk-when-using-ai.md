@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangerous
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 90
 published: true
 
 provider:

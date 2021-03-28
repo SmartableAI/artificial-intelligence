@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-03-23-tableau-introduces-a-new-class-of-ai-powered-analytics-for-business.md",
-      "title": "Tableau introduces a new class of AI-powered analytics for business",
-      "excerpt": "Einstein Discovery 2021.1 drops this month and will let more people do more with clicks rather than code, the company says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/",
-      "originalUrl": "https://www.techrepublic.com/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/07/09/b6ab847a-647d-4dd3-8830-b9a2e978c6c2/resize/1200x/cacbd035a68bdef28ec6012ef91f3936/cloud-security-tr.jpg",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tableau-introduces-a-new-class-of-ai-powered-analytics-for-business/",
-      "publishedDateTime": "2021-03-23T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-23-self-driving-cars-as-bait-cars-to-catch-those-dastardly-car-thieves.md",
       "title": "Self-Driving Cars As Bait Cars To Catch Those Dastardly Car Thieves",
       "excerpt": "Shifting gears, we might ponder the future of cars and how the nature of a bait car activity might take place once there are self-driving cars prevalent on our roadways. Today’s interesting question is this: Might AI-based true self-driving cars be used ...",
@@ -1091,6 +1039,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-canada-based-startup-dataperformers-targets-ai-powered-visual-inspection-solutions.md",
+      "title": "Canada-based startup Dataperformers targets AI-powered visual inspection solutions",
+      "excerpt": "innovation clusters that host world-leading AI technology firms and talent, startup Dataperformers endeavors to incorporate AI technologies into the day-to-day operations of the manufacturing industry. The Dataperformers team specializing in deep learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20210322PD215.html?chid=9",
+      "originalUrl": "https://www.digitimes.com/news/a20210322PD215.html?chid=9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitimes.com/newsshow/20210322PD215_files/2_r.jpg",
+          "width": 336,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T21:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },

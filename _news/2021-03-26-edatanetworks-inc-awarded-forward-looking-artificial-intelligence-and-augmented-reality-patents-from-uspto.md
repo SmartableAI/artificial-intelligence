@@ -1,28 +1,22 @@
 ---
 category: news
 title: "edatanetworks Inc. Awarded Forward-Looking Artificial Intelligence and Augmented Reality Patents from USPTO"
-excerpt: "The approved patent 14/858,447 covers the use of artificial intelligence to define detailed consumer personas and customer segmentations that enable local businesses to direct targeted and relevant merchant incentives to consumers based on philanthropic ..."
-publishedDateTime: 2021-03-26T11:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-marketing-and-advertising-corporate-news-philanthropic-foundations-697aac471a7749cc8860f6bdc3a26104"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-marketing-and-advertising-corporate-news-philanthropic-foundations-697aac471a7749cc8860f6bdc3a26104"
+excerpt: "PRNewswire/ - edatanetworks Inc. announced today the approval of patents 14/858,447 and 16/996,060 from the United States Patent and Trademark Office (USPTO) which further enhance edatanetworks' patent portfolio in the areas of artificial intelligence and augmented reality."
+publishedDateTime: 2021-03-26T11:21:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210326ca22900/edatanetworks-inc-awarded-forward-looking-artificial-intelligence-and-augmented-reality-patents-from-uspto"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210326ca22900/edatanetworks-inc-awarded-forward-looking-artificial-intelligence-and-augmented-reality-patents-from-uspto"
 type: article
-quality: 19
-heat: 19
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "UNT4EcMGKe2sDc+5NjHh1alGQYzGq/KJ69PBNMMbkd/usf70wXRDcvQus6zqFoN+cbsCFF1pybVTaIXQuRqjpoheTwsIbjOz5ONllr1CnFS3N3fBMIvrXXCdc9Ye4rr5L0ZAYxeXUwXnasr6WgeoEYkkAnQ5Lk45PuLXmJsbKKFPfKlSZQac1NrkOfizkDSxyM+Qn4wakCRYypIMCo4h1s72pI864mUu7ZMoOyQrLyasem3wflZL6BxMjwK1psC+9cW8EL/o9drPVM+RkHyRA3d3Zw/P74I2mVJ4kReDIiBFTOb1EdIG7DS6Wm8ng1eOi8fA2tMKEfhDj3GT1TA5Na6m1YS0YsnXgEGTh/499fY=;LZaOjdoy9VfjLLOsjXOsQQ=="
+secured: "oxyOF6OHp5ucyQpLjXuwOqB51Hd3nJ60ALa+2pfMV3gsejmd+D2cgXcvPo+q8+76e3ueFUhYf8XX285G5zV8ujtBLXr4fMlevogG5XhvQ8v3IGdjc3MflSsR+h7atcHacmwDYMN0vsy2HEmQbfhBRsSZBOh9hNbjHajMzafUB3YGzjCrABm0lr1EpBwkeJ1ABwuUus9CbQiDSDItvYm9/AGqMHbN5d+cf991ZEiodij5nHIcq8PR/HqZLG8+4hovUdZ8NPSHOeEwTXJagmjEAx4k582uQwNbaOg8a49G6wDz12Lj8uj6MR3yDz6htW2tnZ3Yb2kJkTd/FY6DfWfHntGKkLABaio266dDwODPHSA=;1X8gQXxXsWg1dlf0AFIopw=="
 ---
 
