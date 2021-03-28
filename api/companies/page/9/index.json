@@ -4,163 +4,56 @@
   "page": 9,
   "value": [
     {
-      "path": "_companies/mojo.md",
-      "title": "mojo",
-      "excerpt": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mojo/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mojo/",
+      "path": "_companies/narrativa.md",
+      "title": "Narrativa",
+      "excerpt": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/narrativa/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/narrativa/",
       "type": "profile",
-      "name": "mojo",
-      "overview": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
-      "website": "https://www.mojofertility.co/",
+      "name": "Narrativa",
+      "overview": "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare",
+      "website": "http://www.narrativa.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/mojofertility/",
-        "followers": 154
+        "url": "https://www.linkedin.com/company/9329868",
+        "followers": 341
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/mojofertility"
+        "url": "https://www.crunchbase.com/organization/narrative-visualization"
       },
       "twitter": {
-        "username": "mojofertility",
-        "url": "https://twitter.com/mojofertility",
-        "followers": 391
+        "username": "NarrativaAI",
+        "url": "https://twitter.com/NarrativaAI",
+        "followers": 728
       },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
+      "size": "2-10 employees",
+      "yearFounded": 2015,
       "locations": [
-        "Lyon, Rhône-Alpes"
+        "Shipping worldwide",
+        "Madrid, Boadilla del Monte"
       ],
       "funding": {
         "status": "Seed"
       },
       "topics": [
         "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1359866223434076163/bUKoxr7o_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "mojo",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=1594857600&v=beta&t=jFRlt8PrCUhmt-vwq9eVRKeZ2geX62897tvRK5j0Tk0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/mov.ai.md",
-      "title": "MOV.AI",
-      "excerpt": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/mov.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/mov.ai/",
-      "type": "profile",
-      "name": "MOV.AI",
-      "overview": "MOV.AI  provides an industry-grade operating system to change mobile machines into autonomous intelligent collaborative robots for universal commercial use.",
-      "website": "http://mov.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/movai/",
-        "followers": 567
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ground-drone-ltd"
-      },
-      "twitter": {
-        "username": "movairobots",
-        "url": "https://twitter.com/movairobots",
-        "followers": 124
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Cascais"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
+        "Natural Language Processing"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=KF0y_gPMnGI"
+          "url": "https://www.youtube.com/watch?v=Cztoxp9-4ZA"
         }
       ],
       "heat": 50,
+      "tags": [
+        "Natural Language Generation"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/961191390997774336/KxVaJhnX_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1347122063409106948/I5YSeFYF_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "MOV.AI",
+          "title": "Narrativa",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS7cPoXEKZLw/company-logo_200_200/0?e=1594857600&v=beta&t=wqA8W5HJQ9WiWeS1xvkHFslIZdwQ-JgmTJEXpfNOtY0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/movidius.md",
-      "title": "Movidius",
-      "excerpt": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/movidius/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/movidius/",
-      "type": "profile",
-      "name": "Movidius",
-      "overview": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
-      "website": "http://www.movidius.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/movidius",
-        "followers": 20091
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/movidius"
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2005,
-      "locations": [
-        "Santa Clara, CA",
-        "Santa Clara, California"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=hD3RYGJgH4A"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Movidius",
-          "isCached": false
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHMBK9DktdgOg/company-logo_200_200/0?e=1594857600&v=beta&t=J53cwyA96-njplV5LC0dIsGYTIxT-3S1GU5SFLHhTj0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -325,153 +218,97 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/orcam.md",
-      "title": "OrCam Technologies",
-      "excerpt": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/orcam/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/orcam/",
+      "path": "_companies/pathai.md",
+      "title": "PathAI",
+      "excerpt": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/pathai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/pathai/",
       "type": "profile",
-      "name": "OrCam Technologies",
-      "overview": "OrCam harnesses the power of artificial vision to assist people who are visually impaired. OrCam has created a technologically advanced device unique in its ability to provide visual aid through a discreet wearable platform and simple easy-to-use interface which serves to enhance the daily lives of people with vision loss. OrCam gives independence.",
-      "website": "https://www.orcam.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/orcam",
-        "followers": 4818
-      },
+      "name": "PathAI",
+      "overview": "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale",
+      "website": "http://Pathai.com",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/orcam-technologies"
+        "url": "https://www.crunchbase.com/organization/pathai"
       },
       "twitter": {
-        "username": "OrCam",
-        "url": "https://twitter.com/OrCam",
-        "followers": 10523
+        "username": "Path_AI",
+        "url": "https://twitter.com/Path_AI",
+        "followers": 1023
       },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
+      "yearFounded": 0,
       "locations": [
-        "Jerusalem, Jerusalem Region"
+        "Fremont, CA"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
         "AI",
-        "Computer Vision"
+        "AI in Healthcare"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=jx2zOrCTvcA"
+          "url": "https://www.youtube.com/watch?v=cUeScCtTng4"
         }
       ],
       "heat": 50,
-      "tags": [
-        "Facial Recognition",
-        "Image Recognition"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1162985248256380928/Mw9wWZI2_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/872157578364583937/mXsacVHf_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "OrCam Technologies",
+          "title": "PathAI",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/pinpoint.md",
-      "title": "Pinpoint",
-      "excerpt": "Pinpoint delivers a new kind of performance intelligence—one that synthesizes the work activity in your delivery tools, and applies data science to unlock faster, smarter engineering.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/pinpoint/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/pinpoint/",
+      "path": "_companies/people.ai.md",
+      "title": "people.ai",
+      "excerpt": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/people.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/people.ai/",
       "type": "profile",
-      "name": "Pinpoint",
-      "overview": "Pinpoint delivers a new kind of performance intelligence—one that synthesizes the work activity in your delivery tools, and applies data science to unlock faster, smarter engineering.",
-      "website": "https://pinpoint.com/",
+      "name": "people.ai",
+      "overview": "People.ai accelerates enterprise growth through the power of AI. With the industry’s only Revenue Intelligence System, People.ai frees all customer-facing teams, including sales, marketing, and customer success, from manual data entry by automatically capturing all contacts and customer activity data, dynamically updating the CRM and providing actionable intelligence across all management tools, allowing them to realize their full selling capacity.",
+      "website": "https://people.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/pinpoint-software/",
-        "followers": 452
+        "url": "https://www.linkedin.com/company/people.ai",
+        "followers": 5568
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/pinpoint-5"
+        "url": "https://www.crunchbase.com/organization/people-ai"
       },
       "twitter": {
-        "username": "pinpoint_sw",
-        "url": "https://twitter.com/pinpoint_sw",
-        "followers": 351
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Austin, TX",
-        "Austin, Texas"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1362799177911140353/WG8-27bN_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Pinpoint",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/pony.ai.md",
-      "title": "Pony.ai",
-      "excerpt": "Spearheading the future of mobility by building the safest and most reliable technology for autonomous vehicles.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/pony.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/pony.ai/",
-      "type": "profile",
-      "name": "Pony.ai",
-      "overview": "Spearheading the future of mobility by building the safest and most reliable technology for autonomous vehicles.",
-      "website": "https://www.pony.ai",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/pony-ai/",
-        "followers": 7911
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/pony-ai"
-      },
-      "twitter": {
-        "username": "PonyAI_tech",
-        "url": "https://twitter.com/PonyAI_tech",
-        "followers": 974
+        "username": "ppl_ai",
+        "url": "https://twitter.com/ppl_ai",
+        "followers": 1516
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
       "locations": [
-        "Fremont, CA",
-        "Fremont, California"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Sales"
       ],
       "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1058155354767339521/Ru2uRRKv_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Pony.ai",
+          "title": "people.ai",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQETvNK0jzsxDQ/company-logo_200_200/0?e=1594857600&v=beta&t=MidEOPuGZvQhEd3gxL909WdTCA7wzg3FYtvCr9_0ejo",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHaKaCdbYu60w/company-logo_200_200/0?e=1594857600&v=beta&t=xUGGT3HKPtEDdlL-EkldUHNT897W-AcUvmaGaG67E84",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -531,6 +368,122 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFAvxJrcc60nQ/company-logo_200_200/0?e=1594857600&v=beta&t=WuFBqfuhiv5YwK47gF0IWMs5P1d6zY_bg8EjOmvG-Rs",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/prophesee.ai.md",
+      "title": "Prophesee",
+      "excerpt": "Prophesee (formerly Chronocam) is the inventor of the world’s most advanced neuromorphic vision systems",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/prophesee.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/prophesee.ai/",
+      "type": "profile",
+      "name": "Prophesee",
+      "overview": "Prophesee (formerly Chronocam) is the inventor of the world’s most advanced neuromorphic vision systems",
+      "website": "http://www.prophesee.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/chronocam",
+        "followers": 2595
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/chronocam"
+      },
+      "twitter": {
+        "username": "Prophesee_ai",
+        "url": "https://twitter.com/Prophesee_ai",
+        "followers": 967
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Paris"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=L7DsXXUyRis"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/966082055087054850/FztvMVNc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Prophesee",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQHW5I8H_LBHiQ/company-logo_200_200/0?e=1594857600&v=beta&t=fHFU1sj7uJ17yMEZd--Eo267OJTbR8GBtcvN7jxKNIk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/quantib.md",
+      "title": "Quantib",
+      "excerpt": "Our goal is to give radiologists the best tools to help deliver fast, objective, accurate and insightful reports.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/quantib/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/quantib/",
+      "type": "profile",
+      "name": "Quantib",
+      "overview": "Our goal is to give radiologists the best tools to help deliver fast, objective, accurate and insightful reports.",
+      "website": "http://www.quantib.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/quantib-bv/",
+        "followers": 1389
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/quantib"
+      },
+      "twitter": {
+        "username": "Quantib",
+        "url": "https://twitter.com/Quantib",
+        "followers": 732
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Rotterdam, ZH"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=MmbfaKF-wss"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1249958982770462721/WUWU3JJa_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Quantib",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGYElcY9GF7Vg/company-logo_200_200/0?e=1594857600&v=beta&t=zP-CryOPddYQZ6jokPGcvBUTEjmN4Bvya15Ef16P2zI",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -729,6 +682,54 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/rockmetric.md",
+      "title": "Rockmetric",
+      "excerpt": "Rockmetric is a 'Cognitive Data Analyst'​ that automates analysis and insights with a Google-like 'Natural Language Search'​ interface. Large enterprises can deliver sophisticated analysis and adhoc queries at scale instantly without having to expand reporting and analytics teams.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rockmetric/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/rockmetric/",
+      "type": "profile",
+      "name": "Rockmetric",
+      "overview": "Rockmetric is a 'Cognitive Data Analyst'​ that automates analysis and insights with a Google-like 'Natural Language Search'​ interface. Large enterprises can deliver sophisticated analysis and adhoc queries at scale instantly without having to expand reporting and analytics teams.",
+      "website": "https://www.rockmetric.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/rockmetric",
+        "followers": 816
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/rockmetric"
+      },
+      "twitter": {
+        "username": "rockmetric",
+        "url": "https://www.twitter.com/rockmetric",
+        "followers": 246
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Mumbai, Maharashtra"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OZ7_tIGZXus"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1110881175193546759/RQHj5B0z_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Rockmetric",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/roobo.md",
       "title": "ROOBO",
       "excerpt": "北京智能管家科技有限公司 (roobo) 成立于2014年，是面向全球的智能硬件孵化与发行平台，同时也致力于打造行业领先的人工智能及机器人操作系统（roobo AI+OS）。我们的总部设立于北京，并在深圳、苏州、成都、韩国首尔，莫斯科和西雅图均设有分部或销售公司。",
@@ -822,6 +823,63 @@
           "height": 400,
           "title": "Semantic Machines",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/sentifi.md",
+      "title": "Sentifi",
+      "excerpt": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sentifi/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/sentifi/",
+      "type": "profile",
+      "name": "Sentifi",
+      "overview": "Sentifi is a Swiss tech company and provider of alternative data analytics. Our enterprise solutions are used by the world’s leading financial services organizations whilst our media solutions are integrated on the websites of more than 50 publishers in Europe and Asia.",
+      "website": "https://parashift.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/sentifi/",
+        "followers": 11489
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sentifi"
+      },
+      "twitter": {
+        "username": "sentifi",
+        "url": "https://twitter.com/sentifi",
+        "followers": 4826
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Zurich, Switzerland",
+        "Zurich, Zurich"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 50,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1145902565151739905/KRRXTq0L_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Sentifi",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_mtrM-SjMVQ/company-logo_200_200/0?e=1594857600&v=beta&t=kvL_dpqMRheoUPLs0WjZXn_V74Fh1zSdcN0VJxqBX4w",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -930,52 +988,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/sightmachine.md",
-      "title": "Sight Machine",
-      "excerpt": "Sight Machine is the category leader for manufacturing analytics and used by Global 500 companies to make better, faster decisions about their operations. Sight Machine's analytics platform, purpose-built for discrete and process manufacturing, uses artificial intelligence, machine learning, and advanced analytics to help address critical challenges in quality and productivity throughout the enterprise.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sightmachine/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/sightmachine/",
-      "type": "profile",
-      "name": "Sight Machine",
-      "overview": "Sight Machine is the category leader for manufacturing analytics and used by Global 500 companies to make better, faster decisions about their operations. Sight Machine's analytics platform, purpose-built for discrete and process manufacturing, uses artificial intelligence, machine learning, and advanced analytics to help address critical challenges in quality and productivity throughout the enterprise.",
-      "website": "https://sightmachine.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sight-machine/",
-        "followers": 2817
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sight-machine"
-      },
-      "twitter": {
-        "username": "sightmachine",
-        "url": "https://twitter.com/sightmachine",
-        "followers": 1179
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1032033528324603904/ejV1uR7X_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Sight Machine",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/skelterlabs.md",
       "title": "Skelter Labs",
       "excerpt": "Skelter Labs is an artificial intelligence technology company developing innovative core technologies with the key focus in Conversation, Speech, Vision and Context &amp; Entity Recognition. As a technology provider, Skelter Labs’ priority is to create value for businesses by making existing solutions work better with applicable AI.",
@@ -1017,54 +1029,43 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/skinvision.md",
-      "title": "SkinVision",
-      "excerpt": "The leading app for early detection of the most common types of #SkinCancer. Self-check now: https://t.co/gcMPVNzjxO",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/skinvision/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/skinvision/",
+      "path": "_companies/skychain.global.md",
+      "title": "Skychain Global",
+      "excerpt": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/skychain.global/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/skychain.global/",
       "type": "profile",
-      "name": "SkinVision",
-      "overview": "The leading app for early detection of the most common types of #SkinCancer. Self-check now: https://t.co/gcMPVNzjxO",
-      "website": "https://www.skinvision.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/skinvision/",
-        "followers": 0
-      },
+      "name": "Skychain Global",
+      "overview": "Skydio makes every aspect of flying drones more creative, more fun, more useful, and less stressful with groundbreaking artificial intelligence.",
+      "website": "https://skychain.global",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/skinvision"
+        "url": "https://www.crunchbase.com/organization/skychain-global"
       },
       "twitter": {
-        "username": "sknvsn",
-        "url": "https://twitter.com/sknvsn",
-        "followers": 2073
+        "username": "skychainglobal",
+        "url": "https://twitter.com/skychainglobal",
+        "followers": 2620
       },
-      "size": "11-50 employees",
-      "yearFounded": 2011,
+      "yearFounded": 0,
       "locations": [
-        "Amsterdam, the Netherlands"
+        "Redwood City, CA"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Healthcare"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=eAcjCkwsIy0"
+          "url": "https://www.youtube.com/watch?v=npQklriczNA"
         }
       ],
       "heat": 50,
-      "tags": [
-        "Cancer"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/809063449624018945/d9gEaQop_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1176051622230859776/jEIttImc_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "SkinVision",
+          "title": "Skychain Global",
           "isCached": true
         }
       ],
@@ -1112,106 +1113,56 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/speechmatics.md",
-      "title": "Speechmatics",
-      "excerpt": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/speechmatics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/speechmatics/",
+      "path": "_companies/starskyrobotics.md",
+      "title": "Starsky Robotics",
+      "excerpt": "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/starskyrobotics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/starskyrobotics/",
       "type": "profile",
-      "name": "Speechmatics",
-      "overview": "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects.",
-      "website": "https://www.speechmatics.com/",
+      "name": "Starsky Robotics",
+      "overview": "Starsky Robotics is an autonomous truck startup aiming to make our roads safer while providing truck drivers with jobs that bring them back to their families.",
+      "website": "http://starskyrobotics.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/speechmatics/",
-        "followers": 2744
+        "url": "https://www.linkedin.com/company/starsky-robotics",
+        "followers": 2281
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/speechmatics"
+        "url": "https://www.crunchbase.com/organization/starsky-robotics"
       },
       "twitter": {
-        "username": "Speechmatics",
-        "url": "https://twitter.com/Speechmatics",
-        "followers": 1305
+        "username": "StarskyRobotics",
+        "url": "https://twitter.com/StarskyRobotics",
+        "followers": 910
       },
-      "size": "51-200 employees",
-      "yearFounded": 2009,
+      "size": "11-50 employees",
+      "yearFounded": 0,
       "locations": [
-        "Cambridge"
+        "San Francisco, CA (CA)",
+        "San Francisco, California (CA)"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-fjy3iaiWFw"
+        }
       ],
       "heat": 50,
       "tags": [
-        "Speech Recognition"
+        "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/866594840552906757/zF08GXqA_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/835187208634060800/orva3Tpz_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Speechmatics",
+          "title": "Starsky Robotics",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/suki.ai.md",
-      "title": "Suki",
-      "excerpt": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/suki.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/suki.ai/",
-      "type": "profile",
-      "name": "Suki",
-      "overview": "Suki is an AI-powered, voice-enabled digital assistant for doctors that lifts the burden of documentation, enabling them to focus on what they love: treating patients.",
-      "website": "https://www.suki.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/SukiHQ",
-        "followers": 14481
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sukihq"
-      },
-      "twitter": {
-        "username": "SukiHQ",
-        "url": "https://www.twitter.com/SukiHQ",
-        "followers": 1598
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Redwood City, CA",
-        "Redwood City, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1156698809189064704/HbbjesAp_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Suki",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEYEMprol7fTg/company-logo_200_200/0?e=1594857600&v=beta&t=St3LAmADtAtLsdNouB8i67hlQjMwgQpRr-W1yUnDa4I",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -1365,6 +1316,59 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/textio.md",
+      "title": "Textio",
+      "excerpt": "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/textio/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/textio/",
+      "type": "profile",
+      "name": "Textio",
+      "overview": "Textio is the inventor of augmented writing. Textio transforms your rough ideas into powerful language by hitting Tab. Discover more at https://t.co/JJVEVb9cia",
+      "website": "https://textio.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/textio",
+        "followers": 13867
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/textio"
+      },
+      "twitter": {
+        "username": "textio",
+        "url": "https://twitter.com/textio",
+        "followers": 7682
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Seattle",
+        "Seattle, WA",
+        "Seattle, Washington"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=nd3_Ir9bw6k"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1145709250657824769/_mUNJSbF_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Textio",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/tnh.health.md",
       "title": "TNH Health",
       "excerpt": "TNH Health creates AI-powered chatbots to help healthcare organizations engage and monitor large patient populations.",
@@ -1418,88 +1422,32 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/trueface.ai.md",
-      "title": "Trueface.ai",
-      "excerpt": "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/trueface.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/trueface.ai/",
+      "path": "_companies/trint.md",
+      "title": "Trint",
+      "excerpt": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/trint/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/trint/",
       "type": "profile",
-      "name": "Trueface.ai",
-      "overview": "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns.",
-      "website": "https://trueface.ai/",
+      "name": "Trint",
+      "overview": "Trint glues audio & video seamlessly to an automated transcript. Anyone can search & share content that matters. Need any help? Contact support@trint.com",
+      "website": "https://www.trint.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/trueface.ai",
-        "followers": 760
+        "url": "https://www.linkedin.com/company/trint/",
+        "followers": 3523
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/trueface-ai"
+        "url": "https://www.crunchbase.com/organization/trint"
       },
       "twitter": {
-        "username": "trueface_ai",
-        "url": "https://twitter.com/trueface_ai",
-        "followers": 1601
+        "username": "trinthq",
+        "url": "https://twitter.com/trinthq",
+        "followers": 1880
       },
       "size": "11-50 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Los Angeles, CA",
-        "Los Angeles, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=j3cvmYhrgKU"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Facial Recognition",
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1186378465508900865/N_mdyxUc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Trueface.ai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/twiggle.md",
-      "title": "Twiggle",
-      "excerpt": "Founded by Dr. Amir Konigsberg and Dr. Adi Avidor, two ex-Googlers, Twiggle uses natural language processing, machine learning, and ontological modelling to build e-commerce search technology that understands shopper intent and matches it with the products retailers sell online.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/twiggle/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/twiggle/",
-      "type": "profile",
-      "name": "Twiggle",
-      "overview": "Founded by Dr. Amir Konigsberg and Dr. Adi Avidor, two ex-Googlers, Twiggle uses natural language processing, machine learning, and ontological modelling to build e-commerce search technology that understands shopper intent and matches it with the products retailers sell online.",
-      "website": "https://www.twiggle.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/twiggle/",
-        "followers": 1707
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/twiggle"
-      },
-      "twitter": {
-        "username": "twiggle_com",
-        "url": "https://twitter.com/twiggle_com",
-        "followers": 302
-      },
-      "size": "51-200 employees",
       "yearFounded": 2014,
       "locations": [
-        "Tel Aviv-Yafo, Israel",
-        "Tel Aviv, Tel Aviv"
+        "London",
+        "London, Greater London"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -1510,17 +1458,69 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=6qXk_fYvETY"
+          "url": "https://www.youtube.com/watch?v=CP-0vxaBKbo"
         }
+      ],
+      "heat": 50,
+      "tags": [
+        "Speech Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1262996074635177987/ROGSdua4_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Trint",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/ubiquity6.md",
+      "title": "Ubiquity6",
+      "excerpt": "Ubiquity6 is working on some of the hardest challenges in computer vision, augmented reality and mapping.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/ubiquity6/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/ubiquity6/",
+      "type": "profile",
+      "name": "Ubiquity6",
+      "overview": "Ubiquity6 is working on some of the hardest challenges in computer vision, augmented reality and mapping.",
+      "website": "http://ubiquity6.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/ubiquity6/",
+        "followers": 2548
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ubiquity6"
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/814412371963899904/aVyGZY7g_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1171929635975622658/twdYPRkV_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Twiggle",
-          "isCached": true
+          "title": "Ubiquity6",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGVtKvDt4hdcg/company-logo_200_200/0?e=1594857600&v=beta&t=iHDvtZAhTUYS8GnDicLVVI8qQ0IArx6Zndr4YJacY1g",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"

@@ -2,7 +2,7 @@
 name: "Zoox"
 overview: "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy."
 type: "profile"
-heat: 198
+heat: 125
 
 website: https://zoox.com/
 
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "GShMvSvYFbOMy9T/5rq+DdXOeouQreJ1YLwNoU48RwbguQhfkMGXNsPmNA31kHBTW/fjclS+KsV9OqqCbcUhsCYwYl9bpqivviA4lN7bi8t4cs9alt6sse1dCTYUEzWE7CNGXBw56WZp4rQzulYI4G3Vx6Wa+zURDAkgGi6guW2n70FAGFbKnVQGgc0kNEYuE4RySTgGM/tX5ZjRs9hLJjHLSKBxp23Coa0jKsu6s+Mg3upkRJJRNiN9a6Yav2kXW4m5mbAztMVZnelR4pgj11S9QGKnW/ubg35CWyjwmvq5VkK2rsIoDtcdESuz+Yp2bIScOBP/VonaaQFt13VuhpiRr2y/d0RMAt6BPuzeuJe6WHyA9NX0H/Tr43uHiTczbj5yvC5RBSHDxlnWTYr5ZKqpZVWRjhCw200PQjagclY=;+E+89q8DU07KNsiw6qlq2g=="
+secured: "NgltrPU35T544MsD6I8CNJh2fle9gULlGk6yJYniX/Bi9P4eV+MUCbiX+UaQO59XAUbjsYex25Y7n39KIGUMxneUbuZIwUYUqYJHffHogmCZ68/ToCqNHW0ozHC274cuDue2TV2s55wwjTVDFa5nY7LWvjYPW8kRUrnkbuPZUJJRypCrZ31+y0aVVJ9Jt6NN9XddYpM/MjV74pZUeeAYjCvCZSm5RkVaXDJw/xeQqkiuGrmxiipyc1KQNsQq8TXr1BKzGIz47slPCClCi9pK2u+/oT8NZ8E5JwJVzRr0ZlBXkZr0eWLAACtyPpaL1iP+YRlyutLj8qcdQ0Bwr6c1iJTpPm4pPkTl90imiO8NPCZA7CrePrjyO8eqC0T7ZxaCaK5XfU3aEO/thUSh2T8FLMxCAzLLZR0gEKa5PbXk4b8=;5Zqhj3SsG/z4L75Y17UPSA=="
 ---
 

@@ -2,7 +2,7 @@
 name: "OakNorth"
 overview: "OakNorth is the next-generation credit platform that is redefining lending to lower mid-market businesses ($1-$25m loan size) globally."
 type: "profile"
-heat: 58
+heat: 57
 
 website: https://www.oaknorth.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "oaknorth"
   url: "https://twitter.com/oaknorth"
-  followers: 967
+  followers: 968
 
 size: 501-1,000 employees
 yearFounded: 2015
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Z0ovm10qr6YB0VC48qOE09Pygrj5IUC31yWjEgcuk7fkfXYcyZtRVgNUYzjBm1J06kwh9Hl5MUtin0/yHEQYUClKt24iqNLvN95UH4/EI1a/0OUi1/BM+mTNaHxydWJUfNjjlS0hZyy73rzAOhkN1WxN+n51RFQrgzK/ZfXsEeSWnJA7JUdTQWK4x1VfPvFbhM9k3Q8f44QYcyNd7DCTnDKq2KGAtLvtaf0oPGYuMyaD1BxWFdHjz3Jwtvqo4hHzU5X7PemL+ADTLljMkialQU6nI54KnkwGBd+xkkaZtSKJfGCwIb97iEgLCznTZZ6Z8hUNMJN6S/yUMDdTu6Xeo0S9MX22guLYemWL5CP2dxibB7J/fft/idZfFSpqwwflB0gO8Yr4OFIVC4y0Fm81zQ==;/SD7s0xKuERdMGi7Vz24rg=="
+secured: "0MMnXXHvnC/4yKmQ68alwvWFTAQq+65AiGrixrzyFCL9rGz8aj041cU//2MuHpH962QmiCs4p1CJFIpFKFXHIgxuCbnIncnyTGnyDg9FdK6+1APxggWVjcgWl3j4s8VB+9mkPIZsQfNBTW+ND3ycL7SBHY1yLwtiOVVpZvho7y/YWg1vBa5UxMPAgBQdHUn+jmh4YTUVYx6gBz2AHfETa2s3oX8cKfOd8n5mFnrUspG+1BEJO9zufa/VyP/FTewriXBr1o+0AmmoZB/KbjwcegMM7gSZdnNLjL4R7Cr0330V7mrhBsSRrUnSdrFPS9Ra4MlLkLy3MvnzzzH3xb0o9Dw0RQ6Q1PKiMzI6x9SdualQEXAsNJbO5G6Bl5XSut4Ug9HK+Q1d4VcyWrXJZgBdUg==;yVM5b1c7+nxJpPib3epZTQ=="
 ---
 
