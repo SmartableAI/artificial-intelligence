@@ -7,7 +7,7 @@ originalUrl: "https://hubbis.com/news/hong-kong-based-fintech-apoidea-group-eyes
 webUrl: "https://hubbis.com/news/hong-kong-based-fintech-apoidea-group-eyes-regional-expansion-with-plans-to-double-headcounts-two-years-in-a-row"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 500
     height: 500
     isCached: true
-
-related:
-  - title: "Hong Kong based FinTech Apoidea aims to expand regional footprint"
-    excerpt: "After doubling its headcounts in 2020, Apoidea Group, a Hong Kong-based AI-driven FinTech start up, plans to double up the team again as the firm sees signs of rapid revenue growth. The FinTech aims to strengthen the team by bringing in candidates with ..."
-    publishedDateTime: 2021-03-23T10:07:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/hong-kong-based-fintech-apoidea-aims-to-expand-regional-footprint/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/09/FinTech-Funding-wealth.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "+oe5Ks5e9aTBAMJBfKOU9HaXONdrs9EcvRNIk986DIQgvanJixCiLrhiIo20bRbc9Oreth5Shde3TeuK/5wy/G3qBEL4ER2AwkLWEmVcR6fBzKpBiZKRTHkI1veFl/h0EOOX4qaNXIXNrZCUvjBda3ZrnV2BfCiOZ5e8oP7rRKR5hCSRLlYhXDKGNXQq+ufk4YjbLx1iQXt+XkaopyXRECZZ18Efej4dxtniWNZCXnp72XTXw4k1k+QUusG0SXyVVNh1uDDrDNnwN3gsDbugKARyEoKWD9mnW018qcB8RWswN+d2ZN6v+N8zPkdBenhxy/PZUf6SuAPHhteqNJqrZHCnECpY1dVjL1B8+JDRWmQ=;uK4TGTWlanb0ZcZEhr9jGQ=="
 ---

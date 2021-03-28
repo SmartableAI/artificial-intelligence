@@ -41,20 +41,6 @@ related:
         width: 1170
         height: 780
         isCached: true
-  - title: "Upgraded Nintendo Switch reportedly using latest Nvidia graphics chip"
-    excerpt: "Nvidia's Deep Learning Super Sampling technology uses AI and machine learning to create higher-resolution graphics"
-    publishedDateTime: 2021-03-23T10:26:00Z
-    webUrl: "https://www.gamesindustry.biz/articles/2021-03-23-nintendo-switch-upgrade-reportedly-using-latest-nvidia-graphics-chip"
-    type: article
-    provider:
-      name: Games Industry
-      domain: gamesindustry.biz
-    quality: 39
-    images:
-      - url: "https://images.eurogamer.net/2021/articles/2021-03-23-10-18/Nintendo_Switch.jpeg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The rumored new Nintendo Switch might use AI to upscale images in real-time"
     excerpt: "DLSS basically uses AI to upscale images in real-time, so you end up with a higher-resolution image without the image quality hit that traditional upscaling methods bring. It’s a perfect fit for the power-constrained handheld console,"
     publishedDateTime: 2021-03-23T16:46:00Z

@@ -83,15 +83,6 @@ related:
         width: 1600
         height: 1280
         isCached: true
-  - title: "Moody's Analytics vince nella categoria 'Best Use of AI in Banking or FinTech'"
-    excerpt: "Moody's Analytics ha vinto il premio Best Use of AI in Banking or FinTech (Miglior utilizzo dell'IA nel settore bancario o FinTech) ai 2021 Global Achievement Awards for AI. Si tratta di un riconoscim"
-    publishedDateTime: 2021-03-23T11:00:00Z
-    webUrl: "https://www.ansa.it/sito/notizie/economia/business_wire/news/2021-03-23_123158117.html"
-    type: article
-    provider:
-      name: ANSA
-      domain: ansa.it
-    quality: 30
   - title: "Aunalytics launches Daybreak for Financial Services"
     excerpt: "Mid-sized banks and credit unions now have access to actionable data, enriched with Smart Features, to enhance customer relationships and deliver the right products and services, to the right people,"
     publishedDateTime: 2021-03-26T13:40:00Z

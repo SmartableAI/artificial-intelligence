@@ -36,22 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "AI in Healthcare: Where Technology Meets Humanity"
-    excerpt: "Businesses across the globe are taking advantage of the transformative powers of technology. Among these technologies is Artificial Intelligence (AI), a"
-    publishedDateTime: 2021-03-23T09:45:00Z
-    webUrl: "https://www.albawaba.com/business/ai-healthcare-where-technology-meets-humanity"
-    ampWebUrl: "https://www.albawaba.com/amp/business/ai-healthcare-where-technology-meets-humanity"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/ai-healthcare-where-technology-meets-humanity"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 76
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/Sama%20al%20Kurdi/AIHealthSector-shutterstock-22Mar2021.jpg?itok=CIsgEZu7"
-        width: 1000
-        height: 471
-        isCached: true
 
 secured: "RZG6+nonIjjFPeEs9+gyfLa/wIbko4hdeu/+cbX7Gjg7ua70rxM5ZVQvml6fPCnQGO3W5yzLL7HY6xlwNcTgOtgHcb8je68gaLQfAaBFexgylj15ecx7nHiYRdnqMoywynxjLlQOn2eQduwANQ9vbPfn7JU9bfyFxIHGGdLqRRbX4r7D8TynBeK98oU0Ey7bJA3o3jTyg7j3NwkkCaJrCpSzyOE468ZI1WuloZG5FllSKxWQUCgx2BMlIrw+6kmx3gl6k1De4HOmuo+pUYShgJxWkAjnCMy3nc8f31HIZNIVEBmMwA7OFPhWBRKMWLigFVCfMpdPmqoH6N2W19deZGzzg0qu7QrGw+DV/LNTCBxOWfbEsfbkv7AoxbGAlEo36ERCy7gYwQApD1cMVh8TL8wJ/brYqddjId96+91ELEGlC1MBZMJ7mh80TjxMYH6a7N5fbfaHAOHPl3Wh0deRAsge1HvVOr+ibPpIsmL/09H+m02PKVPgS7Owo4Hn8BMRxH+NX3JUv9J4CpfRJUTxVw==;RHROM7zX7va8FGOZpAF34A=="
 ---

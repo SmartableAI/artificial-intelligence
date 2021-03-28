@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "AI in Healthcare: Where Technology Meets Humanity"
-    excerpt: "Businesses across the globe are taking advantage of the transformative powers of technology. Among these technologies is Artificial Intelligence (AI), a"
-    publishedDateTime: 2021-03-23T09:45:00Z
-    webUrl: "https://www.albawaba.com/business/ai-healthcare-where-technology-meets-humanity"
-    ampWebUrl: "https://www.albawaba.com/amp/business/ai-healthcare-where-technology-meets-humanity"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/ai-healthcare-where-technology-meets-humanity"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 76
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/im_new/Sama%20al%20Kurdi/AIHealthSector-shutterstock-22Mar2021.jpg?itok=CIsgEZu7"
-        width: 1000
-        height: 471
-        isCached: true
   - title: "How Enterprises are Optimizing the Success of Cognitive AI in Healthcare?"
     excerpt: "AI is now known for its ability to speed up processes, streamline procedures and, of course, crunch large amounts of data faster than a person could ever have done. But when it comes to structures that can think about themselves?"
     publishedDateTime: 2021-03-25T11:53:00Z

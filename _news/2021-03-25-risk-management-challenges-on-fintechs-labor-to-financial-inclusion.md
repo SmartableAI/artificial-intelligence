@@ -133,20 +133,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Banca Progetto, 800 mila euro di finanziamento alla start up fintech Young"
-    excerpt: "De Silva (Banca Progetto): \"Siamo sempre felici di poter dare un aiuto concreto a progetti di giovani brillanti con una idea imprenditoriale innovativa\""
-    publishedDateTime: 2021-03-23T10:35:00Z
-    webUrl: "https://www.affaritaliani.it/economia/notizie-aziende/banca-progetto-800-mila-euro-di-finanziamento-alla-start-up-fintech-young-730248.html"
-    type: article
-    provider:
-      name: affaritaliani.it
-      domain: affaritaliani.it
-    quality: 22
-    images:
-      - url: "https://www.affaritaliani.it/static/upl2021/banc/banca-progetto-young.jpg"
-        width: 800
-        height: 576
-        isCached: true
   - title: "Obligo Named the Most Promising Israeli-Founded Fintech Startup in Lending and Financing for 2021"
     excerpt: "As the only non-insurance deposit alternative, Obligo’s credit-based solution keeps landlords secure and renters accountable by combining Open Banking technology with AI-based underwriting and collection capabilities. Since launching its fintech solution ..."
     publishedDateTime: 2021-03-23T14:12:00Z

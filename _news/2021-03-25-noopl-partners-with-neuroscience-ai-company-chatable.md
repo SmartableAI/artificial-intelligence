@@ -20,99 +20,17 @@ topics:
   - AI
 
 related:
-  - title: "ENACOMM partners with biometric & AI technology company IDmission"
-    excerpt: "FinTech enablement company ENACOMM has announced partnering with IDmission, a global leader in biometric and AI technology providing end-to-end digital transformations for applications relying on ID and identity verifications. Through the collaboration ..."
-    publishedDateTime: 2021-03-26T12:07:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/enacomm-partners-with-biometric-ai-technology-company-idmission/"
+  - title: "Great Learning partners with JAIN to offer AI, Data Science courses"
+    excerpt: "The degrees will include MBA, MCA, and BBA with specialization in AI, Data Science, Full Stack Development, Business Analytics, Digital Marketing and E-commerce, and Cloud Computing."
+    publishedDateTime: 2021-03-24T09:33:00Z
+    webUrl: "https://www.dqindia.com/great-learning-partners-jain-offer-ai-data-science-courses/"
+    ampWebUrl: "https://www.dqindia.com/great-learning-partners-jain-offer-ai-data-science-courses/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/great-learning-partners-jain-offer-ai-data-science-courses/amp/"
     type: article
     provider:
-      name: IBS
-      domain: ibsintelligence.com
+      name: Dataquest
+      domain: dqindia.com
     quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/03/enacomm.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "FinTech Company ENACOMM Strikes Partnership with Leader in Biometric and AI Technology IDmission"
-    excerpt: "thanks to a new partnership between FinTech enablement company ENACOMM and IDmission, a global leader in biometric and AI technology providing end-to-end digital transformations for applications relying on ID and identity verifications. ENACOMM customers ..."
-    publishedDateTime: 2021-03-24T13:34:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/268186599/fintech-company-enacomm-strikes-partnership-with-leader-in-biometric-and-ai-technology-idmission"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 26
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1616593497692.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "FinTech company ENACOMM strikes partnership with leader in biometric and AI technology IDmission"
-    excerpt: "Banks, credit unions, credit card and payments companies of all sizes are now able to take advantage of the most modern identity solutions available, thanks to a new partnership between FinTech enablement company ENACOMM and IDmission,"
-    publishedDateTime: 2021-03-25T02:03:00Z
-    webUrl: "https://www.cuinsight.com/press-release/fintech-company-enacomm-strikes-partnership-with-leader-in-biometric-and-ai-technology-idmission"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 26
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
-  - title: "IDmission biometrics and liveness added to Enacomm stack for fintech onboarding"
-    excerpt: "Enacomm has formed a partnership agreement with IDmission to bring biometrics and other AI technologies to Enacomm’s fintech customers for end-to-end digital transformation of applications relying on identity verification. IDmission’s passive liveness ..."
-    publishedDateTime: 2021-03-24T21:46:00Z
-    webUrl: "https://www.biometricupdate.com/202103/idmission-biometrics-and-liveness-added-to-enacomm-stack-for-fintech-onboarding"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/02123142/identity-verification-integration.jpg"
-        width: 696
-        height: 392
-        isCached: true
-  - title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
-    excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey biometric solution."
-    publishedDateTime: 2021-03-23T10:03:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-eastern-europe-6d0bd9a8bc0ffe9159a33c0c10341a11"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Idemia face, ID R&D voice, Aware fingerprint biometrics score top biometric accuracy rankings"
-    excerpt: "The results show Idemia’s performance in facial recognition for masked and unmasked faces, ID R&D’s in short-duration speaker recognition, and Aware’s in proprietary fingerprint template generation and matching. Idemia achieves top accuracy results ..."
-    publishedDateTime: 2021-03-23T17:39:00Z
-    webUrl: "https://www.biometricupdate.com/202103/idemia-face-id-rd-voice-aware-fingerprint-biometrics-score-top-biometric-accuracy-rankings"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 13
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/05/11142614/elearning-remote-authentication-data-protection.jpg"
-        width: 820
-        height: 460
-        isCached: true
-  - title: "ENACOMM, Inc.: FinTech Company ENACOMM Strikes Partnership with Leader in Biometric and AI Technology IDmission"
-    excerpt: "TULSA, OK / ACCESSWIRE / March 24, 2021 / Banks, credit unions, credit card and payments companies of all sizes are now able to take advantage of the most modern identity solutions available, thanks t"
-    publishedDateTime: 2021-03-24T13:11:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-03/52388100-enacomm-inc-fintech-company-enacomm-strikes-partnership-with-leader-in-biometric-and-ai-technology-idmission-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "r/qIXLkuL8uC7MswKMrkLr1HQwlM47H2yC77t+n/+EHUWDLsBOiOLSJbStF/A/UhQHDXTt30KF7p79fdkqMIStWzx9Dc1CmC1CDB/VfPg0BWlPdfbVgRdyZi29Gtu6vSnR5pneHIF0Ei7NDUIeiOGVonO0kPol5sLyweuiEmP8FMsv+DFLj5J+ZGL6tOL+7suM4MHcLmSZXVhCXjNWgm79DrcajNLDj4ksHsBp1Q1rf+s965li1IJIauK9sH4IOUvoG6BrsTWJqtylbxdzkACOKv045uURY/zrk+XLE8Q5CRSNpu213tF/WoQRYy8Ew8zSJHQe/uolsVz8PNw745cuj2VQzvmmQ/N77PawzdDLI=;/n/DDuoO2lqZ1gE0KLAv1w=="
 ---

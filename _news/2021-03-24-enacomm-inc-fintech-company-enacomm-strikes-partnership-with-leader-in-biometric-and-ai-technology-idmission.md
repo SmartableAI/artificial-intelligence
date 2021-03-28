@@ -33,17 +33,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Noopl Partners with Neuroscience AI Company Chatable"
-    excerpt: "Noopl, the industry-changing startup focused on breakthrough innovation and technology integration in the consumer audio space, has partnered with Chatable, a pioneering neuroscience-based AI company. Noopl's initial consumer product, now featuring ..."
-    publishedDateTime: 2021-03-25T09:20:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20333633/noopl-partners-with-neuroscience-ai-company-chatable"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20333633"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20333633"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
   - title: "FinTech Company ENACOMM Strikes Partnership with Leader in Biometric and AI Technology IDmission"
     excerpt: "thanks to a new partnership between FinTech enablement company ENACOMM and IDmission, a global leader in biometric and AI technology providing end-to-end digital transformations for applications relying on ID and identity verifications. ENACOMM customers ..."
     publishedDateTime: 2021-03-24T13:34:00Z
@@ -85,20 +74,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/02123142/identity-verification-integration.jpg"
         width: 696
         height: 392
-        isCached: true
-  - title: "Neurotechnology Makes Significant Enhancements to MegaMatcher ABIS Turnkey Biometric Solution"
-    excerpt: "Neurotechnology, a provider of deep-learning-based solutions and high-precision biometric identification and object recognition technologies today announced the latest version of its MegaMatcher ABIS turnkey biometric solution."
-    publishedDateTime: 2021-03-23T10:03:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-europe-corporate-news-eastern-europe-6d0bd9a8bc0ffe9159a33c0c10341a11"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Idemia face, ID R&D voice, Aware fingerprint biometrics score top biometric accuracy rankings"
     excerpt: "The results show Idemia’s performance in facial recognition for masked and unmasked faces, ID R&D’s in short-duration speaker recognition, and Aware’s in proprietary fingerprint template generation and matching. Idemia achieves top accuracy results ..."

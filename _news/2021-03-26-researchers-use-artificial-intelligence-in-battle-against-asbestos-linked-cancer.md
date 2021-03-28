@@ -76,17 +76,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "Prospection is Using Machine Learning to Improve Patient Outcomes"
-    excerpt: "A health analytics company, Prospection combines AI and predictive data analysis to help improve patient outcomes. Machine learning tools can be used to spot major and minor trends in patient data that would be impossible to identify with the naked eye."
-    publishedDateTime: 2021-03-23T09:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/ac20292692/prospection-is-using-machine-learning-to-improve-patient-outcomes"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20292692"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20292692"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "n5z1MTtQ309ZqwEzQU4GNiqtQ5RSuD1lq8iELUAOdpWmxzIZ4xOKu01mmrsv0vG9/s/OtKRxl9izeC8h+46WX/qIwjRC8pxV/L1LscaWIk1vT8KkGqrhqyBIDiGyHWg7PcnG+9zv5QhcmQ8Q5b1HIIK/flnkv7P82vdsLRzFw5kTHMPyFUC9eh04tCpuWG4qIyUdgqO/XWbznrGhSsl/ioC/l1FTRNGH3ZZ81TW/105h0pbW6iaQclVNRe4U0g5L0+jVUeuTiUlRAPhjY0OcjdkbkzdgaIi8aozB889/x+rkA7zRxwGRG+WBSHKpK0EwPvyijbwWljpfEKTCfmNaDWrUC92UcsTPVQdDBnSMWvc=;6VuRUS/cI3AsxJWQxjwpsA=="
 ---

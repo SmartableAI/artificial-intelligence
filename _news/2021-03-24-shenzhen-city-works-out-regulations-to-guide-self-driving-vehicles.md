@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top 8 Online Resources To Get Started With Self-Driving Vehicles In 2021"
-    excerpt: "Waymo, Tesla, Faraday Future etc. have made huge inroads into self-driving tech and have been riding the AI wave to take us into the future. The mobility revolution has created new jobs, such as Industrial Engineer, Perception Software Engineers ..."
-    publishedDateTime: 2021-03-23T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-online-resources-to-get-started-with-self-driving-vehicles-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 23
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/AIM-Illustrations.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
   - title: "City of Arlington launches on-demand self-driving shuttle service with RAPID"
     excerpt: "The city of Arlington, Texas, and Via are now offering Via Arlington customers a choice to be picked up in a self-driving vehicle for trips around downtown and the University of Texas at Arlington (UTA). The Arlington RAPID pilot program, available to ..."
     publishedDateTime: 2021-03-24T15:51:00Z

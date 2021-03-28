@@ -83,15 +83,6 @@ related:
         width: 1600
         height: 1280
         isCached: true
-  - title: "Moody's Analytics vince nella categoria 'Best Use of AI in Banking or FinTech'"
-    excerpt: "Moody's Analytics ha vinto il premio Best Use of AI in Banking or FinTech (Miglior utilizzo dell'IA nel settore bancario o FinTech) ai 2021 Global Achievement Awards for AI. Si tratta di un riconoscim"
-    publishedDateTime: 2021-03-23T11:00:00Z
-    webUrl: "https://www.ansa.it/sito/notizie/economia/business_wire/news/2021-03-23_123158117.html"
-    type: article
-    provider:
-      name: ANSA
-      domain: ansa.it
-    quality: 30
   - title: "Global Textile Printing Market Trajectory & Analytics 2021-2024: Digital Printing, Artificial Intelligence and Personalized Clothing"
     excerpt: "The \"Textile Printing - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global production of printed textiles is projected to reach 36.8 billion square meters by 2024 The market driven by"
     publishedDateTime: 2021-03-26T19:21:00Z

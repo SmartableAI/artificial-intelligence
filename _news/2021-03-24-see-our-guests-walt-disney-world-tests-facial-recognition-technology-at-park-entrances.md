@@ -108,15 +108,15 @@ related:
         height: 641
         isCached: true
   - title: "Walt Disney World tests facial recognition at park entry"
-    excerpt: "WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission. The pilot program will be in testing for the next month. Participation is optional, but those who ..."
+    excerpt: "Walt Disney World is testing a new technology that could match a ticket holder with their admission. WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission."
     publishedDateTime: 2021-03-24T01:21:00Z
-    webUrl: "https://www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-    ampWebUrl: "https://www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+    webUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+    ampWebUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
     type: article
     provider:
-      name: KIRO-TV
-      domain: kiro7.com
+      name: WSOC-TV
+      domain: wsoctv.com
     quality: 59
     images:
       - url: "https://d1hfln2sfez66z.cloudfront.net/03-24-2021/t_b580ba8e37154ad6a5916bb0e2f967c9_name_Disney_tests_facial_recognition_at_park_entry_Poster.jpg"

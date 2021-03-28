@@ -87,20 +87,6 @@ related:
         width: 800
         height: 480
         isCached: true
-  - title: "Top 8 Online Resources To Get Started With Self-Driving Vehicles In 2021"
-    excerpt: "Waymo, Tesla, Faraday Future etc. have made huge inroads into self-driving tech and have been riding the AI wave to take us into the future. The mobility revolution has created new jobs, such as Industrial Engineer, Perception Software Engineers ..."
-    publishedDateTime: 2021-03-23T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/top-8-online-resources-to-get-started-with-self-driving-vehicles-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 23
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/AIM-Illustrations.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "DCRx8UnFiF94vpDFMxgcipSYQ42/gBl9EbD7T1gzdjXS81WwpsgLm+7kwITB6ycmXObOCttbjdL2XfOConsDHLr/slJa793IeSvwnE6zzpfJh9TnIi9FbwmwOSbooQX4nf+0Wop7RPFmJ51ExjZPYWpc14KzG8hvCv7rJ7xiQbGBkuQTQ/r4I2YsB1PWGE509sBpi3LBnSX6W0nvMaTqv9CGG10OvfUGUY6La6HhzOgvW1K+aOWlZypnUEC0Pa8PinIbJAavZpTC6BAs2vTFbQG0ej+r9NlqdtzBBhC18im8QGlViLpWzahFiA8L6z8bB1S9vSfL9hjEWQ4RHJ22ilK4bKvT5l8dNEPCHM5ALWE=;6GH5OdZIS8ikRkCP5/rXZQ=="
 ---

@@ -147,20 +147,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Banca Progetto, 800 mila euro di finanziamento alla start up fintech Young"
-    excerpt: "De Silva (Banca Progetto): \"Siamo sempre felici di poter dare un aiuto concreto a progetti di giovani brillanti con una idea imprenditoriale innovativa\""
-    publishedDateTime: 2021-03-23T10:35:00Z
-    webUrl: "https://www.affaritaliani.it/economia/notizie-aziende/banca-progetto-800-mila-euro-di-finanziamento-alla-start-up-fintech-young-730248.html"
-    type: article
-    provider:
-      name: affaritaliani.it
-      domain: affaritaliani.it
-    quality: 22
-    images:
-      - url: "https://www.affaritaliani.it/static/upl2021/banc/banca-progetto-young.jpg"
-        width: 800
-        height: 576
-        isCached: true
   - title: "Top 10 best countries to start a fintech"
     excerpt: "Fintech in the financial services market has been adopted quickly by certain demographics that for years have been underserved by the incumbent institutions. The US is also a world leader in technology and particularly AI innovations, which means its ..."
     publishedDateTime: 2021-03-27T09:34:00Z

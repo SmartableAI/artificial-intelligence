@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Walt Disney World tests facial recognition at park entry"
-excerpt: "WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission. The pilot program will be in testing for the next month. Participation is optional, but those who ..."
+excerpt: "Walt Disney World is testing a new technology that could match a ticket holder with their admission. WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission."
 publishedDateTime: 2021-03-24T01:21:00Z
-originalUrl: "https://www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-webUrl: "https://www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
-ampWebUrl: "https://www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
-cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+originalUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+webUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/"
+ampWebUrl: "https://www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
+cdnAmpWebUrl: "https://www-wsoctv-com.cdn.ampproject.org/c/s/www.wsoctv.com/news/trending/walt-disney-world-tests-facial-recognition-park-entry/XFIPRFRXAJEMLJFQ5ULFNNVEHA/?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KIRO-TV
-  domain: kiro7.com
+  name: WSOC-TV
+  domain: wsoctv.com
 
 topics:
   - Computer Vision
@@ -357,6 +357,6 @@ related:
         height: 675
         isCached: true
 
-secured: "VuK24oytSl7yimCtGeghf5+XG2p1n6Yu9buJDS0k75qnQekQmZ8NDNE4hh0PnyveFC39yr6Dfcw/SQ3GERSOK3HbgG2N+WYxAOw8NIll6LSoGXF1bcjI+m4kPUSbvFg1J2HhMTv+rijK5ARrGS2Owx72/iZOFuFVLFB5OPY7eREtUma50ED0xcQtVnRZTrTSr1WBbsn8WM4GCtJkVO4a6hl/aZqBzl3Esq9ay7IDK+9pWwZAczfOxnvIwne2FxmtBqfd9085HR/VIKGt4n8GXLY0JIgeRM87w8wNsiYXJwuVoCcIOpooSrDQoDNVRCplIi+Fgs01RbB7gt6Ycpdn0f/XIDqCGI1qEsSrkQn53pk=;xotoX87IfzCKgXCJyoP7MQ=="
+secured: "zDoy32YNKEtQrXuFNFXsnXi/tFaRHpgdzFwyMPRrMDBcPKWi7eB/UW5hjPJKnL44pRv9NtKNq5zyVoex4VKcQbS7z2LDKdKR3lfkM9+4T2O9AockseqUhJjASF8vjCdEl8KzSgnprfmUuJieAIaPw5Lm4NniCgBaQhDV2LNBpbh/mX7HeI7uJfmWLdaFhhkqUkNGY2yelqxQOSu5HmvGz2+JJ3W4yJ/qXfRPnqPl+meq7LvL8dtGQs/UgSfsLaLjve1QS8CDFd2L69DOzcrqD8tloZ5eYv7Co/Lv2A1zGmQnK2ZDGtCIOU2iVrrEGOgNfy9N4cQnjXOOa1RZDQO5dj8uZmzfsr4eMfKEG1kX4PI=;p7/wOp1jhbPoKjqOMPoi3A=="
 ---
 

@@ -71,17 +71,6 @@ related:
         width: 770
         height: 433
         isCached: true
-  - title: "Prospection is Using Machine Learning to Improve Patient Outcomes"
-    excerpt: "A health analytics company, Prospection combines AI and predictive data analysis to help improve patient outcomes. Machine learning tools can be used to spot major and minor trends in patient data that would be impossible to identify with the naked eye."
-    publishedDateTime: 2021-03-23T09:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/ac20292692/prospection-is-using-machine-learning-to-improve-patient-outcomes"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20292692"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20292692"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
     excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI ... predict the aggressiveness and possible therapy of this otherwise incurable cancer."
     publishedDateTime: 2021-03-26T11:43:00Z

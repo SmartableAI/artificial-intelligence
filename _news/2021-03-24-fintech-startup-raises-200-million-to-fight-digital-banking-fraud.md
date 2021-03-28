@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud?amp"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -136,20 +136,6 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Banca Progetto, 800 mila euro di finanziamento alla start up fintech Young"
-    excerpt: "De Silva (Banca Progetto): \"Siamo sempre felici di poter dare un aiuto concreto a progetti di giovani brillanti con una idea imprenditoriale innovativa\""
-    publishedDateTime: 2021-03-23T10:35:00Z
-    webUrl: "https://www.affaritaliani.it/economia/notizie-aziende/banca-progetto-800-mila-euro-di-finanziamento-alla-start-up-fintech-young-730248.html"
-    type: article
-    provider:
-      name: affaritaliani.it
-      domain: affaritaliani.it
-    quality: 22
-    images:
-      - url: "https://www.affaritaliani.it/static/upl2021/banc/banca-progetto-young.jpg"
-        width: 800
-        height: 576
         isCached: true
   - title: "Obligo Named the Most Promising Israeli-Founded Fintech Startup in Lending and Financing for 2021"
     excerpt: "As the only non-insurance deposit alternative, Obligo’s credit-based solution keeps landlords secure and renters accountable by combining Open Banking technology with AI-based underwriting and collection capabilities. Since launching its fintech solution ..."
