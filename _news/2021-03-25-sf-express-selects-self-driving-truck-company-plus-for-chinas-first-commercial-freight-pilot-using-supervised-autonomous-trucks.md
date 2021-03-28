@@ -57,17 +57,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Self-driving truck startup TuSimple files for U.S. IPO"
-    excerpt: "Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector."
-    publishedDateTime: 2021-03-23T21:25:00Z
-    webUrl: "https://www.reuters.com/article/us-tusimple-ipo-idUSKBN2BF2TU"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BF2TU"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BF2TU"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
   - title: "UPDATE 2-Self-driving truck startup TuSimple files for U.S. IPO"
     excerpt: "March 23 (Reuters) - Self-driving truck startup TuSimple Holdings Inc filed for a U.S. initial public offering (IPO) on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the ..."
     publishedDateTime: 2021-03-24T02:24:00Z
@@ -123,20 +112,6 @@ related:
     quality: 39
     images:
       - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/waymo-virtual-phoenix-1200.jpg?itok=UEAuO5XM"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Self-Driving Truck Developer TuSimple Files for IPO"
-    excerpt: "Self-driving truck developer TuSimple is moving forward with plans to become a publicly traded company. The technology startup on March 23 announced that it had filed a registration statement with the U."
-    publishedDateTime: 2021-03-23T21:45:00Z
-    webUrl: "https://www.ttnews.com/articles/self-driving-truck-developer-tusimple-files-ipo"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/tusimple-1200_1.jpg?itok=IN7wFywQ"
         width: 470
         height: 246
         isCached: true

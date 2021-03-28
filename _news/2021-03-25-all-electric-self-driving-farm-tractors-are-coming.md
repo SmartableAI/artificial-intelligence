@@ -71,15 +71,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "Solomon: Legal liability of self-driving cars"
-    excerpt: "Part of the challenge I have in teaching extremely bright business students in the final year of their undergraduate studies is, many of them are considering heading to law school."
-    publishedDateTime: 2021-03-23T21:49:00Z
-    webUrl: "https://www.rutlandherald.com/opinion/commentary/solomon-legal-liability-of-self-driving-cars/article_8cd4904d-2212-5c7b-acfd-33a8ba2f814b.html"
-    type: article
-    provider:
-      name: Rutland Herald
-      domain: rutlandherald.com
-    quality: 4
   - title: "Video: Woven Capital invests in self-driving startup Nuro"
     excerpt: "Woven Capital, L.P., an investment wing of Toyota, has made its first investment into Nuro Inc., a self-driving shuttle startup. Previously, Nuro raised $500 million in funding to expand its autonomous goods delivery service using self-driving shuttles that include no seats or cockpit for drivers."
     publishedDateTime: 2021-03-26T12:28:00Z

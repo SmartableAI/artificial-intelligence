@@ -43,22 +43,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Walt Disney World begins testing facial recognition technology"
-    excerpt: "Could park-goers be using facial recognition to enter Walt Disney World in the near future? A test running at the Magic Kingdom is working to determine just that. Starting March 23, guests planning to visit the Magic Kingdom have the option to participate in trying out Disney's facial recognition technology."
-    publishedDateTime: 2021-03-23T22:43:00Z
-    webUrl: "https://www.wfmynews2.com/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
-    ampWebUrl: "https://www.wfmynews2.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
-    cdnAmpWebUrl: "https://www-wfmynews2-com.cdn.ampproject.org/c/s/www.wfmynews2.com/amp/article/tech/walt-disney-world-facial-recognition-technology/67-87823918-8c04-44db-98d8-d5c086db3255"
-    type: article
-    provider:
-      name: WFMY News2
-      domain: wfmynews2.com
-    quality: 59
-    images:
-      - url: "https://media.wfmynews2.com/assets/WTSP/images/22bf9a3e-a23c-4571-ac7d-88ade440713b/22bf9a3e-a23c-4571-ac7d-88ade440713b_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Walt Disney World tests facial recognition at park entry"
     excerpt: "WFTV reported that the system will use facial recognition to take an image of a guest’s face, converting it to a number that will be used for admission. The pilot program will be in testing for the next month. Participation is optional, but those who ..."
     publishedDateTime: 2021-03-24T01:21:00Z
@@ -155,22 +139,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "See Our Guests: Walt Disney World tests facial recognition technology at park entrances"
-    excerpt: "Walt Disney World is testing facial recognition technology that they hope will speed up the process of entering the theme park. Disney announced the"
-    publishedDateTime: 2021-03-23T21:20:00Z
-    webUrl: "https://www.orlandoweekly.com/Blogs/archives/2021/03/23/see-our-guests-walt-disney-world-tests-facial-recognition-technology-at-park-entrances"
-    ampWebUrl: "https://www.orlandoweekly.com/Blogs/archives/2021/03/23/see-our-guests-walt-disney-world-tests-facial-recognition-technology-at-park-entrances?media=AMP+HTML"
-    cdnAmpWebUrl: "https://www-orlandoweekly-com.cdn.ampproject.org/c/s/www.orlandoweekly.com/Blogs/archives/2021/03/23/see-our-guests-walt-disney-world-tests-facial-recognition-technology-at-park-entrances?media=AMP+HTML"
-    type: article
-    provider:
-      name: Orlando Weekly
-      domain: orlandoweekly.com
-    quality: 51
-    images:
-      - url: "https://media2.fdncms.com/orlando/imager/u/original/29016677/disney_world_-_entrance_sign_-_by_inkiboo-1000.jpg"
-        width: 1000
-        height: 584
-        isCached: true
   - title: "Disney tests new facial recognition technology"
     excerpt: "Disney is testing out new facial recognition technology. Disney says it's looking for ways to focus on more touchless experiences in the parks. The technology converts a guest's face and gives a unique number ID,"
     publishedDateTime: 2021-03-24T13:07:00Z
@@ -266,6 +234,15 @@ related:
         width: 1600
         height: 1082
         isCached: true
+  - title: "Okayama University research: Studying Parkinson's disease with face-recognition software"
+    excerpt: "Stock quotes by finanzen.net OKAYAMA, Japan, March 28, 2021 /PRNewswire/ -- Researchers at Okayama University report in Brain Supplement that artificial-intelligence technology can detect facial characteristics of Parkinson's disease."
+    publishedDateTime: 2021-03-28T12:17:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/okayama-university-research-studying-parkinson-s-disease-with-face-recognition-software-1030252264"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
   - title: "Disney tests facial-recognition technology at Magic Kingdom"
     excerpt: "Disney is testing out new facial-recognition technology at its Magic Kingdom Park in Florida. The company says it's continuing to look for ways to make the park safer, with a focus on touchless experiences."
     publishedDateTime: 2021-03-25T15:16:00Z

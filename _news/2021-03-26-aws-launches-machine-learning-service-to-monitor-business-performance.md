@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-s
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces General Availability of Amazon Lookout for Metrics"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Metrics, a new fully managed service that detects anomalies in metrics and helps determine their root cause."
-    publishedDateTime: 2021-03-25T19:32:00Z
-    webUrl: "https://www.argus-press.com/news/national/article_3c36c6f7-164c-5f58-9466-3f3ef9186d1a.html"
-    type: article
-    provider:
-      name: Argus-Press
-      domain: argus-press.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/argus-press.com/content/tncms/custom/image/bdf824b4-27a0-11e8-a78f-67fc2c3cc6dd.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AWS launches Lookout for Metrics to help companies monitor their operations"
     excerpt: "Amazon Lookout for Metrics, a machine learning service designed to help enterprises detect and respond to important business events such as a sudden jump in user sign-ups. With the service, AWS is looking to address a number of technical challenges that normally make such business monitoring difficult."
     publishedDateTime: 2021-03-25T22:18:00Z

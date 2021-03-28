@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-28T13:30:00Z
 originalUrl: "https://www.theaustralian.com.au/business/technology/artificial-intelligence-to-help-pinpoint-covid-diseases/news-story/81ca82024ef0af3791f4c1baebe56958"
 webUrl: "https://www.theaustralian.com.au/business/technology/artificial-intelligence-to-help-pinpoint-covid-diseases/news-story/81ca82024ef0af3791f4c1baebe56958"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19"

@@ -7,7 +7,7 @@ originalUrl: "https://www.aerotechnews.com/blog/2021/03/25/if-dod-wants-ai-in-it
 webUrl: "https://www.aerotechnews.com/blog/2021/03/25/if-dod-wants-ai-in-its-future-it-must-start-now-official-says/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 602
     height: 514
     isCached: true
-
-related:
-  - title: "If DOD Wants AI In Its Future, It Must Start Now, Official Says"
-    excerpt: "Now is the time for decision makers, commanders and policymakers within the Defense Department to get on board with fully implementing artificial intelligence, the director of the Joint Artificial"
-    publishedDateTime: 2021-03-23T22:49:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2547622/if-dod-wants-ai-in-its-future-it-must-start-now-official-says/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
-    images:
-      - url: "https://media.defense.gov/2020/Oct/23/2002522547/1280/1280/0/201005-A-ZZ999-001X.JPG"
-        width: 1280
-        height: 912
-        isCached: true
-  - title: "If DOD Wants AI In Its Future, It Must Start Now"
-    excerpt: "Now is the time for decision makers, commanders and policymakers within the Defense Department to get on board with fully implementing artificial intelligence, the director of the Joint Artificial"
-    publishedDateTime: 2021-03-23T21:42:00Z
-    webUrl: "https://www.defense.gov/Explore/News/Article/Article/2547622/if-dod-wants-ai-in-its-future-it-must-start-now/"
-    type: article
-    provider:
-      name: US Department of Defense
-      domain: defense.gov
-    quality: 37
-    images:
-      - url: "https://media.defense.gov/2020/Oct/23/2002522547/1280/1280/0/201005-A-ZZ999-001X.JPG"
-        width: 1280
-        height: 912
-        isCached: true
 
 secured: "UMLaYlaE97g2LJgMzfL09QrrslHD+G6Koi9tHjZ4KRWUeOz0vjn73kXdcoDpwizWv2KeuM7H07w9lzqOYwKHOGcn13bxmOXFjLDDFjZZbCM/qdbnrDvtSl34OjkjM5vFKWJwEZRsRIO2meFKIlDruQd6nElFhNpcAUdqfMFqQa36Ra/m4/CjspCSOPOt/UfcsQUVnOTFfBrjsiQsBjtRoJveR7YGrPyl038Z+qnmcSVzozJGluke0vUEPT8yOM2VyyJavZ5nAzbwPsiFNDLpSZcaNZtogrKlpjl4ArVnuKTgtHo3xGNGbH/WqpcktSWokIUUdqMoITdW8GKPTNr7X0VxyTIzZA+zDWh3lFq0yeDtX1vp8lPKeP64+lcM31RhSAosHqtZJE8hE4MnIGSf9mO7P7Dh2bjerfAl52+BSQ6hUKCWaE42tkxojCaSzzuo19sMVmwmTtehSk4QobHTx434UBbxqAVp8+bCRVjWdnhpSDX9WmdQvDoJkhy2OUwm2tWdLTasFdY/JVAnv3c/6Q==;8SJ4Dl5RKJ3sxCnmlnZDVw=="
 ---

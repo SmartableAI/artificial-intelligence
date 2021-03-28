@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-l
 webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-lookout-for-metrics-an-anomaly-detection-service-to-proactively-monitor-the-health-of-your-business/"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 700
     height: 354
     isCached: true
+
+related:
+  - title: "AWS Announces General Availability of Amazon Lookout for Metrics"
+    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
+    publishedDateTime: 2021-03-25T19:33:00Z
+    webUrl: "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-lookout-for-metrics/article_d7b04c53-117a-587d-b267-25492631dbeb.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 34
 
 secured: "vN75vyTDtsYyC3SbSkUhljyfE9Tff8YjGhrtHIraScOyBWipP+5ST2wNdTcIQrFvYs5olF8T/4vTrE1JlcMulVHkb9aRFZmy5TStSAHZt+7N6X3PKG92ldj4fKdcGn7cXfBYfcBZKaNFn+ctHlj2te8+ZXBLvR7+6MM9cYeKz2Vos+cjFydoZaT4pPxFVW0ApfmNy42bKVC3lk+Z/xQe5+Xg2HgEXyt9MzjpSsltEIEIAsRVmCQAWgZoQJWAcClgIxXT0IAjQVjl8H9YsLChaiKVdlOwAhxs7pAvC69sJCsxnFFzyTKnDN3amYwYabEnP9zCCVAwI81lwiMRR9/HBG+oZ/cIEur3aXHfE8p61mM=;dnVVCHIQ2G9JPtAZIkHq7g=="
 ---
