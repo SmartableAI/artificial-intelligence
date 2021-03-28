@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Machine learning gets physical, starting with self-driving cars"
-    excerpt: "However, the common factor with all of these is that each machine is limited to influencing our lives through a software interface with a website or an app. In 2021, AI will go beyond this. We will see the emergence of the first physical."
-    publishedDateTime: 2021-03-23T06:13:00Z
-    webUrl: "https://www.wired.co.uk/article/alex-kendall-machine-learning"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 41
-    images:
-      - url: "https://wi-images.condecdn.net/image/q0yQbpyAoWp/crop/1440/0.5235602094240838/f/1120wiredworldtechnology08b.jpg"
-        width: 1440
-        height: 753
-        isCached: true
   - title: "Chipotle Invests in Self-Driving Cars"
     excerpt: "In February 2020, Nuro was the first to obtain a U.S. Department of Transportation exemption, and in April 2020, it became the second self-driving car company to receive a driverless testing permit in California. In October, Nuro started testing its ..."
     publishedDateTime: 2021-03-25T14:05:00Z

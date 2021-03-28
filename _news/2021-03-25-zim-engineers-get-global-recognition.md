@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/amp
 cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,44 +25,6 @@ images:
     width: 680
     height: 380
     isCached: true
-
-related:
-  - title: "Artificial Intelligence-Emotion Recognition Industry Global Market Growth, Status and Outlook Research Report 2020"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6515304-covid-19-outbreak-global-artificial-intelligence-emotion-recognition In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the ..."
-    publishedDateTime: 2021-03-23T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine learning as a Service Market 2021: Global Industry Analysis Report to 2027"
-    excerpt: "Machine learning as a Service MLaaS market is estimated to grow from USD 613 4 million in 2016 to USD 3755 0 million by 2021 at a CAGR of 43 during the forecast period Machine learning is a computing technique"
-    publishedDateTime: 2021-03-27T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-  - title: "Neural Network Software Market Size, Share 2021, Impressive Industry Growth Report 2027"
-    excerpt: "Neural network software is useful for simulating, researching, developing and applying artificial neural networks, which are various software concepts adopted in biological neural networks. Neural networks are also defined as artificial neural networks ..."
-    publishedDateTime: 2021-03-26T09:47:00Z
-    webUrl: "https://www.openpr.com/news/2262380/neural-network-software-market-size-share-2021-impressive"
-    ampWebUrl: "https://www.openpr.com/amp/2262380/neural-network-software-market-size-share-2021-impressive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262380/neural-network-software-market-size-share-2021-impressive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 31
 
 secured: "ZqdpsG4fomTvwMYaTolHszlrqxQGHc5MifuBhxmdZsOCb55xTGVCGsHT0aZAm+Cv29VDsLJzPkO7J6I+j3VcK/XGkMtl59iEG67QDRAdHhEG1cIikHap8/LDSL2pzaIeDPSA67SQe8jz+HNb2nzN9tjYO9hcFVVUs1FNxVkGE+DANavPBFEkUmOGxvdhh+vNf/lkTMm0jdb79MxsHMfML+LMUkMGdqQ5e63Szr+lXcwwOdJikYpP8mUZyC16NzxwI3Jk/xa2+cJDYRk4GBfAzEIYZRHDUOARpSLwLiMnBjzuVili+26Lkm2Kdm0TNelABzQxpnpBT3buMG1JBhWeiNjHDDcP+dA3GP3CCtVzjE2y8hv9bUZNnLsg08tK7Qnp7VrSZ2SqOOVLePuE0yafFaBcgtLcZ5WWwpGP6An0f+jlv/Y+DhnPnnOpzqr4u2bg4efveD8RKAD9Xhjnqdp0Wwqx6LJnzkr/K9JJemvbV9tR13NdhuqqKjNBV+FGvYBhJ2BpEKTvd3Tfv//e/2+SOw==;kt4ORADv5J9dYy7vesu/yw=="
 ---

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Machine learning gets physical, starting with self-driving cars"
-    excerpt: "However, the common factor with all of these is that each machine is limited to influencing our lives through a software interface with a website or an app. In 2021, AI will go beyond this. We will see the emergence of the first physical."
-    publishedDateTime: 2021-03-23T06:13:00Z
-    webUrl: "https://www.wired.co.uk/article/alex-kendall-machine-learning"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 41
-    images:
-      - url: "https://wi-images.condecdn.net/image/q0yQbpyAoWp/crop/1440/0.5235602094240838/f/1120wiredworldtechnology08b.jpg"
-        width: 1440
-        height: 753
-        isCached: true
   - title: "Self Driving Car Insurance: What You Need To Know"
     excerpt: "Just like previous generations of cars, this new generation of vehicles comes with questions. The big question pertains to self-driving car insurance and how it will work."
     publishedDateTime: 2021-03-26T16:48:00Z

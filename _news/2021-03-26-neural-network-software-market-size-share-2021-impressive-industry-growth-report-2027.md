@@ -21,36 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence-Emotion Recognition Industry Global Market Growth, Status and Outlook Research Report 2020"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6515304-covid-19-outbreak-global-artificial-intelligence-emotion-recognition In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the ..."
-    publishedDateTime: 2021-03-23T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Zim engineers get global recognition"
-    excerpt: "ZIMBABWEAN engineer and acting Ziscosteel board chair, Engineer Martin Manuwha has received a special award from the Federation of African Engineering Organizations (FAEO) in recognition for his distinct contribution and support to the engineering field in Africa and the world at large."
-    publishedDateTime: 2021-03-25T11:20:00Z
-    webUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/"
-    ampWebUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
-    cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
-    type: article
-    provider:
-      name: Chronicle
-      domain: chronicle.co.zw
-    quality: 44
-    images:
-      - url: "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2021/03/kanuu-680x380.jpg"
-        width: 680
-        height: 380
-        isCached: true
   - title: "Machine learning as a Service Market 2021: Global Industry Analysis Report to 2027"
     excerpt: "Machine learning as a Service MLaaS market is estimated to grow from USD 613 4 million in 2016 to USD 3755 0 million by 2021 at a CAGR of 43 during the forecast period Machine learning is a computing technique"
     publishedDateTime: 2021-03-27T10:14:00Z

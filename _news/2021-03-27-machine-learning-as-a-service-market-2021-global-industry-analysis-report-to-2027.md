@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2262830/machine-learning-as-a-service-mar
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -21,36 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence-Emotion Recognition Industry Global Market Growth, Status and Outlook Research Report 2020"
-    excerpt: "GET FREE SAMPLE REPORT : https://www.wiseguyreports.com/sample-request/6515304-covid-19-outbreak-global-artificial-intelligence-emotion-recognition In COVID-19 outbreak, Chapter 2.2 of this report provides an analysis of the impact of COVID-19 on the ..."
-    publishedDateTime: 2021-03-23T05:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-emotion-recognition-industry-global-market-growth-status-and-outlook-research-report-2020-2021-03-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Zim engineers get global recognition"
-    excerpt: "ZIMBABWEAN engineer and acting Ziscosteel board chair, Engineer Martin Manuwha has received a special award from the Federation of African Engineering Organizations (FAEO) in recognition for his distinct contribution and support to the engineering field in Africa and the world at large."
-    publishedDateTime: 2021-03-25T11:20:00Z
-    webUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/"
-    ampWebUrl: "https://www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
-    cdnAmpWebUrl: "https://www-chronicle-co-zw.cdn.ampproject.org/c/s/www.chronicle.co.zw/zim-engineers-get-global-recognition/amp/"
-    type: article
-    provider:
-      name: Chronicle
-      domain: chronicle.co.zw
-    quality: 44
-    images:
-      - url: "https://www.chronicle.co.zw/wp-content/uploads/sites/3/2021/03/kanuu-680x380.jpg"
-        width: 680
-        height: 380
-        isCached: true
   - title: "Neural Network Software Market Size, Share 2021, Impressive Industry Growth Report 2027"
     excerpt: "Neural network software is useful for simulating, researching, developing and applying artificial neural networks, which are various software concepts adopted in biological neural networks. Neural networks are also defined as artificial neural networks ..."
     publishedDateTime: 2021-03-26T09:47:00Z
