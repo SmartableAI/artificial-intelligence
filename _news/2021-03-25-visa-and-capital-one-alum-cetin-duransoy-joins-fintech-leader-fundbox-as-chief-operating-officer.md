@@ -1,10 +1,10 @@
 ---
 category: news
 title: "VISA AND CAPITAL ONE ALUM CETIN DURANSOY JOINS FINTECH LEADER FUNDBOX AS CHIEF OPERATING OFFICER"
-excerpt: "Fundbox, the financial services platform for small businesses, has named Cetin Duransoy as Chief Operating Officer. He will be responsible for scaling and overseeing the growth of the company’s credit business."
-publishedDateTime: 2021-03-25T15:44:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-small-business-executive-changes-north-america-9cc7581f839d8dfa5e8047d5f9b48d9e"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-small-business-executive-changes-north-america-9cc7581f839d8dfa5e8047d5f9b48d9e"
+excerpt: "San Francisco, March 25, 2021 (GLOBE NEWSWIRE) -- Fundbox, the financial services platform for small businesses, has named Cetin Duransoy as Chief Operating Officer. He will be responsible for scaling and overseeing the growth of the company’s credit ..."
+publishedDateTime: 2021-03-25T14:01:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-small-business-executive-changes-north-america-9cc7581f839d8dfa5e8047d5f9b48d9e"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-small-business-executive-changes-north-america-9cc7581f839d8dfa5e8047d5f9b48d9e"
 type: article
 quality: 11
 heat: 11
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "kGaH0ojY4ZYxSX0KnAkEo2c3pJ0kyLECsK8z6cUGOC+eNy8MSfwcgEZmHcnUcxLQOXSn9KZmRVgTr4MYyppWONO3Mmjr231IkgJYWRpYoZj8litDbdGArSnYytULxe1x8A41CNcNfblnTC6RzrGXzlZowgT++kAPABP/kgWmp/zQCdO2VDah4AleVPSyY9zZZjbJyl/uZrTNKaueEVns135RM2Rr2DP+tZAvJ65qR+VRzmEw+qnB8XknaDLobci0qsnxqEFK3uMX1EKYlOPpNpJs6DIy5tuF9Ej8tOz2tDAJrPxAUoSQ6D9zlYjQjVMiJViA3qJfPv/S6GeE/YAhoSzMgMXnxoWQaoPn9uKo1bk=;ofx5xeBZhnLgjdnlLvLSOg=="
+secured: "Hmmph2j8WMAM7Rb1UCp+E13ulL0IDBPDBYy3UhShbj6ZBU8oBmiFSbTxxJJCMQvgiEXYK6PfvsA2GgZ5ulm6NfrpRXrdL7rctrpS2iFX8Aqiv9kQfq4BUlPvrMltdnvYVsL5ss9/V/VWSEHPYfiIWKNSoG6opNAJHRuAh/ZlLsV6/kog5V5PYYd7RKgBYX/ap1jjfdnhLb58NTrB9Ec+4pso6xgysvbn6pPSsKk3IbDn6hfUSXQnDs5CIuq3hrgZ7sjHBLUZHtRJloWDBe4RoyH5AmXk0Cbu/liK+x8XF7T4ywUHYmCuXxVVXaMfrSt5OhZ499K2BHoba1RoZ+jaB/9Y9Fpii6Z/zVByORMIFrI=;OBBnlCDN2meP+xgrx7HwgQ=="
 ---
 

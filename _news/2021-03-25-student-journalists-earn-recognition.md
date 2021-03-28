@@ -41,6 +41,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Music students earn All Eastern recognition"
+    excerpt: "\"When you have to hear a reproduction, you have distortion and you end up losing tone quality and the timbre of the voice.\" Walz noted some Pennsylvania schools were only working remotely, which may have reduced the size of field. However, the honor of ..."
+    publishedDateTime: 2021-03-27T09:00:00Z
+    webUrl: "https://www.standard-journal.com/news/local/article_7e619c12-b8df-56e2-84dc-603f94f978a7.html"
+    type: article
+    provider:
+      name: standard-journal.com
+      domain: standard-journal.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/standard-journal.com/content/tncms/assets/v3/editorial/2/8a/28a0082d-3fcf-5312-82c2-db3b330dfc52/605d5b8e9639b.image.png?resize=856%2C630"
+        width: 856
+        height: 630
+        isCached: true
 
 secured: "46KLETyo/UcwhrnTeAEjM7btjmmx598kr7y4jXP0gY8dmP5ES81eq+gOHGy5wIAIbiaAHZKcfb2SnAv0elxAQLu1jBA1gujJ9CrDpjbZsapC0VJoDhvyVjKPVxLPGP/1AWABeME/viNjJVBBBR8zjwAAzO0DF9rCWIKr8/pD4ClZzwaJqrMpqRDU74ivZBplynKEI49gQe4SiYzcc08FQVvifVb+5rzCw96BNEbRqMCnJx9N89HWQECt9gESu0fl1fG+/vdp5VUP2hje6uTk3kATcC81dwBaEjI2rBaWy2729deDQkwh+3JSiQLBFvUWk4ISlYCfEaHUJe8UL1I9jc63lkefMwUSiH3HOzBX2tk=;2hLO9tN6q8qrMCW9V2eZPQ=="
 ---

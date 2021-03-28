@@ -153,17 +153,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Disney World testing facial recognition technology at park entrance"
-    excerpt: "Walt Disney World said they are testing facial recognition technology at one of its parks over the next month, allowing guests to enter by just capturing an image of their face."
-    publishedDateTime: 2021-03-23T23:13:00Z
-    webUrl: "https://www.wogx.com/video/914042"
-    ampWebUrl: "https://www.wogx.com/video/914042.amp"
-    cdnAmpWebUrl: "https://www-wogx-com.cdn.ampproject.org/c/s/www.wogx.com/video/914042.amp"
-    type: article
-    provider:
-      name: WOGX
-      domain: wogx.com
-    quality: 39
   - title: "Disney World Testing Facial Recognition"
     excerpt: "Resort is conducting a 30-day test using facial recognition technology to improve the guest experience. The technology captures an image of the visitor's face and then converts the image into a unique number that is then associated with the form of admission the guest used for park entry."
     publishedDateTime: 2021-03-24T14:31:00Z

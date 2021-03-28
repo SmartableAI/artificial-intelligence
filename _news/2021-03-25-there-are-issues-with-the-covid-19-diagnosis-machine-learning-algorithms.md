@@ -41,6 +41,20 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "Algorithm Designs Soft Robots That Sense"
+    excerpt: "MIT researchers develop a new algorithm that facilitates the creation of soft bots that are better suited to retain information."
+    publishedDateTime: 2021-03-28T16:40:00Z
+    webUrl: "https://techstory.in/algorithm-designs-soft-robots-that-sense/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/soft-robot-algorithm-neurosicenes-1.jpeg"
+        width: 770
+        height: 513
+        isCached: true
 
 secured: "H+XUEICFVLE6aIWVtdngGpk8rMzSuJiYQwWzEA2KiR2faWP0+ElQU5jHDzztpzEqeX2TsnfwedScpKLxciPu5A5RB7W6fB6entKD99ajrTRhp5qlf2Ws0zCm3Z6AHdWgagcrvqhezQ7uNZQZILhB/s9lm1/cMe+CpP74FXgA4ZqTq36tLx9vdI2tZN7KiseqHklpYGNONGWQOUGnTuP4rgzB84mqR9dfcvx9KvyeX29SUv7npdLed3imCoU0ecSYB8u4Zz731xlpzD/8n64OYEOCVmk67fTgFm3hzX0vSJYT+gzw//X1pFiVOKAmCirOqShIj1tadcTvXqau9BsmHBb5A4B8dsEzTewiNL4TVeE=;X2wJq6hPhVNvdvY3crt2eA=="
 ---

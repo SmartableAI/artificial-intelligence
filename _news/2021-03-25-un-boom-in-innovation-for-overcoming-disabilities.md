@@ -41,20 +41,6 @@ related:
         width: 590
         height: 400
         isCached: true
-  - title: "UN: Boom in innovation for overcoming disabilities"
-    excerpt: "Innovations aimed at helping people overcome mobility, sight and other disabilities have exploded in recent years, and are becoming ever more integrated in regular consumer goods, the United Nations said on March 23."
-    publishedDateTime: 2021-03-24T00:33:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/24/un-boom-in-innovation-for-overcoming-disabilities"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/24/1088088.jpeg"
-        width: 1240
-        height: 1020
-        isCached: true
 
 secured: "4ayHAZwuuyo7GaCx+aCk9K9Xj4ZpdGPjTcW8kXFUEpfKQ1yuSqz1NCVwFAmMi5q1/2VhLjh476GLKBD1K9T0kwsAbpghJo/Im+ifzQ9tXLNTwiuzlfiF9BOgrxUZsEwJiEBCUuaLcaBHcvH27H4TuAHwKKp1IQD86DPI5xrpJSsstids49TTWwRSbbUv6SQuFbrfemHHVYTj0rWfpXUm0CUwyKq01UxKa1eEjn+bwXzCtc+QmEh40tLFkJk3zbwIBaPSQKfrPd/8v7gHUMPGSbKzorBIchM8GeI0QIrhLwGz1WAxjNyG3JrVfFJE9k8y6MCzhZFrYCeBt+yoC1vnDhcwdloMGpNrzKY+8RXO61A=;o4m9F6ayOXUwCjWw4ETmdQ=="
 ---

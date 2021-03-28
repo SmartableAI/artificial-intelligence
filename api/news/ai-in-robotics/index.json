@@ -382,7 +382,7 @@
       "originalUrl": "https://mashable.com/article/blind-visual-assistance-ai-backpack/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -413,7 +413,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Computer Vision"
       ]
     },
     {

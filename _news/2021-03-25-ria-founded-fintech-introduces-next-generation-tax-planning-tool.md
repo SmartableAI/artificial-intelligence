@@ -73,6 +73,20 @@ related:
         width: 1024
         height: 648
         isCached: true
+  - title: "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ..."
+    publishedDateTime: 2021-03-28T13:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "FinTech AI Startup Feedzai Raises $200 Million At $1 Billion Valuation"
     excerpt: "FinTech artificial intelligence (AI) firm Feedzai raised $200 million in a Series D funding round that gives the Silicon Valley startup a valuation topping $1B."
     publishedDateTime: 2021-03-24T10:59:00Z

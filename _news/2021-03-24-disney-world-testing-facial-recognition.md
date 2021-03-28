@@ -167,17 +167,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Disney World testing facial recognition technology at park entrance"
-    excerpt: "Walt Disney World said they are testing facial recognition technology at one of its parks over the next month, allowing guests to enter by just capturing an image of their face."
-    publishedDateTime: 2021-03-23T23:13:00Z
-    webUrl: "https://www.wogx.com/video/914042"
-    ampWebUrl: "https://www.wogx.com/video/914042.amp"
-    cdnAmpWebUrl: "https://www-wogx-com.cdn.ampproject.org/c/s/www.wogx.com/video/914042.amp"
-    type: article
-    provider:
-      name: WOGX
-      domain: wogx.com
-    quality: 39
   - title: "Psychology behind facial recognition"
     excerpt: "Facebook profile picture forensic interactive face recognition software tasks identification Super recognisers surveillance CCTV British Journal Psychology"
     publishedDateTime: 2021-03-24T16:41:00Z

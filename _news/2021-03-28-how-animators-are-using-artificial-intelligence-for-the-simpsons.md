@@ -1,30 +1,28 @@
 ---
 category: news
-title: "How Animators Are Using Artificial Intelligence For 'The Simpsons'"
-excerpt: "COMPUTER-GENERATED VOICE #1: (As Edna Krabappel) Remember, if you can teach one kid one thing, then today will be a success. MICHEL MARTIN, HOST: You may recognize that voice. It's Bart's teacher, Edna Krabappel, voiced by Marcia Wallace for 25 seasons ..."
-publishedDateTime: 2021-03-28T01:51:00Z
-originalUrl: "https://www.tpr.org/2021-03-27/how-animators-are-using-artificial-intelligence-for-the-simpsons"
-webUrl: "https://www.tpr.org/2021-03-27/how-animators-are-using-artificial-intelligence-for-the-simpsons"
-ampWebUrl: "https://www.tpr.org/2021-03-27/how-animators-are-using-artificial-intelligence-for-the-simpsons?_amp=true"
-cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2021-03-27/how-animators-are-using-artificial-intelligence-for-the-simpsons?_amp=true"
+title: "How Animators Are Using Artificial Intelligence For ‘The Simpsons’"
+excerpt: "Amit Katwala, senior editor at Wired UK explains the scope of technology that can be used by animators to voice characters."
+publishedDateTime: 2021-03-28T16:39:00Z
+originalUrl: "https://techstory.in/how-animators-are-using-artificial-intelligence-for-the-simpsons/"
+webUrl: "https://techstory.in/how-animators-are-using-artificial-intelligence-for-the-simpsons/"
 type: article
-quality: 57
-heat: 57
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Texas Public Radio
-  domain: tpr.org
+  name: tech
+  domain: techstory.in
 
 topics:
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/bcae3d8/2147483647/strip/true/crop/1116x628+42+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F08%2F868e0b2f4828ab01b88724c142af%2Fsa-covid-19-news-txm.jpg"
-    width: 430
-    height: 242
+  - url: "https://techstory.in/wp-content/uploads/2021/03/aa687da52f31c42354bf7cf32157edba.jpg"
+    width: 728
+    height: 382
     isCached: true
 
-secured: "ABY1hH4j7A5iQXt52oG8bnUpaIM5gCinsEjBHEtutm5ZbAs5Jg/HihGxB6BSIKlx4eVLNWDVGM8FTRQYb4PnpLQDrihaKQTlr0cd5rKtIQYTy5FBbpR9rHw0c72on3RkkOccwprX6vLuE1v6XhN+k28Q7vncoG4poXJp0cu6pqj2cucrwJSrOEaVbhqC/VBByDEkoMg+h7cvJsgq1rQqFxlvkoghIn7s9enj2nvK5Z98q+uXPQl/A8IIwlaIWk8f6WPB7R5/2tvYBoP93PjXRPVaCFbyPENAnGOl+mXV2H48B9ppkO2ieMEBmLCgwhFOtxcKem9Z4zKaOH5/5C5BRMB3psaEBtqdOlEL7+HN/WM=;OOC6GnZrwgg4pa+5y1ipRQ=="
+secured: "GpqmVDobbToUuGX6pb4YFYPEnFRPyWQZx1HjM50Xh2vlDAZxBhlHmCQYQXABQPXvnlLaaKXV36BZpTeWBi+PLSjX9mm7TtYdqbORQiDmnhOQkNaim7MZQJR+LTLJRBfwZwIEcflpQaybwKi/2/2IfrpjyDEhqq2sJRQDLDWSOUOyyUrh7ZRI+3N/KH5IlZKdcsCD7GR0qgDrA5MDWsc9icLbXVivbzwuGd7YAOVmn7+vzSlG6zQPGUvqn0/xEcEKb2vA+Lnlt1VWj+ySlyc/6ubR8yDusTFuvi8A7fT6jVAC6PDo+7nwZErQoyL1oCQb163d0ACx2rV4L9EsS8mCyM2STyePG9uy97XX1TYJs74=;i6JOJT05R9Ct8tVvhkTF2g=="
 ---
 

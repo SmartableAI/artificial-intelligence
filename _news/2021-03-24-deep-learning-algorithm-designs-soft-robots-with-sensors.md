@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Algorithm Designs Soft Robots That Sense"
+    excerpt: "MIT researchers develop a new algorithm that facilitates the creation of soft bots that are better suited to retain information."
+    publishedDateTime: 2021-03-28T16:40:00Z
+    webUrl: "https://techstory.in/algorithm-designs-soft-robots-that-sense/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/soft-robot-algorithm-neurosicenes-1.jpeg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "There Are Issues with the COVID-19 Diagnosis Machine Learning Algorithms"
     excerpt: "A COVID-19 diagnosing machine learning model has issues — meaning these models are only as good as the datasets used to create them. Healthcare professionals and AI experts alike are warning about some issues they’ve identified in a machine learning ..."
     publishedDateTime: 2021-03-25T15:13:00Z
