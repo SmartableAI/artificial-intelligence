@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/orange-fo
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Orange creates a Data and AI Ethics Council"
-    excerpt: "Orange announces the creation of a Data and AI Ethics Council made up of 11 independent recognized experts. Chaired by Stéphane Richard, Orange’s Chairman and Chief Executive Officer, the role of this advisory and independent body is to support the company’s implementation of ethical principles governing the use of data and Artificial Intelligence technologies."
-    publishedDateTime: 2021-03-23T16:19:00Z
-    webUrl: "https://www.orange.com/en/newsroom/press-releases/2021/orange-creates-data-and-ai-ethics-council"
-    type: article
-    provider:
-      name: orange.com
-      domain: orange.com
-    quality: 54
-    images:
-      - url: "https://www.orange.com/sirius/config/orange_cards2.jpg"
-        width: 1000
-        height: 523
-        isCached: true
   - title: "Orange appoints 11-member advisory body on data and AI ethics"
     excerpt: "Orange has announced its latest initiative to support an ethical and socially responsible development of systems based on data and artificial intelligence. A new Data and AI Ethics Council has been appointed to advise the business,"
     publishedDateTime: 2021-03-24T08:56:00Z

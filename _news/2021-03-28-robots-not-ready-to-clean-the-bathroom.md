@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Robots not ready to clean the bathroom"
-excerpt: "Home versions need a good bit more work — and the cost needs to come down by The Washington Post | Today at 2:14 a.m. For at least a decade, robotics and artificial intelligence startups have flexed their ability to create machines that can complete ..."
+excerpt: "For at least a decade, robotics and artificial intelligence startups have flexed their ability to create machines that can complete practical household tasks."
 publishedDateTime: 2021-03-28T07:17:00Z
-originalUrl: "https://www.nwaonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/?news-arkansas-nwa-academicstars"
-webUrl: "https://www.nwaonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/?news-arkansas-nwa-academicstars"
+originalUrl: "https://www.nwaonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/"
+webUrl: "https://www.nwaonline.com/news/2021/mar/28/robots-not-ready-to-clean-the-bathroom/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "ejaJjSV3muGr5REovEZM+n+MDmhYq58KSVpn9VbUuR30PT2nzNQCJ/DUQn3iOdBfMeJxEtHnqq3ZtJskzjTUHbUofzdG4js5K71TbBYKkN0KndHpJ8nYA3etEKyzLdUXCqKpNgEqUB8Mpx/Z53MwvZtPJ86gq15Ia7x5zBER7JZRFkmn7BpSbzgAWyd0iRILfMWCV4C1EzD1s3IZKnoGL4utp11uvNLaM+OBZXR2L+QC5ety5a40qQInVryMmIeSivzVtFPjlhFr8/gTGV8u//Oc8eTCyBAtFDvkMmjB0lxGM9WzjBE5xLwzSoG1iTPQnYU8KPww86XoHal/Rf8E/yno60RituSHQrQWDCz9AXw=;otiZX8WsNXqSjkhyZNyWTQ=="
+secured: "NUZKBECO2SmpyaNYorbZ0f2/Wzqjrh9OLmMSxxMqMI/kZdAje9YfDRXeE3mGUge/Pcw0rW1lNJUiWYL0RIHM/XLFyaK/X+bDUlFdhuV+BSYBOY+Ke9ANm4PZo+t1xKt2tGqIgTdHD/DSRjkeMCceyOrjOCLsPXhTIwjMgLhCkxnaPKL4Z9FfyRZLf4FQHZxgQhwPoyO8rNlSGHHdJYVe9/nFXLlT2/U+TKlgpmlNPDZQMXBRLM/jvlJI6x6o5zuNZ3BneaW58QxwyBvHjcohTigJ+E+wAfpSeAbAuiwIbU7wMBp7OnC2F6WvKiiSJgCNLuGFXvtaF4nkOjvE4ugVJk24cTrm6Hre4NdddiQUhXU=;Rs5B3pB8Ut1fHyPzBWm7Xw=="
 ---
 

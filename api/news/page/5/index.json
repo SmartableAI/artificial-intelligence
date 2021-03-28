@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-23-successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai.md",
+      "title": "SuccessKPI Achieves AWS Machine Learning Competency Status in Applied AI",
+      "excerpt": "CHANTILLY, VIRGINIA , UNITED STATES, 2021 /EINPresswire.com/ -- SuccessKPI Inc., a leading global SaaS analytics platform for contact center intelligence (CCI), announced today",
+      "sourceUrl": null,
+      "webUrl": "https://www.wboc.com/story/43539802/successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai",
+      "originalUrl": "https://www.wboc.com/story/43539802/successkpi-achieves-aws-machine-learning-competency-status-in-applied-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20520643_G.png?lastEditedDate=1616493814000",
+          "width": 480,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBOC",
+        "domain": "wboc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-scottish-government-ai-strategy-majors-on-ethics-and-inclusion.md",
       "title": "Scottish government AI strategy majors on ethics and inclusion",
       "excerpt": "The Scottish government has announced an artificial intelligence strategy that involves the creation of a Scottish AI Alliance to be drawn from across society, including trade unions and companies.",
@@ -1166,57 +1210,6 @@
         "name": "Futurism",
         "domain": "futurism.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-fda-clears-first-ai-device-to-spot-hidden-signs-of-covid-19.md",
-      "title": "FDA Clears First AI Device to Spot Hidden Signs of Covid-19",
-      "excerpt": "Alongside the rapid development of vaccines, the FDA has cleared a number of COVID-19 breakthroughs for emergency use as part of the ongoing fight against the devastating virus. So far, we've seen the agency approve medical advances including lab-made monoclonal antibodies for moderate infections that risk turning more severe,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/367611",
-      "originalUrl": "https://www.entrepreneur.com/article/367611",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616424777-TigerTechSolutions.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367611",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367611",
-      "publishedDateTime": "2021-03-22T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

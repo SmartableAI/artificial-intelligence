@@ -233,20 +233,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Walt Disney World begins testing facial recognition technology"
-    excerpt: "ORLANDO, Fla. – Walt Disney World is now testing a new facial recognition technology at its Magic Kingdom theme park. The new technology captures an image of a guest’s face and converts it into a unique number, which is then associated with the form of ..."
-    publishedDateTime: 2021-03-23T15:47:00Z
-    webUrl: "https://www.clickorlando.com/theme-parks/2021/03/23/walt-disney-world-begins-testing-facial-recognition-technology/"
-    type: article
-    provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 39
-    images:
-      - url: "https://www.clickorlando.com/resizer/tcC83M24V4OjyVVWIgTt8ssikL0=/1263x705/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/P32QBJIFMJGRNEWHT7UCLL5P5Y.jpg"
-        width: 1263
-        height: 705
-        isCached: true
   - title: "Disney World Is Testing Out Facial Recognition For Entry To The Park"
     excerpt: "Disney World unveiled facial recognition technology at the park’s entrance Tuesday, announcing it would be testing the new technology on a completely voluntary basis over the course of the next month. “At Walt Disney World Resort, we're always looking ..."
     publishedDateTime: 2021-03-23T20:36:00Z

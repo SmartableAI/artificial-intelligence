@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/levis-katia-walsh-on-ai-you
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/levis-katia-walsh-on-ai-you-can-do-a-lot-with-168-years-of-data/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/
 cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sophia the Robot NFTs Set to Go Live on Nifty Gateway"
-    excerpt: "The world-famous artificial intelligence project Sophia the Robot has created her own non-fungible tokens (NFT)."
-    publishedDateTime: 2021-03-23T15:28:00Z
-    webUrl: "https://beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
-    ampWebUrl: "https://beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
-    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 59
-    images:
-      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/03/bic_artwork_ai_sophia_nft_720.jpg.optimal.jpg"
-        width: 720
-        height: 432
-        isCached: true
   - title: "AI humanoid Sophia sells self-portrait NFT for more than $688,000 at auction"
     excerpt: "Sophia the robot made her debut in 2016 and now has sold her first 'painting.' The humanoid auctioned of a self-portrait NFT that sold for $688,888, along with a hand-painted version of the digital piece."
     publishedDateTime: 2021-03-25T21:18:00Z

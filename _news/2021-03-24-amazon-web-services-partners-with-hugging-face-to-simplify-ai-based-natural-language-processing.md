@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2021/03/23/amazon-web-services-partners-h
 webUrl: "https://siliconangle.com/2021/03/23/amazon-web-services-partners-hugging-face-simplify-ai-based-natural-language-processing/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: SiliconANGLE
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS and Hugging Face Collaborate to Simplify and Accelerate Adoption of Natural Language Processing Models"
-    excerpt: "Just like computer vision a few years ago, the decade-old field of natural language processing (NLP) is experiencing a fascinating renaissance. Not a month goes by without a new breakthrough! Indeed, thanks to the scalability and cost-efficiency of cloud-based infrastructure, researchers are finally"
-    publishedDateTime: 2021-03-23T15:04:04Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "Amazon Web Services collaborates with Hugging Face to simplify AI-based natural language processing"
     excerpt: "Amazon Web Services Inc. partners with New York based startup, Hugging Face Inc. with the aim of accelerating and simplifying NLP models."
     publishedDateTime: 2021-03-24T13:01:00Z

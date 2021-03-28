@@ -43,22 +43,6 @@ related:
         width: 720
         height: 432
         isCached: true
-  - title: "Sophia the Robot NFTs Set to Go Live on Nifty Gateway"
-    excerpt: "The world-famous artificial intelligence project Sophia the Robot has created her own non-fungible tokens (NFT)."
-    publishedDateTime: 2021-03-23T15:28:00Z
-    webUrl: "https://beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
-    ampWebUrl: "https://beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
-    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-robot-nfts-live-nifty-gateway/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 59
-    images:
-      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/03/bic_artwork_ai_sophia_nft_720.jpg.optimal.jpg"
-        width: 720
-        height: 432
-        isCached: true
 
 secured: "tzGJSWIl8be9TouFVo7QbD/VlHViNRoBHfKLVqyjrVBGcc/7uY79oVhakjoTo/259chsPLyQkhAqQhRG16sQbb8A7DvPJNuAXMw+T6dvRX6HRRIcSVpU9MVSxjAhrT7g3ChsZyCePCRaG1kemwCYl+1PH5TGzMB76COXUkl/O0yZ678zrKj6sLp4iwwZonmFzueNPSYf2jnAzDaP3rwCnDOovCysaZkzlr6DIpVzoiovfxjwVIX9b9hfujQ8ganJG+GYZj0/48tXnwh16E7XqXxKN9objtetMXmFRZCgz7RRT1ppwK6hnGtkzIEAnVUrr6vpVz7F2vXB0FaDmf9HMdNnZ8ZvwWlJisILaqD0FH6NQkb8v7jU6UYoXmLBikKi3PCd7ZW5aqM4M3AyEPaGn0/mtp6ro71bRDym1F4WvJuRk+zVCaPQFw9RNb2DIZ/tLUJ/11033q8/haheDSQjcDsZCmb7gtE4g0vbhr4xgs7kPqkchVByfJ1bebRzZU284uZ8pRNoNIYlcOcSugNTbA==;cr2/bD2h8F0Wuzh8o37h0A=="
 ---

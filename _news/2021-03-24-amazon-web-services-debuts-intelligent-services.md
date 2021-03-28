@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tvbeurope.com/media-management/amazon-web-services-debut
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: tvbeurope.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Announcing AWS Media Intelligence Solutions"
-    excerpt: "Today, we’re pleased to announce the availability of AWS Media Intelligence (AWS MI) solutions, a combination of services that empower you to easily integrate AI into your media content workflows. AWS MI allows you to analyze your media, improve content engagement rates, reduce operational costs, and"
-    publishedDateTime: 2021-03-23T15:02:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/announcing-aws-media-intelligence-solutions/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/23/MI-partners_v2.jpg"
-        width: 800
-        height: 312
-        isCached: true
   - title: "AWS rolls out New Media Intelligence Solutions"
     excerpt: "AWS AI services that work with AWS MI include Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. These enable AWS ..."
     publishedDateTime: 2021-03-25T08:36:00Z
@@ -55,34 +41,6 @@ related:
     images:
       - url: "https://www.rapidtvnews.com/images/2021/March_2021/AWS.png"
         width: 570
-        height: 450
-        isCached: true
-  - title: "AWS Announces General Availability of Amazon Lookout for Metrics"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Metrics, a new fully managed service that detects anomalies in metrics and helps determine their root cause."
-    publishedDateTime: 2021-03-25T19:32:00Z
-    webUrl: "https://www.argus-press.com/news/national/article_3c36c6f7-164c-5f58-9466-3f3ef9186d1a.html"
-    type: article
-    provider:
-      name: Argus-Press
-      domain: argus-press.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/argus-press.com/content/tncms/custom/image/bdf824b4-27a0-11e8-a78f-67fc2c3cc6dd.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Amazon and Red Hat Announce General Availability of Red Hat OpenShift Service on AWS (ROSA)"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ:AMZN) and Red Hat, the world’s leading provider of enterprise open source solutions, announced the general availability of Red Hat OpenShift Service on AWS (ROSA),"
-    publishedDateTime: 2021-03-24T21:15:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-99c14ec38d5f4ce285f18306004d5d69"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 44
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
         height: 450
         isCached: true
   - title: "AWS Releases AWS Media Intelligence Solutions"

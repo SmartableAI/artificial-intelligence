@@ -9,8 +9,8 @@ ampWebUrl: "https://hypebeast.com/2021/3/nintendo-switch-4k-nvidia-chip-upscale-
 cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/3/nintendo-switch-4k-nvidia-chip-upscale-news?amp=1"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 51
+published: false
 
 provider:
   name: Hypebeast
@@ -25,31 +25,6 @@ images:
     width: 1170
     height: 780
     isCached: true
-
-related:
-  - title: "Bloomberg: Switch Upgrade to Use New Nvidia Graphics Chip, Releases Later This Year - News"
-    excerpt: "The new Switch model will have support for Nvidia's DLSS, which is a rendering technology that uses AI to deliver improved graphics more efficiently. This will help the new model reproduce game visuals at 4K resolution when docked. The new Switch model ..."
-    publishedDateTime: 2021-03-23T16:44:00Z
-    webUrl: "https://www.vgchartz.com/article/448014/bloomberg-switch-upgrade-to-use-new-nvidia-graphics-chip-releases-later-this-year/"
-    type: article
-    provider:
-      name: VG Chartz
-      domain: vgchartz.com
-    quality: 29
-    images:
-      - url: "https://www.vgchartz.com/articles_media/images/monster-hunter-stories-2-wings-of-ruin-for-switch-requires-146-gb-of-space-431541_featured.jpg"
-        width: 600
-        height: 250
-        isCached: true
-  - title: "The rumored new Nintendo Switch might use AI to upscale images in real-time"
-    excerpt: "DLSS basically uses AI to upscale images in real-time, so you end up with a higher-resolution image without the image quality hit that traditional upscaling methods bring. It’s a perfect fit for the power-constrained handheld console,"
-    publishedDateTime: 2021-03-23T16:46:00Z
-    webUrl: "https://knowtechie.com/the-rumored-new-nintendo-switch-might-use-ai-to-upscale-images-in-real-time/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 17
 
 secured: "RHuYhxKGeZSgKx6QSuYrn2bsOrdV4yx5+4/MJkbq3MOb7n9OUyHV7T3BFZlh+FBLZjnb5Qd3iW1qrkDSMv8cwV66Rbm4ph0bBPQyiMO/lQC/RDBfNDphly71+JB+j57F5K1VNnaitG3LexWJ/+izQ3Gx15JImmscfjmdMgn+jXXcdv0JiIbhZsKcQ+4T7RIdDXj9maF0xeSbdQxIrF7igx0g9avsRYWVmJcpvvo5BOn4bnlEWTN3u7H46d6YXLe+eUzX2hXNMXC/Fr4u10Ygpw59t7HRbl9QYjeIdPsNIqGVoJwQgYL/EwPKQWVYxfkftkOsp2Dil/NGXyq5wUEYQCD/LMSfnDfXrJT8M4uLGFk=;nnJ2WwQZqk0xCi9sme++zQ=="
 ---

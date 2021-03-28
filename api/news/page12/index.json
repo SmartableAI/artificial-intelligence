@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-16-valleyml-is-launching-ai-expo-2021-the-premier-ai-and-ml-industry-event.md",
+      "title": "ValleyML is launching AI Expo 2021. The Premier AI and ML Industry Event!",
+      "excerpt": "Valley Machine Learning and Artificial Intelligence (ValleyML.ai) is organizing \"AI Expo 2021\" as a three-day virtual event with nine program tracks on",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/valleyml-is-launching-ai-expo-2021-the-premier-ai-and-ml-industry-event/article_2bdf09a9-b1d3-5783-b929-3e82107a9642.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/valleyml-is-launching-ai-expo-2021-the-premier-ai-and-ml-industry-event/article_2bdf09a9-b1d3-5783-b929-3e82107a9642.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-machine-learning-can-identify-cancerous-cells-by-their-acidity.md",
       "title": "Machine learning can identify cancerous cells by their acidity",
       "excerpt": "Cancerous cells exhibit several key differences from healthy cells that help identify them as dangerous. For instance, the pH—the level of acidity—within a cancerous cell is not the same as the pH within a healthy cell.",
@@ -1181,57 +1225,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m.md",
-      "title": "On-demand logistics and fulfillment startup Flowspace raises $31M",
-      "excerpt": "On-demand warehousing fulfillment startup Flowspace today announced that it raised $31 million in a series B equity funding round. Los Angeles, California-based Flowspace says that the round, which was led by BuildGroup,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/",
-      "originalUrl": "https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1191254826.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/on-demand-logistics-and-fulfillment-startup-flowspace-raises-31m/amp/",
-      "publishedDateTime": "2021-03-15T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.openpr.com/news/2262865/natural-language-processing-nlp-in-healthcare-and-life",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -242,6 +242,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-24-amazon-web-services-partners-with-hugging-face-to-simplify-ai-based-natural-language-processing.md",
+      "title": "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing",
+      "excerpt": "Amazon Web Services partners with Hugging Face to simplify AI-based natural language processing - SiliconANGLE",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/03/23/amazon-web-services-partners-hugging-face-simplify-ai-based-natural-language-processing/",
+      "originalUrl": "https://siliconangle.com/2021/03/23/amazon-web-services-partners-hugging-face-simplify-ai-based-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/AWS-Hugging-Face.png",
+          "width": 613,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AWS AI"
       ]
     },
     {
@@ -1442,50 +1486,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-activists-sue-clearview-ai-alleging-facial-recognition-surveillance.md",
-      "title": "Activists Sue Clearview AI, Alleging Facial Recognition Surveillance",
-      "excerpt": "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field.",
-      "sourceUrl": null,
-      "webUrl": "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/",
-      "originalUrl": "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lawstreetmedia.com/wp-content/uploads/2019/12/iStock-1180187740-1024x697.jpg",
-          "width": 1024,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/",
-      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/activists-sue-clearview-ai-alleging-facial-recognition-surveillance/amp/",
-      "publishedDateTime": "2021-03-10T14:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law Street Media",
-        "domain": "lawstreetmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

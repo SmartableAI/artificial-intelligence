@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Five Ways Artificial Intelligence Is Changing The Water Industry"
+    excerpt: "AI helps in detecting sources of contamination in the pipeline — whenever there is a variance in quality, it can send alerts and call for an immediate fix"
+    publishedDateTime: 2021-03-28T09:00:00Z
+    webUrl: "https://inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/"
+    ampWebUrl: "https://inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 37
   - title: "How Human AI and Machine Learning Technologies Are Leading the Fight Against Money Laundering and Financial Crime in 2021 and Beyond"
     excerpt: "The COVID-19 pandemic has exposed widespread vulnerabilities as compliance teams seek to manage remote employees spread across the world; regulators and governments are tightening restrictions; and technology is advancing at breakneck speed in a bid to keep pace with the increasingly sophisticated methods being used by financial criminals."
     publishedDateTime: 2021-03-25T11:29:00Z

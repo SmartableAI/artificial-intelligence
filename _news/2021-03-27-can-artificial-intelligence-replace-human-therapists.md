@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/can-artificial-intelligence-replace
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200"
 type: article
 quality: 89
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Can artificial intelligence replace human therapists?"
+    excerpt: "Websites, smartphone apps and social-media sites are dispensing mental-health advice, often using artificial intelligence. Meanwhile, clinicians and researchers are looking to AI to help define mental illness more objectively,"
+    publishedDateTime: 2021-03-28T07:46:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists-11616917093082.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/can-artificial-intelligence-replace-human-therapists/amp-11616917093082.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/03/28/600x338/AI-kkGH--621x414@LiveMint_1616917196222.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "wjR8gMfyHJWQL5BOPqOGWG36wXSzjvLcxzj8e2GtBdKC2As8hWHF7qC4jDSFBvaQGvxmHnp2SECAbABjGebRIw/+Zmg1JeZqhImCXo896F7VkcjccZFOwRQ4ET8Vg/Zvs26fGW0upgRNkaWI1bBHzKzM9CarsC6NAwDH6Ul4kUrbHFo7pw7gBg6b2gzOVyPoW0Vw0JmwyOtjGeUhbRXN72XcEQjgJ5UdWdpJ0fWTu7AcUsqcbV5Fsl3T5A6TGOJ5lGXkqmna4pU5jw1zVG30/xN186mUDHNHyvNIt0UgatFxWqi7/TuF/wHiaRRHh2BW9hhR2xbeDPv2i4m8qxlvYnN8kIF4RpTNcTR/sL3BAnjB5yCBh5Gmx9B9en1F53AEyE6CwEF3AA8gXdh/mQjZaeH0NHFXE7ntShhOAabOCgvp1442vqgFUtBdly2snTgAPqU1AZyE6pGiqvNguKP+TgFkoh06YYmKabW2HKhRaugMGSSx02rgXjEx0TjWk//1NfXSvAVGdLjjHGjbZ5Iuwg==;iG962Lt2gH0U4vMROXdd9w=="
 ---

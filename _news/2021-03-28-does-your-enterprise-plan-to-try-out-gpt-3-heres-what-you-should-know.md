@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

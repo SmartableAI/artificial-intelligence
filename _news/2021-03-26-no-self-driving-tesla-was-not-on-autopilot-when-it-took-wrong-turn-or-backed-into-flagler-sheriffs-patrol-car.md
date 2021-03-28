@@ -89,20 +89,6 @@ related:
         width: 945
         height: 531
         isCached: true
-  - title: "Tesla’s Full Self-Driving Capability: Unsafe at any Speed"
-    excerpt: "Tesla’s Full Self-Driving Capability poses perhaps the biggest challenge to automobile safety regulators since the publication of Nader’s book in 1965. Social media sites and the media are replete with images of Tesla owners sleeping, playing the ..."
-    publishedDateTime: 2021-03-23T15:43:00Z
-    webUrl: "https://www.law.com/texaslawyer/2021/03/23/teslas-full-self-driving-capability-unsafe-at-any-speed/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 39
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/401/2021/03/Tesla-Crash-Utah-Article-202103231451.jpg"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "CYxY/WXvbXLX9P/FdqQz8QUdl45IQKS+YQrkB5v3hkH0cQjbuDT8IkqjMw+EpjWeKcMax+C2WWanokgd8VnwPND3cisHnOgLj9x6txnpKBfUz+STx11lLQLdQH6QQTfHdntIIGtRPiXkUYyE9E+hUGQ/MXpLqzbzbvxFJAM44nGQWzdUH8A1w8atUYqQUn8Z/CNVLeBcfxQZ+R91NKaRE/tKJL18qoz+W8SsMxf46jmQqHlPGEAkubuU9M9XNVd6pdFGN/L+Cp5kKtf9KSB3O9AykZou50yV8sutwdHQRHst6sOHEiWLNFjoFdhfNYNdbXHc6opwj/8GB1XqhKtjtUQgP+7LymSG6gnqZWYaUQfotBdRT2EKQ5KcsMIWzKwUTJq9jvttselxnGp1AIP4yEOWgPeJK93V3CWhON/dZFLXterkyNFlPuFtRnapaNCOdsw0b0L7ED3lj9ICFtCYDmzPJ9CZ6yMrWrj7BfZBH2W8uGa0fleBHJVDkFkYAfg7cXeLcT9btJe9nbXZkJjdfg==;z6PSuZb5CuPyjQ1Eu8r4EA=="
 ---

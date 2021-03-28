@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-inte
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Researchers design an AI-powered backpack for the visually impaired"
+    excerpt: "Still, the product offers a glimpse at what a future could look like as progress in AI and machine learning increasingly help ... how much such a device would cost consumers, but several start-ups and organizations are working to solve the same issues ..."
+    publishedDateTime: 2021-03-28T09:00:00Z
+    webUrl: "https://www.iol.co.za/technology/gadgets/researchers-design-an-ai-powered-backpack-for-the-visually-impaired-ed7583e9-32cc-405d-a848-336df2073484"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 37
+    images:
+      - url: "https://image-prod.iol.co.za/resize/1280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/f27aa67d-46ea-50b2-bd95-55d26a978c4f&operation=CROP&offset=0x605&resize=1280x720"
+        width: 651
+        height: 366
         isCached: true
 
 secured: "sCOyLsXxKxEmb/CsbnMuTKaMBF6IpPapS3IRFDR/vKEva/AO7ows/o1mXXkUK+Kmxb48qUkyf4f8EjnmGw4oAgOPn3+90FaIDYHipVa4Db7QMiYFEfk+KLtDzJR7TG/Lij8jhNd19W6QVdPYX7Y93+VjjiE7ge/oDNl/M6keSP6r/nJ1U/aUbphiwJizIhQAQepsCEnkcOs3wSiAw/DNftBNQTSCNRVp4nEjQ0YiIbP9n/fnntnHQ2kQcuC3l6+T16JXxIGFgNZ+H+LmIZ1wX5Y3SVLThZV4PAzzY0KgkOe97Ryjsc4tobrERfQNU3g10vOupALRui5j25xZBpKHW2zNxz9sKAUn211dmHfOW66oIEKUHVdWdW7Nkxj50agwMmjRdxaQixA2FzZSXm3JdL40Kr/ZQbPOQmqWOSeeNAaoTNt4Irw6kzviZq8UfhcVVPlXOiujVWiGlhT1p9NVlCNplopy/tz9h5RGe35AYJVvpIN8iQlfNs4VVurZjNr0sw8UfVNCYbb7rzkQnV7M6w==;Hw14uq/4uFw8hwB7NN9QmQ=="

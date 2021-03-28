@@ -39,20 +39,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Sharecare develops new crowdsourced machine learning model to predict allergy symptom burden"
-    excerpt: "What if you could develop a forecast for your allergies, just as you check the weather on your phone before heading out the door? While"
-    publishedDateTime: 2021-03-23T16:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/sharecare-develops-new-crowdsourced-machine-learning-model-to-predict-allergy-symptom-burden-301253261.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 28
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "FuRFXmkdT7lPN4Qz8zi7euqHgDoCaoi7ZY6OCws9+IcTP9dcZ2ZvksVsKlaaizAyESxO4/xA534QTLuiOoLyJlCiRh8TcQNb/stHUMNhOJjADJvATRsSoWSVwCavj9PRUjnLRhqYt3PV/wgMAwCvO6tyMsgYS9kdCfx1QWUAzCnoMXwO2UnuX8+1/Qki0k5jkR+qgwRp+QUXKXUFpGk3bp/27BIa0XksiDOzLlop0qfPkUn44qA8/JuKxx7fF4qH/veY2K0uem/TwwCDUiaB8ZPLgmeD1PaOsiTWktM1k0w7lwpiizgD85+dh8GbRJof+No4/PjT+OYlpUBxjb4Z8LCG4dKbh+AljShaJ6b6MjM=;7UbDtzWQTBUd+7Cjk1f9Zg=="
 ---
