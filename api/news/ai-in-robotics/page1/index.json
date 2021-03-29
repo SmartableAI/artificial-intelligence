@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-29-modalai-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
+      "title": "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards",
+      "excerpt": "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category ... systems that communicate on 4G and 5G cellular networks. Offering both start-to-finish custom design services and plug-and-play computing platforms, ModalAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20384827",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20384827",
+      "publishedDateTime": "2021-03-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-robotics-and-coding-to-be-introduced-in-grade-r-classrooms.md",
       "title": "Robotics and coding to be introduced in Grade R classrooms",
       "excerpt": "Robotics and coding in SA classrooms. According to the CEO of Socially Acceptable, Nazareen Ebrahim, schools in South Africa will soon start teaching coding and robotics from Grad",
@@ -371,6 +405,50 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-ok-computer-review-artificial-intelligence-meets-human-bumbling.md",
+      "title": "‘OK Computer’ review: Artificial intelligence meets human bumbling",
+      "excerpt": "There’s a lot going on in the web series OK Computer: a death caused by a self-driving car, a bunch of investigators who scramble about trying to solve the crime, robots that develop sentience, a Tesla-like corporation with overreaching influence on the government,",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling",
+      "originalUrl": "https://scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/156708-wqvgytpvzv-1616656345.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling",
+      "publishedDateTime": "2021-03-25T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1291,93 +1369,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-soon-ai-based-robots-to-replace-financial-advisers-oracle-study.md",
-      "title": "Soon, AI-based robots to replace financial advisers: Oracle study",
-      "excerpt": "But, over the extended global lockdown, humans seem to have discovered greater faith in technology and machines, according to Oracle's Money and Machines: 2020 Global Study that was conducted across 9,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/current/corporate/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/story/434458.html",
-      "originalUrl": "https://www.businesstoday.in/current/corporate/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/story/434458.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/artificial_intelligence_505_121517094749_210321030928.jpg?size=1200:675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.businesstoday.in/lite/story/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/1/434458.html",
-      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/soon-ai-based-robots-to-replace-financial-advisers-oracle-study/1/434458.html",
-      "publishedDateTime": "2021-03-21T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-21-ark-invest-believes-a-tesla-robotaxi-future-is-the-most-likely-scenario.md",
-      "title": "Ark Invest Believes a Tesla Robotaxi Future is the Most Likely Scenario",
-      "excerpt": "ARK's 2025 price target for Tesla is $3,000. ARK's 25% bear case is for Tesla at $1,500 in 2025. The 25% bull case is Tesla could be worth roughly $4,000 per share. They published their mode",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2021/03/ark-invest-believes-a-tesla-robotaxi-future-is-the-most-likely-scenario.html",
-      "originalUrl": "https://www.nextbigfuture.com/2021/03/ark-invest-believes-a-tesla-robotaxi-future-is-the-most-likely-scenario.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nextbigfuture.com/wp-content/uploads/2017/10/2c47f9f27ce69d15d9b92b6eef48341e.jpg",
-          "width": 490,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextbigfuture.com/2021/03/ark-invest-believes-a-tesla-robotaxi-future-is-the-most-likely-scenario.html?amp",
-      "cdnAmpWebUrl": "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/ark-invest-believes-a-tesla-robotaxi-future-is-the-most-likely-scenario.html?amp",
-      "publishedDateTime": "2021-03-20T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

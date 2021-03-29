@@ -36,20 +36,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 37
-  - title: "FinTech company ENACOMM strikes partnership with leader in biometric and AI technology IDmission"
-    excerpt: "Banks, credit unions, credit card and payments companies of all sizes are now able to take advantage of the most modern identity solutions available, thanks to a new partnership between FinTech enablement company ENACOMM and IDmission,"
-    publishedDateTime: 2021-03-25T02:03:00Z
-    webUrl: "https://www.cuinsight.com/press-release/fintech-company-enacomm-strikes-partnership-with-leader-in-biometric-and-ai-technology-idmission"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 26
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
 
 secured: "9nFKBeRFr3lJJJwPEZdv4FWEbo5J7DwNwILnEHLtUSlZGJUEGz3FTShWJ1jgT5B/3iE/UZb/Db4kLpLfAL7Rytr0mYKSVM0a+PZnhK8crGG+Rgf9JzqhNLzjcQFDvNKnp9hwgP5VclnhSS3RjR01sO90yLh6xU3tNdxZ2IBdp6pczv8KDuxbmfDANA0EWgvM+U2DJgS7zNpByvCMLfjn/CdvhhyrH1IfwQvrZMyceB9uuvKom7PUVkTnywU7uHT+JBz+iB71sZj8NtsNu6RnrtKzYOgZwhhGlsUnWSMOygMlwOAHfcA86k6OOb0GJXz+gJvOMgTIPpddSlOZQghN6NdLMsA8fabohPBOobPeSqw=;JOS2H32zr1vOyY/Ok1abWg=="
 ---

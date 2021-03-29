@@ -2,6 +2,229 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-03-04-nice-actimize-xceed-financial-crime-platform-gets-finastra-push.md",
+      "title": "Nice Actimize Xceed financial crime platform gets Finastra push",
+      "excerpt": "NICE Actimize, a NICE (Nasdaq: NICE) business, and the industry leader in financial crime and compliance solutions, today announced a partnership with Finastra, one of the world’s largest providers of financial technology solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/86469/nice-actimize-xceed-financial-crime-platform-gets-finastra-push",
+      "originalUrl": "https://www.finextra.com/pressarticle/86469/nice-actimize-xceed-financial-crime-platform-gets-finastra-push",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T22:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging.md",
+      "title": "Snapcommerce raises $85M for AI-powered ecommerce messaging",
+      "excerpt": "Toronto, Canada-based ecommerce startup Snapcommerce today announced that it raised $85 million in a funding round led by Inovia Capital and Lion Capital, bringing its total venture capital raised to over $100 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/",
+      "originalUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/husshen_SnapTravel.jpg?w=1200&strip=all",
+          "width": 1050,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/amp/",
+      "publishedDateTime": "2021-03-03T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-record-group-meet-transcriptions-with-new-microsoft-app.md",
+      "title": "Record group meet transcriptions with new Microsoft app",
+      "excerpt": "Improving these models with usage data will ensure that our customers will have the best experience,\" said Xuedong Huang, Technical Fellow and CTO of Cognitive Services at Microsoft. The app is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html",
+      "originalUrl": "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg",
+          "width": 1000,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T22:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Pioneer",
+        "domain": "dailypioneer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-this-microsoft-app-transcribes-translates-group-conversations-in-real-time.md",
+      "title": "This Microsoft app transcribes, translates group conversations in real-time",
+      "excerpt": "Named the Group Transcribe, the app lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/04/full/1614837760-6327.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html",
+      "publishedDateTime": "2021-03-03T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords.md",
+      "title": "Edge AI Chip Company Syntiant Announces Support for ‘Hey Google’ and ‘Ok Google’ Hotwords",
+      "excerpt": "Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced that it supports Ok Google and Hey Google hotwords with the Syntiant® NDP120™ Neural Decision Processor™ (NDP).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-consumer-electronics-manufacturing-67e2a959c72d87e7e3494c08234eeac1",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-consumer-electronics-manufacturing-67e2a959c72d87e7e3494c08234eeac1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T21:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences.md",
       "title": "Cisco Webex Innovation Breaks Through Language Barriers with Real Time Translation for More Inclusive Meeting Experiences",
       "excerpt": "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time tra",
@@ -943,240 +1166,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-leopard-imaging-collaborates-with-socionext-hailo-and-aws-to-launch-edgeturing.md",
-      "title": "Leopard Imaging Collaborates with Socionext, Hailo, and AWS to Launch EdgeTuring™",
-      "excerpt": "FREMONT, Calif. and YOKOHAMA, Japan and TEL AVIV, Israel, March 3, 2021 /PRNewswire/ -- Leopard Imaging Inc. (Leopard Imaging), a leading global",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-collaborates-with-socionext-hailo-and-aws-to-launch-edgeturing-1030147046",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/leopard-imaging-collaborates-with-socionext-hailo-and-aws-to-launch-edgeturing-1030147046",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1449134/Hailo_EdgeTuring.jpg",
-          "width": 400,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-las-vegas-valley-water-district-selects-vodaais-machine-learning-to-support-decision-making.md",
-      "title": "Las Vegas Valley Water District Selects VODA.ai's Machine Learning to Support Decision-Making",
-      "excerpt": "VODA.ai today announced it has signed with the Las Vegas Valley Water District as their exclusive provider of artificial intelligence and machine learning decision",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/las-vegas-valley-water-district-selects-voda-ais-machine-learning-to-support-decision-making/article_c1237cc3-1b55-5bf4-89f5-0c8e9b109ea1.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/las-vegas-valley-water-district-selects-voda-ais-machine-learning-to-support-decision-making/article_c1237cc3-1b55-5bf4-89f5-0c8e9b109ea1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-icad-to-participate-in-the-cowen-41st-annual-health-care-conference.md",
-      "title": "iCAD to Participate in the Cowen 41st Annual Health Care Conference",
-      "excerpt": "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced that Michael Klein, iCAD’s Chairman and Chief Executive Officer, will deliver a formal presentation at the Cowen 41st Annual Health Care Conference on Thursday,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-medical-technology-cfec72e25ccfec1483fd9ce030c8be18",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-medical-technology-cfec72e25ccfec1483fd9ce030c8be18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format.md",
-      "title": "Integrating Amazon Polly with legacy IVR systems by converting output to WAV format",
-      "excerpt": "Amazon Web Services (AWS) offers a rich stack of artificial intelligence (AI) and machine learning (ML) services that help automate several components of the customer service industry. Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T09:54:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-cables-could-help-soft-robots-transform-into-harder-structures.md",
-      "title": "Cables could help soft robots transform into harder structures",
-      "excerpt": "The sub-category of soft robotics has transformed the way many think about the field. Oft-influenced by natural phenomenon, the technology offers a dramatically different approach than the sort of rigid structures we traditionally think of when we discuss robots.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
-      "originalUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/MIT-Adjustable-Robots-01-PRESS_0.jpg?w=900",
-          "width": 900,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
-      "publishedDateTime": "2021-03-03T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -57,6 +57,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Disney World Tests Facial Recognition At Magic Kingdom"
+    excerpt: "Walt Disney World Resort in Florida is trialing a facial recognition admission system at its Magic Kingdom theme park, NFCW reported on Monday (March 29). “If you return to Magic Kingdom park during our limited-time test, consider entering using the ..."
+    publishedDateTime: 2021-03-29T18:32:00Z
+    webUrl: "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/"
+    ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Disney-facial-recognition-theme-park-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Disney World begins testing facial recognition technology: Here’s how it works"
     excerpt: "Disney said the technology will capture an image of a guest’s face and convert it into a unique number, which will then be used for park entry."
     publishedDateTime: 2021-03-25T11:04:00Z
@@ -103,6 +119,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Disney World tests facial recognition"
+    excerpt: "Disney World is testing facial recognition for entry to its theme parks. Guests at Magic Kingdom scanned their tickets and got their pictures taken while wearing facemasks on Wednesday."
+    publishedDateTime: 2021-03-25T11:53:00Z
+    webUrl: "https://kdvr.com/video/disney-world-tests-facial-recognition/6470345/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 19
 
 secured: "1Yf+3+lckzz0+V5P5kj7RDroF4cIJBSwsDohMdky9S7ULB04fmQ7qkmpnmqZbW66Ctdwz5jYqRczzt+0ru/n4hbLQZN7VQtPNijFRrMmf2MGNXSuM2kEAA91zLXyJxRnkH19JIX5o3Pq73gYFvpGaomagLEVoaR2Jx2swG4RjUak91zQBzC0rMKiE7sfJleuETBwU45t1qHDibsSEcqCGd1morGWhhBGUDrPZtldTp6sII0tGUxxfNo0YTB1C+V14/x5wZsYnvmlvPEQkeFGtB1+CXwyVC5YyXVmyuGJZQOOex0X9HbHj1i4Ww6+J5mx579BBKigHyddT1aB1u8gN8974mzFga8dkKMOzxV1fNVtxndzBwrIC8aWy0Q87F/282eJVvDytzTuATdPgrP+f7/KTznVRfGj7IhPHfzlXdn/6mB3vBKCuSMjUoSqQ/CR7S6tigxzxL3LEiOHkom9MHlti33u2oP6ZNv3dALHsjK7+P55mqUf8elsM+3MBu092FaMNdL2om6DBMxh4MnmIg==;2oEy/enss9MSbw5MHUUsFQ=="
 ---

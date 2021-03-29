@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-26-applied-materials-enlists-ai-to-extract-defects-from-chips.md",
+      "title": "Applied Materials Enlists AI to Extract Defects From Chips",
+      "excerpt": "The world's largest semiconductor gear maker said its Enlight process control system with ExtractAI technology serves as \"a search engine\" for potential flaws on the surface of chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
+      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21158320/electronic-design-applied-materials-enlists-ai-to-extract-defects-from-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/03/Applied_Materials_Enlight_system.605cdb6e9aa47.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-this-wearable-ai-translator-lets-you-talk-freely-and-naturally-in-different-languages.md",
+      "title": "This wearable AI translator lets you talk freely and naturally in different languages",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
+      "originalUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F01%252F08%252F6e%252Fcde31ac0debc4a54974622afc46c4242.e83a8.png%252F1200x630.png?signature=dW04es9FGsB6uLNoFow3pv8shcY=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
+      "publishedDateTime": "2021-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-navigating-the-hype-around-artificial-intelligence.md",
       "title": "Navigating the hype around artificial intelligence",
       "excerpt": "Video Module Navigating the hype around artificial intelligence. Posted . Investing in Artificial Intelligence is very much on-trend, with one recent report predicting deep learni",
@@ -195,6 +281,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-this-is-the-tech-investing-trend-im-most-excited-about-right-now.md",
+      "title": "This Is the Tech Investing Trend I'm Most Excited About Right Now",
+      "excerpt": "The tech sector is filled with many promising secular growth stories, including driverless cars, automated factories, wearables, chatbots, and cloud services. However, one common theme links most of these next-gen markets together: artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619166%2Fgettyimages-1267193955.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "publishedDateTime": "2021-03-25T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1008,7 +1146,7 @@
       "originalUrl": "https://www.deseret.com/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1075,150 +1213,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-seattle-startup-ifoodds-raises-15m-for-food-supply-chain-monitoring-tech.md",
-      "title": "Seattle startup iFoodDS raises $15M for food supply chain monitoring tech",
-      "excerpt": "Come join AI2! Become a co-founder of an AI-first startup in our Incubator, work on Semantic Scholar, our AI-powered research tool for science, or be a part of the research driving the AI of the future. We’re seeking talented entrepreneurs, engineers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/seattle-startup-ifoodds-raises-15m-food-supply-chain-monitoring-tech/",
-      "originalUrl": "https://www.geekwire.com/2021/seattle-startup-ifoodds-raises-15m-food-supply-chain-monitoring-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/seattle-startup-ifoodds-raises-15m-food-supply-chain-monitoring-tech/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/seattle-startup-ifoodds-raises-15m-food-supply-chain-monitoring-tech/amp/",
-      "publishedDateTime": "2021-03-24T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-employees-attribute-ai-project-failure-to-poor-data-quality.md",
-      "title": "Employees attribute AI project failure to poor data quality",
-      "excerpt": "A survey from Alatian and Wakefield find that data quality issues are among the top reasons that companies fail to implement AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/24/employees-attribute-ai-project-failure-to-poor-data-quality/",
-      "originalUrl": "https://venturebeat.com/2021/03/24/employees-attribute-ai-project-failure-to-poor-data-quality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/24/employees-attribute-ai-project-failure-to-poor-data-quality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/24/employees-attribute-ai-project-failure-to-poor-data-quality/amp/",
-      "publishedDateTime": "2021-03-24T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-food-supply-traceability-startup-ifoodds-nabs-15m.md",
-      "title": "Food supply traceability startup iFoodDS nabs $15M",
-      "excerpt": "FoodDS, a company offering food supply chain traceability software, has raised $15 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/24/food-supply-traceability-startup-ifoodds-nabs-15m/",
-      "originalUrl": "https://venturebeat.com/2021/03/24/food-supply-traceability-startup-ifoodds-nabs-15m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages_1075752640_smart_tomato.5eb416f20ad7e.jpg?w=800&resize=800%2C534&strip=all",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/24/food-supply-traceability-startup-ifoodds-nabs-15m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/24/food-supply-traceability-startup-ifoodds-nabs-15m/amp/",
-      "publishedDateTime": "2021-03-24T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

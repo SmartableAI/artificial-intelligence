@@ -78,20 +78,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
-  - title: "Risk management challenges on Fintechs labor to financial inclusion"
-    excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
-    publishedDateTime: 2021-03-25T02:04:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/risk-management-challenges-on-fintechs-labor-to-financial-inclusion-nid-33194-cid-254.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "SME-focused fintech acquired by Sage"
     excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
     publishedDateTime: 2021-03-29T07:42:00Z

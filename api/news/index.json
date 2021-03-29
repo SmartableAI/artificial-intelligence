@@ -2,48 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-30-kustomer-named-winner-in-2021-artificial-intelligence-ai-excellence-awards.md",
-      "title": "Kustomer Named Winner in 2021 Artificial Intelligence (AI) Excellence Awards",
-      "excerpt": "The company's top-rated customer service CRM platform leverages AI extensively to help industry-leading businesses orchestrate unified, on-demand experiences that create customers for life.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/kustomer-named-winner-in-2021-artificial-intelligence-ai-excellence-awards-1030255768",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/kustomer-named-winner-in-2021-artificial-intelligence-ai-excellence-awards-1030255768",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-29-aerobotics-improves-training-speed-by-24-times-per-sample-with-amazon-sagemaker-and-tensorflow.md",
       "title": "Aerobotics improves training speed by 24 times per sample with Amazon SageMaker and TensorFlow",
       "excerpt": "Editor’s note: This is a guest post written by Michael Malahe, Head of Data at Aerobotics, a South African startup that builds AI-driven tools for agriculture. Aerobotics is an agri-tech company operating in 18 countries around the world, based out of Cape Town, South Africa. Our mission is to provide",
@@ -151,6 +109,40 @@
       ]
     },
     {
+      "path": "_news/2021-03-29-modalai-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
+      "title": "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards",
+      "excerpt": "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category ... systems that communicate on 4G and 5G cellular networks. Offering both start-to-finish custom design services and plug-and-play computing platforms, ModalAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20384827",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20384827",
+      "publishedDateTime": "2021-03-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-robotics-and-coding-to-be-introduced-in-grade-r-classrooms.md",
       "title": "Robotics and coding to be introduced in Grade R classrooms",
       "excerpt": "Robotics and coding in SA classrooms. According to the CEO of Socially Acceptable, Nazareen Ebrahim, schools in South Africa will soon start teaching coding and robotics from Grad",
@@ -241,6 +233,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-fridges-microwaves-fall-prey-to-global-chip-shortage.md",
+      "title": "Fridges, microwaves fall prey to global chip shortage",
+      "excerpt": "A global shortage of chips that has rattled production lines at car companies and squeezed stockpiles at gadget makers, is now leaving home appliance makers unable to meet demand, according to the president of Whirlpool Corp in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-chips-shortage-appliances-idUKKBN2BL0ZO",
+      "originalUrl": "https://www.reuters.com/article/uk-chips-shortage-appliances-idUKKBN2BL0ZO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210329&t=2&i=1556585768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2S0O4",
+          "width": 796,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2BL0ZO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BL0ZO",
+      "publishedDateTime": "2021-03-29T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -528,7 +572,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -726,7 +770,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1164,58 +1208,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-ai-weekly-algorithms-accountability-and-regulating-big-tech.md",
-      "title": "AI Weekly: Algorithms, accountability, and regulating Big Tech",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. This week, Facebook CEO Mark Zuckerberg, Google CEO Sundar Pichai, and Twitter CEO Jack Dorsey went back to Congress,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/",
-      "originalUrl": "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/facebook-google-twitter-logos.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/",
-      "publishedDateTime": "2021-03-26T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

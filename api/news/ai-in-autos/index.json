@@ -210,6 +210,102 @@
       ]
     },
     {
+      "path": "_news/2021-03-26-ok-computer-review-artificial-intelligence-meets-human-bumbling.md",
+      "title": "‘OK Computer’ review: Artificial intelligence meets human bumbling",
+      "excerpt": "There’s a lot going on in the web series OK Computer: a death caused by a self-driving car, a bunch of investigators who scramble about trying to solve the crime, robots that develop sentience, a Tesla-like corporation with overreaching influence on the government,",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling",
+      "originalUrl": "https://scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/156708-wqvgytpvzv-1616656345.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling",
+      "publishedDateTime": "2021-03-25T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-this-is-the-tech-investing-trend-im-most-excited-about-right-now.md",
+      "title": "This Is the Tech Investing Trend I'm Most Excited About Right Now",
+      "excerpt": "The tech sector is filled with many promising secular growth stories, including driverless cars, automated factories, wearables, chatbots, and cloud services. However, one common theme links most of these next-gen markets together: artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619166%2Fgettyimages-1267193955.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
+      "publishedDateTime": "2021-03-25T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-will-self-driving-cars-disrupt-the-insurance-industry.md",
       "title": "Will Self-Driving Cars Disrupt The Insurance Industry?",
       "excerpt": "Automated vehicles are rapidly advancing in capability, altering the risks and liabilities traditionally associated with driving. These changes will disrupt the $300B auto insurance market and the wider P&C insurance industry.",
@@ -1387,103 +1483,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
-      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
-      "excerpt": "Bigg Boss 14 couple Jasmin Bhasin and Aly Goni recently stepped out for a dinner date in Mumbai. The couple was joined by none other than Rahul Vaidya and Disha Parmar. Mumbai, March 16 (IANS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
-      "originalUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp",
-      "cdnAmpWebUrl": "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp",
-      "publishedDateTime": "2021-03-15T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "glamsham.com",
-        "domain": "glamsham.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount.md",
-      "title": "Cruise acquires driverless vehicle startup Voyage for an undisclosed amount",
-      "excerpt": "GM-backed Cruise today announced that it’s acquiring Voyage, following a report in Bloomberg. The terms of the deal weren’t disclosed, but Voyage CEO Oliver Cameron said that “key members” of the Voyage team will join Cruise when the purchase is finalized later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/",
-      "originalUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/Voyage-fleet-of-self-driving-Chrysler-Pacifica-hybrid-minivans.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/",
-      "publishedDateTime": "2021-03-15T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

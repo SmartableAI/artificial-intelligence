@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-04-delivery-startup-refraction-ai-raises-42m-to-expand-service-areas.md",
+      "title": "Delivery startup Refraction AI raises $4.2M to expand service areas",
+      "excerpt": "Refraction AI, a company developing semi-autonomous delivery robots, today announced that it raised $4.2 million in seed funding led by Pillar VC. Refraction says that the proceeds will be used for customer acquisition,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/08/delivery-startup-refraction-ai-raises-4-2m-to-expand-service-areas/",
+      "originalUrl": "https://venturebeat.com/2021/03/08/delivery-startup-refraction-ai-raises-4-2m-to-expand-service-areas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/20200424_120944-scaled-e1593206157534.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/08/delivery-startup-refraction-ai-raises-4-2m-to-expand-service-areas/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/08/delivery-startup-refraction-ai-raises-4-2m-to-expand-service-areas/amp/",
+      "publishedDateTime": "2021-03-03T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-artificial-intelligence-in-agriculture-market-may-see-a-big-move-major-giants-microsoft-ibm-sap.md",
+      "title": "Artificial Intelligence in Agriculture Market May See a Big Move | Major Giants: Microsoft, IBM, SAP",
+      "excerpt": "Latest launched research document on Global Artificial Intelligence in Agriculture Market study of 128 Pages provides detailed analysis with presentable graphs charts and tables The Research Study presents a complete assessment of the Market and highlights future trend growth factors",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
+      "originalUrl": "https://www.openpr.com/news/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/3/U303350659_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move",
+      "publishedDateTime": "2021-03-03T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-cables-could-help-soft-robots-transform-into-harder-structures.md",
       "title": "Cables could help soft robots transform into harder structures",
       "excerpt": "The sub-category of soft robotics has transformed the way many think about the field. Oft-influenced by natural phenomenon, the technology offers a dramatically different approach than the sort of rigid structures we traditionally think of when we discuss robots.",
@@ -1307,92 +1403,6 @@
       "provider": {
         "name": "theenterpriseleader.com",
         "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-why-religions-are-right-to-be-afraid-of-ai.md",
-      "title": "Why Religions Are Right to Be Afraid of AI",
-      "excerpt": "French sociologist and philosopher Raphaël Liogier, former director of the now-defunct Religion Observatory at the University of Provence Aix-Marseille, believes the Pope’s comments speak volumes about his beliefs on the subject.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "originalUrl": "https://www.vice.com/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/60103aa49ddb36009b1b45d0/lede/1611736717220-kfh1th.jpeg?crop=1xw:0.84375xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "publishedDateTime": "2021-02-25T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-waterbridge-invests-in-nymble-labs-building-a-robot-that-can-cook-food.md",
-      "title": "WaterBridge Invests In Nymble Labs Building A Robot That Can Cook Food",
-      "excerpt": "It uses artificial intelligence (AI) and machine ... is another consumer kitchen startup Rotimatic, which is a roti cooking bot, which looks like a box but it is a robot. Rotimatic is available ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/",
-      "originalUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/waterbridge-invests-in-nymble-that-is-building-robot-that-can-cook-food/amp/",
-      "publishedDateTime": "2021-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
         "images": null,
         "publishers": null,
         "authors": null

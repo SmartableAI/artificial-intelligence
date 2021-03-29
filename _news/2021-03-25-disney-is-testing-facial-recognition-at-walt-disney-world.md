@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deseret.com/platform/amp/entertainment/2021/3/25/2234828
 cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world"
 type: article
 quality: 59
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://img.travelawaits.com/filter:centercrop/quill/5/9/2/7/0/a/59270a9ea0fff8df8eb37756170ca02ffc3572c5.jpg?w=300&h=300"
         width: 300
         height: 300
+        isCached: true
+  - title: "Disney World Tests Facial Recognition At Magic Kingdom"
+    excerpt: "Walt Disney World Resort in Florida is trialing a facial recognition admission system at its Magic Kingdom theme park, NFCW reported on Monday (March 29). “If you return to Magic Kingdom park during our limited-time test, consider entering using the ..."
+    publishedDateTime: 2021-03-29T18:32:00Z
+    webUrl: "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/"
+    ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Disney-facial-recognition-theme-park-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Disney World begins testing facial recognition technology: Here’s how it works"
     excerpt: "Disney said the technology will capture an image of a guest’s face and convert it into a unique number, which will then be used for park entry."
@@ -103,6 +119,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Disney World tests facial recognition"
+    excerpt: "Disney World is testing facial recognition for entry to its theme parks. Guests at Magic Kingdom scanned their tickets and got their pictures taken while wearing facemasks on Wednesday."
+    publishedDateTime: 2021-03-25T11:53:00Z
+    webUrl: "https://kdvr.com/video/disney-world-tests-facial-recognition/6470345/"
+    type: article
+    provider:
+      name: FOX31 Denver
+      domain: kdvr.com
+    quality: 19
 
 secured: "ST6AgxsZd2Kp8V3C/pKK8/0VBwqGQxU/O/ghrbRNG3rjWAUrRZAjc+b3a/5qZgXZY4o3RiU20modlaz3319JVnHOruIgeev92bCH9dfJqLx/kbul5dzrFqfasgNt3KvRKC7ZmlqIDmlq5lz1ImsRAl25HRUHwG5SUZnDEKzH10Ox68fsqpLwiqFTLecoEX1SmguDLyd0/+FTVb+QZejPUMZKUyrEnpnhiYTlFIsefIIpBd6CLO9cxgq/ixupO27KArg9gBOdvAud8Rtz2U/T670nsfuTgPxpFn/o1Sccr5R4uiug2NMQf11rQ23BZF5mUeqFaPFhNKThbZcbX/x5hSKzmLErS1YECqT150odFeqkL8rOMCPhde72boadtOPgaPPsPwQPgIZTlUpp5fFhsEnHV/WCgG70nNKQMTqQvzFuUzX6kt9D86km+ikVovh/Q7/VpMMacsrkfJyIotutWJ1FNBW4x5hy4Zh7E8+oY0hqZ3nyzZ8X1JfBVpJxLy+BIHh6XiTU7jVWSRTLAuP1ug==;qmmBCEgQl5JC87q004EXGg=="
 ---

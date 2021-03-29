@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Kustomer Named Winner in 2021 Artificial Intelligence (AI) Excellence Awards"
-excerpt: "The company's top-rated customer service CRM platform leverages AI extensively to help industry-leading businesses orchestrate unified, on-demand experiences that create customers for life."
-publishedDateTime: 2021-03-29T17:35:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/kustomer-named-winner-in-2021-artificial-intelligence-ai-excellence-awards-1030255768"
-webUrl: "https://markets.businessinsider.com/news/stocks/kustomer-named-winner-in-2021-artificial-intelligence-ai-excellence-awards-1030255768"
+excerpt: "Kustomer announces today that it was named a winner in the Business Intelligences’ Artificial Intelligence Excellence Awards program. The company’s top-rated customer service CRM platform leverages AI extensively to help industry-leading businesses orchestrate unified,"
+publishedDateTime: 2021-03-29T17:28:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-diseases-and-conditions-coronavirus-pandemic-lung-disease-d3c27e9fb897452d8ddb599ec87de20e"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-diseases-and-conditions-coronavirus-pandemic-lung-disease-d3c27e9fb897452d8ddb599ec87de20e"
 type: article
-quality: 59
-heat: 119
-published: true
+quality: 49
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
 related:
   - title: "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category from The Business Intelligence Group for the company's collective performance developing highly-integrated artificial intelligence (AI)-powered computing platforms."
+    excerpt: "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category ... systems that communicate on 4G and 5G cellular networks. Offering both start-to-finish custom design services and plug-and-play computing platforms, ModalAI ..."
     publishedDateTime: 2021-03-29T15:00:00Z
     webUrl: "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards"
     ampWebUrl: "https://amp.benzinga.com/amp/content/20384827"
@@ -32,7 +34,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 52
+    quality: 54
   - title: "Payrailz Named a Winner in the 2021 Artificial Intelligence Excellence Awards"
     excerpt: "Healthcare Triangle is proud to announce its launch of readabl.ai, a state-of-art, advanced automatic capture solution powered by Artificial intelligence (AI) & Natural Language Processing (NLP) for document classification, information extraction and..."
     publishedDateTime: 2021-03-29T14:05:00Z
@@ -42,6 +44,20 @@ related:
       name: Le Lézard
       domain: lelezard.com
     quality: 51
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Samsara Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "Samsara, the pioneer of the Connected Operations Cloud, today announced it was named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards. Samsara's AI safety solution has been recognized in the \"Computer"
+    publishedDateTime: 2021-03-29T13:58:00Z
+    webUrl: "https://www.lelezard.com/en/news-19721706.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
     images:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
@@ -61,20 +77,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Bright Machines was named a winner in its Artificial Intelligence Excellence Awards program. Bright Machines is a full-stack technology company offering a new approach to AI-enabled"
-    publishedDateTime: 2021-03-29T13:56:00Z
-    webUrl: "https://www.lelezard.com/en/news-19721713.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 35
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Concentric Named Winner of Business Intelligence Group's 2021 Artificial Intelligence Excellence Award"
     excerpt: "Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced it has won a 2021 Artificial Intelligence Excellence Award for its Risk Distancetm natural language processing"
     publishedDateTime: 2021-03-29T13:22:00Z
@@ -89,21 +91,7 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Cohesity Recognized as a Customers' Choice in 2021 Gartner Peer Insights ?Voice of the Customer': Distributed File Systems and Object Storage"
-    excerpt: "Voice of the Customer': Distributed File Systems and Object Storage report. With this recognition, Cohesity is the only vendor to be named as a Gartner Peer Insights Customers' Choice for both Distributed File Systems and Object Storage, as well as the ..."
-    publishedDateTime: 2021-03-29T13:27:00Z
-    webUrl: "https://www.lelezard.com/en/news-19721626.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 0
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
-secured: "DMnAzHU39RaqUnEjzHb383C0QwJrFXjHp4FdMpRAlFVRY2hL4MxWDYMjrWhQljtjrofpWz5n+R+CCOPFCTM2HRNF0MEoDIXYMUdgTpF8xEp7I5Hn/1Fq1Xlqi4feTk2IlxNom0u3CR/r3juqj4sMr6rYM8zDbmrJvtb+c7PBxfno2aouID3aiJGU8CETozBCfxgr55SxpgsenJmd5/imkMtqzFcp9NmjnvFGsjL8TJQ51sqzP/qGTmPaUITtvgaDo9yWh/YbwVXTlgSjd6/hVHX6KXdmJCX+E57nfuCEojK9Y6E91wc4qIt9spYkdCy+qHU55IV2+tWKeQTwicGdW3DYW8YJfTT6to6VdRNaSCw=;SNL/n0R0XQE+VACH9u8DVA=="
+secured: "PdpEUMRbW6o9lQOrXF3tW4+nP1qk3GAAspB1JBe91jjn7tdyNx3TJXGY9FAV0mtt9HuRPoHNXxyvX1CZuDj5CldQdA7dgmj/6o4kDlCB1aPpYXcZsksBpqaTCc3E70jpVWVmajof012BoP7i4hjxXSFC0al22l3lNfIUzINZWo1mtOy8yRnirnod3x7t3CXLA9aTwPLxC6QuUR9NbVNn3I8XmPiFr9BgJKqNB5Wnib0u4hSZpaKx/r/kEeARxQzRc1xvErUELKolNmpQEor454Mj6r06hbMVnnj8rkFpPC/iMTVv9GMIsFo1k6fWMScDVFIlX7CDw6kvyCsNWzeB5+sxOJxyGgp1auQ/fIygC+s=;NFSbfdOD8ZY+w2s3NeV/MA=="
 ---
 

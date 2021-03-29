@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Healthcare Triangle Launches readabl.ai, Advanced Capture & Routing Solution for Healthcare Industry"
-excerpt: "March 29, 2021 /PRNewswire/ -- Healthcare Triangle is proud to announce its launch of readabl.ai, a state-of-art, advanced automatic capture solution powered by Artificial intelligence (AI ..."
-publishedDateTime: 2021-03-29T13:59:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/healthcare-triangle-launches-readabl-ai-advanced-capture-routing-solution-for-healthcare-industry-1030254948"
-webUrl: "https://markets.businessinsider.com/news/stocks/healthcare-triangle-launches-readabl-ai-advanced-capture-routing-solution-for-healthcare-industry-1030254948"
+excerpt: "PLEASANTON, Calif., March 29, 2021 /PRNewswire/ -- Healthcare Triangle is proud to announce its launch of readabl.ai, a state-of-art, advanced automatic capture solution powered by Artificial intelligence (AI) & Natural Language Processing (NLP ..."
+publishedDateTime: 2021-03-29T13:51:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-triangle-launches-readabl-ai-advanced-capture-routing-solution-for-healthcare-industry/article_637a6a95-715a-5b50-95aa-fb0e2aaf8379.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-triangle-launches-readabl-ai-advanced-capture-routing-solution-for-healthcare-industry/article_637a6a95-715a-5b50-95aa-fb0e2aaf8379.html"
 type: article
-quality: 69
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1194135/Healthcare_Triangle_Logo.jpg"
-    width: 308
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/79/c792a015-3466-5d63-b324-a10c32644d51/605227c106752.image.jpg?resize=480%2C624"
+    width: 480
+    height: 624
     isCached: true
 
-secured: "e9G+TCmaBVU6DblD6PjQumfvvVkTvTbX+/voRAGb+i9TyUHOwcYpYzqiD91rx3D0cLYZntAEuDBMEe3OcYURQNzdYskL8wF0fSCgwfQOHqJ6G1vPZeC9c3D68qtNZktZJ69UNlgRky/8aQjh8RZWgpZGDXi46N6LLYGTxS0wOAQ9ekU54tmE056PCEKudI6PHUSpOKF7mTDyLvk6y3BMK2kVilSqUUC8wM3PmC5goCaBFi4FaqnHzEP69BaM8mA0GmlI5uUo7CMm+IshwTej4bXJ8X9kD/oIgG3MSl56wABGy6WjR5yeQ/xixh4ztGGNS9V2YNwYHgw9jSoQOQPPrl65pLUbzeXA29WKx3Cr65ssS26oslcj18VQ9HFVE0Zqmg5LLtsRPRZIJaPyxyGlG6764TyQBuTWSAtH/2ZEYUL9QnjZJQBVFJcTaJ0TmpaFkrZl21zo03rZ9i4fbq3rOjPo/jeP5Pb76uV09BvnbhI7X1eMrSEJE5Ir2E+5oxWYepTNvp2DDl4WJAIIYlXYFQ==;92iHNZcAQTVwU2c/G5S4Wg=="
+secured: "1nzdUEnpdcGO6lh1lvjZnij8zt/+FR9Z+fZTpb1W3owbBWpdK/V0h3Y5gyAeZKtKSDvVwTBSy1lBso9zdvZGFtBNY/a04hmOo3dMK6fehcTqMVof7mWYSuGcZCIFeurLoFyg5w7KTBFxmsqoW2oZGyBm8rGIeNPuWZifIAXca6BKdKtDXuW/3Xu0hlQ0ErrGr/maLE4vcoegZznEOjlPyK/UC2uvE8LDO/1SpR0uUgDlE/INYc4onJLd6rWjnDYGEPIf2cGUPzEWshZ2bisEKoa3lLmJ76blL6bq5FSzOrrjCCAynFSwkLh7C2Fe5bxJZI+VX2RT8hExuopObIkJU1kbhvOQYy1ag/gJLJGYEfM=;7zPYBMFyrde4eMjxD8S1oA=="
 ---
 

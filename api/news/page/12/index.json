@@ -2,6 +2,205 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-17-careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting.md",
+      "title": "Careful With That Axe, Sales Team: AI And The Future Of Forecasting",
+      "excerpt": "Opinion-based forecasts have low predictability and accuracy, are prone to bias and manipulation and yield limited value to the B2B organizations that adopt them. Fortunately, artificial intelligence is infusing and enhancing B2B sales forecasting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60512df244ca69711fa5fc51%2F0x0.png%3FcropX1%3D0%26cropX2%3D1050%26cropY1%3D121%26cropY2%3D712",
+          "width": 1050,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-5-robotics-stocks-on-the-cutting-edge.md",
+      "title": "5 Robotics Stocks on the Cutting Edge",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics stocks seem like a slam-dunk. The trend toward automation has been",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-robotics-stocks-on-the-cutting-edge-abb-irbt-raac-stxs-isrg-1030219632",
+      "publishedDateTime": "2021-03-17T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-octoml-raises-28m-for-machine-learning-deployment-optimization.md",
+      "title": "OctoML raises $28M for machine learning deployment optimization",
+      "excerpt": "OctoML helps businesses accelerate and deploy AI and relies on the open-source technology Apache TVM machine learning compiler framework. The funding will be used for OctoML to continue building ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/",
+      "originalUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/4082218_Octo_ML_flat_side_rgb.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/octoml-raises-28m-for-machine-learning-deployment-optimization/amp/",
+      "publishedDateTime": "2021-03-17T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-global-cloud-natural-language-processing-market-size-share-value-and-competitive-landscape-for-2021.md",
+      "title": "Global Cloud Natural Language Processing Market Size, Share, Value, and Competitive Landscape for 2021",
+      "excerpt": "Product values and regional markets are estimated by market analyst, data analyst and people from related industry, based on companys’ revenue and applications market respectively.” SHARE YOUR QUERIES:  The report demonstrates detail coverage of Cloud Natural Language Processing industry and main market trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-cloud-natural-language-processing-market-size-share-value-and-competitive-landscape-for-2021-2021-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-cloud-natural-language-processing-market-size-share-value-and-competitive-landscape-for-2021-2021-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-creo-unveils-ai-based-biobulb-for-indoor-plant-walls.md",
       "title": "Creo unveils AI-based BioBulb for indoor plant walls",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Creo unveiled its BioBulb technology platform that allows businesses to create appealing indoor plant walls ...",
@@ -980,179 +1179,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-conlan-scientific-named-top-aiml-development-solutions-provider-for-financial-sector-in-washington-dc-in-2021.md",
-      "title": "Conlan Scientific Named Top AI/ML Development Solutions Provider for Financial Sector in Washington DC in 2021",
-      "excerpt": "Conlan Scientific, a fast-growing nationally recognized authority in delivering AI/ML-based Financial Data Science solutions, proudly announced today that Clutch Research had recognized it as a top leader in Artificial Intelligence/Machine Learning Development firms for its expertise in supporting the financial sector in the Washington D.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-e76857d70069e6cf37e48cc12acd6b7a",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-science-corporate-news-north-america-e76857d70069e6cf37e48cc12acd6b7a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex.md",
-      "title": "Take a look inside University of Michigan’s new Ford Motor Co. robotics complex",
-      "excerpt": "The Ford Motor Company Robotics Building on University of Michigan's North Campus is a $75 million state-of-the-art facility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/",
-      "originalUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.clickondetroit.com/resizer/HmnQTMNjtSbF6rJTuexAtQI0O1I=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/JDQM34PSUJC2VO2346NJJLVEXQ.JPG",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/all-about-ann-arbor/2021/03/16/take-a-look-inside-university-of-michigans-new-ford-motor-co-robotics-complex/?outputType=amp",
-      "publishedDateTime": "2021-03-16T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-microsoft-amazon-must-face-facial-recognition-data-suits.md",
-      "title": "Microsoft, Amazon must face facial recognition data suits",
-      "excerpt": "A Washington federal judge has ruled on motions to dismiss two nearly identical lawsuits against Amazon.com Inc and Microsoft Corp, rejecting the companies' bids to scrap an Illinois biometric privacy claim while asking for additional briefings before ruling on two",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
-      "originalUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LE215",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE215",
-      "publishedDateTime": "2021-03-16T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-artificial-intelligence-is-predicting-future-covid-19-strains-developing-treatments.md",
-      "title": "Artificial Intelligence Is Predicting Future COVID-19 Strains, Developing Treatments",
-      "excerpt": "Artificial intelligence in particular has emerged as a useful new tool to not only beat back the viral mutations, but to also stop them before they can spread at all. Some new strains of the COVID ...",
-      "sourceUrl": null,
-      "webUrl": "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/",
-      "originalUrl": "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://observer.com/wp-content/uploads/sites/2/2021/03/GettyImages-1303550836.jpg?quality=80&strip",
-          "width": 5878,
-          "height": 3927,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/amp/",
-      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/amp/",
-      "publishedDateTime": "2021-03-16T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Observer",
-        "domain": "observer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
