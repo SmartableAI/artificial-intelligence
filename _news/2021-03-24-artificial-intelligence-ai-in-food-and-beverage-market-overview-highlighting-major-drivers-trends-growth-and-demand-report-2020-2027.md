@@ -120,20 +120,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Educational Robot Market Size, Applications, New Technology, Upcoming Trends, Demand and Forecast till 2025"
-    excerpt: "Get a sample copy of this Report: https://www.imarcgroup.com/educational-robot-market/requestsample The growing trend of digitization, along with the rising utilization of artificial intelligence (AI) and machine learning (ML) technologies in the education ..."
-    publishedDateTime: 2021-03-24T06:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-size-applications-new-technology-upcoming-trends-demand-and-forecast-till-2025-2021-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "European AI in Image Recognition Market Size, Share, Analysis, Industry Report and Forecast 2019-2025"
     excerpt: "The European AI in image recognition market is estimated to grow at a CAGR of over 27 during the forecast period Europe has a huge potential for the growth of AI owing to an advanced economy and significant investment The"
     publishedDateTime: 2021-03-27T08:18:00Z

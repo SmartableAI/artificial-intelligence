@@ -43,22 +43,6 @@ related:
         width: 1000
         height: 565
         isCached: true
-  - title: "Fintech Startup Qraft Technologies Raises $9 Mn From Smilegate Investments"
-    excerpt: "Seoul-based fintech company Qraft Technologies, which uses artificial intelligence (AI) to create and manage exchange-traded funds (ETFs), announced on Tuesday to have closed a funding round worth $9 million. Veteran South Korea-based venture capital (VC ..."
-    publishedDateTime: 2021-03-24T06:46:00Z
-    webUrl: "https://www.entrepreneur.com/article/367792"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/367792"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367792"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1616568382-CEO-Marcus-Kim-1.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Feedzai raises $200M at a $1B+ valuation for AI tools to fight financial fraud"
     excerpt: "On the heels of Jumio announcing a $150 million injection this week to continue building out its AI-based ID verification and anti-money laundering platform, another startup in the space is levelling up."
     publishedDateTime: 2021-03-24T09:47:00Z

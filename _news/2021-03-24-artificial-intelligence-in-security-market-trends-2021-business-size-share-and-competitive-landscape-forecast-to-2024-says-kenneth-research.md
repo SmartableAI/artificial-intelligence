@@ -109,20 +109,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Educational Robot Market Size, Applications, New Technology, Upcoming Trends, Demand and Forecast till 2025"
-    excerpt: "Get a sample copy of this Report: https://www.imarcgroup.com/educational-robot-market/requestsample The growing trend of digitization, along with the rising utilization of artificial intelligence (AI) and machine learning (ML) technologies in the education ..."
-    publishedDateTime: 2021-03-24T06:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-size-applications-new-technology-upcoming-trends-demand-and-forecast-till-2025-2021-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Food and Beverage Market Overview Highlighting Major Drivers, Trends, Growth and Demand Report 2020- 2027"
     excerpt: "Increasing need to improve food safety standards is a key factor driving growth of the global Artificial Intelligence (AI) in food and beverage market currently. The global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62."
     publishedDateTime: 2021-03-24T14:11:00Z

@@ -46,22 +46,6 @@ related:
         width: 1000
         height: 565
         isCached: true
-  - title: "Fintech Startup Qraft Technologies Raises $9 Mn From Smilegate Investments"
-    excerpt: "Seoul-based fintech company Qraft Technologies, which uses artificial intelligence (AI) to create and manage exchange-traded funds (ETFs), announced on Tuesday to have closed a funding round worth $9 million. Veteran South Korea-based venture capital (VC ..."
-    publishedDateTime: 2021-03-24T06:46:00Z
-    webUrl: "https://www.entrepreneur.com/article/367792"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/367792"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367792"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1616568382-CEO-Marcus-Kim-1.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ..."
     publishedDateTime: 2021-03-28T13:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2262820/us-ai-in-healthcare-market-trends
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262820/us-ai-in-healthcare-market-trends-size-competitive-analysis"
 type: article
 quality: 67
-heat: 187
+heat: 177
 published: true
 
 provider:
@@ -93,20 +93,6 @@ related:
     excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been"
     publishedDateTime: 2021-03-24T09:29:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-business-size-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Educational Robot Market Size, Applications, New Technology, Upcoming Trends, Demand and Forecast till 2025"
-    excerpt: "Get a sample copy of this Report: https://www.imarcgroup.com/educational-robot-market/requestsample The growing trend of digitization, along with the rising utilization of artificial intelligence (AI) and machine learning (ML) technologies in the education ..."
-    publishedDateTime: 2021-03-24T06:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-size-applications-new-technology-upcoming-trends-demand-and-forecast-till-2025-2021-03-24"
     type: article
     provider:
       name: MarketWatch
