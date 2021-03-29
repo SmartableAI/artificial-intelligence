@@ -7,7 +7,7 @@ originalUrl: "https://www.computing.co.uk/news/4028919/entries-ai-machine-learni
 webUrl: "https://www.computing.co.uk/news/4028919/entries-ai-machine-learning-awards-2021-close-1st-april"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     height: 229
     isCached: true
 
-secured: "AqlwXAgxYXx0+QCW8FwWhjTvrgA6kEFqUNwZgUm9mWBLvv3C1gODWYragPMMVmjEhFUby6YEg2y9u5C4rvbteXmlf37iyHOrOWcOOwzkL24x/tyx0WZuvKXeI0htcZebNK1fZqyovxg+p6aURRKR4AlHi/WzUT/vhRAulCYzkCUXBmpHqzhkB2REF4Qt0yX3WB8SwUND/s/KYY2knkWiNPTzqaAg8rrLthxi6Lj6sni+fLXcTh61cKcttYXYL9qrfkSYjZywTKhNI7vMQ2HYCdOcqr6ZJ6fpK5rc7UXvqPkbbcXDRCF4afGiYna0zbzBhAW0MCqcfe99qeEZlgXkPbR8bYbQxMitdg7np2HzdJA=;gphI1uHqEyXWvdrdNcCppA=="
+related:
+  - title: "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Bright Machines was named a winner in its Artificial Intelligence Excellence Awards program. Bright Machines is a full-stack technology company offering a new approach to AI-enabled"
+    publishedDateTime: 2021-03-29T13:56:00Z
+    webUrl: "https://www.lelezard.com/en/news-19721713.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 35
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
+secured: "FLn4O+cT1lQ9rsJJAgb+1Sb0N35OqWt6HnDzBf+ZhB3eNmQscnsfYVP6yEWsh0CCt2UGwR9aRypZ1P86zuI5CJODS1ixHNKAAx67WMgor/qELMdrNa3dVJSWNGA9BghKYxVe0hYKFVEWnirSgHMFTwqe4u9AIhxhfPJ3lI+Jsg1mS6T+zlN6lKupeTeMkJ/yzPC6oj3i6u2VQZB22d+hvmHjn6tf/ATevIVdh4fGp4TR6KJQL6OkUgYIbBdJicYPiiB9MPTGsEZL7DnIQRcsMcq28p4+OvSp3fEUdeB0dQ7cqd4V937jGoPhLBDZOFsjnK8RTuzbFPrUeSsvvtKWEJGnqpqy8739vGMbvQ7ePed1Be3OgB994yW2Pwj4FtjZhNg8O26eccqoLGBBoG9yA9pvsNyLr0S/jpsVWnlv4vA8jYHm7bJ/sXdGCNdu2GwlM9K6Et1pfplguu7sNeX9ZLgJ2mWQ0whhjkY7decJ+9xFJ6ecKTvIHyLO9VWekirzq1ogDM0ZTgU+TsdqseKrMA==;tyhLRmFQbU9WTF8VosIHIw=="
 ---
 

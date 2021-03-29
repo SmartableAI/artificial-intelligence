@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Schenectady museum's 1878 recording wins national recognition"
-    excerpt: "Inventor Thomas Edison’s 78-second tinfoil recording is quite possibly a record of the oldest playable recording of an American voice and the earliest surviving document that captures a musical performance, miSci notes. It was made on a phonograph in St ..."
-    publishedDateTime: 2021-03-24T19:47:00Z
-    webUrl: "https://www.timesunion.com/news/article/Schenectady-museum-s-1878-recording-wins-national-16050410.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Schenectady-museum-s-1878-recording-wins-national-16050410.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Schenectady-museum-s-1878-recording-wins-national-16050410.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Bruddah Iz receives national recognition"
     excerpt: "Driven primarily by Iz’s angelic voice and ukulele playing, the song is melancholic and joyous at once,” the registry states. “Taken from Iz’s album “Facing Future” — the first Hawaiian album ever certified platinum — this single was an ..."
     publishedDateTime: 2021-03-26T10:05:00Z
@@ -51,6 +35,22 @@ related:
         width: 760
         height: 760
         isCached: true
+  - title: "Two Top Tampa Bay Top Workplaces earn national recognition"
+    excerpt: "Two Tampa Bay companies that have routinely topped the Tampa Bay Times Top Workplaces lists can add a new distinction to their mantel. They’re now two of the top companies to work at nationally, according to a new ranking."
+    publishedDateTime: 2021-03-26T15:00:00Z
+    webUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/"
+    ampWebUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 44
+    images:
+      - url: "https://www.tampabay.com/resizer/UZoq5LDsa2lXcp2UmICszQUswgU=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/T3OTOREYRFAX5EJUWKNCEAQ4MQ.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Danville Utilities receives national recognition"
     excerpt: "Danville Utilities has earned a “Platinum” level designation as a Reliable Public Power Provider (RP3) from the American Public Power Association for providing customers with reliable and safe electric service."
     publishedDateTime: 2021-03-26T15:46:00Z
@@ -64,20 +64,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/chathamstartribune.com/content/tncms/assets/v3/editorial/6/23/6235a728-bfa1-11ea-a2dd-4f5884047391/603fbac656bbe.image.jpg?resize=470%2C245"
         width: 470
         height: 245
-        isCached: true
-  - title: "Local recognition for Lane"
-    excerpt: "Composer Liz Lane has been announced as Lydbrook Band's 2020 'Bandsperson of the Year' — the first non-playing recipient in the award's history. The Trefor Evans Memorial Cup is usually presented at the band's annual Christmas Concert,"
-    publishedDateTime: 2021-03-26T12:00:00Z
-    webUrl: "https://www.4barsrest.com/news/44484/local-recognition-for-lane"
-    type: article
-    provider:
-      name: 4barsrest.com
-      domain: 4barsrest.com
-    quality: 24
-    images:
-      - url: "https://www.4barsrest.com/gallery/ib/2021/LizLane2021-1985881108.jpg"
-        width: 730
-        height: 488
         isCached: true
 
 secured: "Dj9IiSr+EOhI9plbCLpQ0M8Y54V9fZB1slLYrDnb3/UdLvbRfl3zkbgP9Oh7sxZIosKVuIO9YtlVkEool28ks1fBHQ9is9mNbSPigr2bLQDk7RytWx/m1bHXhRpbeM/WuPCwKzi0sS0WSttKKV/59GY0XAXjE8F6/GbovBv7ryCGjZYBOgtTm93ZHRd++POXXRnynorq9yOvIpIwWbfE7gF8YaqjnnP1gQwubv4uFS4VISh/7EP7gSVuZE47mKLEJ38wgCApSF5eqHk3kHv511pUeE67iWknx0EHFJk0euzKcfamy27bcS5+gZ7S+LAkpEwAqWDP28tI/MY8Bf5icOi21gDEbL9eVGWWfQ63HuAHsLG+v4dZ+v9VbTgz2sSeHd+vMDiPrrbYfgdAFxM2fbEG06c1vV+aim8ECk8Liq8RebjBrS78YkiBwHFgs7sOQrzf5fBB82TDTo7fvM0N++4z80OMBBFza29Njypsuh6OcNAoY4Us2CS7IGB6OSYk+i8H00nusYpbjOKh93Nzrg==;ud9fr3tCQPnqSDSSE1D+WA=="

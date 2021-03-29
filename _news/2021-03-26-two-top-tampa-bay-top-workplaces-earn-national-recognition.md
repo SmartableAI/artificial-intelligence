@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-
 cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,34 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Student journalists earn recognition"
-    excerpt: "Gretna High School student journalists recently competed in the Nebraska Press Women High School Communications Contest for the first time. GHS students brought home 11 awards out of 16 submitted"
-    publishedDateTime: 2021-03-25T16:00:00Z
-    webUrl: "https://omaha.com/community/gretna/student-journalists-earn-recognition/article_eec6dbad-b1c4-5c5b-8413-3a46c4b82601.html"
+  - title: "Bruddah Iz receives national recognition"
+    excerpt: "Driven primarily by Iz’s angelic voice and ukulele playing, the song is melancholic and joyous at once,” the registry states. “Taken from Iz’s album “Facing Future” — the first Hawaiian album ever certified platinum — this single was an ..."
+    publishedDateTime: 2021-03-26T10:05:00Z
+    webUrl: "https://www.westhawaiitoday.com/2021/03/26/entertainment/bruddah-iz-receives-national-recognition/"
+    ampWebUrl: "https://www.westhawaiitoday.com/2021/03/26/entertainment/bruddah-iz-receives-national-recognition/amp/"
+    cdnAmpWebUrl: "https://www-westhawaiitoday-com.cdn.ampproject.org/c/s/www.westhawaiitoday.com/2021/03/26/entertainment/bruddah-iz-receives-national-recognition/amp/"
     type: article
     provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
+      name: West Hawaii Today
+      domain: westhawaiitoday.com
+    quality: 44
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.westhawaiitoday.com/wp-content/uploads/2021/03/web1_IZ-Surfboard_1200px-1-.jpg"
+        width: 760
+        height: 760
         isCached: true
-  - title: "Music students earn All Eastern recognition"
-    excerpt: "\"When you have to hear a reproduction, you have distortion and you end up losing tone quality and the timbre of the voice.\" Walz noted some Pennsylvania schools were only working remotely, which may have reduced the size of field. However, the honor of ..."
-    publishedDateTime: 2021-03-27T09:00:00Z
-    webUrl: "https://www.standard-journal.com/news/local/article_7e619c12-b8df-56e2-84dc-603f94f978a7.html"
+  - title: "Danville Utilities receives national recognition"
+    excerpt: "Danville Utilities has earned a “Platinum” level designation as a Reliable Public Power Provider (RP3) from the American Public Power Association for providing customers with reliable and safe electric service."
+    publishedDateTime: 2021-03-26T15:46:00Z
+    webUrl: "https://www.chathamstartribune.com/news/article_6a01475a-8e4a-11eb-90f0-2716a67d70fa.html"
     type: article
     provider:
-      name: standard-journal.com
-      domain: standard-journal.com
+      name: Chatham Star Tribune
+      domain: chathamstartribune.com
     quality: 24
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/standard-journal.com/content/tncms/assets/v3/editorial/2/8a/28a0082d-3fcf-5312-82c2-db3b330dfc52/605d5b8e9639b.image.png?resize=856%2C630"
-        width: 856
-        height: 630
+      - url: "https://bloximages.chicago2.vip.townnews.com/chathamstartribune.com/content/tncms/assets/v3/editorial/6/23/6235a728-bfa1-11ea-a2dd-4f5884047391/603fbac656bbe.image.jpg?resize=470%2C245"
+        width: 470
+        height: 245
         isCached: true
+  - title: "Why Indigenous recognition is a national imperative"
+    excerpt: "An Indigenous family friend passed on a copy of Close the Gap Campaign Report 2021 - Leadership and Legacy Through Crises: Keeping Our Mob Safe prepared by the Lowitja Institute, while my mother-in-law gave me a copy of Fire Country by Indigenous land management expert Victor Steffensen."
+    publishedDateTime: 2021-03-25T07:00:00Z
+    webUrl: "https://www.canberratimes.com.au/story/7182733/hewsons-view-why-indigenous-recognition-is-a-national-imperative/?cs=14264"
+    type: article
+    provider:
+      name: The Canberra Times
+      domain: canberratimes.com.au
+    quality: 4
 
 secured: "1Ms54iotP/pY0fuxKrN8vejVkdcjAR+Ha2EA2LFdLHJNKzdgpMIoLBmjJDfQrRwZeEuLW/4DW26k2PIJOszHsPPfcAj4VK367MMQfrA7iI9kWvVM1OY5OR7FjKALG0P5qUMsO82BAA9FpdWWcrhlM9hLxIjDK78XRDuQ+S8i9rxjJZln0gHPcib/MpVjdw7BsEAt+eXExgVyP+ULnaoMIiPJOZH64Tpk6b2Vk6lTBmcqlg3Onay/gDDDswUnPOThxcfarGV15RDTL4MLOHUEdYJLj0yAlJJ8rIWf9kjGx2ARwwhihsrVeDSUG4gBHBMvVl7Vm50NWreX/B6MqDQIvQo0ek2NXhVmXLb73N3uf1k=;gdiigJ6XGNW54Ja5JG8d+g=="
 ---

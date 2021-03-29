@@ -86,20 +86,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
-  - title: "RIA-Founded Fintech Introduces Next-Generation Tax Planning Tool"
-    excerpt: "FP Alpha's AI-driven Tax Snapshot can instantly read and create planning recommendations from client tax forms."
-    publishedDateTime: 2021-03-24T20:24:00Z
-    webUrl: "https://www.fa-mag.com/news/ria-founded-fintech-introduces-next-generation-tax-planning-tool-61092.html"
-    type: article
-    provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 24
-    images:
-      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Risk management challenges on Fintechs labor to financial inclusion"
     excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
     publishedDateTime: 2021-03-25T02:04:00Z
@@ -143,6 +129,20 @@ related:
       - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
         width: 344
         height: 344
+        isCached: true
+  - title: "Emotion Detection and Recognition Market worth $37.1 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a new market research report \"Emotion Detection and Recognition Market by Component (Solutions [Facial Expression"
+    publishedDateTime: 2021-03-29T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/emotion-detection-and-recognition-market-worth-37-1-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--887031554.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
         isCached: true
 
 secured: "XubAFDeUPHs8/xBEKJe3diVemb3h5xVAnr7FT/PoUAMegwHjVEuD9eihmbxPgYli5Cb6pPNJJjlohXIYDK8GZ1ZNeZpxICNwrCQEp0iYegxXT2PmxLOUF0h6zFzPcHrw3HiySgCcemy945dRfXz0KTTmJ8myk2khFXSl23EoSCtqLL/Qgerl4nFFUVtKfWPgjM4CJxP4aTBX7sqnNkqggGIk0y7x73LpTi/nPfI9SwrIAMv7gfQwtCN9mQwOIUsLwqcrViZoOU2WjKRZ0EeQfQg53TJF7HI5lLPM7tyv8ntcL3Dbk1bL5SlzPzvYAZlngn2US2FeXSqbpL/8tZkpACVzJHfNUtlKmNQ5Wyk0P+Y=;FkY0qMyxo7bhyd4b67nTIg=="

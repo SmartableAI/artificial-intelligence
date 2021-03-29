@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Research: A Little Recognition Can Provide a Big Morale Boost"
+    excerpt: "As organizations large and small face the twin challenges of increasingly ... power of symbolic awards such as thank you notes, public recognition, and certificates. They find that these simple ..."
+    publishedDateTime: 2021-03-29T12:25:00Z
+    webUrl: "https://hbr.org/2021/03/research-a-little-recognition-can-provide-a-big-morale-boost"
+    ampWebUrl: "https://hbr.org/amp/2021/03/research-a-little-recognition-can-provide-a-big-morale-boost"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/03/research-a-little-recognition-can-provide-a-big-morale-boost"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 44
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/03/Mar21_29_1213682502.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The ethics of science research: reviewing U of T’s funding from Huawei"
     excerpt: "Last year, a U of T study found that many prominent artificial intelligence researchers fund their projects ... Sargent is ultimately responsible for university-wide research strategy, research ethics, and drafting and negotiating all research agreements ..."
     publishedDateTime: 2021-03-28T04:26:00Z

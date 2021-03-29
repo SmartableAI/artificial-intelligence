@@ -37,6 +37,20 @@ related:
         width: 366
         height: 314
         isCached: true
+  - title: "NAVER Selects DDN's AI Storage for Cutting Edge AI Services"
+    excerpt: "DDN®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that Korea's NAVER corporation has selected DDN A3I® AI400Xtm systems as its choice of storage solution to enhance numerous AI"
+    publishedDateTime: 2021-03-29T13:22:00Z
+    webUrl: "https://www.lelezard.com/en/news-19721556.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 37
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "pdg4SOezydR7t3QUNzmO+AzPHozuU/vk/qKheMnZKY0bI/HD8a9I4tsI3In+2Zc8Q9sXf4s/FHNJbRbg0Lp0MdyCY0mlMRcrXDwmOyzLuiqy9wZiEaQB9WvJmQbITRYsb0uCzOfb/vRXtqyNM6udK2unf9YT/GWQYKa2dzO+uPhqeujvyhx7LPR2gonLZbKTMXudxw++ZOAC/lkrujZyD34sB+vZO4LFLeNc0ZJHDCfGOUCUXCYbd4/uJ5aAvS860eCUwen8emwPaMexawKIyFkPVJWvY77jmxuz7JRyEQy06yfqieWPOHR2xUwSF+BZmUudL0BOxsqi2CGbZc3z7giU6ziU+y3ZXU+xQxJHbkI=;1Hnaqh2+qJv11w4zk6TOmw=="
 ---

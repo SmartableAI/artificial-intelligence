@@ -7,7 +7,7 @@ originalUrl: "https://thevarsity.ca/2021/03/28/the-ethics-of-science-research-re
 webUrl: "https://thevarsity.ca/2021/03/28/the-ethics-of-science-research-reviewing-u-of-ts-funding-from-huawei/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Research: A Little Recognition Can Provide a Big Morale Boost"
+    excerpt: "As organizations large and small face the twin challenges of increasingly ... power of symbolic awards such as thank you notes, public recognition, and certificates. They find that these simple ..."
+    publishedDateTime: 2021-03-29T12:25:00Z
+    webUrl: "https://hbr.org/2021/03/research-a-little-recognition-can-provide-a-big-morale-boost"
+    ampWebUrl: "https://hbr.org/amp/2021/03/research-a-little-recognition-can-provide-a-big-morale-boost"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/03/research-a-little-recognition-can-provide-a-big-morale-boost"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 44
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/03/Mar21_29_1213682502.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Okayama University research: Studying Parkinson's disease with face-recognition software"
     excerpt: "Stock quotes by finanzen.net OKAYAMA, Japan, March 28, 2021 /PRNewswire/ -- Researchers at Okayama University report in Brain Supplement that artificial-intelligence technology can detect facial characteristics of Parkinson's disease."
     publishedDateTime: 2021-03-28T12:17:00Z

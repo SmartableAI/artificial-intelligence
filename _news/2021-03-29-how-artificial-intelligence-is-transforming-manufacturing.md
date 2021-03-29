@@ -3,8 +3,8 @@ category: news
 title: "How artificial intelligence is transforming manufacturing"
 excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
 publishedDateTime: 2021-03-29T04:05:00Z
-originalUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=US"
-webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=US"
+originalUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
+webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
 type: article
 quality: 39
 heat: -1
@@ -40,6 +40,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/01/christina-wocintechchat-com-mxOdUd1BQIM-unsplash.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "How AI beats spreadsheets in modeling future volumes for city waste management"
+    excerpt: "All over the world, large cities are running out of space for municipal solid waste. Existing landfill sites are rapidly filling up and no one wants a new site anywhere near their homes or businesses."
+    publishedDateTime: 2021-03-29T13:40:00Z
+    webUrl: "https://phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.html"
+    ampWebUrl: "https://phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/howaibeatssp.jpg"
+        width: 2663
+        height: 1498
         isCached: true
   - title: "Five Ways Artificial Intelligence Is Changing The Water Industry"
     excerpt: "AI helps in detecting sources of contamination in the pipeline — whenever there is a variance in quality, it can send alerts and call for an immediate fix"
@@ -81,6 +97,6 @@ related:
         height: 610
         isCached: true
 
-secured: "2Acc3vhdaNyqT1BSJyPes91nGyF7cyIGWe8b9SluM1eT0HvekS0zUEMcbxMShrgFszdDOdpUuiE7ls31RoKYeZ0xBMS41CApwxshpScbcoY2etHaa2tXVQzMoTIFk8J/dq4CZW2QPdOrEnDBrGtud3+n9OP08gqzKSPniclNuG7/3egR2J+6uvEcLWo9yadkWL2t8HMpROM8tsy3B+FIr4rv2T4RD3FOBbqSfkzTlggVCZJpWOTiHDmGpCFh6cCcvwFDzwwUWseaOKXEQKcn9C5GLo0RsBsbht3O6eheZO41rICE5SzdB3x7vApoTYTC1hYQHjKPOgiklVCuaWo58FYi2Y0n+ci1p2Z3DCBvN5c=;CAjPW4zy56ag7Yaf2ry2ng=="
+secured: "YF6P0eab86P3n1AxPuf2wKhWYTzdZ0s49sXBbc7fFHlp3M0ISDxmoGqNWk2sv7lx/15umx4Dg7+KtcRqwNvMBdzBlztr5Gw4k9K76g4/sYSK3Zu9qY5ojW5LODZCU94gfn3BQ40cIrgve9/XW943NGaXBWJEOBkX7W9p3YPnTQRSthXIYx0Qvk6XT541PpsR+LD4pk71hk85fmOVJRmXI1Es1zR91bx9QvpHzE3bNWoXF9oClz96GDe9I+UWUCR2nAVh7ccCMBlP/x28pKWcDYCTsIfmWNe6TbCtzxf/YhTo8HVsYMFKW7qdM4PbrLwBgAQ5Iv5ejAAmDSQDDts2gIHJN4XH0taXR46IFBT8ZvQ=;f0EzX9V7Kk33y0pVnWP5lw=="
 ---
 

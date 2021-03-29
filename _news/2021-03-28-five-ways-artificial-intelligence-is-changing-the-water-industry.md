@@ -36,10 +36,26 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How AI beats spreadsheets in modeling future volumes for city waste management"
+    excerpt: "All over the world, large cities are running out of space for municipal solid waste. Existing landfill sites are rapidly filling up and no one wants a new site anywhere near their homes or businesses."
+    publishedDateTime: 2021-03-29T13:40:00Z
+    webUrl: "https://phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.html"
+    ampWebUrl: "https://phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/howaibeatssp.jpg"
+        width: 2663
+        height: 1498
+        isCached: true
   - title: "How artificial intelligence is transforming manufacturing"
     excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
     publishedDateTime: 2021-03-29T04:05:00Z
-    webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=US"
+    webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
     type: article
     provider:
       name: Manufacturing

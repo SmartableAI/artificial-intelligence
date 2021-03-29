@@ -40,10 +40,26 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How AI beats spreadsheets in modeling future volumes for city waste management"
+    excerpt: "All over the world, large cities are running out of space for municipal solid waste. Existing landfill sites are rapidly filling up and no one wants a new site anywhere near their homes or businesses."
+    publishedDateTime: 2021-03-29T13:40:00Z
+    webUrl: "https://phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.html"
+    ampWebUrl: "https://phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/howaibeatssp.jpg"
+        width: 2663
+        height: 1498
+        isCached: true
   - title: "How artificial intelligence is transforming manufacturing"
     excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
     publishedDateTime: 2021-03-29T04:05:00Z
-    webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=US"
+    webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
     type: article
     provider:
       name: Manufacturing
@@ -80,6 +96,6 @@ related:
         height: 650
         isCached: true
 
-secured: "+vXx+YHeeUWmKVgW2Y9heW05gHuYJII876at9q18SPKNkAL2TqqEJeH3Ff7CCDseVpugS+anWFg1Rt4xuDeuL3YWqPMalHqnwxQWaoqjnFNvSvD1Igv4sVk0h1bQYTqYtXbk9hmuWMdt9nes0+L/yyI+SuIJGj8vgxXp9V8ZBmOr53/Rz4xJ/PRt9u566PXF3ZhZF840cX4uM1zXmEcMxOYrflaxY5xJEVQJLVB4haV6eDcmz6v9iEX2ME36Z0zOpIWWRff6ONcoUiW8etyCA999C9I2X8gFccnq8JWP4VIVTZLbLVUfD4uK/Z9D6zLfP0bDTtq4Chjt7ZwmGqxOSp8JxGURCbW+qNXAP3Flt2I=;Ites/cyjUB6D0W2CMwcO/w=="
+secured: "xI2Qo6EGUQJsFy5cdzuwq3OJREO1UJWxt4cps92G+Y29Bobtdrv6qkSu0tmDu5GhQw0zfbAA7Nhgg2qq8hdRioEkqhlLtPoX6xdPi8oiu8egSOM2zMVxXmYZPD/yIv6mrR52lLj4AVjSZ7DzaAIq1/fM/gdOQOAmPaxemFwDv5alcGjb0OuSebgTvXcBKiy7QAVslbis8mLOB9Gtlin+Cvt0/95eohy1RLnKt2V2YtGr/ayDAHacTBttGQpkJw+N8XQ+oDtIWYJyWS7qV6FFSXwplVcKVKjLwBpqYUOY0e4ZKFupZFjuaNmN9AEnLWmjGxCDDpfgFETY2ZFmWTYVQhD6VeGvpBm83zAyhD/xsm5Dlt2SLDt/a06AgDYBMIryevT7BdLG2FTBH5iCYPj4Q0jsKalyLMaiqRTUZeM/0Y3+prpLQuM+Mo6haWlsfWmtA0vaAH0/Qre7OQt/bRwB8890guB8ZQym/T4ypjieNaM1WezUYgZl9kACNDSfiCtIpHPEUix6moG73QYvt6XQSg==;gyyuDHDcr17e675G6bCcBA=="
 ---
 

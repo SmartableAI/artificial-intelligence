@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Schenectady museum's 1878 recording wins national recognition"
-    excerpt: "Inventor Thomas Edison’s 78-second tinfoil recording is quite possibly a record of the oldest playable recording of an American voice and the earliest surviving document that captures a musical performance, miSci notes. It was made on a phonograph in St ..."
-    publishedDateTime: 2021-03-24T19:47:00Z
-    webUrl: "https://www.timesunion.com/news/article/Schenectady-museum-s-1878-recording-wins-national-16050410.php"
-    ampWebUrl: "https://www.timesunion.com/news/amp/Schenectady-museum-s-1878-recording-wins-national-16050410.php"
-    cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Schenectady-museum-s-1878-recording-wins-national-16050410.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 44
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Bruddah Iz receives national recognition"
     excerpt: "Driven primarily by Iz’s angelic voice and ukulele playing, the song is melancholic and joyous at once,” the registry states. “Taken from Iz’s album “Facing Future” — the first Hawaiian album ever certified platinum — this single was an ..."
     publishedDateTime: 2021-03-26T10:05:00Z
@@ -57,19 +41,21 @@ related:
         width: 760
         height: 760
         isCached: true
-  - title: "Local recognition for Lane"
-    excerpt: "Composer Liz Lane has been announced as Lydbrook Band's 2020 'Bandsperson of the Year' — the first non-playing recipient in the award's history. The Trefor Evans Memorial Cup is usually presented at the band's annual Christmas Concert,"
-    publishedDateTime: 2021-03-26T12:00:00Z
-    webUrl: "https://www.4barsrest.com/news/44484/local-recognition-for-lane"
+  - title: "Two Top Tampa Bay Top Workplaces earn national recognition"
+    excerpt: "Two Tampa Bay companies that have routinely topped the Tampa Bay Times Top Workplaces lists can add a new distinction to their mantel. They’re now two of the top companies to work at nationally, according to a new ranking."
+    publishedDateTime: 2021-03-26T15:00:00Z
+    webUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/"
+    ampWebUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
     type: article
     provider:
-      name: 4barsrest.com
-      domain: 4barsrest.com
-    quality: 24
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 44
     images:
-      - url: "https://www.4barsrest.com/gallery/ib/2021/LizLane2021-1985881108.jpg"
-        width: 730
-        height: 488
+      - url: "https://www.tampabay.com/resizer/UZoq5LDsa2lXcp2UmICszQUswgU=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/T3OTOREYRFAX5EJUWKNCEAQ4MQ.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Why Indigenous recognition is a national imperative"
     excerpt: "An Indigenous family friend passed on a copy of Close the Gap Campaign Report 2021 - Leadership and Legacy Through Crises: Keeping Our Mob Safe prepared by the Lowitja Institute, while my mother-in-law gave me a copy of Fire Country by Indigenous land management expert Victor Steffensen."

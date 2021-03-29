@@ -1,0 +1,29 @@
+---
+category: news
+title: "Cohesity Recognized as a Customers' Choice in 2021 Gartner Peer Insights ?Voice of the Customer': Distributed File Systems and Object Storage"
+excerpt: "Voice of the Customer': Distributed File Systems and Object Storage report. With this recognition, Cohesity is the only vendor to be named as a Gartner Peer Insights Customers' Choice for both Distributed File Systems and Object Storage, as well as the ..."
+publishedDateTime: 2021-03-29T13:27:00Z
+originalUrl: "https://www.lelezard.com/en/news-19721626.html"
+webUrl: "https://www.lelezard.com/en/news-19721626.html"
+type: article
+quality: 0
+heat: 0
+published: false
+
+provider:
+  name: Le Lézard
+  domain: lelezard.com
+
+topics:
+  - Natural Language Processing
+  - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "zhRtLcUsKKtib61iGM7m4wEmbixCKDXz8PMVkHLd8NbEsAYsAy/hPTbFq6WvdH5Bl1K0Ug6Om6sJqOobjiFVpOGpC146BlgZCuVVFMyIW8yjDv42LND90HW1kfsT1A/5Ff+jaJ8B3f8gJfvsseNI2jaNGZ1f5m7BaxmVy1BOnK0I2GwTRraUVRluQH8LG2ztdS4pZA6KSdkrm2LohxXtGAxeI1DvXaD19guGlD13THrImkPZ02bKrqqKefAvoTRCi/BWMfY7GJobcws91gIiMiUz0voapezeTlga4fDI5X01X65FTu6YfSOzeSQgu6hHNzuONSpV/RZVi87DNhnT0q0ntNfe4APbMNPy9UNKl28=;xBuiBxNf9SXlYp7AUbgv7Q=="
+---
+

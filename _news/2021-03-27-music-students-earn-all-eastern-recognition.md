@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Two Top Tampa Bay Top Workplaces earn national recognition"
-    excerpt: "Two Tampa Bay companies that have routinely topped the Tampa Bay Times Top Workplaces lists can add a new distinction to their mantel. They’re now two of the top companies to work at nationally, according to a new ranking."
-    publishedDateTime: 2021-03-26T15:00:00Z
-    webUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/"
-    ampWebUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
+  - title: "Area Students Earn All-State Speech Recognition"
+    excerpt: "Several area high school students have earned the highest possible honor in speech competitions. The Iowa High School Speech Association announced All-State nominations from individual performances. The following area students were honored: Johanna Leonard,"
+    publishedDateTime: 2021-03-28T09:45:00Z
+    webUrl: "https://www.kniakrls.com/2021/03/28/area-students-earn-all-state-speech-recognition-2/"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 44
+      name: KNIA-KRLS
+      domain: kniakrls.com
+    quality: 39
     images:
-      - url: "https://www.tampabay.com/resizer/UZoq5LDsa2lXcp2UmICszQUswgU=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/T3OTOREYRFAX5EJUWKNCEAQ4MQ.jpg"
-        width: 800
-        height: 450
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1072/2019/02/01104635/ihssa.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Student journalists earn recognition"
     excerpt: "Gretna High School student journalists recently competed in the Nebraska Press Women High School Communications Contest for the first time. GHS students brought home 11 awards out of 16 submitted"
@@ -55,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Area Students Earn All-State Speech Recognition"
+    excerpt: "Several area high school students have earned the highest possible honor in speech competitions. The Iowa High School Speech Association announced All-State nominations from individual performances. The following area students were honored: Johanna Leonard,"
+    publishedDateTime: 2021-03-25T08:48:00Z
+    webUrl: "https://www.kniakrls.com/2021/03/25/area-students-earn-all-state-speech-recognition/"
+    type: article
+    provider:
+      name: KNIA-KRLS
+      domain: kniakrls.com
+    quality: 19
 
 secured: "WBdVST+7FSakkb6AmiaPRsQ9SR2GvfAkKtjR1r1zDhFEyzz3wXdqAxS/8X5gSXRBD3zFUm5PlxB7GpaKpU81fZKXl7JPA2dPJqbB3MU1G1Lsn/AGQ6DTPPuJIphRdD2HFtb3uolxTSAqLsPyUOloxdUAXfgJ0VTKrnWXU2UKWdbGXmTQCJDnORm53EdgaQyUuroY4O/GZjBRq9hYTCORW4bAnOsNrPeWaKxVogU3B4XseWk6lIyCM6qJ5cYF88lHMN4QXmnuUdY4TL1TbIlRYNPaqg9N7pSGtPAcJgVpiySTgoKsge+Bme/1fxgsGdv/gB65fNFjFmY+ZxpDzbC6aUBLXj7oCuVuGRHY+y0la86Ok5KS8RR+tqNMxCZR4Tsh5cgSChDGMml0fhtoHA6s5FV+6rj9YujHRUHq7rzqWxl/oQE3N3QVQ0e0HNRf3RQnghleDhZJ821L6n7Go/O7wyYNsSyE6yBNp437XwuJu5r4bxsMAmYAyvuU/LllsGmf2+CdSqSuwB+8bJ0QtNT8ow==;OM0+WcpMczFW7KH+CAYduQ=="
 ---

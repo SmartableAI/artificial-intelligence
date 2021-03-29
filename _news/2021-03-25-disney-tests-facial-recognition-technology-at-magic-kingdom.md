@@ -41,22 +41,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Disney World tests facial recognition software at Magic Kingdom"
-    excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
-    publishedDateTime: 2021-03-24T20:08:00Z
-    webUrl: "https://nbc-2.com/news/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/"
-    ampWebUrl: "https://nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
-    cdnAmpWebUrl: "https://nbc--2-com.cdn.ampproject.org/c/s/nbc-2.com/news/state/2021/03/23/disney-world-tests-facial-recognition-software-at-magic-kingdom/amp/"
-    type: article
-    provider:
-      name: NBC2
-      domain: nbc-2.com
-    quality: 59
-    images:
-      - url: "https://nbc-2.com/wp-content/uploads/2021/03/disney-face.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Walt Disney World Testing Facial Recognition Tech For Park Entry"
     excerpt: "Disney’s taking touchless to a new level with its facial recognition pilot program. Would you be willing to participate?"
     publishedDateTime: 2021-03-27T12:10:00Z
@@ -104,20 +88,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/10446172_032421-kabc-4pm-disney-tech-vid.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Walt Disney World begins testing facial recognition technology"
-    excerpt: "Walt Disney World is now testing a new facial recognition technology at its Magic Kingdom theme park. The park rolled out it’s test-system Tuesday at Walt Disney World’s Magic Kingdom in Florida. Disney says it’s looking for ways to focus on more “touchless experiences” in the parks."
-    publishedDateTime: 2021-03-24T19:11:00Z
-    webUrl: "https://www.news4jax.com/news/florida/2021/03/24/walt-disney-world-begins-testing-facial-recognition-technology/"
-    type: article
-    provider:
-      name: News4Jax
-      domain: news4jax.com
-    quality: 39
-    images:
-      - url: "https://www.news4jax.com/resizer/BtPICis_G5utxvooDoLkEAeRFxs=/1600x1082/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/cloudfront-us-east-1.images.arcpublishing.com/gmg/NXPJ2OZZJZE6JKHB3OTJT2FP54.jpg"
-        width: 1600
-        height: 1082
         isCached: true
 
 secured: "nfzoNEr/aLI3N+boMKH3v8xS+wfmi40SKXQNiROGbraM99/U7R45P2bb7dOC1HNTcHmSENTC0tKBkMorkJDirgexLAqEsfkXvogVwxT1jlAvDdd6YWUtZ03LxGK7fgaE8MP1A9g0jR2hM8DdhOfq9D/r+vrRX20woAme0W3ELrK6V9Ax3zektMQjstwVV+sidmPccice2NlMO1VPI6g1ax3CCln0dE+UFH1JnRTGo/jnzDfYyUNVxXtq9VQhENCdXy2nyU8D1juHblvCd7A2s43PI0KU91X7q4SkQVtTJ3sC3dcYWDCMtg9aEIiE5Ny6wRfxkEz/+B6K0TMsyHSy601BZfkcDGmpwcxZzzr6wctj6NABh73WoWgRyro27Px7bRtpBfEXYIMxbo0bE+Db46BycxYSvXs4CFwWCvZEr0/yF/3fSbCkewHgT9lY6QgnAKJ0uFeEDMKuvUFJpKA6db32GIXqqH3lFSEur3F/w5payVxXlbYTypXL+0fRyiqz/xDS/ncD45kBfXhAoQcDWQ==;JOg13+fqTADBWzBgWfC1yA=="

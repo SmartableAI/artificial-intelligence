@@ -53,20 +53,6 @@ related:
         width: 705
         height: 485
         isCached: true
-  - title: "Feedzai bags $200M at unicorn valuation for its AI fraud detection platform"
-    excerpt: "Feedzai Inc., a fraud detection startup with a client roster that includes 80% of the Fortune 500, has landed a $200 million round of funding led by investment firm KKR. The round was announced this morning."
-    publishedDateTime: 2021-03-24T20:00:00Z
-    webUrl: "https://siliconangle.com/2021/03/24/feedzai-bags-200m-unicorn-valuation-ai-fraud-detection-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 35
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/feedzai.png"
-        width: 926
-        height: 512
-        isCached: true
 
 secured: "aSisUZJZoAn6QRMpX5GgHthGyFt39/m+kWMw6GdThrBf4ZRuK+KAgMR7bKd/JQCEsOW2gkmR4YXfbSTpBtIlzDVKbNWjDrtHsr2RMfw/klnAFGCkKRwWmSy4ik1EgZvakRcEoqA2qmMWPZ5qQM8FJQUnQiaecf7dkZtN9d+Z0HMzo7FVMEGALa+LhPP+vBDewIDnGbrS0MosXUYxQ2x9iHF4xkVrSjA8NBk3xwTcnmI81EByPRo9b9X9RGwawNTDGG5DaNILZZ3siNfTOTBHbMuRIDOHCgXX66UdjWNS1MpT2HUPQ1vB1n8rdLuh6i+C8rlrVkuGaAlnGZ+1xHew1NDPS8fJUKFC+SuFYjlKJr+DXXPjiRRIjPIh0w0jFx/xyj7boQVE7J9eazPUuKSD5irP1li2QNoFtxoMgCa3Uv9jMA3ZpsXK1S373Evxpg9A6s0LtrdDWYGWm6dDv4nwSioBLegvuQzdeuHC+6d7Y03E3mpI2kke0pk9Xgf6mU6LvDwcGRAleHxg7fYGdrR/PA==;KeknB8n64Tr+bjtFmlCrSA=="
 ---

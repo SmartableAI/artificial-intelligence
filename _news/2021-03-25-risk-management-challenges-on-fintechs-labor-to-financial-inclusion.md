@@ -92,20 +92,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 32
-  - title: "RIA-Founded Fintech Introduces Next-Generation Tax Planning Tool"
-    excerpt: "FP Alpha's AI-driven Tax Snapshot can instantly read and create planning recommendations from client tax forms."
-    publishedDateTime: 2021-03-24T20:24:00Z
-    webUrl: "https://www.fa-mag.com/news/ria-founded-fintech-introduces-next-generation-tax-planning-tool-61092.html"
-    type: article
-    provider:
-      name: Financial Advisor
-      domain: fa-mag.com
-    quality: 24
-    images:
-      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "SME-focused fintech acquired by Sage"
     excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
     publishedDateTime: 2021-03-29T07:42:00Z
@@ -135,6 +121,20 @@ related:
       - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
         width: 344
         height: 344
+        isCached: true
+  - title: "Emotion Detection and Recognition Market worth $37.1 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a new market research report \"Emotion Detection and Recognition Market by Component (Solutions [Facial Expression"
+    publishedDateTime: 2021-03-29T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/emotion-detection-and-recognition-market-worth-37-1-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--887031554.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
         isCached: true
   - title: "Top 10 best countries to start a fintech"
     excerpt: "Fintech in the financial services market has been adopted quickly by certain demographics that for years have been underserved by the incumbent institutions. The US is also a world leader in technology and particularly AI innovations, which means its ..."
