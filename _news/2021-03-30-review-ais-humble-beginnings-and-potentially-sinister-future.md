@@ -8,7 +8,7 @@ webUrl: "https://www.latimes.com/entertainment-arts/books/story/2021-03-29/cade-
 ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2021-03-29/cade-metz-genius-makers-explores-history-ethics-of-ai?_amp=true"
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2021-03-29/cade-metz-genius-makers-explores-history-ethics-of-ai?_amp=true"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://ca-times.brightspotcdn.com/dims4/default/9a557e6/2147483647/strip/true/crop/4800x3135+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4e%2F2c%2F91c8ed874e8bae3db97084ef6fe5%2Fla-photos-1staff-kincadefire032.jpg"
@@ -44,6 +45,6 @@ related:
         height: 315
         isCached: true
 
-secured: "jB4vebOGpKZ982oIq2CIwiy7y+AmFdJyOwl6kyPj+BJY7SaSjg2k87puioY9cCECLRQJM0bgiXPtrcZPKUsFG9YjNINYvxe3ma90R4Drvs2CibiRuTev8PD6JoyTgLymV9ogHdvMx/K97mu/erC4g6iSVYVCo59QPUtfbUCmU6nssdsoprwbuRymBjp75RMzRVHeL1fmkX04GNtOA5gYTDxpgbLEJM+VA1bByhEviqiRPBBApurg8vtTJwX7+ort7GJmSq2U9uzY4RyznL3Sjvh7mJnlNz/oWxuZjV9E+eebMu8YYvK8c8OxiEwRM946uhPGSr9Ryd6Ad9HId1kk3+AyRprXQwS4R0GeGsQU25E=;tek2LqZoG54dT3o9AZcyMg=="
+secured: "tQ0mbs0syufcJvQjt6GNAEv4GiiTSwKuPZDgUoCBGAQmTKpTIJMh1tObfIEPq24sjh8ZV74dP5C0qCFHeTLvaS0A5S4Dj6jffFeltuVwzRqIhenHzVGnKPabRa63JDM64Qldry3ajMYkyoV0c8Ao2UdjD1pLzPQm+vqEXmgHFEbPVFJjDl+y+VjEGUnVZAJXqkDNrFUNVjBE1s+Kg78F7gLKZ1WhPAw5GRcqaX7Dze3rM8ecm+frsM2cpHJqHoxuJBAMDKR++547d2WuufXDkPz0yJT9sM4twhfLNwmL4gAkXfTBKuOD68RvxTfJaDDdhVByKOAJACzBFuf84KThBDh/mLYKe0UQyRdWDW72VKb1tXjlYSVs7EM+jkx73VDDrmXQSvYZVehUh/ssz0yrhmavLSNGPrqNrEDABN6V58tdIVtpC9SwWaXG1ZDHaprd4S78lASm1nkPer06okKYU+aWLDGnXzfMzTtU2slYv7ziVJPAM2AG4pV1KfYe5b1/m1hzhbAh3Q43QATe4lM+Dw==;pQA0ncNuMFBCU1lh5haMsA=="
 ---
 

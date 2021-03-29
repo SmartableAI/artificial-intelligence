@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
 excerpt: "Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut. \"We are excited to add Jim to Cien.ai's Advisory Board,\" said Rob Käll, CEO & Co-founder of Cien.ai. \"Jim's Cloud & Data ..."
 publishedDateTime: 2021-03-25T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins/article_ee5594fc-b35f-5de0-9539-508fd7236f52.html"
 type: article
 quality: 61
 heat: -1
@@ -103,6 +103,6 @@ related:
         height: 448
         isCached: true
 
-secured: "y0/ogT4NZmQafJks2maqHmF0rudQGJezhjoFip9xuRJstzAb9oxT2rJV0++jRrphVCWBmQ3ZMxIX+TYsdTokv9wsqHwlUnwUW/7mDpR9Z7zRYf/OalI3efQzVf3hvFXsfS0QWIN4fe/x2XhINeqSeAk8bUo71stVep1086awaikbJSNPYaz/OS6+FiX7+xZWQgPa0h4WHbnBo99FTduZTMlW4qXAblEaTiqmkHc/U6qMOHja+WRX9c4cqd8haWC6GOdCLJSGRbrNPr4/z1lrVNdGWupb+H0bJH4ArQ6UPsbmw8tu2HjxQFgncElaGJdn5EDOadyerAKg+iwmhBNMy1f4auVnOqjF1ruX0EPezyw=;1C1UiXB2kEAB0YsTZiQkew=="
+secured: "fo5lqDrl29NbHpQm6Z8xDXm+M94al8AHXCkH08XgCmH81QJ8YXi+hkmk/pGclbIs4cxFVDHAeS0fIDbApBiBYPa4Yy6bKC75zZYDIdXXhfPxBbLcYvCFKwRVim9UFQ4SPUG7unGJSgLcfak/qMIUT+9J0res32jO/FfUX0atyrDVE+QSxYcwSsF5aielU8Y7FTEuu23UVmy+xNSfb2ZIDY0005hOex3VVvAgaFtxgCYxDfy0c58rWBWOidTiWWGZlw+v1pV229f9gP0eO+8a/sMx8T2Are3zve4wGhkSvkEAxih3KUnDlW1jZNG4cPk814KFEg6qY6qcIiWP4Jl+HsajCO7kQlPUsrik1NYR8Gs=;duUmUaVvTkxC414W36Cihg=="
 ---
 

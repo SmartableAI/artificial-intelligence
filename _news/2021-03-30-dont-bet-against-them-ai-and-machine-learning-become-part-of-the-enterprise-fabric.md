@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-29T18:23:00Z
 originalUrl: "https://siliconangle.com/2021/03/29/dont-bet-ai-machine-learning-become-part-enterprise-fabric/"
 webUrl: "https://siliconangle.com/2021/03/29/dont-bet-ai-machine-learning-become-part-enterprise-fabric/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/AI-Image3.jpg"
@@ -24,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "ZY6aN/e32f+1NRLcbP9zerresme0v+ozsaMn2AmuiY9ntvJqeXL08CIGhjbhtds+PqWZtHpci50Ux2dWbS0um16dg9vOBPKZVliImZQ3hSMbmfK0W0CfCD6QLl6+1dMF1P6X8joLpf8rN+wsKDk5rQ4nzqyudNiIPR+TK1MKiTSuGyCKoM1HrbfBvszH6EhMPDsYtpT1s0n5KYbpXq66gWhA6hniOs+ZitRzkGMibL0UAxe8mcGIs6GnbXTrNGGjYu6OwnA31wDLNbKrhk+mn3sV35BNlhDSmjdXZ/buqWtkByj8d1uwmLKff2tLgir1R7bEfLnQ41fDPiMNhZbJugJ5qz3Fgb5Yb/KQmokCr80=;/TIRWWTW9JCIYzG7rwjLUA=="
+secured: "OCw046gMbC6HIpEaqoZjqAW7MPEmFSOUKUw8VAxKK5YU/mVxGm541VjIbLDjycby0UI0ELOdtaPTJuB4paQzNs3C7YFFIO02XG7g4xanuhDmQtfozRnR88FdCnmliDV69ykp5Rs8fD1BtOVFl3M3JtakXG68XPBkUHctFP0dssXWTT/tdFLo55GRoRRunaNu4lrs2EWc6/K9KNs234yvjOpGGzMOE75qLiZBsSO951ZXak9wTJ2e1MEivxhAPuyK2GrWxaBcXo4gIFDPWa6l2pU8VKAHq/uX79O3BvuML89o3v6vq+vqaboqJKhsB5pdLhrZzWF7e7QFSPsnn4pioYQj77qe5LaHU9tdwOoMkVjuBsRZtBSlfHYK8JbWZEuc15JhQpd6SXZ84v6wzzwWV6/uOiINj5pWi4IXIvDZu5Hw7nBB7Ur4yffLJii8izwsvSKQYbVUzbbjXJ1SjX1UnQZgW1KfEHQcDl1JMttydftrO49AdpTk5DUmaDmBCwijYz1+PcdsON39sZRK/V78Wg==;+RBUpoM30/JJqEonEub5TQ=="
 ---
 

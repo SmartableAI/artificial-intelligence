@@ -39,6 +39,17 @@ related:
         width: 280
         height: 280
         isCached: true
+  - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
+    excerpt: "and the ability to seamlessly connect to the DELFI* cognitive E&P environment from Schlumberger. The Enterprise Data Management Solution is ready for global customers to deploy on Microsoft Azure, Schlumberger’s preferred global public cloud platform for ..."
+    publishedDateTime: 2021-03-29T21:31:00Z
+    webUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/"
+    ampWebUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
+    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 16
 
 secured: "JWM4cr95Gg2EA4S7dCb61VZ7EmtdMl320nUdd/ELq2jSfOuuz9x8jr8pcwusCVOkuti8C80BtZp6kQa/EENTjlvJKwu8ETlnKghgKEhXTnXgrJ5/KJ35KT0q8zkZT+1non9NnkZs+DD497gWOGY5W1OH8HKCdbesSu5liisdrCPeYwUyRm0s4f38m3WNPYkG1K4lmf3yoA/eaKIPhuI31FR8nvDrCe3dXzkE0CKgl5Cov2WE5rl9KN6hr3xVapNt8P1cq9dBKaTarmiskKF9slYKFBkUjdBgFUBlN6TYiisZSAI46/D0e+PApHi3Hb5K7GAzbdu7SgWR+duGchuYAto8yr0y0n57lT9hBg+HdXw=;VPcuO4tx5baa6bg/8mJ3PA=="
 ---

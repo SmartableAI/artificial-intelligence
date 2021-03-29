@@ -38,7 +38,7 @@ related:
     provider:
       name: Los Angeles Times
       domain: latimes.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/9a557e6/2147483647/strip/true/crop/4800x3135+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4e%2F2c%2F91c8ed874e8bae3db97084ef6fe5%2Fla-photos-1staff-kincadefire032.jpg"
         width: 320
