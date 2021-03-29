@@ -25,35 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Reinforcement learning: The next great AI tech moving from the lab to the real world"
-    excerpt: "Reinforcement learning (RL) is a powerful type of AI technology that can learn strategies to optimally control large, complex systems."
-    publishedDateTime: 2021-03-28T17:20:00Z
-    webUrl: "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/"
-    ampWebUrl: "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/"
+  - title: "Navigating the hype around artificial intelligence"
+    excerpt: "Video Module Navigating the hype around artificial intelligence. Posted . Investing in Artificial Intelligence is very much on-trend, with one recent report predicting deep learni"
+    publishedDateTime: 2021-03-25T21:13:00Z
+    webUrl: "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/ai-4.jpg?w=1200&strip=all"
+      - url: "https://static.reuters.com/resources/r/?d=20210325&i=RCV009JNH&r=RCV009JNH&t=2"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "Predicting treatment response from longitudinal images using multi-task deep learning"
-    excerpt: "Radiographic imaging is routinely used to evaluate treatment response in solid tumors. Here, the authors present a multi-task deep learning approach that allows simultaneous tumor segmentation and response prediction from longitudinal images in a multi-center study on rectal cancer."
-    publishedDateTime: 2021-03-25T10:36:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-22188-y"
+  - title: "UK is planning to develop its National AI Strategy by following the Council"
+    excerpt: "The UK’s National AI Strategy capitalizes on the power of AI to boost the economy. They recently announced the commitment towards transforming the strategy by including the advice from the AI Council."
+    publishedDateTime: 2021-03-26T17:34:00Z
+    webUrl: "https://www.analyticsinsight.net/is-the-uk-heading-towards-a-transformation-in-the-ai-strategy/"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 32
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 37
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-22188-y/MediaObjects/41467_2021_22188_Fig1_HTML.png"
-        width: 654
-        height: 685
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/UK.jpg"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "GK1tsA3hx8Ao72U9dBLXLdLGJ3Mk4OIPikiTeyHy85xsY/7gHRSA9TG8omJYb4Yxd1Isl46ShLneBEYNKXcIQnVDrgj2N7qRPRQBLIWdnQSSXfTtV2q4X7yq5Yz0ljI57mIZTwVqQ1UTMU4pADB39WMxxHc3NtHSqfIsd+TNqsDD9CG9kDu7CAvKwVyuO6WOj2RSnFOSqkLBi/0sGlYeHM42+Aku3Xf/fozlzq+puztstNeFFBYK7Y/uTfPAcMcJpLnxTXfvpkYUhMWgER69bcBVgLV7AxfhLAVumdXjh5ZLyrMB9FOA9XeFnjuPIE0yK8kx+XgoQ0+JQTQIouSFne5KVMIbbJMbUXL4iPrlRvqfECPmmYl1zuxuz95tKQgiX99FNlMIL9hjmbTGu8WcpmRA7OCIN6XmubboaMl4H5VtU/9Qk/vfTJVgkJ28iC30yd3LgKj7zAI9w82+S6D1Z15zz8VYk8LGTU7l/EMwm0Or5Z7VrBc8yL3Uyni8u6BHyxad5XpbZqrBFNO8L57GWA==;ard9reaVdPqGROTQR0vn2Q=="

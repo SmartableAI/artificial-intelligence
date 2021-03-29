@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Financial Risk Fintech Feedzai Raises $200 Million led by KKR, Valuation Tops $1 Billion"
-    excerpt: "The core offering is its artificial intelligence and machine learning platform, which processes customer ... said Feedzai offers a powerful solution to one of the biggest challenges facing financial services today. “We believe Feedzai’s platform ..."
-    publishedDateTime: 2021-03-24T12:08:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/03/173531-financial-risk-fintech-feedzai-raises-200-million-led-by-kkr-valuation-tops-1-billion/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/173531-financial-risk-fintech-feedzai-raises-200-million-led-by-kkr-valuation-tops-1-billion/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/173531-financial-risk-fintech-feedzai-raises-200-million-led-by-kkr-valuation-tops-1-billion/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 50
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/05/Money-Cyber-Crime-Hack-Ransom-Theft-600x332.jpg"
-        width: 600
-        height: 332
-        isCached: true
   - title: "Risk management challenges on Fintechs labor to financial inclusion"
     excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
     publishedDateTime: 2021-03-25T02:04:00Z

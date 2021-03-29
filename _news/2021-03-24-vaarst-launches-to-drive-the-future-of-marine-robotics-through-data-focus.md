@@ -35,20 +35,6 @@ related:
         width: 600
         height: 279
         isCached: true
-  - title: "Rovco's Robotics Spin-off Vaarst Open for Business"
-    excerpt: "Vaarst, an offshore robotics technology spin-off from ROV-services firm Rovco, was formally launched Wednesday.Vaarst says its"
-    publishedDateTime: 2021-03-24T11:45:00Z
-    webUrl: "https://www.marinetechnologynews.com/news/rovco-robotics-vaarst-business-609360"
-    type: article
-    provider:
-      name: marinetechnologynews.com
-      domain: marinetechnologynews.com
-    quality: 54
-    images:
-      - url: "https://images.marinetechnologynews.com/images/maritime/w800/credit-vaarst-121339.jpg"
-        width: 698
-        height: 931
-        isCached: true
 
 secured: "IQl3MHwj6hXCN/ywTJ8FBgwHnqg22o2khXOrcCEKFgLKMmHJOs2TfniXdmFYC2SntDuP3YaMxB00zhV1JEUH74/uNP+xJzVsVm6B6pUoIqYIllfQ/LaLEdl2aoMrT7Hgs+z4PS0YFAyxkm94z4RjVCMbf+zipVC36PCN9DIBOS5DgpaG7PFt6YiYn65eL8ZsDZBngWEfiLlehkKKnrEnLQua19nMobkpM8ukLR7+KQwT3x2AYDcUwfw3ywvAyB1Xzm7Cb44Jl0pWictUVBoODf+v0jBDspmxq9fWUn1DKZ3n9W7fTUsjkHfu+O15KyNpeJkvvfTqcYKkpFmvZaV4EGB77w2hvOdiJmxaC9/ce7o=;yZA12sw+dBvCytwgILQp6Q=="
 ---

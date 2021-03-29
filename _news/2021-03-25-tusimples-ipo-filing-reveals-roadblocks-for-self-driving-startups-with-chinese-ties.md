@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving truck startup TuSimple files for U.S. stock offering"
-    excerpt: "U.S. initial public stock offering on Tuesday, joining a clutch of companies looking to capitalize on rising investor interest in the sector. The company did not disclose the number of shares it plans to offer to investors or the price range for its offering."
-    publishedDateTime: 2021-03-24T11:34:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-tusimple-files-us-stock-offering"
+  - title: "Self-driving Truck Startup TuSimple Files For Public Ownership"
+    excerpt: "Self-driving truck startup TuSimple filed on Tuesday to become a public company. It is seeking to sell at least $100 million in shares. It could sell as much as $1 billion"
+    publishedDateTime: 2021-03-24T15:23:00Z
+    webUrl: "https://www.benzinga.com/news/21/03/20321459/self-driving-truck-startup-tusimple-files-for-public-ownership"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20321459"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20321459"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TUSIMPLE-MAIN_i_0.jpg"
-        width: 800
-        height: 600
+      - url: "https://www.benzinga.com/files/images/story/2012/032321-tusimple-public-filing.jpg"
+        width: 1054
+        height: 635
         isCached: true
 
 secured: "EjNRFvhL6mRI4s98sZ8R102aYvVU5B2wyp8ZWbA2e913E0JXPoY3qfUIcJGzUaks0Yf9Srbuecmef/PvqmlFiMLDlp4gO99iZCiCqZ4OXALg4XCwkweg+wJxERzIhbDFvxAItj4VuIwRs76UXsdt6EnoXNBP2yM8lKRstjwaKW/+qciilhuGc7qzGH6UIoYpe17Tq8wJbM0Y+CcgSUPhN3s1VB50V6ubgCneohWYAnVu69L7wSOxdbCQFnhv4ixp9c7B1Qhn24V9+/HQ4TwtXwVWVLMatcz47kAAvtK0/79gUMmhVd7cdGhphFxBB9pyMPiq8XC7V30y0IjLVwijJSeyycGudkTFqzkBKzaJOt60Qro4DYaCbSR+4so1wjou1kHmTi0EUwUk8WaBubD92IeS8vLuUYLNXANcitXlEp84Krd4fxLv/mfbItvPy74jy2HgnV4NlynvMw70BKZ5vmEgBktTSUq2a4et7CO7LHUe7rl4AQx1BxWOnHNrN2mykL2C8XqhAP6KuNF2vDTxAQ==;wYqvbwiiNI4ZDEhzG08mZg=="

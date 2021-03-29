@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "How NLP can drive speech recognition use in commercial environments"
-    excerpt: "TK: How does NLP determine a person’s emotional state, especially in applications that involve a wide variety of people and personalities? For example, when some people are upset or frustrated, they talk low and slow,"
-    publishedDateTime: 2021-03-24T12:29:00Z
-    webUrl: "https://www.inavateonthenet.net/case-studies/article/how-nlp-can-drive-speech-recognition-use-in-commercial-environments"
-    type: article
-    provider:
-      name: InAVate
-      domain: inavateonthenet.net
-    quality: 54
-    images:
-      - url: "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1616588697/widgetdocs/Rana_close_up_gymlcm.jpg"
-        width: 750
-        height: 420
-        isCached: true
   - title: "Area Students Earn All-State Speech Recognition"
     excerpt: "Several area high school students have earned the highest possible honor in speech competitions. The Iowa High School Speech Association announced All-State nominations from individual performances. The following area students were honored: Johanna Leonard,"
     publishedDateTime: 2021-03-28T09:45:00Z

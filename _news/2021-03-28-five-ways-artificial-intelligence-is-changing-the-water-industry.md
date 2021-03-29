@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How artificial intelligence is transforming manufacturing"
+    excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
+    publishedDateTime: 2021-03-29T04:05:00Z
+    webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: themanufacturer.com
+    quality: 37
+    images:
+      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/07/14113149/shutterstock_732658279-e1594206468206.jpg"
+        width: 1920
+        height: 1147
+        isCached: true
   - title: "How Human AI and Machine Learning Technologies Are Leading the Fight Against Money Laundering and Financial Crime in 2021 and Beyond"
     excerpt: "The COVID-19 pandemic has exposed widespread vulnerabilities as compliance teams seek to manage remote employees spread across the world; regulators and governments are tightening restrictions; and technology is advancing at breakneck speed in a bid to keep pace with the increasingly sophisticated methods being used by financial criminals."
     publishedDateTime: 2021-03-25T11:29:00Z

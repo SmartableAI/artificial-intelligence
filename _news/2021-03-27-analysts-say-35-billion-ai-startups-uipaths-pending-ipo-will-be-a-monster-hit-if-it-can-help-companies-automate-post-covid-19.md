@@ -44,6 +44,20 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Romanian software robot developer UiPath announces NYSE IPO"
+    excerpt: "Bucharest-born UiPath, the leader in the global robotic process automation (RPA) industry, has filed documentation for an initial public offering"
+    publishedDateTime: 2021-03-29T05:33:00Z
+    webUrl: "https://intellinews.com/romanian-software-robot-developer-uipath-announces-nyse-ipo-206657/?source=romania"
+    type: article
+    provider:
+      name: Business New Europe
+      domain: intellinews.com
+    quality: 39
+    images:
+      - url: "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/bneCompanies-Romania-Uipath-34_1592545336-2-2-2.jpg"
+        width: 900
+        height: 510
+        isCached: true
 
 secured: "UVESJgYbi2eBSa+5s12ngob2ZAYM+4BNpR7ByOOm/wdP785QYjN4cyHy95kd1TdVfrB17MpbNYDMSWVQFMOwDTfyX3d5KlJNFoDlV89h6XBr6vPyfSy76KxQ3Lt8oiGsDKeZPg3K+OiLDML1u6Sa5atOqRiDrpb7xennpK1NDMOzOGyUFrtSa7dOILw+oHzHZ+EP4ghcr7zShVfDEywp9V7JVe3diiZX3gUBh1D/lhPxbmZLo2jIHfXnXGRBL4BxWYQBeISK6DkoY+jlmbimo0Gt/GBN62sxM0F3kJRyFrr1Arj6cnbpWvoEnIzAZa0AGIlDMDHrobQeGHGJ+IG3ihyRoM07hlsPn8vy1zQuy+WB1pvlG3EbNekYeGhIqdljzYipYZGgjuvl95E5aD20L5vkR7eGjUjXOU2gn8ovj448zriF37jfd2bKaVwMoN/Nhyl4QZv1uoeB2CFgNGAL1YocX9Yni7s+pGZ2nGpwk1tly8m8vPp5+5/XocFq4iwDQ6cz0UyQkPprwxiTx7kWTA==;SrPfCPNIdEcA684q+doPlw=="
 ---

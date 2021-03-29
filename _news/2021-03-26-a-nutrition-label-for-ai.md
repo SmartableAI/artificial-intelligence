@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "ElectrifAi Announces Inspur AI Server Collaboration"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML)"
-    publishedDateTime: 2021-03-24T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-inspur-ai-server-collaboration-301254352.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
 
 secured: "QmH7zWTGFPysEZADTfA7UM9rpM+pUeFd6iMz3Y89ovmP21+dpxs2NkmwY7eTsRxKq1jMFLpHcFRx+D9v4VNSstlaT/7WuFXFUyZVTRLJGuFy++rv+/KCQJLS9sRAbDZO6p3WV2acMQoYS9XOalAep7B2QiiPFdYSSL6jzVF+sBxRbSmUOtPam7COgznXQHsrRgHGMPRm/p4IJGOicb2kGNHZJvvntekUg1WDBwPJVcrlgP0kGBEoryqNFnso0/boLWSWyBwmRVndMBynNYiBEUuK4fvDYkidjdulmZD5JuXlmf3Pn38dp8BIsyABJbY7CuJCxbQ9avlqo4p8gtVaJNR9xgElfbhLl1QpMpSGQ/bq/30RgnD9U3sIDGD0LnW+8a5Kbi90pyFumAIegWsuK4B+bRNSoI5SWAbCKNQHESN/7w+TS+02SKahSjuVpLE8+hZPtJSAwT+SlSQIyPbVpmpHEjcX6M/JDft9zZUod07IXT2M6A1SJv++CyBcPn4MXimINuwJNq5O22AMpsRlsA==;zi2eJp12Abv8MaJNzRiuqg=="
 ---

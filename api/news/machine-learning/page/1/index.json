@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-29-reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world.md",
-      "title": "Reinforcement learning: The next great AI tech moving from the lab to the real world",
-      "excerpt": "Reinforcement learning (RL) is a powerful type of AI technology that can learn strategies to optimally control large, complex systems.",
+      "path": "_news/2021-03-29-university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course.md",
+      "title": "University of Hyderabad kickstarts first online AI & Machine Learning diploma course",
+      "excerpt": "\"So far, AI has primarily been used by the private sectors for commercial usage. The mission of the government is to make AI accessible to all the sectors of society,\" said Dr Saraswat. He informed the participants that the government has decided to ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/",
-      "originalUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/",
+      "webUrl": "https://www.newindianexpress.com/cities/hyderabad/2021/mar/29/university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course-2282992.html",
+      "originalUrl": "https://www.newindianexpress.com/cities/hyderabad/2021/mar/29/university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course-2282992.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ai-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/7/3/w600X390/VCNGHaaaa.jpg",
+          "width": 600,
+          "height": 390,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/",
-      "publishedDateTime": "2021-03-28T10:20:00-07:00",
+      "ampWebUrl": "https://www.newindianexpress.com/cities/hyderabad/2021/mar/29/university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course-2282992.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2021/mar/29/university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course-2282992.amp",
+      "publishedDateTime": "2021-03-28T22:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,7 +40,6 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI",
         "Machine Learning"
       ]

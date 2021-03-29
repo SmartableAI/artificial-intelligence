@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/robotics-firm-uipath-files-
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Romanian software robot developer UiPath announces NYSE IPO"
+    excerpt: "Bucharest-born UiPath, the leader in the global robotic process automation (RPA) industry, has filed documentation for an initial public offering"
+    publishedDateTime: 2021-03-29T05:33:00Z
+    webUrl: "https://intellinews.com/romanian-software-robot-developer-uipath-announces-nyse-ipo-206657/?source=romania"
+    type: article
+    provider:
+      name: Business New Europe
+      domain: intellinews.com
+    quality: 39
+    images:
+      - url: "http://d39raawggeifpx.cloudfront.net/styles/16_9_desktop/s3/articleimages/bneCompanies-Romania-Uipath-34_1592545336-2-2-2.jpg"
+        width: 900
+        height: 510
+        isCached: true
   - title: "Analysts say $35 billion AI startup's UiPath's pending IPO will be a monster hit if it can help companies automate post-COVID-19"
     excerpt: "UiPath, a $35 billion startup based in New York City, must seize an evolving automation software market as the world emerges from COVID-19."
     publishedDateTime: 2021-03-26T20:45:00Z

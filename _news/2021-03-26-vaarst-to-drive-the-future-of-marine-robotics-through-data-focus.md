@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hellenicshippingnews.com/vaarst-to-drive-the-future-of-m
 cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/vaarst-to-drive-the-future-of-marine-robotics-through-data-focus/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Rovco's Robotics Spin-off Vaarst Open for Business"
-    excerpt: "Vaarst, an offshore robotics technology spin-off from ROV-services firm Rovco, was formally launched Wednesday.Vaarst says its"
-    publishedDateTime: 2021-03-24T11:45:00Z
-    webUrl: "https://www.marinetechnologynews.com/news/rovco-robotics-vaarst-business-609360"
-    type: article
-    provider:
-      name: marinetechnologynews.com
-      domain: marinetechnologynews.com
-    quality: 54
-    images:
-      - url: "https://images.marinetechnologynews.com/images/maritime/w800/credit-vaarst-121339.jpg"
-        width: 698
-        height: 931
-        isCached: true
   - title: "Vaarst launches to drive the future of marine robotics through data focus"
     excerpt: "Launching today, robotics technology player Vaarst will give offshore and marine robotics new capabilities through retrofitted artificial intelligence and autonomy."
     publishedDateTime: 2021-03-24T13:50:00Z

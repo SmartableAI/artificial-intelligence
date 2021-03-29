@@ -37,20 +37,6 @@ related:
         width: 366
         height: 314
         isCached: true
-  - title: "ElectrifAi Announces Inspur AI Server Collaboration"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML)"
-    publishedDateTime: 2021-03-24T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-inspur-ai-server-collaboration-301254352.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
 
 secured: "pdg4SOezydR7t3QUNzmO+AzPHozuU/vk/qKheMnZKY0bI/HD8a9I4tsI3In+2Zc8Q9sXf4s/FHNJbRbg0Lp0MdyCY0mlMRcrXDwmOyzLuiqy9wZiEaQB9WvJmQbITRYsb0uCzOfb/vRXtqyNM6udK2unf9YT/GWQYKa2dzO+uPhqeujvyhx7LPR2gonLZbKTMXudxw++ZOAC/lkrujZyD34sB+vZO4LFLeNc0ZJHDCfGOUCUXCYbd4/uJ5aAvS860eCUwen8emwPaMexawKIyFkPVJWvY77jmxuz7JRyEQy06yfqieWPOHR2xUwSF+BZmUudL0BOxsqi2CGbZc3z7giU6ziU+y3ZXU+xQxJHbkI=;1Hnaqh2+qJv11w4zk6TOmw=="
 ---

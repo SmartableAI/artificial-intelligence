@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/world/alan-turing-honored-uk-50-pound-note-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/world/alan-turing-honored-uk-50-pound-note-artificial-intelligence-wwii.amp"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
