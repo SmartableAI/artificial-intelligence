@@ -84,6 +84,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "1JybrdQYn7P13eeFfUdc58V0Xe6ZpA+2r5V+FNqHUxGTacHU3ho6Ojxq+BahIOf1mohOUQ+kur1SjJ5gg9cxJNMXjHsr8bYjupj5jla8tqOTDCpbmB7rFTgmQWY/3Tvly4D92IMAPjpzcyjlg2OR8JgU/hFTPORlPxV3Y5Xwa4yWrBg6CHv8/M+4pXtyZpHrdhNjklIiPIieSPaQc5Rrd45eIz03dOUGX5tTIUyCrupk6KRYMev+RWza2VNEtu0W0T2eJqkWJ5xt2K3b3MVqrEBZuDpjA6UOEAU1VAivh+7b9b7DyuATh8wR/pMHf9Mu3ujxDnUWfNEnxMP9p1veJCRwVyTlwMHwvur8FORqgqY=;U94sHxcNR9Rce+OuHjN/ew=="
+secured: "kbXHZlT0qQqnrr7HsQsGTnJXAUsNxIRr5YNglOHEDMEdDZA9X+wugPuGFbsjc4aXXzm3SlEvbtlK9/zeeoIsHkVym0RgSALB36yqkaP/bPzuA0IfQ3N8k/6snAKWo/BFNZG/FTkFf2ANb852s+AAcxhddqzDxXpkJyUcw8vFBV2li1MTMOfWUaU9mrUP7xIl9pDdAJBrpT/yexFKI9VJN6+At9JHHuCtXp/xGQzOy/68uTpXxlHJNFG26feNLK4NcXexP5hVKbFUXwyzwXzjG7uYI+N7j2fMHOGu3wkLrud8GAUhobS29vOkS1ATJ38uB9ojTfywj3U6MLwitnLspDsxxVW+v/Xj/TDcn7sxq5I=;rIVBWpYKKJ81ecqymUeXnA=="
 ---
 
