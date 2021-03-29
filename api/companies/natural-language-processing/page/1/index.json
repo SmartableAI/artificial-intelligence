@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 40212
+        "followers": 40220
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 193276
+        "followers": 193273
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -172,7 +172,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 16760
+        "followers": 16761
       },
       "size": "201-500 employees",
       "yearFounded": 2012,
@@ -381,7 +381,7 @@
       "twitter": {
         "username": "kadaxis",
         "url": "https://twitter.com/kadaxis",
-        "followers": 29244
+        "followers": 29242
       },
       "size": "2-10 employees",
       "yearFounded": 2013,
@@ -482,7 +482,7 @@
       "twitter": {
         "username": "myconversica",
         "url": "https://twitter.com/myconversica",
-        "followers": 12898
+        "followers": 12897
       },
       "size": "201-500 employees",
       "yearFounded": 2007,
@@ -643,7 +643,7 @@
       "twitter": {
         "username": "ROSSIntel",
         "url": "https://twitter.com/ROSSIntel",
-        "followers": 5425
+        "followers": 5426
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1003,7 +1003,7 @@
       "twitter": {
         "username": "SoundHoundInc",
         "url": "https://twitter.com/SoundHoundInc",
-        "followers": 538
+        "followers": 539
       },
       "yearFounded": 0,
       "locations": [
