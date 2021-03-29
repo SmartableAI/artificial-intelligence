@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Alluxio Advances Analytics and AI with NVIDIA"
-    excerpt: "GPU-based processing drives higher data access throughput than a CPU-based cluster. With the separation of processing clusters for analytics and AI from data storage systems, accelerating data access allows for cost savings on agile business intelligence ..."
-    publishedDateTime: 2021-03-24T17:51:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Alluxio-Advances-Analytics-and-AI-with-NVIDIA-145945.aspx"
+  - title: "BNP Paribas to provide investors with sustainability analytics from Clarity AI"
+    excerpt: "BNP Paribas Securities Services and its platform Manaos announce a partnership with Clarity AI, a leading sustainability data science and technology company. Starting today, Manaos users have access to Clarity AI’s vast universe of sustainability data and insights."
+    publishedDateTime: 2021-03-29T09:58:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86826/bnp-paribas-to-provide-investors-with-sustainability-analytics-from-clarity-ai"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
+      name: Finextra
+      domain: finextra.com
+    quality: 33
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "This Mumbai-based Social Analytics Startup Uses AI To Optimise Customer Engagement"
     excerpt: "Locobuzz enables brands to forge strong relationships with their customers using artificial intelligence, machine learning, big data and analytics."
@@ -51,20 +51,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Story-of-Locobuzz.png"
         width: 1600
         height: 1280
-        isCached: true
-  - title: "Global Textile Printing Market Trajectory & Analytics 2021-2024: Digital Printing, Artificial Intelligence and Personalized Clothing"
-    excerpt: "The \"Textile Printing - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global production of printed textiles is projected to reach 36.8 billion square meters by 2024 The market driven by"
-    publishedDateTime: 2021-03-26T19:21:00Z
-    webUrl: "https://www.lelezard.com/en/news-19720254.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
         isCached: true
 
 secured: "bwTzUBp6XAPPqDeqEF+RRW4LNY7Z4BDujdk2/9oU27BF/BWqJ9ua0DhY33QOziWAEucnrZtYGtn9TXSMb/vhlpYbphqhioZCstoI9HIP7CiCn3swhvZceuXSMGCoDaM+ZgNEHY4kAKrpXdvsSt5LVcyzOWNMMBbFfwStAha1Z6BTRkoeYhWidlfZhWJxZQe/WWTdLJI21QR/gz0RpbLiP7wAdfgS5falqgcNXoluYWX3QlQXpM01mhNyh13RcvVMJu7XCYGtosKthRKmeOo+az/dR5CZaVuei+mx3VQo7zQmekRYxB8JsDlb4jEyCfmnoZ5abDqZ/RXcdkYXkySHzBIYmzu3UKflZ/RMbOBgneDCZHWrUUUAK9ycKgj9WbWie+YCJMGwSsvtifW6P9dSoB0pNjLXmJ0xVBJcFWLOo6Kz5/WJFGh4QUR8MImUKFJhEtyRolNUNrIWg1joDmxf0Bj1x59X5okCUZ+1gAPwqxjMxBNm4l1VQVZ+ksN/faGEAqe8Gk8/oZL2Hb7mmgp2iw==;WHUwIV7g3jIaxmmEwVVRoQ=="

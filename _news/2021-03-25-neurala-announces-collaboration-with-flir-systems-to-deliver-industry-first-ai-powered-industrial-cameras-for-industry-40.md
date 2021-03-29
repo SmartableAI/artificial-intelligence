@@ -70,6 +70,36 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Robots are the New Trend in Restaurant Industry"
+    excerpt: "Robots entered the food industry to assist primarily in food manufacturing and packaging. Keeping in mind the hygiene and accuracy factor, they have proved to be ideal for this industry. Many germophobes actually prefer robots over humans to handle their food."
+    publishedDateTime: 2021-03-29T11:02:00Z
+    webUrl: "https://techstory.in/robots-are-the-new-trend-in-restaurant-industry/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/robot-waiter.jpg"
+        width: 612
+        height: 612
+        isCached: true
+  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
+    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google,"
+    publishedDateTime: 2021-03-29T09:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 30
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
+        width: 980
+        height: 512
+        isCached: true
   - title: "The 2021 Healthcare Industry: Digital Transformation Leads to New Growth Strategies for Stakeholders"
     excerpt: "The \"Developing Innovative ROI Streams and Patient-centric Virtual Care Approaches will Shape the Global Healthcare"
     publishedDateTime: 2021-03-26T13:08:00Z

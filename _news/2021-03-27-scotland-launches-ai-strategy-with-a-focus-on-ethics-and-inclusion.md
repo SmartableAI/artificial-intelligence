@@ -7,7 +7,7 @@ originalUrl: "https://www.globalgovernmentforum.com/scotland-launches-ai-strateg
 webUrl: "https://www.globalgovernmentforum.com/scotland-launches-ai-strategy-focus-ethics-and-inclusion/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 620
     height: 414
     isCached: true
-
-related:
-  - title: "Trust and ethics placed at heart of Scotland's artificial intelligence strategy"
-    excerpt: "The strategy will lead to the creation of an ‘AI Playbook’, which will be a practical guide to how AI is done in"
-    publishedDateTime: 2021-03-24T17:23:00Z
-    webUrl: "https://www.holyrood.com/news/view,trust-and-ethics-placed-at-heart-of-scotland-artificial-intelligence-strategy"
-    type: article
-    provider:
-      name: Holyrood
-      domain: holyrood.com
-    quality: 52
-    images:
-      - url: "https://www.holyrood.com/siteimg/share/ugc-1/fullnews/news/17008/16436_original.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "T9msPzuEmbmZiGUyOzwnskbBVjbTAbM2vsRXnHNk9EulfIEEJBy0qzZx0NaS5Tv3G3DcdGHlwSxBMrGkyTAOoJFf0cSIvq1Dz6Yd0hhLXhBLMldPgsii5egdYULJ9NSpoQP0xZkjKCrWu+ZZ0WJeR8VuF5OPhNQHyCQyI784E88Nzx5PyNTJJ1B1cOkaWRpf17s1RGMhMHZj/LeRCo96vek8aEiDDc9UmA9yUw9oVL6ytqP4TJCE6oRyn4KdCJcwfJ//oC+a6tpM1pWxxL/d205XL+4zcEFe8MSoF3Z+sNhaHdMY3LT/kFDjv8S7nrzFu8clmuWJ7b47v0gFQh8qRCEDVMlUOwR/wwduy/S7cMDTbHJZBXFicK9t8TfYu2jDREIddCVSOiXTlyfP/ARyEnFtRVocgmqgddNue3HUrrnTfB2H/Xp12AJ383rTZsrAvEsnadOsbleGjb6m+DTD1MGsjEibykz0futSYur4Ax2qMTBadLzEwES007WWLF0UsYoZjYW4K36NHFF9RGGKDg==;OpvRFVXqp3p6gi3t9nOdCQ=="
 ---

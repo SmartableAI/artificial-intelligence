@@ -43,22 +43,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "Disney World testing facial recognition software"
-    excerpt: "Walt Disney World is testing facial recognition technology at the Orlando-area theme park. The test will take place at the park entrance over the next month. Disney says the technology captures an image of a guest’s face and converts it into a unique number,"
-    publishedDateTime: 2021-03-24T17:12:00Z
-    webUrl: "https://www.fox5ny.com/news/disney-world-testing-facial-recognition-software"
-    ampWebUrl: "https://www.fox5ny.com/news/disney-world-testing-facial-recognition-software.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/disney-world-testing-facial-recognition-software.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 59
-    images:
-      - url: "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2021/03/932/470/disney-test.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
   - title: "Disney World tests facial recognition software at Magic Kingdom"
     excerpt: "Walt Disney World is testing facial recognition software at the Magic Kingdom. The resort is testing out the new technology from March 23 through April 23, 2021 at the park entrance. The length of the test is subject to change,"
     publishedDateTime: 2021-03-24T20:08:00Z
@@ -106,20 +90,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/10446172_032421-kabc-4pm-disney-tech-vid.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Disney testing-out facial recognition technology"
-    excerpt: "Disney is diving into the world of new technology this week in an effort to have more touchless experience. Just like the face ID scanner on your iPhone devices, Disney is testing a face recognition system."
-    publishedDateTime: 2021-03-24T17:22:00Z
-    webUrl: "https://kyma.com/videor/2021/03/24/disney-testing-out-face-recognition-system-in-parks/"
-    type: article
-    provider:
-      name: KYMA
-      domain: kyma.com
-    quality: 39
-    images:
-      - url: "https://kyma.b-cdn.net/2021/03/Screen-Shot-2021-03-24-at-10.06.23-AM.png"
-        width: 2868
-        height: 1610
         isCached: true
   - title: "Walt Disney World begins testing facial recognition technology"
     excerpt: "Walt Disney World is now testing a new facial recognition technology at its Magic Kingdom theme park. The park rolled out it’s test-system Tuesday at Walt Disney World’s Magic Kingdom in Florida. Disney says it’s looking for ways to focus on more “touchless experiences” in the parks."

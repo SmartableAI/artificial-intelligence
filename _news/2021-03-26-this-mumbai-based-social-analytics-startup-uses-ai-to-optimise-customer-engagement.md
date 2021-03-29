@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Alluxio Advances Analytics and AI with NVIDIA"
-    excerpt: "GPU-based processing drives higher data access throughput than a CPU-based cluster. With the separation of processing clusters for analytics and AI from data storage systems, accelerating data access allows for cost savings on agile business intelligence ..."
-    publishedDateTime: 2021-03-24T17:51:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Alluxio-Advances-Analytics-and-AI-with-NVIDIA-145945.aspx"
+  - title: "BNP Paribas to provide investors with sustainability analytics from Clarity AI"
+    excerpt: "BNP Paribas Securities Services and its platform Manaos announce a partnership with Clarity AI, a leading sustainability data science and technology company. Starting today, Manaos users have access to Clarity AI’s vast universe of sustainability data and insights."
+    publishedDateTime: 2021-03-29T09:58:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86826/bnp-paribas-to-provide-investors-with-sustainability-analytics-from-clarity-ai"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
+      name: Finextra
+      domain: finextra.com
+    quality: 33
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Textile Printing Market Trajectory & Analytics 2021-2024: Digital Printing, Artificial Intelligence and Personalized Clothing"
-    excerpt: "The \"Textile Printing - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global production of printed textiles is projected to reach 36.8 billion square meters by 2024 The market driven by"
-    publishedDateTime: 2021-03-26T19:21:00Z
-    webUrl: "https://www.lelezard.com/en/news-19720254.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
     excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"

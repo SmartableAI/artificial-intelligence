@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://internationalbanker.com/wp-content/uploads/2021/03/Human-AI.png"
         width: 1081
         height: 650
+        isCached: true
+  - title: "Study Finds Both Opportunities and Challenges for the Use of Artificial Intelligence in Border Management"
+    excerpt: "Frontex, the European Border and Coast Guard Agency, commissioned RAND Europe to carry out an Artificial intelligence (AI) research study to provide an overview of the main opportunities, challenges and requirements for the adoption of AI-based capabilities in border management."
+    publishedDateTime: 2021-03-29T09:51:00Z
+    webUrl: "https://www.hstoday.us/industry/study-finds-both-opportunities-and-challenges-for-the-use-of-artificial-intelligence-in-border-management/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 20
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2019/04/cyber-4062449_1280.jpg"
+        width: 1280
+        height: 610
         isCached: true
 
 secured: "+LP/iFu53YDJ5bIIHdAl0E38ZCFbvmsEiTy9Obiv/mKCyWAG3E+scenuxB6YGp3abjgtjaZXdbNi09X0DZrdXtUl0g3iDEIV/9r93Lj0MQB7NzXUL+Sk7pW3aYE0fkczoRyu0sLXINBVVhFMu6hscPRrDCZOIyo7Up1r9uUD8az+zK4rmAwDnVb2Vy7n0Iar6mha6FY5NlH8ZC/zhLXO5AaI9wi+Xu7AadBzGcnCZLDtI+dxhaIrOdk3EkWuaA21hRKgMWNUGHI/M7tcMkNHfRwKA1yBkaP+i9O6qUqHYYp61X6B1681vEh06JTuK/p2WcNqcMJdvGA0n4KmY5rJYz2uyWrTEbRnaDFTKc1mBUI=;suQofTflUzoHxU3uvrKtFQ=="

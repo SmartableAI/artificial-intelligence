@@ -46,14 +46,14 @@ related:
   - title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
     excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
     publishedDateTime: 2021-03-25T13:01:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_c5a629f7-b248-5c09-808b-72956a156bad.html"
+    webUrl: "https://www.joplinglobe.com/region/national_business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_248f1a3f-69be-5714-b053-cfd8c5293b5e.html"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
+      name: Joplin Globe
+      domain: joplinglobe.com
     quality: 0
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/0/97/097a975d-c002-502e-ad7b-7af6381a5d61/605c8d9311483.image.jpg?resize=943%2C630"
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/7c/d7c1349c-db0d-5974-95fb-42f98f8c374f/605c89c1b0efa.image.jpg?resize=943%2C630"
         width: 943
         height: 630
         isCached: true

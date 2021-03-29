@@ -66,6 +66,20 @@ related:
         width: 1081
         height: 650
         isCached: true
+  - title: "Study Finds Both Opportunities and Challenges for the Use of Artificial Intelligence in Border Management"
+    excerpt: "Frontex, the European Border and Coast Guard Agency, commissioned RAND Europe to carry out an Artificial intelligence (AI) research study to provide an overview of the main opportunities, challenges and requirements for the adoption of AI-based capabilities in border management."
+    publishedDateTime: 2021-03-29T09:51:00Z
+    webUrl: "https://www.hstoday.us/industry/study-finds-both-opportunities-and-challenges-for-the-use-of-artificial-intelligence-in-border-management/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 20
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2019/04/cyber-4062449_1280.jpg"
+        width: 1280
+        height: 610
+        isCached: true
 
 secured: "2Acc3vhdaNyqT1BSJyPes91nGyF7cyIGWe8b9SluM1eT0HvekS0zUEMcbxMShrgFszdDOdpUuiE7ls31RoKYeZ0xBMS41CApwxshpScbcoY2etHaa2tXVQzMoTIFk8J/dq4CZW2QPdOrEnDBrGtud3+n9OP08gqzKSPniclNuG7/3egR2J+6uvEcLWo9yadkWL2t8HMpROM8tsy3B+FIr4rv2T4RD3FOBbqSfkzTlggVCZJpWOTiHDmGpCFh6cCcvwFDzwwUWseaOKXEQKcn9C5GLo0RsBsbht3O6eheZO41rICE5SzdB3x7vApoTYTC1hYQHjKPOgiklVCuaWo58FYi2Y0n+ci1p2Z3DCBvN5c=;CAjPW4zy56ag7Yaf2ry2ng=="
 ---

@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Alluxio Advances Analytics and AI with NVIDIA"
-    excerpt: "GPU-based processing drives higher data access throughput than a CPU-based cluster. With the separation of processing clusters for analytics and AI from data storage systems, accelerating data access allows for cost savings on agile business intelligence ..."
-    publishedDateTime: 2021-03-24T17:51:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Alluxio-Advances-Analytics-and-AI-with-NVIDIA-145945.aspx"
+  - title: "Global Healthcare Artificial Intelligence (AI) Partnering Terms and Agreement Directory/Report 2010-2020: Disclosed Headlines, Upfronts, Milestones an"
+    excerpt: "The \"Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2020\" report has been added to ResearchAndMarkets.com's offering. This report contains a comprehensive listing of all artificial intelligence partnering deals announced since 2010 including financial terms where available including over 440 links to online deal records of actual artificial intelligence partnering deals as disclosed by the deal parties."
+    publishedDateTime: 2021-03-26T11:53:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=443400"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "This Mumbai-based Social Analytics Startup Uses AI To Optimise Customer Engagement"
-    excerpt: "Locobuzz enables brands to forge strong relationships with their customers using artificial intelligence, machine learning, big data and analytics."
-    publishedDateTime: 2021-03-26T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/this-mumbai-based-social-analytics-startup-uses-ai-to-optimise-customer-engagement/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 31
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Story-of-Locobuzz.png"
-        width: 1600
-        height: 1280
-        isCached: true
-  - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
-    excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"
-    publishedDateTime: 2021-03-25T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/guardian-and-atidot-partner-to-create-new-insurance-models-and-customer-experiences-using-artificial-intelligence/article_cd0a9935-7170-55a5-b422-8e6111b3f4be.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 3
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/56/256551aa-52cd-54e4-9cea-205d8acc2b6b/605ca61c95499.image.jpg"
-        width: 1000
-        height: 1000
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "Vy2ZLZBSflkOqZTQjrvdpNWp6qwcFxO7F5AeVn4zOth89YNpQh1lBL9ugmFTJsbI5JPD/nRIj8EFRcthYgEYlfAvLG2hxxrszk6q3duaPVuYWLjbu8e10M1RV7Yp7ADG9AJ2NEQ8xCUznsPUG52MV+y/QjzeMYIiNByc29dmMoyH9j0P0OdIstreSDXcOAotPvXdYLGxm3k/aZ11aCZ4rQQyU0Tmbq1uyllu+LvBNcdTZvxd+UJdIFX1x6d9epEIWwBJc4MFH5ImzwGyGgbXuVeBIj7qzJU3D259EpkQRw03hiy6ztuvmFFIbTenoH0evhAcXpOzcosZu9zZO5caDNBWV0xUMEDQkOd/F3yuUe8=;Sl5tgyKX171vniRY1jt1tA=="

@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-29T09:30:00Z
 originalUrl: "https://analyticsindiamag.com/5-ai-tools-for-modern-warfare/"
 webUrl: "https://analyticsindiamag.com/5-ai-tools-for-modern-warfare/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Pink-and-Red-Motivation-and-Inspirational-Blog-Banner.png"
@@ -24,6 +25,6 @@ images:
     height: 900
     isCached: true
 
-secured: "wrJXBbUzPPGSLQAMvv0whiew54A3Zqdzy1gPQbRg1riKnUmQ0vLsJ0GE82PUFcZ9ET+eBczgDhi1NqSufAmdr2gJLZNP2aJcuuGhCVnpRqEcABFOxDG/ddEqRdw9qdaIObpB5xXYJzdyLd9zNjvDF4lRpIKbiopbKuYUVSjTjquZg+woWFx2K0yoDmf48yHc+C/4RYJVCyh6VML3PqKq98f7ew6hhFaFjVz4jdLLhX6zHuJPhocGbZv5fHG6uZEKDXQPdSH76zKLO26ulLLuT8RVnrA8WODABN7AXLbIlKmIX5tolxoDYhtIyGMu5FatghdZxZ3HWi9R9v7dmJN95/PDaNRXXuUO/YHHKTfPU+c=;02afwfYNRctpDtLJdphs0w=="
+secured: "kGdC9BfHOXuxthURUxZyuBykmqecgaUjp30MW0CPRgws7qbtP9956Ok27uuZttvCinZ9OCVk3uRVJMgBx3HKNFHjtz3MsmeD9jOsBaLSjDFOfYGy1OS1/YYJ5nIcsurG+44F5er+Wjwtxou/7H9a3I6SPUY6aQuwvpI/+vv5hJN8PGhi7jejFnWb/12rqP5wFcQCWxJ5LnqVC5Beeok0MUvPa9kvZqkPMinUSzZ0K0N7s+JahM9fnEi0bpXQ9ZC4dVr/sCn8XHRbU7kd0i3k3tfUQ5UrdcGurxX5AYQ4X9ruMU0xpoSz+kSyMfhGSeMv5qfisRGn9jE2q2PVfkOsLkaNi+gumVh3KpBELrRW6qKpR0a17emi2IkT5rGN7ECgPFqeR6Oe8YXNlSdMU88xMhcOAj1U08YthtXBk6H6JEHRg0iL0Q3HAFTQ9ft8L/oOERLc3VVBHkI3GeuqxXXTd5jePob0SuaFnC/RTCYAa0IFE6AJvniVhZ0yUgiJTIzG0ctYFsj3uWoVgVaurjtCcA==;ihCugOuKJvc/piXQwslISg=="
 ---
 
