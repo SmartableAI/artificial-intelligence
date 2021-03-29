@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "WIMI's AR+AI vision Empowers the Fast Stage of 5G Core Network Market"
+    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report \"WIMI's AR+AI vision"
+    publishedDateTime: 2021-03-29T16:01:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20386035/wimis-ar-ai-vision-empowers-the-fast-stage-of-5g-core-network-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20386035"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20386035"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
   - title: "Lidar + AI vision - WIMI Hologram Cloud, Apple and Sony's Ambition in Unmanned Driving Solutions"
     excerpt: "MobiusTrend, the fintech market research organization, recently released a research report \"Lidar + AI vision - WIMI"
     publishedDateTime: 2021-03-25T16:01:00Z

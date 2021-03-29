@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Machine Learning Catches Multiple Sclerosis-Related Gait Issues"
+    excerpt: "A machine learning tool uses gait data to help clinicians monitor the progression of walking problems related to multiple sclerosis."
+    publishedDateTime: 2021-03-29T16:27:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-catches-multiple-sclerosis-related-gait-issues"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-912319336.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "2HrseR8F/ApE/xR9gPBCqOlSvw1Jc4tTK5Wrmj90K4u2ovxl72pNlA64GY/qU5mNirY2iOXysEkUxsF1WbuNujeieHI3yjURp5QyfRbvVdufQAhPHTVVH29NVktCXlwtNh+cq6zIDqK0DQCqFu6iLrOVWBx+nCNzzZdMH5EbYrD+C8DDM5+ZPW/DtZo1PbYxQwDZqiJ95hwNVty2dnaProh8CvqEyyf5ZhwF8xahGgftpVkdPj162BIK6vAXEYIvkQJed1Jm5byl8JEBd4yJaGk29h8pjfeqXN4+F9xGE8QVqDNfeUuz4sZN1LlgRUQnx6+eRTlVwtZO1v6tWCEwPZuhk6f1R4tons8ruMV+ItU=;xoxLiv8BKUNib/hjLLSzFQ=="
 ---

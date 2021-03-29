@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/navigating-the-hype-around-art
 webUrl: "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing Named a Foundational AI Technology, According to the 2021 AI in ..."
+    excerpt: "To learn more about Spark NLP for Healthcare, or to start your free trial, visit: https://www.johnsnowlabs.com/spark-nlp-health/. About John Snow Labs John Snow Labs, the AI and NLP for healthcare company, provides state-of-the-art software, models ..."
+    publishedDateTime: 2021-03-29T16:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-health-care-industry-pharmaceutical-manufacturing-e2be31ddac1608a9bf702370f9e201fd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 42
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "UK is planning to develop its National AI Strategy by following the Council"
     excerpt: "The UK’s National AI Strategy capitalizes on the power of AI to boost the economy. They recently announced the commitment towards transforming the strategy by including the advice from the AI Council."
     publishedDateTime: 2021-03-26T17:34:00Z

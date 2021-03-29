@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Natural Language Processing Named a Foundational AI Technology, According to the 2021 AI in ..."
+    excerpt: "To learn more about Spark NLP for Healthcare, or to start your free trial, visit: https://www.johnsnowlabs.com/spark-nlp-health/. About John Snow Labs John Snow Labs, the AI and NLP for healthcare company, provides state-of-the-art software, models ..."
+    publishedDateTime: 2021-03-29T16:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-health-care-industry-pharmaceutical-manufacturing-e2be31ddac1608a9bf702370f9e201fd"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 42
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ouB0ZaIbSE0DGW/MeDFHwwUWPkOMXCEJmf5gSonfe+kMOFGOBPCRQJONL1MxUqjv9T3Are1bf2T6T3Jb5D19Iz+MQQufLYjldkmPPPDJmOPUqbne4lDwixjAGcLxs/cProeODkZB2/KkksbBfEzLYBu9KlXuXhtabOMqd64t3/0bv7+cbJRK5t3PbNcCYCqpVcYOqrQQgDqvvQ9yS7YrDhosY1GbeK5a8PazP4Bbv+Q4sxGXey/RUAzvF+YvUwXQs+9Js8sK0T9UmlSTSTWHqR1/resgdr2XHxoZdcDc455ejtmNQyj/XIysrTh3VFYROhVjCBKYo8EYf7M0ntvKKPpFjg4dhHWy324U9q2yxmdLbtkAUQMWpGhBwLqh4JSshsN74oZqMeAqpOaSjFdFu56D1QDB+MYRC4fELpNLdmalNH6FObD70PIzNKZrSyHDwKRwbCvn0b0Q0BIyVfe0n/9kGqzGKgmHcbhNYTyBbV9LHAQ5sPuI8UWjpl4CvN8m+FTCdiisCvWS5SCdPSXCqA==;Z2STPCvXtt5BAM/oXWEGWg=="
 ---

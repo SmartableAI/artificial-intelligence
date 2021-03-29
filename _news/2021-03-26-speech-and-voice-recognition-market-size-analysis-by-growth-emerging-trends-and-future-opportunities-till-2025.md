@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Enterprise Artificial Intelligence (AI) Market Revenue, Demand, Share, Size | Global Industry Analysis and Research Report 2021"
+    excerpt: "The global enterprise artificial intelligence (AI) market is forecast to reach USD 29.09 Billion by 2026, according to a new report by Reports and Data. With the advancements in technology, enterprises are taking advantage of intelligent automation,"
+    publishedDateTime: 2021-03-29T13:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-revenue-demand-share-size-global-industry-analysis-and-research-report-2021-2021-03-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Service Robotics Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "Asia-Pacific is anticipated to display the highest CAGR owing to increasing government investments in robotics and artificial intelligence, rising focus on R & D. Besides these, the growing demand ..."
     publishedDateTime: 2021-03-29T07:41:00Z

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
-excerpt: "Schlumberger and Microsoft announced an expanded strategic partnership to accelerate new technologies for the energy industry. The first"
-publishedDateTime: 2021-03-29T15:26:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-1030254699"
-webUrl: "https://markets.businessinsider.com/news/stocks/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-1030254699"
+excerpt: "Schlumberger and Microsoft announced an expanded strategic partnership to accelerate new technologies for the energy industry. The first offering, the Schlumberger Enterprise Data Management Solution for the OSDU Data Platform—a new industry standard for energy data—is available today."
+publishedDateTime: 2021-03-29T16:09:00Z
+originalUrl: "https://www.euro-petrole.com/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-n-i-22019"
+webUrl: "https://www.euro-petrole.com/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-n-i-22019"
 type: article
-quality: 26
-heat: 26
+quality: 16
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: euro-petrole.com
+  domain: euro-petrole.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://www.euro-petrole.com/partenaires/DIFOPE-absorbants-barrages-antipollution.jpg"
+    width: 280
+    height: 280
+    isCached: true
 
 related:
   - title: "Schlumberger and Microsoft expand partnership to bring open, enterprise-scale data management to energy industry"
@@ -38,6 +40,6 @@ related:
         height: 360
         isCached: true
 
-secured: "4bNmAwR3dohGv6tXTZjVbE+v4xyjJV8rwtWDMctVACTYCQMtDtb9owwyBHEp3KH8L/qgFzz2NyKsk7QbIa8GAq+/YjOL32t3OA1vlaA/IJb1nOaz1dhuvFY3E07MDiwqF7tbSDsVyTZQfdGdn5Palc9Om2UtAipaKo+fTCUolcYl3ez/rVjUZEr5dIhIcUBMYhTNof7RW2Qt1UCwfvqJRYcLyNONpwoH1WNqImTwATjtHIG/Ph//N1lUHcaEIBG4baKmlHmjm+a4cqjUagG9scmdKaegiV4VTO5tqq8h5fkPTyno7JDTI9cMwmtKQD9KwYUNJlynTid6ixumT6RV7rgw8Wx6SF+8eNoRUKd3c10=;g/fHOABXT/vgJrbvTHf7tQ=="
+secured: "cT1+rzIIPyeuU0el/11NDTmY/t6djrFKMYvXjdmu///W+CCxMrvD5pFBHtOft2varnMElRqMfLl676hveBtkxblkjIUK5Qt5Xre3zZ/+KtjTrkbwLNhMfaomQzAXZSaViYj8tFJuaegd/KKAe4p3F/NAnkUB1JJad2ZmtnW5kUQWiLLQAsY5tZ9rjCowFBTjJWGdqYJQLL+UMfs6Ks8FOvdPwhgKLgtjdlicyh03YO4fArcOssxlSIWOmnDkSOD6+6Q+xQJWw5DulxBT0aptZZFRGNtHV2omJq83x0KyVrsPUegnatqHyDxx3XpcawpUktJJFUymfwNO7418vmnz8IWxGkzzbDybcfH2H1GRZ6Q=;Ra0SmaAeFQKB9s5X0ETj2g=="
 ---
 
