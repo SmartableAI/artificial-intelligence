@@ -2,7 +2,7 @@
 name: "Hippo Insurance"
 overview: "Hippo is a new kind of insurance company that uses modern technology to provide a simpler process, smarter coverage, and a completely new approach to how we care for our homes."
 type: "profile"
-heat: 71
+heat: 89
 
 website: https://myhippo.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "hippo_insurance"
   url: "https://twitter.com/hippo_insurance"
-  followers: 2274
+  followers: 2275
 
 size: 51-200 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Hippo Insurance"
 
-secured: "WdnWlbY9xp2sw5m55iEwuY4erInQTb4RgQWSuUDnGX3GeLNS/9k575VMe9DiS3fwMhw8FagjwgvmUBGxC9JjzTevaI3KskG7MK8EDAUk/RGXjkmPg1qO3My4R/g1d1Wf9rndG64LnftES5sglkcns6tooowVzH57ICvDck/FXta+0WUn6ypDVH/4Xk+hTAoQ771K5N/M+BwDgmgouepad59f73ov/33yjdJWgIfI/CR6q2kO3gAH3bHv+M6YVGKcO7+Jqet5IXEDOHh/MCH2KI1X4DTFgveAkUV6BoidXuLzcXZ7mEPo/G4yl6dfJVqH2ct8v2stys66OWtJ7L3oxaFfAHe5aN2H0hA94uw7UTkCBcVv1YTtUo/RnldKVAiMJfqnGeBZTX28CXRHaV1sPSKHmP+Pu5C/o9MdSymHYHk=;GLQKJF3bl94AuBdXrg+wAQ=="
+secured: "u31hCt+T8tVBRHAYWJq7yuwN2BmAnF+Xb+bJOdCWOTYYBYDABQLx0nc3oE9KIImv6mxiBFN8Sk/5H6SL+xqnxH1PAIFiW7ZUNCu+p7JkCdAOpXrB/vSUatw7y7PczYpu5hvo3/EjLOqcvWeKrx3SlbqH5bQHgcNuih8k3W8VX1L4R7f5j3jFFpvD/8ffgs1xlXXifnD7XK6H2kOc3z0lkC6Ip3AnCmpjAmb8qWd0Rk2zJxgYbSS/s6JBbvkJH8kctcr+BzBvrh/xGbmMYc3gDuh8IRt/aG57gCX2COC4lc/wET98SJJoaycxssaP8j3xVclm5Y8JwN9/vWNThCycj5WeW/ngvR2PlJO7MdJPBy1qwulLthBZ6IoDQrHxuLuu8QiQgNQy6X1SGcIIC+mMx660x9/kEoVm1iyBDHBsu6k=;Ys3rw72khrwkoexKmUafgA=="
 ---
 

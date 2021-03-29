@@ -2,7 +2,7 @@
 name: "Observe.AI"
 overview: "Augmenting medical research with AI. Read our latest #research with @CLCCLeonBerard in @NatureMedicine https://t.co/VT0JF0jmVo"
 type: "profile"
-heat: 64
+heat: 50
 
 website: https://observe.ai/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "observeai"
   url: "https://twitter.com/observeai"
-  followers: 625
+  followers: 624
 
 locations:
   - New York, NY
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=sQwbipcFPYg"
 
-secured: "INo+NCAN90egtzVg3E6kRu6Liyl/5qlTCTSn7HitiDa2MrIouqr9qtcFR5ToW5ELQJTtF2cZhfN+nyrIRQFTY1IQH3E7umKl0zt0zdS7yiohQpZsyQ1wawSpnu6p/GFVOjL87t1BTV6kWJ51YEMC+njfVu11/2DVd9xe4uVXbXY0gaHv4cQOVx+EXU/c+IwMtFKosSe/48g0ZEZysPBn8njdbnYdYNZFLxWmBurmunUKllW5rAMfftEPfaJt8v9S1JjVS8h4etDcPUY2m0SK03jQexIcZKKvTbYg2Yv3HDvo9hZihyIA7uaK58zzYt6oa5uaVSIobqK0+y4md7xt4UMRJqG157pJzSeIkMXxpJFbaIFxxsPIi00Ew7YRavqr6+uefLkNY+QdMs+Hwc2nWQ==;pEQV6H/u+SL7yztpLSkuvg=="
+secured: "dZBWpc2aYetEXeNFjC6EZcPC8T/lK2n7w96LGlCs+VDZvi/qeESmMrAR13LjaQ0pv0kdn4WoncTa3WLIQqDIRG8S4lSHcYgPFI8THJLn4F6fJ+GbJKmNc1KH8inwjCox8/+Hv57Z+PyGycO4zPR84dtutFZMtO8ueoGloQ939qhl7XwbAsIu90CvlG3l4j+am2Z9wvPi0MlszsJZ6A5z+XqGaKxR/Pnl/idLgsVb8cIaGRpc4LleZmKSuW1Z9Yrgdat7Y3KOknWZd9B0IIN/qjYF40t4oUf1P/JOwUC+0a/qM6PJG5wVJXbh68Q0qDYXIEqwIjvF683jwcZ2BsSA+Z/8vlufNPWpqeEk0iILNxtBSvbD1vcVC49JaSpG4Px+B8Q74wWMAc7Y2A0JzAtREw==;9RvgDmwlajcD7Dh6U6RJxg=="
 ---
 
