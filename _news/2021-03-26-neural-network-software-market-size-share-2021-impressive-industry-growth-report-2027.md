@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Automotive Artificial Intelligence Market 2020 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2025"
+    excerpt: "Mar 28, 2021 (CDN Newswire via Comtex) -- The recently uploaded report titled Global Automotive Artificial Intelligence Market Growth (Status and Outlook) 2020-2025 delivers detailed information on the industry including classifications, applications ..."
+    publishedDateTime: 2021-03-28T19:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2025-2021-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sGgaJthtSsBAR35Oechojq+gX3UYdlAcPMb3hn/tlTQwxtgl0k1ZWCcjhovhCJn3Tjg4V5ys65q026iorufT0SaFhcOQ0AbZ1H1o67wxJ+rviLmf8V9Nlmw9+9HEkcDUhacMKMO/cXlh5WvX9coV+ndLUfWYQj8Dcu1JckFEHrxS187gxPGguoSt8AZanO+NCh7wpBJRIx2df0kgzFY9h+EAVcqhjgG55pnKldu+BRYWbtsZP9R8E1PYCVeu8bcv1nS4188clYgIN69vglmvVD02ZDnkh8j53b9ymHzdCf7ITjeVu1amtIVYhJuspFhY7O1oV7sAA7dXh8JupN4NOaGLi4SbcDO0w2bEUO0hfVQ=;AfISdeSHJIMlYsdnlc5v7Q=="
 ---

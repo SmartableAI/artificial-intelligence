@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
-excerpt: "Schlumberger and Microsoft announced an expanded strategic partnership to accelerate new technologies for the energy industry. The first offering, the Schlumberger Enterprise Data Management Solution for the OSDU Data Platform?"
-publishedDateTime: 2021-03-29T13:22:00Z
-originalUrl: "https://www.lelezard.com/en/news-19721635.html"
-webUrl: "https://www.lelezard.com/en/news-19721635.html"
+excerpt: "Schlumberger and Microsoft announced an expanded strategic partnership to accelerate new technologies for the energy industry. The first"
+publishedDateTime: 2021-03-29T15:26:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-1030254699"
+webUrl: "https://markets.businessinsider.com/news/stocks/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-1030254699"
 type: article
-quality: 16
-heat: -1
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Schlumberger and Microsoft expand partnership to bring open, enterprise-scale data management to energy industry"
@@ -40,6 +38,6 @@ related:
         height: 360
         isCached: true
 
-secured: "Hlsk5Xov/az5FGeBGeoRS1IC2Eg6oENlNEG5fvnL4jSxscfQ6LMo7mF0br2rP6yv/0dTgEpGmIYs9xa9E5BkosyRbcl2M7e5Tngt/mytDTVZoJRRgx4uo2EZNTYXgQQRUrq7+6DxVBZ4a/uKtwzyFdBhJPxAoRHn18okhJJPf6Y85Cn5bi1H7zqhI+eHkCzFUP1H/n+PaFna+uiGSZhuq5NDKLwDdiizPF6f/anw17zOikM905pPRCMRQEH8++mNfZmBpC8V5TM0gLB0EYYCRSepiXoctcs2GMgSn6pomdXU1kChL++L58UyYdrJWodME8VuEXCQpSw3KAhFeKJBG3s4r+YYhB1T7Bz+zksM3so=;bYbEhrrS+ndmGZW8jNaYfw=="
+secured: "4bNmAwR3dohGv6tXTZjVbE+v4xyjJV8rwtWDMctVACTYCQMtDtb9owwyBHEp3KH8L/qgFzz2NyKsk7QbIa8GAq+/YjOL32t3OA1vlaA/IJb1nOaz1dhuvFY3E07MDiwqF7tbSDsVyTZQfdGdn5Palc9Om2UtAipaKo+fTCUolcYl3ez/rVjUZEr5dIhIcUBMYhTNof7RW2Qt1UCwfvqJRYcLyNONpwoH1WNqImTwATjtHIG/Ph//N1lUHcaEIBG4baKmlHmjm+a4cqjUagG9scmdKaegiV4VTO5tqq8h5fkPTyno7JDTI9cMwmtKQD9KwYUNJlynTid6ixumT6RV7rgw8Wx6SF+8eNoRUKd3c10=;g/fHOABXT/vgJrbvTHf7tQ=="
 ---
 

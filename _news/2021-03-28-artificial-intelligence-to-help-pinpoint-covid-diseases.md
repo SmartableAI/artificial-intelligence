@@ -49,6 +49,20 @@ related:
         width: 685
         height: 256
         isCached: true
+  - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 3:24 PM Artificial Intelligence Market top players include Alphabet (Google Inc.),"
+    publishedDateTime: 2021-03-29T09:27:00Z
+    webUrl: "https://menafn.com/1101823891/Artificial-Intelligence-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?261052"
+        width: 437
+        height: 250
+        isCached: true
 
 secured: "Vd8epCol/dUJCFgBg0Z5LPxa1f8rSn2xoSj6scwbt3JmhlyzPK86GTL076NuZAaDBiaufFoaJA4M4L32L5P6jrwmjnPIW5OaoPE9wk/213+OJEacITBxQuMkTumo11glJbdhMBdeA3+njCaQHqw5eBNLxB6uu3K05fBCseAsELXYvXuXoU1NI8geE0PKxCkI2vP8uz6Gb14Eokm3q7NReZzf++xk30IXDJdMsY1BY/deti6BwybVI3eGL+JZOryRCQ0n+6RUYJHEXMoGbHHg6Mp0yseHOSlqzxkLQ2PIgIwFi2MVXrfyUQvwwurjwx6NeUlB9zDmtObLoDbEiS0e9ZuH+OHn9Y9kYf+C2GH7Lfc=;/tbFEYfnrschwXDQp0xUHg=="
 ---

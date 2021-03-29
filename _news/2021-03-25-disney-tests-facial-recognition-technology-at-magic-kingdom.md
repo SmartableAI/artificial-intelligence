@@ -89,6 +89,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Disney pilots face recognition for entry to Magic Kingdom theme park"
+    excerpt: "Visitors to Walt Disney World Resort, Florida, USA, are testing a contactless biometric system enabling them to use face recognition to enter"
+    publishedDateTime: 2021-03-29T15:01:00Z
+    webUrl: "https://www.nfcw.com/2021/03/29/371425/disney-pilots-face-recognition-for-entry-to-magic-kingdom-theme-park/"
+    type: article
+    provider:
+      name: nfcw
+      domain: nfcw.com
+    quality: 39
+    images:
+      - url: "https://www.nfcw.com/wp-content/uploads/2021/03/walt-disney-world-resort-florida.jpg"
+        width: 1176
+        height: 760
+        isCached: true
 
 secured: "nfzoNEr/aLI3N+boMKH3v8xS+wfmi40SKXQNiROGbraM99/U7R45P2bb7dOC1HNTcHmSENTC0tKBkMorkJDirgexLAqEsfkXvogVwxT1jlAvDdd6YWUtZ03LxGK7fgaE8MP1A9g0jR2hM8DdhOfq9D/r+vrRX20woAme0W3ELrK6V9Ax3zektMQjstwVV+sidmPccice2NlMO1VPI6g1ax3CCln0dE+UFH1JnRTGo/jnzDfYyUNVxXtq9VQhENCdXy2nyU8D1juHblvCd7A2s43PI0KU91X7q4SkQVtTJ3sC3dcYWDCMtg9aEIiE5Ny6wRfxkEz/+B6K0TMsyHSy601BZfkcDGmpwcxZzzr6wctj6NABh73WoWgRyro27Px7bRtpBfEXYIMxbo0bE+Db46BycxYSvXs4CFwWCvZEr0/yF/3fSbCkewHgT9lY6QgnAKJ0uFeEDMKuvUFJpKA6db32GIXqqH3lFSEur3F/w5payVxXlbYTypXL+0fRyiqz/xDS/ncD45kBfXhAoQcDWQ==;JOg13+fqTADBWzBgWfC1yA=="
 ---

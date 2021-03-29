@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-v
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Didi Is Raising Money for Self-Driving Unit at $6 Billion Value"
+    excerpt: "Ride-hailing giant Didi Chuxing is raising new funds for its self-driving unit as China’s answer to ... production of driverless vehicles and invest in technologies like artificial intelligence chips, people said. Plans for the latest fundraising could ..."
+    publishedDateTime: 2021-03-29T10:05:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if8sWN57UZdA/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "All-Electric Self-Driving Farm Tractors Are Coming"
     excerpt: "Startup Monarch Tractor has developed self-driving robot tractors using the same technology as Tesla's electric cars to make agriculture safer and more sustainable"
     publishedDateTime: 2021-03-25T11:17:00Z

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Baidu’s AI chip unit Kunlun completes new funding, at $2 bln valuation- source"
-excerpt: "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about $2 billion."
-publishedDateTime: 2021-03-15T03:42:00Z
-originalUrl: "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY"
-webUrl: "https://www.reuters.com/article/china-baidu-idUSL4N2LD1CY"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2LD1CY"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2LD1CY"
+excerpt: "Chinese search giant Baidu Inc said on Monday that its artificial intelligence chip unit Kunlun recently completed a round of fundraising, which according to one source with direct knowledge of ..."
+publishedDateTime: 2021-03-15T05:15:00Z
+originalUrl: "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0"
+webUrl: "https://www.nasdaq.com/articles/baidus-ai-chip-unit-kunlun-completes-new-funding-at-%242-bln-valuation-source-2021-03-15-0"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "J+Y7G3FYsWCkEEdqAslMrduwmi51MVgsowNLyCtj9KUqCr5raqkG2NP3H2LSxxrht6hhYgcLJY6lno9B9UEpUXOruy2AGzQTMXgzjk1ouE/w9bM+IgeZT31w5sr8Fky9oShn6S7RAClWI4gV4vb+r8+ksp6WBk9HByKppGpY/5PN/P8LsDcm8omlL8H9hyQ2MB8Ux9R1r3eArvzr3h+BuymqY6S1bdnQmQ56yVm9mCDhDZzA/RcUpbMqa1rrrmJxw/fg8hYdAgqBuwSdR7nsvHgtSMz/0SpRm2/7Bjn5YW7TtYr/5JID/ZqS9VzEbI50S38WrA8rDAy8HPboOOr48J7HWMQIL75vbVqp5DzwZdk=;RFyentDXs6T2QeRZ0uo7IQ=="
+secured: "OBSEB97nXO2JzMqCSEjm1kRNfHwraMbnqNHuEI8bS4LNNOODuhtJhBweYXNbX+scXdebLTHzZGa4QJdE9Ai7PXHjrvwA8Q8IikxRC8KpxyJ7AayNpdVlc6TVgOpLDljfrOSJ9N6g0gzuAkIFcqw8JMM0K6mywAg+swxBBC13FSnt45h4/50ffberugWIIKLTOuhn+N8hUMYg6b99dNgB/8RK1X9+9099KrhEDzFK6iYROm1z9YoQM2oACgdZ6JzO2ZWbVbMwmG1/PaC+50viZKTypdnOr+Y6DTjrMBG3zk0NBch+0wrxVtVa00km+FOFdh0X0Gb0cZZDv4UardrehZ4uo3eI3cRRSTUNPJSUYZQ=;/edcy+wxvEcOfbtO1XuDcQ=="
 ---
 

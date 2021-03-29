@@ -3,25 +3,25 @@ category: news
 title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
 excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
 publishedDateTime: 2021-03-25T13:01:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_248f1a3f-69be-5714-b053-cfd8c5293b5e.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_248f1a3f-69be-5714-b053-cfd8c5293b5e.html"
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/7c/d7c1349c-db0d-5974-95fb-42f98f8c374f/605c89c1b0efa.image.jpg?resize=943%2C630"
-    width: 943
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -57,7 +57,23 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Chipotle invests in self-driving startup Nuro as it prepares for delivery’s future"
+    excerpt: "Chipotle revealed that it has invested in self-driving vehicle startup Nuro as it looks at new ways consumers will engage with the brand. (Photo: Chipotle & Nuro) Restaurant chain Chipotle Mexican Grill (NYSE: CMG) announced it participated in a funding ..."
+    publishedDateTime: 2021-03-29T15:03:00Z
+    webUrl: "https://www.freightwaves.com/news/chipotle-invests-in-self-driving-startup-nuro-as-it-prepares-for-deliverys-future"
+    ampWebUrl: "https://www.freightwaves.com/news/chipotle-invests-in-self-driving-startup-nuro-as-it-prepares-for-deliverys-future/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/chipotle-invests-in-self-driving-startup-nuro-as-it-prepares-for-deliverys-future/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 38
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/03/Chipotle_invests_in_1-768x432.jpg"
+        width: 768
+        height: 432
+        isCached: true
 
-secured: "cP1Dfwy4LG6txQxKe5/l0qLO2c2yiinlsnOyZpe1h4eeuWmtHWawyXtvWouofMJR1ukY/W4wGVgeKn5HlX2J/KkIo3kRhri/Bnb5yuMIX1nTO/wZUyd/Byj6U1WVu61tFHc+f8O591ldKwdYmWQl7EGVxTxvNLjL3eRu/gAb2V9bef8LLCf8HGK/T/fTcO9DL0DS6CoVskVgjai+7d5NPEnvW0+G6rYA8Q36bGgbUT2pta8a/xyG3tR9OBxPodtSmOOB9EU/4NywaBiVwP/r5W3vJyuCsh0aJEI5riVNP8nME6t+ipeqflEg80JMMXJqKv/B87RSNd+vJP606uxxHykBA14q7Uy2TdvacAd8QF5o4z4AwBNbhvKOXLloqkgmNPQxpwAf3fY1BX823we92u22aRWBjtIK7VG9p0eIuW/uKds/GuWXYKMeB8XPb1gJC7dqucLRgTpS7gWFSVTtDJLp/yq802lU4ZPH+geQzIQ/CZ8/EoVLAPfXXyVkRQIfub1byCiCFPmoBnrMjO10Pg==;2fHDm0lyxtUPGPuzkDyBKg=="
+secured: "HjNPkNCzkItkqv5Nomvh+7omHbIrVtkkH67Pr2z7FmCUTyH2OKtBXJmv0c46aOeFhDMT1ce4yOdb+uy4F/ZTr5khExUPGaG0MDkoz7DU7czgP+TtilvAd9wSKiu7EVW2DFt33Mdba05Zc6t8lEbKEUMy6we462L17Lm3HAnwpVR3al5Ewlgl0hDYCE5ycEph9fqPl0B7Zmf/FtngR5g/5W6IotzmZypX/tBUfrVF/wUgYrdsfddVPnpDGGr2dNG9jfcb8dAa8Rs335fvykt8KbvvIDQbuAD765Yl6cF6wud25iMHKuJHXLkAJYuhgubfrs0PJuazbTIXDZ+59sDHZdNllP/YxW4Rjxa/wP3Zx1w=;wdDvbYyflbwoOo/CqvCENw=="
 ---
 

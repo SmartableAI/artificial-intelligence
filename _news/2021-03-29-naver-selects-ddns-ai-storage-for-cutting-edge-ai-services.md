@@ -47,6 +47,20 @@ related:
         width: 366
         height: 314
         isCached: true
+  - title: "Ambow Education Announces Participation in China’s Artificial Intelligence Talent Demand Forecasting Report"
+    excerpt: "Ambow Education Holding Ltd. (“Ambow” or “the Company”) (NYSE American: AMBO), China’s leading provider of educational and career enhancement services, today announced that it has participated in the drafting of the Artificial Intelligence (“AI”) Talent Demand Forecasting Report (“Report”)."
+    publishedDateTime: 2021-03-29T12:41:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-greater-china-corporate-news-north-america-424f413866f7531f143d2cba6b67cf6c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "wCRANCMX1iGeFSo8uh4RTYoUdcukeFifxZxJqy0DwuKqCkJQpsYfgP+410WvnnYhAh3ZekFNb3CjyuJBc4gigLzYz0IDhXL+L51fiu3ceaYKppuGxj+G64rvezWS4pYL2eZEWkDEhMjXPrxiWCHKPzEM7A4OZ2itmwJBIK0DUC496CwKpZvI4OGeS0s484U5M1QfsUKwEilKYIvWWYc225JVBbu9HgkGOMokcj9xJe7BehDJo9dpa1iZwnDX1ThMCwWliB598JlTR6+VbKp2t7zEg9mgahIhZMN1ZH7VH6UGrd4//bS3EzZNUpidRshVmP2Xv6RkcQsQbWt6Cfvs+fCildrkJ1exmpDAHiUAM0I=;5kv4Fst8hjvw+PQPUqf2fQ=="
 ---

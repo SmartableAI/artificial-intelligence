@@ -1,29 +1,27 @@
 ---
 category: news
-title: "How The Perfect Financial Advisor Match Is Made: Zoe Financial’s Algorithm"
-excerpt: "Zoe Financial, a digital marketplace that empowers consumers to find the best and most trustworthy financial advisors, pulled back the curtain to reveal how they match consumers with the best financial advisor for them."
-publishedDateTime: 2021-03-29T12:26:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-new-york-financial-services-technology-corporate-news-7c18692b2ba7227880a2775b03e8168a"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-new-york-financial-services-technology-corporate-news-7c18692b2ba7227880a2775b03e8168a"
+title: "How The Perfect Financial Advisor Match Is Made: Zoe Financial's Algorithm"
+excerpt: "Registration on or use of this site constitutes acceptance of our Terms of Service ... Zoe's Machine Learning-Driven Tool Dillon Ferguson, CFP®, Head of Product at Zoe Financial said, \"Machine ..."
+publishedDateTime: 2021-03-29T15:39:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/how-the-perfect-financial-advisor-match-is-made-zoe-financial-s-algorithm-1030255377"
+webUrl: "https://markets.businessinsider.com/news/stocks/how-the-perfect-financial-advisor-match-is-made-zoe-financial-s-algorithm-1030255377"
 type: article
-quality: 22
-heat: 22
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "pdirAPBx4HNUMKF182Ecs075sCNiizSwNLjRjRUzWQMX+Es0wushhF2rbs3oEDVN8ZkBvP0dNNW/cgAU8eAPn+RhZ1MgHFpjkKQWKYpFkSGqWeIkzfwrfJex/Kbg58rO21Zd0kmFN0OR98oWyoKcZyQraUjsR6o6kRnh+r2EWdKZl8t2vQksGLDhr45chWP53GGwbAi2SsIJizCTN+as5GjcgmaMUTKJGjPuHL3Z+9RQqKAn9pF0zYz3EPBi5X58+VT1wnQlwkZJYgp8kRVicAI2TiFwAiWhKMDlFZBuKexiK+KtB5j8JZVLlklboog0BPrRujtba1sJIoOLTfAbk2+Pgj3OZbN7HvZA9sNDzw4=;zEU/hQNv6n58Wkhx5NCreQ=="
+secured: "kNswO1Xy5bFti3UDxRsZF+eiGP/+etyCwL+XerEghtK8SYl85Blq2nWCdWXZB44z/DZEFJ2IvlGB7Id1CnpEkkP6QBWFI8SxHI4FR8jMzHccgyCvEWQ/BsP3kgXG3S+k42zpVXZ5C/he5ICGSOnAJ18s87LPuXSDr2GdKbMye0JzP7sLTz5TY91caZlBRETjgKB/7jApoEgWNei9Yna+F33BiGaizC8zBTXN8/BChaIjZ6XYvsnSKkOLWDw43SpvZEIGSqMJCvIpANTOmeaksFqaug0xflDKgtTD2+h+n421mtpVxBYF7mV715CeKy5oLDtamksYzuIGRs0gMtmf51N49b8muyLCdZKcIuUJDic=;9IHuz6VFFW0ZiKfiiteECQ=="
 ---
 

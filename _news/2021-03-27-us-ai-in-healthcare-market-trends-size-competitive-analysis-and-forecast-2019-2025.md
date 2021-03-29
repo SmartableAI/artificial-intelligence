@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2262820/us-ai-in-healthcare-market-trends
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262820/us-ai-in-healthcare-market-trends-size-competitive-analysis"
 type: article
 quality: 67
-heat: 197
-published: true
+heat: -1
+published: false
 
 provider:
   name: openpr.com
@@ -27,51 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "North American AI in Healthcare Market Trends 2019 | Segmentation, Outlook, Industry Report to 2025"
-    excerpt: "The North American AI in healthcare market is estimated to grow significantly at a CAGR of 50.4% during the forecast period. The North American market for AI in healthcare is analyzed based on countries such as the US and Canada. The factors that are ..."
-    publishedDateTime: 2021-03-27T09:05:00Z
-    webUrl: "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019"
-    ampWebUrl: "https://www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019"
+  - title: "Data, analytics, machine learning, and AI in healthcare in 2021"
+    excerpt: "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially."
+    publishedDateTime: 2021-03-29T15:00:00Z
+    webUrl: "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 60
+      name: ZDNet
+      domain: zdnet.com
+    quality: 121
     images:
-      - url: "https://cdn.openpr.com/U/3/U327247103_g.jpg"
-        width: 800
-        height: 904
-        isCached: true
-  - title: "How Enterprises are Optimizing the Success of Cognitive AI in Healthcare?"
-    excerpt: "AI is now known for its ability to speed up processes, streamline procedures and, of course, crunch large amounts of data faster than a person could ever have done. But when it comes to structures that can think about themselves?"
-    publishedDateTime: 2021-03-25T11:53:00Z
-    webUrl: "https://www.cioapplications.com/news/how-enterprises-are-optimizing-the-success-of-cognitive-ai-in-healthcare-nid-7424.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 53
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/n57d4450308tyrty.jpg"
-        width: 450
-        height: 308
-        isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Analysis, Segmentation, Key Players, Opportunities And Forecast 2021-2028"
-    excerpt: "It Intelligence Markets one of the world s leading market research firms has rolled out a new report on Natural Language Processing NLP in Healthcare and Life Sciences market The report is integrated with crucial insights on the market which"
-    publishedDateTime: 2021-03-27T13:10:00Z
-    webUrl: "https://www.openpr.com/news/2262865/natural-language-processing-nlp-in-healthcare-and-life"
-    ampWebUrl: "https://www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
-    images:
-      - url: "https://cdn.openpr.com/U/3/U327650672_g.jpg"
-        width: 450
-        height: 300
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg"
+        width: 750
+        height: 579
         isCached: true
   - title: "Qualitative Analysis: In-depth Analysis of the Artificial Intelligence in Agriculture Market"
     excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed 6000 million by 2027 growing at a CAGR of 25 50 from 2020 to 2027 The report includes"
@@ -89,130 +59,70 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "Service Robotics Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Asia-Pacific is anticipated to display the highest CAGR owing to increasing government investments in robotics and artificial intelligence, rising focus on R & D. Besides these, the growing demand ..."
-    publishedDateTime: 2021-03-29T07:41:00Z
-    webUrl: "https://menafn.com/1101823848/Service-Robotics-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+  - title: "BNP Paribas to provide investors with sustainability analytics from Clarity AI"
+    excerpt: "BNP Paribas Securities Services and its platform Manaos announce a partnership with Clarity AI, a leading sustainability data science and technology company. Starting today, Manaos users have access to Clarity AI’s vast universe of sustainability data and insights."
+    publishedDateTime: 2021-03-29T09:58:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86826/bnp-paribas-to-provide-investors-with-sustainability-analytics-from-clarity-ai"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "European AI in Image Recognition Market Size, Share, Analysis, Industry Report and Forecast 2019-2025"
-    excerpt: "The European AI in image recognition market is estimated to grow at a CAGR of over 27 during the forecast period Europe has a huge potential for the growth of AI owing to an advanced economy and significant investment The"
-    publishedDateTime: 2021-03-27T08:18:00Z
-    webUrl: "https://www.openpr.com/news/2262802/european-ai-in-image-recognition-market-size-share-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/3/U327813450_g.jpg"
-        width: 800
-        height: 904
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Research, Consumption, Companies, Industry Report, Analysis and Future Demand By 2025"
-    excerpt: "Mar 25, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Artificial Intelligence in Manufacturing Market which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis ..."
-    publishedDateTime: 2021-03-26T00:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-consumption-companies-industry-report-analysis-and-future-demand-by-2025-2021-03-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine learning as a Service Market 2021: Global Industry Analysis Report to 2027"
-    excerpt: "Machine learning as a Service MLaaS market is estimated to grow from USD 613 4 million in 2016 to USD 3755 0 million by 2021 at a CAGR of 43 during the forecast period Machine learning is a computing technique"
-    publishedDateTime: 2021-03-27T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
+      name: Finextra
+      domain: finextra.com
     quality: 33
-  - title: "Global Automotive Artificial Intelligence Market 2020 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2025"
-    excerpt: "Mar 28, 2021 (CDN Newswire via Comtex) -- The recently uploaded report titled Global Automotive Artificial Intelligence Market Growth (Status and Outlook) 2020-2025 delivers detailed information on the industry including classifications, applications ..."
-    publishedDateTime: 2021-03-28T19:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2025-2021-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
-  - title: "Facial Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "\"Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security \" The ..."
-    publishedDateTime: 2021-03-29T02:59:00Z
-    webUrl: "https://menafn.com/1101823838/Facial-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+  - title: "This Mumbai-based Social Analytics Startup Uses AI To Optimise Customer Engagement"
+    excerpt: "Locobuzz enables brands to forge strong relationships with their customers using artificial intelligence, machine learning, big data and analytics."
+    publishedDateTime: 2021-03-26T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/this-mumbai-based-social-analytics-startup-uses-ai-to-optimise-customer-engagement/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 29
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 31
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Story-of-Locobuzz.png"
+        width: 1600
+        height: 1280
         isCached: true
-  - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 3:24 PM Artificial Intelligence Market top players include Alphabet (Google Inc.),"
-    publishedDateTime: 2021-03-29T09:27:00Z
-    webUrl: "https://menafn.com/1101823891/Artificial-Intelligence-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+  - title: "Packing machine has an AI twist"
+    excerpt: "A robotic fruit packing machine that uses artificial intelligence could be adapted to harvesting in rural and regional Australia. The machine uses computer vision to identify a fruit variety and its size,"
+    publishedDateTime: 2021-03-28T13:15:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/packing-machine-has-an-ai-twist/news-story/f81d82030bd9a3fd6651e9d5369411ee"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 17
+  - title: "Global Textile Printing Market Trajectory & Analytics 2021-2024: Digital Printing, Artificial Intelligence and Personalized Clothing"
+    excerpt: "The \"Textile Printing - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global production of printed textiles is projected to reach 36.8 billion square meters by 2024 The market driven by"
+    publishedDateTime: 2021-03-26T19:21:00Z
+    webUrl: "https://www.lelezard.com/en/news-19720254.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 8
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?261052"
-        width: 437
-        height: 250
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
-  - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 . Posted on Mar 28 2021 3:27 PM \"Top Players in S"
-    publishedDateTime: 2021-03-29T11:35:00Z
-    webUrl: "https://menafn.com/1101823882/Speech-and-Voice-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+  - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
+    excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"
+    publishedDateTime: 2021-03-25T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/guardian-and-atidot-partner-to-create-new-insurance-models-and-customer-experiences-using-artificial-intelligence/article_cd0a9935-7170-55a5-b422-8e6111b3f4be.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 9
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 3
     images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
-    excerpt: "Kenneth Research has published a detailed report on Speech and Voice Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-03-25T23:05:00Z
-    webUrl: "https://menafn.com/1101807678/Speech-and-Voice-Recognition-Market-Size-Analysis-by-Growth-Emerging-Trends-and-Future-Opportunities-Till-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?212595"
-        width: 437
-        height: 250
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/56/256551aa-52cd-54e4-9cea-205d8acc2b6b/605ca61c95499.image.jpg"
+        width: 1000
+        height: 1000
         isCached: true
 
 secured: "GMo5Og6cblFkiG76O5wcFzRfB/oMnp3hNo4FfdHdqnSs0qOvhdHKKF4gjty69wEfxOkH4lichVmQYSNGMgbfZWLOtcuR3SdWJE5ikXyxEIASJvOedQfFk+fihz7R3FK9TNKTG7kgjGMNVKJLAFh9TnectLLXsYzlRfZaduihepQs2TGj0bIvpUd2c3RxStcRX6MMXBi78QkQdsom4uxIGm34vgulZNRl4ZWBl/UIgpRF/2M4HP8y6nx3nETIVSYqMwFZpdMqOmBVONR/19cT9WOKjqcZTt8WGfRzESgwP0dvAPO59lMePWS1j1uaQSjy9gne8WdUYFhKLEK1kifuEBS3V2wJduNv7b0+IctaYD020AFx/J0qrRUoJe/BRQlc5KrHaY+FOKhjH+/eYpY3GYpsL9uoVMLcJM0z4O4lx+rPP2KYz33mVBAd5dg568xwSBBQckL9zGtvllI8/LfkLornZAKBIDMpYx8t2hub+2kRxu0U9wIQBRZwxKWG/23ZCO/PLpzPxlar3yLPZ0XRjQ==;Lem9fmOeNHZeJuVK+QsAyw=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-mar
 webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-25"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -40,6 +40,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 31
+  - title: "Global Automotive Artificial Intelligence Market 2020 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2025"
+    excerpt: "Mar 28, 2021 (CDN Newswire via Comtex) -- The recently uploaded report titled Global Automotive Artificial Intelligence Market Growth (Status and Outlook) 2020-2025 delivers detailed information on the industry including classifications, applications ..."
+    publishedDateTime: 2021-03-28T19:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2025-2021-03-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wie8h8eDkgPBXgD96EEUrCiFMsMVKEnmoGEcAZvGvZSOhchncq3TS1yXzfUFtP63/zeCVkgzHmFXGvZdVT+TlytWsbfIT5G50MAXv8PHxxmaSc1FQl2PgmesXFIArQ3OfDaQM95EuOYv8Q55URmWqRtAD6RZaMNWBrXphuIYdP8LUeSaANAin0aDKXgH65lVU3FwLVIma9skzSR/lha5G0sI0svocPbFY24Ig19GQge8WU/OWj06ze5HiTrUpf/zSeTMYVKMpa3MwVqBTNS2dbnDolIzVWQPNFitXbzPVT97UuBJSSDoUnsW5WGJeTqRYUcqskfX8dQ+mxGIJhSh3WrEPYkLOKkTz/9E7veKIjY=;BihXv3hgbVo2v2SIG4XjVA=="
 ---

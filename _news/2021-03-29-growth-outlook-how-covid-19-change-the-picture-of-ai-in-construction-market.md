@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2262959/growth-outlook-how-covid-19-chang
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00878-y/MediaObjects/41597_2021_878_Fig1_HTML.png"
         width: 685
         height: 256
+        isCached: true
+  - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 3:24 PM Artificial Intelligence Market top players include Alphabet (Google Inc.),"
+    publishedDateTime: 2021-03-29T09:27:00Z
+    webUrl: "https://menafn.com/1101823891/Artificial-Intelligence-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?261052"
+        width: 437
+        height: 250
         isCached: true
   - title: "Artificial intelligence to help pinpoint COVID diseases"
     excerpt: "Australian data scientists will use artificial intelligence to identify which COVID patients will likely experience longer-term conditions such as kidney damage. University of Queensland data scientist and lecturer Sally Shrapnel said ongoing kidney damage ..."

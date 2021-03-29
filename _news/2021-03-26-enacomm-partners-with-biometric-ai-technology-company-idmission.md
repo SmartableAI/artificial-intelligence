@@ -50,20 +50,6 @@ related:
         width: 792
         height: 266
         isCached: true
-  - title: "IDmission biometrics and liveness added to Enacomm stack for fintech onboarding"
-    excerpt: "Enacomm has formed a partnership agreement with IDmission to bring biometrics and other AI technologies to Enacomm’s fintech customers for end-to-end digital transformation of applications relying on identity verification. IDmission’s passive liveness ..."
-    publishedDateTime: 2021-03-24T21:46:00Z
-    webUrl: "https://www.biometricupdate.com/202103/idmission-biometrics-and-liveness-added-to-enacomm-stack-for-fintech-onboarding"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/02123142/identity-verification-integration.jpg"
-        width: 696
-        height: 392
-        isCached: true
 
 secured: "9nFKBeRFr3lJJJwPEZdv4FWEbo5J7DwNwILnEHLtUSlZGJUEGz3FTShWJ1jgT5B/3iE/UZb/Db4kLpLfAL7Rytr0mYKSVM0a+PZnhK8crGG+Rgf9JzqhNLzjcQFDvNKnp9hwgP5VclnhSS3RjR01sO90yLh6xU3tNdxZ2IBdp6pczv8KDuxbmfDANA0EWgvM+U2DJgS7zNpByvCMLfjn/CdvhhyrH1IfwQvrZMyceB9uuvKom7PUVkTnywU7uHT+JBz+iB71sZj8NtsNu6RnrtKzYOgZwhhGlsUnWSMOygMlwOAHfcA86k6OOb0GJXz+gJvOMgTIPpddSlOZQghN6NdLMsA8fabohPBOobPeSqw=;JOS2H32zr1vOyY/Ok1abWg=="
 ---
