@@ -36,21 +36,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "Watch: DEMOvation startups lean on AI and machine learning to advance the industry"
-    excerpt: "Four financial service and mobility startups participated in the fourth annual DEMOvation Challenge at the 2021 Auto Finance Innovation Summit last week. Auto Finance Risk Summit, the premier event for risk and compliance in auto finance, returns May 11-12 ..."
-    publishedDateTime: 2021-03-24T14:55:00Z
-    webUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
-    ampWebUrl: "https://www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
-    cdnAmpWebUrl: "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/watch-demovation-startups-lean-on-ai-and-machine-learning-to-advance-the-industry/"
+  - title: "How Enterprises are Optimizing the Success of Cognitive AI in Healthcare?"
+    excerpt: "AI is now known for its ability to speed up processes, streamline procedures and, of course, crunch large amounts of data faster than a person could ever have done. But when it comes to structures that can think about themselves?"
+    publishedDateTime: 2021-03-25T11:53:00Z
+    webUrl: "https://www.cioapplications.com/news/how-enterprises-are-optimizing-the-success-of-cognitive-ai-in-healthcare-nid-7424.html"
     type: article
     provider:
-      name: Auto Finance News
-      domain: autofinancenews.net
-    quality: 70
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 53
     images:
-      - url: "https://www.autofinancenews.net/wp-content/uploads/2017/10/favicon-1.png"
-        width: 512
-        height: 512
+      - url: "https://www.cioapplications.com/newstransfer/upload/n57d4450308tyrty.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "Artificial Intelligence Detects Medication Administration Errors"
     excerpt: "A new system uses artificial intelligence to detect errors in patients' medication self-administration methods."
@@ -65,6 +63,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-115029066.jpg"
         width: 686
         height: 402
+        isCached: true
+  - title: "AI Innovations Powering Data-Driven Care Delivery System"
+    excerpt: "The healthcare and medical industry has evolved over the last few years. In particular, artificial intelligence in healthcare alone has brought about revolutionary changes in the industry. A variety of AI-fueled innovations have transformed the landscape of AI in healthcare."
+    publishedDateTime: 2021-03-29T06:56:00Z
+    webUrl: "https://www.analyticsinsight.net/ai-innovations-powering-data-driven-care-delivery-system/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/AI-in-healthcare-1.jpg"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "aSisUZJZoAn6QRMpX5GgHthGyFt39/m+kWMw6GdThrBf4ZRuK+KAgMR7bKd/JQCEsOW2gkmR4YXfbSTpBtIlzDVKbNWjDrtHsr2RMfw/klnAFGCkKRwWmSy4ik1EgZvakRcEoqA2qmMWPZ5qQM8FJQUnQiaecf7dkZtN9d+Z0HMzo7FVMEGALa+LhPP+vBDewIDnGbrS0MosXUYxQ2x9iHF4xkVrSjA8NBk3xwTcnmI81EByPRo9b9X9RGwawNTDGG5DaNILZZ3siNfTOTBHbMuRIDOHCgXX66UdjWNS1MpT2HUPQ1vB1n8rdLuh6i+C8rlrVkuGaAlnGZ+1xHew1NDPS8fJUKFC+SuFYjlKJr+DXXPjiRRIjPIh0w0jFx/xyj7boQVE7J9eazPUuKSD5irP1li2QNoFtxoMgCa3Uv9jMA3ZpsXK1S373Evxpg9A6s0LtrdDWYGWm6dDv4nwSioBLegvuQzdeuHC+6d7Y03E3mpI2kke0pk9Xgf6mU6LvDwcGRAleHxg7fYGdrR/PA==;KeknB8n64Tr+bjtFmlCrSA=="

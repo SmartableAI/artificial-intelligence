@@ -9,7 +9,7 @@ ampWebUrl: "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-r
 cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,20 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Japan trials hands-free airport facial recognition technology"
+    excerpt: "New hand-free, facial recognition technology, which could see passengers go through check-in and security without a passport, is being trialled in Japan. The new system, called Face Express, allows travellers to register their face with the service and then proceed trough check-in,"
+    publishedDateTime: 2021-03-29T07:34:00Z
+    webUrl: "https://www.dfnionline.com/latest-news/japan-trials-hands-free-airport-facial-recognition-technology-29-03-2021/"
+    type: article
+    provider:
+      name: DFNI online
+      domain: dfnionline.com
+    quality: 54
+    images:
+      - url: "https://djx5h8pabpett.cloudfront.net/wp-content/uploads/sites/4/2016/08/23092207/Haneda.jpeg"
+        width: 620
+        height: 330
+        isCached: true
   - title: "Psychology behind facial recognition"
     excerpt: "Facebook profile picture forensic interactive face recognition software tasks identification Super recognisers surveillance CCTV British Journal Psychology"
     publishedDateTime: 2021-03-24T16:41:00Z

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How artificial intelligence is transforming manufacturing"
+    excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
+    publishedDateTime: 2021-03-29T04:05:00Z
+    webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=US"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: themanufacturer.com
+    quality: 39
+    images:
+      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/07/14113149/shutterstock_732658279-e1594206468206.jpg"
+        width: 1920
+        height: 1147
+        isCached: true
   - title: "Five Ways Artificial Intelligence Is Changing The Water Industry"
     excerpt: "AI helps in detecting sources of contamination in the pipeline — whenever there is a variance in quality, it can send alerts and call for an immediate fix"
     publishedDateTime: 2021-03-28T09:00:00Z
@@ -52,20 +66,6 @@ related:
       name: inc42.com
       domain: inc42.com
     quality: 37
-  - title: "How artificial intelligence is transforming manufacturing"
-    excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
-    publishedDateTime: 2021-03-29T04:05:00Z
-    webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: themanufacturer.com
-    quality: 37
-    images:
-      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/07/14113149/shutterstock_732658279-e1594206468206.jpg"
-        width: 1920
-        height: 1147
-        isCached: true
 
 secured: "AdsTuzDFcMuOD0d6FC2hBQaQyPU5zcStZjq65Ek6Y4D1KYG2V1q3wnP5IQ5TJDkZ9Ex0JadUOLrZOIjJ3Baw3W6y7dofE0j/mPjP6dO8IEo9nRgYH2YJEGyu8FHjIROVToDLEFh8RlZMnTbS7NUyq54SC6oL3KgzrpmPRkXugZ2ZVOXGaogBXD0xHRLb6sFraiXV7e7mdw2lXjPWf2yVv25RWaEWTBLEZAC5KLx1yyz6Gn/+tq1xaZ493eTUXHxZ7A7UZeN4uvrELcOkKyhkaCONrzNEpAAIeiCZdGDSRHdf9LsgIUiVfvldtVGwqhPjTsqi0uW13D3+rxcOGNLRQT9cj4PU9G4E7FQjHhw+ZR8=;WwFXbIxRthVEE4SvitLqdg=="
 ---

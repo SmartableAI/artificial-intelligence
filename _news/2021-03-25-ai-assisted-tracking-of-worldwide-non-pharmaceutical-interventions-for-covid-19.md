@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41597-021-00878-y"
 webUrl: "https://www.nature.com/articles/s41597-021-00878-y"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Growth Outlook: How COVID-19 change the picture of AI in Construction Market"
+    excerpt: "In these uncertain and unprecedented times due to the COVID 19 outbreak more and more businesses are witnessing a slow down in their operations However the construction market is continuing to be resilient in spite of the tremendous challenges brought"
+    publishedDateTime: 2021-03-29T06:16:00Z
+    webUrl: "https://www.openpr.com/news/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
+    ampWebUrl: "https://www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/U/3/U329837683_g.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Artificial intelligence to help pinpoint COVID diseases"
     excerpt: "Australian data scientists will use artificial intelligence to identify which COVID patients will likely experience longer-term conditions such as kidney damage. University of Queensland data scientist and lecturer Sally Shrapnel said ongoing kidney damage ..."
     publishedDateTime: 2021-03-28T13:30:00Z

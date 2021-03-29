@@ -19,6 +19,22 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "Growth Outlook: How COVID-19 change the picture of AI in Construction Market"
+    excerpt: "In these uncertain and unprecedented times due to the COVID 19 outbreak more and more businesses are witnessing a slow down in their operations However the construction market is continuing to be resilient in spite of the tremendous challenges brought"
+    publishedDateTime: 2021-03-29T06:16:00Z
+    webUrl: "https://www.openpr.com/news/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
+    ampWebUrl: "https://www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/U/3/U329837683_g.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19"
     excerpt: "Preventive Intervention • Public Health Technology Type(s) natural language processing objective • Artificial Intelligence Sample Characteristic - Environment anthropogenic environment Sample Characte"
     publishedDateTime: 2021-03-25T13:32:00Z

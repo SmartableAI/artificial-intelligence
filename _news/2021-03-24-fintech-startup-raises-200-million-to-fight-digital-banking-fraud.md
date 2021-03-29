@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud?amp"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "SME-focused fintech acquired by Sage"
+    excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
+    publishedDateTime: 2021-03-29T07:42:00Z
+    webUrl: "https://www.insidermedia.com/news/coronavirus/sme-focused-fintech-acquired-by-sage"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/resized/Stock_exchange-37604-1616770579.jpg"
+        width: 960
+        height: 540
         isCached: true
   - title: "Top 10 best countries to start a fintech"
     excerpt: "Fintech in the financial services market has been adopted quickly by certain demographics that for years have been underserved by the incumbent institutions. The US is also a world leader in technology and particularly AI innovations, which means its ..."

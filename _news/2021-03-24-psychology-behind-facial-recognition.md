@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Japan trials hands-free airport facial recognition technology"
+    excerpt: "New hand-free, facial recognition technology, which could see passengers go through check-in and security without a passport, is being trialled in Japan. The new system, called Face Express, allows travellers to register their face with the service and then proceed trough check-in,"
+    publishedDateTime: 2021-03-29T07:34:00Z
+    webUrl: "https://www.dfnionline.com/latest-news/japan-trials-hands-free-airport-facial-recognition-technology-29-03-2021/"
+    type: article
+    provider:
+      name: DFNI online
+      domain: dfnionline.com
+    quality: 54
+    images:
+      - url: "https://djx5h8pabpett.cloudfront.net/wp-content/uploads/sites/4/2016/08/23092207/Haneda.jpeg"
+        width: 620
+        height: 330
+        isCached: true
   - title: "Philly airport screening international travelers using facial recognition technology"
     excerpt: "The Simplified Arrival system has processed 66 million people at other U.S. airports, flagging more than 500 imposters"
     publishedDateTime: 2021-03-26T18:49:00Z

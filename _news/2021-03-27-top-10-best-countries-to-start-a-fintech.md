@@ -77,6 +77,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "SME-focused fintech acquired by Sage"
+    excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
+    publishedDateTime: 2021-03-29T07:42:00Z
+    webUrl: "https://www.insidermedia.com/news/coronavirus/sme-focused-fintech-acquired-by-sage"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/resized/Stock_exchange-37604-1616770579.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "XubAFDeUPHs8/xBEKJe3diVemb3h5xVAnr7FT/PoUAMegwHjVEuD9eihmbxPgYli5Cb6pPNJJjlohXIYDK8GZ1ZNeZpxICNwrCQEp0iYegxXT2PmxLOUF0h6zFzPcHrw3HiySgCcemy945dRfXz0KTTmJ8myk2khFXSl23EoSCtqLL/Qgerl4nFFUVtKfWPgjM4CJxP4aTBX7sqnNkqggGIk0y7x73LpTi/nPfI9SwrIAMv7gfQwtCN9mQwOIUsLwqcrViZoOU2WjKRZ0EeQfQg53TJF7HI5lLPM7tyv8ntcL3Dbk1bL5SlzPzvYAZlngn2US2FeXSqbpL/8tZkpACVzJHfNUtlKmNQ5Wyk0P+Y=;FkY0qMyxo7bhyd4b67nTIg=="
 ---

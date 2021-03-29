@@ -96,6 +96,15 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "AI might prove helpful against asbestos-linked cancer: Study"
+    excerpt: "A new international genomics research led by the University of Leicester used artificial intelligence (AI ... These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer. Prof Dean Fennell, chairman of the Thoracic ..."
+    publishedDateTime: 2021-03-29T06:05:00Z
+    webUrl: "https://en.prothomalo.com/science-technology/science/ai-might-prove-helpful-against-asbestos-linked-cancer-study"
+    type: article
+    provider:
+      name: Prothomalo
+      domain: prothomalo.com
+    quality: 19
 
 secured: "n1WRTAdOA5h92bZP1bz3ZcOc/nw2ifKNldktm7vKDS5UMHPe6BOpbUVvlyskf1XiFNTPG+MU8w6Lp4TVs1HdNl0m+48wOl6YGQlgLon74naicuYoI2p6mCk7RBdJkObbmsWqbtOml3cFyTGpZHOLVvQZVfyfvbbY9QFpjHQj+jaTBGkRF+FVLH/ru/dX+67YWof6L4WBfcFSt/pgSHUzvoRAdm3LnwtNew1yFZW8bCWaLwVGTZ9AHHNQQ7LUBjLasQoYdOIrH3UpHu6HdCrHoCUsAlMNXVvRK5cnL5axVn2vaANPzXDNTpp3bBMhwY95frFoxUORTq51Zr14ot/HuxHjrE1hWrqtQ5SftqM8DOo=;4RZrDkIbNzmS8WVkN4LCww=="
 ---

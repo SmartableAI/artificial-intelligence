@@ -39,12 +39,12 @@ related:
   - title: "How artificial intelligence is transforming manufacturing"
     excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
     publishedDateTime: 2021-03-29T04:05:00Z
-    webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
+    webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=US"
     type: article
     provider:
       name: Manufacturing
       domain: themanufacturer.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/07/14113149/shutterstock_732658279-e1594206468206.jpg"
         width: 1920

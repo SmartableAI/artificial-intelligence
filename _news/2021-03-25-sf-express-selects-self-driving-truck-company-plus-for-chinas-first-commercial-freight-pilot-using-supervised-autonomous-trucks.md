@@ -25,37 +25,39 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving trucks: A 10 billion-mile proof case for Plus"
-    excerpt: "Autonomous trucking startup Plus is beginning production of Level 4 software this year as it works toward 10 billion miles of on-road testing."
-    publishedDateTime: 2021-03-25T20:52:00Z
-    webUrl: "https://www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus"
-    ampWebUrl: "https://www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/self-driving-trucks-a-10-billion-mile-proof-case-for-plus/amp"
+  - title: "Chipotle invests in self-driving delivery company Nuro"
+    excerpt: "Chipotle Mexican Grill has invested in a robotics company that operates a fleet of self-driving delivery vehicles."
+    publishedDateTime: 2021-03-25T12:40:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/chipotle-invests-self-driving-delivery-company-nuro"
+    ampWebUrl: "https://www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
+    cdnAmpWebUrl: "https://www-restaurantbusinessonline-com.cdn.ampproject.org/c/s/www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
     type: article
     provider:
-      name: freightwaves.com
-      domain: freightwaves.com
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
     quality: 44
     images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/03/032521-Plus-SF-Truck-1.jpg"
-        width: 4000
-        height: 2671
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-03/background/400x600/Nuro-Shutterstock_1616675375.jpg?hY1FEGOKg9dyRqNux1KxGDPzYVMlUWRw"
+        width: 400
+        height: 210
         isCached: true
-  - title: "Waymo Provides Look Inside Self-Driving Truck Testing"
-    excerpt: "Autonomous vehicle developer Waymo offered a look inside the day-to-day testing of its self-driving trucks on public roads through a virtual ride-along event for members of the press."
-    publishedDateTime: 2021-03-25T15:15:00Z
-    webUrl: "https://www.ttnews.com/articles/waymo-provides-look-inside-self-driving-truck-testing"
+  - title: "Chipotle invests in self-driving auto company Nuro"
+    excerpt: "Chipotle Mexican Grill Inc has invested in autonomous driving company Nuro’s series C round of funding in a move to help bolster its delivery network. Nuro uses driverless on-road robotic cars to deliver products to consumers."
+    publishedDateTime: 2021-03-28T10:22:00Z
+    webUrl: "https://www.technowize.com/chipotle-invests-in-self-driving-auto-company-nuro/"
+    ampWebUrl: "https://www.technowize.com/chipotle-invests-in-self-driving-auto-company-nuro/amp/"
+    cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/chipotle-invests-in-self-driving-auto-company-nuro/amp/"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 39
+      name: Technowize
+      domain: technowize.com
+    quality: 44
     images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/waymo-virtual-phoenix-1200.jpg?itok=UEAuO5XM"
-        width: 470
-        height: 246
+      - url: "https://www.technowize.com/wp-content/uploads/2016/06/Honda-Self-Driving-Car-e1464847235855.jpg"
+        width: 800
+        height: 450
         isCached: true
 
-secured: "C5hQLHHmKe7t0A8WeyHugOxzqdpidrzwblZtN5cL/m4lt9n1VUGq/3tgL7fHwy44mQCAuJWruJQy0awgDujd6NiG9fPTJB/brVJlRwsZ2HmotziGppjU38q1hCgxb0SlyD7y+24v7ZAoIvrsn7DRHQA9Om12lUneuuNaOJAlOIHm1gfLXZYrrU7/tuMzb/6LwxxTsjQmCij0/7uiEUSXbS8uqt7+upSY9xNy4kXcjAx5fJIPGQMr0qNGZMoQp7QgAZ+hRpR231T8+XBpfPRlI0mRgluopM55VT27+olQi5SqPD1dW5+Ngu7qYE8SHDeUoGXao4tx92bAzY+qXoFg7QY7CmcAkZ6kTCBlzxTa8EE=;kJQR3yHvnB15JJYy2Uy3Cg=="
+secured: "FzVi3m9xnoCU+xPD1jo9TnfVPaNy/EFX/J9GflC3StpPSJz3+sdQqIG5a05rjKgCboB8eIsaQir1Q0NczvIEFxxfqpeh6Fno3/G0ci0uLbMp29rECnl51becV6rofwwaHcoVPWTfjudGcYb2dp7+Lm4WxcPSuYiPsNtUKHcBJTRYZKSA4gmCiM7V8G0CBKKtrvBZWNcHYiesA9s4QFuvRuvyhZILgLXs48NGaDsuGTJKD123LN37ehR6vpZ0lu7nza0oh6Fy5nakxNYmPkb6ip1VNheNoyn5Hk4BQGjozO6M0MdzWXO9+IZLfnOxy1R2u707coGbO6ei+xVnxla1N+gw9RDfno3mqku30NB92MaNTWX0WRs7DpiHIh8A6SqYElyjEGxm3lsXBNcTA8lIo59BlkRplZvKMwF8VZKYScrMQ5ffYtyIq9muF9y5FaVUPHeQc5n4st1meOD/+EERT/5jV0dSEy+3aCI7fzQeuF2QGEGjSWdaSC0+Ps7CU9S8rIu77h5YLCqLdxo6xj8xYQ==;b7ClcL5rRf1ZttcJIKideg=="
 ---
 

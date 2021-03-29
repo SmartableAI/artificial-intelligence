@@ -73,6 +73,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "SME-focused fintech acquired by Sage"
+    excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
+    publishedDateTime: 2021-03-29T07:42:00Z
+    webUrl: "https://www.insidermedia.com/news/coronavirus/sme-focused-fintech-acquired-by-sage"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/resized/Stock_exchange-37604-1616770579.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Top 10 best countries to start a fintech"
     excerpt: "Fintech in the financial services market has been adopted quickly by certain demographics that for years have been underserved by the incumbent institutions. The US is also a world leader in technology and particularly AI innovations, which means its ..."
     publishedDateTime: 2021-03-27T09:34:00Z

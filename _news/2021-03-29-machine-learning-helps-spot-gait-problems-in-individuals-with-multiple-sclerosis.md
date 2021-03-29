@@ -2,26 +2,28 @@
 category: news
 title: "Machine learning helps spot gait problems in individuals with multiple sclerosis"
 excerpt: "Monitoring the progression of multiple sclerosis-related gait issues can be challenging in adults over 50 years old, requiring a clinician to differentiate between problems related to MS and other age-related issues."
-publishedDateTime: 2021-03-29T04:00:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoia-mlh032621.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoia-mlh032621.php"
+publishedDateTime: 2021-03-29T07:42:00Z
+originalUrl: "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.html"
+webUrl: "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.amp"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/260429_web.jpg"
-    width: 720
-    height: 480
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/20-machinelearn.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Hw91K+o8A9GFhry2toW4Bq+3QOg4YJXytRtgPD9IyRnpyA+e8lt2jxEJ/iI6qjvhS3iiDumvXDgibNsu4DLGZew2KOUQo54M+ks716gPqR0w5EzrRPJG5YrUDJjYANmp4eD3X8864T5OoPx+4o25TDKPa2jI6PNgUF37mlO/8YBIU6WpiQQVhUkr4RJV4+sHOjJQHEcrKiPLIiU7ybMQJm9b79rU4HV+QsEN1gF2bPQQ1H9cnSMKLMaNzTLHjeC0mGY/yBS8JhUrW7m4lvj8vv5xLnjshNxFwaXV5E/JZVNuxtSJVQedg0i9SH6WuNExx6NqNPZl3LS//Vm+EU+gt8UX2YueKotdD2H03WJySS0=;b5kTnB4VnkvOuSqG/khe/g=="
+secured: "rZFtInUXN8UiLtl4ucIbodFtfMJVADAPwQJ5k7zy/g+PfGGvxq5dOJ9hOABESsuQpH4mGSXTJnIxYnGjfAtPvCpr8aY2AD0G4y2gVI1OcLVYMCy6f9Q3onEFHRSBAmlJejS7qqMaphrZii0lVDBE7l+yBlBGTxk2BKd9J+SnYViKNIgIyHgno5o/c176DoMEVhsoalh0CrlguK+Cqcr7/Q205oJ2LQjBQxVsefukuUeUnjLmXdiVgn6Omaq3YDBJJaKSbg6qb8VHp6qPtuxAMS/6BSckXaJHH7I1ufLYDO8C1nCZg0/VvV6wTnM2Me0duNqzqQ8/OAOKNDDkPWUekEa6KSkgo+lMyXMgcwKRMUs=;gP8+OoWcETsmNRHwLDbtHw=="
 ---
 

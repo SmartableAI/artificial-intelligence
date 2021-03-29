@@ -89,19 +89,35 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Artificial Intelligence (AI) in Food and Beverage Market Overview Highlighting Major Drivers, Trends, Growth and Demand Report 2020- 2027"
-    excerpt: "Increasing need to improve food safety standards is a key factor driving growth of the global Artificial Intelligence (AI) in food and beverage market currently. The global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62."
-    publishedDateTime: 2021-03-24T14:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-and-beverage-market-overview-highlighting-major-drivers-trends-growth-and-demand-report-2020--2027-2021-03-24"
+  - title: "Qualitative Analysis: In-depth Analysis of the Artificial Intelligence in Agriculture Market"
+    excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed 6000 million by 2027 growing at a CAGR of 25 50 from 2020 to 2027 The report includes"
+    publishedDateTime: 2021-03-29T06:56:00Z
+    webUrl: "https://www.openpr.com/news/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
+    ampWebUrl: "https://www.openpr.com/amp/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/3/U329196813_g.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Service Robotics Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "Asia-Pacific is anticipated to display the highest CAGR owing to increasing government investments in robotics and artificial intelligence, rising focus on R & D. Besides these, the growing demand ..."
+    publishedDateTime: 2021-03-29T07:41:00Z
+    webUrl: "https://menafn.com/1101823848/Service-Robotics-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 45
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "European AI in Image Recognition Market Size, Share, Analysis, Industry Report and Forecast 2019-2025"
     excerpt: "The European AI in image recognition market is estimated to grow at a CAGR of over 27 during the forecast period Europe has a huge potential for the growth of AI owing to an advanced economy and significant investment The"

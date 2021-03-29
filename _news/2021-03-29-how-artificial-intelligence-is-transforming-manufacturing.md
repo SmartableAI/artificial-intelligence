@@ -3,10 +3,10 @@ category: news
 title: "How artificial intelligence is transforming manufacturing"
 excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
 publishedDateTime: 2021-03-29T04:05:00Z
-originalUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
-webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
+originalUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=US"
+webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=US"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: themanufacturer.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
@@ -66,6 +67,6 @@ related:
         height: 650
         isCached: true
 
-secured: "RW/45hzyl2GPmn/aEE2dYOIcXBbCRh6rYUXWPoTQgOa5C1xECoDikMqstf1ebhwQe1PlO4k8dSUhizYgfdCU0DJjscwmw5M4LX1zXWCD5u8V5N0sxpx+1rzCXGhR3/pLer4uGpFBBLYclgK+C6I9dgYloI2G0fAtvQO50CEdgEvYEhr0tXnTxgUyiqYr2Ib5w9sLFDaD5+lAW5DWQ2FiT9ZiIVqxmOsuOwAC/S62rDw8FWJvTGysjozbDvRsKSx8iHPjoHbYmnhq7lAfSwyAZ05LGn9yEf8ajThKkeNV4DgXZDp5MdO4tLJUcqeGYXj6JCBIGq2HL3jVrb+xcq0u3XzucoetDa0DTEJMHxMOVeY=;QLQaxKQhu5viijVQU6tQWQ=="
+secured: "2Acc3vhdaNyqT1BSJyPes91nGyF7cyIGWe8b9SluM1eT0HvekS0zUEMcbxMShrgFszdDOdpUuiE7ls31RoKYeZ0xBMS41CApwxshpScbcoY2etHaa2tXVQzMoTIFk8J/dq4CZW2QPdOrEnDBrGtud3+n9OP08gqzKSPniclNuG7/3egR2J+6uvEcLWo9yadkWL2t8HMpROM8tsy3B+FIr4rv2T4RD3FOBbqSfkzTlggVCZJpWOTiHDmGpCFh6cCcvwFDzwwUWseaOKXEQKcn9C5GLo0RsBsbht3O6eheZO41rICE5SzdB3x7vApoTYTC1hYQHjKPOgiklVCuaWo58FYi2Y0n+ci1p2Z3DCBvN5c=;CAjPW4zy56ag7Yaf2ry2ng=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technowize.com/chipotle-invests-in-self-driving-auto-com
 cdnAmpWebUrl: "https://www-technowize-com.cdn.ampproject.org/c/s/www.technowize.com/chipotle-invests-in-self-driving-auto-company-nuro/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Chipotle invests in self-driving delivery company Nuro"
+    excerpt: "Chipotle Mexican Grill has invested in a robotics company that operates a fleet of self-driving delivery vehicles."
+    publishedDateTime: 2021-03-25T12:40:00Z
+    webUrl: "https://www.restaurantbusinessonline.com/technology/chipotle-invests-self-driving-delivery-company-nuro"
+    ampWebUrl: "https://www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
+    cdnAmpWebUrl: "https://www-restaurantbusinessonline-com.cdn.ampproject.org/c/s/www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
+    type: article
+    provider:
+      name: Restaurant Business
+      domain: restaurantbusinessonline.com
+    quality: 44
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-03/background/400x600/Nuro-Shutterstock_1616675375.jpg?hY1FEGOKg9dyRqNux1KxGDPzYVMlUWRw"
+        width: 400
+        height: 210
+        isCached: true
+  - title: "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks"
+    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations."
+    publishedDateTime: 2021-03-25T13:01:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/sf-express-selects-self-driving-truck-company-plus-for-china-s-first-commercial-freight-pilot/article_248f1a3f-69be-5714-b053-cfd8c5293b5e.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 0
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/d/7c/d7c1349c-db0d-5974-95fb-42f98f8c374f/605c89c1b0efa.image.jpg?resize=943%2C630"
+        width: 943
+        height: 630
+        isCached: true
 
 secured: "HsMD5HdOZCY3msriS/Hz46jDyDsRgMYX7I8E/+GFrNzY5Ab1gaqFvumJIwYJule66Ef4LiBS/lUJBJ84DNXF7oDEJEliaSRLINsnrGV7N6rg3qawKDtMfffmneaaZ4uDKpHQrA1DBiXuByXm3CnhF46ahi6eUCfFZsrSdhrMEFweD3ipCbt4srzTy6JozdjG0kzIgM96VlBBSgRiQAAaVGe0lnY0/Vjh1mpszt5osCqdePoXSExKDj5akZa0MeDuEdacCb7IF6aKNoaAw62iYNCdJwfIapbxoexbywivAia6a4KCdgrNFP2BZHwJerDN3N0EO3RVj1lFrexOX+eYol9ccbRHeDKkMgvkgYNi9KMSvY53RlBjVWSnhhKkuFGiG1vRd6UvEHH8g+ub4hqNA+I9hGyBbLSmGV/7u4y1Orq357dYAV4W8XqXMnI0vZp4WEyMSQt3qgCjAaxmrt3r4zzlHF91YhfddnW6jicG0Wvzzn6FEE63T8r6J+2KNz9FfNAiZTtbWaNhOJy+GLuhnA==;rw6/GLK0mgf+PEqXDKCufw=="
 ---

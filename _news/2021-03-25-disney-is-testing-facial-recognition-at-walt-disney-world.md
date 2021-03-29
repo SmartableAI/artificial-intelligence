@@ -9,7 +9,7 @@ ampWebUrl: "https://www.deseret.com/platform/amp/entertainment/2021/3/25/2234828
 cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world"
 type: article
 quality: 59
-heat: 169
+heat: 139
 published: true
 
 provider:
@@ -106,48 +106,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/10446172_032421-kabc-4pm-disney-tech-vid.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Disney tests new facial recognition technology"
-    excerpt: "Disney is testing out new facial recognition technology. Disney says it's looking for ways to focus on more touchless experiences in the parks. The technology converts a guest's face and gives a unique number ID,"
-    publishedDateTime: 2021-03-24T13:07:00Z
-    webUrl: "https://www.ktnv.com/now-trending/disney-tests-new-facial-recognition-technology"
-    type: article
-    provider:
-      name: KTNV Las Vegas
-      domain: ktnv.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/ac15c0b/2147483647/strip/true/crop/1015x533+74+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fx-default-stgec.uplynk.com%2Fausw%2Fslices%2F410%2Fb9cd621bb5cc43d8b6bdc641d1acdca8%2F410e1f74cd8f4971b399abb2e71848e1%2Fposter_09681a7be839427787fe1597efb4eee0.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Disney World Testing Facial Recognition"
-    excerpt: "Resort is conducting a 30-day test using facial recognition technology to improve the guest experience. The technology captures an image of the visitor's face and then converts the image into a unique number that is then associated with the form of admission the guest used for park entry."
-    publishedDateTime: 2021-03-24T14:31:00Z
-    webUrl: "https://www.avnetwork.com/news/disney-world-testing-facial-recognition"
-    type: article
-    provider:
-      name: AV Network
-      domain: avnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/xaia55AsiS86NL6AHCCxU8-1200-80.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Tracking dongles and facial recognition tested at Mice event"
-    excerpt: "SINGAPORE - A Bluetooth tracking dongle and facial recognition tools are some of the new technologies being piloted to prepare Singapore for major events like World Economic Forum in August.. Read more at straitstimes."
-    publishedDateTime: 2021-03-24T14:04:00Z
-    webUrl: "https://www.straitstimes.com/singapore/consumer/tracking-dongles-and-facial-recognition-tested-at-mice-event"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 39
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/03/24/yq-geoconnect-24032021.jpg?itok=HSD3-HtD"
-        width: 763
-        height: 509
         isCached: true
   - title: "Disney testing-out facial recognition technology"
     excerpt: "Disney is diving into the world of new technology this week in an effort to have more touchless experience. Just like the face ID scanner on your iPhone devices, Disney is testing a face recognition system."

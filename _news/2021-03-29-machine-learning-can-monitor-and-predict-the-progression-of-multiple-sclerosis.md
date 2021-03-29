@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210329/Machine-learning-can-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210329/Machine-learning-can-monitor-and-predict-the-progression-of-multiple-sclerosis.aspx"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -29,17 +29,19 @@ images:
 related:
   - title: "Machine learning helps spot gait problems in individuals with multiple sclerosis"
     excerpt: "Monitoring the progression of multiple sclerosis-related gait issues can be challenging in adults over 50 years old, requiring a clinician to differentiate between problems related to MS and other age-related issues."
-    publishedDateTime: 2021-03-29T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoia-mlh032621.php"
+    publishedDateTime: 2021-03-29T07:42:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 49
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 69
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/260429_web.jpg"
-        width: 720
-        height: 480
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/20-machinelearn.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "2HrseR8F/ApE/xR9gPBCqOlSvw1Jc4tTK5Wrmj90K4u2ovxl72pNlA64GY/qU5mNirY2iOXysEkUxsF1WbuNujeieHI3yjURp5QyfRbvVdufQAhPHTVVH29NVktCXlwtNh+cq6zIDqK0DQCqFu6iLrOVWBx+nCNzzZdMH5EbYrD+C8DDM5+ZPW/DtZo1PbYxQwDZqiJ95hwNVty2dnaProh8CvqEyyf5ZhwF8xahGgftpVkdPj162BIK6vAXEYIvkQJed1Jm5byl8JEBd4yJaGk29h8pjfeqXN4+F9xGE8QVqDNfeUuz4sZN1LlgRUQnx6+eRTlVwtZO1v6tWCEwPZuhk6f1R4tons8ruMV+ItU=;xoxLiv8BKUNib/hjLLSzFQ=="

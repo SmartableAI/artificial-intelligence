@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hellenicshippingnews.com/vaarst-to-drive-the-future-of-m
 cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/vaarst-to-drive-the-future-of-marine-robotics-through-data-focus/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 600
     height: 279
     isCached: true
-
-related:
-  - title: "Vaarst launches to drive the future of marine robotics through data focus"
-    excerpt: "Launching today, robotics technology player Vaarst will give offshore and marine robotics new capabilities through retrofitted artificial intelligence and autonomy."
-    publishedDateTime: 2021-03-24T13:50:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2021/03/24/vaarst-launches-to-drive-the-future-of-marine-robotics-through-data-focus/16526/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 33
 
 secured: "W5O6houqOuv/hoZ95vkQrpFz/VnPQU8XAy7YtZbYQwkR7rfWZOIUows/SC5s5Uv9ho2dh7YuPbNcpOH6fG0rgQtH1kxtFxxQucfCBDGCFj8Hv5P848W9juVj6CzN4vmc29K+9QaqjjlZTyyPoGvGwtDLwTG/YVnVFnz1HdprfbrP0pO9JXhwao08jArbOM862qq7OPG+tGN6/ijlCoE3cIGW7YWWuz5KVGS7MQuny39CvWFMNDtBnJ6HQYn+hQuJPLGvYr3mG09LGB7xvWHL9KxSWgUHMuXBaY2fVkLKENPLEm/QT5RqdCFua1kUVIEIIHPc/O92O4JEIFAyk8CeGq5XqwLf2plRbwTin/87+EA=;miuAJL2bQxwAhwHJZXZ6rQ=="
 ---

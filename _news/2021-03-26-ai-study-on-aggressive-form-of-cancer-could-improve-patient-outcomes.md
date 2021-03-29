@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210326/AI-study-on-aggressiv
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -96,6 +96,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "AI might prove helpful against asbestos-linked cancer: Study"
+    excerpt: "A new international genomics research led by the University of Leicester used artificial intelligence (AI ... These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer. Prof Dean Fennell, chairman of the Thoracic ..."
+    publishedDateTime: 2021-03-29T06:05:00Z
+    webUrl: "https://en.prothomalo.com/science-technology/science/ai-might-prove-helpful-against-asbestos-linked-cancer-study"
+    type: article
+    provider:
+      name: Prothomalo
+      domain: prothomalo.com
+    quality: 19
 
 secured: "b65ynd1RV+eUhvUgJ8+SA/dINrMU1uITs/Fx4ZOZ0CtnByN63E9Vbwbc7VLLdUNIZcreuDGTQ/vBl1GxTs+MhkxieyMU4mCFv+rU7BExOVERkOpUhDmN/H2e1mdjw/DBo1aZGPCsL7mnMXFD3ODID83fWa3mPUmCWJxfQ59SIPkIHicz/JI+lG8lY8OIEqE3W1+cNR1p25m8tyxJUkNfolgu5LasAukjl1xoCgVHWqcQYccMfQLcUQaEYkpUvOL+AO+BjjJD1g5GXELMLBAd6cAofCK3dxGfEFA28Y+oNU09FJPk3qJ1VvYN6TUboabB/oMPEIEYZTfkQd0ynzdcUNmew0OUeB66i1WswcnSquE=;i+KoagBQ0MOqcD1C5CbvsA=="
 ---

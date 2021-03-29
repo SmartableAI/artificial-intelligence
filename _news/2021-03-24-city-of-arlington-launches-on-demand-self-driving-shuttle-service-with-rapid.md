@@ -7,7 +7,7 @@ originalUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/pr
 webUrl: "https://www.masstransitmag.com/alt-mobility/autonomous-vehicles/press-release/21215713/via-transportation-city-of-arlington-launches-ondemand-selfdriving-shuttle-service-with-rapid"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -23,40 +23,6 @@ images:
     width: 1030
     height: 580
     isCached: true
-
-related:
-  - title: "Self-driving vehicle service launches in Arlington"
-    excerpt: "Forget Uber. Move over, Lyft. In Arlington, you can catch a self-driving ride. The city now has a small fleet of self-driving vehicles that will"
-    publishedDateTime: 2021-03-24T14:03:00Z
-    webUrl: "https://www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/"
-    ampWebUrl: "https://www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/transportation/2021/03/24/self-driving-vehicle-service-launches-in-arlington/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 44
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/n2rLFs4Knkkc4gdEKSvA0eB_-bA=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/LBGOHI7EQJDWXB5OAPNGRIO4HY.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Chipotle invests in self-driving delivery company Nuro"
-    excerpt: "Chipotle Mexican Grill has invested in a robotics company that operates a fleet of self-driving delivery vehicles."
-    publishedDateTime: 2021-03-25T12:40:00Z
-    webUrl: "https://www.restaurantbusinessonline.com/technology/chipotle-invests-self-driving-delivery-company-nuro"
-    ampWebUrl: "https://www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
-    cdnAmpWebUrl: "https://www-restaurantbusinessonline-com.cdn.ampproject.org/c/s/www.restaurantbusinessonline.com/amp/technology/chipotle-invests-self-driving-delivery-company-nuro"
-    type: article
-    provider:
-      name: Restaurant Business
-      domain: restaurantbusinessonline.com
-    quality: 44
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-03/background/400x600/Nuro-Shutterstock_1616675375.jpg?hY1FEGOKg9dyRqNux1KxGDPzYVMlUWRw"
-        width: 400
-        height: 210
-        isCached: true
 
 secured: "DCRx8UnFiF94vpDFMxgcipSYQ42/gBl9EbD7T1gzdjXS81WwpsgLm+7kwITB6ycmXObOCttbjdL2XfOConsDHLr/slJa793IeSvwnE6zzpfJh9TnIi9FbwmwOSbooQX4nf+0Wop7RPFmJ51ExjZPYWpc14KzG8hvCv7rJ7xiQbGBkuQTQ/r4I2YsB1PWGE509sBpi3LBnSX6W0nvMaTqv9CGG10OvfUGUY6La6HhzOgvW1K+aOWlZypnUEC0Pa8PinIbJAavZpTC6BAs2vTFbQG0ej+r9NlqdtzBBhC18im8QGlViLpWzahFiA8L6z8bB1S9vSfL9hjEWQ4RHJ22ilK4bKvT5l8dNEPCHM5ALWE=;6GH5OdZIS8ikRkCP5/rXZQ=="
 ---
