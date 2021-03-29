@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period | ARC"
+    excerpt: "pune, India, Thu, 25 Mar 2021 02:19:22 / Comserve Inc. / -- the global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. Global Wearable ..."
+    publishedDateTime: 2021-03-25T02:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-is-expected-to-grow-at-noteworthy-cagr-around-27-throughout-the-forecast-period-arc-2021-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "wie8h8eDkgPBXgD96EEUrCiFMsMVKEnmoGEcAZvGvZSOhchncq3TS1yXzfUFtP63/zeCVkgzHmFXGvZdVT+TlytWsbfIT5G50MAXv8PHxxmaSc1FQl2PgmesXFIArQ3OfDaQM95EuOYv8Q55URmWqRtAD6RZaMNWBrXphuIYdP8LUeSaANAin0aDKXgH65lVU3FwLVIma9skzSR/lha5G0sI0svocPbFY24Ig19GQge8WU/OWj06ze5HiTrUpf/zSeTMYVKMpa3MwVqBTNS2dbnDolIzVWQPNFitXbzPVT97UuBJSSDoUnsW5WGJeTqRYUcqskfX8dQ+mxGIJhSh3WrEPYkLOKkTz/9E7veKIjY=;BihXv3hgbVo2v2SIG4XjVA=="
 ---

@@ -39,6 +39,17 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Noopl Partners with Neuroscience AI Company Chatable"
+    excerpt: "Noopl, the industry-changing startup focused on breakthrough innovation and technology integration in the consumer audio space, has partnered with Chatable, a pioneering neuroscience-based AI company. Noopl's initial consumer product, now featuring ..."
+    publishedDateTime: 2021-03-25T09:20:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20333633/noopl-partners-with-neuroscience-ai-company-chatable"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20333633"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20333633"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
   - title: "FinTech Company ENACOMM Strikes Partnership with Leader in Biometric and AI Technology IDmission"
     excerpt: "thanks to a new partnership between FinTech enablement company ENACOMM and IDmission, a global leader in biometric and AI technology providing end-to-end digital transformations for applications relying on ID and identity verifications. ENACOMM customers ..."
     publishedDateTime: 2021-03-24T13:34:00Z

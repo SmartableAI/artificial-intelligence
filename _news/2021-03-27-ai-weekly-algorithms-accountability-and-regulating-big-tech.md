@@ -1,28 +1,35 @@
 ---
 category: news
 title: "AI Weekly: Algorithms, accountability, and regulating Big Tech"
-excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. This week, Facebook CEO Mark ..."
-publishedDateTime: 2021-03-27T14:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-weekly--algorithms--accountability--and-regulating-big-tech-9959051"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-weekly--algorithms--accountability--and-regulating-big-tech-9959051"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-weekly--algorithms--accountability--and-regulating-big-tech-9959051"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-weekly--algorithms--accountability--and-regulating-big-tech-9959051"
+excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. This week, Facebook CEO Mark Zuckerberg, Google CEO Sundar Pichai, and Twitter CEO Jack Dorsey went back to Congress,"
+publishedDateTime: 2021-03-27T03:38:00Z
+originalUrl: "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/"
+webUrl: "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/"
+ampWebUrl: "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
-secured: "4inf6OOQvr6IuaLwjbVqy1yph/mNuF8hlxYb0eARB0K4NEZp9FFCA1rRgQA6KkW8l8kOvyJKGz3zGRVogbJezb0S9VXnflOh18MWyq8P2aWAF12G2UHnqeXclaC/gXVAGHPPVgf0p468hVk0g6YRNFHrlfWOaPvK0F1MP8mvU7dbWymtJc4B9it1dtn2rAeS/L5zzY+CDNMVyxTuMoDtJdBJ0eqLG3kE3dW8kIb3v7klRe3UjrZ1mKLBPS60xcLk90rgqopaW7xJosynpGkDxV7tbK9cJoBB16U2+ciPLJQZCpbSOInnW38aF1x/oCx6dAKUdMzBFZSa1qHyZJdf5L+/9nFzCPAQzQxBubvbvFU=;Xc6faASw1+yp+jXggY5LHw=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/04/facebook-google-twitter-logos.png?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "6pAgih0ypsXcjO2xoViQLhwCD4RHJjWvhao+9/fGEMo0nn3C5Q3XHND9cqxzSnTtIhqYbGB9mHnFnNaowQXw33uVQqhK7rXsq1t6VgFNZhuFwDAB5WNaH8LMo+yvqwjtSIoRRj7kkDfTu4AtmILf6hPdIGM1Way7NyJI9vaHBrAw4f6NHOSGVz4caqV4RHJxKa+q2coCMz9FdKn3xpOmOZANoANxvRKqAvHCUPX1Iw7g2T0WyOpYv+vjcggMjdJpmmrw6Br2j73St+3rYCbsE58aNvgOnbxnASD15De73lPwB5xdlqN6j7z7REGcXbTxLF3XnRw6QDdMdbyEO3PhbwmUlxUduGuyEsuUIpcRn0Y=;v3X19CJ3VY2SyGt6mYG+TQ=="
 ---
 

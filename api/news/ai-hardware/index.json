@@ -105,7 +105,7 @@
       "originalUrl": "https://247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -184,49 +184,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-25-aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
-      "title": "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
-      "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service/article_c206b737-ac69-5f0a-be66-50489d991c91.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service/article_c206b737-ac69-5f0a-be66-50489d991c91.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/89/b8970e9f-a869-5c25-afab-1da10b378232/605c9b6e665fc.image.jpg?resize=648%2C360",
-          "width": 648,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-24-intel-will-build-x86-chips-for-other-companies.md",
       "title": "Intel will build x86 chips for other companies",
       "excerpt": "Intel said it plans to make available its x86 processor cores, graphics, and AI technology for licensing via its new foundry business.",
@@ -287,7 +244,7 @@
       "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1461,6 +1418,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-china-to-pour-more-money-into-chips-ai-5g-to-catch-us.md",
+      "title": "China to Pour More Money Into Chips, AI, 5G to Catch U.S.",
+      "excerpt": "Randy Abrams, head of Taiwan securities research at Credit Suisse Group AG, discusses China’s ambition to end its reliance on U.S. tech, the support that tech is receiving in China and his outlook for the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/videos/2021-03-15/china-to-pour-more-money-into-chips-ai-5g-to-catch-u-s-video",
+      "originalUrl": "https://www.bloomberg.com/news/videos/2021-03-15/china-to-pour-more-money-into-chips-ai-5g-to-catch-u-s-video",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIRzeeaO_z5E/v5/-1x-1.jpg",
+          "width": 950,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-12T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

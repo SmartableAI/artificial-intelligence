@@ -7,7 +7,7 @@ originalUrl: "https://www.commercialintegrator.com/blogs/there-are-issues-with-t
 webUrl: "https://www.commercialintegrator.com/blogs/there-are-issues-with-the-covid-19-diagnosis-machine-learning-algorithms/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1000
     height: 500
     isCached: true
-
-related:
-  - title: "300+ COVID-19 Machine Learning Models Have Been Developed – None Is Suitable for Detecting or Diagnosing"
-    excerpt: "Researchers have found that out of the more than 300 COVID-19 machine learning models described in scientific papers in 2020, none of them is suitable for detecting or diagnosing COVID-19 from standard medical imaging,"
-    publishedDateTime: 2021-03-24T10:37:00Z
-    webUrl: "https://scitechdaily.com/300-covid-19-machine-learning-models-have-been-developed-none-is-suitable-for-detecting-or-diagnosing/"
-    ampWebUrl: "https://scitechdaily.com/300-covid-19-machine-learning-models-have-been-developed-none-is-suitable-for-detecting-or-diagnosing/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/300-covid-19-machine-learning-models-have-been-developed-none-is-suitable-for-detecting-or-diagnosing/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 42
-    images:
-      - url: "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
 
 secured: "H+XUEICFVLE6aIWVtdngGpk8rMzSuJiYQwWzEA2KiR2faWP0+ElQU5jHDzztpzEqeX2TsnfwedScpKLxciPu5A5RB7W6fB6entKD99ajrTRhp5qlf2Ws0zCm3Z6AHdWgagcrvqhezQ7uNZQZILhB/s9lm1/cMe+CpP74FXgA4ZqTq36tLx9vdI2tZN7KiseqHklpYGNONGWQOUGnTuP4rgzB84mqR9dfcvx9KvyeX29SUv7npdLed3imCoU0ecSYB8u4Zz731xlpzD/8n64OYEOCVmk67fTgFm3hzX0vSJYT+gzw//X1pFiVOKAmCirOqShIj1tadcTvXqau9BsmHBb5A4B8dsEzTewiNL4TVeE=;X2wJq6hPhVNvdvY3crt2eA=="
 ---

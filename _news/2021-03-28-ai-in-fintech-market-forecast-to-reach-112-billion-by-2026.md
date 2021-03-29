@@ -45,38 +45,6 @@ related:
         width: 1000
         height: 565
         isCached: true
-  - title: "Feedzai raises $200M at a $1B+ valuation for AI tools to fight financial fraud"
-    excerpt: "On the heels of Jumio announcing a $150 million injection this week to continue building out its AI-based ID verification and anti-money laundering platform, another startup in the space is levelling up."
-    publishedDateTime: 2021-03-24T09:47:00Z
-    webUrl: "https://techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/"
-    ampWebUrl: "https://techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/24/feedzai-raises-200m-at-a-1b-valuation-for-ai-tools-to-fight-financial-fraud/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024"
-        width: 1024
-        height: 648
-        isCached: true
-  - title: "FinTech AI Startup Feedzai Raises $200 Million At $1 Billion Valuation"
-    excerpt: "FinTech artificial intelligence (AI) firm Feedzai raised $200 million in a Series D funding round that gives the Silicon Valley startup a valuation topping $1B."
-    publishedDateTime: 2021-03-24T10:59:00Z
-    webUrl: "https://www.pymnts.com/fraud-prevention/2021/fintech-ai-startup-feedzai-raises-200-million-at-1-billion-valuation/"
-    ampWebUrl: "https://www.pymnts.com/fraud-prevention/2021/fintech-ai-startup-feedzai-raises-200-million-at-1-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2021/fintech-ai-startup-feedzai-raises-200-million-at-1-billion-valuation/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 61
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/shutterstock_1137164627-1-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Financial Risk Fintech Feedzai Raises $200 Million led by KKR, Valuation Tops $1 Billion"
     excerpt: "The core offering is its artificial intelligence and machine learning platform, which processes customer ... said Feedzai offers a powerful solution to one of the biggest challenges facing financial services today. “We believe Feedzai’s platform ..."
     publishedDateTime: 2021-03-24T12:08:00Z

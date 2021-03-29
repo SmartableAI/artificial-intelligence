@@ -33,22 +33,6 @@ related:
         width: 648
         height: 360
         isCached: true
-  - title: "Dahua releases a new update to their Intelligent Video Surveillance Server to provide accurate AI functions"
-    excerpt: "As the saying goes, ‘There is always room for improvement.’ This year, Dahua Technology, a video-centric smart IoT solution and service provider, is once again utilising"
-    publishedDateTime: 2021-03-24T10:14:00Z
-    webUrl: "https://www.sourcesecurity.com/news/dahua-releases-update-intelligent-video-surveillance-co-4261-ga-npr.1616578853.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-releases-update-intelligent-video-surveillance-co-4261-ga-npr.1616578853.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-releases-update-intelligent-video-surveillance-co-4261-ga-npr.1616578853.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 41
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/dahua-global-virtual-innovation-centre-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
 
 secured: "YePx8qDRnM/IExRxoga9ZZsgNAhVFKnW6AvPziTc/3YHP8xee94FfinEucVCZqLJ+gfRg88ujrgl53Ta6FGcTk5U64ro120e2CnujI8xKSH6PuSGOyOJvfH8tQGzcGVjPlA2V6dvYZVcdkKQj6rCcXhu1GQDD4Opig5gcmsd4A8cNzHga/9Esu8hftWWG7xuKTs4RIeWYX8rcQGmPPeAeXis8ZZahem35sJRZN0yNEOol6uFCxAGoM1qiXldMCiM7bCo3pIxANMAmcOLPrV/yj3qMamf2mYUGmeITUMywhHRc0rvS2BfVQsNc8QnDBc05WHXWHQezmB9gGgMAYwhqBkG2M6ydnF7ltlQdwzY62U=;zQDvsvkPu6u5cO7N4dFs5Q=="
 ---

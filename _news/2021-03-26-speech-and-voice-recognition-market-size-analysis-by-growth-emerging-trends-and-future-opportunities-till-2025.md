@@ -103,20 +103,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Artificial Intelligence in Security Market: Trends 2021: Business Size & Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been"
-    publishedDateTime: 2021-03-24T09:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-business-size-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Food and Beverage Market Overview Highlighting Major Drivers, Trends, Growth and Demand Report 2020- 2027"
     excerpt: "Increasing need to improve food safety standards is a key factor driving growth of the global Artificial Intelligence (AI) in food and beverage market currently. The global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62."
     publishedDateTime: 2021-03-24T14:11:00Z
@@ -185,6 +171,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facial Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "\"Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security \" The ..."
+    publishedDateTime: 2021-03-29T02:59:00Z
+    webUrl: "https://menafn.com/1101823838/Facial-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "9Tv4AQamavU7nOl2uyXGSSM0vKbL6l0q3+O/rIs6dwM+2H6dXW7RRzQJWW2sp/EwfCIvOi2x5qJh8XHU42CL+CUoxHIAMar/MHAlo8WNf4LRcrRn5PS6Y6Vf0FqDqy1b01YjJA4Vhel6xLrFkneYtp0S8Ii8+RrZAtPvp1Xs8kK4VKrIe+5xh4s8hgFiRQvo9E2ubwETelV0XxxjkwSTTsmCvJUtKFtEBjoyHYTQIrviVrUTuc55vHaGWSQ2MGsh3oQyfJdQw0A7Rgw6fVOloQBoSPivJoxAXPfLS5ju/9nvZOBu9nZhaZkh0KUhIE98Sy7+bD68TS78ZU48sg+zsVtrtv8Cprtwer+V+eGCk44=;yfLlwiufqCNDOpo5T6gwnw=="

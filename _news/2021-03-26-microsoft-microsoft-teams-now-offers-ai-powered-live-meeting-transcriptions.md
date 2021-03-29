@@ -51,6 +51,20 @@ related:
       name: ABI Research
       domain: abiresearch.com
     quality: 75
+  - title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service"
+    publishedDateTime: 2021-03-29T02:51:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 69
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113"
+        width: 752
+        height: 408
+        isCached: true
   - title: "How Microsoft Azure is Powering Digital Transformation From the Cloud"
     excerpt: "Here’s an overview of its journey so far, and how it’s working to boost Microsoft Azure. In FY 2014 (July-June), Microsoft reported that its commercial cloud revenue hit a $4.4 billion annual run-rate."
     publishedDateTime: 2021-03-26T19:25:00Z

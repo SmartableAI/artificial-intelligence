@@ -106,20 +106,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Artificial Intelligence in Security Market: Trends 2021: Business Size & Share and Competitive Landscape Forecast to 2024 | Says Kenneth Research"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence in Security Market, which has been"
-    publishedDateTime: 2021-03-24T09:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-trends-2021-business-size-share-and-competitive-landscape-forecast-to-2024-says-kenneth-research-2021-03-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "European AI in Image Recognition Market Size, Share, Analysis, Industry Report and Forecast 2019-2025"
     excerpt: "The European AI in image recognition market is estimated to grow at a CAGR of over 27 during the forecast period Europe has a huge potential for the growth of AI owing to an advanced economy and significant investment The"
     publishedDateTime: 2021-03-27T08:18:00Z
@@ -174,6 +160,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facial Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "\"Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security \" The ..."
+    publishedDateTime: 2021-03-29T02:59:00Z
+    webUrl: "https://menafn.com/1101823838/Facial-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Speech and Voice Recognition Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
     excerpt: "Kenneth Research has published a detailed report on Speech and Voice Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"

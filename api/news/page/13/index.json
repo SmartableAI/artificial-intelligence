@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-03-16-artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Share Current and Future Industry Trends, 2020-2026",
+      "excerpt": "Selbyville, Delaware According to the recent research report titled 'Artificial Intelligence (AI) Chipsets Market Size By Product, By Technology, By Processing Type, By Industry Vertical, Industry Analysis Report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-share-current-and-future-industry-trends-2020-2026-2021-03-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips.md",
+      "title": "New Applied Materials Tools Use AI to Catch Mistakes on Chips",
+      "excerpt": "A new semiconductor manufacturing technology from Applied Materials uses artificial intelligence, or AI, to spot mistakes in chips more effectively, the U.S. company said on Tuesday. Modern chip manufacturing happens in factories that cost upward of $18 billion each to build and requires hundreds of separate steps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-16T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance.md",
       "title": "ByteDance team to develop AI chips as China aims for self-reliance",
       "excerpt": "Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company's job postings and a source familiar with the situation.",
@@ -1125,110 +1220,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new-funding-said-to-be-at-us2-billion-valuation.md",
-      "title": "Chinese online search giant Baidu’s AI chip unit Kunlun completes new funding, said to be at US$2 billion valuation",
-      "excerpt": "recently completed a round of fundraising, which according to one source with direct knowledge of the matter values the business at about US$2 billion. The fundraising, which comes as Baidu pushes forward its AI chip design plans, was led by Chinese ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/15/a8a8db3b-e451-4f65-888f-982bc77e57b6_c78271b9.jpg?itok=rc5XR52f&v=1615794453",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125488/chinese-online-search-giant-baidus-ai-chip-unit-kunlun-completes-new",
-      "publishedDateTime": "2021-03-15T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount.md",
-      "title": "Cruise acquires driverless vehicle startup Voyage for an undisclosed amount",
-      "excerpt": "GM-backed Cruise today announced that it’s acquiring Voyage, following a report in Bloomberg. The terms of the deal weren’t disclosed, but Voyage CEO Oliver Cameron said that “key members” of the Voyage team will join Cruise when the purchase is finalized later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/",
-      "originalUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/Voyage-fleet-of-self-driving-Chrysler-Pacifica-hybrid-minivans.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 789,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/15/cruise-acquires-driverless-vehicle-startup-voyage-for-an-undisclosed-amount/amp/",
-      "publishedDateTime": "2021-03-15T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting-2021-03-25"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period | ARC"
+    excerpt: "pune, India, Thu, 25 Mar 2021 02:19:22 / Comserve Inc. / -- the global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. Global Wearable ..."
+    publishedDateTime: 2021-03-25T02:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-is-expected-to-grow-at-noteworthy-cagr-around-27-throughout-the-forecast-period-arc-2021-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Neural Networks Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
     excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
     publishedDateTime: 2021-03-25T13:45:00Z

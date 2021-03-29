@@ -7,8 +7,8 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aidan
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service/article_c206b737-ac69-5f0a-be66-50489d991c91.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: WFMZ-TV
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dahua releases a new update to their Intelligent Video Surveillance Server to provide accurate AI functions"
-    excerpt: "As the saying goes, ‘There is always room for improvement.’ This year, Dahua Technology, a video-centric smart IoT solution and service provider, is once again utilising"
-    publishedDateTime: 2021-03-24T10:14:00Z
-    webUrl: "https://www.sourcesecurity.com/news/dahua-releases-update-intelligent-video-surveillance-co-4261-ga-npr.1616578853.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/dahua-releases-update-intelligent-video-surveillance-co-4261-ga-npr.1616578853.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/dahua-releases-update-intelligent-video-surveillance-co-4261-ga-npr.1616578853.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 41
-    images:
-      - url: "https://www.sourcesecurity.com/img/news/612/dahua-global-virtual-innovation-centre-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
   - title: "AiDANT Picks Core Scientific for GPU-as-a-Service"
     excerpt: "Core Scientific, an infrastructure and software solutions provider for artificial intelligence and blockchain, announced it will provide AiDANT, an AI computer vision technology company, full access to high performance NVIDIA RTX servers in an as-a-service model."
     publishedDateTime: 2021-03-25T15:07:00Z

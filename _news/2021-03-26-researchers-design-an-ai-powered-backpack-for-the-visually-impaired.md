@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cutting Edge Intel AI-Powered Backpack Could Replace A Guide Dog For Blind People"
-    excerpt: "An innovative AI-powered wearable camera system holds promise in revolutionizing independent mobility for visually impaired people. Deploying state-of-the-art Intel processors and hardware to provide real-time spatial recognition."
-    publishedDateTime: 2021-03-24T14:10:00Z
-    webUrl: "https://www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/"
-    ampWebUrl: "https://www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/amp/"
+  - title: "Backpack AI system helps the visually-impaired navigate safely"
+    excerpt: "There, a computing unit like a laptop or Raspberry Pi runs an AI interface called OpenCV’s Artificial Intelligence Kit with Depth (OAK-D), which uses neural networks to analyze the visual data."
+    publishedDateTime: 2021-03-29T02:44:00Z
+    webUrl: "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/"
+    ampWebUrl: "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/visually-impaired-blind-backpack-ai/?amp=true"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
+      name: New Atlas
+      domain: newatlas.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b2d6c972feef9ce1e1a00%2F0x0.jpg"
+      - url: "https://assets.newatlas.com/dims4/default/ecd4812/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff0%2F62%2Faa5e4925429e85fbf7af32b6c1b3%2Fdepositphotos-355246818-l-2015.jpg"
         width: 1200
         height: 800
         isCached: true
@@ -71,6 +71,15 @@ related:
         width: 651
         height: 366
         isCached: true
+  - title: "Video: AI-powered backpack helps visually impaired navigate"
+    excerpt: "(AI)-powered, voice-activated backpack that helps the visually impaired navigate and perceive the world around them. The backpack can detect common challenges such as traffic signs, hanging obstacles,"
+    publishedDateTime: 2021-03-25T12:34:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16509/video-ai-powered-backpack-helps-visually-impaired-navigate"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
 
 secured: "a1/mtca9PoPkiQbEZALF0xJHqxQaARAO8weVai9Io3uJ2u7sBf+iMPhRFHue8Rdq5zL6ckJQKlc9KX8X1UvKhlIGmfz1oUEbQ4in/nBusPk93tSO4b3tMgI+a68li1c3zuUmwl5bht9/CL1pTVYPNM6Vb2V8m6z7VDTLCuhxD7eW/Rw5FzlgJQIV3vbVoG0rJZO4zId5sSIUfmLNoHFZa+RbfGBD38zuvIa1CULiaaV69a393GLY2thIMo28i40m7qCt1dLNwJfIRcjthG5tjQhBarmlxeJR8BxV/uaZeG9zswc4tdEdpbh3U1rTG+X2amR0zxafYasvTpnGYmGH0lKFlZ+DAXMXSXyAlEuOyvM=;8Klf5Qs4NetOVjtQVFHJ3Q=="
 ---

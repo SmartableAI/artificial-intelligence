@@ -57,6 +57,20 @@ related:
         width: 5194
         height: 3463
         isCached: true
+  - title: "Tech giant CEOs willing to set AI standards"
+    excerpt: "The CEOs of Silicon Valley tech giants Facebook, Twitter, and Google have all agreed to allow more scrutiny into how their algorithms instruct the flow of information online. During a US congress hearing into disinformation on social media,"
+    publishedDateTime: 2021-03-29T02:17:00Z
+    webUrl: "https://ia.acs.org.au/article/2021/tech-giant-ceos-willing-to-set-ai-standards.html"
+    type: article
+    provider:
+      name: acs.org.au
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/twitter%20google%20facebook%20logos.jpg"
+        width: 811
+        height: 457
+        isCached: true
 
 secured: "9Lw4TYShCUgrGbyo4j3jjodPtS0mnfy6DqKyzMr8JHq4tOKjA80LzRLgkYVAA27q/1H31gVNOQVnLH3a0Fskv7lK9OUOxGtV9OF4fZ3iN7FrUQn0rTRt8JQ2kny8YLuL5JOnLz1Lnl7+JIsrc1w+fdMXC9UlyDheof2UHqQ0nco7aLyX+XY8vaPTlPSztcHjRsz0oOS39wX+h0Ss8kWGhPZaBuAwb3Xcifo/2opqQam9girb9omHo2B18BxUKICzXYbuR5GpYaMeaGJovPhJ/w6f7t2mvxofF800NPrxVonShdnx4qPIfLbL/ZwLWVoCo4ZF1NO0ETzahCzDhW/cEk+qERVWr8v1YkdipQUsZdI=;QU8lFV7A0nNTUxv/Ggx4KQ=="
 ---
