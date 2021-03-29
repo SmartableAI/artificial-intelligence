@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-grea
 ampWebUrl: "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/"
 type: article
-quality: 82
-heat: 102
+quality: 84
+heat: 104
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/ai-4.jpg?w=1200&strip=all"

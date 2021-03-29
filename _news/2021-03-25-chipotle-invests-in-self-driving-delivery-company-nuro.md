@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Shenzhen city works out regulations to guide self-driving vehicles"
-    excerpt: "ICVs is a notion that vehicles realize self-driving and the traffic efficiency will be greatly improved through the in-built advanced sensors, controllers and actuators, as well as the in-vehicle and inter-vehicle communication networks. The draft laws ..."
-    publishedDateTime: 2021-03-24T07:32:00Z
-    webUrl: "https://www.globaltimes.cn/page/202103/1219294.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 24
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-03-24/0bd57d96-0641-4855-9efb-f725917b018d.jpeg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "City of Arlington launches on-demand self-driving shuttle service with RAPID"
     excerpt: "The city of Arlington, Texas, and Via are now offering Via Arlington customers a choice to be picked up in a self-driving vehicle for trips around downtown and the University of Texas at Arlington (UTA). The Arlington RAPID pilot program, available to ..."
     publishedDateTime: 2021-03-24T15:51:00Z

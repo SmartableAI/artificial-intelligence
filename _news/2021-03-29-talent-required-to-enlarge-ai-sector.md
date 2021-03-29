@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-28T23:25:00Z
 originalUrl: "https://www.bangkokpost.com/business/2091323/talent-required-to-enlarge-ai-sector"
 webUrl: "https://www.bangkokpost.com/business/2091323/talent-required-to-enlarge-ai-sector"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://static.bangkokpost.com/media/content/dcx/2021/03/29/3933291_700.jpg"
@@ -23,6 +24,6 @@ images:
     height: 467
     isCached: true
 
-secured: "Y0Lw7EUx7sXK09F9L/WMmsqfl1JWCgfgcs3vHtXp4MfKI7h2IyMDQGuJaPp1Mh1Uc7NZQE3F/uzKt8fE9WteW+IDsWXg4NsswatKEASfUmZZ3DtITJ6/sh9MLgHy2w6NBvNGYPlYwTjhYrNBphzWI5lAqHHPij+l6CKd7U6DVBQq0CHqrIbJ2YNHza6mmG76CECuUdIZ2HkkGdqSXdXQeYt1JI+2w8BuFpJUPfH0x6C/8pl19XGPRgV72l1E2GjqeiUqHFanizK0xItbcPWIwwzidEhhuZ9STQs7zpehGwqSPn8yIjvYdfGiekIINGfyx6wY23fp4gf1NyKHqvQS/gQn9XQvldJeOSFEfGn3ims=;LYF0SrP0mgLJkDNKrqlExw=="
+secured: "pdL4uoaHYuVn/GpML/qyhAtQrDM++HvfFbl0Qjq2X5MN+AkJkzLdJHYfNTDDD9KRuiaAPD+zPkoqMLK7QpUst7cJNWd+36cK2ki8zAzNqHtQ9fxtbbjJiW/+ycImOJ2HcL4koYSRCaM/5bXQzkYkyq6vuk3bagK3ue26uQzs/KN0MjLLz45G0eeQZMUVXPDQw21B8yy2zPtm3GD526eoNIVJzwhgk1B1RMIiHFeKEqs/jPnjqCyNfwPSRD1OrqVkcNbGMGNtdoFHMNJVS85/U2Ap4hSUXWFa9Xc7VPbY009YcPx2N8mK8/UO87L+sp/yZXIdf5/6jQBbhah8ha+YdH0nBI0230kjzmWgxTU1Lnvud33GRi01a0FKgEItfBX4pKQyuQL2UN5kobqdKPGlV5rlw+szrxWpKkLE7SU9oiX8MgfzOohlFa/N70KU6U+kemjI//k5xNCk1n9rIAcdoxVeqFLGLQcN8PdrmVINiLUfijPhNl740dQ0jvR0S/8U5pGxVREsDXSPfsYQzpVnHw==;1mFahKbhhd3yQvzR0Gn2mQ=="
 ---
 

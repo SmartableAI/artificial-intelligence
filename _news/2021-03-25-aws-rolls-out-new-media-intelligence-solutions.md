@@ -9,7 +9,7 @@ ampWebUrl: "https://www.rapidtvnews.com/2021032560166/aws-rolls-out-new-media-in
 cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021032560166/aws-rolls-out-new-media-intelligence-solutions.amp.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon Web Services debuts intelligent services"
-    excerpt: "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ..."
-    publishedDateTime: 2021-03-24T08:59:00Z
-    webUrl: "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services"
-    ampWebUrl: "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 59
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/03/AWS-MI.jpg"
-        width: 400
-        height: 333
-        isCached: true
   - title: "EditShare Announces Support for AWS Media Intelligence Solutions"
     excerpt: "EditShare, a technology leader that specializes in collaboration, security, and intelligent storage solutions for media creation and management, announces support for the Amazon Web"
     publishedDateTime: 2021-03-24T13:00:00Z

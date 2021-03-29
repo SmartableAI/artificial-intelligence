@@ -57,20 +57,6 @@ related:
         width: 400
         height: 210
         isCached: true
-  - title: "Shenzhen city works out regulations to guide self-driving vehicles"
-    excerpt: "ICVs is a notion that vehicles realize self-driving and the traffic efficiency will be greatly improved through the in-built advanced sensors, controllers and actuators, as well as the in-vehicle and inter-vehicle communication networks. The draft laws ..."
-    publishedDateTime: 2021-03-24T07:32:00Z
-    webUrl: "https://www.globaltimes.cn/page/202103/1219294.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 24
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-03-24/0bd57d96-0641-4855-9efb-f725917b018d.jpeg"
-        width: 800
-        height: 480
-        isCached: true
 
 secured: "DCRx8UnFiF94vpDFMxgcipSYQ42/gBl9EbD7T1gzdjXS81WwpsgLm+7kwITB6ycmXObOCttbjdL2XfOConsDHLr/slJa793IeSvwnE6zzpfJh9TnIi9FbwmwOSbooQX4nf+0Wop7RPFmJ51ExjZPYWpc14KzG8hvCv7rJ7xiQbGBkuQTQ/r4I2YsB1PWGE509sBpi3LBnSX6W0nvMaTqv9CGG10OvfUGUY6La6HhzOgvW1K+aOWlZypnUEC0Pa8PinIbJAavZpTC6BAs2vTFbQG0ej+r9NlqdtzBBhC18im8QGlViLpWzahFiA8L6z8bB1S9vSfL9hjEWQ4RHJ22ilK4bKvT5l8dNEPCHM5ALWE=;6GH5OdZIS8ikRkCP5/rXZQ=="
 ---

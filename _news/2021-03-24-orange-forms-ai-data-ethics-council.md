@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/orange-fo
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/orange-forms-ai-data-ethics-council/amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 600
     height: 375
     isCached: true
-
-related:
-  - title: "Orange appoints 11-member advisory body on data and AI ethics"
-    excerpt: "Orange has announced its latest initiative to support an ethical and socially responsible development of systems based on data and artificial intelligence. A new Data and AI Ethics Council has been appointed to advise the business,"
-    publishedDateTime: 2021-03-24T08:56:00Z
-    webUrl: "https://www.telecompaper.com/news/orange-appoints-11-member-advisory-body-on-data-and-ai-ethics--1377069"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
 
 secured: "RH1izQlJOWjq22n6GltoGd/xjf+6fN/TlesGFw/Cexb04B7wDa3L/eBr6fEeWP+gcI9JpbDeKVwN21Jo9+xji7fC5voSRhh+zGUDSXaYWZgCWpKof7bLXEwxZNm/n5ipvQt9t8P+lWj8kHJofMWLMw6u6kQa+md2MMUYyQ4NZH2ZDTETcvDaXDHpjHYlxSvawO6MpQYsODxZCGl2AE29NfdylWr/9txWX6qPzqt47CtVw5xGBV4tvA9e+W32t8uYapJbaVxgkLG8bQGkwt+rtTVZ+MIOP4dnJ71x9eqMIy08E7YCr4n/PIGqUGwxRBgzt9oanHuRQINm0OdNNU0VZCyKHu6zLVsBDyEYg0cHgTuD0JJ98ly985pp+36EXr3z+M1g6TeWFhW0Uu+VxFWbtgEHPi0qHRQbkahWWCJjMhahqpGmUj65nUq8/KcSFgoEXIJ7oD4x6GxTevgjXpoan1yNHr0i9JyD5fuIzHNIFMRXXHKAMSD+2j772Eo+Zct1mCuj7WOGJX8fFTxyZEzvVg==;VTv63nT3rDAz+XROUMuzOg=="
 ---
