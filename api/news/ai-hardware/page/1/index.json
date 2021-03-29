@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-28-ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia.md",
+      "path": "_news/2021-03-29-ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia.md",
       "title": "AI chip start-up Groq in fundraising talks to take on Nvidia",
-      "excerpt": "Semiconductor start-up Groq is in talks with investors about a round of funding that would make it one of the most well-capitalised challengers to specialised artificial intelligence chipmakers such as Nvidia.",
+      "excerpt": "Semiconductor manufacturers compete in race to develop machine-learning applicationsRead more on 'Financial Times Companies'",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/7e45b9a6-1f94-4229-b985-09958503b410",
-      "originalUrl": "https://www.ft.com/content/7e45b9a6-1f94-4229-b985-09958503b410",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 94,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F435d0bcc-4aff-4ef8-bc8c-d8d4446a0f4e.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/7e45b9a6-1f94-4229-b985-09958503b410",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/7e45b9a6-1f94-4229-b985-09958503b410",
-      "publishedDateTime": "2021-03-28T05:00:00-07:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
+      "publishedDateTime": "2021-03-28T21:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {

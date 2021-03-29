@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/video/watch/navigating-the-hype-around-art
 webUrl: "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Get the training you need to become adept at AI and Machine Learning"
-    excerpt: "The first class will give you the foundations you need when it comes to artificial intelligence and machine learning. Over the course of 72 lectures, this course provides the basics of Deep Learning by giving an insight of different neural networks."
-    publishedDateTime: 2021-03-28T20:14:00Z
-    webUrl: "https://www.popsci.com/story/sponsored-post/essential-ai-machine-learning-certification-taining-bundle/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 54
-    images:
-      - url: "https://www.popsci.com/app/uploads/2021/03/23/sale_25319_article_image-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "UK is planning to develop its National AI Strategy by following the Council"
     excerpt: "The UK’s National AI Strategy capitalizes on the power of AI to boost the economy. They recently announced the commitment towards transforming the strategy by including the advice from the AI Council."
     publishedDateTime: 2021-03-26T17:34:00Z

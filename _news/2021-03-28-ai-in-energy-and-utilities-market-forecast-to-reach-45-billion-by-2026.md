@@ -28,183 +28,126 @@ images:
     isCached: true
 
 related:
-  - title: "US AI in Healthcare Market Trends, Size, Competitive Analysis and Forecast 2019-2025"
-    excerpt: "The US AI in healthcare market is estimated to grow significantly at a CAGR of 50.2% during the forecast period. The factors that are contributing significantly to the market growth include R&D, and high expenditure by the government as well as a private ..."
-    publishedDateTime: 2021-03-27T09:22:00Z
-    webUrl: "https://www.openpr.com/news/2262820/us-ai-in-healthcare-market-trends-size-competitive-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2262820/us-ai-in-healthcare-market-trends-size-competitive-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262820/us-ai-in-healthcare-market-trends-size-competitive-analysis"
+  - title: "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ..."
+    publishedDateTime: 2021-03-28T13:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 67
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://cdn.openpr.com/U/3/U327238491_g.jpg"
-        width: 800
-        height: 904
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "North American AI in Healthcare Market Trends 2019 | Segmentation, Outlook, Industry Report to 2025"
-    excerpt: "The North American AI in healthcare market is estimated to grow significantly at a CAGR of 50.4% during the forecast period. The North American market for AI in healthcare is analyzed based on countries such as the US and Canada. The factors that are ..."
-    publishedDateTime: 2021-03-27T09:05:00Z
-    webUrl: "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019"
-    ampWebUrl: "https://www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019"
+  - title: "Artificial Intelligence (AI) In Sports Market Value Projected To Reach US$ 3,555.9 Million By 2027: Acumen Research And Consulting"
+    excerpt: "The Global Artificial Intelligence (AI) in Sports Market is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and reach the market value of over US$ 3,555.9 Mn by 2027. Artificial intelligence in sports is estimated to experience prominent growth over the forecast period from 2020 to 2027."
+    publishedDateTime: 2021-03-26T00:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting-2021-03-25"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 60
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
-      - url: "https://cdn.openpr.com/U/3/U327247103_g.jpg"
-        width: 800
-        height: 904
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Chip Market to Reach $114.2 Billion by 2027: COVID impact, Trends and Forecast"
-    excerpt: "As a result, the COVID-19 is seen to be driving the AI (chipsets) demand for some end-use industries.” Competitive Scenario Some of the major Artificial Intelligence Chip players holding high market share include NVIDIA COPORATION, ALPHABET INC., APPLE ..."
-    publishedDateTime: 2021-03-24T17:00:00Z
-    webUrl: "https://www.openpr.com/news/2261323/global-artificial-intelligence-chip-market-to-reach-114-2"
-    ampWebUrl: "https://www.openpr.com/amp/2261323/global-artificial-intelligence-chip-market-to-reach-114-2"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2261323/global-artificial-intelligence-chip-market-to-reach-114-2"
+  - title: "Fintech will be the silver bullet for growth in 2021"
+    excerpt: "The fintech sector has facilitated business growth during the pandemic. What seemed like an option in 2019, has become an imperative. There has been a clear shift of digital payments from a nice idea to an essential service."
+    publishedDateTime: 2021-03-26T09:36:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/fintech-will-be-the-silver-bullet-for-growth-in-2021/article34169280.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/fintech-will-be-the-silver-bullet-for-growth-in-2021/article34169280.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/fintech-will-be-the-silver-bullet-for-growth-in-2021/article34169280.ece/amp/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
-    images:
-      - url: "https://cdn.openpr.com/U/3/U324484228_g.jpg"
-        width: 800
-        height: 677
-        isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Analysis, Segmentation, Key Players, Opportunities And Forecast 2021-2028"
-    excerpt: "It Intelligence Markets one of the world s leading market research firms has rolled out a new report on Natural Language Processing NLP in Healthcare and Life Sciences market The report is integrated with crucial insights on the market which"
-    publishedDateTime: 2021-03-27T13:10:00Z
-    webUrl: "https://www.openpr.com/news/2262865/natural-language-processing-nlp-in-healthcare-and-life"
-    ampWebUrl: "https://www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
-    images:
-      - url: "https://cdn.openpr.com/U/3/U327650672_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Qualitative Analysis: In-depth Analysis of the Artificial Intelligence in Agriculture Market"
-    excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed 6000 million by 2027 growing at a CAGR of 25 50 from 2020 to 2027 The report includes"
-    publishedDateTime: 2021-03-29T06:56:00Z
-    webUrl: "https://www.openpr.com/news/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
-    ampWebUrl: "https://www.openpr.com/amp/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262967/qualitative-analysis-in-depth-analysis-of-the-artificial"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
-    images:
-      - url: "https://cdn.openpr.com/U/3/U329196813_g.jpg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Service Robotics Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Asia-Pacific is anticipated to display the highest CAGR owing to increasing government investments in robotics and artificial intelligence, rising focus on R & D. Besides these, the growing demand ..."
-    publishedDateTime: 2021-03-29T07:41:00Z
-    webUrl: "https://menafn.com/1101823848/Service-Robotics-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "European AI in Image Recognition Market Size, Share, Analysis, Industry Report and Forecast 2019-2025"
-    excerpt: "The European AI in image recognition market is estimated to grow at a CAGR of over 27 during the forecast period Europe has a huge potential for the growth of AI owing to an advanced economy and significant investment The"
-    publishedDateTime: 2021-03-27T08:18:00Z
-    webUrl: "https://www.openpr.com/news/2262802/european-ai-in-image-recognition-market-size-share-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
+      name: Business Line
+      domain: thehindubusinessline.com
     quality: 44
     images:
-      - url: "https://cdn.openpr.com/U/3/U327813450_g.jpg"
-        width: 800
-        height: 904
+      - url: "https://www.thehindubusinessline.com/money-and-banking/7t7llp/article34169279.ece/ALTERNATES/LANDSCAPE_615/bl26fintech1"
+        width: 615
+        height: 384
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Research, Consumption, Companies, Industry Report, Analysis and Future Demand By 2025"
-    excerpt: "Mar 25, 2021 (AmericaNewsHour) -- Kenneth Research has published a detailed report on Artificial Intelligence in Manufacturing Market which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis ..."
-    publishedDateTime: 2021-03-26T00:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-research-consumption-companies-industry-report-analysis-and-future-demand-by-2025-2021-03-25"
+  - title: "The Worldwide Artificial Intelligence in Genomics Industry is Expected to Reach $1.6 Billion by 2025"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, March 25, 2021 /PRNewswire/ -- The \"Artificial Intelligence In Genomics Market by Offering (Software, Services ..."
+    publishedDateTime: 2021-03-25T20:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-artificial-intelligence-in-genomics-industry-is-expected-to-reach-1-6-billion-by-2025-1030247690"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+  - title: "RIA-Founded Fintech Introduces Next-Generation Tax Planning Tool"
+    excerpt: "FP Alpha's AI-driven Tax Snapshot can instantly read and create planning recommendations from client tax forms."
+    publishedDateTime: 2021-03-24T20:24:00Z
+    webUrl: "https://www.fa-mag.com/news/ria-founded-fintech-introduces-next-generation-tax-planning-tool-61092.html"
+    type: article
+    provider:
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
         width: 1200
-        height: 630
+        height: 1200
         isCached: true
-  - title: "Machine learning as a Service Market 2021: Global Industry Analysis Report to 2027"
-    excerpt: "Machine learning as a Service MLaaS market is estimated to grow from USD 613 4 million in 2016 to USD 3755 0 million by 2021 at a CAGR of 43 during the forecast period Machine learning is a computing technique"
-    publishedDateTime: 2021-03-27T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
+  - title: "Risk management challenges on Fintechs labor to financial inclusion"
+    excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
+    publishedDateTime: 2021-03-25T02:04:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/risk-management-challenges-on-fintechs-labor-to-financial-inclusion-nid-33194-cid-254.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-  - title: "Global Automotive Artificial Intelligence Market 2020 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2025"
-    excerpt: "Mar 28, 2021 (CDN Newswire via Comtex) -- The recently uploaded report titled Global Automotive Artificial Intelligence Market Growth (Status and Outlook) 2020-2025 delivers detailed information on the industry including classifications, applications ..."
-    publishedDateTime: 2021-03-28T19:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2025-2021-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "\"Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security \" The ..."
-    publishedDateTime: 2021-03-29T02:59:00Z
-    webUrl: "https://menafn.com/1101823838/Facial-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+      - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
         width: 300
-        height: 250
+        height: 300
         isCached: true
-  - title: "Speech and Voice Recognition Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
-    excerpt: "Kenneth Research has published a detailed report on Speech and Voice Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
-    publishedDateTime: 2021-03-25T23:05:00Z
-    webUrl: "https://menafn.com/1101807678/Speech-and-Voice-Recognition-Market-Size-Analysis-by-Growth-Emerging-Trends-and-Future-Opportunities-Till-2025"
+  - title: "SME-focused fintech acquired by Sage"
+    excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
+    publishedDateTime: 2021-03-29T07:42:00Z
+    webUrl: "https://www.insidermedia.com/news/coronavirus/sme-focused-fintech-acquired-by-sage"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?212595"
-        width: 437
-        height: 250
+      - url: "https://www.insidermedia.com/uploads/news/resized/Stock_exchange-37604-1616770579.jpg"
+        width: 960
+        height: 540
         isCached: true
+  - title: "Artificial Intelligence in Military Market by Offering, Technology, Application, Installation Type, Platform and Region - Global Forecast to 2025"
+    excerpt: "The \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type, Platform, Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-03-26T11:56:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 20
+    images:
+      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
+        width: 344
+        height: 344
+        isCached: true
+  - title: "Top 10 best countries to start a fintech"
+    excerpt: "Fintech in the financial services market has been adopted quickly by certain demographics that for years have been underserved by the incumbent institutions. The US is also a world leader in technology and particularly AI innovations, which means its ..."
+    publishedDateTime: 2021-03-27T09:34:00Z
+    webUrl: "https://www.fintechmagazine.com/top10/top-10-best-countries-start-fintech/usa"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "845lFU8EIQ4LPxYL/+I94mN/3Wk8drUfM656y9KqoUbXYdyvlR7N5fcee0Z1sjZWeC3oYhWEnFfJMJr5odQ4AvWn23S2aY/QJolQ4k4frmvGXDaNmU9bitmgLa6C3Q18qiDxmu9ht69r+tyMWk5IkgyCgtDrmwDHXJxkIm/MCWjegy7qopU7rPCKMP0QSJMLbcxMsNCxgVB4Si+AQQiKUcwJBSJJ/NQVPV14iPkIcHwMZGjjgOID6MrKqXEnIPnWLEsfUWx5rj4X8LFlMgTqGmrVWNKMJzT9TcYPsovM+Ca0c/m03ljDIWJQWuuCZ/YBRLkkfTMiLYoqiHde59+epAA1jC4nAVehNXNcjd439u0=;s+lRSK0IVQGjyLJADVQT7g=="
 ---

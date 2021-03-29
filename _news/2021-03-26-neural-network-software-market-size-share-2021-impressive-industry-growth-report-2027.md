@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2262380/neural-network-software-market-si
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262380/neural-network-software-market-size-share-2021-impressive"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Deep Neural Networks Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
+    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
+    publishedDateTime: 2021-03-25T13:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sGgaJthtSsBAR35Oechojq+gX3UYdlAcPMb3hn/tlTQwxtgl0k1ZWCcjhovhCJn3Tjg4V5ys65q026iorufT0SaFhcOQ0AbZ1H1o67wxJ+rviLmf8V9Nlmw9+9HEkcDUhacMKMO/cXlh5WvX9coV+ndLUfWYQj8Dcu1JckFEHrxS187gxPGguoSt8AZanO+NCh7wpBJRIx2df0kgzFY9h+EAVcqhjgG55pnKldu+BRYWbtsZP9R8E1PYCVeu8bcv1nS4188clYgIN69vglmvVD02ZDnkh8j53b9ymHzdCf7ITjeVu1amtIVYhJuspFhY7O1oV7sAA7dXh8JupN4NOaGLi4SbcDO0w2bEUO0hfVQ=;AfISdeSHJIMlYsdnlc5v7Q=="
 ---

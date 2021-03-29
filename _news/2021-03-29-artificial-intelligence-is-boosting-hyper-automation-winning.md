@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-29T05:00:00Z
 originalUrl: "https://www.analyticsinsight.net/artificial-intelligence-is-boosting-hyper-automation-winning/"
 webUrl: "https://www.analyticsinsight.net/artificial-intelligence-is-boosting-hyper-automation-winning/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-24.jpg"

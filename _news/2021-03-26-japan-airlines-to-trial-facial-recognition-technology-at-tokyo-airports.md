@@ -33,6 +33,20 @@ related:
         width: 620
         height: 330
         isCached: true
+  - title: "Japanese airports to trial facial recognition technology for passenger boarding"
+    excerpt: "a new facial recognition technology for boarding procedures, at Narita International and Tokyo International airports. From April 13, passengers will be able register their facial image in Face Express and then access and proceed through subsequent ..."
+    publishedDateTime: 2021-03-29T09:42:00Z
+    webUrl: "https://www.passengerterminaltoday.com/news/biometrics/japanese-airports-to-trial-facial-recognition-technology-for-passenger-boarding.html"
+    type: article
+    provider:
+      name: Passenger Terminal
+      domain: passengerterminaltoday.com
+    quality: 50
+    images:
+      - url: "https://www.passengerterminaltoday.com/wp-content/uploads/2021/03/PTW-web-news-29-3-Face-Express-1.png"
+        width: 702
+        height: 261
+        isCached: true
   - title: "Philly airport screening international travelers using facial recognition technology"
     excerpt: "The Simplified Arrival system has processed 66 million people at other U.S. airports, flagging more than 500 imposters"
     publishedDateTime: 2021-03-26T18:49:00Z
@@ -44,20 +58,6 @@ related:
       name: PhillyVoice
       domain: phillyvoice.com
     quality: 49
-  - title: "Psychology behind facial recognition"
-    excerpt: "Facebook profile picture forensic interactive face recognition software tasks identification Super recognisers surveillance CCTV British Journal Psychology"
-    publishedDateTime: 2021-03-24T16:41:00Z
-    webUrl: "https://www.professionalsecurity.co.uk/news/case-studies/psychology-behind-facial-recognition/"
-    type: article
-    provider:
-      name: professionalsecurity.co.uk
-      domain: professionalsecurity.co.uk
-    quality: 39
-    images:
-      - url: "https://www.professionalsecurity.co.uk/wp-content/uploads/2021/03/Frost314.jpg"
-        width: 343
-        height: 457
-        isCached: true
 
 secured: "dwmtYruib8cVEvroTmV0LS+lhz3TuYtryEJ4mEQQZXMtIHorG2HfZaxA23BKXv3V1Zn8A/F7buFVtPDg63NoSSZu3e6o8itUSmYOTGegOF164qjC5MDsVG0jxUkKJwFoteYBbfvAsyTBdJvGNSTLLwYREpoqmHM0B5/yF9plKTcnHPNT6wAyU+NEb5bFbj+QmsYZn5DQiu8X/hwMD9NWr3mciPksZJqRuIYmo2Ycn9E8xfcRvRvLGELZYRkqssgtglbEVQVZAucWP7GSRcfnGbb8JRQ2RaaNw0FLTe4Xzgfi6yT2sx/DhdskLongjm8HdJ8OBz+oALVoIOQaYWaT8UTQyj4WIVuzgw4pspH74S0=;5nnUeNJpRDrxrQe4jRNLHA=="
 ---

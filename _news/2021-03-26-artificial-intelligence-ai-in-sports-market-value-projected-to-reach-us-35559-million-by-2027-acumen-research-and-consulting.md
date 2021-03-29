@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting-2021-03-25"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,34 +28,126 @@ images:
     isCached: true
 
 related:
-  - title: "Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period | ARC"
-    excerpt: "pune, India, Thu, 25 Mar 2021 02:19:22 / Comserve Inc. / -- the global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. Global Wearable ..."
-    publishedDateTime: 2021-03-25T02:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-is-expected-to-grow-at-noteworthy-cagr-around-27-throughout-the-forecast-period-arc-2021-03-25"
+  - title: "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ..."
+    publishedDateTime: 2021-03-28T13:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Neural Networks Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
-    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
-    publishedDateTime: 2021-03-25T13:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-25"
+  - title: "AI in Energy and Utilities Market Forecast to Reach $4.5 Billion by 2026"
+    excerpt: "AI in Energy and Utilities Market Segment Analysis - By Application ... SE (France), AppOrchid Inc. (U.S), Zen Robotics Ltd. (Finland) and others. DeepMind, a startup acquired by Google, will add artificial intelligence to the electricity system of UK ..."
+    publishedDateTime: 2021-03-28T13:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-energy-and-utilities-market-forecast-to-reach-45-billion-by-2026-2021-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Fintech will be the silver bullet for growth in 2021"
+    excerpt: "The fintech sector has facilitated business growth during the pandemic. What seemed like an option in 2019, has become an imperative. There has been a clear shift of digital payments from a nice idea to an essential service."
+    publishedDateTime: 2021-03-26T09:36:00Z
+    webUrl: "https://www.thehindubusinessline.com/money-and-banking/fintech-will-be-the-silver-bullet-for-growth-in-2021/article34169280.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/fintech-will-be-the-silver-bullet-for-growth-in-2021/article34169280.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/fintech-will-be-the-silver-bullet-for-growth-in-2021/article34169280.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://www.thehindubusinessline.com/money-and-banking/7t7llp/article34169279.ece/ALTERNATES/LANDSCAPE_615/bl26fintech1"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "The Worldwide Artificial Intelligence in Genomics Industry is Expected to Reach $1.6 Billion by 2025"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, March 25, 2021 /PRNewswire/ -- The \"Artificial Intelligence In Genomics Market by Offering (Software, Services ..."
+    publishedDateTime: 2021-03-25T20:32:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-artificial-intelligence-in-genomics-industry-is-expected-to-reach-1-6-billion-by-2025-1030247690"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
+  - title: "RIA-Founded Fintech Introduces Next-Generation Tax Planning Tool"
+    excerpt: "FP Alpha's AI-driven Tax Snapshot can instantly read and create planning recommendations from client tax forms."
+    publishedDateTime: 2021-03-24T20:24:00Z
+    webUrl: "https://www.fa-mag.com/news/ria-founded-fintech-introduces-next-generation-tax-planning-tool-61092.html"
+    type: article
+    provider:
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 24
+    images:
+      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Risk management challenges on Fintechs labor to financial inclusion"
+    excerpt: "The major cutting-edge tech tools to keep the wide range of risks under controlled levels apply Big Data and Machine Learning ... such as financial institutions, telephone companies, social media, mobile apps, and payment services. As traditional banking ..."
+    publishedDateTime: 2021-03-25T02:04:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/risk-management-challenges-on-fintechs-labor-to-financial-inclusion-nid-33194-cid-254.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/F6U05S81.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "SME-focused fintech acquired by Sage"
+    excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
+    publishedDateTime: 2021-03-29T07:42:00Z
+    webUrl: "https://www.insidermedia.com/news/coronavirus/sme-focused-fintech-acquired-by-sage"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 24
+    images:
+      - url: "https://www.insidermedia.com/uploads/news/resized/Stock_exchange-37604-1616770579.jpg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Artificial Intelligence in Military Market by Offering, Technology, Application, Installation Type, Platform and Region - Global Forecast to 2025"
+    excerpt: "The \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type, Platform, Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-03-26T11:56:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/artificial-intelligence-in-military-market-by-offering-technology-application-installation-type-platform-and-region-global-forecast-to-2025-1030248003"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 20
+    images:
+      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
+        width: 344
+        height: 344
+        isCached: true
+  - title: "Top 10 best countries to start a fintech"
+    excerpt: "Fintech in the financial services market has been adopted quickly by certain demographics that for years have been underserved by the incumbent institutions. The US is also a world leader in technology and particularly AI innovations, which means its ..."
+    publishedDateTime: 2021-03-27T09:34:00Z
+    webUrl: "https://www.fintechmagazine.com/top10/top-10-best-countries-start-fintech/usa"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "zyoxH//zGWsEyUnRZwF/V/XEfhqcYDOVdSM8Esmjc8VKTTXe5nLJnn4AtUr3vBursezT6S2a/P5nj8go96JjXwU252GIg70zjV8jlxjU9fYjv3uTfJECtsh6vJ0coZUH1GEqXqQCPH1tr+DPlB02zg6hIAvd8cOu6R8Vy4jeH3EyhUpM/ziR1hWTwlGfL8Xek6EfKujFFAWi9WiLSq68+g5wWNFRpJiEEfIzPSpEsvL6L/1Jd4VT4696UaT9+MUi0bEAPqAAoqEzLPtv1bWTF7sy6/1WPSzZw2bzL51pZmszKUMP8EF8yxKMbDZmPK3/xeAnNb8VGsK0S1itRzxeWPHGDkab3ykeWGgIG3zyoeE=;Gkp14afM+CdLZgX9j6hXfA=="
 ---

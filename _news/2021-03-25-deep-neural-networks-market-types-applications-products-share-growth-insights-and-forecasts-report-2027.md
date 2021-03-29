@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-mar
 webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-25"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -29,34 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) In Sports Market Value Projected To Reach US$ 3,555.9 Million By 2027: Acumen Research And Consulting"
-    excerpt: "The Global Artificial Intelligence (AI) in Sports Market is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and reach the market value of over US$ 3,555.9 Mn by 2027. Artificial intelligence in sports is estimated to experience prominent growth over the forecast period from 2020 to 2027."
-    publishedDateTime: 2021-03-26T00:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-sports-market-value-projected-to-reach-us-35559-million-by-2027-acumen-research-and-consulting-2021-03-25"
+  - title: "Neural Network Software Market Size, Share 2021, Impressive Industry Growth Report 2027"
+    excerpt: "Neural network software is useful for simulating, researching, developing and applying artificial neural networks, which are various software concepts adopted in biological neural networks. Neural networks are also defined as artificial neural networks ..."
+    publishedDateTime: 2021-03-26T09:47:00Z
+    webUrl: "https://www.openpr.com/news/2262380/neural-network-software-market-size-share-2021-impressive"
+    ampWebUrl: "https://www.openpr.com/amp/2262380/neural-network-software-market-size-share-2021-impressive"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262380/neural-network-software-market-size-share-2021-impressive"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period | ARC"
-    excerpt: "pune, India, Thu, 25 Mar 2021 02:19:22 / Comserve Inc. / -- the global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. Global Wearable ..."
-    publishedDateTime: 2021-03-25T02:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-is-expected-to-grow-at-noteworthy-cagr-around-27-throughout-the-forecast-period-arc-2021-03-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: openpr.com
+      domain: openpr.com
+    quality: 31
 
 secured: "wie8h8eDkgPBXgD96EEUrCiFMsMVKEnmoGEcAZvGvZSOhchncq3TS1yXzfUFtP63/zeCVkgzHmFXGvZdVT+TlytWsbfIT5G50MAXv8PHxxmaSc1FQl2PgmesXFIArQ3OfDaQM95EuOYv8Q55URmWqRtAD6RZaMNWBrXphuIYdP8LUeSaANAin0aDKXgH65lVU3FwLVIma9skzSR/lha5G0sI0svocPbFY24Ig19GQge8WU/OWj06ze5HiTrUpf/zSeTMYVKMpa3MwVqBTNS2dbnDolIzVWQPNFitXbzPVT97UuBJSSDoUnsW5WGJeTqRYUcqskfX8dQ+mxGIJhSh3WrEPYkLOKkTz/9E7veKIjY=;BihXv3hgbVo2v2SIG4XjVA=="
 ---

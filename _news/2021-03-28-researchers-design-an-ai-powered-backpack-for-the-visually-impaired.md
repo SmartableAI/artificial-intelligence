@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Researchers developed an AI backpack system to guide vision-impaired wearers"
-    excerpt: "The backpack uses a Luxonis OAK-D spatial camera, which has an on-chip edge AI processor and uses Intel's Movidius image processing tech. The 4K camera, which captures depth information as well as color images, is packed inside a vest or fanny pack."
-    publishedDateTime: 2021-03-24T15:41:00Z
-    webUrl: "https://www.engadget.com/ai-backpack-system-visually-impaired-intel-university-of-georgia-150025561.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 66
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-03/8c6dde50-8cb2-11eb-a779-9989ea912ca8"
-        width: 678
-        height: 391
-        isCached: true
   - title: "Researchers design an AI-powered backpack for the visually impaired"
     excerpt: "They used Intel’s Movidius computing chip because it was small and powerful enough to run advanced AI functions with low latency. The next step is to raise funds and expand testing. They hope to one day unleash an open-source, AI-based, visual-assistance ..."
     publishedDateTime: 2021-03-25T17:10:00Z

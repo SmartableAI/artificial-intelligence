@@ -36,19 +36,19 @@ related:
         width: 620
         height: 330
         isCached: true
-  - title: "Psychology behind facial recognition"
-    excerpt: "Facebook profile picture forensic interactive face recognition software tasks identification Super recognisers surveillance CCTV British Journal Psychology"
-    publishedDateTime: 2021-03-24T16:41:00Z
-    webUrl: "https://www.professionalsecurity.co.uk/news/case-studies/psychology-behind-facial-recognition/"
+  - title: "Japanese airports to trial facial recognition technology for passenger boarding"
+    excerpt: "a new facial recognition technology for boarding procedures, at Narita International and Tokyo International airports. From April 13, passengers will be able register their facial image in Face Express and then access and proceed through subsequent ..."
+    publishedDateTime: 2021-03-29T09:42:00Z
+    webUrl: "https://www.passengerterminaltoday.com/news/biometrics/japanese-airports-to-trial-facial-recognition-technology-for-passenger-boarding.html"
     type: article
     provider:
-      name: professionalsecurity.co.uk
-      domain: professionalsecurity.co.uk
-    quality: 39
+      name: Passenger Terminal
+      domain: passengerterminaltoday.com
+    quality: 50
     images:
-      - url: "https://www.professionalsecurity.co.uk/wp-content/uploads/2021/03/Frost314.jpg"
-        width: 343
-        height: 457
+      - url: "https://www.passengerterminaltoday.com/wp-content/uploads/2021/03/PTW-web-news-29-3-Face-Express-1.png"
+        width: 702
+        height: 261
         isCached: true
   - title: "Japan Airlines to trial facial recognition technology at Tokyo airports"
     excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."

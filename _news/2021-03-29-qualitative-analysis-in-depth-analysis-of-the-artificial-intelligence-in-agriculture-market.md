@@ -42,20 +42,6 @@ related:
         width: 800
         height: 904
         isCached: true
-  - title: "AI in Energy and Utilities Market Forecast to Reach $4.5 Billion by 2026"
-    excerpt: "AI in Energy and Utilities Market Segment Analysis - By Application ... SE (France), AppOrchid Inc. (U.S), Zen Robotics Ltd. (Finland) and others. DeepMind, a startup acquired by Google, will add artificial intelligence to the electricity system of UK ..."
-    publishedDateTime: 2021-03-28T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-energy-and-utilities-market-forecast-to-reach-45-billion-by-2026-2021-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "North American AI in Healthcare Market Trends 2019 | Segmentation, Outlook, Industry Report to 2025"
     excerpt: "The North American AI in healthcare market is estimated to grow significantly at a CAGR of 50.4% during the forecast period. The North American market for AI in healthcare is analyzed based on countries such as the US and Canada. The factors that are ..."
     publishedDateTime: 2021-03-27T09:05:00Z
@@ -72,21 +58,19 @@ related:
         width: 800
         height: 904
         isCached: true
-  - title: "Global Artificial Intelligence Chip Market to Reach $114.2 Billion by 2027: COVID impact, Trends and Forecast"
-    excerpt: "As a result, the COVID-19 is seen to be driving the AI (chipsets) demand for some end-use industries.” Competitive Scenario Some of the major Artificial Intelligence Chip players holding high market share include NVIDIA COPORATION, ALPHABET INC., APPLE ..."
-    publishedDateTime: 2021-03-24T17:00:00Z
-    webUrl: "https://www.openpr.com/news/2261323/global-artificial-intelligence-chip-market-to-reach-114-2"
-    ampWebUrl: "https://www.openpr.com/amp/2261323/global-artificial-intelligence-chip-market-to-reach-114-2"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2261323/global-artificial-intelligence-chip-market-to-reach-114-2"
+  - title: "How Enterprises are Optimizing the Success of Cognitive AI in Healthcare?"
+    excerpt: "AI is now known for its ability to speed up processes, streamline procedures and, of course, crunch large amounts of data faster than a person could ever have done. But when it comes to structures that can think about themselves?"
+    publishedDateTime: 2021-03-25T11:53:00Z
+    webUrl: "https://www.cioapplications.com/news/how-enterprises-are-optimizing-the-success-of-cognitive-ai-in-healthcare-nid-7424.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 53
     images:
-      - url: "https://cdn.openpr.com/U/3/U324484228_g.jpg"
-        width: 800
-        height: 677
+      - url: "https://www.cioapplications.com/newstransfer/upload/n57d4450308tyrty.jpg"
+        width: 450
+        height: 308
         isCached: true
   - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Analysis, Segmentation, Key Players, Opportunities And Forecast 2021-2028"
     excerpt: "It Intelligence Markets one of the world s leading market research firms has rolled out a new report on Natural Language Processing NLP in Healthcare and Life Sciences market The report is integrated with crucial insights on the market which"
@@ -187,6 +171,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 3:24 PM Artificial Intelligence Market top players include Alphabet (Google Inc.),"
+    publishedDateTime: 2021-03-29T09:27:00Z
+    webUrl: "https://menafn.com/1101823891/Artificial-Intelligence-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?261052"
+        width: 437
+        height: 250
+        isCached: true
   - title: "Speech and Voice Recognition Market Size, Analysis by Growth, Emerging, Trends and Future, Opportunities Till 2025"
     excerpt: "Kenneth Research has published a detailed report on Speech and Voice Recognition Market, which has been categorized by market size as well as growth indicators, and further encompasses detailed market analysis on macro trends and region-wise growth in North America,"
     publishedDateTime: 2021-03-25T23:05:00Z
@@ -202,6 +200,6 @@ related:
         height: 250
         isCached: true
 
-secured: "9R5sJ4Y0YN32gOVCjLOtDc6Mu0f65O5/7ZNPUnDhX3CJa7gFe4sUHSHw9uEEDoBWo6npEFJg1PZ2QE74TyVnIooTm+KvFi04NiHXCylYTgGx/PMcQes3dOFNV/Wq44E+EOmercqvb2e32Knp817RCX3FET1iETCTCxcaykWtlMIeJni0WRLuGAnqKV9VCtyA06qzJu/Ei9u6DiWQoLyYoaqVqeJbLZ8tXDD48JVHEEV/xSAdVxrDDzZ2Yu38kcY2DcQGigJYPSuQkbeoaMsH2oIQx5MNskJo/oPYTDGKDCZ1Y1wt42Qsd+mMbYa7oOJpG6nbX+wzYXpAb1GayDLFt162N8gqR1GdEErVy6mElOs=;+aBGZt/2/AdxKKnXhfHTYw=="
+secured: "P4zys2BM7z0JdqZ9LofTE5vvp/3q3aGlC0T9/r8Xc7nFfHExPRpfjKLkz8pNarbNj8X3r7gV4sY8033CWT3DlJdSmkG7qSYOFZ8AXaa+JMQVekxzN659scyemUJwVwi1/L7xa37kUDjCs2QryoffNiNh36cVrJ6EuQ44vFscTST5Nq8W2QpPTJ0auMl8rcU7cRryinGj/k+JR+tZ4NlTNgSYr9ujXXAA2NWwjJizdyxFxd0F3R2FHLuagIwz8E6ygyA3BO2XPROqLrooTSw66I7z9rKplMnmn73s7Zzp5DypNlnILVljdKzUO5HqAXRNJOeylNMFZibhyb+MBJxaTb+0KL5lKsvP9flAibEHaw+yOlCv2fUslAFTf0IyNmxgaiIjKvM1hC7YL1EadHk0RB4iHZ5X7S3iRxDrQG11DDVkK1qBfpNyNdThoBy3dLDfSAP59ZO2SlKvFuDnSxc23WJIrK6WtzGLeZqX4JBVcz7BHmgi9q+C3mt0tmv/0IBsbj7XqH9ymr4K5pEagHjjKg==;mjhMEqYRYl8VXX9qfNMuAw=="
 ---
 
