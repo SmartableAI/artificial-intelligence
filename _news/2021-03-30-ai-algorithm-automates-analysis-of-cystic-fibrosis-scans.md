@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-30T16:11:00Z
 originalUrl: "https://www.outsourcing-pharma.com/Article/2021/03/30/AI-algorithm-automates-analysis-of-cystic-fibrosis-scans"
 webUrl: "https://www.outsourcing-pharma.com/Article/2021/03/30/AI-algorithm-automates-analysis-of-cystic-fibrosis-scans"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/ai-algorithm-automates-analysis-of-cystic-fibrosis-scans/12320490-1-eng-GB/AI-algorithm-automates-analysis-of-cystic-fibrosis-scans.jpg"

@@ -67,6 +67,20 @@ related:
         width: 770
         height: 363
         isCached: true
+  - title: "IBM to install its first private-sector quantum computer at Cleveland Clinic"
+    excerpt: "That’s where IBM comes in. Its artificial intelligence, cloud-based and quantum computing ... In the last decade alone, they teamed up to apply the since-retired Watson for Oncology platform to genomics and cancer research, and later took on a five ..."
+    publishedDateTime: 2021-03-30T18:30:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/ibm-to-install-first-private-sector-quantum-computing-systems-at-cleveland-clinic"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 21
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1617115623/IBM%20Quantum%20System%20One.jpg/IBM%20Quantum%20System%20One.jpg?s2D2T.04WI9uPzs6k0flwJEz9jEeMiAK"
+        width: 4000
+        height: 4000
+        isCached: true
   - title: "Cleveland Clinic, IBM ink quantum computing tech partnership to accelerate health research"
     excerpt: "Cleveland Clinic and IBM have inked a 10-year partnership to leverage high-performance computing, artificial intelligence and quantum computing ... \"It typically takes 15 years from idea to therapy [for new treatments]. We’d like to shorten that ..."
     publishedDateTime: 2021-03-30T10:30:00Z

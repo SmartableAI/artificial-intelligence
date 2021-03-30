@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/intels-pat-gelsinger-chips-everything-expande
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/intels-pat-gelsinger-chips-everything-expanded-menu-0?amp"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 370
     height: 203
     isCached: true
+
+related:
+  - title: "Arm Unveils New Technology That Competes More With Intel Chips"
+    excerpt: "Thousands of devices and appliances are being connected to the internet and gaining new capabilities through the addition of more chips and AI-powered software and services. The company wants its technology to be just as ubiquitous here as it is in the ..."
+    publishedDateTime: 2021-03-30T18:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-30/arm-unveils-new-technology-that-competes-more-with-intel-chips"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0LVCBeSAo5s/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "uwoGv6IcUOR0e7Vx0YumrnT/zop9+pqNrVO00+tOryZsGAXfCxZjE8kpGVmslL9LOsg/SxLJrcIjjUXLltRYZQjZQF9mqxN8GSwBq1tL/IsYeqOvdZK680mi78CACduhpb8AQc3Cx05Qs0BJ9DD0iUn9Y9JZUzBzVPsUbA36g8by5mIxtKtyrmHsGHNJRvNSipEIiRnJy+dvRgEo3XCYsm5xbf83M1RoUMBPkuogtBy24eGKqc6NvxX1QmkAdmSJhhtPOBFAu1X2jOVqTICPK+BzsT9wdkCniCX2pAy7MwsXyMgjsHbriNz5qXDCTYcIHxyQd42npgDS4EhdCX97f0/ipp39DhC80jO9rinfTd6W6gdSH0wzQ17HDsTBoMGKlJWom+96p+RdimonyhCz5H4J6Bpx/Mlj10BgxTh/45LpYilZv9Yl61YIwpx1sFfvoJBhchBG9rqZf/8ZBM80WQPVC5EZb7OIRKGEiAppjuU2LuOOgtuMv/5H6neeX8d4EFdtb2qhi8anH8sQnGLEpQ==;LmHsxajQ59QrGEtRwXttqQ=="
 ---

@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-16-aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml.md",
+      "title": "AWS DeepRacer Women's League-India to upskill students in AI, ML",
+      "excerpt": "New Delhi: In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens League-India 2021. The programme will allow participants to build ML models for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "originalUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/awswiki1-sjxop2edjeaig.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-topnews-vdqilOcebeeaf.html",
+      "publishedDateTime": "2021-03-16T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city.md",
       "title": "Baidu says it has a licence to charge passengers for its robotaxi service in Chinese city",
       "excerpt": "Baidu launches robotaxi services in Beijing as China accelerates along the road to a self-driving future Baidu Apollo’s robotaxi fleet in Cangzhou was rolled out last August and has so far accumulated 524,696 kilometres of test mileage. The city is one ...",
@@ -1367,49 +1412,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-waymo-simulated-real-world-crashes-to-prove-its-self-driving-cars-can-prevent-deaths.md",
-      "title": "Waymo simulated real-world crashes to prove its self-driving cars can prevent deaths",
-      "excerpt": "In a bid to prove that its robot drivers are safer than humans, Waymo simulated dozens of real-world fatal crashes that took place in Arizona over nearly a decade. The Google spinoff discovered that replacing either vehicle in a two-car crash with its robot-guided minivans would nearly eliminate all deaths,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/waymo-simulated-real-world-crashes-to-prove-its-self-driving-cars-can-prevent-deaths/ar-BB1engna",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/11pavQWeOYE5sK7dQMNikb6O95o=/0x0:3620x2343/1400x933/filters:focal(1521x883:2099x1461):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68931332/1142125645.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
-      "publishedDateTime": "2021-03-08T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
-        "domain": "theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

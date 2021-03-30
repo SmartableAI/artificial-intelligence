@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-time-ai-data--drives-competitive-retail-advantage/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 97
 published: true
 
 provider:

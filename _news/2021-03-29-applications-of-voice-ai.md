@@ -49,7 +49,7 @@ related:
     provider:
       name: Nextgov
       domain: nextgov.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://cdn.nextgov.com/media/img/upload/2021/03/30/NGmoney20210330/open-graph.jpg"
         width: 400

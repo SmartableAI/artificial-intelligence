@@ -1,40 +1,26 @@
 ---
 category: news
 title: "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
-excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of"
-publishedDateTime: 2021-03-25T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service/article_c206b737-ac69-5f0a-be66-50489d991c91.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service/article_c206b737-ac69-5f0a-be66-50489d991c91.html"
+excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of Microsoft, announced it will provide AiDANT,"
+publishedDateTime: 2021-03-25T15:46:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974"
 type: article
-quality: 54
-heat: 64
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/89/b8970e9f-a869-5c25-afab-1da10b378232/605c9b6e665fc.image.jpg?resize=648%2C360"
-    width: 648
-    height: 360
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-related:
-  - title: "AiDANT Picks Core Scientific for GPU-as-a-Service"
-    excerpt: "Core Scientific, an infrastructure and software solutions provider for artificial intelligence and blockchain, announced it will provide AiDANT, an AI computer vision technology company, full access to high performance NVIDIA RTX servers in an as-a-service model."
-    publishedDateTime: 2021-03-25T15:07:00Z
-    webUrl: "https://insidehpc.com/2021/03/aidant-picks-core-scientific-for-gpu-as-a-service/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 34
-
-secured: "/vkTaIcgyOdW2L8hhVhKwQKgvFF47BDHFX3ON6yao8ko9hAQRrnhfQd4MJMA3ekgU4I8FHWfglEgEdVYEEzo7/kaZ9uVHRgEMdn3oYqj5RtTXKqNa8dbEzUnWOCDTddAZKNxHhDvQW2o7g19G9lAo0ryleAgxLbNZkyBjDjg9bhb3k8vGYHPy8Zll2haMBFWq/Wz1rtEiaH+HRelUq2ehAcaSHlZ6jcXCHqLetTZ5yqnQPXNC8Cq4t2pGJ6E6techkDYmsjoFZ9OFyFm0Lx/mkW8TPs7o9zJo7OJrE9av+nrK+7Lmhmj8kJjl8A2ugLAAE0uTohzNtB4GbL1Dq4KhIouIBA1E+X2++rGzZ2aQzxzH1V/DUh/j+Fa+8H98lRfAdOPIy8tHrCoDHbDocswiMZyRUilDY20Lll1fkDt7hKGIsdUX3cAx6RScFC8uh+dKv7013kHegGmdt+M5WijdaTbH8DilV3uXPnVNvH8xVcYmXDRl8wqSL6RmjaFFRwL0XKdGGnVMR5ljJ/ylC2/0g==;VQRJjc8lUtDAdciLu0y9dQ=="
+secured: "PyLdI2A0h3we4xccTll7z3tHOgzZJeoziasnxZC0+c+dJFwcqH6x3UVNRIJ1ecAUpSXvYctOLj3fEIGdVzOt+CiIXSpH19gmughrDwOBhBJSRAhckI63CFYxI9lpQNmlfBdpgRGpW4GzMCsVso2RR1ONCe0JN+V1ymEhk9YTPFq7kSp3yEqpCulCyBkO1jJ+SnX+CuLnKqq8j68k48y6A4nYHjg7rhPggEMgSxdThC8bHlsoXW1gy20Qd4LOFfmZq30wVpE7lOiGQG4W8c0lQk005B04gAXffi3+Rhz+qCLYd3qICLz37l+Byyyvt3xcBAgmkLOVR/6MWJbeQWHn+21GTlzE9LK2pUJSTTZcrvE=;DP+Heu24P0GTHAgQZxy7hQ=="
 ---
 

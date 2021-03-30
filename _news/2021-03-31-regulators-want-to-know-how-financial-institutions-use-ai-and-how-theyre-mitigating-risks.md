@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-30T17:42:00Z
 originalUrl: "https://www.nextgov.com/emerging-tech/2021/03/regulators-want-know-how-financial-institutions-use-ai-and-how-theyre-mitigating-risks/173016/"
 webUrl: "https://www.nextgov.com/emerging-tech/2021/03/regulators-want-know-how-financial-institutions-use-ai-and-how-theyre-mitigating-risks/173016/"
 type: article
-quality: 29
+quality: 31
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.nextgov.com/media/img/upload/2021/03/30/NGmoney20210330/open-graph.jpg"
@@ -56,6 +57,6 @@ related:
         height: 485
         isCached: true
 
-secured: "Hyg1/BgvVIeom+XaO+hFonN2sdptq1sg1zUEgOJv2Eoe5CFSln/vWgHKQyKOKWOWsxeJhZfXXaSiEpk6P4A4eKj/Han97DKYwXaDWtFryeK4+ctL54fyImADq5pRgsJs7o/Nfo9rVp6SitsCHq2S8Q6flDRNkElqdNEA5u3MoZqJ4P66H4ZUTgQ9ltCFRXaUex3npgnF4d9drMpxIbBma3EhKgvrq1m77C4D70jZokIYIa5SlqD542G00S/uIpF5Li34X62VrGluEadxtmYBZhWWUOoO4HmdUGflQBD+bwWrK3cDHEH8sGeUClSttLh660Fo5mdq1wSAGYxG1IpTX/LzLmQ12b2hSNQ/tAGfyeY=;0yhIqTLw/8uFswz8Lm7mXw=="
+secured: "J9WmfdolH/DZueW3ACmS4u2poCBl/uKS2gi40v8HbdeflGXyj+j0sBCKwbURvDnreZ0wBXyURbswUMoeh99Btwhz03Od1VpYcjwF4GFZtBLjqxv2owwFC9e63Egc+jpQce54aOuHuBx8q3e6dBFNW/lrR6wPFzY5FtQLjedjzb8U9aL0JA4cXmeSVvs7FLO8FEiM3D78WX3p1G0Ry7kbWKH0yb/grgcTiOs//T05yE94tNU6SdChcuN4P61segCN2FYK/3JRo7p+EY2LqusQsdKrW9Mzmt5xfLwzlM/iFePFlFqGxnuLT2WTTj3BB+IOsu8zP5KMB+zlfHwgOAhim6UdyC7tQcHLh4i1HaG/BdOvCi+yqEuZwhl1zM8kp0NiiWOVqITgetMSx/sDBcIHS4q2QpqVqojHhb3t6VVVk8ENpmAkv/9oY6JDUL48tMfzfbODYhuJMmMqgEr5Dfh9VPp4mUe0M3J3B8y6r7cZIA2/msoTqSdI+aDM4l6Bfkh7p93+5de9BROz43tVu7GRBg==;72rX7rTNnF3/fXcEeJIWZg=="
 ---
 

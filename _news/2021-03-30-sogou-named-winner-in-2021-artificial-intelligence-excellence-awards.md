@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards"
-excerpt: "Sogou Inc. (NYSE:SOGO ) (Sogou or the Company), an innovator in search and a leader in China's internet industry, today announced it has been named a winner of Business Intelligence Group's 2021 Artificial Intelligence Excellence Awards."
-publishedDateTime: 2021-03-30T12:48:00Z
-originalUrl: "https://menafn.com/1101829511/Sogou-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards"
-webUrl: "https://menafn.com/1101829511/Sogou-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards"
+excerpt: "Sogou Inc. (NYSE:SOGO) (“Sogou” or the “Company”), an innovator in search and a leader in China’s internet industry, today announced it has been named a winner of Business Intelligence Group’s 2021 Artificial Intelligence Excellence Awards."
+publishedDateTime: 2021-03-30T02:25:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?376843"
-    width: 379
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -116,6 +116,6 @@ related:
         height: 480
         isCached: true
 
-secured: "bib0CanBCSZsljK/HEPuEcWRG17/5ff0cI27UAJC3k+NSmlGMR/pwNxk5sbBbvgva/LjSc35xfxQUUycQJ2+FqMm3wr5/4/YbiA4GLjNo7mn0K7t5wi8HtYbXhmeOM94DVtIsg+q9usWxYFRucS9uuhTON2lVmUYLdvcPzwvTdWzneL0409Ggc/xo6xBi/vtlILcwX8y9YjIqR3Xtcbi+xSjbluiW2pnvc/yg9F75UqAQifC1W7r+M2klSZT+FcGzv2UryNUUwsv1RWDtolYbk5QRX7xQEE8wQVBsgA2fpFnj73FnQgxEPGPtjc78k1XMeNnBF8QImtq/4HCHcBFdMuDUWbUBse5bveirECL7gI=;0guen8eC6fpAKWjlYO8A6A=="
+secured: "QovAu6n4VUjSpWXaFpAfGK6YgaL/kdtD049YGjQU1ynVn/Qr4mSgCX5BoTLUp1tlutvbVu1eAMb6nCEmgCkyGbhCuURJ78jCge/ZOQzm0VZw11VGwcilMVfVAMncWQOJIw8BWbgvjfY/hcymOaFKTT3DaMEBYqWpapkzY+XOmC4PN5NI3ag8K2UTRkxTngBS2ePXsd3wlH41hDCtOAPpNAl1q6zNdltJrJzrZgSoEX9MpLfu7mdXNN3HNgxw5hN+K+Byhq7b5NSVG6y/2ANeRUhvDbzmmKiSXVYC5VMnh8QfjCrVOszLj9Rld5Yf7pW8iqO2KcVG9MldPL0yePOtU0aJTrcXlPDdYLphWkW32Pw=;a8EtwHQMrmxn4l5EDa6xvw=="
 ---
 

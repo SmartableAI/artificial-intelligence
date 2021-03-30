@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-31-tomlinson-artificial-intelligence-tools-for-monitoring-employees-come-with-complications.md",
+      "title": "Tomlinson: Artificial intelligence tools for monitoring employees come with complications",
+      "excerpt": "Some companies have seized on new tools built on artificial intelligence to monitor their employees. These nascent productivity-monitoring tools, though, come with high risks, according to Serife Tekin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/article/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "originalUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/article/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/17/20/32/20776621/5/375x250.jpg",
+          "width": 368,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/amp/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/columnists/tomlinson/amp/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "publishedDateTime": "2021-03-30T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-how-financial-organizations-can-use-ai-to-apply-esg-standards.md",
       "title": "How Financial Organizations Can Use AI To Apply ESG Standards",
       "excerpt": "ESG practices and how well corporations act as global citizens do matter. They impact financial performance and profits as well as a company’s long-term value, both of which investors increasingly want to understand.",
@@ -1423,58 +1466,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic.md",
-      "title": "KPMG: AI adoption accelerated too fast during the pandemic",
-      "excerpt": "The outlook for artificial intelligence is optimistic under the Biden administration, but executives want industry regulation, a survey finds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "originalUrl": "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "publishedDateTime": "2021-03-08T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

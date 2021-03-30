@@ -1,28 +1,34 @@
 ---
 category: news
 title: "AI could help advertisers recover from loss of third-party cookies"
-excerpt: "Providers of digital advertising platform such as Quantcast are using AI to level the field in favor of content providers.Read MoreRead more on"
-publishedDateTime: 2021-03-29T03:55:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies-9961106"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies-9961106"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies-9961106"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies-9961106"
+excerpt: "Providers of digital advertising platform such as Quantcast are using AI to level the field in favor of content providers."
+publishedDateTime: 2021-03-29T04:20:00Z
+originalUrl: "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/"
+webUrl: "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/"
+ampWebUrl: "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
-secured: "J7maCeShLRlQ9YfUYc0Ui1L4Ih3LWT0rov0OSuMprw0WTkMCZXegr/8HGxtVImBUoSjoZjEmWfY58FRAY5kBq/TbAVxt3PJGkJsz9V16nx29fRltnqgyvqERxtqIBu4xdZZRMn2I4h6j6gNNjWO3/jciGglKd+AcwsEPIM2MKvIpqGcPn0zO4VpAFnN/2HeUF+44en0reShso9jvHPSeGpBOZV6VG5J8EZTIcL73VQtvtgA3w5dW5cbHQL32YU9vU9gYdJdKkSJuOQZ/0YWGXbe5cptkLi35zSO2M/TNLltP9GcDRkfKiRkYr6+NAkm6u2AM8NH+VA/t4Z5pVNyKr0vZ3bceHjOboeTUhJGo4ks=;vm0VS/lf8kb2M1C1CWlxpQ=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/03/Quantcast.png?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "0PkKCh5KCDlmQ83TqFkcMQ4qYIy4CPXIfZulT/hKERKH1Cir2VVphb6f2AwQmq7sAV/Wzks925H5565IyCP+Z80BrUVUQxkeYdwZpKPwDaUY0+jI9MS+Z2HheKr+1MDQs1C8tPq184qIeq/pkM+TxoFO4TnptP4toyu6PN70SvEX7vf7keF4c2ufqaj6TgzHq9e6ntvZuB0xgCL2pk+hhnwn3zDpzrF9AoOI3RUmrBnIEJqiuOexaD87QCkR291aYUw6NFaWQZUkmRehiWwkALeOfYt896cxk22SPedc053i+JQH3I4jjhSo/GLtCIs3n8h1LvKk5SIUsCL9yEvOxjbSVKNP0mRbh3IgsOdrbtg=;dkcvpet8OyvsyeAgNDVIlw=="
 ---
 

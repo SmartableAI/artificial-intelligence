@@ -39,6 +39,20 @@ related:
         width: 1184
         height: 700
         isCached: true
+  - title: "Aurora, Volvo Group join forces on self-driving trucks"
+    excerpt: "Aurora's self-driving truck program continues rolling. Two months after inking one big partnership, the company has added another. On Tuesday morning, Aurora and Volvo Group unveiled plans to commercialize trucks in a hub-to-hub service operating across North America."
+    publishedDateTime: 2021-03-30T13:43:00Z
+    webUrl: "https://www.autonews.com/mobility-report/aurora-volvo-group-join-forces-self-driving-trucks"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora%20Volvo-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "V+2NXEDfg2R1omqIS4s8Op5OzXbxrRFzHvCThydaR0LYZHfHpmOpE1OxL5f0WiANBnQHtqWQnxlCUuHC4Zzx4NOoGq9zPK2EINPjM4ljB7XtZ2lmOKSblJYNkIOwChJgw4dL0hOPwg5jNtQXIkBmzZ63v4XFCxewuA6pJojCcMZLnd1Q8HjvzCWA2cxDaywyRacKfkq9VAnm+p/OwZSntEV060ecAm+J+y/jUO+20s38wA0wm9JyBNBCsAKtMA5aH1irxa3SydMsvhO6DRgNeQW5ZtdJ0GbKDXER3ztF+DMgDwTpAcrE+76Bt6GRdSjSHtdtucMUfPfLlyDMGfokOYk0FuruF1vMyTSgPN/BHzasFwRdy5GCCKkQj/KMo0rHJoFONQAqzN4tT8tFmPy9imKC5+9SmIP0RexOXJupuqCpa30zy7ATcIVUXTMM9sUBE8MYSGT+Icm0c3Zv+55QGiPBcFH1DTA2iS45fq9dPxrhRv4Pgd2lmvRsf474bdh9YwFbps/kfFsZrolg52JKIQ==;HCZ80ztxISmfb8gVsEeyWQ=="
 ---

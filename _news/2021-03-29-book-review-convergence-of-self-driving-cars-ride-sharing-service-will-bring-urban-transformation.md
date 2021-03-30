@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New early warning system for self-driving cars"
+    excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial intelligence to learn from thousands of real traffic situations."
+    publishedDateTime: 2021-03-30T14:41:00Z
+    webUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-early-self-driving-cars.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/newearlywarn.jpg"
+        width: 1280
+        height: 540
+        isCached: true
   - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
     excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
     publishedDateTime: 2021-03-30T00:47:00Z
@@ -89,20 +105,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "New early warning system for self-driving cars"
-    excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial intelligence to learn from thousands of real traffic situations."
-    publishedDateTime: 2021-03-30T04:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/tuom-new033021.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Vietnam’s first self-driving car debuts"
     excerpt: "The vehicle is equipped with some 40 self-driving features of level four as per the standards of the Society of Automobile Engineers (SAE International), in which level five is the highest. It is advertised as an eco-friendly automobile with artificial intelligence (AI) integration as well as smart functions such as 2D/3D maps,"
     publishedDateTime: 2021-03-30T09:53:00Z
@@ -117,6 +119,15 @@ related:
         width: 620
         height: 423
         isCached: true
+  - title: "Researchers develop new AI based early warning system for self-driving cars"
+    excerpt: "During a recent study, a team of researchers from the Technical University of Munich (TUM) recently developed a new early warning system for vehicles that uses AI to learn from thousands of real traffic situations."
+    publishedDateTime: 2021-03-30T18:13:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210330/3732667.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
   - title: "Video: Woven Capital invests in self-driving startup Nuro"
     excerpt: "Woven Capital, L.P., an investment wing of Toyota, has made its first investment into Nuro Inc., a self-driving shuttle startup. Previously, Nuro raised $500 million in funding to expand its autonomous goods delivery service using self-driving shuttles that include no seats or cockpit for drivers."
     publishedDateTime: 2021-03-26T12:28:00Z

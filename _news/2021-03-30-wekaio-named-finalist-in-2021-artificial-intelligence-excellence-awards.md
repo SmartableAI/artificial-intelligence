@@ -58,18 +58,18 @@ related:
         height: 450
         isCached: true
   - title: "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "Sogou Inc. (NYSE:SOGO ) (Sogou or the Company), an innovator in search and a leader in China's internet industry, today announced it has been named a winner of Business Intelligence Group's 2021 Artificial Intelligence Excellence Awards."
-    publishedDateTime: 2021-03-30T12:48:00Z
-    webUrl: "https://menafn.com/1101829511/Sogou-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards"
+    excerpt: "Sogou Inc. (NYSE:SOGO) (“Sogou” or the “Company”), an innovator in search and a leader in China’s internet industry, today announced it has been named a winner of Business Intelligence Group’s 2021 Artificial Intelligence Excellence Awards."
+    publishedDateTime: 2021-03-30T02:25:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?376843"
-        width: 379
-        height: 250
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "alva named winner in 2021 Artificial Intelligence Excellence Awards"
     excerpt: "Artificial Intelligence Excellence Awards, for its groundbreaking Machine Learning capabilities. The award recognises alva’s development of advanced Natural Language Processing (NLP) technology to enable the launch of an entirely new intelligence category - Stakeholder Intelligence - that helps businesses deliver shared value to all stakeholders."

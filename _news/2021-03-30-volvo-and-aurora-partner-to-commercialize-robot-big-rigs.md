@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/03/30/volvo-and-aurora
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/03/30/volvo-and-aurora-partner-to-commercialize-robot-big-rigs/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
+  - title: "Aurora, Volvo Group join forces on self-driving trucks"
+    excerpt: "Aurora's self-driving truck program continues rolling. Two months after inking one big partnership, the company has added another. On Tuesday morning, Aurora and Volvo Group unveiled plans to commercialize trucks in a hub-to-hub service operating across North America."
+    publishedDateTime: 2021-03-30T13:43:00Z
+    webUrl: "https://www.autonews.com/mobility-report/aurora-volvo-group-join-forces-self-driving-trucks"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora%20Volvo-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "7zfco4c97qtrn9EZbDc4Pp/8VAoEdr0FPuYM7W46O6vQqPec/PUd1utWeTM/hGBkp/0P2P8flF4ZQug5VfOlpth7UY+nVhx7sM3vj2G1uLdLMskPhPHQvXbTd6z5UFYyvIjBJMnFPvGLi/x5vHWs/xZ8LY0sXfzHXR4IXeWtNyK1WUHqfk7lrMqXXdpHDS95Lp3pAosUwKdaTyJhD1c/LNI+9A5NezU8SAEqkN5ozqgj6JlovBe2f8weJSQpL64MARJpp4Bw7mlUB68YjVjY+UvZ/jxuxPZFLl1CF1ESQUL9wS5MmrM4l3HsGHcfRK2iM1brcP8hyqHp68Rbv4xgqI+wslGY6AU+5moLKpwXe4jW8kLNAOHZ71wSfY+LkFHrrWLOaJJ+oOL4YGtoLhbBjiqug6Abg281Uvkdv8EPC73zx5amShjLZGnpokySXheGzyn3KI9JEs6HJZ/LnjE3IdTGQC3Yh4oK9yFzjMu69Rr7H7NKVFKKLwRdm+0ncoE3Jm7aOWGCP/hQ6f4RRDQbjw==;C+GtvlZ+PQjD4yrgaYNlwA=="
 ---

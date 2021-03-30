@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/clev
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html"
 type: article
 quality: 54
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.healthcaredive.com/user_media/cache/7a/25/7a25e0447add42c739e59efbfca036db.jpg"
         width: 770
         height: 363
+        isCached: true
+  - title: "IBM to install its first private-sector quantum computer at Cleveland Clinic"
+    excerpt: "That’s where IBM comes in. Its artificial intelligence, cloud-based and quantum computing ... In the last decade alone, they teamed up to apply the since-retired Watson for Oncology platform to genomics and cancer research, and later took on a five ..."
+    publishedDateTime: 2021-03-30T18:30:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/ibm-to-install-first-private-sector-quantum-computing-systems-at-cleveland-clinic"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 21
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1617115623/IBM%20Quantum%20System%20One.jpg/IBM%20Quantum%20System%20One.jpg?s2D2T.04WI9uPzs6k0flwJEz9jEeMiAK"
+        width: 4000
+        height: 4000
         isCached: true
   - title: "Cleveland Clinic and IBM Unveil Landmark 10-Year Partnership to Accelerate Discovery in Healthcare and Life Sciences"
     excerpt: "a joint Cleveland Clinic - IBM center with the mission of fundamentally advancing the pace of discovery in healthcare and life sciences through the use of high performance computing on the hybrid cloud, artificial intelligence (AI) and quantum computing ..."

@@ -2,6 +2,168 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-17-recogni-raises-489-million-for-ai-powered-perception-chips.md",
+      "title": "Recogni raises $48.9 million for AI-powered perception chips",
+      "excerpt": "Recogni, a startup developing a perception system for autonomous vehicles, has raised $48.9 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/",
+      "originalUrl": "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/e728073b-d9dd-4a6a-b6e8-6ff14821da0a-e1613450016151.png?w=1200&strip=all",
+          "width": 900,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/",
+      "publishedDateTime": "2021-02-17T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-the-cambrian-ai-landscape-nvidia-the-800lb-gorilla.md",
+      "title": "The Cambrian AI Landscape: NVIDIA, The 800Lb Gorilla",
+      "excerpt": "We look at NVIDIA, the leader in data center Artificial Intelligence, and outline the company's strengths and weaknesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602c604d6b88e3e1922786c7%2F0x0.png",
+          "width": 1200,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/amp/",
+      "publishedDateTime": "2021-02-17T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-artificial-intelligence-ai-chipsets-market-growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020-2027.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)",
+      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 236,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AWS AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-samsung-develops-ai-processor-embedded-memory-chip.md",
       "title": "Samsung develops AI processor-embedded memory chip",
       "excerpt": "Samsung Electronics today said that it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance.",
@@ -1260,155 +1422,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems.md",
-      "title": "Who needs a supercomputer? Your desktop PC and a GPU might be enough to solve some of the largest problems",
-      "excerpt": "A new method significantly reduces the amount of memory needed for brain simulations, freeing some AI models from the need for a supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "originalUrl": "https://www.zdnet.com/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/02/02/43f7be8f-9cba-4383-86c1-dd00d73b639a/james-knight-and-thomas-nowotny.jpg",
-          "width": 1154,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "publishedDateTime": "2021-02-03T02:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-xiaomi-founder-lei-jun-acquires-controlling-stake-in-ai-chip-developer-cvitek.md",
-      "title": "Xiaomi Founder Lei Jun acquires controlling stake in AI chip developer CVITEK",
-      "excerpt": "Earlier today (3rd February 2021), a new report surfaced that revealed that the Founder and CEO of Xiaomi has acquired stakes in a Chinese artificial intelligence development based firm called CVITEK.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/02/03/xiaomi-lei-jun-acquires-controlling-stake-in-cvitek/",
-      "originalUrl": "https://www.gizmochina.com/2021/02/03/xiaomi-lei-jun-acquires-controlling-stake-in-cvitek/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/02/abt-b.4202f298-e1612343206607.png",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-why-future-advances-in-ai-need-a-new-architecture.md",
-      "title": "Why Future Advances In AI Need A New Architecture",
-      "excerpt": "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/",
-      "originalUrl": "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg",
-          "width": 432,
-          "height": 293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/",
-      "publishedDateTime": "2021-02-02T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "Google AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/kamala-harris-asian
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/kamala-harris-asian-americans/2021/03/27/46efd156-8e3a-11eb-a6bd-0eb91c03305a_story.html?outputType=amp"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1440
     height: 927
     isCached: true
+
+related:
+  - title: "Americans think AI has the most potential to cause harm over next decade"
+    excerpt: "Americans fear more than just AI taking their jobs and believe that the least trusted technologies are AI or AI-related."
+    publishedDateTime: 2021-03-29T17:38:00Z
+    webUrl: "https://www.zdnet.com/article/americans-think-ai-has-most-potential-to-cause-harm-over-the-next-decade/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/americans-think-ai-has-most-potential-to-cause-harm-over-the-next-decade/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/americans-think-ai-has-most-potential-to-cause-harm-over-the-next-decade/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/29/e93273a7-0ea8-42b6-9aeb-794b82fb8a0e/least-trusted-tech-hyland-eileen-brown-zdnet.png"
+        width: 811
+        height: 866
+        isCached: true
 
 secured: "S0x6T7bzPh16vsBnkAn8OH4tMDx7vfD2ga2zk11kXs7Wu72MHfj4PLzfEqTfMY/7GBHoiKiKCWrGuXyOMpVTVUEaLHKFQyqMBGHT2GWKFu6evf7XvZt7Jfo4QFd3Y1xM7iyC6VLwmXxVCZqY48wiwPBf4k59+989vp72APuGi5ZINSZbUZ5/OracuD3Nhbj5maf7zaDRW6SCosn1ds4cnUydzPcX5MxSUhwgA7jlK0n0QC8qXrrcrn7VF/eVavqcP3jZKfUZ+m7InBHIFWjxdn2vD3SogrgLveQA329iUaeqVE4YVwZpOxfv6VosRiLKaxdvdahc54nUD7c+kRSpfUmAAvqMDlDGgzhzTE5lzbt4mASueAHMfYCPentOu915K4EcMfVjsV0zzLVRlJhPaDUOtZ7+xPkStgr/jLkfdcY17w3P082R117mKgyQ6WmGpNxJvIhWzh0zreNpdyuy6bkXy7FQUPzh7rGZUxi3TLgrWmRl9ckEcrfJu7UwQnsLgU17ykQvueXhVOgPja0WZQ==;6qboKHA1WBqQPr0sDYsi5g=="
 ---

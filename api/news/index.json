@@ -2,6 +2,257 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-31-arm-unveils-new-technology-that-competes-more-with-intel-chips.md",
+      "title": "Arm Unveils New Technology That Competes More With Intel Chips",
+      "excerpt": "Thousands of devices and appliances are being connected to the internet and gaining new capabilities through the addition of more chips and AI-powered software and services. The company wants its technology to be just as ubiquitous here as it is in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-30/arm-unveils-new-technology-that-competes-more-with-intel-chips",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-30/arm-unveils-new-technology-that-competes-more-with-intel-chips",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0LVCBeSAo5s/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-arms-first-new-architecture-in-a-decade-is-designed-for-security-and-ai.md",
+      "title": "Arm’s first new architecture in a decade is designed for security and AI",
+      "excerpt": "its first new chip architecture in a decade following Armv8 way back in 2011. According to Arm, Armv9 offers three major improvements over the previous architecture: security, better AI performance, and faster performance in general. These benefits should ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance",
+      "originalUrl": "https://www.theverge.com/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/2X6cS0eOkqkYcn-qLYBUSNCJV2o=/0x0:6482x4321/1400x933/filters:focal(2379x1581:3415x2617):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69049709/1146397412.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance",
+      "publishedDateTime": "2021-03-30T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-tomlinson-artificial-intelligence-tools-for-monitoring-employees-come-with-complications.md",
+      "title": "Tomlinson: Artificial intelligence tools for monitoring employees come with complications",
+      "excerpt": "Some companies have seized on new tools built on artificial intelligence to monitor their employees. These nascent productivity-monitoring tools, though, come with high risks, according to Serife Tekin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/article/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "originalUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/article/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/17/20/32/20776621/5/375x250.jpg",
+          "width": 368,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/amp/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/columnists/tomlinson/amp/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "publishedDateTime": "2021-03-30T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data.md",
+      "title": "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data",
+      "excerpt": "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
+      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60634716d58e48679eadb421%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
+      "publishedDateTime": "2021-03-30T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-forbes-backed-qai-announces-availability-of-qai-invest.md",
+      "title": "Forbes-Backed Q.ai Announces Availability Of Q.ai Invest",
+      "excerpt": "AI-Powered Investment Platform Offers Customized, Professional Strategies Typically Reserved For High Net-Worth Individuals; A \"Hedge Fund in Your Pocket™.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/",
+      "originalUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60636b7bc151c754b8276463%2F0x0.jpg",
+          "width": 600,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/amp/",
+      "publishedDateTime": "2021-03-30T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-rust-detection-using-machine-learning-on-aws.md",
       "title": "Rust detection using machine learning on AWS",
       "excerpt": "Visual inspection of industrial environments is a common requirement across heavy industries, such as transportation, construction, and shipbuilding, and typically requires qualified experts to perform the inspection. Inspection locations can often be remote or in adverse environments that put humans",
@@ -52,6 +303,57 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-googles-new-experimental-app-is-a-powerful-ai-document-scanner-for-android.md",
+      "title": "Google’s new experimental app is a powerful AI document scanner for Android",
+      "excerpt": "Google is releasing a new experimental app today called Stack that borrows the technology underlying its powerful DocAI enterprise tool for document analysis. The end result is a consumer document scanner app for Android that Google says vastly improves ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/3/30/22358088/google-stack-ai-document-scanner-app-android-release-announce",
+      "originalUrl": "https://www.theverge.com/2021/3/30/22358088/google-stack-ai-document-scanner-app-android-release-announce",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/8hmW1tOsn8wL1N63h87ZHccflUA=/0x0:1398x790/1400x933/filters:focal(588x284:810x506):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69048908/Screen_Shot_2021_03_30_at_9.01.49_AM.0.png",
+          "width": 1398,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/3/30/22358088/google-stack-ai-document-scanner-app-android-release-announce",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/30/22358088/google-stack-ai-document-scanner-app-android-release-announce",
+      "publishedDateTime": "2021-03-30T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -401,7 +703,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -444,7 +746,7 @@
       "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/03/30/volvo-and-aurora-partner-to-commercialize-robot-big-rigs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -599,7 +901,7 @@
       "originalUrl": "https://www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-time-ai-data--drives-competitive-retail-advantage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -942,291 +1244,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-microsoft-teams-offers-live-transcription-powered-by-ai.md",
-      "title": "Microsoft Teams offers live transcription powered by AI",
-      "excerpt": "Microsoft Teams has announced Artificial Intelligence (AI)-powered live transcription, a written record of the spoken text, for meetings in English.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641",
-      "originalUrl": "https://www.iol.co.za/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/2000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/10e38143-0cb6-5b99-8c12-12275aab33fc&operation=CROP&offset=148x0&resize=1725x970",
-          "width": 651,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641",
-      "publishedDateTime": "2021-03-30T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car.md",
-      "title": "This Is The New Lexus LF-Z Electrified AI Operated Driverless Car",
-      "excerpt": "Japanese premium maker Lexus hints to the marque's next-generation AI-operated autonomous and electrified cars with the futuristic LF-Z Electrified car",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/",
-      "originalUrl": "https://www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6062f4ba7874b3bdb91233a9%2F0x0.jpg%3FcropX1%3D118%26cropX2%3D1000%26cropY1%3D38%26cropY2%3D533",
-          "width": 882,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/amp/",
-      "publishedDateTime": "2021-03-30T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-schlumberger-microsoft-expand-partnership-to-accelerate-digital-future-of-energy.md",
-      "title": "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy",
-      "excerpt": "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235",
-      "originalUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
-          "width": 605,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp",
-      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp",
-      "publishedDateTime": "2021-03-30T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hart Energy",
-        "domain": "hartenergy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-facial-recognition-camera-projects-raise-concerns-in-eastern-europe.md",
-      "title": "Facial recognition camera projects raise concerns in Eastern Europe",
-      "excerpt": "Digital rights organizations are concerned about the increasing use of mass surveillance systems featuring thousands of facial recognition cameras.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
-      "originalUrl": "https://www.zdnet.com/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
-      "publishedDateTime": "2021-03-30T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-self-driving-ev-takes-a-slow-steady-approach-to-solar-powered-mobility.md",
-      "title": "Self-driving EV takes a slow, steady approach to solar-powered mobility",
-      "excerpt": "When it comes to making road transportation more sustainable automakers are putting a lot of work into to fitting out conventional cars with electric drivetrains, but others are thinking a little further outside the box.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/",
-      "originalUrl": "https://newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/670cf81/2147483647/strip/true/crop/1296x864+120+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2F77%2F94fdc819411b9aa1f26108fc94b7%2Fls-ev-prototype-2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/?amp=true",
-      "publishedDateTime": "2021-03-29T22:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-sophia-the-robot-sells-digital-nft-artwork-for-nearly-700000.md",
-      "title": "Sophia the robot sells digital NFT artwork for nearly $700,000",
-      "excerpt": "Continuing the wave of extraordinary digital art sales manifested by new blockchain-based NFT technology, an artwork co-created by the famous humanoid robot Sophia has now sold for just under US$700,000.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
-      "originalUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/930c08f/2147483647/strip/true/crop/761x507+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F7b%2F8a803840418f86bb4c1a92b9f723%2Fscreen-shot-2021-03-30-at-12.31.32.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
-      "publishedDateTime": "2021-03-29T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

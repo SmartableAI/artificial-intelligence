@@ -2,6 +2,386 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-26-amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis.md",
+      "title": "Amazon's new machine learning tool will help businesses spot flagging KPIs",
+      "excerpt": "Lookout for Metrics is a fully-managed machine learning tool for monitoring business metrics and tackling dips in business performance. Lookout for Metrics identifies unexpected changes in data that might indicate critical performance issues Amazon Web ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
+      "originalUrl": "https://www.techrepublic.com/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/01/27/f524b8d4-9104-449a-b199-d7e9396df797/resize/1200x/d776754e229fc11435f9be597d33bd78/istock-670517478.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis/",
+      "publishedDateTime": "2021-03-26T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-chip.md",
+      "title": "What's Up With Apple: Ad Tracking, AI Investments, Blazing Fast Chip",
+      "excerpt": "According to a Wall Street Journal report, Google plans to increase its use of a “tool that infers whether an ad interaction led to online spending or subscription without identifying individual users.",
+      "sourceUrl": null,
+      "webUrl": "https://247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/",
+      "originalUrl": "https://247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://247wallst.com/wp-content/uploads/2020/08/imageForEntry2-Qrj.jpg?w=400",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/amp/",
+      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2021/03/26/whats-up-with-apple-ad-tracking-ai-investments-blazing-fast-m1-chip/amp/",
+      "publishedDateTime": "2021-03-26T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "24/7 Wall St",
+        "domain": "247wallst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-how-ai-can-help-companies-set-prices-more-ethically.md",
+      "title": "How AI Can Help Companies Set Prices More Ethically",
+      "excerpt": "Using AI and data-driven tools, companies can change the price of a good or service based on who is buying, when they’re shopping, and myriad other factors. This power raises a question: Should ethics and societal values factor into these prices — and how?",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
+      "originalUrl": "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/03/Mar21_26_843275898.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
+      "publishedDateTime": "2021-03-26T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-artificial-intelligence-blazing-a-trail-for-the-future.md",
+      "title": "Artificial Intelligence: Blazing A Trail For The Future",
+      "excerpt": "Amid its continuously evolving nature and the need for ensuring ongoing management, organizations still confront challenges when implementing AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
+      "publishedDateTime": "2021-03-26T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-levis-katia-walsh-on-ai-you-can-do-a-lot-with-168-years-of-data.md",
+      "title": "Levi's Katia Walsh on AI: You can do a lot with 168 years of data",
+      "excerpt": "Dr. Katia Walsh, Chief Strategy and AI Officer at Levi's, is looking to combine fashion, data science and the creative process to improve everything from the customer experience and demand to supply chain and design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/levis-katia-walsh-on-ai-you-can-do-a-lot-with-168-years-of-data/",
+      "originalUrl": "https://www.zdnet.com/article/levis-katia-walsh-on-ai-you-can-do-a-lot-with-168-years-of-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/03/25/146eef91-b480-4c58-adad-c06d2e81a5bb/thumbnail/1200x675/793b425a7b585844ad5c1059d8654215/20210323-walsh-larry.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/levis-katia-walsh-on-ai-you-can-do-a-lot-with-168-years-of-data/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/levis-katia-walsh-on-ai-you-can-do-a-lot-with-168-years-of-data/",
+      "publishedDateTime": "2021-03-26T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-aws-launches-machine-learning-service-to-monitor-business-performance.md",
+      "title": "AWS launches machine learning service to monitor business performance",
+      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Lookout for Metrics, a new Machine Learning (ML) service to help businesses monitor their performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/articleshow/81706224.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-81706224,width-800,resizemode-4/81706224.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aws-launches-machine-learning-service-to-monitor-business-performance/amp_articleshow/81706224.cms",
+      "publishedDateTime": "2021-03-26T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-how-hospitality-sector-is-relying-on-artificial-intelligence-and-machine-learning-for-profit-maximization.md",
+      "title": "How Hospitality Sector is relying on artificial intelligence and machine learning for profit maximization",
+      "excerpt": "Artificial intelligence and machine learning is slowly transforming the hospitality sector, which is currently strongly in the need of such technologies",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/hospitality-sector-relying-artificial-intelligence-machine-learning-profit-maximization/",
+      "originalUrl": "https://www.dqindia.com/hospitality-sector-relying-artificial-intelligence-machine-learning-profit-maximization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/artificial-intelligence-4469138_640.jpg",
+          "width": 640,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/hospitality-sector-relying-artificial-intelligence-machine-learning-profit-maximization/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/hospitality-sector-relying-artificial-intelligence-machine-learning-profit-maximization/amp/",
+      "publishedDateTime": "2021-03-26T02:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-ai-startup-idelic-raises-20-million-to-make-trucking-industry-safer-less-costly.md",
+      "title": "AI Startup Idelic Raises $20 Million To Make Trucking Industry Safer, Less Costly",
+      "excerpt": "Cardiff and his cofounders are set to announce a $20 million series B raised by Idelic, a startup that applies AI and machine learning to data from trucking fleets in order to ensure driver safety and streamline logistics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ninawolpow/2021/03/26/ai-startup-idelic-raises-20-million--to-make-trucking-industry-safer-less-costly/",
+      "originalUrl": "https://www.forbes.com/sites/ninawolpow/2021/03/26/ai-startup-idelic-raises-20-million--to-make-trucking-industry-safer-less-costly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605cf8d85c6e11b8f29ea476%2F0x0.jpg",
+          "width": 1200,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ninawolpow/2021/03/26/ai-startup-idelic-raises-20-million--to-make-trucking-industry-safer-less-costly/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ninawolpow/2021/03/26/ai-startup-idelic-raises-20-million--to-make-trucking-industry-safer-less-costly/amp/",
+      "publishedDateTime": "2021-03-26T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-rio-tinto-to-deploy-heliogens-ai-powered-industrial-solar-refinery.md",
       "title": "Rio Tinto to deploy Heliogen's AI-powered industrial \"solar refinery\"",
       "excerpt": "Mining giant Rio Tinto has announced it's going to install a pilot version of Heliogen's high-temperature \"solar refinery\" at a Californian boron mine, supplying clean energy as well as heat for industrial processes,",
@@ -706,6 +1086,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-25-aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
+      "title": "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
+      "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of Microsoft, announced it will provide AiDANT,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-microsoft-azure-cloud-exec-leading-sales-expert-and-former-vp-of-sales-jim-mcguire-joins-cienais-board-of-advisors.md",
       "title": "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors.",
       "excerpt": "Most recently as Sr. Director of Azure Sales, helping to drive it from $0 in revenue to today's billion-dollar cloud juggernaut. \"We are excited to add Jim to Cien.ai's Advisory Board,\" said Rob Käll, CEO & Co-founder of Cien.ai. \"Jim's Cloud & Data ...",
@@ -747,446 +1170,6 @@
         "Microsoft AI",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence.md",
-      "title": "The Antidote To The Hype, Noise, And Spin Of Artificial Intelligence",
-      "excerpt": "Look for things like convolutional neural networks, transformers, attention models, GANs to quickly identify if the underlying technology is part of the AI revolution. The Future - Zero Shot / One Shot / Few Shot Artificial Intelligence. 2020 was a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605cb0a3131e9c7d0acdba21%2F0x0.jpg",
-          "width": 1200,
-          "height": 716,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-03-25T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai.md",
-      "title": "DataRobot CEO calls for ‘a new era of democratization of AI’",
-      "excerpt": "DataRobots CEO makes case for approach to building and maintaining AI models that reduces dependencies on data science teams.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/",
-      "originalUrl": "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/amp/",
-      "publishedDateTime": "2021-03-25T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027.md",
-      "title": "Deep Neural Networks Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027",
-      "excerpt": "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-neural-networks-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-03-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-the-latest-artist-selling-nfts-its-a-robot.md",
-      "title": "The Latest Artist Selling NFTs? It’s a Robot.",
-      "excerpt": "An artwork that sold for nearly $700,000 was the latest in the frenzied market for digital art — and possibly the first created in part by a non-human.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/25/arts/sophia-robot-nft.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/25/arts/sophia-robot-nft.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/25/world/25xp-robot/25xp-robot-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/25/arts/sophia-robot-nft.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/25/arts/sophia-robot-nft.amp.html",
-      "publishedDateTime": "2021-03-25T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-former-google-ceo-gives-150m-for-research-in-biology-ai.md",
-      "title": "Former Google CEO gives $150M for research in biology, AI",
-      "excerpt": "(AP Photo/Susan Walsh) Former Google CEO Eric Schmidt and his wife, Wendy, have given $150 million to a research institute to establish ... WASHINGTON (AP) — The CEOs of social media giants Facebook, Twitter and Google face a new grilling by Congress ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/",
-      "originalUrl": "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/03/8adcfd4080564d8c8922b92c2e69196e.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/",
-      "cdnAmpWebUrl": "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/",
-      "publishedDateTime": "2021-03-25T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Everything Lubbock",
-        "domain": "everythinglubbock.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks.md",
-      "title": "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks",
-      "excerpt": "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9",
-      "originalUrl": "https://apnews.com/article/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-ibm-openpages-launches-a-smarter-way-to-manage-private-data.md",
-      "title": "IBM OpenPages launches a smarter way to manage private data",
-      "excerpt": "Your organization needs to collect and crunch mountains of user data in order to evolve. But that can’t come at the expense of user privacy. As your data estate grows in size and complexity, the potential privacy risks grow with it. Outside pressure grows too, as governments expand regulations and individuals",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-openpages-data-privacy-management/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-openpages-data-privacy-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/ACDC-60_DataPages_Breaking_Silos_Leadspace_v2.png",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T06:00:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines.md",
-      "title": "IBM Positioned as a Leader in 2021 Gartner Magic Quadrant for Insight Engines",
-      "excerpt": "IBM Watson Discovery, an AI-powered search and text-analytics service, uses advanced natural language processing (NLP) to help companies find new insights from complex enterprise documents and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-301255480.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-301255480.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard.md",
-      "title": "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard",
-      "excerpt": "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses. The Azure Percept Development Kit (DK) comprises vision (right), optional audio (left) and developer board (middle) modules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/24/881b5d95-5a36-492b-91c6-03087e801b34/resize/1200x/efc8fa0fcda5e9be0b335fc3b931788b/azure-percept-vision-models.jpg",
-          "width": 1200,
-          "height": 1169,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/",
-      "publishedDateTime": "2021-03-25T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
