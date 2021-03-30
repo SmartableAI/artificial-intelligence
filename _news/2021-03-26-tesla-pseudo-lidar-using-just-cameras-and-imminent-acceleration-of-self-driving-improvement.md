@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Watch Tesla Full Self-Driving Beta navigate through the eye of the system in impressive video"
+    excerpt: "In a new video, we get a rare look at Tesla’s Full Self-Driving Beta software at work through what it can actually see as it navigates city streets. You can watch the impressive video below."
+    publishedDateTime: 2021-03-29T23:45:00Z
+    webUrl: "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/"
+    ampWebUrl: "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 78
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "As Tesla gears up to release 'Full Self-Driving' to thousands more drivers, videos continue to show its flaws"
     excerpt: "In one video, an FSD-equipped Tesla nearly crashes into a median and almost drives through a row of pylons — all within a few minutes."
     publishedDateTime: 2021-03-27T12:44:00Z
@@ -75,6 +91,22 @@ related:
       - url: "https://images.s.7news.com.au/publication/C-2441165/7c3306b2a546f9d44761167ae47d47936d6cb3fd-16x9-x0y54w1024h576.jpg?imwidth=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Underage Teen Gets In Tesla’s Back Seat And Claims It Was Self-Driving After Being Pulled Over By Police"
+    excerpt: "Tesla’s Autopilot is a very capable system, but in its current state it cannot, and should not, be replacing human drivers. That holds especially true in the case of this incident, where said drivers were not of legal age to obtain a license,"
+    publishedDateTime: 2021-03-29T22:58:00Z
+    webUrl: "https://www.carscoops.com/2021/03/underage-teen-gets-in-teslas-back-seat-and-claims-it-was-self-driving-after-being-pulled-over-by-police/"
+    ampWebUrl: "https://www.carscoops.com/2021/03/underage-teen-gets-in-teslas-back-seat-and-claims-it-was-self-driving-after-being-pulled-over-by-police/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/underage-teen-gets-in-teslas-back-seat-and-claims-it-was-self-driving-after-being-pulled-over-by-police/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 57
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/03/Tesla-Autopilot-Crash-2-1024x555.jpg"
+        width: 1024
+        height: 555
         isCached: true
   - title: "Self-driving Tesla crashes into Florida deputy’s cruiser; underage teen cited"
     excerpt: "Two teens say they were not driving a Tesla in the wrong direction in Flagler County because it was on autopilot."

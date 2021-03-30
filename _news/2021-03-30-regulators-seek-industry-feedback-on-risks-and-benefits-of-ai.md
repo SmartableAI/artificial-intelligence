@@ -7,7 +7,7 @@ originalUrl: "https://www.americanbanker.com/news/regulators-seek-industry-feedb
 webUrl: "https://www.americanbanker.com/news/regulators-seek-industry-feedback-on-risks-and-benefits-of-ai"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "UPDATE 1-U.S. banking regulators seek input on how firms rely on artificial intelligence"
+    excerpt: "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions."
+    publishedDateTime: 2021-03-29T17:28:00Z
+    webUrl: "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1U6"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BL2J4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BL2J4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 58
   - title: "Banking regulators seek input on how firms rely on artificial intelligence"
     excerpt: "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions."
     publishedDateTime: 2021-03-29T20:15:00Z
@@ -39,6 +50,6 @@ related:
         height: 630
         isCached: true
 
-secured: "8HiR74GtlFNdUBhnax3v8h1900W9NTEshj4BYG58O+8PMrQFgCFIliszuLS6y+xeWrB2I+09p6MYvsm9MUoh/ba9g3Ue+qa1iUuy4fayQ9L8qGrQullDtTJ2rKQwbWYaCB8XR39LgHDwRjaayZwr/3QnKjYwbmul0sAgn7DiVZVYOtFbcFtnJz31PZ5WQlUP5luiujSVmmglZA3k4uy6TE4nHvhoLkwawNYXjqyK8s6tztrUh/4sMqav5PI4tXnpiSsdYBquUS5T78ecNv6IZq6+D/aaM3ow9I3NNYpX9L58utSx0gJXb1NIoVk7ZlIc2QnE2bhVuZFMRn/z81pibPLRVpk4LvKkETdI+ZdFltQ=;iAqECrHk3/qhJDo3KCMakw=="
+secured: "dYhgMjCqdbFa17ZjHOijOOc9DBFi9ktOL8fezLRujarJrdcrPm1gpEgTAZtPXUsAQz+UIjhi+E1lZPPw+FkNnPR1i/Ai3TXLEwAso9uJ0q9hNXWBeVYqo0Tx3BMzDqv0qUjOL7OfGoQLjVH7UTa+bSP2aONTmMT+ormUmlTtBedFULMp9h23kdhDKjF2b9RWLsEsqvwHv1C2Q2R61F4Zb/ikWsaI6c7V4BSgZZkvXnHPxUm/sZgQq+NoKwSW99ZUSmLFZWZ0q4AGIX3sfsYgsK21yi65RK08Y9GSLcZc6vJrl1Hc0BGsEzvjZeHrvPIz/OWZ1akIYuh+wLtMFXSy1/Fxo/zLZjT6X+BDjFL7h3cLwSDwj+Ck7me9MEskBolwQAnjtUkzl0GBpAJU6a6P2d/nli2Es1u+lQmw28JjSyr1tfwagzVEcD4js995CAl9GVU3ms0ZP3T0ZxxknvuM4v9WyoD8fq4A9Ihyk5k18HphXYKVGLGTdtnZfhgt5JIPo3rFnASB9MyZdPKjyt90Fw==;kY3nmLxsskunNbDQFam10A=="
 ---
 

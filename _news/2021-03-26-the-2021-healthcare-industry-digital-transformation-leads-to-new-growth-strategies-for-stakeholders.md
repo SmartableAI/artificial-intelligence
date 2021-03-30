@@ -97,20 +97,6 @@ related:
         width: 980
         height: 512
         isCached: true
-  - title: "Neurala Announces Collaboration with FLIR Systems to Deliver Industry-First AI-Powered Industrial Cameras for Industry 4.0"
-    excerpt: "Neurala, the leader in vision AI software, announced a collaboration with FLIR Systems Inc. to deliver a full software and hardware stack AI-based industrial imaging solution. Neurala’s vision AI software unlocks the power of deep learning with no-AI-expertise-required,"
-    publishedDateTime: 2021-03-25T06:29:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-photographic-equipment-and-supplies-manufacturing-dd7012907e8f429d960e311e77b26b61"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "FUj9oNpz37W9a3lSfeEWutydQUqf3igcqQ4iptVedhCT/+/PsQ7aY22XGAGVPHddQREnAc2Q0SXaw8JBq1+nsG595pmheXMm4zdGbeOjdAP2TghJ6IomaJLswckxuZr3qDuP3XfQgS8f5/W1Fhkop1Ekbf6EtFyZudPYfh0K89865P+4jwvkfGDSGm6XqpX2lwXdZEeqGXjBDQCl5KvuQGz9Hsj4IkmIxw5yVBDtoFUkfeG/6Cb4Bugh7lvjIspTfJIM5pn/jW7adEnT/6peHI1ES3roxQg4ep+4ZHFyiuEl34wSGNNebCZMc9hXgIumbTyF1jpRUwdoeqG/OMahaEwOosT1/t2pVgMvBviPnoc=;TrDDYTyaPliteynO4YkM0Q=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-
 ampWebUrl: "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/amp/"
 type: article
-quality: 102
-heat: 102
+quality: 119
+heat: 119
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/autonomous-robots-adversarial-training.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 392
     isCached: true
 
-secured: "GSaNpQqV8uYnip4f5lXnuluc7nyfeT9/6xsHjrywEqiYvhEiVcMFCXlwr92UDF8Fw0tyFbuQiC1/ptvEi9I+BTjRR+jBIe6K0dW6uS7CIRkC9MvwPpvggLqwdkXlvxQy2j5SsUqskTT1dn1Jf/tbfHX44LsPjFXfs4O4WcfWbXexne6ufm2hlpO2HgO5gKOrOLPL3T28eLtkkrAVWMUKKY7x6XiVsQvOc2dzZ1rioGwAr+ndOU4xuza8ldAVdRID9MSM1ReqjO9ViOAKzs2aMMSP3f+nsEFi12Xe76cAVC5HGnLLxdmTyMYY58WM4Fyt1eFjIfDv8zKMDZBDSHGBHyMYEJCcQ8z8qLELd7v+90U=;X5B4nYTcoTWea2yzO1ArjQ=="
+secured: "/mu477pOmJRDI1PlzxgUPoDyy6/I4T/6uAaFfU8+0GJ6XgqKQsS6ZdQ727h6bJfKO3XcGJO+2bvIZz/LuwMI74dKBCPxE5PjiO4p0xAjeuB3KFAfXbtkXYJZftW4hQW5M21xEpwxXm6peqax/cQnuRoXH5+aAO53k/BBecojzGrFIvOgJ1zWTiR4r8q+UO1ew5yaGHN637wi2sMz9VVSRdJCADAthqaGFERknzRpUttQLHFXjtHybFI88jwwC6DVqKLfwIg6z27y2Z5rTlkAqhbmf4REA0zZkz78LQWy5kwOiDXJ1L74Gx7d8qtcuwWshojrSmxwZj4MpKBPx0zJPDMSNykMNQDjJKoN8vfoP4K6SqkcupmDChvDbPVsc5/4Mg6anbOXACTuJPtwDzJ+u/jdgSpMohabaf4X58MUn46fagbw5jr6PQLO3/Msmd3pjy3yzXQI0Je0Y1efdSaahu+XKTCoMuTHlWbtVBhffjA8hE6iKmeynFV87eON4M+6YZINufXfLnONAGSW1VfK+Q==;Xxk4ugiDrrdvtSUteZNtPA=="
 ---
 

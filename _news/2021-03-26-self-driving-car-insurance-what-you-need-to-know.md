@@ -98,20 +98,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
-  - title: "Neurala Announces Collaboration with FLIR Systems to Deliver Industry-First AI-Powered Industrial Cameras for Industry 4.0"
-    excerpt: "Neurala, the leader in vision AI software, announced a collaboration with FLIR Systems Inc. to deliver a full software and hardware stack AI-based industrial imaging solution. Neurala’s vision AI software unlocks the power of deep learning with no-AI-expertise-required,"
-    publishedDateTime: 2021-03-25T06:29:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-photographic-equipment-and-supplies-manufacturing-dd7012907e8f429d960e311e77b26b61"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "CX+Y3jgM9mQr5b/WKnkXiu/+RhigJ0ASAvc7utHITA0wwgYtaUpgQx+uHHf9K6PAcPRAV1RH12+vazeKAzkKt2k9vAn/wLNEYsoPFkJewHQ82DBWx1DNzqT/C0j4jllllgw9TtlZYosrNrwxqriWVx0b6IWye+VHhB6k/W+0jHsPlRzZI+C5Qu7gg7iE+K83JBGUN4x2dEX3T/egpvQ8gCUyiMy12uU6cr56zxrNQFpkRA2KV6dagAL0h0ooA4mjzIOZryf5hmMg70n3pepQoCN4TeQHOyFEfz9tDHwtvddQXlRjmTGC0jcwXDjfHcLoIaCSZORQ1qqrZcPLEfL/CJWRVKspM0AuanRF/VUvq5ZHKZqPL9OOy4gLrOIgtXz9tCK07ASJeOTJzEptscl0CgCFecSoIdeoCyUFXD22eQ0r7Bl1BQenEWkoIYoZ7hV6n7Cv/syENws4NHizw1XK8/8bAJBe/6QCxw8KoseFncVzst2RTJ/K0C9mkQobvwfJvKaBxfmo51jTRDXo11Csuw==;SeYfWNzXpnZASM05K82bhA=="
 ---

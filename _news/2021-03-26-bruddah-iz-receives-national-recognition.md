@@ -57,15 +57,6 @@ related:
         width: 470
         height: 245
         isCached: true
-  - title: "Why Indigenous recognition is a national imperative"
-    excerpt: "An Indigenous family friend passed on a copy of Close the Gap Campaign Report 2021 - Leadership and Legacy Through Crises: Keeping Our Mob Safe prepared by the Lowitja Institute, while my mother-in-law gave me a copy of Fire Country by Indigenous land management expert Victor Steffensen."
-    publishedDateTime: 2021-03-25T07:00:00Z
-    webUrl: "https://www.canberratimes.com.au/story/7182733/hewsons-view-why-indigenous-recognition-is-a-national-imperative/?cs=14264"
-    type: article
-    provider:
-      name: The Canberra Times
-      domain: canberratimes.com.au
-    quality: 4
 
 secured: "5HbmJfqQQvuQxnI28sP9ExrkVvlsCqW7AaWrReqOEvlfU/dZ8m/5zpZwNg4XgJ3BFF/jnIk+5lc1vLVZmn60c1JgLfp5miap9UzhPJfn79tndZ++lWwUuJP2x5WSx3mH6tTlz/mcHXRoOGIUDX5oS7GEURp+ZIgIfeonvLKWPMjb9IXgcp6kVMYyCq8PyRVcz3RTxFOMHG46ceVlnYPWEtOsWjAda0WWIIGSrKYwGEuaL+Ms54BaiCSsbz0mIZ8DUzIWHwaLYlouFD8N3KTPdgQ1WISilYuB+tlIOAjNG499a1leaiw5+CWTN5zre7b+hemTioU+NDrTXyj+Q+heIhMNgKGCkXx79N2qhfXPz/u7EkCdzDZnEl6YVQ8jVZ+e/OQbjO9AxN59lFq0v/lCY9fFkc8HAf2v1LytfHqv8yxQ1VVbYaCNAgdzacUcOo4KYVYIU0iUKS6ySm/uUZzuy3vQW2uNXcH0vnQeh6mM47i8rgezuJGyuPJVdbuyK9Y0GET9T2YUUjgQ/fjYKlLGYg==;Wm6XKyDj/npfiICQaassug=="
 ---

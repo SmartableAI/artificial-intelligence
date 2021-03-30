@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Disney is testing facial recognition at Walt Disney World"
-    excerpt: "Walt Disney World started testing out facial recognition technology software in the Magic Kingdom, which could change the way you enter the park. Per WESH, the new technology will capture an image of a guest’s face."
-    publishedDateTime: 2021-03-25T06:00:00Z
-    webUrl: "https://www.deseret.com/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world"
-    ampWebUrl: "https://www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world"
-    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world"
-    type: article
-    provider:
-      name: deseret
-      domain: deseret.com
-    quality: 59
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/q45zCE4UrFXeuPy83ZOAi7TPFlo=/0x0:4116x2741/1400x1050/filters:focal(1729x1042:2387x1700):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69023404/AP20332570049737.0.jpg"
-        width: 1400
-        height: 1050
-        isCached: true
   - title: "Walt Disney World Testing Facial Recognition Tech For Park Entry"
     excerpt: "Disney’s taking touchless to a new level with its facial recognition pilot program. Would you be willing to participate?"
     publishedDateTime: 2021-03-27T12:10:00Z
@@ -104,20 +88,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/10446172_032421-kabc-4pm-disney-tech-vid.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Disney pilots face recognition for entry to Magic Kingdom theme park"
-    excerpt: "Visitors to Walt Disney World Resort, Florida, USA, are testing a contactless biometric system enabling them to use face recognition to enter"
-    publishedDateTime: 2021-03-29T15:01:00Z
-    webUrl: "https://www.nfcw.com/2021/03/29/371425/disney-pilots-face-recognition-for-entry-to-magic-kingdom-theme-park/"
-    type: article
-    provider:
-      name: nfcw
-      domain: nfcw.com
-    quality: 39
-    images:
-      - url: "https://www.nfcw.com/wp-content/uploads/2021/03/walt-disney-world-resort-florida.jpg"
-        width: 1176
-        height: 760
         isCached: true
   - title: "Disney World tests facial recognition"
     excerpt: "Disney World is testing facial recognition for entry to its theme parks. Guests at Magic Kingdom scanned their tickets and got their pictures taken while wearing facemasks on Wednesday."

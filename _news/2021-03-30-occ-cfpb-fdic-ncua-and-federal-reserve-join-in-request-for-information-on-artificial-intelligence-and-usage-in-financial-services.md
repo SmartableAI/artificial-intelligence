@@ -8,8 +8,8 @@ webUrl: "https://www.crowdfundinsider.com/2021/03/173717-occ-cfpb-fdic-ncua-and-
 ampWebUrl: "https://www.crowdfundinsider.com/2021/03/173717-occ-cfpb-fdic-ncua-and-federal-reserve-join-in-request-for-information-on-artificial-intelligence-and-usage-in-financial-services/amp/"
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/173717-occ-cfpb-fdic-ncua-and-federal-reserve-join-in-request-for-information-on-artificial-intelligence-and-usage-in-financial-services/amp/"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence-600x450.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 450
     isCached: true
 
-secured: "TcpvdglYGlaK2vb+nxXV8gIP9lpxEGD03Ka7mqxuGrMBSL64jUAlRGck4fQ1Sdnv8+JF9kb8xnVx7Cp1pnVOmQhaoeRJ5cuTBKljCToItarmFDY/zGV2jbkHfABxNBA96Wg/gwkelP8njcO6ahvBR51wSYsfYGIpvzg1ZzH0Tdxca5OfqbzPxDKSJ58fUFiPfEzpJlbsekae1S6aTN7ZQ8KRgkEE+ydRittccVPstT1qOCimYXF/lnw8t6KQIM34KlpViIiSIAfJiCBv6Ce6xtLuhtUdSOy06LcoyMVJP+gXr+i8wRBL7UihE7n5SmhsnQxtVUJfmRurZ68XAfT6Tb0P6iw2AAShOKdiz0E2Xlw=;Fla4fPrOp2XILfeGFwGtQQ=="
+secured: "8HU3eLLsNK1nzJm4eeuxRmgtt+hGUaBehUqi8oBbnFWMEeXt5G3tOpKs4jOUsvm5D9e2sF8okc6qdeBJAtF9hs4K0M6RKQ7gWQ5/ZmlXLlkIJanUdvZuhOpgHs9VIFPrRzDm5Lc/60u0KA1dMlhwwKzsN1oF3B5YZyuiMU0Bovi6QHF4BJNzYYjLyVj3iKyGCGj0+LoqrkfQbAuQS9qbG+q0O+Cldvso27gnxEyfpGaIXhl9QEnhcLPprU0wrnbmcs3wXY36jnorOaLFfq/gJvHyKpXH80w5iObJDCRykYV7Ln0gf7tpOvlKxpob2rcCaQzkN/ejUfyDrNqC+gy3s6Zc1vU99Sv+VxH3+EzbiZVCtztUjNt54kdnQiz3MgiHGQldRbWMAfAtvUUvX2H7V9OmJ1wuB7KIEl1J103Gx5YYqtlD28HikpOKfWyiY1DZJNZ4uPquO/xADcDL1ytouOnqQ8PaUKypKXxQZnGGuRzzy2Kohww+RXg47N8Fcqqt0iC7QkdSeHZtJ/pg+5yxtw==;Yv0bfX2KWTZVaCkhpMTReQ=="
 ---
 

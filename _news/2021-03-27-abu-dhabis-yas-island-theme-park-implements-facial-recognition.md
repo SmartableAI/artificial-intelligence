@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/authentication/2021/abu-dhabi-yas-island-them
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: pymnts.com
@@ -38,6 +38,20 @@ related:
     quality: 39
     images:
       - url: "https://www.nfcw.com/wp-content/uploads/2021/03/yas-island-mobile-app.jpg"
+        width: 1176
+        height: 760
+        isCached: true
+  - title: "Disney pilots face recognition for entry to Magic Kingdom theme park"
+    excerpt: "Visitors to Walt Disney World Resort, Florida, USA, are testing a contactless biometric system enabling them to use face recognition to enter"
+    publishedDateTime: 2021-03-29T15:01:00Z
+    webUrl: "https://www.nfcw.com/2021/03/29/371425/disney-pilots-face-recognition-for-entry-to-magic-kingdom-theme-park/"
+    type: article
+    provider:
+      name: nfcw
+      domain: nfcw.com
+    quality: 39
+    images:
+      - url: "https://www.nfcw.com/wp-content/uploads/2021/03/walt-disney-world-resort-florida.jpg"
         width: 1176
         height: 760
         isCached: true

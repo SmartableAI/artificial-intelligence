@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/seervision-software-with-ai-assist-can-ope
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/seervision-software-with-ai-assist-can-operate-multiple-cameras-from-one-pc-29665885/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:

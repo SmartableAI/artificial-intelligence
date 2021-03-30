@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buy
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/amp/"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:
