@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-30T18:16:00Z
 originalUrl: "https://ptproductsonline.com/neurological/parkinsons/studying-parkinsons-disease-with-face-recognition-software/"
 webUrl: "https://ptproductsonline.com/neurological/parkinsons/studying-parkinsons-disease-with-face-recognition-software/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Computer Vision
 
 images:
   - url: "https://ptproductsonline.com/wp-content/uploads/2021/03/FacialRecognition.jpg"

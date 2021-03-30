@@ -3,11 +3,11 @@ category: news
 title: "How artificial intelligence is transforming manufacturing"
 excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
 publishedDateTime: 2021-03-29T04:05:00Z
-originalUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
-webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
+originalUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=US"
+webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/?change_country=US"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     height: 1147
     isCached: true
 
-related:
-  - title: "Three AI And Tech Trends That Will Transform Fashion Industry"
-    excerpt: "Apparel designers and brands are embracing the latest technology to get an edge in the fast-paced world of fashion. From machine learning to 3D virtual models, find out how technology is transforming the fashion industry."
-    publishedDateTime: 2021-03-26T04:25:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605d6f8f415056893e35fb08%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1925%26cropY1%3D0%26cropY2%3D1083"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "y24WUp9xS5nlkg10ItwY17MDWBj782K1vevh8myyYMp4FJZgb9gzFqLm9bc3JVAGONPfg8FtWhB/JV23/gb0utrRucjbjFO7TAesK5orgEVW1sj9YR6viXkpSl5EigqQZu1NEByRZQbUkGy4nhJwsw6dJlRc8v2C57GReLC8bXsP5LJe26hH82q1NvzJDjj1bdve1fOA4/gZhfWMkTvKQm8WwB8Te4mlcilHB3uYrszqvtOsbF+tZ4407uu3RJQFx1Y2+n3xzN/fy5KVYLD0DqHMS6HThV++UIhz10oaORt/pOD2oISbjS8dFfl3Yc63doLfXmW8cDUICP/LNiUSHqFsu1qQYpWJLvui9l71C8pEJ53J2D+FHR+fbEiuylgb+fM8q5GVfQOepnscNkTTzX73bCqdUR3XDd4LhKiHkPKiB+IgCG0Y+sTHIGDDPVrD/Twm/N84WV5NQ9kJpsWJtBdM2EL6KnY21IdVJpFbR7gHxdBc4Tzgdh/5yNp2C89iQAHBcP94qTJqAN8qnuvIKQ==;/SaIfTP+WT6lJKvZk63+xA=="
+secured: "CEzDD3o+L98iWZykU12MqoDgArGwUlqj/Zj+fEfRywzqX9J+EkLOYNP5PfSYRiK3XxEd5QxHU1XdxF3nBypjxYix7vOYOCuraCpViSkUt4l92YYgQae2paRDu96ov7RLp0xfXAjInVrQaECBgWtZt+TzKOrszdFS+AUpExXCKJhrbCDgSlifn272wgVSgGc3yVTSpK8275g/FXWJbYGyGJqzzHkI9tPKxbt1zq99+Vy5kBkrLCFJeBEnFsFW31CWKGQ5c4g3FaiH+HIuhcA4l12YvTmzkNTIxF7oOmuFZo/0cl6EeNSsYm3VEGyhGbqa3v1GHy01mOJnrV82Cf+E4tpucTS0KYFbcKv1Vhe26v8=;RBx2nGFzMN5uT/bl/uL2sA=="
 ---
 

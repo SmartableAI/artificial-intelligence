@@ -45,7 +45,51 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "ARM introduces v9 architecture with focus on security, AI, and next-gen performance"
+    excerpt: "But total performance gains may actually be higher if chip makers adopt multi-core designs and use specialized cores for graphics, AI, and other functions. Speaking of AI, ARM says it’s ..."
+    publishedDateTime: 2021-03-30T19:34:00Z
+    webUrl: "https://liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html"
+    ampWebUrl: "https://liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html?amp"
+    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html?amp"
+    type: article
+    provider:
+      name: Liliputing
+      domain: liliputing.com
+    quality: 70
+    images:
+      - url: "https://liliputing.com/wp-content/uploads/2021/03/armv9_02.jpg"
+        width: 1200
+        height: 637
+        isCached: true
+  - title: "ARM introduces v9, its first new chip architecture in a decade"
+    excerpt: "With v9, ARM focused on three primary areas: security, AI-related processing and overall computing power ... by executing in a different environment from other software. ARMv9 chips will also feature the latest version of the company's Scalable Vector ..."
+    publishedDateTime: 2021-03-30T18:04:00Z
+    webUrl: "https://www.engadget.com/arm-armv9-architecture-180043435.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-03/c818ed10-9175-11eb-b7bf-d3455fe973e7"
+        width: 1600
+        height: 1000
+        isCached: true
+  - title: "Arm unveils Armv9 architecture for its next generation of processor chips"
+    excerpt: "The British chip designer Arm Holdings Ltd. introduced a roadmap for its next-generation central processing unit architecture today. Its new breed of chips will be optimized for specialized workloads such as artificial intelligence and digital signal processing and come with greater security built right into the silicon."
+    publishedDateTime: 2021-03-30T18:00:00Z
+    webUrl: "https://siliconangle.com/2021/03/30/arm-unveils-armv9-architecture-next-generation-processor-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/2c1fa490-55a5-4696-aa59-04f5fa01aa8f.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
-secured: "uPZD3IrGKkmE01pYpP+AxoLbAxjhQzojL4h2virj8R0corUgj6IFnTTf3KZPaG228vcKUOkRsUQIY4YS9TwWXT0mkAKJkoEDZY4wARvzdNpIjZsSuqVY6c0CkZOtbxogv97CsoasQa/lc7BDPtuZkJGG/0f5gsjN9ZRwLAbRCKkK05X0IKxo16qbDLJeUX9o6ExGXy9Ue94OiyxX/E/w//mWgAEnLgZ9y4n5tu6Bw76cjbXMTY1xm0t7l24q5WXxHaWThiej5H/jPJ9yDzWlfLHm7zhBkwhyGiZpe53ijgp+U3+tKihjdSxJKgpIDehzVjWPOP7gf+GJyGEAK86ovbpGb+Rk7Jr4CT9MRzKtmag=;7fCEN5QgE4kw+00yzTW7+Q=="
+secured: "eHEsxC/pnA+0tzLsilu53EDAciOvDvOOR2oygROD7HqH38awYq4bG/SBk+XKldJEhxQ6nXoy9RBkobhoxTdFhnwdDEqdUAp4tHSFXljjXQI46akT3Oq6c1bXzbE/nuWnrUxfqRIpsT2IkVm/pt4ICOcl2O1raMdIHDfED1UGcY0lYaBLw2IR2s2ZUtXW3xa2Dq5hRFrBQcTbU8guDSiDolKs08dJXQS28jCQawGYaRFon6uacbvTPMGYSVoeVvMVysB738BJk2dC71b8EtLMctbeyNLgMjLs0IamJpUXQDEXNqo76ya88lFZNHAc3DHBTYmbBP+Y9aH2YKQs440QNN/UKUbT2+C/xF3A+3cx1nlyusW1OdnQscmY2ewVsf6x/wIVwqLvPWRB9B0BurQUAy4X5zzHTxBqjme0zecMh5mCMk9sr0TiTEuGBybsDcHVC5ggS/XrpH8QPfuz6lJ8TL3uSZwF9gusr6e8Br0V7MbAEIgBjcRZdkW8Shh4lsEfPMHZ2XeWAjzcR1d18WFCvA==;HJRtWe42b9SfCyrq+bLloQ=="
 ---
 

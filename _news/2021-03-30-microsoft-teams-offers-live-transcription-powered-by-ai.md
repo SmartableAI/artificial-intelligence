@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 47
+  - title: "New GC and Other Microsoft Alums Attracted to Health Care Tech Startup"
+    excerpt: "David Heiner, chief policy officer and general counsel at Truveta Inc. Courtesy photo After working for more than 25 years at Microsoft Corp. as an in-house leader and artificial intelligence ... joined Truveta as the health care tech company’s first ..."
+    publishedDateTime: 2021-03-30T21:50:00Z
+    webUrl: "https://www.law.com/corpcounsel/2021/03/30/new-gc-and-other-microsoft-alums-attracted-to-health-care-tech-startup/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2021/03/David-Heiner-Article-202103301745.jpg"
+        width: 621
+        height: 372
+        isCached: true
 
 secured: "RdsJUah/kgC/gDPIA/YjiYHi7qonO+mMVGtG1vB0GzYoNNoqmi7Yrs+NWJmOlsOVbnRweiy6sHKfU1WKImi/0iuhwfde18G2kzVcxQ/Ur7NYsIf2ADBgSdx2rocVNDSNW77xOu/3W42bf2AMHeiH2py4h5KZVYSm1eItaqw1QSvd8JwlxbTz5WSCvjnkReZUlgT4x7uVhKedcfxTBdAFlFDu5uZ7UXyFePUUkSP1bXOJtop2BZbdAY24mEAsQwgMjm4LjooKQ2hJkcEBNPkkmfLVDw5xsGZrpa0UC870BQY3t6cmY4frgCFCMmlHKq4cDPPoUfHtXm05JzKJbS3SuRGypkgCEl6kc9MUSueHxWc=;MEOI8n2ENSD0Rh2/ditMOQ=="
 ---

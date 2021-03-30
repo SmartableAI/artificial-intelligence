@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-c
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-executive-changes-768322bfd4d842ac069507d607f12307"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Celential.ai, which matches software engineers with jobs, raises $9.5M"
+    excerpt: "Celential.ai, a startup leveraging AI to match software engineers with open roles, raised $9.5 million in venture funding."
+    publishedDateTime: 2021-03-30T20:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/"
+    ampWebUrl: "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/employer-hero-e1615920570719.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "mqCvqvqMAgSgnkkAioR1V6AjD6iQxAuF+lE6ot4ANGJavUAlbOPRvl1vosnFbclt+OXgTBTXOVxHEdCnkSFzxBQ09DtxXiC7haO8aZBQbss+Zve0h+V7ffXQqLHCkbne2x5Lpp2mOKIIRHimepswLiVqC7DwZadgku77kQ/x37L2fnpAXYJLIkExAUeyBKKbqqFYhSRzYHR/NdJs4cuNtcGpefZNVA8tF/UDQPMswx4F0LPKxCv6v6dTorVeOM1/SSRWa7friMf+EE31N3Sc3HjrhYIgAYnpHnSLwfczUTb2T6LlkkaGqxdVOXE0fwVGU+zX/3wNdVpaqg8oIYGsz35XJrlnkpW9RZnPECnZpLM=;mxCynigHsTTwm8nw6A5Ivw=="
 ---

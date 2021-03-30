@@ -58,6 +58,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "New GC and Other Microsoft Alums Attracted to Health Care Tech Startup"
+    excerpt: "David Heiner, chief policy officer and general counsel at Truveta Inc. Courtesy photo After working for more than 25 years at Microsoft Corp. as an in-house leader and artificial intelligence ... joined Truveta as the health care tech company’s first ..."
+    publishedDateTime: 2021-03-30T21:50:00Z
+    webUrl: "https://www.law.com/corpcounsel/2021/03/30/new-gc-and-other-microsoft-alums-attracted-to-health-care-tech-startup/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 41
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2021/03/David-Heiner-Article-202103301745.jpg"
+        width: 621
+        height: 372
+        isCached: true
 
 secured: "AI/cshhEGq3JtrD24KMaynd1LSnjVcnrkT+JZeJWF7+s2ayQtk/7NZbQKmnkmsULhfSAAtFc8ImswYB0eJfG5EnXHLENh0oe2tQZ7WyJdYun071yc4Hfc1wvXC89Gz3LlNqX4vMMGMWQYTl9j87MiIQZ+ggn8PXxKhqwC6GUI1wlB2RGWBugT1OyyCbq9j2B3ps4N9wWdTTAhrcA32ZNbdLEACyiB45SMHm2d4XvYnmALJNGt9PHJqdEie1dgpV1eqFPMLpxo+werAOKJWvCSsmwOmfPNiTMowWovLBgTSS1SMWuP1XpA1/+dkBjO0ubPAxgkM2lLjlbVSYjCaSTvmLyTKwEGfCIQvgNFH8AzQo=;kdBwLauVZr8sInrDLMow1w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance"
 type: article
 quality: 105
-heat: 115
+heat: 145
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "ARM introduces v9 architecture with focus on security, AI, and next-gen performance"
+    excerpt: "But total performance gains may actually be higher if chip makers adopt multi-core designs and use specialized cores for graphics, AI, and other functions. Speaking of AI, ARM says it’s ..."
+    publishedDateTime: 2021-03-30T19:34:00Z
+    webUrl: "https://liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html"
+    ampWebUrl: "https://liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html?amp"
+    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2021/03/arm-introduces-v9-architecture-with-focus-on-security-ai-and-next-gen-performance.html?amp"
+    type: article
+    provider:
+      name: Liliputing
+      domain: liliputing.com
+    quality: 70
+    images:
+      - url: "https://liliputing.com/wp-content/uploads/2021/03/armv9_02.jpg"
+        width: 1200
+        height: 637
+        isCached: true
   - title: "Arm announces the Armv9 architecture for the next 300 billion chips"
     excerpt: "Arm is announcing the Armv9 architecture, the first new architecture for ARM processors in a decade. Two major focuses of the new architecture are security and artificial intelligence."
     publishedDateTime: 2021-03-30T14:00:00Z
@@ -46,7 +62,35 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "ARM introduces v9, its first new chip architecture in a decade"
+    excerpt: "With v9, ARM focused on three primary areas: security, AI-related processing and overall computing power ... by executing in a different environment from other software. ARMv9 chips will also feature the latest version of the company's Scalable Vector ..."
+    publishedDateTime: 2021-03-30T18:04:00Z
+    webUrl: "https://www.engadget.com/arm-armv9-architecture-180043435.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-03/c818ed10-9175-11eb-b7bf-d3455fe973e7"
+        width: 1600
+        height: 1000
+        isCached: true
+  - title: "Arm unveils Armv9 architecture for its next generation of processor chips"
+    excerpt: "The British chip designer Arm Holdings Ltd. introduced a roadmap for its next-generation central processing unit architecture today. Its new breed of chips will be optimized for specialized workloads such as artificial intelligence and digital signal processing and come with greater security built right into the silicon."
+    publishedDateTime: 2021-03-30T18:00:00Z
+    webUrl: "https://siliconangle.com/2021/03/30/arm-unveils-armv9-architecture-next-generation-processor-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/2c1fa490-55a5-4696-aa59-04f5fa01aa8f.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
-secured: "8/7WQvnQZcV73G4INSreMhE8YZBZqQPIAHTpPalw1QOAyn0emwBx+BdS0T5juirjnxtncV/tbB38ZJJd9a8ShPRTc7xpiaG2FPdsv+9b5EYEsTKi/qPsyA8iDtGHjWT47A5ecsFFrGZXIBPbFDrmdF59PDw6CarTIkV4lBk6ribHf5poZ6xFkuwaI7T3nYHqH2FUKzVhOllFadIOU59GadS1q9IkPjaAg9kYJ4t067hSbNW9wXj4Bkn3BzFiGeXU3RUgH+mVDb91k/NeJGAmEvfErm0tNI3umSiWTsgJqOTREhtjXnuvMYm0SQxxHPL8LarZwUlJW0EJNB9km3etuvMbjPRtxHfYL6hoLHGOWeQ=;bQKMDMPXhN8ForWh63/nMA=="
+secured: "r9M0IyTM11wYe6SDw0K10RQbD1yYcR4AcSfYRKmouhDFXcNvO+0VwPVzvffnyyxIhvQ/6vvPP0gDYvk6TfIER8zUpuyxGxL+lnUnKWR5ZSvXjIJ1HSTjGtQo4znzrchIVVQlR568OsIZbATboXxCaq2BH54a4k+xhX6ZdATtTTq7qmJD6b5WsMHcMFpvBqSa81DrxouWex97QuNiSN9/mNzHjhEduHqMdf6TRoQcytRmcgkorFMrq8LS4vqE8CDS0fGskEIOpfw+PrW0Si0r5w7jtSPY0R88uQgV8xSxYBUT2yw7MxGEPNbjEMRMO+NE/Dmf3CLW6am7kEjbsIVGqh+iQHP/UjJvYvNWC+VhtN6rarat61jzUeNuggMVHgrsySEzAW3matJzJsyXa/05HOGvRMX8UdOrY14pZejEvwic/SLIZtSIK1NR//NQLeq9oiuzChbWXQONyrqpPe8LfV4t00lS2WFkRNYVP6YfrQKHuFgdrz12v99z/vwJLw2KGukUTuiE8NZyJNftty+jZQ==;Kpa7ajuOcOL735olLdpLnw=="
 ---
 
