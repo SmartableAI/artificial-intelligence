@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Area Students Earn All-State Speech Recognition"
-    excerpt: "Several area high school students have earned the highest possible honor in speech competitions. The Iowa High School Speech Association announced All-State nominations from individual performances. The following area students were honored: Johanna Leonard,"
-    publishedDateTime: 2021-03-25T08:48:00Z
-    webUrl: "https://www.kniakrls.com/2021/03/25/area-students-earn-all-state-speech-recognition/"
-    type: article
-    provider:
-      name: KNIA-KRLS
-      domain: kniakrls.com
-    quality: 19
 
 secured: "WBdVST+7FSakkb6AmiaPRsQ9SR2GvfAkKtjR1r1zDhFEyzz3wXdqAxS/8X5gSXRBD3zFUm5PlxB7GpaKpU81fZKXl7JPA2dPJqbB3MU1G1Lsn/AGQ6DTPPuJIphRdD2HFtb3uolxTSAqLsPyUOloxdUAXfgJ0VTKrnWXU2UKWdbGXmTQCJDnORm53EdgaQyUuroY4O/GZjBRq9hYTCORW4bAnOsNrPeWaKxVogU3B4XseWk6lIyCM6qJ5cYF88lHMN4QXmnuUdY4TL1TbIlRYNPaqg9N7pSGtPAcJgVpiySTgoKsge+Bme/1fxgsGdv/gB65fNFjFmY+ZxpDzbC6aUBLXj7oCuVuGRHY+y0la86Ok5KS8RR+tqNMxCZR4Tsh5cgSChDGMml0fhtoHA6s5FV+6rj9YujHRUHq7rzqWxl/oQE3N3QVQ0e0HNRf3RQnghleDhZJ821L6n7Go/O7wyYNsSyE6yBNp437XwuJu5r4bxsMAmYAyvuU/LllsGmf2+CdSqSuwB+8bJ0QtNT8ow==;OM0+WcpMczFW7KH+CAYduQ=="
 ---

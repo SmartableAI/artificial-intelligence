@@ -25,16 +25,19 @@ images:
 
 related:
   - title: "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category from The Business Intelligence Group for the company's collective performance developing highly-integrated artificial intelligence (AI)-powered computing platforms."
-    publishedDateTime: 2021-03-29T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20384827"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20384827"
+    excerpt: "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category from The Business Intelligence Group for the company's collective performance developing highly-integrated artificial intelligence (AI)-powered"
+    publishedDateTime: 2021-03-29T15:21:00Z
+    webUrl: "https://www.lelezard.com/en/news-19721971.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 54
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Payrailz Named a Winner in the 2021 Artificial Intelligence Excellence Awards"
     excerpt: "Healthcare Triangle is proud to announce its launch of readabl.ai, a state-of-art, advanced automatic capture solution powered by Artificial intelligence (AI) & Natural Language Processing (NLP) for document classification, information extraction and..."
     publishedDateTime: 2021-03-29T14:05:00Z

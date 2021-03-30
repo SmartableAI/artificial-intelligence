@@ -49,6 +49,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US Regulators Seek Input On AI Use In Banking"
+    excerpt: "The request for information \"also solicits respondents' views on the use of AI in financial services to assist in determining whether any clarifications from the agencies would be helpful for financial institutions' use of AI in a safe and sound manner and ..."
+    publishedDateTime: 2021-03-30T00:46:00Z
+    webUrl: "https://www.law360.com/banking/articles/1369925/us-regulators-seek-input-on-ai-use-in-banking"
+    ampWebUrl: "https://www.law360.com/amp/articles/1369925"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1369925"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 37
 
 secured: "gH0V7LIBHGwyzXi8v+XYjFhFYZEMF6EbBCMre+dvc4y3i2h7hh1Vb5wc0UfRL7KmnOUJhytzwnwXSFRPVoZyINr5rIJYsWWOx86j4F4NzBR/jz/8Y6rmrpeL2GrUnoQSknMxyX5g8k5ao9sVwvGHI+UNXjpQZNYaWvqXEsh57bMZdCQ0G2i+6YG/RG4oyzsKBtGP43OZBwqtM1QIrBEkNTitrDm06xemsMioUuslUuwgDkS3BnAJy3z4I4TBQJ6aGlOwCoyOppGuaCZbh2ol5pR0jJwXTi2zrA0J1EzPfeYO7Nur2XA6YqKszCfFQ2aB8QhT2cXEECi8fflFk+sj03MtqmJiPqourrax93b5mOQ=;5MCTsmxrMbLvhCTl4Kb4yg=="
 ---

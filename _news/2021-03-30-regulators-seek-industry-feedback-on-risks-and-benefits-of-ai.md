@@ -35,6 +35,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 58
+  - title: "US Regulators Seek Input On AI Use In Banking"
+    excerpt: "The request for information \"also solicits respondents' views on the use of AI in financial services to assist in determining whether any clarifications from the agencies would be helpful for financial institutions' use of AI in a safe and sound manner and ..."
+    publishedDateTime: 2021-03-30T00:46:00Z
+    webUrl: "https://www.law360.com/banking/articles/1369925/us-regulators-seek-input-on-ai-use-in-banking"
+    ampWebUrl: "https://www.law360.com/amp/articles/1369925"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1369925"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 37
   - title: "Banking regulators seek input on how firms rely on artificial intelligence"
     excerpt: "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions."
     publishedDateTime: 2021-03-29T20:15:00Z
