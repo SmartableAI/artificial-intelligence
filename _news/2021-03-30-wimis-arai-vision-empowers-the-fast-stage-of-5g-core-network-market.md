@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/21/03/ab20394143/wimis-ar-ai-vis
 ampWebUrl: "https://amp.benzinga.com/amp/content/20394143"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20394143"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Finance
 
 related:
   - title: "WIMI's AR+AI vision Empowers the Fast Stage of 5G Core Network Market"

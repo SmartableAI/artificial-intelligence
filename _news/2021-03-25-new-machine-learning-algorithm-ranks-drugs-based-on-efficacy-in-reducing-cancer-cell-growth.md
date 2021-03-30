@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210325/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210325/New-machine-learning-algorithm-ranks-drugs-based-on-efficacy-in-reducing-cancer-cell-growth.aspx"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Researchers use machine learning to rank cancer drugs in order of efficacy"
-    excerpt: "Researchers from Queen Mary University of London have developed a machine learning algorithm that ranks drugs based on their efficacy in reducing cancer cell growth. The approach may have the ..."
-    publishedDateTime: 2021-03-25T10:06:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-machine-cancer-drugs-efficacy.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-machine-cancer-drugs-efficacy.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-cancer-drugs-efficacy.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/49-machinelearn.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "L+abriEzH11mExzE5h5eWq3+WBbu12LLNIo55AQ8gbs8wAuCkchcaYQpYVxnuTU//kyD9vtwT6sUIjYvpqVtDvoTL4n3ZEbhrLnEqDhoeJ4uWkgPHHpj+CGDrOwFWESwHlsFNodKba1mpflbsp+Li5dmjVAePDeOhETP/uq2C27Bp53Rqy2VgLkAw4PMHxHH7XoW+8qDeDWwvvlRYOU+lZ3VPBquk2HwvEjr/1dTFTTSAhM75fMJQDtX/eTxRTMEg/bLNBKYd/i/Zm2OfEKButhj6UUGdiv2bYi5JP77aS+/0BizJanS/v9sOf9h/GS00zJd90w6SotY2fSm0dh0aM9PyJvnl7IZZ1eg6L0+vofyZLSNxpRDR6AT2LZl1cXIi7sdG43cJPUQ8pDADmamWLpUNK+W9vLeTWsi03LzhlvjRtHCSwIua8YmIGCfIpTTTVwQV4fsivjndoMCBbfCntHCQfIwwWS07ztIlGzhe7EyMvUXAtWqtR4zTJm5pLdSpJEZFizO4LbUyMOJyqZX5Q==;SBP9itlPks0VIPZRoB5fmw=="
 ---

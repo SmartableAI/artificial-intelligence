@@ -3,23 +3,23 @@ category: news
 title: "Cohesity Recognised as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage"
 excerpt: "Cohesity today announced it has been named a Customers’ Choice in the Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage report. With this recognition, Cohesity is the only vendor to be named as a Gartner Peer Insights Customers’ Choice for both Distributed File Systems and Object Storage,"
 publishedDateTime: 2021-03-29T22:24:00Z
-originalUrl: "https://www.arnnet.com.au/mediareleases/138915/cohesity-recognised-as-a-customers-choice-in-2021/"
-webUrl: "https://www.arnnet.com.au/mediareleases/138915/cohesity-recognised-as-a-customers-choice-in-2021/"
+originalUrl: "https://www.reseller.co.nz/mediareleases/138915/cohesity-recognised-as-a-customers-choice-in-2021/"
+webUrl: "https://www.reseller.co.nz/mediareleases/138915/cohesity-recognised-as-a-customers-choice-in-2021/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: ARN
-  domain: arnnet.com.au
+  name: Reseller News
+  domain: reseller.co.nz
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_3.png"
+  - url: "https://d1abomko0vm8t1.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_4.png"
     width: 300
     height: 250
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 480
         isCached: true
 
-secured: "izld38CMwm2+riMkRRjLLQGW7Cz+FN4wBqar0t8kzxxeT0NMh4PhfhtdlHyLyoI4vlduGX7T3315uoelr3LBSL5nk1AknJAhEJc18qjCRhOt7Oid3a8dl6x7eloahtsgvM99v1854AUzN0k4ff1tUYTF6okgZnC06grW/vgphm/Hy94JRDGQDnf+EBqGsNpaqCHPVbvVQbh5z5+O8Dxf5hQ76mQvQosPBiDCj/kNtsAdmn5tIOvh+zSiMfyrjKXClhSVVByMekr+0gMMfRMLfHQVId1SJmmUmigN07qFfxUkwjnaaJv4FSTbU3tKSwXGSgp9e+kGQmKoLxFWuwbFMrkjpECPBmsiupFbm9lAGcg=;Zpqsk+BXsPKhxSqyD390XA=="
+secured: "emBbydWeX47TySirEt2f6vRUXat/TIcpHSLWGdsnbv8kFb3xC+bDMfeabv2gm3ZYEKNYZbM+nPHvezqJYd3biyElZiS0ngpdz2eojSfezVzeuBegZBERW2BcGFLD+qTox1oWQ6TkgHuvpSeQdkc4i62n6YVZvVf/paw/VEbUR6znZ1TZ/GDRgR7XAGNhwgGXJLVQDCYiV7k7t/hhv/kXZ79dHwpiw6QZKNloxzUAtHbnEOU3XysqOBQxs/6sLKPxqdD62RQ2jcH9f8KITtFl0p+UpsAMsG4AGQY65dO6Uj2OzRzGWfMoVplKfT+1NJXtKdAb8/EjrMXOf/zuwoY3jZco8mndlUFOW+YiXjNNqB8=;BqvjsICBZYI8x7mpk4yd3w=="
 ---
 

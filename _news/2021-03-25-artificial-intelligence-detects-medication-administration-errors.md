@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Applications of Voice AI"
-    excerpt: "Applications of Voice AI By cio review - Companies in various sectors are adopting voice AI to improve productivity, accuracy, and communication with"
-    publishedDateTime: 2021-03-29T03:57:00Z
-    webUrl: "https://www.cioreview.com/news/applications-of-voice-ai-nid-33241-cid-200.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_5za1l0Os.jpg"
-        width: 705
-        height: 485
-        isCached: true
   - title: "AI-based structure-function correlation in age-related macular degeneration"
     excerpt: "Sensitive and robust outcome measures of retinal function are pivotal for clinical trials in age-related macular degeneration (AMD). A recent development is the implementation of artificial intelligence (AI) to infer results of psychophysical examinations based on findings derived from multimodal imaging."
     publishedDateTime: 2021-03-25T11:39:00Z

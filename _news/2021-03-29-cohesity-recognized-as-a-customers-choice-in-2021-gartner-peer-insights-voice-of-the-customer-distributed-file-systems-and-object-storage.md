@@ -28,14 +28,14 @@ related:
   - title: "Cohesity Recognised as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage"
     excerpt: "Cohesity today announced it has been named a Customers’ Choice in the Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage report. With this recognition, Cohesity is the only vendor to be named as a Gartner Peer Insights Customers’ Choice for both Distributed File Systems and Object Storage,"
     publishedDateTime: 2021-03-29T22:24:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/138915/cohesity-recognised-as-a-customers-choice-in-2021/"
+    webUrl: "https://www.reseller.co.nz/mediareleases/138915/cohesity-recognised-as-a-customers-choice-in-2021/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: Reseller News
+      domain: reseller.co.nz
     quality: 0
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_3.png"
+      - url: "https://d1abomko0vm8t1.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_4.png"
         width: 300
         height: 250
         isCached: true

@@ -43,9 +43,9 @@ related:
   - title: "Data, analytics, machine learning, and AI in healthcare in 2021"
     excerpt: "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially."
     publishedDateTime: 2021-03-29T21:50:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
     type: article
     provider:
       name: ZDNet
@@ -125,6 +125,15 @@ related:
         width: 421
         height: 421
         isCached: true
+  - title: "Comprehensive Report on Global Artificial Intelligence in Healthcare Diagnosis Market Clinical Research, Analysis 2021 to 2027"
+    excerpt: "Global Artificial Intelligence in Healthcare Diagnosis Market projects a standardized and in-depth study on the ongoing state of Market, providing basic industry insights such as definitions, classifications,"
+    publishedDateTime: 2021-03-26T07:45:00Z
+    webUrl: "https://ksusentinel.com/2021/03/26/comprehensive-report-on-global-artificial-intelligence-in-healthcare-diagnosis-market-clinical-research-analysis-2021-to-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 6
   - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
     excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"
     publishedDateTime: 2021-03-25T15:00:00Z

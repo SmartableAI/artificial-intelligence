@@ -193,6 +193,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-24-global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand.md",
+      "title": "Global AI in Fashion Market 2020 Remarking Enormous Growth with Recent Trends & Demand",
+      "excerpt": "The major players in the global market are Microsoft, IBM, Google, Facebook, Adobe, AWS, SAP, Oracle, Huawei, Vue.ai, Catchoom, Heuritech ... latest technological advancements. Zion Market Research is an obligated company. We create futuristic, cutting ...",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/24/global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand/",
+      "originalUrl": "https://ksusentinel.com/2021/03/24/global-ai-in-fashion-market-2020-remarking-enormous-growth-with-recent-trends-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mccourier.com/wp-content/uploads/2021/01/Global-AI-in-Fashion-Market.jpg",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-data-and-ai-ethics-market-report-gives-industry-size-growth-production-types-applications-growing-rapidly-with-recent-trends-2021-to-2026.md",
       "title": "Data and AI Ethics Market Report Gives Industry Size, Growth, Production, Types, Applications, Growing Rapidly with Recent Trends 2021 to 2026",
       "excerpt": "The Data and AI Ethics market size analysis is provided for the international market including development history, competitive landscape analysis, major regions’ development status, manufacturing processes and cost structures. Also, the research gives ...",
@@ -1440,49 +1483,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-how-ucls-groundbreaking-ai-research-became-entangled-in-facebooks-net.md",
-      "title": "How UCL's groundbreaking AI research became entangled in Facebook's net",
-      "excerpt": "Through a series of acquisitions, professorships and industry partnerships, the university's computer science department has been drawn closer to the",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsoneplace.com/8976762012/ucl-ai-facebook-groundbreaking-entangled",
-      "originalUrl": "https://www.newsoneplace.com/8976762012/ucl-ai-facebook-groundbreaking-entangled",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2021/03/gettyimages-512015586.jpg?itok=8De0ffRv",
-          "width": 4500,
-          "height": 3014,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsoneplace.com",
-        "domain": "newsoneplace.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

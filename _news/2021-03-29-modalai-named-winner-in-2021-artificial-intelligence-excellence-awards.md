@@ -1,28 +1,24 @@
 ---
 category: news
 title: "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards"
-excerpt: "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category from The Business Intelligence Group for the company's collective performance developing highly-integrated artificial intelligence (AI)-powered"
-publishedDateTime: 2021-03-29T15:21:00Z
-originalUrl: "https://www.lelezard.com/en/news-19721971.html"
-webUrl: "https://www.lelezard.com/en/news-19721971.html"
+excerpt: "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category ... systems that communicate on 4G and 5G cellular networks. Offering both start-to-finish custom design services and plug-and-play computing platforms, ModalAI ..."
+publishedDateTime: 2021-03-29T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20384827"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20384827"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Payrailz Named a Winner in the 2021 Artificial Intelligence Excellence Awards"
@@ -67,6 +63,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "BEIJING, March 29, 2021 /PRNewswire/ -- Sogou Inc. (NYSE:SOGO) (“Sogou” or the “Company”), an innovator in search and a leader in China’s internet industry, today announced it has been named a winner of Business Intelligence Group’s 2021 ..."
+    publishedDateTime: 2021-03-30T02:24:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "alva named winner in 2021 Artificial Intelligence Excellence Awards"
     excerpt: "Artificial Intelligence Excellence Awards, for its groundbreaking Machine Learning capabilities. The award recognises alva’s development of advanced Natural Language Processing (NLP) technology to enable the launch of an entirely new intelligence category - Stakeholder Intelligence - that helps businesses deliver shared value to all stakeholders."
     publishedDateTime: 2021-03-29T14:14:00Z
@@ -80,34 +90,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Veritone Wins 2021 Artificial Intelligence Excellence Award for Second Consecutive Year"
-    excerpt: "(NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that Business Intelligence Group has named Veritone as a winner in the 2021 Artificial Intelligence Excellence Awards for its patented suite of real-time AI-powered Veritone Energy Solutions."
-    publishedDateTime: 2021-03-29T13:05:00Z
-    webUrl: "https://www.thepublicopinion.com/ap/business/veritone-wins-2021-artificial-intelligence-excellence-award-for-second-consecutive-year/article_ae48d5bb-83c6-52ff-b1c3-999e386531ed.html"
-    type: article
-    provider:
-      name: Watertown Public Opinion
-      domain: thepublicopinion.com
-    quality: 29
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thepublicopinion.com/content/tncms/custom/image/370c41da-17b5-11e6-9d16-83b5310e931b.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "5 People, 24 Companies, and 42 Products Awarded for Excellence in Artificial Intelligence"
-    excerpt: "PHILADELPHIA, March 29, 2021 /PRNewswire-PRWeb/ -- The Business Intelligence Group today announced the winners of its inaugural Artificial Intelligence Excellence Awards program. This business awards program sets out to recognize those organizations ..."
-    publishedDateTime: 2021-03-29T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/5-people-24-companies-and-42-products-awarded-for-excellence-in-artificial-intelligence/article_ef06c876-ad73-5312-b855-bbb8d6a518ee.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Concentric Named Winner of Business Intelligence Group's 2021 Artificial Intelligence Excellence Award"
     excerpt: "Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced it has won a 2021 Artificial Intelligence Excellence Award for its Risk Distancetm natural language processing"
@@ -124,6 +106,6 @@ related:
         height: 480
         isCached: true
 
-secured: "+LhfC+ugZrYEm0xnex65fXRdOv0oqr+vqWuZjbLTI2IA0NrZ0BWB3JddsqVAui+L09itIEccbN08Dq3zru5cb0ddb/upP9jZKMMAPRcjulgkjvIqzqKyGMIUVdcza19zq0RU8LhwX0NdDajutErqM1tXY4g/lbsvosOa7vzlgAOjPgUTAwhVQrS9+if/OsE4IoJw7oEr0+k6jJFg21XE5bjyQwCMyS2pL18aUInqEORU1r1jR3hDbx8nJEyUbDWQtmPgR9m1eUn+1KeJcS41FfdlmiCXgXkjOe3W2z6Fg7o9LdPyWAk4Noan2ASbkYk44Nibva9ezG0eIaekmuI7dPyX85gtjD41iJdZOOhiHQ4=;PwLOOkcLdHwT/jkDDEg9UA=="
+secured: "bNW7tBhG+Pb/9l9vNHvcmNKNonsZSzc0yHM0k8qVnOjTxLYCqhdgZpiEhyJcfNtwmI2yE3JxxMc06qYiJfbDdrHMuMP8DIgF15gHwdYexWWfRLrknXuiYXBpmmJSXV6Qn7rRb1BgWtXAocTVDKKeKyIqQZcyC6f7uqQr9UI1SmZhHf0NnYzeLdbzVV9wswSUM0QoyaaHGuP5Iy0MDZUvMgq0vylJrjHG4w+HdbCcoY6TGvLxpTxtj9SmAMn8n9ixhV7VuBt+Y/V6fBKjFcE75+Np0Mv9fCeWF+0f2VKSaDairlyUhPgjljLvY6GC56HS4WoXYN6QF/IMZU07k8GY1PGUSFP6BHO8/JxqkEfb/p8=;y3oyg5mny0m+V1w3CrbftQ=="
 ---
 

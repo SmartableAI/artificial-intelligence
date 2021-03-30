@@ -32,7 +32,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 39
+    quality: 41
   - title: "Lidar + AI vision - WIMI Hologram Cloud, Apple and Sony's Ambition in Unmanned Driving Solutions"
     excerpt: "MobiusTrend, the fintech market research organization, recently released a research report \"Lidar + AI vision - WIMI"
     publishedDateTime: 2021-03-25T16:01:00Z

@@ -2,6 +2,384 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-18-sonoma-county-to-add-artificial-intelligence-for-fires.md",
+      "title": "Sonoma County to add artificial intelligence for fires",
+      "excerpt": "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks. The technology will be added",
+      "sourceUrl": null,
+      "webUrl": "https://fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/",
+      "originalUrl": "https://fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fox40.com/wp-content/uploads/sites/13/2021/03/GettyImages-1277918953.jpg?w=1280",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/amp/",
+      "cdnAmpWebUrl": "https://fox40-com.cdn.ampproject.org/c/s/fox40.com/news/california-connection/sonoma-county-to-add-artificial-intelligence-for-fires/amp/",
+      "publishedDateTime": "2021-03-17T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX40",
+        "domain": "fox40.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-ai-for-agritech-classifying-kiwifruits-using-amazon-rekognition-custom-labels.md",
+      "title": "AI for AgriTech: Classifying Kiwifruits using Amazon Rekognition Custom Labels",
+      "excerpt": "Computer vision is a field of artificial intelligence (AI) that is gaining in popularity and interest largely due to increased access to affordable cloud-based training compute, more performant algorithms, and optimizations for scalable model deployment and inference. However, despite these advances",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/ai-for-agritech-classifying-kiwifruits-using-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/ai-for-agritech-classifying-kiwifruits-using-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/17/pexels-photo-867349.jpg",
+          "width": 799,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T14:43:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-sonoma-county-to-use-artificial-intelligence-against-fires.md",
+      "title": "Sonoma County to Use Artificial Intelligence Against Fires",
+      "excerpt": "Sonoma County officials say they will add artificial intelligence technology to help fight wildfires with a 24-7 monitor to track fire outbreaks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/best-states/california/articles/2021-03-17/california-county-to-add-artificial-intelligence-for-fires",
+      "originalUrl": "https://www.usnews.com/news/best-states/california/articles/2021-03-17/california-county-to-add-artificial-intelligence-for-fires",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live.md",
+      "title": "Responsible AI in health care starts at the top — but it’s everyone’s responsibility (VB Live)",
+      "excerpt": "In this VB live eent, learn how health care stakeholders can use AI responsibly, ethically, and equitably to ensure all populations benefit.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/",
+      "originalUrl": "https://venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/business-meeting.GettyImages-607477465.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/17/responsible-ai-in-health-care-starts-at-the-top-but-its-everyones-responsibility-vb-live/amp/",
+      "publishedDateTime": "2021-03-17T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-the-key-to-making-ai-green-is-quantum-computing.md",
+      "title": "The key to making AI green is quantum computing",
+      "excerpt": "We’ve painted ourselves into another corner with artificial intelligence. We’re finally starting to breakthrough the usefulness barrier but we’re butting up against the limits of our our ability to responsibly meet our machines’ massive energy requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/quantum_generic-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/17/quantum-computers-save-us-artificial-intelligence-green/amp/",
+      "publishedDateTime": "2021-03-17T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-ai-company-escapes-lawsuit-over-use-of-okcupid-photos-to-guide-facial-recognition.md",
+      "title": "AI company escapes lawsuit over use of OKCupid photos to guide facial recognition",
+      "excerpt": "An Illinois federal judge has tossed a proposed class action against artificial intelligence company Clarifai Inc over its alleged unlawful use of dating profile images to train facial recognition technology, finding the court lacks jurisdiction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/dataprivacy-clarifai-idUSL1N2LF39D",
+      "originalUrl": "https://www.reuters.com/article/dataprivacy-clarifai-idUSL1N2LF39D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LF39D",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LF39D",
+      "publishedDateTime": "2021-03-17T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-openais-sam-altman-artificial-intelligence-will-generate-enough-wealth-to-pay-each-adult-13500-a-year.md",
+      "title": "OpenAI's Sam Altman: Artificial Intelligence will generate enough wealth to pay each adult $13,500 a year",
+      "excerpt": "Artificial intelligence will create so much wealth that every adult in the United States could be paid $13,500 per year from ... also be taxed and pay in cash, Altman said. All citizens over ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/03/17/openais-altman-ai-will-make-wealth-to-pay-all-adults-13500-a-year.html",
+      "originalUrl": "https://www.cnbc.com/2021/03/17/openais-altman-ai-will-make-wealth-to-pay-all-adults-13500-a-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106171845-1570607954954gettyimages-1164572727.jpeg?v=1615999998",
+          "width": 4928,
+          "height": 3280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/17/openais-altman-ai-will-make-wealth-to-pay-all-adults-13500-a-year.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/17/openais-altman-ai-will-make-wealth-to-pay-all-adults-13500-a-year.html",
+      "publishedDateTime": "2021-03-17T11:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-18-webees-no-code-end-to-end-solution-builder-software-democratizes-iot.md",
+      "title": "Webee’s No-Code End-to-End Solution Builder Software Democratizes IoT",
+      "excerpt": "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective.",
+      "sourceUrl": null,
+      "webUrl": "https://iotbusinessnews.com/2021/03/17/60943-webees-no-code-end-to-end-solution-builder-software-democratizes-iot/",
+      "originalUrl": "https://iotbusinessnews.com/2021/03/17/60943-webees-no-code-end-to-end-solution-builder-software-democratizes-iot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/remote-data-control-monitoring.jpg",
+          "width": 800,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://iotbusinessnews.com/2021/03/17/60943-webees-no-code-end-to-end-solution-builder-software-democratizes-iot/amp/",
+      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/03/17/60943-webees-no-code-end-to-end-solution-builder-software-democratizes-iot/amp/",
+      "publishedDateTime": "2021-03-17T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOT Business News",
+        "domain": "iotbusinessnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-18-openais-sam-altman-artificial-intelligence-will-generate-enough-wealth-to-pay-each-adult-13500.md",
       "title": "OpenAI's Sam Altman: Artificial Intelligence will generate enough wealth to pay each adult $13,500",
       "excerpt": "Artificial intelligence will create so much wealth that every ... the board in 2018 citing the fact that Tesla was becoming an AI company as it developed self-driving capabilities. Such a system is \"both pro-business and pro-people,\" Altman said, and ...",
@@ -823,352 +1201,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness.md",
-      "title": "Feedzai Fairband: World's most advanced framework for AI fairness",
-      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8191600/feedzai-fairband-worlds-most-advanced-framework-for-ai-fairness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-tcs-named-a-leader-in-sap-cloud-migration-services-by-nelsonhall.md",
-      "title": "TCS Named a Leader in SAP Cloud Migration Services by NelsonHall",
-      "excerpt": "Tata Consultancy Services’ Crystallus™ Offering, Industry Cloud Focus, Tools and Automation Assets, and Broad SAP ERP Cloud Migration Experience, Highlighted as Key Strengths.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tcs.com/tcs-named-a-leader-in-sap-cloud-migration-services-by-nelsonhall",
-      "originalUrl": "https://www.tcs.com/tcs-named-a-leader-in-sap-cloud-migration-services-by-nelsonhall",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tata Consultancy Services",
-        "domain": "tcs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-proven-arabia-highlights-commitment-to-ai-and-robotics-innovation-with-the-launch-of-proven-solution.md",
-      "title": "Proven Arabia highlights commitment to AI and Robotics Innovation with the launch of Proven Solution",
-      "excerpt": "Proven Arabia's AI and Robotics centered new tech start-up Proven Solution to help automate business operations for customers in the Middle East and around the globe",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Proven_Arabia_highlights_commitment_to_AI_and_Robotics_Innovation_with_the_launch_of_Proven_Solution-ZAWYA20210317060133/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Proven_Arabia_highlights_commitment_to_AI_and_Robotics_Innovation_with_the_launch_of_Proven_Solution-ZAWYA20210317060133/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2021/zzi_2021_03_17.jpg",
-          "width": 450,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210317060133/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210317060133/",
-      "publishedDateTime": "2021-03-16T23:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-octoml-raises-28m-grow-machine-learning-software-used-by-qualcomm-microsoft-amd.md",
-      "title": "OctoML raises $28M grow machine learning software used by Qualcomm, Microsoft, AMD",
-      "excerpt": "It offers better performance and removes complexity, Ceze said. Amazon’s Sagemaker Neo is also based on Apache TVM, but is restricted to AWS-based deployments. The Octomizer can target any cloud and any edge device. Leadership: Ceze is a UW professor who ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/",
-      "originalUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/10/ceze-profile-%402x-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/octoml-raises-28m-grow-machine-learning-software-used-qualcomm-microsoft-amd/amp/",
-      "publishedDateTime": "2021-03-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-university-housing-ford-robotics-lab.md",
-      "title": "University housing Ford robotics lab",
-      "excerpt": "Digit marches on two legs across the floor of the University of Michigan's Ford Motor Co. Robotics Building, while Mini-Cheet",
-      "sourceUrl": null,
-      "webUrl": "https://www.journalgazette.net/business/20210317/university-housing-ford-robotics-lab",
-      "originalUrl": "https://www.journalgazette.net/business/20210317/university-housing-ford-robotics-lab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://121-jgweb.newscyclecloud.com/storyimage/JG/20210317/ARTICLE/303179982/AR/0/AR-303179982.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Journal Gazette",
-        "domain": "journalgazette.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-ai-based-technique-determines-cancer-cells-by-their-acidity.md",
-      "title": "AI-based technique determines cancer cells by their acidity",
-      "excerpt": "Healthy and cancer cells can look similar under a microscope. One way of differentiating them is by examining the level of acidity, or pH level, inside the cells.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210317/AI-based-technique-determines-cancer-cells-by-their-acidity.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210317/AI-based-technique-determines-cancer-cells-by-their-acidity.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210317/AI-based-technique-determines-cancer-cells-by-their-acidity.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210317/AI-based-technique-determines-cancer-cells-by-their-acidity.aspx",
-      "publishedDateTime": "2021-03-16T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.md",
-      "title": "Self-driving Tesla collides with a Michigan State Police car after failing to move over",
-      "excerpt": "The autopilot function means the car can “steer, accelerate and brake automatically within its lane,” per Tesla’s website. It does not make the vehicle autonomous and requires supervision, per the website.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html",
-      "originalUrl": "https://www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZX4FKHNDTZHOBG5HFSEHKQR42M.jpg",
-          "width": 541,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/nation-world/2021/03/self-driving-tesla-collides-with-a-michigan-state-police-car-after-failing-to-move-over.html?outputType=amp",
-      "publishedDateTime": "2021-03-16T22:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Penn Live",
-        "domain": "pennlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-china-state-tv-raps-kohler-bmw-for-using-facial-recognition.md",
-      "title": "China State TV Raps Kohler, BMW for Using Facial Recognition",
-      "excerpt": "Chinese state TV has criticized bathroom fixtures brand Kohler and automaker BMW for using facial recognition to identify customers in a possible violation of privacy rules that took effect this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/aponline/2021/03/17/business/bc-as-china-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/aponline/2021/03/17/business/bc-as-china-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

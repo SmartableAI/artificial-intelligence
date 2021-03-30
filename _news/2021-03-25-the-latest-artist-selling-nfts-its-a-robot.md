@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/03/25/arts/sophia-robot-nft.amp.html"
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/25/arts/sophia-robot-nft.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Sophia the robot sells digital NFT artwork for nearly $700,000"
+    excerpt: "Continuing the wave of extraordinary digital art sales manifested by new blockchain-based NFT technology, an artwork co-created by the famous humanoid robot Sophia has now sold for just under US$700,000."
+    publishedDateTime: 2021-03-30T01:58:00Z
+    webUrl: "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/"
+    ampWebUrl: "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true"
+    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 89
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/930c08f/2147483647/strip/true/crop/761x507+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F7b%2F8a803840418f86bb4c1a92b9f723%2Fscreen-shot-2021-03-30-at-12.31.32.png"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "uvh5AUksDS1SkJjZV9VBJ3YbopAIkPgmwZF9kgtVA3wCOmb5xmE3/Cyx/3yX89nqxY1j1dnPYgy6VeC1o0wOdm2XVcn9n1eU1Rrq7X60HMeQoPuQtNEue/MaLwe6iJtA/U5bo8lY2zgYgvsGlaDbcLgx1KqkUKDkfWuPvA4TM2mY3LmtfW3fHf5MRaO8RmJs1b/VLgKTt9PGXALphvccRjX4jlQcGFjR6qEz2Mwss7hia32e9ehXdF9GIi/pDekzeAhaDjU8CklWgqjWsmztoCyhPS9bciGiWUkc94m9RpN46z4sYxhrE8YGCJARJ41kV8r4kxpPSkCuQ+QlE/aUUj9o2AHJqcgTMcJarqZ9+2PIvWf1xPXOpFkgAIBA2Zc3qYG5zcUsAt9HMsTYMWCI38sZXezAPY4TCdWvBMFPJ5Inj54yn334RT0H9qdx/JbAkfXBbtDES2rvmIVlqeW4U6PEeCQuOruxBBYny6buAZFyc1sycFhD2sCNMwjXzRn3oMcMS7rclWNgD+sQYhmPIw==;q2kAOreBAEnT+XsBpnAlsA=="
 ---

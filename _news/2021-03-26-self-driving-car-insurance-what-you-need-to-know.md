@@ -87,6 +87,22 @@ related:
         width: 980
         height: 512
         isCached: true
+  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
+    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
+    publishedDateTime: 2021-03-30T00:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html?nans"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 30
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
+        width: 980
+        height: 512
+        isCached: true
   - title: "The 2021 Healthcare Industry: Digital Transformation Leads to New Growth Strategies for Stakeholders"
     excerpt: "The \"Developing Innovative ROI Streams and Patient-centric Virtual Care Approaches will Shape the Global Healthcare"
     publishedDateTime: 2021-03-26T13:08:00Z

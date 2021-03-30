@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Predicting treatment response from longitudinal images using multi-task deep learning"
-    excerpt: "Radiographic imaging is routinely used to evaluate treatment response in solid tumors. Here, the authors present a multi-task deep learning approach that allows simultaneous tumor segmentation and response prediction from longitudinal images in a multi-center study on rectal cancer."
-    publishedDateTime: 2021-03-25T10:36:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-22188-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 32
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-22188-y/MediaObjects/41467_2021_22188_Fig1_HTML.png"
-        width: 654
-        height: 685
-        isCached: true
 
 secured: "GK1tsA3hx8Ao72U9dBLXLdLGJ3Mk4OIPikiTeyHy85xsY/7gHRSA9TG8omJYb4Yxd1Isl46ShLneBEYNKXcIQnVDrgj2N7qRPRQBLIWdnQSSXfTtV2q4X7yq5Yz0ljI57mIZTwVqQ1UTMU4pADB39WMxxHc3NtHSqfIsd+TNqsDD9CG9kDu7CAvKwVyuO6WOj2RSnFOSqkLBi/0sGlYeHM42+Aku3Xf/fozlzq+puztstNeFFBYK7Y/uTfPAcMcJpLnxTXfvpkYUhMWgER69bcBVgLV7AxfhLAVumdXjh5ZLyrMB9FOA9XeFnjuPIE0yK8kx+XgoQ0+JQTQIouSFne5KVMIbbJMbUXL4iPrlRvqfECPmmYl1zuxuz95tKQgiX99FNlMIL9hjmbTGu8WcpmRA7OCIN6XmubboaMl4H5VtU/9Qk/vfTJVgkJ28iC30yd3LgKj7zAI9w82+S6D1Z15zz8VYk8LGTU7l/EMwm0Or5Z7VrBc8yL3Uyni8u6BHyxad5XpbZqrBFNO8L57GWA==;ard9reaVdPqGROTQR0vn2Q=="
 ---

@@ -97,6 +97,22 @@ related:
         width: 980
         height: 512
         isCached: true
+  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
+    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
+    publishedDateTime: 2021-03-30T00:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html?nans"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 30
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
+        width: 980
+        height: 512
+        isCached: true
 
 secured: "FUj9oNpz37W9a3lSfeEWutydQUqf3igcqQ4iptVedhCT/+/PsQ7aY22XGAGVPHddQREnAc2Q0SXaw8JBq1+nsG595pmheXMm4zdGbeOjdAP2TghJ6IomaJLswckxuZr3qDuP3XfQgS8f5/W1Fhkop1Ekbf6EtFyZudPYfh0K89865P+4jwvkfGDSGm6XqpX2lwXdZEeqGXjBDQCl5KvuQGz9Hsj4IkmIxw5yVBDtoFUkfeG/6Cb4Bugh7lvjIspTfJIM5pn/jW7adEnT/6peHI1ES3roxQg4ep+4ZHFyiuEl34wSGNNebCZMc9hXgIumbTyF1jpRUwdoeqG/OMahaEwOosT1/t2pVgMvBviPnoc=;TrDDYTyaPliteynO4YkM0Q=="
 ---

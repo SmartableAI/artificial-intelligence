@@ -3,10 +3,10 @@ category: news
 title: "Data, analytics, machine learning, and AI in healthcare in 2021"
 excerpt: "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially."
 publishedDateTime: 2021-03-29T21:50:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
-webUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6291689/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+originalUrl: "https://www.zdnet.com/index.php/recent/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
 type: article
 quality: 121
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Machine Learning
+  - AI
   - AI in Healthcare
 
 images:
@@ -131,6 +131,15 @@ related:
         width: 421
         height: 421
         isCached: true
+  - title: "Comprehensive Report on Global Artificial Intelligence in Healthcare Diagnosis Market Clinical Research, Analysis 2021 to 2027"
+    excerpt: "Global Artificial Intelligence in Healthcare Diagnosis Market projects a standardized and in-depth study on the ongoing state of Market, providing basic industry insights such as definitions, classifications,"
+    publishedDateTime: 2021-03-26T07:45:00Z
+    webUrl: "https://ksusentinel.com/2021/03/26/comprehensive-report-on-global-artificial-intelligence-in-healthcare-diagnosis-market-clinical-research-analysis-2021-to-2027/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 6
   - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
     excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"
     publishedDateTime: 2021-03-25T15:00:00Z
@@ -146,6 +155,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "N0tjguOIvhphqSiNt682TzVAvpjxJguS1o2rrx5+b21xxOei42QXKGjMX2YASvhlZMZb9/gC86rZwBk0dfMEkQ6l4bz+n59IbAANnra76qs+aYg26hlaUwwRDSJ1own8l9vH1usTpjgyAnkVKKmB/2uSBpdIyub//+ZbP6W5H5G+xna3ORNBX8/2AqK32DnZyDjHNPwH7bN3np32HJn0Bs489PsnIlNEt71u/w1OPiJwuuJf2KN/yrHVuoW9KVVFQgAWSwj/lZexg729Do1AKAm1JDCzIaXLP7vxbAX63cIf2jsryEXiW0KmXHpCmjwfrazSQZxyZvyMiRfIpTHMYAbbb05ET52vP3nXPRds6sX2K/SBdNUkn0+LL+mipdQJAxFF4tjkl+MONTlLl9q6c0EZp7lLg24E+kTQXjJ+Eow9XmNUoexVW2UnhiO2jyjCAaMhgxqcFz8yJ8yhiAu2dcc1EPaXktSSD9EIadPuAupVujRcAtgcWjo8/rsqVAAdC04x4OfrwjziJM+9FIzEdA==;QRBiVkZcfD/d+9zjf17HJw=="
+secured: "8am1KXE8bz2UPyMvTOcqyxX9Z/1FyKURr4DZTAg69YCktipAzNvyWg2lwitqwy8q7HMa0EjOmidrJlvKy2euDCwl70txog8G+0P/Nu6iVYQqEOVG/cTyA6yO2wMg4imOtCrmfZ5n2bg1ngNFO0XdbdzYan04DmogFNy0xBKyKxoxhkf6EauFCSchKbNupoMSWNHG+2DefNXLWZJdPxaDEILNrHRjo4O7qEWecsRSzmgHfYeWPVRGYlnc4r2pBfKWrF14f48fMCkzmP+GBVbtEjVFV4ogxTeLzsaUSgK2HsohWwW2/P38pOgorJ5Anja1YB8+Nl7/1GwiReDaO4c2TUtZnuhAjFcMH400+AVyXJo=;Ve/aoaBiG45KDBA9Yk9Shw=="
 ---
 

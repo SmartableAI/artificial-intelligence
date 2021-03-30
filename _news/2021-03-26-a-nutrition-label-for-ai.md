@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2021/03/25/a-nutrition-label-for-ai/"
 webUrl: "https://www.datanami.com/2021/03/25/a-nutrition-label-for-ai/"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -27,42 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "ElectrifAi Announces Inspur AI Server Collaboration"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, announced today their collaboration with Inspur, a leading server solutions provider for cloud computing,"
-    publishedDateTime: 2021-03-25T10:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/electrifai-announces-inspur-ai-server-collaboration-1030240617"
+  - title: "5 AI Tools For Modern Warfare"
+    excerpt: "Here, we list five AI tools used in modern warfare. AI-powered autonomous weapon systems are set to become force multipliers in future wars. The weapon system would have either decision making or aiding decision-making component to activate the launch."
+    publishedDateTime: 2021-03-29T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/5-ai-tools-for-modern-warfare/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "NAVER Selects DDN's AI Storage for Cutting Edge AI Services"
-    excerpt: "DDN®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that Korea's NAVER corporation has selected DDN A3I® AI400Xtm systems as its choice of storage solution to enhance numerous AI"
-    publishedDateTime: 2021-03-29T13:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-19721556.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 41
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Pink-and-Red-Motivation-and-Inspirational-Blog-Banner.png"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Ambow Education Announces Participation in China’s Artificial Intelligence Talent Demand Forecasting Report"
-    excerpt: "Ambow Education Holding Ltd. (“Ambow” or “the Company”) (NYSE American: AMBO), China’s leading provider of educational and career enhancement services, today announced that it has participated in the drafting of the Artificial Intelligence (“AI”) Talent Demand Forecasting Report (“Report”)."
-    publishedDateTime: 2021-03-29T12:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-greater-china-corporate-news-north-america-424f413866f7531f143d2cba6b67cf6c"
+  - title: "Applications of Voice AI"
+    excerpt: "Applications of Voice AI By cio review - Companies in various sectors are adopting voice AI to improve productivity, accuracy, and communication with"
+    publishedDateTime: 2021-03-29T03:57:00Z
+    webUrl: "https://www.cioreview.com/news/applications-of-voice-ai-nid-33241-cid-200.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.cioreview.com/newsimages/705x485_5za1l0Os.jpg"
+        width: 705
+        height: 485
         isCached: true
 
 secured: "QmH7zWTGFPysEZADTfA7UM9rpM+pUeFd6iMz3Y89ovmP21+dpxs2NkmwY7eTsRxKq1jMFLpHcFRx+D9v4VNSstlaT/7WuFXFUyZVTRLJGuFy++rv+/KCQJLS9sRAbDZO6p3WV2acMQoYS9XOalAep7B2QiiPFdYSSL6jzVF+sBxRbSmUOtPam7COgznXQHsrRgHGMPRm/p4IJGOicb2kGNHZJvvntekUg1WDBwPJVcrlgP0kGBEoryqNFnso0/boLWSWyBwmRVndMBynNYiBEUuK4fvDYkidjdulmZD5JuXlmf3Pn38dp8BIsyABJbY7CuJCxbQ9avlqo4p8gtVaJNR9xgElfbhLl1QpMpSGQ/bq/30RgnD9U3sIDGD0LnW+8a5Kbi90pyFumAIegWsuK4B+bRNSoI5SWAbCKNQHESN/7w+TS+02SKahSjuVpLE8+hZPtJSAwT+SlSQIyPbVpmpHEjcX6M/JDft9zZUod07IXT2M6A1SJv++CyBcPn4MXimINuwJNq5O22AMpsRlsA==;zi2eJp12Abv8MaJNzRiuqg=="
