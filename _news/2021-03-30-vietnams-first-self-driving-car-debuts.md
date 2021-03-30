@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Volvo selects Aurora to help bring self-driving semi trucks to life"
+    excerpt: "Both companies plan to make level 4 self-driving, Class 8 trucks a reality after laying technological foundations for years."
+    publishedDateTime: 2021-03-30T13:30:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/volvo-aurora-self-driving-semi-trucks/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/Gj4HZSvkuQkrIiIrXCRL1Yvby_E=/2021/03/30/c02913bb-4957-41a3-991e-fb42e64a5d1e/ogi-volvo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
     excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google,"
     publishedDateTime: 2021-03-29T09:47:00Z
@@ -111,6 +127,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "6TUbfedIy6mp9V1I2vJ7IGdk3Fx6yGJiOxLnSkyXKtpiyIX45ryEWkJUutCHM5yBOLqbI0zOElkqVOmW0AMuw8oOf7dfdvDsoXzpD9XjgMzck1ZYKrO6Z7i7ZhtANiQSS7hqIIsL6DBqICKx33mbJilmOlN8jdlM0EiwTwOXAlX96tpuOSmUH6X3L/K/iIqPm41oT6AQ1NJ6KUeKR0+5Gpk1d/TBAuv8fEebEhOUVF9uPnWJMSvIfRU7YswxAF8Or2aMYrjCgitszfRJpi8EsD9nzyOF2Lp8P6wLKG7osN98k7TiU7v25QU5OTzkfwj83xEPKzn4IGgSB064I3D5hCurp9VJJeCIhySWcoA7VVc=;t+ff9wkjD916+QTb2UtiHw=="
+secured: "6CD0TmEA20guf0wIvVzer7b1BhcyPKhviMkJ7jtITlkJ+UAJr6BsSTGCpsw/tEMsdapodt+JFIAI9lofMxbANInqRp4fZj9FXaBBuRtJgjYx+ysc1EJdbXnRsbFf/CQL7qK9ILUdwhhlpi+BdyvZMHMrBdq9d1zAw74iz3O1Tj+7Iz9Oe+rr2bKuMNTSb8q1jWWmlMqoePArXpjqaobdZ+CM03SE0PCWpw8wNxPZ4LXL0lhoRzlrwDTe1z/UtuJx5nIXl0Scq5s3oclqJyOocSmAyg+MgnIfVH/72Evzh2Ge2y9CbEyk6W36rTTnxJUMc8Gzn+rLU5hs+zoFWZx/iXfy0v4QJyRG9uccLrLI8dqgzwWK7QTul0v/NFsRreSI8jO14w2HskNxGCH1Pekn8sDXwHURaalxsKEGRpwrBDALgHYkxzgFy20is8Z8GRyyDN8U975hS3aJ2/uuwQ0ZSB7DWqupoqgawh1aT0R3zo2RFPJV87wHxhkmbytRqq/PC0n5zpk3wScvHP5lUeU//Q==;XOxVUCBcG9KTYkAuaI5syQ=="
 ---
 

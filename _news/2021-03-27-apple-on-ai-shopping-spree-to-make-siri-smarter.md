@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple Was Top Acquirer of AI Companies From 2016 - 2020 [Report]"
-    excerpt: "U.S. tech giants dominated artificial intelligence acquisitions from 2016 to 2020 with Apple leading the race."
-    publishedDateTime: 2021-03-25T20:44:00Z
-    webUrl: "https://www.iclarified.com/80258/apple-was-top-acquirer-of-ai-companies-from-2016-2020-report"
-    ampWebUrl: "https://www.iclarified.com/80258/apple-was-top-acquirer-of-ai-companies-from-2016-2020-report/amp"
-    cdnAmpWebUrl: "https://www-iclarified-com.cdn.ampproject.org/c/s/www.iclarified.com/80258/apple-was-top-acquirer-of-ai-companies-from-2016-2020-report/amp"
-    type: article
-    provider:
-      name: iClarified
-      domain: iclarified.com
-    quality: 59
-    images:
-      - url: "https://www.iclarified.com/images/news/80258/80258/80258-640.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Apple was leading buyer of AI companies between 2016 and 2020"
     excerpt: "Apple was the top acquirer of artificial intelligence companies from 2016 to 2020, beating out companies like Facebook, Google, and Microsoft."
     publishedDateTime: 2021-03-25T21:03:00Z

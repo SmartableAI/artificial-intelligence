@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-30T10:30:00Z
 originalUrl: "https://www.fiercehealthcare.com/tech/cleveland-clinic-ibm-to-develop-premise-quantum-computing-system-to-accelerate-health-research"
 webUrl: "https://www.fiercehealthcare.com/tech/cleveland-clinic-ibm-to-develop-premise-quantum-computing-system-to-accelerate-health-research"
 type: article
-quality: 14
-heat: 14
+quality: 16
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 images:
   - url: "https://qtxasset.com/fiercehealthcare/1617051785/IBM%20Quantum%20System%20One.jpg?lFyh6TLOHcJgtGgaOvytc1FT1upMZhq_"
@@ -25,16 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "Cleveland Clinic and IBM Unveil Landmark 10-Year Partnership to Accelerate Discovery in Healthcare and Life Sciences"
-    excerpt: "Cleveland Clinic and IBM (NYSE: IBM) have announced a planned 10-year partnership to establish the Discovery Accelerator, a joint Cleveland Clinic"
-    publishedDateTime: 2021-03-30T10:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/cleveland-clinic-and-ibm-unveil-landmark-10-year-partnership-to-accelerate-discovery-in-healthcare-and/article_9e8fdbc9-6d81-5a0b-9636-3c32520f587b.html"
+  - title: "Cleveland Clinic, IBM launch healthcare AI discovery center: 4 details"
+    excerpt: "Cleveland Clinic and IBM have formed a 10-year partnership to create a joint accelerator center to advance healthcare discoveries using artificial intelligence and cloud computing technologies, the organizations announced March 30."
+    publishedDateTime: 2021-03-30T12:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Cleveland Clinic and IBM Unveil Landmark 10-Year Partnership to Accelerate Discovery in Healthcare and Life Sciences"
+    excerpt: "a joint Cleveland Clinic - IBM center with the mission of fundamentally advancing the pace of discovery in healthcare and life sciences through the use of high performance computing on the hybrid cloud, artificial intelligence (AI) and quantum computing ..."
+    publishedDateTime: 2021-03-30T10:07:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/science-business-technology-genomics-jon-husted-5f8bc7fac31514d7d3b65c1ad9d67083"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Cleveland Clinic and IBM announce 10-year partnership to accelerate discovery in health care, life sciences"
+    excerpt: "Cleveland Clinic and IBM have announced a 10-year partnership to establish a joint center, dubbed the Discovery Accelerator, to advance the pace of discovery in health care and life sciences through the use of high performance computing on the hybrid cloud,"
+    publishedDateTime: 2021-03-30T11:56:00Z
+    webUrl: "https://www.crainscleveland.com/health-care/cleveland-clinic-and-ibm-announce-10-year-partnership-accelerate-discovery-health-care"
+    type: article
+    provider:
+      name: Crain's Cleveland Business
+      domain: crainscleveland.com
+    quality: 6
+    images:
+      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/The%20super-fridge_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "Iw6x5JK7f77fPWhGmWezKQK+mKzeh2o1TJESemGn+ovtgofyGYtn/EVQZ2kWkpiY9cVnpBI8+HszvnvmoiMDnn3OxRBsEo1/U99ENNG53k6OmXOelHORWX326rH55kF2sn6HPq2x4ga52/Mrieyew7e6SH2r+9F7si8Rha28Ug7htl7tE2hyghmLF3A9usWAU8GYX+R7WogkEGcXVcR7H3nJ0CPELnQK2DlIcsO2IrXDpR3VXVqZ0naW3n/ltDqzP0hz7TX9hsQCoI0fygttDxy73ZVgLKzX0QZSB6agKiVRarVkG336O6Jk+v2lvKGKD9oLHOfgLtW22JJW8KONCiRziVutLqCMRXq5mcBBDmU=;artdU035xDtY01+pN7bYTg=="
+secured: "gBOODmyid3j3ni+q1oRG5IcByuHiU5803cg8CgNm7JPxvfq8kKJoWJ1ODufIl/ZjlpZTVaTPeDQXR9aLQY93UtUDUUo89SYU3wpkuLN90ir+kuhaazwTlW9rvgF/b1FGENzvq50Q07Xmz2zF52CMXMCmOG1TWz6qFe6Opol83AiwyRauj7W+pbbEz8gMyMkffxllXndBwHZjCr1lOucrdoLk/x/RBWHx/uWiDhIBGU//1NN8+mBB1Swlvc//eU2lmpQeVNDtj/wgigi/LLTYKNRLx1g9MvzD+3gypdHIT05lXlt5QmW3AglJ0xgAhPBsute163lhits2Z0J01nbz620VR4q+NpX0MVzhB53KviP96DFVq4h73j8xtF/Fagq8o6Wh6a7Nf8z8p1UHET2XaR8Jf5zjC7jRmvpTtgxhkZ1pE/xdzWXoATg+V2w4hBsmaB9Xn8d0LUIBnYoYw09tHU3H+5d2Zto0CZt0HD9G7WyFadadcKp4KP7UcmTzACcFshUEQYX/C/w98CUOJV6BEA==;MIAwTVFdJaArM5vcl30dqQ=="
 ---
 

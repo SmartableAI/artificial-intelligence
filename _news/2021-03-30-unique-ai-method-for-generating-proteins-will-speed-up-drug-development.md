@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Unique AI method for generating proteins will speed up drug development"
-excerpt: "Artificial Intelligence is now capable of generating novel, functionally active proteins, thanks to recently published work by researchers from Chalmers University of Technology, Sweden. The new results were recently published in the journal Nature Machine Intelligence and represent a breakthrough in the field of synthetic proteins."
-publishedDateTime: 2021-03-29T19:05:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/cuot-uam032921.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-03/cuot-uam032921.php"
+excerpt: "Artificial Intelligence is now capable of generating novel, functionally active proteins. The new results represent a breakthrough in the field of synthetic proteins."
+publishedDateTime: 2021-03-30T13:10:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/03/210330081242.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/03/210330081242.htm"
 type: article
-quality: 37
-heat: 37
+quality: 47
+heat: 47
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "5ezeCwgN0XeJJ1UxrGGyGxJ0GYOqeCv7w84AkCI+N5F+StJAIDiWM/ThwrxqucA+iZNgdpxLkfYhvp+wExlGnU6jcHUQrZ+kyeAS0IRF2Hc4CWehMKPLjoVlyeh1XVb27y/YGL+7xboC6pqQt+OuRNApqmlZWi9LRkeD6wWUkTWUCAwEQ4UUze7lmW0nb09x6v0l1YKp1XmggkWCWgTihf0R6s/fRte+EvNeHU2YBLoDi88sIay/NoZaLUFjPIhSmhbm2+Aa9Szvri0tG0TxkWd2lPbF7Wut6ME2J0HeBnWPEJdHaa5MQRUsh5sW9wK0zoHQHLv7/0sCf4K4mhmEqEg+B4UjZFI0ziVTGpFd1POXaAn3hwjq8qR+2mkbyrcIAYEZRYXZ86+81bHfDNm+bON+Cm9GGVQ25RupD+gP+SKgCPDDYQaRdYk4KjJ91afm6axyzZgGMyWlgImmeuLawVbl4XVX/hMcx/zdiNFlceDi4G9NbqzOOYCH1d6luTCDZHZbkWGt0AoIFuyBzHu1rw==;le9se0D6BpFD+tF9W0UdGw=="
+secured: "OX1dFdhqOrw6CTwlkiC69iczAQ/lPa0ttEHQTsu6f3lOO0RuDj2zZiV4KFlPucrdxdX6NzGRgdvVku8CEgBordGG/pp5SKWWkKbQOAIGMr0KO94hRRC3pTWp8ZqDy4MZ/vcesksK71LiMgjap+3f7dSRjT5gNm2waTDZ/63f/bB1wnQNx+w4hM848JMi+UVIgphI4hj+ZFkkPpyekPFjAhrNDYaNB9QshqXb1pLG8/JS3izsDUl/vN+7x/GolaPtF7/iw+9EqHIbbvvh+2+leV1h9tF/2Bq6Yi/NTMGwLsmH94IaxYhdEUujrE2ECsnl9CGKP39Hev6nFxtdiJkgdslCFuRrZsqDGXJHwjzm4cs=;RdBn7BgpNVbL6xLI5X3nhg=="
 ---
 

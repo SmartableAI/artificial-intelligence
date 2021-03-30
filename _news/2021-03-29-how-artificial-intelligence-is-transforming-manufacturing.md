@@ -25,62 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "8 ways AI is transforming talent management in 2021"
-    excerpt: "Human resources teams are increasingly relying on AI in talent management to improve recruitment, on-boarding, and employee retention."
-    publishedDateTime: 2021-03-25T20:15:00Z
-    webUrl: "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/"
-    ampWebUrl: "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/"
+  - title: "Three AI And Tech Trends That Will Transform Fashion Industry"
+    excerpt: "Apparel designers and brands are embracing the latest technology to get an edge in the fast-paced world of fashion. From machine learning to 3D virtual models, find out how technology is transforming the fashion industry."
+    publishedDateTime: 2021-03-26T04:25:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/christina-wocintechchat-com-mxOdUd1BQIM-unsplash.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605d6f8f415056893e35fb08%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1925%26cropY1%3D0%26cropY2%3D1083"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "How AI beats spreadsheets in modeling future volumes for city waste management"
-    excerpt: "All over the world, large cities are running out of space for municipal solid waste. Existing landfill sites are rapidly filling up and no one wants a new site anywhere near their homes or businesses."
-    publishedDateTime: 2021-03-29T13:40:00Z
-    webUrl: "https://phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.html"
-    ampWebUrl: "https://phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/howaibeatssp.jpg"
-        width: 2663
-        height: 1498
-        isCached: true
-  - title: "Five Ways Artificial Intelligence Is Changing The Water Industry"
-    excerpt: "AI helps in detecting sources of contamination in the pipeline — whenever there is a variance in quality, it can send alerts and call for an immediate fix"
-    publishedDateTime: 2021-03-28T09:00:00Z
-    webUrl: "https://inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/"
-    ampWebUrl: "https://inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 37
-  - title: "Study Finds Both Opportunities and Challenges for the Use of Artificial Intelligence in Border Management"
-    excerpt: "Frontex, the European Border and Coast Guard Agency, commissioned RAND Europe to carry out an Artificial intelligence (AI) research study to provide an overview of the main opportunities, challenges and requirements for the adoption of AI-based capabilities in border management."
-    publishedDateTime: 2021-03-29T09:51:00Z
-    webUrl: "https://www.hstoday.us/industry/study-finds-both-opportunities-and-challenges-for-the-use-of-artificial-intelligence-in-border-management/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 20
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2019/04/cyber-4062449_1280.jpg"
-        width: 1280
-        height: 610
+        height: 675
         isCached: true
 
 secured: "y24WUp9xS5nlkg10ItwY17MDWBj782K1vevh8myyYMp4FJZgb9gzFqLm9bc3JVAGONPfg8FtWhB/JV23/gb0utrRucjbjFO7TAesK5orgEVW1sj9YR6viXkpSl5EigqQZu1NEByRZQbUkGy4nhJwsw6dJlRc8v2C57GReLC8bXsP5LJe26hH82q1NvzJDjj1bdve1fOA4/gZhfWMkTvKQm8WwB8Te4mlcilHB3uYrszqvtOsbF+tZ4407uu3RJQFx1Y2+n3xzN/fy5KVYLD0DqHMS6HThV++UIhz10oaORt/pOD2oISbjS8dFfl3Yc63doLfXmW8cDUICP/LNiUSHqFsu1qQYpWJLvui9l71C8pEJ53J2D+FHR+fbEiuylgb+fM8q5GVfQOepnscNkTTzX73bCqdUR3XDd4LhKiHkPKiB+IgCG0Y+sTHIGDDPVrD/Twm/N84WV5NQ9kJpsWJtBdM2EL6KnY21IdVJpFbR7gHxdBc4Tzgdh/5yNp2C89iQAHBcP94qTJqAN8qnuvIKQ==;/SaIfTP+WT6lJKvZk63+xA=="

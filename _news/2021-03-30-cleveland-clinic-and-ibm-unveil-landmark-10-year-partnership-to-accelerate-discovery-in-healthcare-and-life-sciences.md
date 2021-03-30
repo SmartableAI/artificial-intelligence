@@ -1,24 +1,44 @@
 ---
 category: news
 title: "Cleveland Clinic and IBM Unveil Landmark 10-Year Partnership to Accelerate Discovery in Healthcare and Life Sciences"
-excerpt: "Cleveland Clinic and IBM (NYSE: IBM) have announced a planned 10-year partnership to establish the Discovery Accelerator, a joint Cleveland Clinic"
-publishedDateTime: 2021-03-30T10:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/cleveland-clinic-and-ibm-unveil-landmark-10-year-partnership-to-accelerate-discovery-in-healthcare-and/article_9e8fdbc9-6d81-5a0b-9636-3c32520f587b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/cleveland-clinic-and-ibm-unveil-landmark-10-year-partnership-to-accelerate-discovery-in-healthcare-and/article_9e8fdbc9-6d81-5a0b-9636-3c32520f587b.html"
+excerpt: "a joint Cleveland Clinic - IBM center with the mission of fundamentally advancing the pace of discovery in healthcare and life sciences through the use of high performance computing on the hybrid cloud, artificial intelligence (AI) and quantum computing ..."
+publishedDateTime: 2021-03-30T10:07:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-business-technology-genomics-jon-husted-5f8bc7fac31514d7d3b65c1ad9d67083"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-business-technology-genomics-jon-husted-5f8bc7fac31514d7d3b65c1ad9d67083"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
 related:
+  - title: "Cleveland Clinic, IBM launch healthcare AI discovery center: 4 details"
+    excerpt: "Cleveland Clinic and IBM have formed a 10-year partnership to create a joint accelerator center to advance healthcare discoveries using artificial intelligence and cloud computing technologies, the organizations announced March 30."
+    publishedDateTime: 2021-03-30T12:45:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Cleveland Clinic, IBM ink quantum computing tech partnership to accelerate health research"
     excerpt: "Cleveland Clinic and IBM have inked a 10-year partnership to leverage high-performance computing, artificial intelligence and quantum computing ... \"It typically takes 15 years from idea to therapy [for new treatments]. We’d like to shorten that ..."
     publishedDateTime: 2021-03-30T10:30:00Z
@@ -27,13 +47,27 @@ related:
     provider:
       name: Fierce Healthcare
       domain: fiercehealthcare.com
-    quality: 14
+    quality: 16
     images:
       - url: "https://qtxasset.com/fiercehealthcare/1617051785/IBM%20Quantum%20System%20One.jpg?lFyh6TLOHcJgtGgaOvytc1FT1upMZhq_"
         width: 4000
         height: 4000
         isCached: true
+  - title: "Cleveland Clinic and IBM announce 10-year partnership to accelerate discovery in health care, life sciences"
+    excerpt: "Cleveland Clinic and IBM have announced a 10-year partnership to establish a joint center, dubbed the Discovery Accelerator, to advance the pace of discovery in health care and life sciences through the use of high performance computing on the hybrid cloud,"
+    publishedDateTime: 2021-03-30T11:56:00Z
+    webUrl: "https://www.crainscleveland.com/health-care/cleveland-clinic-and-ibm-announce-10-year-partnership-accelerate-discovery-health-care"
+    type: article
+    provider:
+      name: Crain's Cleveland Business
+      domain: crainscleveland.com
+    quality: 6
+    images:
+      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/The%20super-fridge_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
-secured: "tYiFzeb2NPHS4EFbqx4cXbd0XxIIrFqhlbDH/q491t+UaLTANPVs2oTK8yHmUahNS8b/CBHktm82NPXDEZTucU3rgJulaE4qkhERG0UOhaab4Nuc2bmSARPtVLaGEx+11zK4kQI5WKPu2agL5XZStQQd9bYeloUqcwUiFTD4j3HHE1/IJBWfnJ71zOhYGvKwvUYzlL4u1FsPzT0mmfHLbG2tqiVNhy17TgUMUFW2G2HZmjX5RFdpe+4s/E99fY/zRg6HkaQHAS+oDdtpoBdQSNN04hOoplIDMTKg2Nibzlmqc3UlNqN4VL3d2G4W7jNKCLuFYAf+B4ggz6FZIKY/V0ajLrX6jfuF/mC9/KWOT0A=;J94vS4vlcDkxLl3qbidi7g=="
+secured: "0Wvu6J+hEPdW1b6VH5+qwvUcR7zg+6DZtnJMy3K/nsZOthx6Bi/WIubX7E49T+7r+86u2VgV1vl66DsxIA/nIGLGYBQHQy7XOb3RdvMcG+OSuUMrgYwmWcNbmSMFgOqCZPYcq7n5Zavhwv89wAUttc1RCApQes2HSAl42KMQkBnCvxKwIUePYv5UEnVfRBJ0ns04Va1qaBrwwNy+5VQnf/R3vhxnfmTYOkSVpghLtZTL2CFovKWQ3xbDT6LUGGn4LPoW5pTsaUGtiARt9S3HMt7CIpQSmbLC/46g8xkZABD44PMIel6rdN2xYWM8ZRv/Vu+f1LhfwEwPn4Vnw+8PJ/XrgbkcCeE7EDd5LgvbWc8=;SuIaN46c+mkZ6frSeLEGnw=="
 ---
 

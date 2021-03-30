@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy"
+    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure."
+    publishedDateTime: 2021-03-30T08:11:00Z
+    webUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235"
+    ampWebUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
+    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
+    type: article
+    provider:
+      name: Hart Energy
+      domain: hartenergy.com
+    quality: 54
+    images:
+      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
+        width: 605
+        height: 500
+        isCached: true
   - title: "Schlumberger and Microsoft expand partnership to bring open, enterprise-scale data management to energy industry"
     excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU Data Platform optimized for Microsoft Azure LONDON and"
     publishedDateTime: 2021-03-29T13:04:00Z
@@ -40,14 +56,16 @@ related:
         height: 360
         isCached: true
   - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
-    excerpt: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
-    publishedDateTime: 2021-03-30T04:36:00Z
-    webUrl: "https://www.businesswireindia.com/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-72266.html"
+    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ Data Platform optimized for Microsoft Azure"
+    publishedDateTime: 2021-03-29T21:32:00Z
+    webUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/"
+    ampWebUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
+    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 0
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 16
 
 secured: "cT1+rzIIPyeuU0el/11NDTmY/t6djrFKMYvXjdmu///W+CCxMrvD5pFBHtOft2varnMElRqMfLl676hveBtkxblkjIUK5Qt5Xre3zZ/+KtjTrkbwLNhMfaomQzAXZSaViYj8tFJuaegd/KKAe4p3F/NAnkUB1JJad2ZmtnW5kUQWiLLQAsY5tZ9rjCowFBTjJWGdqYJQLL+UMfs6Ks8FOvdPwhgKLgtjdlicyh03YO4fArcOssxlSIWOmnDkSOD6+6Q+xQJWw5DulxBT0aptZZFRGNtHV2omJq83x0KyVrsPUegnatqHyDxx3XpcawpUktJJFUymfwNO7418vmnz8IWxGkzzbDybcfH2H1GRZ6Q=;Ra0SmaAeFQKB9s5X0ETj2g=="
 ---

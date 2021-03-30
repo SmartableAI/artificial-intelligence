@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tec
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/03/26/three-ai-and-tech-trends-that-will-transform-fashion-industry/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How artificial intelligence is transforming manufacturing"
+    excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
+    publishedDateTime: 2021-03-29T04:05:00Z
+    webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: themanufacturer.com
+    quality: 39
+    images:
+      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/07/14113149/shutterstock_732658279-e1594206468206.jpg"
+        width: 1920
+        height: 1147
+        isCached: true
 
 secured: "htBDzf9ZDqdwLU07U/g5fJp6O3Q8PvaqAlsTfM1joAp7LNPXOr83f3qmZj/u6XOJSjf74A00Xh58Fq8h+kVFNBmhF7GhOOX91pdH2lruOl1kyfuKkMynmTXKeGJ8Z1kopmbHDz9AvmLJXXTtsFvWzbEsjSXHLntD4vK9EEdLJ9lOK9AQeb3DqBMy6B8nd6slky4dyawApFVM3+cOPJ3Jt4td8KWd4LmvYfaF0hEUQ+ce2dkDavoFJOEFFmVpolPI8u7yVW9fYP/NuP7RugVxESz3Qgo0vsR4nVhC0QbZ3a4Ic6eBxGQAMdjorRAcfGuxwYJu25cNABuqcCMVl5uhxSC7g1jWOraMVq6kx6f2piigZr727wa0aGpkyZt1xqvpEniqz43dk5HiF7NQp17gHKLt4jkrWVgxbpAFTkunMA3sFP4uG8pSS1bNbDS0T+YBgrOSkKEN2zmiwIckCx8vZtDXP+2kgCUexl2jhx2MVb2/RFRtTz9aQNOX+2avHjUTgztOBNWJURoLxdKZ1qThhg==;VS+y1Pwkip3BIgbxB257uA=="
 ---

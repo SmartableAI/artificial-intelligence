@@ -43,6 +43,22 @@ related:
         width: 800
         height: 560
         isCached: true
+  - title: "How trucks became the next battleground for self-driving technology"
+    excerpt: "The transformation involves pulling apart the dashboard, equipping the vehicle with a stack of sensors and computer systems, then installing “a single umbilical” cord to facilitate communication between the vehicle and the self-driving technology,"
+    publishedDateTime: 2021-03-30T13:30:00Z
+    webUrl: "https://www.ft.com/content/37d25112-3a3d-4547-8bd8-4bbc45986a08"
+    ampWebUrl: "https://amp.ft.com/content/37d25112-3a3d-4547-8bd8-4bbc45986a08"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/37d25112-3a3d-4547-8bd8-4bbc45986a08"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d0d2ffc-d196-4234-8d87-64f502e64ba1.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "1qbSl2T3Lo5tz02/UphWccVafsM7UMW8ojVQp8U8Bwi5s8Vzq+ti4R7+cvrqD9nCdXZzYbm6KLJWKQMLuzec6bxykGxDLoDgMcumFHLA2usJf2J0yXW8A0iSdUvnddVQEBZ0fa+jKwxMB3SzOPXPi28PWqmDH9GLXIlS0loJrvf8vlX2+1SOr0/VF3anc74258krr3jt+w481p8F5oAQIFIAgUWnaArgIhsyefYSnNke6eWKuRsg9+Lp5Z61/EzxFCnXlotl7tTLtGWuhrks6Ds6HRAjYqSOK+6VhQnqRXo5zqxzWzXDQzpo5chLobgQQw/LJ9hS81352GM+6OSkiWn7fAuRPpmNhDKIXWFBHdc=;mIEm52hBFaED8U3VTPDmGw=="
 ---

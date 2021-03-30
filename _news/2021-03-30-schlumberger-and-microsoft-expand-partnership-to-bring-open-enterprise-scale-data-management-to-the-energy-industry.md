@@ -1,24 +1,42 @@
 ---
 category: news
 title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
-excerpt: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
-publishedDateTime: 2021-03-30T04:36:00Z
-originalUrl: "https://www.businesswireindia.com/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-72266.html"
-webUrl: "https://www.businesswireindia.com/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-72266.html"
+excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ Data Platform optimized for Microsoft Azure"
+publishedDateTime: 2021-03-29T21:32:00Z
+originalUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/"
+webUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/"
+ampWebUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
+cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
 type: article
-quality: 0
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: gisuser.com
+  domain: gisuser.com
 
 topics:
   - Microsoft AI
   - AI
 
 related:
+  - title: "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy"
+    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure."
+    publishedDateTime: 2021-03-30T08:11:00Z
+    webUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235"
+    ampWebUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
+    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
+    type: article
+    provider:
+      name: Hart Energy
+      domain: hartenergy.com
+    quality: 54
+    images:
+      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
+        width: 605
+        height: 500
+        isCached: true
   - title: "Schlumberger and Microsoft expand partnership to bring open, enterprise-scale data management to energy industry"
     excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU Data Platform optimized for Microsoft Azure LONDON and"
     publishedDateTime: 2021-03-29T13:04:00Z
@@ -48,6 +66,6 @@ related:
         height: 280
         isCached: true
 
-secured: "73nAFctzm8G++1UJEkXQsFAbBRy0k6/8NMBueFAeT4mYaOSZ+5x6pVUEoYP3S+r7kDC6X8C0mUt1VDBqqxwaUVkST+YpXIn8e7wTWMwCthtLc8pMRXL02G+m6wOsv9NVcAQ1fGA5Fgq3iscEZNCqC9uRmeTVpstd8fJTBtc26ms2hZoI2rPa+iUkSWM6dn4ua0T35ecCUGj1+UVPAMuj3xYyUB1DfuJB+EJaCF4Kll9gbPqxk/28bbWgvqvDPNd0etTloB8mGTBfjsS/o4tmQjo0W0SbhoTT6EUgYefVmliW8wLhBbAnSmQ3QTrqyVxLaviif58F5fpE2+CCwd9DZ2ciqrepBKdqALHsEwyTbOc=;Y1JiOgav3B4Eccfo/cOcbA=="
+secured: "U4RmmwyRtWifNKwH3Vw4e5MyDIf62LMj8Z3fdn9yQGrRQLEhdMb0G2RTaPCLI0PBcHnGO2dIp1LPPPfDbjcbunLMX2QOB6O2tRVqPHTMbcckJpifWCKGcEbtTIMA3vUFdijtEMmcwalKcWl87MArfg99z5v1ZhM9V2FG2QqRzZ56+h24nGqd3JvwZozhXU2yGUBo/e7QfV5xbtw14en0rzPUyHzR4dAQ2CF8VQ542VczEaQHGwFrUSDqYYd22hUVImV9d1IkJTKLaLYAmn5pedoXPm4SY0i0l4eWRCubfttvpRQ2PKEDfvh0i6pVK4Eix7oAYt1D29negKbgnL44yVO4rmsxSwiwUT9zeZ6vo+NBYBkCigXCnGgvmJQ6W2isxCmRvKLGIznfsY72MpnwJucpKqmMKhXdY+RR7nYT3HKN/1YzGODAAL5wZNSZzD2e+qr0oy59TyVQQWHzBbrHm8P+McNJ0kgtFeyjyrDrAMh6DQhaDuVxnlSyXolnxL98ExuoiVyQX468WkPSOvfMxw==;nfsXImuZM/ZIRq5wwmlP7g=="
 ---
 

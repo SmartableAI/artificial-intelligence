@@ -111,20 +111,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "No, Self-Driving Tesla Was Not on Autopilot When It Took Wrong Turn or Backed Into Flagler Sheriff’s Patrol Car"
-    excerpt: "Two girls, 15 and 14, were in the Tesla. No adults were. The Tesla can be self-driving. But the girls were driving illegally. This afternoon, the Flagler County Sheriff’s Office issued a release ..."
-    publishedDateTime: 2021-03-25T20:45:00Z
-    webUrl: "https://flaglerlive.com/161956/tesla-deputy-crash/"
-    type: article
-    provider:
-      name: Flagler Live
-      domain: flaglerlive.com
-    quality: 19
-    images:
-      - url: "https://flaglerlive.com/wp-content/uploads/self-driving-vehicle-1.jpg"
-        width: 1000
-        height: 537
-        isCached: true
 
 secured: "hUB3hsAZeYsrLWVVDm+nTaa/Zm6trVFh9hUl+jXt82wvQ3OdKYET1dZIjVlxywNWj7mVqOGPaYkBGfBwgzXqHPTFlO0FUFEB6wxIVUXJY9NrcL6INZmbpUI4MlHYfpUszZYGLg1N1euRx3VBgOaJCOyztCXinFNnBRA2n1nJTvDkMO0Ct3mQ5czqKqoxVqg1zklDPog3M9IWIBZ9jszVOSBhmgYfEQpABKIQ1gZa3pUYXTW+1LIzkkx6VbhUD7VQsQOX0RrZ3GoTqDHW/zWCrTLfIEC3f8i09wVNe/41ERxeUAcNFduWsPHGTtjkqWNdtbyfvgMhAAdlvGE1EzB2wHyZPkVQ0qq5qD07TZ6Ik/5Igg6tuImrV2JrjL3EZBY+CLgZY9qd/xbk5R8v/bfdKnBxTmPuUsoYrtOOhRJsLuwKIgtt37ZDbtfe3xGfN5QTonlcLIiIWPbhSmYaCUF4zoihz2yFM6ROar1NUcR1EWndHu9yTalU3jdPQTGhCU3LLowrsKLsiQOhkqR4jmoP1w==;9gSZKatMy+nem2/rZIXvYA=="
 ---

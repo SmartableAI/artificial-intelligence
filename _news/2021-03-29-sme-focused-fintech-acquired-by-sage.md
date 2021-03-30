@@ -97,15 +97,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "The Worldwide Artificial Intelligence in Genomics Industry is Expected to Reach $1.6 Billion by 2025"
-    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, March 25, 2021 /PRNewswire/ -- The \"Artificial Intelligence In Genomics Market by Offering (Software, Services ..."
-    publishedDateTime: 2021-03-25T20:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-artificial-intelligence-in-genomics-industry-is-expected-to-reach-1-6-billion-by-2025-1030247690"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
   - title: "Artificial Intelligence in Military Market by Offering, Technology, Application, Installation Type, Platform and Region - Global Forecast to 2025"
     excerpt: "The \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type, Platform, Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-03-26T11:56:00Z

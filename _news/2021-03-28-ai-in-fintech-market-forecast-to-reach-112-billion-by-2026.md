@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-for
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28"
 type: article
 quality: 69
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "The Worldwide Artificial Intelligence in Genomics Industry is Expected to Reach $1.6 Billion by 2025"
-    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, March 25, 2021 /PRNewswire/ -- The \"Artificial Intelligence In Genomics Market by Offering (Software, Services ..."
-    publishedDateTime: 2021-03-25T20:32:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-worldwide-artificial-intelligence-in-genomics-industry-is-expected-to-reach-1-6-billion-by-2025-1030247690"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
   - title: "SME-focused fintech acquired by Sage"
     excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
     publishedDateTime: 2021-03-29T07:42:00Z

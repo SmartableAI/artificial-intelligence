@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-sel
 webUrl: "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,7 +43,23 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How trucks became the next battleground for self-driving technology"
+    excerpt: "The transformation involves pulling apart the dashboard, equipping the vehicle with a stack of sensors and computer systems, then installing “a single umbilical” cord to facilitate communication between the vehicle and the self-driving technology,"
+    publishedDateTime: 2021-03-30T13:30:00Z
+    webUrl: "https://www.ft.com/content/37d25112-3a3d-4547-8bd8-4bbc45986a08"
+    ampWebUrl: "https://amp.ft.com/content/37d25112-3a3d-4547-8bd8-4bbc45986a08"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/37d25112-3a3d-4547-8bd8-4bbc45986a08"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d0d2ffc-d196-4234-8d87-64f502e64ba1.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 333
+        isCached: true
 
-secured: "tCiOP4csV16qsjw0YzAtdym7QEYNDpfbTkZHPVMNYlVPTPp5pfkpewgq9oY8njAhWvBrgCfmxJq7zdO7PCRBWWwObXnjGYdTCS5fWDZAvD5i3zGZ/UptraiASj+w6w5rrK6tNPhafHi8jjdBERBEUgIaZAIyY6RJXVvnO8hoYpothSZjYUw9yr7mxZ5WxbwMKKk4ykMivnHzhDYuUJuEIdoKzgrSLpvWe1/UdVA/M3ofD1rU0glV6YyPRnxsfTyuOVBV1ldWH2ZP9U30OWHTQwFHwX7+2N5aCBGqOrIMKOsFmMCzO9K7669WHENY9Xy9pJLeyOSvxPfB1Ll6d1gpF8OGmIrsSqRMf6VTpJQ+iXs=;Ozg6MOux82FYJlEpUZE0hQ=="
+secured: "dS8m+Mm/EUvWG4bvpB0j/EVoCMCVqoBPcx4UBO5RcfNPq8QkZAh0HOuJcpnyVoYyB1g8hRQ1WgO3f7c8G+SU6hcjuLUbWgkzeWI6GQlvkRPovgxSAyczBcC+7bOzpX7rrNGfpFvnNLJ6C0vmqQ6Op+iWUirtqaneKugZWL0TK7ulJCZWNaD5RU01mMqE1xuyDs9ACzhAFfHn83yltgG7vZpMkvwi8GpxQOG8UCC1UjskOUPWHnpz6cFJ8NT9oVlzb44njOO+JijBdnbz5AKcalWCMa5X9UeaJnzylHTdobL4VZYo3XZ/KtLXcZCJSBbjJ3oo2oZRPdOeeMyxYNyvd7kHqluaBIzbAriv2R44ERM/7jiCQoPqAHkOC26bmwFmGGmkxUn7iwCmN2r60vFOxgCXhNmqHpEj/P/f64dquDOx2FdYGPE0R2bO4rv+cHRtiOAZaidgW2dYNT4fVBX9b6seEHd0PpsDNo7Jo9KRi3zJ/JHp7pjg69yizpy+xfMw5kx8jhY+G8Sa2fZk/JfT7w==;qL/Py+3FfblBaf6TEZ5yFw=="
 ---
 

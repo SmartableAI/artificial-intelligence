@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-15-artificial-intelligence-update-how-will-the-proposed-regulation-of-ai-affect-medical-devices.md",
+      "title": "Artificial Intelligence Update: How will the Proposed Regulation of AI Affect Medical Devices?",
+      "excerpt": "The European Parliament recently approved an initial draft proposal for the regulation of ethical artificial intelligence (AI) and the first official draft of the proposal is expected in late April 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mhc.ie/latest/insights/artificial-intelligence-update-how-will-the-proposed-regulation-of-ai-affect-medical-devices",
+      "originalUrl": "https://www.mhc.ie/latest/insights/artificial-intelligence-update-how-will-the-proposed-regulation-of-ai-affect-medical-devices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mhc.ie/uploads/How_will_the_proposed_regulation_of_AI_affect_medical_devices.jpg",
+          "width": 2908,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-14T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Law Firm",
+        "domain": "www.mhc.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-startup-news-robotics-vendor-nimble-raises-50-million-in-financing-round.md",
       "title": "Startup News: robotics vendor Nimble raises $50 million in financing round",
       "excerpt": "According to Nimble, its AI-powered robots intelligently pick, pack, and handle millions of products, spanning from apparel and electronics to beauty, general merchandise and grocery items. Today, Nimble robots are deployed in fulfillment centers across ...",
@@ -1382,49 +1425,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting.md",
-      "title": "AMP Robotics looks to push the boundaries of artificial intelligence in sorting",
-      "excerpt": "US recycling technology company AMP Robotics Corp. has launched a second pilot to advance robotic sorting systems. The Denver-based artificial",
-      "sourceUrl": null,
-      "webUrl": "https://recyclinginternational.com/virtual-trade-show/amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting/32984/",
-      "originalUrl": "https://recyclinginternational.com/virtual-trade-show/amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting/32984/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://recyclinginternational.com/wp-content/uploads/2021/03/SSR_Facility_FiberLines.jpg",
-          "width": 1460,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Recycling International",
-        "domain": "recyclinginternational.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

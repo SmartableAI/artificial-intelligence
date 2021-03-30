@@ -27,6 +27,17 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "FINTECH PIONEER SETH MERRIN JOINS NEURAVEST RESEARCH AS EXECUTIVE CHAIRMAN"
+    excerpt: "Neuravest Research, a provider of AI-driven portfolio construction solutions for institutional investors, today announced that Seth Merrin has joined the organization as the firm’s Executive Chairman."
+    publishedDateTime: 2021-03-30T12:00:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8207925/fintech-pioneer-seth-merrin-joins-neuravest-research-as-executive-chairman"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
+
 secured: "Qixqpdf2HHRxTwsm0kvoY7jx7agmd8RUHWLbMnTOINCWJR7GfSgkeBhMRQgWlSjSQcqPLYREaFOrYZ3IueWXgOiNLguGhylREjX9W6S4A58lt9HW5wNmRsGvlAi5vxnfXg6i3Mp4ts1LcixfkvYjZCB948E+6taHx7To7My6mv3W6lgR5+eXvVVBOzwtSNL/UKTjBsK99AFlT4CIfzqVBd/ySTU/PGbtGZ9VEypGBjvaEgWT2OBuVPEqqSVDQwpETH9LjzgzuToZ/TrM+v4mG4QNh8qOIdAOi926HyylMAqsFVmw1mW3Z2YOuQfe/BjWTmUCviiJmvqtnqEhyDCM2meR9PzflIh2iHBUuq/rd1dxDFW8cPiqXMOMO+4JQ4eKl3XhzA+qfj2fPwzL98zaP2qwADOPCas6+cxEjUPIqJUNf4RTy13RUxYBK8J8J6toQMRYuIT8EmFfyXCIAa2Icb5uUdpPt0XcRtes1fQFwUSJda3Nr4H9MtRMQM+b31Wesc+OhmN9FsCtYldV0+YOHA==;jKm4x8hELQJH+C9rytkMGw=="
 ---
 

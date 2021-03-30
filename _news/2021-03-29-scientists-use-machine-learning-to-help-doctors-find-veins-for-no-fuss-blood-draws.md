@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-03-scientists-machine-doctors-ve
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-scientists-machine-doctors-veins-no-fuss.amp"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning could help find veins for easier blood draws"
+    excerpt: "Researchers in Russia have developed a prototype of a medical imaging system that uses neural networks to analyse near-infrared images of veins and project a venous pattern onto a patient’s body. The system could help make blood draws much easier and less of a nuisance for patients with difficult access to veins."
+    publishedDateTime: 2021-03-30T12:04:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/03/machine-learning-could-help-medical-experts-find-veins-for-easier-blood-draws/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/15452/dreamstime_xxl_151280250.jpg?crop=0,0.22732910156250002,0,0.2804833984375&cropmode=percentage&width=1200&height=450&rnd=132615726710000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "Skoltech scientists use machine learning to help doctors find veins for no-fuss blood draws"
     excerpt: "Researchers from Skoltech have developed an early prototype of a medical imaging system that uses neural networks to analyze near-infrared images of veins and project a venous pattern onto a patient's body - this may make blood draws much easier and less of a nuisance for patients with difficult access to veins."
     publishedDateTime: 2021-03-29T04:00:00Z

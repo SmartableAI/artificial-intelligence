@@ -27,6 +27,22 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "DDN Enables Enterprises to Accelerate Success in AI Initiatives with NVIDIA DGX Systems"
+    excerpt: "Enterprises increasingly rely on artificial intelligence (AI) as a powerful business enabler with massive potential rewards. However,"
+    publishedDateTime: 2021-03-30T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-876627141.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg?p=publish&p=facebook"
+        width: 1720
+        height: 2430
+        isCached: true
+
 secured: "tREctYaJ93JSWyopndek/YdxNUSfJvNLDWYQB50jKCWRj3TVjeJdAuiLbOJHAJVbYF8ZRPu7KhB8FWbqmDvzE6Lp5u4+sj4O0mSQMmySofmqUrvNwJHEuOBM1G/VzAPboZRyDdzvHLYhGMEGlgaJxO1eHF2K23vymgBlqSZV2m3yjImxZcn80/ekNVOtNbmX50Pmf4qoaR6RSZ3cwJQXk/V2qTrspxnhpbpzjXGu4KHZEXvIu+7qyR+fsIloqvTneB74lC6i+0An+A2zHibmiGC0iCVdAagg9mqVu+axjM9Gr9U6/1sVgiLyFda0aziCK8thaKEj8eQN7N0Oc6B/L3+GXOhOSlMsoyg8V3kM9iY=;ioJ0BvDIHkmvEc5WAMFvqA=="
 ---
 

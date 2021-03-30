@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -110,20 +110,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2021/03/Tesla-Autopilot-Crash-2-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "No, Self-Driving Tesla Was Not on Autopilot When It Took Wrong Turn or Backed Into Flagler Sheriff’s Patrol Car"
-    excerpt: "Two girls, 15 and 14, were in the Tesla. No adults were. The Tesla can be self-driving. But the girls were driving illegally. This afternoon, the Flagler County Sheriff’s Office issued a release ..."
-    publishedDateTime: 2021-03-25T20:45:00Z
-    webUrl: "https://flaglerlive.com/161956/tesla-deputy-crash/"
-    type: article
-    provider:
-      name: Flagler Live
-      domain: flaglerlive.com
-    quality: 19
-    images:
-      - url: "https://flaglerlive.com/wp-content/uploads/self-driving-vehicle-1.jpg"
-        width: 1000
-        height: 537
         isCached: true
 
 secured: "DbFubnkJYzkqBiGx6xINrXJq571a9QW9QtPHEpiNzsdqPL+rK/E+9WbeiaoNWXqlQ5wt6zfThDuhppEw5QKhzxRObMfuYW5bXTOph/POMuWTcBf2MGysj6f2MmAFKPu/hJluP2+yMgN4VR2q0i2lVZfAWNfW4FHODUeMnRcPTnaVidffW6UPXaxNv5BiHie2TX/U2AZt+Oe2DPSwW+QwdzW68dRveryXGcUpey0Apgoq5FiwWlWVZdEvBScc5XYyPoQupoU9+lG/WR1UCd3ZYMhJLJgFzSvjtIYhacavhXf76BJz1dGIR65/s+zNAlfj5RmC1LHDqtZ1ZxkCNfRrQvp5c76xeBKZBRKgT1gqzzk7QBrglOAemXZqjCpBn9TZtD+UVZy7anqqhTjAYIlhQjokLSSZBj7oIg7WO41sVZ16gW82J66wJASPev9Txq6UKlFbrSrpp5e4UT12s1488HZh+cBe72KtafJK6nYUvA7wQUnCRxMtvoDK3hUBn6tF4aDqdSksAZlROHdXfhI+PQ==;wHuX4zLU7f8cDbGjNl+j2w=="

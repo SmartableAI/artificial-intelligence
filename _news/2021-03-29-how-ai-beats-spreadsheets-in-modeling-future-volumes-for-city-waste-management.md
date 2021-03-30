@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.am
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-ai-spreadsheets-future-volumes-city.amp"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -26,60 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "8 ways AI is transforming talent management in 2021"
-    excerpt: "Human resources teams are increasingly relying on AI in talent management to improve recruitment, on-boarding, and employee retention."
-    publishedDateTime: 2021-03-25T20:15:00Z
-    webUrl: "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/"
-    ampWebUrl: "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/"
+  - title: "How AI beats spreadsheets in modelling future volumes for city waste management"
+    excerpt: "Growing cities tend to run out of land for waste management and new landfill sites. Artificial Intelligence can help city managers create more powerful long-term forecasts of solid waste volumes and landfill requirements,"
+    publishedDateTime: 2021-03-29T04:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/uoj-hab032421.php"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 33
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/christina-wocintechchat-com-mxOdUd1BQIM-unsplash.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How artificial intelligence is transforming manufacturing"
-    excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
-    publishedDateTime: 2021-03-29T04:05:00Z
-    webUrl: "https://www.themanufacturer.com/articles/ai-transforming-manufacturing/"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: themanufacturer.com
-    quality: 39
-    images:
-      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/07/14113149/shutterstock_732658279-e1594206468206.jpg"
-        width: 1920
-        height: 1147
-        isCached: true
-  - title: "Five Ways Artificial Intelligence Is Changing The Water Industry"
-    excerpt: "AI helps in detecting sources of contamination in the pipeline — whenever there is a variance in quality, it can send alerts and call for an immediate fix"
-    publishedDateTime: 2021-03-28T09:00:00Z
-    webUrl: "https://inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/"
-    ampWebUrl: "https://inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 37
-  - title: "Study Finds Both Opportunities and Challenges for the Use of Artificial Intelligence in Border Management"
-    excerpt: "Frontex, the European Border and Coast Guard Agency, commissioned RAND Europe to carry out an Artificial intelligence (AI) research study to provide an overview of the main opportunities, challenges and requirements for the adoption of AI-based capabilities in border management."
-    publishedDateTime: 2021-03-29T09:51:00Z
-    webUrl: "https://www.hstoday.us/industry/study-finds-both-opportunities-and-challenges-for-the-use-of-artificial-intelligence-in-border-management/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 20
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2019/04/cyber-4062449_1280.jpg"
-        width: 1280
-        height: 610
+      - url: "https://www.eurekalert.org/multimedia/pub/web/260168_web.jpg"
+        width: 1440
+        height: 810
         isCached: true
 
 secured: "UvmPs1igah6ZdbPgy1lDYQUiWVClHrjz+r/ShBE4XB/BoCzPOVEkAsZprQPdSUOgoMIO3JRkwN5h1JDilPeFGOrskT2dpB8s6ZHZZBGvTKesEorO2BrDvNcePxzCbppNXXv62kBDKK+uhilkucRZeR/AvCuFIFHYVg8aI50TumOoykXPr0oPZQJjR3wJrWFbznk2Nvw2s8hkQxMAQUIcLbPOIdABAwLxMI189SNW3Ox4cq5DVwwmnTZHmBOoYXa6d9eodBjaxckDY2zVq8ZA18EKlmUSxTiA2PPKIoonF0669TGdAekcKGJgMG9p0ZaMRBj+/Xllw/ecKzDKVKOz7+Uvu35Si3wm/LgrkM0mDKPgCuieMoJ1f9Cl6aCI4g495judLMVbfjrJI3HyFlhZmGrw1oq9rOtHmG9Ve0fIfyOrnk7wfYzxr0HuLjT3WRmeMuYL48owNeyd0rMI1+/9P4ncx4VcFbC0S4D8UsRBsab3vyxFtMFRpToDHGwee9qgbuZ2AkBQZtPkWCOj5spELg==;N+mZtKzuEnIfZcd2Nk0rHA=="

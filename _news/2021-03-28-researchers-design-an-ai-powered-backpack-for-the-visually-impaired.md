@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Intel AI-Powered Backpack Helps Visually Impaired Navigate World"
+    excerpt: "Last year when I met up with a visually impaired friend, I was struck by the irony that while I have been teaching robots to see, there are many people who cannot see and need help. This motivated me to build the visual assistance system with OpenCV’s Artificial Intelligence Kit with Depth (OAK-D),"
+    publishedDateTime: 2021-03-30T13:25:00Z
+    webUrl: "https://www.csrwire.com/press_releases/720376-intel-ai-powered-backpack-helps-visually-impaired-navigate-world"
+    type: article
+    provider:
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 39
+    images:
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/ai-backpack-jagadish.jpeg"
+        width: 540
+        height: 316
+        isCached: true
 
 secured: "f+0Q/uWMiaGaDffmnFdnGlxWQH8Wf+JL2edBkQUOkUGLG8nvpooBg0gsttDztq2IFRJOrdvneQWqayS8xB6bRH+7Q5hiMz3nvaknq7bPbRxbusHgX82SVTUDd4Ad1IbMdgAufWPTcNAuK6oUy2qkwGkJMcWSFzaxHUwvz1VyUCdrsfKENSofLh8+PqOPa6g5s0Lh+BJd9we8WujPLZmFxlaFaMngKLyJFxmZSGCdWkGVM+twLnLc/MYnHau8qTJAVAVWXmAqc8AEv6ZATgr1LahMzrLDJrvn2Kht4F6Qlrpa566q9aootDzQcnV2L69z5Rr3AmxGaYxUbPcNya3/8Dep59oUiRhrrYXirLA8kWo=;iqy2y3PsfKcSNK1swcG57g=="
 ---
