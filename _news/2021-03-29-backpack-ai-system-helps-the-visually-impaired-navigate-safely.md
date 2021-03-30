@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/?
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/visually-impaired-blind-backpack-ai/?amp=true"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers design an AI-powered backpack for the visually impaired"
-    excerpt: "They used Intel’s Movidius computing chip because it was small and powerful enough to run advanced AI functions with low latency. The next step is to raise funds and expand testing. They hope to one day unleash an open-source, AI-based, visual-assistance ..."
-    publishedDateTime: 2021-03-25T17:10:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/03/25/innovations-ai-backpack-blind/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/03/25/innovations-ai-backpack-blind/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/03/25/innovations-ai-backpack-blind/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 59
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Researchers design an AI-powered backpack for the visually impaired"
     excerpt: "Still, the product offers a glimpse at what a future could look like as progress in AI and machine learning increasingly help ... how much such a device would cost consumers, but several start-ups and organizations are working to solve the same issues ..."
     publishedDateTime: 2021-03-28T09:00:00Z

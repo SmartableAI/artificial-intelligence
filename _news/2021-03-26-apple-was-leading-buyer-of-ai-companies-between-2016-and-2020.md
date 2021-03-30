@@ -74,22 +74,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Apple Bought the Most AI Companies From 2016 to 2020"
-    excerpt: "Apple is the leading buyer of companies in the global artificial intelligence space, according to data shared today by GlobalData. From 2016 to"
-    publishedDateTime: 2021-03-25T17:50:00Z
-    webUrl: "https://www.macrumors.com/2021/03/25/apple-ai-acquisitions-2016-to-2020/"
-    ampWebUrl: "https://www.macrumors.com/2021/03/25/apple-ai-acquisitions-2016-to-2020/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/03/25/apple-ai-acquisitions-2016-to-2020/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 57
-    images:
-      - url: "https://images.macrumors.com/t/t6VY35S0pKROyhUHyAhPfE6tY5M=/1600x/https://images.macrumors.com/article-new/2021/03/ai-company-acquisitions.jpg"
-        width: 1600
-        height: 857
-        isCached: true
   - title: "Apple on AI shopping spree to make Siri smarter"
     excerpt: "Apple is reportedly on an AI shopping spree. According to GlobalData, a market research firm, Apple bought over twenty companies between 2016 and 2020. In addition to the company, Google, Facebook and Microsoft also occupies the leading positions in the ..."
     publishedDateTime: 2021-03-26T17:15:00Z

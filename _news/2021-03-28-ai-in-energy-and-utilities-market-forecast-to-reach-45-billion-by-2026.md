@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 30, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
+    publishedDateTime: 2021-03-30T09:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) In Sports Market Value Projected To Reach US$ 3,555.9 Million By 2027: Acumen Research And Consulting"
     excerpt: "The Global Artificial Intelligence (AI) in Sports Market is expected to grow at a CAGR of around 32.8% from 2020 to 2027 and reach the market value of over US$ 3,555.9 Mn by 2027. Artificial intelligence in sports is estimated to experience prominent growth over the forecast period from 2020 to 2027."
     publishedDateTime: 2021-03-26T00:31:00Z

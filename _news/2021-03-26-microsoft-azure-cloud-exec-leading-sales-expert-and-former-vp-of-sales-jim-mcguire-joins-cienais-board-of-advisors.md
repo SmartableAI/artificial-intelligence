@@ -60,20 +60,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Microsoft – Microsoft Teams now offers AI-powered live meeting transcriptions"
-    excerpt: "Microsoft Teams has got a new AI-powered feature that makes it easier to zone out during endless online meetings. The app has launched a live transcription tool that creates a wri"
-    publishedDateTime: 2021-03-25T18:22:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-microsoft-teams-now-offers-ai-powered-live-meeting-transcriptions/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 53
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/transcript-gif.gif"
-        width: 800
-        height: 448
-        isCached: true
 
 secured: "nM4RckuFpQtAgC/GdC4OolY31iV15ifFTci7Asg86zWzBZw1jcDNGYjUjod1VLfbI4h5QeFtUrSivsFT0AB6hKeA8EwTMAcHvg3jzlFj/2nQ08d/blEaJU1zKS+rKZyBJY0FwX5WltYMzJkJJhbBN4JnkRQmGFR/RmZ9nm+qAEiUl2Rb25zYZCSJDZTu06wJRpitPJcnE/JihX0It8CWCScxRUbDD538nqQr2SU0+ypw1yvGppgT3AYsnQOXPfc+2pwnn3EVcWzamPTuQ9hgSE48NcXN7VfHPoxM5+v4rzuMGaqMAMHULANHk6HDSXkbTZ7+dN69NfXCwu7nkQDRNcfg9FOuNY98RPz8t0EK0FM=;bvZHQLOQVsfUX1cxK1rgTQ=="
 ---

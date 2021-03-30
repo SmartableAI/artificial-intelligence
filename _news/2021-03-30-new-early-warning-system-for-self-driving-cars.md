@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Didi Is Raising Money for Self-Driving Unit at $6 Billion Value"
-    excerpt: "Ride-hailing giant Didi Chuxing is raising new funds for its self-driving unit as China’s answer to ... production of driverless vehicles and invest in technologies like artificial intelligence chips, people said. Plans for the latest fundraising could ..."
-    publishedDateTime: 2021-03-29T10:05:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if8sWN57UZdA/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
     excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google,"
     publishedDateTime: 2021-03-29T09:47:00Z
@@ -100,6 +86,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F4%252F8%252F0%252F33200840-4-eng-GB%252FCropped-1616582037%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25200003-03-24%252019.22.13%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2592%25E3%2582%259A%25E3%2583%25BC.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Vietnam’s first self-driving car debuts"
+    excerpt: "The vehicle is equipped with some 40 self-driving features of level four as per the standards of the Society of Automobile Engineers (SAE International), in which level five is the highest. It is advertised as an eco-friendly automobile with artificial intelligence (AI) integration as well as smart functions such as 2D/3D maps,"
+    publishedDateTime: 2021-03-30T09:53:00Z
+    webUrl: "https://tuoitrenews.vn/news/society/20210330/vietnams-first-selfdriving-car-debuts/60063.html"
+    type: article
+    provider:
+      name: Tuoi Tre news
+      domain: tuoitrenews.vn
+    quality: 24
+    images:
+      - url: "https://secure3.vncdn.vn/ttnew/r/2021/03/30/car-1-1617098081.jpeg"
+        width: 620
+        height: 423
         isCached: true
   - title: "Video: Woven Capital invests in self-driving startup Nuro"
     excerpt: "Woven Capital, L.P., an investment wing of Toyota, has made its first investment into Nuro Inc., a self-driving shuttle startup. Previously, Nuro raised $500 million in funding to expand its autonomous goods delivery service using self-driving shuttles that include no seats or cockpit for drivers."

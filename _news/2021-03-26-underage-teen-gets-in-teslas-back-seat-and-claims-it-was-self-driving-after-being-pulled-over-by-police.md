@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2021/03/Tesla-Autopilot-Crash-2-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Self-driving Tesla crashes into Florida deputy’s cruiser; underage teen cited"
-    excerpt: "Two teens say they were not driving a Tesla in the wrong direction in Flagler County because it was on autopilot."
-    publishedDateTime: 2021-03-25T17:07:00Z
-    webUrl: "https://www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/"
-    ampWebUrl: "https://www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/?outputType=amp"
-    type: article
-    provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 56
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/2CBNPQGD4NAERJKYEET4FITK7E.PNG"
-        width: 945
-        height: 531
         isCached: true
   - title: "No, Self-Driving Tesla Was Not on Autopilot When It Took Wrong Turn or Backed Into Flagler Sheriff’s Patrol Car"
     excerpt: "Two girls, 15 and 14, were in the Tesla. No adults were. The Tesla can be self-driving. But the girls were driving illegally. This afternoon, the Flagler County Sheriff’s Office issued a release ..."

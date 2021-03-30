@@ -7,7 +7,7 @@ originalUrl: "https://www.abiresearch.com/market-research/product/7779227-azure-
 webUrl: "https://www.abiresearch.com/market-research/product/7779227-azure-percept-is-microsofts-long-awaited-a/"
 type: article
 quality: 75
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Microsoft – Microsoft Teams now offers AI-powered live meeting transcriptions"
-    excerpt: "Microsoft Teams has got a new AI-powered feature that makes it easier to zone out during endless online meetings. The app has launched a live transcription tool that creates a wri"
-    publishedDateTime: 2021-03-25T18:22:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-microsoft-teams-now-offers-ai-powered-live-meeting-transcriptions/"
-    type: article
-    provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 53
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/transcript-gif.gif"
-        width: 800
-        height: 448
         isCached: true
 
 secured: "mfU1tkNkeaMGybWHBLd858mbByg4ibS3IGpZCT4KbMNMUpudk7qvLNli5Cd4R0XNRTuYTm0rnxH0BUv3G1ES4LZeMSSxSAXFloAmkGuxtnHLMvuBTtzZAPH9pVrU09v3dIPfP8ryb9WpSq9j0A9Sao5TGq6nRCS47lcYlff8liPen+It6YT2lCN2hxMFCcin4uhvq8PKgKvl24e6vu5nxGL1o/ipY8srKKcCq2fwbA/7PJhudMFeq3nIehn7kZ8xDV0/CtJM+K2aD9XRprkoIecrtPL3JiHdY/dtB7Zj5WeGrNlcY0Q4Q5GmVQlJ3WEnmfgOX8eJO8DZRsML1KnO4+kWnIwUtzqR91Hbf5rckdo=;fpOGKRmF27O/t2rBrINvwQ=="

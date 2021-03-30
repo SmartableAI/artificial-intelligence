@@ -1,44 +1,29 @@
 ---
 category: news
 title: "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning"
-excerpt: "Scientists at Cambridge Quantum Computing (CQC) have developed methods and demonstrated that quantum machines can learn to infer hidden information from very general probabilistic reasoning models. These methods could improve a broad range of applications,"
-publishedDateTime: 2021-03-30T07:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257273"
-webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257273"
+excerpt: "The research team has been led by Dr. Marcello Benedetti with co-authors Brian Coyle, Dr. Michael Lubasch, and Dr. Matthias Rosenkranz, and is part of the Quantum Machine Learning division of CQC, headed by Dr. Mattia Fiorentini. The paper implements three ..."
+publishedDateTime: 2021-03-30T09:30:00Z
+originalUrl: "https://www.thaipr.net/en/it_en/3043198"
+webUrl: "https://www.thaipr.net/en/it_en/3043198"
 type: article
-quality: 45
-heat: 45
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-related:
-  - title: "Random sketch learning for deep neural networks in edge computing"
-    excerpt: "Developing lightweight deep neural networks, while essential for edge computing, still remains a challenge. Random sketch learning is a method that creates computationally efficient and compact networks,"
-    publishedDateTime: 2021-03-25T17:43:00Z
-    webUrl: "https://www.nature.com/articles/s43588-021-00039-6"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43588-021-00039-6/MediaObjects/43588_2021_39_Fig1_HTML.png"
-        width: 685
-        height: 331
-        isCached: true
+images:
+  - url: "https://www.thaipr.net/wp-content/uploads/2021/03/166715329_3724899657622657_3323166069350893085_o-453cb911-768x576.jpg"
+    width: 768
+    height: 576
+    isCached: true
 
-secured: "2qnhq/nV00BV4ec+X6j2ecIWG0O8kJVJc0YBXxV0n+SpRrlrDxF5TAKAmJF0GyYXbHTTkstHBSfONZFIuKuzoN+DSj048kRJARLTzpWOlM9Bk1HCQSV5d9RODsAxHuKieYKT+o17RBeMKWTqNt6WOUER6CEXz/06vxYutMQxFKjd3ozIOd4i8gwwLfpIvHiNH8vyjYSn9u4AqYNCA5qjaOekKUYjJCOwe+ELnZqJG93WIJeueoCt8ZiWMTRZ3XP2uogzz+OdhRr+82pNCqCCOaudOsVdvgrd9QkruBvt3aSI94p8yYPlwBjBtqLaSgVvph5/yK124m1bfO1vg6WrJK8xFhslcudHMdiy4FUYuYU=;BYQ8zdw3eArJl2GVsve0+A=="
+secured: "X4IA+V6Je3lSLqgN0o4aME+Rp7vblsdJK6G5PVJFhwt47E4gQQJHMQ7U2PaW9/T4KGacp7XCIBroIwsTmwSu2eC53I93aWxe9jdSd8abE6I3nfCJGZFXbb2zGRi8MiNvx9IUqhOl4VRjAIYNF7I5OIF+IPJVYMsCdPnuMRVQjoLkf1A9XmdWBvd1n504qhEpqF34oWSRheXza7awOysSGsbssILwTY3wATVho8rL9Ji5NM0KdKD1Yl2ww/Gd/8kC9Q/A/S4SQ6/qWrEO2pm36P23QzWf0mVOHoOJxqpCCLekKIpaQ1A/4ocx9EhuVB4W9CfmVc4RLm0urLtaMoiH6Lpi98fmse3dkvtieHuKPJE=;gQKDzOPQZiJ/2OtpG3CfWQ=="
 ---
 

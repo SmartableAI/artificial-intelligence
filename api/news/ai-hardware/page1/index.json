@@ -10,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/article/uk-chips-shortage-appliances-idUKKBN2BL0ZO",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -961,6 +961,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-16-new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips.md",
+      "title": "New Applied Materials tools use AI to catch mistakes on chips",
+      "excerpt": "\"at-above-post addthis_tool\" data-url=\" FRANCISCO (Reuters) – A new semiconductor manufacturing technology from Applied Materials uses artificial intelligence, or AI, to spot mistakes in chips more effectively,",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/new-applied-materials-tools/",
+      "originalUrl": "https://www.metro.us/new-applied-materials-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEH2F0VB-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/new-applied-materials-tools/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/new-applied-materials-tools/amp/",
+      "publishedDateTime": "2021-03-16T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-applied-materials-brings-ai-and-big-data-into-semiconductor-inspection-machines.md",
       "title": "Applied Materials brings AI and big data into semiconductor inspection machines",
       "excerpt": "Applied Materials has launched a new generation of optical semiconductor wafer inspection machines that incorporate AI.",
@@ -1078,49 +1121,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips.md",
-      "title": "New Applied Materials Tools Use AI to Catch Mistakes on Chips",
-      "excerpt": "A new semiconductor manufacturing technology from Applied Materials uses artificial intelligence, or AI, to spot mistakes in chips more effectively, the U.S. company said on Tuesday. Modern chip manufacturing happens in factories that cost upward of $18 billion each to build and requires hundreds of separate steps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-16/new-applied-materials-tools-use-ai-to-catch-mistakes-on-chips",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T00:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

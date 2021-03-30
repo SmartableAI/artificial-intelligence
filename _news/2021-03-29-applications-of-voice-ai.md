@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "A Nutrition Label for AI"
-    excerpt: "Now IBM is developing something called AI FactSheets, which it describes as a nutrition label for deep learning that explains how models work and that can also detect bias. AI FactSheets is a new addition to Watson Open Scale that will provide a plain ..."
-    publishedDateTime: 2021-03-25T23:26:00Z
-    webUrl: "https://www.datanami.com/2021/03/25/a-nutrition-label-for-ai/"
+  - title: "How Financial Organizations Can Use AI To Apply ESG Standards"
+    excerpt: "ESG practices and how well corporations act as global citizens do matter. They impact financial performance and profits as well as a company’s long-term value, both of which investors increasingly want to understand."
+    publishedDateTime: 2021-03-30T10:40:00Z
+    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/amp/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/Nutrition-Facts.png"
-        width: 366
-        height: 314
-        isCached: true
-  - title: "5 AI Tools For Modern Warfare"
-    excerpt: "Here, we list five AI tools used in modern warfare. AI-powered autonomous weapon systems are set to become force multipliers in future wars. The weapon system would have either decision making or aiding decision-making component to activate the launch."
-    publishedDateTime: 2021-03-29T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/5-ai-tools-for-modern-warfare/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 41
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Pink-and-Red-Motivation-and-Inspirational-Blog-Banner.png"
-        width: 1600
-        height: 900
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6061dfcc73ae82b839cbc023%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "ODkLE+I/jdMBsSeaer6myJgh6xoPRtji0YNPF/4tzBYA+fbZKz9aiaMvdwNv8RBEU+SaXBsksBac59yO8z4V6TZxEYRaTXv7uozN0Wb04H36tKETv6hfy1KaUsKLlAbUlnHMz5ZOgN7rsrvrEzOzxz1Z3/3c/ZfpCIv8nr869XKHE3PfYxp+xfWFUJC+Xlxpqf0ngeQg0/P+rIa0ehjRymvSJOqqLmCWnRn0KQ/2CfvzyQDc3vLDGeh3hGBCfqFNemYCJ1l8fGvROq/VA4eJvkXeER/05SfcTGxYG4/Rc1YO1hekyOgeO1CrPQC52ESRjEbXjrbBUit9Fux9hSq743J3bLDeRog2B8LAOSafcLawpTPjnAx6zdz4AImH1+Po9n2gBuz+iqD2EiUqSg3AzdBBvQtdLel6LoQrgjDPNr+J5e50sIHwpUmWC+3j0d4SZdiZ/FYxiB23ijnqXYMYYAf8+yasIg6p2UdTlCTVO5NuwX1Bzr9w4/9UgcLHuwYUQIs8eVvkRfBpDKQ/yUZ2HA==;JtvEqT5EvWHPTW3sVjOz/w=="

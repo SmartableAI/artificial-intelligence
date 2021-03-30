@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Didi Is Raising Money for Self-Driving Unit at $6 Billion Value"
-    excerpt: "Ride-hailing giant Didi Chuxing is raising new funds for its self-driving unit as China’s answer to ... production of driverless vehicles and invest in technologies like artificial intelligence chips, people said. Plans for the latest fundraising could ..."
-    publishedDateTime: 2021-03-29T10:05:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if8sWN57UZdA/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
     excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google,"
     publishedDateTime: 2021-03-29T09:47:00Z
@@ -108,6 +94,20 @@ related:
       - url: "https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/pexels-taras-makarenko-593172.jpg"
         width: 5760
         height: 2469
+        isCached: true
+  - title: "Vietnam’s first self-driving car debuts"
+    excerpt: "The vehicle is equipped with some 40 self-driving features of level four as per the standards of the Society of Automobile Engineers (SAE International), in which level five is the highest. It is advertised as an eco-friendly automobile with artificial intelligence (AI) integration as well as smart functions such as 2D/3D maps,"
+    publishedDateTime: 2021-03-30T09:53:00Z
+    webUrl: "https://tuoitrenews.vn/news/society/20210330/vietnams-first-selfdriving-car-debuts/60063.html"
+    type: article
+    provider:
+      name: Tuoi Tre news
+      domain: tuoitrenews.vn
+    quality: 24
+    images:
+      - url: "https://secure3.vncdn.vn/ttnew/r/2021/03/30/car-1-1617098081.jpeg"
+        width: 620
+        height: 423
         isCached: true
 
 secured: "OOGaSNggE7oQd1aSXYCpiiQcKvemmptwfMy/c+IOnBCe/DtYElQvkxbdebYLrt3knQT1UA3Kp/1tkvbtCcUCs9GGFg13i8t+2vNYhfPkWnCiY9PBly4QiuyR7Rx4VitZGU594Zr9PJUN3VwKd009Kq4TDE1WijT8cEReHiPFgOjs9Sw6IlfcjRLIuqZOlWEwBTnEjWqiawmxftfVdrSqznFrDjQIGVz2jtm7TdxA+Hh0vW9P5w69PhSorCQ8CZvNMoUzq47ZhqxD9WJWPUwVjTkjU/hi4c7aRaoYNUfzQ9FBbVNux3bmVmRwPznrKO35Yt7+M79Eax0sqZwnf21fs7OtnMuyiQokF2IKtc7kMXU=;5UK15hvSuYTWkZHgxFqEZA=="

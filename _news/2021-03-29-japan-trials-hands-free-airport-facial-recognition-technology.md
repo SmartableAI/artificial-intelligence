@@ -7,8 +7,8 @@ originalUrl: "https://www.dfnionline.com/latest-news/japan-trials-hands-free-air
 webUrl: "https://www.dfnionline.com/latest-news/japan-trials-hands-free-airport-facial-recognition-technology-29-03-2021/"
 type: article
 quality: 54
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: DFNI online
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Japan: Facial recognition system allowing smooth boarding to start July at Narita, Haneda airports"
+    excerpt: "Check-in procedures using facial recognition technology are set to start in July at two major airports in Japan, allowing passengers to pass through security to their boarding gate without showing their passports or plane tickets. Asia Narita airport Under ..."
+    publishedDateTime: 2021-03-30T11:03:00Z
+    webUrl: "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports/"
+    ampWebUrl: "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp"
+    cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp"
+    type: article
+    provider:
+      name: poandpo.com
+      domain: poandpo.com
+    quality: 60
+    images:
+      - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0321/narita_airport.jpg"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "Japanese airports to trial facial recognition technology for passenger boarding"
     excerpt: "a new facial recognition technology for boarding procedures, at Narita International and Tokyo International airports. From April 13, passengers will be able register their facial image in Face Express and then access and proceed through subsequent ..."
     publishedDateTime: 2021-03-29T09:42:00Z
@@ -64,15 +80,6 @@ related:
         width: 768
         height: 403
         isCached: true
-  - title: "Japan Airlines to trial facial recognition technology at Tokyo airports"
-    excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."
-    publishedDateTime: 2021-03-25T23:29:00Z
-    webUrl: "https://centreforaviation.com/news/japan-airlines-to-trial-facial-recognition-technology-at-tokyo-airports-1059959"
-    type: article
-    provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 34
 
 secured: "Z1HWfpQs2fTTXhe48o13zHIP+SZ3LCEMEb/TnzUH3AG12DgBrw+S6ILhr83xCXAMb13vOdRbwE3Qtaz+IJAyndy/6V2DqzMwAri9qeA88lP/LRLgudkyxWZINLK2P3korTqWOoay5NmiJUoPylyI+Lf8f/pEVXNQRYkw12xM3+cuNHVsnzFW+SPb/0GkKKtkgGiVRfdxeBSeacF/73HvgY9FO2KShGUpNE6wEEv/gOPhex4sZcNnW9PCMqKcKDNBV0SMgBE9MMyF6LMRVMaDp6lk1lPG/lUx/U7DysNmYTrFSdT1o75NLLTggVh3EfVxYtur1vCGRLb/M7Sl+mgdk/tle+oznEp9vzVe1wd9WvrONwoh1eAuL2hfZ/MbezoOoe3VoAeeddC998zeoLDQBdKUqR8sGQcQnZIFOxUW7X7T+hCK1hn1ZIPGmyggyw8/CplCmuHCXM59a8cn8cJ7JNNqrrJNoGnO/OTitGJiVoDQQjOp1cPsrO1lEzGzbBAcN18I6Wciflk3HzD+p/i6WQ==;AVchvmE4az6umL/fnxHPEg=="
 ---

@@ -1,23 +1,28 @@
 ---
 category: news
 title: "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards"
-excerpt: "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category from The Business Intelligence Group for the company's collective performance developing highly-integrated artificial intelligence (AI)-powered computing platforms."
-publishedDateTime: 2021-03-29T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20384827"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20384827"
+excerpt: "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category from The Business Intelligence Group for the company's collective performance developing highly-integrated artificial intelligence (AI)-powered"
+publishedDateTime: 2021-03-29T15:21:00Z
+originalUrl: "https://www.lelezard.com/en/news-19721971.html"
+webUrl: "https://www.lelezard.com/en/news-19721971.html"
 type: article
-quality: 52
-heat: 132
+quality: 54
+heat: 134
 published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Payrailz Named a Winner in the 2021 Artificial Intelligence Excellence Awards"
@@ -133,6 +138,6 @@ related:
         height: 480
         isCached: true
 
-secured: "aHW43vgU2RvG6LSpJbNTAZbTycR4AoIKAq8qTzqhrSGXQtC3Y4YLzvH+G58eyxPYb/6Iwlkf2kk4DskRmo2X4kkupfi/9rj9lmEofgXKAOaqu5pS/iDFeihRcW1HUBMwvgKZD++kVOwRwiig/y13+p7ScdeQxf7AT1Mx8/JTJTyPTpDVjmxvsiSoehEH/nxlw1dxCm+hokxaQqUB4OnHtifXOWKIlDrWDCSElZa+LQJvzbiIUH34r4SCZEirSDTlKwlVOVkvNZsKeRcNiOb4+ISAG33n7TubigCMIMrOXdrqPvCW7NruRa//kFVT6t593SaM+dD3M0iZvQi2/VY3wX2Zk5Fv0OUyo49zqKQAw0A=;xSfWN8AqTsNd7YuFcDc3Yg=="
+secured: "bH6cqmlwYZmUo6y7Lg6a+vVCo+J4WPJOSBTPVSLN/gzwrJ39ycOrjpz4O9ilW5GYlboIieErCVztE+97uCuJ7jtm93tNGvIfwl4o3I4luZbxTSIHCw0j0hD5rO9sEKODbktTHQGdxI0g1a6Qs4+44NDvz0arzfoPpNqR7lh8Xi6LMiuG5DHZ8Js1X6e2+xtmkadX0M7piHwIrGVkWvGgr0YybJqudvFDHvQZCWWbXJSsY+xfAm79wxooLQb1VJqMwSMzzxRmkK7L0KbNPhFqnz903e/XeBLOiYK7aTJs4BjVMJWEqRWCRKdTsMXCRNWxCo2MSWBfkojj9hQ13ljKtVTrn8q66kjNyBgqxBbuXtc=;r1b9489vCOFdm3w5ndmFcA=="
 ---
 

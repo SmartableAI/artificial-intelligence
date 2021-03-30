@@ -622,6 +622,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-20-the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust.md",
+      "title": "The success of speech recognition in commercial applications comes down to trust",
+      "excerpt": "Joel Chimoindes, VP Europe at distributor Maverick AV Solutions, speaks to Tim Kridel about the opportunities for speech recognition in pro AV applications. TK: What’s driving interest in and adoption of speech recognition for pro AV applications?",
+      "sourceUrl": null,
+      "webUrl": "https://www.inavateonthenet.net/features/article/the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust",
+      "originalUrl": "https://www.inavateonthenet.net/features/article/the-success-of-speech-recognition-in-commercial-applications-comes-down-to-trust",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1617103150/widgetdocs/Joel_C_Maverick_cubik0.jpg",
+          "width": 750,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InAVate",
+        "domain": "inavateonthenet.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-20-does-it-keep-covid-19-out-of-buildings-or-is-it-really-a-facial-recognition-tool.md",
       "title": "Does it keep COVID-19 out of buildings? Or is it really a facial recognition tool?",
       "excerpt": "Tech companies are already preparing automated safety barriers aimed to keep COVID-19 out of buildings. Some, though, may have worrisome aspects. And I'm not just talking about the foot bath.",
@@ -1414,50 +1457,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-clearview-ai-sued-in-california-over-most-dangerous-facial-recognition-database.md",
-      "title": "Clearview AI sued in California over ‘most dangerous’ facial recognition database",
-      "excerpt": "Separately, the Chicago Police Department stopped using the New York company’s software last year after Clearview AI was sued in Cook County by the ACLU.",
-      "sourceUrl": null,
-      "webUrl": "https://chicago.suntimes.com/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
-      "originalUrl": "https://chicago.suntimes.com/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/92JhUnKXq9qB0Ohx-q6NMtIoH8c=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68949763/large.0.jpg",
-          "width": 768,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
-      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties",
-      "publishedDateTime": "2021-03-11T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Sun-Times",
-        "domain": "suntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

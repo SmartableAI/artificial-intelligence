@@ -41,6 +41,20 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "Global Chip shortage affects microwave and other home appliances production"
+    excerpt: "According to a NDTV report, the shortage of chip supply has been straining the existing stockpiles for consumer electronics manufacturers, with home appliance makers being one of them. As per Jason Ai, President of Whirlpool Corp in China, the company ..."
+    publishedDateTime: 2021-03-30T10:57:00Z
+    webUrl: "https://www.gizmochina.com/2021/03/30/chip-shortage-microwave-home-appliances-production/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 67
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2018/05/ocooker-microwave-oven-2.jpg"
+        width: 600
+        height: 402
+        isCached: true
   - title: "Now, production of fridges, microwaves hit due to global chip shortage"
     excerpt: "A global shortage of chips that has rattled production lines at car companies ... by as much as 25% on some months, Jason Ai told Reuters in Shanghai. \"It's a perfect storm,\" he said on the sidelines of the Appliance and World Electronics Expo."
     publishedDateTime: 2021-03-30T03:38:00Z

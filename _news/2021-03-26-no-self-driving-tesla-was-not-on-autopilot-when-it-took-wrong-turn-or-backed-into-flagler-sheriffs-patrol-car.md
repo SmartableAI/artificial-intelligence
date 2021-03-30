@@ -121,22 +121,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Self-driving Tesla crashes into Florida deputy’s cruiser; underage teen cited"
-    excerpt: "Two teens say they were not driving a Tesla in the wrong direction in Flagler County because it was on autopilot."
-    publishedDateTime: 2021-03-25T17:07:00Z
-    webUrl: "https://www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/"
-    ampWebUrl: "https://www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2021/03/25/self-driving-tesla-crashes-into-florida-deputys-cruiser-underage-teen-cited/?outputType=amp"
-    type: article
-    provider:
-      name: Click Orlando
-      domain: clickorlando.com
-    quality: 56
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/2CBNPQGD4NAERJKYEET4FITK7E.PNG"
-        width: 945
-        height: 531
-        isCached: true
 
 secured: "CYxY/WXvbXLX9P/FdqQz8QUdl45IQKS+YQrkB5v3hkH0cQjbuDT8IkqjMw+EpjWeKcMax+C2WWanokgd8VnwPND3cisHnOgLj9x6txnpKBfUz+STx11lLQLdQH6QQTfHdntIIGtRPiXkUYyE9E+hUGQ/MXpLqzbzbvxFJAM44nGQWzdUH8A1w8atUYqQUn8Z/CNVLeBcfxQZ+R91NKaRE/tKJL18qoz+W8SsMxf46jmQqHlPGEAkubuU9M9XNVd6pdFGN/L+Cp5kKtf9KSB3O9AykZou50yV8sutwdHQRHst6sOHEiWLNFjoFdhfNYNdbXHc6opwj/8GB1XqhKtjtUQgP+7LymSG6gnqZWYaUQfotBdRT2EKQ5KcsMIWzKwUTJq9jvttselxnGp1AIP4yEOWgPeJK93V3CWhON/dZFLXterkyNFlPuFtRnapaNCOdsw0b0L7ED3lj9ICFtCYDmzPJ9CZ6yMrWrj7BfZBH2W8uGa0fleBHJVDkFkYAfg7cXeLcT9btJe9nbXZkJjdfg==;z6PSuZb5CuPyjQ1Eu8r4EA=="
 ---

@@ -40,20 +40,6 @@ related:
         width: 366
         height: 314
         isCached: true
-  - title: "Applications of Voice AI"
-    excerpt: "Applications of Voice AI By cio review - Companies in various sectors are adopting voice AI to improve productivity, accuracy, and communication with"
-    publishedDateTime: 2021-03-29T03:57:00Z
-    webUrl: "https://www.cioreview.com/news/applications-of-voice-ai-nid-33241-cid-200.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/newsimages/705x485_5za1l0Os.jpg"
-        width: 705
-        height: 485
-        isCached: true
 
 secured: "kGdC9BfHOXuxthURUxZyuBykmqecgaUjp30MW0CPRgws7qbtP9956Ok27uuZttvCinZ9OCVk3uRVJMgBx3HKNFHjtz3MsmeD9jOsBaLSjDFOfYGy1OS1/YYJ5nIcsurG+44F5er+Wjwtxou/7H9a3I6SPUY6aQuwvpI/+vv5hJN8PGhi7jejFnWb/12rqP5wFcQCWxJ5LnqVC5Beeok0MUvPa9kvZqkPMinUSzZ0K0N7s+JahM9fnEi0bpXQ9ZC4dVr/sCn8XHRbU7kd0i3k3tfUQ5UrdcGurxX5AYQ4X9ruMU0xpoSz+kSyMfhGSeMv5qfisRGn9jE2q2PVfkOsLkaNi+gumVh3KpBELrRW6qKpR0a17emi2IkT5rGN7ECgPFqeR6Oe8YXNlSdMU88xMhcOAj1U08YthtXBk6H6JEHRg0iL0Q3HAFTQ9ft8L/oOERLc3VVBHkI3GeuqxXXTd5jePob0SuaFnC/RTCYAa0IFE6AJvniVhZ0yUgiJTIzG0ctYFsj3uWoVgVaurjtCcA==;ihCugOuKJvc/piXQwslISg=="
 ---

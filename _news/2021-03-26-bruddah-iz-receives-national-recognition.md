@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Bruddah Iz receives national recognition"
+    excerpt: "Driven primarily by Iz’s angelic voice and ukulele playing, the song is melancholic and joyous at once,” the registry states. “Taken from Iz’s album ‘Facing Future’ — the first Hawaiian album ever certified platinum — this single was an ..."
+    publishedDateTime: 2021-03-30T10:05:00Z
+    webUrl: "https://www.hawaiitribune-herald.com/2021/03/30/features/bruddah-iz-receives-national-recognition/"
+    ampWebUrl: "https://www.hawaiitribune-herald.com/2021/03/30/features/bruddah-iz-receives-national-recognition/amp/"
+    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2021/03/30/features/bruddah-iz-receives-national-recognition/amp/"
+    type: article
+    provider:
+      name: Hawaii Tribune-Herald
+      domain: hawaiitribune-herald.com
+    quality: 44
+    images:
+      - url: "https://www.hawaiitribune-herald.com/wp-content/uploads/2021/03/web1_IZ-Surfboard_1200px-1-.jpg"
+        width: 760
+        height: 760
+        isCached: true
   - title: "Danville Utilities receives national recognition"
     excerpt: "Danville Utilities has earned a “Platinum” level designation as a Reliable Public Power Provider (RP3) from the American Public Power Association for providing customers with reliable and safe electric service."
     publishedDateTime: 2021-03-26T15:46:00Z

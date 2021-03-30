@@ -2,6 +2,195 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-25-the-latest-artist-selling-nfts-its-a-robot.md",
+      "title": "The Latest Artist Selling NFTs? It’s a Robot.",
+      "excerpt": "An artwork that sold for nearly $700,000 was the latest in the frenzied market for digital art — and possibly the first created in part by a non-human.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/25/arts/sophia-robot-nft.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/25/arts/sophia-robot-nft.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/25/world/25xp-robot/25xp-robot-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/25/arts/sophia-robot-nft.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/25/arts/sophia-robot-nft.amp.html",
+      "publishedDateTime": "2021-03-25T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-former-google-ceo-gives-150m-for-research-in-biology-ai.md",
+      "title": "Former Google CEO gives $150M for research in biology, AI",
+      "excerpt": "(AP Photo/Susan Walsh) Former Google CEO Eric Schmidt and his wife, Wendy, have given $150 million to a research institute to establish ... WASHINGTON (AP) — The CEOs of social media giants Facebook, Twitter and Google face a new grilling by Congress ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/",
+      "originalUrl": "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/03/8adcfd4080564d8c8922b92c2e69196e.jpg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/",
+      "cdnAmpWebUrl": "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/",
+      "publishedDateTime": "2021-03-25T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Everything Lubbock",
+        "domain": "everythinglubbock.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-sf-express-selects-self-driving-truck-company-plus-for-chinas-first-commercial-freight-pilot-using-supervised-autonomous-trucks.md",
+      "title": "SF Express Selects Self-Driving Truck Company Plus for China’s First Commercial Freight Pilot Using Supervised Autonomous Trucks",
+      "excerpt": "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that SF Express has selected the company for China’s first commercial freight pilot to demonstrate how supervised autonomous trucks improve logistics operations.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9",
+      "originalUrl": "https://apnews.com/article/business-technology-driverless-cars-transportation-technology-asia-4ffac4c214cd48bba941290b205700b9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-ibm-openpages-launches-a-smarter-way-to-manage-private-data.md",
+      "title": "IBM OpenPages launches a smarter way to manage private data",
+      "excerpt": "Your organization needs to collect and crunch mountains of user data in order to evolve. But that can’t come at the expense of user privacy. As your data estate grows in size and complexity, the potential privacy risks grow with it. Outside pressure grows too, as governments expand regulations and individuals",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-openpages-data-privacy-management/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/ibm-openpages-data-privacy-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/03/ACDC-60_DataPages_Breaking_Silos_Leadspace_v2.png",
+          "width": 2000,
+          "height": 1006,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T06:00:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines.md",
       "title": "IBM Positioned as a Leader in 2021 Gartner Magic Quadrant for Insight Engines",
       "excerpt": "IBM Watson Discovery, an AI-powered search and text-analytics service, uses advanced natural language processing (NLP) to help companies find new insights from complex enterprise documents and data.",
@@ -1014,187 +1203,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-ai-can-drive-the-next-generation-of-healthcare-innovation.md",
-      "title": "AI Can Drive the Next Generation of Healthcare Innovation",
-      "excerpt": "The index uses a quantitative model designed to identify equity securities in the Nasdaq US Benchmark Index (including growth and value stock) that are small and medium capitalization U.S. healthcare companies. Artificial intelligence (AI) is seen driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-can-drive-the-next-generation-of-healthcare-innovation-2021-03-24?amp",
-      "publishedDateTime": "2021-03-24T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-intel-will-build-x86-chips-for-other-companies.md",
-      "title": "Intel will build x86 chips for other companies",
-      "excerpt": "Intel said it plans to make available its x86 processor cores, graphics, and AI technology for licensing via its new foundry business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.html",
-      "originalUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/03/bunny_with_wafer-100881923-large.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3612929/intel-will-build-x86-chips-for-other-companies.amp.html",
-      "publishedDateTime": "2021-03-24T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-artificial-intelligence-ai-robots-market-is-set-to-develop-new-growth-story-abb-fanuc-kuka-amazon.md",
-      "title": "Artificial Intelligence (AI) Robots Market is Set to Develop New Growth Story | ABB, Fanuc, Kuka, Amazon",
-      "excerpt": "The latest research on Global Artificial Intelligence AI Robots Report 2021 offered by HTF MI provides a comprehensive investigation into the geographical landscape industry size along with the revenue estimation of the business Additionally the report also highlights the challenges",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "originalUrl": "https://www.openpr.com/news/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U324252805_g.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2261264/artificial-intelligence-ai-robots-market-is-set-to-develop-new",
-      "publishedDateTime": "2021-03-24T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people.md",
-      "title": "Cutting Edge Intel AI-Powered Backpack Could Replace A Guide Dog For Blind People",
-      "excerpt": "An innovative AI-powered wearable camera system holds promise in revolutionizing independent mobility for visually impaired people. Deploying state-of-the-art Intel processors and hardware to provide real-time spatial recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b2d6c972feef9ce1e1a00%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/03/24/cutting-edge-intel-ai-powered-backpack-could-replace-a-guide-dog-for-blind-people/amp/",
-      "publishedDateTime": "2021-03-24T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
