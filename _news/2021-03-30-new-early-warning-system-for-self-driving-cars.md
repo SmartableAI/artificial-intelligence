@@ -1,27 +1,29 @@
 ---
 category: news
 title: "New early warning system for self-driving cars"
-excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial"
-publishedDateTime: 2021-03-30T08:20:00Z
-originalUrl: "https://www.miragenews.com/new-early-warning-system-for-self-driving-cars-536911/"
-webUrl: "https://www.miragenews.com/new-early-warning-system-for-self-driving-cars-536911/"
+excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial intelligence to learn from thousands of real traffic situations."
+publishedDateTime: 2021-03-30T14:41:00Z
+originalUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.html"
+webUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.html"
+ampWebUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-early-self-driving-cars.amp"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/pexels-taras-makarenko-593172.jpg"
-    width: 5760
-    height: 2469
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/newearlywarn.jpg"
+    width: 1280
+    height: 540
     isCached: true
 
 related:
@@ -127,6 +129,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "ZIX0KjOFyQNijrSf5Zd/0bS7++bfcOZWvQvGrhUWdpzukBTCL1cZvEaaoN36rQ5gN9KfKVOLxNrxEOpVU6/22Lkbj59L7MXHI7+Ygu+ULC9TNsrZKcZ5f5a0lFUuUEOiuZxuxfsXwXiuGY8MxBx0FDwKbnqZwxPClZBfviedzCARtEjGRSg9mQCuI8EUXrw5sLqdfZnzRbjbILJzqZcnskYBZgbAihrv/FfPOPt1YkKDYHDh+75xbIDVc3x8/JWtL9DDNAWIXO55CV5D1JdT9en+WZ6bgLHadQEpar29OGLhlWDUMdChVRI61b7MtLxatcFKuqxzl3gtYS5nxKyHQUAZQGnoqVqAhbSDbALX3s8=;N2q3yNI1KGHGgFwBUmGJlw=="
+secured: "p0jrQnegNBOS7kwzk5sXCpzatetjChnCLUs1hdQEeyIlUWw4ZVwhPOCe7fRI4wGhFOg+1rIhHADuU34/bjrc3a32AXSzM7cBrFHv6dgFplVITjPcedUtxqoJiI/UjAuqyOufOgWRpzNtYqNwrFEoLk8AW22V8Z+9jK83/iH3Yw5Ign1lnSyIndpKJ8bsZeWdLo4+OFv+QABbxuM65Ymog2O0GE4il9O2dwrw98BxHcAGzSMGvQcqDMzrmLILwP2IYrdH50KlV4oaC+oIAiJIta+BGwg4QIjFl/ETok/9MxPOo+HDRe6arpJa/OjZFaCH3WXmkHzYXtETnfSGegS04BxIrX0WF/hBS/N++UG5y3Q=;3PUNlQcIsvwO49Mo7ZMw5w=="
 ---
 

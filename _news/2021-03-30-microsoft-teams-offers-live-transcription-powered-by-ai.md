@@ -9,8 +9,8 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: IOL News
@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "Azure Percept Is Microsoft’s Long-Awaited Answer to Advancing Robotics and Edge AI"
-    excerpt: "Microsoft announced Azure Percept, an end-to-end edge Artificial Intelligence (AI) platform that includes hardware accelerators integrated with Azure AI and Internet of Things (IoT) services. Azure Percept is able to run deep learning-based machine vision workloads at the edge without connection to the cloud."
-    publishedDateTime: 2021-03-25T21:27:00Z
-    webUrl: "https://www.abiresearch.com/market-research/product/7779227-azure-percept-is-microsofts-long-awaited-a/"
+  - title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service"
+    publishedDateTime: 2021-03-29T02:51:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
     type: article
     provider:
-      name: ABI Research
-      domain: abiresearch.com
-    quality: 75
+      name: Deep
+      domain: thefastmode.com
+    quality: 69
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113"
+        width: 752
+        height: 408
+        isCached: true
   - title: "How Microsoft Azure is Powering Digital Transformation From the Cloud"
     excerpt: "Here’s an overview of its journey so far, and how it’s working to boost Microsoft Azure. In FY 2014 (July-June), Microsoft reported that its commercial cloud revenue hit a $4.4 billion annual run-rate."
     publishedDateTime: 2021-03-26T19:25:00Z
@@ -45,20 +50,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
-  - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
-    excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
-    publishedDateTime: 2021-03-26T11:47:00Z
-    webUrl: "https://www.lelezard.com/en/news-19718217.html"
+  - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Infobip’s infrastructure on Azure includes omnichannel support through its Contact Center solution ‘Conversations’, the automated customer engagement engine ‘Moments’ and AI powered chatbot building function ‘Answers’ that all sit on top of ..."
+    publishedDateTime: 2021-03-29T02:59:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-infobips-communications-paas-now-available-on-microsoft-azure/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 61
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 47
 
 secured: "RdsJUah/kgC/gDPIA/YjiYHi7qonO+mMVGtG1vB0GzYoNNoqmi7Yrs+NWJmOlsOVbnRweiy6sHKfU1WKImi/0iuhwfde18G2kzVcxQ/Ur7NYsIf2ADBgSdx2rocVNDSNW77xOu/3W42bf2AMHeiH2py4h5KZVYSm1eItaqw1QSvd8JwlxbTz5WSCvjnkReZUlgT4x7uVhKedcfxTBdAFlFDu5uZ7UXyFePUUkSP1bXOJtop2BZbdAY24mEAsQwgMjm4LjooKQ2hJkcEBNPkkmfLVDw5xsGZrpa0UC870BQY3t6cmY4frgCFCMmlHKq4cDPPoUfHtXm05JzKJbS3SuRGypkgCEl6kc9MUSueHxWc=;MEOI8n2ENSD0Rh2/ditMOQ=="
 ---

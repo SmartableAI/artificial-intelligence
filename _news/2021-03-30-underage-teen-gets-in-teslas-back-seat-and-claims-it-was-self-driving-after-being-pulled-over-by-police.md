@@ -91,21 +91,21 @@ related:
         width: 1024
         height: 632
         isCached: true
-  - title: "Self-driving Tesla smashes into police car as teen blames ‘autopilot’"
-    excerpt: "Two teenagers blamed the “autopilot” function of the Tesla they were in when it crashed into a police car. But police in Florida’s Palm Coast say there’s more to the story. The crash took place last week after police pulled over the 2018 Tesla ..."
-    publishedDateTime: 2021-03-25T22:27:00Z
-    webUrl: "https://7news.com.au/travel/driving/self-driving-tesla-smashes-into-police-car-as-teen-blames-autopilot-c-2441165"
-    ampWebUrl: "https://7news.com.au/travel/driving/self-driving-tesla-smashes-into-police-car-as-teen-blames-autopilot-c-2441165.amp"
-    cdnAmpWebUrl: "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/travel/driving/self-driving-tesla-smashes-into-police-car-as-teen-blames-autopilot-c-2441165.amp"
+  - title: "Tesla’s Full Self-Driving Scam; Are EVs Really Better?"
+    excerpt: "Whitney Tilson's email to investors discussing if electric cars really better for the environment; Tesla's full self-driving scam revisited.\""
+    publishedDateTime: 2021-03-30T14:52:00Z
+    webUrl: "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better/"
+    ampWebUrl: "https://www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp"
+    cdnAmpWebUrl: "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/teslas-full-self-driving-scam-are-evs-really-better?amp"
     type: article
     provider:
-      name: 7news
-      domain: 7news.com.au
+      name: ValueWalk
+      domain: valuewalk.com
     quality: 59
     images:
-      - url: "https://images.s.7news.com.au/publication/C-2441165/7c3306b2a546f9d44761167ae47d47936d6cb3fd-16x9-x0y54w1024h576.jpg?imwidth=1024"
-        width: 1024
-        height: 576
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "5DlODU4Y4oqajYfznK9wJ/xeUuflPozcDnQOm1EpmTVrJDlJ18bw65U710kurKbL8aLbZtp0z+mpyE2vD+H2wCHs2e3Eyt1FXqtW03uLeODCH1JLMp+piT8eS9q8HGEQKQ+zfn/HqZ+IZWU+BgGxXujGjBSO+j8kM4VYsPG0/b0DwHvsghYW9UmFvxrD3/3/9nZHbDOilzlHYQh4B+FhrhfrCVLXvekJSdrE5xYRm+ENv+6ifZsgC4k8cdBg81PeRQK3Zh2flShLVge6pH4y9CiFi1W+h2fqur0qc/XSZX8P1rBJr2jtgmhAv6rC2aVm9KaERm8rzzclexNcqeMR1svp0wwWmnuCxO+lj9NXmlKdr3YBoPRdi5za1DcrU2RF549IWZXFTK2vEcdSzKw74673JeDwuZ4Dp4uxKZItQPo7Pa/rTA+nVPBybyqe5lsIVjJFhKlAtuhRt0edyZ4kwK4qse8ixp+DcxU1OvEKbhxdHjEhrMrhc3bB3TUMTxfZbk/nJMSBcaJNvo6eolG1+A==;Yeht13bLhDjUHWYsFjTdLg=="

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New early warning system for self-driving cars"
+    excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial intelligence to learn from thousands of real traffic situations."
+    publishedDateTime: 2021-03-30T14:41:00Z
+    webUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-early-self-driving-cars.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/newearlywarn.jpg"
+        width: 1280
+        height: 540
+        isCached: true
   - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
     excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google,"
     publishedDateTime: 2021-03-29T09:47:00Z
@@ -88,20 +104,6 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
         width: 980
         height: 512
-        isCached: true
-  - title: "New early warning system for self-driving cars"
-    excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial"
-    publishedDateTime: 2021-03-30T08:20:00Z
-    webUrl: "https://www.miragenews.com/new-early-warning-system-for-self-driving-cars-536911/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/pexels-taras-makarenko-593172.jpg"
-        width: 5760
-        height: 2469
         isCached: true
   - title: "Vietnam’s first self-driving car debuts"
     excerpt: "The vehicle is equipped with some 40 self-driving features of level four as per the standards of the Society of Automobile Engineers (SAE International), in which level five is the highest. It is advertised as an eco-friendly automobile with artificial intelligence (AI) integration as well as smart functions such as 2D/3D maps,"

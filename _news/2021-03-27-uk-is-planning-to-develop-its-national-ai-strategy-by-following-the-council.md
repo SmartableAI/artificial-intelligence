@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the hype around artificial intelligence"
-    excerpt: "Video Module Navigating the hype around artificial intelligence. Posted . Investing in Artificial Intelligence is very much on-trend, with one recent report predicting deep learni"
-    publishedDateTime: 2021-03-25T21:13:00Z
-    webUrl: "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210325&i=RCV009JNH&r=RCV009JNH&t=2"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Natural Language Processing Named a Foundational AI Technology, According to the 2021 AI in ..."
     excerpt: "To learn more about Spark NLP for Healthcare, or to start your free trial, visit: https://www.johnsnowlabs.com/spark-nlp-health/. About John Snow Labs John Snow Labs, the AI and NLP for healthcare company, provides state-of-the-art software, models ..."
     publishedDateTime: 2021-03-29T16:02:00Z

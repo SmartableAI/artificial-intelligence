@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New early warning system for self-driving cars"
+    excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial intelligence to learn from thousands of real traffic situations."
+    publishedDateTime: 2021-03-30T14:41:00Z
+    webUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.html"
+    ampWebUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-early-self-driving-cars.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/newearlywarn.jpg"
+        width: 1280
+        height: 540
+        isCached: true
   - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
     excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google,"
     publishedDateTime: 2021-03-29T09:47:00Z
@@ -102,20 +118,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F4%252F8%252F0%252F33200840-4-eng-GB%252FCropped-1616582037%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25200003-03-24%252019.22.13%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2592%25E3%2582%259A%25E3%2583%25BC.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
-        isCached: true
-  - title: "New early warning system for self-driving cars"
-    excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial"
-    publishedDateTime: 2021-03-30T08:20:00Z
-    webUrl: "https://www.miragenews.com/new-early-warning-system-for-self-driving-cars-536911/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/pexels-taras-makarenko-593172.jpg"
-        width: 5760
-        height: 2469
         isCached: true
   - title: "Video: Woven Capital invests in self-driving startup Nuro"
     excerpt: "Woven Capital, L.P., an investment wing of Toyota, has made its first investment into Nuro Inc., a self-driving shuttle startup. Previously, Nuro raised $500 million in funding to expand its autonomous goods delivery service using self-driving shuttles that include no seats or cockpit for drivers."

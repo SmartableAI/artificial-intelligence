@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-busines
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-science-health-care-industry-pharmaceutical-manufacturing-e2be31ddac1608a9bf702370f9e201fd"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating the hype around artificial intelligence"
-    excerpt: "Video Module Navigating the hype around artificial intelligence. Posted . Investing in Artificial Intelligence is very much on-trend, with one recent report predicting deep learni"
-    publishedDateTime: 2021-03-25T21:13:00Z
-    webUrl: "https://www.reuters.com/video/watch/navigating-the-hype-around-artificial-in-idRCV009JNH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210325&i=RCV009JNH&r=RCV009JNH&t=2"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UK is planning to develop its National AI Strategy by following the Council"
     excerpt: "The UK’s National AI Strategy capitalizes on the power of AI to boost the economy. They recently announced the commitment towards transforming the strategy by including the advice from the AI Council."
     publishedDateTime: 2021-03-26T17:34:00Z

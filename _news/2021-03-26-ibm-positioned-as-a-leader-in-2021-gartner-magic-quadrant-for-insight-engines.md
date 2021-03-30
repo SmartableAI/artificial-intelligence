@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ibm-positioned-as-a-lead
 webUrl: "https://www.marketwatch.com/press-release/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-2021-03-25"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Veritas™ Receives One of the Highest Ratings in 2021 Gartner Peer Insights ‘Voice of the Customer’ for Enterprise Information Archiving"
+    excerpt: "Veritas Technologies, a global leader in data protection, availability and insights, today announced the company is being named a 2021 Gartner Peer Insights Customers’ Choice in Enterprise Information Archiving."
+    publishedDateTime: 2021-03-30T14:55:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-computing-and-information-technology-communication-technology-db4be8585cbf475491a3d4383235eba4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "UQ4Wsdgmfgx7IEcMq03yBoBRJ1tnNqtHQi4LANcs9U9ZiVaNoUsEb+I1k4y9W7chPQUtdTyFrxWdu095VWOfeEXYhi4t0gM0pq5GCfaLJdA/yYGWIsEqWbXs+6Z7IaqmnZbnff6rN2UF84You8ap8+7do+vB1dRgX2XHYSoj6mbM9BJ2SmM+5n+WfQG7/JOMtS1mPtyIQvwwDUgAoKKtlQft8wFli+NSwqnp6WZj2Xi28sjroKGRdk3D9RvDe9CLQCIxI7Vd1NHaSBg4xray9CpQoQiKPMQCISPEYdGdoXt0PPHrCHhykwXzJXhv8MR1E6J/uRIUskKxP02DzK8A2tY8FOXXkhnt1xiRY+Z0lwE=;af29h7SFUUEM8Glizh4svg=="
 ---

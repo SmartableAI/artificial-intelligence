@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/hospitality-sector-relying-artificial-intell
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/hospitality-sector-relying-artificial-intelligence-machine-learning-profit-maximization/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Dataquest
@@ -40,6 +40,20 @@ related:
       - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/137274-2021_04_Feature_CustAcquis-ORG.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "How AI is revolutionizing online gaming"
+    excerpt: "From software that can improve the performance of a cricket player to artificial intelligence coaching technology, it looks like the AI revolution is only just getting started. Artificial intelligence isn’t just a piece of science fiction anymore."
+    publishedDateTime: 2021-03-30T14:32:00Z
+    webUrl: "https://knowtechie.com/how-ai-is-revolutionizing-online-gaming/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 37
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/10/redmagic-5s-gaming-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "Wxl9JPx4dJc3F8TrdGuYz2b5vuunP63JoDEX+eR6a/2MN9aMVAV/MdEkpImQkXChxpyxMUgbGKB6tW68+XBT423LWO4AHhY9zBJyYGElgPtOustCY8JGkZmE4Xp+CHFr74/vdPVN1dYgfCuNJCZPa60y0oZY1U6wwrDcr59Qx1R375EFFt+A7zMsp9oThx9uDl2wS5rOrEXxLbsilVI8JGEOawfWH7YV6kn5Q3W/VFnSijEbsCEbiA7RioUkFYbHVO7/Gp/En1FfiHNgqv7/5A4hsuSRb6enwY+sl4c1LI8aNaggcDDtr7Kryx+SVRIMk9HpHCTNABx81E6C6w08cQgbiMhCIRzQ4uhjS88kX0s=;dxyWOFl/lZ1xRN4DlGug/Q=="

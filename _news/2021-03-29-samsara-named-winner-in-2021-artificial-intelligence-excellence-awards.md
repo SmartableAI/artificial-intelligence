@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Samsara Named Winner in 2021 Artificial Intelligence Excellence Awards"
-excerpt: "Samsara, the pioneer of the Connected Operations Cloud, today announced it was named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards. Samsara's AI safety solution has been recognized in the \"Computer"
-publishedDateTime: 2021-03-29T13:58:00Z
-originalUrl: "https://www.lelezard.com/en/news-19721706.html"
-webUrl: "https://www.lelezard.com/en/news-19721706.html"
+excerpt: "Samsara, the pioneer of the Connected Operations Cloud, today announced it was named a winner in the Business Intelligence Group’s Artificial Intelligence Excellence Awards. Samsara’s AI safety solution has been recognized in the “Computer Vision” category."
+publishedDateTime: 2021-03-29T13:53:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-consumer-safety-consumer-protection-and-advocacy-artificial-intelligence-6fbe902e988d19c3118fb685b43be34d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-consumer-safety-consumer-protection-and-advocacy-artificial-intelligence-6fbe902e988d19c3118fb685b43be34d"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -92,6 +91,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "WekaIO Named Finalist in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "Business awards program recognizes WekaFS for facilitating AI and solving real problems. WekaIO™ (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research,"
+    publishedDateTime: 2021-03-30T14:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210330005335/wekaio-named-finalist-in-2021-artificial-intelligence-excellence-awards"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 32
   - title: "Concentric Named Winner of Business Intelligence Group's 2021 Artificial Intelligence Excellence Award"
     excerpt: "Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced it has won a 2021 Artificial Intelligence Excellence Award for its Risk Distancetm natural language processing"
     publishedDateTime: 2021-03-29T13:22:00Z
@@ -107,6 +115,6 @@ related:
         height: 480
         isCached: true
 
-secured: "AVzvgYrFI/k3If6fqzmcd1ua9vC9a+BLw4MAucWGg5FtzFGebrMmuMtV8wiJdbrwvQbCeJqu5scT7VmKthheNg0JBeoeI6QCq6Ng6rnXrs8ae9Sk//1lHQkH2KCc20CK5e7cVGPtQnvAf2MkvgAZ7Q2d8UHDpBnTVilXm8L7+MpYy3rbGAZYIvVmuVPCuGwIIuOauUGH4qr6raozOH9EsablPfz74jyd08KBqNcZJoWeCAJJxQKvFY7Q7oNvduFYemUkflI2MJjvQv97fi8f4+ERdPA+SRnBV6hN+3Kmhin1PH+YXw2/2g78Im2C8WEUSwcmFSi+PioRv7cHjmXHiUKW6iQwOd5tOh0bwyerBug=;sdIoLVwh3HByN+Y8aoAAjA=="
+secured: "vaMf2s5KQknxyfb6m+OEqAvhvPXDO33dM3HUFW8rkjMHg43Rjh6EW0ZTKOKH61/0MZ/v/4cIoMmg6B22tkUxxihyjFDAQBtRKLY6XNN5Pky1cVhFm8FNzsrD356wtjn/9nJsFhcSrHZnvpNLuNiHyUNjITFWKdXj9r+n4wHIjKw5vA1do283U6NorEBIBpgwjISJrDvgfhLEIxOGm2QfJ68aiM8yeStWCxnsM4fTZ0GqbzCPMhUwrZXjlMjr91HTH1xcTOEyCRbBpuk5CsA2ryFd5K+7EhmKqKDiU0/HBMeJZiCCwfCV29DI+wJiunPJeB/ExWhn9fEXeXP1Fuq3jhEU4AGCJINzD7mNWiM+lWg=;01N4ptPLfoCGrTCDazhzVg=="
 ---
 

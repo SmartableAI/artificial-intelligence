@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 992
     height: 558
     isCached: true
+
+related:
+  - title: "Virginia State Police admit they used facial recognition app after repeated denials"
+    excerpt: "The agency said investigators signed up for free trials of Clearview without their bosses knowing — a similar explanation to one given by Virginia Beach police recently."
+    publishedDateTime: 2021-03-30T14:04:00Z
+    webUrl: "https://www.dailypress.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html"
+    ampWebUrl: "https://www.dailypress.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/virginia/vp-nw-virginia-state-police-clearview-20210330-zqgok5644vewhjyoaozdjibi7u-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Daily Press
+      domain: dailypress.com
+    quality: 53
+    images:
+      - url: "https://www.dailypress.com/resizer/hKFhBXXA0QvHHGWfG9aQUqVqxLM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7GUXQQBQWZF25LMGBFB2GN4TUQ.jpg"
+        width: 1200
+        height: 694
+        isCached: true
 
 secured: "Pqy8w5RJeF2Iv3elXJak2doaVee4YZnMJMy7E4AQSFSXPBD2ywqjNOAfmqwkse8ThRX4AdchmA6dFY4wUVYG+vlGIjQc1Bk3Rfp3vD83qoKj/l3RQwN/uSQtH5584gTYhtxIxWWzjDxO1RtOGIQcY6UDOjG8XBmH03KyAP/SauTfumzwHQn3izhJVjNx2TWTuo3uoHVBTcnWPypt8vjY6hILDG4dxVLlkDE5xsu30mhl6xhKuVGG8wuWavg5T4yHIegIlF4Z3sJij14hf+FsfNZRI0xw0wYttyC1Zw5udktSxDKK80nTCU4IN7MEWtaXurDzCE6Mko7N8SGj2XiYYVZpo5JIYH2Qvr8iLCNXuvC8gR0NyeN9g+RdRETXLwwQxy7/Mtr6zpBcFkMectWDQnyZL+NRfoK3cgPdt4m1qZTXDimk/l0TxseolhSuzwyeqnOmro5Prg++Qz5Lh8o33okWOSlbnQMHAMCMHWg1e/pGtTmEHqICHPe4I2p3xZuDVLUvxzk8eMEVJraLSp0kbw==;9OiQlFwewAzM+aiFWlwmmw=="
 ---

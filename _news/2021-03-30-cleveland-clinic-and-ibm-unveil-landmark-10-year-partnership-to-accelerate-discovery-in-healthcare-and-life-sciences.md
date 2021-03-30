@@ -39,6 +39,34 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Cleveland Clinic, IBM Launch Artificial Intelligence Partnership"
+    excerpt: "The ten-year partnership will aim to accelerate healthcare research through the use of artificial intelligence and quantum computing technologies."
+    publishedDateTime: 2021-03-30T14:58:00Z
+    webUrl: "https://healthitanalytics.com/news/cleveland-clinic-ibm-launch-artificial-intelligence-partnership"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 37
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
+        width: 690
+        height: 400
+        isCached: true
+  - title: "IBM, Cleveland Clinic launch 10-year quantum computing deal"
+    excerpt: "And trust in AI hasn't been helped by IBM itself, following the high-profile and embarrassing fall of Watson Health, IBM's effort to revolutionize the medical sphere using AI. Watson Health was marketed as a breakthrough in cancer treatment and drug ..."
+    publishedDateTime: 2021-03-30T15:28:00Z
+    webUrl: "https://www.healthcaredive.com/news/ibm-cleveland-clinic-launch-10-year-quantum-computing-deal/597546/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 24
+    images:
+      - url: "https://www.healthcaredive.com/user_media/cache/7a/25/7a25e0447add42c739e59efbfca036db.jpg"
+        width: 770
+        height: 363
+        isCached: true
   - title: "Cleveland Clinic, IBM ink quantum computing tech partnership to accelerate health research"
     excerpt: "Cleveland Clinic and IBM have inked a 10-year partnership to leverage high-performance computing, artificial intelligence and quantum computing ... \"It typically takes 15 years from idea to therapy [for new treatments]. We’d like to shorten that ..."
     publishedDateTime: 2021-03-30T10:30:00Z

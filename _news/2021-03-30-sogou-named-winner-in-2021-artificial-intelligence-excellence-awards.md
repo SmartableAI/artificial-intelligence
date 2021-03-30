@@ -64,20 +64,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Samsara Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "Samsara, the pioneer of the Connected Operations Cloud, today announced it was named a winner in the Business Intelligence Group's Artificial Intelligence Excellence Awards. Samsara's AI safety solution has been recognized in the \"Computer"
-    publishedDateTime: 2021-03-29T13:58:00Z
-    webUrl: "https://www.lelezard.com/en/news-19721706.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "alva named winner in 2021 Artificial Intelligence Excellence Awards"
     excerpt: "Artificial Intelligence Excellence Awards, for its groundbreaking Machine Learning capabilities. The award recognises alva’s development of advanced Natural Language Processing (NLP) technology to enable the launch of an entirely new intelligence category - Stakeholder Intelligence - that helps businesses deliver shared value to all stakeholders."
     publishedDateTime: 2021-03-29T14:14:00Z
@@ -92,6 +78,29 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Samsara Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "Samsara, the pioneer of the Connected Operations Cloud, today announced it was named a winner in the Business Intelligence Group’s Artificial Intelligence Excellence Awards. Samsara’s AI safety solution has been recognized in the “Computer Vision” category."
+    publishedDateTime: 2021-03-29T13:53:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-consumer-safety-consumer-protection-and-advocacy-artificial-intelligence-6fbe902e988d19c3118fb685b43be34d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "WekaIO Named Finalist in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "Business awards program recognizes WekaFS for facilitating AI and solving real problems. WekaIO™ (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research,"
+    publishedDateTime: 2021-03-30T14:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210330005335/wekaio-named-finalist-in-2021-artificial-intelligence-excellence-awards"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 32
   - title: "Concentric Named Winner of Business Intelligence Group's 2021 Artificial Intelligence Excellence Award"
     excerpt: "Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced it has won a 2021 Artificial Intelligence Excellence Award for its Risk Distancetm natural language processing"
     publishedDateTime: 2021-03-29T13:22:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 882
     height: 495
     isCached: true
+
+related:
+  - title: "Lexus LF-Z Electrified is an AI-driven EV concept set to debut in 2025"
+    excerpt: "While we will see the actually production-spec version of it in 2025, the Japanese luxury carmaker revealed a concept of its futuristic driverless EV concept ... The integration of Artificial Intelligence (AI) into the LF-Z Electrified transforms the ..."
+    publishedDateTime: 2021-03-30T14:12:00Z
+    webUrl: "https://www.indiatoday.in/auto/latest-auto-news/story/lexus-lf-z-electrified-is-an-ai-driven-ev-concept-set-to-debut-in-2025-1785227-2021-03-30"
+    ampWebUrl: "https://www.indiatoday.in/amp/auto/latest-auto-news/story/lexus-lf-z-electrified-is-an-ai-driven-ev-concept-set-to-debut-in-2025-1785227-2021-03-30"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/auto/latest-auto-news/story/lexus-lf-z-electrified-is-an-ai-driven-ev-concept-set-to-debut-in-2025-1785227-2021-03-30"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 59
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202103/Lexus_LF-Z_Electrified-647x363.jpeg?qdjjhDSpfsMc8reFpowwlt5QdNmF399v"
+        width: 647
+        height: 363
+        isCached: true
 
 secured: "2x0TQMVm+1CHkv4oZ1YHMHsUWE7x0ILLF+k3zEtWea4H/GRNRuQhc38K+k4Kn01JMoSlc0uxLEBEc2J76kSexdn15XRh/5k3Y6aWMPyYLfqFlQ2r0ep4ZJK1LXK4xt2hCKlC96Wjrxce+D6h1caubQqMl0nIH+XAtUPd3ikcZYmMVwO2SgFBPqXV0IfWUK1LiqwVrIzZ/wo77Q1HqMbHbwM415++e9fBclZV1eO3E2q7/l1BOtPXgiL4HQFV9wUWz8s5yeI/i2EBqIns+BWGDO5xEEXceHVEYb2fdVjMFs/ILNxm4Sqv8uFXmEVN/pbZV5RZguG2M4XoFQQQOpXm7HWk2dMfb8XtrZWIBWJy9tH99ALYTOO+z7yPRzuvte5H9gKToqNmZDjNU8CjqdIB+T8yALAZZgIjPb47OYsX4+KA7rTj+RAakRrcJe0uvWCzdTxe8wAzg8Y8oBP2iS8HvmqLhiCpuJJ1aVjTfL0AyDkcyongrb8xuyqZjmTkpWrvypav1Hd/0Fz8KqicMNrJ1g==;oBspHFEhrgftHXS7vbnSxw=="
 ---

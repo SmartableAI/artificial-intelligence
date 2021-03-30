@@ -1,27 +1,26 @@
 ---
 category: news
 title: "DDN Enables Enterprises to Accelerate Success in AI Initiatives with NVIDIA DGX Systems"
-excerpt: "Enterprises increasingly rely on artificial intelligence (AI) as a powerful business enabler with massive potential rewards. However,"
-publishedDateTime: 2021-03-30T13:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-876627141.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-876627141.html"
+excerpt: "CHATSWORTH, Calif., March 30, 2021 /PRNewswire/ -- Enterprises increasingly rely on artificial intelligence (AI) as a powerful business enabler with massive potential rewards. However, research has shown that a staggering nine out of 10 AI initiatives fail ..."
+publishedDateTime: 2021-03-30T14:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-data-management-data-storage-artificial-intelligence-f6b19d46296c568011e250c5ed5d3c67"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-data-management-data-storage-artificial-intelligence-f6b19d46296c568011e250c5ed5d3c67"
 type: article
-quality: 31
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg?p=publish&p=facebook"
-    width: 1720
-    height: 2430
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +39,6 @@ related:
         height: 267
         isCached: true
 
-secured: "1UyfWxiWB2rDErOXONGBILGH1jwOakc4lLk/fJ60pnCsssjhblPDwSMiFAHKmbuuejTrqvYU1wfyP2nsBec2zIXzUI6ICV6jXKaAzje2LZcuj81cyW/5oYeFlN5+ym6g8HvoSIt/d3kMSlWhnhIxtDIiEhxaliGRf3R8SaEDYpP2X90Mq82tOvM84SKEG8puBYbW6Dq94wHowKizF4XSXGpUWw0RhZxgKJ22GLdXeilAWLoC3DFgtlkgm0D+0L6S6hX9SEHEfLqaQry5S0Z9nb1GtBicxTGuzs1TVFpMif1FBZJj0ZriCXjMJtYDZM4YZ9AW01Cw5bHrXRer57foZ/4C28redDXF2F/i4T28VHA=;rpZc19+tYs8y7qnrEjLiCw=="
+secured: "lViw+lrreW0jS5RHiX9DMB0apIQyrnbvY+DwDQOeIrSYf/Yp0MeE9PXqwPFHlD64wlKv8ZrdzYl5W2izlUnhHAdt9RbZD1TQK0C0in5exvQNTHxzwk4HphmxqFGaxkTtQCEz08DRrGKt37aVwQMCGkhN9rIQcXGG3L6DEi5LH6LeogoE4jpak4UIWeN4HayC971+5JlAPH4mYcITcHJkxWI3h6MvtBrH0uPVl+tsWkJ4DQfWZlxehfzRAC8XZ3ZK4Xw+crIjoO/L1wrDKNCNd7nPuYnfgfKE8qNQC8skd0IhGS0r8LGleMx3vVfYk+JPRZrHBY8z+K22NwbnSl0FuW1CtHRsN7W+uf4pkf61bXU=;0cb4Wg8bVX//xB2TpMS+OQ=="
 ---
 

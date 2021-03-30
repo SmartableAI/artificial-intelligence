@@ -41,6 +41,20 @@ related:
         width: 640
         height: 396
         isCached: true
+  - title: "How AI is revolutionizing online gaming"
+    excerpt: "From software that can improve the performance of a cricket player to artificial intelligence coaching technology, it looks like the AI revolution is only just getting started. Artificial intelligence isn’t just a piece of science fiction anymore."
+    publishedDateTime: 2021-03-30T14:32:00Z
+    webUrl: "https://knowtechie.com/how-ai-is-revolutionizing-online-gaming/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 37
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/10/redmagic-5s-gaming-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "IUsewP5bHFacKr9DLpdxj5SENBaQiFRs5afZde1ggbzkXj9gml32ZDpgFQwLgQcJ4O0wzH1Uj/Q92Q9kQu6Za8yF53NtwpkbqzioBnKTte4b9dVeqq/gi57Y/z9d0eEjrOwwCeaAZmMKXGWyLoOOKjPYHyFniS6B9TGTtLB+fS2D18+UbIUwFz9ExLC+ncm/H/gI0s3KchMnNtLhs2KZ9boEDbxUaiz0TUKKqx3X9kbkLQOYYrV2mQ2KaMTQAWekQGT15stVbG0GdcyTgGSX/ixjj//hxuWravwbu5yqyJ3DZb8HSA8T3xVdJfm9BaxwtIKNjNNAyzCnGvhi/59pXy4Ut3kJKP70SLozq9zFKKE=;UjIjTBdZopmX9eiDHWc3Gg=="
 ---

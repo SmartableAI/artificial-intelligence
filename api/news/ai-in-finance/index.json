@@ -228,6 +228,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-23-truenorth-and-boostai-enter-partnership-to-supercharge-digital-customer-experience-with-conversational-ai.md",
+      "title": "TrueNorth and Boost.ai Enter Partnership to Supercharge Digital Customer Experience With Conversational AI",
+      "excerpt": "TrueNorth, a global fintech software development company, and Boost.ai, a global leader in conversational artificial intelligence for Fortune 1000 companies, today announced a new partnership. This partnership streamlines the process of developing and implementing Boost.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-north-america-san-francisco-5e63a44fc0bf4b099830acd8d4cb4ec2",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-north-america-san-francisco-5e63a44fc0bf4b099830acd8d4cb4ec2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-amazon-aws-hugging-face-team-up-to-spread-open-source-deep-learning.md",
       "title": "Amazon AWS, Hugging Face team up to spread open-source deep learning",
       "excerpt": "Amazon's vice president of machine learning, in the same interview. The partnership consists of a few parts. Hugging Face has built two new services, AutoNLP and an Accelerated Inference API, have been built upon Amazon's SageMaker suite for AI.",
@@ -1327,40 +1370,6 @@
       "provider": {
         "name": "ntplusdiritto.ilsole24ore",
         "domain": "ilsole24ore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-eset-rivela-che-il-42-dei-consumatori-usa-app-fintech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali.md",
-      "title": "ESET rivela che il 42% dei consumatori usa App FinTech gratuite, ma il 50% non sa che uso viene fatto dei dati personali",
-      "excerpt": "ESET ha analizzato il tema della sicurezza dei dati nel segmento consumer nell’ambito della propria ricerca globale sul settore FinTech",
-      "sourceUrl": null,
-      "webUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "originalUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/amp/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "cdnAmpWebUrl": "https://www-informazione-it.cdn.ampproject.org/c/s/www.informazione.it/c/97C949ED-2EDC-4CCF-A9F8-945D5A73818E/amp/ESET-rivela-che-il-42-dei-consumatori-usa-App-FinTech-gratuite-ma-il-50-non-sa-che-uso-viene-fatto-dei-dati-personali",
-      "publishedDateTime": "2021-03-09T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "informazione.it",
-        "domain": "informazione.it",
         "images": null,
         "publishers": null,
         "authors": null

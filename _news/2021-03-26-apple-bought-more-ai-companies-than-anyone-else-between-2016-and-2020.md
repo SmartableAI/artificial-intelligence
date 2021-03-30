@@ -43,22 +43,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Apple was leading buyer of AI companies between 2016 and 2020"
-    excerpt: "Apple was the top acquirer of artificial intelligence companies from 2016 to 2020, beating out companies like Facebook, Google, and Microsoft."
-    publishedDateTime: 2021-03-25T21:03:00Z
-    webUrl: "https://appleinsider.com/articles/21/03/25/apple-was-leading-buyer-of-ai-companies-between-2016-and-2020"
-    ampWebUrl: "https://appleinsider.com/articles/21/03/25/apple-was-leading-buyer-of-ai-companies-between-2016-and-2020/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/21/03/25/apple-was-leading-buyer-of-ai-companies-between-2016-and-2020/amp/"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
-    images:
-      - url: "https://photos5.appleinsider.com/gallery/41038-79364-Siri-xl.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Apple on AI shopping spree to make Siri smarter"
     excerpt: "Apple is reportedly on an AI shopping spree. According to GlobalData, a market research firm, Apple bought over twenty companies between 2016 and 2020. In addition to the company, Google, Facebook and Microsoft also occupies the leading positions in the ..."
     publishedDateTime: 2021-03-26T17:15:00Z
