@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-03-10-visionnav-at-ltt-2021-driverless-industrial-vehicles-with-latest-vision-technology-renovating-factory-intralogistics.md",
+      "title": "VisionNav at LTT 2021: Driverless Industrial Vehicles with Latest Vision Technology Renovating Factory Intralogistics",
+      "excerpt": "Behind the innovative products and solutions VisionNav showcased at Logis-Tech Tokyo 2021 (LTT 2021) is a driverless story of how the company helps its customers quickly upgrade intralogistics not even to the COVID pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-covid-19-pandemic-lung-disease-5b5a6ca3ec6aa63c4aa5041ce4185522",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-covid-19-pandemic-lung-disease-5b5a6ca3ec6aa63c4aa5041ce4185522",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T16:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-global-cloud-ai-in-fintech-market-growth-status-and-outlook-2021-2026-marketwatch.md",
       "title": "Global Cloud AI in Fintech Market Growth (Status and Outlook) 2021-2026 - MarketWatch",
       "excerpt": "11.8.1 Wi Vid Wireless Video Cameras.com,LLC Company Information 11.8.2 Wi Vid Wireless Video Cameras.com,LLCCloud AI in Fintech Product Offered 11.8.3 Wi Vid Wireless Video Cameras.com ...",
@@ -1105,49 +1148,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-assessing-regulatory-fairness-through-machine-learning.md",
-      "title": "Assessing regulatory fairness through machine learning",
-      "excerpt": "The perils of machine learning – using computers to identify and analyze data patterns, such as in facial recognition software – have made headlines",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/",
-      "originalUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2021/03/AI_policymaking.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521537/assessing-regulatory-fairness-through-machine-learning/amp/",
-      "publishedDateTime": "2021-03-09T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

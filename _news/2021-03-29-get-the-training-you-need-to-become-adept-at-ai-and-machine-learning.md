@@ -73,20 +73,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "New Role to help Drive AI and Cheminformatics"
-    excerpt: "Drug discovery software solutions provider Optibrium has announced Dr Rae Lawrence as Director of Software Development to focus on accelerating its artificial intelligence (AI) technologies and"
-    publishedDateTime: 2021-03-26T00:52:00Z
-    webUrl: "https://www.labmate-online.com/news/news-and-views/5/optibrium/new-role-to-help-drive-ai-and-cheminformatics/54790"
-    type: article
-    provider:
-      name: labmate-online.com
-      domain: labmate-online.com
-    quality: 39
-    images:
-      - url: "https://www.labmate-online.com/assets/file_store/pr_files/54790/thumbnails/images/600w_rae_lawrence-(2).jpg"
-        width: 600
-        height: 657
-        isCached: true
   - title: "Informatica Wins Industry Accolades for Cloud Innovation, AI, and Data Privacy Excellence"
     excerpt: "Informatica, the enterprise cloud data management leader, announced a Gold and several Silver wins in the Globee 17th Annual 2021 Cyber Security Global Excellence Awards. Informatica was the Gold award winner in the Privacy Solutions category,"
     publishedDateTime: 2021-03-26T10:07:00Z

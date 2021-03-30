@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://i.insider.com/6011ef341d2df20018b713d3?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Tesla Pseudo LIDAR Using Just Cameras And Imminent Acceleration of Self Driving Improvement"
-    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
-    publishedDateTime: 2021-03-25T23:45:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 66
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2017/12/7180bfad19f2195c59f8a445e080234a-1024x632.jpeg"
-        width: 1024
-        height: 632
         isCached: true
   - title: "Tesla’s Full Self-Driving Scam; Are EVs Really Better?"
     excerpt: "Whitney Tilson's email to investors discussing if electric cars really better for the environment; Tesla's full self-driving scam revisited.\""

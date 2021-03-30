@@ -2,28 +2,26 @@
 category: news
 title: "New early warning system for self-driving cars"
 excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial intelligence to learn from thousands of real traffic situations."
-publishedDateTime: 2021-03-30T14:41:00Z
-originalUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.html"
-webUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.html"
-ampWebUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-early-self-driving-cars.amp"
+publishedDateTime: 2021-03-30T04:00:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/tuom-new033021.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-03/tuom-new033021.php"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/newearlywarn.jpg"
-    width: 1280
-    height: 540
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -129,6 +127,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "p0jrQnegNBOS7kwzk5sXCpzatetjChnCLUs1hdQEeyIlUWw4ZVwhPOCe7fRI4wGhFOg+1rIhHADuU34/bjrc3a32AXSzM7cBrFHv6dgFplVITjPcedUtxqoJiI/UjAuqyOufOgWRpzNtYqNwrFEoLk8AW22V8Z+9jK83/iH3Yw5Ign1lnSyIndpKJ8bsZeWdLo4+OFv+QABbxuM65Ymog2O0GE4il9O2dwrw98BxHcAGzSMGvQcqDMzrmLILwP2IYrdH50KlV4oaC+oIAiJIta+BGwg4QIjFl/ETok/9MxPOo+HDRe6arpJa/OjZFaCH3WXmkHzYXtETnfSGegS04BxIrX0WF/hBS/N++UG5y3Q=;3PUNlQcIsvwO49Mo7ZMw5w=="
+secured: "jUWnfDLChXTalwUhNcETBx4nHpECKFqcH8zb45/lmG0XM/rX+L/OWglgLdMkr8Ndm8Aa6d66olVnJlFiVBxH/1+x8ejQ+2lI4WF36QmsisBxgs90fFTEg3hZ8n9oPq2rvOzXyPCJvQt2pOq7Dd6qR/OKF+Dxdi6pLkc7vGkA4NNACzJjxIJRSOHu6Ixp5Kk7oR6QwS+apLgBH2/mJwIht8f6nGHQp98wdI1bZAvMQomEHzX2Z+IXOk0VPV3whz6zfOSjIQMI3tDZ/HU1+BWLnxroi7pw2h9OjBRhRUSjEc9rNihivw9IGTMgj6HVSCLnqK6MfUOLEwdLVjNgN3qZm8jaPIP4cTMQurHH2C4oBgE=;kp+/Ehmjun4tKVdUdS/CLQ=="
 ---
 

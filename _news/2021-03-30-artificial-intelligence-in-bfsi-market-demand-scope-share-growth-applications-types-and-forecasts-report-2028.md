@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning System Market Growth Forecast Analysis by Manufacturers, Regions, Type and Application to 2028 with key players"
+    excerpt: "Rising adoption of cloud-based technology and increasing usage of deep learning systems in big data analytics is driving growth of the market The global deep learning system market size is expected to reach USD 93."
+    publishedDateTime: 2021-03-30T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-growth-forecast-analysis-by-manufacturers-regions-type-and-application-to-2028-with-key-players-2021-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Automotive Artificial Intelligence Market 2020 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2025"
     excerpt: "Mar 28, 2021 (CDN Newswire via Comtex) -- The recently uploaded report titled Global Automotive Artificial Intelligence Market Growth (Status and Outlook) 2020-2025 delivers detailed information on the industry including classifications, applications ..."
     publishedDateTime: 2021-03-28T19:49:00Z

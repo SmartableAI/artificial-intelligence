@@ -39,6 +39,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Veritas™ Receives One of the Highest Ratings in 2021 Gartner Peer Insights 'Voice of the Customer' for Enterprise Information Archiving"
+    excerpt: "Veritas Technologies, a global leader in data protection, availability and insights, today announced the company is being named a 2021 Gartner Peer Insights Customers’ Choice in Enterprise Information Archiving."
+    publishedDateTime: 2021-03-30T14:55:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210330005712/en/Veritas™-Receives-One-of-the-Highest-Ratings-in-2021-Gartner-Peer-Insights-Voice-of-the-Customer-for-Enterprise-Information-Archiving"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "9v4tCDOfYy1rAb9PFFpbGjjEfTebEYvP7vPxtrYozcfmF67jVcb0fejwg2DOC5HMUX8oH71a9iWPWZYgBOpY9VEtvCXEOeMxMaSyLmkya/22XAXy5IAwxkcouYB72NbmgCIBsGywVAav/qXJ6xPl77RXV/qVJ3RmAcsJw1KHkR+CCVl44K/8j1BEcKg1u0yfLeXziy5drAKZiMUeqYZBpWxxEuZCX9ObIA25pKNJFXVr+j9oqcW5yl1jaO412UfeUV4JCDf44UfrVOYhgAIkBYITgrXWKGt7aaNIPJyf2XkR5Sof3kKkH+NEsR8RIcheu2CRsLUtrAEFpIuaqrXQJCkVOvS7O7FZYS0YE0MpOuk=;eEs0Ka7gIbyTK0pJ4sBDIQ=="
 ---

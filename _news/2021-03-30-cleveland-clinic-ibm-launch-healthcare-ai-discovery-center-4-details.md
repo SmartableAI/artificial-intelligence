@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/clev
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
         width: 690
@@ -95,6 +95,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Cleveland Clinic, IBM partner to speed health care and life sciences discovery"
+    excerpt: "The Discovery Accelerator is expected to build a research and clinical infrastructure to empower big data medical research in ethical, private ways, discoveries for patient care and novel approaches to public health threats,"
+    publishedDateTime: 2021-03-30T17:46:00Z
+    webUrl: "https://www.bizjournals.com/cleveland/news/2021/03/30/cleveland-clinic-ibm-partner-to-speed-discoveries.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "XGUhe4lVToiGM2OJEKgIGmU3aUZ9COsv8/1W2Fdmf2j6sMYv5IHWOXCL1CeX9ODDSpyK1repC27DUvnyAuJkiqY40N3tfmrzpbIZfNnZ9qgp2+RVI81azor+I5bx4bTZSnKEja6THlsFTb//TTs+BBpeCT76dJmU0qX/nB7ojOAqhAKfGe+PWSqJiQoINVx0NJLpDN1fxTtyNtn5Cj1ALuugj69kKuvk4YN9tvTa/nz/TgOphZoQbzQD4aq513DC1H/UxtaYpR6ixOLhJvILzxpYy2xBdvAzTU3RP56pqFv14TNMgePIZ/B9gfGzqxbSXPPTJUGsJK1jXolZhP+DG70Aa+Y4X3/En+5pYgfev/M=;MhX6+PKda3g9I+xzyOmLBQ=="
 ---

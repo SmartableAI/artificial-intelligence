@@ -48,7 +48,7 @@ related:
     provider:
       name: Analytics
       domain: healthitanalytics.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
         width: 690
@@ -96,6 +96,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Cleveland Clinic, IBM partner to speed health care and life sciences discovery"
+    excerpt: "The Discovery Accelerator is expected to build a research and clinical infrastructure to empower big data medical research in ethical, private ways, discoveries for patient care and novel approaches to public health threats,"
+    publishedDateTime: 2021-03-30T17:46:00Z
+    webUrl: "https://www.bizjournals.com/cleveland/news/2021/03/30/cleveland-clinic-ibm-partner-to-speed-discoveries.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "gBOODmyid3j3ni+q1oRG5IcByuHiU5803cg8CgNm7JPxvfq8kKJoWJ1ODufIl/ZjlpZTVaTPeDQXR9aLQY93UtUDUUo89SYU3wpkuLN90ir+kuhaazwTlW9rvgF/b1FGENzvq50Q07Xmz2zF52CMXMCmOG1TWz6qFe6Opol83AiwyRauj7W+pbbEz8gMyMkffxllXndBwHZjCr1lOucrdoLk/x/RBWHx/uWiDhIBGU//1NN8+mBB1Swlvc//eU2lmpQeVNDtj/wgigi/LLTYKNRLx1g9MvzD+3gypdHIT05lXlt5QmW3AglJ0xgAhPBsute163lhits2Z0J01nbz620VR4q+NpX0MVzhB53KviP96DFVq4h73j8xtF/Fagq8o6Wh6a7Nf8z8p1UHET2XaR8Jf5zjC7jRmvpTtgxhkZ1pE/xdzWXoATg+V2w4hBsmaB9Xn8d0LUIBnYoYw09tHU3H+5d2Zto0CZt0HD9G7WyFadadcKp4KP7UcmTzACcFshUEQYX/C/w98CUOJV6BEA==;MIAwTVFdJaArM5vcl30dqQ=="
 ---

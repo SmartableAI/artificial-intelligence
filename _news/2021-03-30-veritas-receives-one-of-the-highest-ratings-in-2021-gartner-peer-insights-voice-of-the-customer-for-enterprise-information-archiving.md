@@ -1,45 +1,53 @@
 ---
 category: news
-title: "Veritas™ Receives One of the Highest Ratings in 2021 Gartner Peer Insights ‘Voice of the Customer’ for Enterprise Information Archiving"
+title: "Veritas™ Receives One of the Highest Ratings in 2021 Gartner Peer Insights 'Voice of the Customer' for Enterprise Information Archiving"
 excerpt: "Veritas Technologies, a global leader in data protection, availability and insights, today announced the company is being named a 2021 Gartner Peer Insights Customers’ Choice in Enterprise Information Archiving."
 publishedDateTime: 2021-03-30T14:55:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-computing-and-information-technology-communication-technology-db4be8585cbf475491a3d4383235eba4"
-webUrl: "https://apnews.com/press-release/business-wire/technology-cloud-computing-data-management-computing-and-information-technology-communication-technology-db4be8585cbf475491a3d4383235eba4"
+originalUrl: "https://www.businesswire.com/news/home/20210330005712/en/Veritas™-Receives-One-of-the-Highest-Ratings-in-2021-Gartner-Peer-Insights-Voice-of-the-Customer-for-Enterprise-Information-Archiving"
+webUrl: "https://www.businesswire.com/news/home/20210330005712/en/Veritas™-Receives-One-of-the-Highest-Ratings-in-2021-Gartner-Peer-Insights-Voice-of-the-Customer-for-Enterprise-Information-Archiving"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
 related:
-  - title: "IBM Positioned as a Leader in 2021 Gartner Magic Quadrant for Insight Engines"
-    excerpt: "IBM Watson Discovery, an AI-powered search and text-analytics service, uses advanced natural language processing (NLP) to help companies find new insights from complex enterprise documents and data. \"The majority of data does not fit neatly into a database."
-    publishedDateTime: 2021-03-26T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-2021-03-25"
+  - title: "Cohesity Recognized as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage"
+    excerpt: "Cohesity Recognized as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage SAN JOSE, Calif.-- (BUSINESS WIRE)--Mar 29, 2021-- Cohesity today announced it has been named a Customers’ Choice in the Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage report."
+    publishedDateTime: 2021-03-29T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-data-storage-computing-and-information-technology-data-management-2b44488f41ab4da2950c10c2d2e4ff78"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Cohesity Recognised as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage"
+    excerpt: "Cohesity today announced it has been named a Customers’ Choice in the Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage report. With this recognition, Cohesity is the only vendor to be named as a Gartner Peer Insights Customers’ Choice for both Distributed File Systems and Object Storage,"
+    publishedDateTime: 2021-03-29T22:24:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/138915/cohesity-recognised-as-a-customers-choice-in-2021/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 0
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_4.png"
+        width: 300
+        height: 250
         isCached: true
 
-secured: "WWWh0bwdU3bKKeG6yewjfc/dMHpET2b402r+NVtQ09RUc7KiirOdaEsIdPL5QlvAmEFkQjkmSIZ0U+fouqFGhdhboM0JN8tlXU5Nzfidhd6QnbPGmMkUkD+rsPoI1jpkzVozjRyn5Uo6fbIe4CvPyVbFmTFvE0SMCmvCvzuripFOviWXCaCrVwfjGPYo6XdAAFlKxZnpvdI1gGj/dQCWP7zk95/1lDJQSE9W47CQEVNb9KtGbL2091OvMPBC6B3UaHWYzHgjI9sxpi38I6tmx70+VNPACIAM7rz30klNiowmRZtf7+yEtAZvl3hcUijwVZf2VmMvf4aiN7zeOCCKRZFG4si/GqyXQOiNdfHzDK8=;cCyNANK4Lrlux2Xt+RtAmg=="
+secured: "jXssv4ex7Cu35/Agr+jpdlVVrVLPr9dWIhr5a6ACQnltmBXrFQc1yICKMIqIk+ICHJpkh+4YrStNQttL0VQ0hvbGAxlJKkBhpBofwADbQWgLBL3kQZMiMDvODuZzTuEUk36V9GC8RoFzyWmi9+VJw4DSZzv72eJFiwcQBZBEnGSJamKCfwKaRph4oQw3ZUcKWGFxsJKXk3SxtvmU3BwJrYlXkLwnKcmo+rR/DIxFtuhG5wv8RKc3BXwFcZhttjl7x4AQSqc76+C8VSYEVtVXotJr0i2slH2tHkuXpWzkLsyniDItcOFG/Z/hd2XCeij3Akh7Q/IWZgBMU48jMEkgGjO+f/UfohWqwxPiR/DSfiStxivsQ3PaEhomDKyL/V8jIS3oAHsCZ0/xIcWIw/jwzF/EoXrkAkag1b2feG4Th2KtbJXD5ZB8v3minrQC1NWOc+2D2cxFedn+Y6joT+bhG3b5FoaRWc3LbY42jDBDQT7DAB+lkhSOl5aDY1r2V8XhJ0HtzQYfg31sIw8YbvXftA==;9n/yTynq0yHiZzWjRALcTA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-03-03-artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026.md",
+      "title": "Artificial intelligence (AI) in healthcare market growing at a sound CAGR of over 49.7% during 2019-2026.",
+      "excerpt": "The global artificial intelligence (AI) in healthcare market size is expected to reach over USD 40.2 billion by 2026 growing at a sound CAGR of over 49.7% during 2019-2026. The Artificial Intelligence (AI) in Healthcare Market is highly competitive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-nosy-ai-reads-a-300-year-old-sealed-letter-without-opening-it.md",
       "title": "Nosy AI reads a 300-year-old sealed letter — without opening it",
       "excerpt": "Researchers used an algorithm and X-ray imagining to virtually open and read sealed historical letters. The technique could also be applied to old books.",
@@ -1159,59 +1211,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-4-reasons-why-workers-should-welcome-artificial-intelligence-in-the-workplace.md",
-      "title": "4 Reasons Why Workers Should Welcome Artificial Intelligence In the Workplace",
-      "excerpt": "We are also witnessing a significant rise in interest for robotic process automation (RPA), intelligent automation and artificial intelligence among business leaders who realize that intelligent automation demonstrates strong transformative potential across all industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/362254",
-      "originalUrl": "https://www.entrepreneur.com/article/362254",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1614630869-GettyImages-1223789411.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362254",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362254",
-      "publishedDateTime": "2021-03-02T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

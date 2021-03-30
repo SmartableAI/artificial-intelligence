@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/30/how-financial-organizations-can-use-ai-to-apply-esg-standards/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.cioreview.com/newsimages/705x485_5za1l0Os.jpg"
         width: 705
         height: 485
+        isCached: true
+  - title: "Regulators Want to Know How Financial Institutions Use AI and How They’re Mitigating Risks"
+    excerpt: "Five federal agencies will publish a request for information Wednesday seeking feedback on 17 specific questions."
+    publishedDateTime: 2021-03-30T17:42:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/03/regulators-want-know-how-financial-institutions-use-ai-and-how-theyre-mitigating-risks/173016/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 29
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/03/30/NGmoney20210330/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "j6+QgrVXI1wU803kiep4BSpc6fVOMHWsi96gzbR11OS9rewTWtngaqeDPdZxcZM7fSowsJWi8iRwNY5x0w/yR/AlH13OM0yyjY7FPAuqnLxqudQxqSB/HAcL6eMg9aU5eo++JVbqpSb63oG/AamcPnTwKkJwr88mFtSQMq82RAOFigDNAn3GXec5qIz4OASM0hRReU/3LL/WxEDEMNl/dAZz/EMgXKPtEqJnIeB8eOgnuJBZ91DOT7p+o5LGBqKjWyTuA3lKAlAHW97hcpEqlMOLCXFU8WNvfxapjzmJBLTcoGAu7b+nHiSzU8t462J2nduXhoVK9Mijcd+bYv0JiMeAmnibln8+OaSg6vBJdE+rF7f26h0A8sDEe//JrT0NYQ4b9aYyGoooTVXJsw+f91dSnfrA0b4FKjQBnyme8gj5qq9THZQemAAnsguyAYtsjs4rWAd1LBF2hXN4+WA0YeamI1xxMAyW2b31tPxW6sry8y+33wXQ/8AMiRWEhHG2V6qHkr9v5cYB6G08sdlz8Q==;EYRQzQw38y34Sfyn7ZdTdA=="

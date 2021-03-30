@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Aurora, Volvo are latest partners on self-driving heavy trucks"
-excerpt: "March 30 (Reuters) - Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before self-driving robotaxis. The latest alliance was ..."
-publishedDateTime: 2021-03-30T11:39:00Z
-originalUrl: "https://www.reuters.com/article/trucks-self-driving/aurora-volvo-are-latest-partners-on-self-driving-heavy-trucks-idUSL1N2LR1PK"
-webUrl: "https://www.reuters.com/article/trucks-self-driving/aurora-volvo-are-latest-partners-on-self-driving-heavy-trucks-idUSL1N2LR1PK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LR1PK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LR1PK"
+title: "Aurora, Volvo Are Latest Partners on Self-Driving Heavy Trucks"
+excerpt: "(Reuters) - Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before ..."
+publishedDateTime: 2021-03-30T13:57:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2021-03-30/aurora-volvo-are-latest-partners-on-self-driving-heavy-trucks"
+webUrl: "https://money.usnews.com/investing/news/articles/2021-03-30/aurora-volvo-are-latest-partners-on-self-driving-heavy-trucks"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556753993&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T0Z1"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Volvo And Aurora Partner To Commercialize Robot Big Rigs"
@@ -48,6 +40,6 @@ related:
         height: 700
         isCached: true
 
-secured: "O/msJrItX2ouDYSn22OvOjYW5KO8eriWYigUo1HgN0hBmQcEeAdnimgJb8NbN3WjnGsZcPxt/sCJbB/1vvy+Wj0Yjsfx9K+r6AlLxeyKI5E1humusW14VZrAveFQ+MxRhezV+f4T1IEgtsfw0FpCvr7RiakHPot/xgPx5f4j4EpX1OmkDp1ozS4wx/hHORrZewHxhuGyvftTSaHW+c5mZMlk3nSSDUc7BHc2cA9GDucyIMTL2kcAsfQU5JzIH7zP4sfB4qX5Jk3FdqQhx+yPXu+n20jyQPqSONuS7uqwgUWwi+w5wJNEkww5wS8zpxl9yWTDGxOrxXnM5LCha8GJpA5a/V8k53NoH+Adx2hBSCw=;A4TggVU3ooDX7HyA0kL30A=="
+secured: "V+2NXEDfg2R1omqIS4s8Op5OzXbxrRFzHvCThydaR0LYZHfHpmOpE1OxL5f0WiANBnQHtqWQnxlCUuHC4Zzx4NOoGq9zPK2EINPjM4ljB7XtZ2lmOKSblJYNkIOwChJgw4dL0hOPwg5jNtQXIkBmzZ63v4XFCxewuA6pJojCcMZLnd1Q8HjvzCWA2cxDaywyRacKfkq9VAnm+p/OwZSntEV060ecAm+J+y/jUO+20s38wA0wm9JyBNBCsAKtMA5aH1irxa3SydMsvhO6DRgNeQW5ZtdJ0GbKDXER3ztF+DMgDwTpAcrE+76Bt6GRdSjSHtdtucMUfPfLlyDMGfokOYk0FuruF1vMyTSgPN/BHzasFwRdy5GCCKkQj/KMo0rHJoFONQAqzN4tT8tFmPy9imKC5+9SmIP0RexOXJupuqCpa30zy7ATcIVUXTMM9sUBE8MYSGT+Icm0c3Zv+55QGiPBcFH1DTA2iS45fq9dPxrhRv4Pgd2lmvRsf474bdh9YwFbps/kfFsZrolg52JKIQ==;HCZ80ztxISmfb8gVsEeyWQ=="
 ---
 

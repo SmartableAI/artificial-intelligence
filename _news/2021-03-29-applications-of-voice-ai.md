@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Regulators Want to Know How Financial Institutions Use AI and How They’re Mitigating Risks"
+    excerpt: "Five federal agencies will publish a request for information Wednesday seeking feedback on 17 specific questions."
+    publishedDateTime: 2021-03-30T17:42:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/03/regulators-want-know-how-financial-institutions-use-ai-and-how-theyre-mitigating-risks/173016/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 29
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/03/30/NGmoney20210330/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "ODkLE+I/jdMBsSeaer6myJgh6xoPRtji0YNPF/4tzBYA+fbZKz9aiaMvdwNv8RBEU+SaXBsksBac59yO8z4V6TZxEYRaTXv7uozN0Wb04H36tKETv6hfy1KaUsKLlAbUlnHMz5ZOgN7rsrvrEzOzxz1Z3/3c/ZfpCIv8nr869XKHE3PfYxp+xfWFUJC+Xlxpqf0ngeQg0/P+rIa0ehjRymvSJOqqLmCWnRn0KQ/2CfvzyQDc3vLDGeh3hGBCfqFNemYCJ1l8fGvROq/VA4eJvkXeER/05SfcTGxYG4/Rc1YO1hekyOgeO1CrPQC52ESRjEbXjrbBUit9Fux9hSq743J3bLDeRog2B8LAOSafcLawpTPjnAx6zdz4AImH1+Po9n2gBuz+iqD2EiUqSg3AzdBBvQtdLel6LoQrgjDPNr+J5e50sIHwpUmWC+3j0d4SZdiZ/FYxiB23ijnqXYMYYAf8+yasIg6p2UdTlCTVO5NuwX1Bzr9w4/9UgcLHuwYUQIs8eVvkRfBpDKQ/yUZ2HA==;JtvEqT5EvWHPTW3sVjOz/w=="
 ---

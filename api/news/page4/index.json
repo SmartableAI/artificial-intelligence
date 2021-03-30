@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-26-rio-tinto-to-deploy-heliogens-ai-powered-industrial-solar-refinery.md",
+      "title": "Rio Tinto to deploy Heliogen's AI-powered industrial \"solar refinery\"",
+      "excerpt": "Mining giant Rio Tinto has announced it's going to install a pilot version of Heliogen's high-temperature \"solar refinery\" at a Californian boron mine, supplying clean energy as well as heat for industrial processes,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/",
+      "originalUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/341d9ad/2147483647/strip/true/crop/2819x1879+184+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3c%2Fcf%2F7fe2562f4d5ea428995d61d18f67%2Fendww3evaaaosg4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/?amp=true",
+      "publishedDateTime": "2021-03-25T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-ok-computer-review-artificial-intelligence-meets-human-bumbling.md",
       "title": "‘OK Computer’ review: Artificial intelligence meets human bumbling",
       "excerpt": "There’s a lot going on in the web series OK Computer: a death caused by a self-driving car, a bunch of investigators who scramble about trying to solve the crime, robots that develop sentience, a Tesla-like corporation with overreaching influence on the government,",
@@ -1136,58 +1187,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-will-self-driving-cars-disrupt-the-insurance-industry.md",
-      "title": "Will Self-Driving Cars Disrupt The Insurance Industry?",
-      "excerpt": "Automated vehicles are rapidly advancing in capability, altering the risks and liabilities traditionally associated with driving. These changes will disrupt the $300B auto insurance market and the wider P&C insurance industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/",
-      "originalUrl": "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605799f7019e55638773bbe1%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/",
-      "publishedDateTime": "2021-03-25T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

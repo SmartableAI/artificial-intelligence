@@ -31,22 +31,15 @@ images:
     isCached: true
 
 related:
-  - title: "Aurora, Volvo are latest partners on self-driving heavy trucks"
-    excerpt: "March 30 (Reuters) - Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before self-driving robotaxis. The latest alliance was ..."
-    publishedDateTime: 2021-03-30T11:39:00Z
-    webUrl: "https://www.reuters.com/article/trucks-self-driving/aurora-volvo-are-latest-partners-on-self-driving-heavy-trucks-idUSL1N2LR1PK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LR1PK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LR1PK"
+  - title: "Aurora, Volvo Are Latest Partners on Self-Driving Heavy Trucks"
+    excerpt: "(Reuters) - Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before ..."
+    publishedDateTime: 2021-03-30T13:57:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-03-30/aurora-volvo-are-latest-partners-on-self-driving-heavy-trucks"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556753993&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T0Z1"
-        width: 817
-        height: 545
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
 
 secured: "7zfco4c97qtrn9EZbDc4Pp/8VAoEdr0FPuYM7W46O6vQqPec/PUd1utWeTM/hGBkp/0P2P8flF4ZQug5VfOlpth7UY+nVhx7sM3vj2G1uLdLMskPhPHQvXbTd6z5UFYyvIjBJMnFPvGLi/x5vHWs/xZ8LY0sXfzHXR4IXeWtNyK1WUHqfk7lrMqXXdpHDS95Lp3pAosUwKdaTyJhD1c/LNI+9A5NezU8SAEqkN5ozqgj6JlovBe2f8weJSQpL64MARJpp4Bw7mlUB68YjVjY+UvZ/jxuxPZFLl1CF1ESQUL9wS5MmrM4l3HsGHcfRK2iM1brcP8hyqHp68Rbv4xgqI+wslGY6AU+5moLKpwXe4jW8kLNAOHZ71wSfY+LkFHrrWLOaJJ+oOL4YGtoLhbBjiqug6Abg281Uvkdv8EPC73zx5amShjLZGnpokySXheGzyn3KI9JEs6HJZ/LnjE3IdTGQC3Yh4oK9yFzjMu69Rr7H7NKVFKKLwRdm+0ncoE3Jm7aOWGCP/hQ6f4RRDQbjw==;C+GtvlZ+PQjD4yrgaYNlwA=="
 ---

@@ -87,20 +87,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "New Role to help Drive AI and Cheminformatics"
-    excerpt: "Drug discovery software solutions provider Optibrium has announced Dr Rae Lawrence as Director of Software Development to focus on accelerating its artificial intelligence (AI) technologies and"
-    publishedDateTime: 2021-03-26T00:52:00Z
-    webUrl: "https://www.labmate-online.com/news/news-and-views/5/optibrium/new-role-to-help-drive-ai-and-cheminformatics/54790"
-    type: article
-    provider:
-      name: labmate-online.com
-      domain: labmate-online.com
-    quality: 39
-    images:
-      - url: "https://www.labmate-online.com/assets/file_store/pr_files/54790/thumbnails/images/600w_rae_lawrence-(2).jpg"
-        width: 600
-        height: 657
-        isCached: true
 
 secured: "tcnPM1eL7ljdR1D1utX2T/+inXBYw1Zhv+7lvrrp3rCLIXnR9sRTcPAB8S05lSPC2R6XkgwIWwcibj9x9w3IUmZW+7dweI0ZdEj9lnvUIYEzT3Za3PHlQ+M4UR+iymeYCRuO3iMe+OXau+8T0BI8dbCYwjwOgWOdq70LHL906sh5sBLGxC021BrMdUuay4rVdxkxSiGkmuME1GB+tPTOXnbqSVZQyuA2PjUwLrhN85fuarkqmpSqzdi06SZA/sGO3fVLEs6C8iQ0EA1MUAK0AHJaHZHGK135moTodxklKN6VXCZ2vsEv2+akjoN5lj28Mpb2aiB7vAOxDRsXZDhlKUfNgPKPJx6kkcTrcoLOY4A=;6Y9Kz+uWKPqS7WAtAp/ngA=="
 ---

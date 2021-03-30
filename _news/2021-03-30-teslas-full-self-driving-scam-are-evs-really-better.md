@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla Pseudo LIDAR Using Just Cameras And Imminent Acceleration of Self Driving Improvement"
-    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
-    publishedDateTime: 2021-03-25T23:45:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 66
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2017/12/7180bfad19f2195c59f8a445e080234a-1024x632.jpeg"
-        width: 1024
-        height: 632
-        isCached: true
   - title: "Underage Teen Gets In Tesla’s Back Seat And Claims It Was Self-Driving After Being Pulled Over By Police"
     excerpt: "Tesla’s Autopilot is a very capable system, but in its current state it cannot, and should not, be replacing human drivers. That holds especially true in the case of this incident, where said drivers were not of legal age to obtain a license,"
     publishedDateTime: 2021-03-29T22:58:00Z
@@ -108,6 +92,6 @@ related:
         height: 555
         isCached: true
 
-secured: "y+cVnfR3JscfOzKd0hYVK1VbceifV7JiyVFyEuM1u94STqDQIvrph2sHGaVGy6BdAqWC53dAVJIxaZKd7Ghod6j2tbhWh3ECGmRcdRKMBOv92TcWK5NnJ/rr7ylR1IFMP7tkPi8JaPyBqUraPGXKAz2AB1dr2yIb2LvK6rfpqtCntixXGdjq6JVrfQuhwPMxcQydMUdeIhv9cLosy2Hyd226gRw1DTZTezucThNH65fZYK1CvTHAB5uQyklY78ct/as0EOWCnb38Nbq9oBqTehB7DmXaNzW5mTsZPX7bhZOihKCC8dl66SyQgzNaVt3+bQ5m8CupfcJcp5/poL8Lz/U2kYO1JqgiPAvwa/1YvyQ=;HKqBpiOj5jwLA87b+vXBbw=="
+secured: "kFIfZYBiC+mYOHNzmBpYUhAdLkkwriy4nnfHWy+71sIdE7RWyQNbeSbe0Q3FRcSl5+8uhEIqaht5aKltPoxlc25ZVjHwWBwAK2FuHtdW0XmvH4Tjp7Ux8FCD6UYBWd6HtHfN2ntww1At7IHUfS40Bx6ONltJmwGAmlHPKCXXgC1mmOpIR4pWgfMA9jkRmhBZ6AbcaNmWYBcEezIZgkZkDlVpaFcvLedABTsg2wqkHPFAfRiBZuQAB755H9HYQM+p4S9KazAdlOB9+clH0djaWKD85V0GjTdESPYLW6DRW+x7JYYyDEwq9XHWBEMUUvJaEh0DTI0sCnVyGCzkM0Wci/XQHsEEQjzkWNHNP5E2nzj6zgwVczXZnhqC8/NExH84Rd2x8Xwen+fLDsZLtdZKCxAVYDML1QpoISUZJH0lSe+MmAUyZZHOl4do7Ib2KawY1acIfPlePyVuJD0Ox31VtawHUUQXgQFi0Xt5qq74OdVrINm/EAXGaAlC0VzdfNVlGICRbmHXfRYSJ5FyW2P2Qg==;+NgDoyvZozEcf5jvgJRHrA=="
 ---
 

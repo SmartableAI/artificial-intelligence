@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-27-scavenger-hunts-via-self-driving-cars.md",
+      "title": "Scavenger Hunts Via Self-Driving Cars",
+      "excerpt": "People use conventional cars for undertaking driving-based scavenger hunts, so it is worth assessing how this might occur in an era of self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff10626b5c1af8e4e22c948%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5753%26cropY1%3D493%26cropY2%3D3730",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/",
+      "publishedDateTime": "2021-03-27T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-can-artificial-intelligence-replace-human-therapists.md",
       "title": "Can Artificial Intelligence Replace Human Therapists?",
       "excerpt": "Three experts discuss the promise—and problems—of relying on algorithms for our mental health.",
@@ -157,7 +209,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/03/26/apple-ai-acquisitions-siri-artificial-intelligence-startups-accenture-google-microsoft-facebook/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -631,7 +683,7 @@
       "originalUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1131,57 +1183,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-rio-tinto-to-deploy-heliogens-ai-powered-industrial-solar-refinery.md",
-      "title": "Rio Tinto to deploy Heliogen's AI-powered industrial \"solar refinery\"",
-      "excerpt": "Mining giant Rio Tinto has announced it's going to install a pilot version of Heliogen's high-temperature \"solar refinery\" at a Californian boron mine, supplying clean energy as well as heat for industrial processes,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/",
-      "originalUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/341d9ad/2147483647/strip/true/crop/2819x1879+184+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3c%2Fcf%2F7fe2562f4d5ea428995d61d18f67%2Fendww3evaaaosg4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/energy/rio-tinto-heliogen-concentrating-solar/?amp=true",
-      "publishedDateTime": "2021-03-25T23:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla Pseudo LIDAR Using Just Cameras And Imminent Acceleration of Self Driving Improvement"
-    excerpt: "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ..."
-    publishedDateTime: 2021-03-25T23:45:00Z
-    webUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/tesla-pseudo-lidar-using-just-cameras-and-imminent-acceleration-of-self-driving-improvement.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 66
-    images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2017/12/7180bfad19f2195c59f8a445e080234a-1024x632.jpeg"
-        width: 1024
-        height: 632
-        isCached: true
   - title: "Tesla’s Full Self-Driving Scam; Are EVs Really Better?"
     excerpt: "Whitney Tilson's email to investors discussing if electric cars really better for the environment; Tesla's full self-driving scam revisited.\""
     publishedDateTime: 2021-03-30T14:52:00Z

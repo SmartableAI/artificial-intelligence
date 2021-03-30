@@ -7,7 +7,7 @@ originalUrl: "https://khn.org/morning-breakout/different-takes-is-ai-the-future-
 webUrl: "https://khn.org/morning-breakout/different-takes-is-ai-the-future-of-health-care-opioid-settlement-money-must-be-used-wisely/"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 2700
     height: 1800
     isCached: true
+
+related:
+  - title: "Is Artificial Intelligence changing the rubrics of health care?"
+    excerpt: "Artificial Intelligence all set to transform the rubrics of health care and drug development with new AI based approach."
+    publishedDateTime: 2021-03-30T17:53:00Z
+    webUrl: "https://techstory.in/is-artificial-intelligence-changing-the-rubrics-of-health-care/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/2017-03-23-13-50-17-725x483-1.jpg"
+        width: 725
+        height: 483
+        isCached: true
 
 secured: "r4PKtKjgEDZNjaN9RcQ2eidkpU+/2wac/3femXKQ+riIqvrUgboiV6DWeIxK4BYSPNyz/x3aYClu8QI6rB7H4ioHX7FeYARAQZ41Sv3fxLp3cAcIVqoI/Yqf6seofSB5P98J1yQf/wjVNZbUbnqYOmGm8ZIVNCsonPtdO8tKT5ujWQoQWA758SMQTvwOjJeN58J1OX41ghJOVd4d/aETvIyU7gVYTFgaZkloU0AcHVLaZfy+Lhy+FnoIUcvoGz2H8Y/17uQbKvXGW5e/3sRPKqs8GziPK60DU7YC9PIsYzkSIpH1yENNIQFuXtFFE1ixgsGB7eoHNNN9mDQOhWXsdpCJItX7RiFH7GrxufuEMa0=;PsOZEed+RqbtwMXjw8d0ig=="
 ---

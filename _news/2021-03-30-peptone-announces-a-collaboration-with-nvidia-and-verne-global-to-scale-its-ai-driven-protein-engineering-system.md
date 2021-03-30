@@ -29,19 +29,14 @@ images:
 
 related:
   - title: "DDN Enables Enterprises to Accelerate Success in AI Initiatives with NVIDIA DGX Systems"
-    excerpt: "CHATSWORTH, Calif., March 30, 2021 /PRNewswire/ -- Enterprises increasingly rely on artificial intelligence (AI) as a powerful business enabler with massive potential rewards. However, research has shown that a staggering nine out of 10 AI initiatives fail ..."
-    publishedDateTime: 2021-03-30T14:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-data-management-data-storage-artificial-intelligence-f6b19d46296c568011e250c5ed5d3c67"
+    excerpt: "DDN A3I Storage Accelerates AI Recommendation Systems, Image Analysis and Natural Language Processing with Up to 46 Times More IOPS on GPU"
+    publishedDateTime: 2021-03-30T15:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-1030259216"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
 
 secured: "tREctYaJ93JSWyopndek/YdxNUSfJvNLDWYQB50jKCWRj3TVjeJdAuiLbOJHAJVbYF8ZRPu7KhB8FWbqmDvzE6Lp5u4+sj4O0mSQMmySofmqUrvNwJHEuOBM1G/VzAPboZRyDdzvHLYhGMEGlgaJxO1eHF2K23vymgBlqSZV2m3yjImxZcn80/ekNVOtNbmX50Pmf4qoaR6RSZ3cwJQXk/V2qTrspxnhpbpzjXGu4KHZEXvIu+7qyR+fsIloqvTneB74lC6i+0An+A2zHibmiGC0iCVdAagg9mqVu+axjM9Gr9U6/1sVgiLyFda0aziCK8thaKEj8eQN7N0Oc6B/L3+GXOhOSlMsoyg8V3kM9iY=;ioJ0BvDIHkmvEc5WAMFvqA=="
 ---

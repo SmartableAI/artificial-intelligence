@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-30T14:58:00Z
 originalUrl: "https://healthitanalytics.com/news/cleveland-clinic-ibm-launch-artificial-intelligence-partnership"
 webUrl: "https://healthitanalytics.com/news/cleveland-clinic-ibm-launch-artificial-intelligence-partnership"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/GettyImages-943065376.jpg"
@@ -94,7 +95,16 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Cleveland Clinic, IBM partner to speed health care and life sciences discovery"
+    excerpt: "The Discovery Accelerator is expected to build a research and clinical infrastructure to empower big data medical research in ethical, private ways, discoveries for patient care and novel approaches to public health threats,"
+    publishedDateTime: 2021-03-30T17:46:00Z
+    webUrl: "https://www.bizjournals.com/cleveland/news/2021/03/30/cleveland-clinic-ibm-partner-to-speed-discoveries.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
-secured: "j85nkd8IRtGiZCQRh4fdVuIUnArwUmpRtI3pOlkFLfsBKDiu7S9wcoubBJWuFqnoj01pfW9aKP6OFvD+EszXR7lvM7A27VRwa0Z6TSKOveFGtRCXmBKof19p2ZEtPsYEUj2tWyTDFlj8x63f3drSMaqFiee/6eUjMWBsSxNm6dhjjelPLrr3QNW4IsrFiOfw4lPcA/RTYtrUOVmO96L5Jr2ggMz2A0MKz61FbqrC2hxthGU7viEGaFH2gTbCQIe7jUlEOX7wP5s0zSCKVtsuScZ/LGdteWtUBDc9378N5PUVF3Q2CyE+rCjkWL9Yfx/d3xCcmIfsDCZjaoQpLgWD5dbSk3h+ggK5fC3bx8/bFag=;gwpsjDRLpJrXr+tvbXSa9Q=="
+secured: "93H1sAMc2Ud5U+DiF/NT4DgMDIb0F860FU/WshQdp/Mn9iztgTsnF9ElbJ2+A5lr2DF12xDMB5yBgNPFS3JnVx6MFegrDJB7c1oLA6a44cNVc8IjaW7thy94E/ZDBq/T8uzaNFkrhI4qSXMAvl2dH+2lgpNiKYdEHnVyl/WIosQc+NyEmVpkQmRfp4VGeRz0p5O0I0SKW8/5xx5v8R3MxXNEXQPwmnBJgcVYBjj7eKsR62iJEjAxYsJeOCLDnWFMVlE0BHpQ2zbDHVDhaOUD/3yxMaEJOHoHapM2/oX5hx7x+FQ7IrL6oTS9OFoBT7FnxvxKY/SaOkEYHwxZG3cTS0soBKNKiae5CkWumTMphWafOy8TXXuLF3ySR3fox4qb8dKno9+9ahFgsmBKf++CpENEZJ8XqAZu9z2gjTj4jfs5l0Tnu7MaEcSaLTAdVifqMOG7oBdNM91+oMF8kBnXxXco+OTh4vVyQxAHJzAsevKbrIesBYHD5vEIT2FME9xicLiwnu5IZBuxlr7/DMePww==;xaSEe2xkme6VV80PhYWxcw=="
 ---
 

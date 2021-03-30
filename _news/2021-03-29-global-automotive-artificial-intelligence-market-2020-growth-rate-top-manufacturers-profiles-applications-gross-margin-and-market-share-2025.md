@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning System Market Growth Forecast Analysis by Manufacturers, Regions, Type and Application to 2028 with key players"
+    excerpt: "Rising adoption of cloud-based technology and increasing usage of deep learning systems in big data analytics is driving growth of the market The global deep learning system market size is expected to reach USD 93."
+    publishedDateTime: 2021-03-30T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-system-market-growth-forecast-analysis-by-manufacturers-regions-type-and-application-to-2028-with-key-players-2021-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "OIyUR46MKT5XUbhTeCaAx5PwfWYTc6p1qZcFAzskOZ2ViZG4Qi/nN6bB+N5ItnjjDz5IZkkrWEbabL+5iHmDlbLhTlV0B/PUs31BPmn7/R3G5X7wggL2BxG87rdv5jXuX42yRYg84+i4EeL6MjbonqKDS7us7jtXHxu0BW8zmtQZT3UtIZq1q9eB6lKVepOVxf8i7IVPj2pK20M9jJAM/2NAuRM/af98tldr+8HkGVXLqP0d3QK/uuy9HqUi2Bjl0b51MBYSY0DyehnpDqZGrKYw/LqZTFcbOP8UChRXe5ozbeOmBSKsjT0Vw9ZuM/BrRQGer24vk0OXdDvW5tuoR7ktyudEbm5Bf5izGo9FALU=;mcMRKot68lFZVEiVaX3C2g=="
 ---
