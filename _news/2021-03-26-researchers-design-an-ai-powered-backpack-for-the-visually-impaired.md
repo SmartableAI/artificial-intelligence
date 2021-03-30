@@ -57,15 +57,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Video: AI-powered backpack helps visually impaired navigate"
-    excerpt: "(AI)-powered, voice-activated backpack that helps the visually impaired navigate and perceive the world around them. The backpack can detect common challenges such as traffic signs, hanging obstacles,"
-    publishedDateTime: 2021-03-25T12:34:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16509/video-ai-powered-backpack-helps-visually-impaired-navigate"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "a1/mtca9PoPkiQbEZALF0xJHqxQaARAO8weVai9Io3uJ2u7sBf+iMPhRFHue8Rdq5zL6ckJQKlc9KX8X1UvKhlIGmfz1oUEbQ4in/nBusPk93tSO4b3tMgI+a68li1c3zuUmwl5bht9/CL1pTVYPNM6Vb2V8m6z7VDTLCuhxD7eW/Rw5FzlgJQIV3vbVoG0rJZO4zId5sSIUfmLNoHFZa+RbfGBD38zuvIa1CULiaaV69a393GLY2thIMo28i40m7qCt1dLNwJfIRcjthG5tjQhBarmlxeJR8BxV/uaZeG9zswc4tdEdpbh3U1rTG+X2amR0zxafYasvTpnGYmGH0lKFlZ+DAXMXSXyAlEuOyvM=;8Klf5Qs4NetOVjtQVFHJ3Q=="
 ---

@@ -22,6 +22,20 @@ topics:
 
 related:
   - title: "Robot butlers may take over your household chores, but it will be years before then"
+    excerpt: "For at least a decade, robotics and AI firms have flexed their ability to create machines that can complete various practical household tasks. Last month, Boston Dynamics showed its Spot"
+    publishedDateTime: 2021-03-30T05:00:00Z
+    webUrl: "https://www.messenger-inquirer.com/news/robot-butlers-may-take-over-your-household-chores-but-it-will-be-years-before-then/article_5e8b0e5c-5e7e-5078-8c96-32aff046a3f8.html"
+    type: article
+    provider:
+      name: Messenger-Inquirer
+      domain: messenger-inquirer.com
+    quality: 33
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/messenger-inquirer.com/content/tncms/custom/image/c52fb608-0a01-11e5-9c50-bbf37a41334d.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Robot butlers may take over your household chores, but it will be years before then"
     excerpt: "For at least a decade, robotics and AI firms have flexed their ability to create machines that can complete various practical household tasks. Last month, Boston Dynamics showed its Spot robot dog picking up clothing."
     publishedDateTime: 2021-03-27T16:00:00Z
     webUrl: "https://www.detroitnews.com/story/tech/2021/03/27/robot-butlers-may-take-over-your-household-chores-but-years-before-then/7001216002/"

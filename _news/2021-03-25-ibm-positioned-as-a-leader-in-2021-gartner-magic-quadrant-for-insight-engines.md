@@ -6,9 +6,6 @@ publishedDateTime: 2021-03-25T12:44:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-301255480.html"
 webUrl: "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-301255480.html"
 type: article
-quality: 21
-heat: -1
-published: false
 
 provider:
   name: PR Newswire
@@ -24,22 +21,6 @@ images:
     height: 1414
     isCached: true
 
-related:
-  - title: "IBM Positioned as a Leader in 2021 Gartner Magic Quadrant for Insight Engines"
-    excerpt: "IBM Watson Discovery, an AI-powered search and text-analytics service, uses advanced natural language processing (NLP) to help companies find new insights from complex enterprise documents and data. \"The majority of data does not fit neatly into a database."
-    publishedDateTime: 2021-03-26T00:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-2021-03-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "sRx/EfOP6lHmBqcnsvxIdRVr8axbs7jKQQaYUD+n7sE8gbwzrtoM3CsxVSv/rvUWGu0uWVkdSqnXHiKjtjezgszPMfO4niNYykxdcZAwzw+gIsAtcKx4DblSDjYhg+QeZv15Wa5agXKzzGGIUSQnvBKty/Vmqt5yrjsGczFWOVzU6o+5JqN5xf8I32VhDMbksTxuyUbNOtYfNEZiat6/M0SVinCDLCiHMQb5cdt+Avc8klsWiQ9NH4vZ1U0cwR/GXYGPgO8uVIqOEge7KzJGrPE7UmXt7tZ92s6ct75zO1OSR7DDlE8gn7gHZjCqe1QwykC6MSYZ76nSpp+cwY7Jqq6QbleH3dbmzghvJaNpxnw=;O3YMo/AUmWIcv81kvldfrg=="
+secured: "udLaMCa04Hk8gLTMiryHYBPNm2Mpye4rje/ufT16QqjFjZYixAUk7u5+DDhAiaHNWnDol8YJksOt1Kcy/LwcwKoV3nvQzyqie3c5IdkKNuUtL+pH25UIcwR/HbNbsoTY0qsBSZ0SfmZo5OfyOVA8YrOghLJUB7q0ne1GkOYNS6HwHXoOdODeCgjsmc8QBDiydRfaNEoXbQIgIsGNAgw6M3lHCmeeNzh60UpyOqJppkOv2sOvZ9yEFbVo1sAuvVHNTssiWmGfWMpVyL8/nvI2BXHL+6zLqzJ85jEguwWg3uH7C7+KKQQrvNCRVoFp4/JP01Y+ByAD6Crs/Fm2Q7mM74pKzGJfKj3uCu/2D09JWBk=;L3rv36bNydoAPiuAHXlw+Q=="
 ---
 

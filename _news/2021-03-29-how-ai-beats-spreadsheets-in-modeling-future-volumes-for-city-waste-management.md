@@ -67,20 +67,6 @@ related:
       name: inc42.com
       domain: inc42.com
     quality: 37
-  - title: "How Human AI and Machine Learning Technologies Are Leading the Fight Against Money Laundering and Financial Crime in 2021 and Beyond"
-    excerpt: "The COVID-19 pandemic has exposed widespread vulnerabilities as compliance teams seek to manage remote employees spread across the world; regulators and governments are tightening restrictions; and technology is advancing at breakneck speed in a bid to keep pace with the increasingly sophisticated methods being used by financial criminals."
-    publishedDateTime: 2021-03-25T11:29:00Z
-    webUrl: "https://internationalbanker.com/technology/how-human-ai-and-machine-learning-technologies-are-leading-the-fight-against-money-laundering-and-financial-crime-in-2021-and-beyond/"
-    type: article
-    provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 23
-    images:
-      - url: "https://internationalbanker.com/wp-content/uploads/2021/03/Human-AI.png"
-        width: 1081
-        height: 650
-        isCached: true
   - title: "Study Finds Both Opportunities and Challenges for the Use of Artificial Intelligence in Border Management"
     excerpt: "Frontex, the European Border and Coast Guard Agency, commissioned RAND Europe to carry out an Artificial intelligence (AI) research study to provide an overview of the main opportunities, challenges and requirements for the adoption of AI-based capabilities in border management."
     publishedDateTime: 2021-03-29T09:51:00Z

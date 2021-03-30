@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Informatica Wins Industry Accolades for Cloud Innovation, AI, and Data Privacy Excellence"
-    excerpt: "We’re honored to be recognized for our industry-leading data privacy and governance, as well our cloud innovations,” said Ash Parikh, Informatica’s Senior Vice President of Marketing. “As our customers fast-track their cloud adoption to accelerate their digital transformations,"
-    publishedDateTime: 2021-03-25T12:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-technology-issues-data-privacy-2edae11c4b9a6b32653e69752393a447"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Informatica Wins Industry Accolades for Cloud Innovation, AI, and Data Privacy Excellence"
     excerpt: "Informatica, the enterprise cloud data management leader, announced a Gold and several Silver wins in the Globee 17th Annual 2021 Cyber Security Global Excellence Awards. Informatica was the Gold award winner in the Privacy Solutions category,"
     publishedDateTime: 2021-03-26T10:07:00Z
     webUrl: "https://www.lelezard.com/en/news-19717475.html"

@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-30T03:03:00Z
 originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/30/opinion-artificial-intelligence-tools-for-monitoring-employees-come-with-complications"
 webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/30/opinion-artificial-intelligence-tools-for-monitoring-employees-come-with-complications"
 type: article
-quality: 31
-heat: 31
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://apicms.thestar.com.my/uploads/images/2021/03/30/1094908.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 930
     isCached: true
 
-secured: "BNrhKh8s4hYC3k8tJHPW3vHauxrDOUTqIioThu9F7tPL/jQ/mdw5I6hJZclaO8EapDNm1RMZkjAJrhiGiwpwV08aJYorFWy/PxT326A3IfuQIZX4QTopr5aXBRo07Hzn0jqAYWBVv+b0asU3ew+V5BZUD8g0iz9uuAi9wPU5I5htNyLkSvZu6ki4s95gmuN4PPI0nfTeIm4uSUyGoxcNxRcnGX0qxWbbP2fBtPMI6y7VlfGDbRk65JclwoBXcDR0YnMMP6mfLW++uffPu6lKMkGiNSlj9CMveOiCSg5dqrybMrgt8J5fSiubfkURE+wVmn1f+zv3S/flrL7XF3ogdk558vDGAcG6bqBWxWLGapw=;H4fD02Gm3JGZERC6zGmUow=="
+secured: "rv0nvluhQzquJyPXMupkO2VoDHTZBhGRdI8sMLwskZRp19pj6ZL8YoqgVikrCb0hKMV0pKpcOO8hhgBq/B2eCsIjy2d06rd0Lp4lF9pFCwEww/AIX7JHGyAYzDsolqXvi7ZJGlcdplxnRCE6ANIszVj1gO550fNZt14/jIghDNeGKz55EDb/ymg9oi0DbfioHygcNaRBV8MQ0+NmZBGpVHQQBKdBYjX6LOkT8CMVIZ9f2E6rMbCxhS6tM6rNa6DbWhiJ1E2rFy/gOlygxoILSv2aTKH2jdejuoKo0mtwipSqgt1sVCwBcKn9fYJZYbwJwEdEkoD+lVurmfd2j/YbOG2963JOJqmIOyhN8/r/MsYSFelGMvN9NyIQz+9k2k+50q4GVl48DJQLeNqWvcyY3CAZ3t44w8ide+c+8xEsfFo/vPVRzhjDnm8v5unKH+t5d39QawxopRZ3e/9UcIsU4qcY+y01cel4qGBw+MrjfH7qsn4bHXv4fkDW5uZR76x2pNEqnr42tWhTwBxDQsvCkg==;z5As97SZAP/M4o5Ev3iqJA=="
 ---
 

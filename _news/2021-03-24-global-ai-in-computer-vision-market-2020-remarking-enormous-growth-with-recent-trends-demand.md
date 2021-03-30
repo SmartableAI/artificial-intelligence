@@ -14,6 +14,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://healthcarecmi.files.wordpress.com/2020/07/analysis.gif?w=800"
@@ -21,6 +22,6 @@ images:
     height: 600
     isCached: true
 
-secured: "D4uvA34u1AqhG1I2GZ8BIzfClgA+lI0f77QZ4NprUiOW4e3ombwRAheLnJVHWGlYLFo85SRThCfbYMVhzA/MBHLiu+m4WdDHDFOTqKTNJ3RQw/s49Khcqcei6ZQl7bSgnAKBdfySI4LIvzYxBZWsQaV0U8XeBRdmVlTN/+jQwXJqd1UHAm2GEl/3kycuwQzmaoGGa0uhPa6DR0aw/D/sRqDzsEn2GCqnXt16y4VpqWT2dYiJv0r24wpqyURUnJtAzTvfEOSMO5js6fyGIn7fCtfD/fkPvqIh78wv0dSDFUsRyhAmoUAon0FKgUMYAEV5xMB22RxAjvI34BNS+9+HODHI17ALQ98kKNBe/iCTufg=;FYbbs7iHVZy4ZQu8mOcQFw=="
+secured: "dP49IoJ8wOnpV3sBfZ5qtUTgtQp0jt7K1uc+8JBwkJBad9Zc51gUloy5quda59UWjm7bePW5plmaJdpAzkN+86hk/lsJ2uxmMS6kDBVewLG28YbwJEgF9C2ZebE1Ftst0SfIuCpG0GeutArGQbF07WlNDPvWDXEx7ErrhtY6LSQkA7Q40n5Jz2cV8iVqZmmBPbF8SQ9e9s6ASaDb1OaAGjXGEfMSOa4NmrQnA+3GUV2Nx1k87h7Fv0zjGT6Iz2MMltgcw34LPvgtnpEFqpJYxL6MD758PaGAbG130YVAQzmRrA2eCiSwVgwxHdmXoW2a3fVHwW2b5+ltVGBGNPLhDLi7yKaCyuvz1xiDzFWSNUvJaGt55Azs7ZuvcLz8F7WND4EA5NHAIbmqe/ep8okE1bdelS8a94OcrSH1uPlj6yLAWNJWC30cFaDTzs4xUp0R67TI6uPGAWaig81gM+b0f8HKEztODW0MCEdQzpUtHJM+ZkXfT1lyS02Sw3j9FpCGJOs9VAE/EtiEOHAVK8MHbQ==;jceyxWWfPN40xhYqcl9COw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/robots-are-the-new-trend-in-restaurant-indust
 webUrl: "https://techstory.in/robots-are-the-new-trend-in-restaurant-industry/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,97 +23,6 @@ images:
     width: 612
     height: 612
     isCached: true
-
-related:
-  - title: "Will Self-Driving Cars Disrupt The Insurance Industry?"
-    excerpt: "Automated vehicles are rapidly advancing in capability, altering the risks and liabilities traditionally associated with driving. These changes will disrupt the $300B auto insurance market and the wider P&C insurance industry."
-    publishedDateTime: 2021-03-25T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605799f7019e55638773bbe1%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Why Caretaking Robots Will Revolutionize The Childcare Industry"
-    excerpt: "Artificial intelligence, clever robots, and computer automation have already become key features of the human experience. The products we enjoy, the social media services we use and the websites we view are not only heavily curated by intelligent algorithms but they are often created by them,"
-    publishedDateTime: 2021-03-26T09:14:00Z
-    webUrl: "https://techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/"
-    ampWebUrl: "https://techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-caretaking-robots-will-revolutionize-the-childcare-industry/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/03/Caretaking-Robots.png"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Self Driving Car Insurance: What You Need To Know"
-    excerpt: "Just like previous generations of cars, this new generation of vehicles comes with questions. The big question pertains to self-driving car insurance and how it will work."
-    publishedDateTime: 2021-03-26T16:48:00Z
-    webUrl: "https://www.caranddriver.com/car-insurance/a35950852/self-driving-car-insurance/"
-    type: article
-    provider:
-      name: Car and Driver
-      domain: caranddriver.com
-    quality: 39
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-vehicles-stand-outside-of-a-brooklyn-showroom-and-news-photo-1616776857.?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
-  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
-    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google,"
-    publishedDateTime: 2021-03-29T09:47:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 30
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
-        width: 980
-        height: 512
-        isCached: true
-  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
-    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
-    publishedDateTime: 2021-03-30T00:47:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html?nans"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 30
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
-        width: 980
-        height: 512
-        isCached: true
-  - title: "The 2021 Healthcare Industry: Digital Transformation Leads to New Growth Strategies for Stakeholders"
-    excerpt: "The \"Developing Innovative ROI Streams and Patient-centric Virtual Care Approaches will Shape the Global Healthcare"
-    publishedDateTime: 2021-03-26T13:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20358124/the-2021-healthcare-industry-digital-transformation-leads-to-new-growth-strategies-for-stakeholder"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20358124"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20358124"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
 
 secured: "bWsX3to8Wsnd/uqS2AF3Kb/swuosUEnoDXy2Uzd7oHSHcxVmzrzNwWARPWKWtMbHQuhdmeuIuHR1y7GtL6X+elfTMyOLMYAqL/IbB5L7M22A6ZUsZ52sYTIPDh4/ZeCxMQHd5mWaE7owTkT33lHNNrG/WYfxrg3xGYjLBy8tIs0F1kgAtc5tZhyoeMJ4BfE/VUqqxYmlVR+B4Qc+YTEmoZuCyRJS+fOgT48ExOYM81+XXoqtEghIgp9n+Fn5VhbS2si6hdY9WUWgPIwbQ6Kq4zPsRFJbdcT81sex9pLidmWCVMBy85A0u/l4K2V8lQru1z5/HxOCffr6k6EHJEoFxS9Gu7svg1cZnGW07/7ZRohmrDNU1kWxTfkqL2J/p8jEpaScchhxxVDHjLBaUov4JV7d0U7Jv6ZwMjzMBxfaWvDnlGxf2jHLgRYY4y0GyfuOfKICAgBG1cKUHcipPuJiFBAqbfuygGXS3k9OTfmmCGHf9O2rhtxzna/Ye9flztdec2X52DmPlWGGMXl+0tSwWQ==;uUlWn1ZaQZwH9Klzu5SLpA=="
 ---

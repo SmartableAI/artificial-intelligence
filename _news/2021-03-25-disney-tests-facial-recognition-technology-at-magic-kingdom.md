@@ -57,22 +57,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Disney World begins testing facial recognition technology: Here’s how it works"
-    excerpt: "Disney said the technology will capture an image of a guest’s face and convert it into a unique number, which will then be used for park entry."
-    publishedDateTime: 2021-03-25T11:04:00Z
-    webUrl: "https://www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/"
-    ampWebUrl: "https://www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wftv-com.cdn.ampproject.org/c/s/www.wftv.com/news/local/orange-county/walt-disney-world-begins-testing-facial-recognition-technology-magic-kingdom-heres-how-it-works/VSZWZUMZUBAEBLDIHEFPG7564Q/?outputType=amp"
-    type: article
-    provider:
-      name: WFTV
-      domain: wftv.com
-    quality: 55
-    images:
-      - url: "https://d1hfln2sfez66z.cloudfront.net/03-23-2021/t_6cc242d47b6a4653bcf66739186e5dbe_name_GettyImages_1226596757_scaled.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Disney testing facial recognition technology for entry to Magic Kingdom in Walt Disney World"
     excerpt: "It's a new way to walk into Disney World -- not with a ticket, but by showing your face. Disney's Magic Kingdom theme park in Orlando is testing out facial recognition technology that converts a guest's face into a unique number ID that's linked to their admission ticket."
     publishedDateTime: 2021-03-25T16:19:00Z
@@ -89,15 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Disney World tests facial recognition"
-    excerpt: "Disney World is testing facial recognition for entry to its theme parks. Guests at Magic Kingdom scanned their tickets and got their pictures taken while wearing facemasks on Wednesday."
-    publishedDateTime: 2021-03-25T11:53:00Z
-    webUrl: "https://kdvr.com/video/disney-world-tests-facial-recognition/6470345/"
-    type: article
-    provider:
-      name: FOX31 Denver
-      domain: kdvr.com
-    quality: 19
 
 secured: "nfzoNEr/aLI3N+boMKH3v8xS+wfmi40SKXQNiROGbraM99/U7R45P2bb7dOC1HNTcHmSENTC0tKBkMorkJDirgexLAqEsfkXvogVwxT1jlAvDdd6YWUtZ03LxGK7fgaE8MP1A9g0jR2hM8DdhOfq9D/r+vrRX20woAme0W3ELrK6V9Ax3zektMQjstwVV+sidmPccice2NlMO1VPI6g1ax3CCln0dE+UFH1JnRTGo/jnzDfYyUNVxXtq9VQhENCdXy2nyU8D1juHblvCd7A2s43PI0KU91X7q4SkQVtTJ3sC3dcYWDCMtg9aEIiE5Ny6wRfxkEz/+B6K0TMsyHSy601BZfkcDGmpwcxZzzr6wctj6NABh73WoWgRyro27Px7bRtpBfEXYIMxbo0bE+Db46BycxYSvXs4CFwWCvZEr0/yF/3fSbCkewHgT9lY6QgnAKJ0uFeEDMKuvUFJpKA6db32GIXqqH3lFSEur3F/w5payVxXlbYTypXL+0fRyiqz/xDS/ncD45kBfXhAoQcDWQ==;JOg13+fqTADBWzBgWfC1yA=="
 ---

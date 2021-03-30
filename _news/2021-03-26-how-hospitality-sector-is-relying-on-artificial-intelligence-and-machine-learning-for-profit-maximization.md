@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/hospitality-sector-relying-artificial-intell
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/hospitality-sector-relying-artificial-intelligence-machine-learning-profit-maximization/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 640
     height: 396
     isCached: true
+
+related:
+  - title: "Marketing Is Turning to AI for Customer Acquisition"
+    excerpt: "The first step in using AI/ML for competitive marketing is to understand what the technology can and cannot do today and how it is evolving, says Christian Wettre, general manager of Sugar Sell and Sugar Market at SugarCRM. AI FOR MARKETING IS STILL IN ITS ..."
+    publishedDateTime: 2021-03-30T04:12:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=145993"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 54
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/137274-2021_04_Feature_CustAcquis-ORG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Wxl9JPx4dJc3F8TrdGuYz2b5vuunP63JoDEX+eR6a/2MN9aMVAV/MdEkpImQkXChxpyxMUgbGKB6tW68+XBT423LWO4AHhY9zBJyYGElgPtOustCY8JGkZmE4Xp+CHFr74/vdPVN1dYgfCuNJCZPa60y0oZY1U6wwrDcr59Qx1R375EFFt+A7zMsp9oThx9uDl2wS5rOrEXxLbsilVI8JGEOawfWH7YV6kn5Q3W/VFnSijEbsCEbiA7RioUkFYbHVO7/Gp/En1FfiHNgqv7/5A4hsuSRb6enwY+sl4c1LI8aNaggcDDtr7Kryx+SVRIMk9HpHCTNABx81E6C6w08cQgbiMhCIRzQ4uhjS88kX0s=;dxyWOFl/lZ1xRN4DlGug/Q=="
 ---

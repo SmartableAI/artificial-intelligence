@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2BL0ZO"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BL0ZO"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://images.livemint.com/img/2021/03/30/600x338/2021-03-23T211648Z_2_LYNXMPEH2M1LE_RTROPTP_3_INTEL-MANUFACTURING_1616583948459_1617075374517.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "Fridges, microwaves fall prey to global chip shortage"
+    excerpt: "A global shortage of chips that has rattled production lines at car companies and squeezed stockpiles at gadget makers, is now leaving home appliance makers unable to meet demand, according to the president of Whirlpool Corp in China."
+    publishedDateTime: 2021-03-30T05:22:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/30/fridges-microwaves-fall-prey-to-global-chip-shortage"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/30/1095218.JPG"
+        width: 800
+        height: 547
         isCached: true
 
 secured: "m1KK2f+QhYruQOOSYw7WYhHs4x6T9gg5UYJ2HERgCdjp/WvQEFQeu8i97oG5cXjB8QUFdDnlaUIf9uB92jCdBRatz4ONPi7xvIDB4wabsUAgNWdRnZRzWTsvmixklIF9beXSwBDxJG+rfOLXlaYOuy+/Qt3Xrajj/4daSTiBdntng495EEMkqjw1yndvDcS3NbpiGJ5MmDZYL++4OrqP1Xce40zjo0/vx2zI+4Q7Rgt7BiY6nMQf4Qwf0GdB6yRdjcncHU63QQjDgnqp4nIgIH54xENKIypI1awLlpGet3aoXLltgPzJpSNybapJY/njSXxAYOlnzypLG7p9nKpPx7m1bp5cwJ/0SiqU+ceNzGU=;I6Hk8GVVkfcVs72ILLVC7w=="

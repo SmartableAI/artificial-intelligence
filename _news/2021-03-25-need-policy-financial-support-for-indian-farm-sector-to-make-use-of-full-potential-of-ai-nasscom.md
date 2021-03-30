@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI to be focul point realising India's growth in agriculture: NASSCOM"
-    excerpt: "However, with increased government support, growing AgriTech providers, burgeoning start-up ecosystem ... Several AI-led use cases, such as precision agriculture and farm management, agricultural robots, automated weeding, crop quality and readiness ..."
-    publishedDateTime: 2021-03-25T12:44:00Z
-    webUrl: "https://uniindia.com/~/ai-to-be-focul-point-realising-india-s-growth-in-agriculture-nasscom/States/news/2353634.html"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 19
 
 secured: "I9m7mD1neyCRRaiogIgh/2NZWriFEFnxJXcRWSMA32xo+63R197MSbtF7boylgA7fWhefcPwJ3n81zQOctQZBDcKqnzrD58pksi70OoqtKGYbfgUbtAKGK29pWZswG5IokI7RDZv3HWT2iGdEz/fuod231mEmNjsOx1staIAe8GLo+9BUhlSzO0GTaiju1D9jp4zbCH/K2qoBgCGAxarjUg8PskEIFIfvVnoMpKh1UhSR2W4xUFDXri9i1x06+soi7KKgKrInmkpU/w3pCiIiDZn/A7TpbC8h+YEsctHL1QUutBWnmVOT+SLbFjwty3zSACBMlaYeDUQi6eh4K6zIX2tI9wcMlpIdtuhCY6F6OyHGxlz12YTIBm9mFGhfvxn4Oi687YEKoVFtUc8kauEvRwylI6gYLIibObm90GUFcj9z1ghEySEgIf+TtMG8IKMY5ETFwhqM9Cyjl4Pmpz2AYS2ajzWNCPHshUaXMFOu5Tx0c6FaR9YMLIUMh9RZZWeMhD44HPkYr59h32S0SgvEA==;ugHvUINPbd3KMG0Yb1Fezw=="
 ---

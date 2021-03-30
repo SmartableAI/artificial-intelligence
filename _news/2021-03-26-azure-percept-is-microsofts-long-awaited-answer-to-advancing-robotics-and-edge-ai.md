@@ -7,8 +7,8 @@ originalUrl: "https://www.abiresearch.com/market-research/product/7779227-azure-
 webUrl: "https://www.abiresearch.com/market-research/product/7779227-azure-percept-is-microsofts-long-awaited-a/"
 type: article
 quality: 75
-heat: -1
-published: false
+heat: 115
+published: true
 
 provider:
   name: ABI Research
@@ -20,36 +20,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Microsoft Azure: This new developer kit helps to bust the myth that AI is hard"
-    excerpt: "Microsoft's new Azure Percept Developer Kit aims to make computer vision cheaper and easier, bringing AI to more businesses. The Azure Percept Development Kit (DK) comprises vision (right), optional audio (left) and developer board (middle) modules."
-    publishedDateTime: 2021-03-25T12:02:00Z
-    webUrl: "https://www.techrepublic.com/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-azure-this-new-developer-kit-helps-to-bust-the-myth-that-ai-is-hard/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 115
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/24/881b5d95-5a36-492b-91c6-03087e801b34/resize/1200x/efc8fa0fcda5e9be0b335fc3b931788b/azure-percept-vision-models.jpg"
-        width: 1200
-        height: 1169
-        isCached: true
-  - title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
-    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service"
-    publishedDateTime: 2021-03-29T02:51:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 69
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113"
-        width: 752
-        height: 408
-        isCached: true
   - title: "How Microsoft Azure is Powering Digital Transformation From the Cloud"
     excerpt: "Here’s an overview of its journey so far, and how it’s working to boost Microsoft Azure. In FY 2014 (July-June), Microsoft reported that its commercial cloud revenue hit a $4.4 billion annual run-rate."
     publishedDateTime: 2021-03-26T19:25:00Z

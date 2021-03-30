@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/?
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/visually-impaired-blind-backpack-ai/?amp=true"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Video: AI-powered backpack helps visually impaired navigate"
-    excerpt: "(AI)-powered, voice-activated backpack that helps the visually impaired navigate and perceive the world around them. The backpack can detect common challenges such as traffic signs, hanging obstacles,"
-    publishedDateTime: 2021-03-25T12:34:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16509/video-ai-powered-backpack-helps-visually-impaired-navigate"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "eaRZUpoSffD5v/QH1Uqyjw+yanKT3x8m9otT7e6RO81Q3d37e/l4T2F5h6kMJ8PELEREBpp8QpsCWOxxlug5R/thak/ss/mc7daO0kiinPHRaDGG7eRclB42u7b1NTFezBZfjoromObpJSb1+YjEA08/Ezvp+N841Ew+/tHhkbY6f3qvPFcjxxla/xjU4XbTvtklW/vLp82IhBTnZTxo2HvsTSbHlDR/b1rhwuS6kj8UqqGq9fjeJAyr4mA+fx9tOXUo5hkebeuDvPaH6JIpKw6JB9mls9W9IVA+VdBNv+FuUXKFSM69WxVyaF6qLvv4g8mtLzl05argRo3RPTRI+sXd0Lo6M2rcLf06oOXrCZpBSzEubv4zmh7xKK8w1Tt5MBcEPtZTXrdNWQanUSJ+TirFW5ZLq8tE79o01rmbCpm8eq+BsgJGwhyJTai7I0Csr+K7xfPp0FHNkqRO+I18HLauS65XZQNScrBXS1gqmDW9SuxRrNXuLVn6iELtxfqKzgfDv5CtRH3dwLjjw7v2mA==;ixfYUURzTuWEM8VOPG8scA=="
 ---
