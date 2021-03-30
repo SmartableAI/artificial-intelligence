@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-20-ibm-and-palantir-partner-to-help-businesses-deploy-ai-applications-and-unlock-valuable-data-across-hybrid-cloud-environments.md",
+      "title": "IBM and Palantir Partner to Help Businesses Deploy AI Applications and Unlock Valuable Data Across Hybrid Cloud Environments",
+      "excerpt": "IBM and Palantir Technologies have announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business, with Palantir's next-generation operations platform for building applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-and-Palantir-Partner-to-Help-Businesses-Deploy-AI-Applications-and-Unlock-Valuable-Data-Across-Hybrid-Cloud-Environments-145343.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/IBM-and-Palantir-Partner-to-Help-Businesses-Deploy-AI-Applications-and-Unlock-Valuable-Data-Across-Hybrid-Cloud-Environments-145343.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T11:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta.com",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-ibm-exploring-sale-of-its-watson-health-unit.md",
       "title": "IBM exploring sale of its Watson Health unit",
       "excerpt": "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as",
@@ -1399,50 +1442,7 @@
         "IBM AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-01-20-atos-and-ibm-collaborate-to-accelerate-digital-transformation-in-the-enterprise-with-ai-and-red-hat-openshift-technologies.md",
-      "title": "Atos and IBM Collaborate to Accelerate Digital Transformation in the Enterprise with AI and Red Hat OpenShift Technologies",
-      "excerpt": "SMART Waste/Energy Monitoring and Optimization Solutions – will leverage IBM Watson and Red Hat OpenShift to help manufacturers ... \"IBM and Atos share a similar vision of an AI and data-driven digital transformation. Together, we will address some ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/digital-platforms-services/atos-and-ibm-collaborate-to-accelerate-digital-transformation-in-the-enterprise-with-ai-and-red-hat-openshift-technologies-40657/",
-      "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/atos-and-ibm-collaborate-to-accelerate-digital-transformation-in-the-enterprise-with-ai-and-red-hat-openshift-technologies-40657/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/digital-platforms-services/atos-and-ibm-collaborate-to-accelerate-digital-transformation-in-the-enterprise-with-ai-and-red-hat-openshift-technologies-40657/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/atos-and-ibm-collaborate-to-accelerate-digital-transformation-in-the-enterprise-with-ai-and-red-hat-openshift-technologies-40657/amp/",
-      "publishedDateTime": "2021-01-19T11:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 3
 }

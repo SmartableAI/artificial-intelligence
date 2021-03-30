@@ -7,7 +7,7 @@ originalUrl: "https://dataconomy.com/2021/03/datarobot-ceo-calls-new-era-democra
 webUrl: "https://dataconomy.com/2021/03/datarobot-ceo-calls-new-era-democratization-ai/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "DataRobot CEO calls for ‘a new era of democratization of AI’"
-    excerpt: "DataRobots CEO makes case for approach to building and maintaining AI models that reduces dependencies on data science teams."
-    publishedDateTime: 2021-03-25T14:10:00Z
-    webUrl: "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "JwiXRzWIvDtz2pH0MX9w2JSHNAe7w4x3iK6o7+zsu/ydLPVLaf4U8XarK8HErSTHN2D8yeYL80lIuTukYvEFIciKXU73Wl8FSS5zpezb5uXkSQo7Ab4lQU0xaUDPFXPFDeQ4OuaYOg4ar0IVcKHHWfmJml+JZNG7NKUm5AxSwZjV/ANJcJuHjt6BoF2hSPCFZybdA7m8qR6oWuA7dZWAJLFmztzwQquIFhjiDcTiY2czahVDoodEPvglLWyRMwWZJOZzC24Ooybi9YdEIHYtB9b9TXjPToDXp71M3FM2fdGtjTd7mvg/YDSNpbNOimgY3vzX/ycDvQUAiBGUum06kcMuq9EVWRyYqhBH32+m9oDa0hWDAr+v0JZPX8Bm/k74QRnLB0FipPat2C2w6hsGCvBarneE1ec4WOw76lR301MH7EC/i67HTIiS5JYKp/MRmwmSPEF7oor6Z/gHO/aYoaxHcgj1f7IceLpDpqK5z34/RNCafeG8wh3tpbHpCU49SvVbVZYFHP1MxEXgEiZwbw==;SBzyElFuK8Cml9Yu396O1w=="
 ---

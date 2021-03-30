@@ -60,6 +60,20 @@ related:
         width: 800
         height: 904
         isCached: true
+  - title: "AI in Healthcare Market Is Set to Experience Revolutionary Growth by 2030 | Nuance Communications, Inc., DeepMind Technologies Limited"
+    excerpt: "(April 2021 trend research report ) The new report studies the AI in Healthcare Market in detail and presents comprehensive forecasts regarding the market’s growth trajectory in the coming years 2020 to 2030. The research report on the global market ..."
+    publishedDateTime: 2021-03-30T06:31:00Z
+    webUrl: "https://ksusentinel.com/2021/03/30/ai-in-healthcare-market-is-set-to-experience-revolutionary-growth-by-2030-nuance-communications-inc-deepmind-technologies-limited/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 39
+    images:
+      - url: "https://i.pinimg.com/originals/39/ae/0a/39ae0ac1c326830aa37ebf53e599390d.gif"
+        width: 512
+        height: 384
+        isCached: true
   - title: "Machine learning as a Service Market 2021: Global Industry Analysis Report to 2027"
     excerpt: "Machine learning as a Service MLaaS market is estimated to grow from USD 613 4 million in 2016 to USD 3755 0 million by 2021 at a CAGR of 43 during the forecast period Machine learning is a computing technique"
     publishedDateTime: 2021-03-27T10:14:00Z

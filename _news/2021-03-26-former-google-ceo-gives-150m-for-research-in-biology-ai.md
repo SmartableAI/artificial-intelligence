@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ksat.com/business/2021/03/25/former-google-ceo-gives-150
 cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/business/2021/03/25/former-google-ceo-gives-150m-for-research-in-biology-ai/?outputType=amp"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Former Google CEO gives $150M for research in biology, AI"
-    excerpt: "(AP Photo/Susan Walsh) Former Google CEO Eric Schmidt and his wife, Wendy, have given $150 million to a research institute to establish ... WASHINGTON (AP) — The CEOs of social media giants Facebook, Twitter and Google face a new grilling by Congress ..."
-    publishedDateTime: 2021-03-25T13:34:00Z
-    webUrl: "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/"
-    ampWebUrl: "https://www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/"
-    cdnAmpWebUrl: "https://www-everythinglubbock-com.cdn.ampproject.org/c/s/www.everythinglubbock.com/news/business/former-google-ceo-gives-150m-for-research-in-biology-ai/amp/"
-    type: article
-    provider:
-      name: Everything Lubbock
-      domain: everythinglubbock.com
-    quality: 59
-    images:
-      - url: "https://www.everythinglubbock.com/wp-content/uploads/sites/35/2021/03/8adcfd4080564d8c8922b92c2e69196e.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Tech giant CEOs willing to set AI standards"
-    excerpt: "The CEOs of Silicon Valley tech giants Facebook, Twitter, and Google have all agreed to allow more scrutiny into how their algorithms instruct the flow of information online. During a US congress hearing into disinformation on social media,"
-    publishedDateTime: 2021-03-29T02:17:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/tech-giant-ceos-willing-to-set-ai-standards.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 39
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/twitter%20google%20facebook%20logos.jpg"
-        width: 811
-        height: 457
-        isCached: true
   - title: "Former Google CEO gives Broad Institute $150M for new machine learning, biology innovation center"
     excerpt: "based The Broad Institute to launch a new research center focused on biology and machine learning innovations. In recognition of the gift to establish the Schmidt Center, the Broad Foundation put up an additional $150 million endowment gift to support the ..."
     publishedDateTime: 2021-03-25T21:07:00Z

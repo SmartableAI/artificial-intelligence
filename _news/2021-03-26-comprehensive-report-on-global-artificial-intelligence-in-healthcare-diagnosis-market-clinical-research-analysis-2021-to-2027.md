@@ -134,20 +134,6 @@ related:
         width: 421
         height: 421
         isCached: true
-  - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
-    excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"
-    publishedDateTime: 2021-03-25T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/guardian-and-atidot-partner-to-create-new-insurance-models-and-customer-experiences-using-artificial-intelligence/article_cd0a9935-7170-55a5-b422-8e6111b3f4be.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 3
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/56/256551aa-52cd-54e4-9cea-205d8acc2b6b/605ca61c95499.image.jpg"
-        width: 1000
-        height: 1000
-        isCached: true
 
 secured: "2vp+mXXnlJ00nR6LcfSbpQr9fu+HYaepd7i8RL5G/j1CY2VCVGqg0elnJ8WT+T5hmFHrJIv5aJwRnj5qxJ0NJLt8JJOZTVHxbjIagUdZevLap1WThjw5ZY5TPK8i5nwQlJvRsj+oYmscZncZakrRg9YcacDMAiMIc2/S7nLGjLbHHgUCmen9SfRueHLrFr7yJO26Sw/PAxNyKT69q1xqGQvzzWuV0Zq6wt1i1gDdYndXluT+fXuuefyWzdHnYDwbTeNtPMqZi0FxepVmblXT4OPMjwwcXiznJFE/ysYMnwRy1wVZMI7yZwWqGhF71hqiTVY7t9AuZ1/I9YRUzG1Q+QWA5LyUuAN/+bKD6lQyxOc=;xekJQV1BCBiqvLlvOdTGjw=="
 ---

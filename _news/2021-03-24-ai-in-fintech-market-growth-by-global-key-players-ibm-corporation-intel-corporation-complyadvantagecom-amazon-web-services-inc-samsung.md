@@ -15,6 +15,7 @@ topics:
   - AI in Finance
   - AI
   - AWS AI
+  - IBM AI
 
 images:
   - url: "https://www.worldfinanceinforms.com/wp-content/uploads/2020/01/Digital_banking-1.jpg"

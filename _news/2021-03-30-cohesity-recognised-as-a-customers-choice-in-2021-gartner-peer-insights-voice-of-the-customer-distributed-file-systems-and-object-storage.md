@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Cohesity Recognized as a Customers' Choice in 2021 Gartner Peer Insights ?Voice of the Customer': Distributed File Systems and Object Storage"
-    excerpt: "Voice of the Customer': Distributed File Systems and Object Storage report. With this recognition, Cohesity is the only vendor to be named as a Gartner Peer Insights Customers' Choice for both Distributed File Systems and Object Storage, as well as the ..."
-    publishedDateTime: 2021-03-29T13:27:00Z
-    webUrl: "https://www.lelezard.com/en/news-19721626.html"
+  - title: "Cohesity Recognized as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage"
+    excerpt: "Cohesity Recognized as a Customers’ Choice in 2021 Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage SAN JOSE, Calif.-- (BUSINESS WIRE)--Mar 29, 2021-- Cohesity today announced it has been named a Customers’ Choice in the Gartner Peer Insights ‘Voice of the Customer’: Distributed File Systems and Object Storage report."
+    publishedDateTime: 2021-03-29T13:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-data-storage-computing-and-information-technology-data-management-2b44488f41ab4da2950c10c2d2e4ff78"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Associated Press
+      domain: apnews.com
     quality: 0
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "emBbydWeX47TySirEt2f6vRUXat/TIcpHSLWGdsnbv8kFb3xC+bDMfeabv2gm3ZYEKNYZbM+nPHvezqJYd3biyElZiS0ngpdz2eojSfezVzeuBegZBERW2BcGFLD+qTox1oWQ6TkgHuvpSeQdkc4i62n6YVZvVf/paw/VEbUR6znZ1TZ/GDRgR7XAGNhwgGXJLVQDCYiV7k7t/hhv/kXZ79dHwpiw6QZKNloxzUAtHbnEOU3XysqOBQxs/6sLKPxqdD62RQ2jcH9f8KITtFl0p+UpsAMsG4AGQY65dO6Uj2OzRzGWfMoVplKfT+1NJXtKdAb8/EjrMXOf/zuwoY3jZco8mndlUFOW+YiXjNNqB8=;BqvjsICBZYI8x7mpk4yd3w=="

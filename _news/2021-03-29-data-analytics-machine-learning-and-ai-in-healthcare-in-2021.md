@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-analytics-machine-lear
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
 type: article
 quality: 121
-heat: 211
+heat: 201
 published: true
 
 provider:
@@ -140,20 +140,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 6
-  - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
-    excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"
-    publishedDateTime: 2021-03-25T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/guardian-and-atidot-partner-to-create-new-insurance-models-and-customer-experiences-using-artificial-intelligence/article_cd0a9935-7170-55a5-b422-8e6111b3f4be.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 3
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/56/256551aa-52cd-54e4-9cea-205d8acc2b6b/605ca61c95499.image.jpg"
-        width: 1000
-        height: 1000
-        isCached: true
 
 secured: "BM3ZLDC1T8jYRZMny17qofLkqvx2UtJSzo5jV1QYcYovBlVLV1xEX5lr6vM7Db/xIuPu3B0egkE1lFUalrCzrYHa5H3oqA7AGcqGgFvgs8rXwviUotyMokHoxqUko5h8MuvoCi9NHD1YDUlfxfCiEMZW5BrhDrq20mymJsIDOrCouG2yEpJ3OdKMOH0bF98/ehtJBZG/4kuL1dfZUH48TBD5MHYQAlT3bp2suMeKmLjZCk8xn83sbxixRhRP6Y3hGIvpzS0FvdbNs4hHRhAA00lEjHJGe+GCo5jt/FCBLWI8b/PTEwe8TjKY8R/BE/d/pPFF2KmlVmS4Kk1TaK1RAyIwnEgxUC8HmyOmbFezwsHwQVfVVd4Xtc5ubKPa6NENBcVgiDjA/CHtblUAXqp/RR4G4qr8rxM58LhP1a3mJJ54lHfOn6pVCc4CFD7BBOAr3KXLsbb5zC4WD0s1fLnPWJL90CEMD4qGRUvZRFIeDg4ohW6racbolEFL8ZeNTsviA4/mQUIzEhYZzInU/3x9Sg==;cbcvjRdueyvdI9cwURge/g=="
 ---

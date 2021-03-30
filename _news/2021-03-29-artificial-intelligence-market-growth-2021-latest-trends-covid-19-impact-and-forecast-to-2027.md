@@ -40,20 +40,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19"
-    excerpt: "Preventive Intervention • Public Health Technology Type(s) natural language processing objective • Artificial Intelligence Sample Characteristic - Environment anthropogenic environment Sample Characte"
-    publishedDateTime: 2021-03-25T13:32:00Z
-    webUrl: "https://www.nature.com/articles/s41597-021-00878-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 33
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00878-y/MediaObjects/41597_2021_878_Fig1_HTML.png"
-        width: 685
-        height: 256
-        isCached: true
   - title: "Artificial intelligence to help pinpoint COVID diseases"
     excerpt: "Australian data scientists will use artificial intelligence to identify which COVID patients will likely experience longer-term conditions such as kidney damage. University of Queensland data scientist and lecturer Sally Shrapnel said ongoing kidney damage ..."
     publishedDateTime: 2021-03-28T13:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/03/aidant-picks-core-scientific-for-gpu
 webUrl: "https://insidehpc.com/2021/03/aidant-picks-core-scientific-for-gpu-as-a-service/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
-    excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of"
-    publishedDateTime: 2021-03-25T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service/article_c206b737-ac69-5f0a-be66-50489d991c91.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/89/b8970e9f-a869-5c25-afab-1da10b378232/605c9b6e665fc.image.jpg?resize=648%2C360"
-        width: 648
-        height: 360
-        isCached: true
 
 secured: "YePx8qDRnM/IExRxoga9ZZsgNAhVFKnW6AvPziTc/3YHP8xee94FfinEucVCZqLJ+gfRg88ujrgl53Ta6FGcTk5U64ro120e2CnujI8xKSH6PuSGOyOJvfH8tQGzcGVjPlA2V6dvYZVcdkKQj6rCcXhu1GQDD4Opig5gcmsd4A8cNzHga/9Esu8hftWWG7xuKTs4RIeWYX8rcQGmPPeAeXis8ZZahem35sJRZN0yNEOol6uFCxAGoM1qiXldMCiM7bCo3pIxANMAmcOLPrV/yj3qMamf2mYUGmeITUMywhHRc0rvS2BfVQsNc8QnDBc05WHXWHQezmB9gGgMAYwhqBkG2M6ydnF7ltlQdwzY62U=;zQDvsvkPu6u5cO7N4dFs5Q=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 685
         height: 331
         isCached: true
+  - title: "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning"
+    excerpt: "Scientists at Cambridge Quantum Computing ( ) have developed methods and demonstrated that quantum machines can learn to infer h"
+    publishedDateTime: 2021-03-30T07:01:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/d6fcc3240e758034903f3c1a3a5bd7db"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "uIEBiLu+JnvFwniK6CVsrqaHmSjlCHxo/oh55c8CeXjwClecGpMo6wzJ16NiCj3kEhgMZC8AYVvd8I9Ed7Xdzzy+hM6Pt+dMPoyDE89X64xgmqHw9o6TRGYTpupWFiyFBBHIj1VYWm70NlNDHRiEESIvX2k5UhiRg9MXr+xfHkZnnOFwMCvSZ833TBRxDNnCUGX+zvFzC8ss0OL4hSefrc3gwj4yZ289gjMQAsybZuMkIdHc+XRDVkDHsJG4z2d+uWIDeVIhXNwNA4gz1984llhPGz3YytmxejVK8gcgLGfc4gzeU66fXcjmfpMEr3ycqX79tnZUCYBja8hpMNbVT5wFGiMgNZVIjFzEOunhpg0ep0hLYe7JeK7uMzaauIPq76qzdKVFPfpdFF2mq8PPCU/Rw1sg54wJBauQMX/RrYHr/qLA41Rb/na2CQYT6o8uCYYDMatdaqWJ3DGJIG8CmEfJhDm4I/mJ24rbQgKEHfh8Gh3evnnTGET5SsPdRGenT88XFclX8/FcWloW/lnd0Q==;lxoF4+P1Jf8OMW7fzvyWfg=="
 ---

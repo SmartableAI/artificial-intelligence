@@ -134,20 +134,6 @@ related:
       name: The Sentinel
       domain: ksusentinel.com
     quality: 6
-  - title: "Guardian and Atidot Partner to Create New Insurance Models and Customer Experiences Using Artificial Intelligence and Predictive Analytics"
-    excerpt: "The Guardian Life Insurance Company of America® (Guardian Life) today announced it has entered into a joint venture with the AI and predictive"
-    publishedDateTime: 2021-03-25T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/guardian-and-atidot-partner-to-create-new-insurance-models-and-customer-experiences-using-artificial-intelligence/article_cd0a9935-7170-55a5-b422-8e6111b3f4be.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 3
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/56/256551aa-52cd-54e4-9cea-205d8acc2b6b/605ca61c95499.image.jpg"
-        width: 1000
-        height: 1000
-        isCached: true
 
 secured: "P4zys2BM7z0JdqZ9LofTE5vvp/3q3aGlC0T9/r8Xc7nFfHExPRpfjKLkz8pNarbNj8X3r7gV4sY8033CWT3DlJdSmkG7qSYOFZ8AXaa+JMQVekxzN659scyemUJwVwi1/L7xa37kUDjCs2QryoffNiNh36cVrJ6EuQ44vFscTST5Nq8W2QpPTJ0auMl8rcU7cRryinGj/k+JR+tZ4NlTNgSYr9ujXXAA2NWwjJizdyxFxd0F3R2FHLuagIwz8E6ygyA3BO2XPROqLrooTSw66I7z9rKplMnmn73s7Zzp5DypNlnILVljdKzUO5HqAXRNJOeylNMFZibhyb+MBJxaTb+0KL5lKsvP9flAibEHaw+yOlCv2fUslAFTf0IyNmxgaiIjKvM1hC7YL1EadHk0RB4iHZ5X7S3iRxDrQG11DDVkK1qBfpNyNdThoBy3dLDfSAP59ZO2SlKvFuDnSxc23WJIrK6WtzGLeZqX4JBVcz7BHmgi9q+C3mt0tmv/0IBsbj7XqH9ymr4K5pEagHjjKg==;mjhMEqYRYl8VXX9qfNMuAw=="
 ---

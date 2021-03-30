@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-28-ai-can-be-dangerous-how-to-reduce-risk-when-using-ai.md",
+      "title": "AI Can Be Dangerous - How To Reduce Risk When Using AI",
+      "excerpt": "AI has the potential to be dangerous. As a result, we need to create ways to manage the risk presented by AI-based systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605f79eaad8970188040f338%2F0x0.jpg",
+          "width": 1200,
+          "height": 927,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/03/28/ai-can-be-dangeroushow-to-reduce-risk-when-using-ai/amp/",
+      "publishedDateTime": "2021-03-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know.md",
+      "title": "Does your enterprise plan to try out GPT-3? Here’s what you should know",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a previous article, I talked about the market advantages enterprises could reap by developing applications using OpenAI’s GPT-3 natural language model.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/",
+      "originalUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/gpt-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/27/does-your-enterprise-plan-to-try-out-gpt-3-heres-what-you-should-know/amp/",
+      "publishedDateTime": "2021-03-27T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-28-what-is-dataops-and-why-its-a-top-trend.md",
+      "title": "What‌ ‌is‌ ‌DataOps,‌ ‌and‌ ‌why‌ ‌it’s‌ ‌a‌ ‌top‌ ‌trend‌",
+      "excerpt": "While there are dozens of commercial products for the other domains, Barot said there are only four commercial Platform Ops tools today: Amazon SageMaker, Cloudera SDC, ForePaas, and OneLogic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/27/what‌-‌is‌-‌dataops‌-‌and‌-‌why‌-‌its‌-‌a‌-‌top‌-‌trend/",
+      "originalUrl": "https://venturebeat.com/2021/03/27/what‌-‌is‌-‌dataops‌-‌and‌-‌why‌-‌its‌-‌a‌-‌top‌-‌trend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Excel-data-science-machine-learning-cropped.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/27/what%e2%80%8c-%e2%80%8cis%e2%80%8c-%e2%80%8cdataops%e2%80%8c-%e2%80%8cand%e2%80%8c-%e2%80%8cwhy%e2%80%8c-%e2%80%8cits%e2%80%8c-%e2%80%8ca%e2%80%8c-%e2%80%8ctop%e2%80%8c-%e2%80%8ctrend/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/27/what%e2%80%8c-%e2%80%8cis%e2%80%8c-%e2%80%8cdataops%e2%80%8c-%e2%80%8cand%e2%80%8c-%e2%80%8cwhy%e2%80%8c-%e2%80%8cits%e2%80%8c-%e2%80%8ca%e2%80%8c-%e2%80%8ctop%e2%80%8c-%e2%80%8ctrend/amp/",
+      "publishedDateTime": "2021-03-27T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-27-exoskeletons-with-autopilot-a-peek-at-the-near-future-of-wearable-robotics.md",
       "title": "Exoskeletons with autopilot: A peek at the near future of wearable robotics",
       "excerpt": "We’re developing autonomous control systems for robotic exoskeletons using wearable cameras and artificial intelligence ... we are replacing manual controls — [like] stop, start, lift leg for step — with an automated solution.",
@@ -53,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -200,7 +355,7 @@
       "originalUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -908,50 +1063,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-26-sophia-the-robot-nft-sales-rake-in-1-million.md",
-      "title": "Sophia the Robot NFT Sales Rake in $1 Million",
-      "excerpt": "Sophia the Robot has created and sold her own non-fungible tokens (NFT). Sales reached just over $1 million when all was said and done.",
-      "sourceUrl": null,
-      "webUrl": "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/",
-      "originalUrl": "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32659.pcdn.co/wp-content/uploads/2021/03/bic_artwork_ai_sophia_nft_720.jpg.optimal.jpg",
-          "width": 720,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/",
-      "cdnAmpWebUrl": "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/",
-      "publishedDateTime": "2021-03-26T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https//beincrypto.com",
-        "domain": "beincrypto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
       "path": "_news/2021-03-26-ai-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.md",
       "title": "AI study on aggressive form of cancer could improve patient outcomes",
       "excerpt": "International genomics research led by the University of Leicester has used artificial intelligence (AI ... These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer. It has long been appreciated that asbestos causes ...",
@@ -1088,101 +1199,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-how-ai-can-help-companies-set-prices-more-ethically.md",
-      "title": "How AI Can Help Companies Set Prices More Ethically",
-      "excerpt": "Using AI and data-driven tools, companies can change the price of a good or service based on who is buying, when they’re shopping, and myriad other factors. This power raises a question: Should ethics and societal values factor into these prices — and how?",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
-      "originalUrl": "https://hbr.org/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/03/Mar21_26_843275898.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/03/how-ai-can-help-companies-set-prices-more-ethically",
-      "publishedDateTime": "2021-03-26T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-artificial-intelligence-blazing-a-trail-for-the-future.md",
-      "title": "Artificial Intelligence: Blazing A Trail For The Future",
-      "excerpt": "Amid its continuously evolving nature and the need for ensuring ongoing management, organizations still confront challenges when implementing AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eda41e0b6ac5c00060e2821%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/26/artificial-intelligence-blazing-a-trail-for-the-future/amp/",
-      "publishedDateTime": "2021-03-26T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -1,35 +1,20 @@
 ---
 category: news
 title: "ByteDance team to develop AI chips as China aims for self-reliance"
-excerpt: "Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company's job postings and a source familiar with the situation."
-publishedDateTime: 2021-03-16T06:13:00Z
-originalUrl: "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7"
-webUrl: "https://www.reuters.com/article/us-bytedance-chips-idUSKBN2B80P7"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B80P7"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B80P7"
+excerpt: "Chinese TikTok-owner ByteDance is making plans to develop semiconductors, according to the company's job postings and a source familiar with the situation. The plan is still at an early stage and the company's focus is on Arm-based server-side chips,"
+publishedDateTime: 2021-03-16T08:04:00Z
+originalUrl: "https://www.nasdaq.com/articles/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-2021-03-16"
+webUrl: "https://www.nasdaq.com/articles/bytedance-team-to-develop-ai-chips-as-china-aims-for-self-reliance-2021-03-16"
 type: article
-quality: 104
-heat: 104
-published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555034618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0DM"
-    width: 817
-    height: 545
-    isCached: true
-
-secured: "AYk1fftCn0MHLhZVnCe7GvZ0qf1Yy9xzCL3Fs1q6tBfMpwG/5NpMBR/+1ncLSuGk34NJy2nO3iMDWgprjcB/fXG5tERxljNYMiqn+31+qQfzja6a1dbEjJFWQ1aCFgDBy6x1+3DGkzSJtx5Ia4NPRsMTp7YNekDz7eGwWpDorBRsKCd1ymt2yOKTqDR+W5gRntnrCeZCFHEhjwcUfMIGauo7ckxfy4hOZg+8QygFPHXNsyJujBKe2pJ+QtK/OOlmDEAsg0vZ4FoJImJGW79SqPARPF0Yu+3WPGVl8a6ppEVACUg1glbPBI45HgUpd8nS5QoTF+24Mf3YHwh6hI6GyGzXwQ/F1xbgYnGwkS+gf38=;1gTgVo7OFUZLPnhS9ZYbuw=="
+secured: "/B+yBoLVi4/BtghwDLb/m60n6d4aj7kqq33rQ+AJdj19vU8OZU3G8OSrboJVgULRWhwmHaBAfCz8+NmrlU1e0Hgjz2JA+iI7vZxmg84lE4ZhPMqHsDXGx3F7uTqMDyyKsvCPZxIGaJxr//BxYLjqmW7+PjqOhwAaGFOa3+2zVMmQu7w2IHLWM7JRSyn3TbNiNqLrd4DR4v6o7eR8/8+owfAfVS6EhmDXSucIks+b8qbuziIrn2tC1sfrCI799rsU1mnA9g9mf8e7N9/oiyY1S/4+6M1to7Gntak+YmYXPqBkCxk8YZGqkAR5r04iLD4Pd41RIANlt3nLDi0BAAt15Ka6Y5UX1ETqJGJr2Q7MogLbyopOtYgG4lhrQkV9N/MwuLkpTZvB444U2BpSL27GD0d2GOzBNx2hbfQ634M3bJCbjfLSv5OAVVG2lehuGdy1s3BrE3nL5Zg3noUHA+r9FpdEbW3lfAt9Ny2njrpgXSYaCCg40Qye+ZeiqgXQoYC/QeGwlPdSW1PZF96PRqB5+g==;TvhHjkGLU4r9ezpWs/SmAA=="
 ---
 

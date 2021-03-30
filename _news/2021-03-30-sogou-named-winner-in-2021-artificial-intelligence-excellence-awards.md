@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards"
-excerpt: "BEIJING, March 29, 2021 /PRNewswire/ -- Sogou Inc. (NYSE:SOGO) (“Sogou” or the “Company”), an innovator in search and a leader in China’s internet industry, today announced it has been named a winner of Business Intelligence Group’s 2021 ..."
+excerpt: "BEIJING, March 30, 2021 /PRNewswire/ -- Sogou Inc. (NYSE:SOGO) (\"Sogou\" or the \"Company\"), an innovator in search and a leader in China's internet industry, today announced it has been named a winner of Business Intelligence Group's 2021 Artificial ..."
 publishedDateTime: 2021-03-30T02:24:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
+originalUrl: "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards"
+webUrl: "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards"
+ampWebUrl: "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards?amp"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 149
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2021/pr-newswire_500_4_2055.jpg?itok=O7HolYQy"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -92,19 +94,33 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "The company’s flagship solution, Bright Machines Microfactories, combines intelligent software and adaptive robotics to automate repetitive ... Bright Machines as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said ..."
+    publishedDateTime: 2021-03-29T13:31:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-computing-and-information-technology-united-states-25b950044da2487e8e878ad574549324"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Veritone Wins 2021 Artificial Intelligence Excellence Award for Second Consecutive Year"
     excerpt: "(NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that Business Intelligence Group has named Veritone as a winner in the 2021 Artificial Intelligence Excellence Awards for its patented suite of real-time AI-powered Veritone Energy Solutions."
     publishedDateTime: 2021-03-29T13:05:00Z
-    webUrl: "https://www.thepublicopinion.com/ap/business/veritone-wins-2021-artificial-intelligence-excellence-award-for-second-consecutive-year/article_ae48d5bb-83c6-52ff-b1c3-999e386531ed.html"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-colorado-denver-af77851b09eb4f95b4f6e82fb6adc44d"
     type: article
     provider:
-      name: Watertown Public Opinion
-      domain: thepublicopinion.com
+      name: Associated Press
+      domain: apnews.com
     quality: 29
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/thepublicopinion.com/content/tncms/custom/image/370c41da-17b5-11e6-9d16-83b5310e931b.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "5 People, 24 Companies, and 42 Products Awarded for Excellence in Artificial Intelligence"
     excerpt: "PHILADELPHIA, March 29, 2021 /PRNewswire-PRWeb/ -- The Business Intelligence Group today announced the winners of its inaugural Artificial Intelligence Excellence Awards program. This business awards program sets out to recognize those organizations ..."
@@ -135,6 +151,6 @@ related:
         height: 480
         isCached: true
 
-secured: "jwZH3oxQubUxqU+1lAvKvLpKA8/O66dVBJjazs/WL7Y1d8koed8JzBEeCGOnmexleupCO5Q9zKDrpJfPbyx3+oiuzlRDn8tEKr6qToOo/LggZgQUaqHGnmpuxbBIcdn6JPhwbWo6tnujsBqpx2rpoAP8r2VaE2Gqsxl3iPa80bL/AJLrtbC7Q7ypJh7GE5jMahc37z+xgrxjDhdFOz7WJZJsfBiuBj+zI0QfsCaWRIipwlsf8zvbc1y8gIhC4YADigJbvhUawRubmS0DGVgnMoNp8LtNiwmdTWR08KR/V5Ih2puFrFdAdBd5bFw4fvDoYfTxnPX1X+SHjh4A7WyoG2DAENUNaLRqegE2MZLIfLs=;02jydlc2NTX2kz5RglkS4Q=="
+secured: "LwHzYp21YvdAIbrB8GA85hui5ur5D9ooQSfVasXp1XOg3ccGLJdbvzlKLoY5FTgH3aBoABGaNVkYisLc8vSf9zwYkKWYOpiC53nPZwkyX5LCe+zzuQruRQEgpqcVkJbQTIis+KGuAfcpYhD9O86yDKtZtOr22Ukgu2y/f0oG8OQWIlkDRtoVnClIx9/lGV5Ll4oPiLvrhefCIRJBmbFlRp0whihqJJ1IELkukHVk5IJuQWJKMogdULgYvLFu1rOSL1nrrXYztZVnRKKVQKANvftigtjHyNIvyPIg5jEkiG/nC31AU9xHjdxD1vGZlhEWW5i5uQNnTF/SPDioDv6gfm2BBnAyR2vgXrHTPtdg5g0=;M3bwRFFk0HqDuwaO+5P+BQ=="
 ---
 

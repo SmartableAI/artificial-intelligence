@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-30-sogou-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
+      "title": "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards",
+      "excerpt": "BEIJING, March 30, 2021 /PRNewswire/ -- Sogou Inc. (NYSE:SOGO) (\"Sogou\" or the \"Company\"), an innovator in search and a leader in China's internet industry, today announced it has been named a winner of Business Intelligence Group's 2021 Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards",
+      "originalUrl": "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2021/pr-newswire_500_4_2055.jpg?itok=O7HolYQy",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards?amp",
+      "publishedDateTime": "2021-03-29T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
       "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
       "excerpt": "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 211,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -115,7 +158,7 @@
       "originalUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1335,40 +1378,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-angelini-pharma-chooses-aideas-artificial-intelligence-to-boost-its-digital-transformation-and-international-growth.md",
-      "title": "Angelini Pharma Chooses AiDEA’s Artificial Intelligence to Boost Its Digital Transformation and International Growth",
-      "excerpt": "and Mental Health (including Pain), Rare Diseases and Consumer Healthcare. Angelini's new digital vision is to reposition and elevate its Customer Engagement capabilities using Artificial Intelligence by implementing an innovative AI-Driven CRM system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210310005440/en/Angelini-Pharma-Chooses-AiDEA’s-Artificial-Intelligence-to-Boost-Its-Digital-Transformation-and-International-Growth",
-      "originalUrl": "https://www.businesswire.com/news/home/20210310005440/en/Angelini-Pharma-Chooses-AiDEA’s-Artificial-Intelligence-to-Boost-Its-Digital-Transformation-and-International-Growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

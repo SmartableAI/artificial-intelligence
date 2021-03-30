@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2262959/growth-outlook-how-covid-19-chang
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
 type: article
 quality: 54
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-assisted tracking of worldwide non-pharmaceutical interventions for COVID-19"
-    excerpt: "Preventive Intervention • Public Health Technology Type(s) natural language processing objective • Artificial Intelligence Sample Characteristic - Environment anthropogenic environment Sample Characte"
-    publishedDateTime: 2021-03-25T13:32:00Z
-    webUrl: "https://www.nature.com/articles/s41597-021-00878-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 33
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41597-021-00878-y/MediaObjects/41597_2021_878_Fig1_HTML.png"
-        width: 685
-        height: 256
-        isCached: true
   - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 3:24 PM Artificial Intelligence Market top players include Alphabet (Google Inc.),"
     publishedDateTime: 2021-03-29T09:27:00Z
