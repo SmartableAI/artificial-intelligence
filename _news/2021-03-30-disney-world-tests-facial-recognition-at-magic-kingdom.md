@@ -43,36 +43,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Disney testing facial recognition technology for entry to Magic Kingdom in Walt Disney World"
-    excerpt: "It's a new way to walk into Disney World -- not with a ticket, but by showing your face. Disney's Magic Kingdom theme park in Orlando is testing out facial recognition technology that converts a guest's face into a unique number ID that's linked to their admission ticket."
-    publishedDateTime: 2021-03-25T16:19:00Z
-    webUrl: "https://abc7.com/disney-parks-walt-world-facial-technology/10447573/"
-    ampWebUrl: "https://abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
-    cdnAmpWebUrl: "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/disney-parks-walt-world-facial-technology/10447573/"
-    type: article
-    provider:
-      name: ABC7
-      domain: abc7.com
-    quality: 48
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/10446172_032421-kabc-4pm-disney-tech-vid.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Disney tests facial-recognition technology at Magic Kingdom"
-    excerpt: "Disney is testing out new facial-recognition technology at its Magic Kingdom Park in Florida. The company says it's continuing to look for ways to make the park safer, with a focus on touchless experiences."
-    publishedDateTime: 2021-03-25T15:16:00Z
-    webUrl: "https://bronx.news12.com/disney-tests-facial-recognition-technology-at-magic-kingdom"
-    type: article
-    provider:
-      name: News 12 New Jersey
-      domain: news12.com
-    quality: 24
-    images:
-      - url: "https://img.chdrstatic.com/media/6845aea1-04fa-4c99-85f0-de109fa097a7.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "noKbcXOoG9rHVYvJnCSMwP4bbIP3MY2P2PEs42qMTU6lQ2YeZvqtyqYEwZ3BQlQ0A2RWCDZpQ76tLvSQo47bJuxiwUWbxdfBEj7rhm5uR0WO7pj0E2ishaUDS3WVzzL0Zobq/RClbsJp23jYNm6IL+6a6Wmp8uezzQLQrwsk8DitWo3ZqDzxElVYUkD7nRvS3HoabSwd/d5YOzytLKxsPXn80u0s3Mc5s2NF8867Bd/PWdB2xJPOsZGr3opipYHnx5qP3pnlZd6P/S0AX2IBF2iamqTJnqpFG27rgIKE6Y2jwGZ9zQuOSrmBkfLdG/HfMG0lT8m0DAEf44l4U2VuK1TdoE4nnx9vjdqNAG+ZasEz2d21e46mCkOZYBLNQGYgpAlc4mwLv+e8eqdlbCPUCAZMBHhtbcHmAajFw6gMRFgbv2vyWuUKqLQ/JsLCOpX87oUR8ISc+d0zrdfbrShTfuLau9+fjiVISufcHHEbLE4K4UFw9OpPCY0+dgkBnuevT2TDNVA7AtjgQu31o8sJiw==;fDT1HgiENLY1GxPLCxBK3w=="
 ---

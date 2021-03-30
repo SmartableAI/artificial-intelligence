@@ -28,6 +28,22 @@ related:
       name: ABI Research
       domain: abiresearch.com
     quality: 75
+  - title: "Microsoft Teams offers live transcription powered by AI"
+    excerpt: "Microsoft Teams has announced Artificial Intelligence (AI)-powered live transcription, a written record of the spoken text, for meetings in English."
+    publishedDateTime: 2021-03-30T09:33:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/resize/2000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/10e38143-0cb6-5b99-8c12-12275aab33fc&operation=CROP&offset=148x0&resize=1725x970"
+        width: 651
+        height: 366
+        isCached: true
   - title: "Microsoft Azure Cloud Exec, Leading Sales Expert, and Former VP of Sales, Jim McGuire joins Cien.ai's Board of Advisors."
     excerpt: "Cien Inc., a fast-growing provider of AI-driven sales performance solutions, today announced the addition of Jim McGuire to its board of advisors. Mr. McGuire is a seasoned sales executive, who has worked for some of the largest IT companies"
     publishedDateTime: 2021-03-26T11:47:00Z

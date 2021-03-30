@@ -20,6 +20,17 @@ topics:
   - AI
 
 related:
+  - title: "U.S. banking regulators seek input on how firms rely on artificial intelligence"
+    excerpt: "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions."
+    publishedDateTime: 2021-03-29T17:00:00Z
+    webUrl: "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1RZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LR1RZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LR1RZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 63
   - title: "UPDATE 1-U.S. banking regulators seek input on how firms rely on artificial intelligence"
     excerpt: "U.S. banking regulators announced on Monday they were soliciting public input on the growing use of artificial intelligence by financial institutions."
     publishedDateTime: 2021-03-29T17:28:00Z

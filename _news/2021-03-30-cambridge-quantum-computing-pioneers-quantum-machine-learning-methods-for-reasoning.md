@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Cambridge Quantum Computing Pioneers Quantum Machine Learning Methods for Reasoning"
-excerpt: "Scientists at Cambridge Quantum Computing ( ) have developed methods and demonstrated that quantum machines can learn to infer h"
-publishedDateTime: 2021-03-30T07:01:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/d6fcc3240e758034903f3c1a3a5bd7db"
-webUrl: "https://apnews.com/press-release/pr-newswire/d6fcc3240e758034903f3c1a3a5bd7db"
+excerpt: "Scientists at Cambridge Quantum Computing (CQC) have developed methods and demonstrated that quantum machines can learn to infer hidden information from very general probabilistic reasoning models. These methods could improve a broad range of applications,"
+publishedDateTime: 2021-03-30T07:13:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257273"
+webUrl: "https://markets.businessinsider.com/news/stocks/cambridge-quantum-computing-pioneers-quantum-machine-learning-methods-for-reasoning-1030257273"
 type: article
-quality: 33
-heat: -1
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - Machine Learning
 
 related:
   - title: "Random sketch learning for deep neural networks in edge computing"
@@ -39,21 +38,7 @@ related:
         width: 685
         height: 331
         isCached: true
-  - title: "DOE investing in machine learning tools for data analysis"
-    excerpt: "The Department of Energy is dedicating $29 million to develop new tools and advanced algorithms that will benefit multiple scientific fields and inform cutting-edge solutions for a variety of complex problems."
-    publishedDateTime: 2021-03-26T20:28:00Z
-    webUrl: "https://gcn.com/articles/2021/03/26/doe-advanced-analytics-algorithms.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2014/October/NSF_HPC.png"
-        width: 620
-        height: 300
-        isCached: true
 
-secured: "r3Adp0vIUM4j16n4WhwYYHLMLZlPKCRsdV2EBuh0TdxPOcpzNqfZyVrOGcyitFra6teFu+Jk0NpZ4n5H4xqGG7IEMErzYr+x57Ijg5ENWjlsxEHzuMSLUAPxBGIIJtbsn1Qw/JsbBA/v35ok1cMa/GzWNEIvolz5r7+tMNjzBf+AaD0cBEK+Kukg9Lf5YIWNYZvKbJlt57WXq0NPN/hcKpQ0cPB5iVFk2vq3+4IrALh8nLGPKVxusnGDX/S3KRwa7WXX4IBHUuXRoZNV7nzvJAOslnmbX2MpkS4XDkRTa92Ciqg/r6Y6xDmWdeOx4BH3sES/V3srYLRD1/LPwyylgbl2/qy8EAmhI+GFX3FhDC0=;7sRuKgYW+olnbRox2EJegQ=="
+secured: "2qnhq/nV00BV4ec+X6j2ecIWG0O8kJVJc0YBXxV0n+SpRrlrDxF5TAKAmJF0GyYXbHTTkstHBSfONZFIuKuzoN+DSj048kRJARLTzpWOlM9Bk1HCQSV5d9RODsAxHuKieYKT+o17RBeMKWTqNt6WOUER6CEXz/06vxYutMQxFKjd3ozIOd4i8gwwLfpIvHiNH8vyjYSn9u4AqYNCA5qjaOekKUYjJCOwe+ELnZqJG93WIJeueoCt8ZiWMTRZ3XP2uogzz+OdhRr+82pNCqCCOaudOsVdvgrd9QkruBvt3aSI94p8yYPlwBjBtqLaSgVvph5/yK124m1bfO1vg6WrJK8xFhslcudHMdiy4FUYuYU=;BYQ8zdw3eArJl2GVsve0+A=="
 ---
 

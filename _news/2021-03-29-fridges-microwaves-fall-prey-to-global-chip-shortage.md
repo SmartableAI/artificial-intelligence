@@ -48,18 +48,18 @@ related:
         height: 338
         isCached: true
   - title: "Fridges, microwaves fall prey to global chip shortage"
-    excerpt: "A global shortage of chips that has rattled production lines at car companies and squeezed stockpiles at gadget makers, is now leaving home appliance makers unable to meet demand, according to the president of Whirlpool Corp in China."
-    publishedDateTime: 2021-03-30T05:22:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/30/fridges-microwaves-fall-prey-to-global-chip-shortage"
+    excerpt: "The U.S. based company, one of the world’s largest white goods firm, saw chip deliveries fall short of its orders by about 10% in March, Jason Ai said, Reuters reported. “It’s a perfect storm,” he said on the sidelines of the Appliance and World Electronics Expo."
+    publishedDateTime: 2021-03-30T09:54:00Z
+    webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDrOiUOTrhHmiMxB%2fHAd3MnQ%3d"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
+      name: bna.bh
+      domain: www.bna.bh
     quality: 39
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/30/1095218.JPG"
-        width: 800
-        height: 547
+      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/6-f5fd4a52-8330-42e6-8bd0-9d2ec06a1c32.jpeg"
+        width: 740
+        height: 453
         isCached: true
 
 secured: "m1KK2f+QhYruQOOSYw7WYhHs4x6T9gg5UYJ2HERgCdjp/WvQEFQeu8i97oG5cXjB8QUFdDnlaUIf9uB92jCdBRatz4ONPi7xvIDB4wabsUAgNWdRnZRzWTsvmixklIF9beXSwBDxJG+rfOLXlaYOuy+/Qt3Xrajj/4daSTiBdntng495EEMkqjw1yndvDcS3NbpiGJ5MmDZYL++4OrqP1Xce40zjo0/vx2zI+4Q7Rgt7BiY6nMQf4Qwf0GdB6yRdjcncHU63QQjDgnqp4nIgIH54xENKIypI1awLlpGet3aoXLltgPzJpSNybapJY/njSXxAYOlnzypLG7p9nKpPx7m1bp5cwJ/0SiqU+ceNzGU=;I6Hk8GVVkfcVs72ILLVC7w=="

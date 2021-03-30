@@ -7,7 +7,7 @@ originalUrl: "https://www.abiresearch.com/market-research/product/7779227-azure-
 webUrl: "https://www.abiresearch.com/market-research/product/7779227-azure-percept-is-microsofts-long-awaited-a/"
 type: article
 quality: 75
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "Microsoft Teams offers live transcription powered by AI"
+    excerpt: "Microsoft Teams has announced Artificial Intelligence (AI)-powered live transcription, a written record of the spoken text, for meetings in English."
+    publishedDateTime: 2021-03-30T09:33:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/resize/2000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/10e38143-0cb6-5b99-8c12-12275aab33fc&operation=CROP&offset=148x0&resize=1725x970"
+        width: 651
+        height: 366
+        isCached: true
   - title: "How Microsoft Azure is Powering Digital Transformation From the Cloud"
     excerpt: "Here’s an overview of its journey so far, and how it’s working to boost Microsoft Azure. In FY 2014 (July-June), Microsoft reported that its commercial cloud revenue hit a $4.4 billion annual run-rate."
     publishedDateTime: 2021-03-26T19:25:00Z

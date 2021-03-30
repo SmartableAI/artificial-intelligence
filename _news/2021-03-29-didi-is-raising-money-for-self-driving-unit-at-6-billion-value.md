@@ -91,6 +91,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "New early warning system for self-driving cars"
+    excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial"
+    publishedDateTime: 2021-03-30T08:20:00Z
+    webUrl: "https://www.miragenews.com/new-early-warning-system-for-self-driving-cars-536911/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 24
+    images:
+      - url: "https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/pexels-taras-makarenko-593172.jpg"
+        width: 5760
+        height: 2469
+        isCached: true
   - title: "Video: Woven Capital invests in self-driving startup Nuro"
     excerpt: "Woven Capital, L.P., an investment wing of Toyota, has made its first investment into Nuro Inc., a self-driving shuttle startup. Previously, Nuro raised $500 million in funding to expand its autonomous goods delivery service using self-driving shuttles that include no seats or cockpit for drivers."
     publishedDateTime: 2021-03-26T12:28:00Z

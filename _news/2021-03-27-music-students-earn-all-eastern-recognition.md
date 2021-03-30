@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Student journalists earn recognition"
-    excerpt: "Gretna High School student journalists recently competed in the Nebraska Press Women High School Communications Contest for the first time. GHS students brought home 11 awards out of 16 submitted"
-    publishedDateTime: 2021-03-25T16:00:00Z
-    webUrl: "https://omaha.com/community/gretna/student-journalists-earn-recognition/article_eec6dbad-b1c4-5c5b-8413-3a46c4b82601.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WBdVST+7FSakkb6AmiaPRsQ9SR2GvfAkKtjR1r1zDhFEyzz3wXdqAxS/8X5gSXRBD3zFUm5PlxB7GpaKpU81fZKXl7JPA2dPJqbB3MU1G1Lsn/AGQ6DTPPuJIphRdD2HFtb3uolxTSAqLsPyUOloxdUAXfgJ0VTKrnWXU2UKWdbGXmTQCJDnORm53EdgaQyUuroY4O/GZjBRq9hYTCORW4bAnOsNrPeWaKxVogU3B4XseWk6lIyCM6qJ5cYF88lHMN4QXmnuUdY4TL1TbIlRYNPaqg9N7pSGtPAcJgVpiySTgoKsge+Bme/1fxgsGdv/gB65fNFjFmY+ZxpDzbC6aUBLXj7oCuVuGRHY+y0la86Ok5KS8RR+tqNMxCZR4Tsh5cgSChDGMml0fhtoHA6s5FV+6rj9YujHRUHq7rzqWxl/oQE3N3QVQ0e0HNRf3RQnghleDhZJ821L6n7Go/O7wyYNsSyE6yBNp437XwuJu5r4bxsMAmYAyvuU/LllsGmf2+CdSqSuwB+8bJ0QtNT8ow==;OM0+WcpMczFW7KH+CAYduQ=="
 ---

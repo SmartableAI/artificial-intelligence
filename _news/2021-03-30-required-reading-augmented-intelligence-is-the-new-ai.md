@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Get the training you need to become adept at AI and Machine Learning"
-    excerpt: "The first class will give you the foundations you need when it comes to artificial intelligence and machine learning. Over the course of 72 lectures, this course provides the basics of Deep Learning by giving an insight of different neural networks."
-    publishedDateTime: 2021-03-28T20:14:00Z
-    webUrl: "https://www.popsci.com/story/sponsored-post/essential-ai-machine-learning-certification-taining-bundle/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 54
-    images:
-      - url: "https://www.popsci.com/app/uploads/2021/03/23/sale_25319_article_image-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "BlD15jrehUXfgTdGayvPpZcW9HejZK+njQlyDrne/nPjSQWB6ix52omsbquCr82nkwU8lsPKgs+33/xHmUyzpZamuVXCj2fJHFAEu4v2ATFNsNxiOdOnjosvUpMbB3nJ70lDaxCg/+G3JsgFnjWyGz1sdQ+hIyvCv8bmKs9LZhqDd/yD0eXge/pSHWKlv32dLx4TQm7MaxkTnaDpcl3AOOukNcd2ZpxtIdLJcods3wy7SkdLWsc8ZpQQkUjqgi14xWLJ0sfVczCifCBtMOjZEMIxGzQeZiFmMY/B4F1RTcXc7jU3RoYXqGWpi/PGRGtlNr+AqY/62iV2mezMej0CWEjy9ALSiYfAlkoNdHcefkw=;55S/wlpPFx3Rm+S4rRqOPQ=="
 ---

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "BEIJING, March 30, 2021 /PRNewswire/ -- Sogou Inc. (NYSE:SOGO) (\"Sogou\" or the \"Company\"), an innovator in search and a leader in China's internet industry, today announced it has been named a winner of Business Intelligence Group's 2021 Artificial ..."
-    publishedDateTime: 2021-03-30T02:24:00Z
-    webUrl: "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards"
-    ampWebUrl: "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 59
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2021/pr-newswire_500_4_2055.jpg?itok=O7HolYQy"
-        width: 763
-        height: 509
-        isCached: true
   - title: "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards"
     excerpt: "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category from The Business Intelligence Group for the company's collective performance developing highly-integrated artificial intelligence (AI)-powered computing platforms."
     publishedDateTime: 2021-03-29T15:00:00Z
@@ -93,15 +77,15 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "The company’s flagship solution, Bright Machines Microfactories, combines intelligent software and adaptive robotics to automate repetitive ... Bright Machines as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said ..."
-    publishedDateTime: 2021-03-29T13:31:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-computing-and-information-technology-united-states-25b950044da2487e8e878ad574549324"
+  - title: "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "Sogou Inc. (NYSE:SOGO) (“Sogou” or the “Company”), an innovator in search and a leader in China’s internet industry, today announced it has been named a winner of Business Intelligence Group’s 2021 Artificial Intelligence Excellence Awards."
+    publishedDateTime: 2021-03-30T02:25:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 35
+    quality: 39
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

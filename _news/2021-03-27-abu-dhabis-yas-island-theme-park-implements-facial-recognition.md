@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/authentication/2021/abu-dhabi-yas-island-them
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: pymnts.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Abu Dhabi theme parks roll out face recognition for access and payments"
-    excerpt: "Yas Waterworld and Warner Bros World theme parks and to make contactless payments at retail and dining outlets that support its face recognition technology. To use the new FacePass service, visitors create an account on the Yas Island mobile app ..."
-    publishedDateTime: 2021-03-25T15:08:00Z
-    webUrl: "https://www.nfcw.com/2021/03/25/371360/abu-dhabi-theme-parks-roll-out-face-recognition-for-access-and-payments/"
-    type: article
-    provider:
-      name: nfcw
-      domain: nfcw.com
-    quality: 39
-    images:
-      - url: "https://www.nfcw.com/wp-content/uploads/2021/03/yas-island-mobile-app.jpg"
-        width: 1176
-        height: 760
-        isCached: true
   - title: "Disney pilots face recognition for entry to Magic Kingdom theme park"
     excerpt: "Visitors to Walt Disney World Resort, Florida, USA, are testing a contactless biometric system enabling them to use face recognition to enter"
     publishedDateTime: 2021-03-29T15:01:00Z

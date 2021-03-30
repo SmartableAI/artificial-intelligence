@@ -26,22 +26,6 @@ images:
     height: 2671
     isCached: true
 
-related:
-  - title: "Waymo Provides Look Inside Self-Driving Truck Testing"
-    excerpt: "Autonomous vehicle developer Waymo offered a look inside the day-to-day testing of its self-driving trucks on public roads through a virtual ride-along event for members of the press."
-    publishedDateTime: 2021-03-25T15:15:00Z
-    webUrl: "https://www.ttnews.com/articles/waymo-provides-look-inside-self-driving-truck-testing"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 39
-    images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/waymo-virtual-phoenix-1200.jpg?itok=UEAuO5XM"
-        width: 470
-        height: 246
-        isCached: true
-
 secured: "u8bP9cULk6Yv/sAt03onHDYtZD1ZQ7wtel8kWLRPDRFv2a9XOc1JafxR9PBGKLCzQ061Z8k2ob3tk0HM0Ayn8uTbxj6ny0OnfLq5Dw0QVMJ1Za3I7y4O5oNCh2QYi4AvvVDWE6JyOKdhQRPhjhSs7B4V5bQoPJex7IbOuKb/YOvFVJNdTsGnRCVVrvUch+yJzv3s7Gutxs8wbIUPychHLm3BXxw7KYfH6jHR7Jb2brj/BvuZKHIkDkCxJwBlvNrY/x+14ear4n44pcf/axaRTkyhpKg5sdXZxSucJrg29Z7akj5cNLFDcUQjySDS7q6Obp1NUZ1YSS9QsY2TMRr1bpVxlJA02oM9SLFetNixXlU=;Zi48RRCfhLmIhZ44FrKrBw=="
 ---
 

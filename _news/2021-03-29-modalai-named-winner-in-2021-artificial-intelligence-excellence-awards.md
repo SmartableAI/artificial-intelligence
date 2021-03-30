@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20384827"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20384827"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 132
+published: true
 
 provider:
   name: Benzinga.com
@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "BEIJING, March 30, 2021 /PRNewswire/ -- Sogou Inc. (NYSE:SOGO) (\"Sogou\" or the \"Company\"), an innovator in search and a leader in China's internet industry, today announced it has been named a winner of Business Intelligence Group's 2021 Artificial ..."
-    publishedDateTime: 2021-03-30T02:24:00Z
-    webUrl: "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards"
-    ampWebUrl: "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 59
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2021/pr-newswire_500_4_2055.jpg?itok=O7HolYQy"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Payrailz Named a Winner in the 2021 Artificial Intelligence Excellence Awards"
     excerpt: "Healthcare Triangle is proud to announce its launch of readabl.ai, a state-of-art, advanced automatic capture solution powered by Artificial intelligence (AI) & Natural Language Processing (NLP) for document classification, information extraction and..."
     publishedDateTime: 2021-03-29T14:05:00Z
@@ -78,6 +62,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "Sogou Inc. (NYSE:SOGO) (“Sogou” or the “Company”), an innovator in search and a leader in China’s internet industry, today announced it has been named a winner of Business Intelligence Group’s 2021 Artificial Intelligence Excellence Awards."
+    publishedDateTime: 2021-03-30T02:25:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "alva named winner in 2021 Artificial Intelligence Excellence Awards"
     excerpt: "Artificial Intelligence Excellence Awards, for its groundbreaking Machine Learning capabilities. The award recognises alva’s development of advanced Natural Language Processing (NLP) technology to enable the launch of an entirely new intelligence category - Stakeholder Intelligence - that helps businesses deliver shared value to all stakeholders."
     publishedDateTime: 2021-03-29T14:14:00Z
@@ -87,20 +85,6 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "The company’s flagship solution, Bright Machines Microfactories, combines intelligent software and adaptive robotics to automate repetitive ... Bright Machines as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said ..."
-    publishedDateTime: 2021-03-29T13:31:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-computing-and-information-technology-united-states-25b950044da2487e8e878ad574549324"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -149,6 +133,6 @@ related:
         height: 480
         isCached: true
 
-secured: "rRm/9G2qQKnkkctTLcPPAGwEvkzTsK+s/x6GIW8nSutRlim788BZzyPuyNN84pyVkz1RVNopBrRF++C85AFZKYnyoRyMtueySk58cV9xhODVDM/v9x6TwEfrGvPY7i/ePetN1IlrQwpng5wGMyFkoEwJYEo80+M8X/QY6yy/5JIsSJ4WmIphddI9tzTo5FOhfBY3tVOJHTDDC6/cD+ex5HzxYL0bVZVDoIAW9bVyEPprqNsy3Jmyxuf+AqXCJLtZpL6M34tce2cydMMWQehWWIq/FKJ/mxTAhZDwZZRzIEp//fmbOJG4yndpNtdtL91ElHrA+2WuGWj7RrcIJ3EP1X1zKSYc1y9HhEyyGbFUkPI=;rKQvAxt13yHdbl/XYBN8Rg=="
+secured: "aHW43vgU2RvG6LSpJbNTAZbTycR4AoIKAq8qTzqhrSGXQtC3Y4YLzvH+G58eyxPYb/6Iwlkf2kk4DskRmo2X4kkupfi/9rj9lmEofgXKAOaqu5pS/iDFeihRcW1HUBMwvgKZD++kVOwRwiig/y13+p7ScdeQxf7AT1Mx8/JTJTyPTpDVjmxvsiSoehEH/nxlw1dxCm+hokxaQqUB4OnHtifXOWKIlDrWDCSElZa+LQJvzbiIUH34r4SCZEirSDTlKwlVOVkvNZsKeRcNiOb4+ISAG33n7TubigCMIMrOXdrqPvCW7NruRa//kFVT6t593SaM+dD3M0iZvQi2/VY3wX2Zk5Fv0OUyo49zqKQAw0A=;xSfWN8AqTsNd7YuFcDc3Yg=="
 ---
 

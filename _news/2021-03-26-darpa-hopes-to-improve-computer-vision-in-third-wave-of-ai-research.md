@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseone.com/technology/2021/03/darpa-hopes-improve-
 webUrl: "https://www.defenseone.com/technology/2021/03/darpa-hopes-improve-computer-vision-third-wave-ai-research/172948/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "DARPA Seeks to Improve Computer Vision in ‘Third Wave’ of AI Research"
-    excerpt: "The advanced research office is preparing a solicitation for novel research into In Pixel Intelligent Processing as the next breakthrough in artificial intelligence."
-    publishedDateTime: 2021-03-25T16:55:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/03/darpa-seeks-improve-computer-vision-third-wave-ai-research/172921/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/upload/2021/03/25/NGvision20210325/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "DARPA Aims To Bring Computer Vision AI Systems Into “Third-Wave” of Development"
     excerpt: "The Defense Advanced Research Projects Agent (DARPA) is starting a project intended to improve computer vision techniques and start a “third wave” of AI research. The third wave of AI research seeks to address the limitation of the first and second ..."
     publishedDateTime: 2021-03-28T06:57:00Z

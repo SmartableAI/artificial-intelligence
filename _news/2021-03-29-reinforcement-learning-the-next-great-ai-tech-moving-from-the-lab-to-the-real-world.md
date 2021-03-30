@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Get the training you need to become adept at AI and Machine Learning"
-    excerpt: "The first class will give you the foundations you need when it comes to artificial intelligence and machine learning. Over the course of 72 lectures, this course provides the basics of Deep Learning by giving an insight of different neural networks."
-    publishedDateTime: 2021-03-28T20:14:00Z
-    webUrl: "https://www.popsci.com/story/sponsored-post/essential-ai-machine-learning-certification-taining-bundle/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 54
-    images:
-      - url: "https://www.popsci.com/app/uploads/2021/03/23/sale_25319_article_image-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Required Reading: Augmented Intelligence Is the New AI"
     excerpt: "CRM: What exactly is augmented intelligence, and how do businesses acquire it? Hurwitz: Augmented intelligence is a form of artificial intelligence that incorporates a combination of automation of machine intelligence with human insights and context to solve complex problems."
     publishedDateTime: 2021-03-30T04:13:00Z

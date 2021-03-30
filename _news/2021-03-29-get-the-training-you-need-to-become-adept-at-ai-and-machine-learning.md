@@ -25,35 +25,81 @@ images:
     isCached: true
 
 related:
-  - title: "Reinforcement learning: The next great AI tech moving from the lab to the real world"
-    excerpt: "Reinforcement learning (RL) is a powerful type of AI technology that can learn strategies to optimally control large, complex systems."
-    publishedDateTime: 2021-03-29T00:20:00Z
-    webUrl: "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/"
-    ampWebUrl: "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/"
+  - title: "Redefining what a map can be with new information and AI"
+    excerpt: "Sixteen years ago, many of us held a printout of directions in one hand and the steering wheel in the other to get around— without information about the traffic along your route or details about when your favorite restaurant was open. Since then, we’ve been pushing the boundaries of what a map can do,"
+    publishedDateTime: 2021-03-30T10:00:00Z
+    webUrl: "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/"
+    ampWebUrl: "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/ai-4.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://blog.google/static/blogv2/images/google-1000x1000.png"
+        width: 1000
+        height: 1000
         isCached: true
-  - title: "Required Reading: Augmented Intelligence Is the New AI"
-    excerpt: "CRM: What exactly is augmented intelligence, and how do businesses acquire it? Hurwitz: Augmented intelligence is a form of artificial intelligence that incorporates a combination of automation of machine intelligence with human insights and context to solve complex problems."
-    publishedDateTime: 2021-03-30T04:13:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146010"
+  - title: "Why Representation Matters When Building AI"
+    excerpt: "The innovations leveraging AI can be incredibly powerful, but they are as prone to biases as the humans that made them. When the right perspectives, identities and experiences don’t go into building,"
+    publishedDateTime: 2021-03-28T19:28:00Z
+    webUrl: "https://www.forbes.com/sites/rebekahbastian/2021/03/28/why-representation-matters-when-building-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/rebekahbastian/2021/03/28/why-representation-matters-when-building-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebekahbastian/2021/03/28/why-representation-matters-when-building-ai/amp/"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/137321-2021_04_ReqReading-ORG.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6060e4305e7060b9d3a2aa11%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 801
+        isCached: true
+  - title: "Andrew Ng: Forget about building an AI-first business. Start with a mission."
+    excerpt: "AI pioneer Andrew Ng reflects on how companies can use machine learning to transform their operations and solve critical problems."
+    publishedDateTime: 2021-03-26T09:10:00Z
+    webUrl: "https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/"
+    ampWebUrl: "https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 54
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/03/AndrewNg-05.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
+  - title: "New Role to help Drive AI and Cheminformatics"
+    excerpt: "Drug discovery software solutions provider Optibrium has announced Dr Rae Lawrence as Director of Software Development to focus on accelerating its artificial intelligence (AI) technologies and"
+    publishedDateTime: 2021-03-26T00:52:00Z
+    webUrl: "https://www.labmate-online.com/news/news-and-views/5/optibrium/new-role-to-help-drive-ai-and-cheminformatics/54790"
+    type: article
+    provider:
+      name: labmate-online.com
+      domain: labmate-online.com
+    quality: 39
+    images:
+      - url: "https://www.labmate-online.com/assets/file_store/pr_files/54790/thumbnails/images/600w_rae_lawrence-(2).jpg"
+        width: 600
+        height: 657
+        isCached: true
+  - title: "Informatica Wins Industry Accolades for Cloud Innovation, AI, and Data Privacy Excellence"
+    excerpt: "Informatica, the enterprise cloud data management leader, announced a Gold and several Silver wins in the Globee 17th Annual 2021 Cyber Security Global Excellence Awards. Informatica was the Gold award winner in the Privacy Solutions category,"
+    publishedDateTime: 2021-03-26T10:07:00Z
+    webUrl: "https://www.lelezard.com/en/news-19717475.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 30
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "GK1tsA3hx8Ao72U9dBLXLdLGJ3Mk4OIPikiTeyHy85xsY/7gHRSA9TG8omJYb4Yxd1Isl46ShLneBEYNKXcIQnVDrgj2N7qRPRQBLIWdnQSSXfTtV2q4X7yq5Yz0ljI57mIZTwVqQ1UTMU4pADB39WMxxHc3NtHSqfIsd+TNqsDD9CG9kDu7CAvKwVyuO6WOj2RSnFOSqkLBi/0sGlYeHM42+Aku3Xf/fozlzq+puztstNeFFBYK7Y/uTfPAcMcJpLnxTXfvpkYUhMWgER69bcBVgLV7AxfhLAVumdXjh5ZLyrMB9FOA9XeFnjuPIE0yK8kx+XgoQ0+JQTQIouSFne5KVMIbbJMbUXL4iPrlRvqfECPmmYl1zuxuz95tKQgiX99FNlMIL9hjmbTGu8WcpmRA7OCIN6XmubboaMl4H5VtU/9Qk/vfTJVgkJ28iC30yd3LgKj7zAI9w82+S6D1Z15zz8VYk8LGTU7l/EMwm0Or5Z7VrBc8yL3Uyni8u6BHyxad5XpbZqrBFNO8L57GWA==;ard9reaVdPqGROTQR0vn2Q=="

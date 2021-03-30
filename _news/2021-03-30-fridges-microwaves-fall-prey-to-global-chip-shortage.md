@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Fridges, microwaves fall prey to global chip shortage"
-excerpt: "A global shortage of chips that has rattled production lines at car companies and squeezed stockpiles at gadget makers, is now leaving home appliance makers unable to meet demand, according to the president of Whirlpool Corp in China."
-publishedDateTime: 2021-03-30T05:22:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/30/fridges-microwaves-fall-prey-to-global-chip-shortage"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/30/fridges-microwaves-fall-prey-to-global-chip-shortage"
+excerpt: "The U.S. based company, one of the world’s largest white goods firm, saw chip deliveries fall short of its orders by about 10% in March, Jason Ai said, Reuters reported. “It’s a perfect storm,” he said on the sidelines of the Appliance and World Electronics Expo."
+publishedDateTime: 2021-03-30T09:54:00Z
+originalUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDrOiUOTrhHmiMxB%2fHAd3MnQ%3d"
+webUrl: "https://www.bna.bh/en/news?cms=q8FmFJgiscL2fwIzON1%2bDrOiUOTrhHmiMxB%2fHAd3MnQ%3d"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: bna.bh
+  domain: www.bna.bh
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2021/03/30/1095218.JPG"
-    width: 800
-    height: 547
+  - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/Business/6-f5fd4a52-8330-42e6-8bd0-9d2ec06a1c32.jpeg"
+    width: 740
+    height: 453
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 338
         isCached: true
 
-secured: "zqhRI70FlC/t/cYcWYTT5rFpY14AJGRz8pMNh5SS3Ke5xNjRodxxNYTLDwwDc355ke3msxtKjsBjSM/cy3BB1Hac1fFH+wRiCfCN2S69DuXC1bZ7x0rJbV1EZaaLi2p8ohTlIpkh7Kxh8mmUw1FLHlRHvdyGJdzKXhVNxNjy4RwejJljQi1kRou6T7+0fE2XPYYZWS6ns8SAwkkOWEXDqiwQj7E9TdabR7nlSrhIjEedsuAtvgQZt/WRJlVCnNmrSc30j/Nd1fcZ3V3A+tRj0iu4JExykoGPAqPtXSn0J0PbtlGtFBy3d0mQySQyAYaplhbXrjOwk0oqZvgYnvJ//p1Jo0lxOnkV6GUypfXzUjs=;poBBwy8e0buI2cZjAmQAaw=="
+secured: "9POSnqRxGFppp8OxHUPTLLm+FvBT7N/0xyBL88ZSAVP2JAYt1oGeXuKci3tNtlyrczK3GUeJ4ocTA4Y722hi2qcPgUn4cvrYud/hVCBkrqpQlzITYCdEQZQ9zZIHLyAs88MgYRqQzbmLlVV3pTDiZl3TYj+Uoq04u3Qi5Xwe+K/6WPyXCfeUU5kCwBncR5RTlImG7NyCQvURs83q9tThQ5aJzkVLtbLxsDHBzIOd+fE6n3Ox/Wx04K4l0IWE5Kzt0lU+n1DKk8kDtg/WtqTjxWcKI8ZkYcu65gtJZPlFX7pjxtR3gq8VfbaK9l3NUkEJlaHRiKF1SMDVY9NO4PaIieVplpRQnOJLRwlNtA+lz7c=;hg7Voatw6aW23v1q9xsZqg=="
 ---
 

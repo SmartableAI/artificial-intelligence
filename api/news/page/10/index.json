@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-03-19-brian-brackeen-returns-as-an-advisor-to-facial-recognition-startup-kairos-following-his-ouster-as-ceo.md",
-      "title": "Brian Brackeen returns as an advisor to facial recognition startup Kairos following his ouster as CEO",
-      "excerpt": "Brian Brackeen, the founder and former CEO of facial recognition startup Kairos, has made his way back to the company following his ouster in 2018. Brackeen is now chairing the company’s scientific advisory board,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/19/ousted-kairos-founder-returns-as-an-advisor-to-the-facial-recognition-startup/",
-      "originalUrl": "https://techcrunch.com/2021/03/19/ousted-kairos-founder-returns-as-an-advisor-to-the-facial-recognition-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/43820546944_704c0ffc77_z.jpg?w=640",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/19/ousted-kairos-founder-returns-as-an-advisor-to-the-facial-recognition-startup/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/19/ousted-kairos-founder-returns-as-an-advisor-to-the-facial-recognition-startup/amp/",
-      "publishedDateTime": "2021-03-19T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-19-worldwide-artificial-intelligence-in-supply-chain-management-industry-to-2026-featuring-3m-adidas-and-amazon.md",
       "title": "Worldwide Artificial Intelligence in Supply Chain Management Industry to 2026 - Featuring 3M, Adidas and Amazon",
       "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, March 19, 2021 /PRNewswire/ -- The \"Artificial Intelligence ... Consumer Goods, Healthcare, Manufacturing, and ...",
@@ -1179,6 +1127,49 @@
         "Computer Vision",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-how-conversational-ai-can-help-efficiently-disseminate-covid-19-vaccines.md",
+      "title": "How Conversational AI can help efficiently disseminate Covid-19 vaccines",
+      "excerpt": "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
+      "originalUrl": "https://www.forbesindia.com/blog/technology/how-chatbots-can-help-efficiently-disseminate-covid-19-vaccines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/blog/wp-content/uploads/2021/03/Vaccination_AI_b.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

@@ -58,6 +58,20 @@ related:
       name: PhillyVoice
       domain: phillyvoice.com
     quality: 49
+  - title: "Facial recognition technology for passenger boarding on trial at Narita and Tokyo airports"
+    excerpt: "Narita International and Tokyo International airports have announced trials of Face Express – a new boarding procedure using facial recognition technology."
+    publishedDateTime: 2021-03-30T08:51:00Z
+    webUrl: "https://www.futuretravelexperience.com/2021/03/facial-recognition-technology-for-passenger-boarding-on-trial-at-narita-and-tokyo-airports/"
+    type: article
+    provider:
+      name: Future Travel Experience
+      domain: futuretravelexperience.com
+    quality: 44
+    images:
+      - url: "https://www.futuretravelexperience.com/wp-content/uploads/2021/03/Narita-Tokyo-facial-recognition-boarding.png"
+        width: 768
+        height: 403
+        isCached: true
 
 secured: "dwmtYruib8cVEvroTmV0LS+lhz3TuYtryEJ4mEQQZXMtIHorG2HfZaxA23BKXv3V1Zn8A/F7buFVtPDg63NoSSZu3e6o8itUSmYOTGegOF164qjC5MDsVG0jxUkKJwFoteYBbfvAsyTBdJvGNSTLLwYREpoqmHM0B5/yF9plKTcnHPNT6wAyU+NEb5bFbj+QmsYZn5DQiu8X/hwMD9NWr3mciPksZJqRuIYmo2Ycn9E8xfcRvRvLGELZYRkqssgtglbEVQVZAucWP7GSRcfnGbb8JRQ2RaaNw0FLTe4Xzgfi6yT2sx/DhdskLongjm8HdJ8OBz+oALVoIOQaYWaT8UTQyj4WIVuzgw4pspH74S0=;5nnUeNJpRDrxrQe4jRNLHA=="
 ---

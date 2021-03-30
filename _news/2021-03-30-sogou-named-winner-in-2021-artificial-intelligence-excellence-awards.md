@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Sogou Named Winner in 2021 Artificial Intelligence Excellence Awards"
-excerpt: "BEIJING, March 30, 2021 /PRNewswire/ -- Sogou Inc. (NYSE:SOGO) (\"Sogou\" or the \"Company\"), an innovator in search and a leader in China's internet industry, today announced it has been named a winner of Business Intelligence Group's 2021 Artificial ..."
-publishedDateTime: 2021-03-30T02:24:00Z
-originalUrl: "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards"
-webUrl: "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards"
-ampWebUrl: "https://www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/sogou-named-winner-2021-artificial-intelligence-excellence-awards?amp"
+excerpt: "Sogou Inc. (NYSE:SOGO) (“Sogou” or the “Company”), an innovator in search and a leader in China’s internet industry, today announced it has been named a winner of Business Intelligence Group’s 2021 Artificial Intelligence Excellence Awards."
+publishedDateTime: 2021-03-30T02:25:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-greater-china-health-covid-19-pandemic-coronavirus-pandemic-9b29533e53773813beaab15b20e9214d"
 type: article
-quality: 59
-heat: 149
-published: true
+quality: 39
+heat: -1
+published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Mar2021/pr-newswire_500_4_2055.jpg?itok=O7HolYQy"
-    width: 763
-    height: 509
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -94,20 +92,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards"
-    excerpt: "The company’s flagship solution, Bright Machines Microfactories, combines intelligent software and adaptive robotics to automate repetitive ... Bright Machines as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said ..."
-    publishedDateTime: 2021-03-29T13:31:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-computing-and-information-technology-united-states-25b950044da2487e8e878ad574549324"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Veritone Wins 2021 Artificial Intelligence Excellence Award for Second Consecutive Year"
     excerpt: "(NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that Business Intelligence Group has named Veritone as a winner in the 2021 Artificial Intelligence Excellence Awards for its patented suite of real-time AI-powered Veritone Energy Solutions."
     publishedDateTime: 2021-03-29T13:05:00Z
@@ -151,6 +135,6 @@ related:
         height: 480
         isCached: true
 
-secured: "pSfo64krE4RVUmUrJgEhhZaS7pNYMkKtrfhAUEIFApsL9Z1AjZm22k49NjlAFxj+7OxZVgNWYUHW1pIrYiS8QsvIztYUAptrtCodhCOH0PxjfG1iAK9d7Ct3r7p1uOp/QP5M6g/lJQf/GP88FDm4HN8XTUdoHP7at1EkTJx33pchazdYs6UiUuPxXtmSo46Hia84Ge1s8KjD4wVap87LFgDYYxZLIWVJoCmUODaYz3ZhyCMoHevG91dxKhyZzpK48G5+wh4b0RG/RhS7XCAFaN3ghYLK1NcrPceUmuXPKEVprwyRDTZmcig4j60j1bw3vJzFpZUJZ8WCvMsK9TpWe4D83SPPw9LoXyYX3tm785o=;PIcauxWdWSjwyM/6oQbiIQ=="
+secured: "jUYtQLOE/jdThFQG6FI5EyIDJjRuv+tSdxko6b7ga9/8EcSCXuwwp++2iUAtDjSNHwgQCZux3tGYn9m3+5yFZeminEOtXMuHKfDZXJT49OOQ1Gy86pMVyUi2oKDWoSEkIJui0U9zezs3/SXmIp9JQX96N7W30L5tEtHN5QWNpDfc/x/MU0wfYRjkU2aJA6oB+E622lFKEvrEC89Td9CAiG6qFeDRZuHjyprvwIFhQSTIGYhZB6erqHSQr6FR3dhOzT1ScDmCf9aLNmsJVvRPYDg+LsD8Wx92OwhBMqxnZBM1vMQjGzjojaW15KBL04bf1CpLWJ8RX70h+iN3HvkLzyv7c2AZ0ay9zATV77RPqiM=;6JEv1w1xvmeDCLWKzxC19Q=="
 ---
 

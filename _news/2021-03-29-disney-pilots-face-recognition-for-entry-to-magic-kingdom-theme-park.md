@@ -41,20 +41,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Abu Dhabi theme parks roll out face recognition for access and payments"
-    excerpt: "Yas Waterworld and Warner Bros World theme parks and to make contactless payments at retail and dining outlets that support its face recognition technology. To use the new FacePass service, visitors create an account on the Yas Island mobile app ..."
-    publishedDateTime: 2021-03-25T15:08:00Z
-    webUrl: "https://www.nfcw.com/2021/03/25/371360/abu-dhabi-theme-parks-roll-out-face-recognition-for-access-and-payments/"
-    type: article
-    provider:
-      name: nfcw
-      domain: nfcw.com
-    quality: 39
-    images:
-      - url: "https://www.nfcw.com/wp-content/uploads/2021/03/yas-island-mobile-app.jpg"
-        width: 1176
-        height: 760
-        isCached: true
 
 secured: "1Yf+3+lckzz0+V5P5kj7RDroF4cIJBSwsDohMdky9S7ULB04fmQ7qkmpnmqZbW66Ctdwz5jYqRczzt+0ru/n4hbLQZN7VQtPNijFRrMmf2MGNXSuM2kEAA91zLXyJxRnkH19JIX5o3Pq73gYFvpGaomagLEVoaR2Jx2swG4RjUak91zQBzC0rMKiE7sfJleuETBwU45t1qHDibsSEcqCGd1morGWhhBGUDrPZtldTp6sII0tGUxxfNo0YTB1C+V14/x5wZsYnvmlvPEQkeFGtB1+CXwyVC5YyXVmyuGJZQOOex0X9HbHj1i4Ww6+J5mx579BBKigHyddT1aB1u8gN8974mzFga8dkKMOzxV1fNVtxndzBwrIC8aWy0Q87F/282eJVvDytzTuATdPgrP+f7/KTznVRfGj7IhPHfzlXdn/6mB3vBKCuSMjUoSqQ/CR7S6tigxzxL3LEiOHkom9MHlti33u2oP6ZNv3dALHsjK7+P55mqUf8elsM+3MBu092FaMNdL2om6DBMxh4MnmIg==;2oEy/enss9MSbw5MHUUsFQ=="
 ---

@@ -95,6 +95,20 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "New early warning system for self-driving cars"
+    excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial"
+    publishedDateTime: 2021-03-30T08:20:00Z
+    webUrl: "https://www.miragenews.com/new-early-warning-system-for-self-driving-cars-536911/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 24
+    images:
+      - url: "https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/pexels-taras-makarenko-593172.jpg"
+        width: 5760
+        height: 2469
+        isCached: true
 
 secured: "OOGaSNggE7oQd1aSXYCpiiQcKvemmptwfMy/c+IOnBCe/DtYElQvkxbdebYLrt3knQT1UA3Kp/1tkvbtCcUCs9GGFg13i8t+2vNYhfPkWnCiY9PBly4QiuyR7Rx4VitZGU594Zr9PJUN3VwKd009Kq4TDE1WijT8cEReHiPFgOjs9Sw6IlfcjRLIuqZOlWEwBTnEjWqiawmxftfVdrSqznFrDjQIGVz2jtm7TdxA+Hh0vW9P5w69PhSorCQ8CZvNMoUzq47ZhqxD9WJWPUwVjTkjU/hi4c7aRaoYNUfzQ9FBbVNux3bmVmRwPznrKO35Yt7+M79Eax0sqZwnf21fs7OtnMuyiQokF2IKtc7kMXU=;5UK15hvSuYTWkZHgxFqEZA=="
 ---

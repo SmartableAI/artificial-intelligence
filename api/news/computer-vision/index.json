@@ -53,7 +53,7 @@
       "originalUrl": "https://www.dfnionline.com/latest-news/japan-trials-hands-free-airport-facial-recognition-technology-29-03-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -74,49 +74,6 @@
       "provider": {
         "name": "DFNI online",
         "domain": "dfnionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-walt-disney-world-testing-facial-recognition-tech-for-park-entry.md",
-      "title": "Walt Disney World Testing Facial Recognition Tech For Park Entry",
-      "excerpt": "Disney’s taking touchless to a new level with its facial recognition pilot program. Would you be willing to participate?",
-      "sourceUrl": null,
-      "webUrl": "https://www.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
-      "originalUrl": "https://www.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.travelawaits.com/filter:centercrop/quill/5/9/2/7/0/a/59270a9ea0fff8df8eb37756170ca02ffc3572c5.jpg?w=300&h=300",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
-      "cdnAmpWebUrl": "https://amp-travelawaits-com.cdn.ampproject.org/c/s/amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
-      "publishedDateTime": "2021-03-27T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "travelawaits",
-        "domain": "travelawaits.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -170,49 +127,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-abu-dhabis-yas-island-theme-park-implements-facial-recognition.md",
-      "title": "Abu Dhabi’s Yas Island Theme Park Implements Facial Recognition",
-      "excerpt": "People visiting Abu Dhabi’s Yas Island can use facial recognition technology to access the resort’s theme parks and make contactless payments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/",
-      "originalUrl": "https://www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/shutterstock_683167603-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/amp/",
-      "publishedDateTime": "2021-03-26T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1403,6 +1317,102 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-what-facial-recognition-and-the-racist-pseudoscience-of-phrenology-have-in-common.md",
+      "title": "What facial recognition and the racist pseudoscience of phrenology have in common",
+      "excerpt": "Technology commentators have panned these facial-recognition technologies as ‘literal phrenology’; they’ve also linked it to eugenics, the pseudoscience of improving the human race by ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/1-copy-24-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/13/facial-recognition-and-racist-pseudoscience-phrenology-what-in-common-syndication/amp/",
+      "publishedDateTime": "2021-03-13T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-google-acquires-neural-network-startup-to-improve-speech-and-image-recognition-software.md",
+      "title": "Google acquires neural network startup to improve speech and image recognition software",
+      "excerpt": "Recently, Krizhevsky and Sutskever, who will both be moving to Google, developed a system that dramatically improved the state of the art in object recognition. “This is a wonderful opportunity ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/2013/03/13/google-speech-recognition-dnnresearch-373125/",
+      "originalUrl": "https://bgr.com/2013/03/13/google-speech-recognition-dnnresearch-373125/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2012/07/google-sign-9.jpeg?quality=70&strip=all",
+          "width": 652,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/2013/03/13/google-speech-recognition-dnnresearch-373125/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2013/03/13/google-speech-recognition-dnnresearch-373125/amp/",
+      "publishedDateTime": "2021-03-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
         "images": null,
         "publishers": null,
         "authors": null
