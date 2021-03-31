@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "textio"
   url: "https://twitter.com/textio"
-  followers: 7679
+  followers: 7678
 
 size: 51-200 employees
 yearFounded: 2014
