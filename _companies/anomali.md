@@ -2,7 +2,7 @@
 name: "Anomali"
 overview: "Anomali delivers earlier detection and identification of adversaries in your organizations network."
 type: "profile"
-heat: 31
+heat: 42
 
 website: https://www.anomli.com
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Anomali"
 
-secured: "LFWug4XFeYmf64pXec4qEFf4fCT+QMRrGO+9bCCl9CfJv/Y0shWMtdyV1xMOca1bAwhrFN3Up8F36MheKz1PgB3Y7RvwUYbYGdEAqlbQ9e0q+1slsSi6QPpaE9EkmH9f+ecjTTO6qEbc8ASuJhgfgms/wBXw8mGMbDbp7t/it4cm57WNn7yyOvBN5q5C2ixbM09yr6cRzKUO2cYe2UnDyzR3XoUkJMPCDPO+t7wVgNa7TNo095by7I5YvOXGvCeQsRwflOo73gODiEoYBiHNr/UCPer/LqFEVg/fB2Q++dyVsSa1UvRmD/jOogeaRyJRM0aj4Xc6BjY9tCdx0Uidx+HI25V+IiduPqdngPsgvCWwcojzMRC2ra/+jwJz7v25po0H+Z5FlX4592Cvd7enCRo72zVUxZwmIEPmKQVkjWc=;mFyWw92xGqX2BxY7ZYW48Q=="
+secured: "5dck4Jkb5JdeA3GpMv0m/MTfDS/h0kqlW0G+hWO87lRYntofxJczBBbJq8v8ib8S0nrlKCVKrkmouIxbmixeJ7okFGObDJ4fXrnlNfDMhlpGZ7PmtCF0/Py4FFY1UPJw2tUNadIKVBsBJRo9UAxS7bxVd10LT8dg8EeIueDGxn8z/9oEE40MtfRHoMcj74Rvv3OpfI8SlNbWzHUBRJ6rCEo71c1GNpf84jLdNACTsuzbe3pW7V1H6zPPi0FaPybZo5VHcKfoeP9uEEjTU7PLvjBuYnHncicRZLQl2krT1GB7dXKOl7m266wri2M5thsAjOhvWcpuif5HhkKhnhiDzzt5rR2qSBKNoh5k/Gt1SLfDkCrJAKFo73VHG0kqI1wI0v6QcVIVV7KxrjON3Y7TP051ZTvVlwLZCkYMxy94XBk=;wpfe1lyXLgnLcvvQ4iz1DQ=="
 ---
 
