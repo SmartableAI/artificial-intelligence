@@ -80,6 +80,22 @@ related:
         width: 800
         height: 904
         isCached: true
+  - title: "Cloud management startup Striim plans new integrations and streaming analytics with $50M funding"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Striim, a startup specializing in streaming data integration, today closed a $50 million series C funding ..."
+    publishedDateTime: 2021-03-31T20:30:00Z
+    webUrl: "https://venturebeat.com/2021/03/31/cloud-management-startup-striim-plans-new-integrations-and-streaming-analytics-with-50m-funding/"
+    ampWebUrl: "https://venturebeat.com/2021/03/31/cloud-management-startup-striim-plans-new-integrations-and-streaming-analytics-with-50m-funding/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/cloud-management-startup-striim-plans-new-integrations-and-streaming-analytics-with-50m-funding/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/Screen-Shot-2020-09-11-at-3.13.09-PM.png?w=800&resize=800%2C485&strip=all"
+        width: 800
+        height: 485
+        isCached: true
   - title: "Qualitative Analysis: In-depth Analysis of the Artificial Intelligence in Agriculture Market"
     excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed 6000 million by 2027 growing at a CAGR of 25 50 from 2020 to 2027 The report includes"
     publishedDateTime: 2021-03-29T06:56:00Z

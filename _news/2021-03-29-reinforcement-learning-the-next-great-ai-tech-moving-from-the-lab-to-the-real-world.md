@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning: Economics and computer science converge"
+    excerpt: "Yale undergraduates interested in both fields can pursue the Computer Science and Economics (CSEC) interdepartmental degree program, which launched in fall 2019, with coursework covering topics such as machine learning and computational finance."
+    publishedDateTime: 2021-03-31T19:52:00Z
+    webUrl: "https://news.yale.edu/2021/03/31/machine-learning-economics-and-computer-science-converge"
+    type: article
+    provider:
+      name: Yale Environment 360
+      domain: yale.edu
+    quality: 39
+    images:
+      - url: "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/thumbnail/preview-phillip-strack-cc.jpg?itok=RNbvWATU"
+        width: 766
+        height: 402
+        isCached: true
   - title: "Required Reading: Augmented Intelligence Is the New AI"
     excerpt: "CRM: What exactly is augmented intelligence, and how do businesses acquire it? Hurwitz: Augmented intelligence is a form of artificial intelligence that incorporates a combination of automation of machine intelligence with human insights and context to solve complex problems."
     publishedDateTime: 2021-03-30T04:13:00Z

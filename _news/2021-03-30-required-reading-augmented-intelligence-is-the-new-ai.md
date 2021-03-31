@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Machine learning: Economics and computer science converge"
+    excerpt: "Yale undergraduates interested in both fields can pursue the Computer Science and Economics (CSEC) interdepartmental degree program, which launched in fall 2019, with coursework covering topics such as machine learning and computational finance."
+    publishedDateTime: 2021-03-31T19:52:00Z
+    webUrl: "https://news.yale.edu/2021/03/31/machine-learning-economics-and-computer-science-converge"
+    type: article
+    provider:
+      name: Yale Environment 360
+      domain: yale.edu
+    quality: 39
+    images:
+      - url: "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/thumbnail/preview-phillip-strack-cc.jpg?itok=RNbvWATU"
+        width: 766
+        height: 402
+        isCached: true
 
 secured: "BlD15jrehUXfgTdGayvPpZcW9HejZK+njQlyDrne/nPjSQWB6ix52omsbquCr82nkwU8lsPKgs+33/xHmUyzpZamuVXCj2fJHFAEu4v2ATFNsNxiOdOnjosvUpMbB3nJ70lDaxCg/+G3JsgFnjWyGz1sdQ+hIyvCv8bmKs9LZhqDd/yD0eXge/pSHWKlv32dLx4TQm7MaxkTnaDpcl3AOOukNcd2ZpxtIdLJcods3wy7SkdLWsc8ZpQQkUjqgi14xWLJ0sfVczCifCBtMOjZEMIxGzQeZiFmMY/B4F1RTcXc7jU3RoYXqGWpi/PGRGtlNr+AqY/62iV2mezMej0CWEjy9ALSiYfAlkoNdHcefkw=;55S/wlpPFx3Rm+S4rRqOPQ=="
 ---

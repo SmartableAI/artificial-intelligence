@@ -90,6 +90,22 @@ related:
         width: 800
         height: 904
         isCached: true
+  - title: "Cloud management startup Striim plans new integrations and streaming analytics with $50M funding"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Striim, a startup specializing in streaming data integration, today closed a $50 million series C funding ..."
+    publishedDateTime: 2021-03-31T20:30:00Z
+    webUrl: "https://venturebeat.com/2021/03/31/cloud-management-startup-striim-plans-new-integrations-and-streaming-analytics-with-50m-funding/"
+    ampWebUrl: "https://venturebeat.com/2021/03/31/cloud-management-startup-striim-plans-new-integrations-and-streaming-analytics-with-50m-funding/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/cloud-management-startup-striim-plans-new-integrations-and-streaming-analytics-with-50m-funding/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 59
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/Screen-Shot-2020-09-11-at-3.13.09-PM.png?w=800&resize=800%2C485&strip=all"
+        width: 800
+        height: 485
+        isCached: true
   - title: "BNP Paribas to provide investors with sustainability analytics from Clarity AI"
     excerpt: "BNP Paribas Securities Services and its platform Manaos announce a partnership with Clarity AI, a leading sustainability data science and technology company. Starting today, Manaos users have access to Clarity AI’s vast universe of sustainability data and insights."
     publishedDateTime: 2021-03-29T09:58:00Z
