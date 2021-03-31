@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-v
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -132,15 +132,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 17
-  - title: "Video: Woven Capital invests in self-driving startup Nuro"
-    excerpt: "Woven Capital, L.P., an investment wing of Toyota, has made its first investment into Nuro Inc., a self-driving shuttle startup. Previously, Nuro raised $500 million in funding to expand its autonomous goods delivery service using self-driving shuttles that include no seats or cockpit for drivers."
-    publishedDateTime: 2021-03-26T12:28:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16517/video-woven-capital-invests-in-self-driving-startup-nuro"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "+BukL7Q4JNT1YYXTco47zJ+p0fjZ2woSeJXRTRT9sVLZ3jTJXbGvq0FxCcOGWoiixsk5kXeHdq2LIHOjlNuC5v7Pi559UjsR9E16S+R45YMpwzUQTh93SwWZiCdaNbJCMhNa+CZd6JfOsqJUcJy3keCPY5+zkuNEnmiXZt4krRJwRU8uKNz35pJhQapTdRGyXwleYT0jjpz+3rH8Qmf32S8soH9EO1YWFBeYv5t0yDhBcIBD8R47vpabaiRMKvVQFcBZhcBdsRpjl3g2R4VU6B5Noh13on8Vbf84/8bZLepbuj1+yE7hUTrKmEIYYju+4Q/Fm0KH9wBe+neODkVR6yK0RsUdza24pLwuZvas42rpUNvOGeaG+UlXuYq8Iqs22rdOzbScW+q/Whs3dg8+K42J2/aNesHOWePBgAogDBSGv9oM4x2/8u04aJviENBQHGUtGU/WIpot5Z1n3zhUK98d+BM1kilivdXf8SwH9Px/s29qS4XK5jJElIJx25D/aTN0XIekMKgdTMvTYCyn+g==;3ROJPcRIFMassW6zXN7BmQ=="
 ---

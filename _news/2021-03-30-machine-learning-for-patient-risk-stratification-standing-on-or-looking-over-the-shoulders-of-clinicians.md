@@ -24,6 +24,22 @@ images:
     height: 685
     isCached: true
 
+related:
+  - title: "Veritas Receives One of the Highest Ratings in 2021 Gartner Peer Insights ’Voice of the Customer’ for Enterprise Information Archiving"
+    excerpt: "These include: messaging platforms, collaboration tools, video conferencing, financial communications, cloud applications, voice, and text ... “We believe today’s recognition is a validation of our ongoing commitment to deliver market-leading, cloud ..."
+    publishedDateTime: 2021-03-31T05:44:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/138970/veritas-receives-one-of-the-highest-ratings-in/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/dimg/300x300/promoted_content/promo/experience_is_the_new_battleground_1_3.png"
+        width: 300
+        height: 250
+        isCached: true
+
 secured: "K9cH5D+o0DUJwvTFeyDdpFs+0N5GN2H8abQxlOZpZf8Q6mOXVi5UpayPpLH3IeZ6ipLvOd7RedEQjKlTzhjOdURMWo77GNmSn8rmu7ql9e3ZErZjbqZaC9s+phg29oS+0SbgkIDzM/zv6LKAId8e2/dEAZQSUCwrq8oDxVozHng5V5DwsZjwPUaubJRYJljFMXjuAVFSBRBlyS4RsuhpTdwJGRG8FFwmp+cUHhkfqDjClbF5lEzmi29HnIfgn7LWKUCO/5WPSYFt/LCyOpntcTG5Jwhm3cjAm69kZQbutZSUKwadqxaA9Nrw7IxVTgrXFDsnpZgSc1UO2ySmMduUqayau5nZx030J2oKEYzXL68G21exyZGea2zd65LnHL/d51oaZBimydWoWk7e1Qi1hBTBSI4qDd0k0oC8YVA4AjjWjR68W4IqXdgMP3yvBxmH/BKdXXvxvXQ190DUgKWBxxYb0Z77VOU+8uNdRymWresA7nFuqacZSKcdsfnrR4nvRRPjgpWH1F+Lm379sC5Fow==;d2QzPjB5lITvv0927CLVsA=="
 ---
 

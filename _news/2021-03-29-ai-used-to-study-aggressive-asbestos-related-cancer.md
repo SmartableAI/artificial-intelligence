@@ -40,22 +40,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI used in battle against asbestos-linked cancer, says new research"
-    excerpt: "“Using AI to interrogate genomic ‘big data’, this initial work ... chemotherapy was the only licenced choice for patients with mesothelioma. However, treatment options start to become limited once people stop responding to their treatment."
-    publishedDateTime: 2021-03-26T11:47:00Z
-    webUrl: "https://starctmag.com/health/ai-used-in-battle-against-asbestos-linked-cancer-says-new-research-19385-2021/"
-    ampWebUrl: "https://starctmag.com/health/ai-used-in-battle-against-asbestos-linked-cancer-says-new-research-19385-2021/?amp"
-    cdnAmpWebUrl: "https://starctmag-com.cdn.ampproject.org/c/s/starctmag.com/health/ai-used-in-battle-against-asbestos-linked-cancer-says-new-research-19385-2021/?amp"
-    type: article
-    provider:
-      name: StarMag
-      domain: starctmag.com
-    quality: 57
-    images:
-      - url: "https://starctmag.com/wp-content/uploads/2021/03/AI-used-in-battle-against-asbestos-linked-cancer-says-new-research.jpg"
-        width: 770
-        height: 433
-        isCached: true
   - title: "AI used in battle against asbestos-linked cancer"
     excerpt: "\"Using AI to interrogate genomic 'big data', this initial work shows ... chemotherapy was the only licenced choice for patients with mesothelioma. However, treatment options start to become limited once people stop responding to their treatment."
     publishedDateTime: 2021-03-26T18:09:00Z

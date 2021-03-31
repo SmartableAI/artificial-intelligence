@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-29T11:43:00Z
 originalUrl: "https://www.design-reuse.com/news/49713/guc-aws-partner-proteantecs-asic-reliability-quality.html"
 webUrl: "https://www.design-reuse.com/news/49713/guc-aws-partner-proteantecs-asic-reliability-quality.html"
 type: article
-quality: 12
-heat: 12
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "WnhwgaqetWuYfNXBQwhCURdDAQuTEvkQ73vG81PSjBbWMjAONE2J862/MVnLgbo8tmr3EaKgdTOhn7nGK6uDJHLgdvLnSgdX/JNJ2MlxGWFQh8BrMLsfISsikL3Z7o4mmVUME5DDEzb7XkOxyft3NKXfyV4BfGPM46sHo3mcxLbHHs3cgBGWsk+fVto8Ne41qEpLAAckRbBhsza921tO6VYROCRwl3CdDi6oSoKVPsUD34OgJ0j1zcViPTtJ/6ABdPOt1JVmDN/RUfDQhB4tYmFpMlKUx1n8xMb+rzko+hIX/yvkDvNv8ar+ESiNGlyT2htv3esXWyo82EyIWmlfWLszk9u8JMKNIpI19Np5zoc=;tcq7obgT/nHgvy/td3oQ2w=="
+images:
+  - url: "https://www.design-reuse.com/news_img2/homepage49713/protean-2-.jpg"
+    width: 2400
+    height: 1602
+    isCached: true
+
+secured: "y1Lpqyogs5NBzT/ZJuVHI1/nUA8UceHoQEmus378myXqvREkH7j/93PMs9TpqKHNkYCVF74sDhwnykW4pB3ThjBrw3ET3LwdVpvkxw58C42hsbXKXoMhwY0CHfLCBaNXvwVBsgrzJpptY7HZGokF9vsfaaGzl9fxlPASChT7RlmUE79b6ZPGgXroyK5tix2q5X+Rrepe6KXQTtRuGYzBsWtHrP4JVG1DKN25Y7nnGOZ/6a9G0BvWQO122f74yFaC3xk4nwuA122p6F4gnCTEvp76+kpYBRLG5Hv9xh/3TFsgYlODZfGckXvk6kt5PO+gRFeiqkUwunybXeCb0VsuuoMDxuMlazUeYDQKkbiG6iw=;L6MHysYqQ1Pr8UNA3huddw=="
 ---
 

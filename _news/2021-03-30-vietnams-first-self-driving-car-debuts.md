@@ -128,15 +128,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 17
-  - title: "Video: Woven Capital invests in self-driving startup Nuro"
-    excerpt: "Woven Capital, L.P., an investment wing of Toyota, has made its first investment into Nuro Inc., a self-driving shuttle startup. Previously, Nuro raised $500 million in funding to expand its autonomous goods delivery service using self-driving shuttles that include no seats or cockpit for drivers."
-    publishedDateTime: 2021-03-26T12:28:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16517/video-woven-capital-invests-in-self-driving-startup-nuro"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "6CD0TmEA20guf0wIvVzer7b1BhcyPKhviMkJ7jtITlkJ+UAJr6BsSTGCpsw/tEMsdapodt+JFIAI9lofMxbANInqRp4fZj9FXaBBuRtJgjYx+ysc1EJdbXnRsbFf/CQL7qK9ILUdwhhlpi+BdyvZMHMrBdq9d1zAw74iz3O1Tj+7Iz9Oe+rr2bKuMNTSb8q1jWWmlMqoePArXpjqaobdZ+CM03SE0PCWpw8wNxPZ4LXL0lhoRzlrwDTe1z/UtuJx5nIXl0Scq5s3oclqJyOocSmAyg+MgnIfVH/72Evzh2Ge2y9CbEyk6W36rTTnxJUMc8Gzn+rLU5hs+zoFWZx/iXfy0v4QJyRG9uccLrLI8dqgzwWK7QTul0v/NFsRreSI8jO14w2HskNxGCH1Pekn8sDXwHURaalxsKEGRpwrBDALgHYkxzgFy20is8Z8GRyyDN8U975hS3aJ2/uuwQ0ZSB7DWqupoqgawh1aT0R3zo2RFPJV87wHxhkmbytRqq/PC0n5zpk3wScvHP5lUeU//Q==;XOxVUCBcG9KTYkAuaI5syQ=="
 ---
