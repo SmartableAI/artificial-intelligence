@@ -9,7 +9,7 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 621
         height: 372
         isCached: true
+  - title: "Artificial Intelligence Platforms Market Confirms Strong Growth Momentum | Google, Baidu, IBM, Microsoft, SAP"
+    excerpt: "Key Segments Studied in the Global Artificial Intelligence Platforms Market Artificial Intelligence Platforms market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Artificial Intelligence Platforms ..."
+    publishedDateTime: 2021-03-30T15:44:00Z
+    webUrl: "https://ipsnews.net/business/2021/03/30/artificial-intelligence-platforms-market-confirms-strong-growth-momentum-google-baidu-ibm-microsoft-sap/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 30
 
 secured: "RdsJUah/kgC/gDPIA/YjiYHi7qonO+mMVGtG1vB0GzYoNNoqmi7Yrs+NWJmOlsOVbnRweiy6sHKfU1WKImi/0iuhwfde18G2kzVcxQ/Ur7NYsIf2ADBgSdx2rocVNDSNW77xOu/3W42bf2AMHeiH2py4h5KZVYSm1eItaqw1QSvd8JwlxbTz5WSCvjnkReZUlgT4x7uVhKedcfxTBdAFlFDu5uZ7UXyFePUUkSP1bXOJtop2BZbdAY24mEAsQwgMjm4LjooKQ2hJkcEBNPkkmfLVDw5xsGZrpa0UC870BQY3t6cmY4frgCFCMmlHKq4cDPPoUfHtXm05JzKJbS3SuRGypkgCEl6kc9MUSueHxWc=;MEOI8n2ENSD0Rh2/ditMOQ=="
 ---

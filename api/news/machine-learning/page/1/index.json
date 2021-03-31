@@ -62,7 +62,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -540,49 +540,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-how-hospitality-sector-is-relying-on-artificial-intelligence-and-machine-learning-for-profit-maximization.md",
-      "title": "How Hospitality Sector is relying on artificial intelligence and machine learning for profit maximization",
-      "excerpt": "Artificial intelligence and machine learning is slowly transforming the hospitality sector, which is currently strongly in the need of such technologies",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/hospitality-sector-relying-artificial-intelligence-machine-learning-profit-maximization/",
-      "originalUrl": "https://www.dqindia.com/hospitality-sector-relying-artificial-intelligence-machine-learning-profit-maximization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/artificial-intelligence-4469138_640.jpg",
-          "width": 640,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/hospitality-sector-relying-artificial-intelligence-machine-learning-profit-maximization/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/hospitality-sector-relying-artificial-intelligence-machine-learning-profit-maximization/amp/",
-      "publishedDateTime": "2021-03-26T02:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1444,6 +1401,49 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-sdsmt-students-use-artificial-intelligence-trying-to-pick-perfect-bracket.md",
+      "title": "SDSMT students use artificial intelligence, trying to pick perfect bracket",
+      "excerpt": "“The output of the neural network will predict how far a team will make it in ... where there’s a whole bunch of teams from around the Midwest area that are creating their own artificial intelligence and machine learning algorithms and competing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kotatv.com/2021/03/18/sdsmt-students-use-artificial-intelligence-trying-to-pick-perfect-bracket/",
+      "originalUrl": "https://www.kotatv.com/2021/03/18/sdsmt-students-use-artificial-intelligence-trying-to-pick-perfect-bracket/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kota-prod.cdn.arcpublishing.com/resizer/2bWT7mv88yOtN9iK5do5R5NJgrU=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/H3OKFAFYNBEPHGPFPLVTQBQTEY.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KOTA TV",
+        "domain": "kotatv.com",
         "images": null,
         "publishers": null,
         "authors": null

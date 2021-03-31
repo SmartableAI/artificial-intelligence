@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20384827"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20384827"
 type: article
 quality: 54
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Astute Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "Faster response times also increase customer satisfaction. “We are so proud to name Astute as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said Maria Jimenez, chief nominations officer for Business Intelligence Group."
+    publishedDateTime: 2021-03-30T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210330005079/en/Astute-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "qHl2i8Yvam0cKr0Fmdag48gRYS3MWLbcAfJn28v78dCI7oOYIq1/TDngYZpQEP0O0phM+uG0iRUwCvXkVRj75BZaPvXfr4fR7SKlVWcB/wL9s/yevTMZ4bhO22ALnMstDqrtgh1zGGsurB0g58tJnJDFYVowiFhAam8urOkG6r5o5C6vv6N8Y1R3H7LqDyDCs8hR3VTD8G5ET2oGwQ+tLzBhwvpxnHhzJObtkYTJ1SeIt4a7KWvhX5pnArmcrxfL7SCySAYChAsye4oaQLqUoCb9YXM2ZioR0aQQMo2p49oss1wHUU+FQU8hYDQMiwHW0IziJz4hbHsPFxauYwCNnAibV9TE2TSRNz3rC3L7upo=;tQYvqyJ5OF0aG3fmmw17lg=="
 ---

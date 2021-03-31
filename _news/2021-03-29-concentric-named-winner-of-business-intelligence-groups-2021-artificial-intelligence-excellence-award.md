@@ -114,6 +114,15 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 32
+  - title: "Astute Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "Faster response times also increase customer satisfaction. “We are so proud to name Astute as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said Maria Jimenez, chief nominations officer for Business Intelligence Group."
+    publishedDateTime: 2021-03-30T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210330005079/en/Astute-Named-Winner-in-2021-Artificial-Intelligence-Excellence-Awards"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "tKCnDr+wi1pmXOUytlytshGF8inxcBa3YHY4Qbmo+K14bQ3nVOks3Eqp9Ti9cKz6ybmgJLKrq64bQMYFbGjm0oqaY2eQHCjXhfM9ZQeS8oPZT81UQr87GVaGC7BBe9mRzsUQ/oYrZbS6VnjpUTcbg+OgTK4r8sXadlEnno+N2iP6xeVqzpPptpO/kztGHjy9Kr362dBNJpFqFqr86OpBa+NGzbdCj/vk9LxPWF8GAmuIUdUQjppcnSEMTKOY0mrlG3JVzN61JmJeqFBZvVXzOsytShhagZpxTc1X7nSyKvbuGiXmykVk8dklnJ0ExIkSnZpVQsxmWDpKj/dV2kFg4RSkvmhubJe0wlKZT/TLxsY=;+/Js4I97ldpD9hP1cE2YLg=="
 ---

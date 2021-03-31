@@ -1,17 +1,17 @@
 ---
 category: news
 title: "AWS DeepRacer Women's League-India to upskill students in AI, ML"
-excerpt: "Bigg Boss 14 couple Jasmin Bhasin and Aly Goni recently stepped out for a dinner date in Mumbai. The couple was joined by none other than Rahul Vaidya and Disha Parmar. Mumbai, March 16 (IANS ..."
-publishedDateTime: 2021-03-15T16:39:00Z
-originalUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
-webUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml"
-ampWebUrl: "https://www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
-cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml?amp"
+excerpt: "New Delhi, March 15 (IANS) In a bid to help women students learn machine learning (ML) via a Cloud-based virtual racing simulator, Amazon Web Services (AWS) has launched the DeepRacer Womens ..."
+publishedDateTime: 2021-03-15T15:17:00Z
+originalUrl: "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html"
+webUrl: "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html"
+ampWebUrl: "https://www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/aws-deepracer-womens-league-india-to-upskill-students-in-ai-ml-news-education-vdpklEdfdhjag.html"
 type: article
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AWS AI
@@ -19,12 +19,6 @@ topics:
   - Machine Learning
   - AI in Autos
 
-images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg"
-    width: 400
-    height: 300
-    isCached: true
-
-secured: "e4/9xdBzuZFPCBXmRnfLnHEgq7PjFICTUy07Ps6ClIf6Ues4SG4joB/3SGkJE2qvnHa9z2LxxjpbaYkHqsL8vWTAQfUYMoGEcwp6ftFp0Ym43OBjbBQpbDNsvqB+rFkDU27f3Q6R2xHozywzLeVCoCJxpyr3UBPGSISCNFF/mGFwfeA+rS8FiZdkPVdR7gF+b7m/5igmmvHSCOBoDr9hhnBSHYU5Abm3v4B8xctnlKHBbGoy/fFq1l7dObUUiLR0hbJ+PLIMmJarsg2DE4ggwGqIwcZTNNsUOVWHeYD43xXg6xPSmfy7dTi4VgTA4f0VwP0B5roQ00sSHo6if9thBUtqcuf8hkMNJ/CiY/hGB5g=;kv+9g/ZaSBg8Q+z5B9FYGA=="
+secured: "hy5OgHKWg1BzYBySJ38/rQ+MtddLa+RdP3Tg4h4oNkJ7H/LNOU/BqeLfs5cXIr+fXxhrVJZfckPblpCv1VyIujOU4sV/RkwWmt+/Shb/coDrEkGi09+n0c7Em30sY+QD3HoOi/xHKzyL1tmcOG+hA+F6lkLXa7CkzPbG6am7Sw92l0riaQxEkk8fShNSguHl/s7nzzjLjuMKrsZVA40MoyWiy3AzbQcHBrZZpljvU8B7HKgh+P5rE9rjzGnOAxPwKxeR0etjLAgUsR2jYMNINAT6hUPKE4vK04q7HGiExgTQlFtBGR/Pb5+t3kfwqLr6CbJLIH38idHysHQvyVyE75s1o7DbjaWm9e+ezM0Sjds=;YZUFwuR7kfDUEqz8fbrF5A=="
 ---
 

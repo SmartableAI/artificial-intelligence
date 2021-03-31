@@ -59,6 +59,22 @@ related:
         width: 750
         height: 579
         isCached: true
+  - title: "Data, analytics, machine learning, and AI in healthcare in 2021"
+    excerpt: "Lorica mentioned that the relative democratization of AI, in the sense of having open source tools, may mean people who may not be experts in machine learning can start playing around with some of the techniques. In addition, the existence of benchmarks ..."
+    publishedDateTime: 2021-03-30T18:37:00Z
+    webUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+    ampWebUrl: "https://www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/price/freetotry/index.php/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 121
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg"
+        width: 750
+        height: 579
+        isCached: true
   - title: "Qualitative Analysis: In-depth Analysis of the Artificial Intelligence in Agriculture Market"
     excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed 6000 million by 2027 growing at a CAGR of 25 50 from 2020 to 2027 The report includes"
     publishedDateTime: 2021-03-29T06:56:00Z
@@ -126,15 +142,6 @@ related:
         width: 421
         height: 421
         isCached: true
-  - title: "Comprehensive Report on Global Artificial Intelligence in Healthcare Diagnosis Market Clinical Research, Analysis 2021 to 2027"
-    excerpt: "Global Artificial Intelligence in Healthcare Diagnosis Market projects a standardized and in-depth study on the ongoing state of Market, providing basic industry insights such as definitions, classifications,"
-    publishedDateTime: 2021-03-26T07:45:00Z
-    webUrl: "https://ksusentinel.com/2021/03/26/comprehensive-report-on-global-artificial-intelligence-in-healthcare-diagnosis-market-clinical-research-analysis-2021-to-2027/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 6
 
 secured: "GMo5Og6cblFkiG76O5wcFzRfB/oMnp3hNo4FfdHdqnSs0qOvhdHKKF4gjty69wEfxOkH4lichVmQYSNGMgbfZWLOtcuR3SdWJE5ikXyxEIASJvOedQfFk+fihz7R3FK9TNKTG7kgjGMNVKJLAFh9TnectLLXsYzlRfZaduihepQs2TGj0bIvpUd2c3RxStcRX6MMXBi78QkQdsom4uxIGm34vgulZNRl4ZWBl/UIgpRF/2M4HP8y6nx3nETIVSYqMwFZpdMqOmBVONR/19cT9WOKjqcZTt8WGfRzESgwP0dvAPO59lMePWS1j1uaQSjy9gne8WdUYFhKLEK1kifuEBS3V2wJduNv7b0+IctaYD020AFx/J0qrRUoJe/BRQlc5KrHaY+FOKhjH+/eYpY3GYpsL9uoVMLcJM0z4O4lx+rPP2KYz33mVBAd5dg568xwSBBQckL9zGtvllI8/LfkLornZAKBIDMpYx8t2hub+2kRxu0U9wIQBRZwxKWG/23ZCO/PLpzPxlar3yLPZ0XRjQ==;Lem9fmOeNHZeJuVK+QsAyw=="
 ---

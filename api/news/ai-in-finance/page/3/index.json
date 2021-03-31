@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-24-finesse-says-fashiontech-will-disrupt-apparel-industry-the-way-fintech-roiled-banks.md",
+      "title": "Finesse Says ‘FashionTech’ Will Disrupt Apparel Industry The Way FinTech Roiled Banks",
+      "excerpt": "Finesse, a Los Angeles fashion platform, is using tech and data to produce trendy clothes that people want at a fraction of the cost.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/finesse-457x274.jpeg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/",
+      "publishedDateTime": "2021-02-23T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services.md",
       "title": "BBVA and Google Cloud Form Strategic Partnership to Drive Security Innovation in Financial Services",
       "excerpt": "BBVA and Google Cloud today announced a new strategic partnership to transform the bank's security strategy by optimizing and improving its",
@@ -1331,58 +1374,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai.md",
-      "title": "Commonwealth Bank's refreshed digital strategy to focus on the power of AI",
-      "excerpt": "The bank has also scooped up hospitality cloud platform Doshii to celebrate one year of its venture arm, X15 Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "originalUrl": "https://www.zdnet.com/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/28/efda0bab-abb7-46af-8123-09c5edf316e2/cba-x15-matt-comyn-commonwealth-bank-of-australia.jpg",
-          "width": 3661,
-          "height": 2443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/commonwealth-banks-refreshed-digital-strategy-to-focus-on-the-power-of-ai/",
-      "publishedDateTime": "2021-01-27T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
