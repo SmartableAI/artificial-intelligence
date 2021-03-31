@@ -44,14 +44,19 @@ related:
         height: 630
         isCached: true
   - title: "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports"
-    excerpt: "The global Image Recognition market size is projected to reach USD 58920 Million by 2026, from US$ 20720 Million in 2019, at a CAGR of 15.6% during the forecast period 2021-2026. Increasing penetration of Smartphones with image recognition technology for authentication,"
-    publishedDateTime: 2021-03-31T14:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264531"
+    excerpt: "The Image Recognition Market is Segmented by Type (Code Recognition, Digital Image Processing, Facial Recognition, Object Recognition,"
+    publishedDateTime: 2021-03-31T14:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-879065277.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
   - title: "Healthcare Information Technology (IT) market Size is poised to reach USD 114.5 billion by 2025"
     excerpt: "utm_source=ksusentinel.com&utm_medium=AN Healthcare Information Technology (IT) Market will exceed USD 441.8 billion by 2025; as per a new research report. Emergence of artificial intelligence in healthcare will serve as a high impact rendering factor for ..."
     publishedDateTime: 2021-03-30T03:21:00Z

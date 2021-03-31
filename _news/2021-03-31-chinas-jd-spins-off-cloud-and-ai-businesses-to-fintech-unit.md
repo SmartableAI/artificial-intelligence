@@ -1,22 +1,18 @@
 ---
 category: news
-title: "China's JD Spins off Cloud and AI Businesses to Fintech Unit"
-excerpt: "China's JD Spins off Cloud and AI Businesses to Fintech Unit The unit, JD Digits, will issue ordinary shares to JD.com as part of the transaction, taking JD.Com's stake to about 42%. (https://bit.ly/3dkKavz) The plans were originally announced in December ..."
-publishedDateTime: 2021-03-31T11:09:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-03-31/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-03-31/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit"
+title: "China's JD spins off cloud and AI businesses to fintech unit"
+excerpt: "Chinese e-commerce firm JD.com Inc said on Wednesday it had sold JD Cloud and artificial intelligence business to its financial technology unit for a combined valuation of 15.7 billion yuan ($2.40 billion)."
+publishedDateTime: 2021-03-31T10:55:00Z
+originalUrl: "https://www.nasdaq.com/articles/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit-2021-03-31"
+webUrl: "https://www.nasdaq.com/articles/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit-2021-03-31"
 type: article
 quality: 49
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
@@ -103,6 +99,6 @@ related:
       domain: fintechmagazine.com
     quality: 4
 
-secured: "MIfp78BwRfGlrMRpZ2Nqsy6WfEQv0IilSZfChqifAtK9+mHg2DRetb02AHSO21ujVZQvVgDHDro7vwRRi3iGn0fq35f+Bg2smsmVP41PBaFBjCV0ddt4utaT+MhGrRfC1CNysQfL9EZe3zzuAbt9u30up/AUdSAecxhSyUsJRR1OGNqCjOGTYb1w3SszsCIkOagCDZUGgg9hki2dDL26tzjXhI8E2CJv/d/0rOr5VK2iV8dcgjC/fwTuvq7cD6dPPb57bNndhiKwUHHf/4weBRo4wvfkbccNZBzcdw1oY7GzoyuV2j/ySqkOe8c7bIzE3YIOSxNvCL7v+GKAA9ZMhRCHVezRNcSEELh5wG1P9GA=;s8KferKkSDReJQdau2gaoQ=="
+secured: "1qQxCr+xSGAcBk3GvnXpoMXI8Zf3oZOI3ngTs6efCoRZSDmc3bsFd4O9hKdP7y8RwAmu8M95nzeXZ5RPClmakHJ9RMdt8fneCAi1hVzc7VVaDxkdml+rwjYV1ZRpi+n64ntqMH7tGxaoAxuCXFpccTEWfakyb4RSL9lZ7N7jODDOwQmbOX3VMny2u8pABtmBKqErJWo4Xglyb6QQxMlM65jlDGfBFQF/oWWXUqH9swM2CffSN5KIzlK4R8oo0niLhPoTIVxPBgbMeinTGoY1bjTU9VG1ft1l88yyhBSfdSR0fHzOKj1uqlQ9JHeWDOLyiXJqr8AaIn+6LOaHBNZLZcJXmRN24XxA96DvMfdT7FM2fiNsF8SDppLs5CkNdrZ/3wTWl59Gld+0NqDbNBoxDToLeHgQMg7UbiGMW9jquCozSMNu3o0UPlG0BuUopO00cxxaqlSwU9xLPlvbzCT1wzkVfGC4rkbOPeONx2Xn1cEmGLBQ0GeAQunKYElwLoZNtytAEDBVzJ6wLdUySLy8Pw==;TZbVUhXXOmKhZQZkLLUi9A=="
 ---
 

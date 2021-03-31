@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy"
-    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure."
-    publishedDateTime: 2021-03-30T08:11:00Z
-    webUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235"
-    ampWebUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
-    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
-    type: article
-    provider:
-      name: Hart Energy
-      domain: hartenergy.com
-    quality: 54
-    images:
-      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
-        width: 605
-        height: 500
-        isCached: true
   - title: "New GC and Other Microsoft Alums Attracted to Health Care Tech Startup"
     excerpt: "David Heiner, chief policy officer and general counsel at Truveta Inc. Courtesy photo After working for more than 25 years at Microsoft Corp. as an in-house leader and artificial intelligence ... joined Truveta as the health care tech company’s first ..."
     publishedDateTime: 2021-03-30T21:50:00Z

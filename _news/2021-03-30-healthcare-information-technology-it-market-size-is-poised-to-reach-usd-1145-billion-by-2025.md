@@ -48,14 +48,19 @@ related:
         height: 630
         isCached: true
   - title: "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports"
-    excerpt: "The global Image Recognition market size is projected to reach USD 58920 Million by 2026, from US$ 20720 Million in 2019, at a CAGR of 15.6% during the forecast period 2021-2026. Increasing penetration of Smartphones with image recognition technology for authentication,"
-    publishedDateTime: 2021-03-31T14:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264531"
+    excerpt: "The Image Recognition Market is Segmented by Type (Code Recognition, Digital Image Processing, Facial Recognition, Object Recognition,"
+    publishedDateTime: 2021-03-31T14:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-879065277.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+        width: 920
+        height: 482
+        isCached: true
 
 secured: "43B3A/BtijfBPcAZxsryOO6tKpDwo6J/8BucNw8HLDaheZAe8KpoCIsAfmmX49c6LOe5mFLA1SS494S/KtbXYC1qvGQBDMnJMtJwhlaN2Osxgms4S/hAhAgjcBBqqrUfaHGeMndHvcTt172h2md//YuqZHBetGukgVk2gFuZwyHD9YM53T6y/i76112CLv3+EW0zLZnR2g6GejSRQSPp5jaSLt2SHgFx4wOs/eTw/8B4nv5cSxoDTo5fC2ttYW9RVx9YiT9igrHmsisAXFfcOv6i4+Kv2zA+NPGbd+uPbk+MB5GMKFsEzWYPmo4ZCfffJSK3m6BFm940EPKQhNb5hqsel9ghX8ewWahftTti7fQ=;BseAQhMlqq0dNf6iXynnxQ=="
 ---

@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports"
-excerpt: "The global Image Recognition market size is projected to reach USD 58920 Million by 2026, from US$ 20720 Million in 2019, at a CAGR of 15.6% during the forecast period 2021-2026. Increasing penetration of Smartphones with image recognition technology for authentication,"
-publishedDateTime: 2021-03-31T14:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264531"
-webUrl: "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264531"
+excerpt: "The Image Recognition Market is Segmented by Type (Code Recognition, Digital Image Processing, Facial Recognition, Object Recognition,"
+publishedDateTime: 2021-03-31T14:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-879065277.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-879065277.html"
 type: article
-quality: 21
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1082232/Valuates_Reports_Logo.jpg?p=facebook"
+    width: 920
+    height: 482
+    isCached: true
 
 related:
   - title: "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025"
@@ -61,6 +63,6 @@ related:
       domain: ksusentinel.com
     quality: 7
 
-secured: "UB42AXbgXLF9FRZDLyO7tvu56WWzMvW4gpGHQeD5OjWXnxMzWa7nBNaHQDemUqb92XRE5bF+AOgbDuccKl77KUEbkDPuLemtlMcPjiGv9ZxRCYrWIY7/SjJgy8Qz1ij6P1EuYfbeCLur+49cGioxKfCmWCtlfUkBe7IVuLZ87/CMK72zenI6q0Qq963ovLXFoE4uw56f7TPXEGwU78B+YiYmgaa7NYDCrwiZqquUbzJdTr19cSobIXSXwomkMqyGR6F18Hu86kK25zbhjCsastjDsKbvDr/dzUGnkfrbVnChODGqPX1uRHp7IL+Wcp2IDY9Cg1YGXfN/gniPdW7cmLkIqaNCJwy9b+7tQbq1wBQ=;mdNz+ZjdLM2eVkWOT/0rMw=="
+secured: "yo2mTILbNosWjNX+DnnpC9DY8DLF6j1+PlUw8hL2LXqZLDd9G2vwAborT3iBKvPUhCTm/j4pINOKBWAEVzixq/G1dinlDTcnY/SpsAqjyaz1RuMiO+UZ7rkjeEGXiqlZQleXD2dWy3Mp/HxuQyV0CWOYZiHBUCzOdkH7vRNtEATe2trVd7ePaxCsF326KjlN0sSjZBJh12Jh+xCWO5uNfWki/7KVzpBrVLOZrn2Y9sERH1Y2PvXuJm7lNM5iTOAN0kSSOvU33c9JaZ4oPeW0HMd7DZEr3WYuMCO+K8oLcZIYCwQCj5H5vRXMruQQPsG3PBn/j1+vaVwrn8guXS5U8Sw2be/oQxS/hKejYVEm1EQ=;k/zwCmiOaqNr5Y2WCq2gWg=="
 ---
 

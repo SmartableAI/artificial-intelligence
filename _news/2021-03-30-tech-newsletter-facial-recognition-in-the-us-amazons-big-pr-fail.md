@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailydot.com/debug/tech-newsletter-03-30-2021/?amp"
 cdnAmpWebUrl: "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/tech-newsletter-03-30-2021/?amp"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

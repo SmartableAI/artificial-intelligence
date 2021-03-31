@@ -71,6 +71,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 37
+  - title: "5 federal regulators taking greater interest in artificial intelligence"
+    excerpt: "Artificial intelligence is certainly on the collective radar of the largest federal regulators. Five federal financial regulatory agencies announced this week that they are gathering insight on financial institutions’ use of AI."
+    publishedDateTime: 2021-03-31T15:45:00Z
+    webUrl: "https://www.autoremarketing.com/autofinjournal/5-federal-regulators-taking-greater-interest-artificial-intelligence"
+    type: article
+    provider:
+      name: Auto Remarketing
+      domain: autoremarketing.com
+    quality: 37
+    images:
+      - url: "https://www.autoremarketing.com/sites/default/files/AR2103_AFJcvr.jpg"
+        width: 3131
+        height: 3750
+        isCached: true
 
 secured: "gH0V7LIBHGwyzXi8v+XYjFhFYZEMF6EbBCMre+dvc4y3i2h7hh1Vb5wc0UfRL7KmnOUJhytzwnwXSFRPVoZyINr5rIJYsWWOx86j4F4NzBR/jz/8Y6rmrpeL2GrUnoQSknMxyX5g8k5ao9sVwvGHI+UNXjpQZNYaWvqXEsh57bMZdCQ0G2i+6YG/RG4oyzsKBtGP43OZBwqtM1QIrBEkNTitrDm06xemsMioUuslUuwgDkS3BnAJy3z4I4TBQJ6aGlOwCoyOppGuaCZbh2ol5pR0jJwXTi2zrA0J1EzPfeYO7Nur2XA6YqKszCfFQ2aB8QhT2cXEECi8fflFk+sj03MtqmJiPqourrax93b5mOQ=;5MCTsmxrMbLvhCTl4Kb4yg=="
 ---
