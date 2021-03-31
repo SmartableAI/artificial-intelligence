@@ -6,9 +6,9 @@ publishedDateTime: 2021-03-31T15:05:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31"
 type: article
-quality: 95
-heat: -1
-published: false
+quality: 97
+heat: 137
+published: true
 
 provider:
   name: MarketWatch
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - Microsoft AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -62,36 +63,29 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy"
-    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure."
-    publishedDateTime: 2021-03-30T08:11:00Z
-    webUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235"
-    ampWebUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
-    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
+  - title: "Edge AI Software Market Growing at a CAGR 20.8% | Key Player Microsoft, IBM, Google, Nutanix, Synaptics"
+    excerpt: "In the edge AI software market, Azure platform that is intelligent, consistent, and comprehensive from cloud to edge. Request a Sample Pages @ https://www.marketsandmarkets.com/requestsampleNew.asp?id=70030817 IBM is a multinational technology and ..."
+    publishedDateTime: 2021-03-31T07:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-software-market-growing-at-a-cagr-208-key-player-microsoft-ibm-google-nutanix-synaptics-2021-03-31"
     type: article
     provider:
-      name: Hart Energy
-      domain: hartenergy.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
-        width: 605
-        height: 500
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Woman-owned tech startup selected for Microsoft’s global startup program"
-    excerpt: "Clinical data analytics technology company SciMar ONE was selected as the newest member of Microsoft’s global start-ups program ... effective innovations using AI while de-risking corporate ..."
-    publishedDateTime: 2021-03-31T17:03:00Z
-    webUrl: "https://njbiz.com/woman-owned-tech-startup-selected-microsofts-global-startup-program/"
+  - title: "Artificial Intelligence Platforms Market Confirms Strong Growth Momentum | Google, Baidu, IBM, Microsoft, SAP"
+    excerpt: "Key Segments Studied in the Global Artificial Intelligence Platforms Market Artificial Intelligence Platforms market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Artificial Intelligence Platforms ..."
+    publishedDateTime: 2021-03-30T15:44:00Z
+    webUrl: "https://ipsnews.net/business/2021/03/30/artificial-intelligence-platforms-market-confirms-strong-growth-momentum-google-baidu-ibm-microsoft-sap/"
     type: article
     provider:
-      name: NJBIZ
-      domain: njbiz.com
-    quality: 38
-    images:
-      - url: "https://njbiz.com/files/2021/03/SciMarOne.gif"
-        width: 844
-        height: 551
-        isCached: true
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 30
 
 secured: "yfxw60HJiKiqJGYRusj1FkT3eSVGgtn1bkkrkLqKtGDXs1Hjd0P/YVRdlEWn55UVNfM+qWPm7y0jnyS3vVrKXv0+Z26eSkM3jide/fYIZ9WefQ9ZMfoFKpQEJkU6tnT+K+Kg2KC510wh7Eu2ke/W8xoHG19zvRH+obS6hJMOxCV0jUhxIPqtdrZxH55vR9e5hQj8qfIUGxViJge3/W3VTN5PE4GtcXF/7PImJFMowIdcQZs8DUPxC9Ufo9o7TxNOR4eYd18ase1wpN3Mx3ePH9KVXXePDDjMHp0ulNCZclZ7XX3L8LSs7LzkLj+yQ0B1IrQiSu+w665tG4shvBodr+H1Sv7wIdLiQcMF8dUWBIk=;Y7wHBE9eDjI5QkCb8U0nzw=="
 ---

@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
+    excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
+    publishedDateTime: 2021-03-31T17:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
     publishedDateTime: 2021-03-30T09:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LR1RZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LR1RZ"
 type: article
 quality: 63
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 58
+  - title: "FI regulators seek feedback on AI use"
+    excerpt: "Monday issued a request for information (RFI) seeking insights into financial institutions’ use of artificial intelligence (AI) and machine learning. NAFCU recognizes how these technologies can help improve credit unions’ operations and service to members but has cautioned against an unlevel playing field that allows fintech companies"
+    publishedDateTime: 2021-03-31T04:00:00Z
+    webUrl: "https://www.cuinsight.com/fi-regulators-seek-feedback-on-ai-use.html"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 39
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2019/01/bigstock-Machine-Learning-Artificial-241802989.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "Regulators seek industry feedback on risks and benefits of AI"
     excerpt: "The federal banking and credit union agencies want input about how financial institutions use artificial intelligence for credit underwriting and other purposes, and about whether additional regulatory guidance is needed."
     publishedDateTime: 2021-03-29T19:49:00Z

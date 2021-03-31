@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/26/ai-weekly-algorithms-accountabili
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/ai-weekly-algorithms-accountability-and-regulating-big-tech/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Auditoria raises $15.5M to expand AI platform automating repetitive accounting tasks"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Auditoria, a startup offering AI-driven automation products for corporate finance teams, today announced that ..."
+    publishedDateTime: 2021-03-31T19:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/"
+    ampWebUrl: "https://venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/auditoria-raises-15-5m-to-automate-repetitive-accounting-tasks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "lzauT2rahAUHKdrF4WU6xMj38i3WFtkj20F6SicdQ2MKXhDSOZikS8Dun0F4i9hH98Z/ShyT8axea7rsIqVmmsrPRVM0yj08c2hjvgQcSRA4dWPTU5QhI/jEzlygrDg8id8dkxlMcB8oTG4QU7q8fFvDtY81IU8YW4fZLubyvjVxRlaAY0BCaHGhSZKAhdrTMjVqIZAnLalQinNYt2wvKmqpRAcZP9OzyQtYUXZBSlwbRw0utSmfA3dcN9nTn5uqB8uQEveuZ1qNQtrGCoBhOJeQserUa9kH6Q18lqSeQvGF8poctcaVERRxAwTbJuuLyGV6xgE8i7XRHxsgTzjal9yjgey7TqM0h8leS79nFM/tUbINJZ1VgOE4jhx3x8UrCrrmUhlLxTmjmhiWCNvKqZQEcr5mQyScOwoybArn4oSD8RFxGG8Kk97ahCwZTqZUUl9XrUaGqUM3CjKS+W6GBkv8uXWBgR1PXn5PBRYq7NhK5dSyG4lXa76+qpGhnD3SmE82qADcTzDr/ulfln5cbQ==;pBeCazpaK893SpNms+hcvA=="
 ---

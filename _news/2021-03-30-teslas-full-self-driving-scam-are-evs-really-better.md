@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Debate Over Tesla’s Full Self-Driving"
+    excerpt: "debate over Tesla’s full self-driving. Get the entire 10-part series on Ray Dalio in PDF. Save it to your desktop, read it on your tablet, or email to your colleagues Volkswagen was in the headlines yesterday after it posted a press release on its ..."
+    publishedDateTime: 2021-03-31T16:04:00Z
+    webUrl: "https://www.valuewalk.com/debate-tesla-full-self-driving/"
+    ampWebUrl: "https://www.valuewalk.com/debate-tesla-full-self-driving?amp"
+    cdnAmpWebUrl: "https://www-valuewalk-com.cdn.ampproject.org/c/s/www.valuewalk.com/debate-tesla-full-self-driving?amp"
+    type: article
+    provider:
+      name: ValueWalk
+      domain: valuewalk.com
+    quality: 59
+    images:
+      - url: "https://www.valuewalk.com/wp-content/uploads/2021/03/tesla_1615531404.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Underage Teen Gets In Tesla’s Back Seat And Claims It Was Self-Driving After Being Pulled Over By Police"
     excerpt: "Tesla’s Autopilot is a very capable system, but in its current state it cannot, and should not, be replacing human drivers. That holds especially true in the case of this incident, where said drivers were not of legal age to obtain a license,"
     publishedDateTime: 2021-03-29T22:58:00Z

@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "JD.com Sells Off Cloud, AI Units To Its FinTech Arm"
+    excerpt: "Chinese eCommerce giant JD.com has officially sold its cloud computing and artificial intelligence business to its FinTech unit for a combined $2.4 billion."
+    publishedDateTime: 2021-03-31T18:28:00Z
+    webUrl: "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/"
+    ampWebUrl: "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/jd.com_-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "China's JD spins off cloud and AI businesses to fintech unit"
     excerpt: "Chinese e-commerce firm JD.com Inc said on Wednesday it had sold JD Cloud and artificial intelligence business to its financial technology unit for a combined valuation of 15.7 billion yuan ($2.40 billion)."
     publishedDateTime: 2021-03-31T10:55:00Z

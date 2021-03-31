@@ -47,6 +47,20 @@ related:
         width: 960
         height: 369
         isCached: true
+  - title: "Woman-owned tech startup selected for Microsoft’s global startup program"
+    excerpt: "Clinical data analytics technology company SciMar ONE was selected as the newest member of Microsoft’s global start-ups program ... effective innovations using AI while de-risking corporate ..."
+    publishedDateTime: 2021-03-31T17:03:00Z
+    webUrl: "https://njbiz.com/woman-owned-tech-startup-selected-microsofts-global-startup-program/"
+    type: article
+    provider:
+      name: NJBIZ
+      domain: njbiz.com
+    quality: 38
+    images:
+      - url: "https://njbiz.com/files/2021/03/SciMarOne.gif"
+        width: 844
+        height: 551
+        isCached: true
 
 secured: "AI/cshhEGq3JtrD24KMaynd1LSnjVcnrkT+JZeJWF7+s2ayQtk/7NZbQKmnkmsULhfSAAtFc8ImswYB0eJfG5EnXHLENh0oe2tQZ7WyJdYun071yc4Hfc1wvXC89Gz3LlNqX4vMMGMWQYTl9j87MiIQZ+ggn8PXxKhqwC6GUI1wlB2RGWBugT1OyyCbq9j2B3ps4N9wWdTTAhrcA32ZNbdLEACyiB45SMHm2d4XvYnmALJNGt9PHJqdEie1dgpV1eqFPMLpxo+werAOKJWvCSsmwOmfPNiTMowWovLBgTSS1SMWuP1XpA1/+dkBjO0ubPAxgkM2lLjlbVSYjCaSTvmLyTKwEGfCIQvgNFH8AzQo=;kdBwLauVZr8sInrDLMow1w=="
 ---

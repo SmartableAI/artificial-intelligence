@@ -7,7 +7,7 @@ originalUrl: "https://news.engineering.utoronto.ca/new-explainable-artificial-in
 webUrl: "https://news.engineering.utoronto.ca/new-explainable-artificial-intelligence-algorithm-could-lead-to-smarter-manufacturing/"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers at U of T and LG develop ‘explainable’ artificial intelligence algorithm"
+    excerpt: "Heat-map images are used to evaluate the accuracy of a new explainable artificial intelligence algorithm that ... model presents challenges when it’s applied to areas such as health care, law and insurance. “For example, a [machine learning ..."
+    publishedDateTime: 2021-03-31T18:22:00Z
+    webUrl: "https://www.utoronto.ca/news/researchers-u-t-and-lg-develop-explainable-artificial-intelligence-algorithm"
+    type: article
+    provider:
+      name: University of Toronto
+      domain: utoronto.ca
+    quality: 47
+    images:
+      - url: "https://www.utoronto.ca/sites/default/files/SISE_evaluation.jpg"
+        width: 750
+        height: 304
+        isCached: true
   - title: "Researchers at University of Toronto and LG develop ‘explainable’ artificial intelligence algorithm"
     excerpt: "Heat-map images are used to evaluate the accuracy of a new explainable artificial intelligence algorithm that U of T and LG researchers developed"
     publishedDateTime: 2021-03-31T17:34:00Z

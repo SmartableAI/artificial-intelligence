@@ -2,6 +2,136 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-29-scientists-use-machine-learning-to-help-doctors-find-veins-for-no-fuss-blood-draws.md",
+      "title": "Scientists use machine learning to help doctors find veins for no-fuss blood draws",
+      "excerpt": "Researchers from Skoltech have developed an early prototype of a medical imaging system that uses neural networks to analyze near-infrared images of veins and project a venous pattern onto a patient's body—this may make blood draws much easier and less of a nuisance for patients with difficult access to veins.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-scientists-machine-doctors-veins-no-fuss.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-scientists-machine-doctors-veins-no-fuss.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/1-bloodsample.jpg",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-scientists-machine-doctors-veins-no-fuss.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-scientists-machine-doctors-veins-no-fuss.amp",
+      "publishedDateTime": "2021-03-29T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
+      "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
+      "excerpt": "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "originalUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg",
+          "width": 750,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
+      "publishedDateTime": "2021-03-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-modalai-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
+      "title": "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards",
+      "excerpt": "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category ... systems that communicate on 4G and 5G cellular networks. Offering both start-to-finish custom design services and plug-and-play computing platforms, ModalAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20384827",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20384827",
+      "publishedDateTime": "2021-03-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-complementary-security-for-oranges-data-and-ai-ethics-council.md",
       "title": "Complementary security for Orange's Data and AI Ethics Council",
       "excerpt": "Patrick Donegan of HardenStance discusses Orange's activities around AI ethics and looks at how the operator could collaborate with a much broader set of telcos.",
@@ -577,7 +707,7 @@
       "originalUrl": "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -723,7 +853,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -775,7 +905,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1066,144 +1196,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-can-artificial-intelligence-replace-human-therapists.md",
-      "title": "Can Artificial Intelligence Replace Human Therapists?",
-      "excerpt": "Three experts discuss the promise—and problems—of relying on algorithms for our mental health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "originalUrl": "https://www.wsj.com/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-317459/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/can-artificial-intelligence-replace-human-therapists-11616857200",
-      "publishedDateTime": "2021-03-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-walt-disney-world-testing-facial-recognition-tech-for-park-entry.md",
-      "title": "Walt Disney World Testing Facial Recognition Tech For Park Entry",
-      "excerpt": "Disney’s taking touchless to a new level with its facial recognition pilot program. Would you be willing to participate?",
-      "sourceUrl": null,
-      "webUrl": "https://www.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
-      "originalUrl": "https://www.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.travelawaits.com/filter:centercrop/quill/5/9/2/7/0/a/59270a9ea0fff8df8eb37756170ca02ffc3572c5.jpg?w=300&h=300",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
-      "cdnAmpWebUrl": "https://amp-travelawaits-com.cdn.ampproject.org/c/s/amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/",
-      "publishedDateTime": "2021-03-27T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "travelawaits",
-        "domain": "travelawaits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-north-american-ai-in-healthcare-market-trends-2019-segmentation-outlook-industry-report-to-2025.md",
-      "title": "North American AI in Healthcare Market Trends 2019 | Segmentation, Outlook, Industry Report to 2025",
-      "excerpt": "The North American AI in healthcare market is estimated to grow significantly at a CAGR of 50.4% during the forecast period. The North American market for AI in healthcare is analyzed based on countries such as the US and Canada. The factors that are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
-      "originalUrl": "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/3/U327247103_g.jpg",
-          "width": 800,
-          "height": 904,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019",
-      "publishedDateTime": "2021-03-27T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "JD.com Sells Off Cloud, AI Units To Its FinTech Arm"
+    excerpt: "Chinese eCommerce giant JD.com has officially sold its cloud computing and artificial intelligence business to its FinTech unit for a combined $2.4 billion."
+    publishedDateTime: 2021-03-31T18:28:00Z
+    webUrl: "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/"
+    ampWebUrl: "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/jd.com_-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 30, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
     publishedDateTime: 2021-03-30T09:45:00Z

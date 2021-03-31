@@ -25,69 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft gives $5M to UW Medicine to use AI to accelerate response to next pandemic"
-    excerpt: "The speed of the creation of vaccines for the SARS-CoV-2 virus that causes COVID-19 was a modern marvel. You might already have already gotten yours, a little more than a year after the virus"
-    publishedDateTime: 2021-03-31T17:46:00Z
-    webUrl: "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/"
-    ampWebUrl: "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/"
+  - title: "Infobip's Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service"
+    publishedDateTime: 2021-03-29T02:51:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 97
+      name: Deep
+      domain: thefastmode.com
+    quality: 69
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/03/HydrogenBonds-630x423.jpg"
-        width: 630
-        height: 423
+      - url: "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113"
+        width: 752
+        height: 408
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market To Witness Huge Growth By 2026: Fair Isaac, Microsoft, Google"
-    excerpt: "Mar 31, 2021 (Market Insight Reports) -- The latest update of Global Artificial Intelligence and Machine Learning Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for ..."
-    publishedDateTime: 2021-03-31T15:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31"
+  - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
+    excerpt: "Infobip’s infrastructure on Azure includes omnichannel support through its Contact Center solution ‘Conversations’, the automated customer engagement engine ‘Moments’ and AI powered chatbot building function ‘Answers’ that all sit on top of ..."
+    publishedDateTime: 2021-03-29T02:59:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_microsoft/microsoft-infobips-communications-paas-now-available-on-microsoft-azure/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 95
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Teams offers live transcription powered by AI"
-    excerpt: "Microsoft Teams has announced Artificial Intelligence (AI)-powered live transcription, a written record of the spoken text, for meetings in English."
-    publishedDateTime: 2021-03-30T09:33:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 47
+  - title: "Ex-Top Microsoft Antitrust Lawyer Joins Health Care Data Startup"
+    excerpt: "Two former longtime executives at Microsoft Corp. have reunited at Truveta Inc., a startup co-owned by 14 major U.S. health providers that aims to improve patient care by using artificial intelligence ... Catholic nonprofit health care providers in ..."
+    publishedDateTime: 2021-03-30T23:07:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/ex-top-microsoft-antitrust-lawyer-joins-health-care-data-startup"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 74
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 41
     images:
-      - url: "https://image-prod.iol.co.za/resize/2000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/10e38143-0cb6-5b99-8c12-12275aab33fc&operation=CROP&offset=148x0&resize=1725x970"
-        width: 651
-        height: 366
-        isCached: true
-  - title: "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy"
-    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure."
-    publishedDateTime: 2021-03-30T08:11:00Z
-    webUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235"
-    ampWebUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
-    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
-    type: article
-    provider:
-      name: Hart Energy
-      domain: hartenergy.com
-    quality: 54
-    images:
-      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
-        width: 605
-        height: 500
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0bc467b/2147483647/crop/3200x1230%2B0%2B92/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F1d%2Fa7%2F30f81de34848bc51f1ced29f8e34%2Fmyerson.jpg"
+        width: 960
+        height: 369
         isCached: true
 
-secured: "3/kY2a033K9ufoCdENf96j0rlbIc7+mr2/oJpHAlMx1Sl7XczmNbSnibtro0JqkZNtnPaOvLZQXrQR6RD/7VXnG9tB40h6J2/Ti93evQCeuvAAMtPOSowVc4rYRlbkugdlQt7FSAxPKGXMHJ9OsD8msMbbnLylS7Wx1E1NvjkClhefxVMRXptaLhN0jvTUAQPZiitXBuD5KVlLCnxKlmoT8AoW/5kxJqLhr0pkXjfwbn3rBCcvTU5l7fp9yjhqw0gJluHb5asSvK3bBsTqeh/PY2Qsp4Z2Mo+lH7akaE3QkW43Avzxy3Ge+czjSUco4SqgcUuQ/4j6SH/LlfimInNeL0jF59DM6m5IaNrUOh0Do=;UJN/5wrYClraxqjstLY5hA=="
+secured: "HtpSFVex5V+7ArppNjYLnjFPr6igFRiiTCASBXCLi0evFn6sZUwHTtsv1mZdEzMuFEVaY/B0owMifiJqGL1vOjuptMNyFqnkoELjS4fd3OKIe0vUcOUOC7HDPUQgv+hDsWw8pcF7UkGgLmpSVCTwIeR0l751VZPQdw5blp+ZQoiGTWVq1pH2nX//Jd/aodCRC2TWHzn3wFywXX+y8pfN+IZo2SFB9O2T3U5hbjOAmcByNePF/wXzhYH8ESZcoHP5kX89DcWIyE8Q0IS8CuVYT3zr096j/LmweR54IgfvODKrqLFmRbifx/s5sqNwoeF3O8m1dI9q0ea6OK9PKd97GsF+keO2jf1DWKEbqZrn3s8NqxtO/l+bpakxoe1bFwMn2bvVY5xcPIUT7lDAnNcxYBbkoo80pwd6AIphBbDWejeMaG3USBuMmTg0HYWOFnlCjjv1QiXgoFx7fdVLNDbA1q7cQWMhDZkBydSlW1MJwunKMsRstCe9P+NEFeuFWJu/TvoSEaY22PakbBpDoJBPMw==;qLYzwBDa60WV9OfYH7u2ag=="
 ---
 

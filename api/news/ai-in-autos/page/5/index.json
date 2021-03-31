@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-23-eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack.md",
+      "title": "EU report warns that AI makes autonomous vehicles ‘highly vulnerable’ to attack",
+      "excerpt": "A European Union Agency for Cybersecurity report says machine learning should be considered part of the autonomous vehicle supply chain.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/",
+      "originalUrl": "https://venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Untitled-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/amp/",
+      "publishedDateTime": "2021-02-22T17:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-if-you-have-money-you-could-build-a-car.md",
       "title": "If you have money, you could build a car.",
       "excerpt": "New smart driving once wrote \"Xiaomi , perhaps can build a car\", mentioned that if Xiaomi one day announced the next car, it is also expected, reasonable. A week later, Xiaomi's share price soared 12% after the \"Xiaomi OK Car\" news broke the circle of friends.",
@@ -1367,49 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-become-an-artificial-intelligence-expert-with-this-discounted-bundle.md",
-      "title": "Become an artificial intelligence expert with this discounted bundle",
-      "excerpt": "Many of today's most exciting technologies have artificial intelligence to thank. Think personalised Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale/",
-      "originalUrl": "https://mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F02%252F15%252Fbb%252F515c6269c5564def8f959d03934356b2.b1a00.jpg%252F1200x630.jpg?signature=_MClS5F49xW4D-w839vUne4dkmA=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale.amp",
-      "publishedDateTime": "2021-02-14T23:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

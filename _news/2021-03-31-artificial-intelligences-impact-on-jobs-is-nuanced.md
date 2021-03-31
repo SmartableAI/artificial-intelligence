@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-31T15:10:00Z
 originalUrl: "https://www.forbes.com/sites/joemckendrick/2021/03/31/artificial-intelligences-impact-on-jobs-is-nuanced/"
 webUrl: "https://www.forbes.com/sites/joemckendrick/2021/03/31/artificial-intelligences-impact-on-jobs-is-nuanced/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed136d06fa7be00069cd38b%2F0x0.jpg"
@@ -43,6 +44,6 @@ related:
         height: 611
         isCached: true
 
-secured: "/924zUdXOdjowWXHnjw345nZR+Q4K2/QEsoTLqw5m88vuL50rTOEhQLD9MdK6f4AwcgSEa9XkiMFaBj2pkKlF1iZijw8h1Lg4MOTursU49btj+ohzSlEityvzBKM2wIBzWYNMfyR//+IEMc8mcAhYlW3al+WpJzkPVvQMC6QKabdIpyNv+OakAgLyLMem1o+FvctZYHP4FFdOgZ3T5qB85Nw0+U0ETKPHp6Z8A4FKRe/gFGA1jbpJREhIg8nl7PGLLSqYDMjzO+QckmdGAENPLJaaslK0oC7a7uZ5+e84z5k6XIkVM4Iwx07VpRqh8hXUKvIxVu0CQrOhDerWMfiGss1R/zky1kIoOEUfZsn+S8=;SjI1++qf7HBcKqXRiH/3Cg=="
+secured: "1e9tUkve+zSz2XBlbVNCMImRqMU/Kdr6g2IaUQPADoyMoBWBUBENFIdJ/AvVcoLnXpOMgBPrI+zJdc5Q5NHgOHriLE8mTJBrhka88Ix6NTnKMe+C47M2e84h8rR0CiWufS4beI0xsx10w/dVPWxwSNTqOyaw0BUxLe8bEUNiC9Ygeq62OIi6V6X9a/H/C515sN9yVXz8Hl72nFXQ1OTXMnWD4TXXn9wSu9myTi9ydshkrY3E/S7Umyj/Yqu0pv9ddK0tbBaht/ef87x3b0WvWpr4JjN/JWQEYtqBDZ4F53O6nW8Mb/Qbrs2NXdMljYAIWLyvPuOFvAFqhpjB4TTbezQcPhvK/VbIm5CfzbX39yklLDDgMjBoJnwLwVH4Y7q5kka5Abt/e/3JzfXDHdbcs0je0E2vyz+v6YeRjzZPnoX8AuKxDi90auOwJ0mYngm1TWHZP7HJItcTp4d/yrOCsGICbOG//QwOY3GoN6UWD+r3zi7/CHtn2BnUd4x+ow+UmHLEWytna/dXrmtWCJYlzw==;IY9Zt/csPOlJRm2XxQ0qzA=="
 ---
 

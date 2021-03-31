@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partne
 cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Hart Energy
@@ -27,65 +27,72 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft gives $5M to UW Medicine to use AI to accelerate response to next pandemic"
-    excerpt: "The speed of the creation of vaccines for the SARS-CoV-2 virus that causes COVID-19 was a modern marvel. You might already have already gotten yours, a little more than a year after the virus"
-    publishedDateTime: 2021-03-31T17:46:00Z
-    webUrl: "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/"
-    ampWebUrl: "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/"
+  - title: "New GC and Other Microsoft Alums Attracted to Health Care Tech Startup"
+    excerpt: "David Heiner, chief policy officer and general counsel at Truveta Inc. Courtesy photo After working for more than 25 years at Microsoft Corp. as an in-house leader and artificial intelligence ... joined Truveta as the health care tech company’s first ..."
+    publishedDateTime: 2021-03-30T21:50:00Z
+    webUrl: "https://www.law.com/corpcounsel/2021/03/30/new-gc-and-other-microsoft-alums-attracted-to-health-care-tech-startup/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 97
+      name: Law
+      domain: law.com
+    quality: 41
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/03/HydrogenBonds-630x423.jpg"
-        width: 630
-        height: 423
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2021/03/David-Heiner-Article-202103301745.jpg"
+        width: 621
+        height: 372
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning Market To Witness Huge Growth By 2026: Fair Isaac, Microsoft, Google"
-    excerpt: "Mar 31, 2021 (Market Insight Reports) -- The latest update of Global Artificial Intelligence and Machine Learning Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for ..."
-    publishedDateTime: 2021-03-31T15:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31"
+  - title: "Schlumberger and Microsoft expand partnership to bring open, enterprise-scale data management to energy industry"
+    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU Data Platform optimized for Microsoft Azure LONDON and"
+    publishedDateTime: 2021-03-29T13:04:00Z
+    webUrl: "https://www.miragenews.com/schlumberger-and-microsoft-expand-partnership-536270/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 95
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 18
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.baylor.edu/content/imglib/3/7/2/8/372885_640.png"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
+    excerpt: "Schlumberger and Microsoft announced an expanded strategic partnership to accelerate new technologies for the energy industry. The first offering, the Schlumberger Enterprise Data Management Solution for the OSDU Data Platform—a new industry standard for energy data—is available today."
+    publishedDateTime: 2021-03-29T16:09:00Z
+    webUrl: "https://www.euro-petrole.com/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry-n-i-22019"
+    type: article
+    provider:
+      name: euro-petrole.com
+      domain: euro-petrole.com
+    quality: 16
+    images:
+      - url: "https://www.euro-petrole.com/partenaires/DIFOPE-absorbants-barrages-antipollution.jpg"
+        width: 280
+        height: 280
+        isCached: true
+  - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
+    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ Data Platform optimized for Microsoft Azure"
+    publishedDateTime: 2021-03-29T21:32:00Z
+    webUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/"
+    ampWebUrl: "https://gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
+    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/03/schlumberger-and-microsoft-expand-partnership-to-bring-open-enterprise-scale-data-management-to-the-energy-industry/amp/"
+    type: article
+    provider:
+      name: gisuser.com
+      domain: gisuser.com
+    quality: 16
+  - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
+    excerpt: "and the ability to seamlessly connect to the DELFI* cognitive E & P environment from Schlumberger. The Enterprise Data Management Solution is ready for global customers to deploy on Microsoft ..."
+    publishedDateTime: 2021-03-31T07:39:00Z
+    webUrl: "https://menafn.com/1101834341/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/updates/pr/2021-03/30/M_ea2bf9a0-5image_story.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Microsoft Teams offers live transcription powered by AI"
-    excerpt: "Microsoft Teams has announced Artificial Intelligence (AI)-powered live transcription, a written record of the spoken text, for meetings in English."
-    publishedDateTime: 2021-03-30T09:33:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-teams-offers-live-transcription-powered-by-ai-c45e3e88-844f-4347-90ec-4d04d4348641"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 74
-    images:
-      - url: "https://image-prod.iol.co.za/resize/2000x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/10e38143-0cb6-5b99-8c12-12275aab33fc&operation=CROP&offset=148x0&resize=1725x970"
-        width: 651
-        height: 366
-        isCached: true
-  - title: "Woman-owned tech startup selected for Microsoft’s global startup program"
-    excerpt: "Clinical data analytics technology company SciMar ONE was selected as the newest member of Microsoft’s global start-ups program ... effective innovations using AI while de-risking corporate ..."
-    publishedDateTime: 2021-03-31T17:03:00Z
-    webUrl: "https://njbiz.com/woman-owned-tech-startup-selected-microsofts-global-startup-program/"
-    type: article
-    provider:
-      name: NJBIZ
-      domain: njbiz.com
-    quality: 38
-    images:
-      - url: "https://njbiz.com/files/2021/03/SciMarOne.gif"
-        width: 844
-        height: 551
+        height: 672
         isCached: true
 
 secured: "GSUopKCa6JdumN7fHMP1CkFN1l68QJBUZjIcwq95K5wrqpDt54r4OME7YBEyFmbQZhxKVMnxu//z+dMJ8Xo+HAy3QylR3KigQH30+yh0X79gKJYGKshl4KKNEGF9Iz3o7RRlKQsKpXD0OpWA+FGMzsDggVfWxmiok9gK3ZQ7jrV4g9HSFK1C7lAFEclqQT2O1ZgfxIWPUyMJCD4eHNgdOPO9HbQeKP7oX5Frd9ZlH6Jlcz+ZAfnxDvMr7T8bFIJZDHEHmQhhQYKkPbAjv4HTpC6cR9aQStkGIAgDrWYCkMSof8g/ZcsgY+nfp0fmTvd0BJYQPfaBTK5S2moO6Hz3N/WyhphT0PIdH+ZbEoYU0Lg=;mzVN7BpkPWscBQPbUPtlZg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/corpcounsel/2021/03/30/new-gc-and-other-micros
 webUrl: "https://www.law.com/corpcounsel/2021/03/30/new-gc-and-other-microsoft-alums-attracted-to-health-care-tech-startup/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy"
+    excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure."
+    publishedDateTime: 2021-03-30T08:11:00Z
+    webUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235"
+    ampWebUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
+    cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
+    type: article
+    provider:
+      name: Hart Energy
+      domain: hartenergy.com
+    quality: 54
+    images:
+      - url: "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png"
+        width: 605
+        height: 500
+        isCached: true
   - title: "Schlumberger and Microsoft expand partnership to bring open, enterprise-scale data management to energy industry"
     excerpt: "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU Data Platform optimized for Microsoft Azure LONDON and"
     publishedDateTime: 2021-03-29T13:04:00Z

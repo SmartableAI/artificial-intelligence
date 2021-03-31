@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-04-01-microsoft-gives-5m-to-uw-medicine-to-use-ai-to-accelerate-response-to-next-pandemic.md",
-      "title": "Microsoft gives $5M to UW Medicine to use AI to accelerate response to next pandemic",
-      "excerpt": "The speed of the creation of vaccines for the SARS-CoV-2 virus that causes COVID-19 was a modern marvel. You might already have already gotten yours, a little more than a year after the virus",
+      "path": "_news/2021-04-01-why-you-should-tackle-risk-management-before-you-even-start-hiring.md",
+      "title": "Why You Should Tackle Risk Management Before You Even Start Hiring",
+      "excerpt": "Related: Microsoft Using Minecraft to Teach its AI to Learn During Microsoft's risk-management evaluation ... Let's say you operate a startup that allows owners to lease out their cars, so you hire a third-party insurance company to insure against theft ...",
       "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/",
-      "originalUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/",
+      "webUrl": "https://www.entrepreneur.com/article/367510",
+      "originalUrl": "https://www.entrepreneur.com/article/367510",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/HydrogenBonds-630x423.jpg",
-          "width": 630,
-          "height": 423,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616690604-GettyImages-1187635329.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-gives-5m-uw-medicine-use-ai-accelerate-response-next-pandemic/amp/",
-      "publishedDateTime": "2021-03-31T10:46:00-07:00",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367510",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367510",
+      "publishedDateTime": "2021-03-31T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {
@@ -102,6 +101,58 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download.md",
+      "title": "Safety Pool Announces 100,000 Self-Driving Test Scenarios Ready For Download",
+      "excerpt": "Self-driving teams, academics, and armchair roboticists should be able to build and contribute useful scenarios to the library. Every time there’s a car accident or an unusual situation it should go into the library. Then every car from every company can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064b66db9cbe60ffe61b40f%2F0x0.jpg",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/03/31/safety-pool-announces-100000-self-driving-test-scenarios-ready-for-download/amp/",
+      "publishedDateTime": "2021-03-31T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -218,7 +269,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/03/31/artificial-intelligences-impact-on-jobs-is-nuanced/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -257,7 +308,62 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google.md",
+      "title": "Artificial Intelligence and Machine Learning Market To Witness Huge Growth By 2026: Fair Isaac, Microsoft, Google",
+      "excerpt": "Mar 31, 2021 (Market Insight Reports) -- The latest update of Global Artificial Intelligence and Machine Learning Market study provides comprehensive information on the development activities by industry players, growth opportunities and market sizing for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-31T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -665,6 +771,57 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-dataikus-new-ai-tools-reduce-dependency-on-data-science-teams.md",
+      "title": "Dataiku’s new AI tools reduce dependency on data science teams",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Dataiku today expanded its effort to make AI accessible to the average business user with an update that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Dataiku.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
+      "publishedDateTime": "2021-03-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-edge-computing-orchestration-startup-zededa-raises-125m.md",
       "title": "Edge computing orchestration startup Zededa raises $12.5M",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Zededa, an edge virtualization startup, today announced that it raised $12.5 million in an oversubscribed ...",
@@ -673,7 +830,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1126,145 +1283,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-edge-ai-software-market-growing-at-a-cagr-208-key-player-microsoft-ibm-google-nutanix-synaptics.md",
-      "title": "Edge AI Software Market Growing at a CAGR 20.8% | Key Player Microsoft, IBM, Google, Nutanix, Synaptics",
-      "excerpt": "In the edge AI software market, Azure platform that is intelligent, consistent, and comprehensive from cloud to edge. Request a Sample Pages @ https://www.marketsandmarkets.com/requestsampleNew.asp?id=70030817 IBM is a multinational technology and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-software-market-growing-at-a-cagr-208-key-player-microsoft-ibm-google-nutanix-synaptics-2021-03-31",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-software-market-growing-at-a-cagr-208-key-player-microsoft-ibm-google-nutanix-synaptics-2021-03-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning.md",
-      "title": "Hyderabad University Launches Diploma in Artificial Intelligence & Machine Learning",
-      "excerpt": "The University of Hyderabad (UoH) and AAIC Technologies have jointly offered an online diploma in artificial intelligence and machine ... These sectors include healthcare, agriculture, education, smart cities, and smart mobility. Sarswati said that by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
-      "originalUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.news18.com/ibnlive/uploads/2021/03/1617171389_student1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
-      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
-      "publishedDateTime": "2021-03-30T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN-News18",
-        "domain": "news18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-dall-e-openais-new-neural-network-wonder.md",
-      "title": "DALL-E: OpenAI's new neural network wonder",
-      "excerpt": "GPT-3 has shown that vast neural networks trained on immense datasets can master a ... OpenAI was founded in 2015 by Elon Musk and Sam Altman with the promise to build artificial general intelligence (AGI) that benefits all of humanity and that is safe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
-      "originalUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/xiY4gazanXp5xT5BGYXLZDsup4PnFGuMiEE79Cb0AgXSDJoobxrJzrvKlCF8-Wo3VJOxY-HDuu4qlIUisNPeOmyIl1qPXuWcIJw5vyOVeHZQn-wO1GphnxPLdNGFhIcXL5kFuVEJ",
-          "width": 1134,
-          "height": 902,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
-      "publishedDateTime": "2021-03-30T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

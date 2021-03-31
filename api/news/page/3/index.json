@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-30-ambi-robotics-raises-61m-in-seed-funding.md",
+      "title": "Ambi Robotics Raises $6.1M in Seed Funding",
+      "excerpt": "based company that emerged from stealth to introduce AmbiOS, an advanced robot operating system based on simulation-to-reality artificial intelligence (AI), raised $6.1m in seed funding. The round was led by Bow Capital, Vertex Ventures and The House Fund.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html",
+      "originalUrl": "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2021/03/ambi-scaled.jpg",
+          "width": 2560,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-30T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-volvo-selects-aurora-to-help-bring-self-driving-semi-trucks-to-life.md",
+      "title": "Volvo selects Aurora to help bring self-driving semi trucks to life",
+      "excerpt": "Both companies plan to make level 4 self-driving, Class 8 trucks a reality after laying technological foundations for years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/volvo-aurora-self-driving-semi-trucks/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/volvo-aurora-self-driving-semi-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/Gj4HZSvkuQkrIiIrXCRL1Yvby_E=/2021/03/30/c02913bb-4957-41a3-991e-fb42e64a5d1e/ogi-volvo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/",
+      "publishedDateTime": "2021-03-30T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-6sense-raises-125m-at-a-21b-valuation-for-its-id-graph-an-ai-based-predictive-sales-and-marketing-platform.md",
       "title": "6sense raises $125M at a $2.1B valuation for its ‘ID graph’, an AI-based predictive sales and marketing platform",
       "excerpt": "AI has become a fundamental cornerstone of how tech companies are building tools for salespeople: they are useful for supercharging (and complementing) the abilities of talented humans, or helping them keep themselves significantly more organised;",
@@ -658,6 +753,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-30-schlumberger-microsoft-expand-partnership-to-accelerate-digital-future-of-energy.md",
+      "title": "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy",
+      "excerpt": "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235",
+      "originalUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
+          "width": 605,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp",
+      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp",
+      "publishedDateTime": "2021-03-30T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hart Energy",
+        "domain": "hartenergy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-facial-recognition-camera-projects-raise-concerns-in-eastern-europe.md",
       "title": "Facial recognition camera projects raise concerns in Eastern Europe",
       "excerpt": "Digital rights organizations are concerned about the increasing use of mass surveillance systems featuring thousands of facial recognition cameras.",
@@ -813,7 +951,7 @@
       "originalUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1066,7 +1204,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-fed-artificialintelligence-idUSL1N2LR1RZ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1096,136 +1234,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-scientists-use-machine-learning-to-help-doctors-find-veins-for-no-fuss-blood-draws.md",
-      "title": "Scientists use machine learning to help doctors find veins for no-fuss blood draws",
-      "excerpt": "Researchers from Skoltech have developed an early prototype of a medical imaging system that uses neural networks to analyze near-infrared images of veins and project a venous pattern onto a patient's body—this may make blood draws much easier and less of a nuisance for patients with difficult access to veins.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-03-scientists-machine-doctors-veins-no-fuss.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-03-scientists-machine-doctors-veins-no-fuss.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/1-bloodsample.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-03-scientists-machine-doctors-veins-no-fuss.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-scientists-machine-doctors-veins-no-fuss.amp",
-      "publishedDateTime": "2021-03-29T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-data-analytics-machine-learning-and-ai-in-healthcare-in-2021.md",
-      "title": "Data, analytics, machine learning, and AI in healthcare in 2021",
-      "excerpt": "What do you get when you juxtapose two of the hottest domains today - AI and healthcare? A peek into the future, potentially.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "originalUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/29/73afce4d-6396-494c-8d54-d8e855389f36/ai-healty-survey-alt-cover.jpg",
-          "width": 750,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
-      "publishedDateTime": "2021-03-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-modalai-named-winner-in-2021-artificial-intelligence-excellence-awards.md",
-      "title": "ModalAI Named Winner in 2021 Artificial Intelligence Excellence Awards",
-      "excerpt": "ModalAI® has received an Artificial Intelligence Excellence Award in the Robotics category ... systems that communicate on 4G and 5G cellular networks. Offering both start-to-finish custom design services and plug-and-play computing platforms, ModalAI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/p20384827/modalai-named-winner-in-2021-artificial-intelligence-excellence-awards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20384827",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20384827",
-      "publishedDateTime": "2021-03-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

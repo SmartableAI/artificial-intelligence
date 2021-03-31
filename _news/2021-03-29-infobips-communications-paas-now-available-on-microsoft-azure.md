@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-co
 webUrl: "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0bc467b/2147483647/crop/3200x1230%2B0%2B92/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F1d%2Fa7%2F30f81de34848bc51f1ced29f8e34%2Fmyerson.jpg"
         width: 960
         height: 369
+        isCached: true
+  - title: "Woman-owned tech startup selected for Microsoft’s global startup program"
+    excerpt: "Clinical data analytics technology company SciMar ONE was selected as the newest member of Microsoft’s global start-ups program ... effective innovations using AI while de-risking corporate ..."
+    publishedDateTime: 2021-03-31T17:03:00Z
+    webUrl: "https://njbiz.com/woman-owned-tech-startup-selected-microsofts-global-startup-program/"
+    type: article
+    provider:
+      name: NJBIZ
+      domain: njbiz.com
+    quality: 38
+    images:
+      - url: "https://njbiz.com/files/2021/03/SciMarOne.gif"
+        width: 844
+        height: 551
         isCached: true
 
 secured: "W3WUIrIQKvP9VZ8NtBS7oAwDMG6oFZC/2PX45/cPDA0yTl6I44DGo+3w+3dhTvPUh5DWNqU7Lk/dvn2BcpnZGHEoCJsO8f+ZJ7DtCBTtQi48WY8W84RmABZVTlNEe3VShgwABs/CBlwDER+R/oLqXtCE9VqdKpXmeqLqFg0uSyYf5MvNsL1XFLFCeGWHw7/c5PbLwUrkXmfOGAmlxeqy6E8t9FIJ2H+DZ470eyEXAi2WVGcSGCZS8cVTDJmpW0sxm1KUnO/ge3pbGjjNPj8eh5MQvlwbF7Zq+mDMYUtwPKU3j2Tu0qlu1OrnfASOBwVD2xcpDrVZu/4SU/qZGp0ftDPc58uhrX6MoObg8p1pyFWpA9Jjoh7Ix3ayWqUucOodzQgzT/y1kHw8I47Pnx97/tNtiETP/w0v0uQJ4b7fzNod9q09fbDgqutJEbMNAkQxNiBsjRNu9w5O75yy8QM4cGrM4t7ITwL8LQ5w+UwdvIBwoHxVIGHO8a6VJgRch4P31GAAMoRc75mQbJxt8oWcVQ==;6jZj4crrZJNYGRhxaCS30Q=="

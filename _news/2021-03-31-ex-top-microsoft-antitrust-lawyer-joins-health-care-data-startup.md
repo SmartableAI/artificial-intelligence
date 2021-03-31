@@ -49,6 +49,20 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 47
+  - title: "Woman-owned tech startup selected for Microsoft’s global startup program"
+    excerpt: "Clinical data analytics technology company SciMar ONE was selected as the newest member of Microsoft’s global start-ups program ... effective innovations using AI while de-risking corporate ..."
+    publishedDateTime: 2021-03-31T17:03:00Z
+    webUrl: "https://njbiz.com/woman-owned-tech-startup-selected-microsofts-global-startup-program/"
+    type: article
+    provider:
+      name: NJBIZ
+      domain: njbiz.com
+    quality: 38
+    images:
+      - url: "https://njbiz.com/files/2021/03/SciMarOne.gif"
+        width: 844
+        height: 551
+        isCached: true
 
 secured: "idTEtLrzcdeaV9ElL0+6MxvfzkLsTgUfije/sGqAjjlkL5aHHn+fPmguaYg7OKAbWqCJo+XHhstpL4C2GMWfr/1Ar8/RJJxt+cVQT2BhcGo2T0ASdibeCiwXTCEEfakPTqqbrqoGHJ87X20BHLMs0whFgTlTPW0Rjy3pcVvmPj8b2qE2cQduARX5pbuELkhLPCIkrpfSRh+cRf5+lP088GX9Oe3RAZrSpa32/Did3RY3KQTLDEJN+yKXZFZUyHpZNb9REZFgI1jqWMAh2r6i3wfR6mvyP3UZXZnLy1orkSBP3gjRZP24b7sq6to+smYgwWc13L8JDEvvWAE5n8UEFinKMtbSqBuZvxOqJxnnRKVTfn/4J2IRQZMdjxVzZ8TXkmdu+RoVubuWgdPISr8M4RprYtZ3oZLge/JXrGlbBtoPbGy/PO3qm2SXa5DAYtXhta1PzgTsmABO2/6PFVnD2dPN8NXU+PYwGoWSCeNVTvYBu/rXNxV3kH+odMUVz3S1oT3LfSgz96dYXrSGtsHwhg==;F6P3hr9A59jT6ixPq8vQCg=="
 ---

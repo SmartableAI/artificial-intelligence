@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-31-hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning.md",
+      "title": "Hyderabad University Launches Diploma in Artificial Intelligence & Machine Learning",
+      "excerpt": "The University of Hyderabad (UoH) and AAIC Technologies have jointly offered an online diploma in artificial intelligence and machine ... These sectors include healthcare, agriculture, education, smart cities, and smart mobility. Sarswati said that by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "originalUrl": "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.news18.com/ibnlive/uploads/2021/03/1617171389_student1.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "cdnAmpWebUrl": "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html",
+      "publishedDateTime": "2021-03-30T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN-News18",
+        "domain": "news18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-dall-e-openais-new-neural-network-wonder.md",
+      "title": "DALL-E: OpenAI's new neural network wonder",
+      "excerpt": "GPT-3 has shown that vast neural networks trained on immense datasets can master a ... OpenAI was founded in 2015 by Elon Musk and Sam Altman with the promise to build artificial general intelligence (AGI) that benefits all of humanity and that is safe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
+      "originalUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/xiY4gazanXp5xT5BGYXLZDsup4PnFGuMiEE79Cb0AgXSDJoobxrJzrvKlCF8-Wo3VJOxY-HDuu4qlIUisNPeOmyIl1qPXuWcIJw5vyOVeHZQn-wO1GphnxPLdNGFhIcXL5kFuVEJ",
+          "width": 1134,
+          "height": 902,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/",
+      "publishedDateTime": "2021-03-30T21:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction.md",
       "title": "Google Maps using artificial intelligence to help point people in the right direction",
       "excerpt": "Boasting that it is on track to bring over 100 \"AI-powered\" improvements to Google Maps, Google has announced a series of updates that have been or are set to be released in the coming year. The first is adding Live View, a feature that uses augmented ...",
@@ -1127,101 +1214,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-ambi-robotics-raises-61m-in-seed-funding.md",
-      "title": "Ambi Robotics Raises $6.1M in Seed Funding",
-      "excerpt": "based company that emerged from stealth to introduce AmbiOS, an advanced robot operating system based on simulation-to-reality artificial intelligence (AI), raised $6.1m in seed funding. The round was led by Bow Capital, Vertex Ventures and The House Fund.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html",
-      "originalUrl": "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/03/ambi-scaled.jpg",
-          "width": 2560,
-          "height": 950,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-volvo-selects-aurora-to-help-bring-self-driving-semi-trucks-to-life.md",
-      "title": "Volvo selects Aurora to help bring self-driving semi trucks to life",
-      "excerpt": "Both companies plan to make level 4 self-driving, Class 8 trucks a reality after laying technological foundations for years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/volvo-aurora-self-driving-semi-trucks/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/volvo-aurora-self-driving-semi-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/Gj4HZSvkuQkrIiIrXCRL1Yvby_E=/2021/03/30/c02913bb-4957-41a3-991e-fb42e64a5d1e/ogi-volvo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/",
-      "publishedDateTime": "2021-03-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

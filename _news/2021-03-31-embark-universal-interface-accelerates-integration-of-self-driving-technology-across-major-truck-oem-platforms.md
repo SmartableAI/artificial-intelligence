@@ -28,6 +28,22 @@ images:
     height: 267
     isCached: true
 
-secured: "Drxe0+foPm6fdu0P5j8cdzN9s+L0iPRwHKBeX2ukvp1ohxmGJjFsFba5x7WyOgPNn6w+vks/uQmrUgwck15oTmefPsmuU6xpYTMT+QX3+IOrGCEcoSHd9QzyGJbqpKdGdmlhSk/nhUTXbma1cCncaxpIcJp3iNxWMXM1qMWPKJqvJGLOPjhO1jdPMV2cAXPwr2Bzf611pcSaQsbioPQ/2QBd0BxMsN7WqOEZHWBNglNsxnZNXeJPFJFgk2yn6ZaNMuBy352AehPl2anQGxoLE/+x9L00qtcxUvFI1BjlcQINoi5CyomAkWZxoCXuzmLnqQfTVhh+S35b+yKsiPFfoinfJfV4buqAdQilV5p55Xo=;hWvOqM5zkCxxQF5DHL5iiQ=="
+related:
+  - title: "Embark Announces First OEM-Agnostic Self-Driving Interface"
+    excerpt: "Autonomous technology company Embark announced a new self-driving system whose components and flexible interfaces are intended to be OEM-agnostic and accelerate fleet deployments."
+    publishedDateTime: 2021-03-31T15:00:00Z
+    webUrl: "https://www.ttnews.com/articles/embark-announces-first-oem-agnostic-self-driving-interface"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 24
+    images:
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/embark-sensors-1200_0.jpg?itok=c-kAU00i"
+        width: 470
+        height: 246
+        isCached: true
+
+secured: "wyHjmCtaERGNZuTH4dSQx+pjmzbuD16TC6EHp2N0BvgPWgDpBwUF+pIiOj2dtC0BxlFm0qbC3SsuT5yuNQ8SYkBztjuzGzhP3yGemwpphd9ipixRDL2hWcNZRfRB0kpHKyL4P01nn6TvNLq2ENY8VaBonmHTUvAUZflbOEMs3PvVVY1IQpS09fc2yRiqNHhigm5LrPGbgk8HMaowSYKLO7kTiP3dIE7n8RPMN0XnYpxsp2ixgv9yDdH47JNUNQzgJHP0UIUAaiqhkko7hy7iuKd4aEhsgLEqoT6cKQNTMboH6ecx0W6l2Ebk30GA/S7q3sdJavlyLRLrW+wfZoDEHCM2j/Bwl1mUCTbpvN+uvTowzBnX56lvs5rlQYt4Mc8if0pGebva/dy3F4LlWowFWRNpIontWHGBVOOAyEajoCyl5MUjrJadn2kBdlDEAqubxOFKwOWohN/DfEpErrst+qNQd6AYcECZVBL5zld70MnOUwb3xqGmOE1Gy2WUoHPFCQrDipEDDN95sK3zAeVuVQ==;q9cysFfLuSvk07Rdt3uI7A=="
 ---
 

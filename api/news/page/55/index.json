@@ -2,6 +2,152 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-02-18-worlds-fastest-computer-gives-birth-to-tsunami-predicting-ai.md",
+      "title": "World’s fastest computer gives birth to tsunami-predicting AI",
+      "excerpt": "The Fugaku supercomputer was used to develop an AI model that predicts tsunami flooding in almost real-time on a regular PC.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-17T133535.015-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/17/worlds-fastest-supercomputer-ai-predicts-tsunami-flooding-realtime/amp/",
+      "publishedDateTime": "2021-02-17T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform.md",
+      "title": "Locus Robotics raises $150 million to scale its warehouse robotics platform",
+      "excerpt": "Locus Robotics, a startup developing warehouse automation technologies, has raised $150 million at a $1 billion post-money valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/",
+      "originalUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/robotline-e1591072433620.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/",
+      "publishedDateTime": "2021-02-17T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-ftc-settles-facial-recognition-data-misuse-allegations-with-app-developer.md",
+      "title": "FTC Settles Facial Recognition Data Misuse Allegations with App Developer",
+      "excerpt": "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
+      "originalUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
+      "publishedDateTime": "2021-02-17T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-indigenous-knowledge-and-ai-help-protect-baby-turtles-from-predators-on-australias-remote-cape-york.md",
       "title": "Indigenous knowledge and AI help protect baby turtles from predators on Australia’s remote Cape York",
       "excerpt": "This prolonged isolation spells big trouble for the survival chances of some tiny residents on the western shores of Cape York Peninsula – endangered baby turtles. Unless teams of Indigenous rangers find and protect them first,",
@@ -1055,155 +1201,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-the-cambrian-ai-landscape-nvidia-the-800lb-gorilla.md",
-      "title": "The Cambrian AI Landscape: NVIDIA, The 800Lb Gorilla",
-      "excerpt": "We look at NVIDIA, the leader in data center Artificial Intelligence, and outline the company's strengths and weaknesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602c604d6b88e3e1922786c7%2F0x0.png",
-          "width": 1200,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/amp/",
-      "publishedDateTime": "2021-02-17T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-self-driving-the-new-way-to-holiday.md",
-      "title": "Self-driving the new way to holiday",
-      "excerpt": "LIU XIN/CHINA NEWS SERVICE The prosperous self-driving market is not only a result of tightened travel policies during the COVID-19 outbreak, but an inevitable result of the country's developing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202102/17/WS602c7149a31024ad0baa920c_3.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202102/17/WS602c7149a31024ad0baa920c_3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202102/17/602c7149a31024adbdb4aa21.jpeg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T01:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry.md",
-      "title": "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry",
-      "excerpt": "Highly accurate ship performance models built off real-world data Business Wire PALO ALTO, Cal",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry",
-      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T01:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
