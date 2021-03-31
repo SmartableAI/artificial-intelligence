@@ -2,7 +2,7 @@
 name: "Notable"
 overview: "Notable is a health technology company focused on reimagining the healthcare technology stack to enrich every patient-physician interaction.  We use wearable tech, voice interface, and artificial intelligence to relieve administrative burdens and improve outcomes."
 type: "profile"
-heat: 41
+heat: 50
 
 website: http://notablehealth.com/
 
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "qsJ34LRjU2KTd9oXfS+K4M2zGJhN0OKXg27wE6WI8w6BqLfh5+qnB+zkTceXps20ZCW9XcB4LI0J5TedJqjvnpEpqHQET9kdOkQY5mIr9420X5llHApvVvQ8IxPHpB3u/CtavCcfjBVRn5gidRY682ML9QetHn/qL0Fl2f7CQiCMoT1UkI1zjFc4AirSPaJWteFUoJVjxqqXPg+k9Mb/dVZG7Kiy+7HCMDgcPIe/wpw3fRTGhFhv6Tli6b0O995YURZMpFPAjQ3tvpWrdPjnfC239MX6JD6PEDbODsP9tZ++EoxqVR2DBphBymaYULNl2jfD7wfsAyvW42+u7OglO4rV59tnLfN3XiYTpKFEzwuzUmIUGQAXds/42lcCnBHXecl19BztFpJCmAA5u4kirQ==;tj0SJgSNJ2oXhi08RUQTzw=="
+secured: "n/gXyOVl2bnokvoQRo4qiHG6RrmUMHjslkhSftrbAqV8oUpNEhyfY51DS2ee7HcwxYBAzkpW3Y40W954bSWsSwlTcHDAn6qrw/Anb4pExqMQxOK2U59XD528rl71ECnhXFm14ma6f60Oaex3NtYCBvLDMNaXYTgye7U1KVaoHHnExRf3KjRW4GpcmY8KppLEr2d8r4VWYqQjF/r8M6G3HrcP5ATopWk9MXCKjk53Auj55ElX2tZuKaM8r6hI0/IYx+ci/hfQunMmqlrP09Uc8sq46kCgk6vQrJ5lN77vFeeJ34Kgi/RH7nNxfy+po426nbdKjIjzj1DMB5aRoRqgKdtLEYV1VplwLLN9V6Rm/V+/hE8ZmNjZpyMMoyEptO2dEUu18Zp+IOWdmt5HX4XBrQ==;lIGwHrE5RH3LFFNDL6XFIw=="
 ---
 
