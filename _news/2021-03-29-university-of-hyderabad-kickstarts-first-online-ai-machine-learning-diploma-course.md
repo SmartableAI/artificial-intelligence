@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hyderabad University offers diploma course in Artificial Intelligence and Machine Learning"
+    excerpt: "In the inaugural batch, a total of 702 students have been admitted already. The programme is completely online with few contact classes at the University of Hyderabad campus or virtual mode."
+    publishedDateTime: 2021-03-31T08:32:00Z
+    webUrl: "https://indianexpress.com/article/education/university-of-hyderabad-offers-diploma-course-in-ai-ml-7252622/"
+    ampWebUrl: "https://indianexpress.com/article/education/university-of-hyderabad-offers-diploma-course-in-ai-ml-7252622/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/university-of-hyderabad-offers-diploma-course-in-ai-ml-7252622/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 66
+    images:
+      - url: "https://images.indianexpress.com/2021/03/UoH-1200x667-1.jpeg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "University of Hyderabad launches diploma in AI"
     excerpt: "The University of Hyderabad (UoH), in association with AAIC Technologies, has launched an online Diploma in Artificial Intelligence and Machine Learning through the Centre for Distance and Virtual Learning (CDVL)."
     publishedDateTime: 2021-03-28T16:32:00Z

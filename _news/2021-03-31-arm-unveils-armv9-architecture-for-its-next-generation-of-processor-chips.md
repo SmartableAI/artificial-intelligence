@@ -99,6 +99,20 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Arm’s solution to the future needs of AI, security and specialised computing is v9"
+    excerpt: "Arm has introduced the Arm ® v9 architecture in response to the global demand for ubiquitous specialised processing with increasingly capable security and artificial intelligence (AI). Armv9 is the first new Arm architecture in a decade,"
+    publishedDateTime: 2021-03-31T08:32:00Z
+    webUrl: "https://cambridgenetwork.co.uk/news/arm’s-solution-future-needs-ai-security-and-specialised-computing-v9"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 50
+    images:
+      - url: "https://cambridgenetwork.co.uk/sites/default/files/Vision%20Day%20600x600.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Arm unveils v9 architecture with enhanced security, AI support for next generation of processors"
     excerpt: "Arm introduced the new Arm v9 architecture for the next generation of chips with advanced security and artificial intelligence. The first new Arm architecture in a decade, the platform is expected to support over 300 billion future"
     publishedDateTime: 2021-03-31T07:30:00Z

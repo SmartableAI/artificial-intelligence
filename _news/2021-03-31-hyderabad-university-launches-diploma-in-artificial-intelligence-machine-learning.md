@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news18.com/amp/news/education-career/hyderabad-universit
 cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Hyderabad University offers diploma course in Artificial Intelligence and Machine Learning"
+    excerpt: "In the inaugural batch, a total of 702 students have been admitted already. The programme is completely online with few contact classes at the University of Hyderabad campus or virtual mode."
+    publishedDateTime: 2021-03-31T08:32:00Z
+    webUrl: "https://indianexpress.com/article/education/university-of-hyderabad-offers-diploma-course-in-ai-ml-7252622/"
+    ampWebUrl: "https://indianexpress.com/article/education/university-of-hyderabad-offers-diploma-course-in-ai-ml-7252622/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/university-of-hyderabad-offers-diploma-course-in-ai-ml-7252622/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 66
+    images:
+      - url: "https://images.indianexpress.com/2021/03/UoH-1200x667-1.jpeg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "University of Hyderabad launches diploma in AI"
     excerpt: "The University of Hyderabad (UoH), in association with AAIC Technologies, has launched an online Diploma in Artificial Intelligence and Machine Learning through the Centre for Distance and Virtual Learning (CDVL)."
     publishedDateTime: 2021-03-28T16:32:00Z
@@ -61,6 +77,6 @@ related:
         height: 384
         isCached: true
 
-secured: "ZKidIaTi5MmxWdvPbEs/wboNExBkBly6KgLxTJNvx6qfPl6xZH2/tGgwkRV/nvbaTGkTmYvnkzOd4Z4yLYSnz1UsSixqqE8YbNBWPrzKRhdlD8m0Jvpl4iZGXHneHqSmrLZzyzhhHC9mjwLZOHFJjBPiovv1tbJngo20al1VmYLIuxpIzDJeyeDfLzTS7IkGREMXEIxQS/VZtwytOm7r2wU+e58LvHrZxvntO39yoYBYpFW2YzFLsQnYsHG88p8Jv0QaiuXWD5v+FlR+UlZwgtVXbD6pw/s4GLxRp5gkcpHfpoyluNfvScdifWENC4g8xFXcT6gPAr8jItlBFuTN2bDvh62z6XQXkXfZc1g/3og=;nPuU2RtWhQSI8APJC0fXFQ=="
+secured: "Lysi7afxDQsuBI5XmFsDNa6Smu9174APQ0M/2VPKeTzx7+4ddRpxAytYIOx7B8PgavzREu1p+Qrt8kT0fbpsCae9XPXWgNR6SH6tgdb+j8P7kkUFkHueQoCjhJQuD0I8f3BMJKVuZo9+W+ymboJupZNuYS+GqXKuGsheHkgQQ0irpqNDg7IVPRTj4tZqdpNuAas+KmcpSMstIeXJjdRo1QkMDNpmg89NgBP+BML4eiXdvBSTSw9q/9JsDF4UihfPWGlqh+fSz/46vTlIERAX8NJRs/idpv+DarINYDeDH5eM92oxfcgkxtPVSYDBq8wsc+le7NEerpBjkzYXeNbc3+ZxnB1A8XqBwX7iaV9nPrnfn0iCi02+iQu3cUSJlYcfgk0TnZ1/mroshHXHj1tx2o78OAtQZbykUlxAXC5FZ/4ccmkXloYsFAPWO9JyCTFTyy77ZrlDSLc+YuBb7IW7tcJqzbngdum5Vk+zwfvzHqE5gfq4EvHJ8B5IC34IoZmD5GE23Twihn9HTvnLmOe6Mw==;s7SPNdFwBvUkcVvVSTvIRg=="
 ---
 

@@ -58,6 +58,22 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Hyderabad University offers diploma course in Artificial Intelligence and Machine Learning"
+    excerpt: "In the inaugural batch, a total of 702 students have been admitted already. The programme is completely online with few contact classes at the University of Hyderabad campus or virtual mode."
+    publishedDateTime: 2021-03-31T08:32:00Z
+    webUrl: "https://indianexpress.com/article/education/university-of-hyderabad-offers-diploma-course-in-ai-ml-7252622/"
+    ampWebUrl: "https://indianexpress.com/article/education/university-of-hyderabad-offers-diploma-course-in-ai-ml-7252622/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/university-of-hyderabad-offers-diploma-course-in-ai-ml-7252622/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 66
+    images:
+      - url: "https://images.indianexpress.com/2021/03/UoH-1200x667-1.jpeg"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "pinZBuNiOYKC1YyQnRtOlIVRRyoR5p8HplslpM5G6DyfLLtFL2INwNyAQu595P4W0Dd9PhLJLJTuU314piFwHeJCSktMzoSXIgs9+g9LV636f0bn4M05yZlbu7K+v4r2YbK4mG6XYXbVpg7TxHrXEvcppbg8ZF6++WGatmVY5bDBrYhYm3Hd9KJOv707mTl+KhiSWgNxj/UAxD2/58219mE6jQ2NK0niYxbIcmyn2y0yG4K3T4RhyRvU9z4JxyuypYTKcaSCBHqGxJ1jG7RQdAMwjpMsFFvpUIoQOV1cYmnINOFAu2Ml/XTq1m9B0RnrvKWzfCz1nrDr5xy5cGihBiyIC60LW2QTpYbzeuBq5gWmjge4+9qqok/Aq5etwTMULoSsZEU60YnuWKwtS1TeQ6ox4rT5YoSZlxEC6tg/iE6O/5ZoT8Se8Hr5qWcjwUS9WP5nFo+ibY+thaAUJcB8b0NuYEUHbh4gv5aZ3r3L68qbH6X3NVV5teBQM8XXcHr7P7ic+6olCd6C5jaDL4aRmA==;1O6WlLYVJaRKFV/sGNyOMg=="
 ---

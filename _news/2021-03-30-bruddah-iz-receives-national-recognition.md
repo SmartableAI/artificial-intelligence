@@ -26,22 +26,6 @@ images:
     height: 760
     isCached: true
 
-related:
-  - title: "Danville Utilities receives national recognition"
-    excerpt: "Danville Utilities has earned a “Platinum” level designation as a Reliable Public Power Provider (RP3) from the American Public Power Association for providing customers with reliable and safe electric service."
-    publishedDateTime: 2021-03-26T15:46:00Z
-    webUrl: "https://www.chathamstartribune.com/news/article_6a01475a-8e4a-11eb-90f0-2716a67d70fa.html"
-    type: article
-    provider:
-      name: Chatham Star Tribune
-      domain: chathamstartribune.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/chathamstartribune.com/content/tncms/assets/v3/editorial/6/23/6235a728-bfa1-11ea-a2dd-4f5884047391/603fbac656bbe.image.jpg?resize=470%2C245"
-        width: 470
-        height: 245
-        isCached: true
-
 secured: "l3C2adyBcXJVkYnUshffBku61m5voVTi8yYncqYsdrcHy7n/tb7UQzwi8pJqfLMphTrbjkEvy/jhKlaW7UY61ASPdb04gElmq7GmU1LKvKM2EhS2kbVQOpm0T4qTPc68kfTHinoctUgPMxvCWlsPzUr12FH/ToTbf2Qy8PqCI3DoCOkXTMuG8k5ZuY1QQVHICltctNO6Nebkn+SNd8dro+Xf8zhKbaEyh+hltt3Hc6xJaEw8jOpf+/Jxqzpp45YG64GSwXa6tYpciS5GHCGTOQi/aYiDSTOaiMQOXf2AKlp5P1+htPSaiQ6v1QLAVOCilrJw2DaNNf+xKWvRQn21hwpEO3OlNnGpuJZw5o7w7U9mxf3yk7B1W/DJ+i6jVPBpFr5qfrt1d/aiD+1DIZuPcSgXgatekWXf2qYWVyUvvkBarf95aCumzPVdKW1pb/R1rh16Q4Ygo+2D5IjSLlpCHihy3gkKfOX8CWWlsZhth2wc3gieKIvC2g8xxQQklXM5AVwcpTg50JXyIaFFpLbz1Q==;/BbRYhSG5SsERqbI+KyfUA=="
 ---
 

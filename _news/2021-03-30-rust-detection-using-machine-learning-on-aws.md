@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/rust-detection-using
 webUrl: "https://aws.amazon.com/blogs/machine-learning/rust-detection-using-machine-learning-on-aws/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 800
     height: 334
     isCached: true
+
+related:
+  - title: "Amazon Web Services reportedly developing custom silicon chips"
+    excerpt: "Cloud provider Amazon Web Services is reportedly working on custom silicon chips for its network switches. Citing multiple sources, The Information claims that the project is led by a team Amazon took over with its $350 million acquisition of chipmaker Annapurna Labs in 2015."
+    publishedDateTime: 2021-03-31T08:11:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/amazon-web-services-reportedly-developing-custom-silicon-chips/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 56
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/AWS_Logos_Small.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LxCGnY9bV/+lSYyp6rGf/XhrirDoSvngWovaf26G7prN30PcvKrKEWRUlfH3J7DXGHq9cUf35YENwRAnNkYdtkBAZKq2o9jKH9WlD/Rr+CD75qLhKEaBbF+VPRFY1Y73ovLODWan+VdZPJsb+DeNRCtN0kmXJWUoGRcqCxP7vsAjQUi08/tqVAm8cC2dhPZ7WY+gioWe5QrZerX+yyp2+1DyOZq//CrV4XmTPW59IKzEMekhGQVWvdigi28R+fGhHKmDjp5JBSzqopxAyYsmsDRBAeyOPkY5zIH9FkHjZLr/IA4hkpu/pSBQknbJdmKYfMDd9y/xxmxoTeN+X8XEWcbd2idJl7lhf33oUj924YA=;IEwV2HCk9oMIf++Tv/dpIQ=="
 ---
