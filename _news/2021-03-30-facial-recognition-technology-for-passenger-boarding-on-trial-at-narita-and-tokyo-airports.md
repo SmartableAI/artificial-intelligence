@@ -69,17 +69,6 @@ related:
         width: 702
         height: 261
         isCached: true
-  - title: "Philly airport screening international travelers using facial recognition technology"
-    excerpt: "The Simplified Arrival system has processed 66 million people at other U.S. airports, flagging more than 500 imposters"
-    publishedDateTime: 2021-03-26T18:49:00Z
-    webUrl: "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/"
-    ampWebUrl: "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/"
-    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/"
-    type: article
-    provider:
-      name: PhillyVoice
-      domain: phillyvoice.com
-    quality: 49
 
 secured: "wBgybiH6afbYHIFYn+h2s2j5J4282A6u1rbyqDlLd1YdG1NjR7XCLVBxFx0wZdhJ9EG4Y6LI6OFKxOXm0/OrCQGFgP19FhdAJX16LNszO1AmSxbCgqrZoYQN4ZihaILTOtJth5YFuF3sEu79VY6K02xKvlHG2UKeZwTXAFjtNpnOj+7CNWQxwyOwTXAgg6F7HO00mImw09ccZG60kSpQeXclSB1IE1bejQzNXxSozVytazLaFn2HizNIsql4JEO03wChR+WFde2+5VUARCGqKJ1jsSocp9cn1Z93eYcpUHTYnB4RNwapZJTR5+x6XFIaTwfaDDqZWiyJWOX53WSvkAsdrfif8yG091CQxclSoV42VuZPuJk+/xRda0BRy9yzfLOilgHWC9RJygKmnpI1iesnRlqV+UAkYkzHHUtHlh6vvkA6tW4SsW8I9tmCxoNMKIUle+qVMBbHKromFFST2bDvXnG4j75FqK3HIuzXgHaJ719nKsvF8yXDDNHYZf6o1Nw87fwXV7HwOT4Y5NfZCQ==;tVAB46xYh19YVfAhiUlkqA=="
 ---

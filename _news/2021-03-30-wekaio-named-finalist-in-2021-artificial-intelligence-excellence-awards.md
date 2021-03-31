@@ -99,6 +99,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "The company’s flagship solution, Bright Machines Microfactories, combines intelligent software and adaptive robotics to automate repetitive ... Bright Machines as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said ..."
+    publishedDateTime: 2021-03-29T13:31:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-computing-and-information-technology-united-states-25b950044da2487e8e878ad574549324"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Concentric Named Winner of Business Intelligence Group's 2021 Artificial Intelligence Excellence Award"
     excerpt: "Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced it has won a 2021 Artificial Intelligence Excellence Award for its Risk Distancetm natural language processing"
     publishedDateTime: 2021-03-29T13:22:00Z

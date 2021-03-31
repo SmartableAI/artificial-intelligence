@@ -1,29 +1,26 @@
 ---
 category: news
-title: "NCFA Announces 7th Annual FFCON21 Digital ‘Breaking Barriers’ FinTech Conference"
-excerpt: "FFCON21 to connect HR talent and explore accelerated Fintech trends and innovations paving the way to mass adoption and scaleTORONTO, ON / ACCESSWIRE / March 11, 2021 / The National Crowdfunding & Fintech Association (NCFA),"
-publishedDateTime: 2021-03-11T19:01:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb"
-webUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb"
+title: "NCFA Announces 7th Annual FFCON21 Digital 'Breaking Barriers' FinTech Conference"
+excerpt: "will bring together an international community of leading voices in fintech, digital banking, tokenization, blockchain, CBDCs, digital identity, AI, capital markets innovation, EDI (equality ..."
+publishedDateTime: 2021-03-11T22:57:00Z
+originalUrl: "https://menafn.com/1101739128/NCFA-Announces-7th-Annual-FFCON21-Digital-Breaking-Barriers-FinTech-Conference"
+webUrl: "https://menafn.com/1101739128/NCFA-Announces-7th-Annual-FFCON21-Digital-Breaking-Barriers-FinTech-Conference"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?218880"
+    width: 333
+    height: 250
     isCached: true
 
-secured: "yBQN6l8mbwlWIwwnYGCiBo/dgWWTBRZwYU9bECIzbXMGFdJO33Lj30CK2pP8cEjZleqT+IYewkNEdJernd8F0PI7Kj+EWR/CqIBXLD2zGvNJKQVbPxfxmka07ccUbnEKl/JjvQkDdocfrmMGrdR1NVNvnGN8OupUee08BHEzbkouAf2cPmEk7SCK+05DgkwLX+yLpa8TZMypotAW+ywT0X01VztpPMHeh2JkeXmCBfSqOrab0SVRXgq+0Bz/AWfnjTo1K7eOTzu/zwOZ9ORlcs85cu4CudmiWGSk4UjeXXddo2FDC030lX8BgqXwAzIxouz7Z77muPJBSPcoy7JPhCfLWMBfJtLA9dCE+jv4P2k=;BQ9/VoiSDzLKcUjojfu3iA=="
+secured: "etXo70YDUHU+e/wRZUszSgtJ/uYIPcpYoAhLHDegbJhondmr4e7YNES1C4mopEEtFE06UMdPMx7x71hvL5rwdxMK7BAOEgUSp0Xgg1h+HcjTf0hr4h4Q3ZHMXXGLVES/q2PU9looFcsMojkLHysR85m95QfBzvD6flG1gHqkpr6CtloKl4rm39QnwRKAF0zzD7RqvDwr4EyExLw+ujCSNkmDO35fCM0W0avwWXgBPoGqa2eY57AVwScs3CiCmuWJnqQ7Ssl02wMfyuUJMwoHHIiaCaxhjXCbjo/oS+hmfSiCnbuWwX7VRXFY6sdKXfHIzsQyCPJfycqH7NXl+JLGqxzyMhGexu82+Zv3Aq9LdkA=;6O6zhVDrw4TmHU77M7vf0A=="
 ---
 

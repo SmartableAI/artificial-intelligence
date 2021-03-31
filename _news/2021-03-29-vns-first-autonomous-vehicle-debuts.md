@@ -25,21 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "A History of Autonomous Vehicles You May Not Know"
-    excerpt: "Walt Disney predicted the technological advances of autonomous vehicles in his 1958 short film called \"Magic Highway.\" Read more about the history of AI-driven automobiles."
-    publishedDateTime: 2021-03-26T18:05:00Z
-    webUrl: "https://www.freightwaves.com/news/a-history-of-autonomous-vehicles-you-may-not-know"
-    ampWebUrl: "https://www.freightwaves.com/news/a-history-of-autonomous-vehicles-you-may-not-know/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/a-history-of-autonomous-vehicles-you-may-not-know/amp"
+  - title: "Vietnam’s first autonomous vehicle debuts"
+    excerpt: "The vehicle is equipped with smart functions, artificial intelligence (AI ... Phenikaa's smart autonomous vehicle is driverless and the user can take control of the vehicle via a customised ..."
+    publishedDateTime: 2021-03-29T11:50:00Z
+    webUrl: "https://en.vietnamplus.vn/vietnams-first-autonomous-vehicle-debuts/198264.vnp"
+    ampWebUrl: "https://en.vietnamplus.vn/vietnams-first-autonomous-vehicle-debuts/198264.amp"
+    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/vietnams-first-autonomous-vehicle-debuts/198264.amp"
     type: article
     provider:
-      name: freightwaves.com
-      domain: freightwaves.com
+      name: VietnamPlus
+      domain: vietnamplus.vn
     quality: 44
     images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2021/03/Magic-Highways-1024x576-1.png"
-        width: 1024
-        height: 576
+      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_03_29/car_1.jpg"
+        width: 640
+        height: 437
+        isCached: true
+  - title: "COMMENTARY: Aging Vietnam veterans face another crisis"
+    excerpt: "Thanks to legislative action by Presidents Barack Obama and Donald Trump, March 29 is recognized as National Vietnam War Veterans Day. But recent events have forced concerns about care for"
+    publishedDateTime: 2021-03-28T01:00:00Z
+    webUrl: "https://fredericksburg.com/opinion/commentary-aging-vietnam-veterans-face-another-crisis/article_11cc1add-47a0-5736-9d70-2033e067f170.html"
+    type: article
+    provider:
+      name: Fredericksburg.com
+      domain: fredericksburg.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/custom/image/c9eb6534-8a48-11e6-84b8-97f84d027fc7.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "yydQVxnyN4s1aM/HnIT2wnhF5UfjeEF9xgt+tY/OR4iR1V9GRSsiw9UDoTAp9MrziYR4fjfzbEb1wiCB6rEWinJLnOkAP3nfywXFUtj9L1XAtXGC2rhEEpiafYjw7Q6CtombEFXCb7P6W2Xe4Vx5wN5pXGFcXI3gkxyqi5YpHwFoyqcVyNRlU3aTpBQuzJmFR0LQjpPhPgAdOeqq6O3/i5+5pHnHCNxdSZzBN39tCRgDE3NOUQCdchGjD12XjcJfh92efnl5Dlt0Z4/4EuX2zbquUsOoZECf5tWDZckRW0qU9JXFrQOBrs/UPq5zRbeQGyq7Yo5tEWu0/6mh5UO3hNR7fgwjcnkOJ7zyJWK0ARk=;7huniIrWQW1pV6cllP4EiA=="

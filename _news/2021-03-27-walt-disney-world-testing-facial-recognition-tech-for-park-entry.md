@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.travelawaits.com/2562867/disney-world-facial-recognition
 cdnAmpWebUrl: "https://amp-travelawaits-com.cdn.ampproject.org/c/s/amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: travelawaits
@@ -42,6 +42,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Disney-facial-recognition-theme-park-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Disney pilots face recognition for entry to Magic Kingdom theme park"
+    excerpt: "Visitors to Walt Disney World Resort, Florida, USA, are testing a contactless biometric system enabling them to use face recognition to enter"
+    publishedDateTime: 2021-03-29T15:01:00Z
+    webUrl: "https://www.nfcw.com/2021/03/29/371425/disney-pilots-face-recognition-for-entry-to-magic-kingdom-theme-park/"
+    type: article
+    provider:
+      name: nfcw
+      domain: nfcw.com
+    quality: 39
+    images:
+      - url: "https://www.nfcw.com/wp-content/uploads/2021/03/walt-disney-world-resort-florida.jpg"
+        width: 1176
+        height: 760
         isCached: true
 
 secured: "EN1f03yZ9OUoJeRntVFmP/BvsTZWgdq2FW56Z3Tw7D2aHcSvexuyOkgRXdX6sYMiWS6SJfW0fZCa+REHYM0hKAM7MxraA3I5rFXSGKZicXY7KtJmqkNqPhl4tnS/FlnYS1seQH1st8bM/snsOfWRNTU9/Y9hEOnTRCjR7fNkQX+Pp2JlkoZ4V7tei8V+7tLAUkcqVDmsjoqOC7b47pui47FJ+MPwZ3KMYQwZvVLXg6RFOC6NS3MWbd2XfYmCf1Fy9KujwCTymnPp/BtB3wtTqe/7hCOoQijeHgREB98fH/wRGygvTlrydAXcIxCirDEnkLBC9qCWD1AZSTJqbvF4vzOXmhJb++oHJyvJ+NNEzbrYqMGou1BIozcX8Ay8zv6pcQwO8foCT5Ijyg1wyoo6j0pQXjpChC9tSuRT41krB+swa5zZQP8OJk9wRx2N2mr7c8+aDgYA8qENHrmBVXvBCsgE/jgJp17+GuJQVISSpPQAswF9BjFkanOWNHZ/B2gFFdorEbaeghK1KcvS7J7nfg==;ulbWZC9LM6bwRRhdmQXdYw=="

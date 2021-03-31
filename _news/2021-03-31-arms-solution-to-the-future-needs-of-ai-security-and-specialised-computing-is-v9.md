@@ -100,6 +100,20 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "New Armv9 takes on security and AI"
+    excerpt: "Arm has launched its first new architecture in a decade, Armv9, which address security through a new confidential compute architecture (CCA) and the"
+    publishedDateTime: 2021-03-31T11:05:00Z
+    webUrl: "https://www.embedded.com/new-armv9-takes-on-security-and-ai/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 56
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/03/Armv9-features.jpg"
+        width: 974
+        height: 649
+        isCached: true
   - title: "Arm unveils Armv9 architecture for its next generation of processor chips"
     excerpt: "The British chip designer Arm Holdings Ltd. introduced a roadmap for its next-generation central processing unit architecture today. Its new breed of chips will be optimized for specialized workloads such as artificial intelligence and digital signal processing and come with greater security built right into the silicon."
     publishedDateTime: 2021-03-30T18:00:00Z
@@ -124,6 +138,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "VbP1fcYeiyVJcq4Eg6D08QuLWe3FH1u0bBUAjue69A4XOV8V0fHr1CgZffdpbPOq/mJsAltS56JZFYlYDxM0syKK2HZKaV5LLBYgoCYbgj3gwfF2959OIpDDKjH4bkOP+mQYUsOpeC6UZP2TnIEHNiS4z2WMIjCSAL3z+qtMrMG7CO1zGMJIbgattZsrR4vtj+vtDuxljVvLtZdx8bj/3frayE5YArmYGKz94rcROkWaO7HijtF961KIrt7KCZpPhSbaOxm3opJ1AAqCj2LH7AQdwvVVsIICednwSI1A0n2MLKy0z8bChc2wBIGW/3wcj5JLSoZQGVwiRy1D5wejA7cx6Ll9iPHJfdcFD/a91O0=;Qr3Bjn2ifkS+Ujk6KCMqPA=="
+secured: "KUzgNhhD7xdzIrbh7eFe5pbGdd0AvIBjBFn516TT/3h3pgU78Rpoho4kcYtieiAuqEFgoPe48TfVha/V+OZ5FyRcMWD0gzh5qw7de9WX6ZgLORAoKZEcJhEaH6sVZhHQLlAyGG6oyOWLjDD+NLS3E2LhOw8xPpWLuQmVD0AJngCh2KjPjl6Y6IldZxQrAKdk8UVdCiKQyHrfa9L/X0PuhO/wanLWbe2Cm+E8kzmv5XHmW6xe/gNwWqi3qWb6JZCIKxqZPeqBcSRL7emCHqK/zYTV6lwXDlFwDj80RxpgFYF7Zl87N5pkKDyR6IICat3Jd38kqkv8s/2K6mTpUhjJ+RhyzIcw1osKTyJdUQe3m1z5olzFetLsxnLtJFtV9NjumIdhgpZTzHx0lmCHrnHjDyglP+onAXH1xzTl/hEpjw8hgP0x5DXjPuS4VCrbyIklrLaMgXRI98r4ASEa0RlbKNjxreyxd7BPWtAedo2GB5koK+1qrVlNyCktqaHsX1e9ZQHRKDt2+uW5Zx4uS71l/w==;J6wsBvXPy/3x45cZyIADfg=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-
 webUrl: "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: finsmes.com
@@ -23,6 +23,22 @@ images:
     width: 2560
     height: 950
     isCached: true
+
+related:
+  - title: "Ambi Robotics Emerges From Stealth with Advanced Simulation-to-Reality Artificial Intelligence"
+    excerpt: "an advanced robot operating system based on simulation-to-reality artificial intelligence (AI). AmbiOS rapidly trains robots before deployment to pick and pack items for fast and affordable integration. The technology powers the company’s two flagship ..."
+    publishedDateTime: 2021-03-30T12:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-materials-industry-north-america-containers-and-packaging-manufacturing-38e0cd824cf14185a7ba1aad5c828a49"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 57
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "DrWiXTqR5YY9SPdUT3tNNF7id4ihRbrrpaQbFT2nVLR4fiSn1muFp1QopP+6vGl4dOuMLETd43QDIDgzKxHW7NRdTT+TNAMqhV1z6/jZ+bkc7H4121TUb93F6VBw/GbLHIivkqqKn0rfJZyU4JieuCXGRlj9FM28GekzzfxsOTSEYR4q1MNW4yhAAIc+8gkey9Y5P6cLmUWBBgXg2O2hfcaiU286zxCvu7zSrOVcDz6GWa2Qxn+8U8QEozRx54t4nFi4vcV2PvH2H/0tWdcBUb16FH8E/Un8C2jzLYOjFDzm2DdTXIlSkzxdzNgte+O0CXsaZ/JZHig5Mr3sYWipBGzplSajoeDMcQpx7y/iSis=;5DQDmHE4OJLNivpIhD4dIQ=="
 ---

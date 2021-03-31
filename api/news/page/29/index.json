@@ -2,6 +2,543 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-03-06-update-1-online-learning-platform-coursera-files-for-us-ipo.md",
+      "title": "UPDATE 1-Online learning platform Coursera files for U.S. IPO",
+      "excerpt": "Online education provider Coursera Inc on Friday filed for a stock market listing with U.S. regulators, revealing a surge in revenue from a boost to business due to the disruption caused by the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/coursera-ipo-idUSL3N2L34AE",
+      "originalUrl": "https://www.reuters.com/article/coursera-ipo-idUSL3N2L34AE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553919044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH241GM",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL3N2L34AE",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2L34AE",
+      "publishedDateTime": "2021-03-05T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-the-robots-are-coming-for-phil-in-accounting.md",
+      "title": "The Robots Are Coming for Phil in Accounting",
+      "excerpt": "The robots are coming. Not to kill you with lasers, or beat you in chess, or even to ferry you around town in a driverless Uber. These robots are here to merge purchase orders into columns J and K of next quarter’s revenue forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/07/business/06whitecollar-bots-cover/06whitecollar-bots-cover-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html",
+      "publishedDateTime": "2021-03-05T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-microsoft-adds-ways-for-customers-on-ai-with-azure.md",
+      "title": "Microsoft Adds Ways for Customers on AI with Azure",
+      "excerpt": "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/09/f73fc3da-microsoft.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/",
+      "publishedDateTime": "2021-03-05T17:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency.md",
+      "title": "Open machine learning and AI data can increase ship energy efficiency",
+      "excerpt": "The Swedish ship operator Ventrafiken and the research project “Data-driven energy efficiency for ships” (D2E2F) have established a collaboration to collect open data for research purposes. One of the double ended ferries (Uraniborg) have been equipped with a Blueflow Energy Management System to collect data on energy consumers and vessel data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/",
+      "originalUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hellenicshippingnews.com/wp-content/uploads/2021/03/MS_Uraniborg.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/amp/",
+      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/amp/",
+      "publishedDateTime": "2021-03-05T15:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hellenic Shipping News Worldwide",
+        "domain": "hellenicshippingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-baidu-has-secured-nod-from-hk-bourse-for-second-listing-sources.md",
+      "title": "Baidu has secured nod from HK bourse for second listing: Sources",
+      "excerpt": "HONG KONG • Chinese search engine giant Baidu has secured approval from the ... language learning to voice interaction to autonomous driving, betting on smart devices and vehicles of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/business/companies-markets/baidu-has-secured-nod-from-hk-bourse-for-second-listing-sources",
+      "originalUrl": "https://www.straitstimes.com/business/companies-markets/baidu-has-secured-nod-from-hk-bourse-for-second-listing-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/03/06/ST_20210306_BIZBAIDU06_6379447.jpg?itok=FbQndK4j",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-05T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-10-ways-ai-and-machine-learning-are-improving-marketing-in-2021.md",
+      "title": "10 Ways AI and Machine Learning Are Improving Marketing In 2021",
+      "excerpt": "Marketers’ use of AI soared between 2018 and 2020, jumping from 29% in 2018 to 84% in 2020, according to Salesforce Research’s most recent State of Marketing Study. AI, Machine Learning, marketing & advertising technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666",
+      "originalUrl": "https://www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lcolumbus.files.wordpress.com/2021/03/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-1-1.jpg?w=400",
+          "width": 400,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666/amp",
+      "publishedDateTime": "2021-03-05T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-ai-powered-chrome-extension-automatically-turns-on-youtube-subtitles-while-you-eat-noisy-snacks.md",
+      "title": "AI-Powered Chrome Extension Automatically Turns on YouTube Subtitles While You Eat Noisy Snacks",
+      "excerpt": "A year into the pandemic most of us have honed our daily routines into a regular pattern of YouTube bingeing and snacking. But munching on crunchy snacks often makes it impossible to hear a video. The solution isn’t to turn off our computers and attempt to re-enter society,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/ai-powered-chrome-extension-automatically-turns-on-yout-1846414652",
+      "originalUrl": "https://gizmodo.com/ai-powered-chrome-extension-automatically-turns-on-yout-1846414652",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/s8cythjbs1f9l4fad9xb.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/ai-powered-chrome-extension-automatically-turns-on-yout-1846414652/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-powered-chrome-extension-automatically-turns-on-yout-1846414652/amp",
+      "publishedDateTime": "2021-03-05T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-researchers-developed-an-ai-that-scours-existing-drugs-for-new-alzheimers-treatments.md",
+      "title": "Researchers developed an AI that scours existing drugs for new Alzheimer’s treatments",
+      "excerpt": "Scientists used a machine-learning framework called DRIAD to identify a range of medications that could be repurposed to treat Alzheimer's disease.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-05T193302.899-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/",
+      "publishedDateTime": "2021-03-05T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-multimodal-deep-learning-approach-for-event-detection-in-sports-using-amazon-sagemaker.md",
+      "title": "Multimodal deep learning approach for event detection in sports using Amazon SageMaker",
+      "excerpt": "Have you ever thought about how artificial intelligence could be used to detect events during live sports broadcasts? With machine learning (ML) techniques, we introduce a scalable multimodal solution for event detection on sports video data. Recent developments in deep learning show that event detection",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/multimodal-deep-learning-approach-for-event-detection-in-sports-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/multimodal-deep-learning-approach-for-event-detection-in-sports-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/06/Fig2.png",
+          "width": 800,
+          "height": 347,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-05T11:53:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025.md",
+      "title": "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025",
+      "excerpt": "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-05T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-your-self-driving-car-still-isnt-ready-smarter-roads-might-change-that.md",
+      "title": "Your self-driving car still isn't ready. Smarter roads might change that",
+      "excerpt": "which make it difficult for even advanced artificial intelligence to react appropriately to the myriad new scenarios it might encounter. A Waymo self-driving car once saw a baby crawling on a road ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
+      "originalUrl": "https://edition.cnn.com/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210302171954-01-v2i-self-driving-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/cars/cavnue-self-driving-lanes/index.html",
+      "publishedDateTime": "2021-03-05T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees.md",
       "title": "IDC: Ethical AI is a team sport that requires smart and strong referees",
       "excerpt": "New research finds that the lack of responsible artificial intelligence guidelines is one of the top three barriers to wider adoption.",
@@ -652,545 +1189,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-blockchain-fintech-get-name-checks-in-14th-five-year-plan.md",
-      "title": "Blockchain, fintech get name checks in 14th Five-Year Plan",
-      "excerpt": "Blockchain research can look forward to even more state support. Fintech will also have to worry about more aggressive oversight.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
-      "originalUrl": "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/technode.com/wp-content/uploads/2020/07/1280px-Beijing_skyline_from_northeast_4th_ring_road.jpg?fit=1280%2C576&ssl=1",
-          "width": 1280,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
-      "publishedDateTime": "2021-03-04T18:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
-      "title": "Facebook’s New AI Teaches Itself to See With Less Human Help",
-      "excerpt": "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
-      "originalUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
-      "publishedDateTime": "2021-03-04T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025.md",
-      "title": "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025",
-      "excerpt": "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-what-the-swarm-of-new-azure-announcements-mean.md",
-      "title": "What the swarm of new Azure announcements mean",
-      "excerpt": "This week's Azure announcements were about being more hybrid, more multi-cloud, more data-dependent -- at higher speed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/",
-      "originalUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/amp/",
-      "publishedDateTime": "2021-03-04T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-elon-musk-signals-big-update-for-full-self-driving.md",
-      "title": "Elon Musk Signals Big Update for ‘Full Self-Driving’",
-      "excerpt": "Elon Musk indicates that a major update to Full Self-Driving could arrive in April, and that FSD will be offered more widely. Full Self-Driving is expected to be offered by Tesla on a subscription ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/news/technology/a35725519/elon-musk-updates-full-self-driving/",
-      "originalUrl": "https://www.autoweek.com/news/technology/a35725519/elon-musk-updates-full-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/fsd2-1614871154.jpg?crop=1.00xw:0.893xh;0,0.107xh&resize=1200:*",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoweek.com/news/technology/amp35725519/elon-musk-updates-full-self-driving/",
-      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/technology/amp35725519/elon-musk-updates-full-self-driving/",
-      "publishedDateTime": "2021-03-04T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoweek",
-        "domain": "autoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.md",
-      "title": "Scientists seek to enhance artificial intelligence by integrating brain cells",
-      "excerpt": "With a new grant from the U.S. Army, a team of scientists will seek to enhance artificial intelligence by integrating brain cells called astrocytes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210305/Scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210305/Scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210305/Scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210305/Scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.aspx",
-      "publishedDateTime": "2021-03-04T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-from-new-portuguese-home-ai-weiwei-plans-tribute-to-visionary-gorbachev.md",
-      "title": "From new Portuguese home, Ai Weiwei plans tribute to \"visionary\" Gorbachev",
-      "excerpt": "Ai Weiwei, the Chinese dissident whose activist art has made him Beijing's best-known critic, has swapped life in British exile for Portugal, where, in a countryside estate east of Lisbon, he is working on a monument commemorating Mikhail Gorbachev.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-art-ai-weiwei-idUSKBN2AW2DR",
-      "originalUrl": "https://www.reuters.com/article/us-art-ai-weiwei-idUSKBN2AW2DR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553764157&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH231BI",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AW2DR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW2DR",
-      "publishedDateTime": "2021-03-04T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-tiktok-owner-bytedance-said-to-make-foray-into-smart-cars-with-investment-in-self-driving-start-up-qcraft.md",
-      "title": "TikTok owner ByteDance said to make foray into smart cars with investment in self-driving start-up QCraft",
-      "excerpt": "A ByteDance spokesman had no immediate comment. A representative for QCraft declined to comment. The deal, which may be announced as early as next week, follows a spate of similar investments and tie-ups between technology firms and car manufacturers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/03/05/82e8aa26-7d6d-11eb-9fc3-2f3c8e08d261_image_hires_140939.jpg?itok=11HNHV11&v=1614924586",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
-      "publishedDateTime": "2021-03-04T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-microsofts-most-impactful-announcements-at-ignite-2021.md",
-      "title": "Microsoft’s Most Impactful Announcements At Ignite 2021",
-      "excerpt": "Between pre-briefs, executive Q&As and the live event, I attended around twenty hours of Ignite 2021. Typically, Microsoft holds three focused events each year: one for developers ( Build ), channel partners ( Inspire) and end customers ( Ignite ).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604153c5909583eb1a3a7db0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2807%26cropY1%3D0%26cropY2%3D1579",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/",
-      "publishedDateTime": "2021-03-04T13:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-hondas-part-self-driving-legend-a-big-step-for-autonomous-tech.md",
-      "title": "Honda's part self-driving Legend a big step for autonomous tech",
-      "excerpt": "The Honda Motor Co. Ltd's all-new Legend sedan, equipped with level 3 autonomous driving technology, is displayed during an unveiling in Tokyo, Japan March 4, 2021. REUTERS/Issei Kato",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ",
-      "originalUrl": "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH230FT",
-          "width": 810,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-the-cia-once-built-a-catfish-robot-spy-named-charlie.md",
-      "title": "The CIA Once Built a Catfish Robot Spy Named Charlie",
-      "excerpt": "In the 1990s, the CIA built an unmanned underwater vehicle as part of a feasibility study. The UUV was supposed to resemble a catfish. It’s not clear if “Charlie” the catfish did any real spying during its CIA career.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/military/weapons/a35729403/cia-robotic-catfish-spy-history/",
-      "originalUrl": "https://www.popularmechanics.com/military/weapons/a35729403/cia-robotic-catfish-spy-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mzc3ndeznw-1614958652.jpeg?crop=1.00xw:0.835xh;0,0.0373xh&resize=1200:*",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popularmechanics.com/military/weapons/amp35729403/cia-robotic-catfish-spy-history/",
-      "cdnAmpWebUrl": "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/military/weapons/amp35729403/cia-robotic-catfish-spy-history/",
-      "publishedDateTime": "2021-03-04T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

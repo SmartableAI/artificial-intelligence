@@ -123,6 +123,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Robots Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The global smart robot market size was valued at US 3 44 billion in 2017 It is expected to grow at a CAGR of 22 over the forecast period Smart robots are artificial intelligence AI supported systems You can learn"
+    publishedDateTime: 2021-03-31T10:58:00Z
+    webUrl: "https://www.openpr.com/news/2264137/smart-robots-market-share-2021-global-trends-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2264137/smart-robots-market-share-2021-global-trends-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2264137/smart-robots-market-share-2021-global-trends-key-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
   - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 . Posted on Mar 28 2021 3:27 PM \"Top Players in S"
     publishedDateTime: 2021-03-29T11:35:00Z

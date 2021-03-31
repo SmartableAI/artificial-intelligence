@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Abu Dhabi’s Yas Island Theme Park Implements Facial Recognition"
-    excerpt: "People visiting Abu Dhabi’s Yas Island can use facial recognition technology to access the resort’s theme parks and make contactless payments."
-    publishedDateTime: 2021-03-26T17:25:00Z
-    webUrl: "https://www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/"
-    ampWebUrl: "https://www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/authentication/2021/abu-dhabi-yas-island-theme-park-implements-facial-recognition/amp/"
+  - title: "Walt Disney World Testing Facial Recognition Tech For Park Entry"
+    excerpt: "Disney’s taking touchless to a new level with its facial recognition pilot program. Would you be willing to participate?"
+    publishedDateTime: 2021-03-27T12:10:00Z
+    webUrl: "https://www.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    ampWebUrl: "https://amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    cdnAmpWebUrl: "https://amp-travelawaits-com.cdn.ampproject.org/c/s/amp.travelawaits.com/2562867/disney-world-facial-recognition-technology-testing-magic-kingdom/"
+    type: article
+    provider:
+      name: travelawaits
+      domain: travelawaits.com
+    quality: 59
+    images:
+      - url: "https://img.travelawaits.com/filter:centercrop/quill/5/9/2/7/0/a/59270a9ea0fff8df8eb37756170ca02ffc3572c5.jpg?w=300&h=300"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Disney World Tests Facial Recognition At Magic Kingdom"
+    excerpt: "Walt Disney World Resort in Florida is trialing a facial recognition admission system at its Magic Kingdom theme park, NFCW reported on Monday (March 29). “If you return to Magic Kingdom park during our limited-time test, consider entering using the ..."
+    publishedDateTime: 2021-03-29T18:32:00Z
+    webUrl: "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/"
+    ampWebUrl: "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/"
     type: article
     provider:
       name: pymnts.com
       domain: pymnts.com
     quality: 59
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/shutterstock_683167603-457x274.jpg"
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Disney-facial-recognition-theme-park-457x274.jpg"
         width: 457
         height: 274
         isCached: true

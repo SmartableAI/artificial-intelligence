@@ -41,6 +41,20 @@ related:
         width: 640
         height: 437
         isCached: true
+  - title: "VN’s first autonomous vehicle debuts"
+    excerpt: "Phenikaa Group, a multi-sectoral corporation, has introduced its prototype of a level-4 autonomous vehicle, Vietnam’s first smart self-driving vehicle. The vehicle is equipped with smart functions, artificial intelligence (AI) and advancements such as 2D/3D maps,"
+    publishedDateTime: 2021-03-29T16:12:00Z
+    webUrl: "https://www.phnompenhpost.com/business/vns-first-autonomous-vehicle-debuts"
+    type: article
+    provider:
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 24
+    images:
+      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/vietnams_first_self-driving_vehicles_prototype_was_displayed_in_front_of_a_conference_building_at_phenikaa_university._viet_nam_news.jpg"
+        width: 990
+        height: 660
+        isCached: true
 
 secured: "Z4yeNljRBh3jMQ5zOBP8fvPpyDGWvBOqB0eAN/f2gewcGInJ7xBz2BUBBLEUm0joISk6kO2UZLgyo/PlnDDv6l/bY3RmmQeHRteLT5nPJgHgiIuS03UtvyM+D+u1BDNpGLGwa9tR3CtTg6sxmCAfSywV/sLzp+89hAZI5eZLqVuAqDSDFnDvG9AKaSa/Wnlr1oty87DsqPbo1+S+g3xKs72ZD7H4TjsFZw3EwTIjIRZlXYlI+ysnBDe/ccqAyv0LJEqKB7EodRXG81QTrfjzIssq+CbgsXrU1R6/t6YeKc7szAu1SNkFralg3gGMFKLLb8uEGPoBBBKyk9cGtDjfzA7xk4yOzAp+diiHgwtpNYk=;SRzX9o4qQZnMzppzZRcJeQ=="
 ---

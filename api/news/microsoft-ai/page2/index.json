@@ -2,6 +2,83 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-11-microsoft-edge-ai-kit-runs-linux-on-imx8m-and-adds-myriad-x-and-8mp-cam.md",
+      "title": "Microsoft edge AI kit runs Linux on i.MX8M and adds Myriad X and 8MP cam",
+      "excerpt": "Microsoft’s $349 “Azure Percept DK” edge AI kit runs Linux on an i.MX8M and works with Azure IoT services. The kit has a “Vision” module with a 0.7 TOPS Myriad X and an 8MP camera plus an an optional “Audio” module with a 4-mic array.",
+      "sourceUrl": null,
+      "webUrl": "https://linuxgizmos.com/microsoft-edge-ai-kit-runs-linux-on-i-mx8m-and-adds-myriad-x-and-8mp-cam/",
+      "originalUrl": "https://linuxgizmos.com/microsoft-edge-ai-kit-runs-linux-on-i-mx8m-and-adds-myriad-x-and-8mp-cam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T21:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "run Linux-based Opera TV",
+        "domain": "linuxgizmos.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-intento-announces-major-enhancement-to-its-xtm-cloud-integration.md",
+      "title": "Intento Announces Major Enhancement to its XTM Cloud Integration",
+      "excerpt": "Intento, a leading AI integration platform, announces a major enhancement to its integration with XTM Cloud, the Enterprise SaaS Translation Management System. With the 12.5 version of XTM Cloud, XTM introduced the Custom MT feature,",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/press-releases/intento-announces-major-enhancement-to-its-xtm-cloud-integration/",
+      "originalUrl": "https://slator.com/press-releases/intento-announces-major-enhancement-to-its-xtm-cloud-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/03/Intento-Logo-2021-900x600-CD.png",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-how-buildingminds-creates-the-sustainable-future-of-facility-management-with-microsofts-technology.md",
       "title": "How BuildingMinds creates the sustainable future of facility management with Microsoft’s technology",
       "excerpt": "Français By taking a platform-based approach, BuildingMinds enables emission reductions and carbon risk management through smart real estate portfolio analytics. Microsoft supports the",
@@ -1321,101 +1398,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-azure-percept-edge-intelligence-from-silicon-to-service.md",
-      "title": "Azure Percept: Edge intelligence from silicon to service",
-      "excerpt": "In today’s fast-paced world, there is often a need for instantaneous, real-time responses. Companies are finding the computing needed to support this 24/7 mentality generates staggering amounts of data, often from devices out in the physical world.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-percept-edge-intelligence-from-silicon-to-service/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-percept-edge-intelligence-from-silicon-to-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9f819b8f-c09d-4144-a93d-ba0fe7a45d83.png",
-          "width": 1024,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T22:00:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-microsofts-10-biggest-azure-announcements-at-ignite-2021.md",
-      "title": "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021",
-      "excerpt": "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg",
-          "width": 501,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -27,63 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "North American AI in Healthcare Market Trends 2019 | Segmentation, Outlook, Industry Report to 2025"
-    excerpt: "The North American AI in healthcare market is estimated to grow significantly at a CAGR of 50.4% during the forecast period. The North American market for AI in healthcare is analyzed based on countries such as the US and Canada. The factors that are ..."
-    publishedDateTime: 2021-03-27T09:05:00Z
-    webUrl: "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019"
-    ampWebUrl: "https://www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019"
+  - title: "Court Rulings Spur Debate on How European Privacy Law Regulates AI Decisions"
+    excerpt: "“Arguably, the provision does not apply if a bank employee denies a loan on the basis of a recommendation by an AI system,” he said. Write to Catherine Stupp at catherine.stupp@wsj.com Copyright ©2020 Dow Jones & Company, Inc. All Rights Reserve"
+    publishedDateTime: 2021-03-31T08:30:00Z
+    webUrl: "https://www.wsj.com/articles/court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-11617183000"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 60
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
     images:
-      - url: "https://cdn.openpr.com/U/3/U327247103_g.jpg"
-        width: 800
-        height: 904
+      - url: "https://images.wsj.net/im-318272/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Analysis, Segmentation, Key Players, Opportunities And Forecast 2021-2028"
-    excerpt: "It Intelligence Markets one of the world s leading market research firms has rolled out a new report on Natural Language Processing NLP in Healthcare and Life Sciences market The report is integrated with crucial insights on the market which"
-    publishedDateTime: 2021-03-27T13:10:00Z
-    webUrl: "https://www.openpr.com/news/2262865/natural-language-processing-nlp-in-healthcare-and-life"
-    ampWebUrl: "https://www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
+  - title: "Artificial intelligence to attract European students to study in Deggendorf"
+    excerpt: "The Deggendorf Institute of Technology (DIT) starts the first English-language technical Bachelor's degree programme in Deggendorf: Artificial Intelligence. Prospective students will be able to study Artificial Intelligence (AI) in English as early as October 2021."
+    publishedDateTime: 2021-03-29T10:30:00Z
+    webUrl: "https://idw-online.de/de/news765812"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
+      name: idw
+      domain: idw-online.de
+    quality: 35
     images:
-      - url: "https://cdn.openpr.com/U/3/U327650672_g.jpg"
-        width: 450
-        height: 300
+      - url: "https://files.idw-online.de/corona_idw.png"
+        width: 615
+        height: 284
         isCached: true
-  - title: "AI in Healthcare Market Is Set to Experience Revolutionary Growth by 2030 | Nuance Communications, Inc., DeepMind Technologies Limited"
-    excerpt: "(April 2021 trend research report ) The new report studies the AI in Healthcare Market in detail and presents comprehensive forecasts regarding the market’s growth trajectory in the coming years 2020 to 2030. The research report on the global market ..."
-    publishedDateTime: 2021-03-30T06:31:00Z
-    webUrl: "https://ksusentinel.com/2021/03/30/ai-in-healthcare-market-is-set-to-experience-revolutionary-growth-by-2030-nuance-communications-inc-deepmind-technologies-limited/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 39
-    images:
-      - url: "https://i.pinimg.com/originals/39/ae/0a/39ae0ac1c326830aa37ebf53e599390d.gif"
-        width: 512
-        height: 384
-        isCached: true
-  - title: "Machine learning as a Service Market 2021: Global Industry Analysis Report to 2027"
-    excerpt: "Machine learning as a Service MLaaS market is estimated to grow from USD 613 4 million in 2016 to USD 3755 0 million by 2021 at a CAGR of 43 during the forecast period Machine learning is a computing technique"
-    publishedDateTime: 2021-03-27T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
 
 secured: "0YuMrUNcpYcK0fncqPMvNfl9lM5wA7WOKDXu3XtRq0x8KpyO+9+joV8gjrSAXTkl7wCA1axG4OAoL8jqHy3lzeKpp60NOYm6uKhGkG6NHw7o1vbN0WuTonriJ8OKM9AS3InavURs9UsKCGrsQCeaiCcBc7m1LjNuxf2NVFXQXrswBWdLuj29wASx+4+4KJBmw2qA/lKwyaZuIweVWBFNi4RMC4IQHKrsGSY2lRZdhGIGGguhT96Rkk559+1HabLoPjJ8Ix1GX4ftHdymTTPuAtIcoRrbJM69Xvd+cyTi+fxKJVz5bE9Em2IjilxuffCWHbmYbproYDw/Y4unf4EGaD5NdC5nmO6nRU1Yobvhggpm/pnVh9ithAnhL9Xkn9+1dESOyivm/VxheuPcVkzeEsw/ks7I4U4kXdFCxbYKjGrhC8yQoLGe+Jh7sh2ZOKNv8+PKpD0rJAF+NhNLrzoN1mvFzK22FlbniESEqQ/1b/O2jYTP9ec69oyVHeZ8tAhUhd2Hx40TmzdWQtTlao8j0Q==;AL8uQ0vxjUlODEoJL3VA2w=="
 ---

@@ -119,6 +119,20 @@ related:
         width: 620
         height: 423
         isCached: true
+  - title: "Bespoke simulator to test reactions to self-driving cars"
+    excerpt: "ST Engineering Antycip has provided a simulator, featuring Canon projectors and VIOSO software, to a research unit at Cardiff University looking at human interactions with autonomous vehicles."
+    publishedDateTime: 2021-03-31T10:58:00Z
+    webUrl: "https://www.avinteractive.com/markets/education/regulating-future-key-autonomous-vehicle-research-facilitated-st-engineering-antycip-31-03-2021/"
+    type: article
+    provider:
+      name: avinteractive.com
+      domain: avinteractive.com
+    quality: 24
+    images:
+      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2021/03/Autonomous-Vehicle-Research-Facilitated-by-ST-Engineering-Antycip.jpg"
+        width: 620
+        height: 330
+        isCached: true
   - title: "Researchers develop new AI based early warning system for self-driving cars"
     excerpt: "During a recent study, a team of researchers from the Technical University of Munich (TUM) recently developed a new early warning system for vehicles that uses AI to learn from thousands of real traffic situations."
     publishedDateTime: 2021-03-30T18:13:00Z

@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI used in battle against asbestos-linked cancer"
-    excerpt: "\"Using AI to interrogate genomic 'big data', this initial work shows ... chemotherapy was the only licenced choice for patients with mesothelioma. However, treatment options start to become limited once people stop responding to their treatment."
-    publishedDateTime: 2021-03-26T18:09:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210326085230.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "AI might prove helpful against asbestos-linked cancer"
     excerpt: "These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer ... genomics research led by the University of Leicester used artificial intelligence (AI) to study an aggressive form of cancer, which could be helpful in ..."
     publishedDateTime: 2021-03-28T12:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/03/210329085958.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/03/210329085958.htm"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Industries driven by AI, advanced tech to drive UAE’s future sustainable growth"
+    excerpt: "The government’s 10-year strategy seeks to advance and expand the nation’s vibrant industrial sector and shape it into a key driver of the"
+    publishedDateTime: 2021-03-31T11:41:00Z
+    webUrl: "https://www.khaleejtimes.com/business/industries-driven-by-ai-advanced-tech-to-drive-uaes-future-sustainable-growth"
+    ampWebUrl: "https://amp.khaleejtimes.com/business/industries-driven-by-ai-advanced-tech-to-drive-uaes-future-sustainable-growth"
+    cdnAmpWebUrl: "https://amp-khaleejtimes-com.cdn.ampproject.org/c/s/amp.khaleejtimes.com/business/industries-driven-by-ai-advanced-tech-to-drive-uaes-future-sustainable-growth"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 53
+    images:
+      - url: "https://amp.khaleejtimes.com/storyimage/KT/20210331/ARTICLE/210339818/AR/0/AR-210339818.jpg&NCS_modified=20210331133239&MaxH=225&imageVersion=16by9"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "5mdGP+ksqB+AkemzCOwgyRpHncxVT03SmbukY8IbUWgr9EG+YBEvinZeCwSS8gTqim8UEsUV3AxQHb7SGDQiN3b4W84BsrlZ71zE5fRo8+6ogtezfN8tZHA5zmfe2O8d3WVZ7RLGg107tnGMlwe0lqnyJruRGmfj6/GHe2oSNI1BsOwIVP0+B6v2pN+BdaOD3Axpq+bWj+p236fTXv+8moTkbaoxXx/ISw1zG6M4lE+Bn9k28U19u1cddqoP16x5ZIjhcvCv0RdDOAMCQbSEx0IxkXt7bVyaMc/vbrcVDxZ1NDJWWrAsM2UEhvxlh+bcOHilysHsfLy/T3T54qPBihETNByPmXhuL4jI2mBKcJY=;17sw+5/zIUEMV8FMPCgWwA=="
 ---

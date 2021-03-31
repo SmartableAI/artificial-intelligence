@@ -99,6 +99,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Bright Machines Named Winner in 2021 Artificial Intelligence Excellence Awards"
+    excerpt: "The company’s flagship solution, Bright Machines Microfactories, combines intelligent software and adaptive robotics to automate repetitive ... Bright Machines as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said ..."
+    publishedDateTime: 2021-03-29T13:31:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-computing-and-information-technology-united-states-25b950044da2487e8e878ad574549324"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "WekaIO Named Finalist in 2021 Artificial Intelligence Excellence Awards"
     excerpt: "Business awards program recognizes WekaFS for facilitating AI and solving real problems. WekaIO™ (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research,"
     publishedDateTime: 2021-03-30T14:00:00Z

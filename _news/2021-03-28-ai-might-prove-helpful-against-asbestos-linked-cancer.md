@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/268257780/ai-might-prove-helpf
 webUrl: "https://www.bignewsnetwork.com/news/268257780/ai-might-prove-helpful-against-asbestos-linked-cancer"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI used in battle against asbestos-linked cancer"
-    excerpt: "\"Using AI to interrogate genomic 'big data', this initial work shows ... chemotherapy was the only licenced choice for patients with mesothelioma. However, treatment options start to become limited once people stop responding to their treatment."
-    publishedDateTime: 2021-03-26T18:09:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210326085230.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "AI Used To Study Aggressive Asbestos-Related Cancer"
     excerpt: "New research has used artificial intelligence to study an aggressive form of cancer, which could improve patient outcomes."
     publishedDateTime: 2021-03-29T08:00:00Z

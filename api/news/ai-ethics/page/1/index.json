@@ -193,6 +193,50 @@
       ]
     },
     {
+      "path": "_news/2021-03-29-complementary-security-for-oranges-data-and-ai-ethics-council.md",
+      "title": "Complementary security for Orange's Data and AI Ethics Council",
+      "excerpt": "Patrick Donegan of HardenStance discusses Orange's activities around AI ethics and looks at how the operator could collaborate with a much broader set of telcos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lightreading.com/security/complementary-security-for-oranges-data-and-ai-ethics-council/a/d-id/768386",
+      "originalUrl": "https://www.lightreading.com/security/complementary-security-for-oranges-data-and-ai-ethics-council/a/d-id/768386",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.lightreading.com/lightreading/LR_fb_button.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Light Reading",
+        "domain": "lightreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-it-pro-panel-does-ai-have-a-place-in-security.md",
       "title": "IT Pro Panel: Does AI have a place in security?",
       "excerpt": "Machine intelligence is the last invention that humanity will ever need to make.” That’s according to philosopher Nick Bostrom, and it’s arguably true; AI has huge potential to enable and accelerate the efforts of human beings across a wide range of disciplines.",
@@ -1431,58 +1475,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-how-the-ai-sector-can-use-nonprofits-as-an-ethical-example.md",
-      "title": "How The AI Sector Can Use Nonprofits As An Ethical Example",
-      "excerpt": "A future in which the nonprofit sector is the driving force of our society, where our incentives to succeed aren't guided mainly by greed and self-sustenance but rather by our ability to do good. It's a future where we are measured and rewarded by our mastery of several key balances: profit and ethics;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603668987d7c12c2d697b410%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/amp/",
-      "publishedDateTime": "2021-03-10T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

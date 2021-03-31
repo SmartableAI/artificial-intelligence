@@ -55,17 +55,6 @@ related:
         width: 702
         height: 261
         isCached: true
-  - title: "Philly airport screening international travelers using facial recognition technology"
-    excerpt: "The Simplified Arrival system has processed 66 million people at other U.S. airports, flagging more than 500 imposters"
-    publishedDateTime: 2021-03-26T18:49:00Z
-    webUrl: "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/"
-    ampWebUrl: "https://www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/"
-    cdnAmpWebUrl: "https://www-phillyvoice-com.cdn.ampproject.org/c/s/www.phillyvoice.com/philadelphia-airport-screenings-facial-recognition-technology-phl-/amp/"
-    type: article
-    provider:
-      name: PhillyVoice
-      domain: phillyvoice.com
-    quality: 49
   - title: "Facial recognition technology for passenger boarding on trial at Narita and Tokyo airports"
     excerpt: "Narita International and Tokyo International airports have announced trials of Face Express – a new boarding procedure using facial recognition technology."
     publishedDateTime: 2021-03-30T08:51:00Z

@@ -86,6 +86,20 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "New Armv9 takes on security and AI"
+    excerpt: "Arm has launched its first new architecture in a decade, Armv9, which address security through a new confidential compute architecture (CCA) and the"
+    publishedDateTime: 2021-03-31T11:05:00Z
+    webUrl: "https://www.embedded.com/new-armv9-takes-on-security-and-ai/"
+    type: article
+    provider:
+      name: Embedded
+      domain: embedded.com
+    quality: 56
+    images:
+      - url: "https://www.embedded.com/wp-content/uploads/2021/03/Armv9-features.jpg"
+        width: 974
+        height: 649
+        isCached: true
   - title: "Arm’s solution to the future needs of AI, security and specialised computing is v9"
     excerpt: "Arm has introduced the Arm ® v9 architecture in response to the global demand for ubiquitous specialised processing with increasingly capable security and artificial intelligence (AI). Armv9 is the first new Arm architecture in a decade,"
     publishedDateTime: 2021-03-31T08:32:00Z
