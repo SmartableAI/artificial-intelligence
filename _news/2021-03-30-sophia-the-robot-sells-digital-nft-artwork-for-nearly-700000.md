@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sophia the Robot NFT Sales Rake in $1 Million"
-    excerpt: "Sophia the Robot has created and sold her own non-fungible tokens (NFT). Sales reached just over $1 million when all was said and done."
-    publishedDateTime: 2021-03-26T13:19:00Z
-    webUrl: "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
-    ampWebUrl: "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
-    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 76
-    images:
-      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/03/bic_artwork_ai_sophia_nft_720.jpg.optimal.jpg"
-        width: 720
-        height: 432
-        isCached: true
   - title: "One of world’s most advanced robot sells digital art via NFT for around $700,000"
     excerpt: "The artwork was sold via crypto art platform Nifty Gateway and is the first instance of NFT art created by an artificial intelligence being sold"
     publishedDateTime: 2021-03-30T06:43:00Z

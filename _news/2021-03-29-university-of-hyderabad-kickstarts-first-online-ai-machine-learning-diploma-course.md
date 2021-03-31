@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2021/mar/29/univer
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2021/mar/29/university-of-hyderabad-kickstarts-first-online-ai-machine-learning-diploma-course-2282992.amp"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: The New Indian Express
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyderabad University Launches Diploma in Artificial Intelligence & Machine Learning"
+    excerpt: "The University of Hyderabad (UoH) and AAIC Technologies have jointly offered an online diploma in artificial intelligence and machine ... These sectors include healthcare, agriculture, education, smart cities, and smart mobility. Sarswati said that by ..."
+    publishedDateTime: 2021-03-31T05:26:00Z
+    webUrl: "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html"
+    ampWebUrl: "https://www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 70
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/03/1617171389_student1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "University of Hyderabad launches diploma in AI"
     excerpt: "The University of Hyderabad (UoH), in association with AAIC Technologies, has launched an online Diploma in Artificial Intelligence and Machine Learning through the Centre for Distance and Virtual Learning (CDVL)."
     publishedDateTime: 2021-03-28T16:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance"
 type: article
 quality: 105
-heat: 155
+heat: 165
 published: true
 
 provider:
@@ -104,6 +104,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Arm unveils v9 architecture with enhanced security, AI support for next generation of processors"
+    excerpt: "Arm introduced the new Arm v9 architecture for the next generation of chips with advanced security and artificial intelligence. The first new Arm architecture in a decade, the platform is expected to support over 300 billion future"
+    publishedDateTime: 2021-03-31T07:30:00Z
+    webUrl: "https://www.telecompaper.com/news/arm-unveils-v9-architecture-with-enhanced-security-ai-support-for-next-generation-of-processors--1377859"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 23
 
 secured: "r9M0IyTM11wYe6SDw0K10RQbD1yYcR4AcSfYRKmouhDFXcNvO+0VwPVzvffnyyxIhvQ/6vvPP0gDYvk6TfIER8zUpuyxGxL+lnUnKWR5ZSvXjIJ1HSTjGtQo4znzrchIVVQlR568OsIZbATboXxCaq2BH54a4k+xhX6ZdATtTTq7qmJD6b5WsMHcMFpvBqSa81DrxouWex97QuNiSN9/mNzHjhEduHqMdf6TRoQcytRmcgkorFMrq8LS4vqE8CDS0fGskEIOpfw+PrW0Si0r5w7jtSPY0R88uQgV8xSxYBUT2yw7MxGEPNbjEMRMO+NE/Dmf3CLW6am7kEjbsIVGqh+iQHP/UjJvYvNWC+VhtN6rarat61jzUeNuggMVHgrsySEzAW3matJzJsyXa/05HOGvRMX8UdOrY14pZejEvwic/SLIZtSIK1NR//NQLeq9oiuzChbWXQONyrqpPe8LfV4t00lS2WFkRNYVP6YfrQKHuFgdrz12v99z/vwJLw2KGukUTuiE8NZyJNftty+jZQ==;Kpa7ajuOcOL735olLdpLnw=="
 ---

@@ -30,9 +30,9 @@ related:
   - title: "Google Maps using artificial intelligence to help point people in the right direction"
     excerpt: "Boasting that it is on track to bring over 100 \"AI-powered\" improvements to Google Maps, Google has announced a series of updates that have been or are set to be released in the coming year. The first is adding Live View, a feature that uses augmented ..."
     publishedDateTime: 2021-03-31T03:30:00Z
-    webUrl: "https://www.zdnet.com/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
+    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
+    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
     type: article
     provider:
       name: ZDNet

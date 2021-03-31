@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Two Top Tampa Bay Top Workplaces earn national recognition"
-    excerpt: "Two Tampa Bay companies that have routinely topped the Tampa Bay Times Top Workplaces lists can add a new distinction to their mantel. They’re now two of the top companies to work at nationally, according to a new ranking."
-    publishedDateTime: 2021-03-26T15:00:00Z
-    webUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/"
-    ampWebUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 44
-    images:
-      - url: "https://www.tampabay.com/resizer/UZoq5LDsa2lXcp2UmICszQUswgU=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/T3OTOREYRFAX5EJUWKNCEAQ4MQ.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Bruddah Iz receives national recognition"
     excerpt: "Driven primarily by Iz’s angelic voice and ukulele playing, the song is melancholic and joyous at once,” the registry states. “Taken from Iz’s album ‘Facing Future’ — the first Hawaiian album ever certified platinum — this single was an ..."
     publishedDateTime: 2021-03-30T10:05:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://www.hawaiitribune-herald.com/wp-content/uploads/2021/03/web1_IZ-Surfboard_1200px-1-.jpg"
         width: 760
         height: 760
-        isCached: true
-  - title: "Music students earn All Eastern recognition"
-    excerpt: "\"When you have to hear a reproduction, you have distortion and you end up losing tone quality and the timbre of the voice.\" Walz noted some Pennsylvania schools were only working remotely, which may have reduced the size of field. However, the honor of ..."
-    publishedDateTime: 2021-03-27T09:00:00Z
-    webUrl: "https://www.standard-journal.com/news/local/article_7e619c12-b8df-56e2-84dc-603f94f978a7.html"
-    type: article
-    provider:
-      name: standard-journal.com
-      domain: standard-journal.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/standard-journal.com/content/tncms/assets/v3/editorial/2/8a/28a0082d-3fcf-5312-82c2-db3b330dfc52/605d5b8e9639b.image.png?resize=856%2C630"
-        width: 856
-        height: 630
         isCached: true
 
 secured: "shl43sLNMFEBMgnxiWS4WwKx4qtOCqF5pyXcRsh4M89Ix55vFzABXl5peSE4Y5GKnbhT98xaVz4RgjFCmesys/rp/1VrNustUyPmwokIiSabYh+0m+Pi+T3eECtKGGOM/NxcCNZLqFBioQl+tf/N+V+sfnxm+i4LI0llVN7pJVNsIt/Y3sUBXIx7zdBVmy08uqOerfkPdNzYRyfFzrxePNxSwfccOAYv7h3ZnrES6rXUASbnP/u6wzXuzRv4k8i7ha4h/MIcVMioukQFQS/f2ck+HqJvpI9GFCEodk0phZW7Z271j9UJsPXl5UMu6paq0mvmLENAU8QQuRfdgbA3rn2xvowN4udKKl43zgjOaO+AJRhohWaD72XI+yhkqmMb/nE2PYlffoyYq9opsseVVg5Qtk1wnTKsXY8tI2wAbids/ZpWAPfiV5hTNl4YuAItRban4QHl2f1jJOXh6x5xKYYwwUCQNgTg/XKNETZTGov0TCrANPoFVW1EzWnAAvbrqEy8QvJRfgNqQA4qwj06Vw==;z75R9STZb6DD4mnAmvJk0Q=="

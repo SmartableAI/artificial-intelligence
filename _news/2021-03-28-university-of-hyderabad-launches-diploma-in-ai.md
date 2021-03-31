@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hyderabad University Launches Diploma in Artificial Intelligence & Machine Learning"
+    excerpt: "The University of Hyderabad (UoH) and AAIC Technologies have jointly offered an online diploma in artificial intelligence and machine ... These sectors include healthcare, agriculture, education, smart cities, and smart mobility. Sarswati said that by ..."
+    publishedDateTime: 2021-03-31T05:26:00Z
+    webUrl: "https://www.news18.com/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html"
+    ampWebUrl: "https://www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html"
+    cdnAmpWebUrl: "https://www-news18-com.cdn.ampproject.org/c/s/www.news18.com/amp/news/education-career/hyderabad-university-launches-diploma-in-artificial-intelligence-machine-learning-3591218.html"
+    type: article
+    provider:
+      name: CNN-News18
+      domain: news18.com
+    quality: 70
+    images:
+      - url: "https://images.news18.com/ibnlive/uploads/2021/03/1617171389_student1.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "University of Hyderabad kickstarts first online AI & Machine Learning diploma course"
     excerpt: "\"So far, AI has primarily been used by the private sectors for commercial usage. The mission of the government is to make AI accessible to all the sectors of society,\" said Dr Saraswat. He informed the participants that the government has decided to ..."
     publishedDateTime: 2021-03-29T05:36:00Z

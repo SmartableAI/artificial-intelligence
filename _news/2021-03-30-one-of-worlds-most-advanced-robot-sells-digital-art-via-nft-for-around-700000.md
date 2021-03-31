@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Sophia the Robot NFT Sales Rake in $1 Million"
-    excerpt: "Sophia the Robot has created and sold her own non-fungible tokens (NFT). Sales reached just over $1 million when all was said and done."
-    publishedDateTime: 2021-03-26T13:19:00Z
-    webUrl: "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
-    ampWebUrl: "https://beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
-    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/sophia-the-robot-nft-sales-rake-in-1-million/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 76
-    images:
-      - url: "https://s32659.pcdn.co/wp-content/uploads/2021/03/bic_artwork_ai_sophia_nft_720.jpg.optimal.jpg"
-        width: 720
-        height: 432
-        isCached: true
 
 secured: "zV4wb5cGgy4KmwDHB0QkSNSRFZMsZB+akxjP0x5vPB44RBCh8f5HS7M4/F0bU5tEntozyd+y/GbExDvrUyn4QT0pRPXaJD7oCZsD6KjMkwSb3x/IOP/UnKcF/91Zyn2J8VCZsFgBk1fvvepJpHVQjgxRerL1VijRm7r/4ou/LLtyek1TbB7uxKzPWNfLfgDJsGd2s3QMy7GuMYh8XueBDSkgiO3VohRQP6obPPZ3H9l1pcgoLllcqn5xkBHe7TLHSH9bf6F1pcFQ/h4r7AkWdo+irsAnwPAXMF7LqeU9mtOC0YNuOuEHNbcjgdgnzQ4oQMSGxDlKla/hOa4ZRZitqALreOGJ5IvebUnQODhhqTA=;e/dGHGqNyRSqcOLnCCzEXA=="
 ---

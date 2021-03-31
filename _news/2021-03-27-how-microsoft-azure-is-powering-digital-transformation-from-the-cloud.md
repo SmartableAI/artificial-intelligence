@@ -49,6 +49,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Edge AI Software Market Growing at a CAGR 20.8% | Key Player Microsoft, IBM, Google, Nutanix, Synaptics"
+    excerpt: "In the edge AI software market, Azure platform that is intelligent, consistent, and comprehensive from cloud to edge. Request a Sample Pages @ https://www.marketsandmarkets.com/requestsampleNew.asp?id=70030817 IBM is a multinational technology and ..."
+    publishedDateTime: 2021-03-31T07:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-software-market-growing-at-a-cagr-208-key-player-microsoft-ibm-google-nutanix-synaptics-2021-03-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft – Infobip’s Communications PaaS Now Available on Microsoft Azure"
     excerpt: "Infobip’s infrastructure on Azure includes omnichannel support through its Contact Center solution ‘Conversations’, the automated customer engagement engine ‘Moments’ and AI powered chatbot building function ‘Answers’ that all sit on top of ..."
     publishedDateTime: 2021-03-29T02:59:00Z

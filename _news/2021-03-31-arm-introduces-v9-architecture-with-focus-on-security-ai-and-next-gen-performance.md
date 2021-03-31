@@ -100,6 +100,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Arm unveils v9 architecture with enhanced security, AI support for next generation of processors"
+    excerpt: "Arm introduced the new Arm v9 architecture for the next generation of chips with advanced security and artificial intelligence. The first new Arm architecture in a decade, the platform is expected to support over 300 billion future"
+    publishedDateTime: 2021-03-31T07:30:00Z
+    webUrl: "https://www.telecompaper.com/news/arm-unveils-v9-architecture-with-enhanced-security-ai-support-for-next-generation-of-processors--1377859"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 23
 
 secured: "oiyN/RaJfTsHgEr+j4/8+2F7GXUDyJAmRxewmmWFW7sGHIESe0t80IeCVZR5cWCjqpKXRxgvrqPZkpgskz1fEW/Re6WC8W78EPyaOHWhtZJdmQOQZZD2grWvGaYp1fa3c7iHDMbf+dH5V6PYgPGFyXvMYuNAhXmJL6eP9IhV7WNLGDvhkKeQ+v2B+Fr4j8px51JPMbJjnOM1BAe4TOHzZTB0J8K9L7d8pFZhystw364FPU88W5aJfRjrBwt5IA7Jv3pDNTtV5Rv6u/nplL+zv2wEddI8Z6R3vXJ6Q2YFDFuGS8fL+Qv2jnqLKRPrAg/ywGjKT34YZ1PEmrupSXxQ+2tvR9q5WMJb7Z12iKowJSyN6wp8F0IOKlJARk7xH9CVb4XaL6ICJQs+/+0DkZfBTBtyQ5Wfw+50KByxY2IYMeb3tcupEoNsdBr/nNNIbTZ4PRq0rIQq8t+PPgVx55feUiZU8cfwXm88cGvrNkNic5MsjJQZwL8jKQY9vBexmBWqNOwLR3bVYcTZ00XsPo3kmw==;I1Rx26ZFqNQhH6ee5c0JCQ=="
 ---

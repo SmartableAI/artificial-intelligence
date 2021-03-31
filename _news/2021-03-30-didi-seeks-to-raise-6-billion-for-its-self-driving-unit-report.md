@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-sel
 webUrl: "https://www.gizmochina.com/2021/03/30/didi-raise-6-billion-for-self-driving-unit-report/"
 type: article
 quality: 84
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sources: Didi Chuxing may raise $500m for self-driving unit ahead of IPO"
+    excerpt: "Didi Autonomous Driving is reportedly looking to rake in up to US$500 million in the potential raise at a valuation of around US$6 billion."
+    publishedDateTime: 2021-03-30T04:34:00Z
+    webUrl: "https://www.techinasia.com/fintech-firm-ripple-acquires-40-stake-malaysian-crossborder-payments-firm-tranglo/next"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 48
   - title: "How trucks became the next battleground for self-driving technology"
     excerpt: "The transformation involves pulling apart the dashboard, equipping the vehicle with a stack of sensors and computer systems, then installing “a single umbilical” cord to facilitate communication between the vehicle and the self-driving technology,"
     publishedDateTime: 2021-03-30T13:30:00Z
@@ -58,6 +67,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d0d2ffc-d196-4234-8d87-64f502e64ba1.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 333
+        isCached: true
+  - title: "How to break into the self-driving industry after college, according to 10 rising stars in the field"
+    excerpt: "DOW S&P 500 NASDAQ 100 In recent years, the self-driving-vehicle industry has been one of the hottest in tech, attracting billions in funding as the engineers at Waymo, Cruise, Argo, Amazon's Zoox, and more battle to bring their tech to market and reap the ..."
+    publishedDateTime: 2021-03-30T13:30:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-stars-tips-for-getting-into-the-industry-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "dS8m+Mm/EUvWG4bvpB0j/EVoCMCVqoBPcx4UBO5RcfNPq8QkZAh0HOuJcpnyVoYyB1g8hRQ1WgO3f7c8G+SU6hcjuLUbWgkzeWI6GQlvkRPovgxSAyczBcC+7bOzpX7rrNGfpFvnNLJ6C0vmqQ6Op+iWUirtqaneKugZWL0TK7ulJCZWNaD5RU01mMqE1xuyDs9ACzhAFfHn83yltgG7vZpMkvwi8GpxQOG8UCC1UjskOUPWHnpz6cFJ8NT9oVlzb44njOO+JijBdnbz5AKcalWCMa5X9UeaJnzylHTdobL4VZYo3XZ/KtLXcZCJSBbjJ3oo2oZRPdOeeMyxYNyvd7kHqluaBIzbAriv2R44ERM/7jiCQoPqAHkOC26bmwFmGGmkxUn7iwCmN2r60vFOxgCXhNmqHpEj/P/f64dquDOx2FdYGPE0R2bO4rv+cHRtiOAZaidgW2dYNT4fVBX9b6seEHd0PpsDNo7Jo9KRi3zJ/JHp7pjg69yizpy+xfMw5kx8jhY+G8Sa2fZk/JfT7w==;qL/Py+3FfblBaf6TEZ5yFw=="

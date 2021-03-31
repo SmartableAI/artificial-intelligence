@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 108
+published: true
 
 provider:
   name: Electrek
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Underage teen gets in Tesla’s back seat and claims it was self-driving after being pulled over by police"
-    excerpt: "Both girls claimed that no one was driving the vehicle and that the Tesla was self-driving. While Tesla does sell a “Full Self-Driving package,” the feature-complete version of the package is ..."
-    publishedDateTime: 2021-03-26T13:44:00Z
-    webUrl: "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/"
-    ampWebUrl: "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-driver-back-seat.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "As Tesla gears up to release 'Full Self-Driving' to thousands more drivers, videos continue to show its flaws"
     excerpt: "In one video, an FSD-equipped Tesla nearly crashes into a median and almost drives through a row of pylons — all within a few minutes."
     publishedDateTime: 2021-03-27T12:44:00Z

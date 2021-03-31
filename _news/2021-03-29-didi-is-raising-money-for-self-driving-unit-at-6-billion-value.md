@@ -43,6 +43,15 @@ related:
         width: 800
         height: 560
         isCached: true
+  - title: "Sources: Didi Chuxing may raise $500m for self-driving unit ahead of IPO"
+    excerpt: "Didi Autonomous Driving is reportedly looking to rake in up to US$500 million in the potential raise at a valuation of around US$6 billion."
+    publishedDateTime: 2021-03-30T04:34:00Z
+    webUrl: "https://www.techinasia.com/fintech-firm-ripple-acquires-40-stake-malaysian-crossborder-payments-firm-tranglo/next"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 48
   - title: "How trucks became the next battleground for self-driving technology"
     excerpt: "The transformation involves pulling apart the dashboard, equipping the vehicle with a stack of sensors and computer systems, then installing “a single umbilical” cord to facilitate communication between the vehicle and the self-driving technology,"
     publishedDateTime: 2021-03-30T13:30:00Z
@@ -58,6 +67,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3d0d2ffc-d196-4234-8d87-64f502e64ba1.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 333
+        isCached: true
+  - title: "How to break into the self-driving industry after college, according to 10 rising stars in the field"
+    excerpt: "DOW S&P 500 NASDAQ 100 In recent years, the self-driving-vehicle industry has been one of the hottest in tech, attracting billions in funding as the engineers at Waymo, Cruise, Argo, Amazon's Zoox, and more battle to bring their tech to market and reap the ..."
+    publishedDateTime: 2021-03-30T13:30:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-stars-tips-for-getting-into-the-industry-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "1qbSl2T3Lo5tz02/UphWccVafsM7UMW8ojVQp8U8Bwi5s8Vzq+ti4R7+cvrqD9nCdXZzYbm6KLJWKQMLuzec6bxykGxDLoDgMcumFHLA2usJf2J0yXW8A0iSdUvnddVQEBZ0fa+jKwxMB3SzOPXPi28PWqmDH9GLXIlS0loJrvf8vlX2+1SOr0/VF3anc74258krr3jt+w481p8F5oAQIFIAgUWnaArgIhsyefYSnNke6eWKuRsg9+Lp5Z61/EzxFCnXlotl7tTLtGWuhrks6Ds6HRAjYqSOK+6VhQnqRXo5zqxzWzXDQzpo5chLobgQQw/LJ9hS81352GM+6OSkiWn7fAuRPpmNhDKIXWFBHdc=;mIEm52hBFaED8U3VTPDmGw=="

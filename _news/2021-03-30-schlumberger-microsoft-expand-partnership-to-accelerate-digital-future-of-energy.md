@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partne
 cdnAmpWebUrl: "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: gisuser.com
       domain: gisuser.com
     quality: 16
+  - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
+    excerpt: "and the ability to seamlessly connect to the DELFI* cognitive E & P environment from Schlumberger. The Enterprise Data Management Solution is ready for global customers to deploy on Microsoft ..."
+    publishedDateTime: 2021-03-31T07:39:00Z
+    webUrl: "https://menafn.com/1101834341/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/updates/pr/2021-03/30/M_ea2bf9a0-5image_story.jpg"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "GSUopKCa6JdumN7fHMP1CkFN1l68QJBUZjIcwq95K5wrqpDt54r4OME7YBEyFmbQZhxKVMnxu//z+dMJ8Xo+HAy3QylR3KigQH30+yh0X79gKJYGKshl4KKNEGF9Iz3o7RRlKQsKpXD0OpWA+FGMzsDggVfWxmiok9gK3ZQ7jrV4g9HSFK1C7lAFEclqQT2O1ZgfxIWPUyMJCD4eHNgdOPO9HbQeKP7oX5Frd9ZlH6Jlcz+ZAfnxDvMr7T8bFIJZDHEHmQhhQYKkPbAjv4HTpC6cR9aQStkGIAgDrWYCkMSof8g/ZcsgY+nfp0fmTvd0BJYQPfaBTK5S2moO6Hz3N/WyhphT0PIdH+ZbEoYU0Lg=;mzVN7BpkPWscBQPbUPtlZg=="
 ---

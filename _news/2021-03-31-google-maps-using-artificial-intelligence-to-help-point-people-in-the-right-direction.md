@@ -3,10 +3,10 @@ category: news
 title: "Google Maps using artificial intelligence to help point people in the right direction"
 excerpt: "Boasting that it is on track to bring over 100 \"AI-powered\" improvements to Google Maps, Google has announced a series of updates that have been or are set to be released in the coming year. The first is adding Live View, a feature that uses augmented ..."
 publishedDateTime: 2021-03-31T03:30:00Z
-originalUrl: "https://www.zdnet.com/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
-webUrl: "https://www.zdnet.com/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
+originalUrl: "https://www.zdnet.com/index.php/recent/index.php/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
+webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
+ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
 type: article
 quality: 80
 heat: 100
@@ -61,6 +61,6 @@ related:
         height: 500
         isCached: true
 
-secured: "VX5rTQzrtb0ON94ZqcDEciDLJJIMFtcqOX4KzEggZ0Tg2tvkKPmcuGnpxEZJ1q0zIHHshYy5KvZ50MDgGogr7DC9E899qZ/j3Eg+JdEpolVKFMlltZnNRczhXaSfGN/bIhwLf1PT1jFEvV0xIHn4k+/D+UNhOb5LiYp5EqT+HrXKpcKc1iI44mce5z64nXbLhsNN4zYbp8c15mde/DHiYJ82HC+E4x2eMFjW1KSSCMjfFhbBvT2bP7JtCOodfX7KVUrArTzAYnTml990njR0HraZ1etxb1+w//oJeHFoS39IVeeXThfl7fW3vnSyEu1w1l48s2JZWPsdmhErc+WdJLxFUtbbo/D6CpN7igl7y6Q=;Y9TQzJTDA/le8dNKAlAIbA=="
+secured: "dLcPuWuIgWGQ/XMZQoTyOkfkKXlO3x1vNL16yZY0hDyGmfdMAiswz315c/0P4Wi3t/OtVKwz3koQIsltJhDdXWOkK1oq4F9y9bKn80WveZRj94glCE9AZBspWn+hT6g5osx36nCBZUABP6ciIJ0tEvN/y1B8tk8pKjfWoPmy8m/sdpxbQNIcvpxaElHRZX6eOqFId5NCqm6PLozCGa0cOlKQGVhY72xzOUfozkSF6VhfAWBhz+9UU+yyV4ZuPFL8n5VyFcUzonhMBhxbv85oazcuyIqPae+8ukQnwvh4WE9e5xAOvCDCegfElOIb4upV0rEH0MbtOYODmpjq8o6qYetI9bNG4BQpV5N8qD0dZ6M=;vg38bv0ilSKFv7aWOkY0ig=="
 ---
 

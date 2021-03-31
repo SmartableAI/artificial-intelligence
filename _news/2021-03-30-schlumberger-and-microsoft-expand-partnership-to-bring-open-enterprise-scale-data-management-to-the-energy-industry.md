@@ -65,6 +65,20 @@ related:
         width: 280
         height: 280
         isCached: true
+  - title: "Schlumberger and Microsoft Expand Partnership to Bring Open, Enterprise-Scale Data Management to the Energy Industry"
+    excerpt: "and the ability to seamlessly connect to the DELFI* cognitive E & P environment from Schlumberger. The Enterprise Data Management Solution is ready for global customers to deploy on Microsoft ..."
+    publishedDateTime: 2021-03-31T07:39:00Z
+    webUrl: "https://menafn.com/1101834341/Schlumberger-and-Microsoft-Expand-Partnership-to-Bring-Open-Enterprise-Scale-Data-Management-to-the-Energy-Industry"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 16
+    images:
+      - url: "https://menafn.com/updates/pr/2021-03/30/M_ea2bf9a0-5image_story.jpg"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "U4RmmwyRtWifNKwH3Vw4e5MyDIf62LMj8Z3fdn9yQGrRQLEhdMb0G2RTaPCLI0PBcHnGO2dIp1LPPPfDbjcbunLMX2QOB6O2tRVqPHTMbcckJpifWCKGcEbtTIMA3vUFdijtEMmcwalKcWl87MArfg99z5v1ZhM9V2FG2QqRzZ56+h24nGqd3JvwZozhXU2yGUBo/e7QfV5xbtw14en0rzPUyHzR4dAQ2CF8VQ542VczEaQHGwFrUSDqYYd22hUVImV9d1IkJTKLaLYAmn5pedoXPm4SY0i0l4eWRCubfttvpRQ2PKEDfvh0i6pVK4Eix7oAYt1D29negKbgnL44yVO4rmsxSwiwUT9zeZ6vo+NBYBkCigXCnGgvmJQ6W2isxCmRvKLGIznfsY72MpnwJucpKqmMKhXdY+RR7nYT3HKN/1YzGODAAL5wZNSZzD2e+qr0oy59TyVQQWHzBbrHm8P+McNJ0kgtFeyjyrDrAMh6DQhaDuVxnlSyXolnxL98ExuoiVyQX468WkPSOvfMxw==;nfsXImuZM/ZIRq5wwmlP7g=="
 ---
