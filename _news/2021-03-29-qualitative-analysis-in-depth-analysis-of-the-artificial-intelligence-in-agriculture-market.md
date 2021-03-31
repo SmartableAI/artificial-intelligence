@@ -113,20 +113,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 17
-  - title: "Global Textile Printing Market Trajectory & Analytics 2021-2024: Digital Printing, Artificial Intelligence and Personalized Clothing"
-    excerpt: "The \"Textile Printing - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global production of printed textiles is projected to reach 36.8 billion square meters by 2024 The market driven by"
-    publishedDateTime: 2021-03-26T19:21:00Z
-    webUrl: "https://www.lelezard.com/en/news-19720254.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
 
 secured: "P4zys2BM7z0JdqZ9LofTE5vvp/3q3aGlC0T9/r8Xc7nFfHExPRpfjKLkz8pNarbNj8X3r7gV4sY8033CWT3DlJdSmkG7qSYOFZ8AXaa+JMQVekxzN659scyemUJwVwi1/L7xa37kUDjCs2QryoffNiNh36cVrJ6EuQ44vFscTST5Nq8W2QpPTJ0auMl8rcU7cRryinGj/k+JR+tZ4NlTNgSYr9ujXXAA2NWwjJizdyxFxd0F3R2FHLuagIwz8E6ygyA3BO2XPROqLrooTSw66I7z9rKplMnmn73s7Zzp5DypNlnILVljdKzUO5HqAXRNJOeylNMFZibhyb+MBJxaTb+0KL5lKsvP9flAibEHaw+yOlCv2fUslAFTf0IyNmxgaiIjKvM1hC7YL1EadHk0RB4iHZ5X7S3iRxDrQG11DDVkK1qBfpNyNdThoBy3dLDfSAP59ZO2SlKvFuDnSxc23WJIrK6WtzGLeZqX4JBVcz7BHmgi9q+C3mt0tmv/0IBsbj7XqH9ymr4K5pEagHjjKg==;mjhMEqYRYl8VXX9qfNMuAw=="
 ---

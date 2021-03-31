@@ -6,9 +6,9 @@ publishedDateTime: 2021-03-29T10:05:00Z
 originalUrl: "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value"
 webUrl: "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 169
+heat: 239
+published: true
 
 provider:
   name: Bloomberg
@@ -42,6 +42,22 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/04/didi.jpg"
         width: 800
         height: 560
+        isCached: true
+  - title: "Scavenger Hunts Via Self-Driving Cars"
+    excerpt: "People use conventional cars for undertaking driving-based scavenger hunts, so it is worth assessing how this might occur in an era of self-driving cars."
+    publishedDateTime: 2021-03-27T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff10626b5c1af8e4e22c948%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5753%26cropY1%3D493%26cropY2%3D3730"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Sources: Didi Chuxing may raise $500m for self-driving unit ahead of IPO"
     excerpt: "Didi Autonomous Driving is reportedly looking to rake in up to US$500 million in the potential raise at a valuation of around US$6 billion."
@@ -82,7 +98,39 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
+    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google,"
+    publishedDateTime: 2021-03-29T09:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 30
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
+        width: 980
+        height: 512
+        isCached: true
+  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
+    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
+    publishedDateTime: 2021-03-30T00:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html?nans"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 30
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
+        width: 980
+        height: 512
+        isCached: true
 
-secured: "1qbSl2T3Lo5tz02/UphWccVafsM7UMW8ojVQp8U8Bwi5s8Vzq+ti4R7+cvrqD9nCdXZzYbm6KLJWKQMLuzec6bxykGxDLoDgMcumFHLA2usJf2J0yXW8A0iSdUvnddVQEBZ0fa+jKwxMB3SzOPXPi28PWqmDH9GLXIlS0loJrvf8vlX2+1SOr0/VF3anc74258krr3jt+w481p8F5oAQIFIAgUWnaArgIhsyefYSnNke6eWKuRsg9+Lp5Z61/EzxFCnXlotl7tTLtGWuhrks6Ds6HRAjYqSOK+6VhQnqRXo5zqxzWzXDQzpo5chLobgQQw/LJ9hS81352GM+6OSkiWn7fAuRPpmNhDKIXWFBHdc=;mIEm52hBFaED8U3VTPDmGw=="
+secured: "isifjiR1bo8OphXFXTXbThAgOLyJm+3zNWy9q/7cZsocFP5Z7S+fhnVkz4XQM3C2D+sL2I7nnVBT2hlnCn/Qpx85oJIAJdkWxeFIXkoq2rzeBT7axpeQSvrTUAS0qV+xI1M+jyV33ROu+7THmREG5Gxz3kELZCgMurOhmCkO7cmMfwkQ6eaPm27tjjigYVv5ugIrbNw4tCxwmWBBJlPhRQsBcYBzckc/2eybv1OAs/deD0HmB106lAt0qkB1xbmpB4GuVjyupYETZngnBbRpu79Gq0yzRDYbvJTzwGBqR5lvFVJdkh4oHheZz/kC7MzeCA+WD1Lkmq1yI2GC7CV8k7mF0Z/ThSr1y3uYpj0EqMERKegn5n+J77jbZ544O7Dxp7NAr7hCB0rOciSrOCcCOq8SvoYa6em2M811KufA5o89LpF5I5uG+OTMO4YCbpNDyBpY8is+Do7lGVi1Mkd9/QJV3MHQBEL1HwAWbO+HiwPLg2to+v/PjDtx8EaFs6b8wRFuv6vKtKTjCsLCwpdFVESvvmMF3RuPBFCgoIpj0Z8=;4vfQrxY7IvcImgZSlWkNOQ=="
 ---
 

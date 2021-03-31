@@ -43,6 +43,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Machine Learning Technique Reveals Cancer Genetic Insights"
+    excerpt: "March 31, 2021 - Machine learning approaches could help detect mutational signatures in patients with cancer, revealing the genetic effects of the underlying contributors to the disease, a study published in eLife revealed. The new technique uses machine ..."
+    publishedDateTime: 2021-03-31T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-technique-reveals-cancer-genetic-insights"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/image_%281%29.png"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "tHY6QAXox90PPsU599WStMEOu3bAuf2lIR9JksKjjziWXJqKF9s75ux49HJAWxRfb2AxGpUBr79GeGV6TllX7Om2HKq3P+dDQXEACsek0qUJEv7PCJ5g6GSjDc0U3sSqpdKPzW+mBRNjxZNrx1S2qaeLtyYuRobaystHXAzJ8ahdSu7eFioZHOA0w1BaFlwwAGImF0fCb69/ybRhz+Cys224EWxAArmDkKT+ULQDFcL++xMZU3KSoam29EMnoRZtKiulHRlIis3r+qBEtei/kfC8U9uU44gGXob9Z8BfnzJuVXn+FVcqIedfjo/RHevnw9jZ/k4fW2Zn6RKh907kA6gHjMUBTiii8u95zZCujflAfPkusQpv7ckjcEcDwltC6Moe1bM5A6Hpi8b0vQ+9iLEeXZF9CENFcHPK3wgN7fjSI9mZXisZuO/DK3GM3GPD/97BRfTj9eACXiArhg7G6gMxTUP3XfW9MhQfPTdnx091VQ+1RmaF/RLfxw3NtM+cDK+TjaWsv2fvJarUVxtgmg==;m+HK8dh1I+7b9HoGDeqyjQ=="
 ---

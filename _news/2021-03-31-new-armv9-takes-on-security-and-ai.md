@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-31T11:05:00Z
 originalUrl: "https://www.embedded.com/new-armv9-takes-on-security-and-ai/"
 webUrl: "https://www.embedded.com/new-armv9-takes-on-security-and-ai/"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - AI in Security
+  - AI Hardware
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2021/03/Armv9-features.jpg"
@@ -41,6 +42,20 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/2X6cS0eOkqkYcn-qLYBUSNCJV2o=/0x0:6482x4321/1400x933/filters:focal(2379x1581:3415x2617):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69049709/1146397412.0.jpg"
         width: 1400
         height: 933
+        isCached: true
+  - title: "Arm announces new chip architecture with focus on security and AI"
+    excerpt: "ARMv9 features Confidential Compute Architecture and 'Realms' to shield sensitive data and code from the OS and non-permitted apps"
+    publishedDateTime: 2021-03-31T12:58:00Z
+    webUrl: "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 71
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/8ece23c/12fd245c-d4b2-4b13-8cf6-e20e4f44e631/4/Arm-chip-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
   - title: "Arm Takes On Security, AI With New Chip Architecture"
     excerpt: "Arm has unveiled its first new architecture in more than 10 years, pushing security and AI as potential markets for its processor technology. The new Armv9 architecture will deliver up to a 30 per cent performance boost over the next two chip generations ..."
@@ -100,6 +115,22 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "ARM announces its next-gen ARMv9 architecture: focus on security, AI and vector processing"
+    excerpt: "ARMv9 introduces SVE2, which will be spread across the CPU, GPU and NPU. Matrix multiplication in particular will see a major boost, which is key operation in machine learning. SVE2 will be able to handle vectors ranging from 128 bits to 2,048 bits."
+    publishedDateTime: 2021-03-31T13:05:00Z
+    webUrl: "https://www.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-news-48455.php"
+    ampWebUrl: "https://m.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-amp-48455.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-amp-48455.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 66
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/21/03/arm-v9-announced/inline/-1200/gsmarena_001.jpg"
+        width: 1200
+        height: 589
+        isCached: true
   - title: "Arm’s solution to the future needs of AI, security and specialised computing is v9"
     excerpt: "Arm has introduced the Arm ® v9 architecture in response to the global demand for ubiquitous specialised processing with increasingly capable security and artificial intelligence (AI). Armv9 is the first new Arm architecture in a decade,"
     publishedDateTime: 2021-03-31T08:32:00Z
@@ -138,6 +169,6 @@ related:
       domain: telecompaper.com
     quality: 23
 
-secured: "bQFfpvx35HCOeawQTVCqcDHKF8/GDq7y4kF2HvfYNA3hyW4IdB3NzUBgCnntfeMxpKulaNI6JPFHxF2HuanzxJBcdHFp1qm85Y8X7cNyMgCVmKv740s+6PI0RTbfb6KH4MiqXrA5traYCld82XYMsH4VXenxHKxpbDyxzJyEYFB6N6oh2U69zjTO9jQEmIDHT+f59mT9BSxAWxert0TQ6uIbLm+QWd4ksaKcJOnEQlNqsCK7RencUBmAqJ4Z5r+GgFeUMyV2heTkiIel+iqtnXsJoD6kV3/PJjRexpLKvO7CoIdTb6hByjxai9r3v8o7kR3jHAfshk9mNuQA3wNSQ9G05um9ROjc2+Ecu+qPOwI=;rwAnKanWSZkhI040fEXniA=="
+secured: "JVtillKupaOe8XiA80II0rBGj0kYOCM830+xsOt/TcvU28rm0gHWF+rcOm0oeJzWLnr6xbDC/Cd/vkHwQ2ltlm6kcMVj38ATXiOkE2YNGkRPllW2X6AOnPfE1dLckmCt/p+1ARP4SB7Vj+wPjZQEQpt+SyzRo+CLYHYDBb4yni5LGp3evh8diVCs6senmc9kZKdvLo6aIzeUy/U00PDlaQhd2sHQP+AzY/MGJ9AbfobVmerEaOYjPiCe/qySkV/v6lbGETZpTe1Nf7dkOgx9swswLYnr4iu2o1awMEcikdYz1EyPGIsAGrNt1zq4yySNWLDZeqbWQ7LCeZmq9oMyjH/TBCyiM43HIsT+l0LAL4k5ETDRTmgL7a9LrHxUv3MBd/gYfh7sk+QwtjQGCNBj/INIKQSSm9xDuRK4eQEBk7HLyX4M0vOgZ5mGhfC0akxOWWqiNZg3k4mveiHT0o8VGaIoDg4Sjgec0Qr9qNkbvIyMm736lepKc7bvmQoXXreVNvtPzZa1oaJrTBRE+E/qMQ==;6j2IHM6IijVMFdK+8QjRqQ=="
 ---
 

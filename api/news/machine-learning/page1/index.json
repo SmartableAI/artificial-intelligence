@@ -54,7 +54,7 @@
       "originalUrl": "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -75,6 +75,49 @@
       "provider": {
         "name": "Geektime",
         "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-new-machine-learning-technique-reveals-mutational-signatures-in-cancer-patients.md",
+      "title": "New machine learning technique reveals mutational signatures in cancer patients",
+      "excerpt": "Researchers at the Johns Hopkins Kimmel Cancer Center used machine learning techniques to detect mutational signatures in cancer patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210330/New-machine-learning-technique-reveals-mutational-signatures-in-cancer-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210330/New-machine-learning-technique-reveals-mutational-signatures-in-cancer-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210330/New-machine-learning-technique-reveals-mutational-signatures-in-cancer-patients.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210330/New-machine-learning-technique-reveals-mutational-signatures-in-cancer-patients.aspx",
+      "publishedDateTime": "2021-03-30T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -350,7 +393,7 @@
       "originalUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1413,49 +1456,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-20-solving-barren-plateaus-is-the-key-to-quantum-machine-learning.md",
-      "title": "Solving 'barren plateaus' is the key to quantum machine learning",
-      "excerpt": "Many machine learning algorithms on quantum computers suffer from the dreaded \"barren plateau\" of unsolvability, where they run into dead ends on optimization problems. This challenge had been relatively unstudied—until now.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.html",
-      "originalUrl": "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/solvingbarre.jpg",
-          "width": 700,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-barren-plateaus-key-quantum-machine.amp",
-      "publishedDateTime": "2021-03-19T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

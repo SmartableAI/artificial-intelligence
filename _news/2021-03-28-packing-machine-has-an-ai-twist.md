@@ -112,20 +112,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Global Textile Printing Market Trajectory & Analytics 2021-2024: Digital Printing, Artificial Intelligence and Personalized Clothing"
-    excerpt: "The \"Textile Printing - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global production of printed textiles is projected to reach 36.8 billion square meters by 2024 The market driven by"
-    publishedDateTime: 2021-03-26T19:21:00Z
-    webUrl: "https://www.lelezard.com/en/news-19720254.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
 
 secured: "r21riIYqVCMDH3VCzyw9epjkriYDhATEsKanJFv0qFwZCZOiPzjptwNPpIatUrsscm33tr/j8vEaVYccHfNaScHsG01V6x2HrX62ux+/xqL7zxGh3YBSKZbHSYL5TNc1QMbt8fxjDEUYMmRM0JKsc9rmzNzcR2iooLRoPu076C4kqRm/Ef7/LZi/dFGXTIn4RsgMZh9MEkru6vUkxQRlXE59ibNxe3TX/8GZeVQP8rl66ogSzPM77Rce4nNo/yCSrWaSL1iIhU56gCMZW4RGtIzzLEhA258pmYiSxQKw8RQDQXAd7j6visJHbUbiCEY1J2u3B/l1cFmL6vaUHAUj4dzzpfS89L5OSklIaHs7Kv3ne02Nw2elgTUNuVDrnL55OEBJtM1W8ER6qjAHC3lx080VnyKS7esBZjKL/CnDsBdhLqv1Q7vGn7gTZV+/BhKgs3AAf00KD6YVrNAaa9MavQHZevhyzJD2ySkuHXjmRHp1n55EZFyuWKcucf9dx4Di8tpfkvXrOIpJbuvZqVLnyg==;5zhtgPfFt5pxYlKXCJjeeg=="
 ---

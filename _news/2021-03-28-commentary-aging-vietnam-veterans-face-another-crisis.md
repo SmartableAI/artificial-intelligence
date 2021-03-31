@@ -55,6 +55,20 @@ related:
         width: 990
         height: 660
         isCached: true
+  - title: "Vietnam’s first self-driving car debuts"
+    excerpt: "The vehicle is equipped with some 40 self-driving features of level four as per the standards of the Society of Automobile Engineers (SAE International), in which level five is the highest. It is advertised as an eco-friendly automobile with artificial intelligence (AI) integration as well as smart functions such as 2D/3D maps,"
+    publishedDateTime: 2021-03-30T09:53:00Z
+    webUrl: "https://tuoitrenews.vn/news/society/20210330/vietnams-first-selfdriving-car-debuts/60063.html"
+    type: article
+    provider:
+      name: Tuoi Tre news
+      domain: tuoitrenews.vn
+    quality: 24
+    images:
+      - url: "https://secure3.vncdn.vn/ttnew/r/2021/03/30/car-1-1617098081.jpeg"
+        width: 620
+        height: 423
+        isCached: true
 
 secured: "Z4yeNljRBh3jMQ5zOBP8fvPpyDGWvBOqB0eAN/f2gewcGInJ7xBz2BUBBLEUm0joISk6kO2UZLgyo/PlnDDv6l/bY3RmmQeHRteLT5nPJgHgiIuS03UtvyM+D+u1BDNpGLGwa9tR3CtTg6sxmCAfSywV/sLzp+89hAZI5eZLqVuAqDSDFnDvG9AKaSa/Wnlr1oty87DsqPbo1+S+g3xKs72ZD7H4TjsFZw3EwTIjIRZlXYlI+ysnBDe/ccqAyv0LJEqKB7EodRXG81QTrfjzIssq+CbgsXrU1R6/t6YeKc7szAu1SNkFralg3gGMFKLLb8uEGPoBBBKyk9cGtDjfzA7xk4yOzAp+diiHgwtpNYk=;SRzX9o4qQZnMzppzZRcJeQ=="
 ---

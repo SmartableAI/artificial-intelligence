@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Didi Is Raising Money for Self-Driving Unit at $6 Billion Value"
+    excerpt: "Ride-hailing giant Didi Chuxing is raising new funds for its self-driving unit as China’s answer to ... production of driverless vehicles and invest in technologies like artificial intelligence chips, people said. Plans for the latest fundraising could ..."
+    publishedDateTime: 2021-03-29T10:05:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 169
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if8sWN57UZdA/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Didi seeks to raise $6 billion for its self driving unit: Report"
     excerpt: "Didi Chuxing is apparently raising funds for the growth of its autonomous driving unit. The company is seeking to raise 6 billion US Dollars in an attempt to rival Uber, who is trying to diversify beyond its core businesses ahead of an anticipated initial public offering later this year."
     publishedDateTime: 2021-03-30T10:19:00Z
@@ -37,19 +51,21 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Didi Is Raising Money for Self-Driving Unit at $6 Billion Value"
-    excerpt: "Ride-hailing giant Didi Chuxing is raising new funds for its self-driving unit as China’s answer to ... production of driverless vehicles and invest in technologies like artificial intelligence chips, people said. Plans for the latest fundraising could ..."
-    publishedDateTime: 2021-03-29T10:05:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value"
+  - title: "Scavenger Hunts Via Self-Driving Cars"
+    excerpt: "People use conventional cars for undertaking driving-based scavenger hunts, so it is worth assessing how this might occur in an era of self-driving cars."
+    publishedDateTime: 2021-03-27T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if8sWN57UZdA/v1/1200x800.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff10626b5c1af8e4e22c948%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5753%26cropY1%3D493%26cropY2%3D3730"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
   - title: "How trucks became the next battleground for self-driving technology"
     excerpt: "The transformation involves pulling apart the dashboard, equipping the vehicle with a stack of sensors and computer systems, then installing “a single umbilical” cord to facilitate communication between the vehicle and the self-driving technology,"
@@ -80,6 +96,38 @@ related:
       - url: "https://i.insider.com/601ae2a301504a00197fb6e5?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
+    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google,"
+    publishedDateTime: 2021-03-29T09:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 30
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
+        width: 980
+        height: 512
+        isCached: true
+  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
+    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
+    publishedDateTime: 2021-03-30T00:47:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html?nans"
+    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 30
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
+        width: 980
+        height: 512
         isCached: true
 
 secured: "niRyYFXxRFPvkxifwk5VNQMEDvcu/bmG9QhiuSG2A+Qvb91qtdqC/EcB42i4ExEBWwJC2noJGAM5EETIWxG0pXp9Q8zGrPEAqv0cvJ+ENXZ7idMXbfF5KvchPpkQqcUY2rSQszSin3f1DeruGqFJrJlLU2Ii9eCTERcrzvbrP3rFBCbPpoTenaqfLOZ/CJMuY9byHlio3191ePnfEVNh/S/iwCoFP6bULitTUV6JU7QPTV56fl4rdAfsqy+ePbirJnUYyjaScd65RkG++6w3zvjPE0ER706/EEV85zFlcquzatJOTOpWivAVvLf15C88rsB7F6WIAKzMesA1YMiJkzex2uAO4f+TRsHjNGD0kTs=;gkLm8WOdwSLcbqRUQ4Q7sg=="

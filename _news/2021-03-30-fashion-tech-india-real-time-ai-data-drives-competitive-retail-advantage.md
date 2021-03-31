@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-time-ai-data--drives-competitive-retail-advantage/amp/"
 type: article
 quality: 86
-heat: 87
+heat: 98
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 718
     isCached: true
+
+related:
+  - title: "Indian AI-driven speech recognition firm banks $140m in series D round"
+    excerpt: "For more coverage about the company, head here. You can also click on the link below to view the company’s key details and funding history. Uniphore offers solutions in conversational analytics, security, and as a virtual assistant, that enrich the ..."
+    publishedDateTime: 2021-03-31T13:25:00Z
+    webUrl: "https://www.techinasia.com/indian-aidriven-speech-recognition-firm-uniphore-banks-140m-series-d-round"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 64
 
 secured: "y63sIAGNEEJA1ufjqHEtSAL4q6+tUwCXB6/r8BRTWcq6dwe6KdUVvOJkttJSBdWiNCd6oDWZ7MobYJCmW1h6jGHRfKIg4jpCXMzj9tMeSLmLaMi2GlMO5SL5VkTgNRRQe3BSMjFPEMTDt+Z55hZAP+2WlvsiZ2+MZaPnNDWEDl8u3AYqXYtuSGBZwlCryNDxhPlp+8Uh9v2seeebyGtfH4wCcpeo//jPoIlhXXtV1rNxsEBcyweRCpYjMsCFmV8B4pgjylZWWLcZg38W0TGMfyt/uTLG+I9i4omIyQev0oAIF1VO1y9eGL8FoEuiqbLTu5LK6XV3QPYXHhcuv6sIJoti7AcV2Slf9NLS4teVikZqeAeY8YB9Lb8R6e2IAu9s94RiOku3us9kmekR0vf0bvZredlN0L0ncMVeUFVi+W0ZIqmZgMMyFVFI59nYOuxk8trw1jojDEeZTkdiDTnZQEEF+ZdtnqOPVJLQFr85KFGlLoAWn7oIcgtVXjtCwFK7tGsAMP7kCwVR0a4o2+OYHQ==;l22d4vtjDsewhStktfO92A=="
 ---

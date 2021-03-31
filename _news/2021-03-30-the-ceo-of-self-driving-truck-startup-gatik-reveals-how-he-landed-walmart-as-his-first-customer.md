@@ -28,6 +28,31 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "How early deals with Walmart and Loblaw are helping the self-driving truck startup Gatik make millions in revenue"
+    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the \"middle mile.\" One of Gatik's investors had connected the company with ..."
+    publishedDateTime: 2021-03-31T13:42:00Z
+    webUrl: "https://www.businessinsider.com/gatik-walmart-loblaw-gautam-narang-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
+    images:
+      - url: "https://i.insider.com/60621cdac9d73b00186e8fca?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Wallmart Stock – How Gatik Made Walmart Its First Self-Driving-Truck Customer"
+    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the “middle mile.” One of Gatik’s investors had connected the company ..."
+    publishedDateTime: 2021-03-30T13:37:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_walmart/wallmart-stock-how-gatik-made-walmart-its-first-self-driving-truck-customer/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 1
+
 secured: "0Q5DIwiVDlPSnL3WQfvqJW6h49kV0Tx3UNYIVhoidpQ0WEuS4g+gu3o/Vz9InWNO8QHUDSCqSxAWkzmQEJVSgC1G+5Gm9yme2qiQI3QCCdmyLTb+4riT/mhqLXTbz5obhcJKcb2kEeCoQSpKRGqbNlUjNTWylFzN2jNLu9qS+W+PvhFr06kDgrIx2f1isoemyE5hoy6OTWTguX52AqCm10okDhHg8G1hMUUL6ljQS4my/hnb1CkGUeWCxGvtlkNkd3QiiL5xQfbpX2X3bar4NJa0fLIkKzu4qmgTRg8nbodn714ah9O5rE5bG9GdaxLIp1ojTHSYClPcejGIw00hhQSPBIPDGECF3soCtk+zZODfFmXK9vClS1wSWRwOM7TxofE0xQpRY9aSRGg9chshfC9XN3TkRJVwyXUkUWMyjO05vTP7aStGX9wNCwXvrUqOwkE0MnlJHFCAuhvhOnvUW3JPfxIPRq2rmnAcxwPsl/nWPlDIIVuuGwfX4Rb6YrP3mLQ6g8CiY47awrSgK48whA==;DorNJsgGgs3owHWjmr+zlw=="
 ---
 

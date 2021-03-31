@@ -25,123 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Scavenger Hunts Via Self-Driving Cars"
-    excerpt: "People use conventional cars for undertaking driving-based scavenger hunts, so it is worth assessing how this might occur in an era of self-driving cars."
-    publishedDateTime: 2021-03-27T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
+  - title: "Vietnam’s first autonomous vehicle debuts"
+    excerpt: "The vehicle is equipped with smart functions, artificial intelligence (AI ... Phenikaa's smart autonomous vehicle is driverless and the user can take control of the vehicle via a customised ..."
+    publishedDateTime: 2021-03-29T11:50:00Z
+    webUrl: "https://en.vietnamplus.vn/vietnams-first-autonomous-vehicle-debuts/198264.vnp"
+    ampWebUrl: "https://en.vietnamplus.vn/vietnams-first-autonomous-vehicle-debuts/198264.amp"
+    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/vietnams-first-autonomous-vehicle-debuts/198264.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: VietnamPlus
+      domain: vietnamplus.vn
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff10626b5c1af8e4e22c948%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5753%26cropY1%3D493%26cropY2%3D3730"
-        width: 1200
-        height: 675
+      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2021_03_29/car_1.jpg"
+        width: 640
+        height: 437
         isCached: true
-  - title: "Volvo selects Aurora to help bring self-driving semi trucks to life"
-    excerpt: "Both companies plan to make level 4 self-driving, Class 8 trucks a reality after laying technological foundations for years."
-    publishedDateTime: 2021-03-30T13:30:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/volvo-aurora-self-driving-semi-trucks/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/"
+  - title: "COMMENTARY: Aging Vietnam veterans face another crisis"
+    excerpt: "Thanks to legislative action by Presidents Barack Obama and Donald Trump, March 29 is recognized as National Vietnam War Veterans Day. But recent events have forced concerns about care for"
+    publishedDateTime: 2021-03-28T01:00:00Z
+    webUrl: "https://fredericksburg.com/opinion/commentary-aging-vietnam-veterans-face-another-crisis/article_11cc1add-47a0-5736-9d70-2033e067f170.html"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Fredericksburg.com
+      domain: fredericksburg.com
+    quality: 24
     images:
-      - url: "https://www.cnet.com/a/img/Gj4HZSvkuQkrIiIrXCRL1Yvby_E=/2021/03/30/c02913bb-4957-41a3-991e-fb42e64a5d1e/ogi-volvo.jpg"
+      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/custom/image/c9eb6534-8a48-11e6-84b8-97f84d027fc7.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "New early warning system for self-driving cars"
-    excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial intelligence to learn from thousands of real traffic situations."
-    publishedDateTime: 2021-03-30T14:41:00Z
-    webUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-early-self-driving-cars.amp"
+  - title: "VN’s first autonomous vehicle debuts"
+    excerpt: "Phenikaa Group, a multi-sectoral corporation, has introduced its prototype of a level-4 autonomous vehicle, Vietnam’s first smart self-driving vehicle. The vehicle is equipped with smart functions, artificial intelligence (AI) and advancements such as 2D/3D maps,"
+    publishedDateTime: 2021-03-29T16:12:00Z
+    webUrl: "https://www.phnompenhpost.com/business/vns-first-autonomous-vehicle-debuts"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/newearlywarn.jpg"
-        width: 1280
-        height: 540
-        isCached: true
-  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
-    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google,"
-    publishedDateTime: 2021-03-29T09:47:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 30
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
-        width: 980
-        height: 512
-        isCached: true
-  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
-    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
-    publishedDateTime: 2021-03-30T00:47:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html?nans"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 30
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
-        width: 980
-        height: 512
-        isCached: true
-  - title: "Honda's self-driving car: A smooth ride when all goes right"
-    excerpt: "But with the press of a button the driver was able engage other features, under level 2 self-driving technology -- also known as driver assist technology -- which allowed him to take his hands off the wheel and leave the acceleration and braking to the vehicle."
-    publishedDateTime: 2021-03-27T02:41:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Honda-s-self-driving-car-A-smooth-ride-when-all-goes-right"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
     quality: 24
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F4%252F8%252F0%252F33200840-4-eng-GB%252FCropped-1616582037%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25200003-03-24%252019.22.13%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2592%25E3%2582%259A%25E3%2583%25BC.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/vietnams_first_self-driving_vehicles_prototype_was_displayed_in_front_of_a_conference_building_at_phenikaa_university._viet_nam_news.jpg"
+        width: 990
+        height: 660
         isCached: true
-  - title: "Bespoke simulator to test reactions to self-driving cars"
-    excerpt: "ST Engineering Antycip has provided a simulator, featuring Canon projectors and VIOSO software, to a research unit at Cardiff University looking at human interactions with autonomous vehicles."
-    publishedDateTime: 2021-03-31T10:58:00Z
-    webUrl: "https://www.avinteractive.com/markets/education/regulating-future-key-autonomous-vehicle-research-facilitated-st-engineering-antycip-31-03-2021/"
-    type: article
-    provider:
-      name: avinteractive.com
-      domain: avinteractive.com
-    quality: 24
-    images:
-      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2021/03/Autonomous-Vehicle-Research-Facilitated-by-ST-Engineering-Antycip.jpg"
-        width: 620
-        height: 330
-        isCached: true
-  - title: "Researchers develop new AI based early warning system for self-driving cars"
-    excerpt: "During a recent study, a team of researchers from the Technical University of Munich (TUM) recently developed a new early warning system for vehicles that uses AI to learn from thousands of real traffic situations."
-    publishedDateTime: 2021-03-30T18:13:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210330/3732667.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "6CD0TmEA20guf0wIvVzer7b1BhcyPKhviMkJ7jtITlkJ+UAJr6BsSTGCpsw/tEMsdapodt+JFIAI9lofMxbANInqRp4fZj9FXaBBuRtJgjYx+ysc1EJdbXnRsbFf/CQL7qK9ILUdwhhlpi+BdyvZMHMrBdq9d1zAw74iz3O1Tj+7Iz9Oe+rr2bKuMNTSb8q1jWWmlMqoePArXpjqaobdZ+CM03SE0PCWpw8wNxPZ4LXL0lhoRzlrwDTe1z/UtuJx5nIXl0Scq5s3oclqJyOocSmAyg+MgnIfVH/72Evzh2Ge2y9CbEyk6W36rTTnxJUMc8Gzn+rLU5hs+zoFWZx/iXfy0v4QJyRG9uccLrLI8dqgzwWK7QTul0v/NFsRreSI8jO14w2HskNxGCH1Pekn8sDXwHURaalxsKEGRpwrBDALgHYkxzgFy20is8Z8GRyyDN8U975hS3aJ2/uuwQ0ZSB7DWqupoqgawh1aT0R3zo2RFPJV87wHxhkmbytRqq/PC0n5zpk3wScvHP5lUeU//Q==;XOxVUCBcG9KTYkAuaI5syQ=="
 ---

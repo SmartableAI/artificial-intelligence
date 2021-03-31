@@ -8,8 +8,8 @@ webUrl: "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces
 ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai?amp"
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.marketplace.org/wp-content/uploads/2017/09/GettyImages-813130280.jpg?fit=740%2C411"
@@ -26,6 +27,6 @@ images:
     height: 411
     isCached: true
 
-secured: "4AhOw+WXeoQaYonjfJJvSF3mfsAk01qimwmRTq9kqQM11XYgwzK8v62clM3OfliokmXzHePqlSjtPdfJuIjMbP/OXmKUekQViLZLp6xEXR7RWzt3NAqp6oAPVrY0YHMGs6NkQEo1yCHHsKU1Y/aqUxZfoZRnSrXyUuW6mxlxB+SO8Kd5Og+FaHVIqlz1WJH3TorjyP8a7sOWz80f7YZYQn8wopt3dVrCr9VvF0CaCkC7S+c6JiJfxMgs0wUkKw/CXmMKqO+c3rxowzu3HhT8mhqtE/9S3PclrBhpmXcqTWsTqQW9xr/FMCWLX/kGmO3FdJpFBL8sN3csQlVe1O/yKQxBneLU7cbda80wBY7Phy4=;lBPsShRde8soNsih4hYMQQ=="
+secured: "9BIFX5HuL4SKMiK1bxnxgzgBWjcvIKKz6xbD8tHIPmwl/vdLWdJ88Nu9B7RsTTOBmFD6+1SjsCLdXjyYfYhHlLgFG0dWkcz1jODn4wopTZ1XG0Rt12EWl8kYzBbL0agqgAvo8sSNYrUA6I9MGhg6p1grVdMEVeLUnhfCKU9eyjqZITc/ueIPomCuy96jon64AgvddnwODnOgA3SLv+sA2nZymmMjsd596ZnCQAizoA/TgGCj2dY1t/J7DrTekPILhaFxYW9Zy10Q92sEHJWeXwvYnSQSVli5ibcFT/gl09m0foaklbap2AlaOiqUpTjz4N/niQVMe9PE6/8xH3/ea9aqXvkT2jdhK54/3QtDvt7gKZa9QIvX2t/kJQm1QU0uSmAkjpxsijlLkx4ibQBdsqgdp8Hb8JDpL0kW2N0rvGwq9i0MT+TWuZWd5vldsB63lJEWH6CxWHAs/YH7FpUTNn//x3RVBU6D7s2EbnRfL//kh6k1CNI0KyY0RBOvgBxNQNk8NhiGlBIunebSNxHE6w==;AJi1wsuo5Pxjk2momfoWYA=="
 ---
 

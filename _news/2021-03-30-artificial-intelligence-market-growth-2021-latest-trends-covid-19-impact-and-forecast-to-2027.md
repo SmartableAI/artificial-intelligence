@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China's JD Spins off Cloud and AI Businesses to Fintech Unit"
+    excerpt: "China's JD Spins off Cloud and AI Businesses to Fintech Unit The unit, JD Digits, will issue ordinary shares to JD.com as part of the transaction, taking JD.Com's stake to about 42%. (https://bit.ly/3dkKavz) The plans were originally announced in December ..."
+    publishedDateTime: 2021-03-31T11:09:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-03-31/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "SME-focused fintech acquired by Sage"
     excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
     publishedDateTime: 2021-03-29T07:42:00Z

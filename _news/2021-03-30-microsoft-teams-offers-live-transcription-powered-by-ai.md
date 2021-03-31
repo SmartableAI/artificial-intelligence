@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 753
         isCached: true
-  - title: "How Microsoft Azure is Powering Digital Transformation From the Cloud"
-    excerpt: "Here’s an overview of its journey so far, and how it’s working to boost Microsoft Azure. In FY 2014 (July-June), Microsoft reported that its commercial cloud revenue hit a $4.4 billion annual run-rate."
-    publishedDateTime: 2021-03-26T19:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-microsoft-azure-is-powering-digital-transformation-from-the-cloud-2021-03-26"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
 
 secured: "RdsJUah/kgC/gDPIA/YjiYHi7qonO+mMVGtG1vB0GzYoNNoqmi7Yrs+NWJmOlsOVbnRweiy6sHKfU1WKImi/0iuhwfde18G2kzVcxQ/Ur7NYsIf2ADBgSdx2rocVNDSNW77xOu/3W42bf2AMHeiH2py4h5KZVYSm1eItaqw1QSvd8JwlxbTz5WSCvjnkReZUlgT4x7uVhKedcfxTBdAFlFDu5uZ7UXyFePUUkSP1bXOJtop2BZbdAY24mEAsQwgMjm4LjooKQ2hJkcEBNPkkmfLVDw5xsGZrpa0UC870BQY3t6cmY4frgCFCMmlHKq4cDPPoUfHtXm05JzKJbS3SuRGypkgCEl6kc9MUSueHxWc=;MEOI8n2ENSD0Rh2/ditMOQ=="
 ---

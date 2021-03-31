@@ -8,8 +8,8 @@ webUrl: "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence
 ampWebUrl: "https://www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619767%2Fhealth-monitoring-getty.jpg&w=1200&op=resize"
@@ -46,6 +47,6 @@ related:
         height: 229
         isCached: true
 
-secured: "goxsQw67YKT/jx2zCg8wKAQIODs/wkGhXwCa931YlBzFHeL8KgAo0fOJA+1K+9CJ4b3j7nbs8eU8VgxRZ0Fd6nfdTcFaWVMFhFV6Fc2J3gF5NkL5MK8zCWrCownS6U2sdHUTYbizAXoL5AibacVRFg3SGGjCbu9EpHLs5bMymBs307Wxo/YZY2BE4S5KPu/+8mwX81mfhN71ibWqsykMGWAWr6retYiuPssOYXzL4yxChjz/fGvol2cCMtYw8Q2SKpYrT5X2BZfcLmKJ4130WundnAGAGcUFeWI+D802L44+5I/gahe0BD3xS9n2z+fjIJbiqz5Q0h5N2kMorjGooclnNb777ilU9LiQ+z9sJFw=;a7Mg4ZxDOOgS/eBcVM0BCg=="
+secured: "OLasIm2aBiHIiTv6tAicfR61+ESfR9A5Ffb373UB+aFaIBRSzY+IFPNSQuyMCb9AJF2p+WZc7kB7QwSAcDWZrfg9YmUXbUiJKZNaYF1BrXVkXgfWOp9i/zcM7+e3apWNzouwCJ5LwpT1Nv+xcbUMHiR94TgmwhozepnP5LXZ5bqEUUd49aRXh59tAXUfcAPr28rd+z93/e45fSTUqVo3j/5sQF3TJofiQYoBLVg9S0vxTImkU03HA2iR1p8A3ZA4RoqtIGXIpiWr2KdEy6+MM6VSZ4RREpJICQ1RXcUw5IyH8tn7ZxCYchIIy1vqvX31OcDkKGUYsm0h9BmSeX+XLkpMgChMoEN1oMaQ3UG9hZ6+wyVi3CvDENZ2TbnreWmfAlASx95l/LlpBRVDOJMUj+gEGEwbPe4FTRR92gRsZE65E4YnkHs/k3zNwR0JntuTPyJaa62Df76Kvoe8NjBuSHTzcb8xoYvSNSVNqy20sHUJe5RztJgsNU3Io0/X3gCtVpqVHsA8m/UDiFOEla0lVA==;i70rMqeja6utoQCQVCel9Q=="
 ---
 

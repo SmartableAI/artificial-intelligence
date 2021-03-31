@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Volvo selects Aurora to help bring self-driving semi trucks to life"
+    excerpt: "Both companies plan to make level 4 self-driving, Class 8 trucks a reality after laying technological foundations for years."
+    publishedDateTime: 2021-03-30T13:30:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/volvo-aurora-self-driving-semi-trucks/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/Gj4HZSvkuQkrIiIrXCRL1Yvby_E=/2021/03/30/c02913bb-4957-41a3-991e-fb42e64a5d1e/ogi-volvo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data"
     excerpt: "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ..."
     publishedDateTime: 2021-03-30T17:57:00Z
@@ -35,15 +51,45 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Wallmart Stock – How Gatik Made Walmart Its First Self-Driving-Truck Customer"
-    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the “middle mile.” One of Gatik’s investors had connected the company ..."
-    publishedDateTime: 2021-03-30T13:37:00Z
-    webUrl: "https://fintechzoom.com/fintech_news_walmart/wallmart-stock-how-gatik-made-walmart-its-first-self-driving-truck-customer/"
+  - title: "Who is Austin Russell? 26-Yr-Old Billionaire CEO of Luminar Redefining Self-Driving Technology"
+    excerpt: "Russell founded a business to help self-driving cars avoid collisions and today is one of the most successful entrepreneurs with his company going public last December. Russell owned 105 million shares as of December 2, giving him nearly one third of the ..."
+    publishedDateTime: 2021-03-30T07:41:00Z
+    webUrl: "https://www.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
+    ampWebUrl: "https://amp.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
     type: article
     provider:
-      name: fintechzoom
-      domain: fintechzoom.com
-    quality: 1
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 47
+    images:
+      - url: "https://data.ibtimes.sg/en/full/47811/austin-russell.jpg"
+        width: 826
+        height: 574
+        isCached: true
+  - title: "Volvo partners with California company to deploy self-driving trucks"
+    excerpt: "Volvo Autonomous Solutions has joined with the self-driving company Aurora to develop autonomous highway transport for class 8 Volvo trucks, which are produced in Dublin. Specific models have not been determined, and information about the timeline has not ..."
+    publishedDateTime: 2021-03-30T21:04:00Z
+    webUrl: "https://www.wdbj7.com/2021/03/30/volvo-partners-with-california-company-to-hasten-deployment-of-self-driving-trucks/"
+    type: article
+    provider:
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 24
+    images:
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/bEipmQz_6XBfOwEBSzVFYzKLHTc=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/LUAUJ2IXBVHB5GCAHXXAFTK3JU.jpeg"
+        width: 980
+        height: 623
+        isCached: true
+  - title: "Triad truck builder teams with tech firm to develop self-driving vehicles"
+    excerpt: "A Triad truck maker is collaborating with a technology company to develop self-driving Class 8 on-highway vehicles."
+    publishedDateTime: 2021-03-30T18:32:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2021/03/30/volvo-trucks-working-to-develop-autonomous-trucks.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "Wy2zQ8lo1dOToQUAw+0/9X6FOSN3t0WS/9PF1qNq9q1ENinPygNf46RkAsSflApUHi2etOukH3gRH7quEWMg4+oFPMQdBFoVwKdT8ZRMWtxNRxTF093st01b7ifWplDzYz9PpzeZOHs0txdFNd61oI4opRfZeavoULflkI5bl4TfdkIjlYR2wLYH7cD5nozhS93jGjk98p05qOIDWMijdGn/LlK3yT7MFsAoX7rkf+LHHxbJNdvSx1nBzCH39MURl5vFu9kMy7f+kL7crZDb3sFFtpwmpOif6lw14u3eF6d+3TmcvcIP5fsMvn+d4Y3j9p+CU1fkwaB689g7/Osh4diPazfEkQveoQKZBRsjGuGbSlQky4XSDo5OnMPcBsYiBNBxPnuF2ku0khetVSx1/rHsXgTdl/NNEHpI3Wf/4xoId28B5xD3oNidw2bhwJtoQAyTshFrhEBfTAK+Inn/q7SuFJufZkAyAf66tJlIeqymLKf5Arq5EUAfiCbhdFZ08Pc3DLw97qWAGbxrIQtPeg==;aEi/IH9xiNdvfHGofiEL/w=="
 ---

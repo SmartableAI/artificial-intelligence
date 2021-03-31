@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-analytics-machine-lear
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
 type: article
 quality: 121
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -119,20 +119,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 17
-  - title: "Global Textile Printing Market Trajectory & Analytics 2021-2024: Digital Printing, Artificial Intelligence and Personalized Clothing"
-    excerpt: "The \"Textile Printing - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global production of printed textiles is projected to reach 36.8 billion square meters by 2024 The market driven by"
-    publishedDateTime: 2021-03-26T19:21:00Z
-    webUrl: "https://www.lelezard.com/en/news-19720254.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
-        isCached: true
 
 secured: "BM3ZLDC1T8jYRZMny17qofLkqvx2UtJSzo5jV1QYcYovBlVLV1xEX5lr6vM7Db/xIuPu3B0egkE1lFUalrCzrYHa5H3oqA7AGcqGgFvgs8rXwviUotyMokHoxqUko5h8MuvoCi9NHD1YDUlfxfCiEMZW5BrhDrq20mymJsIDOrCouG2yEpJ3OdKMOH0bF98/ehtJBZG/4kuL1dfZUH48TBD5MHYQAlT3bp2suMeKmLjZCk8xn83sbxixRhRP6Y3hGIvpzS0FvdbNs4hHRhAA00lEjHJGe+GCo5jt/FCBLWI8b/PTEwe8TjKY8R/BE/d/pPFF2KmlVmS4Kk1TaK1RAyIwnEgxUC8HmyOmbFezwsHwQVfVVd4Xtc5ubKPa6NENBcVgiDjA/CHtblUAXqp/RR4G4qr8rxM58LhP1a3mJJ54lHfOn6pVCc4CFD7BBOAr3KXLsbb5zC4WD0s1fLnPWJL90CEMD4qGRUvZRFIeDg4ohW6racbolEFL8ZeNTsviA4/mQUIzEhYZzInU/3x9Sg==;cbcvjRdueyvdI9cwURge/g=="
 ---

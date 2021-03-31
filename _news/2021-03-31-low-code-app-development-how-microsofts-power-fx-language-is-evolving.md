@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/low-code-app-develop
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/low-code-app-development-how-microsofts-power-fx-language-is-evolving/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,16 +47,7 @@ related:
         width: 651
         height: 366
         isCached: true
-  - title: "How Microsoft Azure is Powering Digital Transformation From the Cloud"
-    excerpt: "Here’s an overview of its journey so far, and how it’s working to boost Microsoft Azure. In FY 2014 (July-June), Microsoft reported that its commercial cloud revenue hit a $4.4 billion annual run-rate."
-    publishedDateTime: 2021-03-26T19:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/how-microsoft-azure-is-powering-digital-transformation-from-the-cloud-2021-03-26"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
 
-secured: "79dxcvClO02Qkp3cCahQJxDoQLNTXgayNB7HPitfPxv6kLwD9f7TmEEpe+g493VWjSqT6bMdyZC6kZ3AcPE3ivTOLsj7e47fRhslLrGHO2T5dpsY4Gpz7ZjIZTdMFvKT0cX88cYD+lbbBeBiVzecQAt4Keknb+4UO5UIBcdH0cZDX9J8hvm7zKQU2JkyH90PWbbWmx3HfhJw/yx5oL1yYc29CTQr3sE6b/+b1N5Gbp0S9XIgjoKjjcqm58QiPKWWg4X1d9JRE52B9oK71J3JoMSa7cCd4gmF8lFwPWrn3uiqGPny2VNeYieYN97DdEyGl0aco3InZBiiTraXAVDnABmpwidIt0hLS4P8ze+O4tk=;9JMaqpZMioDPyqncx5uaGw=="
+secured: "ruaSWleDA+PBoblio63hKgd0lB8piL2BUgM90QzpSTPRRBKP/U/f+JrQgMmKXgIiiZ6bROn1S5m0M77LzzIk3e7RqMR/eCHscqeDYh5rLMxx10kfU36qnprCh7AqvpQiZDZB1KiH/U9+h56nE6nDVIV+hEFYhm3JP0ek7iknCC+UjZbNCrK0fQ41BcG8sodGtNARxrouI3Qq9hTmWwJAEMo03uYfFkpiSCCp3yHMa14sRDVxaE+ELxcLmHGaBdu8vPR0XQvSzXvtBkjXwwVHOIyTsf+vsoktXKF08edzpZc9n10muX6hpE57p6PN0U2yVoceQBurupfUwIneejIuPS3/F7lcxsbcnf4DNP1iPaKYnfoj4EQGaKBakli8WhCKqzZX1ii+Y6rTft+QMHfZXoKU4vCbuJqj9gepk9Pbi9SuACqp5VSqMKZhPLLGopkumNjS4up9iPhbkfFQBEfLl6ujSfw/kY51GZ656xYNJ9i004FPxMtkQ9j3pZ5Z7ajMMJtjF3rJOgM0KZ71pkaqTg==;gdMrvUVLsBBG49x0/qS1KQ=="
 ---
 

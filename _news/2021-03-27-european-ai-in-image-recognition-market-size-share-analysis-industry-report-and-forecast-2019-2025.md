@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Cyber Daily: Court Rulings Spur Debate on How European Privacy Law Regulates AI Decisions | Payments Company Investigates Data Breach"
+    excerpt: "Follow us on Twitter: @WSJCyber. AI and Privacy Robots under the privacy microscope: Recent court rulings in the Netherlands raise questions over how European privacy rules intersect with automated technologies and the treatment of personal data ..."
+    publishedDateTime: 2021-03-31T12:21:00Z
+    webUrl: "https://www.wsj.com/articles/cyber-daily-court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-payments-company-investigates-data-breach-11617196841"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 36
+    images:
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence to attract European students to study in Deggendorf"
     excerpt: "The Deggendorf Institute of Technology (DIT) starts the first English-language technical Bachelor's degree programme in Deggendorf: Artificial Intelligence. Prospective students will be able to study Artificial Intelligence (AI) in English as early as October 2021."
     publishedDateTime: 2021-03-29T10:30:00Z

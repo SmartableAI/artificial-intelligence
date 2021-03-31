@@ -36,6 +36,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Arm announces new chip architecture with focus on security and AI"
+    excerpt: "ARMv9 features Confidential Compute Architecture and 'Realms' to shield sensitive data and code from the OS and non-permitted apps"
+    publishedDateTime: 2021-03-31T12:58:00Z
+    webUrl: "https://www.computing.co.uk/news/4029309/arm-announces-chip-architecture-focus-security-ai"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 71
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/8ece23c/12fd245c-d4b2-4b13-8cf6-e20e4f44e631/4/Arm-chip-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Arm Takes On Security, AI With New Chip Architecture"
     excerpt: "Arm has unveiled its first new architecture in more than 10 years, pushing security and AI as potential markets for its processor technology. The new Armv9 architecture will deliver up to a 30 per cent performance boost over the next two chip generations ..."
     publishedDateTime: 2021-03-31T00:58:00Z
@@ -94,6 +108,22 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "ARM announces its next-gen ARMv9 architecture: focus on security, AI and vector processing"
+    excerpt: "ARMv9 introduces SVE2, which will be spread across the CPU, GPU and NPU. Matrix multiplication in particular will see a major boost, which is key operation in machine learning. SVE2 will be able to handle vectors ranging from 128 bits to 2,048 bits."
+    publishedDateTime: 2021-03-31T13:05:00Z
+    webUrl: "https://www.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-news-48455.php"
+    ampWebUrl: "https://m.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-amp-48455.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/arm_announces_its_nextgen_armv9_architecture_with_a_focus_on_security_ai_and_vector_processing-amp-48455.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 66
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/21/03/arm-v9-announced/inline/-1200/gsmarena_001.jpg"
+        width: 1200
+        height: 589
+        isCached: true
   - title: "New Armv9 takes on security and AI"
     excerpt: "Arm has launched its first new architecture in a decade, Armv9, which address security through a new confidential compute architecture (CCA) and the"
     publishedDateTime: 2021-03-31T11:05:00Z
@@ -102,7 +132,7 @@ related:
     provider:
       name: Embedded
       domain: embedded.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.embedded.com/wp-content/uploads/2021/03/Armv9-features.jpg"
         width: 974

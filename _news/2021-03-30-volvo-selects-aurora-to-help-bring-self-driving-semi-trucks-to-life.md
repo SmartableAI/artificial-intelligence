@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: CNET
@@ -31,121 +31,70 @@ images:
     isCached: true
 
 related:
-  - title: "Scavenger Hunts Via Self-Driving Cars"
-    excerpt: "People use conventional cars for undertaking driving-based scavenger hunts, so it is worth assessing how this might occur in an era of self-driving cars."
-    publishedDateTime: 2021-03-27T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/27/scavenger-hunts-via-self-driving-cars/amp/"
+  - title: "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data"
+    excerpt: "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ..."
+    publishedDateTime: 2021-03-30T17:57:00Z
+    webUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/"
+    ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 74
+    quality: 71
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff10626b5c1af8e4e22c948%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5753%26cropY1%3D493%26cropY2%3D3730"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60634716d58e48679eadb421%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 750
         isCached: true
-  - title: "New early warning system for self-driving cars"
-    excerpt: "A team of researchers at the Technical University of Munich (TUM) has developed a new early warning system for vehicles that uses artificial intelligence to learn from thousands of real traffic situations."
-    publishedDateTime: 2021-03-30T14:41:00Z
-    webUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-early-self-driving-cars.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-early-self-driving-cars.amp"
+  - title: "Who is Austin Russell? 26-Yr-Old Billionaire CEO of Luminar Redefining Self-Driving Technology"
+    excerpt: "Russell founded a business to help self-driving cars avoid collisions and today is one of the most successful entrepreneurs with his company going public last December. Russell owned 105 million shares as of December 2, giving him nearly one third of the ..."
+    publishedDateTime: 2021-03-30T07:41:00Z
+    webUrl: "https://www.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
+    ampWebUrl: "https://amp.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 47
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/newearlywarn.jpg"
-        width: 1280
-        height: 540
+      - url: "https://data.ibtimes.sg/en/full/47811/austin-russell.jpg"
+        width: 826
+        height: 574
         isCached: true
-  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
-    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google,"
-    publishedDateTime: 2021-03-29T09:47:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+  - title: "Volvo partners with California company to deploy self-driving trucks"
+    excerpt: "Volvo Autonomous Solutions has joined with the self-driving company Aurora to develop autonomous highway transport for class 8 Volvo trucks, which are produced in Dublin. Specific models have not been determined, and information about the timeline has not ..."
+    publishedDateTime: 2021-03-30T21:04:00Z
+    webUrl: "https://www.wdbj7.com/2021/03/30/volvo-partners-with-california-company-to-hasten-deployment-of-self-driving-trucks/"
     type: article
     provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 30
+      name: WDBJ
+      domain: wdbj7.com
+    quality: 24
     images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/bEipmQz_6XBfOwEBSzVFYzKLHTc=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/LUAUJ2IXBVHB5GCAHXXAFTK3JU.jpeg"
         width: 980
-        height: 512
+        height: 623
         isCached: true
-  - title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
-    excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
-    publishedDateTime: 2021-03-30T00:47:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/culture/2021/03/142_306295.html?nans"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
+  - title: "Mountain View unicorn Aurora Innovation teams with Volvo on self-driving trucks"
+    excerpt: "The companies said they plan to work together on a new lineup of fully self-driving semi trucks that will be deployed in North America on busy hub-to-hub routes."
+    publishedDateTime: 2021-03-30T14:20:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/03/30/aurora-teams-with-volvo-on-self-driving-trucks.html"
     type: article
     provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 30
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/57982a3715e54e889d9b6d017fa9a49a.jpg"
-        width: 980
-        height: 512
-        isCached: true
-  - title: "Honda's self-driving car: A smooth ride when all goes right"
-    excerpt: "But with the press of a button the driver was able engage other features, under level 2 self-driving technology -- also known as driver assist technology -- which allowed him to take his hands off the wheel and leave the acceleration and braking to the vehicle."
-    publishedDateTime: 2021-03-27T02:41:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Honda-s-self-driving-car-A-smooth-ride-when-all-goes-right"
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 15
+  - title: "Triad truck builder teams with tech firm to develop self-driving vehicles"
+    excerpt: "A Triad truck maker is collaborating with a technology company to develop self-driving Class 8 on-highway vehicles."
+    publishedDateTime: 2021-03-30T18:32:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2021/03/30/volvo-trucks-working-to-develop-autonomous-trucks.html"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F0%252F4%252F8%252F0%252F33200840-4-eng-GB%252FCropped-1616582037%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25200003-03-24%252019.22.13%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2592%25E3%2582%259A%25E3%2583%25BC.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Vietnam’s first self-driving car debuts"
-    excerpt: "The vehicle is equipped with some 40 self-driving features of level four as per the standards of the Society of Automobile Engineers (SAE International), in which level five is the highest. It is advertised as an eco-friendly automobile with artificial intelligence (AI) integration as well as smart functions such as 2D/3D maps,"
-    publishedDateTime: 2021-03-30T09:53:00Z
-    webUrl: "https://tuoitrenews.vn/news/society/20210330/vietnams-first-selfdriving-car-debuts/60063.html"
-    type: article
-    provider:
-      name: Tuoi Tre news
-      domain: tuoitrenews.vn
-    quality: 24
-    images:
-      - url: "https://secure3.vncdn.vn/ttnew/r/2021/03/30/car-1-1617098081.jpeg"
-        width: 620
-        height: 423
-        isCached: true
-  - title: "Bespoke simulator to test reactions to self-driving cars"
-    excerpt: "ST Engineering Antycip has provided a simulator, featuring Canon projectors and VIOSO software, to a research unit at Cardiff University looking at human interactions with autonomous vehicles."
-    publishedDateTime: 2021-03-31T10:58:00Z
-    webUrl: "https://www.avinteractive.com/markets/education/regulating-future-key-autonomous-vehicle-research-facilitated-st-engineering-antycip-31-03-2021/"
-    type: article
-    provider:
-      name: avinteractive.com
-      domain: avinteractive.com
-    quality: 24
-    images:
-      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2021/03/Autonomous-Vehicle-Research-Facilitated-by-ST-Engineering-Antycip.jpg"
-        width: 620
-        height: 330
-        isCached: true
-  - title: "Researchers develop new AI based early warning system for self-driving cars"
-    excerpt: "During a recent study, a team of researchers from the Technical University of Munich (TUM) recently developed a new early warning system for vehicles that uses AI to learn from thousands of real traffic situations."
-    publishedDateTime: 2021-03-30T18:13:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210330/3732667.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "ddyGDOK9/4To1XCIU8H41ixVPvRl1h1hGCvIKrnpdg2U9tRC+EYi96pDAwQ+qz2F9llINAMT7kEqkD3SkGOAmAUvQ2FuFQKv8TxDt0g1exuamoko7m0AQSaMoGGoBioYSKzepekH/xh8BxKoG74sDKm1g0FxKWFTpTozYtTeEn9pnPIG2EhnQ/H26wiw2aDL6F4VZ/m/lvHYR8++xH5K/WRCBsKE4oYPGQYe95XFOBSSMJ2Ubcp4HQLwkgHME7uC95gUmKDT6FnT17eaY0tUChQDcZRCIlwh1bwoZEt2rHkagdVqf62tDvasFH+FRrtjy3jII84gLKjga5e9K7NYDQAlkbwuFzi9nZkPcsWp9uA=;9A8Hv9L+TYNDnmwZc1Rdvg=="
 ---

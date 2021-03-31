@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210330/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210330/New-machine-learning-technique-reveals-mutational-signatures-in-cancer-patients.aspx"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: News Medical
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Technique Reveals Cancer Genetic Insights"
+    excerpt: "March 31, 2021 - Machine learning approaches could help detect mutational signatures in patients with cancer, revealing the genetic effects of the underlying contributors to the disease, a study published in eLife revealed. The new technique uses machine ..."
+    publishedDateTime: 2021-03-31T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-technique-reveals-cancer-genetic-insights"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/image_%281%29.png"
+        width: 690
+        height: 400
+        isCached: true
   - title: "New imaging technique can better identify the presence of residual cancers in rectal tissues"
     excerpt: "Rectal cancer, along with colon cancer, is the third-most common type of cancer in the United States, and treatment and surgery greatly affect the quality of life of patients."
     publishedDateTime: 2021-03-26T23:27:00Z

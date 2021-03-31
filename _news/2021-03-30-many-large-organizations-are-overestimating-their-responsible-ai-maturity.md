@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20401331"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20401331"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,24 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Companies are overestimating how responsible they’re being with AI"
+    excerpt: "Steven Mills, BCG GAMMA's chief ethics officer, says of the survey results: The results were surprising in that so many organizations are overly optimistic about the maturity of their responsible AI implementation. While many organizations are making ..."
+    publishedDateTime: 2021-03-31T12:00:00Z
+    webUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai"
+    ampWebUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2020-04/ethics.png"
+        width: 1404
+        height: 930
+        isCached: true
 
 secured: "KUXjMz/b/uWyfcoLIczI2Xo5XF1Hz+ZQqa9Sm96S3xscjwd0oOZdtj0Bsvkh8pO7+EsgCaLOkFL4igP8n1jGSKSuuN/e6jYy8BPat0PqTKqhcwvCma6QubH4K2yRyHw0qShX3WstriTOVcVKqtlAbx6sCE/lVuGEJHmw5N889kCvHLgUmXwOKHzvZAl3tHo2nNOn3at9rDZel4YK8P/VEJKh5AUAM4t0V1/NGR5qYK6RQhgkEyORDbwcuCkxkzcINKFG5+6lJ4a3rhMC4pDC4bJ3xR4Cg+qcwlVi2j4SAeOU5EeDEyNXq0q+XtBHckIKDloQuX8iXkvHwPQyMGK2SacYKetJkrZBF4LIyWTILrE=;zkc363dx2DqQIgfX2tCCdw=="
 ---

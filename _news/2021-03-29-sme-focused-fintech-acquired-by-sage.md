@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "China's JD Spins off Cloud and AI Businesses to Fintech Unit"
+    excerpt: "China's JD Spins off Cloud and AI Businesses to Fintech Unit The unit, JD Digits, will issue ordinary shares to JD.com as part of the transaction, taking JD.Com's stake to about 42%. (https://bit.ly/3dkKavz) The plans were originally announced in December ..."
+    publishedDateTime: 2021-03-31T11:09:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-03-31/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
   - title: "Emotion Detection and Recognition Market worth $37.1 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a new market research report \"Emotion Detection and Recognition Market by Component (Solutions [Facial Expression"
     publishedDateTime: 2021-03-29T13:00:00Z

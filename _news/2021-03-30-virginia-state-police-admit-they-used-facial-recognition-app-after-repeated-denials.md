@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
+    excerpt: "Last month, Virginia lawmakers quietly passed one of the most restrictive bans in the country on the use of facial recognition technology. The legislation, which won unusually broad bipartisan support, prohibits all local law enforcement agencies and ..."
+    publishedDateTime: 2021-03-30T23:52:00Z
+    webUrl: "https://www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/"
+    ampWebUrl: "https://www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/?amp"
+    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/?amp"
+    type: article
+    provider:
+      name: NBC Washington
+      domain: nbcwashington.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/media.nbcwashington.com/2021/03/AP_21086596693454.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "CfO+iXGjSnDpO93kvTINbsABb+9gfIBbe7zJrYrBlG9QIjVQCFSQGb4VYthMIYMrX5S5NqF3S+422uF1kxci+7uzEMjdfazvR0uOqGZslLk3C2iCFInDGbf/dNBLOJL2p0/rQ4SFUqD9ETI3G1pXS5+fq3utph0Xb0w3Xyt1gdQ5JWWGdSoPz/3d+hDTD/Jou1zk7T2uHJJ9py/BpvbDtcmJM4ZLVbJebkCU1goXIJL+nViRj2J1QTNvqqMgbR5/dcfS096ZL/O7tKV/O5YdZBsrc+7axbAO+z2TGnuLknu5QWavx3um/sLMQqRHqq4YztOQ7BgDxtDx++gBwLCakz/u5EvwvtZcuFWecdd9Lzj0Y4DV7G1QDenv+IQo5f+ak/ccSVhXmHhGPEhX027EIA89snUUrtmuhTu5E0eNheqQzwfKi3lf0F4qiavK/Rd4WqqOIaHwqYDDPvPV0ZxYBZ0PKqWInKaxb+jfISssA4naQbAP7sYI5yUyF+fYxvESg7EpEDBG/b64y6JoWutpXg==;Qy4MLa0mfVpOdRHU/z3StQ=="
 ---

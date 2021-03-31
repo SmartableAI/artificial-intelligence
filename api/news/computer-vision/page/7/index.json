@@ -2,6 +2,83 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-29-facial-recognition-now-used-for-border-screenings-at-msp-airport.md",
+      "title": "Facial recognition now used for border screenings at MSP Airport",
+      "excerpt": "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals.",
+      "sourceUrl": null,
+      "webUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
+      "originalUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcxODMyMjYyNjQ2NTcyMzU0/1024px-msp_airport_-_view_from_the_observation_deck_8487245657.jpg",
+          "width": 620,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
+      "cdnAmpWebUrl": "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
+      "publishedDateTime": "2021-01-28T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bring Me The News",
+        "domain": "bringmethenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-cyberlink-faceme-tops-facial-recognition-vendor-test.md",
+      "title": "CyberLink FaceMe® Tops Facial Recognition Vendor Test",
+      "excerpt": "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, and developer of the FaceMe® AI facial recognition algorithm, achieved a top six ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210128005032/en/CyberLink-FaceMe®-Tops-Facial-Recognition-Vendor-Test/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210128005032/en/CyberLink-FaceMe®-Tops-Facial-Recognition-Vendor-Test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-the-next-target-for-a-facial-recognition-ban-new-york.md",
       "title": "The Next Target for a Facial Recognition Ban? New York",
       "excerpt": "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell.",
@@ -1281,101 +1358,6 @@
         "name": "Digital Photography Review",
         "domain": "dpreview.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-transforming-cpg-inventory-management-with-augmented-reality-computer-vision.md",
-      "title": "Transforming CPG Inventory Management with Augmented Reality & Computer Vision",
-      "excerpt": "Computer Vision AI and AR-powered visual assistance provide remote “eyes” that enable field and store employees to receive guidance on product placement and verify that shelf space is optimized, in human-assisted or self-service modes. They can quickly ...",
-      "sourceUrl": null,
-      "webUrl": "https://customerthink.com/transforming-cpg-inventory-management-with-augmented-reality-computer-vision/",
-      "originalUrl": "https://customerthink.com/transforming-cpg-inventory-management-with-augmented-reality-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://customerthink.com/wp-content/uploads/turn-on-2917049_1280-pixabay-marketing-technology.jpg",
-          "width": 1280,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CustomerThink",
-        "domain": "customerthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users.md",
-      "title": "Facebook AI Gets Better at Describing Photos for Visually Impaired Users",
-      "excerpt": "In an effort to better accommodate users who are blind or visually impaired, Facebook this week updated its automatic alternative text (AAT) technology. The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018),",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/363767",
-      "originalUrl": "https://www.entrepreneur.com/article/363767",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611158780-03y4aZSGaxg8n0A3gIm3L57-11611143412fit-limfit-limsize-1696x.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/363767",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363767",
-      "publishedDateTime": "2021-01-20T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

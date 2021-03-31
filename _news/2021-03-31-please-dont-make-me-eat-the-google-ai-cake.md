@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-18465
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/please-dont-make-me-eat-the-google-ai-cake-1846584442/amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

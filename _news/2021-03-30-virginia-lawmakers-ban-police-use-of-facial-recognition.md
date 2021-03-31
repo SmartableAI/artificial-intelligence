@@ -9,8 +9,8 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: ABC
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
+    excerpt: "Last month, Virginia lawmakers quietly passed one of the most restrictive bans in the country on the use of facial recognition technology. The legislation, which won unusually broad bipartisan support, prohibits all local law enforcement agencies and ..."
+    publishedDateTime: 2021-03-30T23:52:00Z
+    webUrl: "https://www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/"
+    ampWebUrl: "https://www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/?amp"
+    cdnAmpWebUrl: "https://www-nbcwashington-com.cdn.ampproject.org/c/s/www.nbcwashington.com/news/local/virginia-lawmakers-ban-police-use-of-facial-recognition/2623284/?amp"
+    type: article
+    provider:
+      name: NBC Washington
+      domain: nbcwashington.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/media.nbcwashington.com/2021/03/AP_21086596693454.jpg?quality=85&resize=1200%2C675&strip=all&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Virginia State Police admit they used facial recognition app after repeated denials"
     excerpt: "The agency said investigators signed up for free trials of Clearview without their bosses knowing — a similar explanation to one given by Virginia Beach police recently."
     publishedDateTime: 2021-03-30T14:04:00Z
