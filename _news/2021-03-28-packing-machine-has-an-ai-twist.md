@@ -112,20 +112,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "This Mumbai-based Social Analytics Startup Uses AI To Optimise Customer Engagement"
-    excerpt: "Locobuzz enables brands to forge strong relationships with their customers using artificial intelligence, machine learning, big data and analytics."
-    publishedDateTime: 2021-03-26T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/this-mumbai-based-social-analytics-startup-uses-ai-to-optimise-customer-engagement/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 31
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Story-of-Locobuzz.png"
-        width: 1600
-        height: 1280
-        isCached: true
   - title: "Global Textile Printing Market Trajectory & Analytics 2021-2024: Digital Printing, Artificial Intelligence and Personalized Clothing"
     excerpt: "The \"Textile Printing - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global production of printed textiles is projected to reach 36.8 billion square meters by 2024 The market driven by"
     publishedDateTime: 2021-03-26T19:21:00Z

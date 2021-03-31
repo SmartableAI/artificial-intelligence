@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning and Artificial Intelligence in Food Market: Indoor Applications Projected to be the Most Attractive Segment during 2021-2029"
-    excerpt: "Machine Learning and Artificial Intelligence in Food market. This informative data has been scrutinized by using effective methodologies such as primary and secondary research techniques. This research report estimates the scale of the global Machine Learning and Artificial Intelligence in Food market over the upcoming year."
-    publishedDateTime: 2021-03-26T09:40:00Z
-    webUrl: "https://ksusentinel.com/2021/03/26/machine-learning-and-artificial-intelligence-in-food-market-indoor-applications-projected-to-be-the-most-attractive-segment-during-2021-2029/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 19
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/Market-Research1-62.jpeg"
-        width: 780
-        height: 470
-        isCached: true
 
 secured: "p5x2PoNCOhmca6154VbAnEdIaTuCO/9Ns0lUjnymZZdhG6o0xHtjAhLGv45L18N/vg1DfSFjJ7CfNmuQEIeucnu+mMCysN/rfNgICfl6zI1JvGqH20xv6k81WIlBagccMO97eURoMb49BhAPO9peMWIYYSNaY1Bk1x20oRAAHuCldE37igNKThcNEQJFX857Sq2MT8YiKDIiRBINGQgh8dpAS3j8FB2AtG8rBIvPyGLXibrK2OTfTXOBFZTKrLGT+c2GUQXs2RIQL6AEQ0X/9puJ4SrrFtW47M0XOoXa91MnwnzwsCbQH9KneoBYEspZLZHiztWHA3kROk1lEssf7HHVQVrmGWdniDFDjHW0BUuA0R7AZyj2fITlf+WK8bcqxr4X5/P8EXi4xRDgpQyP7MnRqznYQaZwfMhYlNgNcGhHFZ1Ic+OQc6c9gTTGks5tnzcS2ptl/YV7XsW/TD6Ld+5y6XB4TKszQCV+54iA2bRc/wPeifiq/N47SiIP/skS/+WECZlTnW/4Hnp/d6fZkA==;MdFZBAwk4yaYgXxVMRroQQ=="
 ---

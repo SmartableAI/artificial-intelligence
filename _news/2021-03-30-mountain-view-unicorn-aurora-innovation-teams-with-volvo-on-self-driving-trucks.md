@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Wallmart Stock – How Gatik Made Walmart Its First Self-Driving-Truck Customer"
+    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the “middle mile.” One of Gatik’s investors had connected the company ..."
+    publishedDateTime: 2021-03-30T13:37:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_walmart/wallmart-stock-how-gatik-made-walmart-its-first-self-driving-truck-customer/"
+    type: article
+    provider:
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 1
 
 secured: "Wy2zQ8lo1dOToQUAw+0/9X6FOSN3t0WS/9PF1qNq9q1ENinPygNf46RkAsSflApUHi2etOukH3gRH7quEWMg4+oFPMQdBFoVwKdT8ZRMWtxNRxTF093st01b7ifWplDzYz9PpzeZOHs0txdFNd61oI4opRfZeavoULflkI5bl4TfdkIjlYR2wLYH7cD5nozhS93jGjk98p05qOIDWMijdGn/LlK3yT7MFsAoX7rkf+LHHxbJNdvSx1nBzCH39MURl5vFu9kMy7f+kL7crZDb3sFFtpwmpOif6lw14u3eF6d+3TmcvcIP5fsMvn+d4Y3j9p+CU1fkwaB689g7/Osh4diPazfEkQveoQKZBRsjGuGbSlQky4XSDo5OnMPcBsYiBNBxPnuF2ku0khetVSx1/rHsXgTdl/NNEHpI3Wf/4xoId28B5xD3oNidw2bhwJtoQAyTshFrhEBfTAK+Inn/q7SuFJufZkAyAf66tJlIeqymLKf5Arq5EUAfiCbhdFZ08Pc3DLw97qWAGbxrIQtPeg==;aEi/IH9xiNdvfHGofiEL/w=="
 ---

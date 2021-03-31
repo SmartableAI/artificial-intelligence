@@ -3,8 +3,8 @@ category: news
 title: "Inside this AAA-rated manager's self-driving car focused AI portfolio"
 excerpt: "LFDE’s Rolando Grandi outlines why he has increased exposure to autonomous cars and delves into the reasons human-led driving will become a recreational activity."
 publishedDateTime: 2021-03-30T08:22:00Z
-originalUrl: "https://citywireselector.com/news/inside-this-aaa-rated-managers-self-driving-car-focused-ai-portfolio/a1475491?assetClassID=1"
-webUrl: "https://citywireselector.com/news/inside-this-aaa-rated-managers-self-driving-car-focused-ai-portfolio/a1475491?assetClassID=1"
+originalUrl: "https://citywireselector.com/news/inside-this-aaa-rated-managers-self-driving-car-focused-ai-portfolio/a1475491"
+webUrl: "https://citywireselector.com/news/inside-this-aaa-rated-managers-self-driving-car-focused-ai-portfolio/a1475491"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 520
     isCached: true
 
-secured: "geSMr1CMR/Ztpb4zIPFlqIGAfMiXHxbwO08M1IFeZb9oMszYh5mYOi3CtqN8soMitEqpC7nkETNyYvOMzgW9nTudzKlks16BysjFc4bvn6Xf76WXQV5RDoEa5MrAAvPkbu2r3puXAoFK1vzblNQk332v0wm9IZL2ZAOFMsajeNpoFOt4eUnSUKQ4RYiU5qK8Sk7zFT0N+3nEjz7RJMcU46p4WdAouyctkami/3BvZp7CMyYVQP81sLMTXrswZnE3ueyVIVs1FKAlEnvfVRiLBQWdGtMzomOhrckLMAbizSMiCByF7UMvraPzLuwwFqDAzz3y35beXdiLZ6M0GSaQGif/0UPrp8/uCYuN7E1KYr8=;c43Vp7QjmgVqlwbDD15sLQ=="
+secured: "rSqqdJzsykm22gB4HyOrBbYC8H+bR6k/TZN9E/m7JCt5is0ggT416r8LPJhu6lrCMsuvJcgwGseb+DrcW6543IamO+z7FmG6OKC0RNWQ70YrKlm3koR4+EkPCoe68Pi41AJztph3MpiYqTUjBfclvBe2RnV9xJWVMX7Qj5/SyvUt6mbf1SPs5DwV7yr9iTQYracTffPgAQM3wJ65G0UpV0w197b4rEpXDWJZjsTu0gSxugt1dnpFUIPUpRSialAzDwCP/l7diJ5C0kSUhGJ58xgksc3DnsFBbmY2RgPCjTxzWMJI2fissTIiOIFasJ+Z9O4AoPcd4BstQAxKcdqwiKjNnckH8gHaZMMuzK4p4lI=;rq7V9Hjc5DFpci1rAA1PKA=="
 ---
 

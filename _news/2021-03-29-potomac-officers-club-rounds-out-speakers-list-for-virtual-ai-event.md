@@ -38,20 +38,6 @@ related:
         width: 272
         height: 270
         isCached: true
-  - title: "Potomac Officers Club to Feature Yll Bajraktari as Keynote Speaker at 3rd Annual Artificial Intelligence Summit on March 30th"
-    excerpt: "During Potomac Officers Club’s 3rd Annual AI Summit, notable federal and industry leaders will meet to discuss how to advance technology at speed and how private-public partnerships are critical to maintaining the technology race’s competitive advantage."
-    publishedDateTime: 2021-03-26T10:13:00Z
-    webUrl: "https://www.govconwire.com/2021/03/potomac-officers-club-to-feature-yll-bajraktari-as-keynote-speaker-at-3rd-annual-artificial-intelligence-summit-on-march-30th/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 10
-    images:
-      - url: "https://govconwire-media.s3.amazonaws.com/wp-content/uploads/2021/03/26055817/Potomac-Officers-Club-to-Feature-Yll-Bajraktari-as-Keynote-Speaker-at-3rd-Annual-Artificial-Intelligence-Summit-on-March-30th.png"
-        width: 272
-        height: 270
-        isCached: true
   - title: "Potomac Officers Club to Feature Hon. Susan Gordon as Keynote Speaker at 3rd Annual Artificial Intelligence Summit on Tuesday"
     excerpt: "During Potomac Officers Club’s 3rd Annual AI Summit, notable federal and industry leaders will meet to discuss how to advance technology at speed and how private-public partnerships are critical to maintaining the technology race’s competitive advantage."
     publishedDateTime: 2021-03-29T09:51:00Z

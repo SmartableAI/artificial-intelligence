@@ -67,22 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech will be the silver bullet for growth in 2021"
-    excerpt: "The fintech sector has facilitated business growth during the pandemic. What seemed like an option in 2019, has become an imperative. There has been a clear shift of digital payments from a nice idea to an essential service."
-    publishedDateTime: 2021-03-26T09:36:00Z
-    webUrl: "https://www.thehindubusinessline.com/money-and-banking/fintech-will-be-the-silver-bullet-for-growth-in-2021/article34169280.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/money-and-banking/fintech-will-be-the-silver-bullet-for-growth-in-2021/article34169280.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/fintech-will-be-the-silver-bullet-for-growth-in-2021/article34169280.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://www.thehindubusinessline.com/money-and-banking/7t7llp/article34169279.ece/ALTERNATES/LANDSCAPE_615/bl26fintech1"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Artificial Intelligence in Military Market by Offering, Technology, Application, Installation Type, Platform and Region - Global Forecast to 2025"
     excerpt: "The \"Artificial Intelligence in Military Market by Offering (Software, Hardware, Services), Technology (Machine Learning, Computer vision), Application, Installation Type, Platform, Region - Global Forecast to 2025\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-03-26T11:56:00Z

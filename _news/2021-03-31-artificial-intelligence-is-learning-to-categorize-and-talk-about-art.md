@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/evaamsen/2021/03/30/artificial-intellig
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evaamsen/2021/03/30/artificial-intelligence-is-learning-to-categorize-and-talk-about-art/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

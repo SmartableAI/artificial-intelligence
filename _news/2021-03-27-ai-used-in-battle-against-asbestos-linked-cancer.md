@@ -39,22 +39,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI used in battle against asbestos-linked cancer"
-    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI) to study an aggressive form of cancer, which could improve patient outcomes."
-    publishedDateTime: 2021-03-26T10:00:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-ai-asbestos-linked-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-ai-asbestos-linked-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-ai-asbestos-linked-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificialin.jpg"
-        width: 2880
-        height: 1616
-        isCached: true
   - title: "AI used in battle against asbestos-linked cancer, says new research"
     excerpt: "“Using AI to interrogate genomic ‘big data’, this initial work ... chemotherapy was the only licenced choice for patients with mesothelioma. However, treatment options start to become limited once people stop responding to their treatment."
     publishedDateTime: 2021-03-26T11:47:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://starctmag.com/wp-content/uploads/2021/03/AI-used-in-battle-against-asbestos-linked-cancer-says-new-research.jpg"
         width: 770
         height: 433
-        isCached: true
-  - title: "Researchers use artificial intelligence in battle against asbestos-linked cancer"
-    excerpt: "International genomics research led by the University of Leicester has used artificial intelligence (AI) to study an aggressive form of cancer, which could improve patient outcomes."
-    publishedDateTime: 2021-03-26T09:10:00Z
-    webUrl: "https://www.aninews.in/news/science/researchers-use-artificial-intelligence-in-battle-against-asbestos-linked-cancer20210326164008/"
-    type: article
-    provider:
-      name: Asian News International
-      domain: aninews.in
-    quality: 49
-    images:
-      - url: "https://aniportalimages.s3.amazonaws.com/media/details/ai_oct10_asdfhhasdfhdsf_mXMGzvD.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "AI might prove helpful against asbestos-linked cancer"
     excerpt: "These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer ... genomics research led by the University of Leicester used artificial intelligence (AI) to study an aggressive form of cancer, which could be helpful in ..."

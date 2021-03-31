@@ -110,20 +110,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "This Mumbai-based Social Analytics Startup Uses AI To Optimise Customer Engagement"
-    excerpt: "Locobuzz enables brands to forge strong relationships with their customers using artificial intelligence, machine learning, big data and analytics."
-    publishedDateTime: 2021-03-26T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/this-mumbai-based-social-analytics-startup-uses-ai-to-optimise-customer-engagement/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 31
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Story-of-Locobuzz.png"
-        width: 1600
-        height: 1280
-        isCached: true
   - title: "Packing machine has an AI twist"
     excerpt: "A robotic fruit packing machine that uses artificial intelligence could be adapted to harvesting in rural and regional Australia. The machine uses computer vision to identify a fruit variety and its size,"
     publishedDateTime: 2021-03-28T13:15:00Z
@@ -148,6 +134,6 @@ related:
         height: 421
         isCached: true
 
-secured: "k5kgLvgVmP4eZ3ar/fF1cB8V5efY4Wh7Q/blue71y/hYCjRIQZA4SqnV6zSyMvnlmQo7hv0Aesgqe6jg2O+hsGXAp26lvKUcwhlZI1Q/WTd2JAaGaiItlKWmSsoGlAUPDd5CuYlRmV7/ITtHJOxV71fju2TMBxbuVLveiGNyflXjCw3IdqUtH0qMuqPuLK/4rdtvSg0IPy99UNrZpbrxn3L6SEOEM608XOytkYoJspbwC/iopaDc3cFoyyamulYtq8GU7+7Z3GefLKoo+97er8lMpD7nSXvJjAppIpuyXBA4nN+U8ir3UdZf0sBhLKFDb9LSTPrSl7lu8dGtA9MMZ4SQqABbVj9/88BdQpqiPCk=;VUNN7+KhVL2gx9nmwwqWTA=="
+secured: "dlXAYVKrTB8ir/zrhgXaYM5vCxBzXx4ba+7YLEKSbH5NBS9o5WX9vshFjHgm26x7c95aU1jon3dFd4O26+MBHzMQcQmr8Fqmcvk+ZiKLCWvVUiwel9iLkePhOOr/xjrGNqyrA02uOikVfte9frwORnk2RNj+jZ42AHwZqmIdfrqwitqlJW5kDjpsD8HbKAFL8tTodViqjMmgaHEHnsA+vMdJM7H0yP58D64XeVon6KYxTTdOks4lv4rYesWUaTVVW8rdD63mwTO65XBZxxyyf93G7aWVZNuQ/48FbC3ZvPsxAivmzb/glhUFokG4h4b1cwZq1lNR+LpXagws2DL8bXt5S5kCqMVX53vxSpzplJ2s9iTyaVGNHq8gBhBLhGtK5U1sX9Vni2bhqZSW01y3X58pVoTz6+LS9rtAzFqC4a2rtaOtjoxIUZkCE5WDRwUYHBPgy4w4eazTXAw3ALasFyT/Fu0JwP90iWBJTahyxDxn3w9e1puQ/jKW6qrSZYQQ2RaSvIoDGfA9poPFPiGv9g==;pN/2rq/be3tLDZ1smA0jWQ=="
 ---
 

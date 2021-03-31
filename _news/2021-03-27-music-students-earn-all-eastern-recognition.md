@@ -25,19 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Area Students Earn All-State Speech Recognition"
-    excerpt: "Several area high school students have earned the highest possible honor in speech competitions. The Iowa High School Speech Association announced All-State nominations from individual performances. The following area students were honored: Johanna Leonard,"
-    publishedDateTime: 2021-03-28T09:45:00Z
-    webUrl: "https://www.kniakrls.com/2021/03/28/area-students-earn-all-state-speech-recognition-2/"
+  - title: "Two Top Tampa Bay Top Workplaces earn national recognition"
+    excerpt: "Two Tampa Bay companies that have routinely topped the Tampa Bay Times Top Workplaces lists can add a new distinction to their mantel. They’re now two of the top companies to work at nationally, according to a new ranking."
+    publishedDateTime: 2021-03-26T15:00:00Z
+    webUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/"
+    ampWebUrl: "https://www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/03/26/two-top-tampa-bay-top-workplaces-earn-national-recognition/?outputType=amp"
     type: article
     provider:
-      name: KNIA-KRLS
-      domain: kniakrls.com
-    quality: 39
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 44
     images:
-      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1072/2019/02/01104635/ihssa.jpg"
-        width: 1000
-        height: 667
+      - url: "https://www.tampabay.com/resizer/UZoq5LDsa2lXcp2UmICszQUswgU=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/T3OTOREYRFAX5EJUWKNCEAQ4MQ.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Bruddah Iz receives national recognition"
+    excerpt: "Driven primarily by Iz’s angelic voice and ukulele playing, the song is melancholic and joyous at once,” the registry states. “Taken from Iz’s album ‘Facing Future’ — the first Hawaiian album ever certified platinum — this single was an ..."
+    publishedDateTime: 2021-03-30T10:05:00Z
+    webUrl: "https://www.hawaiitribune-herald.com/2021/03/30/features/bruddah-iz-receives-national-recognition/"
+    ampWebUrl: "https://www.hawaiitribune-herald.com/2021/03/30/features/bruddah-iz-receives-national-recognition/amp/"
+    cdnAmpWebUrl: "https://www-hawaiitribune--herald-com.cdn.ampproject.org/c/s/www.hawaiitribune-herald.com/2021/03/30/features/bruddah-iz-receives-national-recognition/amp/"
+    type: article
+    provider:
+      name: Hawaii Tribune-Herald
+      domain: hawaiitribune-herald.com
+    quality: 44
+    images:
+      - url: "https://www.hawaiitribune-herald.com/wp-content/uploads/2021/03/web1_IZ-Surfboard_1200px-1-.jpg"
+        width: 760
+        height: 760
+        isCached: true
+  - title: "Danville Utilities receives national recognition"
+    excerpt: "Danville Utilities has earned a “Platinum” level designation as a Reliable Public Power Provider (RP3) from the American Public Power Association for providing customers with reliable and safe electric service."
+    publishedDateTime: 2021-03-26T15:46:00Z
+    webUrl: "https://www.chathamstartribune.com/news/article_6a01475a-8e4a-11eb-90f0-2716a67d70fa.html"
+    type: article
+    provider:
+      name: Chatham Star Tribune
+      domain: chathamstartribune.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/chathamstartribune.com/content/tncms/assets/v3/editorial/6/23/6235a728-bfa1-11ea-a2dd-4f5884047391/603fbac656bbe.image.jpg?resize=470%2C245"
+        width: 470
+        height: 245
         isCached: true
 
 secured: "WBdVST+7FSakkb6AmiaPRsQ9SR2GvfAkKtjR1r1zDhFEyzz3wXdqAxS/8X5gSXRBD3zFUm5PlxB7GpaKpU81fZKXl7JPA2dPJqbB3MU1G1Lsn/AGQ6DTPPuJIphRdD2HFtb3uolxTSAqLsPyUOloxdUAXfgJ0VTKrnWXU2UKWdbGXmTQCJDnORm53EdgaQyUuroY4O/GZjBRq9hYTCORW4bAnOsNrPeWaKxVogU3B4XseWk6lIyCM6qJ5cYF88lHMN4QXmnuUdY4TL1TbIlRYNPaqg9N7pSGtPAcJgVpiySTgoKsge+Bme/1fxgsGdv/gB65fNFjFmY+ZxpDzbC6aUBLXj7oCuVuGRHY+y0la86Ok5KS8RR+tqNMxCZR4Tsh5cgSChDGMml0fhtoHA6s5FV+6rj9YujHRUHq7rzqWxl/oQE3N3QVQ0e0HNRf3RQnghleDhZJ821L6n7Go/O7wyYNsSyE6yBNp437XwuJu5r4bxsMAmYAyvuU/LllsGmf2+CdSqSuwB+8bJ0QtNT8ow==;OM0+WcpMczFW7KH+CAYduQ=="

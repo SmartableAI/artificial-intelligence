@@ -47,22 +47,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Andrew Ng: Forget about building an AI-first business. Start with a mission."
-    excerpt: "AI pioneer Andrew Ng reflects on how companies can use machine learning to transform their operations and solve critical problems."
-    publishedDateTime: 2021-03-26T09:10:00Z
-    webUrl: "https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/"
-    ampWebUrl: "https://www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/26/1021258/ai-pioneer-andrew-ng-machine-learning-business/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 54
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/03/AndrewNg-05.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Get the training you need to become adept at AI and Machine Learning"
     excerpt: "The first class will give you the foundations you need when it comes to artificial intelligence and machine learning. Over the course of 72 lectures, this course provides the basics of Deep Learning by giving an insight of different neural networks."
     publishedDateTime: 2021-03-28T20:14:00Z
@@ -76,20 +60,6 @@ related:
       - url: "https://www.popsci.com/app/uploads/2021/03/23/sale_25319_article_image-1024x683.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Informatica Wins Industry Accolades for Cloud Innovation, AI, and Data Privacy Excellence"
-    excerpt: "Informatica, the enterprise cloud data management leader, announced a Gold and several Silver wins in the Globee 17th Annual 2021 Cyber Security Global Excellence Awards. Informatica was the Gold award winner in the Privacy Solutions category,"
-    publishedDateTime: 2021-03-26T10:07:00Z
-    webUrl: "https://www.lelezard.com/en/news-19717475.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 30
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "Zax1NrpVOoG8nWkFUaIFckJHHu5PTMhpKGIn+vlEZzustHeDrHJNMIGZwXMQbmllX4chbq7AEJUQVKK2fiJ2UduEhG1VEoucjBbbkhlGlHryQkuUZnLPvz1XduiYESOYqOfy/TUyX4kIV0s5u/4NprkWFncckyYq8ub7EvkE8OUWfAXfc9bPVoRA7r/5DluIEjRjwtlelbdCUThiB4RnPh69kS/cW/HLvqrPkLbde61bSOKZMrrqBDNu60aq5IRgObpVHgCRobHrMOAKweX95cmbmjJlB17kG9aRU0NmkE0G+B3ehkWSe7pCg3PqbId0ydhrNll918+QuMfNsxm3P8MK07oPgR6aHX6dKYbTp2YWxS19nfjfaSfIcKinlas/5A32dHqY8RUmrSEaSsLcRD7M3/3owUKKLDGu8dyG4H7tF25l6/CXEQiYT37EjDOyDLLBOKoPL/gXIT1P53CNiuBvREbH3Z4TXxZREEKBiyiJVEeHPZxoiB478hztd1uF/LyjnIUTFHUwvY/uMO67Kw==;l6Czx5lhaX3aWWoBcaMiCA=="
