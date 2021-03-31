@@ -74,7 +74,21 @@ related:
       name: fintechzoom
       domain: fintechzoom.com
     quality: 47
+  - title: "Ex-Top Microsoft Antitrust Lawyer Joins Health Care Data Startup"
+    excerpt: "Two former longtime executives at Microsoft Corp. have reunited at Truveta Inc., a startup co-owned by 14 major U.S. health providers that aims to improve patient care by using artificial intelligence ... Catholic nonprofit health care providers in ..."
+    publishedDateTime: 2021-03-30T23:07:00Z
+    webUrl: "https://news.bloomberglaw.com/business-and-practice/ex-top-microsoft-antitrust-lawyer-joins-health-care-data-startup"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 41
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/0bc467b/2147483647/crop/3200x1230%2B0%2B92/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F1d%2Fa7%2F30f81de34848bc51f1ced29f8e34%2Fmyerson.jpg"
+        width: 960
+        height: 369
+        isCached: true
 
-secured: "kUYrBFzsuJmc2ywba0hEr9E5gdG9mxAt+h0CoSuWPWq718ksXITRCHjtUka3JAZlCfY5SC3pdA1ADoSAiYuwIuaqMuhNZ4GKYskxJWzbtq/Xigo6r1Vtqn4OC5UC0Wn3eT0cXnMPV2NX2qV/r48cZUZmTzLaZIdz56r7hxR3okoXpv/mvvPuozLcmloRJ9zV9lnB60IJEsWtHmkvhZP97krRP8+SqdjJ+RTTtq5FIUk1y1Hlw8Nri7yUzJT4XRlsYaFGyYJBfTiF+mvEGopSgJyup/OpBK5DM/R2CcCk5Cg8RYkAUUqUZE8+yb69DLVkGISaiJeNSdmYATnk0WREJkzhLRmoMCwAeZ6Pp6U4c0U=;UuvxQB8Ei8gRUReuNrlhPw=="
+secured: "ecewOEzZI+MEORUCONAPQw2I6XGCHvxjiGSe39reIddivnBYqQy3rBoNW92fls+Lw5GEtTiscaMOZpITLE2QjAjpyRaS/kCQz+PgkPgflbHFt37bqBSWpI/P1qOdUw38IOCbg05OKrJAnIsbSG4wm24rqzstdkRDj4D4CZnqlE9VdWV12kB0FmI0/zDd2CUnSnGuhITFFI6dsTWtOUA6+P3ixLLjUD+78LfDWvTtXN4WCpn3FF14UtfhlRoxMIQtPoX4f9wa/uFy8/QY4avIS3FeyfgP6KrYD4Pbwa60E/lBWDEhyrfm+ZonB8p8NbBBPCqrJp3+N5fghilHcyYgQSKHJyZKo2CYxRM5SFo6G4d8D3/TcuMB8Ok7K95IZqdLY2i4x5S/GFGZUSntBgdRK8qaD84eiUIry/pgwBcVeDAkLmOqLBHw/EVGVUYnBSWosXw3S7IhY1WhJz5yUu9oJHUOa7b+DE1OXvkdA+RyLWWcRa50AfBTj9aVg+1Ib5LIti3mrudt0o87ay4hNkMUqQ==;+rXPlS/PSkUmZxQO/apU+A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-time-ai-data--drives-competitive-retail-advantage/amp/"
 type: article
 quality: 86
-heat: 97
+heat: 88
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 718
     isCached: true
-
-related:
-  - title: "All you need to know about the US India Artificial Intelligence initiative"
-    excerpt: "The U.S.-India AI Initiative will provide an opportunity for key stakeholder groups to share experiences, identify new R&D areas and opportunities."
-    publishedDateTime: 2021-03-26T06:13:00Z
-    webUrl: "https://www.dqindia.com/need-know-us-india-artificial-intelligence-initiative/"
-    ampWebUrl: "https://www.dqindia.com/need-know-us-india-artificial-intelligence-initiative/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/need-know-us-india-artificial-intelligence-initiative/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2017/05/blockchain.jpg"
-        width: 1000
-        height: 542
-        isCached: true
 
 secured: "y63sIAGNEEJA1ufjqHEtSAL4q6+tUwCXB6/r8BRTWcq6dwe6KdUVvOJkttJSBdWiNCd6oDWZ7MobYJCmW1h6jGHRfKIg4jpCXMzj9tMeSLmLaMi2GlMO5SL5VkTgNRRQe3BSMjFPEMTDt+Z55hZAP+2WlvsiZ2+MZaPnNDWEDl8u3AYqXYtuSGBZwlCryNDxhPlp+8Uh9v2seeebyGtfH4wCcpeo//jPoIlhXXtV1rNxsEBcyweRCpYjMsCFmV8B4pgjylZWWLcZg38W0TGMfyt/uTLG+I9i4omIyQev0oAIF1VO1y9eGL8FoEuiqbLTu5LK6XV3QPYXHhcuv6sIJoti7AcV2Slf9NLS4teVikZqeAeY8YB9Lb8R6e2IAu9s94RiOku3us9kmekR0vf0bvZredlN0L0ncMVeUFVi+W0ZIqmZgMMyFVFI59nYOuxk8trw1jojDEeZTkdiDTnZQEEF+ZdtnqOPVJLQFr85KFGlLoAWn7oIcgtVXjtCwFK7tGsAMP7kCwVR0a4o2+OYHQ==;l22d4vtjDsewhStktfO92A=="
 ---

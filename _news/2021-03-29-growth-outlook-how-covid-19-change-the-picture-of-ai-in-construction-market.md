@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2262959/growth-outlook-how-covid-19-chang
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
 type: article
 quality: 54
-heat: 75
+heat: 74
 published: true
 
 provider:

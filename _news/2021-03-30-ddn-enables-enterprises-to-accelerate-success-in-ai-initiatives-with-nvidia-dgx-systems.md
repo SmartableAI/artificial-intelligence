@@ -1,26 +1,28 @@
 ---
 category: news
 title: "DDN Enables Enterprises to Accelerate Success in AI Initiatives with NVIDIA DGX Systems"
-excerpt: "DDN A3I Storage Accelerates AI Recommendation Systems, Image Analysis and Natural Language Processing with Up to 46 Times More IOPS on GPU"
-publishedDateTime: 2021-03-30T15:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-1030259216"
-webUrl: "https://markets.businessinsider.com/news/stocks/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-1030259216"
+excerpt: "Enterprises increasingly rely on artificial intelligence (AI) as a powerful business enabler with massive potential rewards. However,"
+publishedDateTime: 2021-03-30T13:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-876627141.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/ddn-enables-enterprises-to-accelerate-success-in-ai-initiatives-with-nvidia-dgx-systems-876627141.html"
 type: article
-quality: 41
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
-  - Natural Language Processing
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg?p=publish&p=facebook"
+    width: 1720
+    height: 2430
+    isCached: true
 
 related:
   - title: "Peptone announces a collaboration with NVIDIA and Verne Global to scale its AI-driven protein engineering system"
@@ -38,6 +40,6 @@ related:
         height: 267
         isCached: true
 
-secured: "XKUwi49Ty/b8dumZv/WJ2LsYePVxlxJjmN1LlUAJ3YgxR7smQm5fRHoMeVEKih8/FaVQw+MBPKZnpiRJVe+YY/RjHh1oRKlBj3Wb5+ak2dPCKcOJBLH12EYRjDDw8+ZCIkNktOQdIhs4jF9xnJbrKVKXld8sf1U167be1XFtsAZer1UUTa5zEyCWnuWN5RM8IzBETcbkbk3sJ2jlZtr+n6WrXAeXBc/zWTSQ3v46XlkmdrjtgGK67Nnxm4YvQrkkwrwU2Xcql6xHH/1i240ro+pgDvyKYTI6Q4Fcd8OMwJxQPrZB86W9XZ6g0HmKniYURmVTu2x28RWKIAV5+kzavoo/N7YhU52JWLN3OHmSgoM=;8hpSaFECCumWPzMTfIB/qQ=="
+secured: "b9m9izbIQsRlsvCnBs1dIf1j+nngQLeA5OoYCgiN6et748OPFCItIXzvWygU4URGH/HtvEOA4v911bcEqgqXfgcIT4i8wmLqjQEvwLp3bHO8/5uURCbMoxEnTYtNSt+Evv5t6Gt57+71f+HE8oiJNtX6AKKBfUEewswZSm3qmg/p+Rs56A/ZKzZDr3Oq3ja5W1RKg1i/nF84Q7aIzO7z4QW0B+a+6SxAO4OIi/0atb9YvPZB1cp8wAaFCtWrZg3QI+qWrHKu49ZF8fLLCpETmnKqT95g34qTPCVf0A1WGudQsmyDYmbjtfv6llTv7iCm9M1LdSftMmJLJLdG3Q+0sbMzM8/rHg200kBx3hLaINg=;MBXMChl5IkRf5Ot3ErLRsA=="
 ---
 

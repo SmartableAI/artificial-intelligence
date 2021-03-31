@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2021-03-29/ca
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2021-03-29/cade-metz-genius-makers-explores-history-ethics-of-ai?_amp=true"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 320
     height: 209
     isCached: true
-
-related:
-  - title: "‘OK Computer’ review: Artificial intelligence meets human bumbling"
-    excerpt: "There’s a lot going on in the web series OK Computer: a death caused by a self-driving car, a bunch of investigators who scramble about trying to solve the crime, robots that develop sentience, a Tesla-like corporation with overreaching influence on the government,"
-    publishedDateTime: 2021-03-26T06:00:00Z
-    webUrl: "https://scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling"
-    ampWebUrl: "https://amp.scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling"
-    cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/reel/990484/ok-computer-review-artificial-intelligence-meets-human-bumbling"
-    type: article
-    provider:
-      name: Scroll
-      domain: scroll.in
-    quality: 61
-    images:
-      - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/156708-wqvgytpvzv-1616656345.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "tQ0mbs0syufcJvQjt6GNAEv4GiiTSwKuPZDgUoCBGAQmTKpTIJMh1tObfIEPq24sjh8ZV74dP5C0qCFHeTLvaS0A5S4Dj6jffFeltuVwzRqIhenHzVGnKPabRa63JDM64Qldry3ajMYkyoV0c8Ao2UdjD1pLzPQm+vqEXmgHFEbPVFJjDl+y+VjEGUnVZAJXqkDNrFUNVjBE1s+Kg78F7gLKZ1WhPAw5GRcqaX7Dze3rM8ecm+frsM2cpHJqHoxuJBAMDKR++547d2WuufXDkPz0yJT9sM4twhfLNwmL4gAkXfTBKuOD68RvxTfJaDDdhVByKOAJACzBFuf84KThBDh/mLYKe0UQyRdWDW72VKb1tXjlYSVs7EM+jkx73VDDrmXQSvYZVehUh/ssz0yrhmavLSNGPrqNrEDABN6V58tdIVtpC9SwWaXG1ZDHaprd4S78lASm1nkPer06okKYU+aWLDGnXzfMzTtU2slYv7ziVJPAM2AG4pV1KfYe5b1/m1hzhbAh3Q43QATe4lM+Dw==;pQA0ncNuMFBCU1lh5haMsA=="
 ---
