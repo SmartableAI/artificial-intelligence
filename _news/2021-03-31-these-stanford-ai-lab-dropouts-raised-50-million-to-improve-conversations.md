@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aayushipratap/2021/03/31/these-stanford
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aayushipratap/2021/03/31/these-stanford-ai-lab-dropouts-raised-50-million-to-improve-conversations/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Cresta, which uses AI to mentor customer service agents in real time, raises $50M"
+    excerpt: "Cresta, an AI-powered platform that gives real-time support to help customer service agents respond to enquries on calls or in chats, has raised $50 million in a series B round of funding. The company’s latest investment,"
+    publishedDateTime: 2021-03-31T15:38:00Z
+    webUrl: "https://venturebeat.com/2021/03/31/cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m/"
+    ampWebUrl: "https://venturebeat.com/2021/03/31/cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/cresta-which-uses-ai-to-mentor-customer-service-agents-in-real-time-raises-50m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/Untitled-4.png?w=1200&strip=all"
+        width: 1200
+        height: 617
+        isCached: true
 
 secured: "T/kDBY4HHKSnkpQTP/kJPTPsFB8Uca+B2U4IR85tVzFatuBTYjgTx8X3aTqIVlFyKILcT++YVS9Gck6sLNBzcotDU7sPru/ga3Aj3d6qWYa4piGvOfvKIGHCaqI4JTDczqhJ3bB/J29/0XaluEOkmZsY4VOoObjMkAZMhenB3xky8Oaik7ZmrRkelfBOeITMs5nhxQS4fPXQVDWA5JF/M+4sHBkOU0ydeXH3PnxzhpuS4SRDDtxvhEX1fZ7b5Hx2i0De+cra+fJwh3aG+xHNHR0vtE/ras7AyIhru/OfJAawZ1dOrKabXgeYF7Yo+xj6KUdYC1O/ZlMV6cq672CIfvxLP9LRyH1gUel8lyk+A0raN7IHSl5ma2Mr/ZoAoabwRO3i5c6qznO/tmmDEc7g8vVIUKDOfAyhyyyos47j1dHju685W3hKXftQFU4N4YZY+SWotfhtfaQp0x9pJKd+zzO5tdLEBxpwieh9AwH61YjoZ5zSrkqm8gcQAlTz2W5v0/GdVgELUekWOzxADdZEZA==;Kf+rpU9hRr4fchIV1P5zcg=="
 ---

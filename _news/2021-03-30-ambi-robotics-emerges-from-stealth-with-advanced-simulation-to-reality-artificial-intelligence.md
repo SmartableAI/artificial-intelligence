@@ -39,6 +39,20 @@ related:
         width: 2560
         height: 950
         isCached: true
+  - title: "Tangram Vision Raises Pre-Seed Funding Round to Enhance Sensors and Help Robots See the World"
+    excerpt: "Tangram Vision is announcing that it has raised a pre-seed fundraising round and is launching its sensor management SDK. THE TANGRAM"
+    publishedDateTime: 2021-03-31T15:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/tangram-vision-raises-pre-seed-funding-round-to-enhance-sensors-and-help-robots-see-the-world-301259295.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
+    images:
+      - url: "https://mma.prnewswire.com/media/1477532/Tangram_Vision.jpg?p=facebook"
+        width: 1048
+        height: 548
+        isCached: true
 
 secured: "KtXv9b8io/XRbCjh0g/wZ0o/VGS94PuA7feg5cvazNgwPjfdp2ElxN6gaF9mcFFSsQMbcfmPI14Nbswo+YiYjI68Ylu2zdIQu0L6pgxoUfg1w/WGJug/NX+w1/cxkf8zTIZFWfQtuLI4Mi6PMOM7COUAHCrQxPh6unRptbwZhxBfTTFpqoYteslj8OazCB2iD0ljf8AGM4tAd5hxvxq/6X7X8yafRBDP11qz8v7c0xQpi3ptV/2agzdKr0OxLB4KvY88g0Tab6GO04hPhydYOf+yqU5WxCpRv0D//zgK2lU2TqTuiIgfkawbpqHL77BWmd2bg6KyToWj/w/Cca/Y5MXLDrdynd2jWppgnzeTgm0=;HxgbhMD9Th+c0nr7hh5InQ=="
 ---

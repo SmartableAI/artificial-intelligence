@@ -128,6 +128,20 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 32
+  - title: "Realeyes Named Winner In 2021 Artificial Intelligence Excellence Awards For Its Attention ..."
+    excerpt: "NEW YORK, March 31, 2021 (GLOBE NEWSWIRE) -- Realeyes, a pioneer and leader in video attention measurement, announced today that its flagship product PreView was named a winner in The Business Intelligence Group’s Artificial Intelligence Excellence ..."
+    publishedDateTime: 2021-03-31T15:11:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-82cf143a305e89c194f120fc49c4726c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Astute Named Winner in 2021 Artificial Intelligence Excellence Awards"
     excerpt: "Faster response times also increase customer satisfaction. “We are so proud to name Astute as a winner in our inaugural Artificial Intelligence Excellence Awards program,” said Maria Jimenez, chief nominations officer for Business Intelligence Group."
     publishedDateTime: 2021-03-30T17:00:00Z

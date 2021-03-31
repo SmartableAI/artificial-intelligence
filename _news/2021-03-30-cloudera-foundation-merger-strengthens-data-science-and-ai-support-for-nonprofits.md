@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/30/cloudera-foundation-merger-streng
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits/amp/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:

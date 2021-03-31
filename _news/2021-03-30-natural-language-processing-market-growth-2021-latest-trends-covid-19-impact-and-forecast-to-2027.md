@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Enterprise Artificial Intelligence (AI) Market Revenue, Demand, Share, Size | Global Industry Analysis and Research Report 2021"
-    excerpt: "The global enterprise artificial intelligence (AI) market is forecast to reach USD 29.09 Billion by 2026, according to a new report by Reports and Data. With the advancements in technology, enterprises are taking advantage of intelligent automation,"
-    publishedDateTime: 2021-03-29T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-ai-market-revenue-demand-share-size-global-industry-analysis-and-research-report-2021-2021-03-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Top 5 Artificial Intelligence Companies with Market Share"
     excerpt: "In 2019, Microsoft funded the US$1 billion to the AI-research lab OpenAI, to research and explore the possibilities for amalgamation of GPT-3 and Microsoft Azure, for developing super-computing capabilities. Facebook has reformed from a social network site ..."
     publishedDateTime: 2021-03-27T08:07:00Z

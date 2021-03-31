@@ -114,6 +114,20 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 32
+  - title: "Realeyes Named Winner In 2021 Artificial Intelligence Excellence Awards For Its Attention ..."
+    excerpt: "NEW YORK, March 31, 2021 (GLOBE NEWSWIRE) -- Realeyes, a pioneer and leader in video attention measurement, announced today that its flagship product PreView was named a winner in The Business Intelligence Group’s Artificial Intelligence Excellence ..."
+    publishedDateTime: 2021-03-31T15:11:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-marketing-and-advertising-corporate-news-products-and-services-82cf143a305e89c194f120fc49c4726c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Concentric Named Winner of Business Intelligence Group's 2021 Artificial Intelligence Excellence Award"
     excerpt: "Concentric Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced it has won a 2021 Artificial Intelligence Excellence Award for its Risk Distancetm natural language processing"
     publishedDateTime: 2021-03-29T13:22:00Z

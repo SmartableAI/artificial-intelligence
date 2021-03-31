@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-goo
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.amp"
 type: article
 quality: 76
-heat: 86
+heat: 87
 published: true
 
 provider:

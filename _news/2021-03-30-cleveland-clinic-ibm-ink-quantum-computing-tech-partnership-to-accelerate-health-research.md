@@ -68,6 +68,20 @@ related:
         width: 770
         height: 363
         isCached: true
+  - title: "Cleveland Clinic, IBM ink a ten-year quantum computing deal—here are 2 ways the tech can be used in healthcare"
+    excerpt: "The news: Cleveland Clinic and IBM struck a ten-year partnership to use AI and quantum computing tech to facilitate healthcare research initiatives, like precision medicine and drug discovery. As part of the deal, Cleveland Clinic will get to install IBM ..."
+    publishedDateTime: 2021-03-31T14:36:00Z
+    webUrl: "https://www.emarketer.com/content/cleveland-clinic-ibm-ink-ten-year-quantum-computing-deal-here-2-ways-tech-used-healthcare"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 21
+    images:
+      - url: "https://contentstorage-nax2.emarketer.com/cf70beb12362af69cb283a4a14d54a97/default-image-share.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "IBM to install its first private-sector quantum computer at Cleveland Clinic"
     excerpt: "That’s where IBM comes in. Its artificial intelligence, cloud-based and quantum computing ... In the last decade alone, they teamed up to apply the since-retired Watson for Oncology platform to genomics and cancer research, and later took on a five ..."
     publishedDateTime: 2021-03-30T18:30:00Z

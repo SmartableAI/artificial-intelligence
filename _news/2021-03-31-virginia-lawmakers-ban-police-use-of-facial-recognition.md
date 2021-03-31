@@ -43,6 +43,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Virginia lawmakers ban police use of facial recognition technology"
+    excerpt: "Virginia lawmakers have passed one of the most restrictive bans on use of facial recognition technology by the police."
+    publishedDateTime: 2021-03-31T14:22:00Z
+    webUrl: "https://www.delmarvanow.com/story/news/local/virginia/2021/03/31/virginia-lawmakers-ban-police-use-facial-recognition-technology/4819349001/"
+    ampWebUrl: "https://amp.delmarvanow.com/amp/4819349001"
+    cdnAmpWebUrl: "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/4819349001"
+    type: article
+    provider:
+      name: DelmarvaNow
+      domain: delmarvanow.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/421b078e32ec24dfbab35e78c8c4cec779ade847/c=0-300-5760-3540/local/-/media/2020/06/11/USATODAY/usatsports/amazon-facial-recognition-mf.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Virginia State Police admit they used facial recognition app after repeated denials"
     excerpt: "The agency said investigators signed up for free trials of Clearview without their bosses knowing — a similar explanation to one given by Virginia Beach police recently."
     publishedDateTime: 2021-03-30T14:04:00Z

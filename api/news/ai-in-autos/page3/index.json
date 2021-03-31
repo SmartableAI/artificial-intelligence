@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-09-study-people-trust-ai-more-than-other-humans-when-it-comes-to-managing-their-money.md",
+      "title": "Study: People trust AI more than other humans when it comes to managing their money",
+      "excerpt": "Two-thirds of people say that they are more likely to trust artificial intelligence than humans when it comes to managing their finances, according to a US study conducted in 14 countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/study-people-trust-ai-more-than-other-humans-when-it-comes-to-managing-their-money",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/03/09/study-people-trust-ai-more-than-other-humans-when-it-comes-to-managing-their-money",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/03/09/1070114.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon.md",
       "title": "Why you shouldn’t expect Tesla’s ‘Full Self Driving’ to come out of beta any time soon",
       "excerpt": "Tesla’s recent decision to open its Full Self Driving (FSD) beta to new owners has created quite a splash in both the automobile and consumer tech markets. This is an exciting time to be a Tesla owner,",
@@ -1347,58 +1390,6 @@
         "name": "The Motley Fool Canada",
         "domain": "fool.ca",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-gatik-raises-9-million-to-winterize-self-driving-box-trucks.md",
-      "title": "Gatik raises $9 million to winterize self-driving box trucks",
-      "excerpt": "Gatik, a company developing autonomous driving technology for short-haul logistics, has raised $9 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/02/gatik-raises-9-million-to-winterize-self-driving-box-trucks/",
-      "originalUrl": "https://venturebeat.com/2021/03/02/gatik-raises-9-million-to-winterize-self-driving-box-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/Founders_Walmart.jpg?w=800&resize=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/02/gatik-raises-9-million-to-winterize-self-driving-box-trucks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/gatik-raises-9-million-to-winterize-self-driving-box-trucks/amp/",
-      "publishedDateTime": "2021-03-02T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

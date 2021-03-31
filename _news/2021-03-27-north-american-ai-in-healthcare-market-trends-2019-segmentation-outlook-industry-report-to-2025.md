@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2262818/north-american-ai-in-healthcare-m
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019"
 type: article
 quality: 60
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 33
+  - title: "United States Education Artificial Intelligence Market Report 2021-2025: Market is Poised to Grow by $253.82 Million, Progressing at a CAGR of 49% - R"
+    excerpt: "The artificial intelligence market in the education sector in the US is poised to grow by $ 253.82 mn during 2021-2025, progressing at a CAGR of 49% during the forecast period. The market is driven by the growing emphasis on customized learning paths using AI and increased demand for ITS."
+    publishedDateTime: 2021-03-31T09:22:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=445292"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "Hl4928bLBbeKXboa1JHXM1NmabbfVzZlyXWo9t4ruF3InttAbSZyxRN3yXhcudkXPwsIo5uvgLa0TBj1m+r7rCkABQ9mM9leIjThrkvCjd2OsvbW6lytY2EJRJxAPGmHNacvjj15GGHGcUBxLwzrgzYNPmdOnuj3IJxWVFRhCjupKa4Iv54BSoUrMGWs3jr+X1K3FXs87+GRNYDi3/Rc1+rcblhlJ+JaEBf+eMIyPfuTRbJkSKOe7eH/OA8GQWUqjQL0nUTzyzv7QKbeamBxGfTwzJoD7RlXVZanE4zLyKjXKCgSksRzP5pj1w0IgJ/mOQAV61wWxi2H9zXVg1Vb+6CplhkgT1b0h34Twju214syEmtMPGnpLu8hGS8x97s/gdS75d97iXTjTh0hfHWQepecxK84XS5IZW7u2JP2BuaFWPG99BRkeNwHko1ZJV2VMZlHo1vzur4cakClFcm9E6ViwEY7s8QnLU8rkUdEeT5pbngmZP0cbjroDYJdDy/TGE5nlnin2zhs/TtyvieEUw==;xdqrdfn4sng+TpWZcCMLOw=="
 ---

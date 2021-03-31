@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Virginia lawmakers ban police use of facial recognition technology"
+    excerpt: "Virginia lawmakers have passed one of the most restrictive bans on use of facial recognition technology by the police."
+    publishedDateTime: 2021-03-31T14:22:00Z
+    webUrl: "https://www.delmarvanow.com/story/news/local/virginia/2021/03/31/virginia-lawmakers-ban-police-use-facial-recognition-technology/4819349001/"
+    ampWebUrl: "https://amp.delmarvanow.com/amp/4819349001"
+    cdnAmpWebUrl: "https://amp-delmarvanow-com.cdn.ampproject.org/c/s/amp.delmarvanow.com/amp/4819349001"
+    type: article
+    provider:
+      name: DelmarvaNow
+      domain: delmarvanow.com
+    quality: 59
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/421b078e32ec24dfbab35e78c8c4cec779ade847/c=0-300-5760-3540/local/-/media/2020/06/11/USATODAY/usatsports/amazon-facial-recognition-mf.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Virginia Lawmakers Ban Police Use of Facial Recognition"
     excerpt: "Last month, Virginia lawmakers quietly passed one of the most restrictive bans in the country on the use of facial recognition technology. The legislation, which won unusually broad bipartisan support, prohibits all local law enforcement agencies and ..."
     publishedDateTime: 2021-03-30T23:52:00Z

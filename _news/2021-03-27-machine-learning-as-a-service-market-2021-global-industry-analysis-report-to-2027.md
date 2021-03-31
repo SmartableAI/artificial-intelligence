@@ -67,6 +67,20 @@ related:
         width: 512
         height: 384
         isCached: true
+  - title: "United States Education Artificial Intelligence Market Report 2021-2025: Market is Poised to Grow by $253.82 Million, Progressing at a CAGR of 49% - R"
+    excerpt: "The artificial intelligence market in the education sector in the US is poised to grow by $ 253.82 mn during 2021-2025, progressing at a CAGR of 49% during the forecast period. The market is driven by the growing emphasis on customized learning paths using AI and increased demand for ITS."
+    publishedDateTime: 2021-03-31T09:22:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=445292"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "pDEqRkzyF4WjCQR6raYXIG6iupm0w3qX1CX3wYxtg4FjP+VNR4iio6OJnyi/KJwWP8GbOOfVVGBAN+GxEv5KNrjCVSiQTrHNH/OAx9ThKGT7zALIpwsMNaSQA0MnxDS9ory9YeNqLK44dK8UuiP+uKvx52xDgyugICGBxtFS/9PF3rr/MgpPq6rI3O2dMFAdfCBNGrldmBSiNFRmjsD71dNNah2UxrcNhHbDSa3YV+8XAgNQcNu/mmY3L8mEUuMbf4BwC5DY7J+DpQ3tY9VhwoefsEIKUkQzGwmzGfYCdRZhNjU8xLlmdaDyo806bdO5GncztXHfBOBfCKHgt2PXxuLwvNthvgyOluSsu/q9+d8=;IaNcy4PhAtff3Gy8/xChYw=="
 ---

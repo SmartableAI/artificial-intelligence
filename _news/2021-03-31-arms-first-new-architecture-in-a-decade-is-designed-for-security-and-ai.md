@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance"
 type: article
 quality: 105
-heat: 205
+heat: 207
 published: true
 
 provider:

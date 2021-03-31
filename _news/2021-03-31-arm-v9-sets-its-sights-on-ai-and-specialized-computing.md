@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specializ
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 91
 published: true
 
 provider:

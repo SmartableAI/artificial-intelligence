@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/21/03/ab20410518/wimis-ar-ai-bec
 ampWebUrl: "https://amp.benzinga.com/amp/content/20410518"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20410518"
 type: article
-quality: 14
+quality: 16
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Finance
 
 related:
   - title: "WIMI's AR+AI vision Empowers the Fast Stage of 5G Core Network Market"

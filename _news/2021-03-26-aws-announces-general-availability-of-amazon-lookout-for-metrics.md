@@ -1,39 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Lookout for Metrics"
-excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-publishedDateTime: 2021-03-25T19:33:00Z
-originalUrl: "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-lookout-for-metrics/article_d7b04c53-117a-587d-b267-25492631dbeb.html"
-webUrl: "https://www.oaoa.com/news/business/aws-announces-general-availability-of-amazon-lookout-for-metrics/article_d7b04c53-117a-587d-b267-25492631dbeb.html"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Metrics, a new fully managed service that detects anomalies in metrics and helps determine their root cause."
+publishedDateTime: 2021-03-25T19:32:00Z
+originalUrl: "https://www.argus-press.com/news/national/article_3c36c6f7-164c-5f58-9466-3f3ef9186d1a.html"
+webUrl: "https://www.argus-press.com/news/national/article_3c36c6f7-164c-5f58-9466-3f3ef9186d1a.html"
 type: article
-quality: 34
-heat: -1
-published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Argus-Press
+  domain: argus-press.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Introducing Amazon Lookout for Metrics: An anomaly detection service to proactively monitor the health of your business"
-    excerpt: "Anomalies are unexpected changes in data, which could point to a critical issue. An anomaly could be a technical glitch on your website, or an untapped business opportunity. It could be a new marketing channel with exceedingly high customer conversions. As businesses produce more data than ever before,"
-    publishedDateTime: 2021-03-25T19:16:32Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-lookout-for-metrics-an-anomaly-detection-service-to-proactively-monitor-the-health-of-your-business/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 50
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/25/1-Architecture2616.jpg"
-        width: 700
-        height: 354
-        isCached: true
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/argus-press.com/content/tncms/custom/image/bdf824b4-27a0-11e8-a78f-67fc2c3cc6dd.png"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "726pXPQX5rFIrDDpKWmKRlCGVKsIkCXlbkUmtktg8PWP2dEMUFr+CYCWYomXyLvHsxqcL0U6KwrZiNOqr3w/Ic7XH3eTU9us2UaBUCavge3mqcoIWcyehToJ7GEYEYDn7Cb6h/gp3/1OZLAXVCQDJmKW7TK6MsSImdfhCM7w2Gy+gF6IVC1qSdmwJaEWuSL/4NECWNeh6UM3djSMmWYgfY/rmoVfxVRyqJ9fcxSNwgGyZTtmsn0sgHU+Y31ouW/90dx1VGh6hhzjsA8QFmUoDM4y1ZStcU9fUW0Uviq2dmJd9jWtsXszsBGFRnw6W9WXKibQbW4163s82ri3LPU59VoHqQymXGPVP0tG2v5VUnI=;QWL3a/SxbvpfM4dJ+6nOOQ=="
+secured: "Ybwv47bu9ydqdUPmtuFomw8FIGX1QGKbvBnW/vu8rr6Qtp0XSEy5a2dh0LJ5qJ+vJ1z94O3oPlA8na1bChjGfRNz4V994eQbWJfeCF9GirofgZrHHetB3GOpwldrg9pzZKiuLXiw4E+4WRDVr+09FJs1HF/XByNIfKOteHp9rlrsVibtdy+NKqWpcQDilU9qnl0mHkgYlt6VC/ZrBtFUUI9Vt65NCVRY2z8HHChh/M40Q681/2mxBFY15ktQjY7D5iScVJGjorG9o6cCrGWlj5yBkoP1ZngEZcNYnG7lUZUruSCAZPDVvfk9H76cLMKiCQ1d7Kvx2TD88+/uWSfX3L+Oxs+LBXSQ4+XW1ta+LF8=;xZDhJeTY3R1mzwzpA/+miQ=="
 ---
 

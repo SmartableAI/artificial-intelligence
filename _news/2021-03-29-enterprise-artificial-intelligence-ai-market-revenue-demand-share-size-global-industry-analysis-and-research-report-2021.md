@@ -28,129 +28,38 @@ images:
     isCached: true
 
 related:
-  - title: "Service Robotics Market Top Companies Data 2021, Latest Industry Share, Demand and Revenue Growth Opportunities"
-    excerpt: "The global “Service Robotics Market Share” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-03-28T16:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28"
+  - title: "At 35% CAGR, Artificial Intelligence (AI) Chips Market Size Set to Register 19080 million USD by 2025"
+    excerpt: "Mar 31, 2021 (Market Insight Reports) -- Selbyville, Delaware Market Study Report LLC has added a new report on Artificial Intelligence (AI) Chips market that provides a comprehensive review of this industry with respect to the driving forces influencing ..."
+    publishedDateTime: 2021-03-31T13:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 84
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-03-30T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
+  - title: "Image Recognition Market Size to Reach USD 58920 Million by 2026 at CAGR 15.6% - Valuates Reports"
+    excerpt: "The global Image Recognition market size is projected to reach USD 58920 Million by 2026, from US$ 20720 Million in 2019, at a CAGR of 15.6% during the forecast period 2021-2026. Increasing penetration of Smartphones with image recognition technology for authentication,"
+    publishedDateTime: 2021-03-31T14:46:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/image-recognition-market-size-to-reach-usd-58920-million-by-2026-at-cagr-15-6-valuates-reports-1030264531"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Top 5 Artificial Intelligence Companies with Market Share"
-    excerpt: "In 2019, Microsoft funded the US$1 billion to the AI-research lab OpenAI, to research and explore the possibilities for amalgamation of GPT-3 and Microsoft Azure, for developing super-computing capabilities. Facebook has reformed from a social network site ..."
-    publishedDateTime: 2021-03-27T08:07:00Z
-    webUrl: "https://www.analyticsinsight.net/top-5-artificial-intelligence-companies-with-market-share/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 21
+  - title: "Healthcare Information Technology (IT) market Size is poised to reach USD 114.5 billion by 2025"
+    excerpt: "utm_source=ksusentinel.com&utm_medium=AN Healthcare Information Technology (IT) Market will exceed USD 441.8 billion by 2025; as per a new research report. Emergence of artificial intelligence in healthcare will serve as a high impact rendering factor for ..."
+    publishedDateTime: 2021-03-30T03:21:00Z
+    webUrl: "https://ksusentinel.com/2021/03/30/healthcare-information-technology-it-market-size-is-poised-to-reach-usd-114-5-billion-by-2025/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 45
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies1-scaled.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
-  - title: "Service Robotics Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Asia-Pacific is anticipated to display the highest CAGR owing to increasing government investments in robotics and artificial intelligence, rising focus on R & D. Besides these, the growing demand ..."
-    publishedDateTime: 2021-03-29T07:41:00Z
-    webUrl: "https://menafn.com/1101823848/Service-Robotics-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence Market Top Companies Data 2021, Latest Industry Share, Demand and Revenue Growth Opportunities"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
-    publishedDateTime: 2021-03-28T15:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-03-30T09:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Smart Robots Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The global smart robot market size was valued at US 3 44 billion in 2017 It is expected to grow at a CAGR of 22 over the forecast period Smart robots are artificial intelligence AI supported systems You can learn"
-    publishedDateTime: 2021-03-31T10:58:00Z
-    webUrl: "https://www.openpr.com/news/2264137/smart-robots-market-share-2021-global-trends-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2264137/smart-robots-market-share-2021-global-trends-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2264137/smart-robots-market-share-2021-global-trends-key-players"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
-  - title: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 4:53 PM Top Players in Cognitive Computing Market are Alphabet, Inc. (Google LCC), Microsoft Corporation,"
-    publishedDateTime: 2021-03-29T14:21:00Z
-    webUrl: "https://menafn.com/1101823827/Cognitive-Computing-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 . Posted on Mar 28 2021 3:27 PM \"Top Players in S"
-    publishedDateTime: 2021-03-29T11:35:00Z
-    webUrl: "https://menafn.com/1101823882/Speech-and-Voice-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 9
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 7
 
 secured: "eJ8L77sXNPUAoRalH2ztACNTd9hzyUgsZCy6EG2mQ04KWN3h1sdgGhdr4uyqphNUQxHjX2wx0FStxbKuWOEIhrUTZM+820JHXOrMW9663N7l73D+6GkR+NlGI8Kji/b3Lbkk0ResZyC7P6MmPVVMnCzTrYxV8or+Hx9L3cQGAM/PRiDThqob3RT7E7wmYKCrlx5/2dbx0jmQ0zVUoKEsC7yP7prWvZingfDUMG60FjMOZdtIQu30bbB4QcNSry6RmDDNBybuoYzm51+SHzhbQ3ZNP17lhlQJ1BMgWp1NxaOzLkhfS4yDEd5SGoHDnKfEU7D8NDHndosz4CCyEHBvUEBgLn5yWPY0vyr0Qv//CAc=;eyXGe/JEQ5EBzS3c9i2y+w=="
 ---

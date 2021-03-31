@@ -2,6 +2,246 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-31-new-machine-learning-technique-reveals-mutational-signatures-in-cancer-patients.md",
+      "title": "New machine learning technique reveals mutational signatures in cancer patients",
+      "excerpt": "Researchers at the Johns Hopkins Kimmel Cancer Center used machine learning techniques to detect mutational signatures in cancer patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210330/New-machine-learning-technique-reveals-mutational-signatures-in-cancer-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210330/New-machine-learning-technique-reveals-mutational-signatures-in-cancer-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210330/New-machine-learning-technique-reveals-mutational-signatures-in-cancer-patients.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210330/New-machine-learning-technique-reveals-mutational-signatures-in-cancer-patients.aspx",
+      "publishedDateTime": "2021-03-30T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-cios-are-banking-on-sensors-ai-to-help-ensure-a-safe-return-to-offices.md",
+      "title": "CIOs Are Banking On Sensors, AI To Help Ensure A Safe Return To Offices",
+      "excerpt": "The tech leaders of Autodesk, Bank of America, real estate giant JLL and Zoom all see software-driven intelligence as key to the success of hybrid workplaces.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/",
+      "originalUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6063b82a81208ca49f790c50%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martingiles/2021/03/30/cios-banking-on-sensors-ai-for-safe-return-to-offices/amp/",
+      "publishedDateTime": "2021-03-30T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-new-school-board-to-bank-on-ai-for-tests.md",
+      "title": "New school board to bank on AI for tests",
+      "excerpt": "AI and game-based assessments will be put to use to create a ... “It’s also an incredibly complex process where one has to be very careful about ethics and empathy. It should be used without intruding on privacy and without making bad assumptions.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/delhi-news/new-school-board-to-bank-on-ai-for-tests-101617142057471.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/delhi-news/new-school-board-to-bank-on-ai-for-tests-101617142057471.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/03/30/1600x900/rpvv_bdf33cb6-88e9-11e7-817c-4caf18ee223c_1617142258905.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/delhi-news/new-school-board-to-bank-on-ai-for-tests-101617142057471-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/delhi-news/new-school-board-to-bank-on-ai-for-tests-101617142057471-amp.html",
+      "publishedDateTime": "2021-03-30T15:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-scientists-used-ai-to-link-cryptomarkets-with-substance-abusers-on-reddit-and-twitter.md",
+      "title": "Scientists used AI to link cryptomarkets with substance abusers on Reddit and Twitter",
+      "excerpt": "An international team of researchers recently developed an AI system that pieces together bits of information from dark web cryptomarkets, Twitter, and Reddit in order to better understand ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/aidopefeat-796x407.jpg",
+          "width": 796,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/30/scientists-artificial-ai-link-cryptomarkets-heroin-fentanyl-substance-abusers-reddit-twitter/amp/",
+      "publishedDateTime": "2021-03-30T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-celentialai-which-matches-software-engineers-with-jobs-raises-95m.md",
+      "title": "Celential.ai, which matches software engineers with jobs, raises $9.5M",
+      "excerpt": "Celential.ai, a startup leveraging AI to match software engineers with open roles, raised $9.5 million in venture funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/",
+      "originalUrl": "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/employer-hero-e1615920570719.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/30/celential-ai-which-matches-software-engineers-with-jobs-raises-9-5m/amp/",
+      "publishedDateTime": "2021-03-30T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-artificial-intelligence-is-learning-to-categorize-and-talk-about-art.md",
       "title": "Artificial Intelligence Is Learning To Categorize And Talk About Art",
       "excerpt": "It’s hard enough for humans to categorize or discuss art, but it’s even more difficult for artificial intelligence. Several research groups have tried to apply machine learning to databases of artworks to sort and describe them in a meaningful way.",
@@ -10,7 +250,7 @@
       "originalUrl": "https://www.forbes.com/sites/evaamsen/2021/03/30/artificial-intelligence-is-learning-to-categorize-and-talk-about-art/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -114,7 +354,7 @@
       "originalUrl": "https://www.theverge.com/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -511,7 +751,7 @@
       "originalUrl": "https://www.dailydot.com/debug/tech-newsletter-03-30-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -554,7 +794,7 @@
       "originalUrl": "https://techxplore.com/news/2021-03-ready-duty-healthcare-robots-good.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -702,7 +942,7 @@
       "originalUrl": "https://www.finsmes.com/2021/03/ambi-robotics-raises-6-1m-in-seed-funding.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -850,7 +1090,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/30/cloudera-foundation-merger-strengthens-data-science-and-ai-support-for-nonprofits/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -901,7 +1141,7 @@
       "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -968,255 +1208,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-its-like-tinder-scientists-just-got-ai-to-read-minds-and-create-the-most-attractive-face.md",
-      "title": "It’s Like Tinder: Scientists Just Got AI To Read Minds And Create The Most Attractive Face",
-      "excerpt": "It sounds like the premise of a sci-fi movie: artificial intelligence reads your mind and determines the most attractive face you look for in a mate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alisonescalante/2021/03/30/its-like-tinder-scientists-just-got-ai-to-read-minds-and-create-the-most-attractive-face/",
-      "originalUrl": "https://www.forbes.com/sites/alisonescalante/2021/03/30/its-like-tinder-scientists-just-got-ai-to-read-minds-and-create-the-most-attractive-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605f259de260be97620f568a%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alisonescalante/2021/03/30/its-like-tinder-scientists-just-got-ai-to-read-minds-and-create-the-most-attractive-face/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alisonescalante/2021/03/30/its-like-tinder-scientists-just-got-ai-to-read-minds-and-create-the-most-attractive-face/amp/",
-      "publishedDateTime": "2021-03-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech.md",
-      "title": "Autonomous Advertising: Mapping The Future Of Machine Learning In Ad Tech",
-      "excerpt": "Reaching this goal requires complex machine learning models that consider the countless variables a vehicle may encounter on the road, even as it performs tasks a human would find trivial. So, what do autonomous vehicles have in common with digital advertising?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f281139bff3f884b86e9905%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/30/autonomous-advertising-mapping-the-future-of-machine-learning-in-ad-tech/amp/",
-      "publishedDateTime": "2021-03-30T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-fashion-tech-india-real-time-ai-data-drives-competitive-retail-advantage.md",
-      "title": "Fashion Tech India: Real-Time AI Data Drives Competitive Retail Advantage",
-      "excerpt": "Consumer fashion may be among the most unpredictable markets on the planet, but one startup in India has created an AI-based demand sensing platform that combines the brilliance of data scientists with seasoned industry experts to ferret out trends with uncanny accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-time-ai-data--drives-competitive-retail-advantage/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-time-ai-data--drives-competitive-retail-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbbd0d0ea6cbf3a540cb943%2F0x0.jpg",
-          "width": 1200,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-time-ai-data--drives-competitive-retail-advantage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-time-ai-data--drives-competitive-retail-advantage/amp/",
-      "publishedDateTime": "2021-03-30T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-japan-facial-recognition-system-allowing-smooth-boarding-to-start-july-at-narita-haneda-airports.md",
-      "title": "Japan: Facial recognition system allowing smooth boarding to start July at Narita, Haneda airports",
-      "excerpt": "Check-in procedures using facial recognition technology are set to start in July at two major airports in Japan, allowing passengers to pass through security to their boarding gate without showing their passports or plane tickets. Asia Narita airport Under ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports/",
-      "originalUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0321/narita_airport.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp",
-      "cdnAmpWebUrl": "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/news_business/japan__facial_recognition_system_allowing_smooth_boarding_to_start_july_at_narita__haneda_airports.amp",
-      "publishedDateTime": "2021-03-30T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "poandpo.com",
-        "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-this-robot-could-help-fulfill-your-online-shopping-sprees.md",
-      "title": "This Robot Could Help Fulfill Your Online Shopping Sprees",
-      "excerpt": "Ambi Robotics is using years of research in robot manipulation to teach machines how to get a grip. The secret? Giving them suction cups for fingers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/",
-      "originalUrl": "https://www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/606265a2af7fcf595846d1fa/master/pass/Science_ambi_P1810835.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-robot-could-help-fulfill-your-online-shopping-sprees/amp",
-      "publishedDateTime": "2021-03-30T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
