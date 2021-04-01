@@ -2,6 +2,256 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-03-17-use-of-speech-recognition-is-growing-what-does-that-mean-for-commercial-projects.md",
+      "title": "Use of speech recognition is growing – what does that mean for commercial projects?",
+      "excerpt": "Those numbers are noteworthy because like smartphone virtual assistants such as Siri, smart speakers are steadily conditioning more and more people to use their voice to interact with things. Those experiences at home influence their expectations about what’s possible and preferable in the workplace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.inavateonthenet.net/case-studies/article/use-of-speech-recognition-is-growing--what-does-that-mean-for-commercial-projects",
+      "originalUrl": "https://www.inavateonthenet.net/case-studies/article/use-of-speech-recognition-is-growing--what-does-that-mean-for-commercial-projects",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1615995009/widgetdocs/BAIVECTOR_Shutterstock_fukhvy.jpg",
+          "width": 750,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InAVate",
+        "domain": "inavateonthenet.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-for-oracles-updated-autonomous-data-warehouse-no-sql-needed.md",
+      "title": "For Oracle's updated Autonomous Data Warehouse, no SQL needed",
+      "excerpt": "With drag-and-drop UIs and AutoML capabilities, the simplified data warehousing tool is designed to be accessible to data analysts and business users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
+      "originalUrl": "https://www.zdnet.com/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/17/f1545472-64c8-47b8-8ed7-6303beeafde8/adw-oracledatabaseactions-dataload.png",
+          "width": 1800,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/for-oracles-updated-autonomous-data-warehouse-no-sql-needed/",
+      "publishedDateTime": "2021-03-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-ssc-launches-risk-scenarios-as-a-service.md",
+      "title": "SS&C Launches Risk Scenarios-as-a-Service",
+      "excerpt": "WINDSOR, Conn., /PRNewswire/ -- SS&C Technologies Holdings, Inc. (Nasdaq: SSNC) today announced the launch of SS&C Algorithmics Scenarios-as-a-Service (ScaaS), a subscription-based risk scenario and simulation service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ssc-launches-risk-scenarios-as-a-service-2021-03-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/ssc-launches-risk-scenarios-as-a-service-2021-03-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-writing-helper-copyai-raises-29m-in-a-round-led-by-craft-ventures.md",
+      "title": "Writing helper Copy.ai raises $2.9M in a round led by Craft Ventures",
+      "excerpt": "Copy.ai, a startup building AI-powered copywriting tools for business customers, announced a $2.9 million round this morning. The investment was led by Craft Ventures. Other investors took part in the deal,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/17/gpt-3-powered-copy-ai-raises-2-9m-in-a-round-led-by-craft-ventures/",
+      "originalUrl": "https://techcrunch.com/2021/03/17/gpt-3-powered-copy-ai-raises-2-9m-in-a-round-led-by-craft-ventures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1094956900-e1559746431929.jpg?w=1024",
+          "width": 1024,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/17/gpt-3-powered-copy-ai-raises-2-9m-in-a-round-led-by-craft-ventures/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/17/gpt-3-powered-copy-ai-raises-2-9m-in-a-round-led-by-craft-ventures/amp/",
+      "publishedDateTime": "2021-03-17T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting.md",
+      "title": "Careful With That Axe, Sales Team: AI And The Future Of Forecasting",
+      "excerpt": "Opinion-based forecasts have low predictability and accuracy, are prone to bias and manipulation and yield limited value to the B2B organizations that adopt them. Fortunately, artificial intelligence is infusing and enhancing B2B sales forecasting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2021/03/17/careful-with-that-axe-sales-team-ai-and-the-future-of-forecasting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60512df244ca69711fa5fc51%2F0x0.png%3FcropX1%3D0%26cropX2%3D1050%26cropY1%3D121%26cropY2%3D712",
+          "width": 1050,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-17T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-5-robotics-stocks-on-the-cutting-edge.md",
       "title": "5 Robotics Stocks on the Cutting Edge",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Robotics stocks seem like a slam-dunk. The trend toward automation has been",
@@ -920,256 +1170,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-ford-partners-with-university-on-robotics-new-building.md",
-      "title": "Ford partners with university on robotics, new building",
-      "excerpt": "The four-story building on the University of Michigan's campus brings together researchers from 23 buildings and 10 programs into one space, including researchers and engineers from the Ford Motor Co.",
-      "sourceUrl": null,
-      "webUrl": "https://finance-commerce.com/2021/03/ford-partners-with-university-on-robotics-new-building/",
-      "originalUrl": "https://finance-commerce.com/2021/03/ford-partners-with-university-on-robotics-new-building/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://finance-commerce.com/files/2021/03/WEB-Robotics-AP-w.jpg",
-          "width": 620,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance & Commerce",
-        "domain": "finance-commerce.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation.md",
-      "title": "Yseop Launches ALIX, an Application That Instantly Shows the Power of AI Automation for Report Creation",
-      "excerpt": "Press Release Yseop, a pioneer in Natural Language Generation (NLG) and world-leading AI software company, today announced the launch of ALIX, an immediate discovery application to showcase how quickly and easily financial institutions can transform and grow",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/",
-      "originalUrl": "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/mms.businesswire.com/media/20210316005455/en/865159/4/ALIX3.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/16/yseop-launches-alix-an-application-that-instantly-shows-the-power-of-ai-automation-for-report-creation/amp/",
-      "publishedDateTime": "2021-03-16T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-5-reasons-to-make-machine-learning-work-for-your-business.md",
-      "title": "5 Reasons to Make Machine Learning Work for Your Business",
-      "excerpt": "As machine-learning algorithms grow smarter and more organizations come around to the idea of integrating this powerful technology into their processes, it’s high time your enterprise thought about putting machine learning to work, too. One of the best ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/366536",
-      "originalUrl": "https://www.entrepreneur.com/article/366536",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1615573501-GettyImages-1192983611.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/366536",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366536",
-      "publishedDateTime": "2021-03-16T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-empathetic-robots-are-killing-off-the-worlds-call-center-industry.md",
-      "title": "Empathetic Robots Are Killing Off the World’s Call-Center Industry",
-      "excerpt": "Some local industry executives insist the situation isn’t as dire as many predict. AI is a long way from replacing humans for more complicated voice calls or chats, says Jonatha",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-16/artificial-intelligence-chatbots-threaten-call-center-industry-human-operators",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-16/artificial-intelligence-chatbots-threaten-call-center-industry-human-operators",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idVvrWAi0HgA/v0/1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms.md",
-      "title": "Microsoft’s Percept Precept: Industrial IoT Shifts From Solutions To Platforms",
-      "excerpt": "I’ve often said that developing industrial IoT solutions is like building Ikea furniture with some parts missing and without instructions. Roanne Sones confirmed this view in her “AI to the Edge” Ignite presentation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605105b7b442462894296780%2F0x0.png",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/03/16/microsofts-percept-precept-industrial-iot-shifts-from-solutions-to-platforms/amp/",
-      "publishedDateTime": "2021-03-16T12:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

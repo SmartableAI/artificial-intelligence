@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Virginia lawmakers unanimously approve bill that bans facial recognition technology"
+    excerpt: "Under the bill, any law enforcement agency using facial recognition technology must stop, and they can only get approval to use it if they seek special permission from the legislature beginning July 1st."
+    publishedDateTime: 2021-04-01T11:02:00Z
+    webUrl: "https://www.wtvr.com/news/local-news/virginia-lawmakers-unanimously-approve-bill-that-bans-facial-recognition-technology"
+    type: article
+    provider:
+      name: WTVR
+      domain: wtvr.com
+    quality: 33
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b57b549/2147483647/strip/true/crop/850x446+0+11/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F31%2F0b%2Fb7da1f3a4576ade433e6f0c0c6ca%2Ffacial-recognition-technology2.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "CfO+iXGjSnDpO93kvTINbsABb+9gfIBbe7zJrYrBlG9QIjVQCFSQGb4VYthMIYMrX5S5NqF3S+422uF1kxci+7uzEMjdfazvR0uOqGZslLk3C2iCFInDGbf/dNBLOJL2p0/rQ4SFUqD9ETI3G1pXS5+fq3utph0Xb0w3Xyt1gdQ5JWWGdSoPz/3d+hDTD/Jou1zk7T2uHJJ9py/BpvbDtcmJM4ZLVbJebkCU1goXIJL+nViRj2J1QTNvqqMgbR5/dcfS096ZL/O7tKV/O5YdZBsrc+7axbAO+z2TGnuLknu5QWavx3um/sLMQqRHqq4YztOQ7BgDxtDx++gBwLCakz/u5EvwvtZcuFWecdd9Lzj0Y4DV7G1QDenv+IQo5f+ak/ccSVhXmHhGPEhX027EIA89snUUrtmuhTu5E0eNheqQzwfKi3lf0F4qiavK/Rd4WqqOIaHwqYDDPvPV0ZxYBZ0PKqWInKaxb+jfISssA4naQbAP7sYI5yUyF+fYxvESg7EpEDBG/b64y6JoWutpXg==;Qy4MLa0mfVpOdRHU/z3StQ=="
 ---

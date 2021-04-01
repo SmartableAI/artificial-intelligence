@@ -55,6 +55,15 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Triad truck builder teams with tech firm to develop self-driving vehicles"
+    excerpt: "A Triad truck maker is collaborating with a technology company to develop self-driving Class 8 on-highway vehicles."
+    publishedDateTime: 2021-03-30T18:32:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2021/03/30/volvo-trucks-working-to-develop-autonomous-trucks.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
   - title: "Cupertino self-driving truck unicorn Plus adds $220M funding, stays mum on SPAC talks"
     excerpt: "Self-driving truck startup Plus isn't talking about a report that it's considering going public in a merger with a \"blank check\" company, but is nonetheless rolling up capital at a rapid clip. The Cupertino unicorn on Wednesday said it has topped off a $200 million late-stage funding announced in February with another $220 million in new capital."
     publishedDateTime: 2021-03-31T13:19:00Z

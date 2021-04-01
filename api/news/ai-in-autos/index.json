@@ -159,21 +159,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-30-volvo-selects-aurora-to-help-bring-self-driving-semi-trucks-to-life.md",
-      "title": "Volvo selects Aurora to help bring self-driving semi trucks to life",
-      "excerpt": "Both companies plan to make level 4 self-driving, Class 8 trucks a reality after laying technological foundations for years.",
+      "path": "_news/2021-03-31-how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data.md",
+      "title": "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data",
+      "excerpt": "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/volvo-aurora-self-driving-semi-trucks/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/volvo-aurora-self-driving-semi-trucks/",
+      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
+      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/Gj4HZSvkuQkrIiIrXCRL1Yvby_E=/2021/03/30/c02913bb-4957-41a3-991e-fb42e64a5d1e/ogi-volvo.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60634716d58e48679eadb421%2F0x0.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 750,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,16 +181,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/",
-      "publishedDateTime": "2021-03-30T06:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
+      "publishedDateTime": "2021-03-30T10:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

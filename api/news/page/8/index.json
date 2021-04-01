@@ -2,6 +2,204 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-25-will-self-driving-cars-disrupt-the-insurance-industry.md",
+      "title": "Will Self-Driving Cars Disrupt The Insurance Industry?",
+      "excerpt": "Automated vehicles are rapidly advancing in capability, altering the risks and liabilities traditionally associated with driving. These changes will disrupt the $300B auto insurance market and the wider P&C insurance industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/",
+      "originalUrl": "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605799f7019e55638773bbe1%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/columbiabusinessschool/2021/03/25/will-self-driving-cars-disrupt-the-insurance-industry/amp/",
+      "publishedDateTime": "2021-03-25T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians.md",
+      "title": "AI Backpack Concept Gives Audio Alerts To Blind Pedestrians",
+      "excerpt": "\"For years I had been teaching robots to see things,\" he said ... QAnon influencers shares its secret weapon Mahendran's AI backpack isn't for sale, but he says he is going to start a GoFundMe to equip any blind pedestrians who want to use the system.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/21161/ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians",
+      "originalUrl": "https://in.mashable.com/tech/21161/ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/news/a/ai-backpac/ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians_v6kt.620.png",
+          "width": 620,
+          "height": 356,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/21161/ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/21161/ai-backpack-concept-gives-audio-alerts-to-blind-pedestrians?amp=1",
+      "publishedDateTime": "2021-03-25T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-from-digital-to-physical-the-ultimate-challenge-for-ai.md",
+      "title": "From Digital To Physical: The Ultimate Challenge For AI",
+      "excerpt": "How challenging is it to break this digital barrier and have AI spill over to successfully interact with a physical system?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b91b7ee97d16a68613292%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/25/from-digital-to-physical-the-ultimate-challenge-for-ai/amp/",
+      "publishedDateTime": "2021-03-25T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-vc-firms-have-long-backed-ai-now-they-are-using-it.md",
+      "title": "VC Firms Have Long Backed AI. Now, They Are Using It.",
+      "excerpt": "Venture capitalists who have long funded artificial intelligence startups are beginning to use the technology to search for a competitive edge in their own investment decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/vc-firms-have-long-backed-ai-now-they-are-using-it-11616670000",
+      "originalUrl": "https://www.wsj.com/articles/vc-firms-have-long-backed-ai-now-they-are-using-it-11616670000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-316104/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/vc-firms-have-long-backed-ai-now-they-are-using-it-11616670000",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/vc-firms-have-long-backed-ai-now-they-are-using-it-11616670000",
+      "publishedDateTime": "2021-03-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-how-artificial-intelligence-is-impacting-multifamily-real-estate.md",
       "title": "How Artificial Intelligence Is Impacting Multifamily Real Estate",
       "excerpt": "Having smart units for the multifamily industry adds a unique selling point for any real estate professional or owner.",
@@ -102,6 +300,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service.md",
+      "title": "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service",
+      "excerpt": "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of Microsoft, announced it will provide AiDANT,",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210325sf21353/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210325sf21353/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg",
+          "width": 400,
+          "height": 222,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -934,230 +1175,6 @@
       "provider": {
         "name": "Slator",
         "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-artificial-intelligence-healthcare-arkq-is-investing-in-the-future.md",
-      "title": "Artificial Intelligence. Healthcare. ‘ARKQ’ Is Investing in the Future",
-      "excerpt": "Due to its status as one of the premier avenues for accessing artificial intelligence (AI) and related equities, ARKQ is levered to an important theme in healthcare innovation – an arena where AI is increasingly prominent. Artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
-      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence.-healthcare.-arkq-is-investing-in-the-future-2021-03-24?amp",
-      "publishedDateTime": "2021-03-24T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-how-a-stabbing-in-israel-echoes-through-the-fight-over-online-speech.md",
-      "title": "How a Stabbing in Israel Echoes Through the Fight Over Online Speech",
-      "excerpt": "Stuart Force says he found solace on Facebook after his son was stabbed to death in Israel by a member of the militant group Hamas in 2016. He turned to the site to read hundreds of messages offering condolences on his son’s page.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/24/technology/section-230-hearing-facebook.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/24/technology/section-230-hearing-facebook.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/16/business/00techshield/00techshield-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/24/technology/section-230-hearing-facebook.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/24/technology/section-230-hearing-facebook.amp.html",
-      "publishedDateTime": "2021-03-24T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-the-trevor-project-launches-new-ai-tool-to-support-crisis-counselor-training.md",
-      "title": "The Trevor Project Launches New AI Tool To Support Crisis Counselor Training",
-      "excerpt": "NEW YORK, March 24, 2021 /PRNewswire/ -- The Trevor Project, the world's largest suicide prevention and crisis intervention organization for lesbian, gay, bisexual, transgender, queer & questioning (LGBTQ) young people ... about real-life feelings and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetrevorproject.org/",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/the-trevor-project-launches-new-ai-tool-to-support-crisis-counselor-training/article_744be9d3-ea82-52a4-b41b-b3d538df7735.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetrevorproject.org/wp-content/uploads/2021/02/aapi-hate-crime-hp-1880x840.jpg",
-          "width": 1880,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai.md",
-      "title": "Microsoft launches live transcriptions for Teams using 'cutting edge AI'",
-      "excerpt": "Microsoft is rolling out its AI-powered live transcription service in Microsoft Teams, answering Zoom's recent expansion of its own live transcription feature. Competition remains fierce in the video-meeting market for live transcription functionality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/24/9a2240db-6729-4900-89b4-59aeccc09dfd/teams-live-transcription.jpg",
-          "width": 770,
-          "height": 432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-launches-live-transcriptions-for-teams-using-cutting-edge-ai/",
-      "publishedDateTime": "2021-03-24T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-how-nlp-can-drive-speech-recognition-use-in-commercial-environments.md",
-      "title": "How NLP can drive speech recognition use in commercial environments",
-      "excerpt": "TK: How does NLP determine a person’s emotional state, especially in applications that involve a wide variety of people and personalities? For example, when some people are upset or frustrated, they talk low and slow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inavateonthenet.net/case-studies/article/how-nlp-can-drive-speech-recognition-use-in-commercial-environments",
-      "originalUrl": "https://www.inavateonthenet.net/case-studies/article/how-nlp-can-drive-speech-recognition-use-in-commercial-environments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1616588697/widgetdocs/Rana_close_up_gymlcm.jpg",
-          "width": 750,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InAVate",
-        "domain": "inavateonthenet.net",
         "images": null,
         "publishers": null,
         "authors": null

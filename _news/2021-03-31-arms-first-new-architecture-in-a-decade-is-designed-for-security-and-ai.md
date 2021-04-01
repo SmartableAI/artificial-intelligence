@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-a
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance"
 type: article
 quality: 105
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
         width: 974
         height: 649
         isCached: true
+  - title: "Arm has designed its first new chip architecture in over a decade"
+    excerpt: "A decade after they designed the chip that would power our mobile world, ARM has announced a new chip architecture for the next generation of computing."
+    publishedDateTime: 2021-04-01T13:30:00Z
+    webUrl: "https://www.criticalhit.net/technology/arm-has-designed-its-first-new-chip-architecture-in-over-a-decade/"
+    type: article
+    provider:
+      name: criticalhit.net
+      domain: criticalhit.net
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/media.criticalhit.net//2021/03/arm-processor-cpu-computer-motherboard-featured.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Arm unveils Armv9 architecture for its next generation of processor chips"
     excerpt: "The British chip designer Arm Holdings Ltd. introduced a roadmap for its next-generation central processing unit architecture today. Its new breed of chips will be optimized for specialized workloads such as artificial intelligence and digital signal processing and come with greater security built right into the silicon."
     publishedDateTime: 2021-03-30T18:00:00Z
@@ -147,6 +161,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/2c1fa490-55a5-4696-aa59-04f5fa01aa8f.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Apple Chips will (?) be advancing to the Armv9 Architecture, the first major update in a decade that will advance AI, AR/VR, 5G and Security"
+    excerpt: "In response to the development of AI, Internet of Things and other developments, the IP giant ARM Ltd. announced late yesterday that it will launch a new Armv9 architecture. This is the company’s first new Arm architecture in the last decade. It’s to ..."
+    publishedDateTime: 2021-04-01T13:35:00Z
+    webUrl: "https://www.loopinsight.com/2021/04/01/apple-chips-will-be-advancing-to-the-armv9-architecture-the-first-major-update-in-a-decade-that-will-advance-ai-ar-vr-5g-and-security/"
+    type: article
+    provider:
+      name: The Loop
+      domain: loopinsight.com
+    quality: 36
+    images:
+      - url: "https://www.loopinsight.com/images/logo.png"
+        width: 520
+        height: 208
         isCached: true
   - title: "Arm unveils v9 architecture with enhanced security, AI support for next generation of processors"
     excerpt: "Arm introduced the new Arm v9 architecture for the next generation of chips with advanced security and artificial intelligence. The first new Arm architecture in a decade, the platform is expected to support over 300 billion future"

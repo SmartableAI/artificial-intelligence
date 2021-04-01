@@ -25,17 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How To Spot An AI Ethics Watermelon"
-    excerpt: "The tech industry is full of watermelons. Companies that look 'green' on the outside, but have deep fleshy red inners: Here's how to spot"
-    publishedDateTime: 2021-03-31T16:19:00Z
-    webUrl: "https://www.forbes.com/sites/charlesradclyffe/2021/03/31/how-to-spot-an-ai-ethics-watermelon/"
+  - title: "Reviewing The Top AI Ethics Issues That Could Affect The Future Of Women In Tech And How To Combat Them"
+    excerpt: "However, very few documents and conversations mention gender bias and anti-discrimination guidelines when discussing AI ethics, specifically in regard to economic inequities. The Hill published an article late last year that notes, “According to the ..."
+    publishedDateTime: 2021-04-01T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 88
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6064aebacb513678fa61b40f%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee774eeb3fc470007021921%2F0x0.jpg"
         width: 1200
         height: 800
         isCached: true

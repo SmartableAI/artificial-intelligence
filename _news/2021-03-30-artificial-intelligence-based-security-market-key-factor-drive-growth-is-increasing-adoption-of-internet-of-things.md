@@ -7,7 +7,7 @@ originalUrl: "https://www.chronicle-tribune.com/news/wire/artificial-intelligenc
 webUrl: "https://www.chronicle-tribune.com/news/wire/artificial-intelligence-based-security-market-key-factor-drive-growth-is-increasing-adoption-of-internet-of/article_17cb62cf-add1-5b48-a98f-8818de41243b.html"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI
   - AI in Security
-
-related:
-  - title: "AI in Healthcare Market Is Set to Experience Revolutionary Growth by 2030 | Nuance Communications, Inc., DeepMind Technologies Limited"
-    excerpt: "(April 2021 trend research report ) The new report studies the AI in Healthcare Market in detail and presents comprehensive forecasts regarding the market’s growth trajectory in the coming years 2020 to 2030. The research report on the global market ..."
-    publishedDateTime: 2021-03-30T06:31:00Z
-    webUrl: "https://ksusentinel.com/2021/03/30/ai-in-healthcare-market-is-set-to-experience-revolutionary-growth-by-2030-nuance-communications-inc-deepmind-technologies-limited/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 39
-    images:
-      - url: "https://i.pinimg.com/originals/39/ae/0a/39ae0ac1c326830aa37ebf53e599390d.gif"
-        width: 512
-        height: 384
-        isCached: true
 
 secured: "tcpBL/X1GXGi/jRY8L2KNav5zmDY4PQzlj7+gmMsn8ExRHjit6pEIw2VjIhrU37/YUrC04sRv5wftlQcwxx7notzoQd+ZyvYOaYF4lJbubrgJuDb8+f/YijrJHWA90/PAfTVHV75+OLbJfEHEhLlmcLHZPjBpHS6vxh/U101j76TYIc4nTKGcSHgjGvZdepDaKjQNo77VY5ZiL6rFR8cZGEXU6q5Cd75iU14knS440z4h5eSxkLWcXSycJnDoNEsixa21IJNBiLp8p+HNhJkqas/5Yyd43wHQNFXwKjMerALUqL4/GogjKw5QasG/y4tSrlDD9vXhEdtT0ZD8TRjC3yvzFETWagoONT5UgS7nRI=;GRNDjwMgZNUJaeTYR8FPkg=="
 ---

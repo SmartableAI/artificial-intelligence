@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/31/edge-computing-orchestration-star
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Device monitoring and management startup Memfault nabs $8.5M"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Memfault, a startup developing software for consumer device firmware delivery, monitoring, and diagnostics ..."
+    publishedDateTime: 2021-04-01T12:00:00Z
+    webUrl: "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/"
+    ampWebUrl: "https://venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/device-monitoring-and-management-startup-memfault-nabs-8-5m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 72
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=800%2C414&strip=all"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "f3sb3bDS8T6RPaiUJ0yetstGZkoDaWGK3GC9rYCi0UriaIVCDfqfj3omHN0ATglEWOOCpFYbFH9EMnnipOG78Pi0SxdHoJT1VNYwiKEN8lvz4riifOHFVgOv1AviBm0i8dsJgpPs+KEw4yZtxIpnoA7GXK49zqKPKAyfQ0z9Ljhy5Wne/2EkcEb5T9Hvn1v1295fV/1tABQs8na4+2JDaOTVRe1mKOxjhMyBJEyZdw0paV9Bu2MqZdQwwoATnDtmY5wigWpLt/05gJBg/2aW7nL9Rt256OqWDoTlNZdT05NxbeO2BNrI2aI9vJDMyowuQK1yimzS1QnksRCnehy2jtxlzTUcA0FHOPu7E1SWUuNuOQ/drrpy/Z6jKcfEmUQ3Q5FnidGeNaj4bDRVjFsVadLmcM7Y9k5sex1bJZaMyLv6yyoqNs/4TQgAtYKKvUiN/88CaEU5ctbJ9q2lpyrbvvrYnPAc1vLFtRTjHv+w+KmGosOCvzzPt/Y4wbYVhHsMUSoA0AaQmktowFA8RM5+Iw==;9nj+Aozl+kMnAjUFrt+Pnw=="

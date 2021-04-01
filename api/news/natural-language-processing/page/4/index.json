@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-24-healthcare-natural-language-processing-nlp-market-size-growth-share-2021-global-trends-global-industry-key-players-regional-forecast-to.md",
+      "title": "Healthcare Natural Language Processing (NLP) Market Size, Growth, Share 2021 Global, Trends, Global Industry Key Players, Regional Forecast To 2024",
+      "excerpt": "\"The report elaborates the Healthcare Natural Language Processing (NLP) Market overview. Various definitions and classification of the industry, applications of the industry and chain structure ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101650422/Healthcare-Natural-Language-Processing-NLP-Market-Size-Growth-Share-2021-Global-Trends-Global-Industry-Key-Players-Regional-Forecast-To-2024",
+      "originalUrl": "https://menafn.com/1101650422/Healthcare-Natural-Language-Processing-NLP-Market-Size-Growth-Share-2021-Global-Trends-Global-Industry-Key-Players-Regional-Forecast-To-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-global-deep-learning-courses-for-nlp-market-drivers-challenges-trends-and-five-forces-analysis-2021-2027.md",
       "title": "Global Deep Learning Courses for NLP Market: drivers, challenges, trends, and Five forces analysis 2021-2027",
       "excerpt": "Syndicate Market Research's Latest updated Report on 'global Deep Learning Courses for NLP Market 2021' Analyses Research Methodology Figure out including Secondary Research, Primary Research ...",
@@ -1328,58 +1363,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-how-sterling-k-brown-became-the-voice-of-cnns-lincoln-divided-we-stand.md",
-      "title": "How Sterling K. Brown became the voice of CNN's 'Lincoln: Divided We Stand'",
-      "excerpt": "\"This Is Us\" star Sterling K. Brown became involved with the CNN Original Series \"Lincoln: Divided We Stand,\" in part, to learn more about the man who served as America's 16th president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "originalUrl": "https://www.cnn.com/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160921115945-sterkling-k-brown-this-is-us-2-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "publishedDateTime": "2021-02-12T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

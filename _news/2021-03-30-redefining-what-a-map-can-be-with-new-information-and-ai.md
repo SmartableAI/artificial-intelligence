@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/products/maps/redefining-what-map-can-be-new-inf
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6060e4305e7060b9d3a2aa11%2F0x0.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "US regulators are seeking info on AI in banking, and that could be good news for banks"
+    excerpt: "US banking regulators, including the Fed and Federal Deposit Insurance Corporation, are seeking information on how banks use AI."
+    publishedDateTime: 2021-04-01T13:20:00Z
+    webUrl: "https://www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/6065c74ddaf0f10018f996b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Get the training you need to become adept at AI and Machine Learning"
     excerpt: "The first class will give you the foundations you need when it comes to artificial intelligence and machine learning. Over the course of 72 lectures, this course provides the basics of Deep Learning by giving an insight of different neural networks."

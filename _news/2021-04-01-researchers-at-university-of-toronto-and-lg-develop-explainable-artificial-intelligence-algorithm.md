@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers develop 'explainable' artificial intelligence algorithm"
+    excerpt: "Researchers from the University of Toronto and LG AI Research have developed an \"explainable\" artificial intelligence (XAI) algorithm that can help identify and eliminate defects in display screens. The new algorithm, which outperformed comparable ..."
+    publishedDateTime: 2021-04-01T12:54:00Z
+    webUrl: "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.html"
+    ampWebUrl: "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 72
+    images:
+      - url: "https://scx1.b-cdn.net/csz/news/800/2021/65-researchersd.jpg"
+        width: 750
+        height: 304
+        isCached: true
   - title: "Researchers at U of T and LG develop ‘explainable’ artificial intelligence algorithm"
     excerpt: "Heat-map images are used to evaluate the accuracy of a new explainable artificial intelligence algorithm that ... model presents challenges when it’s applied to areas such as health care, law and insurance. “For example, a [machine learning ..."
     publishedDateTime: 2021-03-31T18:22:00Z

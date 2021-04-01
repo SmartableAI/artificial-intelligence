@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Volvo and Aurora team up on fully autonomous trucks for North America"
+    excerpt: "Volvo is partnering with self-driving startup Aurora on a new lineup of fully autonomous semi trucks, the companies announced. The trucks will be deployed in North America on highly frequented hub-to-hub routes."
+    publishedDateTime: 2021-03-30T13:30:00Z
+    webUrl: "https://www.theverge.com/2021/3/30/22358005/volvo-aurora-autonomous-truck-partnership"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/30/22358005/volvo-aurora-autonomous-truck-partnership"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/30/22358005/volvo-aurora-autonomous-truck-partnership"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 172
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/W-TOPdTl96l4NHfkolOz88BfPdg=/0x0:1260x700/1400x933/filters:focal(530x250:730x450):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69047938/Volvo_Blog_Cover_1260x700__Rendering_.0.jpg"
+        width: 1260
+        height: 700
+        isCached: true
+  - title: "Volvo And Aurora Partner To Commercialize Robot Big Rigs"
+    excerpt: "The companies' plan to commercialize autonomous semis that can handle highway driving without a human at the wheel comes amid a wave of trucking industry alliances."
+    publishedDateTime: 2021-03-30T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2021/03/30/volvo-and-aurora-partner-to-commercialize-robot-big-rigs/"
+    ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/03/30/volvo-and-aurora-partner-to-commercialize-robot-big-rigs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/03/30/volvo-and-aurora-partner-to-commercialize-robot-big-rigs/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60626c3324f1ce5a08c6ae58%2F0x0.jpg%3FcropX1%3D76%26cropX2%3D1260%26cropY1%3D0%26cropY2%3D700"
+        width: 1184
+        height: 700
+        isCached: true
   - title: "Volvo selects Aurora to help bring self-driving semi trucks to life"
     excerpt: "Both companies plan to make level 4 self-driving, Class 8 trucks a reality after laying technological foundations for years."
     publishedDateTime: 2021-03-30T13:30:00Z
@@ -41,37 +73,28 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data"
-    excerpt: "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ..."
-    publishedDateTime: 2021-03-30T17:57:00Z
-    webUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/"
-    ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
+  - title: "Aurora, Volvo Are Latest Partners on Self-Driving Heavy Trucks"
+    excerpt: "(Reuters) - Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before ..."
+    publishedDateTime: 2021-03-30T13:57:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2021-03-30/aurora-volvo-are-latest-partners-on-self-driving-heavy-trucks"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60634716d58e48679eadb421%2F0x0.jpg"
-        width: 1200
-        height: 750
-        isCached: true
-  - title: "Who is Austin Russell? 26-Yr-Old Billionaire CEO of Luminar Redefining Self-Driving Technology"
-    excerpt: "Russell founded a business to help self-driving cars avoid collisions and today is one of the most successful entrepreneurs with his company going public last December. Russell owned 105 million shares as of December 2, giving him nearly one third of the ..."
-    publishedDateTime: 2021-03-30T07:41:00Z
-    webUrl: "https://www.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
-    ampWebUrl: "https://amp.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 34
+  - title: "Aurora, Volvo Group join forces on self-driving trucks"
+    excerpt: "Aurora's self-driving truck program continues rolling. Two months after inking one big partnership, the company has added another. On Tuesday morning, Aurora and Volvo Group unveiled plans to commercialize trucks in a hub-to-hub service operating across North America."
+    publishedDateTime: 2021-03-30T13:43:00Z
+    webUrl: "https://www.autonews.com/mobility-report/aurora-volvo-group-join-forces-self-driving-trucks"
     type: article
     provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 47
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
     images:
-      - url: "https://data.ibtimes.sg/en/full/47811/austin-russell.jpg"
-        width: 826
-        height: 574
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Aurora%20Volvo-MAIN_i.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Mountain View unicorn Aurora Innovation teams with Volvo on self-driving trucks"
     excerpt: "The companies said they plan to work together on a new lineup of fully self-driving semi trucks that will be deployed in North America on busy hub-to-hub routes."
@@ -82,15 +105,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 15
-  - title: "Triad truck builder teams with tech firm to develop self-driving vehicles"
-    excerpt: "A Triad truck maker is collaborating with a technology company to develop self-driving Class 8 on-highway vehicles."
-    publishedDateTime: 2021-03-30T18:32:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2021/03/30/volvo-trucks-working-to-develop-autonomous-trucks.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
 
 secured: "pL8C/4qfhvgTSrBGUeZ22ndBwEHQ0UoZghLwYMM2p8mEiAYwQA9tkVJ3fyGDxYQM3ZhXpP7KFzGH5oFWm2WLgF/Uxf+mAZYiaAVCcGLjr3pYk5so+PPQj+WSUh5pWE0NDZJiD7ZkwSwYeH2L1/taSaAv7CWSK+FwqG0ZUJA97LjPbph5BcajligkVPUKITbWNq6QCdYaZJDmU9CLegX7so2h9rKjhSA31t+qc0nswst2S88Cvw7YKiI9agjasHnroKXf0DEkkO5jeK5gYsxC+HDrRHFlx84zRhfplDRpl5iDXYMnaIpaZixcFLok/tUikOuLgSpC9fFbpxVnkkwcMwsD9wZb04qs4b7vDS8IROprCv2xzPqd3kEk6U3EeLIoLyBMMGz09j0z8ZM4zITJGzCBGvaOyT/+XdwkJEQHc5Of0yHS8OicxpRqjPt6pFfKY8FTpr+uL77Ww4KxS2tO4kJPac8121A1+fOCOlvJOF0G6prO7OpfvoTYTX6LDCzjTr6j1D1IR7VmTg5RVSE5ug==;1cwtOU7tvwt161GtdAxWAA=="
 ---

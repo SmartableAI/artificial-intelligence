@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.dailypress.com/resizer/hKFhBXXA0QvHHGWfG9aQUqVqxLM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/7GUXQQBQWZF25LMGBFB2GN4TUQ.jpg"
         width: 1200
         height: 694
+        isCached: true
+  - title: "Virginia lawmakers unanimously approve bill that bans facial recognition technology"
+    excerpt: "Under the bill, any law enforcement agency using facial recognition technology must stop, and they can only get approval to use it if they seek special permission from the legislature beginning July 1st."
+    publishedDateTime: 2021-04-01T11:02:00Z
+    webUrl: "https://www.wtvr.com/news/local-news/virginia-lawmakers-unanimously-approve-bill-that-bans-facial-recognition-technology"
+    type: article
+    provider:
+      name: WTVR
+      domain: wtvr.com
+    quality: 33
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b57b549/2147483647/strip/true/crop/850x446+0+11/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F31%2F0b%2Fb7da1f3a4576ade433e6f0c0c6ca%2Ffacial-recognition-technology2.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Pqy8w5RJeF2Iv3elXJak2doaVee4YZnMJMy7E4AQSFSXPBD2ywqjNOAfmqwkse8ThRX4AdchmA6dFY4wUVYG+vlGIjQc1Bk3Rfp3vD83qoKj/l3RQwN/uSQtH5584gTYhtxIxWWzjDxO1RtOGIQcY6UDOjG8XBmH03KyAP/SauTfumzwHQn3izhJVjNx2TWTuo3uoHVBTcnWPypt8vjY6hILDG4dxVLlkDE5xsu30mhl6xhKuVGG8wuWavg5T4yHIegIlF4Z3sJij14hf+FsfNZRI0xw0wYttyC1Zw5udktSxDKK80nTCU4IN7MEWtaXurDzCE6Mko7N8SGj2XiYYVZpo5JIYH2Qvr8iLCNXuvC8gR0NyeN9g+RdRETXLwwQxy7/Mtr6zpBcFkMectWDQnyZL+NRfoK3cgPdt4m1qZTXDimk/l0TxseolhSuzwyeqnOmro5Prg++Qz5Lh8o33okWOSlbnQMHAMCMHWg1e/pGtTmEHqICHPe4I2p3xZuDVLUvxzk8eMEVJraLSp0kbw==;9OiQlFwewAzM+aiFWlwmmw=="

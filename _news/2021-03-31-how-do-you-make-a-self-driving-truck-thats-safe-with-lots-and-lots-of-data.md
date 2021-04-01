@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: Forbes
@@ -31,70 +31,29 @@ images:
     isCached: true
 
 related:
-  - title: "Volvo selects Aurora to help bring self-driving semi trucks to life"
-    excerpt: "Both companies plan to make level 4 self-driving, Class 8 trucks a reality after laying technological foundations for years."
-    publishedDateTime: 2021-03-30T13:30:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/volvo-aurora-self-driving-semi-trucks/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/volvo-aurora-self-driving-semi-trucks/"
+  - title: "How early deals with Walmart and Loblaw are helping the self-driving truck startup Gatik make millions in revenue"
+    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the \"middle mile.\" One of Gatik's investors had connected the company with ..."
+    publishedDateTime: 2021-03-31T13:42:00Z
+    webUrl: "https://www.businessinsider.com/gatik-walmart-loblaw-gautam-narang-2021-3"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 33
     images:
-      - url: "https://www.cnet.com/a/img/Gj4HZSvkuQkrIiIrXCRL1Yvby_E=/2021/03/30/c02913bb-4957-41a3-991e-fb42e64a5d1e/ogi-volvo.jpg"
+      - url: "https://i.insider.com/60621cdac9d73b00186e8fca?width=1200&format=jpeg"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "Who is Austin Russell? 26-Yr-Old Billionaire CEO of Luminar Redefining Self-Driving Technology"
-    excerpt: "Russell founded a business to help self-driving cars avoid collisions and today is one of the most successful entrepreneurs with his company going public last December. Russell owned 105 million shares as of December 2, giving him nearly one third of the ..."
-    publishedDateTime: 2021-03-30T07:41:00Z
-    webUrl: "https://www.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
-    ampWebUrl: "https://amp.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/who-austin-russell-26-yr-old-billionaire-ceo-luminar-redefining-self-driving-technology-56504"
+  - title: "Wallmart Stock – How Gatik Made Walmart Its First Self-Driving-Truck Customer"
+    excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the “middle mile.” One of Gatik’s investors had connected the company ..."
+    publishedDateTime: 2021-03-30T13:37:00Z
+    webUrl: "https://fintechzoom.com/fintech_news_walmart/wallmart-stock-how-gatik-made-walmart-its-first-self-driving-truck-customer/"
     type: article
     provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 47
-    images:
-      - url: "https://data.ibtimes.sg/en/full/47811/austin-russell.jpg"
-        width: 826
-        height: 574
-        isCached: true
-  - title: "Volvo partners with California company to deploy self-driving trucks"
-    excerpt: "Volvo Autonomous Solutions has joined with the self-driving company Aurora to develop autonomous highway transport for class 8 Volvo trucks, which are produced in Dublin. Specific models have not been determined, and information about the timeline has not ..."
-    publishedDateTime: 2021-03-30T21:04:00Z
-    webUrl: "https://www.wdbj7.com/2021/03/30/volvo-partners-with-california-company-to-hasten-deployment-of-self-driving-trucks/"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 24
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/bEipmQz_6XBfOwEBSzVFYzKLHTc=/980x0/smart/cloudfront-us-east-1.images.arcpublishing.com/gray/LUAUJ2IXBVHB5GCAHXXAFTK3JU.jpeg"
-        width: 980
-        height: 623
-        isCached: true
-  - title: "Mountain View unicorn Aurora Innovation teams with Volvo on self-driving trucks"
-    excerpt: "The companies said they plan to work together on a new lineup of fully self-driving semi trucks that will be deployed in North America on busy hub-to-hub routes."
-    publishedDateTime: 2021-03-30T14:20:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/03/30/aurora-teams-with-volvo-on-self-driving-trucks.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 15
-  - title: "Triad truck builder teams with tech firm to develop self-driving vehicles"
-    excerpt: "A Triad truck maker is collaborating with a technology company to develop self-driving Class 8 on-highway vehicles."
-    publishedDateTime: 2021-03-30T18:32:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2021/03/30/volvo-trucks-working-to-develop-autonomous-trucks.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
+      name: fintechzoom
+      domain: fintechzoom.com
+    quality: 1
 
 secured: "DpuPglOcvkZPeQwF9gMZMhkg7W4AN2f8XnfTopjYgAua21LOYj4f5O6O3l4/8486qmUevZSwNXU1QpgQU4TqbPJLbfnyGeEiFQOs24W3E7cBb0aX1WQcNoI8K/+sXyWuvHQOkGLxIC0FfufFFkv7rzk3U0DNyVSekyxnfam2a5kGMmU9rWDtpiGO69mK9ZvZCPWFu7q+I/AGyvP6z6tZSdL57H5fwJ60sRh836cghVztJgTnOklez+lxacbw3dRyJ0Q3XGfd2OAGH2iuEFjPEeER5RElvFMGT1Etukkj0TQqfMDjBu3X52ceFGsq81kfIPmJ4l+Z3BEiNLduhl4ROFZx+6VYLpexyZYWfZDfW8iB5pKnO2PnFTq+QgF69tULKokcRxlA+o7yKHH27s6xsqKMtFPpCF8YQUXCTb1YU6b8igE5FVQQkM6YjMXwdhi6xzsNpkVvT8yRl1Ece0Igv4hq2leKI1ZQ70qdUPGICCddlTy6Ap7BJHLXbwya05YKFpHsCjWFNAfucCmKax4G3Q==;5GgOBguE34KxTN6JXkhkjQ=="
 ---

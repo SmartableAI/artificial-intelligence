@@ -2,6 +2,268 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-02-18-marian-croaks-vision-for-responsible-ai-at-google.md",
+      "title": "Marian Croak’s vision for responsible AI at Google",
+      "excerpt": "Dr. Marian Croak has spent decades working on groundbreaking technology, with over 200 patents in areas such as Voice over IP, which laid the foundation for the calls we all use to get things done and stay in touch during the pandemic. For the past six years she’s been a VP at Google working on everything",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/marian-croak-responsible-ai/",
+      "originalUrl": "https://blog.google/technology/ai/marian-croak-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/marian-croak-1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/marian-croak-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/marian-croak-responsible-ai/amp/",
+      "publishedDateTime": "2021-02-18T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate.md",
+      "title": "Machine learning on distributed Dask using Amazon SageMaker and AWS Fargate",
+      "excerpt": "As businesses around the world are embarking on building innovative solutions, we’re seeing a growing trend adopting data science workloads across various industries. Recently, we’ve seen a greater push towards reducing the friction between data engineers and data scientists. Data scientists are now",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/22/ML-1156-1.jpg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T09:44:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance.md",
+      "title": "Facial recognition executive talks vaccine passports, data privacy, and surveillance",
+      "excerpt": "\"I do not want to live in an Orwellian society,\" said Rob Watts, CEO of Corsight AI, who says his company's tech could enhance virtual passport efforts and airport security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "originalUrl": "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/18/ea971936-7d75-4771-9a21-38255a37a3e0/resize/1200x/292a86bce86937a351a3cc9d50bd66e6/metamorworks.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "publishedDateTime": "2021-02-18T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-4-ways-to-bridge-the-ai-integrity-gap.md",
+      "title": "4 Ways To Bridge The AI-Integrity Gap",
+      "excerpt": "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
+      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg",
+          "width": 588,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
+      "publishedDateTime": "2021-02-18T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-the-cambrian-ai-landscape-intel.md",
+      "title": "The Cambrian AI Landscape: Intel",
+      "excerpt": "Domain Specific Architectures. Pat Gelsinger will likely double down in this field to increase the company's presence in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602e9ea0f929fbb1d0e6d1da%2F0x0.png%3FcropX1%3D0%26cropX2%3D864%26cropY1%3D37%26cropY2%3D524",
+          "width": 864,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/amp/",
+      "publishedDateTime": "2021-02-18T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-will-the-future-of-security-be-led-by-robots-aitx-president-says-yes.md",
       "title": "Will the future of security be led by robots? AITX president says yes",
       "excerpt": "Could the future of security be led by robots? Artificial Intelligence Technology Solutions — commonly known as AITX — thinks so. The",
@@ -936,231 +1198,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india.md",
-      "title": "'Artificial Intelligence and the Future of Power' a grim wake-up call for India",
-      "excerpt": "New Delhi, Feb 18 : With Artificial Intelligence helping \"biological materialism sneak in through the back door\", the world is witnessing a real clash of civilisations with \"the battle between algorithm and being\" writes Rajiv Malhotra, one of the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prokerala.com/news/articles/a1132144.html",
-      "originalUrl": "https://www.prokerala.com/news/articles/a1132144.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prokerala.com/news/photos/imgs/450/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-1151753.jpg",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.prokerala.com/news/articles/a1132144.html?amp=1",
-      "cdnAmpWebUrl": "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1132144.html?amp=1",
-      "publishedDateTime": "2021-02-18T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Prokerala",
-        "domain": "prokerala.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning.md",
-      "title": "Global AI-based Drug Discovery Markets 2020-2030: Focus on Deep Learning and Machine Learning",
-      "excerpt": "The \"AI-based Drug Discovery Market: Focus on Deep Learning and Machine Learning, 2020-2030\" report has been added",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/g19721667/global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/g19721667/global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19721667",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19721667",
-      "publishedDateTime": "2021-02-18T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-breakingviews-capital-calls-baidu-hits-its-ai-stride.md",
-      "title": "Breakingviews - Capital Calls: Baidu hits its AI stride",
-      "excerpt": "China’s search engine operator Baidu is finally getting somewhere with its artificial intelligence bets. Sales in the quarter ending in December rose 5% year-on-year to $4.6 billion. That was powered by a 52% surge in cloud computing and other non-advertising revenue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8",
-      "originalUrl": "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551939101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H055",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AI0B8",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI0B8",
-      "publishedDateTime": "2021-02-18T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-strengthening-international-cooperation-on-artificial-intelligence.md",
-      "title": "Strengthening international cooperation on artificial intelligence",
-      "excerpt": "China has benefited from global cooperation on AI research and has expanded domestic innovation capacity. At the same time, China combines a restricted domestic market with an international ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/research/strengthening-international-cooperation-on-artificial-intelligence/",
-      "originalUrl": "https://www.brookings.edu/research/strengthening-international-cooperation-on-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2021/02/global_china_ai_conference1.jpg",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/research/strengthening-international-cooperation-on-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/strengthening-international-cooperation-on-artificial-intelligence/?amp",
-      "publishedDateTime": "2021-02-18T00:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brookings Institution",
-        "domain": "brookings.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-baidus-stronger-than-expected-outlook-validates-ai-push.md",
-      "title": "Baidu’s Stronger-Than-Expected Outlook Validates AI Push",
-      "excerpt": "Baidu Inc. forecast sales that topped estimates as efforts by China’s internet search leader to diversify into the cloud and artificial intelligence businesses start to pay off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-17/baidu-s-revenue-beat-estimates-as-core-search-business-recovers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io27gqrjv5qg/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T23:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

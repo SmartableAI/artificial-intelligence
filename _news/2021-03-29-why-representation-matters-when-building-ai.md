@@ -47,6 +47,22 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "US regulators are seeking info on AI in banking, and that could be good news for banks"
+    excerpt: "US banking regulators, including the Fed and Federal Deposit Insurance Corporation, are seeking information on how banks use AI."
+    publishedDateTime: 2021-04-01T13:20:00Z
+    webUrl: "https://www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/6065c74ddaf0f10018f996b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Get the training you need to become adept at AI and Machine Learning"
     excerpt: "The first class will give you the foundations you need when it comes to artificial intelligence and machine learning. Over the course of 72 lectures, this course provides the basics of Deep Learning by giving an insight of different neural networks."
     publishedDateTime: 2021-03-28T20:14:00Z

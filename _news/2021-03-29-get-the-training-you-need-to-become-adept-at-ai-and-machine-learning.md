@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "US regulators are seeking info on AI in banking, and that could be good news for banks"
+    excerpt: "US banking regulators, including the Fed and Federal Deposit Insurance Corporation, are seeking information on how banks use AI."
+    publishedDateTime: 2021-04-01T13:20:00Z
+    webUrl: "https://www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-regulators-take-interest-in-ai-banking-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 79
+    images:
+      - url: "https://i.insider.com/6065c74ddaf0f10018f996b2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "GK1tsA3hx8Ao72U9dBLXLdLGJ3Mk4OIPikiTeyHy85xsY/7gHRSA9TG8omJYb4Yxd1Isl46ShLneBEYNKXcIQnVDrgj2N7qRPRQBLIWdnQSSXfTtV2q4X7yq5Yz0ljI57mIZTwVqQ1UTMU4pADB39WMxxHc3NtHSqfIsd+TNqsDD9CG9kDu7CAvKwVyuO6WOj2RSnFOSqkLBi/0sGlYeHM42+Aku3Xf/fozlzq+puztstNeFFBYK7Y/uTfPAcMcJpLnxTXfvpkYUhMWgER69bcBVgLV7AxfhLAVumdXjh5ZLyrMB9FOA9XeFnjuPIE0yK8kx+XgoQ0+JQTQIouSFne5KVMIbbJMbUXL4iPrlRvqfECPmmYl1zuxuz95tKQgiX99FNlMIL9hjmbTGu8WcpmRA7OCIN6XmubboaMl4H5VtU/9Qk/vfTJVgkJ28iC30yd3LgKj7zAI9w82+S6D1Z15zz8VYk8LGTU7l/EMwm0Or5Z7VrBc8yL3Uyni8u6BHyxad5XpbZqrBFNO8L57GWA==;ard9reaVdPqGROTQR0vn2Q=="
 ---

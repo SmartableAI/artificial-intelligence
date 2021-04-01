@@ -2,6 +2,255 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-29-seervision-software-with-ai-assist-can-operate-multiple-cameras-from-one-pc.md",
+      "title": "Seervision software with AI assist can operate multiple cameras from one PC",
+      "excerpt": "Seervision has unveiled new software that can operate cameras as if it was a human, making video production easier and less time-consuming. Seervision has roots at ETH Zürich, where students developed a prototype in the past for recording lectures ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/seervision-software-with-ai-assist-can-operate-multiple-cameras-from-one-pc-29665885/",
+      "originalUrl": "https://www.slashgear.com/seervision-software-with-ai-assist-can-operate-multiple-cameras-from-one-pc-29665885/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/seervision.jpg",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/seervision-software-with-ai-assist-can-operate-multiple-cameras-from-one-pc-29665885/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/seervision-software-with-ai-assist-can-operate-multiple-cameras-from-one-pc-29665885/amp/",
+      "publishedDateTime": "2021-03-29T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-didi-is-raising-money-for-self-driving-unit-at-6-billion-value.md",
+      "title": "Didi Is Raising Money for Self-Driving Unit at $6 Billion Value",
+      "excerpt": "Ride-hailing giant Didi Chuxing is raising new funds for its self-driving unit as China’s answer to ... production of driverless vehicles and invest in technologies like artificial intelligence chips, people said. Plans for the latest fundraising could ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/if8sWN57UZdA/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-29T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-fridges-microwaves-fall-prey-to-global-chip-shortage.md",
+      "title": "Fridges, microwaves fall prey to global chip shortage",
+      "excerpt": "A global shortage of chips that has rattled production lines at car companies and squeezed stockpiles at gadget makers, is now leaving home appliance makers unable to meet demand, according to the president of Whirlpool Corp in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/uk-chips-shortage-appliances-idUKKBN2BL0ZO",
+      "originalUrl": "https://www.reuters.com/article/uk-chips-shortage-appliances-idUKKBN2BL0ZO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210329&t=2&i=1556585768&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2S0O4",
+          "width": 796,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2BL0ZO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BL0ZO",
+      "publishedDateTime": "2021-03-29T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-youve-invested-in-ai-but-are-you-getting-roi-from-it.md",
+      "title": "You’ve Invested In AI, But Are You Getting ROI From It?",
+      "excerpt": "Quantifying the return on investment from Artificial Intelligence is not easy. With these four steps, you can measure your business value systematically.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605f7d0d6baf0ceb37f89102%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1765%26cropY1%3D86%26cropY2%3D1079",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/03/29/youve-invested-in-ai-but-are-you-getting-roi-from-it/amp/",
+      "publishedDateTime": "2021-03-29T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-29-machine-learning-helps-spot-gait-problems-in-individuals-with-multiple-sclerosis.md",
+      "title": "Machine learning helps spot gait problems in individuals with multiple sclerosis",
+      "excerpt": "Monitoring the progression of multiple sclerosis-related gait issues can be challenging in adults over 50 years old, requiring a clinician to differentiate between problems related to MS and other age-related issues.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/20-machinelearn.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-machine-gait-problems-individuals-multiple.amp",
+      "publishedDateTime": "2021-03-29T00:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-29-it-pro-panel-does-ai-have-a-place-in-security.md",
       "title": "IT Pro Panel: Does AI have a place in security?",
       "excerpt": "Machine intelligence is the last invention that humanity will ever need to make.” That’s according to philosopher Nick Bostrom, and it’s arguably true; AI has huge potential to enable and accelerate the efforts of human beings across a wide range of disciplines.",
@@ -974,239 +1223,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189.md",
-      "title": "Switch Pro gets new chip, Xbox buying Discord, Monster Hunter Rise | GB Decides 189",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. GamesBeat reviews editor Mike Minotti got his first vaccine shot, so he’s feeling a little loopy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/",
-      "originalUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/monsterhunterswitch.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/switch-pro-gets-new-chip-xbox-buying-discord-monster-hunter-rise-gb-decides-189/amp/",
-      "publishedDateTime": "2021-03-26T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment.md",
-      "title": "Is Art Made by an AI Robot Speech Protected by the First Amendment?",
-      "excerpt": "the robot becomes a medium for a person's expression, assisting (inspiring?) the decision-making process of what to design. I'll admit. In 2014, I didn't think AI artists would soon start selling ...",
-      "sourceUrl": null,
-      "webUrl": "https://reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/",
-      "originalUrl": "https://reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Dn750GALzbo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/?amp",
-      "cdnAmpWebUrl": "https://reason-com.cdn.ampproject.org/c/s/reason.com/volokh/2021/03/26/is-art-made-by-an-ai-robot-speech-protected-by-the-first-amendment/?amp",
-      "publishedDateTime": "2021-03-26T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reason",
-        "domain": "reason.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-robotics-firm-uipath-files-for-ipo-after-35b-valuation.md",
-      "title": "Robotics Firm UiPath Files for IPO After $35B Valuation",
-      "excerpt": "UiPath, the New York robotics automation company, filed for an initial public offering after raising capital at a $35 billion valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "originalUrl": "https://www.thestreet.com/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/xH61MO4x-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/robotics-firm-uipath-files-for-ipo-after-35-billion-valuation",
-      "publishedDateTime": "2021-03-26T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move.md",
-      "title": "Computer vision software has the potential to reinvent the way cities move",
-      "excerpt": "The same frustrations have plagued urban roadways for decades. But technology is finally providing new ways to address the challenges of crowding, pollution and parking enforcement on city streets.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
-      "originalUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-951157764.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/26/computer-vision-software-has-the-potential-to-reinvent-the-way-cities-move/amp/",
-      "publishedDateTime": "2021-03-26T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-27-watch-the-role-of-artificial-intelligence-in-auto-finance.md",
-      "title": "Watch: The role of artificial intelligence in auto finance",
-      "excerpt": "Auto lenders are turning to artificial intelligence (AI) and machine learning to increase efficiencies, improve customer service and expand marketing endeavors. Yet, incorporating new technology stacks poses challenges that financiers will need to navigate in order to take full advantage of the opportunities AI offers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/",
-      "originalUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autofinancenews.net/wp-content/uploads/2017/10/favicon-1.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/amp/",
-      "cdnAmpWebUrl": "https://www-autofinancenews-net.cdn.ampproject.org/c/s/www.autofinancenews.net/allposts/innovation-technology/watch-the-role-of-artificial-intelligence-in-auto-finance/amp/",
-      "publishedDateTime": "2021-03-26T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Auto Finance News",
-        "domain": "autofinancenews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
