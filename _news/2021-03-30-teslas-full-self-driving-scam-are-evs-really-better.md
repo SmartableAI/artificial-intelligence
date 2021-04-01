@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "As Tesla gears up to release 'Full Self-Driving' to thousands more drivers, videos continue to show its flaws"
-    excerpt: "In one video, an FSD-equipped Tesla nearly crashes into a median and almost drives through a row of pylons — all within a few minutes."
-    publishedDateTime: 2021-03-27T12:44:00Z
-    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-beta-videos-show-flaws-wide-release-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-beta-videos-show-flaws-wide-release-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-beta-videos-show-flaws-wide-release-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-    images:
-      - url: "https://i.insider.com/6011ef341d2df20018b713d3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "The Debate Over Tesla’s Full Self-Driving"
     excerpt: "debate over Tesla’s full self-driving. Get the entire 10-part series on Ray Dalio in PDF. Save it to your desktop, read it on your tablet, or email to your colleagues Volkswagen was in the headlines yesterday after it posted a press release on its ..."
     publishedDateTime: 2021-03-31T16:04:00Z

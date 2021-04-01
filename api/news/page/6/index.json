@@ -2,6 +2,195 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-26-sage-buys-israeli-ai-firm-as-part-of-push-into-new-technologies.md",
+      "title": "Sage buys Israeli AI firm as part of push into new technologies",
+      "excerpt": "Sage said the deal for Task Sheriff, an AI-based software-as-a-service start-up based in Tel Aviv, would strengthen its the experience it offers to its customers as emerging and advanced technologies drive benefits for businesses. Task Sheriff automates ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865",
+      "originalUrl": "https://www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.chroniclelive.co.uk/incoming/article12461914.ece/ALTERNATES/s615/0_PNP_NEC_260914sage_010JPG.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865.amp",
+      "cdnAmpWebUrl": "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/sage-buys-israeli-ai-firm-20263865.amp",
+      "publishedDateTime": "2021-03-26T06:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "business-live",
+        "domain": "business-live.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-underage-teen-gets-in-teslas-back-seat-and-claims-it-was-self-driving-after-being-pulled-over-by-police.md",
+      "title": "Underage teen gets in Tesla’s back seat and claims it was self-driving after being pulled over by police",
+      "excerpt": "Both girls claimed that no one was driving the vehicle and that the Tesla was self-driving. While Tesla does sell a “Full Self-Driving package,” the feature-complete version of the package is ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/",
+      "originalUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-driver-back-seat.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/26/underage-teen-tesla-back-seat-claims-self-driving-after-pulled-over-police/amp/",
+      "publishedDateTime": "2021-03-26T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-how-yandex-plans-to-expand-its-autonomous-robot-delivery-service.md",
+      "title": "How Yandex plans to expand its autonomous robot delivery service",
+      "excerpt": "Yandex plans to expand its autonomous delivery service to the U.S. and elsewhere. Here's how it hopes to accomplish this.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
+      "originalUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/YandexRover_delivery_robot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/26/how-yandex-is-expanding-its-autonomous-robot-delivery-service/amp/",
+      "publishedDateTime": "2021-03-26T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-ai-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.md",
+      "title": "AI study on aggressive form of cancer could improve patient outcomes",
+      "excerpt": "International genomics research led by the University of Leicester has used artificial intelligence (AI ... These paths predict the aggressiveness and possible therapy of this otherwise incurable cancer. It has long been appreciated that asbestos causes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210326/AI-study-on-aggressive-form-of-cancer-could-improve-patient-outcomes.aspx",
+      "publishedDateTime": "2021-03-26T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-amazons-new-machine-learning-tool-will-help-businesses-spot-flagging-kpis.md",
       "title": "Amazon's new machine learning tool will help businesses spot flagging KPIs",
       "excerpt": "Lookout for Metrics is a fully-managed machine learning tool for monitoring business metrics and tackling dips in business performance. Lookout for Metrics identifies unexpected changes in data that might indicate critical performance issues Amazon Web ...",
@@ -971,195 +1160,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-aws-announces-general-availability-of-amazon-lookout-for-metrics.md",
-      "title": "AWS Announces General Availability of Amazon Lookout for Metrics",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Metrics, a new fully managed service that detects anomalies in metrics and helps determine their root cause.",
-      "sourceUrl": null,
-      "webUrl": "https://www.argus-press.com/news/national/article_3c36c6f7-164c-5f58-9466-3f3ef9186d1a.html",
-      "originalUrl": "https://www.argus-press.com/news/national/article_3c36c6f7-164c-5f58-9466-3f3ef9186d1a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/argus-press.com/content/tncms/custom/image/bdf824b4-27a0-11e8-a78f-67fc2c3cc6dd.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Argus-Press",
-        "domain": "argus-press.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-this-is-the-tech-investing-trend-im-most-excited-about-right-now.md",
-      "title": "This Is the Tech Investing Trend I'm Most Excited About Right Now",
-      "excerpt": "The tech sector is filled with many promising secular growth stories, including driverless cars, automated factories, wearables, chatbots, and cloud services. However, one common theme links most of these next-gen markets together: artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619166%2Fgettyimages-1267193955.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/25/this-is-the-tech-investing-trend-im-most-excited-a/",
-      "publishedDateTime": "2021-03-25T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-26-when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live.md",
-      "title": "When AI flags the ruler, not the tumor — and other arguments for abolishing the black box (VB Live)",
-      "excerpt": "One of the big issues that exists within AI generally, but is particularly acute in health care settings, is the issue of transparency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/",
-      "originalUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-565782633.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 865,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/when-ai-flags-the-ruler-not-the-tumor-and-other-arguments-for-abolishing-the-black-box-vb-live/amp/",
-      "publishedDateTime": "2021-03-25T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-darpa-seeks-to-improve-computer-vision-in-third-wave-of-ai-research.md",
-      "title": "DARPA Seeks to Improve Computer Vision in ‘Third Wave’ of AI Research",
-      "excerpt": "The advanced research office is preparing a solicitation for novel research into In Pixel Intelligent Processing as the next breakthrough in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/03/darpa-seeks-improve-computer-vision-third-wave-ai-research/172921/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/03/darpa-seeks-improve-computer-vision-third-wave-ai-research/172921/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/upload/2021/03/25/NGvision20210325/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-30-facial-recognition-camera-projects-raise-concerns-in-eastern-europe.md",
+      "title": "Facial recognition camera projects raise concerns in Eastern Europe",
+      "excerpt": "Digital rights organizations are concerned about the increasing use of mass surveillance systems featuring thousands of facial recognition cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
+      "originalUrl": "https://www.zdnet.com/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facial-recognition-camera-projects-raise-concerns-in-eastern-europe/",
+      "publishedDateTime": "2021-03-30T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-self-driving-ev-takes-a-slow-steady-approach-to-solar-powered-mobility.md",
+      "title": "Self-driving EV takes a slow, steady approach to solar-powered mobility",
+      "excerpt": "When it comes to making road transportation more sustainable automakers are putting a lot of work into to fitting out conventional cars with electric drivetrains, but others are thinking a little further outside the box.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/",
+      "originalUrl": "https://newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/670cf81/2147483647/strip/true/crop/1296x864+120+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2F77%2F94fdc819411b9aa1f26108fc94b7%2Fls-ev-prototype-2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/solar-electric-vehicle-autonomous-low-speed-teijin/?amp=true",
+      "publishedDateTime": "2021-03-29T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-sophia-the-robot-sells-digital-nft-artwork-for-nearly-700000.md",
+      "title": "Sophia the robot sells digital NFT artwork for nearly $700,000",
+      "excerpt": "Continuing the wave of extraordinary digital art sales manifested by new blockchain-based NFT technology, an artwork co-created by the famous humanoid robot Sophia has now sold for just under US$700,000.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
+      "originalUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/930c08f/2147483647/strip/true/crop/761x507+81+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F44%2F7b%2F8a803840418f86bb4c1a92b9f723%2Fscreen-shot-2021-03-30-at-12.31.32.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/sophia-robot-sells-digital-nft-auction-immervision/?amp=true",
+      "publishedDateTime": "2021-03-29T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-watch-tesla-full-self-driving-beta-navigate-through-the-eye-of-the-system-in-impressive-video.md",
       "title": "Watch Tesla Full Self-Driving Beta navigate through the eye of the system in impressive video",
       "excerpt": "In a new video, we get a rare look at Tesla’s Full Self-Driving Beta software at work through what it can actually see as it navigates city streets. You can watch the impressive video below.",
@@ -10,7 +157,7 @@
       "originalUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -136,6 +283,49 @@
       "provider": {
         "name": "ABC",
         "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-disney-world-tests-facial-recognition-at-magic-kingdom.md",
+      "title": "Disney World Tests Facial Recognition At Magic Kingdom",
+      "excerpt": "Walt Disney World Resort in Florida is trialing a facial recognition admission system at its Magic Kingdom theme park, NFCW reported on Monday (March 29). “If you return to Magic Kingdom park during our limited-time test, consider entering using the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Disney-facial-recognition-theme-park-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/disney-world-tests-facial-recognition-at-magic-kingdom/amp/",
+      "publishedDateTime": "2021-03-29T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -990,204 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-infobips-communications-paas-now-available-on-microsoft-azure.md",
-      "title": "Infobip's Communications PaaS Now Available on Microsoft Azure",
-      "excerpt": "Global cloud communications company, Infobip last week announced its full Communications Platform as-a-Service",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/19381-infobips-communications-paas-now-available-on-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/0a1f987d5ded1b505ab367a93e841ec1.jpg?t=20210329_025113",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-28T19:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-backpack-ai-system-helps-the-visually-impaired-navigate-safely.md",
-      "title": "Backpack AI system helps the visually-impaired navigate safely",
-      "excerpt": "There, a computing unit like a laptop or Raspberry Pi runs an AI interface called OpenCV’s Artificial Intelligence Kit with Depth (OAK-D), which uses neural networks to analyze the visual data.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/",
-      "originalUrl": "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/ecd4812/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff0%2F62%2Faa5e4925429e85fbf7af32b6c1b3%2Fdepositphotos-355246818-l-2015.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/visually-impaired-blind-backpack-ai/?amp=true",
-      "publishedDateTime": "2021-03-28T19:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world.md",
-      "title": "Reinforcement learning: The next great AI tech moving from the lab to the real world",
-      "excerpt": "Reinforcement learning (RL) is a powerful type of AI technology that can learn strategies to optimally control large, complex systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/",
-      "originalUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/ai-4.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/",
-      "publishedDateTime": "2021-03-28T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities.md",
-      "title": "Service Robotics Market Top Companies Data 2021, Latest Industry Share, Demand and Revenue Growth Opportunities",
-      "excerpt": "The global “Service Robotics Market Share” is expected to rise with an impressive CAGR and generate the highest revenue",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-28T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

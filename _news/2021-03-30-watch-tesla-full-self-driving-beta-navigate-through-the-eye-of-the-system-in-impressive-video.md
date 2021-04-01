@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "As Tesla gears up to release 'Full Self-Driving' to thousands more drivers, videos continue to show its flaws"
-    excerpt: "In one video, an FSD-equipped Tesla nearly crashes into a median and almost drives through a row of pylons — all within a few minutes."
-    publishedDateTime: 2021-03-27T12:44:00Z
-    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-beta-videos-show-flaws-wide-release-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-beta-videos-show-flaws-wide-release-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-beta-videos-show-flaws-wide-release-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 70
-    images:
-      - url: "https://i.insider.com/6011ef341d2df20018b713d3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Tesla’s Full Self-Driving Scam; Are EVs Really Better?"
     excerpt: "Whitney Tilson's email to investors discussing if electric cars really better for the environment; Tesla's full self-driving scam revisited.\""
     publishedDateTime: 2021-03-30T14:52:00Z

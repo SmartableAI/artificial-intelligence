@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Aussie researchers using machine learning to analyse rock art"
+    excerpt: "South Australian researchers have been working with the Mimal and Marrku traditional owners of the Wilton River area in Australia's Top End to analyse the evolution of rock art through machine learning. The study, led by Flinders University archaeologist ..."
+    publishedDateTime: 2021-04-01T04:47:00Z
+    webUrl: "https://www.zdnet.com/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aussie-researchers-using-machine-learning-to-analyse-rock-art/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/04/01/78cdf0c5-f3f1-4302-a7db-b46989bfde20/mimal-image-1.jpg"
+        width: 4032
+        height: 3024
+        isCached: true
   - title: "Modern analysis of rock art: Machine learning opens new doors in archaeology"
     excerpt: "Rock art of human figures created over thousands of years in Australia's Arnhem Land has been put through a transformative machine learning study to analyse style changes over the years."
     publishedDateTime: 2021-03-30T22:11:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/2-modernanalys.jpeg"
         width: 2372
         height: 1582
+        isCached: true
+  - title: "When rock art meets machine learning"
+    excerpt: "Rock art of human figures created over thousands of years in Arnhem Land has been put through a transformative machine learning study to analyse style changes over the years. The study – just published in Australian Archaeology – has tested different ..."
+    publishedDateTime: 2021-04-01T03:43:00Z
+    webUrl: "https://www.miragenews.com/when-rock-art-meets-machine-learning-538479/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://news.flinders.edu.au/wp-content/uploads/2021/04/Rock-art-main.jpg"
+        width: 660
+        height: 489
         isCached: true
 
 secured: "myc6ZQgCzOZTp3GXAdi76OzOtWsbrK0iJ2Iddr+SjS53E9JCBCzsVFXL3GkoS3IO03dhE1B8z2kPPb5DrLkp5iclcD1v0Og4IurIMdq+rRvB68Fe4Yt+kAt18ZLs7cqh5NDPL1UlWk2ochPRSMy+PzSCEH5gY4mJtP4rqOWauXMvLUJnzpVwkX6NpogFGADOfRuKOhPLJbicIiFM+FKpZBtrwY4aVSmzqr2WEruePuK68irFbH/1YTw6iNpyCdmwLPtSIGR8YzDl+9W/vJ0Zg5ulxhnnrUC6VKy3oLI64DT7RHA72BPn9gqLlk1Genvk4+BBWjXKpkft4zd8eIvj+VoPjpvU43SpTwQNku8Wzw6hKonFizzQpugpTLohgcpoO19DhjCOFdM0nQ7sY4C0aIpOkQbGAhvzGeuLgr2toCSz4VCcnyzCFe6OU0YcFxHGiRYsD1XBjFXaSm+WD1WJoablbAJFGO6KgPE2gyip3BMxTKKAJQnGPWlnm3LuIsStsceKsRArONX9nlEVbsfrXw==;Rl17bZTLLRCKhNmgJyJznA=="

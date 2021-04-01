@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-07-retrofitting-mits-deep-learning-boot-camp-for-the-virtual-world.md",
+      "title": "Retrofitting MIT’s deep learning “boot camp” for the virtual world",
+      "excerpt": "With technology new and old, instructors try to recreate the interactivity of their pre-Covid classroom. Deep learning is advancing at lightning speed, and Alexander Amini ’17 and Ava Soleimany ’16 want to make sure they have your attention as they ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/retrofitting-mit-deep-learning-boot-camp-virtual-world-0304",
+      "originalUrl": "https://news.mit.edu/2021/retrofitting-mit-deep-learning-boot-camp-virtual-world-0304",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202102/stata-amini-soleimany.png",
+          "width": 4032,
+          "height": 2688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-07T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-deep-learning-the-way-forward-with-significant-value-unlocking-during-the-next-decade.md",
       "title": "Deep learning: The way forward with significant value unlocking during the next decade",
       "excerpt": "The global deep learning market, currently priced at $4.4 billion in 2020, has been projected to expand at a staggering 39.2 per cent CAGR between 2020 and 2027, to reach $44.3 billion by 2027 ...",
@@ -1376,59 +1428,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning.md",
-      "title": "AWS rekindles a crafty scheme to get developers into machine learning",
-      "excerpt": "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "originalUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "publishedDateTime": "2021-03-02T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

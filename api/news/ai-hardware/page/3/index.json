@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-04-what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter.md",
+      "title": "What If Media Group introduces AI tool to make marketing campaigns smarter",
+      "excerpt": "What If Media Group's new tool promises to improve marketing campaign performance through the use of machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/",
+      "originalUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/12/Marketing-tech.shutterstock_311883674.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/amp/",
+      "publishedDateTime": "2021-03-04T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords.md",
       "title": "Edge AI Chip Company Syntiant Announces Support for ‘Hey Google’ and ‘Ok Google’ Hotwords",
       "excerpt": "Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced that it supports Ok Google and Hey Google hotwords with the Syntiant® NDP120™ Neural Decision Processor™ (NDP).",
@@ -1374,58 +1427,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-auto-supplier-visteon-sees-more-plant-closures-due-to-chip-shortage.md",
-      "title": "Auto supplier Visteon sees more plant closures due to chip shortage",
-      "excerpt": "Auto parts supplier Visteon Corp said on Thursday the global semiconductor chip shortage could hit global auto production by about 10% to 15% in the first half of 2021 and likely lead to additional plant closures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-visteon-semiconductors-idUSKBN2AI29M",
-      "originalUrl": "https://www.reuters.com/article/us-visteon-semiconductors-idUSKBN2AI29M",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1552021796&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H19J",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AI29M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI29M",
-      "publishedDateTime": "2021-02-18T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

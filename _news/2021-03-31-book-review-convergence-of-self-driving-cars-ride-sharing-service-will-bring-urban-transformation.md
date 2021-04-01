@@ -3,8 +3,8 @@ category: news
 title: "Book review: convergence of self-driving cars, ride sharing service will bring urban transformation"
 excerpt: "In the present day, the automotive industry has turned its attention to self-driving cars as its near future. Not only the traditional players such as GM, Ford, Toyota and BMW, but the IT and mobility companies including Google, Uber and Baidu are in a ..."
 publishedDateTime: 2021-03-31T08:04:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/04/142_306295.html"
-webUrl: "https://www.koreatimes.co.kr/www/culture/2021/04/142_306295.html"
+originalUrl: "https://www.koreatimes.co.kr/www/art/2021/04/142_306295.html?fl"
+webUrl: "https://www.koreatimes.co.kr/www/art/2021/04/142_306295.html?fl"
 ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=306295"
 type: article
@@ -21,7 +21,7 @@ topics:
   - AI
 
 images:
-  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202103/d8fa7a6b2c774add8e49e67bb17abfd5.jpg"
+  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202104/cf8cd12b7ffb4679b4fc9002cc9e8eed.jpg"
     width: 980
     height: 512
     isCached: true
@@ -157,6 +157,6 @@ related:
         height: 512
         isCached: true
 
-secured: "c+vOP8M+PD9WYD0q6wJdQns6VcN9aG341+rgTXBrAehfsMiiW/9EbXF1Zb5Y6TqJfPwmI9J1JT77UVOgPcrjoPLQyHu3I/d02fyn06MhQ4cIA5/HIgDisnceGi3i48Wjiik6wR35hs9ZRLP85pkqq/jb7dgm+FR5Sbc1D3a/HXYPwy9RFpXUjRqmWYzJY0e5lU6xn564uYaYPBLlvu1CjnZ6mtNOZjiPymeppT/fOjgMXDCEpUD97gsqflIvBQL3AcQ83QFkplgIiOdwtEDLZ4qcwU8t1FTFnbxmmITXZfHAxZG1vwSeRW7/MG+bjBMyVXpSlbsMZ4vUIuheRKVnqQluOhmjIpj9x4q/wB+w06y6dxllesY59aOMZVGvh5tarcPDjefUJQE3OyqUQhFrSZ1XTc1eiYk9boEOmngZpsmiHoSZEveYU8256WpSWb4mwkXu5xxM3TRPvZZTG/ZSVhoYyvexrj5Z2tQBq5mB68JXH2xuLgR685SBlgyn5OQAsGbiNF7Puc+DNgfy3zZPSg==;XG64loqN3l5GXHHsIE3ROA=="
+secured: "KVbusMxG5KKf1rscxb5mHZyV3BEhJ5n3+QXWWnzla96EUyfRx6o42aa1272CdPpdUslAuKs1yF6rlx6U1sL3INsN2BU6TgJKlauz4dXy8c54RflW4f+B1AEAiCJzfyONsaUfmjRL48Oo/OacR2RrlUl7VJqBWagNA0mp5Ysv4vHjmnRsHBKS247RqWSDhCu2SdxGsTQqOhF24/kRbD5eAw/546g5Mpi8Q0g1VI/ArB9XKOYHurM90QwhHdCXwtbjRH6LAbM6uttrNuT0jCtgJzcLeXsDu2loxXtpS2fCV46paim9msfZKC7h0AYL3Qqqjp2lEMtvj2pHnpC4eFv5pWogNwBLq6lYlwVj0P9dKGA=;xZ6V+wyShsnf9GDk2dzYzw=="
 ---
 

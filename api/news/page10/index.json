@@ -2,6 +2,178 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-03-23-new-algorithm-could-aid-the-rise-of-soft-robots-for-tricky-tasks.md",
+      "title": "New Algorithm Could Aid the Rise of Soft Robots for Tricky Tasks",
+      "excerpt": "Soft robot development could benefit from an algorithm that optimizes sensor placement allowing such machines to better ‘understand’ their environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12109",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12109",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12109_16165176633231094.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12109",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12109",
+      "publishedDateTime": "2021-03-23T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-hes-fintech-and-ondato-are-now-partners-to-promote-digital-onboarding-in-banking-and-finance.md",
+      "title": "HES FinTech and Ondato are Now Partners to Promote Digital Onboarding in Banking and Finance",
+      "excerpt": "and Co-Founder of HES FinTech. “We are looking forward to discovering new opportunities together with HES. They are experts in lending software and AI/ML-based decision-making solutions. Our major goal is to help lenders scale up their activities and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210323005020/en/HES-FinTech-and-Ondato-are-Now-Partners-to-Promote-Digital-Onboarding-in-Banking-and-Finance",
+      "originalUrl": "https://www.businesswire.com/news/home/20210323005020/en/HES-FinTech-and-Ondato-are-Now-Partners-to-Promote-Digital-Onboarding-in-Banking-and-Finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-tesla-delays-full-self-driving-beta-access-musk-promises-changes-next-month.md",
+      "title": "Tesla delays Full Self-Driving beta access, Musk promises changes next month",
+      "excerpt": "The outspoken CEO said there's \"limited value\" further testing the current version and promised more access for Version 9.0.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-access-delay-musk/",
+      "publishedDateTime": "2021-03-23T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-truenorth-and-boostai-enter-partnership-to-supercharge-digital-customer-experience-with-conversational-ai.md",
+      "title": "TrueNorth and Boost.ai Enter Partnership to Supercharge Digital Customer Experience With Conversational AI",
+      "excerpt": "TrueNorth, a global fintech software development company, and Boost.ai, a global leader in conversational artificial intelligence for Fortune 1000 companies, today announced a new partnership. This partnership streamlines the process of developing and implementing Boost.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-north-america-san-francisco-5e63a44fc0bf4b099830acd8d4cb4ec2",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-north-america-san-francisco-5e63a44fc0bf4b099830acd8d4cb4ec2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-aws-and-hugging-face-collaborate-to-simplify-and-accelerate-adoption-of-natural-language-processing-models.md",
       "title": "AWS and Hugging Face Collaborate to Simplify and Accelerate Adoption of Natural Language Processing Models",
       "excerpt": "Just like computer vision a few years ago, the decade-old field of natural language processing (NLP) is experiencing a fascinating renaissance. Not a month goes by without a new breakthrough! Indeed, thanks to the scalability and cost-efficiency of cloud-based infrastructure, researchers are finally",
@@ -1024,214 +1196,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025.md",
-      "title": "Artificial Intelligence in Education Market Outlook By Share, Size, Trends and Forecasts 2025",
-      "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence in Education Market, which has been",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-education-market-outlook-by-share-size-trends-and-forecasts-2025-2021-03-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-23T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-helping-newsrooms-experiment-together-with-ai.md",
-      "title": "Helping newsrooms experiment together with AI",
-      "excerpt": "In our JournalismAI report, journalists around the world told researchers they are eager to collaborate and explore the benefits of AI, especially as it applies to newsgathering, production and distribution. To facilitate their collaboration, the Google News Initiative and Polis – the journalism think",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/",
-      "originalUrl": "https://blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/helping-newsrooms-experiment-together-ai/amp/",
-      "publishedDateTime": "2021-03-23T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-jumio-raises-150m-to-secure-onboarding-with-image-verification-ai.md",
-      "title": "Jumio raises $150M to secure onboarding with image verification AI",
-      "excerpt": "Jumio, an AI-powered platform for identity verification, has raised $150 million in venture capital from new and existing investors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/",
-      "originalUrl": "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/jumio-raises-150m-to-secure-onboarding-with-image-verification-ai/amp/",
-      "publishedDateTime": "2021-03-23T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-marketing-campaign-analytics-startup-sellforte-raises-478m.md",
-      "title": "Marketing campaign analytics startup Sellforte raises $4.78M",
-      "excerpt": "Sellforte, a startup developing AI technology that predicts the impact of marketing campaigns, has raised €4 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/",
-      "originalUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/5fff665fc52da858839a8898_Sellforte__-e1616447073344.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/23/marketing-campaign-analytics-startup-sellforte-raises-4-78m/amp/",
-      "publishedDateTime": "2021-03-23T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],
