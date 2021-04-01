@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 8667496
+        "followers": 8669339
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -79,7 +79,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 69503
+        "followers": 69509
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -139,7 +139,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 20553
+        "followers": 20558
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -198,7 +198,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1053445
+        "followers": 1053479
       },
       "yearFounded": 0,
       "locations": [
@@ -244,7 +244,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 64920
+        "followers": 64917
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -352,7 +352,7 @@
       "twitter": {
         "username": "argoai",
         "url": "https://twitter.com/argoai",
-        "followers": 4941
+        "followers": 4940
       },
       "size": "501-1,000 employees",
       "yearFounded": 2016,
@@ -370,7 +370,7 @@
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1344320855015378944/RzI2FvL8_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1377702121718562826/VL_Uf0EK_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Argo AI",
@@ -399,7 +399,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 17287
+        "followers": 17286
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -457,7 +457,7 @@
       "twitter": {
         "username": "nurobots",
         "url": "https://www.twitter.com/nurobots",
-        "followers": 3787
+        "followers": 3788
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -521,7 +521,7 @@
       "twitter": {
         "username": "tusimpleai",
         "url": "https://twitter.com/tusimpleai",
-        "followers": 3099
+        "followers": 3100
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -683,7 +683,7 @@
       "twitter": {
         "username": "preferrednet",
         "url": "https://twitter.com/preferrednet",
-        "followers": 5524
+        "followers": 5527
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -796,7 +796,7 @@
           "heat": 118,
           "images": [
             {
-              "url": "https://pbs.twimg.com/profile_images/1344320855015378944/RzI2FvL8_400x400.jpg",
+              "url": "https://pbs.twimg.com/profile_images/1377702121718562826/VL_Uf0EK_400x400.jpg",
               "width": 400,
               "height": 400,
               "title": "Argo AI",
@@ -1223,7 +1223,7 @@
       "twitter": {
         "username": "NautoInc",
         "url": "https://twitter.com/NautoInc",
-        "followers": 3573
+        "followers": 3572
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1402,7 +1402,7 @@
       "twitter": {
         "username": "DidiGlobal",
         "url": "https://twitter.com/DidiGlobal",
-        "followers": 2738
+        "followers": 2737
       },
       "size": "5,001-10,000 employees",
       "yearFounded": 2012,
@@ -1547,7 +1547,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 17246
+        "followers": 17245
       },
       "yearFounded": 0,
       "locations": [
@@ -1636,7 +1636,7 @@
       "twitter": {
         "username": "Cortica",
         "url": "https://twitter.com/Cortica",
-        "followers": 463
+        "followers": 464
       },
       "size": "51-200 employees",
       "yearFounded": 2007,

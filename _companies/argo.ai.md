@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "argoai"
   url: "https://twitter.com/argoai"
-  followers: 4941
+  followers: 4940
 
 size: 501-1,000 employees
 yearFounded: 2016
@@ -32,7 +32,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1344320855015378944/RzI2FvL8_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1377702121718562826/VL_Uf0EK_400x400.jpg"
     width: 400
     height: 400
     isCached: true
