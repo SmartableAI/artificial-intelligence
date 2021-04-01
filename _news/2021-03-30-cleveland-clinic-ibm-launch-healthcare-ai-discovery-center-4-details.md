@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/clev
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/cleveland-clinic-ibm-launch-healthcare-ai-discovery-center-4-details.html"
 type: article
 quality: 54
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM to Partner With Cleveland Clinic on Medical Research Center"
+    excerpt: "Its Watson Health division, which uses AI to help hospitals, insurers and drugmakers manage data, has struggled to become widely adopted. Once one of IBM’s more ambitious initiatives, the company is now considering selling the unprofitable unit."
+    publishedDateTime: 2021-03-30T10:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-30/ibm-to-partner-with-cleveland-clinic-on-medical-research-center"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXBTzNtKYX1k/v1/1200x718.jpg"
+        width: 1200
+        height: 718
+        isCached: true
   - title: "Cleveland Clinic, IBM Launch Artificial Intelligence Partnership"
     excerpt: "The ten-year partnership will aim to accelerate healthcare research through the use of artificial intelligence and quantum computing technologies."
     publishedDateTime: 2021-03-30T14:58:00Z

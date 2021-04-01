@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/the-corporate-for
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai?amp"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Marketplace
@@ -26,6 +26,24 @@ images:
     width: 740
     height: 411
     isCached: true
+
+related:
+  - title: "AI May Not Be the Answer to All that Ails Human Resources"
+    excerpt: "Some companies have taken AI chatbots to another level, even offering automated psychotherapy. Others embed AI in work computers to detect burnout or other worrisome behavior. But the technology poses its own issues."
+    publishedDateTime: 2021-03-31T21:59:00Z
+    webUrl: "https://www.govtech.com/workforce/AI-May-Not-Be-the-Answer-to-All-that-Ails-Human-Resources.html"
+    ampWebUrl: "https://www.govtech.com/workforce/AI-May-Not-Be-the-Answer-to-All-that-Ails-Human-Resources.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/workforce/AI-May-Not-Be-the-Answer-to-All-that-Ails-Human-Resources.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/Shutterstock_BusinessWoman_header.jpg"
+        width: 770
+        height: 513
+        isCached: true
 
 secured: "9BIFX5HuL4SKMiK1bxnxgzgBWjcvIKKz6xbD8tHIPmwl/vdLWdJ88Nu9B7RsTTOBmFD6+1SjsCLdXjyYfYhHlLgFG0dWkcz1jODn4wopTZ1XG0Rt12EWl8kYzBbL0agqgAvo8sSNYrUA6I9MGhg6p1grVdMEVeLUnhfCKU9eyjqZITc/ueIPomCuy96jon64AgvddnwODnOgA3SLv+sA2nZymmMjsd596ZnCQAizoA/TgGCj2dY1t/J7DrTekPILhaFxYW9Zy10Q92sEHJWeXwvYnSQSVli5ibcFT/gl09m0foaklbap2AlaOiqUpTjz4N/niQVMe9PE6/8xH3/ea9aqXvkT2jdhK54/3QtDvt7gKZa9QIvX2t/kJQm1QU0uSmAkjpxsijlLkx4ibQBdsqgdp8Hb8JDpL0kW2N0rvGwq9i0MT+TWuZWd5vldsB63lJEWH6CxWHAs/YH7FpUTNn//x3RVBU6D7s2EbnRfL//kh6k1CNI0KyY0RBOvgBxNQNk8NhiGlBIunebSNxHE6w==;AJi1wsuo5Pxjk2momfoWYA=="
 ---

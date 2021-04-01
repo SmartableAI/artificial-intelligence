@@ -39,6 +39,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "IBM to Partner With Cleveland Clinic on Medical Research Center"
+    excerpt: "Its Watson Health division, which uses AI to help hospitals, insurers and drugmakers manage data, has struggled to become widely adopted. Once one of IBM’s more ambitious initiatives, the company is now considering selling the unprofitable unit."
+    publishedDateTime: 2021-03-30T10:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-30/ibm-to-partner-with-cleveland-clinic-on-medical-research-center"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXBTzNtKYX1k/v1/1200x718.jpg"
+        width: 1200
+        height: 718
+        isCached: true
   - title: "IBM, Cleveland Clinic launch 10-year quantum computing deal"
     excerpt: "And trust in AI hasn't been helped by IBM itself, following the high-profile and embarrassing fall of Watson Health, IBM's effort to revolutionize the medical sphere using AI. Watson Health was marketed as a breakthrough in cancer treatment and drug ..."
     publishedDateTime: 2021-03-30T15:28:00Z

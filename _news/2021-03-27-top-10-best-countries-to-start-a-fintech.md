@@ -77,15 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China's JD spins off cloud and AI businesses to fintech unit"
-    excerpt: "Chinese e-commerce firm JD.com Inc said on Wednesday it had sold JD Cloud and artificial intelligence business to its financial technology unit for a combined valuation of 15.7 billion yuan ($2.40 billion)."
-    publishedDateTime: 2021-03-31T10:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/chinas-jd-spins-off-cloud-and-ai-businesses-to-fintech-unit-2021-03-31"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
   - title: "SME-focused fintech acquired by Sage"
     excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
     publishedDateTime: 2021-03-29T07:42:00Z

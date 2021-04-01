@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/dall-e-openais-new-neural-network-wonder/am
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/dall-e-openais-new-neural-network-wonder/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

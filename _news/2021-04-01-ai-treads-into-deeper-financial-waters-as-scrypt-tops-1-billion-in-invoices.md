@@ -8,8 +8,8 @@ webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ai-treads-into
 ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/ai-treads-into-deeper-financial-waters-as-scrypt-tops-1-billion-in-invoices/amp/"
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/ai-treads-into-deeper-financial-waters-as-scrypt-tops-1-billion-in-invoices/amp/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/Scrypt-AI-invoice-software-457x274.jpg"
@@ -25,6 +26,6 @@ images:
     height: 274
     isCached: true
 
-secured: "56kGgHw1M0UuLCl7TKpZ6u69bqkeB+WBWGxZ3H1ne4lhcicQD4CI1g0rrQfkbsI+pKl3BHAoXhLuQoq7fxSx510Q909RxlZ8VOWr4XGNSoJunLfOh751npncvJh7ifpg7CUd6r0yX46GO7THr0x9C2p9A9VYXHXF5pyGvpXMjZkdYh9v0BXnq6rSb1k/Ab908nAau/sfkGhU4QytART48DTWf9IM8/p8y1pCdiwop7a/zgSrGskA0hDdqGp3PYk8QP/XpXzVP+X7S3c3XB7EEzNMdzaPcN9rnAjgmjHTCvXvGmnzj9ebrQ8zFlOsKVAqzGhjeI+7d8m4xbCGyzAXlCTUTh1tpV3iI4wYR4DZD70=;6JtrqgQSdvRxvMSGhmM9Zg=="
+secured: "0aoMfjOmivi/ifCJLcHry4ESTVbGm94wztQrcpxEmG3bvoPeKUesKGBWYUnFv1syitEcG4Fx1/xLi7NV5ItTfPISaiTSOEU9Q2HhqNCm1U2K7rtHF0SQ8S1etRSQXO1nlLJ0J93BLCi065+VuKSLXzMIJsCQRjbYaXq4NHaGaDuSNtRsz4pfj7klgatI3hwVYduIGHvwLLZGvCm5oPPpQu2OJyTt/xyUylbcYDYe8d+4P/7icjQNJ3tlWQOH5EeMKn2NyYD+YrQZ1ng07hNgD2RkMcSsuY+CkxmlT4sA7+v0U/gUdRdk2XLddMu2xuiu8d85RoGJWybOIJI3+XAlwJ8DyXoPPQ9qMAmNYc/O7TBy5hlPbTrcEeM3J4T0oCFxs2eajyCnuc/E1nLrs9rypp4oKY7r9x5lYtTffZLdc4Cc43LN52RKMwvnYa4i7/YxAtaLBT9SLzyXZ7me3J631BpyEVvRtNT1ptjjZ1/kDwDqPZBUP7gCbGQUsd23tcGKVGdTXEJYJWh5OXCbdZroGQ==;KnRfexnRsuWil6Uqs2BbJg=="
 ---
 

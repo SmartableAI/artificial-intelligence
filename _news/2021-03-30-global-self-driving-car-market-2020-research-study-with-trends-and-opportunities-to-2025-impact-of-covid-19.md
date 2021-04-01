@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision in Healthcare Market: Find Out Essential Strategies to expand The Business and Also Check Working in 2021-2029"
-    excerpt: "The recently released report by Market Research Inc titled as Global Computer Vision in Healthcare market is a detailed analogy that gives the reader an insight into the intricacies of the various elements like the growth rate, and impact of the socio ..."
-    publishedDateTime: 2021-03-27T06:40:00Z
-    webUrl: "https://ksusentinel.com/2021/03/26/computer-vision-in-healthcare-market-find-out-essential-strategies-to-expand-the-business-and-also-check-working-in-2021-2029/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 28
-    images:
-      - url: "https://ksusentinel.com/wp-content/uploads/2021/03/Market-Research2-59.jpg"
-        width: 780
-        height: 470
-        isCached: true
 
 secured: "RMF9E7jzjIprqHf+d2KkjBrPQSApxFvIXJTjA7RJ2wwHbp15ADk9l+Mae5dq86pjs7RUCdx2IQi5p7J2SyUMvkiokrQX9bqrUP/Tsj+7IYv2mWboW90nsi9pIlOLGQkuuMGUCRixEbdWaNwqRUdhwlaYN5LAJ8J06SNAoe2tRWwCiXj7Vmt0qMqchJS9yHbBQyhrxfZjnpxtA/8+Es5X3GgK6hgOIGXWs9gwkMbHQMWI36I0gZiH9rKKpOrUI+rQK467b6V5WmPUJz2Y2Nw5i7sVwCcMq4mlYEzgLgFqNwxFmedrTqWT8E6arOik6wFmptLOET4VurzX7RbGwH5a8+Q2qu6eVrpezc5MTPHpW7E=;F8dn8fVmsQdbuyZFFH+Pcw=="
 ---
