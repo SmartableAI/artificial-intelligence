@@ -2,25 +2,25 @@
 category: news
 title: "AiDANT Selects Core Scientific to Provide AI-Powered GPU-as-a-Service"
 excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain led by CEO Kevin Turner, the former COO of Microsoft, announced it will provide AiDANT,"
-publishedDateTime: 2021-03-25T09:00:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210325sf21353/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210325sf21353/aidant-selects-core-scientific-to-provide-ai-powered-gpu-as-a-service"
+publishedDateTime: 2021-03-25T15:46:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-cloud-computing-af50e54a64b6b1a44da5a6626f700974"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/815623/Core_Scientific_Logo.jpg"
-    width: 400
-    height: 222
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "JZF4+hL6BmTV6GTkcFdaVlC+LX7ylJzjO6GAHQAblzkZsOwIMGrbIouCdq5bkokqI9Tg/ejoyaDAEOfD3HKhzkIiB2lMSmux0Aa+WMJfGnO03W3D9hmQNKkLfLxspIid6+3bsyfkE6bz7o6tgPp8QVWAIP1rcoxDrs8hMW5GkM3l/oc5RTBbcF+vTbqc22ZBEeisCUzqsd+Y1sV0nrUSR7S5M3l9hut08WgFJ9B230vEArV4iaKrE5NddNHGwstwvkdYMiz1f5ewezIVzxRcY6jrghp0EjqH8JzSp9ffbeDroHadFwqD4QoOd4N6Qjrqe1omzz7bTvWNBDFPczLlM8nIUbEcsmh3hx1AzwAXqCs=;sy2Lrk6OK8yeHo0GF1sKLg=="
+secured: "qiDWdst5YQ3WRvIwMXzXAaQb3KvHegLNEAP2PQZ4cym1dMksDy9gVTrA1aiA1kxShVtTvWJtTYClp3DPPseSeaQShG+2TXafsBz6GXmnUTQR1a7ZN9ZJQY0OR9iDnnQpgOPzImNcQqNPL24ongzpmZQeK/VEAPrteyUqZC0LfvfvA2hsR70mkVeBWDo0VJe5BnOTbh578lLqeQyn8ORlK37QD55jsInFQ43bYGWQnC3mGdn9jvgs2yueY5zYJ4+lOiMVMLnMj4QBkqAiYLMWKISKkGtJ5c1oMn3XWYvIsfwuQlSm3OBzXTrNra+zPC0Lp9UAMQ1tpsP/7QS36gNfRaEAMK6/L/6oRW9RQ7HYBPM=;ITVNSyZjVMz+Z+iutsaGKw=="
 ---
 

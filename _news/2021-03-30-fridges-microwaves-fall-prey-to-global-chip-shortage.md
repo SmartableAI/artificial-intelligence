@@ -41,6 +41,22 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "Global chip shortage affects more than cars"
+    excerpt: "The global chip shortage will impact more than the automotive industry as businesses and consumers grapple with an unprecedented shortage."
+    publishedDateTime: 2021-04-01T19:07:00Z
+    webUrl: "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/"
+    ampWebUrl: "https://venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/global-chip-shortage-affects-more-than-cars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/07/Microchip-e1617299979361.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Global Chip shortage affects microwave and other home appliances production"
     excerpt: "According to a NDTV report, the shortage of chip supply has been straining the existing stockpiles for consumer electronics manufacturers, with home appliance makers being one of them. As per Jason Ai, President of Whirlpool Corp in China, the company ..."
     publishedDateTime: 2021-03-30T10:57:00Z
