@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facility for face recognition planned"
+    excerpt: "NEC Corporation India, a part of the Tokyo-based IT and electronics company, NEC Corporation, has bagged contracts from the Airports Authority of India (AAI) to deploy facial recognition-based passenger identification technology in four airports in the ..."
+    publishedDateTime: 2021-04-01T17:49:00Z
+    webUrl: "https://www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/facial-recognition-tech-coming-up-for-some-airports/article34217449.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/y4uhnk/article31633524.ece/ALTERNATES/LANDSCAPE_615/20THCACHEFR"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Virginia lawmakers unanimously approve bill that bans facial recognition technology"
     excerpt: "Under the bill, any law enforcement agency using facial recognition technology must stop, and they can only get approval to use it if they seek special permission from the legislature beginning July 1st."
     publishedDateTime: 2021-04-01T11:02:00Z

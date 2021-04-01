@@ -41,20 +41,6 @@ related:
         width: 640
         height: 437
         isCached: true
-  - title: "COMMENTARY: Aging Vietnam veterans face another crisis"
-    excerpt: "Thanks to legislative action by Presidents Barack Obama and Donald Trump, March 29 is recognized as National Vietnam War Veterans Day. But recent events have forced concerns about care for"
-    publishedDateTime: 2021-03-28T01:00:00Z
-    webUrl: "https://fredericksburg.com/opinion/commentary-aging-vietnam-veterans-face-another-crisis/article_11cc1add-47a0-5736-9d70-2033e067f170.html"
-    type: article
-    provider:
-      name: Fredericksburg.com
-      domain: fredericksburg.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/custom/image/c9eb6534-8a48-11e6-84b8-97f84d027fc7.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vietnam’s first self-driving car debuts"
     excerpt: "The vehicle is equipped with some 40 self-driving features of level four as per the standards of the Society of Automobile Engineers (SAE International), in which level five is the highest. It is advertised as an eco-friendly automobile with artificial intelligence (AI) integration as well as smart functions such as 2D/3D maps,"
     publishedDateTime: 2021-03-30T09:53:00Z

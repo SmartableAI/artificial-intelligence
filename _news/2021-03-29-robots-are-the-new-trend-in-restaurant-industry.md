@@ -41,22 +41,6 @@ related:
         width: 2999
         height: 1999
         isCached: true
-  - title: "An Upstate man came to US with $350. Now he's making his mark on artificial intelligence industry"
-    excerpt: "One of Greer's newest residents is putting South Carolina on the map when it comes to artificial intelligence. Srikanth Kodeboyina came to America with $350 in his pocket — and now he's changing the world."
-    publishedDateTime: 2021-03-28T00:07:00Z
-    webUrl: "https://www.wyff4.com/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
-    ampWebUrl: "https://www.wyff4.com/amp/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
-    cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
-    type: article
-    provider:
-      name: WYFF4
-      domain: wyff4.com
-    quality: 44
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/95d7e004-820b-4aad-b289-e6ba18e7552e/95d7e004-820b-4aad-b289-e6ba18e7552e_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Glance Inc Launches AI features in a Slack App"
     excerpt: "Glance is a no-code AI-driven marketing SaaS startup. Brings data science to mid-sized marketers through their pioneering technology called Marketing Graph. They deliver high ROI and decrease customer acquisition costs."
     publishedDateTime: 2021-04-01T07:00:00Z

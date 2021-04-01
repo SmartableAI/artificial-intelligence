@@ -9,7 +9,7 @@ ampWebUrl: "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics
 cdnAmpWebUrl: "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 800
     height: 400
     isCached: true
+
+related:
+  - title: "The lab of the future is now"
+    excerpt: "Members include industrial and academic researchers. IBM followed up its chess win with a second popular showcase for AI by introducing Watson, a question-answering computer, as a contestant on ..."
+    publishedDateTime: 2021-03-29T00:27:00Z
+    webUrl: "https://cen.acs.org/business/informatics/lab-future-ai-automated-synthesis/99/i11"
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 4
 
 secured: "w6G7XKKsXrHffVx7Q3zEXY6D9o2tSyDm/90JWvKXXE+yFja8Lfsu1IoW0T5y9HhxJmEVk1oJMCNfWVsGBXqAtW9gZNalewCzV6BVUmLJ4fsgZLVZNG4W9FoNXCWtRABKaW6qEwdEQ2HQBMeplHSnpa7MUkTtpDBF9jDDgvtPvmCZIi0Jw/IfulHSRnfFA7IqHoAUVPYT4svkqUWRK2Gu3AFwHImJnyRRiFO2hzR1cvEJ41YNMAV6qlNujCNt2aLuJzo0AEi6l99639SLnGNR5lOXFGqL0bQhNzKq4WyORlQ+QciB5GwRDnNjx3MBwxNJ6OQ/Ve0/unsyJVf0BjPwnxs4PwPYeJWTQyPhE3gctgDtMYkxV+fJforP3bjJvBj0uvfAgD52rD0fU6G+u5aDGj8btLs05A3Xyg1N6nc6yaSFiM+pxW1BmaNeJEe9aShWZpyb0uUp3VJLL4vFrqf4k1iEYhT0XE4DCrSFaHgdakT1Z8OUc2x/Tt+BGVxkwBr/pwjHi+INIQfkWav/kpKrZA==;A4uucyv2EjgOJVZ58puA+g=="
 ---

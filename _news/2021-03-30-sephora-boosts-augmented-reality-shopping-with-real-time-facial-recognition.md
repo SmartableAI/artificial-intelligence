@@ -41,6 +41,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Headed to Disney? Facial recognition and phones are now options for entry in Orlando"
+    excerpt: "Plan on a lot of restrictions as Disneyland plans to reopen next month. And Disney World is testing out some new technology for a more contactless experience"
+    publishedDateTime: 2021-04-01T11:30:00Z
+    webUrl: "https://www.deseret.com/entertainment/2021/4/1/22362212/disney-facial-recognition-and-phones-are-now-options-for-entry-in-orlando-disneyland-parks"
+    ampWebUrl: "https://www.deseret.com/platform/amp/entertainment/2021/4/1/22362212/disney-facial-recognition-and-phones-are-now-options-for-entry-in-orlando-disneyland-parks"
+    cdnAmpWebUrl: "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/entertainment/2021/4/1/22362212/disney-facial-recognition-and-phones-are-now-options-for-entry-in-orlando-disneyland-parks"
+    type: article
+    provider:
+      name: deseret
+      domain: deseret.com
+    quality: 52
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/c7MLpXTY11pF_eg5GpMBw-oawxw=/0x0:1820x1213/1400x1050/filters:focal(765x462:1055x752):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69061816/cdn.vox_cdn__4_.0.png"
+        width: 1400
+        height: 1050
+        isCached: true
   - title: "Disney pilots face recognition for entry to Magic Kingdom theme park"
     excerpt: "Visitors to Walt Disney World Resort, Florida, USA, are testing a contactless biometric system enabling them to use face recognition to enter"
     publishedDateTime: 2021-03-29T15:01:00Z

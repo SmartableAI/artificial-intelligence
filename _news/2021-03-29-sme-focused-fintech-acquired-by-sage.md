@@ -83,6 +83,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "JD.com Spins Off Cloud and AI Assets to Fintech Unit"
+    excerpt: "JD.com, the Chinese e-commerce giant announced on Wednesday(March 31) that it had officially carried out the sale of its cloud and artificial intelligence businesses to JD Digits, its fintech unit. The businesses were valued at a combined $2.4 billion."
+    publishedDateTime: 2021-04-01T17:29:00Z
+    webUrl: "https://techstory.in/jd-com-spins-off-cloud-and-ai-assets-to-fintech-unit/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/ffcbfeb2-7dbd-11eb-9fc3-2f3c8e08d261_image_hires_211834.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Member Driven Technologies Recognized as a 2021 Best Fintech to Work for by Arizent"
+    excerpt: "[CES 2021] Sony Unveiled Its Latest Initiatives Sur.. Hyperconnect, Key to social platform succ.. Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim, Managing Director at JE.. Formula E Korea E-Prix 2020 ..."
+    publishedDateTime: 2021-04-01T13:37:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=446369"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 18
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Emotion Detection and Recognition Market worth $37.1 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a new market research report \"Emotion Detection and Recognition Market by Component (Solutions [Facial Expression"
     publishedDateTime: 2021-03-29T13:00:00Z

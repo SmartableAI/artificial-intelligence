@@ -2,6 +2,143 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2021-02-18-synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021.md",
+      "title": "Synopsys Posts Financial Results for First Quarter Fiscal Year 2021",
+      "excerpt": "Synopsys, Inc. (Nasdaq: SNPS) today reported results for its first quarter fiscal year 2021. Revenue for the first quarter was $970.3 million, compared to $834.4 million for the first quarter of fiscal 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/synopsys-posts-financial-results-for-first-quarter-fiscal-year-2021-1030094221",
+      "publishedDateTime": "2021-02-17T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding.md",
+      "title": "World's fastest supercomputer and AI tapped to predict tsunami flooding",
+      "excerpt": "Fujitsu's supercomputer Fugaku is powering AI capabilities that could help predict coastal flooding conditions. \"Ordinary PCs\" can run the Fugaku-trained AI model, according to the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/02/17/be02f4dc-c95e-41ed-8dda-23573633fccf/resize/1200x/ef9e38a811d483a5cadd3e7096532b4b/petrovich9.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
+      "publishedDateTime": "2021-02-17T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-when-should-you-use-ai-to-solve-problems.md",
+      "title": "When Should You Use AI to Solve Problems?",
+      "excerpt": "Several years ago, my startup had produced two promising products: a sales AI and a fintech AI solution for operations. We used AI to run forecasting scenarios based on the assessments of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems",
+      "originalUrl": "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/02/Feb21_17_1255056887-3.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems",
+      "publishedDateTime": "2021-02-17T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-natural-language-processing-market-worth-351-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
       "title": "Natural Language Processing Market worth $35.1 billion by 2026 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "CHICAGO, Feb. 17, 2021 /PRNewswire/ -- According to the new market research report \"Natural Language Processing Market by Component, Type (Statistical, Hybrid), Application (Automatic ...",
@@ -1017,161 +1154,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-learning-how-to-drive-in-an-ai-simulator-is-becoming-more-common-in-china.md",
-      "title": "Learning how to drive in an AI simulator is becoming more common in China",
-      "excerpt": "For some students at Chinese driving schools ... to the China Highway and Transportation Society – to embrace artificial intelligence recently. “Driver training used to be a very traditional ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
-      "originalUrl": "https://www.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/17/8c2c400c-6c5b-11eb-8f06-a7293cc48ccd_image_hires_105834.JPG?itok=ereSU4Nd&v=1613530723",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
-      "publishedDateTime": "2021-02-17T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions.md",
-      "title": "Peak AI nabs $21M for a platform to help non-tech companies make AI-based decisions",
-      "excerpt": "One of the biggest challenges for organizations in modern times is deciding where, when, and how to use the advances of technology, when the organizations are not technology companies themselves. Today,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/",
-      "originalUrl": "https://techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
-          "width": 1024,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/amp/",
-      "publishedDateTime": "2021-02-17T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome.md",
-      "title": "AI will have a huge impact on your healthcare. But there are still big obstacles to overcome",
-      "excerpt": "There’s a lot of excitement about the potential impact of artificial intelligence on healthcare diagnostics, but the big impact for now is likely to be on operational processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
-      "originalUrl": "https://www.zdnet.com/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2021/02/11/b9c22bef-9731-4ea4-88f9-15260cf0c16e/thumbnail/1200x675/8dcbc6f6917a1e071119b1cd6b255f84/healthcare-robotics-pandemic-600af5e7e9e3792d42ab254e-1-feb-11-2021-20-47-55-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
-      "publishedDateTime": "2021-02-17T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/technology/youtuber-creates-roadside-aipo
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/youtuber-creates-roadside-aipowered-camera-to-compliment-dogs-that-pass-by/"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Want To Converse With Your Pet? AI Is Bringing That Future For You"
+    excerpt: "Have you ever wondered what will happen if you can chatter with your beloved dog or cat, like with any other human beings? Does the idea of gossiping with your pet seem a bit romantic to you? Recent advancement in the Artificial Intelligence has hinted its possibility even though it would be limited."
+    publishedDateTime: 2021-04-01T16:27:00Z
+    webUrl: "https://techstory.in/want-to-converse-with-your-pet-ai-is-bringing-that-future-for-you/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/clarifai-ai-cat-cute.jpg"
+        width: 910
+        height: 1213
+        isCached: true
 
 secured: "k83ZwLtcosZ+OcGikOGqv6XKMnsanMy2w+BeHJL4TMoOMZUbWcEO+0l0YvUehaQZJXxoQYbMVvqUjZorKn1pERgjzie9VZ5iLdJ9/XSBa4cFAdc+ZU7iyaJKKXKETzMkkNDVqbIjp3DknEWymvHLo4yU7I3NPl0gIGSIiZwFoGvF+qxU/Hrn3xdCvPfG96D1DiTqj4EZ5OftBincI/X8pFj1jS5pIgqCbscXqiTshYA39qwFUhNLqFXpqiLe1L2zz1u2jsFa2ivTbp8uPG84OdABxzmWEEcDEY/vEtxvBONY1w34CaWKlrxD01ic7C02hgxRk3URix3qrk3kIZ8/yHHa4vBeUgrvc+QdqNNl3zc=;bcCjT7Zrq4huFbS06yQmZw=="
 ---

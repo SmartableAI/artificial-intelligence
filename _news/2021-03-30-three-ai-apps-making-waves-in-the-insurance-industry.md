@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves
 cdnAmpWebUrl: "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "An Upstate man came to US with $350. Now he's making his mark on artificial intelligence industry"
-    excerpt: "One of Greer's newest residents is putting South Carolina on the map when it comes to artificial intelligence. Srikanth Kodeboyina came to America with $350 in his pocket — and now he's changing the world."
-    publishedDateTime: 2021-03-28T00:07:00Z
-    webUrl: "https://www.wyff4.com/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
-    ampWebUrl: "https://www.wyff4.com/amp/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
-    cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
-    type: article
-    provider:
-      name: WYFF4
-      domain: wyff4.com
-    quality: 44
-    images:
-      - url: "https://kubrick.htvapps.com/vidthumb/95d7e004-820b-4aad-b289-e6ba18e7552e/95d7e004-820b-4aad-b289-e6ba18e7552e_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Robots are the New Trend in Restaurant Industry"
     excerpt: "Robots entered the food industry to assist primarily in food manufacturing and packaging. Keeping in mind the hygiene and accuracy factor, they have proved to be ideal for this industry. Many germophobes actually prefer robots over humans to handle their food."
     publishedDateTime: 2021-03-29T11:02:00Z

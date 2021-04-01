@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20398146"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20398146"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Inbrain Neuroelectronics Secures $17M in Series A Funding"
+    excerpt: "Inbrain Neuroelectronics S.L., a Barcelona, Spain-based company dedicated to developing an intelligent graphene-brain interface, raised $16.8m in Series A funding"
+    publishedDateTime: 2021-03-31T09:40:00Z
+    webUrl: "https://www.finsmes.com/2021/03/inbrain-neuroelectronics-secures-17m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/03/logo_inbrain_final.png"
+        width: 4535
+        height: 1826
+        isCached: true
 
 secured: "JbNdCAT1khox1mBgNr3rFjOo2RddjLpN3fuH/hCUqup2gotjDWpx0YCeNwgFuJMO3lzFqEBJnvsJk0tUx270V92H9ihNs8SFfm0sPGb0+G2k2ITRSo1RE/DkzWWGxtLSp8e2VBakZJRTXurEVejleFa9j33gwAIB9jZj/w1zkkCjgHAHTuvtl+tYxuGRyNiWd58HAvgtPv6iOcaOG15hjzn0gsqrRsdPmHOJQQePNXl+gL1abfl+OKbId3aSc7s2ncv103zgFl/13u3SQ9px6n70M2l/3lBmX+ipAicvVW1loixfn3JJy1GYkcMtEdJejkSe3xEPOYCGK2hRCVj7aP+eruYkyFEoxinsjuKUxq0=;XY+rKZZu3t2cRPjWGrHgxA=="
 ---

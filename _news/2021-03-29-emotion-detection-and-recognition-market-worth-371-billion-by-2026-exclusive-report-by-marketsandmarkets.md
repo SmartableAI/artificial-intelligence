@@ -83,6 +83,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "JD.com Spins Off Cloud and AI Assets to Fintech Unit"
+    excerpt: "JD.com, the Chinese e-commerce giant announced on Wednesday(March 31) that it had officially carried out the sale of its cloud and artificial intelligence businesses to JD Digits, its fintech unit. The businesses were valued at a combined $2.4 billion."
+    publishedDateTime: 2021-04-01T17:29:00Z
+    webUrl: "https://techstory.in/jd-com-spins-off-cloud-and-ai-assets-to-fintech-unit/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/ffcbfeb2-7dbd-11eb-9fc3-2f3c8e08d261_image_hires_211834.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SME-focused fintech acquired by Sage"
     excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
     publishedDateTime: 2021-03-29T07:42:00Z
@@ -96,6 +110,20 @@ related:
       - url: "https://www.insidermedia.com/uploads/news/resized/Stock_exchange-37604-1616770579.jpg"
         width: 960
         height: 540
+        isCached: true
+  - title: "Member Driven Technologies Recognized as a 2021 Best Fintech to Work for by Arizent"
+    excerpt: "[CES 2021] Sony Unveiled Its Latest Initiatives Sur.. Hyperconnect, Key to social platform succ.. Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim, Managing Director at JE.. Formula E Korea E-Prix 2020 ..."
+    publishedDateTime: 2021-04-01T13:37:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=446369"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 18
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "E20SI814Us+69XwWlm/6yTPT+pqq9vKS2g/PlO6dIXpi3xne2grupbjTiJQkx8L/Ij5jnhCgprA3Rie4kjHngCgtpH2yFIq+HKTyZFSv9eVrwX5sXgH7UNxDCUaoJZTUs21fCYOcRHJLLMfiBOQy9tzfDCfbdj8/EJsEPrAtGSoIbQ57/mJLeUFu/Zr/h2HJuBVsvFDi0ulZ+MvNzsXjrkHMfiHDntjYKvEYilRfiozYBYNWchXUIIEpi4+XnIB0/LK9VIUko2Y11pjliO17lnIdWIA7HJMtZLM/JfJwhRiQVp8H5UHLLDWN4202DGv/2FyJDK9CHnh9WX+5kZJyO/Zb5IJTgyT6et35XKk03+nLtZhAVQXzEgYdsUO9/LLmCHYaNJ8PWTB4TSh4i9XYg9oaBySjJv+0DIolyhjq3TxcxyO/JhiamJqnnNxuUTNkL56Vu2ZEA7dTHbxaERo+CdH6/0DEG6RJQN2ORxwMhi7DkmBGXeO6wBUrweU2G5jxoxLLviNeEYxzkGfexivY5w==;fPv946RhQZV9v7xoKGupiw=="

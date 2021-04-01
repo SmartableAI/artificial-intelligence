@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Fast Fashion Counts on AI and ML"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2021-03-31T21:00:00Z
+    webUrl: "https://www.computerworld.com/resources/216754/fast-fashion-counts-on-ai-and-ml"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 54
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "1mstpFTSf2n1V8uRya+SzzBXNS9IN3nOSyEKNGPr2jmzChXw68nfyOPrPB4vzEalemSzTDQo3WhNA7uuY9pzOv++1hzdbR33IEV04yqmCs/vSvxq1j/FnmfLUFbeuBtNkKo9IgssgyYSNTF1iUFfYORM0kTp7abK9nZVTlbWvg202He4anozzOOCxF6f8U8KOgR/4Mvvsdd9gkGIbEzaN8wCC+cQVIrDT7Ejp0qx+I4zSx2QkPQj2HiprD1dN/urMYiPZbYKrVKwoXp4K6YTF9F5/uAOrKVkLOuh3lUjMc5IUN+cC0peYEakmMDMrcQ9hqEmUkHsj8LLXcfGmnOsICEU8GPrmsGPdjfWHIZ/Eb8=;buIJXA+tgE/l14GpLth1hw=="
 ---

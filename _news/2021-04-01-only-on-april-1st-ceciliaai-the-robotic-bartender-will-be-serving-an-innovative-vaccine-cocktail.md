@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Only on April 1st, Cecilia.ai the Robotic Bartender Will Be Serving an Innovative Vaccine-Cocktail"
-excerpt: "The robot is capable of “vaccinating” 120 people per hour ... or at the very least help put a smile on their face through these difficult times. About Cecilia.ai Cecilia.ai, a new startup from GKI Group, is the world’s first interactive bartender ..."
-publishedDateTime: 2021-04-01T11:05:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-lifestyle-business-public-health-corporate-news-7b946481dda2eca942ca46f5c7e52600"
-webUrl: "https://apnews.com/press-release/newswire/technology-lifestyle-business-public-health-corporate-news-7b946481dda2eca942ca46f5c7e52600"
+excerpt: "The robot is capable of \"vaccinating\" 120 people per hour ... or at the very least help put a smile on their face through these difficult times. Cecilia.ai, a new startup from GKI Group, is the world's first interactive bartender, customized for every ..."
+publishedDateTime: 2021-04-01T16:00:00Z
+originalUrl: "https://www.prnewswire.com/il/news-releases/only-on-april-1st-ceciliaai-the-robotic-bartender-will-be-serving-an-innovative-vaccine-cocktail-301260239.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/only-on-april-1st-ceciliaai-the-robotic-bartender-will-be-serving-an-innovative-vaccine-cocktail-301260239.html"
 type: article
 quality: 40
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1478438/03ce0777ae2c9baf53844a9dcb60.jpg?p=facebook"
+    width: 1400
+    height: 733
     isCached: true
 
 related:
@@ -70,6 +70,6 @@ related:
         height: 229
         isCached: true
 
-secured: "BQaFzgMiuMpdF/smNuR8XXlpx5b0x3gGiEW6n+LSUPoX+l9O9n1bNdIBRIg0amza4nVjRozCrGGfpwodKgMYfbtaOQ/x5Xkne72k6V5aMua8hubXO9ufXx472hEm6NtC0h5yFBB6zQ58Wy56dwpFDzgNmP3HOrUrDvF8J1JXwMzH78s0cz66nj0F5R1GO8ARbFyjozarzKL6akzim3MX5ICn7JhCk5woPG+lvB/u4DtPa9pDNxWJm5A76DEWi3733o6ISl/NaQkAtlxOJpqtBA0h1zz63qKb+7pkc5aBJEfPhhiIILCHr1G9KehiHPGxasorOuGiXAqBMPlQRshkgOr2wDCJs1IiPKdHNCrSow4=;1Qmjtbdb9ar0vOY2hDFJtg=="
+secured: "LVIzHT4QZiN3LTNhpJX1lmnYaLR4N3GeILbusyMPo8gvU5K5ugDXhZIuga+xiaDhbKmJASH+CcLCnF1Eu59YdyGYuLggii/8AyIw23czu28jZnOUBvhjxuvFqqxJkrmNFFys8SPBuz558QJBTdOdu2lmRv6vpxWghKv5H8exGlaqPVqk8ZRq1UamB7aQcip1NZmiF5CYA+ba/Ys4jEowP758bLP4RjWDeadHteuwNO94pRByEB2MYAaD0CZBUQXkUl+u8HbOeujS2jjDNOBQ4ru9HweYOcEotN+c8a8kgEaAwi+QgDiT8oWwHclh4vvksGKilwjUjAUHOo4KuCLM6eNvzrX5KtII8SeVcwzKLzc=;VM4HU7b425KAow4DozCfcQ=="
 ---
 

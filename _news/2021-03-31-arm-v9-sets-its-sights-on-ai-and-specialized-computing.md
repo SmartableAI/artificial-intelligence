@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specializ
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/arm-v9-sets-its-sights-on-ai-and-specialized-computing-30666323/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fast Fashion Counts on AI and ML"
+    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+    publishedDateTime: 2021-03-31T21:00:00Z
+    webUrl: "https://www.computerworld.com/resources/216754/fast-fashion-counts-on-ai-and-ml"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 54
+    images:
+      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Arm’s solution to the future needs of AI, security and specialised computing is v9"
     excerpt: "The new capabilities in Armv9 will accelerate the move from general-purpose to more specialized compute across every application as AI, the Internet of Things ... president and chief technology officer, Azure Edge and Platforms at Microsoft."
     publishedDateTime: 2021-03-31T10:28:00Z

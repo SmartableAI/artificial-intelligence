@@ -2,6 +2,161 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-02-17-learning-how-to-drive-in-an-ai-simulator-is-becoming-more-common-in-china.md",
+      "title": "Learning how to drive in an AI simulator is becoming more common in China",
+      "excerpt": "For some students at Chinese driving schools ... to the China Highway and Transportation Society – to embrace artificial intelligence recently. “Driver training used to be a very traditional ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
+      "originalUrl": "https://www.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/17/8c2c400c-6c5b-11eb-8f06-a7293cc48ccd_image_hires_105834.JPG?itok=ereSU4Nd&v=1613530723",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
+      "publishedDateTime": "2021-02-17T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions.md",
+      "title": "Peak AI nabs $21M for a platform to help non-tech companies make AI-based decisions",
+      "excerpt": "One of the biggest challenges for organizations in modern times is deciding where, when, and how to use the advances of technology, when the organizations are not technology companies themselves. Today,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/",
+      "originalUrl": "https://techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
+          "width": 1024,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/17/peak-ai-nabs-21m-for-a-platform-to-help-non-tech-companies-make-ai-based-decisions/amp/",
+      "publishedDateTime": "2021-02-17T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome.md",
+      "title": "AI will have a huge impact on your healthcare. But there are still big obstacles to overcome",
+      "excerpt": "There’s a lot of excitement about the potential impact of artificial intelligence on healthcare diagnostics, but the big impact for now is likely to be on operational processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
+      "originalUrl": "https://www.zdnet.com/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2021/02/11/b9c22bef-9731-4ea4-88f9-15260cf0c16e/thumbnail/1200x675/8dcbc6f6917a1e071119b1cd6b255f84/healthcare-robotics-pandemic-600af5e7e9e3792d42ab254e-1-feb-11-2021-20-47-55-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-will-have-a-huge-impact-on-your-healthcare-but-there-are-still-big-obstacles-to-overcome/",
+      "publishedDateTime": "2021-02-17T03:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-varmour-the-multi-cloud-security-startup-raises-58m-en-route-to-ipo.md",
       "title": "vArmour the multi-cloud security startup, raises $58M en route to IPO",
       "excerpt": "Enterprises have been loading more of their operations into cloud — and, more often than not, multi-cloud — environments over the last year, creating vast networks of services that can be complex to manage.",
@@ -1021,142 +1176,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-ai-hypervisor-gets-a-gpu-boost.md",
-      "title": "AI Hypervisor Gets a GPU Boost",
-      "excerpt": "Sunlight, the U.K.-based specialist in virtualizing data-intensive applications, announced Nvidia GPU support for its “lightweight” hypervisor designed to",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/",
-      "originalUrl": "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/data_pipeline_shutterstock_posteriori.jpg",
-          "width": 1000,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds.md",
-      "title": "AI can persuade people to make ethically questionable decisions, study finds",
-      "excerpt": "From TikTok to Instagram, Facebook to YouTube, and more, learn how data is key to ensuring ad creative will actually perform on every platform. AI shapes people’s lives on a daily basis.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/amp/",
-      "publishedDateTime": "2021-02-16T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-14-ai-stocks-to-stay-away-from.md",
-      "title": "14 AI Stocks to Stay Away From",
-      "excerpt": "Artificial intelligence (AI) sounds vague, but the reality is it is just a computer that mimics human cognition. This allows it to be used in areas like robotics, machine learning, linguistics ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/02/14-ai-stocks-to-stay-away-from-stocks-to-sell-avoid/",
-      "originalUrl": "https://investorplace.com/2021/02/14-ai-stocks-to-stay-away-from-stocks-to-sell-avoid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/12/ai-stocks-1600-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/02/14-ai-stocks-to-stay-away-from-stocks-to-sell-avoid/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/02/14-ai-stocks-to-stay-away-from-stocks-to-sell-avoid/amp/",
-      "publishedDateTime": "2021-02-16T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

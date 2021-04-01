@@ -24,6 +24,22 @@ images:
     height: 513
     isCached: true
 
+related:
+  - title: "MIT Develops robots that can sense hidden objects"
+    excerpt: "In recent years, the growth trajectory of artificial intelligence has been impressive and it continues to be so. Artificial vision, touch, and even smell have helped robots edge closer to the human realm. Now, researchers have expanded their goals and they ..."
+    publishedDateTime: 2021-04-01T17:27:00Z
+    webUrl: "https://techstory.in/mit-develops-robots-that-can-sense-hidden-objects/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/maxresdefault.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "XAYZQ0CG0BxiUAp0y4CpvX/76hT4bUMzZTsvRWAcgVLWV4b1iwntsDPuvMYXC/NIB8S1wD2wTpkbAXYfnk6Nl9UUwRPtHSsuNandI3aRFeqUx96aVh03yvCROcVzsQ8mCmi7Kvc0qbS6lAArrRQi+nVRFctIC3sX5A+srNY4g8XkhfYiUghyrtuU5cjjnTSBdtRi3tctxwiE//87FUJr79L61aDktj9ucXlfjllG9Ma+rOgJcTdxU/9va3egkvrFp7xkFeOdgt+6gDFdmFbkXudVLflpJgkHSfJhNIaO0t06SGpKHejF6IxFf68j4X/z54GJ2R2XKJlO3ztNe5MLElWrtid1jrMBvgCx/75thgU=;rP2SofyP5uLiAe0UIpvtKw=="
 ---
 

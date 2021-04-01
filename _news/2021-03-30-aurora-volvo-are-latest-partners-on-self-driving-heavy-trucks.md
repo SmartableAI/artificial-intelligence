@@ -71,6 +71,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Aurora, Volvo are latest partners on self-driving heavy trucks"
+    excerpt: "Global heavy truck manufacturers are lining up technology partners to help build out self-driving systems for long-haul freight that could see widespread commercial service well before self-driving robotaxis."
+    publishedDateTime: 2021-03-30T21:18:00Z
+    webUrl: "https://www.reuters.com/article/us-trucks-self-driving-idUSKBN2BM1ZM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2BM1ZM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BM1ZM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210330&t=2&i=1556778531&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2T1BF"
+        width: 818
+        height: 545
+        isCached: true
   - title: "Aurora, Volvo Group join forces on self-driving trucks"
     excerpt: "Aurora's self-driving truck program continues rolling. Two months after inking one big partnership, the company has added another. On Tuesday morning, Aurora and Volvo Group unveiled plans to commercialize trucks in a hub-to-hub service operating across North America."
     publishedDateTime: 2021-03-30T13:43:00Z
