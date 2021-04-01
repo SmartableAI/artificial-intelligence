@@ -24,33 +24,90 @@ images:
     isCached: true
 
 related:
-  - title: "Veritone Wins 2021 Artificial Intelligence Excellence Award for Second Consecutive Year"
-    excerpt: "(NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that Business Intelligence Group has named Veritone as a winner in the 2021 Artificial Intelligence Excellence Awards for its patented suite of real-time AI-powered Veritone Energy Solutions."
-    publishedDateTime: 2021-03-29T13:05:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-north-america-colorado-denver-af77851b09eb4f95b4f6e82fb6adc44d"
+  - title: "AI's Role In Analyzing Shifting Sentiments Around Companies"
+    excerpt: "How companies are being talked and written about is changing as the pandemic unfolds, and these nuances could reveal more than simply how effective an organization's marketing department is. What if shifts in sentiment could help traders make more informed financial decisions?"
+    publishedDateTime: 2021-04-01T10:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/ais-role-in-analyzing-shifting-sentiments-around-companies/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60647e7baec9ee6de20db79e%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Genuity Science Chief Data Science Officer Wins 2021 Artificial Intelligence Excellence Award"
-    excerpt: "Genuity Science, a genomics and data-sourcing, analytics and insights organization, announced today that Tom Chittenden, PhD, DPhil, PStat, Chief Data Science Officer and Founding Director of the Genuity Science Advanced Artificial"
-    publishedDateTime: 2021-03-30T08:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-19722882.html"
+  - title: "Companies are overestimating how responsible they’re being with AI"
+    excerpt: "Steven Mills, BCG GAMMA's chief ethics officer, says of the survey results: The results were surprising in that so many organizations are overly optimistic about the maturity of their responsible AI implementation. While many organizations are making ..."
+    publishedDateTime: 2021-03-31T12:00:00Z
+    webUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai"
+    ampWebUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 28
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
+      - url: "http://diginomica.com/sites/default/files/images/2020-04/ethics.png"
+        width: 1404
+        height: 930
+        isCached: true
+  - title: "How Machine Learning, Contactless Payments Are Helping Piada Italian Street Food Meet Shifting Ordering Needs"
+    excerpt: "Piada, which has 38 locations in six states, is also looking to integrate new technologies, such as machine learning (ML), to help analyze collected data and use it for more personalized customer experiences. “To the ML part of it, that is something that ..."
+    publishedDateTime: 2021-04-01T11:44:00Z
+    webUrl: "https://www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/"
+    ampWebUrl: "https://www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 40
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/amrefs0321-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Top AI Companies in the World Creating Massive Disruption"
+    excerpt: "As AI has become a strong power in business, today’s top AI companies in the world are leaders of this growing technology. Let’s look at the best AI companies in the world playing a critical role in industries."
+    publishedDateTime: 2021-03-29T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-companies-in-the-world-creating-massive-disruption/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Sentiero Ventures announces the closing of its artificial intelligence-driven Dallas venture capital fund"
+    excerpt: "The fund, Sentiero Ventures, invests in software-as-a-service (SaaS) companies that utilize artificial intelligence (AI ... Financial Services, Healthcare, and Entertainment. Sentiero's approach is designed to locate companies at the intersection of ..."
+    publishedDateTime: 2021-03-31T14:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/n20425939/sentiero-ventures-announces-the-closing-of-its-artificial-intelligence-driven-dallas-venture-capit"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20425939"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20425939"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
+  - title: "Using sentiment analysis to predict opinion inversion in Tweets of political communication"
+    excerpt: "Social media networks have become an essential tool for sharing information in political discourse. Recent studies examining opinion diffusion have highlighted that some users may invert a message's content before disseminating it,"
+    publishedDateTime: 2021-03-31T10:33:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-86510-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-86510-w/MediaObjects/41598_2021_86510_Fig1_HTML.png"
+        width: 685
+        height: 403
         isCached: true
 
 secured: "G14HoUnvR7mbL15OEG35+4uNW+VZsl3o3B4n+4O97Uk2aWnHmxP7EyNXxYGtcoAz1vSBA5lzTKcx5OX2mKVpy/erFyXaXElZNKMh69XmPNXk+CHgthy5KEdRs3Z2oYL3MHjAUZoyY+ETKzMnuyQmQLy8a+cjmoCVRp07/f3GGV4hT4VlghNOngRmjcpZpHg/kBK8uWbuKHKgYsrPXfmMUrwXyywoMNnfEs+VhmLGKCr86x0seztS2EH4nGvYk+PmL2/nq/kcO6Ai/6ggtD1dE4Edks8ylrr5QXN5bLm1hozoPaiEGQpsKBVXK/s9GLdUEf0GeiDpMU0TdIka1QlCyHO1OtvhfdG/dDjRb9SR3Gc=;klDmg24Wp8QzzJIyMeT0Cw=="

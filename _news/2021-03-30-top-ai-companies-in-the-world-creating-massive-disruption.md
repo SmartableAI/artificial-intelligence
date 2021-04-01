@@ -25,61 +25,91 @@ images:
     isCached: true
 
 related:
-  - title: "Three AI Apps making waves in the insurance industry"
-    excerpt: "The rise of artificial intelligence has brought about easier and accurate handling of large digital information from various sources. Because of this various industries are adopting the technology to drive output and improve productivity."
-    publishedDateTime: 2021-03-30T13:00:00Z
-    webUrl: "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/"
-    ampWebUrl: "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/"
-    cdnAmpWebUrl: "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/"
+  - title: "AI's Role In Analyzing Shifting Sentiments Around Companies"
+    excerpt: "How companies are being talked and written about is changing as the pandemic unfolds, and these nuances could reveal more than simply how effective an organization's marketing department is. What if shifts in sentiment could help traders make more informed financial decisions?"
+    publishedDateTime: 2021-04-01T10:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/ais-role-in-analyzing-shifting-sentiments-around-companies/"
     type: article
     provider:
-      name: AndroidGuys
-      domain: androidguys.com
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60647e7baec9ee6de20db79e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Companies are overestimating how responsible they’re being with AI"
+    excerpt: "Steven Mills, BCG GAMMA's chief ethics officer, says of the survey results: The results were surprising in that so many organizations are overly optimistic about the maturity of their responsible AI implementation. While many organizations are making ..."
+    publishedDateTime: 2021-03-31T12:00:00Z
+    webUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai"
+    ampWebUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
     quality: 59
     images:
-      - url: "https://www.androidguys.com/wp-content/uploads/2021/03/pexels-pixabay-373543.jpg"
-        width: 2999
-        height: 1999
+      - url: "http://diginomica.com/sites/default/files/images/2020-04/ethics.png"
+        width: 1404
+        height: 930
         isCached: true
-  - title: "An Upstate man came to US with $350. Now he's making his mark on artificial intelligence industry"
-    excerpt: "One of Greer's newest residents is putting South Carolina on the map when it comes to artificial intelligence. Srikanth Kodeboyina came to America with $350 in his pocket — and now he's changing the world."
-    publishedDateTime: 2021-03-28T00:07:00Z
-    webUrl: "https://www.wyff4.com/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
-    ampWebUrl: "https://www.wyff4.com/amp/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
-    cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
+  - title: "How Machine Learning, Contactless Payments Are Helping Piada Italian Street Food Meet Shifting Ordering Needs"
+    excerpt: "Piada, which has 38 locations in six states, is also looking to integrate new technologies, such as machine learning (ML), to help analyze collected data and use it for more personalized customer experiences. “To the ML part of it, that is something that ..."
+    publishedDateTime: 2021-04-01T11:44:00Z
+    webUrl: "https://www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/"
+    ampWebUrl: "https://www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/amp/"
     type: article
     provider:
-      name: WYFF4
-      domain: wyff4.com
-    quality: 44
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 40
     images:
-      - url: "https://kubrick.htvapps.com/vidthumb/95d7e004-820b-4aad-b289-e6ba18e7552e/95d7e004-820b-4aad-b289-e6ba18e7552e_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
-        width: 1200
-        height: 675
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/amrefs0321-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
-  - title: "Robots are the New Trend in Restaurant Industry"
-    excerpt: "Robots entered the food industry to assist primarily in food manufacturing and packaging. Keeping in mind the hygiene and accuracy factor, they have proved to be ideal for this industry. Many germophobes actually prefer robots over humans to handle their food."
-    publishedDateTime: 2021-03-29T11:02:00Z
-    webUrl: "https://techstory.in/robots-are-the-new-trend-in-restaurant-industry/"
+  - title: "5 People, 24 Companies, and 42 Products Awarded for Excellence in Artificial Intelligence"
+    excerpt: "PHILADELPHIA, March 29, 2021 /PRNewswire-PRWeb/ -- The Business Intelligence Group today announced the winners of its inaugural Artificial Intelligence Excellence Awards program. This business awards program sets out to recognize those organizations ..."
+    publishedDateTime: 2021-03-29T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/5-people-24-companies-and-42-products-awarded-for-excellence-in-artificial-intelligence/article_ef06c876-ad73-5312-b855-bbb8d6a518ee.html"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
     images:
-      - url: "https://techstory.in/wp-content/uploads/2021/03/robot-waiter.jpg"
-        width: 612
-        height: 612
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Glance Inc Launches AI features in a Slack App"
-    excerpt: "Glance is a no-code AI-driven marketing SaaS startup. Brings data science to mid-sized marketers through their pioneering technology called Marketing Graph. They deliver high ROI and decrease customer acquisition costs."
-    publishedDateTime: 2021-04-01T07:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/04/p20439910/glance-inc-launches-ai-features-in-a-slack-app"
+  - title: "Sentiero Ventures announces the closing of its artificial intelligence-driven Dallas venture capital fund"
+    excerpt: "The fund, Sentiero Ventures, invests in software-as-a-service (SaaS) companies that utilize artificial intelligence (AI ... Financial Services, Healthcare, and Entertainment. Sentiero's approach is designed to locate companies at the intersection of ..."
+    publishedDateTime: 2021-03-31T14:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/n20425939/sentiero-ventures-announces-the-closing-of-its-artificial-intelligence-driven-dallas-venture-capit"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20425939"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20425939"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 17
+    quality: 22
+  - title: "Using sentiment analysis to predict opinion inversion in Tweets of political communication"
+    excerpt: "Social media networks have become an essential tool for sharing information in political discourse. Recent studies examining opinion diffusion have highlighted that some users may invert a message's content before disseminating it,"
+    publishedDateTime: 2021-03-31T10:33:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-86510-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-86510-w/MediaObjects/41598_2021_86510_Fig1_HTML.png"
+        width: 685
+        height: 403
+        isCached: true
 
 secured: "Dgs+4/pMnO08dPxnr9zRdjjOEFNs5ITAHlW9qWBgUttjyXQUNA173Bpz1kDYJF+D/nmFXjEbxR8Hbz/P9S2+C/rd+LMVzz57F8z3Br38PApXppsgBozQ0sfleLKy1wg+AYiuEkQJSVoacSV0hmH0egGABkup6znSiX3u9qYEa3vuiMv0Av2f107e/TGlJKpnVefvmXFOWWXngsxIhsmb0LO06ToDmfoKxq8MIBqHTxVwhfrx7Yv/W8x4UHZgaLB+H8ut+PmtA24ZENwvp9D/5VIO64n19jtkk28c41lGrZ+9biWmJKS45LI3mT62WwgZc8RBlybQZpbNzAZJ0j9HQ0S1vtEeTG/Db+/WXrQddFc=;lH2Hnl6jRziu6rB4K8gc7g=="
 ---

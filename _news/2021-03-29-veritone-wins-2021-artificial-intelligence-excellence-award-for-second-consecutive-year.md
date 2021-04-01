@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 People, 24 Companies, and 42 Products Awarded for Excellence in Artificial Intelligence"
-    excerpt: "PHILADELPHIA, March 29, 2021 /PRNewswire-PRWeb/ -- The Business Intelligence Group today announced the winners of its inaugural Artificial Intelligence Excellence Awards program. This business awards program sets out to recognize those organizations ..."
-    publishedDateTime: 2021-03-29T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/5-people-24-companies-and-42-products-awarded-for-excellence-in-artificial-intelligence/article_ef06c876-ad73-5312-b855-bbb8d6a518ee.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Genuity Science Chief Data Science Officer Wins 2021 Artificial Intelligence Excellence Award"
     excerpt: "Genuity Science, a genomics and data-sourcing, analytics and insights organization, announced today that Tom Chittenden, PhD, DPhil, PStat, Chief Data Science Officer and Founding Director of the Genuity Science Advanced Artificial"
     publishedDateTime: 2021-03-30T08:32:00Z

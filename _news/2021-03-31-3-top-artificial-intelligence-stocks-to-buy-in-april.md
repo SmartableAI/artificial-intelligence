@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/03/31/3-top-artificial-intel
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.computing.co.uk/api/v1/wps/bbd2b0c/9eeb1c29-65f7-47f0-98cc-ce30d5f23800/4/AI-Machine-Learning-Awards-winners-3-Automation-Anywhere-370x229.jpg"
         width: 370
         height: 229
+        isCached: true
+  - title: "Only on April 1st, Cecilia.ai the Robotic Bartender Will Be Serving an Innovative Vaccine-Cocktail"
+    excerpt: "The robot is capable of \"vaccinating\" 120 people per hour ... or at the very least help put a smile on their face through these difficult times. Cecilia.ai, a new startup from GKI Group, is the world's first interactive bartender, customized for every ..."
+    publishedDateTime: 2021-04-01T11:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/only-on-april-1st-ceciliaai-the-robotic-bartender-will-be-serving-an-innovative-vaccine-cocktail-301260239.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/1478438/03ce0777ae2c9baf53844a9dcb60.jpg?p=facebook"
+        width: 1400
+        height: 733
         isCached: true
 
 secured: "xSPFNxtz5hFCEEmgpp8aNmMK8Lbw4xMfoVWRsL78IjRe9fRjHlIqNqkws992DyrRdwC5VPthExT9+3HtNoNp+kSbv9nU0XRfU0UXpKOBTXORlgc7A0LyBlvjjM3Z7hy8pxzb4xbZa6ZQEiX96lwFBLYgosiqNu0b/bJ+uh+tyGG+HnNPnARuonR++RpSuNBqjq43AT3YuPqa50tfxGufMiqE6mVnTMrOb5xCGa6n1FgY/5iUmQIGGzlfkSH7zq4dWLQHihrx/SgoBYZcWWJ845vHQNCHzJvRyEz95WtgVa7anCnZbQAge7J+3LgfBPiRfwrw6yna8TIqL7NHj7vaDi0yl0enQijhiMIQjxPmYpUDlqz1msjk+e4qSuLQ+6HuLFg5LgsbdC0XDm/y5fK4JMLw5cX9Mako9joyzEVB3xbDB4QPnPC9mWobVLJHl973SZq2SGHfz2gkgNDuSb2Z0yLd8E7U+7IVPB6JAI8SS2vsHtBYOekyYRYjibOui4Bw0VBWZv6YF5yvjbk2WlAicg==;Cbc4RXT12uVePa7i5DIZQA=="

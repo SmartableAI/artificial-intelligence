@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

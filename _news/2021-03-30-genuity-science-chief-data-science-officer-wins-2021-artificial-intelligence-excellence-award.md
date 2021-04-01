@@ -39,20 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "5 People, 24 Companies, and 42 Products Awarded for Excellence in Artificial Intelligence"
-    excerpt: "PHILADELPHIA, March 29, 2021 /PRNewswire-PRWeb/ -- The Business Intelligence Group today announced the winners of its inaugural Artificial Intelligence Excellence Awards program. This business awards program sets out to recognize those organizations ..."
-    publishedDateTime: 2021-03-29T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/5-people-24-companies-and-42-products-awarded-for-excellence-in-artificial-intelligence/article_ef06c876-ad73-5312-b855-bbb8d6a518ee.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 28
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "xDTMxHpY9ysYJmADDyNKAnUTwktYDXHVgXbgrcf9eUw1oUN1BM2x2gZNhYyqb2HWf33yTiK23ucQiOh+k7EAslZQ7o0RqKYd3tvAV9Bt8w2dVVhl2AFnYikge4sOmDjY1JSf4s+WcJmOe+guIIXXDx41viI1bgfRyyhWca5T5IrfaVQX6/j0Gl50ZgrifP1fNksFOlHSS/za8pVoDm0QrY2Xr1Ly6k4ShkE7/6uWmDLPFl1wfs8GpX5sp1puJMjgOTcUo39T1s7TR40u3pzlPLbfSuRDszkZWeHRvrxMFtqMi1QKJ5rXtDtuwmgg7hYCBn87jlzoBUOl99Z+ELzuu/jQmZP+zJzHiPEEwNbJjqk=;OgiswaYNqAA+PfT9H6NJew=="
 ---

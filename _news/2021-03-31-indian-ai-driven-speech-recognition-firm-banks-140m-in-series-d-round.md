@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 718
         isCached: true
+  - title: "Report: recommendation systems drive AI infrastructure initiatives"
+    excerpt: "The report categorizes common AI initiatives by vertical, and we also see different strategies (build vs. buy), frameworks (TensorFlow, PyTorch, Caffe and others), and databases by vertical. Over half of the respondents (52 per cent) mentioned using GPUs ..."
+    publishedDateTime: 2021-04-01T11:02:00Z
+    webUrl: "https://blocksandfiles.com/2021/04/01/wekaio-promo/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 39
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/03/CPU-vs-GPU.png"
+        width: 936
+        height: 594
+        isCached: true
 
 secured: "P4FUQQRFjbSGQ9TiJTTmNydSx4ZRCxCARHYYhZtMUklTNgN+CjjqNdfnGFUilCw8JvKGzZI2hhPuZS3fs4H/8bP+wzeCb9K5tbknvzuGk6tGsRX/woc6kWTzuyiXlMqdKOrvdkkw4J/Jgkb7mXZKADaxVJHPGgNgaSEQ8F2ZYqjoH3ZAOI3Pelcv6Jwm1spVoFxLZDZCQ2HA15wW5JhUV4JXBqdiFfnnUl4JXMF723iL21IkCM/bS0IdbV5REGTC823Hbl8bATjFfNZdE3y3NwkDgqCv6b4TIWRNkJXG8WDi8VwyV4JA8Sk82iFJ9aEq4oLiq0v2Q+cNCIDRFKjUNiXSgF1orkMdeO9Dq0TPvSv/IBdN51vbP8y+j2lkYOF6cZ/4hZEWY96GWvJB1Cr2+bJtzv27Tc3RRevJvxODoTOlqLXotzX9RINELEwT9inmvr6fUqCWphAgfkbMrYlsLiF+5JddNFSpVpS0DRo7U3Aoh97FSHOPTVJ2l6G8Cnua9HUytBblzwPMm/hg6UYPDQ==;z34UZJTdi2VhNzsfuvIncw=="
 ---

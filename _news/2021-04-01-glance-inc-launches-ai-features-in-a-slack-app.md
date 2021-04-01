@@ -64,20 +64,6 @@ related:
         width: 612
         height: 612
         isCached: true
-  - title: "Top AI Companies in the World Creating Massive Disruption"
-    excerpt: "As AI has become a strong power in business, today’s top AI companies in the world are leaders of this growing technology. Let’s look at the best AI companies in the world playing a critical role in industries."
-    publishedDateTime: 2021-03-29T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-ai-companies-in-the-world-creating-massive-disruption/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "bEN7wFloTNpMnhMA3RYk/iYSi8q5oGFAbS4qxm85Qa3Yngcp1boifpVqfSNERzt9FdtTWRXt7gm1NCeXS7PV/yGh3kXxN7zmjjXH6TdKgnhd2EZRMMVJUvV2GZ4rGhQkGQHsPY+JhfYTuIKO2oHSiMZoB+D3IZCqV16iG2gndOkzCYDjKvUBER15okgJO70rmbUPCjKuWI5OjSgI3/1o4SwJfHePOM+SWLskJ24hta85RQz65I9Eqh/6NsQC3ciSjkO5XKX5Mimh0xHO5Qt7Wb+x/7H8WxddtZJK49ocYeekS3qfB5qKfMYO7h0H4WfjCDKUYv0GDcUpOddnIfQ7W3ZvvlZ9xgtvbPxmRZnQdn8=;v3gTMTVaI/A1ov40DmVjAA=="
 ---

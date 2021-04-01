@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Industrial Automation Incentives by Governments in Emerging Economies Drive Industrial Robots Market"
+    excerpt: "The demand for industrial robots has been largely driven by the transition from manual industrial activities to automated solutions. Reduced costs associated to hiring manpower, and improvements to predictive maintenance tools and artificial intelligence ..."
+    publishedDateTime: 2021-04-01T10:20:00Z
+    webUrl: "https://www.fmiblog.com/industrial-automation-incentives-by-governments-in-emerging-economies-drive-industrial-robots-market/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 24
+    images:
+      - url: "https://www.fmiblog.com/wp-content/uploads/2021/04/Industrial-Robots-678x381.jpg"
+        width: 678
+        height: 381
+        isCached: true
+
 secured: "bC6G9MVoqBqoHBMOOXku0l7HkXABW4HJL5j6WdrMhBybqLKMMvnqv1NU6O8r30wFnDU/xgXNAR8Lqds77YOul7wStfbTPMwlLdP5h/Tdb3JSCz8szT3Ca6VA8YyTo2yayfaoYxvqzIaDGBpTlL3tJo9o5NnWgzQEB0Dry3UmTTSzdfhglO6iXzIL2SZPTHGqh9bsqM0nw8fmEleZqBJrJJcssyBeOS6HUALM8oc3A94FfjPz1tuFGDKzqeO1RqLKtGVaEEwU8ciaNuYyqucADBNvNCiSwHlGG+a3yANdO5TW7WmjIQVXGjuwsI24YaGW6UFcQ/YWfI9D6hysUktw3ghU15a2y8yvPXKymM5Fwu8=;yvaVhwKRJ8Csg2pmzmIMOA=="
 ---
 

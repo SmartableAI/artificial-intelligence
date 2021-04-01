@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/03/30/fashion-tech-india-real-time-ai-data--drives-competitive-retail-advantage/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 64
+  - title: "Report: recommendation systems drive AI infrastructure initiatives"
+    excerpt: "The report categorizes common AI initiatives by vertical, and we also see different strategies (build vs. buy), frameworks (TensorFlow, PyTorch, Caffe and others), and databases by vertical. Over half of the respondents (52 per cent) mentioned using GPUs ..."
+    publishedDateTime: 2021-04-01T11:02:00Z
+    webUrl: "https://blocksandfiles.com/2021/04/01/wekaio-promo/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 39
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2021/03/CPU-vs-GPU.png"
+        width: 936
+        height: 594
+        isCached: true
 
 secured: "y63sIAGNEEJA1ufjqHEtSAL4q6+tUwCXB6/r8BRTWcq6dwe6KdUVvOJkttJSBdWiNCd6oDWZ7MobYJCmW1h6jGHRfKIg4jpCXMzj9tMeSLmLaMi2GlMO5SL5VkTgNRRQe3BSMjFPEMTDt+Z55hZAP+2WlvsiZ2+MZaPnNDWEDl8u3AYqXYtuSGBZwlCryNDxhPlp+8Uh9v2seeebyGtfH4wCcpeo//jPoIlhXXtV1rNxsEBcyweRCpYjMsCFmV8B4pgjylZWWLcZg38W0TGMfyt/uTLG+I9i4omIyQev0oAIF1VO1y9eGL8FoEuiqbLTu5LK6XV3QPYXHhcuv6sIJoti7AcV2Slf9NLS4teVikZqeAeY8YB9Lb8R6e2IAu9s94RiOku3us9kmekR0vf0bvZredlN0L0ncMVeUFVi+W0ZIqmZgMMyFVFI59nYOuxk8trw1jojDEeZTkdiDTnZQEEF+ZdtnqOPVJLQFr85KFGlLoAWn7oIcgtVXjtCwFK7tGsAMP7kCwVR0a4o2+OYHQ==;l22d4vtjDsewhStktfO92A=="
 ---

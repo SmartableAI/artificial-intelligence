@@ -1,0 +1,116 @@
+---
+category: news
+title: "How Machine Learning, Contactless Payments Are Helping Piada Italian Street Food Meet Shifting Ordering Needs"
+excerpt: "Piada, which has 38 locations in six states, is also looking to integrate new technologies, such as machine learning (ML), to help analyze collected data and use it for more personalized customer experiences. “To the ML part of it, that is something that ..."
+publishedDateTime: 2021-04-01T11:44:00Z
+originalUrl: "https://www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/"
+webUrl: "https://www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/"
+ampWebUrl: "https://www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/amp/"
+cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/digital-payments/2021/machine-learning-contactless-payments-help-piada-italian-street-food-meet-shifting-ordering-needs/amp/"
+type: article
+quality: 40
+heat: -1
+published: false
+
+provider:
+  name: pymnts.com
+  domain: pymnts.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/amrefs0321-457x274.jpg"
+    width: 457
+    height: 274
+    isCached: true
+
+related:
+  - title: "AI's Role In Analyzing Shifting Sentiments Around Companies"
+    excerpt: "How companies are being talked and written about is changing as the pandemic unfolds, and these nuances could reveal more than simply how effective an organization's marketing department is. What if shifts in sentiment could help traders make more informed financial decisions?"
+    publishedDateTime: 2021-04-01T10:20:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/ais-role-in-analyzing-shifting-sentiments-around-companies/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60647e7baec9ee6de20db79e%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Companies are overestimating how responsible they’re being with AI"
+    excerpt: "Steven Mills, BCG GAMMA's chief ethics officer, says of the survey results: The results were surprising in that so many organizations are overly optimistic about the maturity of their responsible AI implementation. While many organizations are making ..."
+    publishedDateTime: 2021-03-31T12:00:00Z
+    webUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai"
+    ampWebUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "http://diginomica.com/sites/default/files/images/2020-04/ethics.png"
+        width: 1404
+        height: 930
+        isCached: true
+  - title: "Top AI Companies in the World Creating Massive Disruption"
+    excerpt: "As AI has become a strong power in business, today’s top AI companies in the world are leaders of this growing technology. Let’s look at the best AI companies in the world playing a critical role in industries."
+    publishedDateTime: 2021-03-29T17:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-ai-companies-in-the-world-creating-massive-disruption/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "5 People, 24 Companies, and 42 Products Awarded for Excellence in Artificial Intelligence"
+    excerpt: "PHILADELPHIA, March 29, 2021 /PRNewswire-PRWeb/ -- The Business Intelligence Group today announced the winners of its inaugural Artificial Intelligence Excellence Awards program. This business awards program sets out to recognize those organizations ..."
+    publishedDateTime: 2021-03-29T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_pennsylvania/5-people-24-companies-and-42-products-awarded-for-excellence-in-artificial-intelligence/article_ef06c876-ad73-5312-b855-bbb8d6a518ee.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 28
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Sentiero Ventures announces the closing of its artificial intelligence-driven Dallas venture capital fund"
+    excerpt: "The fund, Sentiero Ventures, invests in software-as-a-service (SaaS) companies that utilize artificial intelligence (AI ... Financial Services, Healthcare, and Entertainment. Sentiero's approach is designed to locate companies at the intersection of ..."
+    publishedDateTime: 2021-03-31T14:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/n20425939/sentiero-ventures-announces-the-closing-of-its-artificial-intelligence-driven-dallas-venture-capit"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20425939"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20425939"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
+  - title: "Using sentiment analysis to predict opinion inversion in Tweets of political communication"
+    excerpt: "Social media networks have become an essential tool for sharing information in political discourse. Recent studies examining opinion diffusion have highlighted that some users may invert a message's content before disseminating it,"
+    publishedDateTime: 2021-03-31T10:33:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-86510-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 14
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-86510-w/MediaObjects/41598_2021_86510_Fig1_HTML.png"
+        width: 685
+        height: 403
+        isCached: true
+
+secured: "4RzKXWrJguhvv3im5J8XiwZ4VqvdzzXB/5x2YLHF+kxPIiahI2pVf/wA61nFUGmXUD8ImQwBihls1QGquPuoQWOySqMa8g99nG45wqesFf/4z6Uqd4cPNIN6/Nn1sf01WKrImQUcbIAyhf2dqsYR/+rAx2pIHVAzqW8pd1jkA9NLt0SoaCCLWw0q7lOML2aWa4uu7ArHxvBA7lgY0oizkA/cEK2EcKo+R20L4RJLL509K5y1uwur73moF1soUcxCrbAOHhIHRWUghWWA7Kb/Lew3OevJ34T1h5pUeTzEcrra19wNDnSx8ogpjFtr25IJL4fUABUtuNlInpwuu0w0g2hG3Zr8JWvMGU8YwwbaQ8c=;5TqfcM9noGKNJsYysNZ/GQ=="
+---
+

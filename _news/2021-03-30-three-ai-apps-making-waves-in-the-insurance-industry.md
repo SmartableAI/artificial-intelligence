@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidguys.com/promoted-news/three-ai-apps-making-waves
 cdnAmpWebUrl: "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/promoted-news/three-ai-apps-making-waves-in-the-insurance-industry/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/03/robot-waiter.jpg"
         width: 612
         height: 612
-        isCached: true
-  - title: "Top AI Companies in the World Creating Massive Disruption"
-    excerpt: "As AI has become a strong power in business, today’s top AI companies in the world are leaders of this growing technology. Let’s look at the best AI companies in the world playing a critical role in industries."
-    publishedDateTime: 2021-03-29T17:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-ai-companies-in-the-world-creating-massive-disruption/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Glance Inc Launches AI features in a Slack App"
     excerpt: "Glance is a no-code AI-driven marketing SaaS startup. Brings data science to mid-sized marketers through their pioneering technology called Marketing Graph. They deliver high ROI and decrease customer acquisition costs."

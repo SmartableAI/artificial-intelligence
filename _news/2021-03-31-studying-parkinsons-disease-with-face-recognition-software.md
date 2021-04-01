@@ -7,7 +7,7 @@ originalUrl: "https://ptproductsonline.com/neurological/parkinsons/studying-park
 webUrl: "https://ptproductsonline.com/neurological/parkinsons/studying-parkinsons-disease-with-face-recognition-software/"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "Everything Wrong With Uber’s Facial Recognition System"
+    excerpt: "The union said there were at least seven cases of failed facial recognition and identity checks which led to the suspension of drivers and, in some cases, license revocation by Transport for London (TfL)."
+    publishedDateTime: 2021-04-01T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/everything-wrong-with-ubers-facial-recognition-system/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/04/Uber_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "9C7kbQaAS9mRjRb/dILZHQHAurq3Dl018+GbrKoU8iaCuiNkUKpPJa5jfODkAs5uUQyxPI8us6ZVV/GAn8czlf9HzRzA6HxB4c7/wNGVI+LsQb5Tq988QG0VQYqjhIdhBIU7wWRdm8q60cMLP07Yln8LowCWA/J7mPOTF2bNPaELPvYnafWYRZAAhBMDSH1129rR0ErunBxdMsxhraPWHlvcGiZj+kDUTj/KhMSBSdEzoBMG1WEg8ee+ibhMgh3t7njp7VqLHNypjaxy0isSkbh/hbsaltA3v0bMfL57t63G2PN0LABOS6z86tfnGkHdjvtVnH2HIHkn5vG7IFb7xLxkUNvKTHk/kfq29gQ3s4fLiOOteWRuuqlwvK4lGhsU9j9XLj+HKQa5J9HWKUFmdJ8VR/QAwjSvN6ZGiGEsLCEldHiYU+j+AJOEhtRSRFn9RXfLPgZ9pbzNPTHPBuw4WKEKlrLNWDz0zaYb0rjEEC8KferCJKOs9ebsjyAPpduWjc8ePKQ6TWlq1jyR0Iub3w==;+A+gEnSlX4wrhAMfV+1Gtg=="
 ---
