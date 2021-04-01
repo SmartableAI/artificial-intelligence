@@ -17,12 +17,6 @@ topics:
   - Machine Learning
   - AI in Autos
 
-images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/03/26be6e65e8cc4d6e0d5bd3ee7f37fce3.jpg"
-    width: 400
-    height: 300
-    isCached: true
-
-secured: "AzLQwySqmvIunWnrEMvnETXRsIEbAFJFvjX6I17+aPdL1KvmFKKzDP8hDRB9hMJa4FIFQoq7MW2qjCvNn6g9w9QpXeQ9wOSr4fjPKGukkN2Lqo0cM5BC1KsR3qUhk4u7VH82KwVkt2HEGqUEK0GKbg81nh7OyT+rH6zTv4l6kkO3tR7i1Jssxs4/SZSrIiwPP3qQtUp5z4/BME2C2cO9XGcyUqUgHvLWiXevDYXJJcP9tqsa6yFla7YVHy4SAGAtUgXxgiG/iCrpwrFFVg4juZLg+K/cSwyEGjV0riFLRWmvAC3k2YtekQHdo7+5C6opsye+PgimgAK+goTzlpps2rgks16tEpq28jlKeRMqGnw=;IoYEfo4E/S2vakwI6s7D/w=="
+secured: "uvUNPEbTltkD8jFeriiAAD3jDQUfLOVu4p//mYwYzQXVcCXYtbGBtSydCyABFoo8LOiXWpKflGXkMakH5Q4HX1LT5JfRYDVRm+jrUwVP1ojHYMe3EKK24ZqfEwOrlRp3OIhzpgH10rYAFsRfAhAq0YUQfi1Sceh2Xn2yzquwjG005XQ9p2cOT9fzCYSFgiEOdI1e6Vua7ks0EFWfoUYS0SBMEev+I4Qw+voNqOxJ3X18373RIyJ+Nxf2EGVC+b4otjBkYQIsN4CAfWTtPBPQ0FEQ7wM69Hll1E3F79g4ejH+9yMMsB+3yBQ/4yg7MMjnCMu5JejBhO5/eMPt3fm5qttTWzT76BTSlc3V9WST6K4=;Wl/Q7Ok5J9z3g8Fxlt30Vw=="
 ---
 

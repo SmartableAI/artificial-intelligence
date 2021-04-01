@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Ambi Robotics appoints Jim Liefer as CEO"
-excerpt: "Ambi Robotics appoints Jim Liefer as CEO. Liefer leads the company out of stealth to scale deployments of AI-powered robotic systems {/exp:eehive_hacksaw"
-publishedDateTime: 2021-03-31T16:03:00Z
-originalUrl: "https://www.scmr.com/article/ambi_robotics_appoints_jim_liefer_as_ceo"
-webUrl: "https://www.scmr.com/article/ambi_robotics_appoints_jim_liefer_as_ceo"
+excerpt: "Ambi Robotics appoints Jim Liefer as CEO. Liefer leads the company out of stealth to scale deployments of AI-powered robotic systems"
+publishedDateTime: 2021-03-31T13:26:00Z
+originalUrl: "https://www.logisticsmgmt.com/article/ambi_robotics_appoints_jim_liefer_as_ceo"
+webUrl: "https://www.logisticsmgmt.com/article/ambi_robotics_appoints_jim_liefer_as_ceo"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Supply Chain Management Review
-  domain: scmr.com
+  name: Logistics Management
+  domain: logisticsmgmt.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
-    width: 444
-    height: 333
-    isCached: true
-
-secured: "WwEr1Ry8nJAz8izLMbz6WDVGn+V2bHmUH70rm6e0D9j7QrPpiiOckvb2HYnO4Ok68p2i4cDHXl8cFX68h8y3d7LlirGje7L4CjQDl6O9kLHmNsPqyxkOMFD3FHk0ivbcBijUY/fKa6i4xiRxdFvMoHIU1jxLGOEdAi23IuC/O4xIQALURkK4h+xodeFMPRWr3XMzFBXenywtenoH19Q8/VSNXSrr5BjUkj2X6DyQGjoBbyysjeJPSMV1YTMiCpbWnL2nduGF9h4VBBYjcpIYjVjKSQ2hIupsselbwviXg/aX/F06d2lv0qC6CjByoFvc3vbUm3PZSFsVqTYiGmBX22g9uzHPNgEqlBsF0z/BUGY=;NogsRKJXRcALvX6VLTGVvw=="
+secured: "kI6UZeu++oKqoAIE89gFyMcBTBlF6w9uAEy3IYKrrLzcEEGQdwaHfiVGgLhlE5EzhtdMPjbcyi+6SPp0J3yubtWKRQFWnsoT9ighwuLiVR7o5PUGF7GyGdqxM59aVwSk9G8o9uiuVvgjPTdo62VyTaFtHQNp2zj7Rrh8f9MGcLAYNwTafnICIlqYcACTJpm6LAng0Bs90hHM6nxYEvh1we630Aci8Jq2WmAansJC67/7cBA1Yc/o+Xrq7D8yBxDfecdtscU07EuFcX/wmMSQleR05v1y3p2bAm2H8nw1ZdpkcXwXLsYpYthpzhYdDO47ARIZhLQ5mCx5rtOcaXiaWrTn/QzBNtHoDWapedO/awY=;k8rsddYxevXHqx1+wsZPpw=="
 ---
 

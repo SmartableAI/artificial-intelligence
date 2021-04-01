@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Top 5 Artificial Intelligence Companies with Market Share"
-    excerpt: "In 2019, Microsoft funded the US$1 billion to the AI-research lab OpenAI, to research and explore the possibilities for amalgamation of GPT-3 and Microsoft Azure, for developing super-computing capabilities. Facebook has reformed from a social network site ..."
-    publishedDateTime: 2021-03-27T08:07:00Z
-    webUrl: "https://www.analyticsinsight.net/top-5-artificial-intelligence-companies-with-market-share/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 45
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies1-scaled.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "Artificial Intelligence Market Top Companies Data 2021, Latest Industry Share, Demand and Revenue Growth Opportunities"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
     publishedDateTime: 2021-03-28T15:29:00Z

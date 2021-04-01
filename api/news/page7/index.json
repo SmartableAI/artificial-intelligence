@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-25-the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence.md",
+      "title": "The Antidote To The Hype, Noise, And Spin Of Artificial Intelligence",
+      "excerpt": "Look for things like convolutional neural networks, transformers, attention models, GANs to quickly identify if the underlying technology is part of the AI revolution. The Future - Zero Shot / One Shot / Few Shot Artificial Intelligence. 2020 was a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605cb0a3131e9c7d0acdba21%2F0x0.jpg",
+          "width": 1200,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2021/03/25/the-antidote-to-the-hype-noise-and-spin-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-03-25T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai.md",
+      "title": "DataRobot CEO calls for ‘a new era of democratization of AI’",
+      "excerpt": "DataRobots CEO makes case for approach to building and maintaining AI models that reduces dependencies on data science teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/",
+      "originalUrl": "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/dan-wright-datarobot.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/datarobot-ceo-calls-for-a-new-era-of-democratization-of-ai/amp/",
+      "publishedDateTime": "2021-03-25T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-25-visa-and-capital-one-alum-cetin-duransoy-joins-fintech-leader-fundbox-as-chief-operating-officer.md",
       "title": "VISA AND CAPITAL ONE ALUM CETIN DURANSOY JOINS FINTECH LEADER FUNDBOX AS CHIEF OPERATING OFFICER",
       "excerpt": "San Francisco, March 25, 2021 (GLOBE NEWSWIRE) -- Fundbox, the financial services platform for small businesses, has named Cetin Duransoy as Chief Operating Officer. He will be responsible for scaling and overseeing the growth of the company’s credit ...",
@@ -288,19 +392,19 @@
     {
       "path": "_news/2021-03-25-ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines.md",
       "title": "IBM Positioned as a Leader in 2021 Gartner Magic Quadrant for Insight Engines",
-      "excerpt": "IBM Watson Discovery, an AI-powered search and text-analytics service, uses advanced natural language processing (NLP) to help companies find new insights from complex enterprise documents and data.",
+      "excerpt": "IBM (NYSE: IBM) today announced that global research firm Gartner has positioned IBM as a Leader in the newly published 2021 Gartner Magic Quadrant for Insight Engines 1. This builds on the recent news that IBM was positioned as a Leader in the 2021 Magic Quadrant for Cloud AI Developer Services2 and the 2021 Magic Quadrant for Data Science and Machine Learning Platforms3.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-301255480.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-2021-gartner-magic-quadrant-for-insight-engines-301255480.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-tekashi69-artificial-intelligence-computing-and-information-technology-0d337f4da53759c512a89ca0fd84ef2c",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-tekashi69-artificial-intelligence-computing-and-information-technology-0d337f4da53759c512a89ca0fd84ef2c",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -310,11 +414,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T05:44:00-07:00",
+      "publishedDateTime": "2021-03-25T05:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1105,101 +1209,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-natural-language-processing-nlp-market-by-new-business-developments-innovations-and-top-companies-a-forecast-to-2026.md",
-      "title": "Natural Language Processing (NLP) Market by New Business Developments, Innovations, And Top Companies â Forecast To 2026",
-      "excerpt": "In 2019, the global Natural Language Processing (NLP) market size was US$ 854.6 million and it is expected to reach US$ 3121.5 million by the end of 2026, with a CAGR of 20.1% during 2021-2026. Request a sample Report of Natural Language Processing (NLP) Market at:  The major vendors include 3M,",
-      "sourceUrl": null,
-      "webUrl": "https://ksusentinel.com/2021/03/26/latest-updated-report-on-global-label-applicators-market-2021-covid-19-impact-share-trend-segmentation-and-forecast-to-2028-weber-herma-primeras-label-take-a-label/?random-post=1",
-      "originalUrl": "https://ksusentinel.com/2021/03/26/latest-updated-report-on-global-label-applicators-market-2021-covid-19-impact-share-trend-segmentation-and-forecast-to-2028-weber-herma-primeras-label-take-a-label/?random-post=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ksusentinel.com/wp-content/uploads/2021/03/equestrian-equipment-market-1.jpg",
-          "width": 650,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sentinel",
-        "domain": "ksusentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-fintech-startup-raises-200-million-to-fight-digital-banking-fraud.md",
-      "title": "Fintech startup raises $200 million to fight digital banking fraud",
-      "excerpt": "Artificial intelligence (AI) and machine learning are the future. Meanwhile, cyber crime, money laundering and online financial fraud are becoming bigger problems by the day. To help combat these rising issues, fintech startup Feedzai has raised $200 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud",
-      "originalUrl": "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570814930/itpro/2015/12/mobile_banking.jpg",
-          "width": 1000,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-crime/359013/fintech-startup-raises-200-million-to-fight-digital-banking-fraud?amp",
-      "publishedDateTime": "2021-03-24T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

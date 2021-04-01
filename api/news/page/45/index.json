@@ -2,6 +2,109 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-02-24-cloud-observability-startup-opscruise-emerges-from-stealth.md",
+      "title": "Cloud observability startup OpsCruise emerges from stealth",
+      "excerpt": "OpsCruise, a cloud availability startup leveraging AI to detect performance anomolies, emerged from stealth with venture backing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/",
+      "originalUrl": "https://venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/federated_learning.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/amp/",
+      "publishedDateTime": "2021-02-24T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing.md",
+      "title": "Blueshift raises $30M for its AI-based, integrated approach to marketing",
+      "excerpt": "The concept of the “marketing cloud” — sold by the likes of Salesforce, Oracle and Adobe — has become a standard way for large tech companies to package together and sell marketing tools to businesses that want to improve how they use digital channels to grow their business.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/",
+      "originalUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1010660260.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/amp/",
+      "publishedDateTime": "2021-02-24T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation.md",
       "title": "Healthcare’s Latest Unicorn: Big Data Startup Innovaccer Raises $105 Million At $1.3 Billion Valuation",
       "excerpt": "On the heels of a year that saw a record amount of venture cash flow into healthcare startups, investor appetite for healthtech does not appear to be waning.",
@@ -1049,103 +1152,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-review-aws-ai-and-machine-learning-stacks-up-and-up.md",
-      "title": "Review: AWS AI and Machine Learning stacks up, and up",
-      "excerpt": "Amazon Web Services provides an impressively broad and deep set of machine learning and AI services, rivaling Google Cloud and Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up-and-up.html",
-      "originalUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up-and-up.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/artificial_intelligence_ai_blockchain_digital_learning_chip-100745932-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up-and-up.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up-and-up.amp.html",
-      "publishedDateTime": "2021-02-23T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-artificial-intelligence-in-healthcare-major-opportunities-and-challenges.md",
-      "title": "Artificial Intelligence in Healthcare: Major Opportunities and Challenges",
-      "excerpt": "You may have seen the commercials claiming that artificial intelligence is “the future”, but what exactly are the impacts of artificial intelligence on healthcare? First, in order to delve deep into we should establish a simple understanding of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/artificial-intelligence-healthcare-major-opportunities-challenges/",
-      "originalUrl": "https://www.smartdatacollective.com/artificial-intelligence-healthcare-major-opportunities-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2017/06/artificial-intelligence-big-data-1718.jpg",
-          "width": 1000,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/artificial-intelligence-healthcare-major-opportunities-challenges/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/artificial-intelligence-healthcare-major-opportunities-challenges/amp/",
-      "publishedDateTime": "2021-02-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

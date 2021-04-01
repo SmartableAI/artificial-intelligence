@@ -38,22 +38,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "European AI in Image Recognition Market Size, Share, Analysis, Industry Report and Forecast 2019-2025"
-    excerpt: "The European AI in image recognition market is estimated to grow at a CAGR of over 27 during the forecast period Europe has a huge potential for the growth of AI owing to an advanced economy and significant investment The"
-    publishedDateTime: 2021-03-27T08:18:00Z
-    webUrl: "https://www.openpr.com/news/2262802/european-ai-in-image-recognition-market-size-share-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262802/european-ai-in-image-recognition-market-size-share-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/U/3/U327813450_g.jpg"
-        width: 800
-        height: 904
-        isCached: true
   - title: "Cyber Daily: Court Rulings Spur Debate on How European Privacy Law Regulates AI Decisions | Payments Company Investigates Data Breach"
     excerpt: "Follow us on Twitter: @WSJCyber. AI and Privacy Robots under the privacy microscope: Recent court rulings in the Netherlands raise questions over how European privacy rules intersect with automated technologies and the treatment of personal data ..."
     publishedDateTime: 2021-03-31T12:21:00Z

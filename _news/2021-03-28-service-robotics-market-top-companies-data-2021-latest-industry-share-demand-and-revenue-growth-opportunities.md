@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28"
 type: article
 quality: 64
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Top 5 Artificial Intelligence Companies with Market Share"
-    excerpt: "In 2019, Microsoft funded the US$1 billion to the AI-research lab OpenAI, to research and explore the possibilities for amalgamation of GPT-3 and Microsoft Azure, for developing super-computing capabilities. Facebook has reformed from a social network site ..."
-    publishedDateTime: 2021-03-27T08:07:00Z
-    webUrl: "https://www.analyticsinsight.net/top-5-artificial-intelligence-companies-with-market-share/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 45
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-AI-Companies1-scaled.jpg"
-        width: 1600
-        height: 1067
         isCached: true
   - title: "Service Robotics Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "Asia-Pacific is anticipated to display the highest CAGR owing to increasing government investments in robotics and artificial intelligence, rising focus on R & D. Besides these, the growing demand ..."
