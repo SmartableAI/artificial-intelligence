@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "myconversica"
   url: "https://twitter.com/myconversica"
-  followers: 12887
+  followers: 12885
 
 size: 201-500 employees
 yearFounded: 2007
