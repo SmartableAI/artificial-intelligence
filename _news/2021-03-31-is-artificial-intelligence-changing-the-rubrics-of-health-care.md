@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/is-artificial-intelligence-changing-the-rubri
 webUrl: "https://techstory.in/is-artificial-intelligence-changing-the-rubrics-of-health-care/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "This entrepreneur says AI can take better care of your health"
+    excerpt: "\"AI is a spectrum of things. There are many aspects to AI than just the programming part. There is the design, the creativity. There is also the ethics of designing those systems, the user interface\". AI is therefore not just an intangible zone for tech ..."
+    publishedDateTime: 2021-04-01T15:29:00Z
+    webUrl: "https://www.euronews.com/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive"
+    ampWebUrl: "https://www.euronews.com/amp/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive"
+    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/amp/2021/04/01/artificial-intelligence-in-healthcare-moving-from-reactive-to-proactive"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 59
+    images:
+      - url: "https://static.euronews.com/articles/stories/05/41/08/90/1000x563_cmsv2_32a19abb-3f98-5b22-ba66-f7c6e023bee8-5410890.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Different Takes: Is AI The Future Of Health Care?; Opioid Settlement Money Must Be Used Wisely"
     excerpt: "Opioid companies are being forced to pay for their grave mistakes and misdeeds in helping fuel the overdose epidemic in the United States. The total in settlements — including Purdue Pharma’s $8.3 billion agreement in a federal case and a consulting company paying more than a half-billion dollars for its role — now stands at approximately $10 billion,"
     publishedDateTime: 2021-03-29T13:15:00Z

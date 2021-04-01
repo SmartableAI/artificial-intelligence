@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2262959/growth-outlook-how-covid-19-chang
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262959/growth-outlook-how-covid-19-change-the-picture-of-ai"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "Will Voice Recognition Market carry its growth momentum post COVID-19? Read more to know."
+    excerpt: "The Voice Recognition Market is likely to witness a CAGR of 17.5% during the forecast period, according to a report from Stratview Research. COVID-19 pandemic – Boon or a Curse to the industry? The outbreak of COVID-19 has severely impacted several ..."
+    publishedDateTime: 2021-04-01T12:08:00Z
+    webUrl: "https://www.wboc.com/story/43587445/will-voice-recognition-market-carry-its-growth-momentum-post-covid-19-read-more-to-know"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 15
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/04/5299-stratview20logo300x300-16.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "CjE+h1hl2iXCVQL/L0b9alUs0erLuqIYmIRTflUGObvlLBnyBG0p4orXQ+P8/9kXSJErR7xxKlS+AedvW9vg7WcLF95K3HUK+w3OViVI4Kt6kbZjSWnzHOxtwFTT/yTTVDDQrUA/3HxcLsxKkTwKaiTVj7nb/G78iNrtwTF1AO4K7CnAqcC7DMRBXXdAwr+gsJVvfV8TltrG6mK1dJOMYmBqQvGZZu+vyHoGXNv7KpvCm2hx1xqymwyr5r6VjqAkh1OVxeWR5Ur8OzirQsB9ef/qN6qcgZfDCiWJUKmrWOXuz7QDu2TbYmFN36hosCPx9RaeUXZV2803K8lpKmA96J8XVaLmpDSomo4zjrcDPZAsD/gIi++xWHIjm3X/u8+/sBBdC+kxmNiApn1U/yEhwZwQLjFfC/7hYVRQs5CqYRZjfql6ltV1JweH/ey6ViswdcWfVydViccDiMA+lJLRPHFjG5lgmE/uSuwufrKQ24xS0OyadLYVSYz7cYGrzhsS7ZBPvjh9dtpsBdD96ZBe+A==;klH3hwO3gZKYJbo4w5402Q=="
 ---

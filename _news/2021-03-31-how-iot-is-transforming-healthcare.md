@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/31/how-iot-
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/31/how-iot-is-transforming-healthcare/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "7 Tech Stocks Becoming Healthcare Stocks"
+    excerpt: "Cloud-based platforms and artificial intelligence (AI)-based tools are also gaining importance as more healthcare companies use data in their offerings. Therefore, today’s article introduces ..."
+    publishedDateTime: 2021-04-01T15:34:00Z
+    webUrl: "https://investorplace.com/2021/04/7-tech-stocks-becoming-healthcare-stocks/"
+    ampWebUrl: "https://investorplace.com/2021/04/7-tech-stocks-becoming-healthcare-stocks/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/7-tech-stocks-becoming-healthcare-stocks/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 59
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2016/04/healthcaremsn.jpg"
+        width: 728
+        height: 400
+        isCached: true
   - title: "How artificial intelligence is transforming manufacturing"
     excerpt: "We only need to look toward prominent Industry 4.0 models to see how artificial intelligence (AI) is impacting the future of manufacturing."
     publishedDateTime: 2021-03-29T04:05:00Z

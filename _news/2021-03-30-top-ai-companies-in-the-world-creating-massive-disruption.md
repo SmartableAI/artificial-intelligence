@@ -71,6 +71,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "KPMG's New Tax Data Reader Tool Automates Analysis Of Financial Data, Simplifying Tax Filing Season"
+    excerpt: "As companies continue to struggle with synthesizing and understanding enormous amounts of data, especially financial data, and remaining tax compliant, KPMG LLP today announced it was granted U.S. Patent No."
+    publishedDateTime: 2021-04-01T14:06:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/kpmg-s-new-tax-data-reader-tool-automates-analysis-of-financial-data-simplifying-tax-filing-season-1030269423"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/648978/KPMG_Logo.jpg"
+        width: 400
+        height: 295
+        isCached: true
   - title: "5 People, 24 Companies, and 42 Products Awarded for Excellence in Artificial Intelligence"
     excerpt: "PHILADELPHIA, March 29, 2021 /PRNewswire-PRWeb/ -- The Business Intelligence Group today announced the winners of its inaugural Artificial Intelligence Excellence Awards program. This business awards program sets out to recognize those organizations ..."
     publishedDateTime: 2021-03-29T13:00:00Z

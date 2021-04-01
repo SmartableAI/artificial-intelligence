@@ -39,6 +39,22 @@ related:
         width: 1118
         height: 745
         isCached: true
+  - title: "7 Tech Stocks Becoming Healthcare Stocks"
+    excerpt: "Cloud-based platforms and artificial intelligence (AI)-based tools are also gaining importance as more healthcare companies use data in their offerings. Therefore, today’s article introduces ..."
+    publishedDateTime: 2021-04-01T15:34:00Z
+    webUrl: "https://investorplace.com/2021/04/7-tech-stocks-becoming-healthcare-stocks/"
+    ampWebUrl: "https://investorplace.com/2021/04/7-tech-stocks-becoming-healthcare-stocks/amp/"
+    cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/04/7-tech-stocks-becoming-healthcare-stocks/amp/"
+    type: article
+    provider:
+      name: InvestorPlace
+      domain: investorplace.com
+    quality: 59
+    images:
+      - url: "https://investorplace.com/wp-content/uploads/2016/04/healthcaremsn.jpg"
+        width: 728
+        height: 400
+        isCached: true
 
 secured: "CEzDD3o+L98iWZykU12MqoDgArGwUlqj/Zj+fEfRywzqX9J+EkLOYNP5PfSYRiK3XxEd5QxHU1XdxF3nBypjxYix7vOYOCuraCpViSkUt4l92YYgQae2paRDu96ov7RLp0xfXAjInVrQaECBgWtZt+TzKOrszdFS+AUpExXCKJhrbCDgSlifn272wgVSgGc3yVTSpK8275g/FXWJbYGyGJqzzHkI9tPKxbt1zq99+Vy5kBkrLCFJeBEnFsFW31CWKGQ5c4g3FaiH+HIuhcA4l12YvTmzkNTIxF7oOmuFZo/0cl6EeNSsYm3VEGyhGbqa3v1GHy01mOJnrV82Cf+E4tpucTS0KYFbcKv1Vhe26v8=;RBx2nGFzMN5uT/bl/uL2sA=="
 ---

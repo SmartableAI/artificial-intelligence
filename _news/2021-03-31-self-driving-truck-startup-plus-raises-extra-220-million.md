@@ -51,6 +51,20 @@ related:
         width: 800
         height: 560
         isCached: true
+  - title: "Self-Driving Cars That Are Jinxed"
+    excerpt: "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition."
+    publishedDateTime: 2021-04-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sources: Didi Chuxing may raise $500m for self-driving unit ahead of IPO"
     excerpt: "Didi Autonomous Driving is reportedly looking to rake in up to US$500 million in the potential raise at a valuation of around US$6 billion."
     publishedDateTime: 2021-03-30T04:34:00Z
@@ -152,6 +166,17 @@ related:
         width: 980
         height: 512
         isCached: true
+  - title: "People Are Throwing Eggs at Google’s Self-Driving Vans"
+    excerpt: "They detailed similar anti-robot sentiments, like drivers refusing to let the self-driving van merge into lanes or succumbing to disproportionate levels of road rage against the occasionally buggy ..."
+    publishedDateTime: 2021-04-01T11:00:00Z
+    webUrl: "https://futurism.com/the-byte/people-throwing-eggs-googles-self-driving-vans"
+    ampWebUrl: "https://futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
 
 secured: "N3WwD6k5ZONQZm5LtLkeoHm4UEngdUoIIWaGWBrbAxLbfYkPDyovxxfNvVJ25RP+jrF0Un5vLxV3iyxWhYvJ7rPwKZ/xlYwNnrlAMzgEe6R5YOKdo8GBjWaix46RlghEV9HqoCOC5BRjfGBLLGlPBlRLaMnZJR6ll+AvFStzms43rGE/7nBMVLJwB1V3YYcBYDq2sJylhas9qsPwZBbgVc+1MtH4gcwPz7f2XMnkcSVujPR5NFi6B1q+L1dcu0em97BJgbbmfhmC9eKx9WBjf0ERBx2tCqSm3gmx35Iyl9NSFoL4bDZHPXnN+f/wBeKkNt3kwOWHG7+dwvkKVq4Qqk7Lm/kcSzpPAhAlJcZAUWg=;PA+nSNhbmor5Np75I8wk2g=="
 ---

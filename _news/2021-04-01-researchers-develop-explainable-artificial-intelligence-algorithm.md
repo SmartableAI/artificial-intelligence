@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.h
 ampWebUrl: "https://techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-04-artificial-intelligence-algorithm.amp"
 type: article
-quality: 72
-heat: 102
+quality: 74
+heat: 104
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx1.b-cdn.net/csz/news/800/2021/65-researchersd.jpg"
@@ -69,6 +70,6 @@ related:
         height: 760
         isCached: true
 
-secured: "cP4mFaT/2HAlZjmI7dURZQpThQ/K451WbO3MYEq011zvoY91McSmfZo4tJ+d2ZNHGFhSDSrhANpDzLZclDhs8mc0B30Vhm0Onxrg73n1IIik5o8pMA7/QwFVWa47y9PLL+s7xEGFT3prs9/5Y+fk/i3KlNJkMvUIwq3LvNLvgX8kkrHFMWLFEAm1dtkGrUTQMhjr5mRqyYJBSZ40aXvu/DSvLZ46SZv894lPglZBzShdkpDM6XXmHGsI3jP6UPpCSn6xB4yXzQNPHHtPvb5NVBJdYmWXLg1sp/0g16tSKdBKqHnsvQ1jDupyDDEx/JK5RQ8+DEAnEGUpA1fbQuzW1MJuC7gy2EWvFKOjKoBhLOE=;4nrA5NWDgBJVMOdPuQ0kJw=="
+secured: "pNzdgsKVTyrdFaJaLWHE9tfbDXR3frREjhjUc4CbDG6+17vYR2nR4rg77A0nMvr8ESWlyjvVIsAXF/Al2jwWJGGwSHLfA2TfMnmzKMId+hETrvQwt2SMsgaEfDnSx11BvEBLYHgRNDAsM5ch0fBtaJP9Xx0xMTTzWyqEsSNTlF4YWdNhsOzVrIXANXzonzJGU0bmdxYYzwfNvtOARKhQMpZSCPUBl+7GXljX1bJqglurCw4MuQ0faeMQ4zPtfcAxwUGesN/3viGPEUt917FMj8Oi60tdJlYxLEorOKsgUvIHAvneWFG0QdtpLfHhdWQNw/aKOQBl197e0t1LgMV1yFOzIflK/z4Yy0KMdPYbsCth0XXxUyHgkJLKjhPRdPsDmbm9KY93LnwKGbkpYDW/ngCy3aOAYIOZXdFlNZ/kJQcazrVyfk2o6N0W7pS7KuoeCpb1nE1rKFgtkRVGV6Xy+P7SEOhWrnFMs4k2PzgMFO7mt/oSoxsdmb7UOt3xzca2qrBbhD95G0rckn+7h1D2DQ==;5tokMDhg3BpJrRbqr/ymQQ=="
 ---
 

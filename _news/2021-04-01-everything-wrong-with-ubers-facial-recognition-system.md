@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/everything-wrong-with-ubers-facial-r
 webUrl: "https://analyticsindiamag.com/everything-wrong-with-ubers-facial-recognition-system/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Studying Parkinson’s Disease with Face-Recognition Software"
-    excerpt: "Artificial-intelligence technology can detect facial characteristics of Parkinson's disease, researchers at Okayama University report in Brain Supplement. The faces of patients were systematically found to look older and expressionless."
-    publishedDateTime: 2021-03-30T18:16:00Z
-    webUrl: "https://ptproductsonline.com/neurological/parkinsons/studying-parkinsons-disease-with-face-recognition-software/"
+  - title: "Uber driver claims facial recognition app locked him out of system after he tonsured his head"
+    excerpt: "An Uber driver who went on a pilgrimage to Tirupathi, and returned with a tonsured head, and shaved beard, per religious customs, claimed that he was locked out of the system as a selfie he uploaded,"
+    publishedDateTime: 2021-04-01T15:24:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece/amp/"
     type: article
     provider:
-      name: Physical Therapy Products
-      domain: ptproductsonline.com
-    quality: 26
+      name: The Hindu
+      domain: thehindu.com
+    quality: 65
     images:
-      - url: "https://ptproductsonline.com/wp-content/uploads/2021/03/FacialRecognition.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.thehindu.com/business/Industry/2zz7cs/article32892894.ece/ALTERNATES/LANDSCAPE_615/VBK-UBER-BIJOYGHOSH"
+        width: 615
+        height: 384
         isCached: true
 
 secured: "HLExn7YE2TW6O3Fzng0qThHZ9/FkrHqproh9YwY4tnEaszGvH6oa7d91LFYVbDQVeiVTmpPWT4AERuO+lTl5qxfeHj02INahT4q9XsY4FNOCr4qYznXsz8XQ70vxpwcFL1+h+KzfScl3o1j0TliZsjnLBDovwRZ1oh/7yL5yAi0N5B6PXBBNnsKKcHFlYBVaZEAiyOdejrp2HcoFRxnWrDfDrr1c7EIhxXZ5tpH1pIJvWt9RWARZyp3aPKE2ZX+iTjBW3td6vKf5eMEMUi4S+lERz2rU5hQHXIk2Ru1bz//ZNLAbNt4QfTZVjAB3/f9mR1uXSdXHAi9p6CNVEV4+6gWUonwuaFUwIxyBebaqXxI=;fazM7PB7TNPeVyaJKS765g=="

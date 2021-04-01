@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising
 webUrl: "https://www.bloomberg.com/news/articles/2021-03-29/didi-is-raising-money-for-self-driving-unit-at-6-billion-value"
 type: article
 quality: 169
-heat: 259
+heat: 279
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.gizmochina.com/wp-content/uploads/2020/04/didi.jpg"
         width: 800
         height: 560
+        isCached: true
+  - title: "Self-Driving Cars That Are Jinxed"
+    excerpt: "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition."
+    publishedDateTime: 2021-04-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Self-driving truck startup Plus raises extra $220 million"
     excerpt: "Plus’ rival TuSimple filed for a U.S. IPO earlier this month. Other self-driving companies such as Velodyne, Luminar Technologies and Aeva have also recently filed to go public, banking on an historic boom in U.S. capital markets."
@@ -153,6 +167,17 @@ related:
         width: 980
         height: 512
         isCached: true
+  - title: "People Are Throwing Eggs at Google’s Self-Driving Vans"
+    excerpt: "They detailed similar anti-robot sentiments, like drivers refusing to let the self-driving van merge into lanes or succumbing to disproportionate levels of road rage against the occasionally buggy ..."
+    publishedDateTime: 2021-04-01T11:00:00Z
+    webUrl: "https://futurism.com/the-byte/people-throwing-eggs-googles-self-driving-vans"
+    ampWebUrl: "https://futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
 
 secured: "isifjiR1bo8OphXFXTXbThAgOLyJm+3zNWy9q/7cZsocFP5Z7S+fhnVkz4XQM3C2D+sL2I7nnVBT2hlnCn/Qpx85oJIAJdkWxeFIXkoq2rzeBT7axpeQSvrTUAS0qV+xI1M+jyV33ROu+7THmREG5Gxz3kELZCgMurOhmCkO7cmMfwkQ6eaPm27tjjigYVv5ugIrbNw4tCxwmWBBJlPhRQsBcYBzckc/2eybv1OAs/deD0HmB106lAt0qkB1xbmpB4GuVjyupYETZngnBbRpu79Gq0yzRDYbvJTzwGBqR5lvFVJdkh4oHheZz/kC7MzeCA+WD1Lkmq1yI2GC7CV8k7mF0Z/ThSr1y3uYpj0EqMERKegn5n+J77jbZ544O7Dxp7NAr7hCB0rOciSrOCcCOq8SvoYa6em2M811KufA5o89LpF5I5uG+OTMO4YCbpNDyBpY8is+Do7lGVi1Mkd9/QJV3MHQBEL1HwAWbO+HiwPLg2to+v/PjDtx8EaFs6b8wRFuv6vKtKTjCsLCwpdFVESvvmMF3RuPBFCgoIpj0Z8=;4vfQrxY7IvcImgZSlWkNOQ=="
 ---

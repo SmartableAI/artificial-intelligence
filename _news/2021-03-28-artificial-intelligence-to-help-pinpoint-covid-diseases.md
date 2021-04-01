@@ -65,6 +65,20 @@ related:
         width: 437
         height: 250
         isCached: true
+  - title: "Will Voice Recognition Market carry its growth momentum post COVID-19? Read more to know."
+    excerpt: "The Voice Recognition Market is likely to witness a CAGR of 17.5% during the forecast period, according to a report from Stratview Research. COVID-19 pandemic – Boon or a Curse to the industry? The outbreak of COVID-19 has severely impacted several ..."
+    publishedDateTime: 2021-04-01T12:08:00Z
+    webUrl: "https://www.wboc.com/story/43587445/will-voice-recognition-market-carry-its-growth-momentum-post-covid-19-read-more-to-know"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 15
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/04/5299-stratview20logo300x300-16.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "Vd8epCol/dUJCFgBg0Z5LPxa1f8rSn2xoSj6scwbt3JmhlyzPK86GTL076NuZAaDBiaufFoaJA4M4L32L5P6jrwmjnPIW5OaoPE9wk/213+OJEacITBxQuMkTumo11glJbdhMBdeA3+njCaQHqw5eBNLxB6uu3K05fBCseAsELXYvXuXoU1NI8geE0PKxCkI2vP8uz6Gb14Eokm3q7NReZzf++xk30IXDJdMsY1BY/deti6BwybVI3eGL+JZOryRCQ0n+6RUYJHEXMoGbHHg6Mp0yseHOSlqzxkLQ2PIgIwFi2MVXrfyUQvwwurjwx6NeUlB9zDmtObLoDbEiS0e9ZuH+OHn9Y9kYf+C2GH7Lfc=;/tbFEYfnrschwXDQp0xUHg=="
 ---

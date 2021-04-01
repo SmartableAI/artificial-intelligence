@@ -35,7 +35,7 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://scx1.b-cdn.net/csz/news/800/2021/65-researchersd.jpg"
         width: 750

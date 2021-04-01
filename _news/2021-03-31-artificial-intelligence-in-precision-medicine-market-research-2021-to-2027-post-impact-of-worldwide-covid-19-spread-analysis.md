@@ -66,6 +66,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 19
+  - title: "Will Voice Recognition Market carry its growth momentum post COVID-19? Read more to know."
+    excerpt: "The Voice Recognition Market is likely to witness a CAGR of 17.5% during the forecast period, according to a report from Stratview Research. COVID-19 pandemic – Boon or a Curse to the industry? The outbreak of COVID-19 has severely impacted several ..."
+    publishedDateTime: 2021-04-01T12:08:00Z
+    webUrl: "https://www.wboc.com/story/43587445/will-voice-recognition-market-carry-its-growth-momentum-post-covid-19-read-more-to-know"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 15
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/04/5299-stratview20logo300x300-16.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "FNKIshBekxusH4pQziWJjHKAxn+hjGgu1ajsBIJi6g3XFrjHYq0Yhwo/Rp0jNz8Ucn/38YKMoVQFhigLgk188dF5YGW8P8h8nIKJlU/41mi8D0VOUGaLtGM6LAf8NY/3qXOEnD7yFdlSOghZmgGQvlI2JJnMLL60d0SRUeWOjTU1EsuN+Dc03t9Gyu5QFNwDfEO7GhK3c05Qx33VIo/aq+AyaupLPNCYHrNT8d6Dywwox9tw2ympiQYkK3A/ddVA6hv8Li0tmH1pV1TaFTqIB0gWMj/0FB5hJVLzfylOtcLVOEKzhsJzkuvCwC3qi70tYZI8XXyshzRVyIXEHgPtV2nWCo+hE6IIGCbEW2ncFQl0T9txNQ8Kw3f81u1aN021ZTqUvSWZOEaC53PeAvhSAd20AkaQ2Jy/3LdL/l+T+NywA9O7vtVARBQZFhZY+HTGz4hFRTsFYZ1P9jU4dctWEtOIfbV1uZfiFtb+VfvT3NfSFz7wKsyRxHP3D0GtIDIkJa1EQe9IQSemPHI/patKSQ==;qnbj90NfFmWZb/SMKt8Lxw=="
 ---

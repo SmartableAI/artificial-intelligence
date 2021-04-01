@@ -143,6 +143,20 @@ related:
         width: 974
         height: 649
         isCached: true
+  - title: "Arm Takes On AI With New Chip Architecture"
+    excerpt: "Arm has unveiled its first new architecture in more than 10 years, pushing security and AI as potential markets for its processor technology. The new Armv9 architecture will deliver up to a 30 per cent performance boost over the next two chip generations compared to processors currently powered by Armv8,"
+    publishedDateTime: 2021-04-01T15:08:00Z
+    webUrl: "https://www.channelnews.com.au/arm-takes-on-security-ai-with-new-chip-architecture/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 54
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2021/03/arm-cortex.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Arm unveils Armv9 architecture for its next generation of processor chips"
     excerpt: "The British chip designer Arm Holdings Ltd. introduced a roadmap for its next-generation central processing unit architecture today. Its new breed of chips will be optimized for specialized workloads such as artificial intelligence and digital signal processing and come with greater security built right into the silicon."
     publishedDateTime: 2021-03-30T18:00:00Z

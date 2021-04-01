@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Only on April 1st, Cecilia.ai the Robotic Bartender Will Be Serving an Innovative Vaccine-Cocktail"
-excerpt: "The robot is capable of \"vaccinating\" 120 people per hour ... or at the very least help put a smile on their face through these difficult times. Cecilia.ai, a new startup from GKI Group, is the world's first interactive bartender, customized for every ..."
-publishedDateTime: 2021-04-01T11:00:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/only-on-april-1st-ceciliaai-the-robotic-bartender-will-be-serving-an-innovative-vaccine-cocktail-301260239.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/only-on-april-1st-ceciliaai-the-robotic-bartender-will-be-serving-an-innovative-vaccine-cocktail-301260239.html"
+excerpt: "The robot is capable of “vaccinating” 120 people per hour ... or at the very least help put a smile on their face through these difficult times. About Cecilia.ai Cecilia.ai, a new startup from GKI Group, is the world’s first interactive bartender ..."
+publishedDateTime: 2021-04-01T11:05:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-lifestyle-business-public-health-corporate-news-7b946481dda2eca942ca46f5c7e52600"
+webUrl: "https://apnews.com/press-release/newswire/technology-lifestyle-business-public-health-corporate-news-7b946481dda2eca942ca46f5c7e52600"
 type: article
 quality: 40
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1478438/03ce0777ae2c9baf53844a9dcb60.jpg?p=facebook"
-    width: 1400
-    height: 733
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "HBO Spoofs Elon Musk In Chilling AI Series That Premieres April Fools"
+    excerpt: "SXSW 2021 offered a lot to AI enthusiasts but the highlight came with the screening of \"Made For Love,\" a sci-fi comedy thriller that spoofs Elon Musk and debuts on HBO April 1. Starring Cristin Milioti,"
+    publishedDateTime: 2021-04-01T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/martineparis/2021/04/01/hbo-spoofs-elon-musk-in-chilling-series-about-ai-that-premieres-april-fools/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054ca013a6cf54a6b6daf95%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Entries for the AI & Machine Learning Awards 2021 close on 1st April"
     excerpt: "and projects in the AI space today. The awards cover every corner of the industry: security, ethics, data analysis, innovation and more, as well as showcasing the technology heroes and projects that deserve industry-wide praise. We refresh the categories ..."
     publishedDateTime: 2021-03-29T11:02:00Z
@@ -56,6 +70,6 @@ related:
         height: 229
         isCached: true
 
-secured: "25rY7AAxlp4i3g4FRcSi3QsTX9wUoNhmaStnOgtYDzEh9LJ9rBXUgM9ZnxUSwKqwzxJDFmrZMy4rx58pf7dwLu8maa1Jbzq42UHXDBNbS5BTTBJOA3srP00mEJy9JOK56Xl5dOpXKII6ExK5K6l2UYMtj1DBkLb6Se47F/Cq4uPoDKHyu2ZFuRi49lo3P7OibUSiWvcmoQVYM4oePbWFks1w+r/rkrFENpkUpZ0EJe4yxUs0ipFlgRdG897jmiMv1daHJI+3BnV07iAdrU37hAonz4saWEj3150A1AWzCmTh3eHyVWoikWaSt3vg5D2HyMCpBATeMniEe9hVgMS469fi8sDMDXRB1L1kmDwVPwo0OGXNkfo8IvOxrzz1AVSlF3WEj9yjqB0r8H3GtgNgoyyo+hoCsd+2Ew8qDEWq0vex6jezQ2FKYteuNLtI6dWqfEKeKUM4Ksu39geC0LG1DsCbaDJGRQlO0hiRs3yCstVg10jTCXqRJlyXJi2svEHBwx+1nrJ4Rf44PrlQ2OS5fg==;sNlitKAJtuF52wmwrjUc+A=="
+secured: "BQaFzgMiuMpdF/smNuR8XXlpx5b0x3gGiEW6n+LSUPoX+l9O9n1bNdIBRIg0amza4nVjRozCrGGfpwodKgMYfbtaOQ/x5Xkne72k6V5aMua8hubXO9ufXx472hEm6NtC0h5yFBB6zQ58Wy56dwpFDzgNmP3HOrUrDvF8J1JXwMzH78s0cz66nj0F5R1GO8ARbFyjozarzKL6akzim3MX5ICn7JhCk5woPG+lvB/u4DtPa9pDNxWJm5A76DEWi3733o6ISl/NaQkAtlxOJpqtBA0h1zz63qKb+7pkc5aBJEfPhhiIILCHr1G9KehiHPGxasorOuGiXAqBMPlQRshkgOr2wDCJs1IiPKdHNCrSow4=;1Qmjtbdb9ar0vOY2hDFJtg=="
 ---
 

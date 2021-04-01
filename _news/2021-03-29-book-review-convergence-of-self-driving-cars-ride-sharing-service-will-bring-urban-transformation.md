@@ -55,6 +55,20 @@ related:
         width: 800
         height: 560
         isCached: true
+  - title: "Self-Driving Cars That Are Jinxed"
+    excerpt: "Taking a look at the role of jinxes when it comes to cars and whether self-driving cars might carryon the tradition."
+    publishedDateTime: 2021-04-01T14:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/04/01/self-driving-cars-that-are-jinxed/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 54
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6007703714dccc4044426987%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5405%26cropY1%3D257%26cropY2%3D3298"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Self-driving truck startup Plus raises extra $220 million"
     excerpt: "Plus’ rival TuSimple filed for a U.S. IPO earlier this month. Other self-driving companies such as Velodyne, Luminar Technologies and Aeva have also recently filed to go public, banking on an historic boom in U.S. capital markets."
     publishedDateTime: 2021-03-31T15:32:00Z
@@ -149,6 +163,17 @@ related:
         width: 980
         height: 512
         isCached: true
+  - title: "People Are Throwing Eggs at Google’s Self-Driving Vans"
+    excerpt: "They detailed similar anti-robot sentiments, like drivers refusing to let the self-driving van merge into lanes or succumbing to disproportionate levels of road rage against the occasionally buggy ..."
+    publishedDateTime: 2021-04-01T11:00:00Z
+    webUrl: "https://futurism.com/the-byte/people-throwing-eggs-googles-self-driving-vans"
+    ampWebUrl: "https://futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/people-throwing-eggs-googles-self-driving-vans/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 24
 
 secured: "vySqNqgAwGLK8+/00a1dD3Xix+82gLiFhbWifbgWr+HdkT/hzl47T1sR2k/01K6RZuWfBonY4k+vv7F18dEK4PTfqT4PyvZc2k+XZZeaCWTOcSZ0VojNYYoMcuux1Em+nro+3t5dIqjottpMkBwV4euYgxqu6CaI1u1iTLWil7syiLCx8JMcnvT6QU8+tomTHWEYbwHecpnapdLb1iUv8zBwznN1TVOKwbn4qao6J8lZbVlLcjGjB316ZZXiXsyQl4PzKfTWaNNm4L1kui0aOTc8eGb5tUQdXXc731TvYrl1l5ECo8ZwIRCFkbJyTtrIQoHEiBeqnbWVfQNZsfbb93yjPSJ/5GDgpW6o/eVGgMitlqRU3LE6rQGPPaDj6QhioAjgse3eeD3KZHWcvpgVHS/6abhAVv/aRdxSKtLlCZrXCda0vYOAHZvpNv/HKQsa/aI+fQWJQHLXmMF7aXBzZ0LjhV7iXQ35R/rBIedIrPKoVNzIOuJKC59h8v6asSvgCqbBYvVyXmjdXGohR3ukJQ==;52OjmbfKtg5ocsTIhg+6Hw=="
 ---
