@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "clearbit"
   url: "https://twitter.com/clearbit"
-  followers: 3966
+  followers: 3965
 
 locations:
   - San Francisco
