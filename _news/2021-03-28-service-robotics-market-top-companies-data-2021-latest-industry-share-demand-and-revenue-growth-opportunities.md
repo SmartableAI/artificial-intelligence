@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28"
 type: article
 quality: 64
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 28
+  - title: "Automotive Voice Recognition Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
+    excerpt: "Apr 01, 2021 (The Expresswire) -- According to 360 Research Reports, the “Automotive Voice Recognition Market\" 2021 by Types (Single language recognition, Multilingual Recognition), Application (Passenger Vehicle, Commercial Vehicle) and Region - Global ..."
+    publishedDateTime: 2021-04-01T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 4:53 PM Top Players in Cognitive Computing Market are Alphabet, Inc. (Google LCC), Microsoft Corporation,"
     publishedDateTime: 2021-03-29T14:21:00Z

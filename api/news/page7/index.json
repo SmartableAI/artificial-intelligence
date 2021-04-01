@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-26-8-ways-ai-is-transforming-talent-management-in-2021.md",
+      "title": "8 ways AI is transforming talent management in 2021",
+      "excerpt": "Human resources teams are increasingly relying on AI in talent management to improve recruitment, on-boarding, and employee retention.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/",
+      "originalUrl": "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/christina-wocintechchat-com-mxOdUd1BQIM-unsplash.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/25/8-ways-ai-is-transforming-talent-management/amp/",
+      "publishedDateTime": "2021-03-25T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-26-google-translate-and-the-end-of-language.md",
+      "title": "Google Translate and the end of language",
+      "excerpt": "When I worked as a food runner in a Washington, D.C., restaurant, I began learning Spanish so I could speak with some of my coworkers in their native tongue. One night, as we were cleaning up, I said to one of my colleagues,",
+      "sourceUrl": null,
+      "webUrl": "https://www.michigandaily.com/statement/google-translate-and-end-language/",
+      "originalUrl": "https://www.michigandaily.com/statement/google-translate-and-end-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.michigandaily.com/wp-content/uploads/2021/03/0-1.jpg?fit=1500%2C1200&ssl=1",
+          "width": 1500,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.michigandaily.com/statement/google-translate-and-end-language/?amp",
+      "cdnAmpWebUrl": "https://www-michigandaily-com.cdn.ampproject.org/c/s/www.michigandaily.com/statement/google-translate-and-end-language/?amp",
+      "publishedDateTime": "2021-03-25T12:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Michigan Daily",
+        "domain": "michigandaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-26-aws-announces-general-availability-of-amazon-lookout-for-metrics.md",
       "title": "AWS Announces General Availability of Amazon Lookout for Metrics",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Metrics, a new fully managed service that detects anomalies in metrics and helps determine their root cause.",
@@ -1110,100 +1204,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-disney-is-testing-facial-recognition-at-walt-disney-world.md",
-      "title": "Disney is testing facial recognition at Walt Disney World",
-      "excerpt": "Walt Disney World started testing out facial recognition technology software in the Magic Kingdom, which could change the way you enter the park. Per WESH, the new technology will capture an image of a guest’s face.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deseret.com/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "originalUrl": "https://www.deseret.com/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/q45zCE4UrFXeuPy83ZOAi7TPFlo=/0x0:4116x2741/1400x1050/filters:focal(1729x1042:2387x1700):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69023404/AP20332570049737.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "cdnAmpWebUrl": "https://www-deseret-com.cdn.ampproject.org/c/s/www.deseret.com/platform/amp/entertainment/2021/3/25/22348288/disney-facial-recognition-disney-world",
-      "publishedDateTime": "2021-03-24T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "deseret",
-        "domain": "deseret.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-blackskys-latest-satellite-delivers-first-pictures-and-ai-insights-just-hours-after-launch.md",
-      "title": "BlackSky’s latest satellite delivers first pictures (and AI insights) just hours after launch",
-      "excerpt": "BlackSky says the latest Earth observation satellite in its growing constellation delivered its first imagery less than a day after it was launched into orbit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/",
-      "originalUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/03/Perth-630x365.png",
-          "width": 630,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/blackskys-latest-satellite-delivers-first-pictures-ai-insights-just-hours-launch/amp/",
-      "publishedDateTime": "2021-03-24T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

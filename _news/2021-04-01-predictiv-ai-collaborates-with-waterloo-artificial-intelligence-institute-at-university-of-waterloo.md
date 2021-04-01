@@ -6,6 +6,9 @@ publishedDateTime: 2021-04-01T06:50:00Z
 originalUrl: "https://www.cioreview.com/news/predictiv-ai-collaborates-with-waterloo-artificial-intelligence-institute-at-university-of-waterloo-nid-33257-cid-175.html"
 webUrl: "https://www.cioreview.com/news/predictiv-ai-collaborates-with-waterloo-artificial-intelligence-institute-at-university-of-waterloo-nid-33257-cid-175.html"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: CIOReview

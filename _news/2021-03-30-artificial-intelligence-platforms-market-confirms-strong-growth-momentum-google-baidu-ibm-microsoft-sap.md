@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft scores $21.88 billion AI headset contract"
+    excerpt: "Software king of the world Microsoft has won a contract to sell the US Army augmented reality headsets based on its HoloLens product and backed by Azure cloud computing services. The contract could be worth up to $21.88 billion over ten years. Over the ..."
+    publishedDateTime: 2021-04-01T09:11:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52619-microsoft-scores-21-88-billion-ai-headset-contract"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3def5e615fa7d22a56df00013c7d454e_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "0H7bkKM3a8olcUPxF4GDW5qfZR+I3ICGQHTv5R3pQcwYgEt7lUDjQJxFEG+qc9FLSVrFakSMHoEH49O2ihHctNymPZGgXa5ubFTqXerjUyojZyJCMWjs94FJl6t503s1AE7qaYOy9CLSIoZHJwO6b1JoSnumuFwCUU6xdOmQHvEOd/KMsQ9iJ2Ajonk3Qq9fMOzjuKDbN548hmAIgmF+F7jDjW/o4PWgaidQc/7FaTZDI9MrKBU7gMC+w54CYsZLo5z5wakXbsZWRfdVtSWR6kXABiLK7ZWovpo1ucaSqjRqczFHWMm/TcyHupsEFYuWHglML+4l+6xcfBeKoAOkTtqTucAxP1uzsMVJJQ+FaBw=;Oig3GQyBQo1xaUhgWYTlxw=="
 ---

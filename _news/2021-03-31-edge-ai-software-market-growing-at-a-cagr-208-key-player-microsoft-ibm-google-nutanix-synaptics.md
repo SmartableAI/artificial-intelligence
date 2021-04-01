@@ -75,6 +75,20 @@ related:
         width: 651
         height: 366
         isCached: true
+  - title: "Microsoft scores $21.88 billion AI headset contract"
+    excerpt: "Software king of the world Microsoft has won a contract to sell the US Army augmented reality headsets based on its HoloLens product and backed by Azure cloud computing services. The contract could be worth up to $21.88 billion over ten years. Over the ..."
+    publishedDateTime: 2021-04-01T09:11:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52619-microsoft-scores-21-88-billion-ai-headset-contract"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3def5e615fa7d22a56df00013c7d454e_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Artificial Intelligence Platforms Market Confirms Strong Growth Momentum | Google, Baidu, IBM, Microsoft, SAP"
     excerpt: "Key Segments Studied in the Global Artificial Intelligence Platforms Market Artificial Intelligence Platforms market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Artificial Intelligence Platforms ..."
     publishedDateTime: 2021-03-30T15:44:00Z

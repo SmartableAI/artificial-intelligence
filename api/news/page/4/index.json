@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-30-this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car.md",
+      "title": "This Is The New Lexus LF-Z Electrified AI Operated Driverless Car",
+      "excerpt": "Japanese premium maker Lexus hints to the marque's next-generation AI-operated autonomous and electrified cars with the futuristic LF-Z Electrified car",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/",
+      "originalUrl": "https://www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6062f4ba7874b3bdb91233a9%2F0x0.jpg%3FcropX1%3D118%26cropX2%3D1000%26cropY1%3D38%26cropY2%3D533",
+          "width": 882,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/amp/",
+      "publishedDateTime": "2021-03-30T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-schlumberger-microsoft-expand-partnership-to-accelerate-digital-future-of-energy.md",
+      "title": "Schlumberger, Microsoft Expand Partnership to Accelerate Digital Future of Energy",
+      "excerpt": "Partnership introduces industry first, AI-enhanced cloud native solution for the OSDU™ data platform optimized for Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235",
+      "originalUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartenergy.com/themes/custom/hart_energy/screenshot.png",
+          "width": 605,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp",
+      "cdnAmpWebUrl": "https://www-hartenergy-com.cdn.ampproject.org/c/s/www.hartenergy.com/news/schlumberger-microsoft-expand-partnership-accelerate-digital-future-energy-193235?amp",
+      "publishedDateTime": "2021-03-30T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hart Energy",
+        "domain": "hartenergy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-facial-recognition-camera-projects-raise-concerns-in-eastern-europe.md",
       "title": "Facial recognition camera projects raise concerns in Eastern Europe",
       "excerpt": "Digital rights organizations are concerned about the increasing use of mass surveillance systems featuring thousands of facial recognition cameras.",
@@ -1078,100 +1173,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia.md",
-      "title": "AI chip start-up Groq in fundraising talks to take on Nvidia",
-      "excerpt": "Semiconductor manufacturers compete in race to develop machine-learning applicationsRead more on 'Financial Times Companies'",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-chip-start-up-groq-in-fundraising-talks-to-take-on-nvidia-9960651",
-      "publishedDateTime": "2021-03-28T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-ai-could-help-advertisers-recover-from-loss-of-third-party-cookies.md",
-      "title": "AI could help advertisers recover from loss of third-party cookies",
-      "excerpt": "Providers of digital advertising platform such as Quantcast are using AI to level the field in favor of content providers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/",
-      "originalUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Quantcast.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/ai-could-help-advertisers-recover-from-loss-of-third-party-cookies/amp/",
-      "publishedDateTime": "2021-03-28T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

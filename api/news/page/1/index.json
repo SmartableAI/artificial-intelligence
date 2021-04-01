@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-01-ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis.md",
+      "title": "IBM and Red Hat form strategic partnership with process mining startup Celonis",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. (Reuters) — Celonis, a fast-growing German process mining software startup, has struck a strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/",
+      "originalUrl": "https://venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/IBM-4-e1616162193769.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/04/01/ibm-and-red-hat-form-strategic-partnership-with-process-mining-startup-celonis/amp/",
+      "publishedDateTime": "2021-04-01T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-aussie-researchers-using-machine-learning-to-analyse-rock-art.md",
       "title": "Aussie researchers using machine learning to analyse rock art",
       "excerpt": "South Australian researchers have been working with the Mimal and Marrku traditional owners of the Wilton River area in Australia's Top End to analyse the evolution of rock art through machine learning. The study, led by Flinders University archaeologist ...",
@@ -110,8 +161,8 @@
       "title": "Breakingviews - Chinese AI dragon confronts fiery new realities",
       "excerpt": "Its market share is second only to Sensetime in consultancy IDC’s rankings of the country’s four so-called AI dragons, which include Yitu and CloudWalk. In October 2019, Washington blocked Megvii and others from buying U.S. components without ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-china-ai-breakingviews/breakingviews-chinese-ai-dragon-confronts-fiery-new-realities-idUSKBN2BO427",
-      "originalUrl": "https://www.reuters.com/article/us-china-ai-breakingviews/breakingviews-chinese-ai-dragon-confronts-fiery-new-realities-idUSKBN2BO427",
+      "webUrl": "https://www.reuters.com/article/us-china-ai-breakingviews-idUKKBN2BO427",
+      "originalUrl": "https://www.reuters.com/article/us-china-ai-breakingviews-idUKKBN2BO427",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -128,8 +179,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2BO427",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2BO427",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2BO427",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2BO427",
       "publishedDateTime": "2021-03-31T19:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -681,7 +732,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-machine-learning-market-to-witness-huge-growth-by-2026-fair-isaac-microsoft-google-2021-03-31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -977,6 +1028,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-the-future-of-lab-robotics.md",
+      "title": "The Future of Lab Robotics",
+      "excerpt": "Time and time again, I have seen organizations that want to reap the benefits of artificial intelligence and robotics spend millions of dollars to start developing and deploying the technology, only to fail. That failure often occurs because the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
+      "originalUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lmg-labmanager.s3.amazonaws.com/assets/articleNo/25471/aImg/47183/the-future-of-lab-robotics-m.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
+      "cdnAmpWebUrl": "https://www-labmanager-com.cdn.ampproject.org/c/s/www.labmanager.com/ask-the-expert/the-future-of-lab-robotics-25471/amp",
+      "publishedDateTime": "2021-03-31T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Lab Manager",
+        "domain": "labmanager.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-world-leading-ai-research-and-inclusion-at-the-forefront-of-this-years-nvidia-gtc.md",
       "title": "World-leading AI research and inclusion at the forefront of this year’s NVIDIA GTC",
       "excerpt": "“When you think about the toughest problems in AI, autonomous vehicle technology is far and away at the top of the list,” he says. “As a research area, dealing with the complexity of the ...",
@@ -1155,108 +1249,6 @@
       "type": "article",
       "ampWebUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
-      "publishedDateTime": "2021-03-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-edge-computing-orchestration-startup-zededa-raises-125m.md",
-      "title": "Edge computing orchestration startup Zededa raises $12.5M",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Zededa, an edge virtualization startup, today announced that it raised $12.5 million in an oversubscribed ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/ZEDEDA_Logo.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/amp/",
-      "publishedDateTime": "2021-03-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising.md",
-      "title": "Windfall nabs $21M for AI that aids nonprofit fundraising",
-      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Windfall, a startup developing an AI platform to help nonprofits engage donors, today raised $21 million in ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/",
-      "originalUrl": "https://venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising/amp/",
       "publishedDateTime": "2021-03-31T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {

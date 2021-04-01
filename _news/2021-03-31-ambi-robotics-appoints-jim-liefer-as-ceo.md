@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-31T13:26:00Z
 originalUrl: "https://www.logisticsmgmt.com/article/ambi_robotics_appoints_jim_liefer_as_ceo"
 webUrl: "https://www.logisticsmgmt.com/article/ambi_robotics_appoints_jim_liefer_as_ceo"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Logistics Management

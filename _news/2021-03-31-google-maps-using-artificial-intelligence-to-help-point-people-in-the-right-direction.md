@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-31T10:24:00Z
 originalUrl: "https://www.zdnet.com/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
 webUrl: "https://www.zdnet.com/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: ZDNet

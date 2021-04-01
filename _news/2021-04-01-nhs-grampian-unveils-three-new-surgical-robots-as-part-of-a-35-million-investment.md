@@ -6,6 +6,9 @@ publishedDateTime: 2021-04-01T06:14:00Z
 originalUrl: "https://www.grampianonline.co.uk/news/nhs-grampian-unveils-three-new-surgical-robots-as-part-of-a-233518/"
 webUrl: "https://www.grampianonline.co.uk/news/nhs-grampian-unveils-three-new-surgical-robots-as-part-of-a-233518/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: grampianonline

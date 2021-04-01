@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1101823838/Facial-Recognition-Market-Growth-202
 webUrl: "https://menafn.com/1101823838/Facial-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive Artificial Intelligence Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
-    excerpt: "Mar 31, 2021 (WiredRelease via Comtex) -- The comprehensive research report of Global Automotive Artificial Intelligence Market is a compilation of the targeted evaluation of all of the factors which can be taken into consideration being essential for the ..."
-    publishedDateTime: 2021-03-31T09:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-factors-regional-overview-competitive-strategies-and-forecast-up-to-2031-2021-03-31"
+  - title: "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 . Posted on Mar 28 2021 4:13 PM \"Top Players in Na"
+    publishedDateTime: 2021-03-28T16:00:00Z
+    webUrl: "https://menafn.com/1101823873/Natural-Language-Processing-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Healthcare Market Is Set to Experience Revolutionary Growth by 2030 | Nuance Communications, Inc., DeepMind Technologies Limited"
-    excerpt: "(April 2021 trend research report ) The new report studies the AI in Healthcare Market in detail and presents comprehensive forecasts regarding the market’s growth trajectory in the coming years 2020 to 2030. The research report on the global market ..."
-    publishedDateTime: 2021-03-30T06:31:00Z
-    webUrl: "https://ksusentinel.com/2021/03/30/ai-in-healthcare-market-is-set-to-experience-revolutionary-growth-by-2030-nuance-communications-inc-deepmind-technologies-limited/"
-    type: article
-    provider:
-      name: The Sentinel
-      domain: ksusentinel.com
-    quality: 39
-    images:
-      - url: "https://i.pinimg.com/originals/39/ae/0a/39ae0ac1c326830aa37ebf53e599390d.gif"
-        width: 512
-        height: 384
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "+Tf5ICBJPbrl9ksQc1ACdnJKBGPpA1O1cEa5XGnyeKck/t7aQwMz0wziQjjZnoHMb6kyyPrJ1k+0zZJoKSPC29FAGX0qcHWNu36HFKwSZseF+fB0PO0fCxzhs2qTb8+GFuyCisOU+70wnUQUTVfTX2JwxNtcqXpDziMjkQ9RuW2v1uu2xu4big5DOabby5VV3lugD7YioMfMPeWatBA/qh9GhcPiHt7R/2YJtpmrcKjWQ8I+QAS150wRtibwSHXJujusiii5Mji3qLK/zMdPptEkiwbvAjM8h5hYl8EvM1C+TdDEIFzw2ExRC9SF17QcK2HT1GSLAupUAGEQyJwfwEgQpFXnVLR8TgqzKo2SHBU=;RGg2Ov+CKUm5qmWyUGr6UA=="

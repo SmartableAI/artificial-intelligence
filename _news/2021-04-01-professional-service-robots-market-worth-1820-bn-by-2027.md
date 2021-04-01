@@ -6,6 +6,9 @@ publishedDateTime: 2021-04-01T05:52:00Z
 originalUrl: "https://www.arnnet.com.au/mediareleases/139004/professional-service-robots-market-worth-1820-bn/"
 webUrl: "https://www.arnnet.com.au/mediareleases/139004/professional-service-robots-market-worth-1820-bn/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: ARN

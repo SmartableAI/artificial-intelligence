@@ -36,15 +36,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 33
-  - title: "Robot butlers may take over your household chores, but it will be years before then"
-    excerpt: "For at least a decade, robotics and AI firms have flexed their ability to create machines that can complete various practical household tasks. Last month, Boston Dynamics showed its Spot robot dog picking up clothing."
-    publishedDateTime: 2021-03-27T16:00:00Z
-    webUrl: "https://www.detroitnews.com/story/tech/2021/03/27/robot-butlers-may-take-over-your-household-chores-but-years-before-then/7001216002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 13
 
 secured: "En3HMJkSa+/L+Od90Q+TxsrpOqW/SK1l+h3WjGD7L3QQJRK9OvO0OB4LcPmmY7EoVx0G0NHU+fZEwiGnrZEeXtbap1EMQt477SfvoVpivhDCn/8YybteiLv3+TyYL2b3Kpxtzqki9yOBOqcd9ku1mQ4df4pQ+db/VZzYdIE6LtQlrB49xI0aCRg8qspNIYbm54baGS4Q6c2Be5R6WT2cVbTnwTDE3PopdVBC4NOFxQeHX3BnvaAzUy71eJAvA/GMcBL1qd0D3bCUZzur5zuLbph8fqKYwKzI4Qs5tXTLbJ8QBvyp+eqCQUyxZGREa7m+jW2+gYkGdbewfetHf1QFCrI/K/qvUWLqXi2GjF4tgX0=;QzAn7PfMkzeMjcytLpOwEw=="
 ---

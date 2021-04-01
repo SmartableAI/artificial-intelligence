@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Maps using artificial intelligence to help point people in the right direction"
-    excerpt: "Boasting that it is on track to bring over 100 \"AI-powered\" improvements to Google Maps, Google has announced a series of updates that have been or are set to be released in the coming year. The first is adding Live View, a feature that uses augmented ..."
-    publishedDateTime: 2021-03-31T03:30:00Z
-    webUrl: "https://www.zdnet.com/index.php/recent/index.php/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
-    ampWebUrl: "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-maps-using-artificial-intelligence-to-help-point-people-in-the-right-direction/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/03/31/bd71af6c-e1b9-4d9d-a8a1-3d4bf1ac9141/indoor-live-view-2-qsaeas7.gif"
-        width: 360
-        height: 638
-        isCached: true
   - title: "Three AI Apps making waves in the insurance industry"
     excerpt: "The rise of artificial intelligence has brought about easier and accurate handling of large digital information from various sources. Because of this various industries are adopting the technology to drive output and improve productivity."
     publishedDateTime: 2021-03-30T13:00:00Z
@@ -57,6 +41,45 @@ related:
         width: 2999
         height: 1999
         isCached: true
+  - title: "An Upstate man came to US with $350. Now he's making his mark on artificial intelligence industry"
+    excerpt: "One of Greer's newest residents is putting South Carolina on the map when it comes to artificial intelligence. Srikanth Kodeboyina came to America with $350 in his pocket — and now he's changing the world."
+    publishedDateTime: 2021-03-28T00:07:00Z
+    webUrl: "https://www.wyff4.com/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
+    ampWebUrl: "https://www.wyff4.com/amp/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
+    cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/an-upstate-man-came-to-us-with-dollar350-now-hes-making-his-mark-on-artificial-intelligence-industry/35957582"
+    type: article
+    provider:
+      name: WYFF4
+      domain: wyff4.com
+    quality: 44
+    images:
+      - url: "https://kubrick.htvapps.com/vidthumb/95d7e004-820b-4aad-b289-e6ba18e7552e/95d7e004-820b-4aad-b289-e6ba18e7552e_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Robots are the New Trend in Restaurant Industry"
+    excerpt: "Robots entered the food industry to assist primarily in food manufacturing and packaging. Keeping in mind the hygiene and accuracy factor, they have proved to be ideal for this industry. Many germophobes actually prefer robots over humans to handle their food."
+    publishedDateTime: 2021-03-29T11:02:00Z
+    webUrl: "https://techstory.in/robots-are-the-new-trend-in-restaurant-industry/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/robot-waiter.jpg"
+        width: 612
+        height: 612
+        isCached: true
+  - title: "Glance Inc Launches AI features in a Slack App"
+    excerpt: "Glance is a no-code AI-driven marketing SaaS startup. Brings data science to mid-sized marketers through their pioneering technology called Marketing Graph. They deliver high ROI and decrease customer acquisition costs."
+    publishedDateTime: 2021-04-01T07:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/04/p20439910/glance-inc-launches-ai-features-in-a-slack-app"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 17
 
 secured: "Dgs+4/pMnO08dPxnr9zRdjjOEFNs5ITAHlW9qWBgUttjyXQUNA173Bpz1kDYJF+D/nmFXjEbxR8Hbz/P9S2+C/rd+LMVzz57F8z3Br38PApXppsgBozQ0sfleLKy1wg+AYiuEkQJSVoacSV0hmH0egGABkup6znSiX3u9qYEa3vuiMv0Av2f107e/TGlJKpnVefvmXFOWWXngsxIhsmb0LO06ToDmfoKxq8MIBqHTxVwhfrx7Yv/W8x4UHZgaLB+H8ut+PmtA24ZENwvp9D/5VIO64n19jtkk28c41lGrZ+9biWmJKS45LI3mT62WwgZc8RBlybQZpbNzAZJ0j9HQ0S1vtEeTG/Db+/WXrQddFc=;lH2Hnl6jRziu6rB4K8gc7g=="
 ---
