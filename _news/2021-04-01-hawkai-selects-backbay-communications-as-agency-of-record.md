@@ -2,28 +2,22 @@
 category: news
 title: "HAWK:AI Selects BackBay Communications as Agency of Record"
 excerpt: "The program, centered on sharing HAWK:AI’s news and executive thought leadership, will be focused on building relationships, awareness and credibility with targeted media covering fintech, banking, technology, risk management, compliance, financial ..."
-publishedDateTime: 2021-04-01T11:30:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-north-america-investment-management-52806b1660b44b06af8e8ccb9a4f7082"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-services-technology-north-america-investment-management-52806b1660b44b06af8e8ccb9a4f7082"
+publishedDateTime: 2021-04-01T15:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210401005211/en/HAWKAI-Selects-BackBay-Communications-as-Agency-of-Record"
+webUrl: "https://www.businesswire.com/news/home/20210401005211/en/HAWKAI-Selects-BackBay-Communications-as-Agency-of-Record"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "Z66wK+x0w6zLQPGqeb1x+T4awQm4+K38sRsDCUJzjyPL5gyCSl8qoSS/ite0xNbEdkbTQPPpODfpwcHDrGkRnG1He5sTHMdwZw9gXB/JF0BuP981Wpf4EVJ7SpO6dcn8rtS0rU9HsH+5PUWkNKRAkFahpd1FBmhNZJgk33jNZwbXLN8l6WU3JMQUTeHPG2kiUyxoy/1bxfoEdYgDMvKPhtYLtKQjjjC7glvyQEenTcZCNcR9trvxv3QlSX6lNGH7lkbdHr0KPWWovGUlWDOH5+Di9okhbE/A5A1IfieLVAPXkakiLtIEJcVe8/Tyb6p8K+583dmToGovO0kesF7OOjcj3lV4hSsZWpMBDvG3FhU=;yrIIIqVUzq2XGLoEp4j1Mg=="
+secured: "9gWDTCHCAZFhk08Slm62bQwjpyIV+FsHGGHqB+4cWawwgqWygGabkZtGTa45Xl4zExMRLjMQSHKU0jOJochYpBFpmPXHyjrlN7bjcYGxDWlUCt6vC6K/14GUvQCee0BpTVCJdyzCEg9Tmgskq9DhOV9hhP1juswc7Xty8QPhq4tlcpurRoiNHqom4As/qVGJQsggaE5oiZgEpk+rVFCd80gL4l0dg25tzHaAEo9CxkjoF9PPQ8wk3Tp6S7xabsUc3sTYMeZ0qb2LR4LunRZgISVt2no2k44/5/c4Sq+IqpyOsegffLhswn/LQszVfWasfM1R9Kej6lt0d9SVKL22BWovTUCFoECBS2DWKpWhvUs=;8XEXSTA0gTpViyapnAgKtQ=="
 ---
 

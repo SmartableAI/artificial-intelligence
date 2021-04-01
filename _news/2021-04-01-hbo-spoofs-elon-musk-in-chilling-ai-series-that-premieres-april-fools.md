@@ -60,18 +60,18 @@ related:
         height: 229
         isCached: true
   - title: "Only on April 1st, Cecilia.ai the Robotic Bartender Will Be Serving an Innovative Vaccine-Cocktail"
-    excerpt: "The robot is capable of \"vaccinating\" 120 people per hour ... or at the very least help put a smile on their face through these difficult times. Cecilia.ai, a new startup from GKI Group, is the world's first interactive bartender, customized for every ..."
-    publishedDateTime: 2021-04-01T16:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/only-on-april-1st-ceciliaai-the-robotic-bartender-will-be-serving-an-innovative-vaccine-cocktail-301260239.html"
+    excerpt: "About Cecilia.ai Cecilia.ai, a new startup from GKI Group, is the world’s first interactive bartender, customized for every business and event. Powered by conversational AI and voice recognition abilities, Cecilia is not your typical bartender."
+    publishedDateTime: 2021-04-01T11:05:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-lifestyle-business-public-health-corporate-news-7b946481dda2eca942ca46f5c7e52600"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 40
     images:
-      - url: "https://mma.prnewswire.com/media/1478438/03ce0777ae2c9baf53844a9dcb60.jpg?p=facebook"
-        width: 1400
-        height: 733
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "LqgeJycl0jcbD5PYE82/Eowj87Sgv6Zd+QVz7wUpQTykZ6cre2Pwj2u9fKtuYNFwOnqlrNqXt0GI92VcIfKoeTljY3c55w4ogAUfCZRsMNifDzF1jp2U/5mlBbTpwfBKtbfVtdfPIMXEqiwLYN9QpQK4LzDAr6uI0BacY60Bz4S7+JbjMeYGPrMNgxZOyMCjhGtQ2czjnmmpDBwCH3foTtC5adHcoibJsi/5c42Gr6v+3TaOnyWejmzfayDiw8AKVLTJqunHmbbJ0C4AiZZnUn84aAL0n/MzHsjJ/6c1EuBVcEUGcY3nbCYdX5ALVWvcOFn+FzB/DqKcrqFMYm2weigbQ/kRSO3Ar66Ws2nf6fy+wSt/FPxvkx3ZwA/4st4OKk5g5ecWoaAF4FzzT17rgLPSBfc/g8wgHgi8Sj6+t96LpjoX0t20OjUChEEHZ/zfuAABHw3i/TOwLHVENJAaFjdDulfx7cYPg1d0gdf42P3SuKseUV4UyASAlzWV45n4ic8ccizqb+OZMr4PC8WFYQ==;I+RzTDijGg0CD0lNwxEIHg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2015/05/Catherine-Breslin.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "9 recent studies that show the potential of AI in healthcare"
+    excerpt: "Artificial intelligence's role in healthcare is growing and has the potential to mitigate common difficulties in the industry. The following artificial intelligence articles were published by Becker's"
+    publishedDateTime: 2021-04-01T20:27:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/9-recent-studies-that-show-the-potential-of-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
         isCached: true
 
 secured: "USUutj03i0qeqWV4WhSSl0OhbQBpKj/pUJlQoh2dVNSJ46iCOXY4S3BIS58Nzu1Nt7GmK52cggQZOYzLoSa3VKGb/lmEY5BnKS5S1LvkB1bvmzm7MIiq0unV3u3xCsZTkhMQwn88yIVWyCUiZZXl6y+poH/HTN4yOJeMccdquLjGvCSlwB+sUQqFNTmTP0xP1YR3Yl65Oe7+so3kklJaBHExwjFGYteUo6Pny7TKwItTg9cU7KmcIQRFBSABJKA0kevxw5D3CHbV9qXEwYaZUYAj31CSyY1eyhB2BMtYWWsxtYhLVzojWij/Z9xUqZzPBxhPnPAnTZUC2MDrmbVJ9lvZThZrpjC1Ji5tG332sxBPJWORdzkhxWX2bMvL/1cMSi45tC6T7Np8UoiqRFm2pWY5snpZp169n7gxldkqKOlDnQBN4Ph7yfkXwNZt6CEg0A6YU0ua/iB4ArbAz2Gh30KmtUaswoJpHbAN/sY53M2ELN23IEnjXp7c/+OUwPJI25JbKJ0TX75shr/dZanULA==;WBfFy8cI0daZZqZIvpoNSQ=="

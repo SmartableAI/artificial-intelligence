@@ -7,7 +7,7 @@ originalUrl: "https://www.bizcommunity.com/Article/196/661/214482.html"
 webUrl: "https://www.bizcommunity.com/Article/196/661/214482.html"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 900
     height: 460
     isCached: true
+
+related:
+  - title: "Kintent raises $4M seed round to simplify cybersecurity compliance with AI"
+    excerpt: "Kintent Inc., a startup helping companies comply with cybersecurity standards such as HIPAA, today announced that it has raised a $4 million seed funding round led by Tola Capital. The venture capital firm was joined by several prominent angel investors."
+    publishedDateTime: 2021-04-01T18:57:00Z
+    webUrl: "https://siliconangle.com/2021/04/01/kintent-raises-4m-seed-round-simplify-cybersecurity-compliance-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/trustcloud.png"
+        width: 867
+        height: 482
+        isCached: true
 
 secured: "cGcKEYHAbv3Liu0G2G1K2M82gs1DUM7Vb6+xJyX2778fIgy/n2FnhnR3lmWJEHUhI8UrQoVxbofSYz23qgqUd7oDLVvQePjJ8jQUcnnDbR6f4TeqlR3whKWT1QqsfF5J8PYuJ35aO+Kh9LtSRLozpFTS94SSsurBH4vKLhSX39d6UaxFTwRKYw3g/VSaMtH6yjZDLFpLqA1LJrWG7aCL/NVpnNsWxK6YZNATTZAoX3YWsqboJ0yVo2MOuZnl6kFjQCRT0H8u2Nt79ewE4xSMvnATl/1pmsN6uM++6lkmj1AJvXWlAnaC3fA2IeuZf7nU7q9EUsNPBuve5oYEK/EZ5IeuXgm6Ob4F0U1S39rqW1+RMhAxxpCFB0gJLNJO5eIgCMTO7UJXK4u4PR9IPWaiWmATN/is8DlCMhqHVXZGIE2KnrZ3n4yNjmzQ7JHk439v71KB1xY8VvmxktLSip3cz3Uq+dJEO4GrjRmZgz8gdX8J/BkpfrMlFMaLMtFFlbOwXJwsZRopzq5vCpP9WrsgFA==;XnOuBSJofHEQuIo5id2mnA=="
 ---

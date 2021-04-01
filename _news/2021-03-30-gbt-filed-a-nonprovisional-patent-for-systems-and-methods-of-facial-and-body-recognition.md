@@ -1,10 +1,10 @@
 ---
 category: news
 title: "GBT - Filed a Nonprovisional patent for Systems and Methods of Facial and Body Recognition,"
-excerpt: "... of an image such as a human face and unlocking functions for any computer or smartphone screen based on facial and body recognition, including covered face or body. Many mobile devices such as smartphones include a facial identification (ID ..."
+excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (“GBT” or the “Company”) with GBT Tokenize Corp. (“GBT/Tokenize”) filed with U.S. Patent and Trademark Office (“USPTO”) a nonprovisional patent for systems and methods of facial and body recognition identification and analysis."
 publishedDateTime: 2021-03-30T10:02:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-smartphones-communication-technology-patents-ae62bce7d718cbe427db7729e1923efa"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-smartphones-communication-technology-patents-ae62bce7d718cbe427db7729e1923efa"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-smartphones-communication-technology-patents-ae62bce7d718cbe427db7729e1923efa"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-smartphones-communication-technology-patents-ae62bce7d718cbe427db7729e1923efa"
 type: article
 quality: 14
 heat: 14
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "xpbaguBH4dwQIXGTtpQaVrjQ0hnY+pUkYUYON5z7ttoXfeMmGDu+iPZ8ToyPWW7x3HHrGossypnDX/kFmKOq9IEUwL5EtO9YgcbsKdy/kPPOgadhOTj+P9UmYypRlQ8v0EfqOyRhjgs/p5EQ3FcqjzpB5yHyh8T/57WgMU3sB7+dF9pPf4ykrxVac7OWk2cWBovpLDa+ewUsuk+B4gHjccKDmzT5Ovs9JerJKqL3gZOLQzc/OREEx/XEMuVuySrHvHCtEx1FDULF0RabS/guOsiP+slh6fg7F5DzLLZ9rdZAYnswGhYKpiR9OS1SreRrRhggIF8D7XosUavQrvNSfAO/axaw9JZAxWTHJlwJNZs=;1fc2nGinDzrwBIdZHmLwNg=="
+secured: "Yp15WFsk4FTYfz70O5sBS3UYXYSf0Ynt0goZp3NkyqiVPS/5SyCIfpmRdFIL8Q+rgEmwuk2tq9XcGlM2Fi5S/ThrCgBMv1EebyoeK2xCSWHJJ5M6TO2jfXVmQJUyln3GkSMWe/pXICChGooFkvPtWBj2+UdyA3G6Ys1Z1MnCfbdk8wud0uWaIra0sVSNUC9HoGEiwSjsiJjCxbSTglolftb3u9fGK2vWs/zCwAHTEulGphoCn+JCR79MMXRLCxByMLdd61m7DEJ20DkDNMtVz1AqjVlNJ73ygPhN5TgCsztCz2AsF7OJLZ7ddezuFjjCQOjpFFoys6Ekd9CzT6mdEExsNSR6LdnHbC+DWEwDaIQ=;K0CRryrJ7DFD7qrYX2H2WA=="
 ---
 

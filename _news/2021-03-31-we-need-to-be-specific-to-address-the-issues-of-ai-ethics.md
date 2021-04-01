@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "9 recent studies that show the potential of AI in healthcare"
+    excerpt: "Artificial intelligence's role in healthcare is growing and has the potential to mitigate common difficulties in the industry. The following artificial intelligence articles were published by Becker's"
+    publishedDateTime: 2021-04-01T20:27:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/9-recent-studies-that-show-the-potential-of-ai-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/1.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "4LeIo/Y6BXWpOxrTH7ohkKCEKkj1k3PvZJMt7d41bHoRElyNNM6rah0YSYmMeJDXEvQi/nHLdOTH7o7YIrCzW7tqm4ymqujU2YihH3pJBQGkFXe5oyWa7yC/TeWeNpTLjhGWRK2vpfmEXW8BmwFr6ilg8Izequ6VeFyTEkblpJ8WmIKkdDpccvP4Enb6+c+Fa4+a3723WjyCmm1pIJSsc5cqavGLEXyc4x1eQc3IGdVeK1KCxIapYaFgnmZRFLwN6EFvV2yL7dRZXEGAGUODMNL3RIm5hWkc2ayaC3wL7RBaCfn3IyRvzP/GyTwY7SkOveu5C2hH+Y4sghvELjQrUCJi71c4dPJR2NnuPrRYjEo=;hEhW6s2xYbm62q6l/eJsqg=="
 ---

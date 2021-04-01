@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 718
         isCached: true
+  - title: "Cleveland Clinic to be First U.S. Site of IBM \"Quantum Computer\" for Advanced Healthcare Research"
+    excerpt: "The Cleveland Clinic and IBM announced a major partnership this week that will make quantum computing, and the theoretical research there from, a key"
+    publishedDateTime: 2021-04-01T20:35:00Z
+    webUrl: "https://www.clevescene.com/scene-and-heard/archives/2021/04/01/cleveland-clinic-to-be-first-us-site-of-ibm-quantum-computer-for-advanced-healthcare-research"
+    ampWebUrl: "https://www.clevescene.com/scene-and-heard/archives/2021/04/01/cleveland-clinic-to-be-first-us-site-of-ibm-quantum-computer-for-advanced-healthcare-research?media=AMP+HTML"
+    cdnAmpWebUrl: "https://www-clevescene-com.cdn.ampproject.org/c/s/www.clevescene.com/scene-and-heard/archives/2021/04/01/cleveland-clinic-to-be-first-us-site-of-ibm-quantum-computer-for-advanced-healthcare-research?media=AMP+HTML"
+    type: article
+    provider:
+      name: Cleveland Scene
+      domain: clevescene.com
+    quality: 48
+    images:
+      - url: "https://media2.fdncms.com/clevescene/imager/u/original/35619559/marvel.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "IBM, Cleveland Clinic launch 10-year quantum computing deal"
     excerpt: "And trust in AI hasn't been helped by IBM itself, following the high-profile and embarrassing fall of Watson Health, IBM's effort to revolutionize the medical sphere using AI. Watson Health was marketed as a breakthrough in cancer treatment and drug ..."
     publishedDateTime: 2021-03-30T15:28:00Z
