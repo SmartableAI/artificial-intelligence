@@ -78,22 +78,6 @@ related:
         width: 750
         height: 579
         isCached: true
-  - title: "US AI in Healthcare Market Trends, Size, Competitive Analysis and Forecast 2019-2025"
-    excerpt: "The US AI in healthcare market is estimated to grow significantly at a CAGR of 50.2% during the forecast period. The factors that are contributing significantly to the market growth include R&D, and high expenditure by the government as well as a private ..."
-    publishedDateTime: 2021-03-27T09:22:00Z
-    webUrl: "https://www.openpr.com/news/2262820/us-ai-in-healthcare-market-trends-size-competitive-analysis"
-    ampWebUrl: "https://www.openpr.com/amp/2262820/us-ai-in-healthcare-market-trends-size-competitive-analysis"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262820/us-ai-in-healthcare-market-trends-size-competitive-analysis"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 67
-    images:
-      - url: "https://cdn.openpr.com/U/3/U327238491_g.jpg"
-        width: 800
-        height: 904
-        isCached: true
   - title: "Qualitative Analysis: In-depth Analysis of the Artificial Intelligence in Agriculture Market"
     excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed 6000 million by 2027 growing at a CAGR of 25 50 from 2020 to 2027 The report includes"
     publishedDateTime: 2021-03-29T06:56:00Z

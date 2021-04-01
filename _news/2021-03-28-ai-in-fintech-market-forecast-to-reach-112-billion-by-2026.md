@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-for
 webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -101,15 +101,6 @@ related:
         width: 669
         height: 229
         isCached: true
-  - title: "Top 10 best countries to start a fintech"
-    excerpt: "Fintech in the financial services market has been adopted quickly by certain demographics that for years have been underserved by the incumbent institutions. The US is also a world leader in technology and particularly AI innovations, which means its ..."
-    publishedDateTime: 2021-03-27T09:34:00Z
-    webUrl: "https://www.fintechmagazine.com/top10/top-10-best-countries-start-fintech/usa"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
 
 secured: "J6IyvI++JvHl27t1sXGzoXqO5Xx0nLu4l80R5bxo1qOXlz47rsnvY3WFzc43A3E4OBG6t1RGzF+gmK1XpEr9PAVAm3Nje5am0h93VprIZZb4gr0auVGHnjsWtBmtjfgsHDyZ7hRwd5tC6ksYsnHfi2PzbyA5pnDd3e6dvUeb0BmFY5Lym69tPPknzBdG+8/6mP0eE95d/3b4YwaXNCdwNtzTikqKxMHWaBCmsO9vceEN9qJTmvxMfWPy7GI32hcm6cymSWkjE8dYKCEO5XzIvk/aYJd5j12NnPdsV8/W9T0AFV9W0VGQwUAKHX3gh+2b2q5Unodl+Zj2W4/l/2Jz8ueKImcFsZNkKCD8UX6gSsc=;7msON9IxezFLx0YXm++YWA=="
 ---

@@ -26,62 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "North American AI in Healthcare Market Trends 2019 | Segmentation, Outlook, Industry Report to 2025"
-    excerpt: "The North American AI in healthcare market is estimated to grow significantly at a CAGR of 50.4% during the forecast period. The North American market for AI in healthcare is analyzed based on countries such as the US and Canada. The factors that are ..."
-    publishedDateTime: 2021-03-27T09:05:00Z
-    webUrl: "https://www.openpr.com/news/2262818/north-american-ai-in-healthcare-market-trends-2019"
-    ampWebUrl: "https://www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262818/north-american-ai-in-healthcare-market-trends-2019"
+  - title: "Automotive Artificial Intelligence Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
+    excerpt: "Mar 31, 2021 (WiredRelease via Comtex) -- The comprehensive research report of Global Automotive Artificial Intelligence Market is a compilation of the targeted evaluation of all of the factors which can be taken into consideration being essential for the ..."
+    publishedDateTime: 2021-03-31T09:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-growth-factors-regional-overview-competitive-strategies-and-forecast-up-to-2031-2021-03-31"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 60
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
-      - url: "https://cdn.openpr.com/U/3/U327247103_g.jpg"
-        width: 800
-        height: 904
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Analysis, Segmentation, Key Players, Opportunities And Forecast 2021-2028"
-    excerpt: "It Intelligence Markets one of the world s leading market research firms has rolled out a new report on Natural Language Processing NLP in Healthcare and Life Sciences market The report is integrated with crucial insights on the market which"
-    publishedDateTime: 2021-03-27T13:10:00Z
-    webUrl: "https://www.openpr.com/news/2262865/natural-language-processing-nlp-in-healthcare-and-life"
-    ampWebUrl: "https://www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
+  - title: "Facial Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "\"Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security \" The ..."
+    publishedDateTime: 2021-03-29T02:59:00Z
+    webUrl: "https://menafn.com/1101823838/Facial-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 53
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
     images:
-      - url: "https://cdn.openpr.com/U/3/U327650672_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Machine learning as a Service Market 2021: Global Industry Analysis Report to 2027"
-    excerpt: "Machine learning as a Service MLaaS market is estimated to grow from USD 613 4 million in 2016 to USD 3755 0 million by 2021 at a CAGR of 43 during the forecast period Machine learning is a computing technique"
-    publishedDateTime: 2021-03-27T10:14:00Z
-    webUrl: "https://www.openpr.com/news/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262830/machine-learning-as-a-service-market-2021-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 33
-  - title: "United States Education Artificial Intelligence Market Report 2021-2025: Market is Poised to Grow by $253.82 Million, Progressing at a CAGR of 49% - R"
-    excerpt: "The artificial intelligence market in the education sector in the US is poised to grow by $ 253.82 mn during 2021-2025, progressing at a CAGR of 49% during the forecast period. The market is driven by the growing emphasis on customized learning paths using AI and increased demand for ITS."
-    publishedDateTime: 2021-03-31T09:22:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=445292"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "qkVLMS/eWoqfUX6oC575lMm7EviJOdKkOluB8/KYAI5CHIiPJzGWnjKcS0Npg+8ydWba94jEKBpMvkPr/o35dGCJ7GRImrdRrUx9Zck+AJfscIjSSI1pM6nh+7U5oXOFVU/kxEvkTbyJIaBOwyLjlej7ck//RVGLma5G163SNArqV/+WDv7B2Iq+H5s/JP3e/wHD9btTe9aJUBcgMP+2ZbKf/xW7y/+nbjmS4N+TYJnhOFdK1iy6Enm/YIpxWPFgEQ9+nyUNDqD14SDhMbP0ePFiiZoW1yRy34AWZI3Up5FzP4VbYK+gWVulw0RDneeNU2RSl+5UdabnChqv11vqj2pkjnz7Dg3beRmh8lxCBIEVwdAiwMAZAbq4O1QxSwgGhr6hGrgM6c82zkUDGOShbxqJASw9vq0MDDp80Jnr94d5hmNhRyZaDglXTDnb6ZFG94M8Ub0tAogpqWrO6JxSKlyDB5KJ7PW849iO222U87JOuhtIPyVmLjPKzRkXQpzYhIcbmb4+jBm8WbWGKuW7rA==;rnDGi7NAa+YsW1DnJYgaxQ=="

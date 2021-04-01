@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-13-facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content.md",
+      "title": "Facebook AI boss Yann LeCun goes off in Twitter rant, blames talk radio for hate content",
+      "excerpt": "Yann LeCun, Facebook’s world-renowned AI guru, had some problems with an article written about his company yesterday. So he did what any of us would do, he went on social media to air his grievances.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/11/facebook-796x398.jpg",
+          "width": 796,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/12/facebook-ai-boss-yann-lecun-goes-off-in-twitter-rant-blames-talk-radio-for-hate-content/amp/",
+      "publishedDateTime": "2021-03-12T11:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-facebook-details-ai-that-can-understand-videos.md",
       "title": "Facebook details AI that can understand videos",
       "excerpt": "Through its Learning from Videos project, Facebook says it's investing in AI that can understand social media videos on a granular level.",
@@ -1379,59 +1432,6 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format.md",
-      "title": "Integrating Amazon Polly with legacy IVR systems by converting output to WAV format",
-      "excerpt": "Amazon Web Services (AWS) offers a rich stack of artificial intelligence (AI) and machine learning (ML) services that help automate several components of the customer service industry. Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T09:54:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Natural Language Processing"
       ]
     }

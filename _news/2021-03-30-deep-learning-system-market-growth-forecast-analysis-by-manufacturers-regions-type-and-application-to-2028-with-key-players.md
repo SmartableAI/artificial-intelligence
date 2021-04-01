@@ -29,33 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in BFSI Market Demand, Scope, Share, Growth, Applications, Types and Forecasts Report 2028"
-    excerpt: "which is driving revenue growth of the global Artificial Intelligence in BFSI market. Download Sample PDF Copy of this Report At https://www.emergenresearch.com/request-sample/585 Key players in the market include Amazon Web Services (AWS), Inc., Google ..."
-    publishedDateTime: 2021-03-30T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-bfsi-market-demand-scope-share-growth-applications-types-and-forecasts-report-2028-2021-03-30"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Analysis, Segmentation, Key Players, Opportunities And Forecast 2021-2028"
+    excerpt: "It Intelligence Markets one of the world s leading market research firms has rolled out a new report on Natural Language Processing NLP in Healthcare and Life Sciences market The report is integrated with crucial insights on the market which"
+    publishedDateTime: 2021-03-27T13:10:00Z
+    webUrl: "https://www.openpr.com/news/2262865/natural-language-processing-nlp-in-healthcare-and-life"
+    ampWebUrl: "https://www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2262865/natural-language-processing-nlp-in-healthcare-and-life"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: openpr.com
+      domain: openpr.com
+    quality: 53
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Automotive Artificial Intelligence Market 2020 Growth Rate, Top Manufacturers Profiles, Applications, Gross Margin, and Market Share 2025"
-    excerpt: "Mar 28, 2021 (CDN Newswire via Comtex) -- The recently uploaded report titled Global Automotive Artificial Intelligence Market Growth (Status and Outlook) 2020-2025 delivers detailed information on the industry including classifications, applications ..."
-    publishedDateTime: 2021-03-28T19:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automotive-artificial-intelligence-market-2020-growth-rate-top-manufacturers-profiles-applications-gross-margin-and-market-share-2025-2021-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.openpr.com/U/3/U327650672_g.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "Image Recognition Market Key Players, Application, Demand, Industry Research Report by Regional Forecast to 2028, Fortune Business Insights"
     excerpt: "Facial Recognition, Object Recognition, Pattern Recognition, and Optical Character Recognition), By Applications (Scanning and Imaging, Security and Surveillance, Image Search, Augmented Reality, and Marketing and Advertising), By Deployment (On-Premises ..."

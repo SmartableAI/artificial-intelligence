@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Healthcare Market Is Set to Experience Revolutionary Growth by 2030 | Nuance Communications, Inc., DeepMind Technologies Limited"
+    excerpt: "(April 2021 trend research report ) The new report studies the AI in Healthcare Market in detail and presents comprehensive forecasts regarding the market’s growth trajectory in the coming years 2020 to 2030. The research report on the global market ..."
+    publishedDateTime: 2021-03-30T06:31:00Z
+    webUrl: "https://ksusentinel.com/2021/03/30/ai-in-healthcare-market-is-set-to-experience-revolutionary-growth-by-2030-nuance-communications-inc-deepmind-technologies-limited/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 39
+    images:
+      - url: "https://i.pinimg.com/originals/39/ae/0a/39ae0ac1c326830aa37ebf53e599390d.gif"
+        width: 512
+        height: 384
+        isCached: true
   - title: "Facial Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "\"Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security \" The ..."
     publishedDateTime: 2021-03-29T02:59:00Z

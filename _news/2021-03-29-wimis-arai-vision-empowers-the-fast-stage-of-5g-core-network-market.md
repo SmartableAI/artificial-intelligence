@@ -44,6 +44,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 16
+  - title: "WIMI Hologram Cloud's AI+AR Develops 5G Application Ecosystem while Apple Plans to Launch MR/AR Helmets to Lead the Industry Again"
+    excerpt: "MobiusTrend, the fintech market research organization, recently released a research report “WIMI Hologram Cloud’s AI+AR Develops 5G"
+    publishedDateTime: 2021-03-31T23:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/ab20437995/wimi-hologram-clouds-ai-ar-develops-5g-application-ecosystem-while-apple-plans-to-launch-mrar-hel"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20437995"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20437995"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 9
 
 secured: "rWYCm+HKoe5eccNCXSmKSYPH/eb1EphqIT71fCwwm090tr5pGmXBOcU0iznCMYniy/uVUTBTLecYPe0R2m8NXSLwBJX7EhBTfmtfcyOOw0PfPxCflLnRujwczZ2CU1sfI5HwrlDCyxft8ncYH2eU9c2GP67Vf6V3cDtGcyC2eORQ9w5LNGDve3ZJYmcHkiOLTwGEamA/7SZRKYLAA+lJE7uMAZGhdDEv/OUfvJRJda4sq5LjFMxIM/kNXaQU9xbjsMQcr60T0/ZiM+tdHWBIo11180It8lT723FRSCEhHIe1WPyTKTwdl+SWdJySBALSAbDmYLERJrNUM9RBLitl3vVqv9BDAPWPwX/Se7du3Rs=;MKK5tw1EnylKHIbGjPHo9Q=="
 ---

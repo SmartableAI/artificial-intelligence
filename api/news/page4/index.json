@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-30-watch-tesla-full-self-driving-beta-navigate-through-the-eye-of-the-system-in-impressive-video.md",
+      "title": "Watch Tesla Full Self-Driving Beta navigate through the eye of the system in impressive video",
+      "excerpt": "In a new video, we get a rare look at Tesla’s Full Self-Driving Beta software at work through what it can actually see as it navigates city streets. You can watch the impressive video below.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
+      "originalUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/29/tesla-full-self-driving-beta-navigate-video/amp/",
+      "publishedDateTime": "2021-03-29T16:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-adversarial-training-reduces-safety-of-neural-networks-in-robots-research.md",
       "title": "Adversarial training reduces safety of neural networks in robots: Research",
       "excerpt": "Machine learning needs to improve adversarial robustness in deep neural networks for robotics without reducing their accuracy and safety.",
@@ -296,7 +348,7 @@
       "originalUrl": "https://www.zdnet.com/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1136,58 +1188,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-28-ai-in-fintech-market-forecast-to-reach-112-billion-by-2026.md",
-      "title": "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-28T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Healthcare Market Is Set to Experience Revolutionary Growth by 2030 | Nuance Communications, Inc., DeepMind Technologies Limited"
+    excerpt: "(April 2021 trend research report ) The new report studies the AI in Healthcare Market in detail and presents comprehensive forecasts regarding the market’s growth trajectory in the coming years 2020 to 2030. The research report on the global market ..."
+    publishedDateTime: 2021-03-30T06:31:00Z
+    webUrl: "https://ksusentinel.com/2021/03/30/ai-in-healthcare-market-is-set-to-experience-revolutionary-growth-by-2030-nuance-communications-inc-deepmind-technologies-limited/"
+    type: article
+    provider:
+      name: The Sentinel
+      domain: ksusentinel.com
+    quality: 39
+    images:
+      - url: "https://i.pinimg.com/originals/39/ae/0a/39ae0ac1c326830aa37ebf53e599390d.gif"
+        width: 512
+        height: 384
+        isCached: true
 
 secured: "+Tf5ICBJPbrl9ksQc1ACdnJKBGPpA1O1cEa5XGnyeKck/t7aQwMz0wziQjjZnoHMb6kyyPrJ1k+0zZJoKSPC29FAGX0qcHWNu36HFKwSZseF+fB0PO0fCxzhs2qTb8+GFuyCisOU+70wnUQUTVfTX2JwxNtcqXpDziMjkQ9RuW2v1uu2xu4big5DOabby5VV3lugD7YioMfMPeWatBA/qh9GhcPiHt7R/2YJtpmrcKjWQ8I+QAS150wRtibwSHXJujusiii5Mji3qLK/zMdPptEkiwbvAjM8h5hYl8EvM1C+TdDEIFzw2ExRC9SF17QcK2HT1GSLAupUAGEQyJwfwEgQpFXnVLR8TgqzKo2SHBU=;RGg2Ov+CKUm5qmWyUGr6UA=="
 ---

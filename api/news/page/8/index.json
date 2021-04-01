@@ -2,6 +2,108 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-25-the-trevor-project-enlists-googles-ai-to-help-combat-the-lgbtq-suicide-crisis.md",
+      "title": "The Trevor Project enlists Google’s AI to help combat the LGBTQ suicide crisis",
+      "excerpt": "To accomplish this, the group’s AI division turned to the experts at Google.org to help with funding and know-how. Their combined efforts produced a novel training system called the “Crisis ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/trevorsplash-796x396.jpg",
+          "width": 796,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/24/the-trevor-project-google-new-ai-crisis-counselor-support-tools-suicide-lgbtq/amp/",
+      "publishedDateTime": "2021-03-24T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-25-artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts.md",
+      "title": "Artificial Intelligence Could Have Helped Alleviate Suffering From Texas Blackouts",
+      "excerpt": "While debates as to the root causes of the recent failure of the Texas power grid are likely to go on for months, energy experts contend that the introduction of artificial intelligence (AI) into the management of the grid could have alleviated some of the worst effects of the power shutdown.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/",
+      "originalUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F605b7edbbed55be5d6f63f2f%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimmagill/2021/03/24/artificial-intelligence-could-have-helped-alleviate-suffering-from-texas-blackouts/amp/",
+      "publishedDateTime": "2021-03-24T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-natural-language-processing-nlp-market-by-new-business-developments-innovations-and-top-companies-a-forecast-to-2026.md",
       "title": "Natural Language Processing (NLP) Market by New Business Developments, Innovations, And Top Companies â Forecast To 2026",
       "excerpt": "In 2019, the global Natural Language Processing (NLP) market size was US$ 854.6 million and it is expected to reach US$ 3121.5 million by the end of 2026, with a CAGR of 20.1% during 2021-2026. Request a sample Report of Natural Language Processing (NLP) Market at:  The major vendors include 3M,",
@@ -1069,101 +1171,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-is-coffee-good-for-us-maybe-machine-learning-can-help-figure-it-out.md",
-      "title": "Is Coffee Good for Us? Maybe Machine Learning Can Help Figure It Out.",
-      "excerpt": "The advice from research on coffee, and nutrition more generally, always seems to be changing. Processing vast amounts of data could help us pin it down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/28/magazine/28Mag-StudiesShow-1/28Mag-StudiesShow-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/24/magazine/coffee-heart-machine-learning.amp.html",
-      "publishedDateTime": "2021-03-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-amazon-web-services-debuts-intelligent-services.md",
-      "title": "Amazon Web Services debuts intelligent services",
-      "excerpt": "Among the AWS services that work with AWS MI are Amazon Rekognition for image and video analysis, Amazon Transcribe for audio transcription, Amazon Comprehend for natural language comprehension and Amazon Translate for language translation. According to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services",
-      "originalUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/03/AWS-MI.jpg",
-          "width": 400,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/amazon-web-services-debuts-intelligent-services?amp",
-      "publishedDateTime": "2021-03-24T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
