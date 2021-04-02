@@ -1,22 +1,33 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in April"
-excerpt: "Artificial intelligence can add a much-needed shot of predictability, efficiency, and flexibility to business operations, making it a hot item in the software realm right now. Plenty of tech stocks got clobbered in March."
-publishedDateTime: 2021-03-31T11:45:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-april-2021-03-31"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-april-2021-03-31"
+excerpt: "AI applications will only increase as the world gets more efficient and these companies hope to take advantage."
+publishedDateTime: 2021-03-31T15:45:00Z
+originalUrl: "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
+webUrl: "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 87
+heat: 117
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619767%2Fhealth-monitoring-getty.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "HBO Spoofs Elon Musk In Chilling AI Series That Premieres April Fools"
@@ -47,7 +58,21 @@ related:
         width: 370
         height: 229
         isCached: true
+  - title: "Only on April 1st, Cecilia.ai the Robotic Bartender Will Be Serving an Innovative Vaccine-Cocktail"
+    excerpt: "About Cecilia.ai Cecilia.ai, a new startup from GKI Group, is the world’s first interactive bartender, customized for every business and event. Powered by conversational AI and voice recognition abilities, Cecilia is not your typical bartender."
+    publishedDateTime: 2021-04-01T11:05:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-lifestyle-business-public-health-corporate-news-7b946481dda2eca942ca46f5c7e52600"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 40
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "4/dgjwL4+9ls3I9UqNrqt1XRQNmECvoUPHbzOv2ulfifmqqU+oHpoNv6gMxLgXGflZS1yAssSxDrWutt5UYd4pYXPoWeNy1Zb49VNwjTahXFU111Lg4EpZtRPAR8rqRbu7/LZkWtpIopGpbyL8awbwiterUiXwPmZM9Kai308yjMlfWcXjrmahJAEMq+SJ0CXyTg57tMEbpYuvbe4K9n5sQ4GWa7CnxGskeWTlA6YjWBPTxEyrErrGmj83GBdqnA78QqC0dciqGiyiYSkC674wxfLXkJp/DyWVC62AjgpRH7ubXM9pEYqWjkfjtY57dVPZ9Qwbw9MPd7TqMFk3ediFNlO9c4OxJAAjqjwnncw5M=;aJ+4euD1XTcT1L2wUUmW5w=="
+secured: "IEvHVCgSgwTtl4fwNlfEiHNuksWmlJsxz9myWrgK62YpnOKwvhOTa2AFaBg4TVE39D2YPG063yIhYvq1ANHXjYnxxiY6Ov8amqq64H0Nfvnjk5Ev56J+O21PsqxwfLSLFhMBkgtOvt3h5sIQwMr0qdQbuAgK7/4rm/5Fbai9lSIPYfxcAza8J4ffW/72KFMf432DvvmHRcTDw3z8vTe91294yleB3FPkgDyYev/ScRoDzolA49zPMjR+MdzmPdY16BaglDvwbzOOyA5TjHpi2Zp84aMQYLNwbJ/pGUs+8OaEXFxQz+dvCEPRUn6Y/sob1KjaThXwthnRX/JwDXzfZjxXCNhDG6HyxMBTFh+a608=;qHXZIY8bfNzaq1HHjSM5dQ=="
 ---
 

@@ -26,17 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Okayama University research: Studying Parkinson's disease with face-recognition software"
-    excerpt: "Stock quotes by finanzen.net OKAYAMA, Japan, March 28, 2021 /PRNewswire/ -- Researchers at Okayama University report in Brain Supplement that artificial-intelligence technology can detect facial characteristics of Parkinson's disease."
-    publishedDateTime: 2021-03-28T12:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/okayama-university-research-studying-parkinson-s-disease-with-face-recognition-software-1030252264"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 25
-
 secured: "4jeoClqwB1FAWidddyp2taGvvTTqvFHvqs+emamqB0gPmkndA/x1B+wqrzMkG/lVz3wzDNDxz3BZ1+lTYR1kuyWzJINPTLeiHzZVZP0ZvMGHNneOMGcTPsqYYhiSiJ8z9lQ5bqL/7OuleQDDGgzDX5TmhGbGxfYE6+wqArQu46cssGzGwmvOmlzMllkdRYziRfQBTq+fO00qCOZ208Hunn4aHXEs89wepSZCtLO63AUJlnGxO3rt0PL7Z593EnNdDA+45Wp+qDX90WSUVK+MSwPRyT9E6PTIZkStdIH/fQRobt7T375LcKI8jt9VpNr6XDF0yLVYGRn+qarsd+hp7LKJohiANkDjbqgAiDEXb9c=;t8tnqs2zDl9haFWgKqoyzQ=="
 ---
 

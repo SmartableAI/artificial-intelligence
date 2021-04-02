@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/30/how-are-gpus-going-to-change-your-working-world-its-ai-everywhere/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1199
     height: 877
     isCached: true
+
+related:
+  - title: "Getting AI to work in a fleshy, messy world is harder than you think"
+    excerpt: "The machines are getting smarter but how they interact with humans needs to be figured out. Trust is going to be essential to the broad adoption"
+    publishedDateTime: 2021-04-02T05:03:00Z
+    webUrl: "https://www.wired.co.uk/article/artificial-intelligence-future"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 41
+    images:
+      - url: "https://wi-images.condecdn.net/image/GvpdrkWNP4g/crop/400"
+        width: 400
+        height: 499
+        isCached: true
 
 secured: "Qvmu3AKtHGxKwPSpKzE9IWg//+2K5HPI5zJRuR3Z7eYDmXClQGOR2JOU6e16jB7YPNfqk6xzCdzxsM1kRJqU8UFith+YrN9JREd/b+4OpYaXB70AiliyDripZb3KVCHeIqzga16L4U4FV6ADfvXSeSVNHtvgEgZEd/+PmYsVM8b0vFa2E0KI1OB90/N7CY0AIGyzLGXXOTJyIbV4LDE5YKWVHdLGLL2cfAahHS3cG8W3wwRPvCKJaEiEl+dhEaWZLcqCvNbEB3/By0/fzpULc3Fbq0x65hPWyFz5Vaaq3fAwejuB26pscdDyhdZAJpAh4e5OQoaIayivFSN6aqVh1gELBjWw+b0XpbiFoKY9Zkvel2ZdmkoF4d4MPj7pWB2cvLQnbLby7SXyJwfkqhMHOPsR1y+k7qzkM5YNimCtKqdNLGTWrET+/tynzDOWkRQs7L/oVUWvVvAv99D2f8R7CXEZ9kGJXIDXzgfHo4eUsdTAnuQZofRy3lSHeneQdNzhpwUY+K54XShaWnjMYvalJg==;AsYgfh73dG3mr06NVnc1Xg=="
 ---
