@@ -48,6 +48,15 @@ related:
       name: Chronicle-Tribune
       domain: chronicle-tribune.com
     quality: 12
+  - title: "Self-driving Cars Market is Set to Experience a Revolutionary Growth | Toyota, BMW, Volvo, Audi"
+    excerpt: "The Global Self-driving Cars Market to witnessed good recovery in growth post first half of 2020 and is projected coverup market sizing during the forecast period (2021-2026). The assessment provides a 360° view and insights – outlining the key outcomes of the Self-driving Cars market,"
+    publishedDateTime: 2021-04-02T10:49:00Z
+    webUrl: "https://industribune.net/uncategorised/7359/self-driving-cars-market-is-set-to-experience-a-revolutionary-growth-toyota-bmw-volvo-audi/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 0
 
 secured: "E20SI814Us+69XwWlm/6yTPT+pqq9vKS2g/PlO6dIXpi3xne2grupbjTiJQkx8L/Ij5jnhCgprA3Rie4kjHngCgtpH2yFIq+HKTyZFSv9eVrwX5sXgH7UNxDCUaoJZTUs21fCYOcRHJLLMfiBOQy9tzfDCfbdj8/EJsEPrAtGSoIbQ57/mJLeUFu/Zr/h2HJuBVsvFDi0ulZ+MvNzsXjrkHMfiHDntjYKvEYilRfiozYBYNWchXUIIEpi4+XnIB0/LK9VIUko2Y11pjliO17lnIdWIA7HJMtZLM/JfJwhRiQVp8H5UHLLDWN4202DGv/2FyJDK9CHnh9WX+5kZJyO/Zb5IJTgyT6et35XKk03+nLtZhAVQXzEgYdsUO9/LLmCHYaNJ8PWTB4TSh4i9XYg9oaBySjJv+0DIolyhjq3TxcxyO/JhiamJqnnNxuUTNkL56Vu2ZEA7dTHbxaERo+CdH6/0DEG6RJQN2ORxwMhi7DkmBGXeO6wBUrweU2G5jxoxLLviNeEYxzkGfexivY5w==;fPv946RhQZV9v7xoKGupiw=="
 ---

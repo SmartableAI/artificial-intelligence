@@ -2,6 +2,92 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-03-17-microsoft-amazon-must-face-facial-recognition-data-suits.md",
+      "title": "Microsoft, Amazon must face facial recognition data suits",
+      "excerpt": "A Washington federal judge has ruled on motions to dismiss two nearly identical lawsuits against Amazon.com Inc and Microsoft Corp, rejecting the companies' bids to scrap an Illinois biometric privacy claim while asking for additional briefings before ruling on two",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
+      "originalUrl": "https://www.reuters.com/article/dataprivacy-facialrecognition-idUSL1N2LE215",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2LE215",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LE215",
+      "publishedDateTime": "2021-03-16T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-artificial-intelligence-is-predicting-future-covid-19-strains-developing-treatments.md",
+      "title": "Artificial Intelligence Is Predicting Future COVID-19 Strains, Developing Treatments",
+      "excerpt": "Artificial intelligence in particular has emerged as a useful new tool to not only beat back the viral mutations, but to also stop them before they can spread at all. Some new strains of the COVID ...",
+      "sourceUrl": null,
+      "webUrl": "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/",
+      "originalUrl": "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://observer.com/wp-content/uploads/sites/2/2021/03/GettyImages-1303550836.jpg?quality=80&strip",
+          "width": 5878,
+          "height": 3927,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/amp/",
+      "cdnAmpWebUrl": "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/03/artificial-intelligence-predicting-covid-19-strains-developing-treatments/amp/",
+      "publishedDateTime": "2021-03-16T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Observer",
+        "domain": "observer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-instagrams-new-ai-feature-stops-adults-from-messaging-kids-who-dont-follow-them.md",
       "title": "Instagram’s new AI feature stops adults from messaging kids who don’t follow them",
       "excerpt": "The machine-learning feature is one of a range of new tools Instagram is introducing to protect young people on the platform.",
@@ -1111,101 +1197,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-baidu-says-it-has-a-licence-to-charge-passengers-for-its-robotaxi-service-in-chinese-city.md",
-      "title": "Baidu says it has a licence to charge passengers for its robotaxi service in Chinese city",
-      "excerpt": "Baidu launches robotaxi services in Beijing as China accelerates along the road to a self-driving future Baidu Apollo’s robotaxi fleet in Cangzhou was rolled out last August and has so far accumulated 524,696 kilometres of test mileage. The city is one ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/03/16/4d42860f-8955-4bbc-9a13-8c4419706a89_5160e2d3.jpg?itok=GuvYIPC8&v=1615870352",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3125611/baidu-says-it-has-licence-charge-passengers-its-robotaxi-service",
-      "publishedDateTime": "2021-03-15T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.md",
-      "title": "Use of artificial intelligence to tackle coronavirus must go through ethical checks, say experts",
-      "excerpt": "Rapid deployment of artificial intelligence and machine learning to tackle coronavirus must still go through ethical checks and balances, or we risk harming already disadvantaged communities in the rush to defeat the disease.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210316/Use-of-artificial-intelligence-to-tackle-coronavirus-must-go-through-ethical-checks-say-experts.aspx",
-      "publishedDateTime": "2021-03-15T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

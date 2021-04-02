@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-02-opening-up-to-a-robot-how-mental-health-tech-can-help-patients.md",
+      "title": "Opening Up To A Robot? How Mental Health Tech Can Help Patients",
+      "excerpt": "Stigma and feelings of shame can be barriers to seeking treatment, so AI tools may be particularly useful in aiding people who are struggling with mental health issues begin to get help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/opening-up-to-a-robot-how-mental-health-tech-can-help-patients/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/02/opening-up-to-a-robot-how-mental-health-tech-can-help-patients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6065cd5ea656d354d2b3ff88%2F0x0.jpg",
+          "width": 1200,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-02T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-the-future-of-lab-robotics.md",
       "title": "The Future of Lab Robotics",
       "excerpt": "Time and time again, I have seen organizations that want to reap the benefits of artificial intelligence and robotics spend millions of dollars to start developing and deploying the technology, only to fail. That failure often occurs because the ...",
@@ -1299,58 +1352,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields.md",
-      "title": "AI and robotics are helping optimize farms to increase productivity and crop yields",
-      "excerpt": "One company built an autonomous vehicle to help haul crops, saving work and time. Others use drones and sensors to communicate with farmers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/23/9d08ff82-5d93-4b0b-8adc-8f2f7954c771/resize/1200x/7d09cb2499883cc6c743c2997fe50167/istock-1218567273.jpg",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-robotics-are-helping-optimize-farms-to-increase-productivity-and-crop-yields/",
-      "publishedDateTime": "2021-03-23T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

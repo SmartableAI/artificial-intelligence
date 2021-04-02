@@ -106,6 +106,22 @@ related:
         width: 800
         height: 485
         isCached: true
+  - title: "AI-powered social media analytics startup Circus Social raises $1 million"
+    excerpt: "Circus Social, a social media analytics and Big Data SaaS company has raised $1 million in a Pre-Series A Round led by Inflection Point Ventures, and other marquee investors based in the United States,"
+    publishedDateTime: 2021-04-02T11:07:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-powered-social-media-analytics-startup-circus-social-raises-1-million/article34223444.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 56
+    images:
+      - url: "https://www.thehindubusinessline.com/opinion/columns/thomas-k-thomas/75lkp6/article30118113.ece/ALTERNATES/LANDSCAPE_615/BL30Thinktech"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Qualitative Analysis: In-depth Analysis of the Artificial Intelligence in Agriculture Market"
     excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed 6000 million by 2027 growing at a CAGR of 25 50 from 2020 to 2027 The report includes"
     publishedDateTime: 2021-03-29T06:56:00Z
