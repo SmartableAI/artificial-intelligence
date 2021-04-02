@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/manufacturing-ai-startup-kinta-rai
 webUrl: "https://www.businessinsider.com/manufacturing-ai-startup-kinta-raises-series-a-lachy-groom-2021-3"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,38 @@ images:
     width: 1200
     height: 602
     isCached: true
+
+related:
+  - title: "This bootstrapped startup aims to make stock market investments AI-driven"
+    excerpt: "Kanika Agarrwal, Atanuu Agarrwal, and his friend Nikhil Hooda believe artificial intelligence (AI) is the new Warren Buffett. This got them to start Upside AI in December 2017. Kanika says ..."
+    publishedDateTime: 2021-04-02T00:15:00Z
+    webUrl: "https://yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven"
+    ampWebUrl: "https://yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 56
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagevbze-1617288222583.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "21 investors pour $3.2M into NC startup utilizing AI to transform documents"
+    excerpt: "EX-IQ, a startup with ties to Fayetteville, has raised $3.245 million from 21 investors, Here are the details."
+    publishedDateTime: 2021-03-31T10:53:00Z
+    webUrl: "https://www.wraltechwire.com/2021/03/31/21-investors-pour-3-2m-into-nc-startup-utilizing-ai-to-transform-documents/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 35
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
+        isCached: true
 
 secured: "vF74Hk6cQomOa62zJ+ebtkN1HZvhx28pfvF96IdvKds8ar3995tQUrQtRfukHLCTQUz07Con5fdoqtHQb+DpcknSae3Fg/IUx83sySfdk9vqgC3ZRz5dMnt/eHsmj67n6z4JVgFVcJysUkQ4U0cvU2q9Z7+xvLPbXdhR0qHkKIJ+tNlm6saIFNxELcIAA5Fuf08H289lK4N18WQU4OF5alfD1SHhqJzABLD9qJf1n6iBKzwCuE9BlsBe//K2mTDIzYL2TeLiiDFMOK/X7/ggTWR0Xs/LWdnCZffNWpvlw+3azrbologU9eBEzJItETOnLoj5CsApxw02fPmNkogMnpnR8oUXbeHVbIfDepwWfls6imsrpVVbaw3BXlWdlD+vQMcbhFphpZm0WSgpcDYFNSXvwCCUHD75UNhWo9aZLWFfEwQvTGUmwXJguGeI3ktnnWYpqBc/VXuaYIurxTuqXlZFmXD2avm7XtbRumLCocpUZxLIYlheXI6dS5Bfrx0NEUKXeEFltKPMTgjjtcLEFA==;o7EDVT7YsHfGU6HBOxkOMg=="
 ---

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in April"
-excerpt: "Artificial intelligence can add a much-needed shot of predictability ... from its core internet search engine to its moonshot upstart subsidiaries like autonomous vehicle subsidiary Waymo. But Google is also helping customers make use of AI."
-publishedDateTime: 2021-03-31T11:45:00Z
+excerpt: "AI applications will only increase as the world gets more efficient and these companies hope to take advantage."
+publishedDateTime: 2021-03-31T15:45:00Z
 originalUrl: "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
 webUrl: "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
 ampWebUrl: "https://www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/"
 type: article
-quality: 91
-heat: 121
+quality: 87
+heat: 117
 published: true
 
 provider:
@@ -21,9 +21,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619767%2Fhealth-monitoring-getty.jpg&w=1200&op=resize"
@@ -75,6 +73,6 @@ related:
         height: 450
         isCached: true
 
-secured: "xSPFNxtz5hFCEEmgpp8aNmMK8Lbw4xMfoVWRsL78IjRe9fRjHlIqNqkws992DyrRdwC5VPthExT9+3HtNoNp+kSbv9nU0XRfU0UXpKOBTXORlgc7A0LyBlvjjM3Z7hy8pxzb4xbZa6ZQEiX96lwFBLYgosiqNu0b/bJ+uh+tyGG+HnNPnARuonR++RpSuNBqjq43AT3YuPqa50tfxGufMiqE6mVnTMrOb5xCGa6n1FgY/5iUmQIGGzlfkSH7zq4dWLQHihrx/SgoBYZcWWJ845vHQNCHzJvRyEz95WtgVa7anCnZbQAge7J+3LgfBPiRfwrw6yna8TIqL7NHj7vaDi0yl0enQijhiMIQjxPmYpUDlqz1msjk+e4qSuLQ+6HuLFg5LgsbdC0XDm/y5fK4JMLw5cX9Mako9joyzEVB3xbDB4QPnPC9mWobVLJHl973SZq2SGHfz2gkgNDuSb2Z0yLd8E7U+7IVPB6JAI8SS2vsHtBYOekyYRYjibOui4Bw0VBWZv6YF5yvjbk2WlAicg==;Cbc4RXT12uVePa7i5DIZQA=="
+secured: "7yZGrRzTAAbWsM7MmRSU8qOkMxwKZi5mx7RX+CfW+7mW5WojXxfIuQ+zGG8YfX8nRi1LNc79WnHq78/ZvmknpD8sOkoFGPTmj/a2tT85Mj3R3ey6iw4lnBIZ6eBK24HqH4m257ciXS6lmKHNZJLyS+PZnnKoACBVHWEfPCqUbjF6zsOH3YBt/AWAaUEuhAYbrZZvycIL3Stm+Wyr3Euykpd6Aop4Pgm9CK/mldtOx/j1z9jguydX8E+E4cF9GkIHCKBADKxOQDwz73JsbDQMfYv6cOU5+GBm9pQJbqthVC/r9tgwkrE9sxL7y8BgiZg3TiZVgUM7wOs3AuWUqXSpWdfXfuLOiftViG0mhCRVMEc=;pr4kjdEBM1TnmWkDBmwW/Q=="
 ---
 

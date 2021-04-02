@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "See How Artificial Intelligence is Changing the Future of Storytelling"
+    excerpt: "Heather Maio-Smith, CEO and Co-Founder of StoryFile, joins Cheddar to discuss how artificial intelligence is being used to preserve, record, and interact with stories for generations to come. 5:26 John Deere's CTO on Latest Innovations in AgTech 6:36 ..."
+    publishedDateTime: 2021-04-01T19:49:00Z
+    webUrl: "https://cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling"
+    ampWebUrl: "https://cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 57
+    images:
+      - url: "https://img.chdrstatic.com/media/dd70dc6d-d3e0-4f5a-a0ef-2c4b198b77ac.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "‘We need to be specific to address the issues of AI ethics’"
     excerpt: "AI consultant Catherine Breslin discusses the ‘broad umbrella’ of AI ethics and some of the major trends occurring in the AI industry. Machine learning scientist Catherine Breslin specialises in research and development in the area of voice and ..."
     publishedDateTime: 2021-03-31T12:00:00Z

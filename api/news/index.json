@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-02-this-bootstrapped-startup-aims-to-make-stock-market-investments-ai-driven.md",
+      "title": "This bootstrapped startup aims to make stock market investments AI-driven",
+      "excerpt": "Kanika Agarrwal, Atanuu Agarrwal, and his friend Nikhil Hooda believe artificial intelligence (AI) is the new Warren Buffett. This got them to start Upside AI in December 2017. Kanika says ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven",
+      "originalUrl": "https://yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagevbze-1617288222583.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven/amp",
+      "publishedDateTime": "2021-04-01T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-how-face-recognition-can-destroy-anonymity.md",
       "title": "How Face Recognition Can Destroy Anonymity",
       "excerpt": "For most of human history, private citizens could reasonably assume they were more or less anonymous when venturing into public. Given the unchecked rise of face recognition, that's not a safe assumption anymore.",
@@ -446,13 +488,13 @@
     {
       "path": "_news/2021-04-01-nvidias-fastest-gpu-has-gone-on-sale.md",
       "title": "Nvidia's fastest GPU has gone on sale",
-      "excerpt": "Specialist hardware maker PNY has released a new graphics card based on the Nvidia RTX A6000 that lends itself to various high-performance creative and scientific computing environments. Based on the Ampere architecture, the card is armed with a whopping 48GB GDDR6 memory with ECC and a memory bandwidth of 768 GB/s. PNY says that the Nvidia RTX A6000 is equipped with real-time ray tracing and rendering, accelerated artificial intelligence (AI), and photorealistic VR to deliver “unmatched” quality and performance to designers and engineers. The PCIe 4.0 x16 card has 336 Tensor cores and 84 RT cores, which makes it ideal for all kinds of deep learning use cases. With over 10,000 CUDA parallel processing cores, the card is especially useful for working with Nvidia’s CUDA parallel computing platform libraries such as CUDA Deep Neural Network (cuDNN), cuBLAS, TensorRT, and more. It’s equipped with a 3rd generation NVLink connector for multi-GPU setups to help create large video walls, support multiple 8K monitors, or even create immersive VR experiences. The card can ferry large data sets much easily which leads PNY to suggest that the Nvidia RTX A6000 is ideal for working with AI frameworks such as Tensorflow, Caffee2, MXNet, and others. PNY suggests that the Nvidia RTX A6000 has a power-efficient dual-slot design with a maximum power consumption of 300W. The Nvidia RTX A6000 is currently available at a pre-order price of about £4800 (just over $6600) with deliveries scheduled to start mid-May. Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission.",
+      "excerpt": "The card can ferry large data sets much easily which leads PNY to suggest that the Nvidia RTX A6000 is ideal for working with AI frameworks such as Tensorflow, Caffee2, MXNet, and others. PNY suggests that the Nvidia RTX A6000 has a power-efficient dual ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/nvidias-fastest-gpu-has-gone-on-sale",
-      "originalUrl": "https://www.techradar.com/uk/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "webUrl": "https://www.techradar.com/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "originalUrl": "https://www.techradar.com/news/nvidias-fastest-gpu-has-gone-on-sale",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -466,8 +508,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "ampWebUrl": "https://www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
       "publishedDateTime": "2021-04-01T06:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -491,8 +533,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "Google AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -702,7 +745,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/reviewing-the-top-ai-ethics-issues-that-could-affect-the-future-of-women-in-tech-and-how-to-combat-them/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1188,57 +1231,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-why-you-should-tackle-risk-management-before-you-even-start-hiring.md",
-      "title": "Why You Should Tackle Risk Management Before You Even Start Hiring",
-      "excerpt": "Related: Microsoft Using Minecraft to Teach its AI to Learn During Microsoft's risk-management evaluation ... Let's say you operate a startup that allows owners to lease out their cars, so you hire a third-party insurance company to insure against theft ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/367510",
-      "originalUrl": "https://www.entrepreneur.com/article/367510",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1616690604-GettyImages-1187635329.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/367510",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/367510",
-      "publishedDateTime": "2021-03-31T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

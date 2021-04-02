@@ -4,13 +4,13 @@
     {
       "path": "_news/2021-04-01-nvidias-fastest-gpu-has-gone-on-sale.md",
       "title": "Nvidia's fastest GPU has gone on sale",
-      "excerpt": "Specialist hardware maker PNY has released a new graphics card based on the Nvidia RTX A6000 that lends itself to various high-performance creative and scientific computing environments. Based on the Ampere architecture, the card is armed with a whopping 48GB GDDR6 memory with ECC and a memory bandwidth of 768 GB/s. PNY says that the Nvidia RTX A6000 is equipped with real-time ray tracing and rendering, accelerated artificial intelligence (AI), and photorealistic VR to deliver “unmatched” quality and performance to designers and engineers. The PCIe 4.0 x16 card has 336 Tensor cores and 84 RT cores, which makes it ideal for all kinds of deep learning use cases. With over 10,000 CUDA parallel processing cores, the card is especially useful for working with Nvidia’s CUDA parallel computing platform libraries such as CUDA Deep Neural Network (cuDNN), cuBLAS, TensorRT, and more. It’s equipped with a 3rd generation NVLink connector for multi-GPU setups to help create large video walls, support multiple 8K monitors, or even create immersive VR experiences. The card can ferry large data sets much easily which leads PNY to suggest that the Nvidia RTX A6000 is ideal for working with AI frameworks such as Tensorflow, Caffee2, MXNet, and others. PNY suggests that the Nvidia RTX A6000 has a power-efficient dual-slot design with a maximum power consumption of 300W. The Nvidia RTX A6000 is currently available at a pre-order price of about £4800 (just over $6600) with deliveries scheduled to start mid-May. Thank you for signing up to TechRadar. You will receive a verification email shortly. There was a problem. Please refresh the page and try again. No spam, we promise. You can unsubscribe at any time and we'll never share your details without your permission.",
+      "excerpt": "The card can ferry large data sets much easily which leads PNY to suggest that the Nvidia RTX A6000 is ideal for working with AI frameworks such as Tensorflow, Caffee2, MXNet, and others. PNY suggests that the Nvidia RTX A6000 has a power-efficient dual ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/nvidias-fastest-gpu-has-gone-on-sale",
-      "originalUrl": "https://www.techradar.com/uk/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "webUrl": "https://www.techradar.com/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "originalUrl": "https://www.techradar.com/news/nvidias-fastest-gpu-has-gone-on-sale",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -24,8 +24,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "ampWebUrl": "https://www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/nvidias-fastest-gpu-has-gone-on-sale",
       "publishedDateTime": "2021-04-01T06:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -49,8 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "Google AI",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -114,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -270,7 +271,7 @@
       "originalUrl": "https://www.theverge.com/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance",
       "featuredContent": null,
       "highlight": null,
-      "heat": 235,
+      "heat": 245,
       "tags": null,
       "images": [
         {

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-g
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tiny machine learning brings AI to IoT devices"
+    excerpt: "Now, some of that AI is moving into the local device to help minimize bandwidth and latency concerns by employing an efficient form of machine learning (ML) for smaller devices. An example of what can be accomplished by placing AI in edge devices can be ..."
+    publishedDateTime: 2021-04-02T00:00:00Z
+    webUrl: "https://www.edn.com/tiny-machine-learning-brings-ai-to-iot-devices/"
+    type: article
+    provider:
+      name: EDN
+      domain: edn.com
+    quality: 36
 
 secured: "JOY4isYTgjgjGsnvQcMnvR8rGl8aoSoBuOmadband8+AFMPYQdtykrNtG0zdVfU06wnSS01gMYzJzIff2XihhXCfE0Z0WJGADayxviGj0vz6/hC9hTBLtHxR/qM3ODs9aJL+QlMomoU+T9YZzyGA/wPuRhbqC0hghTxw1ifnobM3H+It+LnCw9T+7wP+onh5BGezrfeQUh3EClImhCRlpG543kJI90N7zxtXD3JJXP2beLqhxIO31B3klMtnnjqmhOR5RH6WTpP2m2MpR5I9xduTMhqlkudG7XjQJ3vdIaJ8dq9TPHxqMlxoegRkmY8FnAv643CHcKHeyn49mTCvJwBYrXYg/C1fDy4BP9TrrpSS0TZWwAW+6E6Rx7+QzMglCBpPEcHgKiK7bEIueoA0M4d0tOMagxD1cLx2UHtmcEOG+V2vYDhaMPYmUjwMOW+ApEqhFHfgS5MOqIb8nEqhrHFCWSY2pu3I8LrqX5fGP7/sEudflOs6Gklq/cXkTMIXdl7EfeCAyj1oGoN2L7Qdmg==;xNu0gb8eoQgDvPVrUFFHlA=="
 ---

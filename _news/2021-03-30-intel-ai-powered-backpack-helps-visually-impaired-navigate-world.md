@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Researchers design an AI-powered backpack for the visually impaired"
-    excerpt: "Still, the product offers a glimpse at what a future could look like as progress in AI and machine learning increasingly help ... how much such a device would cost consumers, but several start-ups and organizations are working to solve the same issues ..."
-    publishedDateTime: 2021-03-28T09:00:00Z
-    webUrl: "https://www.iol.co.za/technology/gadgets/researchers-design-an-ai-powered-backpack-for-the-visually-impaired-ed7583e9-32cc-405d-a848-336df2073484"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 37
-    images:
-      - url: "https://image-prod.iol.co.za/resize/1280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/f27aa67d-46ea-50b2-bd95-55d26a978c4f&operation=CROP&offset=0x605&resize=1280x720"
-        width: 651
-        height: 366
-        isCached: true
 
 secured: "e9urTs97E7TfbgI/WKiiaDoDOxbRrVKtrPIDNeWpRWaLoumkp6TVeZs+J4DoU3I09yutan7oh7stwsxalBachOAZOHV/fXaC7n/D6mBg/EkMqbBtKTfB/8NoI/NO0JSpLQmkoM4xoTNpcWPScI2UtsAbB/ZPT9ijG9saKW04mYWW1lb+M5N/UCQm0IXL91/Yf6Z4WpULQYIMWoIFjQZKF9sibgkll/Q1HBhkqWnIvRsEuUa6a7rWRh6rdy5aZjErwtoz4lwQcrkaDMtwUUGBoFEori4bdeqcZwvt1vlOmH9zsW3mTCx+PG5oNtLEExMlydw8/ts5ERLuU83qGf1wnWci5/pSCKPTXZfipBCamB4v2k3U6+XLMfjSJ2gD9mMPP027d1+A7PVFSj0cQVcFJRt+4U6Qr4bGrWWD2ipcHGmecaiiurR8r0y05S5IKousoGDz2yqGYvsHZbrD72SJ4P0PFJnQlwr01JIjwbuxCx8Q1g8rEx6RkGF2IMxwUUF8iqnTzsd/t6RbQBoA18IgKA==;Mo8rA6XHNmaJoGUAwuNZkg=="
 ---

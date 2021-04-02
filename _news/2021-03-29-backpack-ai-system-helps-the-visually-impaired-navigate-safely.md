@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/?
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/visually-impaired-blind-backpack-ai/?amp=true"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://back.3blmedia.com/sites/default/files/inline-images/ai-backpack-jagadish.jpeg"
         width: 540
         height: 316
-        isCached: true
-  - title: "Researchers design an AI-powered backpack for the visually impaired"
-    excerpt: "Still, the product offers a glimpse at what a future could look like as progress in AI and machine learning increasingly help ... how much such a device would cost consumers, but several start-ups and organizations are working to solve the same issues ..."
-    publishedDateTime: 2021-03-28T09:00:00Z
-    webUrl: "https://www.iol.co.za/technology/gadgets/researchers-design-an-ai-powered-backpack-for-the-visually-impaired-ed7583e9-32cc-405d-a848-336df2073484"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 37
-    images:
-      - url: "https://image-prod.iol.co.za/resize/1280x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/f27aa67d-46ea-50b2-bd95-55d26a978c4f&operation=CROP&offset=0x605&resize=1280x720"
-        width: 651
-        height: 366
         isCached: true
 
 secured: "eaRZUpoSffD5v/QH1Uqyjw+yanKT3x8m9otT7e6RO81Q3d37e/l4T2F5h6kMJ8PELEREBpp8QpsCWOxxlug5R/thak/ss/mc7daO0kiinPHRaDGG7eRclB42u7b1NTFezBZfjoromObpJSb1+YjEA08/Ezvp+N841Ew+/tHhkbY6f3qvPFcjxxla/xjU4XbTvtklW/vLp82IhBTnZTxo2HvsTSbHlDR/b1rhwuS6kj8UqqGq9fjeJAyr4mA+fx9tOXUo5hkebeuDvPaH6JIpKw6JB9mls9W9IVA+VdBNv+FuUXKFSM69WxVyaF6qLvv4g8mtLzl05argRo3RPTRI+sXd0Lo6M2rcLf06oOXrCZpBSzEubv4zmh7xKK8w1Tt5MBcEPtZTXrdNWQanUSJ+TirFW5ZLq8tE79o01rmbCpm8eq+BsgJGwhyJTai7I0Csr+K7xfPp0FHNkqRO+I18HLauS65XZQNScrBXS1gqmDW9SuxRrNXuLVn6iELtxfqKzgfDv5CtRH3dwLjjw7v2mA==;ixfYUURzTuWEM8VOPG8scA=="

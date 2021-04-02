@@ -74,6 +74,20 @@ related:
         width: 750
         height: 579
         isCached: true
+  - title: "AI In Healthcare Market Size, Share, Development Analysis, Progression Status by 2027"
+    excerpt: "Hospitals and other healthcare institutes around the world now deploy artificial intelligence to reinforce their operational initiatives, which helps them expand cost-saving, enhance patient satisfaction, and cater to the growing staffing and workforce ..."
+    publishedDateTime: 2021-04-01T23:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-healthcare-market-size-share-development-analysis-progression-status-by-2027-2021-04-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 77
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cloud management startup Striim plans new integrations and streaming analytics with $50M funding"
     excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Striim, a startup specializing in streaming data integration, today closed a $50 million series C funding ..."
     publishedDateTime: 2021-03-31T20:30:00Z

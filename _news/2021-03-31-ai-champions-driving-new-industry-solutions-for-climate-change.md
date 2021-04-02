@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2021/03/31/ai-champions-dr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/03/31/ai-champions-driving-new-industry-solutions-for-climate-change/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,19 +28,6 @@ images:
     width: 1200
     height: 677
     isCached: true
-
-related:
-  - title: "Five Ways Artificial Intelligence Is Changing The Water Industry"
-    excerpt: "AI helps in detecting sources of contamination in the pipeline — whenever there is a variance in quality, it can send alerts and call for an immediate fix"
-    publishedDateTime: 2021-03-28T09:00:00Z
-    webUrl: "https://inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/"
-    ampWebUrl: "https://inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/five-ways-artificial-intelligence-is-changing-the-water-industry/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 37
 
 secured: "76i0SLd2hOBWwWAs9uzWcJalAqgeGSauE9HnDI3+3Zk0t+av3Jjj4hNPLNZEEHH1i/wDp9DDbbf+qu+CD+F58c2K+C1p7yB+k3mlZ/GO1MtITVPGyc4CvaHeolad3TN6pBOjRxdjqc4ssifUnmlfwkhCFTheaUFo/iZD4eqPlq1C2Bgtznusa9mp9Av1tJtKEalsv9c8njdem+axtfFOHZDEFlOoxWKlHba0X4tMpV1LfYgHzbSDGTCu9fHpMN88s62i1a5F4n57cFUOLE1Eh7v5mzLjQnl3kHpqTJgXIyiN5nkt6OmTOQUBi5Q1GUweZVhqc2IS54PcohG0Er5BPHMWuclRV7S2el+777jl01U/laFzbrn39oNyWZh05dqBJ2hWghBr6j1oSA+QDyCeevpCmnreyP6QxIEms0hqVclkKaG/CEx2A98gEGOS9YtNvQgfGJR78watDIGE+ohCTl55c1Hmo8ibNwzP9DZbpALh0vOGclTq52eR7rN0lAbxxkdTDM9fgU8yJ1XkIYFuyw==;o1YcT0vvFsauSLmDMAtfoQ=="
 ---

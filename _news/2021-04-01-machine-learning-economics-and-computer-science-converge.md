@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tiny machine learning brings AI to IoT devices"
+    excerpt: "Now, some of that AI is moving into the local device to help minimize bandwidth and latency concerns by employing an efficient form of machine learning (ML) for smaller devices. An example of what can be accomplished by placing AI in edge devices can be ..."
+    publishedDateTime: 2021-04-02T00:00:00Z
+    webUrl: "https://www.edn.com/tiny-machine-learning-brings-ai-to-iot-devices/"
+    type: article
+    provider:
+      name: EDN
+      domain: edn.com
+    quality: 36
 
 secured: "ncTmfKz7ooKj4eAPa1PyK8kUD7PnChARcjLSlDcN+V7PJ+B0s4AVDQXCLp3spxH6Yc3FRLuxDx2fJNqk7ezCarBjPvVr4FDAZvMXXIrfNN0IjaG9toMPzIfNYhlO0gNfpcZbCMX3st93gzsKv1nvRUnFw4TzjwjUH/Igagggq17cLUoo9xzqJrm/rf46pEJ29ss2mJpSaqw8fEUPrv4BxZIH6jUYm+M1OEVj7NnPGTHljcjLYQGEais+18+OFEgwXZxIVp+zmha/mAryDTKW+i9MBsjGdEkK2BR2PaN1OjHQOsxl8nuvkx+NkOQ0uPQsdcK9z23JoO3l5cEanTjA7WIWF0EwT8+oyo9gjY7g6zN8tDz+oSYzAm+d19CuJbAli0Rk/qkCQy85Jyv7lbajyUCx2UTrJi0l5DrwnwdEijPzExEUEMDv7z8oeSVNYr4V/fYNsrQIARgCX+Tp0VCCXB7cKw5OsEBOVv029DE632z6USSAjc0Zat5lbqF9+IeqRlytQTQQv/WwwNTt3shHMg==;XW2Zk9iJXx0bl7u/tTH10A=="
 ---

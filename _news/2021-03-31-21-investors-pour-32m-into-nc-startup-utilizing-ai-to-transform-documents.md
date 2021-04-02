@@ -7,7 +7,7 @@ originalUrl: "https://www.wraltechwire.com/2021/03/31/21-investors-pour-3-2m-int
 webUrl: "https://www.wraltechwire.com/2021/03/31/21-investors-pour-3-2m-into-nc-startup-utilizing-ai-to-transform-documents/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ images:
     width: 772
     height: 434
     isCached: true
+
+related:
+  - title: "This bootstrapped startup aims to make stock market investments AI-driven"
+    excerpt: "Kanika Agarrwal, Atanuu Agarrwal, and his friend Nikhil Hooda believe artificial intelligence (AI) is the new Warren Buffett. This got them to start Upside AI in December 2017. Kanika says ..."
+    publishedDateTime: 2021-04-02T00:15:00Z
+    webUrl: "https://yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven"
+    ampWebUrl: "https://yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/04/bootstrapped-startup-stock-market-investments-ai-driven/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 56
+    images:
+      - url: "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/Imagevbze-1617288222583.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "AI startup Kinta aims to make manufacturing smarter, and it's backed by rising star investor Lachy Groom"
+    excerpt: "Kinta, which runs an AI platform to make manufacturing more efficient, raised $5.5 million from Lachy Groom and Mo Koyfman's Shine Capital."
+    publishedDateTime: 2021-03-31T16:31:00Z
+    webUrl: "https://www.businessinsider.com/manufacturing-ai-startup-kinta-raises-series-a-lachy-groom-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+    images:
+      - url: "https://i.insider.com/606496c46183e10019819822?width=1200&format=jpeg"
+        width: 1200
+        height: 602
+        isCached: true
 
 secured: "M6ihjGyFtjC2809lHADmYBTBl3za1E3WqOBXK0hQMnzK9OX5bDIXWTqkc1eEyGa/ipgBVIG6JUjE9DUYpPZm2SFRoGsFzOmZgH2P8xpejzwlNLsCoTRLCo3MZAzkY30GM63neb/oDZ/Wy0iPBoAIr0TDVR0rVQIaFaUdAZxs97VUoEmsMBLCPx2ctjJ9Pjf3jA59jmODQ1rlOHXRAaa3NcJpTyAWQ86qbxRlEswPCrAsj6aX6RQruyR5OBVjjdT+aNb4ngS70OE+WiLfDTcOJfY91wzYg8RoAyMbEqP/la2anyMBjpxAZOLiIPHKFo9p5cViVUc2cbFJqcsnP2ZapFp8y2NZYR36+Od1zbIyNPlrgmv+hnveLdqsRiQcsa0Y6zgmyhBqcfilshU7qfgc2M7O2dKM0zE0RBVGD1wnzbXny8690NBx/zPnuml+68Ab/ZDz55IpxQg4f4er8Je09soqmOF+ZDP9mN2iQ4TFYjYshv4txH8iBpAQd08e2yhlSblFLkb9AkBfkQ0xf+se/g==;7A3cJ2FT+QLoR91znZmeHA=="
 ---

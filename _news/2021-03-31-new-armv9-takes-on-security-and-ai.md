@@ -59,6 +59,22 @@ related:
         width: 876
         height: 493
         isCached: true
+  - title: "Arm announces Armv9, its first new chip architecture in a decade with big focus on security and AI"
+    excerpt: "Arm’s designs power a large share of devices that are being sold today, including almost all of the smartphones. Sensex, Nifty start FY22 with over 1% gain; RBI MPC, corporate earnings on investors' radar next week EXPLAINED: Why US yields are rising and ..."
+    publishedDateTime: 2021-03-31T09:50:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/arm-announces-armv9-its-first-new-chip-architecture-in-a-decade-with-big-focus-on-security-and-ai/2223957/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 77
+    images:
+      - url: "https://images.financialexpress.com/2021/03/ARM-blog-image.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "Arm announces new chip architecture with focus on security and AI"
     excerpt: "ARMv9 features Confidential Compute Architecture and 'Realms' to shield sensitive data and code from the OS and non-permitted apps"
     publishedDateTime: 2021-03-31T12:58:00Z

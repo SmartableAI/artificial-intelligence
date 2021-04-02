@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "See How Artificial Intelligence is Changing the Future of Storytelling"
+    excerpt: "Heather Maio-Smith, CEO and Co-Founder of StoryFile, joins Cheddar to discuss how artificial intelligence is being used to preserve, record, and interact with stories for generations to come. 5:26 John Deere's CTO on Latest Innovations in AgTech 6:36 ..."
+    publishedDateTime: 2021-04-01T19:49:00Z
+    webUrl: "https://cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling"
+    ampWebUrl: "https://cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/see-how-artificial-intelligence-is-changing-the-future-of-storytelling.amp"
+    type: article
+    provider:
+      name: Cheddar
+      domain: cheddar.com
+    quality: 57
+    images:
+      - url: "https://img.chdrstatic.com/media/dd70dc6d-d3e0-4f5a-a0ef-2c4b198b77ac.jpg?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "9 recent studies that show the potential of AI in healthcare"
     excerpt: "Artificial intelligence's role in healthcare is growing and has the potential to mitigate common difficulties in the industry. The following artificial intelligence articles were published by Becker's"
     publishedDateTime: 2021-04-01T20:27:00Z

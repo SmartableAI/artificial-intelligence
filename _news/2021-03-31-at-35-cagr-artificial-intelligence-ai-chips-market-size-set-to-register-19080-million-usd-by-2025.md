@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/at-35-cagr-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/at-35-cagr-artificial-intelligence-ai-chips-market-size-set-to-register-19080-million-usd-by-2025-2021-03-31"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Natural Language Processing (NLP) in Healthcare Market Size, Share To Expand At 19.2% CAGR Through 2025"
+    excerpt: "Mar 30, 2021 (Market Insight Reports) -- Selbyville, Delaware. The report Natural Language Processing (NLP) in Healthcare Market Size and Analysis maintains enhanced dynamics and is overshadowed by a top player across the globe. The research report ..."
+    publishedDateTime: 2021-03-30T13:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-size-share-to-expand-at-192-cagr-through-2025-2021-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Enterprise Artificial Intelligence (AI) Market Revenue, Demand, Share, Size | Global Industry Analysis and Research Report 2021"
     excerpt: "The global enterprise artificial intelligence (AI) market is forecast to reach USD 29.09 Billion by 2026, according to a new report by Reports and Data. With the advancements in technology, enterprises are taking advantage of intelligent automation,"
     publishedDateTime: 2021-03-29T13:59:00Z
