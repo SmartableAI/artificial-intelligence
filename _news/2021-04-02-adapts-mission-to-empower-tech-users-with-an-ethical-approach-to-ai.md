@@ -6,8 +6,8 @@ publishedDateTime: 2021-04-02T14:52:00Z
 originalUrl: "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation?via=indexdotco"
 webUrl: "https://www.siliconrepublic.com/machines/adapt-research-centre-ai-digital-media-machine-translation?via=indexdotco"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/04/V_WADE_1_of_25.jpg"
@@ -24,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "CRtdVzDQaR/DR2sXt8kvtQ4ua0DH4Af8OSGH04JiiWgNh4CxFV6AsdckbuiZaaufRZi7ltmWC0TVH2A/c+vHbaLOoBGYG+BnhKVLHzxWbVCxyXFDzgl0jW/Hsuu+aV/Dmm58TpvmVa2ObxFVpZjlMFx4xmXjEUeF3orMHN4rlITzDmtZJz/WZAuhk9xD8eugwfFI2hxDNa/4mtf0K0NzQpfdw9eXUtI7NgLCpVfRUdXF8jaVokmnT7Yopmb0yR0TZ7sFy9ZehgEt/0p4bZz9lXokTD2fkcoPb2vzF9GrOFr3EmHFgjGMi/n50vRi+crR23GR9MW3hQaUp+Xki749YuvkAxlKs6KplGsL4ymd8Mo=;twYGNSs5U2ag1zlkAQ0+DA=="
+secured: "aHnkej7XbcIgRyNHKkcd9frHCJF0ZH3k1U+YVT/yMsOm0cOuDAXltPpetrhQ2GeB2d8O10AVt03NYtE4pku37564kMCgQAPq/+VSFstprSG2FO4Q0kJSOPcGA4c0pIbGpkxjUj9pJS4UviM+ipmN7hLiTUsYdhh74aUOM7W6Rwc0swz7SDS32HQEaAd3BEPzpcLt4TdLPY9Bt9FC94E3eB/bUt/TTVoJfoOhTkeGj2QUPzkqjOmfx4bmpsLZDPjmp1EnLhga/goXX6ucD9++weL+dPLVar/f3hbtgLZBphbnIs5fj422UvAQZpRK2B7jgFhliUtPxBk+lldohx6Wro4dwZRQZUrPIzdnuOvFMpTMHeLO75PrMduOPaG8RuqwXBxL7Uq6LK2nFL+hQ0CxOCxSveghxGL5fJ9u9b1P3uDo+bAAZktjoTcIT5K1DDWAqCLq2rekCQRg1kux1UdlKvF4uPWqrrfg0L7tfMiK8uSFw0c66qcFDy1rA3ldgWsmEuwzGfP0thckt1jEFeXNkA==;jwUTzORthpREqRAUQffC4g=="
 ---
 

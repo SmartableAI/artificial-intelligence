@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-31-tomlinson-artificial-intelligence-tools-for-monitoring-employees-come-with-complications.md",
+      "title": "Tomlinson: Artificial intelligence tools for monitoring employees come with complications",
+      "excerpt": "Some companies have seized on new tools built on artificial intelligence to monitor their employees. These nascent productivity-monitoring tools, though, come with high risks, according to Serife Tekin,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/article/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "originalUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/article/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/17/20/32/20776621/5/375x250.jpg",
+          "width": 368,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/amp/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/columnists/tomlinson/amp/Artificial-intelligence-tools-for-monitoring-16047143.php",
+      "publishedDateTime": "2021-03-30T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data.md",
+      "title": "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data",
+      "excerpt": "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
+      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60634716d58e48679eadb421%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
+      "publishedDateTime": "2021-03-30T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-forbes-backed-qai-announces-availability-of-qai-invest.md",
+      "title": "Forbes-Backed Q.ai Announces Availability Of Q.ai Invest",
+      "excerpt": "AI-Powered Investment Platform Offers Customized, Professional Strategies Typically Reserved For High Net-Worth Individuals; A \"Hedge Fund in Your Pocket™.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/",
+      "originalUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60636b7bc151c754b8276463%2F0x0.jpg",
+          "width": 600,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/amp/",
+      "publishedDateTime": "2021-03-30T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-rust-detection-using-machine-learning-on-aws.md",
       "title": "Rust detection using machine learning on AWS",
       "excerpt": "Visual inspection of industrial environments is a common requirement across heavy industries, such as transportation, construction, and shipbuilding, and typically requires qualified experts to perform the inspection. Inspection locations can often be remote or in adverse environments that put humans",
@@ -1076,162 +1222,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-natural-language-processing-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027.md",
-      "title": "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027",
-      "excerpt": "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-30T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-redefining-what-a-map-can-be-with-new-information-and-ai.md",
-      "title": "Redefining what a map can be with new information and AI",
-      "excerpt": "Sixteen years ago, many of us held a printout of directions in one hand and the steering wheel in the other to get around— without information about the traffic along your route or details about when your favorite restaurant was open. Since then, we’ve been pushing the boundaries of what a map can do,",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/",
-      "originalUrl": "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/redefining-what-map-can-be-new-information-and-ai/amp/",
-      "publishedDateTime": "2021-03-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car.md",
-      "title": "This Is The New Lexus LF-Z Electrified AI Operated Driverless Car",
-      "excerpt": "Japanese premium maker Lexus hints to the marque's next-generation AI-operated autonomous and electrified cars with the futuristic LF-Z Electrified car",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/",
-      "originalUrl": "https://www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6062f4ba7874b3bdb91233a9%2F0x0.jpg%3FcropX1%3D118%26cropX2%3D1000%26cropY1%3D38%26cropY2%3D533",
-          "width": 882,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2021/03/30/this-is-the-new-lexus-lf-z-electrified-ai-operated-driverless-car/amp/",
-      "publishedDateTime": "2021-03-30T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

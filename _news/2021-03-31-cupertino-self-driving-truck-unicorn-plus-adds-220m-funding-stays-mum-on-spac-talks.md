@@ -19,22 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving truck developer TuSimple files plan to go public"
-    excerpt: "TuSimple, which is developing self-driving truck technology in Tucson, has filed for a proposed initial public offering of stock with the aim of trading on the Nasdaq Stock Market. But the ..."
-    publishedDateTime: 2021-03-31T21:45:00Z
-    webUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-files-plan-to-go-public/article_e8331fe8-970e-5a18-847b-83781d11b8ca.html"
-    ampWebUrl: "https://tucson.com/business/self-driving-truck-developer-tusimple-files-plan-to-go-public/article_e8331fe8-970e-5a18-847b-83781d11b8ca.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/self-driving-truck-developer-tusimple-files-plan-to-go-public/article_e8331fe8-970e-5a18-847b-83781d11b8ca.amp.html"
+  - title: "Self-driving truck startup Plus raises extra $220 million"
+    excerpt: "U.S. autonomous truck startup Plus said on Wednesday it had raised an extra $220 million from investors in an extension of a $200 million funding round in February, as the global auto industry looks to a driverless future."
+    publishedDateTime: 2021-03-31T12:31:00Z
+    webUrl: "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp"
     type: article
     provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/5/f8/5f83028b-5067-508a-9053-a6e0157dba87/6064eacd13914.image.jpg?resize=1024%2C540"
-        width: 1024
-        height: 540
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "Self-driving truck startup Plus raises extra $220M"
     excerpt: "Plus' rival TuSimple filed for a U.S. IPO earlier this month. Other self-driving companies such as Velodyne, Luminar Technologies and Aeva have also recently filed to go public, banking on a historic boom in U.S. capital markets. Please enter a valid email ..."
     publishedDateTime: 2021-03-31T12:55:00Z
@@ -49,29 +44,20 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Embark Universal Interface Accelerates Integration of Self-Driving Technology Across Major Truck OEM Platforms"
-    excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark’s autonomous technology onto their vehicle platforms."
-    publishedDateTime: 2021-03-31T16:13:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-transportation-technology-automobile-parts-manufacturing-e1ef2c7383bc56f1c6d3ef72e398f008"
+  - title: "Autonomous truck startup Plus raises $200M, explores public listing via SPAC"
+    excerpt: "Autonomous truck startup Plus has raised $220 million in new funding and is reported to be in talks to go public via a merger with a special-purchase acquisition company. Reuters reported Wednesday that the company is in advanced talks with a few SPACs over a deal,"
+    publishedDateTime: 2021-04-02T03:24:00Z
+    webUrl: "https://siliconangle.com/2021/04/01/autonomous-truck-startup-plus-raises-200m-explores-public-listing-via-spac/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/plus.jpg"
+        width: 3000
+        height: 1875
         isCached: true
-  - title: "Triad truck builder teams with tech firm to develop self-driving vehicles"
-    excerpt: "A Triad truck maker is collaborating with a technology company to develop self-driving Class 8 on-highway vehicles."
-    publishedDateTime: 2021-03-30T18:32:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2021/03/30/volvo-trucks-working-to-develop-autonomous-trucks.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 3
 
 secured: "YLw0CdEHx8LQqo692OMgN7hdf0ne7MJ6xc49OTqnD1k2x+78j80RU4a+hVWgbv7YtfDJeBdJmmXWofy5FzhRq/iCmBk2bTIvpUSQNqBMdhPfpeIYns7c1IgpIV8yfDk6C/TZcmcPSd0INpIyPRCM+FgHhZ4GF/x9nAAvBCmwSnXWTbtZynbaL6kSCVA+kEeoz0PCSEdzNp5plysJL6tev1ZTLJr3uri4uTkC6gnBlhBeybg0AiKRhV0Vds9CE6hjS0fCR36hrjfADV97gbDIiHaSK/xReGt000ZE9ZHSAB4DPep/b8+YYVYQM2OO21k0rrjwLKeUJXRdFbwG933nUqJgidlItkSy8s2Z/0MNAX7Kg1fPtZDID6z2vRdl4gTsnR/1jjsuZHXnMlKutmAEOq7Oad75/57Ey3vgzE+CepctM196x7noFnfanBlJjX9QTqCxIumqQl71bduCu+xdXBbpdGeWo9q6Ck7KsZSiOHp+sdPQPudofNVYSSG5uISkzbZunfMZyMycDsGY/YoOkQ==;D3GDz8k4ply0FF5zvxPXpw=="
 ---

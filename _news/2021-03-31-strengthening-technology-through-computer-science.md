@@ -7,7 +7,7 @@ originalUrl: "https://www.studyinternational.com/news/strengthening-technology-t
 webUrl: "https://www.studyinternational.com/news/strengthening-technology-through-computer-science/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Machine learning: Economics and computer science converge"
+    excerpt: "Yale undergraduates interested in both fields can pursue the Computer Science and Economics (CSEC) interdepartmental degree program, which launched in fall 2019, with coursework covering topics such as machine learning and computational finance."
+    publishedDateTime: 2021-03-31T19:52:00Z
+    webUrl: "https://news.yale.edu/2021/03/31/machine-learning-economics-and-computer-science-converge"
+    type: article
+    provider:
+      name: Yale Environment 360
+      domain: yale.edu
+    quality: 39
+    images:
+      - url: "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/thumbnail/preview-phillip-strack-cc.jpg?itok=RNbvWATU"
+        width: 766
+        height: 402
+        isCached: true
 
 secured: "MmkckWsfbj2oeWzjRreAsQYIiU7WfSymSkfoCTW6fcCSqwTBXdv3OEd7mKHT92sk5EDDQe8bUtjRQ4UR29P4EoBgKKxljTycEvefvM5ryTQid+p6HK6OVT3djYATlu9rrx+arvRB3q54DWBASGLL+4YdE7bH9ARvCAeYbt2PtbAl1mSQPf0WfGO1SBgsOzUl6WJME2igHPW+iI804R32IZzymGJ4B7nOa9NqwA4+JURkfppt+hl8+12mwq3u7nHCUMJQMGidkX5aTwEBOUZZ3kWqhWlOhjZrZnxIhYAthV7UD9EB0BKfSxMuhzZbvjURIh6lJOp7PIMl+FMuHxYw2wT2aK+TflF2ni/w5KMpl0omE+6yCJcbCIXJ+8auZFTwic1cJ3vOdjinL0oFD0KiHDxaoLJBmqiv72oi2wt0zRH3KXYg6Io0U41r7rCXNGow5JNn+1TOr+gXkGI59koqFbv36w+LAYmskbvKbYxeR3m/vFc8rMdlo38KtthRGjgroMbQAmVdanagfYGdhsc2IQ==;1l18aS59zL/Vhpc/xMihYw=="
 ---

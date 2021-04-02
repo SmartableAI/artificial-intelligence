@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 540
         isCached: true
-  - title: "Self-driving truck startup Plus raises extra $220M"
-    excerpt: "Plus' rival TuSimple filed for a U.S. IPO earlier this month. Other self-driving companies such as Velodyne, Luminar Technologies and Aeva have also recently filed to go public, banking on a historic boom in U.S. capital markets. Please enter a valid email ..."
-    publishedDateTime: 2021-03-31T12:55:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-truck-startup-plus-raises-extra-220m"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/54plusai-05_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Triad truck builder teams with tech firm to develop self-driving vehicles"
     excerpt: "A Triad truck maker is collaborating with a technology company to develop self-driving Class 8 on-highway vehicles."
     publishedDateTime: 2021-03-30T18:32:00Z
@@ -64,15 +50,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 3
-  - title: "Cupertino self-driving truck unicorn Plus adds $220M funding, stays mum on SPAC talks"
-    excerpt: "Self-driving truck startup Plus isn't talking about a report that it's considering going public in a merger with a \"blank check\" company, but is nonetheless rolling up capital at a rapid clip. The Cupertino unicorn on Wednesday said it has topped off a $200 million late-stage funding announced in February with another $220 million in new capital."
-    publishedDateTime: 2021-03-31T13:19:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/03/31/truck-unicorn-plus-tops-off-recent-funding.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "QIPHLpakhlTaHVDN0J4iOsnWpc04ISVNwuK2dsa7ho2aJSHbDjXKLTjpIbHkkiBDPtRtNKPy80PvflFXiNGFUt8TcpXpUvWkZjuv64/E8bi5MR9HxmjjJAeLhlRCfUCDjqsOE4IPQTLZGeWpJ4jZjzpGbPQeqiAlmymLlS0zRrLZ11t9X01aqadw/TkR2WZvF3MhWv2l1bLdMEPiea4aSttLI965s4i+RQWzx1Fh36PEe83PGOBgEYnWx1IloVBEYHomYCHwKHxJQBpedxlWukwpwST/3SIfRciNMHc8/xxECXtnhWM3crZNf4rlnc08TWrz/x2AFYeelh71Z2b+xbHyH2pOoUXfIN3LNAa4v0U=;vMsIobEAJdwYfQRKmsEMqQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/court-rulings-spur-debate-on-how-euro
 webUrl: "https://www.wsj.com/articles/court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-11617183000"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://files.idw-online.de/corona_idw.png"
         width: 615
         height: 284
+        isCached: true
+  - title: "European privacy advocates urge biometric surveillance prohibition as EC considers AI legislation"
+    excerpt: "To solve these issues, the group of academics asks for the creation of an independent investigation commission composed of scientists, jurists, AI ethics experts, and members of civil society."
+    publishedDateTime: 2021-04-02T17:44:00Z
+    webUrl: "https://www.biometricupdate.com/202104/european-privacy-advocates-urge-biometric-surveillance-prohibition-as-ec-considers-ai-legislation"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 26
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/18143708/biometric-accuracy-facial-recognition-crowd-small.jpg"
+        width: 800
+        height: 449
         isCached: true
 
 secured: "8r2+HYm6J7dKJgiJDBftPsHCAx5fltft3JM3aUUuiguxjDGQ/l77EblYTg0GeqimoVu0OQhFjousrhc0oueagPK9HCxQsqHDAVRv9F2tIOCjBkEyCVAZGbsFl4OY6fzLl/dMQ4/hpby1ovGW/fsMFFGRTXItPX9GhOKCCYd+9hZuba2NroTFlal5vu69suUOm18RjVdXyr46FvP3k8EwtTWneMwLvS8+yusujRVsWngiV+5gf0H3OGLkNWTw7YLhvGlgPItqCWDzABl9+/YFIP3kEwzFhw9kxOr4N7nGFFPfsGJGzAXsB2D8V54qF3ekMfZYg3fPUj+IBdN4fb+spENQ3gg19cSG5wPUYEmzusEEe8Su4tx4B/i8waqSIttAWcbtlHMIM7mfVhvRS9EoSi02104UmAVXXWPbqmyMq6MJQUScgIe/PHVRfS4BzIWWn/NkSgzalSnp6YMwMtpL82rUfrP5LoKrezCRTLI6fBOBcXFku20rtuLsuNKpyoHRjm2EQDMqkLB/Tz+mOd/qBg==;5nzWGRHMx18gRewJ51m/JQ=="

@@ -7,7 +7,7 @@ originalUrl: "https://news.yale.edu/2021/03/31/machine-learning-economics-and-co
 webUrl: "https://news.yale.edu/2021/03/31/machine-learning-economics-and-computer-science-converge"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,45 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Reinforcement learning: The next great AI tech moving from the lab to the real world"
-    excerpt: "Reinforcement learning (RL) is a powerful type of AI technology that can learn strategies to optimally control large, complex systems."
-    publishedDateTime: 2021-03-29T00:20:00Z
-    webUrl: "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/"
-    ampWebUrl: "https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/amp/"
+  - title: "Strengthening technology through computer science"
+    excerpt: "Imagine driverless cars or insulin pumps being hacked ... algorithms, networking and artificial intelligence, while the former fuses a deep understanding of technology with in-demand skills such as communications and project management."
+    publishedDateTime: 2021-03-31T10:47:00Z
+    webUrl: "https://www.studyinternational.com/news/strengthening-technology-through-computer-science/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 82
+      name: Study International
+      domain: studyinternational.com
+    quality: 24
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/ai-4.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://www.studyinternational.com/wp-content/uploads/2021/03/HERO-2-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "Required Reading: Augmented Intelligence Is the New AI"
-    excerpt: "CRM: What exactly is augmented intelligence, and how do businesses acquire it? Hurwitz: Augmented intelligence is a form of artificial intelligence that incorporates a combination of automation of machine intelligence with human insights and context to solve complex problems."
-    publishedDateTime: 2021-03-30T04:13:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=146010"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImages/137321-2021_04_ReqReading-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tiny machine learning brings AI to IoT devices"
-    excerpt: "Now, some of that AI is moving into the local device to help minimize bandwidth and latency concerns by employing an efficient form of machine learning (ML) for smaller devices. An example of what can be accomplished by placing AI in edge devices can be ..."
-    publishedDateTime: 2021-04-02T00:00:00Z
-    webUrl: "https://www.edn.com/tiny-machine-learning-brings-ai-to-iot-devices/"
-    type: article
-    provider:
-      name: EDN
-      domain: edn.com
-    quality: 36
 
 secured: "ncTmfKz7ooKj4eAPa1PyK8kUD7PnChARcjLSlDcN+V7PJ+B0s4AVDQXCLp3spxH6Yc3FRLuxDx2fJNqk7ezCarBjPvVr4FDAZvMXXIrfNN0IjaG9toMPzIfNYhlO0gNfpcZbCMX3st93gzsKv1nvRUnFw4TzjwjUH/Igagggq17cLUoo9xzqJrm/rf46pEJ29ss2mJpSaqw8fEUPrv4BxZIH6jUYm+M1OEVj7NnPGTHljcjLYQGEais+18+OFEgwXZxIVp+zmha/mAryDTKW+i9MBsjGdEkK2BR2PaN1OjHQOsxl8nuvkx+NkOQ0uPQsdcK9z23JoO3l5cEanTjA7WIWF0EwT8+oyo9gjY7g6zN8tDz+oSYzAm+d19CuJbAli0Rk/qkCQy85Jyv7lbajyUCx2UTrJi0l5DrwnwdEijPzExEUEMDv7z8oeSVNYr4V/fYNsrQIARgCX+Tp0VCCXB7cKw5OsEBOVv029DE632z6USSAjc0Zat5lbqF9+IeqRlytQTQQv/WwwNTt3shHMg==;XW2Zk9iJXx0bl7u/tTH10A=="
 ---

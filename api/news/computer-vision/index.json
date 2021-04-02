@@ -1120,6 +1120,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-20-ai-designed-to-distinguish-croissants-from-crullers-and-other-pastries-proves-capable-of-identifying-cancerous-cells-on-microscope-slides-with.md",
+      "title": "AI designed to distinguish croissants from crullers and other pastries proves capable of identifying cancerous cells on microscope slides with 99% accuracy",
+      "excerpt": "The system uses deep learning for object recognition and instead of differentiating baked goods, the doctor hoped the technology could save lives. Identifying cancer cells to determine whether ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9381497/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9381497/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/03/19/17/40688578-0-image-a-23_1616173928996.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9381497/amp/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9381497/amp/AI-designed-distinguish-types-pastries-identifies-cancer-99-accuracy.html",
+      "publishedDateTime": "2021-03-19T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-brian-brackeen-returns-as-an-advisor-to-facial-recognition-startup-kairos-following-his-ouster-as-ceo.md",
       "title": "Brian Brackeen returns as an advisor to facial recognition startup Kairos following his ouster as CEO",
       "excerpt": "Brian Brackeen, the founder and former CEO of facial recognition startup Kairos, has made his way back to the company following his ouster in 2018. Brackeen is now chairing the company’s scientific advisory board,",
@@ -1359,59 +1402,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-how-making-a-funny-face-could-boost-the-security-of-face-unlock-features.md",
-      "title": "How Making a Funny Face Could Boost the Security of Face Unlock Features",
-      "excerpt": "Developed by DJ Lee and Zheng Sun at BY, Concurrent Two-Factor Identity Verification—or C2FIV, for short—could improve facial recognition unlock systems, like Apple's FaceID, by recording specific facial expressions or a user saying a specific phrase.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530",
-      "originalUrl": "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wmgsgpgdo3dnn2vfedxy.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/how-making-a-funny-face-could-boost-the-security-of-fac-1846502530/amp",
-      "publishedDateTime": "2021-03-18T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

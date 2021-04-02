@@ -57,15 +57,20 @@ related:
         width: 800
         height: 560
         isCached: true
-  - title: "Self-driving truck startup Plus raises extra $220 million"
-    excerpt: "Plus’ rival TuSimple filed for a U.S. IPO earlier this month. Other self-driving companies such as Velodyne, Luminar Technologies and Aeva have also recently filed to go public, banking on an historic boom in U.S. capital markets."
-    publishedDateTime: 2021-03-31T15:32:00Z
-    webUrl: "https://www.reuters.com/article/us-plus-autonomous-fundraising-idUSKBN2BN1WQ"
+  - title: "Waymo CEO John Krafcik is leaving the self-driving car company"
+    excerpt: "Krafcik will stay on as an advisor to the firm. Waymo, which was founded in 2009 as the Google Self-Driving Car Project, is working on autonomous-driving technology for future ride-hailing and ..."
+    publishedDateTime: 2021-04-02T17:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/waymo-ceo-john-krafcik-resigns-from-self-driving-startup-2021-4-1030272239"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://images2.markets.businessinsider.com/5ff5df8ad184b30018aad44a?format=jpeg"
+        width: 790
+        height: 510
+        isCached: true
   - title: "Sources: Didi Chuxing may raise $500m for self-driving unit ahead of IPO"
     excerpt: "Didi Autonomous Driving is reportedly looking to rake in up to US$500 million in the potential raise at a valuation of around US$6 billion."
     publishedDateTime: 2021-03-30T04:34:00Z

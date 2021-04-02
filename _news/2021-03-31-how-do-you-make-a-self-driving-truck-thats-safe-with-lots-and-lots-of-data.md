@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why it’s so hard to prove that self-driving technology is safe"
+    excerpt: "So it's very possible that Waymo's self-driving software is significantly safer than a human driver. At the same time, Waymo isn't acting like a company with a multi-year head start on potentially ..."
+    publishedDateTime: 2021-04-02T17:07:00Z
+    webUrl: "https://arstechnica.com/cars/2021/04/why-its-so-hard-to-prove-that-self-driving-technology-is-safe/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/04/GettyImages-1197936703-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "How early deals with Walmart and Loblaw are helping the self-driving truck startup Gatik make millions in revenue"
     excerpt: "Gatik was developing technology for self-driving delivery trucks that would carry goods for businesses between distribution centers and stores, what the logistics industry calls the \"middle mile.\" One of Gatik's investors had connected the company with ..."
     publishedDateTime: 2021-03-31T13:42:00Z

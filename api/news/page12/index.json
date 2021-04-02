@@ -2,6 +2,188 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-03-23-the-risks-and-benefits-of-ai-in-medicine.md",
+      "title": "The Risks And Benefits Of AI In Medicine",
+      "excerpt": "There is no denying that AI is revolutionizing health care. In the past two years, the investment in AI from health care organizations has been growing exponentially. According to research conducted by Deloitte, \"75% of large organizations (annual revenue ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6058fd1369baf2a8c7cd1a1b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/23/the-risks-and-benefits-of-ai-in-medicine/amp/",
+      "publishedDateTime": "2021-03-23T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-boostedai-integrates-esg-data-into-machine-learning-platform-boosted-insights.md",
+      "title": "Boosted.ai Integrates ESG Data into Machine Learning Platform Boosted Insights",
+      "excerpt": "Boosted.ai, the leading distributed machine learning platform for global investment professionals ... asset owners, global banks, and financial technology companies in the world. OWL is dedicated to helping clients make a positive impact by empowering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19712541.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19712541.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-global-artificial-intelligence-in-construction-market-is-projected-to-reach-the-valuation-of-usd-2317-million-by-the-year-2026.md",
+      "title": "Global Artificial Intelligence in Construction Market is projected to reach the valuation of USD 2,317 million by the year 2026",
+      "excerpt": "According to BlueWeave Consulting, the Global Artificial Intelligence in Construction Market is expected to grow at a significant rate during the forecast period. The Global Artificial Intelligence in Construction Market is projected to reach the valuation of USD 2,",
+      "sourceUrl": null,
+      "webUrl": "https://ksusentinel.com/2021/03/24/home-physical-therapy-instrument-market-sales-revenue-consumption-growth-rate-by-top-manufacturers-like-north-america-eu-china-japan-southeast-asia-etc/?random-post=1",
+      "originalUrl": "https://ksusentinel.com/2021/03/24/home-physical-therapy-instrument-market-sales-revenue-consumption-growth-rate-by-top-manufacturers-like-north-america-eu-china-japan-southeast-asia-etc/?random-post=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-23T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "ksusentinel.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-23-nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for.md",
+      "title": "Nvidia GeForce RTX 3070 review: A GPU worth waiting for",
+      "excerpt": "Currently, however, this means fighting with consumers over the scant remaining supplies of cards like the RTX 3070, which are now in incredibly high demand thanks to a number of factors including COVID-related manufacturing delays and a surge in interest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for",
+      "originalUrl": "https://www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1575308947/itpro/Awards/badge-recommended-360.png",
+          "width": 361,
+          "height": 241,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358992/nvidia-geforce-rtx-3070-review-a-gpu-worth-waiting-for?amp",
+      "publishedDateTime": "2021-03-23T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-23-alluxio-advances-analytics-and-ai-with-nvidia-accelerated-computing.md",
       "title": "Alluxio Advances Analytics and AI with NVIDIA Accelerated Computing",
       "excerpt": "This is the case for both analytics pipelines and AI / Machine Learning (ML) pipelines. Benefits from GPU acceleration for an end-to-end pipeline are limited if data access dominates the execution time. GPU-based processing drives higher data access ...",
@@ -998,206 +1180,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-23-william-shatner-taps-ai-to-preserve-himself-for-future-generations.md",
-      "title": "William Shatner Taps AI to Preserve Himself for Future Generations",
-      "excerpt": "StoryFile plans on making Shatner’s video program available to the public this May, enabling you to ask the Star Trek actor questions, and hear pre-recorded answers in response.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/william-shatner-taps-ai-to-preserve-himself-for-future-generations",
-      "originalUrl": "https://www.pcmag.com/news/william-shatner-taps-ai-to-preserve-himself-for-future-generations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/078BoZOC23ojBLGOPmCZVXn-2.1616430770.fit_lim.size_1200x630.jpg",
-          "width": 928,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/william-shatner-taps-ai-to-preserve-himself-for-future-generations?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/william-shatner-taps-ai-to-preserve-himself-for-future-generations?amp=true",
-      "publishedDateTime": "2021-03-22T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-nvidia-could-create-the-worlds-fastest-mining-card-using-its-a100-gpu.md",
-      "title": "Nvidia could create the world's fastest mining card using its A100 GPU",
-      "excerpt": "The rumor claims that the first-ever Ampere GPU, the A100 designed for AI, HPC workloads, and cloud computing, will power a new CMP HX card. The news comes from regular hardware leaker kopite7kimi. They tweeted that the new CMP HX card based on the A100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
-      "originalUrl": "https://www.techspot.com/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/02/2021-02-18-image-18.jpg",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/89000-nvidia-could-create-world-fastest-mining-card-using.html",
-      "publishedDateTime": "2021-03-22T09:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai.md",
-      "title": "Flex Logix has two paths to making a lot of money challenging Nvidia in AI",
-      "excerpt": "Twenty-eight years ago, Tate helped create a chip company called Rambus. Its technology is in every DRAM memory part that ships today. Tate thinks AI can be an even bigger market over time. Tate's personal investment vehicle, the Tate Family Trust ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "originalUrl": "https://www.zdnet.com/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/22/6809777c-9d67-473c-a4d5-fbf5115e4c50/2020-10-linley-fall-1-inferx-x1-chip-final-slide-4.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/flex-logix-has-two-paths-to-making-a-lot-of-money-challenging-nvidia-in-ai/",
-      "publishedDateTime": "2021-03-22T09:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-new-book-robotics-ai-and-humanity-co-edited-by-greg-reichberg.md",
-      "title": "New Book “Robotics, AI, and Humanity” Co-Edited by Greg Reichberg",
-      "excerpt": "PRIO Research Professor Gregory M. Reichberg has co-edited a new volume titled \"Robotics, AI, and Humanity: Science, Ethics, and Policy\". The open-access book \"examines recent advances in how artificial intelligence (AI) and robotics have elicited ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prio.org/News/Item/?x=2690",
-      "originalUrl": "https://www.prio.org/News/Item/?x=2690",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.prio.org/cdn_image/14e76b4ea704480c872484b174430a48.png",
-          "width": 1654,
-          "height": 2245,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "prio.org",
-        "domain": "prio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

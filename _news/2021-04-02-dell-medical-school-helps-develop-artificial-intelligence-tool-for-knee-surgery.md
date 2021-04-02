@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Dell Medical School helps develop artificial intelligence tool for knee surgery"
-excerpt: "If you had osteoarthritis in your knee, how would you know when it's the right time to have knee replacement surgery? Dell Medical School at the University of Texas helped patients at UT Health Austin's Musculoskeletal Institute answer that question by studying a new artificial intelligence tool it helped develop with health solutions company OM1."
+excerpt: "Dell Medical School at the University of Texas helped patients at UT Health Austin's Musculoskeletal Institute answer that question by studying a new artificial intelligence tool it helped develop with health solutions company OM1."
 publishedDateTime: 2021-04-02T12:00:00Z
-originalUrl: "https://www.statesman.com/story/news/healthcare/2021/04/02/dell-medical-school-ut-health-austin-use-computers-help-patients-make-knee-surgery-decision/7045802002/"
-webUrl: "https://www.statesman.com/story/news/healthcare/2021/04/02/dell-medical-school-ut-health-austin-use-computers-help-patients-make-knee-surgery-decision/7045802002/"
-ampWebUrl: "https://amp.statesman.com/amp/7045802002"
-cdnAmpWebUrl: "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/7045802002"
+originalUrl: "https://www.austin360.com/story/news/healthcare/2021/04/02/dell-medical-school-ut-health-austin-use-computers-help-patients-make-knee-surgery-decision/7045802002/"
+webUrl: "https://www.austin360.com/story/news/healthcare/2021/04/02/dell-medical-school-ut-health-austin-use-computers-help-patients-make-knee-surgery-decision/7045802002/"
+ampWebUrl: "https://amp.austin360.com/amp/7045802002"
+cdnAmpWebUrl: "https://amp-austin360-com.cdn.ampproject.org/c/s/amp.austin360.com/amp/7045802002"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Austin American-Statesman
-  domain: statesman.com
+  name: Austin360
+  domain: austin360.com
 
 topics:
   - AI in Healthcare
@@ -58,6 +58,6 @@ related:
         height: 680
         isCached: true
 
-secured: "pcSl+OSdEWnYkfKTgyNmfyhWFWngyvPjEIIYgbLmUmoGj1Tm1wni7RKmRlpUJ+zURcbqcU7OEqr25CdvZFZ+Kf/y/nzUkG8eDRsUPiJsAttV9bmHAMDDiQboLQJHEnY6PMZoneqVbo1yjVtx189oUPxn6YNi2pgskcbsaK5GMSszUZPTqXt0ecny4wwmuZPF+hSbe36LIPglXzm5xGmyevZSI4QT6LnUlNXBuJ3Sx6BDDkJJGtoiE/2dBOQgj6HMK4/ax8PJfsrvXI+yskSdx41WAoWWGL4P44IAn1EbHTyCPx+vL3lJlbSwghtQRV2Kx7fozxv37kr7So1Yic0iEjGfMFzgvfBcUXTOJ1hxoIg=;OXrY0hQiT+2j3Gm83+FjLA=="
+secured: "4ufKF5aUEpuHfxdJLzVvqN/XfUWqAW+ce9QDN8F8O8WylM4K9F6/32bZjVuwVEFHn7uV17+YCThgiWzbd6Xia4T1KWX7sxmB9rJ5Ef7B2rxEudzFrezS2A66K8qF1oYYJe5mR8JIlRJvg4EJAKLqv+9OgiXtKxoNGFojwBnZOn7etVvfKC6TPLOxUak2oBrFt0rv0V6uoE7zJKQvXZPSg/iBbccv6AuG8TSnSskK14CLDQAimIKTsGJxHLKWFOECAynnErOY8EeiUT2O1JlV2jMrsrCmfE881WryuoergV6MOvJ7cPyBsr58ll4DPBFIWAd28jwn/daY//ZfhyU3L+tu8qV1R/0YvtaDUsg/1WQ=;gfP4fde5yJGU2tRM4Y+gVA=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-02-waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant.md",
+      "title": "Waymo Chief John Krafcik Resigns, Co-CEOs Tapped To Run Alphabet’s Self-Driving Tech Giant",
+      "excerpt": "The auto industry veteran who’s run Waymo for over five years is being replaced by two high-ranking company executives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F956116944%2F0x0.jpg",
+          "width": 1200,
+          "height": 846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/amp/",
+      "publishedDateTime": "2021-04-02T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-hyundai-ioniq-5-ev-will-serve-as-motionals-next-self-driving-taxi.md",
       "title": "Hyundai Ioniq 5 EV will serve as Motional's next self-driving taxi",
       "excerpt": "The lovely Ioniq 5 is in for the robotaxi treatment. If Motional has its way, and autonomy plans out as the company sees it, the Hyundai Ioniq 5 will serve as an autonomous taxi. On Tuesday, the startup company announced Hyundai's new EV will serve as the vehicle platform for its next-gen car.",
@@ -106,6 +158,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-31-self-driving-truck-startup-plus-raises-extra-220-million.md",
+      "title": "Self-driving truck startup Plus raises extra $220 million",
+      "excerpt": "U.S. autonomous truck startup Plus said on Wednesday it had raised an extra $220 million from investors in an extension of a $200 million funding round in February, as the global auto industry looks to a driverless future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3",
+      "originalUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp",
+      "publishedDateTime": "2021-03-31T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data.md",
       "title": "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data",
       "excerpt": "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ...",
@@ -114,7 +209,7 @@
       "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1392,92 +1487,6 @@
       "provider": {
         "name": "Daily Tribune",
         "domain": "dailytribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play.md",
-      "title": "Forget Tesla! This 1 TSX Stock Is a Better Driverless Auto Play",
-      "excerpt": "The future is of automotive is more than just clean and green; it's also driverless. And Tesla isn’t the only promising company in this arena.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/",
-      "originalUrl": "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://yw553ftvhw1iqegz29fycoyw-wpengine.netdna-ssl.com/wp-content/uploads/2019/03/Self-Driving-Cars.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/amp/",
-      "cdnAmpWebUrl": "https://www-fool-ca.cdn.ampproject.org/c/s/www.fool.ca/2021/03/19/forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play/amp/",
-      "publishedDateTime": "2021-03-19T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool Canada",
-        "domain": "fool.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-new-peugeot-308-hyundais-space-van-and-self-driving-tesla-crashes-police-car-your-thursday-brief.md",
-      "title": "New Peugeot 308, Hyundai’s Space-Van And Self-Driving Tesla Crashes Police Car: Your Thursday Brief",
-      "excerpt": "Plus: The sad demise of Sabine Schmitz, the GR Supra vs. the Litchfield Yaris, And More Chinese Telco Companies Banned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/",
-      "originalUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/03/BRIEF10-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/new-peugeot-308-hyundais-cool-space-van-and-self-driving-tesla-smashes-into-police-car-your-morning-brief/amp/",
-      "publishedDateTime": "2021-03-18T06:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
         "images": null,
         "publishers": null,
         "authors": null

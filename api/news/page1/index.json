@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-02-pixel-6-will-reportedly-debut-googles-apple-inspired-whitechapel-chip.md",
+      "title": "Pixel 6 will reportedly debut Google’s Apple-inspired Whitechapel chip",
+      "excerpt": "Google’s new Pixel phone is expected to switch to a homegrown processor chip known as Whitechapel, sources claim, as what’s expected to be the Pixel 6 takes a page out of Apple’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/pixel-6-will-reportedly-debut-googles-apple-inspired-whitechapel-chip-02666786/",
+      "originalUrl": "https://www.slashgear.com/pixel-6-will-reportedly-debut-googles-apple-inspired-whitechapel-chip-02666786/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/04/google-pixel-5-21.jpg",
+          "width": 1500,
+          "height": 938,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/pixel-6-will-reportedly-debut-googles-apple-inspired-whitechapel-chip-02666786/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-6-will-reportedly-debut-googles-apple-inspired-whitechapel-chip-02666786/amp/",
+      "publishedDateTime": "2021-04-02T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-02-waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant.md",
+      "title": "Waymo Chief John Krafcik Resigns, Co-CEOs Tapped To Run Alphabet’s Self-Driving Tech Giant",
+      "excerpt": "The auto industry veteran who’s run Waymo for over five years is being replaced by two high-ranking company executives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F956116944%2F0x0.jpg",
+          "width": 1200,
+          "height": 846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/amp/",
+      "publishedDateTime": "2021-04-02T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-02-how-ai-powered-bi-tools-will-redefine-enterprise-decision-making.md",
       "title": "How AI-powered BI tools will redefine enterprise decision-making",
       "excerpt": "A new wave of AI-supported business intelligence tools will turn traditional BI on its head, surfacing important insights faster.",
@@ -779,58 +883,6 @@
       ]
     },
     {
-      "path": "_news/2021-04-01-hbo-spoofs-elon-musk-in-chilling-ai-series-that-premieres-april-fools.md",
-      "title": "HBO Spoofs Elon Musk In Chilling AI Series That Premieres April Fools",
-      "excerpt": "SXSW 2021 offered a lot to AI enthusiasts but the highlight came with the screening of \"Made For Love,\" a sci-fi comedy thriller that spoofs Elon Musk and debuts on HBO April 1. Starring Cristin Milioti,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2021/04/01/hbo-spoofs-elon-musk-in-chilling-series-about-ai-that-premieres-april-fools/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/04/01/hbo-spoofs-elon-musk-in-chilling-series-about-ai-that-premieres-april-fools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6054ca013a6cf54a6b6daf95%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-01T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-04-01-nvidias-fastest-gpu-has-gone-on-sale.md",
       "title": "Nvidia's fastest GPU has gone on sale",
       "excerpt": "The card can ferry large data sets much easily which leads PNY to suggest that the Nvidia RTX A6000 is ideal for working with AI frameworks such as Tensorflow, Caffee2, MXNet, and others. PNY suggests that the Nvidia RTX A6000 has a power-efficient dual ...",
@@ -1165,57 +1217,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-01-artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021.md",
-      "title": "Artificial Intelligence for Edge Devices Global Market Growth, Status and Outlook Research Report 2021",
-      "excerpt": "The report forecast global Artificial Intelligence for Edge Devices market to grow to reach xx Million USD in 2021 with a CAGR of xx% during the period of 2021-2026. Projected and forecast revenue values are in constant U.S. dollars, unadjusted for inflation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T23:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

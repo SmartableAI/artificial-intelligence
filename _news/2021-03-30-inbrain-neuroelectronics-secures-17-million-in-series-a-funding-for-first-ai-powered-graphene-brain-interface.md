@@ -1,18 +1,20 @@
 ---
 category: news
 title: "INBRAIN Neuroelectronics Secures $17 Million in Series A Funding for First AI-Powered Graphene-Brain Interface"
-excerpt: "Funding enables company to advance first-in-human studies for its flagship product, a less-invasive neuromodulation device for treating neurological conditions using artificial intelligence and graphene electrodes INBRAIN Neuroelectronics S."
+excerpt: "Funding enables company to advance first-in-human studies for its flagship product, a less-invasive neuromodulation device for treating neurological conditions using"
 publishedDateTime: 2021-03-30T11:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210330005388/inbrain-neuroelectronics-secures-17-million-in-series-a-funding-for-first-ai-powered-graphene-brain-interface"
-webUrl: "https://www.morningstar.com/news/business-wire/20210330005388/inbrain-neuroelectronics-secures-17-million-in-series-a-funding-for-first-ai-powered-graphene-brain-interface"
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/b20398146/inbrain-neuroelectronics-secures-17-million-in-series-a-funding-for-first-ai-powered-graphene-brai"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/b20398146/inbrain-neuroelectronics-secures-17-million-in-series-a-funding-for-first-ai-powered-graphene-brai"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20398146"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20398146"
 type: article
-quality: 0
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
@@ -34,6 +36,6 @@ related:
         height: 1826
         isCached: true
 
-secured: "l4CbBA7fLVPzHIOzSJxm3esEqPrK43p1hEOwczeSNK3nQq+nGeRS7+ecx04IMarRzFOwd+q4DigsIGL9BGphqGq5LQAaZAJuf7bEVRAfWokPK5ROlnU+9bVywsJ6LXut+zGHvXvAwDU0QKX3ZKNN5OzwhOZZ4pzvlKY3R1guqvg5WRuFklJ6DIgM5+CfKjnFCVRlu0c0UvNP2wYnnnnnGf7eRfG4ssqjaZSbmgX7ykDhqmljfB/QNkrGAMemlJ5TRU3+OGLp/KLj3Uv1lO/v7Oy+nTT5yx9k/BDhUgnbTtOtg9G6Ipjj8AgrcN/Bx4u+6T8RgYC5Aj2h1agkTTfTjJ7GTSVMwrhQJAbPP5FK4wM=;esAtaThKHV4GGthB9j08AA=="
+secured: "TtSREXfwbhE1TBPgFGTfZA9ug0XLO/mzFunYbIWxJdDN+tnIWLZi9UV7UTplxXesuFioQUUWN1CE6agou4Fi33pP9xHKUtfoTSgQ7PXKwZb8oDvtGuKN8TL9UGE25Id+3THr6llyLEjuTrozP+4PryP/aa8aMZAGQFrVGjetK0hWbDYEbh9lgJ56cZOBWOfA95h7a7Z3UuOtDtRKL1x8eYPpOSBrIahbIV+7qHYlhuM4r+VH4FtV0PDFH/DZ45Boejq0putg0seif0jE+k1al50B2WoQFM6FxofkXdIoi4cLmzU9mUyX1a61dHayrVmh1Yoh3Wi5lB5G6pBntEZMTavkSGC6KdsAd//vu64Rj0c=;G7E1VaVuX8y7K0TjHhiFOw=="
 ---
 

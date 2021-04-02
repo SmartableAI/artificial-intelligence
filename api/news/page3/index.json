@@ -2,6 +2,108 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-31-dataikus-new-ai-tools-reduce-dependency-on-data-science-teams.md",
+      "title": "Dataiku’s new AI tools reduce dependency on data science teams",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Dataiku today expanded its effort to make AI accessible to the average business user with an update that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/Dataiku.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/dataikus-new-ai-tools-reduce-dependency-on-data-science-teams/amp/",
+      "publishedDateTime": "2021-03-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-edge-computing-orchestration-startup-zededa-raises-125m.md",
+      "title": "Edge computing orchestration startup Zededa raises $12.5M",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Zededa, an edge virtualization startup, today announced that it raised $12.5 million in an oversubscribed ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/",
+      "originalUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/ZEDEDA_Logo.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/31/edge-computing-orchestration-startup-zededa-raises-12-5m/amp/",
+      "publishedDateTime": "2021-03-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-windfall-nabs-21m-for-ai-that-aids-nonprofit-fundraising.md",
       "title": "Windfall nabs $21M for AI that aids nonprofit fundraising",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Windfall, a startup developing an AI platform to help nonprofits engage donors, today raised $21 million in ...",
@@ -49,6 +151,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-31-self-driving-truck-startup-plus-raises-extra-220-million.md",
+      "title": "Self-driving truck startup Plus raises extra $220 million",
+      "excerpt": "U.S. autonomous truck startup Plus said on Wednesday it had raised an extra $220 million from investors in an extension of a $200 million funding round in February, as the global auto industry looks to a driverless future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3",
+      "originalUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/self-driving-truck-startup-plus-raises-extra-220-million-2021-3?amp",
+      "publishedDateTime": "2021-03-31T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -260,7 +405,7 @@
       "originalUrl": "https://www.wsj.com/articles/court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-11617183000",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1085,152 +1230,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-tomlinson-artificial-intelligence-tools-for-monitoring-employees-come-with-complications.md",
-      "title": "Tomlinson: Artificial intelligence tools for monitoring employees come with complications",
-      "excerpt": "Some companies have seized on new tools built on artificial intelligence to monitor their employees. These nascent productivity-monitoring tools, though, come with high risks, according to Serife Tekin,",
-      "sourceUrl": null,
-      "webUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/article/Artificial-intelligence-tools-for-monitoring-16047143.php",
-      "originalUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/article/Artificial-intelligence-tools-for-monitoring-16047143.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/17/20/32/20776621/5/375x250.jpg",
-          "width": 368,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.houstonchronicle.com/business/columnists/tomlinson/amp/Artificial-intelligence-tools-for-monitoring-16047143.php",
-      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/business/columnists/tomlinson/amp/Artificial-intelligence-tools-for-monitoring-16047143.php",
-      "publishedDateTime": "2021-03-30T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "houstonchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data.md",
-      "title": "How Do You Make A Self-Driving Truck That’s Safe? With Lots And Lots Of Data",
-      "excerpt": "But Shawn Kerrigan has been thinking about it for years. In 2016, Kerrigan and three cofounders launched the self-driving truck company Plus to optimize the immense role that semitrucks play in this journey—and to make trucking safer. After years of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
-      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60634716d58e48679eadb421%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/03/30/how-do-you-make-a-self-driving-truck-thats-safe-with-lots-and-lots-of-data/amp/",
-      "publishedDateTime": "2021-03-30T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-forbes-backed-qai-announces-availability-of-qai-invest.md",
-      "title": "Forbes-Backed Q.ai Announces Availability Of Q.ai Invest",
-      "excerpt": "AI-Powered Investment Platform Offers Customized, Professional Strategies Typically Reserved For High Net-Worth Individuals; A \"Hedge Fund in Your Pocket™.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/",
-      "originalUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60636b7bc151c754b8276463%2F0x0.jpg",
-          "width": 600,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbespr/2021/03/30/forbes-backed-qai-announces-availability-of-qai-invest/amp/",
-      "publishedDateTime": "2021-03-30T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
