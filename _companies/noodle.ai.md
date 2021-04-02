@@ -34,7 +34,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1325914056104964096/7-NwPyR0_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1378053584089059328/mc0XCPB7_400x400.jpg"
     width: 400
     height: 400
     isCached: true
