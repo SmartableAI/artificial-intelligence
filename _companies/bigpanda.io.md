@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bigpanda"
   url: "https://twitter.com/bigpanda"
-  followers: 3062
+  followers: 3063
 
 size: 51-200 employees
 yearFounded: 2012
@@ -31,7 +31,7 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1377624707076390913/I3TFiw1h_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1378002190313267207/Z4sijsEM_400x400.jpg"
     width: 400
     height: 400
     isCached: true
