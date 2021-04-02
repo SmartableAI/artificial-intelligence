@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Service Robotics Market Top Companies Data 2021, Latest Industry Share, Demand and Revenue Growth Opportunities"
-    excerpt: "The global “Service Robotics Market Share” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-03-28T16:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 30, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
-    publishedDateTime: 2021-03-30T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
     publishedDateTime: 2021-03-30T10:32:00Z
@@ -67,29 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Top Companies Data 2021, Latest Industry Share, Demand and Revenue Growth Opportunities"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
-    publishedDateTime: 2021-03-28T15:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28"
+  - title: "Impact Of COVID-19 On Natural Language Processing (NLP) Market 2021 Industry Challenges Business Overview And Forecast Research Study 2027"
+    excerpt: "Apr 01, 2021 (Market Insight Reports) -- (India, Maharashtra, Pune) Report Covers the Detailed Pre and Post COVID-19 Impact Analysis on Natural Language Processing (NLP) Market The research team projects that the Natural Language Processing (NLP ..."
+    publishedDateTime: 2021-04-01T11:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impact-of-covid-19-on-natural-language-processing-nlp-market-2021-industry-challenges-business-overview-and-forecast-research-study-2027-2021-04-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
-    excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
-    publishedDateTime: 2021-03-31T17:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -109,30 +67,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Smart Robots Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
-    excerpt: "The global smart robot market size was valued at US 3 44 billion in 2017 It is expected to grow at a CAGR of 22 over the forecast period Smart robots are artificial intelligence AI supported systems You can learn"
-    publishedDateTime: 2021-03-31T10:58:00Z
-    webUrl: "https://www.openpr.com/news/2264137/smart-robots-market-share-2021-global-trends-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2264137/smart-robots-market-share-2021-global-trends-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2264137/smart-robots-market-share-2021-global-trends-key-players"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 28
-  - title: "Automotive Voice Recognition Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
-    excerpt: "Apr 01, 2021 (The Expresswire) -- According to 360 Research Reports, the “Automotive Voice Recognition Market\" 2021 by Types (Single language recognition, Multilingual Recognition), Application (Passenger Vehicle, Commercial Vehicle) and Region - Global ..."
-    publishedDateTime: 2021-04-01T08:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-01"
+  - title: "Global Self-Driving Car Market 2020 Research Study with Trends and Opportunities to 2025 - Impact of COVID-19"
+    excerpt: "MarketsandResearch.biz proclaims the addition of a new report titled Global Self-Driving Car Market Growth 2020-2025 offers broad insights extracted by thoroughly analyzing historical and current developments in the market."
+    publishedDateTime: 2021-03-29T21:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-market-2020-research-study-with-trends-and-opportunities-to-2025---impact-of-covid-19-2021-03-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facial Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "\"Top Players in Facial Recognition Market are Gemalto, Anyvision, Synectics plc, Amazon web services, Cognitec Systems, IBM, Aware, IDEMIA, Ayonix Face Technologies, and Herta Security \" The ..."
+    publishedDateTime: 2021-03-29T02:59:00Z
+    webUrl: "https://menafn.com/1101823838/Facial-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 4:53 PM Top Players in Cognitive Computing Market are Alphabet, Inc. (Google LCC), Microsoft Corporation,"

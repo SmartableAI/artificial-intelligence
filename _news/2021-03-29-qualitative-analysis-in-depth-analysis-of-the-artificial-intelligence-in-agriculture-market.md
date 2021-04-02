@@ -104,6 +104,20 @@ related:
         width: 800
         height: 485
         isCached: true
+  - title: "Global Artificial Intelligence Platforms Market Outlook, Industry Analysis and Prospect 2021"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 02, 2021 (Heraldkeepers) -- Global Artificial Intelligence Platforms Market Report 2020 comes with the extensive industry analysis of development components, patterns ..."
+    publishedDateTime: 2021-04-02T07:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "BNP Paribas to provide investors with sustainability analytics from Clarity AI"
     excerpt: "BNP Paribas Securities Services and its platform Manaos announce a partnership with Clarity AI, a leading sustainability data science and technology company. Starting today, Manaos users have access to Clarity AI’s vast universe of sustainability data and insights."
     publishedDateTime: 2021-03-29T09:58:00Z

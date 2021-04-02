@@ -93,6 +93,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "AI in Social Media Market Expected to Reach Highest CAGR by 2025: Google, Facebook, Microsoft, AWS, IBM etc."
+    excerpt: "“The recent report on global AI in Social Media market offers highlights as for the ... It also gives statistical overview of the industry share over the past years. Orbis Research (orbisresearch.com) is a single point aid for all your Market research ..."
+    publishedDateTime: 2021-04-02T09:31:00Z
+    webUrl: "https://industribune.net/uncategorised/5689/ai-in-social-media-market-expected-to-reach-highest-cagr-by-2025-google-facebook-microsoft-aws-ibm-etc/"
+    type: article
+    provider:
+      name: Indus Tribune
+      domain: industribune.net
+    quality: 34
 
 secured: "0H7bkKM3a8olcUPxF4GDW5qfZR+I3ICGQHTv5R3pQcwYgEt7lUDjQJxFEG+qc9FLSVrFakSMHoEH49O2ihHctNymPZGgXa5ubFTqXerjUyojZyJCMWjs94FJl6t503s1AE7qaYOy9CLSIoZHJwO6b1JoSnumuFwCUU6xdOmQHvEOd/KMsQ9iJ2Ajonk3Qq9fMOzjuKDbN548hmAIgmF+F7jDjW/o4PWgaidQc/7FaTZDI9MrKBU7gMC+w54CYsZLo5z5wakXbsZWRfdVtSWR6kXABiLK7ZWovpo1ucaSqjRqczFHWMm/TcyHupsEFYuWHglML+4l+6xcfBeKoAOkTtqTucAxP1uzsMVJJQ+FaBw=;Oig3GQyBQo1xaUhgWYTlxw=="
 ---

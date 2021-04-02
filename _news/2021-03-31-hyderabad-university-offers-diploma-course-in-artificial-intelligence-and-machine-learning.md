@@ -60,22 +60,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "University of Hyderabad launches diploma in AI"
-    excerpt: "The University of Hyderabad (UoH), in association with AAIC Technologies, has launched an online Diploma in Artificial Intelligence and Machine Learning through the Centre for Distance and Virtual Learning (CDVL)."
-    publishedDateTime: 2021-03-28T16:32:00Z
-    webUrl: "https://bloncampus.thehindubusinessline.com/engineering/university-of-hyderabad-launches-diploma-in-ai/article34184742.ece"
-    ampWebUrl: "https://bloncampus.thehindubusinessline.com/engineering/university-of-hyderabad-launches-diploma-in-ai/article34184742.ece/amp/"
-    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/engineering/university-of-hyderabad-launches-diploma-in-ai/article34184742.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 57
-    images:
-      - url: "https://bloncampus.thehindubusinessline.com/engineering/article34184741.ece/ALTERNATES/LANDSCAPE_615/blocUniversity-of-Hyderabad"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "7dFNnmEwrU9p59YFX3SILWkKTu8tgfIW6Y9IJIoUk/3QFS5Ib5tZtXRJWScVJtIugSyZmmnOcRn+WspjIAQjTOoJkLketdJJw/Adyz8+prbyEMo4MB5X8AslOkySLg9OPKd2m5GPqBXLZNAURO4wRIB3D5LKUO0xuFPEgWmN/zkMhqqCtyV0p3HijLMD815bPHrvxb67j86zGOgjt3BDHpcCTrh76Y7fm4x+VkAO399d6pRvk1guzhoWAswTa9G6nqn88TN+bVKbCCOyw1vL88cB6Ppc0AuTF//BYL5bYrotGtGBKdMlG4f4j9KkdlRC8+zEG3qsnV2Frmk/PcTxFcNkg/NsC2sHXuABOT33C4M=;KxiKsgIBGYIT2FBZ33yEcw=="
 ---

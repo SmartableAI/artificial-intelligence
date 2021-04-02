@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-analytics-machine-lear
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
 type: article
 quality: 121
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/Screen-Shot-2020-09-11-at-3.13.09-PM.png?w=800&resize=800%2C485&strip=all"
         width: 800
         height: 485
+        isCached: true
+  - title: "Global Artificial Intelligence Platforms Market Outlook, Industry Analysis and Prospect 2021"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Apr 02, 2021 (Heraldkeepers) -- Global Artificial Intelligence Platforms Market Report 2020 comes with the extensive industry analysis of development components, patterns ..."
+    publishedDateTime: 2021-04-02T07:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platforms-market-outlook-industry-analysis-and-prospect-2021-2021-04-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Qualitative Analysis: In-depth Analysis of the Artificial Intelligence in Agriculture Market"
     excerpt: "A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed 6000 million by 2027 growing at a CAGR of 25 50 from 2020 to 2027 The report includes"

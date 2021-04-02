@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Xpeng says its self-driving tech outperforms Tesla’s"
+    excerpt: "With help from Alibaba's map technology, Xpeng says it now has the most advanced driver-assist function for Chinese customers."
+    publishedDateTime: 2021-04-02T07:52:00Z
+    webUrl: "https://technode.com/2021/04/02/xpeng-says-its-self-driving-tech-outperforms-teslas/"
+    ampWebUrl: "https://technode.com/2021/04/02/xpeng-says-its-self-driving-tech-outperforms-teslas/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/04/02/xpeng-says-its-self-driving-tech-outperforms-teslas/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/07/微信图片_20200720151058.jpg?fit=1620%2C1080&ssl=1"
+        width: 1620
+        height: 1080
+        isCached: true
   - title: "Underage Teen Gets In Tesla’s Back Seat And Claims It Was Self-Driving After Being Pulled Over By Police"
     excerpt: "Tesla’s Autopilot is a very capable system, but in its current state it cannot, and should not, be replacing human drivers. That holds especially true in the case of this incident, where said drivers were not of legal age to obtain a license,"
     publishedDateTime: 2021-03-29T22:58:00Z

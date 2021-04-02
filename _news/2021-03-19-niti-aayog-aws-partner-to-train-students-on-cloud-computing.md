@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Niti Aayog, AWS partner to train students on cloud computing"
-excerpt: "A statement of intent (SoI) was signed between Niti Aayog and Amazon Internet Services Private Limited (AISPL), which undertakes the resale and marketing of AWS Cloud services in India, to roll out the project."
-publishedDateTime: 2021-03-19T03:09:00Z
-originalUrl: "https://www.hindustantimes.com/education/news/niti-aayog-aws-partner-to-train-students-on-cloud-computing-101616123237391.html"
-webUrl: "https://www.hindustantimes.com/education/news/niti-aayog-aws-partner-to-train-students-on-cloud-computing-101616123237391.html"
-ampWebUrl: "https://www.hindustantimes.com/education/news/niti-aayog-aws-partner-to-train-students-on-cloud-computing-101616123237391-amp.html"
-cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/news/niti-aayog-aws-partner-to-train-students-on-cloud-computing-101616123237391-amp.html"
+excerpt: "IT major Amazon Web Services (AWS) and Niti Aayog has announced a tie-up to train students on the fundamentals of cloud computing through Atal Tinkering Labs. A statement of intent (SoI) was signed between Niti Aayog and Amazon Internet Services Private Limited (AISPL),"
+publishedDateTime: 2021-03-19T10:42:00Z
+originalUrl: "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=289383"
+webUrl: "https://www.sakshieducation.com/StoryA.aspx?cid=0&sid=0&chid=0&tid=0&nid=289383"
 type: article
 
 provider:
-  name: Hindustan Times
-  domain: hindustantimes.com
+  name: Sakshi Education
+  domain: sakshieducation.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://images.hindustantimes.com/img/2021/03/19/1600x900/planning-pradeep-commission-replacement-delhi-india-aayog_af14ec7a-496c-11eb-b097-bed98ba4ca79_1616123340456.jpg"
-    width: 1600
-    height: 898
+  - url: "https://www.sakshieducation.com/images/logo.png"
+    width: 510
+    height: 300
     isCached: true
 
-secured: "nVpzp0LmUnX8dhiNDJ2ysjhfRkemwVOI7Am97bFUJ7fJfYgKr9cB9/pREpW7Fl0iZaZdjQuFkVrrCvrefyOIkFI1O+Crr+Fhs7ksB4MpT3/4FIV2pui386pqGC6wBsnCJwCAKFjrF3XqlONab+koHianjKMX4dJSKK6ZPT3/fLRGDTb/wulf99zlWcUE90FUPh7aZs7GDlyjf1Pn8A50LhXaFYL4EZRugtmgep+RZ0/wzMBSifPRldd24iZ9beXmVTaj4KsPQWEaWuK5l4Z3f/dwH9tecSWxSlFKL6qKCk4z/L9hyCdCJw4FOb40FkpkkfIovvLNqNJ4YfTLT0TnJ/Arlis4cVDp5k1IQXHuQJc=;PKyUb2Hpf19jrdy/4MATAw=="
+secured: "jyd42qyY+ZFfmm+WVl9/UAPJe8FyydKM+dKuYEgAIDz8F7D4MNkhtKPdBCvC0wbCYAhIZVe5ulCigR5Fc9oJuIcZE120Wwr70KyrQ1fnlZpW1t11I8yySNqaFGreHfuvtR7ZTWtXgWeV7TlIs8AgmrVEKla0DrHGLajau+RmITZHxZ4Wti8B8yU1WBY2EDfwZ/BvmOAemRf8PqRoSQk1/7dNEWZb86ek4i5k3q/GiqGI6FnwFTeEE05cpk9xIvWfP5eULWElBJoqzbh+MGbnplNrSj54ziMgfwLNqhxcVnikyJxLmhtTN++DDw/9JGIJ2D/5VZm2ZacarMaQQiPU6Wg3WIbDi/9x8X4YbxPxKUw=;NvIK7htq9mrJyX7Xq9kD8A=="
 ---
 
