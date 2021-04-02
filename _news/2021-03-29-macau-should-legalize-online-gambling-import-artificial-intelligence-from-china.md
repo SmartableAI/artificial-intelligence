@@ -23,22 +23,6 @@ images:
     height: 546
     isCached: true
 
-related:
-  - title: "Macau should legalize online gaming and import AI tech talents from Mainland China – Expert"
-    excerpt: "Tourism and gambling expert Zeng Zhonglu that Macau should consider legalizing ‘online’ gambling and invest in importing skilled workers from"
-    publishedDateTime: 2021-03-29T03:32:00Z
-    webUrl: "https://www.macaubusiness.com/macau-should-legalize-online-gaming-and-import-ai-tech-talents-from-mainland-china-expert/"
-    type: article
-    provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 27
-    images:
-      - url: "https://macaubusiness.s3.ap-southeast-1.amazonaws.com/2021/03/Artificial_Intelligence__AI__Machine_Learning.jpeg"
-        width: 2000
-        height: 1600
-        isCached: true
-
 secured: "iSbk1GY9VHUcyDIcH8zdO8WKZ40FFdnUfEfEr2R3172qlBVlaQWystZ1/jcWzbpQVGV0o6j3S0DvR3F8fML8cw4oRg71PfVbQXAC2EW+bIov6agJ9fFeswM3e/7b9btYf+HVTgrhrysak2cmIuz+ChMMNUN31RZHmgLUVN5Mvwls942OtkPqmO+aWQ61dqMN6jq9ddgpm7fp/6ekoNtCmypw97zxdRu4rv+p91X0tWOaZcSDg3Xw+1EfAQd/TJU3OiuBg56X1gNNlhpxrTdkdpdCTmM9FWQXjphe+rx1i+ipJlMJqmz3bHtA+SJNcqkvp6P2CEKV+yjltW1oNimRoQ/zm58fthKXo36iVISIljL3AX31MNl7dEOGED6dn73/A9Z/okV4yfdoHYSj9l6bEzVrss6yTyXh3zJOEMrCREjg4a7Sd6MLIruJzHHI6FoFuN+rvlvBEOyG4Q0hzCVAgJbmiw51rjO7X8U/Zk1b3ZZVFbAcSMLnn85J+GkyujQFbDZ0TPflDLqOqbAEx9LyEQ==;ll6n252nM2ccbOS4X7pllA=="
 ---
 

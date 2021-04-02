@@ -114,7 +114,7 @@
       "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1274,6 +1274,74 @@
       ]
     },
     {
+      "path": "_news/2021-03-19-natural-language-processing-nlp-market-2021-global-industry-analysis-report-to-2027.md",
+      "title": "Natural Language Processing (NLP) Market 2021: Global Industry Analysis Report to 2027",
+      "excerpt": "Natural Language Processing (NLP) is an artificial intelligence computer application capable of understanding human language. This computer technology allows computers to analyze and interpret ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "originalUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "publishedDateTime": "2021-03-19T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-how-natural-language-processing-makes-our-lives-easier-and-improves-your-business.md",
+      "title": "How Natural Language Processing Makes Our Lives Easier and Improves Your Business",
+      "excerpt": "Although some calls are indeed used for training purposes, more often they are used to improve natural language processing algorithms. We have all heard the sentence “This call may be recorded for quality and training purposes” when you call the call ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/",
+      "originalUrl": "https://www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/amp/",
+      "publishedDateTime": "2021-03-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-how-conversational-ai-can-help-efficiently-disseminate-covid-19-vaccines.md",
       "title": "How Conversational AI can help efficiently disseminate Covid-19 vaccines",
       "excerpt": "From providing relevant information from authorised resources to post-vaccination care, AI and natural language processing chatbots can help iron out the creases in the vaccine dissemination process a",
@@ -1303,101 +1371,6 @@
       "provider": {
         "name": "Forbes India",
         "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-deephow-bridges-skills-gap-in-manufacturing-and-field-service-with-ai-powered-video-training-solution.md",
-      "title": "DeepHow Bridges Skills Gap in Manufacturing and Field Service with AI-Powered Video Training Solution",
-      "excerpt": "DeepHow, the AI company that turns know-how into smart, how-to training videos, has officially launched its AI-powered training platform for manufacturers and field-service teams. After extensive pilots and deployment with several Fortune 100 companies,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deephow-bridges-skills-gap-in-manufacturing-and-field-service-with-ai-powered-video-training-solution-1030222957",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deephow-bridges-skills-gap-in-manufacturing-and-field-service-with-ai-powered-video-training-solution-1030222957",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1458801/DeepHow_Platform_BG_1__1.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-17-use-of-speech-recognition-is-growing-what-does-that-mean-for-commercial-projects.md",
-      "title": "Use of speech recognition is growing – what does that mean for commercial projects?",
-      "excerpt": "Those numbers are noteworthy because like smartphone virtual assistants such as Siri, smart speakers are steadily conditioning more and more people to use their voice to interact with things. Those experiences at home influence their expectations about what’s possible and preferable in the workplace,",
-      "sourceUrl": null,
-      "webUrl": "https://www.inavateonthenet.net/case-studies/article/use-of-speech-recognition-is-growing--what-does-that-mean-for-commercial-projects",
-      "originalUrl": "https://www.inavateonthenet.net/case-studies/article/use-of-speech-recognition-is-growing--what-does-that-mean-for-commercial-projects",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1615995009/widgetdocs/BAIVECTOR_Shutterstock_fukhvy.jpg",
-          "width": 750,
-          "height": 402,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-17T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InAVate",
-        "domain": "inavateonthenet.net",
         "images": null,
         "publishers": null,
         "authors": null

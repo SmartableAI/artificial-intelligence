@@ -57,15 +57,6 @@ related:
         width: 437
         height: 250
         isCached: true
-  - title: "Artificial intelligence to help pinpoint COVID diseases"
-    excerpt: "Australian data scientists will use artificial intelligence to identify which COVID patients will likely experience longer-term conditions such as kidney damage. University of Queensland data scientist and lecturer Sally Shrapnel said ongoing kidney damage ..."
-    publishedDateTime: 2021-03-28T13:30:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/artificial-intelligence-to-help-pinpoint-covid-diseases/news-story/81ca82024ef0af3791f4c1baebe56958"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
   - title: "Will Voice Recognition Market carry its growth momentum post COVID-19? Read more to know."
     excerpt: "The Voice Recognition Market is likely to witness a CAGR of 17.5% during the forecast period, according to a report from Stratview Research. COVID-19 pandemic – Boon or a Curse to the industry? The outbreak of COVID-19 has severely impacted several ..."
     publishedDateTime: 2021-04-01T12:08:00Z

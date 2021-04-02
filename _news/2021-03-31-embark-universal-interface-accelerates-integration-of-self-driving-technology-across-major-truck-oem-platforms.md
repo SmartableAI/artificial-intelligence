@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Embark Universal Interface Accelerates Integration of Self-Driving Technology Across Major Truck OEM Platforms"
-excerpt: "\"We absolutely believe that integrating with OEMs is the path to market for self-driving trucks,\" said Alex Rodrigues, co-founder and chief executive officer of Embark. \"We also believe that being ..."
-publishedDateTime: 2021-03-31T16:15:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/embark-universal-interface-accelerates-integration-of-self-driving-technology-across-major-truck-oem-platforms-1030265105"
-webUrl: "https://markets.businessinsider.com/news/stocks/embark-universal-interface-accelerates-integration-of-self-driving-technology-across-major-truck-oem-platforms-1030265105"
+excerpt: "Embark, a leading developer of autonomous technology for the trucking industry, today launches the Embark Universal Interface (EUI), a set of standardized self-driving components and the flexible interfaces necessary for major truck OEMs to more easily and robustly integrate Embark’s autonomous technology onto their vehicle platforms."
+publishedDateTime: 2021-03-31T16:13:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-transportation-technology-automobile-parts-manufacturing-e1ef2c7383bc56f1c6d3ef72e398f008"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-driverless-cars-transportation-technology-automobile-parts-manufacturing-e1ef2c7383bc56f1c6d3ef72e398f008"
 type: article
-quality: 34
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1478284/Embark_Universal_Interface.jpg"
-    width: 400
-    height: 267
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -78,6 +74,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "wyHjmCtaERGNZuTH4dSQx+pjmzbuD16TC6EHp2N0BvgPWgDpBwUF+pIiOj2dtC0BxlFm0qbC3SsuT5yuNQ8SYkBztjuzGzhP3yGemwpphd9ipixRDL2hWcNZRfRB0kpHKyL4P01nn6TvNLq2ENY8VaBonmHTUvAUZflbOEMs3PvVVY1IQpS09fc2yRiqNHhigm5LrPGbgk8HMaowSYKLO7kTiP3dIE7n8RPMN0XnYpxsp2ixgv9yDdH47JNUNQzgJHP0UIUAaiqhkko7hy7iuKd4aEhsgLEqoT6cKQNTMboH6ecx0W6l2Ebk30GA/S7q3sdJavlyLRLrW+wfZoDEHCM2j/Bwl1mUCTbpvN+uvTowzBnX56lvs5rlQYt4Mc8if0pGebva/dy3F4LlWowFWRNpIontWHGBVOOAyEajoCyl5MUjrJadn2kBdlDEAqubxOFKwOWohN/DfEpErrst+qNQd6AYcECZVBL5zld70MnOUwb3xqGmOE1Gy2WUoHPFCQrDipEDDN95sK3zAeVuVQ==;q9cysFfLuSvk07Rdt3uI7A=="
+secured: "QIPHLpakhlTaHVDN0J4iOsnWpc04ISVNwuK2dsa7ho2aJSHbDjXKLTjpIbHkkiBDPtRtNKPy80PvflFXiNGFUt8TcpXpUvWkZjuv64/E8bi5MR9HxmjjJAeLhlRCfUCDjqsOE4IPQTLZGeWpJ4jZjzpGbPQeqiAlmymLlS0zRrLZ11t9X01aqadw/TkR2WZvF3MhWv2l1bLdMEPiea4aSttLI965s4i+RQWzx1Fh36PEe83PGOBgEYnWx1IloVBEYHomYCHwKHxJQBpedxlWukwpwST/3SIfRciNMHc8/xxECXtnhWM3crZNf4rlnc08TWrz/x2AFYeelh71Z2b+xbHyH2pOoUXfIN3LNAa4v0U=;vMsIobEAJdwYfQRKmsEMqQ=="
 ---
 

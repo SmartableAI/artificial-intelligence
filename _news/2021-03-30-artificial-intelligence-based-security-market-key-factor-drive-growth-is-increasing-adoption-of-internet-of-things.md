@@ -33,6 +33,20 @@ related:
         width: 512
         height: 384
         isCached: true
+  - title: "Emotion Detection and Recognition Market worth $37.1 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a new market research report \"Emotion Detection and Recognition Market by Component (Solutions [Facial Expression"
+    publishedDateTime: 2021-03-29T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/emotion-detection-and-recognition-market-worth-37-1-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--887031554.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
+        isCached: true
 
 secured: "tcpBL/X1GXGi/jRY8L2KNav5zmDY4PQzlj7+gmMsn8ExRHjit6pEIw2VjIhrU37/YUrC04sRv5wftlQcwxx7notzoQd+ZyvYOaYF4lJbubrgJuDb8+f/YijrJHWA90/PAfTVHV75+OLbJfEHEhLlmcLHZPjBpHS6vxh/U101j76TYIc4nTKGcSHgjGvZdepDaKjQNo77VY5ZiL6rFR8cZGEXU6q5Cd75iU14knS440z4h5eSxkLWcXSycJnDoNEsixa21IJNBiLp8p+HNhJkqas/5Yyd43wHQNFXwKjMerALUqL4/GogjKw5QasG/y4tSrlDD9vXhEdtT0ZD8TRjC3yvzFETWagoONT5UgS7nRI=;GRNDjwMgZNUJaeTYR8FPkg=="
 ---

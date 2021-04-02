@@ -122,15 +122,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Packing machine has an AI twist"
-    excerpt: "A robotic fruit packing machine that uses artificial intelligence could be adapted to harvesting in rural and regional Australia. The machine uses computer vision to identify a fruit variety and its size,"
-    publishedDateTime: 2021-03-28T13:15:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/packing-machine-has-an-ai-twist/news-story/f81d82030bd9a3fd6651e9d5369411ee"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 17
 
 secured: "NTR+WHQfH6QM/XNYU/NHzLfUcAHxDfWRFwtMUCryOgMoi3wHRKS/iTuZqxyLvt4mL1+zSbiMjlR3ZSgnjcYz5f5K/x0bbilmVmOPRDX0h3kMNFUzccnsjrMl/0JChlbncPzVDIGJbNsGvW90/JEdUzMxxhKXVvbABpTZK0Yl8aB2g/vtd/xC73Z+GEsHPoTYdzwAeyYXiCf2gFfYdOfXdQ7cYHOFAzXxtEM+8j8CgWmdRBYe3+LWPtOC1d+Ptq2PHBqFMiTE/nnXkIBsdsGynY+jXawGRMczyeMjJO2Yzw2zo7qTWGEKC3o8gYnN8POcl5zc2SSFxGuTSI+icev93cxTbF3SfRVYYCpa/1m28+AFB3HLMRBnElNX4TkmwflsXGRzDzL1//a6nMsdnvpiym07pTfldwrJ+Kuqydnlvv086zcLqMVPCF9Dr8T/J4ZIr7CAc71UWFBwul9xPsGUOmcLYMV0JwoIaML0TMwtWAICbyurD5voO9tOaKBhUO0DwNtXVA+o9ZiG7LB49Fiuww==;0/t4J08TV6HRLnJi0i841Q=="
 ---

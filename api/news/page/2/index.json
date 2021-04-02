@@ -2,6 +2,151 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-01-ai-set-to-reshape-workplace-as-physical-offices-open-up.md",
+      "title": "AI Set to Reshape Workplace as Physical Offices Open Up",
+      "excerpt": "At right, Adam Stanley, chief information officer and chief digital officer of Cushman & Wakefield, talks with the WSJ's Steven Rosenbush at the virtual WSJ Pro AI Executive Forum. Encouraged by the rapid pace of Covid-19 vaccinations, employers planning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "originalUrl": "https://www.wsj.com/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318945/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-set-to-reshape-workplace-as-physical-offices-open-up-11617224774",
+      "publishedDateTime": "2021-03-31T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-supply-chain-strains-sharpen-focus-on-ai.md",
+      "title": "Supply Chain Strains Sharpen Focus on AI",
+      "excerpt": "The use of AI and its various subsets, such as machine learning, is enabling companies to forecast demand with increasing accuracy and to optimize their supply chains, executives say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "originalUrl": "https://www.wsj.com/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-318920/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/supply-chain-strains-sharpen-focus-on-ai-11617221551",
+      "publishedDateTime": "2021-03-31T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-04-01-jdcom-sells-off-cloud-ai-units-to-its-fintech-arm.md",
+      "title": "JD.com Sells Off Cloud, AI Units To Its FinTech Arm",
+      "excerpt": "Chinese eCommerce giant JD.com has officially sold its cloud computing and artificial intelligence business to its FinTech unit for a combined $2.4 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/",
+      "originalUrl": "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/jd.com_-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/",
+      "publishedDateTime": "2021-03-31T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-04-01-why-you-should-tackle-risk-management-before-you-even-start-hiring.md",
       "title": "Why You Should Tackle Risk Management Before You Even Start Hiring",
       "excerpt": "Related: Microsoft Using Minecraft to Teach its AI to Learn During Microsoft's risk-management evaluation ... Let's say you operate a startup that allows owners to lease out their cars, so you hire a third-party insurance company to insure against theft ...",
@@ -309,57 +454,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-3-top-artificial-intelligence-stocks-to-buy-in-april.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in April",
-      "excerpt": "AI applications will only increase as the world gets more efficient and these companies hope to take advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F619767%2Fhealth-monitoring-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/31/3-top-artificial-intelligence-stocks-to-buy-april/",
-      "publishedDateTime": "2021-03-31T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -1154,101 +1248,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-the-corporate-forces-that-helped-shape-ai.md",
-      "title": "The corporate forces that helped shape AI",
-      "excerpt": "The Mavericks Who Brought AI to Google, Facebook, and the World,” New York Times tech correspondent Cade Metz writes about the history of AI and the corporate forces that have shaped it since the mid-2000s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai/",
-      "originalUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketplace.org/wp-content/uploads/2017/09/GettyImages-813130280.jpg?fit=740%2C411",
-          "width": 740,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai?amp",
-      "cdnAmpWebUrl": "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/the-corporate-forces-that-helped-shape-ai?amp",
-      "publishedDateTime": "2021-03-31T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketplace",
-        "domain": "marketplace.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-31-court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions.md",
-      "title": "Court Rulings Spur Debate on How European Privacy Law Regulates AI Decisions",
-      "excerpt": "“Arguably, the provision does not apply if a bank employee denies a loan on the basis of a recommendation by an AI system,” he said. Write to Catherine Stupp at catherine.stupp@wsj.com Copyright ©2020 Dow Jones & Company, Inc. All Rights Reserve",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-11617183000",
-      "originalUrl": "https://www.wsj.com/articles/court-rulings-spur-debate-on-how-european-privacy-law-regulates-ai-decisions-11617183000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-318272/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-31T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

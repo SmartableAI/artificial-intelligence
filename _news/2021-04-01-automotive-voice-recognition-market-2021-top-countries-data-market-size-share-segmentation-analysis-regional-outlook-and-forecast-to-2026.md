@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 30, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
+    publishedDateTime: 2021-03-30T09:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
     excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
     publishedDateTime: 2021-03-30T10:32:00Z

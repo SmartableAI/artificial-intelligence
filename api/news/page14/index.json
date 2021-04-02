@@ -2,6 +2,102 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-03-21-key-task-in-computer-vision-and-graphics-gets-a-boost.md",
+      "title": "Key task in computer vision and graphics gets a boost",
+      "excerpt": "A researcher has devised a way to speed up a fundamental task in computer vision and graphics known as non-rigid point set registration. Unlike previous registration techniques, the proposed method is computationally efficient even for large data sets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/03/210305100317.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/03/210305100317.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-20T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-21-artificial-intelligence-kept-expanding-through-a-turbulent-year-with-some-exceptions.md",
+      "title": "Artificial intelligence kept expanding through a turbulent year, with some exceptions",
+      "excerpt": "Stanford releases its latest AI statistics compilation, showing how the technology and associated opportunities fared through the turmoil of the past year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/20/19ddf293-651c-4f9c-9293-d4d40fb83d10/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg",
+          "width": 480,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/artificial-intelligence-keep-expanding-through-a-turbulent-year-with-some-exceptions/",
+      "publishedDateTime": "2021-03-20T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-21-strong-competition-in-booming-ai-infrastructure-market.md",
       "title": "Strong Competition in Booming AI Infrastructure Market",
       "excerpt": "COVID-19 Outbreak-Global AI Infrastructure Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,",
@@ -1134,91 +1230,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices.md",
-      "title": "Replica Studios makes it easy for game and filmmakers to create AI character voices",
-      "excerpt": "AI voice technology startup Replica Studios has launched a desktop app that makes it easier for game and filmmakers to create voices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/",
-      "originalUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/replica.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/amp/",
-      "publishedDateTime": "2021-03-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks.md",
-      "title": "Artificial Intelligence in Digital Pathology, Upcoming Webinar Hosted by Xtalks",
-      "excerpt": "Which artificial intelligence method will work best with your image data? Image analysis is an essential part of digital",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20252581",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20252581",
-      "publishedDateTime": "2021-03-19T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/data-analytics-machine-lear
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-analytics-machine-learning-and-ai-in-healthcare-in-2021/"
 type: article
 quality: 121
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -124,15 +124,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Packing machine has an AI twist"
-    excerpt: "A robotic fruit packing machine that uses artificial intelligence could be adapted to harvesting in rural and regional Australia. The machine uses computer vision to identify a fruit variety and its size,"
-    publishedDateTime: 2021-03-28T13:15:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/packing-machine-has-an-ai-twist/news-story/f81d82030bd9a3fd6651e9d5369411ee"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 17
 
 secured: "BM3ZLDC1T8jYRZMny17qofLkqvx2UtJSzo5jV1QYcYovBlVLV1xEX5lr6vM7Db/xIuPu3B0egkE1lFUalrCzrYHa5H3oqA7AGcqGgFvgs8rXwviUotyMokHoxqUko5h8MuvoCi9NHD1YDUlfxfCiEMZW5BrhDrq20mymJsIDOrCouG2yEpJ3OdKMOH0bF98/ehtJBZG/4kuL1dfZUH48TBD5MHYQAlT3bp2suMeKmLjZCk8xn83sbxixRhRP6Y3hGIvpzS0FvdbNs4hHRhAA00lEjHJGe+GCo5jt/FCBLWI8b/PTEwe8TjKY8R/BE/d/pPFF2KmlVmS4Kk1TaK1RAyIwnEgxUC8HmyOmbFezwsHwQVfVVd4Xtc5ubKPa6NENBcVgiDjA/CHtblUAXqp/RR4G4qr8rxM58LhP1a3mJJ54lHfOn6pVCc4CFD7BBOAr3KXLsbb5zC4WD0s1fLnPWJL90CEMD4qGRUvZRFIeDg4ohW6racbolEFL8ZeNTsviA4/mQUIzEhYZzInU/3x9Sg==;cbcvjRdueyvdI9cwURge/g=="
 ---

@@ -35,6 +35,20 @@ related:
       name: Chronicle-Tribune
       domain: chronicle-tribune.com
     quality: 12
+  - title: "Emotion Detection and Recognition Market worth $37.1 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a new market research report \"Emotion Detection and Recognition Market by Component (Solutions [Facial Expression"
+    publishedDateTime: 2021-03-29T13:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/emotion-detection-and-recognition-market-worth-37-1-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--887031554.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 5
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
+        width: 669
+        height: 229
+        isCached: true
 
 secured: "qkVLMS/eWoqfUX6oC575lMm7EviJOdKkOluB8/KYAI5CHIiPJzGWnjKcS0Npg+8ydWba94jEKBpMvkPr/o35dGCJ7GRImrdRrUx9Zck+AJfscIjSSI1pM6nh+7U5oXOFVU/kxEvkTbyJIaBOwyLjlej7ck//RVGLma5G163SNArqV/+WDv7B2Iq+H5s/JP3e/wHD9btTe9aJUBcgMP+2ZbKf/xW7y/+nbjmS4N+TYJnhOFdK1iy6Enm/YIpxWPFgEQ9+nyUNDqD14SDhMbP0ePFiiZoW1yRy34AWZI3Up5FzP4VbYK+gWVulw0RDneeNU2RSl+5UdabnChqv11vqj2pkjnz7Dg3beRmh8lxCBIEVwdAiwMAZAbq4O1QxSwgGhr6hGrgM6c82zkUDGOShbxqJASw9vq0MDDp80Jnr94d5hmNhRyZaDglXTDnb6ZFG94M8Ub0tAogpqWrO6JxSKlyDB5KJ7PW849iO222U87JOuhtIPyVmLjPKzRkXQpzYhIcbmb4+jBm8WbWGKuW7rA==;rnDGi7NAa+YsW1DnJYgaxQ=="
 ---

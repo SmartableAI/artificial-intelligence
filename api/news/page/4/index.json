@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-30-highradius-raises-300m-triples-valuation-to-31b-for-ai-powered-fintech-software.md",
+      "title": "HighRadius raises $300M, triples valuation to $3.1B for AI-powered fintech software",
+      "excerpt": "HighRadius, which has developed AI-powered fintech software, announced Tuesday it has raised $300 million in a Series C funding round led by D1 Capital and Tiger Global. The round values Houston ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/",
+      "originalUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/06/unicorn-money.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/30/highradius-raises-300m-triples-valuation-to-3-1b-for-ai-powered-fintech-software/amp/",
+      "publishedDateTime": "2021-03-30T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-30-tech-newsletter-facial-recognition-in-the-us-amazons-big-pr-fail.md",
+      "title": "Tech newsletter: Facial recognition in the U.S., Amazon’s big PR fail",
+      "excerpt": "In this week's Daily Dot tech newsletter, we take a look at facial recogntion in the U.S., Amazon's Twitter PR, and Section 230.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/tech-newsletter-03-30-2021/",
+      "originalUrl": "https://www.dailydot.com/debug/tech-newsletter-03-30-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2021/03/Tech-News-Newsletter-Image-03-30-2021.jpg?auto=format&ixlib=php-3.3.0",
+          "width": 1938,
+          "height": 969,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/tech-newsletter-03-30-2021/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/tech-newsletter-03-30-2021/?amp",
+      "publishedDateTime": "2021-03-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-30-ready-for-duty-healthcare-robots-get-good-prognosis-for-next-pandemic.md",
       "title": "Ready for duty: Healthcare robots get good prognosis for next pandemic",
       "excerpt": "Spanish flu pandemic, Czech writer Karel Čapek first introduced the term \"robot\" to describe artificial people in his 1921 sci-fi play R.U.R. While we have not yet created the highly intelligent humanoid robots imagined by Čapek,",
@@ -1129,102 +1224,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-adversarial-training-reduces-safety-of-neural-networks-in-robots-research.md",
-      "title": "Adversarial training reduces safety of neural networks in robots: Research",
-      "excerpt": "Machine learning needs to improve adversarial robustness in deep neural networks for robotics without reducing their accuracy and safety.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/",
-      "originalUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/autonomous-robots-adversarial-training.jpg?w=1200&strip=all",
-          "width": 696,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/29/adversarial-training-reduces-safety-of-neural-networks-in-robots-research/amp/",
-      "publishedDateTime": "2021-03-29T14:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-30-virginia-lawmakers-ban-police-use-of-facial-recognition.md",
-      "title": "Virginia lawmakers ban police use of facial recognition",
-      "excerpt": "Virginia lawmakers quietly passed one of the most restrictive bans in the country on the use of facial recognition technology",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/210325_abcnl_prime_dwyer_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/virginia-lawmakers-ban-police-facial-recognition-76753765",
-      "publishedDateTime": "2021-03-29T12:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

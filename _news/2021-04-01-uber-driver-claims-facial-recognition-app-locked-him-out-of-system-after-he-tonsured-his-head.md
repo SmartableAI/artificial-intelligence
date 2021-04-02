@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-fa
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/uber-driver-claims-facial-recognition-app-locked-him-out-of-system/article34216825.ece/amp/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Uber Driver Loses Job After App's Facial Recognition Tool Fails To Recognise Tonsured Head"
+    excerpt: "After trying four times, clicking pictures from different angles and due to his ‘multiple logging attempts’ the facial recognition software blocked him. Srikant joined Uber in the year 2019 and completed nearly 1,428 trips. He also holds a 4.67-star ..."
+    publishedDateTime: 2021-04-02T07:25:00Z
+    webUrl: "https://www.republicworld.com/entertainment-news/whats-viral/uber-driver-loses-job-after-apps-facial-recognition-tool-fails-to-recognise-tonsured-head.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 44
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/pxihufxftc311ad3_1617347289.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 711
+        isCached: true
   - title: "Everything Wrong With Uber’s Facial Recognition System"
     excerpt: "The union said there were at least seven cases of failed facial recognition and identity checks which led to the suspension of drivers and, in some cases, license revocation by Transport for London (TfL)."
     publishedDateTime: 2021-04-01T10:30:00Z

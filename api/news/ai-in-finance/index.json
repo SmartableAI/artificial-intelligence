@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-04-01-jdcom-sells-off-cloud-ai-units-to-its-fintech-arm.md",
+      "title": "JD.com Sells Off Cloud, AI Units To Its FinTech Arm",
+      "excerpt": "Chinese eCommerce giant JD.com has officially sold its cloud computing and artificial intelligence business to its FinTech unit for a combined $2.4 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/",
+      "originalUrl": "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/jd.com_-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/",
+      "publishedDateTime": "2021-03-31T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-31-language-ai-startup-moveworks-expands-beyond-it-to-finance-hr-other-corporate-communications.md",
       "title": "Language AI startup Moveworks expands beyond IT to finance, HR, other corporate communications",
       "excerpt": "Processing of human language via machine programs has been coming to corporate computing for a while now. Some believe it can be not only reliable but also very broadly applicable. Software startup Moveworks of Mountain View, California, which has been ...",
@@ -1328,49 +1371,6 @@
       "provider": {
         "name": "BitMAT",
         "domain": "bitmat.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-fintech-e-banche-mai-cosi-integrate.md",
-      "title": "Fintech e banche mai così integrate",
-      "excerpt": "La sua attività negli Stati Uniti aggiunge un milione di nuovi clienti al mese ai 90 milioni che già contano in tutto il mondo. Ci sono anche banche tradizionali che hanno sposato l’innovazione: secondo lo sguardo delle fintech, in primis c’è Bbva ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.milanofinanza.it/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "originalUrl": "https://www.milanofinanza.it/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.milanofinanza.it/remote/static.milanofinanza.it/content_upload/img/2021/03/202103101818141568/fintech5-714836.jpeg",
-          "width": 1920,
-          "height": 1053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.milanofinanza.it/amp/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "cdnAmpWebUrl": "https://www-milanofinanza-it.cdn.ampproject.org/c/s/www.milanofinanza.it/amp/news/fintech-e-banche-mai-cosi-integrate-202103101818141568",
-      "publishedDateTime": "2021-03-10T10:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MilanoFinanza",
-        "domain": "milanofinanza.it",
         "images": null,
         "publishers": null,
         "authors": null

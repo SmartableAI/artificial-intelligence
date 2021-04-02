@@ -24,6 +24,22 @@ images:
     height: 339
     isCached: true
 
+related:
+  - title: "Member Driven Technologies Recognized as a 2021 Best Fintech to Work for by Arizent"
+    excerpt: "[CES 2021] Sony Unveiled Its Latest Initiatives Sur.. Hyperconnect, Key to social platform succ.. Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim, Managing Director at JE.. Formula E Korea E-Prix 2020 ..."
+    publishedDateTime: 2021-04-01T13:37:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=446369"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 18
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+
 secured: "sNpXTMZgqwXoFuhrPpn3x3XRKK9+5cnQa7hEZ7iX6rJUoP0kzaZtUGcFMcKR492+jbTrhvfYBs0qECHz3NXbXtZXWWBoZ13NSKW7MCFSNsg1QJsNvnS/Ro2xA8+mm46x9xik4U2IdqzsjAUfmMveiAW4SlbHZkHZ8QArm56wxx7d9kp8Ahwp9jdrASqjMDbLiVnKA4y26zb3wWXKIMl5qOmkn08unSrxhAL9i0c7jMpVU7KgPggyQlUUplRtDqz4JfPrUR/QOis9xQnCnig7Bb9H0+hLrTg/uQXKX+AYlHTB7P02BvskWGjX32ObO/e6KMcEFF/al4kRbOj0uPCHzWAlLisyn2VjCXsmRc4sz/M=;pRmi789wZV4Y95IAaBocbA=="
 ---
 

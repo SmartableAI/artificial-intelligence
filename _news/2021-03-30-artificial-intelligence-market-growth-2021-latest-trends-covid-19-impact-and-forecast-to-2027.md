@@ -28,105 +28,142 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Fintech Market Forecast to Reach $11.2 Billion by 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The AI in Fintech Marketis forecast to reach $11.2 billion by 2026, growing at a CAGR of 29.75% from 2021 to 2026. Artificial Intelligence ..."
-    publishedDateTime: 2021-03-28T13:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-forecast-to-reach-112-billion-by-2026-2021-03-28"
+  - title: "Service Robotics Market Top Companies Data 2021, Latest Industry Share, Demand and Revenue Growth Opportunities"
+    excerpt: "The global “Service Robotics Market Share” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-03-28T16:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Energy and Utilities Market Forecast to Reach $4.5 Billion by 2026"
-    excerpt: "AI in Energy and Utilities Market Segment Analysis - By Application ... SE (France), AppOrchid Inc. (U.S), Zen Robotics Ltd. (Finland) and others. DeepMind, a startup acquired by Google, will add artificial intelligence to the electricity system of UK ..."
-    publishedDateTime: 2021-03-28T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-energy-and-utilities-market-forecast-to-reach-45-billion-by-2026-2021-03-28"
+  - title: "Natural Language Processing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-03-30T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "JD.com Sells Off Cloud, AI Units To Its FinTech Arm"
-    excerpt: "Chinese eCommerce giant JD.com has officially sold its cloud computing and artificial intelligence business to its FinTech unit for a combined $2.4 billion."
-    publishedDateTime: 2021-03-31T18:28:00Z
-    webUrl: "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/"
-    ampWebUrl: "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/"
+  - title: "Service Robotics Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "Asia-Pacific is anticipated to display the highest CAGR owing to increasing government investments in robotics and artificial intelligence, rising focus on R & D. Besides these, the growing demand ..."
+    publishedDateTime: 2021-03-29T07:41:00Z
+    webUrl: "https://menafn.com/1101823848/Service-Robotics-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 45
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/03/jd.com_-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
-  - title: "JD.com Spins Off Cloud and AI Assets to Fintech Unit"
-    excerpt: "JD.com, the Chinese e-commerce giant announced on Wednesday(March 31) that it had officially carried out the sale of its cloud and artificial intelligence businesses to JD Digits, its fintech unit. The businesses were valued at a combined $2.4 billion."
-    publishedDateTime: 2021-04-01T17:29:00Z
-    webUrl: "https://techstory.in/jd-com-spins-off-cloud-and-ai-assets-to-fintech-unit/"
+  - title: "Artificial Intelligence Market Top Companies Data 2021, Latest Industry Share, Demand and Revenue Growth Opportunities"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Mar 28, 2021 (The Expresswire) -- The global “Artificial Intelligence Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026."
+    publishedDateTime: 2021-03-28T15:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-top-companies-data-2021-latest-industry-share-demand-and-revenue-growth-opportunities-2021-03-28"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
+    excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
+    publishedDateTime: 2021-03-31T17:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-translation-market-2021-growth-analysis-industry-trendsdemandshare-and-major-strategies-adopted-by-leading-company-2021-03-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "The global “Speech and Voice Recognition Market Share” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-03-30T09:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-growth-2021-latest-trends-covid-19-impact-and-forecast-to-2027-2021-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
     images:
-      - url: "https://techstory.in/wp-content/uploads/2021/04/ffcbfeb2-7dbd-11eb-9fc3-2f3c8e08d261_image_hires_211834.jpeg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "SME-focused fintech acquired by Sage"
-    excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
-    publishedDateTime: 2021-03-29T07:42:00Z
-    webUrl: "https://www.insidermedia.com/news/coronavirus/sme-focused-fintech-acquired-by-sage"
+  - title: "Smart Robots Market Share 2021: Global Trends, Key Players, Industry Analysis Report to 2027"
+    excerpt: "The global smart robot market size was valued at US 3 44 billion in 2017 It is expected to grow at a CAGR of 22 over the forecast period Smart robots are artificial intelligence AI supported systems You can learn"
+    publishedDateTime: 2021-03-31T10:58:00Z
+    webUrl: "https://www.openpr.com/news/2264137/smart-robots-market-share-2021-global-trends-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2264137/smart-robots-market-share-2021-global-trends-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2264137/smart-robots-market-share-2021-global-trends-key-players"
     type: article
     provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 24
-    images:
-      - url: "https://www.insidermedia.com/uploads/news/resized/Stock_exchange-37604-1616770579.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Member Driven Technologies Recognized as a 2021 Best Fintech to Work for by Arizent"
-    excerpt: "[CES 2021] Sony Unveiled Its Latest Initiatives Sur.. Hyperconnect, Key to social platform succ.. Hyperconnect : real-time video AI monito.. Hyperconnect launches SLIDE : a new glob.. Chang-Hyeon Kim, Managing Director at JE.. Formula E Korea E-Prix 2020 ..."
-    publishedDateTime: 2021-04-01T13:37:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=446369"
+      name: openpr.com
+      domain: openpr.com
+    quality: 28
+  - title: "Automotive Voice Recognition Market 2021 : Top Countries Data, Market Size, Share, Segmentation Analysis, Regional Outlook and Forecast to 2026"
+    excerpt: "Apr 01, 2021 (The Expresswire) -- According to 360 Research Reports, the “Automotive Voice Recognition Market\" 2021 by Types (Single language recognition, Multilingual Recognition), Application (Passenger Vehicle, Commercial Vehicle) and Region - Global ..."
+    publishedDateTime: 2021-04-01T08:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-2021-top-countries-data-market-size-share-segmentation-analysis-regional-outlook-and-forecast-to-2026-2021-04-01"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 18
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Emotion Detection and Recognition Market worth $37.1 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a new market research report \"Emotion Detection and Recognition Market by Component (Solutions [Facial Expression"
-    publishedDateTime: 2021-03-29T13:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/emotion-detection-and-recognition-market-worth-37-1-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--887031554.html"
+  - title: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "Cognitive Computing Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 Posted on Mar 28 2021 4:53 PM Top Players in Cognitive Computing Market are Alphabet, Inc. (Google LCC), Microsoft Corporation,"
+    publishedDateTime: 2021-03-29T14:21:00Z
+    webUrl: "https://menafn.com/1101823827/Cognitive-Computing-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 5
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
     images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=publish&p=facebook"
-        width: 669
-        height: 229
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027"
+    excerpt: "Speech and Voice Recognition Market Growth 2021, Latest Trends, COVID-19 Impact, and Forecast to 2027 . Posted on Mar 28 2021 3:27 PM \"Top Players in S"
+    publishedDateTime: 2021-03-29T11:35:00Z
+    webUrl: "https://menafn.com/1101823882/Speech-and-Voice-Recognition-Market-Growth-2021-Latest-Trends-COVID-19-Impact-and-Forecast-to-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 9
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "+VDeJbuJUIDWVFWXGBr3tax43nTRaPc5Yg6HJa73eJNM26VujA1oLeeZjrs/XDvxmwIEtM3/NWso/9xAOEMtRBMZ5NAFwKcqKSY8EY6uG2BE8dDW58S1BSAFWlRj1GcHq3R8btQUdNKLmKnGjePeM3J0GubPmK6UUN8+kWhZu5Dq94sgM9Ydj63Tro/eWkh3rtAfH+LDFv8pirQE1E3ZIoU6a3WAo+EMzaHlfIkfH4VwDcIZYVhNix1WwWq53fv/3ybrdRvsZ1GKCKr0NLidkP2N2E2SOCVUBJtrSQVVC36Rw0Dr9GW3wHv4XjcOWbYTk9BV2Rn8AKWOPMaqyunVuYq9rPAiXCHrBVu2hKgl3IA=;j5uiYER2e47t6aCKR7QvIg=="

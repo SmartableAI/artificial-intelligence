@@ -2,6 +2,91 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-03-19-replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices.md",
+      "title": "Replica Studios makes it easy for game and filmmakers to create AI character voices",
+      "excerpt": "AI voice technology startup Replica Studios has launched a desktop app that makes it easier for game and filmmakers to create voices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/",
+      "originalUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/replica.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/19/replica-studios-makes-it-easy-for-game-and-filmmakers-to-create-ai-character-voices/amp/",
+      "publishedDateTime": "2021-03-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks.md",
+      "title": "Artificial Intelligence in Digital Pathology, Upcoming Webinar Hosted by Xtalks",
+      "excerpt": "Which artificial intelligence method will work best with your image data? Image analysis is an essential part of digital",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/n20252581/artificial-intelligence-in-digital-pathology-upcoming-webinar-hosted-by-xtalks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/20252581",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20252581",
+      "publishedDateTime": "2021-03-19T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-forget-tesla-this-1-tsx-stock-is-a-better-driverless-auto-play.md",
       "title": "Forget Tesla! This 1 TSX Stock Is a Better Driverless Auto Play",
       "excerpt": "The future is of automotive is more than just clean and green; it's also driverless. And Tesla isn’t the only promising company in this arena.",
@@ -424,6 +509,40 @@
       ]
     },
     {
+      "path": "_news/2021-03-19-natural-language-processing-nlp-market-2021-global-industry-analysis-report-to-2027.md",
+      "title": "Natural Language Processing (NLP) Market 2021: Global Industry Analysis Report to 2027",
+      "excerpt": "Natural Language Processing (NLP) is an artificial intelligence computer application capable of understanding human language. This computer technology allows computers to analyze and interpret ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "originalUrl": "https://www.openpr.com/news/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2259023/natural-language-processing-nlp-market-2021-global-industry",
+      "publishedDateTime": "2021-03-19T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-security-safety-things-offers-ai-based-cameras-to-transform-healthcare-operations-at-lower-costs.md",
       "title": "Security & Safety Things offers AI based cameras to transform healthcare operations at lower costs",
       "excerpt": "In the past year, hospitals, elder-care and other healthcare facilities have found themselves overwhelmed with new patients, COVID-19 regulations and other side effects of the pandemic.As",
@@ -603,6 +722,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-19-how-natural-language-processing-makes-our-lives-easier-and-improves-your-business.md",
+      "title": "How Natural Language Processing Makes Our Lives Easier and Improves Your Business",
+      "excerpt": "Although some calls are indeed used for training purposes, more often they are used to improve natural language processing algorithms. We have all heard the sentence “This call may be recorded for quality and training purposes” when you call the call ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/",
+      "originalUrl": "https://www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-natural-language-processing-makes-our-lives-easier-and-improves-your-busi/amp/",
+      "publishedDateTime": "2021-03-18T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -983,213 +1136,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify.md",
-      "title": "Explaining Bundesliga Match Facts xGoals using Amazon SageMaker Clarify",
-      "excerpt": "One of the most exciting AWS re:Invent 2020 announcements was a new Amazon SageMaker feature, purpose built to help detect bias in machine learning (ML) models and explain model predictions: Amazon SageMaker Clarify. In today’s world where predictions are made by ML algorithms at scale, it’s increasingly",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-bundesliga-match-facts-xgoals-using-amazon-sagemaker-clarify/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/26/ML-2433-13.png",
-          "width": 748,
-          "height": 488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T11:20:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-oracle-is-making-its-cloud-databases-easier-to-use.md",
-      "title": "Oracle is making its cloud databases easier to use",
-      "excerpt": "Oracle says the latest release of its cloud-based Autonomous Data Warehouse will help transform complex data transformation activities into point-and-click tasks. The Oracle Autonomous Data Warehouse is a software-as-a-service cloud data warehouse that Oracle says is designed to reduce the complexities of developing data driven applications by automating critical provisioning and configuration tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/oracle-is-making-its-cloud-databases-easier-to-use",
-      "originalUrl": "https://www.techradar.com/news/oracle-is-making-its-cloud-databases-easier-to-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/rSTmCmeoaSTmeNWWL8GZ8T-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/oracle-is-making-its-cloud-databases-easier-to-use",
-      "publishedDateTime": "2021-03-18T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-entertainment-robot-toys-market-size-industry-growth-trends-price-report-and-forecast-2020-2027.md",
-      "title": "Entertainment Robot Toys Market Size, Industry Growth, Trends, Price, Report and Forecast 2020-2027",
-      "excerpt": "These robots have the ability to interact with people by singing, dancing, and by telling stories, especially to children. With the advance and developing artificial intelligence technology, growing the geriatric population, and increasing demand for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robot-toys-market-size-industry-growth-trends-price-report-and-forecast-2020-2027-2021-03-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/entertainment-robot-toys-market-size-industry-growth-trends-price-report-and-forecast-2020-2027-2021-03-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-18T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-18-adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses.md",
-      "title": "Adobe Acrobat Brings E-Sign and AI to Very Small Businesses",
-      "excerpt": "Adobe's new tier of Acrobat Pro is aimed at micro-businesses, and comes equipped with its e-sign technology and other new capabilities, including smart web forms and an AI-powered overhaul to PDF support for mobile devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses",
-      "originalUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01GLmQdpOWHrCSJ4Kbtv5EQ-1.1616081048.fit_lim.size_1200x630.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/adobe-acrobat-brings-e-sign-and-ai-to-very-small-businesses?amp=true",
-      "publishedDateTime": "2021-03-18T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

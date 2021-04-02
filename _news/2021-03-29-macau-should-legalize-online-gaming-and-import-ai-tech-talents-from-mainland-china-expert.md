@@ -24,19 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Macau should legalize online gambling, import Artificial Intelligence from China"
-    excerpt: "The professor of the Pedagogical and Scientific Center in the Areas of Gambling and Tourism of the Polytechnic Institute of Macau (IPM), Zeng Zhonglu, said in an interview with Lusa that Macau should think about legalizing online gambling and bet on importing 'talents' that develop Artificial Intelligence (AI) in mainland China."
-    publishedDateTime: 2021-03-29T13:33:00Z
-    webUrl: "https://www.gamesbras.com/english-version/2021/3/29/macau-should-legalize-online-gambling-import-artificial-intelligence-from-china-22348.html"
+  - title: "Google Offers Free Online Training and Certification in Artificial Intelligence and Machine Learning, Check Details"
+    excerpt: "Google is offering free online training and certification in artificial intelligence and machine learning in fraud detection, chatbots and other topics"
+    publishedDateTime: 2021-04-02T05:33:00Z
+    webUrl: "https://www.dqindia.com/google-offers-free-online-training-certification-artificial-intelligence-machine-learning-check-details/"
+    ampWebUrl: "https://www.dqindia.com/google-offers-free-online-training-certification-artificial-intelligence-machine-learning-check-details/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/google-offers-free-online-training-certification-artificial-intelligence-machine-learning-check-details/amp/"
     type: article
     provider:
-      name: gamesbras
-      domain: gamesbras.com
-    quality: 32
+      name: Dataquest
+      domain: dqindia.com
+    quality: 67
     images:
-      - url: "https://www.gamesbras.com/u/fotografias/m/2021/3/29/f960x0-15849_15867_0.jpg"
-        width: 960
-        height: 546
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/01/online-backup-service_opt.jpg"
+        width: 850
+        height: 567
+        isCached: true
+  - title: "How AI is revolutionizing online gaming"
+    excerpt: "From software that can improve the performance of a cricket player to artificial intelligence coaching technology, it looks like the AI revolution is only just getting started. Artificial intelligence isn’t just a piece of science fiction anymore."
+    publishedDateTime: 2021-03-30T14:32:00Z
+    webUrl: "https://knowtechie.com/how-ai-is-revolutionizing-online-gaming/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 37
+    images:
+      - url: "https://mk0knowtechiec1j578p.kinstacdn.com/wp-content/uploads/2020/10/redmagic-5s-gaming-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "Ffp/uwhZSWkDR+CriDaxHGITcFNro44ytz0wWhwvh1FprlH/IJPZyqmrFzzD0y2tGaBOwxycyhWYkLSlLqKWXDDF7uJj5ucxWignjqiujQtn2oP0DwD058LWt2w2WL2OP9NfYxnP++3HrvY0jFXfnbGtvzdVphEAIMfVeZ7V+FywkhP+liLTZ6YcTixHFwgzNW8GpoJ3i/TWfnmsJJp0puo4I5K19lLkz6+f9Jt+kzvCBUzH92gLyUtplPyYgqngrWMl6saQHSJiPSZazQuG45RSzIzS+kH/4E3COK2IEB5vmLDpzIQusVpemN/xtr5aJe/6Gf16KeVlJ0La95J1b8/VvRYVjOWW8V4tF23Op4w=;BT/XztLDesAQPXf5PZdbww=="
