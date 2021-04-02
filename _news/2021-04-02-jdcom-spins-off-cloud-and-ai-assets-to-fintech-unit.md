@@ -41,6 +41,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech Startup uses AI to increase Homeownership rate"
+    excerpt: "Fintech startup, Home Lending Pal with local presence uses artificial intelligence to gear up homeownership rate"
+    publishedDateTime: 2021-04-02T18:19:00Z
+    webUrl: "https://techstory.in/fintech-startup-uses-ai-to-increase-homeownership-rate/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/gettyimages-1129146997_1200xx7006-3949-0-0.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "SME-focused fintech acquired by Sage"
     excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."
     publishedDateTime: 2021-03-29T07:42:00Z

@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence for Video Surveillance Market 2020 to 2025 - Top Impacting Factors and Investment Study"
-    excerpt: "Global Artificial Intelligence for Video Surveillance Market Growth (Status and Outlook) 2020-2025 is the latest excellent and defined market research report which provides detailed information of the industry including classifications,"
-    publishedDateTime: 2021-03-29T01:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-video-surveillance-market-2020-to-2025---top-impacting-factors-and-investment-study-2021-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI Translation Market 2021 Growth Analysis, Industry Trends,Demand,Share and Major Strategies Adopted By Leading Company"
     excerpt: "AI translation is type of advanced artificial intelligence which not only translate words that are written or spoken,"
     publishedDateTime: 2021-03-31T17:13:00Z

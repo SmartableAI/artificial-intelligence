@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-uni
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/acquiring/2021/jd-sells-off-cloud-ai-units-to-fintech-arm/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/04/ffcbfeb2-7dbd-11eb-9fc3-2f3c8e08d261_image_hires_211834.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fintech Startup uses AI to increase Homeownership rate"
+    excerpt: "Fintech startup, Home Lending Pal with local presence uses artificial intelligence to gear up homeownership rate"
+    publishedDateTime: 2021-04-02T18:19:00Z
+    webUrl: "https://techstory.in/fintech-startup-uses-ai-to-increase-homeownership-rate/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/gettyimages-1129146997_1200xx7006-3949-0-0.jpg"
+        width: 1200
+        height: 676
         isCached: true
   - title: "SME-focused fintech acquired by Sage"
     excerpt: "Technology giant Sage has completed an acquisition which marks its third recent investment into cloud-based fintech companies targeting the small and medium business market."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/04/02/waymo-chief-john-krafcik-resigns-co-ceos-tapped-to-run-alphabets-self-driving-tech-giant/amp/"
 type: article
 quality: 79
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,28 +31,48 @@ images:
     isCached: true
 
 related:
-  - title: "Alphabet Waymo Self-Driving Unit CEO Stepping Down"
-    excerpt: "The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who has headed Waymo for more than five years,"
-    publishedDateTime: 2021-04-02T17:31:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2021-04-02/alphabet-waymo-self-driving-unit-ceo-stepping-down"
+  - title: "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years."
+    excerpt: "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the chief executive duties will be divided between two current ..."
+    publishedDateTime: 2021-04-02T15:03:00Z
+    webUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "Tech giant CEOs willing to set AI standards"
-    excerpt: "The CEOs of Silicon Valley tech giants Facebook, Twitter, and Google have all agreed to allow more scrutiny into how their algorithms instruct the flow of information online. During a US congress hearing into disinformation on social media,"
-    publishedDateTime: 2021-03-29T02:17:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/tech-giant-ceos-willing-to-set-ai-standards.html"
-    type: article
-    provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 39
+      name: New York Times
+      domain: nytimes.com
+    quality: 80
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/twitter%20google%20facebook%20logos.jpg"
-        width: 811
-        height: 457
+      - url: "https://static01.nyt.com/images/2021/04/02/business/02economy-briefing-waymo/02economy-briefing-waymo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Alphabet Waymo self-driving unit CEO stepping down"
+    excerpt: "DOW S&P 500 NASDAQ 100 WASHINGTON (Reuters) - The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who ..."
+    publishedDateTime: 2021-04-02T17:34:00Z
+    webUrl: "https://www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4"
+    ampWebUrl: "https://www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "Head of Google’s self-driving car project steps down"
+    excerpt: "John Krafcik, chief executive of the Google self-driving project Waymo, has stepped down from the $30bn group after more than five years and will be replaced by two top executives, the company said on Friday."
+    publishedDateTime: 2021-04-02T19:45:00Z
+    webUrl: "https://www.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
+    ampWebUrl: "https://amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff84bd576-85be-43bf-9973-82ca4bca6209.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "cgj3MrM2S9xMnbVoXz2S85eRuuCj52wmefAcM3Ft3fnsS2BvZUorSYkQf9/qFlq3PsBa73TYHx+zMYcT5LS5T4145z3q2PLp0GbIpeXoTs/zTWwQziqqE42Di5cirtI44wfT8HHei4O4o74X+fqDPLH3RSxjpx61yfHXANqeJz+zLNB+SljjLjz8QIqYNCYkzmLsSPdHHJaLXn0Uq6fUIG3vsfz+xaHk6LoFT5FswuaduXVHSCW/QNkDohpQKFi/Q3xuFulKMzoV54cLj4MMtDP6ozNS2wLYrRIcss+W5NykjyFiGpY2vy538IOg8+oECnj/8/ikp5sck8iTZi0u8wlY6FBIw0oompPnto6tNTQ=;DoJ1EVhlRVRsud8Gcgx7fg=="

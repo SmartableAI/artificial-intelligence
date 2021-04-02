@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-global-market-growth-status-and-outlook-research-report-2021-2021-04-01"
 type: article
 quality: 51
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence for Video Surveillance Market 2020 to 2025 - Top Impacting Factors and Investment Study"
-    excerpt: "Global Artificial Intelligence for Video Surveillance Market Growth (Status and Outlook) 2020-2025 is the latest excellent and defined market research report which provides detailed information of the industry including classifications,"
-    publishedDateTime: 2021-03-29T01:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-video-surveillance-market-2020-to-2025---top-impacting-factors-and-investment-study-2021-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -1,28 +1,32 @@
 ---
 category: news
 title: "AI Opens the Door to Smart Vending"
-excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
-publishedDateTime: 2021-04-02T16:03:00Z
-originalUrl: "https://www.cio.com/resources/216707/ai-opens-the-door-to-smart-vending"
-webUrl: "https://www.cio.com/resources/216707/ai-opens-the-door-to-smart-vending"
+excerpt: "Find out how Shekel Brainweigh is giving retailers and machine operators better control over inventory and gaining valuable customer behavior insights that benefit consumer packaged-goods companies."
+publishedDateTime: 2021-04-02T16:06:00Z
+originalUrl: "https://www.infoworld.com/resources/216707/ai-opens-the-door-to-smart-vending"
+webUrl: "https://www.infoworld.com/resources/216707/ai-opens-the-door-to-smart-vending"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/cio/CIO_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     isCached: true
 
-secured: "JiEvLrKYRT/IwVZ3FM/x7mGvO74W9xrVKLZfN2TsLajMgiAwM6ZXhMmfdeLGv6dLoaO37W+bpA1s9SRHYp444Tsq2vj0xS2C5e7QIj1e2+iXKpdBmuYnLyx1uW4tKzlaYyitcBakUbnTijXYi6qm1XW3H7+vphuyAUhl4xemqd/mXZv8dgKgi2Q8vVtA9ad6hO3Rx6pUAUkRT/2mPY6WAtqaYjHvab8fdmq2hq04T6WBtt/pXcjXYPE503v8ikQpwUu7bd9Lv2DkrcAolPNWgFY4CLdonNRwX3lHAEyVDBbaSOAKiCRd7meM453+Lr5CvuFVkUUiewm7LojdAnYzwFNJUPnU0i1monOCEKeDXdE=;FZZfKwPIS0pPpOXe4MIIKw=="
+secured: "l++jL6Ut5E+BwTFG6U9hZa69iM7wM4b12SkRyCUnFKqQap6R+AbnliYbf/hCcHNPAJBXs1kjIWQRlE4JFAFatn95ZHqmhZROh9AitY6yrstuDp1MPjMUqNp/ebX8IftKcz3nuBta4PDpUryZoCe1CeHodTp4FTp5FgR0CSIO+1QoNusgsll9iZ4YMLgpEJjEkihKjDl25FPmav71cFgAbQIkYG5YVM8ng1YyKHSSLRCEaFAch+6TO1acUaq9UaWJCJzIdQzJu4Kic0t8y56ROMnh6irjVc0QFcWxuY9KIRj2jI2wDRZwTYFj/r/nDoRq0s6+xM5jSrKRyIA7zB3OvNVzWncXAnI/e3z/7LbmEuw=;690N3jDWfEWch9fOMv0FOQ=="
 ---
 

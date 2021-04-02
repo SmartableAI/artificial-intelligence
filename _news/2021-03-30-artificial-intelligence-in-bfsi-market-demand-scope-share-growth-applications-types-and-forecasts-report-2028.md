@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence for Video Surveillance Market 2020 to 2025 - Top Impacting Factors and Investment Study"
-    excerpt: "Global Artificial Intelligence for Video Surveillance Market Growth (Status and Outlook) 2020-2025 is the latest excellent and defined market research report which provides detailed information of the industry including classifications,"
-    publishedDateTime: 2021-03-29T01:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-video-surveillance-market-2020-to-2025---top-impacting-factors-and-investment-study-2021-03-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Artificial Intelligence Market Growth Factors, Regional Overview, Competitive Strategies and Forecast up to 2031"
     excerpt: "Mar 31, 2021 (WiredRelease via Comtex) -- The comprehensive research report of Global Automotive Artificial Intelligence Market is a compilation of the targeted evaluation of all of the factors which can be taken into consideration being essential for the ..."
     publishedDateTime: 2021-03-31T09:00:00Z

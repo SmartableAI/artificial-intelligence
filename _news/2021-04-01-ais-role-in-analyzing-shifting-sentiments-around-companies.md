@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/ais-role
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/04/01/ais-role-in-analyzing-shifting-sentiments-around-companies/"
 type: article
 quality: 67
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Companies are overestimating how responsible they’re being with AI"
-    excerpt: "Steven Mills, BCG GAMMA's chief ethics officer, says of the survey results: The results were surprising in that so many organizations are overly optimistic about the maturity of their responsible AI implementation. While many organizations are making ..."
-    publishedDateTime: 2021-03-31T12:00:00Z
-    webUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai"
-    ampWebUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "http://diginomica.com/sites/default/files/images/2020-04/ethics.png"
-        width: 1404
-        height: 930
-        isCached: true
   - title: "How Machine Learning, Contactless Payments Are Helping Piada Italian Street Food Meet Shifting Ordering Needs"
     excerpt: "Piada, which has 38 locations in six states, is also looking to integrate new technologies, such as machine learning (ML), to help analyze collected data and use it for more personalized customer experiences. “To the ML part of it, that is something that ..."
     publishedDateTime: 2021-04-01T11:44:00Z

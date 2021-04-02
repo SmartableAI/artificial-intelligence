@@ -7,7 +7,7 @@ originalUrl: "https://www.csrwire.com/press_releases/720376-intel-ai-powered-bac
 webUrl: "https://www.csrwire.com/press_releases/720376-intel-ai-powered-backpack-helps-visually-impaired-navigate-world"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 540
     height: 316
     isCached: true
-
-related:
-  - title: "Backpack AI system helps the visually-impaired navigate safely"
-    excerpt: "There, a computing unit like a laptop or Raspberry Pi runs an AI interface called OpenCV’s Artificial Intelligence Kit with Depth (OAK-D), which uses neural networks to analyze the visual data."
-    publishedDateTime: 2021-03-29T02:44:00Z
-    webUrl: "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/"
-    ampWebUrl: "https://newatlas.com/wearables/visually-impaired-blind-backpack-ai/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/visually-impaired-blind-backpack-ai/?amp=true"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 87
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/ecd4812/2147483647/strip/true/crop/2000x1333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Ff0%2F62%2Faa5e4925429e85fbf7af32b6c1b3%2Fdepositphotos-355246818-l-2015.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "e9urTs97E7TfbgI/WKiiaDoDOxbRrVKtrPIDNeWpRWaLoumkp6TVeZs+J4DoU3I09yutan7oh7stwsxalBachOAZOHV/fXaC7n/D6mBg/EkMqbBtKTfB/8NoI/NO0JSpLQmkoM4xoTNpcWPScI2UtsAbB/ZPT9ijG9saKW04mYWW1lb+M5N/UCQm0IXL91/Yf6Z4WpULQYIMWoIFjQZKF9sibgkll/Q1HBhkqWnIvRsEuUa6a7rWRh6rdy5aZjErwtoz4lwQcrkaDMtwUUGBoFEori4bdeqcZwvt1vlOmH9zsW3mTCx+PG5oNtLEExMlydw8/ts5ERLuU83qGf1wnWci5/pSCKPTXZfipBCamB4v2k3U6+XLMfjSJ2gD9mMPP027d1+A7PVFSj0cQVcFJRt+4U6Qr4bGrWWD2ipcHGmecaiiurR8r0y05S5IKousoGDz2yqGYvsHZbrD72SJ4P0PFJnQlwr01JIjwbuxCx8Q1g8rEx6RkGF2IMxwUUF8iqnTzsd/t6RbQBoA18IgKA==;Mo8rA6XHNmaJoGUAwuNZkg=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 “Best in Intralogistics” certificates"
-excerpt: "And with the partnership with Mujin, a world-leading artificial intelligence company, HAI ROBOTICS were able to offer better intralogistics solutions to clients and extend the business to Japan starting from December 2019. Besides the strong performance in ..."
+title: "HAI ROBOTICS, the Shenzhen-based ACR pioneer, receives IFOY AWARD 2021 \"Best in Intralogistics\" certificates"
+excerpt: "HAI ROBOTICS ( pioneer in autonomous case-handling robotic systems (ACR systems) has received two \"Best Intralogistics\" certificates from the world-renowned IFOY AWARD, with its HAIPICK ACR solutions after going through the world's largest and toughest intralogistics tests in the recent concluded IFOY test days."
 publishedDateTime: 2021-04-02T13:37:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-asia-greater-china-fe0450884b36ab2dc44540944e1fa6fd"
+originalUrl: "https://www.prnewswire.com/news-releases/hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates-301261411.html"
+webUrl: "https://www.prnewswire.com/news-releases/hai-robotics-the-shenzhen-based-acr-pioneer-receives-ifoy-award-2021-best-in-intralogistics-certificates-301261411.html"
 type: article
 quality: 50
 heat: 50
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1480252/Carton_picking_ACR_HAIPICK_A42N.jpg?p=facebook"
+    width: 1431
+    height: 749
     isCached: true
 
-secured: "SBCaQn93zq/nUiFtgMM906OrwuuXcGQAONtB02quXjLpjVf9d+LDzLspVGi7HuVzvE+KzSQtBFgQlWWJZ1pNnrMzpsJcN8x1aV2G2/C8Ew9ETbliGGQheJAIr6vS8V9LUnZuXtCCR2Hj1JHQJV/+yy3FLSO8e16CsyczBr29dOSc9ZZdcEJgSluZrMM8BeUnG3PblWIyPzJ0eSsGwHo4Z9SZ7e01OCBw5HK0bkR1qQuKC83/pywyAcATUqPBEWtQSHEo2WmiPZXJpxfel5fRG4g2a52r4TEZpMSiOuYjWYcWGl1zuGhrdhoSM1ZG0HIE8Lenbl9pdxaKZFO9gYXZ9YWchdfZHiDYwP/UezzS+as=;NJjkO+SmzI/6s7zLZeqHQQ=="
+secured: "9BhBK9yQgN1B69s/LrkK6niMoGIyv8RWvsTZPjMiKF8a40QgvO5VvV+H8w2o+HqZkqyHTySDIvaNpuJsfi1qnvDtEde03qiVald4oMLMOZwnvaTYmf3UCgFrbdJ3kVAEPxcjJ4c2eDQu0zqedSQgbjNcof8QjKvuZkW4ztuZ6L73zmrCIlxwEdyvnW6+yZjuqvE7CRPW1kIa4ipt6wb1r/4ONiN6v1H48R8t7dqjCVpyQS6lNf0++BbCXfWlzOTzzaoVnCnwE6KUHu8y0pDz+JqTU7TQGebEYIUMNJkoITZnKUjx6RuImM9K8sdpaMcUG0OGQ4xHWG0X8z9lzvLVnAzmaRHHgPzpml1ATu1ZN7Y=;eg5vMWc2I1yWkzZrlXI8Qg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/4/1/22361729/google-duple
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/4/1/22361729/google-duplex-ai-reservation-availability-49-us-states"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -28,6 +28,24 @@ images:
     width: 1400
     height: 933
     isCached: true
+
+related:
+  - title: "Google’s Eerily Lifelike AI Reservation Service Is Now Available in Almost Every State"
+    excerpt: "Google has expanded its AI-powered reservations service into every state except Louisiana after more than two years of technical improvements and adjustments to accommodate local laws. The search giant’s Duplex tool is able to call businesses,"
+    publishedDateTime: 2021-04-01T20:28:00Z
+    webUrl: "https://www.adweek.com/brand-marketing/googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state/"
+    ampWebUrl: "https://www.adweek.com/brand-marketing/googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state/amp/"
+    cdnAmpWebUrl: "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/brand-marketing/googles-eerily-lifelike-ai-reservation-service-is-now-available-in-almost-every-state/amp/"
+    type: article
+    provider:
+      name: Adweek
+      domain: adweek.com
+    quality: 149
+    images:
+      - url: "https://www.adweek.com/wp-content/uploads/2021/03/Cognitiv_Guide_031821_HP-652x367.jpg"
+        width: 652
+        height: 367
+        isCached: true
 
 secured: "qIEEJwAScRFaeEekhtXmWb+PoX5lf/KuM/h8TiLQkciePYw/grLmu+UkVrH0bO8f0dNBT9cWK7PMYqpx0vKvEvXOIa22/uMjIvpd9DLJfbAo0B9pz0DpOaXgPRwPkePJGm+CPGNGi83NU3YoPiF3axE7TGRINDHNZuoveTzLmCbgW5jkNQZ89AGvmC7JOU1YryTAlD+8OJjsC61rDv/LdAZqKKE85RvX1Zs2GJaI9PiuhgF3mX44GRO2zFQfNIHMFZOU2Y9OPiThVxD2PmZtuXadzocNpdv7olUouQ3+jmlrsQsmczARAku483owKMzCSbXI/umicufx4QHnq2jzZdg3J/DJB8nXvaVvbMttwPXLn7z7kIfvpz+nTp7aurZpNC2vTmzIGLwrMiXXLarF+3zI8sZwM8HrLYrvsIVCJhF2WeV/AYspXgYnNXYL2TbEmCdozqTumnntSdrkVJQbGkgzuZ4njx46hPg/TCWV4EsH47PKn4AqcoXlzELTRRlXEbwgyzGJFEHz3phlgXT3rQ==;A7rTNweCMnqLmPqPIFTGMA=="
 ---

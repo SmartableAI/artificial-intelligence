@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fintech Startup uses AI to increase Homeownership rate"
+    excerpt: "Fintech startup, Home Lending Pal with local presence uses artificial intelligence to gear up homeownership rate"
+    publishedDateTime: 2021-04-02T18:19:00Z
+    webUrl: "https://techstory.in/fintech-startup-uses-ai-to-increase-homeownership-rate/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/04/gettyimages-1129146997_1200xx7006-3949-0-0.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "+2DQl3gIvuasns86A6Ae9T7jNcA0/UNrWFg/MeHM0ZmPjWmZ1+E6keIANpGrlTfbVdvinm6DtJxR3Ieca3QkiDNfsARC1tdVIRZJQpXLswLyI7GJo42cfQSKP+fQhrhe82hexeqHNgASm9jF4pd/OGIQVV5Smt5QQ+8dbHVEhsz3bZUn2vMz1bPWVAHVOYI62EZ3IDa13zeMue2OALyft+w5tC95zW2GLKzUBbryVntEnhUslpgWpxKiznqcOwjTDa4/IJVtVaHCvgAAOywk7m94D0Q9xkW1WfRVQxD4WTjrgBDIE3zmaNfQoXWHpiEVlJGVq0+wxTx/73yTUF8OJRgcKDkgsHK7CTog34WvMOY=;xzVuGZlACI6Ypru4CebixA=="
 ---

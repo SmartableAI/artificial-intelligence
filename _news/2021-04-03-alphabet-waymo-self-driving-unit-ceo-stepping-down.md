@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Alphabet Waymo Self-Driving Unit CEO Stepping Down"
-excerpt: "The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who has headed Waymo for more than five years,"
-publishedDateTime: 2021-04-02T17:31:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2021-04-02/alphabet-waymo-self-driving-unit-ceo-stepping-down"
-webUrl: "https://money.usnews.com/investing/news/articles/2021-04-02/alphabet-waymo-self-driving-unit-ceo-stepping-down"
+title: "Alphabet Waymo self-driving unit CEO stepping down"
+excerpt: "DOW S&P 500 NASDAQ 100 WASHINGTON (Reuters) - The head of Alphabet Inc’s self-driving unit Waymo said on Friday he was stepping down as chief executive and would be replaced by a pair of executives. John Krafcik, a long-time auto industry executive who ..."
+publishedDateTime: 2021-04-02T17:34:00Z
+originalUrl: "https://www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4"
+webUrl: "https://www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4"
+ampWebUrl: "https://www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alphabet-waymo-self-driving-unit-ceo-stepping-down-2021-4?amp"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "The C.E.O. of the self-driving car company Waymo will step down after more than 5 years."
+    excerpt: "Waymo, the autonomous car unit of Google’s parent company, Alphabet, said John Krafcik is stepping down as chief executive after five and a half years at the helm. In a statement, Waymo said the chief executive duties will be divided between two current ..."
+    publishedDateTime: 2021-04-02T15:03:00Z
+    webUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.html"
+    ampWebUrl: "https://www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/04/02/business/waymo-john-krafcik.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 80
+    images:
+      - url: "https://static01.nyt.com/images/2021/04/02/business/02economy-briefing-waymo/02economy-briefing-waymo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Waymo Chief John Krafcik Resigns, Co-CEOs Tapped To Run Alphabet’s Self-Driving Tech Giant"
     excerpt: "The auto industry veteran who’s run Waymo for over five years is being replaced by two high-ranking company executives."
     publishedDateTime: 2021-04-02T16:41:00Z
@@ -39,21 +57,23 @@ related:
         width: 1200
         height: 846
         isCached: true
-  - title: "Tech giant CEOs willing to set AI standards"
-    excerpt: "The CEOs of Silicon Valley tech giants Facebook, Twitter, and Google have all agreed to allow more scrutiny into how their algorithms instruct the flow of information online. During a US congress hearing into disinformation on social media,"
-    publishedDateTime: 2021-03-29T02:17:00Z
-    webUrl: "https://ia.acs.org.au/article/2021/tech-giant-ceos-willing-to-set-ai-standards.html"
+  - title: "Head of Google’s self-driving car project steps down"
+    excerpt: "John Krafcik, chief executive of the Google self-driving project Waymo, has stepped down from the $30bn group after more than five years and will be replaced by two top executives, the company said on Friday."
+    publishedDateTime: 2021-04-02T19:45:00Z
+    webUrl: "https://www.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
+    ampWebUrl: "https://amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/dc6e4693-ef3f-4bce-90e5-1bcdeb67c63d"
     type: article
     provider:
-      name: acs.org.au
-      domain: acs.org.au
-    quality: 39
+      name: The Financial Times
+      domain: ft.com
+    quality: 44
     images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2021/twitter%20google%20facebook%20logos.jpg"
-        width: 811
-        height: 457
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff84bd576-85be-43bf-9973-82ca4bca6209.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
 
-secured: "P/A6Nk1pHXbQLjWGht+8M7G0Rjvf8L1PZ5e+xZc2WlVnPG5qY+tuZdotEeCy8alxZ5OyVT9FYQLlRm0cLaXrK9FJ/raLzEky+ELMZpeXFaxQ3NyE25TchqGJzy6Q4DC/0LwSyGGFY/jhxb8WEddhNsrtWBSkBqJe5hN9NWpRsBHvM9s6ZSzB4tb6Z/3QJZiX5d9dUXLSPirwVtOh4ocjQvQx1A3HyQNUy5QUunui+hGxCxvefolh9zGvVTKbUjGFMoIhequxBUOA9obgEQVHB+cGUZnRNeCYDWmwyOsU+Lr248uhWkIROVKStwp65A0yjND4Z88tEywB4oziY4fA2qUD/HcNgWh4fYOl3AQeuExyMvOlzNU6j2WqNCa6vwgv2LZB21k4c9JDQokU4Kfc6sIk0rfZ48FzzuPXg05QKqDhcN4xjdseJaMOFCTymWVbAHmQc7pTwz8vNSGwQnW5irTWU3/94akhCoLiOSv02D4LblbpQfjk8XeIqbGCD41zoiMRCaGYblJ/9Xkr+kGSfg==;Vnt/xI/m8O00+eb2W7/zZA=="
+secured: "wTrQLwFKldQZ9laCntP6AP6zktE/jfw92TspKGI20+xClQmPSmLny9l/JcSC8mJTvvNgnE6nabG7/0svq80tRzGu1v6NQr0un9DAcbyfMN1aTA2YUknzy5IOIVhIBHZms5cFE+NMRKstpyQ3Y7xJL2weJPfqwtxye7RX/qgr7x5bUsUBHEhUkZAfACia/CDaeqxLRaI6afQ9DOhNHQR7HozWqgCeNZ5u7hv3XyoHWz9/1yUwXkQY3fphGqTA7u+5el94pmy999/D9ZIQT8JKwGdf1s1jbAlp9GMmHgHC3ACtFIJGo8Y3HAYnHYMTUy5nm1n5yBoKa7AScqT2xzVTfuY+rXFNMY+pHh0F2jvVyOM=;SirReWSa0iDjkYwQGfTxbw=="
 ---
 

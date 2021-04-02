@@ -7,7 +7,7 @@ originalUrl: "https://www.wishtv.com/news/business/american-airlines-wants-facia
 webUrl: "https://www.wishtv.com/news/business/american-airlines-wants-facial-recognition/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 650
     height: 366
     isCached: true
+
+related:
+  - title: "Army Wants to Automate Base Access With Facial Recognition at Drive-Thru Checkpoints"
+    excerpt: "The proposed system uses a reliable form of facial biometric identification but would need to control for variables like weather and low light."
+    publishedDateTime: 2021-04-02T18:05:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/04/army-wants-automate-base-access-facial-recognition-drive-thru-checkpoints/173113/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 32
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2021/04/02/NGface20210402/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "kZyKT+43vVtE2AVwZdzCcn9cU6PiwbOm3Ac7PhrMb/YfwASxVWZ1cWwq4KMw3HgxA+euRL0oadBK3UrX56ipIjsJyPGsXL1rcXnWBt/Ct3QeNCzYOf8fX2xMmXDeoaHKz42Qizz2SuS6jfK4zZtYvJC34f1rglVINp9Bk/JGGYRrWiGxEXpqqVAnqZgJiysWodAb/PMikKX2HcQaUcsFcUY3n1c2hMX/Nt42mupO2FOR/ZLbGzo2Brfg9WwPIfhprfm8lFT1gKSEN4Xl4TmEuf/+jtIESn68MM8Ki9DzkQUbxc4LClI2DO+gE/UOZAamC81USjspNtQir4nJyZ6oVvjmh69VZgLMb58XdyDqEiI=;N+5zYd9cEKLFOTH+I24fhA=="
 ---

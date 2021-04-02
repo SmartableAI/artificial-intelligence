@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Companies are overestimating how responsible they’re being with AI"
-    excerpt: "Steven Mills, BCG GAMMA's chief ethics officer, says of the survey results: The results were surprising in that so many organizations are overly optimistic about the maturity of their responsible AI implementation. While many organizations are making ..."
-    publishedDateTime: 2021-03-31T12:00:00Z
-    webUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai"
-    ampWebUrl: "https://diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/companies-are-overestimating-how-responsible-theyre-being-ai?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
-    images:
-      - url: "http://diginomica.com/sites/default/files/images/2020-04/ethics.png"
-        width: 1404
-        height: 930
-        isCached: true
   - title: "KPMG's New Tax Data Reader Tool Automates Analysis Of Financial Data, Simplifying Tax Filing Season"
     excerpt: "As companies continue to struggle with synthesizing and understanding enormous amounts of data, especially financial data, and remaining tax compliant, KPMG LLP today announced it was granted U.S. Patent No."
     publishedDateTime: 2021-04-01T14:06:00Z
